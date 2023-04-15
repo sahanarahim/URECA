@@ -1,0 +1,11 @@
+['26011556', 'L-type lectin receptor kinases (LecRK) are potential immune receptors. Here, we  characterized two closely-related Arabidopsis LecRK, LecRK-IX.1 and LecRK-IX.2,  of which T-DNA insertion mutants showed compromised resistance to Phytophthora  brassicae and Phytophthora capsici, with double mutants showing additive  susceptibility. Overexpression of LecRK-IX.1 or LecRK-IX.2 in Arabidopsis and  transient expression in Nicotiana benthamiana increased Phytophthora resistance  but also induced cell death. Phytophthora resistance required both the lectin  domain and kinase activity, but for cell death, the lectin domain was not needed.  Silencing of the two closely related mitogen-activated protein kinase genes  NbSIPK and NbNTF4 in N. benthamiana completely abolished LecRK-IX.1-induced cell  death but not Phytophthora resistance. Liquid chromatography-mass spectrometry  analysis of protein complexes coimmunoprecipitated in planta with LecRK-IX.1 or  LecRK-IX.2 as bait, resulted in the identification of the N. benthamiana ABC  transporter NbPDR1 as a potential interactor of both LecRK. The closest homolog  of NbPDR1 in Arabidopsis is ABCG40, and coimmunoprecipitation experiments showed  that ABCG40 associates with LecRK-IX.1 and LecRK-IX.2 in planta. Similar to the  LecRK mutants, ABCG40 mutants showed compromised Phytophthora resistance. This  study shows that LecRK-IX.1 and LecRK-IX.2 are Phytophthora resistance components  that function independent of each other and independent of the cell-death  phenotype. They both interact with the same ABC transporter, suggesting that they  exploit similar signal transduction pathways.', '2015 Sep', 'Mol Plant Microbe Interact', '10.1094/MPMI-02-15-0025-R', 'Govers']
+
+LecRK-IX.1: !affects! Phytophthora resistance
+LecRK-IX.2: !affects! Phytophthora resistance
+LecRK-IX.1: !interacts with! NbPDR1
+LecRK-IX.2: !interacts with! NbPDR1
+NbSIPK: !represses! LecRK-IX.1-induced cell death
+NbNTF4: !represses! LecRK-IX.1-induced cell death
+ABCG40: !affects! Phytophthora resistance
+ABCG40: !interacts with! LecRK-IX.1
+ABCG40: !interacts with! LecRK-IX.2

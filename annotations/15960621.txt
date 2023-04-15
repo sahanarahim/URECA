@@ -1,0 +1,11 @@
+['15960621', 'Auxin response factors (ARFs) bind auxin response promoter elements and mediate  transcriptional responses to auxin. Five of the 22 ARF genes in Arabidopsis  thaliana encode ARFs with glutamine-rich middle domains. Four of these can  activate transcription and have been ascribed developmental functions. We show  that ARF19, the fifth Q-rich ARF, also activates transcription. Mutations in  ARF19 have little effect on their own, but in combination with mutations in  NPH4/ARF7, encoding the most closely related ARF, they cause several phenotypes  including a drastic decrease in lateral and adventitious root formation and a  decrease in leaf cell expansion. These results indicate that auxin induces  lateral roots and leaf expansion by activating NPH4/ARF7 and ARF19. Auxin induces  the ARF19 gene, and NPH4/ARF7 and ARF19 together are required for expression of  one of the arf19 mutant alleles, suggesting that a positive feedback loop  regulates leaf expansion and/or lateral root induction.', '2005 Jul', 'Plant J', '10.1111/j.1365-313X.2005.02432.x', 'Reed']
+
+Auxin: !induces! ARF19 
+ARF19: !activates! transcription 
+NPH4/ARF7: !activates! transcription 
+Auxin: !induces! NPH4/ARF7 
+NPH4/ARF7: !induces! ARF19 
+Mutations: !decrease! lateral root formation 
+Mutations: !decrease! leaf cell expansion 
+NPH4/ARF7: !regulates! leaf expansion 
+NPH4/ARF7: !regulates! lateral root induction

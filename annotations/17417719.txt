@@ -1,0 +1,10 @@
+['17417719', 'Machinery for the assembly of the iron-sulfur ([Fe-S]) clusters that function as  cofactors in a wide variety of proteins has been identified in microbes, insects,  and animals. Homologs of the genes involved in [Fe-S] cluster biogenesis have  recently been found in plants, as well, and point to the existence of two  distinct systems in these organisms, one located in plastids and one in  mitochondria. Here we present the first biochemical confirmation of the activity  of two components of the mitochondrial machinery in Arabidopsis, AtNFS1 and  AtISU1. Analysis of the expression patterns of the corresponding genes, as well  as AtISU2 and AtISU3, and the phenotypes of plants in which these genes are up or  down-regulated are consistent with a role for the mitochondrial [Fe-S] assembly  system in the maturation of proteins required for normal plant development.', '2007 Jun', 'Plant Mol Biol', '10.1007/s11103-007-9147-x', 'Winkel']
+
+AtNFS1: !synthesizes! [Fe-S] clusters 
+AtISU1: !synthesizes! [Fe-S] clusters 
+AtISU2: !enhances! protein maturation 
+AtISU3: !enhances! protein maturation 
+plastids: !localizes to! [Fe-S] cluster biogenesis 
+mitochondria: !localizes to! [Fe-S] cluster biogenesis 
+[Fe-S] clusters: !affects! Process 
+protein maturation: !affects! Process

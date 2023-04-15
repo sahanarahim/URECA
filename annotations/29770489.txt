@@ -1,0 +1,9 @@
+['29770489', 'In plants, melatonin is a potent bioactive molecule involved in the response  against various biotic and abiotic stresses. However, little is known of its  defensive role against high light (HL) stress. In this study, we found that  melatonin was transiently induced in response to HL stress in Arabidopsis  thaliana with a simultaneous increase in the expression of melatonin biosynthetic  genes, including serotonin N-acetyltransferase1 (SNAT1). Transient induction of  melatonin was also observed in the flu mutant, a singlet oxygen ((1) O(2)  )-producing mutant, upon light exposure, suggestive of melatonin induction by  chloroplastidic (1) O(2) against HL stress. An Arabidopsis snat1 mutant was  devoid of melatonin induction upon HL stress, resulting in high susceptibility to  HL stress. Exogenous melatonin treatment mitigated damage caused by HL stress in  the snat1 mutant by reducing O(2)(-) production and increasing the expression of  various ROS-responsive genes. In analogy, an Arabidopsis SNAT1-overexpressing  line showed increased tolerance of HL stress concomitant with a reduction in  malondialdehyde and ion leakage. A complementation line expressing an Arabidopsis  SNAT1 genomic fragment in the snat1 mutant completely restored HL stress  susceptibility in the snat1 mutant to levels comparable to that of wild-type  Col-0 plants. The results of the analysis of several Arabidopsis genetic lines  reveal for the first time at the genetic level that melatonin is involved in  conferring HL stress tolerance in plants.', '2018 Oct', 'J Pineal Res', '10.1111/jpi.12504', 'ORCID:']
+
+melatonin: !induces! SNAT1 
+SNAT1: !synthesizes! melatonin 
+HL stress: !induces! melatonin 
+snat1 mutant: !lacks! melatonin induction 
+exogenous melatonin: !mitigates! damage caused by HL stress 
+SNAT1-overexpressing line: !increases! tolerance of HL stress 
+snat1 mutant: !restored! HL stress susceptibility

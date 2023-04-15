@@ -1,0 +1,13 @@
+['15772281', 'Mutations at five loci named PEANUT1-5 (PNT) were identified in a genetic screen  for radially swollen embryo mutants. pnt1 cell walls showed decreased crystalline  cellulose, increased pectins, and irregular and ectopic deposition of pectins,  xyloglucans, and callose. Furthermore, pnt1 pollen is less viable than the wild  type, and pnt1 embryos were delayed in morphogenesis and showed defects in shoot  and root meristems. The PNT1 gene encodes the Arabidopsis thaliana homolog of  mammalian PIG-M, an endoplasmic reticulum-localized mannosyltransferase that is  required for synthesis of the glycosylphosphatidylinositol (GPI) anchor. All five  pnt mutants showed strongly reduced accumulation of GPI-anchored proteins,  suggesting that they all have defects in GPI anchor synthesis. Although the  mutants are seedling lethal, pnt1 cells are able to proliferate for a limited  time as undifferentiated callus and do not show the massive deposition of ectopic  cell wall material seen in pnt1 embryos. The different phenotype of pnt1 cells in  embryos and callus suggest a differential requirement for GPI-anchored proteins  in cell wall synthesis in these two tissues and points to the importance of GPI  anchoring in coordinated multicellular growth.', '2005 Apr', 'Plant Cell', '10.1105/tpc.105.031815', 'Somerville']
+
+PNT1: !encodes! PIG-M 
+PIG-M: !synthesizes! GPI anchor 
+pnt1: !shows decreased! crystalline cellulose 
+pnt1: !increases! pectins 
+pnt1: !deposits! xyloglucans, pectins, callose 
+pnt1: !reduces! pollen viability 
+pnt1: !delays! morphogenesis 
+pnt1: !causes defects in! shoot and root meristems 
+pnt1: !reduces accumulation of! GPI-anchored proteins 
+pnt1: !proliferates as! undifferentiated callus 
+GPI-anchored proteins: !important for! coordinated multicellular growth

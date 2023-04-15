@@ -1,0 +1,9 @@
+['7743940', 'LEUNIG was identified in a genetic screen designed to isolate second-site  enhancer mutations of the floral homeotic mutant apetala2-1. leunig mutations not  only enhance apetala2, but by themselves cause a similar but less-pronounced  homeotic transformation than apetala2 mutations. leunig flowers have sepals that  are transformed toward stamens and carpels, and petals that are either staminoid  or absent. In situ hybridization experiments with leunig mutants revealed altered  expression pattern of the floral homeotic genes APETALA1, APETALA3, PISTILLATA,  and AGAMOUS. Double mutants of leunig and agamous exhibited a phenotype similar  to agamous single mutants, indicating that agamous is epistatic to leunig. Our  analysis suggests that a key role of LEUNIG is to negatively regulate AGAMOUS  expression in the first two whorls of the Arabidopsis flower.', '1995 Apr', 'Development', '10.1242/dev.121.4.975', 'Meyerowitz']
+
+LEUNIG: !enhances! apetala2
+LEUNIG: !alters expression of! APETALA1
+LEUNIG: !alters expression of! APETALA3
+LEUNIG: !alters expression of! PISTILLATA
+LEUNIG: !alters expression of! AGAMOUS
+LEUNIG: !epistatic to! agamous
+LEUNIG: !negatively regulates! AGAMOUS

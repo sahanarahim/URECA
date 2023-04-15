@@ -1,0 +1,11 @@
+['24923602', 'ACCELERATED CELL DEATH6 (ACD6) is a multipass membrane protein with an ankyrin  domain that acts in a positive feedback loop with the defense signal salicylic  acid (SA). This study implemented biochemical approaches to infer changes in ACD6  complexes and localization. In addition to forming endoplasmic reticulum (ER)-  and plasma membrane (PM)-localized complexes, ACD6 forms soluble complexes, where  it is bound to cytosolic HSP70, ubiquitinated, and degraded via the proteasome.  Thus, ACD6 constitutively undergoes ER-associated degradation. During SA  signaling, the soluble ACD6 pool decreases, whereas the PM pool increases.  Similarly, ACD6-1, an activated version of ACD6 that induces SA, is present at  low levels in the soluble fraction and high levels in the PM. However, ACD6  variants with amino acid substitutions in the ankyrin domain form aberrant,  inactive complexes, are induced by a SA agonist, but show no PM localization. SA  signaling also increases the PM pools of FLAGELLIN SENSING2 (FLS2) and  BRI1-ASSOCIATED RECEPTOR KINASE 1 (BAK1). FLS2 forms complexes ACD6; both FLS2  and BAK1 require ACD6 for maximal accumulation at the PM in response to SA  signaling. A plausible scenario is that SA increases the efficiency of productive  folding and/or complex formation in the ER, such that ACD6, together with FLS2  and BAK1, reaches the cell surface to more effectively promote immune responses.', '2014 Aug', 'Mol Plant', '10.1093/mp/ssu072', 'Greenberg']
+
+ACD6: !forms complexes with! FLS2 
+ACD6: !localizes to! ER 
+ACD6: !localizes to! PM 
+ACD6: !interacts with! HSP70 
+ACD6: !degraded via! proteasome 
+ACD6-1: !present at! low levels in soluble fraction 
+ACD6-1: !present at! high levels in PM 
+FLS2: !requires! ACD6 for maximal accumulation at PM 
+SA: !increases efficiency of! productive folding and/or complex formation in ER

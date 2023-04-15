@@ -1,0 +1,10 @@
+['10377993', 'Peptides corresponding to the most conserved domain of eubacterial flagellin act  as potent elicitors in cells of different plant species. In intact Arabidposis  thaliana seedlings these peptides (flg22 and flg15) caused callose deposition,  induction of genes coding for pathogenesis-related proteins and a strong  inhibition of growth. Half-maximal growth inhibition occurred at peptide  concentrations of approximately 100 nM. In contrast, peptides representing the  corresponding flagellin domains of the plant-associated bacteria A. tumefaciens  and R. meliloti were inactive even at concentrations of 10 microM. With the  exception of Ws-0, all ecotypes of A. thaliana tested were sensitive to flg22.  Crosses of Ws-0 with the sensitive ecotypes Col-0 and La-er, respectively,  resulted in sensitive F1 seedlings. In the F2 generation of both crosses,  sensitivity segregated as a single trait with markers of chromosome 5 and a ratio  of 3:1. Dominance of the locus sensing flagellin, termed FLS-1, suggests that it  encodes an element which is important for the perception of the flagellin signal.', '1999 May', 'Plant J', '10.1046/j.1365-313x.1999.00451.x', 'Boller']
+
+flg22: !elicits! callose deposition 
+flg22: !induces! pathogenesis-related proteins 
+flg22: !inhibits! growth 
+A. tumefaciens/R. meliloti peptides: !inactive! at 10 microM 
+Ws-0: !insensitive! to flg22 
+Col-0/La-er: !sensitive! to flg22 
+FLS-1: !dominant! trait 
+FLS-1: !encodes! element for perception of flagellin signal

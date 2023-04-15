@@ -1,0 +1,9 @@
+['11826298', 'The endodermal cells of the shoot are thought to be the gravity-sensing cells in  Arabidopsis. The amyloplasts in the endodermis that sediment in the direction of  gravity may act as statoliths. Endodermis-specific expression of SGR2 and ZIG  using the SCR promoter could complement the abnormal shoot gravitropism of the  sgr2 and zig mutants, respectively. The abnormalities in amyloplast sedimentation  observed in both mutants recovered simultaneously. These results indicate that  both genes in the endodermal cell layer are crucial for shoot gravitropism. ZIG  encodes AtVTI11, which is a SNARE involved in vesicle transport to the vacuole.  The fusion protein of SGR2 and green fluorescent protein localized to the vacuole  and small organelles. These observations indicate that ZIG and SGR2 are involved  in the formation and function of the vacuole, a notion supported by the results  of subcellular analysis of the sgr2 and zig mutants with electron microscopy.  These results strongly suggest that the vacuole participates in the early events  of gravitropism and that SGR2 and ZIG functions are involved.', '2002 Jan', 'Plant Cell', '10.1105/tpc.010216', 'Tasaka']
+
+SGR2: !localizes to! vacuole 
+ZIG: !encodes! AtVTI11 
+SGR2: !interacts with! ZIG 
+SGR2: !enhances! shoot gravitropism 
+ZIG: !synthesizes! SNARE 
+SGR2: !represses! abnormal shoot gravitropism 
+ZIG: !affects! vesicle transport

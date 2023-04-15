@@ -1,0 +1,17 @@
+['25658099', 'Post-transcriptional control is nowadays considered a main checking point for  correct gene regulation during development, and RNA binding proteins actively  participate in this process. Arabidopsis thaliana FLOWERING LOCUS WITH KH DOMAINS  (FLK) and PEPPER (PEP) genes encode RNA-binding proteins that contain three  K-homology (KH)-domain, the typical configuration of Poly(C)-binding  ribonucleoproteins (PCBPs). We previously demonstrated that FLK and PEP interact  to regulate FLOWERING LOCUS C (FLC), a central repressor of flowering time. Now  we show that FLK and PEP also play an important role in the maintenance of the  C-function during floral organ identity by post-transcriptionally regulating the  MADS-box floral homeotic gene AGAMOUS (AG). Previous studies have indicated that  the KH-domain containing protein HEN4, in concert with the CCCH-type RNA binding  protein HUA1 and the RPR-type protein HUA2, facilitates maturation of the AG  pre-mRNA. In this report we show that FLK and PEP genetically interact with HEN4,  HUA1, and HUA2, and that the FLK and PEP proteins physically associate with HUA1  and HEN4. Taken together, these data suggest that HUA1, HEN4, PEP and FLK are  components of the same post-transcriptional regulatory module that ensures normal  processing of the AG pre-mRNA. Our data better delineates the roles of PEP in  plant development and, for the first time, links FLK to a morphogenetic process.', '2015 Feb', 'PLoS Genet', '10.1371/journal.pgen.1004983', 'Vera']
+
+FLK: !interacts with! PEP
+PEP: !regulates! FLC
+FLK: !genetically interacts with! HEN4
+FLK: !genetically interacts with! HUA1
+FLK: !genetically interacts with! HUA2
+PEP: !genetically interacts with! HEN4
+PEP: !genetically interacts with! HUA1
+PEP: !genetically interacts with! HUA2
+HEN4: !facilitates maturation of! AG pre-mRNA
+HUA1: !facilitates maturation of! AG pre-mRNA
+HUA2: !facilitates maturation of! AG pre-mRNA
+FLK: !physically associates with! HUA1
+FLK: !physically associates with! HEN4
+PEP: !physically associates with! HUA1
+PEP: !physically associates with! HEN4

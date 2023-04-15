@@ -1,0 +1,11 @@
+['8061521', 'Metallothioneins (MTs) are cysteine-rich proteins required for heavy metal  tolerance in animals and fungi. Two cDNAs encoding proteins with homology to  animal and fungal MTs have been isolated from Arabidopsis. The genes represented  by these cDNAs are referred to as MT1 and MT2. When expressed in an MT-deficient  (cup1 delta) mutant of yeast, both MT1 and MT2 complemented the cup1 delta  mutation, providing a high level of resistance to CuSO4 and moderate resistance  to CdSO4. Although the MT-deficient yeast was not viable in the presence of  either 300 microM CuSO4 or 5 microM CdSO4, cells expressing MT1 were able to grow  in medium supplemented with 3 mM CuSO4 and 10 microM CdSO4, and those expressing  MT2 grew in the presence of 3 mM CuSO4 and 100 microM CdSO4. In plants, MT1 mRNA  was more abundant in roots and dark-grown seedlings than in leaves. In contrast,  MT2 mRNA accumulated more in leaves than in either roots or darkgrown seedlings.  MT2 mRNA was strongly induced in seedlings by CuSO4, but only slightly by CdSO4  or ZnSO4. However, MT1 mRNA was induced by CuSO4 in excised leaves that were  submerged in medium. These results indicated that Arabidopsis MT genes are  involved in copper tolerance. Plants also synthesized metal binding  phytochelatins (poly[gamma-glutamylcysteine]glycine) when exposed to heavy  metals. The results presented here argue against the hypothesis that  phytochelatins are the sole molecules involved in heavy metal tolerance in  plants. We conclude that Arabidopsis MT1 and MT2 are functional homologs of yeast  MT.', '1994 Jun', 'Plant Cell', '10.1105/tpc.6.6.875', 'Goldsbrough']
+
+MT1: !complements! cup1 delta mutation 
+MT2: !complements! cup1 delta mutation 
+MT1: !accumulates more in! roots and dark-grown seedlings 
+MT2: !accumulates more in! leaves 
+MT2: !induced by! CuSO4 
+MT1: !induced by! CuSO4 in excised leaves 
+MTs: !involved in! copper tolerance 
+MTs: !argue against! phytochelatins as sole molecules involved in heavy metal tolerance 
+MT1/MT2: !functional homologs of! yeast MT

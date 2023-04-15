@@ -1,0 +1,8 @@
+['13678526', 'The oxidation and isomerization of disulfide bonds is necessary for the growth of  all organisms. In yeast, the oxidative folding of secretory pathway proteins is  catalyzed by protein disulfide isomerase (PDI), which requires Ero1p (endoplasmic  reticulum oxidoreductin) for its own oxidation. In Homo sapiens, two homologues  of Ero1p, Ero1-Lalpha and Ero1-Lbeta, have been cloned. Both Ero1-Lalpha and  Ero1-Lbeta interact via disulfide bonds with PDI and support the oxidation of  immunoglobulin light chains. However, the function of Ero proteins in plants has  not yet been analyzed. In this article, we report the cloning of the two Ero1p  homologues present in Arabidopsis thaliana, demonstrating that one of the cDNAs  has a shorter terminal exon than predicted and differs from the annotated  sequence found in the genome database. Sequence analysis of the Arabidopsis  endoplasmic reticulum oxidoreductins (AEROs) reveals that both AERO1 and AERO2  are more closely related to each other than to either of the human Eros. Both in  vitro translated AERO proteins are targeted to the endoplasmic reticulum and  glycosylated. The ability to use a genetically tractable multicellular organism  in combination with biochemical approaches should further our understanding of  redox networks and Ero function in both plants and animals.', '2003 Aug', 'Antioxid Redox Signal', '10.1089/152308603768295122', 'Benham']
+
+Ero1p: !interacts with! PDI 
+Ero1-Lalpha: !interacts with! PDI 
+Ero1-Lbeta: !interacts with! PDI 
+AERO1: !more closely related to! AERO2 
+AERO1: !targeted to! endoplasmic reticulum 
+AERO2: !targeted to! endoplasmic reticulum

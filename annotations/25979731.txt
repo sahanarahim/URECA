@@ -1,0 +1,8 @@
+['25979731', 'Potyviruses are important plant pathogens that rely on many plant cellular  processes for successful infection. TOR (target of rapamycin) signalling is a key  eukaryotic energy-signalling pathway controlling many cellular processes such as  translation and autophagy. The dependence of potyviruses on active TOR signalling  was examined. Arabidopsis lines downregulated for TOR by RNAi were challenged  with the potyviruses watermelon mosaic virus (WMV) and turnip mosaic virus  (TuMV). WMV accumulation was found to be severely altered while TuMV accumulation  was only slightly delayed. In another approach, using AZD-8055, an active site  inhibitor of the TOR kinase, WMV infection was found to be strongly affected.  Moreover, AZD-8055 application can cure WMV infection. In contrast, TuMV  infection was not affected by AZD-8055. This suggests that potyviruses have  different cellular requirements for active plant TOR signalling.', '2015 Sep', 'J Gen Virol', '10.1099/vir.0.000186', 'Caranta']
+
+TOR: !controls! cellular processes 
+WMV: !accumulation altered by! TOR downregulation 
+TuMV: !accumulation delayed by! TOR downregulation 
+AZD-8055: !affects! WMV infection 
+AZD-8055: !cures! WMV infection 
+TuMV: !unaffected by! AZD-8055

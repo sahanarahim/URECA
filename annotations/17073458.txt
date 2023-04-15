@@ -1,0 +1,10 @@
+['17073458', 'Cryptochromes are FAD-based blue-light photoreceptors that regulate growth and  development in plants and the circadian clock in animals. Arabidopsis thaliana  and humans possess two cryptochromes. Recently, it was found that Arabidopsis  cryptochrome 1 (AtCry1) binds ATP and exhibits autokinase activity that is  simulated by blue light. Similarly, it was reported that human cryptochrome 1  (HsCry1) exhibited autophosphorylation activity under blue light. To test the  generality of light stimulated kinase function of cryptochromes, we purified  AtCry1, AtCry2, HsCry1, and HsCry2 and probed them for kinase activity under a  variety of conditions. We find that AtCry1, which contains near stoichiometric  amounts of FAD and human HsCry1 and HsCry2 (which contain only trace amounts of  FAD), has autokinase activity, but AtCry2, which also contains stoichiometric  amounts of FAD, does not. Finally, we find that the kinase activity of AtCry1 is  not significantly affected by light or the redox status of the flavin cofactor.', '2006 Nov 7', 'Biochemistry', '10.1021/bi061556n', 'Sancar']
+
+AtCry1: !binds! ATP 
+AtCry1: !exhibits autokinase activity! simulated by blue light 
+HsCry1: !exhibits autophosphorylation activity! under blue light 
+AtCry1: !contains! near stoichiometric amounts of FAD 
+HsCry1, HsCry2: !contain! trace amounts of FAD 
+AtCry1: !has autokinase activity! 
+AtCry2: !does not have autokinase activity! 
+AtCry1: !kinase activity! !not affected! by light or redox status of flavin cofactor

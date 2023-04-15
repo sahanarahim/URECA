@@ -1,0 +1,9 @@
+['21826108', 'The endomembrane system is a complex and dynamic intracellular trafficking  network. It is very challenging to track individual vesicles and their cargos in  real time; however, affinity purification allows vesicles to be isolated in their  natural state so that their constituent proteins can be identified. Pioneering  this approach in plants, we isolated the SYP61 trans-Golgi network compartment  and carried out a comprehensive proteomic analysis of its contents with only  minimal interference from other organelles. The proteome of SYP61 revealed the  association of proteins of unknown function that have previously not been  ascribed to this compartment. We identified a complete SYP61 SNARE complex,  including regulatory proteins and validated the proteome data by showing that  several of these proteins associated with SYP61 in planta. We further identified  the SYP121-complex and cellulose synthases, suggesting that SYP61 plays a role in  the exocytic trafficking and the transport of cell wall components to the plasma  membrane. The presence of proteins of unknown function in the SYP61 proteome  including ECHIDNA offers the opportunity to identify novel trafficking components  and cargos. The affinity purification of plant vesicles in their natural state  provides a basis for further analysis and dissection of complex endomembrane  networks. The approach is widely applicable and can afford the study of several  vesicle populations in plants, which can be compared with the SYP61 vesicle  proteome.', '2012 Feb', 'Cell Res', '10.1038/cr.2011.129', 'Raikhel']
+
+SYP61: !contains! SNARE complex 
+SYP61: !contains! regulatory proteins 
+SYP61: !contains! cellulose synthases 
+SYP61: !contains! proteins of unknown function 
+ECHIDNA: !associated with! SYP61 
+affinity purification: !isolates! vesicles 
+proteomic analysis: !identifies! proteins

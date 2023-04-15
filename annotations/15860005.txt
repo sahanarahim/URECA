@@ -1,0 +1,9 @@
+['15860005', 'A mutant called defective glycosylation1-1 (dgl1-1) was identified in Arabidopsis  based on a growth defect of the dark-grown hypocotyl and an abnormal composition  of the non-cellulosic cell wall polysaccharides. dgl1-1 is altered in a protein  ortholog of human OST48 or yeast WBP1, an essential protein subunit of the  oligosaccharyltransferase (OST) complex, which is responsible for the transfer in  the ER of the N-linked glycan precursor onto Asn residues of candidate proteins.  Consistent with the known function of the OST complex in eukaryotes, the dgl1-1  mutation led to a reduced N-linked glycosylation of the ER-resident protein  disulfide isomerase. A second more severe mutant (dgl1-2) was embryo-lethal.  Microscopic analysis of dgl1-1 revealed developmental defects including reduced  cell elongation and the collapse and differentiation defects of cells in the  central cylinder. These defects were accompanied by changes in the non-cellulosic  polysaccharide composition, including the accumulation of ectopic callose.  Interestingly, in contrast to other dwarf mutants that are altered in early steps  of the N-glycan processing, dgl1-1 did not exhibit a cellulose deficiency.  Together, these results confirm the role of DGL1 in N-linked glycosylation, cell  growth and differentiation in plants.', '2005 May', 'Plant J', '10.1111/j.1365-313X.2005.02392.x', 'Lerouge']
+
+dgl1-1: !affects! Growth defect 
+dgl1-1: !alters! OST48/WBP1 
+OST48/WBP1: !responsible for! Transfer of N-linked glycan precursor 
+dgl1-1: !leads to! Reduced N-linked glycosylation 
+dgl1-1: !causes! Developmental defects 
+dgl1-1: !results in! Changes in non-cellulosic polysaccharide composition 
+dgl1-1: !confirms role of! DGL1 in N-linked glycosylation, cell growth and differentiation

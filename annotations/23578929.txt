@@ -1,0 +1,8 @@
+['23578929', 'In plants, the cambium and procambium are meristems from which vascular tissue is  derived. In contrast to most plant cells, stem cells within these tissues are  thin and extremely long. They are particularly unusual as they divide down their  long axis in a highly ordered manner, parallel to the tangential axis of the  stem. CLAVATA3-LIKE/ESR-RELATED 41 (CLE41) and PHLOEM INTERCALATED WITH XYLEM  (PXY) are a multifunctional ligand-receptor pair that regulate vascular cell  division, vascular organisation and xylem differentiation in vascular tissue. A  transcription factor gene, WUSCHEL HOMEOBOX RELATED 4 (WOX4) has been shown to  act downstream of PXY. Here we show that WOX4 acts redundantly with WOX14 in the  regulation of vascular cell division, but that these genes have no function in  regulating vascular organisation. Furthermore, we identify an interaction between  PXY and the receptor kinase ERECTA (ER) that affects the organisation of the  vascular tissue but not the rate of cell division, suggesting that cell division  and vascular organisation are genetically separable. Our observations also  support a model whereby tissue organisation and cell division are integrated via  PXY and ER signalling, which together coordinate development of different cell  types that are essential for normal stem formation.', '2013 May', 'Development', '10.1242/dev.091314', 'Turner']
+
+CLE41: !regulates! vascular cell division
+PXY: !regulates! vascular organisation
+WOX4: !acts downstream of! PXY
+WOX14: !acts redundantly with! WOX4
+PXY: !interacts with! ER
+ER: !affects! vascular tissue organisation

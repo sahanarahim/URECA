@@ -1,0 +1,6 @@
+['12527366', 'Complementation of a yeast acr1 mutant carrying a deletion of the  succinate/fumarate carrier gene enabled functional identification of a  mitochondrial succinate translocator from Arabidopsis thaliana (AtmSFC1). Thus  complementation of yeast mutants is applicable also for identification and  characterization of organellar transporters. Reverse transcription polymerase  chain reaction and promoter-GUS fusion showed expression of AtmSFC1 in 2 day old  dark grown seedlings, which declined in cotyledons during further development,  consistent with a role in export of fumarate for gluconeogenesis during lipid  mobilization at early germination of Arabidopsis seeds. In mature plants,  expression was found in developing and germinating pollen, suggesting a role in  ethanolic fermentation.', '2003 Jan 16', 'FEBS Lett', '10.1016/s0014-5793(02)03782-1', 'Frommer']
+
+AtmSFC1: !complements! yeast acr1 mutant 
+AtmSFC1: !expresses in! 2 day old dark grown seedlings 
+AtmSFC1: !declines in! cotyledons 
+AtmSFC1: !expresses in! developing and germinating pollen

@@ -1,0 +1,7 @@
+['28330935', 'Proper stomatal responses are essential for plant function in an altered  environment. The core signaling pathway for abscisic acid (ABA)-induced stomatal  closure involves perception of the hormone that leads to the activation of guard  cell anion channels by the protein kinase OPEN STOMATA1. Several other regulators  are suggested to modulate the ABA signaling pathway, including the protein  ENHANCED RESPONSE TO ABA1 (ERA1), that encodes the farnesyl transferase  beta-subunit. The era1 mutant is hypersensitive to ABA during seed germination and  shows a more closed stomata phenotype. Using a genetics approach with the double  mutants era1 abi1-1 and era1 ost1, we show that while era1 suppressed the high  stomatal conductance of abi1-1 and ost1, the ERA1 function was not required for  stomatal closure in response to ABA and environmental factors. Further  experiments indicated a role for ERA1 in blue light-induced stomatal opening. In  addition, we show that ERA1 function in disease resistance was independent of its  role in stomatal regulation. Our results indicate a function for ERA1 in stomatal  opening and pathogen immunity.', '2017 Jun', 'Plant Physiol', '10.1104/pp.17.00220', 'ORCID:']
+
+ABA: !activates! OPEN STOMATA1
+ERA1: !enhances! ABA response
+ERA1: !suppresses! stomatal conductance
+ERA1: !induces! stomatal opening
+ERA1: !regulates! pathogen immunity

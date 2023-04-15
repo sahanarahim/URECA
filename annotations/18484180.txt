@@ -1,0 +1,10 @@
+['18484180', 'The transcription factor ABA-Insensitive5 (ABI5) is a key regulator of ABA  signaling and stress response in Arabidopsis seeds and seedlings. Potential  ABI5-interacting proteins were identified by a yeast two-hybrid screen; the most  prevalent interactors were a family of four highly conserved plant-specific  proteins with no domains of known function, but homology to a previously  characterized ABI Five Binding Protein (AFP). This study compares expression and  function of the family members. The AFPs are induced by ABA and/or dehydrating  stresses in young seedlings, but the developmental timing of their induction  differs. Mutations in AFP1 or AFP2 result in increased sensitivity to ABA and  salt, whereas afp4 mutants are mildly ABA-resistant. AFP2, like AFP1, acts  epistatically to ABI5. Reduced germination or seedling growth of the mutants  under stress correlates with a higher level of ABI5 protein when compared to  wild-type seedlings, but it is not clear whether this is a cause or effect of the  reduced growth. Although both ABI5 and the AFPs are ABA-induced, the ABI5:AFP  ratio increases at high ABA concentrations, maintaining growth inhibition under  severe stress. An AFP2:GFP fusion, which complements the afp2 mutation, is  nuclear-localized in seedlings exposed to stress, but becomes delocalized before  being degraded following removal of stress. The AFPs may also interact to varying  extents with many ABI5-related bZIP transcription factors. This study suggests  that germination and seedling growth are regulated by antagonistic interactions  among at least two functionally redundant families, the AFPs and the ABI5-related  proteins, providing a mechanism to fine-tune seedling stress responses.', '2008 Aug', 'Plant Mol Biol', '10.1007/s11103-008-9344-2', 'Finkelstein']
+
+ABI5: !interacts with! AFPs 
+AFPs: !induced by! ABA and/or dehydrating stresses 
+AFP1/2: !enhances! ABA sensitivity 
+afp4: !represses! ABA sensitivity 
+AFP2: !epistatically acts to! ABI5 
+ABI5: !increases! at high ABA concentrations 
+AFP2: !localizes to! nucleus 
+AFPs: !interact with! ABI5-related bZIP transcription factors

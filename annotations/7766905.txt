@@ -1,0 +1,10 @@
+['7766905', 'A clone encoding aspartate aminotransferase (AAT, EC 2.6.1.1) was isolated from  an Arabidopsis thaliana leaf cDNA library. This clone contains a 1365 bp open  reading frame encoding a polypeptide of 49.8 kDa, designated Ataat1. The clone  was shown to contain a chloroplastic isoenzyme as an in organellar protein import  assay demonstrated that a radiolabelled transcription/translation product of 49.8  kDa was imported into viable pea chloroplasts and was subsequently processed to  yield a mature protein of 45 kDa. The open reading frame corresponding to the  predicted mature AAT was manipulated into an expression construct (pEC14).  Transformed Escherichia coli cells containing pEC14 expressed up to 16 times more  AAT activity than vector only controls, thus demonstrating conclusively that the  clone encoded AAT.', '1995 Mar', 'Plant Mol Biol', '10.1007/BF00020897', 'Warren']
+
+AAT: !encoded by! clone 
+clone: !expresses! AAT 
+Ataat1: !encodes! polypeptide 
+polypeptide: !imported into! chloroplasts 
+radiolabelled transcription/translation product: !processed to yield! mature protein 
+pEC14: !manipulated into! expression construct 
+expression construct: !transformed into! E. coli cells 
+E. coli cells: !express up to! 16 times more AAT activity

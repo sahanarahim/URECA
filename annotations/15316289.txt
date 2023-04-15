@@ -1,0 +1,10 @@
+['15316289', 'A novel CaM-binding protein was isolated through protein-protein interaction  based screening of an Arabidopsis cDNA expression library using a 35S calmodulin  (CaM) probe. There are four additional homologs in the Arabidopsis genome with  similar structures: a BTB domain in the N-terminus and a Zf-TAZ domain in the  C-terminus. Hence, they were designated as AtBT1-5 (Arabidopsis thaliana BTB and  TAZ domain protein). CaM-binding experiments revealed that all five AtBTs are  CaM-binding proteins, and their CaM-binding domains were mapped to the  C-terminus. AtBT homologs are also present in rice, but are not present in human,  animal, yeast or other organisms, suggesting that the BTB and TAZ domain proteins  are plant-specific. The AtBT1-smGFP fusion protein expressed in tobacco BY-2  cells showed that AtBT1 targets the nucleus. Yeast two-hybrid screening using an  AtBT1 fragment as bait identified two interacting proteins (AtBET10 and AtBET9)  belonging to the family of fsh/Ring3 class transcription regulators. The BTB  domain of the AtBTs is required for the interaction, and this protein-protein  interaction was confirmed by GST pull-down. AtBET10 also interacts with AtBT2 and  AtBT4, and exhibited a transcriptional activation function in yeast cells. AtBTs  exhibit varying responses to different stress stimuli, but all five genes  responded rapidly to H2O2 and salicylic acid (SA) treatments. These results  suggest that AtBTs play a role in transcriptional regulation, and signal  molecules such as Ca2+, H2O2, and SA affect transcriptional machinery by altering  the expression and conformation of AtBTs which interact with transcriptional  activators such as AtBET10.', '2004 Mar', 'Plant Mol Biol', '10.1023/B:PLAN.0000038269.98972.bb', 'Poovaiah']
+
+AtBT1: !localizes to! nucleus 
+AtBT1: !interacts with! AtBET10 
+AtBT2/4: !interacts with! AtBET10 
+AtBTs: !respond to! H2O2/SA 
+AtBTs: !affect! transcriptional regulation 
+CaM: !binds! AtBTs 
+AtBET10: !interacts with! AtBT1/2/4 
+AtBET10: !activates! transcription

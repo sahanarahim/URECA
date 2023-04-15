@@ -1,0 +1,7 @@
+['14507998', 'The Arabidopsis mutant early in short days4 (esd4) shows extreme early flowering  and alterations in shoot development. We have identified ESD4 and demonstrate  that it encodes a nuclear protein located predominantly at the periphery of the  nucleus. ESD4 contains a segment of >200 amino acids with strong similarity to  yeast and animal proteases that are specific for the protein modifier SMALL  UBIQUITIN-RELATED MODIFIER (SUMO). ESD4 shows a similar function to these  proteases in vitro and processes the precursor of Arabidopsis SUMO (AtSUMO) to  generate the mature form. This activity of ESD4 is prevented by mutations that  affect the predicted active site of the protease or the cleavage site of the  AtSUMO precursor. In yeast, these proteases also recycle SUMO from conjugates,  and this appears to be the major role of ESD4 in vivo. This is suggested because  esd4 mutants contain less free AtSUMO and more SUMO conjugates than wild-type  plants, and a transgene expressing mature SUMO at high levels enhanced aspects of  the esd4 phenotype. ESD4 defines an important role for protein modification by  AtSUMO in the regulation of flowering.', '2003 Oct', 'Plant Cell', '10.1105/tpc.015487', 'Coupland']
+
+ESD4: !encodes! nuclear protein 
+ESD4: !processes! AtSUMO precursor 
+ESD4: !recycles! SUMO from conjugates 
+AtSUMO: !modifies! protein 
+AtSUMO: !regulates! flowering

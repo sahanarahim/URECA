@@ -1,0 +1,12 @@
+['18593701', "We recently characterized a novel heme biogenesis pathway required for heme c(i)'  covalent binding to cytochrome b6 in Chlamydomonas named system IV or CCB  (cofactor assembly, complex C (b6f), subunit B (PetB)). To find out whether this  CCB pathway also operates in higher plants and extend the knowledge of the c-type  cytochrome biogenesis, we studied Arabidopsis insertion mutants in the orthologs  of the CCB genes. The ccb1, ccb2, and ccb4 mutants show a phenotype characterized  by a deficiency in the accumulation of the subunits of the cytochrome b6f complex  and lack covalent heme binding to cytochrome b6. These mutants were functionally  complemented with the corresponding wild type cDNAs. Using fluorescent protein  reporters, we demonstrated that the CCB1, CCB2, CCB3, and CCB4 proteins are  targeted to the chloroplast compartment of Arabidopsis. We have extended our  study to the YGGT family, to which CCB3 belongs, by studying insertion mutants of  two additional members of this family for which no mutants were previously  characterized, and we showed that they are not functionally involved in the CCB  system. Thus, we demonstrate the ubiquity of the CCB proteins in chloroplast heme  c(i)' binding.", '2008 Sep 5', 'J Biol Chem', '10.1074/jbc.M803869200', 'de']
+
+CCB1: !localizes to! chloroplast
+CCB2: !localizes to! chloroplast
+CCB3: !localizes to! chloroplast
+CCB4: !localizes to! chloroplast
+CCB1: !affects! cytochrome b6f complex accumulation
+CCB2: !affects! cytochrome b6f complex accumulation
+CCB4: !affects! cytochrome b6f complex accumulation
+CCB1: !enhances! heme c(i)' binding
+CCB2: !enhances! heme c(i)' binding
+CCB4: !enhances! heme c(i)' binding

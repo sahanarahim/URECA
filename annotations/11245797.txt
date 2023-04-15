@@ -1,0 +1,8 @@
+['11245797', 'Using non-denaturing isoelectric focusing in polyacrylamide vertical slab gel, we  have purified to homogeneity three trimeric subcomplexes of LHC II from  Arabidopsis thylakoid membranes. The polypeptide composition of the subcomplexes  were studied by immunoblotting. Our results indicate the existence in vivo of LHC  II heterotrimers containing Lhcb1, Lhcb2 and Lhcb3 gene products.', '2001 Apr 2', 'Biochim Biophys Acta', '10.1016/s0005-2728(00)00262-0', 'Jansson']
+
+LHC II: !contains! Lhcb1
+LHC II: !contains! Lhcb2
+LHC II: !contains! Lhcb3
+Lhcb1: !localizes to! LHC II
+Lhcb2: !localizes to! LHC II
+Lhcb3: !localizes to! LHC II

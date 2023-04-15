@@ -1,0 +1,12 @@
+['21284755', "Aromatic L-amino acid decarboxylases (AADCs) are key enzymes operating at the  interface between primary and secondary metabolism. The Arabidopsis thaliana  genome contains two genes, At2g20340 and At4g28680, encoding pyridoxal  5'-phosphate-dependent AADCs with high homology to the recently identified  Petunia hybrida phenylacetaldehyde synthase involved in floral scent production.  The At4g28680 gene product was recently biochemically characterized as an  L-tyrosine decarboxylase (AtTYDC), whereas the function of the other gene product  remains unknown. The biochemical and functional characterization of the At2g20340  gene product revealed that it is an aromatic aldehyde synthase (AtAAS), which  catalyzes the conversion of phenylalanine and 3,4-dihydroxy-L-phenylalanine to  phenylacetaldehyde and dopaldehyde, respectively. AtAAS knock-down and transgenic  AtAAS RNA interference (RNAi) lines show significant reduction in  phenylacetaldehyde levels and an increase in phenylalanine, indicating that AtAAS  is responsible for phenylacetaldehyde formation in planta. In A. thaliana ecotype  Columbia (Col-0), AtAAS expression was highest in leaves, and was induced by  methyl jasmonate treatment and wounding. Pieris rapae larvae feeding on Col-0  leaves resulted in increased phenylacetaldehyde emission, suggesting that the  emitted aldehyde has a defensive activity against attacking herbivores. In the  ecotypes Sei-0 and Di-G, which emit phenylacetaldehyde as a predominant flower  volatile, the highest expression of AtAAS was found in flowers and RNAi AtAAS  silencing led to a reduction of phenylacetaldehyde formation in this organ. In  contrast to ecotype Col-0, no phenylacetaldehyde accumulation was observed in  Sei-0 upon wounding, suggesting that AtAAS and subsequently phenylacetaldehyde  contribute to pollinator attraction in this ecotype.", '2011 May', 'Plant J', '10.1111/j.1365-313X.2011.04515.x', 'Dudareva']
+
+At2g20340: !encodes! AtAAS 
+At4g28680: !encodes! AtTYDC 
+AtAAS: !converts! phenylalanine and 3,4-dihydroxy-L-phenylalanine 
+AtAAS: !induces! phenylacetaldehyde levels 
+AtAAS: !localizes to! leaves 
+AtAAS: !induced by! methyl jasmonate treatment and wounding 
+Pieris rapae larvae: !increases! phenylacetaldehyde emission 
+Sei-0 and Di-G: !highest expression of! AtAAS in flowers 
+RNAi AtAAS silencing: !reduces! phenylacetaldehyde formation 
+Sei-0: !no accumulation of! phenylacetaldehyde upon wounding

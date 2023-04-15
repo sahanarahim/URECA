@@ -1,0 +1,10 @@
+['9136026', 'We are working to determine the role of the Arabidopsis phytoalexin, camalexin,  in protecting the plant from pathogen attack by isolating phytoalexin-deficient  (pad) mutants in the accession Columbia (Col-0) and examining their response to  pathogens. Mutations in PAD1, PAD2, and PAD4 caused enhanced susceptibility to  the bacterial pathogen Pseudomonas syringae pv. maculicola strain ES4326  (PsmES4326), while mutations in PAD3 or PAD5 did not. Camalexin was not detected  in any of the double mutants pad1-1 pad2-1, pad1-1 pad3-1 or pad2-1 pad3-1.  Growth of PsmES4326 in pad1-1 pad2-1 was greater than that in pad1-1 or pad2-1  plants, while growth in pad1-1 pad3-1 and pad2-1 pad3-1 plants was similar to  that in pad1-1 and pad2-1 plants, respectively. The pad4-1 mutation caused  reduced camalexin synthesis in response to PsmES4326 infection, but not in  response to Cochliobolus carbonum infection, indicating that PAD4 has a  regulatory function. PAD1, PAD2, PAD3 and PAD4 are all required for resistance to  the eukaryotic biotroph Peronospora parasitica. The pad4-1 mutation caused the  most dramatic change, exhibiting full susceptibility to four of six  Col-incompatible parasite isolates. Interestingly, each combination of double  mutants between pad1-1, pad2-1 and pad3-1 exhibited additive shifts to moderate  or full susceptibility to most of the isolates.', '1997 May', 'Genetics', '10.1093/genetics/146.1.381', 'Ausubel']
+
+PAD1: !affects! susceptibility to PsmES4326
+PAD2: !affects! susceptibility to PsmES4326
+PAD3: !does not affect! susceptibility to PsmES4326
+PAD4: !regulates! camalexin synthesis
+PAD1: !required for! resistance to Peronospora parasitica
+PAD2: !required for! resistance to Peronospora parasitica
+PAD3: !required for! resistance to Peronospora parasitica
+PAD4: !required for! resistance to Peronospora parasitica

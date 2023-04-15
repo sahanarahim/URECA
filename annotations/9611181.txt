@@ -1,0 +1,10 @@
+['9611181', 'Transgenes inserted into the plant genome can become inactive (gene silencing) or  result in silencing of homologous cellular genes [homology-dependent gene  silencing (HDG silencing)]. In an earlier study we reported HDG silencing of  chalcone synthase (CHS) in Arabidopsis. This study concerns genetic revertants of  one of the CHS HDG-silencing transgenic homozygotes. Two monogenic recessive  trans-acting mutations (hog1 and ddm1) that impair gene silencing and HDG  silencing were identified. These mutations reduce genomic DNA methylation and  affect the quantity and size of CHS mRNA. These results imply that DNA  methylation is necessary for both gene silencing and HDG silencing. Two further  monogenic, trans-acting, recessive mutations (sil1 and sil2) reduce gene  silencing but not HDG silencing. The existence of this mutant class shows that  gene silencing involves genes that are not necessary for HDG silencing. A further  mutant (Catt) was isolated and has an attenuated HDG-silencing T-DNA.', '1998 Jun', 'Genetics', '10.1093/genetics/149.2.651', 'Collett']
+
+Gene silencing: !requires! DNA methylation 
+HDG silencing: !requires! DNA methylation 
+Gene silencing: !involves! genes not necessary for HDG silencing 
+CHS mRNA: !affected by! hog1 and ddm1 mutations 
+CHS mRNA: !quantity and size of! affected by hog1 and ddm1 mutations 
+sil1 and sil2 mutations: !reduce! gene silencing 
+sil1 and sil2 mutations: !do not affect! HDG silencing 
+Catt mutant: !has attenuated! HDG-silencing T-DNA

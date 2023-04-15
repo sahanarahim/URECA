@@ -1,0 +1,12 @@
+['18846282', 'The first step of chlorophyll biosynthesis is catalyzed by a Mg-chelatase  composed of the subunits CHLI, CHLD and CHLH. Mg-chelatase requires ATP  hydrolysis that can be attributed to CHLI. Arabidopsis has two CHLI isoforms,  CHLI1 and CHLI2, that have similar expression profiles, but it has been suggested  that CHLI2 has limited function in the Mg-chelatase complex. Recently, we showed  that Arabidopsis CHLI1 is an ATPase and a target of chloroplast thioredoxin.  Here, we demonstrate that CHLI2 also has ATPase activity but with a lower Vmax  and higher Km ATP than CHLI1. We confirmed the thioredoxin-dependent reduction of  a disulfide bond in CHLI2 and thiol-modulation of its ATPase activity. We then  examined the physiological contribution of CHLI2 using a chli2 T-DNA knockout  line. Although visible phenotype of homozygous chli2 mutants was almost  comparable to wild type, the mutant accumulated significantly less chlorophyll.  Furthermore, cs/cs; chli2/chli2 double mutants were almost albino. There were  three phenotypes among progenies segregated from the cs/cs; CHLI2/chli2 parent:  cs-like pale green, yellow, and almost albino were obtained in the approximate  ratio of 1:2:0.7. PCR analysis confirmed that the chli2 mutation is semidominant  on a homozygous cs background. These results reveal that although CHLI2 plays a  limited role in chlorophyll biosynthesis, this subunit certainly contributes to  the assembly of the Mg-chelatase complex.', '2008 Oct', 'Photochem Photobiol Sci', '10.1039/b802604c', 'Masuda']
+
+CHLI1: !affects! ATP hydrolysis 
+CHLI2: !has similar expression to! CHLI1 
+CHLI2: !has lower Vmax and higher Km ATP than! CHLI1 
+CHLI2: !is a target of! chloroplast thioredoxin 
+CHLI2: !is reduced by! disulfide bond 
+CHLI2: !modulates! ATPase activity 
+CHLI2: !contributes to! Mg-chelatase complex 
+chli2 T-DNA knockout line: !accumulates less! chlorophyll 
+cs/cs; chli2/chli2 double mutants: !are almost albino! 
+chli2 mutation: !is semidominant on! homozygous cs background

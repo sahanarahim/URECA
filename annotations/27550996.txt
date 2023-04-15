@@ -1,0 +1,12 @@
+['27550996', 'Cytokinin is a phytohormone that is well known for its roles in numerous plant  growth and developmental processes, yet it has also been linked to abiotic stress  response in a less defined manner. Arabidopsis (Arabidopsis thaliana) Cytokinin  Response Factor 6 (CRF6) is a cytokinin-responsive AP2/ERF-family transcription  factor that, through the cytokinin signaling pathway, plays a key role in the  inhibition of dark-induced senescence. CRF6 expression is also induced by  oxidative stress, and here we show a novel function for CRF6 in relation to  oxidative stress and identify downstream transcriptional targets of CRF6 that are  repressed in response to oxidative stress. Analysis of transcriptomic changes in  wild-type and crf6 mutant plants treated with H(2)O(2) identified CRF6-dependent  differentially expressed transcripts, many of which were repressed rather than  induced. Moreover, many repressed genes also show decreased expression in  35S:CRF6 overexpressing plants. Together, these findings suggest that CRF6  functions largely as a transcriptional repressor. Interestingly, among the  H(2)O(2) repressed CRF6-dependent transcripts was a set of five genes associated  with cytokinin processes: (signaling) ARR6, ARR9, ARR11, (biosynthesis) LOG7, and  (transport) ABCG14. We have examined mutants of these cytokinin-associated target  genes to reveal novel connections to oxidative stress. Further examination of  CRF6-DNA interactions indicated that CRF6 may regulate its targets both directly  and indirectly. Together, this shows that CRF6 functions during oxidative stress  as a negative regulator to control this cytokinin-associated module of  CRF6-dependent genes and establishes a novel connection between cytokinin and  oxidative stress response.', '2016 Oct', 'Plant Physiol', '10.1104/pp.16.00415', 'ORCID:']
+
+CRF6: !inhibits! dark-induced senescence 
+CRF6: !induces! oxidative stress 
+CRF6: !represses! downstream transcriptional targets 
+CRF6: !regulates! cytokinin processes 
+ARR6: !regulated by! CRF6 
+ARR9: !regulated by! CRF6 
+ARR11: !regulated by! CRF6 
+LOG7: !regulated by! CRF6 
+ABCG14: !regulated by! CRF6 
+CRF6: !connects! cytokinin and oxidative stress response

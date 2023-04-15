@@ -1,0 +1,7 @@
+['31032401', 'The cold-induced antisense transcript COOLAIR represses FLOWERING LOCUS C (FLC)  transcription with increased H3K27me3 and decreased H3K36me3 levels in response  to cold temperatures. However, the molecular connection between COOLAIR and  histone modification factors in the absence of cold treatment remains unclear. We  report that the RNA binding protein FCA interacts with the PRC2 subunit CURLY  LEAF (CLF) and binds nascent COOLAIR transcripts to allow deposition of H3K27me3  at FLC. Loss of COOLAIR function results in a reduction in FCA and CLF  enrichment, which, in turn, decreases H3K27me3 levels at FLC. The Arabidopsis  protein phosphatase SSU72 physically interacts with the RRM1 motif of FCA to  antagonize FCA binding with COOLAIR. Mutations in SSU72 caused early flowering,  reduced FLC transcription, increased CLF enrichment and H3K27me3, and enhanced  affinity between FCA and COOLAIR. Our results suggest that FCA binding of COOLAIR  and SSU72 is critical for PRC2 enrichment and H3K27me3 deposition in Arabidopsis.', '2019 Apr', 'Sci Adv', '10.1126/sciadv.aau7246', 'ORCID:']
+
+COOLAIR: !represses! FLC
+FCA: !interacts with! CLF
+FCA: !binds! COOLAIR
+SSU72: !interacts with! FCA
+SSU72: !antagonizes! FCA

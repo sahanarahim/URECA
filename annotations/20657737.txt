@@ -1,0 +1,9 @@
+['20657737', "A significant fraction of a plant's nuclear genome encodes chloroplast-targeted  proteins, many of which are devoted to the assembly and function of the  photosynthetic apparatus. Using digital video imaging of chlorophyll  fluorescence, we isolated proton gradient regulation 7 (pgr7) as an Arabidopsis  thaliana mutant with low nonphotochemical quenching of chlorophyll fluorescence  (NPQ). In pgr7, the xanthophyll cycle and the PSBS gene product, previously  identified NPQ factors, were still functional, but the efficiency of  photosynthetic electron transport was lower than in the wild type. The pgr7  mutant was also smaller in size and had lower chlorophyll content than the wild  type in optimal growth conditions. Positional cloning located the pgr7 mutation  in the At3g21200 (PGR7) gene, which was predicted to encode a chloroplast protein  of unknown function. Chloroplast targeting of PGR7 was confirmed by transient  expression of a GFP fusion protein and by stable expression and subcellular  localization of an epitope-tagged version of PGR7. Bioinformatic analyses  revealed that the PGR7 protein has two domains that are conserved in plants,  algae, and bacteria, and the N-terminal domain is predicted to bind a cofactor  such as FMN. Thus, we identified PGR7 as a novel, conserved nuclear gene that is  necessary for efficient photosynthetic electron transport in chloroplasts of  Arabidopsis.", '2010 Jul 21', 'PLoS One', '10.1371/journal.pone.0011688', 'Niyogi']
+
+PGR7: !encodes! chloroplast protein 
+PGR7: !binds! cofactor 
+At3g21200: !localizes to! chloroplast 
+At3g21200: !synthesizes! PGR7 
+NPQ: !affects! photosynthetic electron transport 
+xanthophyll cycle: !enhances! NPQ 
+PSBS gene product: !enhances! NPQ

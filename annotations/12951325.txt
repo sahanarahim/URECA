@@ -1,0 +1,8 @@
+['12951325', 'The Toc complex at the outer envelope of chloroplasts initiates the import of  nuclear-encoded preproteins from the cytosol into the organelle. The core of the  Toc complex is composed of two receptor GTPases, Toc159 and Toc34, as well as  Toc75, a beta-barrel membrane channel. Toc159 is equally distributed between a  soluble cytoplasmic form and a membrane-inserted form, suggesting that assembly  of the Toc complex is dynamic. In the present study, we used the Arabidopsis  thaliana orthologs of Toc159 and Toc34, atToc159 and atToc33, respectively, to  investigate the requirements for assembly of the trimeric Toc complex. In  addition to its intrinsic GTPase activity, we demonstrate that integration of  atToc159 into the Toc complex requires atToc33 GTPase activity. Additionally, we  show that the interaction of the two GTPase domains stimulates association of the  membrane anchor of atToc159 with the translocon. Finally, we employ reconstituted  proteoliposomes to demonstrate that proper insertion of the receptor requires  both Toc75 and Toc34. Collectively these data suggest that Toc34 and Toc75 act  sequentially to mediate docking and insertion of Toc159 resulting in assembly of  the functional translocon.', '2003 Nov 7', 'J Biol Chem', '10.1074/jbc.M307873200', 'Schnell']
+
+atToc159: !requires! atToc33 
+atToc159: !interacts with! Toc75 
+atToc159: !inserts into! translocon 
+atToc33: !stimulates! atToc159 
+Toc75: !mediates! atToc159 
+Toc34: !mediates! Toc75

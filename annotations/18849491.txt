@@ -1,0 +1,11 @@
+['18849491', 'Understanding salt stress signaling is key to producing salt-tolerant crops. The  small ubiquitin-like modifier (SUMO) is a crucial regulator of signaling proteins  in eukaryotes. Attachment of SUMO onto substrates is reversible, and SUMO  proteases, which specifically cleave the SUMO-substrate linkages, play a vital  regulatory role during SUMOylation. We have identified two SUMO proteases, OVERLY  TOLERANT TO SALT1 (OTS1) and OTS2, which are localized in the nucleus and act  redundantly to regulate salt stress responses in Arabidopsis thaliana. ots1 ots2  double mutants show extreme sensitivity to salt. However, under low-salt  conditions, ots1 ots2 double mutants are phenotypically similar to wild-type  plants. We demonstrate that salt stress induces a dose-dependent accumulation of  SUMO1/2-conjugated proteins in Arabidopsis. ots1 ots2 double mutants  constitutively accumulate high levels of SUMO1/2-conjugated proteins even under  nonstress conditions and show a further dramatic increase in SUMO1/2-conjugated  proteins in response to salt stress. Transgenic lines overexpressing OTS1 have  increased salt tolerance and a concomitant reduction in the levels of SUMOylated  proteins. Conversely, the ectopic expression of the mutant ots1(C526S) protein  lacking SUMO protease activity fails to produce a salt-tolerant phenotype. We  show that salt directly affects OTS1-dependent signaling by inducing OTS1 protein  degradation. Our results indicate a requirement for OTS1 deSUMOylation activity  in plant salt tolerance responses.', '2008 Oct', 'Plant Cell', '10.1105/tpc.108.058669', 'Sadanandom']
+
+SUMO: !regulates! signaling proteins 
+OTS1/2: !localizes to! nucleus 
+OTS1/2: !redundantly regulate! salt stress responses 
+OTS1/2: !cleave! SUMO-substrate linkages 
+OTS1/2: !controls! SUMOylation 
+OTS1/2: !degrades! under salt stress 
+OTS1: !enhances! salt tolerance 
+OTS1: !reduces! SUMOylated proteins 
+OTS1(C526S): !fails to produce! salt-tolerant phenotype

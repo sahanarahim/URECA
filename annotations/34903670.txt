@@ -1,0 +1,10 @@
+['34903670', "RNA-dependent RNA polymerases play essential roles in RNA-mediated gene silencing  in eukaryotes. In Arabidopsis, RNA-DEPENDENT RNA POLYMERASE 2 (RDR2) physically  interacts with DNA-dependent NUCLEAR RNA POLYMERASE IV (Pol IV) and their  activities are tightly coupled, with Pol IV transcriptional arrest, induced by  the nontemplate DNA strand, somehow enabling RDR2 to engage Pol IV transcripts  and generate double-stranded RNAs. The double-stranded RNAs are then released  from the Pol IV-RDR2 complex and diced into short-interfering RNAs that guide  RNA-directed DNA methylation and silencing. Here we report the structure of  full-length RDR2, at an overall resolution of 3.1 A, determined by cryoelectron  microscopy. The N-terminal region contains an RNA-recognition motif adjacent to a  positively charged channel that leads to a catalytic center with striking  structural homology to the catalytic centers of multisubunit DNA-dependent RNA  polymerases. We show that RDR2 initiates 1 to 2 nt internal to the 3' ends of its  templates and can transcribe the RNA of an RNA/DNA hybrid, provided that 9 or  more nucleotides are unpaired at the RNA's 3' end. Using a nucleic acid  configuration that mimics the arrangement of RNA and DNA strands upon Pol IV  transcriptional arrest, we show that displacement of the RNA 3' end occurs as the  DNA template and nontemplate strands reanneal, enabling RDR2 transcription. These  results suggest a model in which Pol IV arrest and backtracking displaces the RNA  3' end as the DNA strands reanneal, allowing RDR2 to engage the RNA and  synthesize the complementary strand.", '2021 Dec 21', 'Proc Natl Acad Sci U S A', '10.1073/pnas.2115899118', 'ORCID:']
+
+RDR2: !interacts with! Pol IV 
+Pol IV: !induces! RDR2 transcriptional arrest 
+RDR2: !generates! double-stranded RNAs 
+double-stranded RNAs: !diced into! short-interfering RNAs 
+RDR2: !initiates! 1 to 2 nt internal to 3' ends of templates 
+RDR2: !transcribes! RNA/DNA hybrid 
+RNA/DNA hybrid: !displaces! RNA 3' end 
+DNA strands: !reanneal! enabling RDR2 engagement

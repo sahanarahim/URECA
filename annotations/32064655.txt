@@ -1,0 +1,12 @@
+['32064655', 'Melatonin is a well-studied neurohormone oscillating in a 24-h cycle in  vertebrates. Phytomelatonin is widespread in plant kingdom, but it remains  elusive whether this newly characterized putative hormone underlies the  regulation by daily rhythms. Here, we report phytomelatonin signaling, as  reflected by changes in endogenous concentrations of phytomelatonin and  expression of genes associated with biosynthesis of phytomelatonin (AtSNAT1,  AtCOMT1, and AtASMT) and its receptor (AtPMTR1), shows 24-h oscillations in  Arabidopsis. The variation of reactive oxygen species (ROS) production and  scavenging and expression of ROS-related genes significantly decrease in pmtr1  and snat and increase in PMTR1-OE seedlings, indicating the rhythmicity in  phytomelatonin signaling is required for maintenance of ROS dynamics.  Additionally, the ROS signaling feedback influences the expression of AtSNAT1,  AtCOMT1, AtASMT, and AtPMTR1, suggesting the phytomelatonin and ROS signaling are  coordinately interrelated. The pmtr1 mutant plants lose diurnal stomatal closure,  with stomata remaining open during daytime as well as nighttime and mutants  showing more water loss and drought sensitivity when compared with the wild-type  Col-0 plants. Taken together, our results suggest that PMTR1-regulated ROS  signaling peaks in the afternoon and may transmit the darkness signals to trigger  stomatal closure, which might be essential for high water-use efficiency and  drought tolerance.', '2020 Apr', 'J Pineal Res', '10.1111/jpi.12640', 'ORCID:']
+
+AtSNAT1: !synthesizes! phytomelatonin 
+AtCOMT1: !synthesizes! phytomelatonin 
+AtASMT: !synthesizes! phytomelatonin 
+AtPMTR1: !receives! phytomelatonin 
+AtPMTR1: !regulates! ROS 
+ROS: !affects! AtSNAT1 
+ROS: !affects! AtCOMT1 
+ROS: !affects! AtASMT 
+ROS: !affects! AtPMTR1 
+AtPMTR1: !triggers! stomatal closure

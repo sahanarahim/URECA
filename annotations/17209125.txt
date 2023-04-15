@@ -1,0 +1,7 @@
+['17209125', 'Upon the incidence of DNA stress, the ataxia telangiectasia-mutated (ATM) and  Rad3-related (ATR) signaling kinases activate a transient cell cycle arrest that  allows cells to repair DNA before proceeding into mitosis. Although the ATM-ATR  pathway is highly conserved over species, the mechanisms by which plant cells  stop their cell cycle in response to the loss of genome integrity are unclear. We  demonstrate that the cell cycle regulatory WEE1 kinase gene of Arabidopsis  thaliana is transcriptionally activated upon the cessation of DNA replication or  DNA damage in an ATR- or ATM-dependent manner, respectively. In accordance with a  role for WEE1 in DNA stress signaling, WEE1-deficient plants showed no obvious  cell division or endoreduplication phenotype when grown under nonstress  conditions but were hypersensitive to agents that impair DNA replication. Induced  WEE1 expression inhibited plant growth by arresting dividing cells in the  G2-phase of the cell cycle. We conclude that the plant WEE1 gene is not  rate-limiting for cycle progression under normal growth conditions but is a  critical target of the ATR-ATM signaling cascades that inhibit the cell cycle  upon activation of the DNA integrity checkpoints, coupling mitosis to DNA repair  in cells that suffer DNA damage.', '2007 Jan', 'Plant Cell', '10.1105/tpc.106.045047', 'De']
+
+ATR-ATM: !activates! WEE1 
+WEE1: !inhibits! Plant Growth 
+DNA Stress: !induces! WEE1 Expression 
+WEE1: !arrests! Cell Cycle in G2-Phase 
+ATR-ATM: !couples! Mitosis to DNA Repair

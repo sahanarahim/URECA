@@ -1,0 +1,8 @@
+['21390310', 'General transcription factor IIB (TFIIB) and TFIIB-related factor (BRF), are  conserved RNA polymerase II/III (RNAPII/III) selectivity factors that are  involved in polymerase recruitment and transcription initiation in eukaryotes.  Recent findings have shown that plants have evolved a third type of B-factor,  plant-specific TFIIB-related protein 1 (pBRP1), which seems to be involved in  RNAPI transcription. Here, we extend the repertoire of B-factors in plants by  reporting the characterization of a novel TFIIB-related protein, plant-specific  TFIIB-related protein 2 (pBRP2), which is found to date only in the Brassicacea  family. Unlike other B-factors that are ubiquitously expressed, PBRP2 expression  is restricted to reproductive organs and seeds as shown by RT-PCR,  immunofluorescence labelling and GUS staining experiments. Interestingly, pbrp2  loss-of-function specifically affects the development of the syncytial endosperm,  with both parental contributions required for wild-type development. pBRP2, is  the first B-factor to exhibit cell-specific expression and regulation in  eukaryotes, and might play a role in enforcing bi-parental reproduction in  angiosperms.', '2011 Feb 24', 'PLoS One', '10.1371/journal.pone.0017216', 'Lagrange']
+
+TFIIB: !interacts with! BRF 
+BRF: !interacts with! TFIIB 
+pBRP1: !interacts with! RNAPI 
+pBRP2: !localizes to! reproductive organs and seeds 
+pBRP2: !affects! syncytial endosperm development 
+pBRP2: !enforces! bi-parental reproduction

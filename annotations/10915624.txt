@@ -1,0 +1,5 @@
+['10915624', 'The fate of stem cells in plant meristems is governed by directional signaling  systems that are regulated by negative feedback. In Arabidopsis thaliana, the  CLAVATA (CLV) genes encode the essential components of a negative, stem  cell-restricting pathway. We used transgenic plants overexpressing CLV3 to show  that meristem cell accumulation and fate depends directly on the level of CLV3  activity and that CLV3 signaling occurs exclusively through a CLV1/CLV2 receptor  kinase complex. We also demonstrate that the CLV pathway acts by repressing the  activity of the transcription factor WUSCHEL, an element of the positive, stem  cell-promoting pathway.', '2000 Jul 28', 'Science', '10.1126/science.289.5479.617', 'Simon']
+
+CLV3: !affects! Meristem cell accumulation 
+CLV1/CLV2: !interacts with! CLV3 
+CLV pathway: !represses! WUSCHEL

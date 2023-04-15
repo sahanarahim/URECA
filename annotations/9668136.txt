@@ -1,0 +1,9 @@
+['9668136', 'A large genetic screen for sos (for salt overly sensitive) mutants was performed  in an attempt to isolate mutations in any gene with an sos phenotype. Our search  yielded 28 new alleles of sos1, nine mutant alleles of a newly identified locus,  SOS2, and one allele of a third salt tolerance locus, SOS3. The sos2 mutations,  which are recessive, were mapped to the lower arm of chromosome V, approximately  2.3 centimorgans away from the marker PHYC. Growth measurements demonstrated that  sos2 mutants are specifically hypersensitive to inhibition by Na+ or Li+ and not  hypersensitive to general osmotic stresses. Interestingly, the SOS2 locus is also  necessary for K+ nutrition because sos2 mutants were unable to grow on a culture  medium with a low level of K+. The expression of several salt-inducible genes was  superinduced in sos2 plants. The salt tolerance of sos1, sos2, and sos3 mutants  correlated with their K+ tissue content but not their Na+ tissue content. Double  mutant analysis indicated that the SOS genes function in the same pathway. Based  on these results, a genetic model for salt tolerance mechanisms in Arabidopsis is  presented in which SOS1, SOS2, and SOS3 are postulated to encode regulatory  components controlling plant K+ nutrition that in turn is essential for salt  tolerance.', '1998 Jul', 'Plant Cell', '10.1105/tpc.10.7.1181', 'Xiong']
+
+sos1: !affects! salt tolerance
+sos2: !affects! salt tolerance
+sos3: !affects! salt tolerance
+sos2: !localizes to! chromosome V
+sos2: !enhances! K+ nutrition
+sos2: !superinduces! salt-inducible genes
+SOS genes: !function in! same pathway

@@ -1,0 +1,7 @@
+['24319076', 'The phenylpropanoid metabolic pathway provides a wide variety of essential  compounds for plants. Together with sinapate esters, in Brassicaceae species,  flavonoids play an important role in protecting plants against UV irradiation. In  this work we have characterized Arabidopsis thaliana AtMYB7, the closest homolog  of AtMYB4 and AtMYB32, described as repressors of different branches of  phenylpropanoid metabolism. The characterization of atmyb7 plants revealed an  induction of several genes involved in flavonol biosynthesis and an increased  amount of these compounds. In addition, AtMYB7 gene expression is repressed by  AtMYB4. As a consequence, the atmyb4 mutant plants present a reduction of  flavonol contents, indicating once more that AtMYB7 represses flavonol  biosynthesis. Our results also show that AtMYB7 gene expression is induced by  salt stress. Induction assays indicated that AtMYB7 represses several genes of  the flavonoid pathway, DFR and UGT being early targets of this transcription  factor. The results obtained indicate that AtMYB7 is a repressor of flavonol  biosynthesis and also led us to propose AtMYB4 and AtMYB7 as part of the  regulatory mechanism controlling the balance of the main A. thaliana  UV-sunscreens.', '2014 Mar', 'Plant Cell Physiol', '10.1093/pcp/pct187', 'Caparros-Ruiz']
+
+AtMYB7: !represses! flavonol biosynthesis
+AtMYB4: !represses! AtMYB7
+AtMYB7: !induces! salt stress
+AtMYB7: !represses! DFR and UGT
+AtMYB4: !reduces! flavonol contents

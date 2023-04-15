@@ -1,0 +1,5 @@
+['9659918', 'Arabidopsis COP1 acts as a light-inactivable repressor of photomorphogenic  development, but its molecular mode of action remains unclear. Here, we show that  COP1 negatively regulates HY5, a bZIP protein and a positive regulator of  photomorphogenic development. Both in vitro and in vivo assays indicate that COP1  interacts directly and specifically with HY5. The hyperphotomorphogenic phenotype  caused by the over-expression of a mutant HY5, which lacks the COP1-interactive  domain, supports the regulatory role of HY5-COP1 interaction. Further, HY5 is  capable of directly interacting with the CHS1 minimal promoter and is essential  for its light activation. We propose that the direct interaction with and  regulation of transcription factors by COP1 may represent the molecular mechanism  for its control of gene expression and photomorphogenic development.', '1998 Jan', 'Mol Cell', '10.1016/s1097-2765(00)80022-2', 'Deng']
+
+COP1: !represses! HY5
+HY5: !interacts with! COP1
+HY5: !activates! CHS1 promoter

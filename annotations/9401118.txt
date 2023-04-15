@@ -1,0 +1,9 @@
+['9401118', 'We have analyzed double mutants that combine late-flowering mutations at four  flowering-time loci (FVE, FPA, FWA, and FT) with mutations at the LEAFY (LFY),  APETALA1 (AP1), and TERMINAL FLOWER1 (TFL1) loci involved in the floral  initiation process (FLIP). Double mutants between ft-1 or fwa-1 and lfy-6  completely lack flowerlike structures, indicating that both FWA and FT act  redundantly with LFY to control AP1. Moreover, the phenotypes of ft-1 ap1-1 and  fwa-1 ap1-1 double mutants are reminiscent of the phenotype of ap1-1 cal-1 double  mutants, suggesting that FWA and FT could also be involved in the control of  other FLIP genes. Such extreme phenotypes were not observed in double mutants  between fve-2 or fpa-1 and lfy-6 ap1-1. Each of these showed a phenotype similar  to that of ap1-1 or lfy-6 mutants grown under noninductive photoperiods,  suggesting a redundant interaction with FLIP genes. Finally, the phenotype of  double mutants combining the late-flowering mutations with tfl1-2 were also  consistent with the different roles of flowering-time genes.', '1997 Nov', 'Plant Cell', '10.1105/tpc.9.11.1921', 'Martinez-Zapater']
+
+FVE: !interacts with! FLIP
+FPA: !interacts with! FLIP
+FWA: !redundantly interacts with! LFY 
+FT: !redundantly interacts with! LFY 
+LFY: !controls! AP1
+AP1: !involved in! floral initiation process
+TFL1: !has different roles! flowering-time genes

@@ -1,0 +1,7 @@
+['30482788', 'Sucrose (Suc) is one of the most important types of sugars in plants, serving  inter alia as a long-distance transport molecule, a carbon and energy storage  compound, an osmotically active solute, and fuel for many anabolic reactions. Suc  biosynthesis and degradation pathways are well known; however, the regulation of  Suc intracellular distribution is poorly understood. In particular, the cellular  function of chloroplast Suc reserves and the transporters involved in  accumulating these substantial Suc levels remain uncharacterized. Here, we  characterize the plastidic sugar transporter (pSuT) in Arabidopsis (Arabidopsis  thaliana), which belongs to a subfamily of the monosaccharide transporter-like  family. Transport analyses with yeast cells expressing a truncated,  vacuole-targeted version of pSuT indicate that both glucose and Suc act as  substrates, and nonaqueous fractionation supports a role for pSuT in Suc export  from the chloroplast. The latter process is required for a correct transition  from vegetative to reproductive growth and influences inflorescence architecture.  Moreover, pSuT activity affects freezing-induced electrolyte release. These data  further underline the central function of the chloroplast for plant development  and the modulation of stress tolerance.', '2019 Feb', 'Plant Physiol', '10.1104/pp.18.01036', 'ORCID:']
+
+Suc: !synthesizes! pSuT 
+pSuT: !transports! Suc 
+pSuT: !exports from! chloroplast 
+chloroplast: !influences! plant development 
+plant development: !modulates! stress tolerance

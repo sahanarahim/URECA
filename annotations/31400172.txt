@@ -1,0 +1,9 @@
+['31400172', 'Mutants in lipid metabolism often show a lethal phenotype during reproduction  that prevents investigating a specific role of the lipid during different  developmental processes. We focused on two non-specific phospholipases C, NPC2  and NPC6, whose double knock-out causes a gametophyte-lethal phenotype. To  investigate the role of NPC2 and NPC6 during vegetative growth, we produced  transgenic knock-down mutant lines that circumvent the lethal effect during  gametogenesis. Despite no defect observed in leaves, root growth was  significantly retarded, with abnormal cellular architecture in root columella  cells. Furthermore, the short root phenotype was rescued by exogenous  supplementation of phosphocholine, a product of non-specific phospholipase  C (NPC) -catalyzed phosphatidylcholine hydrolysis. The expression of phospho-base  N-methyltransferase 1 (PMT1), which produces phosphocholine and is required for  root growth, was induced in the knock-down mutant lines and was attenuated after  phosphocholine supplementation. These results suggest that NPC2 and NPC6 may be  involved in root growth by producing phosphocholine via metabolic interaction  with a PMT-catalyzed pathway, which highlights a tissue-specific role of NPC  enzymes in vegetative growth beyond the gametophyte-lethal phenotype.', '2019 Nov', 'Plant J', '10.1111/tpj.14494', 'ORCID:']
+
+NPC2: !interacts with! PMT1
+NPC6: !interacts with! PMT1
+NPC2: !enhances! root growth
+NPC6: !enhances! root growth
+PMT1: !synthesizes! phosphocholine
+NPC2: !produces! phosphocholine
+NPC6: !produces! phosphocholine

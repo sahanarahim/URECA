@@ -1,0 +1,6 @@
+['19631611', 'The metabolic control of the interaction between ArabidopsisN-acetyl-l-glutamate  kinase (NAGK) and the PII protein has been studied. Both gel exclusion and  affinity chromatography analyses of recombinant, affinity-purified PII (trimeric  complex) and NAGK (hexameric complex) showed that NAGK strongly interacted with  PII only in the presence of Mg-ATP, and that this process was reversed by  2-oxoglutarate (2-OG). Furthermore, metabolites such as arginine, glutamate,  citrate, and oxalacetate also exerted a negative effect on the PII-NAGK complex  formation in the presence of Mg-ATP. Using chloroplast protein extracts and PII  affinity chromatography, NAGK interacted with PII only in the presence of  ATP-Mg(2+), and this process was antagonized by 2-OG. These results reveal a  complex metabolic control of the PII interaction with NAGK in the chloroplast  stroma of higher plants.', '2009 Oct 2', 'Biochem Biophys Res Commun', '10.1016/j.bbrc.2009.07.088', 'Hodges']
+
+NAGK: !interacts with! PII 
+Mg-ATP: !enhances! NAGK-PII interaction 
+2-OG: !represses! NAGK-PII interaction 
+arginine, glutamate, citrate, oxalacetate: !inhibit! NAGK-PII interaction

@@ -1,0 +1,11 @@
+['10631259', 'To investigate how calmodulin regulates a unique subfamily of Ca(2+) pumps found  in plants, we examined the kinetic properties of isoform ACA2 identified in  Arabidopsis. A recombinant ACA2 was expressed in a yeast K616 mutant deficient in  two endogenous Ca(2+) pumps. Orthovanadate-sensitive (45)Ca(2+) transport into  vesicles isolated from transformants demonstrated that ACA2 is a Ca(2+) pump.  Ca(2+) pumping by the full-length protein (ACA2-1) was 4- to 10-fold lower than  that of the N-terminal truncated ACA2-2 (Delta2-80), indicating that the  N-terminal domain normally acts to inhibit the pump. An inhibitory sequence  (IC(50) = 4 microM) was localized to a region within valine-20 to leucine-44,  because a peptide corresponding to this sequence lowered the V(max) and increased  the K(m) for Ca(2+) of the constitutively active ACA2-2 to values comparable to  the full-length pump. The peptide also blocked the activity (IC(50) = 7 microM)  of a Ca(2+) pump (AtECA1) belonging to a second family of Ca(2+) pumps. This  inhibitory sequence appears to overlap with a calmodulin-binding site in ACA2,  previously mapped between aspartate-19 and arginine-36 (J.F. Harper, B. Hong, I.  Hwang, H.Q. Guo, R. Stoddard, J.F. Huang, M.G. Palmgren, H. Sze  inverted question mark1998 J Biol Chem  273: 1099-1106). These results support a model in which the pump is kept  "unactivated" by an intramolecular interaction between an autoinhibitory sequence  located between residues 20 and 44 and a site in the Ca(2+) pump core that is  highly conserved between different Ca(2+) pump families. Results further support  a model in which activation occurs as a result of Ca(2+)-induced binding of  calmodulin to a site overlapping or immediately adjacent to the autoinhibitory  sequence.', '2000 Jan', 'Plant Physiol', '10.1104/pp.122.1.157', 'Sze']
+
+ACA2: !expresses in! yeast K616 mutant 
+ACA2: !transports! (45)Ca(2+) 
+ACA2-1: !has lower activity than! ACA2-2 
+inhibitory sequence: !localizes to! valine-20 to leucine-44 
+inhibitory sequence: !lowers Vmax and increases Km for Ca(2+) of! ACA2-2 
+inhibitory sequence: !blocks activity of! AtECA1 
+calmodulin-binding site: !overlaps with! inhibitory sequence 
+autoinhibitory sequence: !interacts with! Ca(2+) pump core 
+Ca(2+): !induces binding of! calmodulin

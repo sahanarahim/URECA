@@ -1,0 +1,9 @@
+['10806252', 'Plant vacuolar H(+)-translocating inorganic pyrophosphatases (V-PPases; EC  3.6.1.1) have been considered to constitute a family of functionally and  structurally monotonous intrinsic membrane proteins. Typified by AVP1 (V.  Sarafian, Y. Kim, R.J. Poole, P.A. Rea [1992] Proc Natl Acad Sci USA 89:  1775-1779) from Arabidopsis, all characterized plant V-PPases share greater than  84% sequence identity and catalyze K(+)-stimulated H(+) translocation. Here we  describe the molecular and biochemical characterization of AVP2 (accession no.  AF182813), a sequence-divergent (36% identical) K(+)-insensitive,  Ca(2+)-hypersensitive V-PPase active in both inorganic pyrophosphate hydrolysis  and H(+) translocation. The differences between AVP2 and AVP1 provide the first  indication that plant V-PPases from the same organism fall into two distinct  categories. Phylogenetic analyses of these and other V-PPase sequences extend  this principle by showing that AVP2, rather than being an isoform of AVP1, is but  one representative of a novel category of AVP2-like (type II) V-PPases that  coexist with AVP1-like (type I) V-PPases not only in plants, but also in  apicomplexan protists such as the malarial parasite Plasmodium falciparum.', '2000 May', 'Plant Physiol', '10.1104/pp.123.1.353', 'Rea']
+
+AVP1: !belongs to! type I V-PPases
+AVP2: !belongs to! type II V-PPases
+AVP1: !shares greater than 84% sequence identity with! AVP2
+AVP2: !is K(+)-insensitive and Ca(2+)-hypersensitive!
+AVP2: !coexists with! type I V-PPases
+Plants: !contain! type I and type II V-PPases
+Apicomplexan protists: !contain! type I and type II V-PPases

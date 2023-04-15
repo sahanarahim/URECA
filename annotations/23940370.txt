@@ -1,0 +1,8 @@
+['23940370', 'The endodermis acts as a "second skin" in plant roots by providing the cellular  control necessary for the selective entry of water and solutes into the vascular  system. To enable such control, Casparian strips span the cell wall of adjacent  endodermal cells to form a tight junction that blocks extracellular diffusion  across the endodermis. This junction is composed of lignin that is polymerized by  oxidative coupling of monolignols through the action of a NADPH oxidase and  peroxidases. Casparian strip domain proteins (CASPs) correctly position this  biosynthetic machinery by forming a protein scaffold in the plasma membrane at  the site where the Casparian strip forms. Here, we show that the dirigent-domain  containing protein, enhanced suberin1 (ESB1), is part of this machinery, playing  an essential role in the correct formation of Casparian strips. ESB1 is localized  to Casparian strips in a CASP-dependent manner, and in the absence of ESB1,  disordered and defective Casparian strips are formed. In addition, loss of ESB1  disrupts the localization of the CASP1 protein at the casparian strip domain,  suggesting a reciprocal requirement for both ESB1 and CASPs in forming the  casparian strip domain.', '2013 Aug 27', 'Proc Natl Acad Sci U S A', '10.1073/pnas.1308412110', 'Salt']
+
+NADPH oxidase: !synthesizes! lignin 
+peroxidases: !synthesizes! lignin 
+CASP proteins: !localizes to! Casparian strip domain 
+ESB1: !localizes to! Casparian strip domain 
+ESB1: !interacts with! CASP proteins 
+ESB1: !enhances! formation of Casparian strips

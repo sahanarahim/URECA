@@ -1,0 +1,8 @@
+['30979883', 'Unlike activation of target genes in response to abscisic acid (ABA), how MYB96  transcription factor represses ABA-repressible genes to further enhance ABA  responses remains unknown. Here, we show MYB96 interacts with the histone  modifier HDA15 to suppress negative regulators of early ABA signaling. The  MYB96-HDA15 complex co-binds to the promoters of a subset of RHO GTPASE OF PLANTS  (ROP) genes, ROP6, ROP10, and ROP11, and represses their expression by removing  acetyl groups of histone H3 and H4 from the cognate regions, particularly in the  presence of ABA. In support, HDA15-deficient mutants display reduced ABA  sensitivity and are susceptible to drought stress with derepression of the ROP  genes, as observed in the myb96-1 mutant. Biochemical and genetic analyses show  that MYB96 and HDA15 are interdependent in the regulation of ROP suppression.  Thus, MYB96 confers maximal ABA sensitivity by regulating both positive and  negative regulators of ABA signaling through distinctive molecular mechanisms.', '2019 Apr 12', 'Nat Commun', '10.1038/s41467-019-09417-1', 'ORCID:']
+
+MYB96: !interacts with! HDA15
+MYB96: !represses! ROP6
+MYB96: !represses! ROP10
+MYB96: !represses! ROP11
+HDA15: !co-binds to! ROP genes
+HDA15: !removes acetyl groups of! histone H3 & H4

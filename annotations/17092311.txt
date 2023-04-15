@@ -1,0 +1,10 @@
+['17092311', 'Frataxin, a protein crucial for the biogenesis of mitochondria in different  organisms, was recently identified in Arabidopsis thaliana. To investigate the  role of frataxin in higher plants, we analyze two knock-out and one knock-down  T-DNA insertion mutants. The knock-out mutants present an embryo-lethal  phenotype, indicating an essential role for frataxin. The knock-down mutant has  reduced frataxin mRNA and protein levels. This mutant also presents retarded  growth, reduced fresh weight of fruits and reduced number of seeds per fruit.  Surprisingly, transcription of aconitase and the Fe-S subunit of succinate  dehydrogenase (SDH2-1) are increased in mutant plants; however, the activity of  these proteins is reduced, indicating a role for frataxin in Fe-S cluster  assembly or insertion of Fe-S clusters into proteins. Mutant plants also have  increased CO(2) assimilation rates, exhibit increased formation of reactive  oxygen species (ROS) and have increased levels of transcripts for proteins known  to be involved in the ROS stress responses. These results indicate that frataxin  is an essential protein in plants, required for full activity of mitochondrial  Fe-S proteins and playing a protective role against oxidative damage.', '2006 Dec', 'Plant J', '10.1111/j.1365-313X.2006.02923.x', 'Gomez-Casati']
+
+frataxin: !affects! embryo-lethal phenotype 
+frataxin: !affects! transcription of aconitase and SDH2-1 
+frataxin: !affects! activity of Fe-S proteins 
+frataxin: !affects! CO2 assimilation rates 
+frataxin: !affects! formation of ROS 
+frataxin: !affects! transcripts for ROS stress response proteins 
+frataxin: !required for! full activity of mitochondrial Fe-S proteins 
+frataxin: !plays a protective role against! oxidative damage

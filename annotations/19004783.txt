@@ -1,0 +1,9 @@
+['19004783', 'All eukaryotic cells present at the cell surface a specific set of plasma  membrane proteins that modulate responses to internal and external cues and whose  activity is also regulated by protein degradation. We characterized the lytic  vacuole-dependent degradation of membrane proteins in Arabidopsis thaliana by  means of in vivo visualization of vacuolar targeting combined with quantitative  protein analysis. We show that the vacuolar targeting pathway is used by multiple  cargos including PIN-FORMED (PIN) efflux carriers for the phytohormone auxin. In  vivo visualization of PIN2 vacuolar targeting revealed its differential  degradation in response to environmental signals, such as gravity. In contrast to  polar PIN delivery to the basal plasma membrane, which depends on the vesicle  trafficking regulator ARF-GEF GNOM, PIN sorting to the lytic vacuolar pathway  requires additional brefeldin A-sensitive ARF-GEF activity. Furthermore, we  identified putative retromer components SORTING NEXIN1 (SNX1) and VACUOLAR  PROTEIN SORTING29 (VPS29) as important factors in this pathway and propose that  the retromer complex acts to retrieve PIN proteins from a late/pre-vacuolar  compartment back to the recycling pathways. Our data suggest that ARF GEF- and  retromer-dependent processes regulate PIN sorting to the vacuole in an  antagonistic manner and illustrate instrumentalization of this mechanism for  fine-tuning the auxin fluxes during gravitropic response.', '2008 Nov 18', 'Proc Natl Acad Sci U S A', '10.1073/pnas.0808073105', 'Friml']
+
+PIN: !sorted to! lytic vacuole
+ARF-GEF GNOM: !mediates! polar PIN delivery
+ARF-GEF: !sensitive to! brefeldin A
+SNX1: !involved in! PIN sorting
+VPS29: !involved in! PIN sorting
+Retromer complex: !retrieves! PIN proteins
+ARF GEF: !antagonizes! Retromer complex

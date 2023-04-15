@@ -1,0 +1,10 @@
+['26415082', 'Intercellular signaling through trafficking of regulatory proteins is a  widespread phenomenon in plants and can deliver positional information for the  determination of cell fate. In the Arabidopsis root meristem, the cell fate  determinant SHORT-ROOT (SHR), a GRAS domain transcription factor, acts as a  signaling molecule from the stele to the adjacent layer to specify endodermal  cell fate. Upon exiting the stele, SHR activates another GRAS domain  transcription factor, SCARCROW (SCR), which, together with several  BIRD/INDETERMINATE DOMAIN proteins, restricts movement of SHR to define a single  cell layer of endodermis. Here we report that endodermal cell fate also requires  the joint activity of both SCR and its closest homologue SCARECROW-LIKE23  (SCL23). We show that SCL23 protein moves with zonation-dependent directionality.  Within the meristem, SCL23 exhibits short-ranged movement from ground tissue to  vasculature. Away from the meristem, SCL23 displays long-range rootward movement  into meristematic vasculature and a bidirectional radial spread, respectively. As  a known target of SHR and SCR, SCL23 also interacts with SCR and SHR and can  restrict intercellular outspread of SHR without relying on nuclear retention as  SCR does. Collectively, our data show that SCL23 is a mobile protein that  controls movement of SHR and acts redundantly with SCR to specify endodermal fate  in the root meristem.', '2015 Nov', 'Plant J', '10.1111/tpj.13038', 'Blilou']
+
+SHR: !activates! SCR 
+SCR: !interacts with! SCL23 
+SCL23: !restricts! SHR 
+SCL23: !moves with! zonation-dependent directionality 
+SCL23: !interacts with! SCR 
+SHR: !specifies! endodermal cell fate 
+SCR: !restricts! movement of SHR 
+SCL23: !acts redundantly with! SCR

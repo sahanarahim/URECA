@@ -1,0 +1,7 @@
+['11489173', 'Phospholipid metabolism is involved in plant responses to drought and salinity  stress. To investigate the role of phospholipase D (PLD) and its product  phosphatidic acid (PtdOH) in stress signalling, we isolated a novel PLD cDNA,  designated AtPLDdelta, by screening a cDNA library prepared from dehydrated  Arabidopsis thaliana. The AtPLDdelta protein, of 868 amino acids, has a putative  catalytic domain and a C2 domain that is involved in Ca2+/phospholipid binding.  The AtPLDdelta mRNA accumulated in response to dehydration and high salt stress.  Histochemical analysis showed that the AtPLDdelta gene is strongly expressed in  the vascular tissues of cotyledons and leaves under dehydration stress  conditions. Under normal growth conditions, AtPLDdelta was expressed in roots,  leaves, stems and flowers but not in siliques. We showed that dehydration  stimulates the accumulation of PtdOH. The accumulation of PtdOH in response to  dehydration was significantly suppressed in AtPLDdelta antisense transgenic  plants. These results suggest that AtPLDdelta may be involved in PtdOH  accumulation in the dehydration stress response.', '2001 Jun', 'Plant J', '10.1046/j.1365-313x.2001.01060.x', 'Shinozaki']
+
+AtPLDdelta: !synthesizes! PtdOH 
+AtPLDdelta: !localizes to! vascular tissues of cotyledons and leaves 
+AtPLDdelta: !accumulates in response to! dehydration and high salt stress 
+AtPLDdelta: !enhances! accumulation of PtdOH in response to dehydration 
+AtPLDdelta: !represses! accumulation of PtdOH in AtPLDdelta antisense transgenic plants

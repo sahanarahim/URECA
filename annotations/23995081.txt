@@ -1,0 +1,9 @@
+['23995081', 'To characterize the mechanism through which myosin XI-K attaches to its principal  endomembrane cargo, a yeast two-hybrid library of Arabidopsis thaliana cDNAs was  screened using the myosin cargo binding domain as bait. This screen identified  two previously uncharacterized transmembrane proteins (hereinafter myosin binding  proteins or MyoB1/2) that share a myosin binding, conserved domain of unknown  function 593 (DUF593). Additional screens revealed that MyoB1/2 also bind myosin  XI-1, whereas myosin XI-I interacts with the distantly related MyoB7. The in vivo  interactions of MyoB1/2 with myosin XI-K were confirmed by immunoprecipitation  and colocalization analyses. In epidermal cells, the yellow fluorescent  protein-tagged MyoB1/2 localize to vesicles that traffic in a myosin XI-dependent  manner. Similar to myosin XI-K, MyoB1/2 accumulate in the tip-growing domain of  elongating root hairs. Gene knockout analysis demonstrated that functional  cooperation between myosin XI-K and MyoB proteins is required for proper plant  development. Unexpectedly, the MyoB1-containing vesicles did not correspond to  brefeldin A-sensitive Golgi and post-Golgi or prevacuolar compartments and did  not colocalize with known exocytic or endosomal compartments. Phylogenomic  analysis suggests that DUF593 emerged in primitive land plants and founded a  multigene family that is conserved in all flowering plants. Collectively, these  findings indicate that MyoB are membrane-anchored myosin receptors that define a  distinct, plant-specific transport vesicle compartment.', '2013 Aug', 'Plant Cell', '10.1105/tpc.113.113704', 'Dolja']
+
+MyoB1/2: !binds! myosin XI-K 
+MyoB1/2: !localizes to! vesicles 
+myosin XI-K: !interacts with! MyoB1/2 
+MyoB1/2: !colocalizes with! myosin XI-K 
+MyoB1/2: !required for! proper plant development 
+DUF593: !emerged in! primitive land plants 
+DUF593: !founded! multigene family

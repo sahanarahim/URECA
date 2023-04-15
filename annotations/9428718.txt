@@ -1,0 +1,8 @@
+['9428718', 'A polyclonal antiserum against the p34cdc2 homologue of Arabidopsis thaliana,  CDC2aAt, was used in parallel with a polyclonal antiserum against the PSTAIRE  motif to study the subcellular localization of CDC2 during the cell cycle of  isolated root tip cells of Medicago sativa. During interphase, CDC2 was located  in the nucleus and in the cytoplasm. The cytoplasmic localization persisted  during the complete cell cycle, whereas the nuclear signal disappeared at nuclear  envelope breakdown. At the beginning of anaphase, the anti-CDC2aAt antibody  transiently co-localized with condensed chromosomes. The chromosomal  co-localization disappeared as anaphase continued and remained excluded from the  separated chromosomes until cytokinesis, when CDC2 re-located to the newly  forming nuclei. We also observed a co-localization of CDC2 with three  microtubular structures, the pre-prophase band, the spindle, and the  phragmoplast.', '1997 Dec 1', 'FEBS Lett', '10.1016/s0014-5793(97)01368-9', 'Inze']
+
+CDC2aAt: !localizes to! nucleus 
+CDC2aAt: !localizes to! cytoplasm 
+CDC2aAt: !co-localizes with! condensed chromosomes 
+CDC2aAt: !co-localizes with! pre-prophase band 
+CDC2aAt: !co-localizes with! spindle 
+CDC2aAt: !co-localizes with! phragmoplast

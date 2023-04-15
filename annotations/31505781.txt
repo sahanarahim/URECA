@@ -1,0 +1,8 @@
+['31505781', 'Biodiversity in plant shape is mainly attributable to the diversity of leaf  shape, which is largely determined by the transient morphogenetic activity of the  leaf margin that creates leaf serrations. However, the precise mechanism  underlying the establishment of this morphogenetic capacity remains poorly  understood. We report here that INDOLE-3-BUTYRIC ACID RESPONSE 5 (IBR5), a  dual-specificity phosphatase, is a key component of leaf-serration regulatory  machinery. Loss-of-function mutants of IBR5 exhibited pronounced serrations due  to increased cell area. IBR5 was localized in the nucleus of leaf epidermis and  petiole cells. Introducing a C129S mutation within the highly conserved  VxVHCx(2)GxSRSx(5)AYLM motif of IBR5 rendered it unable to rescue the  leaf-serration defects of the ibr5-3 mutant. In addition, auxin reporters  revealed that the distribution of auxin maxima was expanded ectopically in  ibr5-3. Furthermore, we found that the distribution of PIN1 on the plasma  membrane of the epidermal and cells around the leaf vein was compromised in  ibr5-3. We concluded that IBR5 is essential for the establishment of PIN-FORMED 1  (PIN1)-directed auxin maxima at the tips of leaf serration, which is vital for  the elaborated regulation during its formation.', '2019 Sep 9', 'Int J Mol Sci', '10.3390/ijms20184429', 'Zuo']
+
+IBR5: !affects! leaf serration
+IBR5: !localizes to! nucleus
+IBR5: !interacts with! VxVHCx(2)GxSRSx(5)AYLM motif
+IBR5: !enhances! auxin maxima
+IBR5: !represses! PIN1 distribution
+PIN1: !directs! auxin maxima

@@ -1,0 +1,10 @@
+['15292395', 'In the fission yeast Schizosaccharomyces pombe, the onset of septum formation is  signalled via the septation initiation network (SIN) involving several protein  kinases and a GTPase. Arabidopsis thaliana and Brassica napus proteins homologous  to fission yeast spg1p (AtSGP1, AtSGP2), cdc7p (AtMAP3K epsilon 1, AtMAP3K  epsilon 2, BnMAP3K epsilon 1) and sid1p (AtMAP4K alpha 1, AtMAP4K alpha 2,  BnMAP4K alpha 2) exhibit a significant similarity. The plant proteins AtSGP1/2  and BnMAP4K alpha 2 are able to complement the S. pombe mutant proteins spg1-B8  and sid1-239, respectively and to induce mutisepta when overexpressed in  wild-type yeast. Yeast two-hybrid assays demonstrated interactions both between  plant proteins and between plant and yeast proteins of the SIN pathway. However,  the primary structure of the proteins as well as the partial complementation of  yeast mutants indicates that plant homologous proteins and their yeast  counterparts have diverged during evolution. Real-time RT-PCR studies  demonstrated plant SIN-related gene expression in all organs tested and a  co-expression pattern during the cell cycle, with a higher accumulation at  G(2)-M. During interphase, the plant SIN-related proteins were found to  co-localise predominantly in the nucleolus of the plant cells, as shown by  fusions to green fluorescent protein. These data suggest the existence of a plant  SIN-related pathway.', '2004 Aug 15', 'J Cell Sci', '10.1242/jcs.01200', 'Henry']
+
+AtSGP1/2: !complements! spg1-B8 
+AtMAP3K epsilon 1/2: !exhibit similarity to! cdc7p 
+AtMAP4K alpha 1/2: !exhibit similarity to! sid1p 
+AtSGP1/2: !interacts with! AtMAP3K epsilon 1/2 
+AtMAP4K alpha 1/2: !interacts with! BnMAP4K alpha 2 
+AtSGP1/2: !induces! mutisepta 
+AtSGP1/2: !co-localises in! nucleolus 
+AtSGP1/2: !expresses during! cell cycle

@@ -1,0 +1,7 @@
+['9724822', 'The circadian clock-associated 1 (CCA1) gene encodes a Myb-related transcription  factor that has been shown to be involved in the phytochrome regulation of  Lhcb1*3 gene expression and in the function of the circadian oscillator in  Arabidopsis thaliana. By using a yeast interaction screen to identify proteins  that interact with CCA1, we have isolated a cDNA clone encoding a regulatory  (beta) subunit of the protein kinase CK2 and have designated it as CKB3. CKB3 is  the only reported example of a third beta-subunit of CK2 found in any organism.  CKB3 interacts specifically with CCA1 both in a yeast two-hybrid system and in an  in vitro interaction assay. Other subunits of CK2 also show an interaction with  CCA1 in vitro. CK2 beta-subunits stimulate binding of CCA1 to the CCA1 binding  site on the Lhcb1*3 gene promoter, and recombinant CK2 is able to phosphorylate  CCA1 in vitro. Furthermore, Arabidopsis plant extracts contain a CK2-like  activity that affects the formation of a DNA-protein complex containing CCA1.  These results suggest that CK2 can modulate CCA1 activity both by direct  interaction and by phosphorylation of the CCA1 protein and that CK2 may play a  role in the function of CCA1 in vivo.', '1998 Sep 1', 'Proc Natl Acad Sci U S A', '10.1073/pnas.95.18.11020', 'Tobin']
+
+CCA1: !encodes! transcription factor 
+CCA1: !interacts with! CKB3 
+CKB3: !stimulates binding of! CCA1 
+CK2: !phosphorylates! CCA1 
+CK2: !affects formation of! DNA-protein complex containing CCA1

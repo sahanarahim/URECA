@@ -1,0 +1,11 @@
+['15821876', 'Proteins that specifically bind double-stranded RNA (dsRNA) are involved in the  regulation of cellular signaling events and gene expression, and are  characterized by a conserved dsRNA-binding motif (dsRBM). Here we report the  biochemical properties of nine such gene products, each containing one or two  dsRBMs: four Arabidopsis Dicer-like proteins (DCL1-4), Arabidopsis HYL1 and four  of its homologs (DRB2, DRB4, DRB5 and OsDRB1). DCL1, DCL3, HYL1 and the four HYL1  homologs exhibit significant dsRNA-binding activity, indicating that these  proteins are involved in RNA metabolism. The dsRBMs from dsRBM-containing  proteins (dsRBPs) also function as a protein-protein interaction domain and homo-  and heterodimerization are essential for biological functioning of these  proteins. We show that DRB4 interacts specifically with DCL4, and HYL1 most  strongly interacts with DCL1. These results indicate that each HYL1/DRB family  protein interacts with one specific partner among the four Dicer-like proteins.  Localization studies using GFP fusion proteins demonstrate that DCL1, DCL4, HYL1  and DRB4 localize in the nucleus, while DRB2 is present in the cytoplasm.  Subcellular localizations of HYL1, DRB4, DCL1 and DCL4 further strengthen the  notion that HYL1 and DCL1, and DRB4 and DCL4, exist as complexes. The presented  data suggest that each member of the HYL1/DRB protein family may individually  modulate Dicer function through heterodimerization with a Dicer-like protein in  vivo.', '2005 Jan', 'Plant Mol Biol', '10.1007/s11103-004-6853-5', 'Fukuhara']
+
+DCL1: !interacts with! HYL1
+DCL3: !binds! dsRNA
+HYL1: !interacts with! DCL1
+DRB2: !localizes to! cytoplasm
+DRB4: !interacts with! DCL4
+DCL4: !interacts with! DRB4
+HYL1: !localizes to! nucleus
+DRB4: !localizes to! nucleus
+DCL1: !localizes to! nucleus

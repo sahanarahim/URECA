@@ -1,0 +1,8 @@
+['23221701', "Not only in bacteria but also in plant cells, guanosine-3',5'-tetraphosphate  (ppGpp) is an important signaling molecule, that affects various cellular  processes. In this study, we identified nucleoside diphosphates linked to some  moiety X (Nudix) hydrolases, AtNUDX11, 15, 25, and 26, having ppGpp  pyrophosphohydrolase activity from Arabidopsis plants. Among these, AtNUDX26  localized in chloroplasts had the highest Vmax and kcat values, leading to high  catalytic efficiency, kcat/Km. The activity of AtNUDX26 required Mg2+ or Mn2+  ions as cofactor and was optimal at pH 9.0 and 50  degrees C. The expression of AtNUDX26  and of ppGpp metabolism-associated genes was regulated by various types of  stress, suggesting that AtNUDX26 regulates cellular ppGpp levels in response to  stress and impacts gene expression in chloroplasts. This is the first report on  the molecular properties of ppGpp pyrophosphohydrolases in plants.", '2012', 'Biosci Biotechnol Biochem', '10.1271/bbb.120523', 'Shigeoka']
+
+ppGpp: !affects! Process 
+AtNUDX26: !localizes to! Chloroplasts 
+AtNUDX26: !requires! Mg2+/Mn2+ ions 
+AtNUDX26: !optimal at! pH 9.0, 50 degrees C 
+AtNUDX26: !regulates! ppGpp levels 
+AtNUDX26: !impacts! Gene expression

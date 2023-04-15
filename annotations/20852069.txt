@@ -1,0 +1,11 @@
+['20852069', 'As one of the most abundant polysaccharides on Earth, xylan will provide more  than a third of the sugars for lignocellulosic biofuel production when using  grass or hardwood feedstocks. Xylan is characterized by a linear beta(1,4)-linked  backbone of xylosyl residues substituted by glucuronic acid, 4-O-methylglucuronic  acid or arabinose, depending on plant species and cell types. The biological role  of these decorations is unclear, but they have a major influence on the  properties of the polysaccharide. Despite the recent isolation of several mutants  with reduced backbone, the mechanisms of xylan synthesis and substitution are  unclear. We identified two Golgi-localized putative glycosyltransferases,  GlucUronic acid substitution of Xylan (GUX)-1 and GUX2 that are required for the  addition of both glucuronic acid and 4-O-methylglucuronic acid branches to xylan  in Arabidopsis stem cell walls. The gux1 gux2 double mutants show loss of xylan  glucuronyltransferase activity and lack almost all detectable xylan substitution.  Unexpectedly, they show no change in xylan backbone quantity, indicating that  backbone synthesis and substitution can be uncoupled. Although the stems are  weakened, the xylem vessels are not collapsed, and the plants grow to normal  size. The xylan in these plants shows improved extractability from the cell wall,  is composed of a single monosaccharide, and requires fewer enzymes for complete  hydrolysis. These findings have implications for our understanding of the  synthesis and function of xylan in plants. The results also demonstrate the  potential for manipulating and simplifying the structure of xylan to improve the  properties of lignocellulose for bioenergy and other uses.', '2010 Oct 5', 'Proc Natl Acad Sci U S A', '10.1073/pnas.1005456107', 'Dupree']
+
+GUX-1: !localizes to! Golgi 
+GUX-2: !localizes to! Golgi 
+GUX-1: !interacts with! GUX-2 
+GUX-1: !enhances! xylan glucuronyltransferase activity 
+GUX-2: !enhances! xylan glucuronyltransferase activity 
+GUX-1: !represses! xylan substitution 
+GUX-2: !represses! xylan substitution 
+GUX-1: !synthesizes! xylan backbone 
+GUX-2: !synthesizes! xylan backbone

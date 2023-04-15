@@ -1,0 +1,10 @@
+['34938306', 'The adjustment of stomatal density and clustered ratio on the epidermis is the  important strategy for plants to respond to drought, because the stoma-based  water loss is directly related to plant growth and survival under drought  conditions. But the relevant adjustment mechanism still needs to be explored.  1-Aminocyclopropane-1-carboxylate (ACC) is disclosed to promote stomatal  development, while in vivo ACC levels depend on activation of ACC synthase (ACS)  family members. Based on the findings of ACS expression involving in drought  response and several ACS activity inhibitors reducing stomatal density and  cluster in drought response, here we examined how ACS activation is involved in  the establishment of stomatal density and cluster on the epidermis under drought  conditions. Preliminary data indicated that activation of ACS2 and/or ACS6  (ACS2/6) increased stomatal density and clustered ratio on the Arabidopsis leaf  epidermis by accumulating ACC under moderate drought, and raised the survival  risk of seedlings under escalated drought. Further exploration indicated that, in  Arabidopsis seedlings stressed by drought, the transcription factor SPEECHLESS  (SPCH), the initiator of stomatal development, activates ACS2/6 expression and  ACC production; and that ACC accumulation induces Ca(2+) deficiency in stomatal  lineage; this deficiency inactivates a subtilisin-like protease STOMATAL DENSITY  AND DISTRIBUTION 1 (SDD1) by stabilizing the inhibition of the transcription  factor GT-2 Like 1 (GTL1) on SDD1 expression, resulting in an increases of  stomatal density and cluster ratio on the leaf epidermis. This work provides a  novel evidence that ACS2/6 activation plays a key role in the establishment of  stomatal density and cluster on the leaf epidermis of Arabidopsis in response to  drought.', '2021', 'Front Plant Sci', '10.3389/fpls.2021.758785', 'Jiang']
+
+ACS2/6: !activates! SPCH 
+SPCH: !induces! ACS2/6 
+ACS2/6: !produces! ACC 
+ACC: !induces! Ca(2+) deficiency 
+Ca(2+): !inactivates! SDD1 
+SDD1: !represses! GTL1 
+GTL1: !inhibits! SDD1 
+ACS2/6: !increases! stomatal density and clustered ratio

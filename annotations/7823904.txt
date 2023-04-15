@@ -1,0 +1,10 @@
+['7823904', 'Four clones corresponding to Arabidopsis thaliana transcripts regulated by  progressive drought stress were isolated. Abundance of the AtDi8, AtDi19 and  AtDi21 mRNAs increased in both roots and leaves during progressive drought. The  AtDr4 mRNA was expressed in a root-specific manner in regularly watered plants,  and became undetectable under drought conditions. In all cases, the  drought-induced modifications of mRNA abundance could be reversed by subsequent  rehydration. The predicted AtDr4 protein displays extensive similarity to various  members of the Kunitz protein family, suggesting that AtDr4 might be a  root-specific protease inhibitor. Of these four genes, only AtDi8 and AtDi21  responded to an exogenous supply of abscisic acid (ABA). Analysis of the  ABA-deficient aba mutant demonstrated that endogenous ABA indeed participates in  the drought regulation of these two transcripts. This ABA-dependent response was  differentially affected in the various classes of ABA-insensitive Arabidopsis  mutants. The AtDi19 and AtDr4 mRNAs both responded to drought in an  ABA-independent manner, but at distinct thresholds of the progressive drought  stress. Regulation of these four target genes by progressive drought stress thus  appears to be mediated by at least three distinct signals, only one of which is  ABA.', '1995 Jan 6', 'Mol Gen Genet', '10.1007/BF00290128', 'Giraudat']
+
+AtDi8: !responds to! ABA 
+AtDi19: !responds to! drought 
+AtDi21: !responds to! ABA 
+AtDr4: !responds to! drought 
+drought: !induces! AtDi8, AtDi19, AtDi21, AtDr4 
+ABA: !induces! AtDi8, AtDi21 
+AtDr4: !localizes to! root 
+AtDr4: !synthesizes! Kunitz protein family

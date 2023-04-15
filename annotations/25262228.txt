@@ -1,0 +1,12 @@
+['25262228', 'The Arabidopsis proline-rich, extensin-like receptor-like kinases (PERKs) are a  small group of receptor-like kinases that are thought to act as sensors at the  cell wall through their predicted proline-rich extracellular domains. In this  study, we focused on the characterization of a subclade of three Arabidopsis  predicted PERK genes, PERK8, -9, and -10, for which no functions were known.  Yeast two-hybrid interaction studies were conducted with the PERK8,- 9, and -10  cytosolic kinase domains, and two members of the Arabidopsis AGC VIII kinase  family were identified as interacting proteins: AGC1-9 and the closely related  kinesin-like calmodulin-binding protein (KCBP)-interacting protein kinase (KIPK).  As KIPK has been identified previously as an interactor of KCBP, these  interactions were also examined further and confirmed in this study. Finally,  T-DNA mutants for each gene were screened for altered phenotypes under different  conditions, and from these screens, a role for the PERK, KIPK, and KCBP genes in  negatively regulating root growth was uncovered.', '2015 Jan', 'J Exp Bot', '10.1093/jxb/eru390', 'Goring']
+
+PERK8: !interacts with! AGC1-9 
+PERK9: !interacts with! AGC1-9 
+PERK10: !interacts with! AGC1-9 
+PERK8: !interacts with! KIPK 
+PERK9: !interacts with! KIPK 
+PERK10: !interacts with! KIPK 
+KIPK: !interacts with! KCBP 
+PERK8: !represses! root growth 
+PERK9: !represses! root growth 
+PERK10: !represses! root growth

@@ -1,0 +1,11 @@
+['36155833', 'Increases in recorded high temperatures around the world are causing plant  thermomorphogenesis and decreasing crop productivity. PHYTOCHROME INTERACTING  FACTOR 4 (PIF4) is a central positive regulator of plant thermomorphogenesis.  However, the molecular mechanisms underlying PIF4-regulated thermomorphogenesis  remain largely unclear. In this study, we identified ABNORMAL THERMOMORPHOGENESIS  1 (ABT1) as an important negative regulator of PIF4 and plant  thermomorphogenesis. Overexpression of ABT1 in the activation tagging mutant  abt1-D caused shorter hypocotyls and petioles under moderately high temperature  (HT). ABT1 encodes WRKY14, which belongs to subgroup II of the WRKY transcription  factors. Overexpression of ABT1/WRKY14 or its close homologs, including  ABT2/WRKY35, ABT3/WRKY65, and ABT4/WRKY69in transgenic plants caused  insensitivity to HT, whereas the quadruple mutant abt1 abt2 abt3 abt4 exhibited  greater sensitivity to HT. ABTs were expressed in hypocotyls, cotyledons, shoot  apical meristems, and leaves, but their expression were suppressed by HT.  Biochemical assays showed that ABT1 can interact with TCP5, a known positive  regulator of PIF4, and interrupt the formation of the TCP5-PIF4 complex and  repress its transcriptional activation activity. Genetic analysis showed that  ABT1 functioned antagonistically with TCP5, BZR1, and PIF4 in plant  thermomorphogenesis. Taken together, our results identify ABT1/WRKY14 as a  critical repressor of plant thermomorphogenesis and suggest that ABT1/WRKY14,  TCP5, and PIF4 may form a sophisticated regulatory module to fine-tune PIF4  activity and temperature-dependent plant growth.', '2022 Nov 7', 'Mol Plant', '10.1016/j.molp.2022.09.018', 'Qin']
+
+PIF4: !regulates! thermomorphogenesis 
+ABT1: !regulates! PIF4 
+ABT1: !encodes! WRKY14 
+WRKY14: !interacts with! TCP5 
+TCP5: !activates! PIF4 
+BZR1: !interacts with! PIF4 
+ABT1: !represses! PIF4 
+ABT1: !localizes to! hypocotyls, cotyledons, shoot apical meristems, and leaves 
+ABT1: !suppressed by! HT

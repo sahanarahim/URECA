@@ -1,0 +1,9 @@
+['25193399', 'Among T-DNA insertion mutants of various cullin4-RING ubiquitin E3 ligase (CRL4)  substrate receptors, one mutant that exhibits enhanced sensitivity in response to  ultraviolet-B (UV-B) illumination has been isolated and its corresponding gene  has been named DWD HYPERSENSITIVE TO UV-B 1 (DHU1) in Arabidopsis. dhu1 lines  showed much shorter hypocotyls than those in wild type under low doses of UV-B.  Other light did not alter hypocotyl growth patterns in dhu1, indicating the  hypersensitivity of dhu1 is restricted to UV-B. DHU1 was upregulated by more than  two times in response to UV-B application of 1.5 mumol m(-2) s(-1), implying its  possible involvement in UV-B signaling. DHU1 is able to bind to DDB1, an adaptor  of CRL4; accordingly, DHU1 is thought to act as a substrate receptor of CRL4.  Microarray data generated from wild-type and dhu1 under low doses of UV-B  revealed that 209 or 124 genes were upregulated or downregulated by more than two  times in dhu1 relative to wild type, respectively. About 23.4 % of the total  upregulated genes in dhu1 were upregulated by more than five times in response to  UV-B based on the AtGenExpress Visualization Tool data, while only about 1.4 %  were downregulated to the same degree by UV-B, indicating that loss of DHU1 led  to the overall enhancement of the upregulation of UV-B inducible genes. dhu1 also  showed altered responsiveness under high doses of UV-B. Taken together, these  findings indicate that DHU1 is a potent CRL4 substrate receptor that may function  as a negative regulator of UV-B response in Arabidopsis.', '2014 Dec', 'Plant Mol Biol', '10.1007/s11103-014-0247-0', 'Lee']
+
+DHU1: !enhances! UV-B response 
+DHU1: !binds to! DDB1 
+DHU1: !acts as! CRL4 substrate receptor 
+UV-B: !upregulates! DHU1 
+UV-B: !induces! 209 genes 
+dhu1: !downregulates! 124 genes 
+dhu1: !alters! responsiveness to high doses of UV-B

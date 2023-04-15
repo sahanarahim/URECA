@@ -1,0 +1,14 @@
+['21189252', 'Sulfurtransferases (STRs) catalyze the transfer of a sulfur atom from a donor to  a suitable acceptor molecule. The Arabidopsis thaliana genome encodes 20 putative  STR proteins. The biological functions of most are unclear. We found that STR1  and STR2 play important roles in embryo/seed development. Mutation of STR1 alone  resulted in a shrunken seed phenotype, although growth and development of  vegetative and reproductive organs were not affected. The shrunken seed phenotype  was associated with the delayed/arrested embryo development, in most cases, at  the heart stage. The embryo defect of str1 mutant is not fully penetrant.  Approximately 12.5% of embryos developed further and formed normal looking seeds.  In severely shrunken seeds, no embryo could be identified after seed collection.  Partially shrunken seeds that contained viable embryos could still germinate.  However, cotyledons of the seedlings from such seeds were abnormal. An STR1-GUS  fusion reporter revealed that the STR1 gene was universally expressed, with high  levels of expression in specific tissues/organs including embryos. The incomplete  penetrance of str1 embryo/seed phenotype is a result of functional STR2. Single  str2 mutant had no phenotype. However, no str1(-/-)/str2(-/-) double mutant  embryos were able to develop past the heart stage. Furthermore, STR2 is  haplo-insufficient in str1 mutant background, and str1(-/-)/str2(+/-) embryos  were 100% lethal. These data provide new insights into the biological functions  of the ubiquitous sulfurtransferase in Arabidopsis embryogenesis and seed  development.', '2011 Mar 4', 'J Biol Chem', '10.1074/jbc.M110.182865', 'Zhang']
+
+STR1: !affects! Embryo/Seed Development 
+STR2: !affects! Embryo/Seed Development 
+STR1: !localizes to! Specific Tissues/Organs 
+STR2: !localizes to! Specific Tissues/Organs 
+STR1: !interacts with! STR2 
+STR2: !interacts with! STR1 
+STR1: !enhances! Embryo Development 
+STR2: !enhances! Embryo Development 
+STR1: !represses! Embryo Development 
+STR2: !represses! Embryo Development 
+STR1: !synthesizes! GUS Fusion Reporter 
+STR2: !synthesizes! GUS Fusion Reporter

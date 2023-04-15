@@ -1,0 +1,15 @@
+['18628352', 'In prokaryotes, PurU (10-formyl tetrahydrofolate [THF] deformylase) metabolizes  10-formyl THF to formate and THF for purine and Gly biosyntheses. The Arabidopsis  thaliana genome contains two putative purU genes, At4g17360 and At5g47435.  Knocking out these genes simultaneously results in plants that are smaller and  paler than the wild type. These double knockout (dKO) mutant plants show a  70-fold increase in Gly levels and accumulate elevated levels of 5- and 10-formyl  THF. Embryo development in dKO mutants arrests between heart and early bent  cotyledon stages. Mature seeds are shriveled, accumulate low amounts of lipids,  and fail to germinate. However, the dKO mutant is only conditionally lethal and  is rescued by growth under nonphotorespiratory conditions. In addition, culturing  dKO siliques in the presence of sucrose restores normal embryo development and  seed viability, suggesting that the seed and embryo development phenotypes are a  result of a maternal effect. Our findings are consistent with the involvement of  At4g17360 and At5g47435 proteins in photorespiration, which is to prevent  excessive accumulation of 5-formyl THF, a potent inhibitor of the Gly  decarboxylase/Ser hydroxymethyltransferase complex. Supporting this role,  deletion of the At2g38660 gene that encodes the bifunctional 5,10-methylene THF  dehydrogenase/5,10-methenyl THF cyclohydrolase that acts upstream of 5-formyl THF  formation restored the wild-type phenotype in dKO plants.', '2008 Jul', 'Plant Cell', '10.1105/tpc.108.058701', 'Shachar-Hill']
+
+PurU: !metabolizes! 10-formyl THF 
+At4g17360/At5g47435: !affects! plant size and paleness 
+At4g17360/At5g47435: !increases! Gly levels 
+At4g17360/At5g47435: !accumulates! 5- and 10-formyl THF 
+dKO mutants: !arrests! embryo development 
+dKO mutants: !shrivels! mature seeds 
+dKO mutants: !fails to! germinate 
+dKO mutants: !rescued by! nonphotorespiratory conditions 
+dKO siliques: !restores! normal embryo development 
+dKO siliques: !restores! seed viability 
+At2g38660: !restores! wild-type phenotype in dKO plants 
+At2g38660: !encodes! bifunctional 5,10-methylene THF dehydrogenase/5,10-methenyl THF cyclohydrolase 
+At4g17360/At5g47435: !involvement in! photoresp

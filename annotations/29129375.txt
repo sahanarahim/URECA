@@ -1,0 +1,8 @@
+['29129375', 'Alternative promoter usage is a proteome-expanding mechanism that allows multiple  pre-mRNAs to be transcribed from a single gene. The impact of this mechanism on  the proteome and whether it is positively exploited in normal organismal  responses remain unclear. We found that the plant photoreceptor phytochrome  induces genome-wide changes in alternative promoter selection in Arabidopsis  thaliana. Through this mechanism, protein isoforms with different N termini are  produced that display light-dependent differences in localization. For instance,  shade-grown plants accumulate a cytoplasmic isoform of glycerate kinase (GLYK),  an essential photorespiration enzyme that was previously thought to localize  exclusively to the chloroplast. Cytoplasmic GLYK constitutes a photorespiratory  bypass that alleviates fluctuating light-induced photoinhibition. Therefore,  phytochrome controls alternative promoter selection to modulate protein  localization in response to changing light conditions. This study suggests that  alternative promoter usage represents another ubiquitous layer of gene expression  regulation in eukaryotes that contributes to diversification of the proteome.', '2017 Nov 30', 'Cell', '10.1016/j.cell.2017.10.018', 'Matsushita']
+
+phytochrome: !induces! alternative promoter selection 
+alternative promoter selection: !produces! protein isoforms 
+protein isoforms: !display! light-dependent differences in localization 
+GLYK: !localizes to! cytoplasm 
+cytoplasmic GLYK: !constitutes! photorespiratory bypass 
+phytochrome: !controls! alternative promoter selection

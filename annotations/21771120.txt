@@ -1,0 +1,12 @@
+['21771120', 'In plants, the exogenous transgene transcribing inverted-repeat (exo-IR)  sequences produces double-stranded RNAs that are processed by DCL4. The 21-nt  small interfering RNAs generated function as mobile signals to trigger non-cell  autonomous silencing of target endogenes in the neighboring 10-15 cells. The  potential involvement of nuclear silencing pathway components in signal spreading  or sensing in target cells is not clear. Here, we demonstrate that the exo-IR  silencer (exo-Pdsi) is negatively autoregulated through methylation spreading,  which acts in cis to reinforce the self-silencing of the silencer. Mutations  affecting nuclear proteins DRD1 and Pol V (NRPE1 or NRPD2) relieved exo-Pdsi  self-silencing, resulting in higher levels of Pdsi transcripts, which increased  the non-cell autonomous silencing of endo-PDS. Our results suggest that in an  experimental silencing pathway, methylation spreading on a silencer transgene may  not have a direct endogenous plant counterpart when the protein-encoding gene is  the target. DRD1-Pol V-dependent de novo methylation, by acting in cis to  reinforce self-silencing of exo-IR, may play a role in restraining the  inappropriate silencing of active protein-coding genes in plants.', '2011 Nov', 'Plant J', '10.1111/j.1365-313X.2011.04714.x', 'Guo']
+
+exo-IR: !produces! double-stranded RNAs 
+DCL4: !processes! double-stranded RNAs 
+exo-Pdsi: !negatively autoregulated by! methylation spreading 
+DRD1: !relieves! exo-Pdsi self-silencing 
+Pol V: !relieves! exo-Pdsi self-silencing 
+NRPE1: !relieves! exo-Pdsi self-silencing 
+NRPD2: !relieves! exo-Pdsi self-silencing 
+exo-Pdsi: !increases! non-cell autonomous silencing of endo-PDS 
+DRD1-Pol V: !dependent on! de novo methylation 
+de novo methylation: !acts in cis to! reinforce self-silencing of exo-IR

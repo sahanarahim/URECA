@@ -1,0 +1,8 @@
+['17307927', 'The COP9 signalosome (CSN) is an evolutionarily conserved multisubunit protein  complex that regulates a variety of biological processes. Among its eight  subunits, CSN5 and CSN6 contain a characteristic MPN (for Mpr1p and Pad1p  N-terminal) domain and, in Arabidopsis thaliana, are each encoded by two genes:  CSN5A, CSN5B and CSN6A, CSN6B, respectively. We characterized both MPN subunits  using a series of single and double mutants within each gene family. Our results  indicate that although CSN6A and CSN6B retain mostly redundant functions, CSN5A  and CSN5B play unequal roles in the regulation of plant development. Complete  depletion of either of the two MPN members results in CSN instability and the  decay of various CSN components, along with the complete loss of CUL1, CUL3, and  CUL4 derubylation. Furthermore, we demonstrate that CSN interacts with CUL3, in  addition to CUL1 and CUL4, and that the lack of CSN activity differentially  affects the stability of those three cullins. Interestingly, we also show that  optimal CUL3 activity is required to maintain the cellular pool of CSN5, through  a posttranscriptional mechanism. Our data suggest the existence of reciprocal  regulation between CUL3 and CSN5 accumulation. This study thus completes the  genetic analysis of all CSN subunits and confirms the structural interdependence  between PCI and MPN subunits in functional CSN complex formation.', '2007 Feb', 'Plant Cell', '10.1105/tpc.106.047571', 'Deng']
+
+CSN5A: !interacts with! CUL3
+CSN5B: !interacts with! CUL3
+CSN6A: !retains redundant functions! CSN6B
+CSN6B: !retains redundant functions! CSN6A
+CUL3: !maintains cellular pool of! CSN5
+CSN5: !required for optimal! CUL3 activity

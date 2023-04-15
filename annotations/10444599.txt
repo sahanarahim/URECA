@@ -1,0 +1,8 @@
+['10444599', 'The phytochrome family of photoreceptors has a well-defined role in regulating  gene expression in response to informational light signals. Little is known,  however, of the early steps of phytochrome signal transduction. Here we describe  a new Arabidopsis mutant, far1 (far-red-impaired response), which has reduced  responsiveness to continuous far-red light, but responds normally to other light  wavelengths. This phenotype implies a specific requirement for FAR1 in phyA  signal transduction. The far1 locus maps to the south arm of chromosome 4, and is  not allelic to photomorphogenic loci identified previously. All five far1 alleles  isolated have single nucleotide substitutions that introduce stop codons in a  single ORF. The FAR1 gene encodes a protein with no significant sequence  similarity to any proteins of known function. The FAR1 protein contains a  predicted nuclear localization signal and is targeted to the nucleus in transient  transfection assays. This result supports an emerging view that early steps in  phytochrome signaling may be centered in the nucleus. The FAR1 gene defines a new  multigene family, which consists of at least four genes in Arabidopsis. This  observation raises the possibility of redundancy in the phyA-signaling pathway,  which could account for the incomplete block of phyA signaling observed in the  far1 mutant.', '1999 Aug 1', 'Genes Dev', '10.1101/gad.13.15.2017', 'Quail']
+
+phytochrome: !regulates! gene expression 
+FAR1: !localizes to! nucleus 
+FAR1: !synthesizes! protein 
+far1 mutant: !has reduced responsiveness to! far-red light 
+FAR1 gene: !defines! multigene family 
+multigene family: !consists of! at least four genes

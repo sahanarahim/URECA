@@ -1,0 +1,11 @@
+['16146525', 'The Arabidopsis acyl-CoA oxidase (ACX) family comprises isozymes with distinct  fatty acid chain-length specificities that together catalyse the first step of  peroxisomal fatty acid beta-oxidation. We have isolated and characterized T-DNA  insertion mutants in the medium to long-chain (ACX1) and long-chain (ACX2)  acyl-CoA oxidases, and show that the corresponding endogenous activities are  decreased in the mutants. Lipid catabolism during germination and early  post-germinative growth was unaltered in the acx1-1 mutant, but slightly delayed  in the acx2-1 mutant, with 3-day-old acx2-1 seedlings accumulating long-chain  acyl-CoAs. In acx1-1 and acx2-1, seedling growth and establishment in the absence  of an exogenous supply of sucrose was unaffected. Seedlings of the double mutant  acx1-1 acx2-1 were unable to catabolize seed storage lipid, and accumulated  long-chain acyl-CoAs. The acx1-1 acx2-1 seedlings were also unable to establish  photosynthetic competency in the absence of an exogenous carbon supply, a  phenotype that is shared with a number of other Arabidopsis mutants disrupted in  storage lipid breakdown. Germination frequency of the double mutant was  significantly reduced compared with wild-type seeds. This was unaffected by the  addition of exogenous sucrose, but was improved by dormancy-breaking treatments  such as cold stratification and after-ripening. We show that the acx1-1, acx2-1  and acx1-2 acx2-1 double mutants and the ketoacyl-CoA thiolase-2 (kat2) mutant  exhibit a sucrose-independent germination phenotype comparable with that reported  for comatose (cts-2), a mutant in a peroxisomal ABC transporter which exhibits  enhanced dormancy. This demonstrates an additional role beyond that of carbon  provision for the beta-oxidation pathway during germination or in dormant seeds.', '2005 Sep', 'Plant J', '10.1111/j.1365-313X.2005.02498.x', 'Graham']
+
+ACX1: !affects! Lipid catabolism 
+ACX2: !affects! Lipid catabolism 
+ACX1: !affects! Seedling growth 
+ACX2: !affects! Seedling growth 
+ACX1: !affects! Photosynthetic competency 
+ACX2: !affects! Photosynthetic competency 
+ACX1: !affects! Germination frequency 
+ACX2: !affects! Germination frequency 
+KAT2: !shares phenotype with! Comatose

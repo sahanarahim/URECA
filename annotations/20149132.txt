@@ -1,0 +1,8 @@
+['20149132', 'Arabidopsis thaliana EDM2 was previously shown to be specifically required for  disease resistance mediated by the R protein RPP7. Here we provide additional  data showing that the role of EDM2 in plant immunity is limited and does not  include a function in basal defense. In addition, we found that EDM2 has a  promoting effect on the floral transition. We further found that the protein  kinase WNK8 physically interacts with EDM2 in the nucleus. Unlike EDM2, which  serves as a substrate of this kinase, WNK8 appears not to be required for  RPP7-mediated defense. As reported previously, however, WNK8 does affect  flowering time. Epistasis analyses suggested that EDM2 acts upstream of the  floral repressor FLC (AT5G10140) and downstream of WNK8 (AT5G41990) in a  regulatory module that resembles the autonomous floral promotion pathway,  comprising a set of mechanisms that are known to affect the floral transition by  regulating FLC transcript levels.', '2010 May', 'Plant J', '10.1111/j.1365-313X.2010.04169.x', 'Eulgem']
+
+EDM2: !affects! Disease resistance
+EDM2: !promotes! Floral transition
+WNK8: !interacts with! EDM2
+WNK8: !affects! Flowering time
+EDM2: !acts upstream of! FLC
+WNK8: !acts downstream of! EDM2

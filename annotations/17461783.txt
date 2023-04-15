@@ -1,0 +1,10 @@
+['17461783', 'The PHO1 family comprises 11 members in Arabidopsis thaliana. In order to  decipher the role of these genes in inorganic phosphate (Pi) transport and  homeostasis, complementation of the pho1 mutant, deficient in loading Pi to the  root xylem, was determined by the expression of the PHO1 homologous genes under  the control of the PHO1 promoter. Only PHO1 and the homologue PHO1;H1 could  complement pho1. The PHO1;H1 promoter was active in the vascular cylinder of  roots and shoots. Expression of PHO1;H1 was very low in Pi-sufficient plants, but  was strongly induced under Pi-deficient conditions. T-DNA knock-out mutants of  PHO1;H1 neither showed growth defects nor alteration in Pi transport dynamics, or  Pi content, compared with wild type. However, the double mutant pho1/pho1;h1  showed a strong reduction in growth and in the capacity to transfer Pi from the  root to the shoot compared with pho1. Grafting experiments revealed that  phenotypes associated with the pho1 and pho1/pho1;h1 mutants were linked to the  lack of gene expression in the root. The increased expression of PHO1;H1 under Pi  deficiency was largely controlled by the transcription factor PHR1 and was  suppressed by the phosphate analogue phosphite, whereas the increase of PHO1  expression was independent of PHR1 and was not influenced by phosphite. Together,  these data reveal that although transfer of Pi to the root xylem vessel is  primarily mediated by PHO1, the homologue PHO1;H1 also contributes to Pi loading  to the xylem, and that the two corresponding genes are regulated by Pi deficiency  by distinct signal transduction pathways.', '2007 Jun', 'Plant J', '10.1111/j.1365-313X.2007.03108.x', 'Poirier']
+
+PHO1: !complements! pho1 mutant 
+PHO1;H1: !complements! pho1 mutant 
+PHO1;H1: !localizes to! vascular cylinder of roots and shoots 
+PHO1;H1: !induced by! Pi-deficient conditions 
+PHO1;H1: !repressed by! phosphate analogue phosphite 
+PHR1: !controls! PHO1;H1 expression 
+PHO1: !independent of! PHR1 
+PHO1/PHO1;H1: !reduces! growth and Pi transfer from root to shoot

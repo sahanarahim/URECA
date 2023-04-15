@@ -1,0 +1,7 @@
+['19805022', "Abscisic acid (ABA) signaling is important for stress responses and developmental  processes in plants. A subgroup of protein phosphatase 2C (group A PP2C) or  SNF1-related protein kinase 2 (subclass III SnRK2) have been known as major  negative or positive regulators of ABA signaling, respectively. Here, we  demonstrate the physical and functional linkage between these two major signaling  factors. Group A PP2Cs interacted physically with SnRK2s in various combinations,  and efficiently inactivated ABA-activated SnRK2s via dephosphorylation of  multiple Ser/Thr residues in the activation loop. This step was suppressed by the  RCAR/PYR ABA receptors in response to ABA. However the abi1-1 mutated PP2C did  not respond to the receptors and constitutively inactivated SnRK2. Our results  demonstrate that group A PP2Cs act as 'gatekeepers' of subclass III SnRK2s,  unraveling an important regulatory mechanism of ABA signaling.", '2009 Oct 13', 'Proc Natl Acad Sci U S A', '10.1073/pnas.0907095106', 'Shinozaki']
+
+ABA: !activates! SnRK2 
+RCAR/PYR: !inhibits! PP2C 
+PP2C: !inactivates! SnRK2 
+abi1-1: !constitutively inactivates! SnRK2 
+PP2C: !acts as gatekeeper of! SnRK2

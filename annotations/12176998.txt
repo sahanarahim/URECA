@@ -1,0 +1,12 @@
+['12176998', 'Arg/Ser-rich (RS) proteins play a crucial role in splicing and are implicated in  splice site selection in metazoa. In plants, intron recognition seems to differ  from the one in animals due to specific factor requirements. Here we describe a  new plant-specific RS-rich protein, atRSZ33, with a unique domain structure  consisting of an RNA recognition motif (RRM), two zinc knuckles embedded in a  basic RS region, and an acidic C-terminal domain. atRSZ33 was found to be a  phosphoprotein that concentrates in nuclear speckles and is predominantly present  in roots and flowers. In a yeast two-hybrid screen, atRSZ33 interacted with  splicing factors atSRp34/SR1, an Arabidopsis ortholog of human SF2/ASF; atRSZp21  and atRSZp22, which are similar to the human 9G8; and three novel SC35-like  splicing factors termed atSCL28, atSCL30, and atSCL33/SR33. Two further members  of the SCL family, namely SCL30a and the ortholog of mammalian SC35, atSC35, were  also found to interact with atRSZ33. These interactions were verified by in vitro  binding assays; furthermore, the transcriptional activity of atRSZ33 was found to  overlap with the ones of its interacting partners. These specific interactions  coupled with the many similarities of atRSZ33 to SR proteins suggest that its  main activity is in spliceosome assembly. Mapping of regions necessary for  protein-protein interaction between atRSZ33 and atSCL33/SR33 revealed that both  zinc knuckles together with a small part of the RS and the RRM domain are  required for efficient binding. However, the interacting domain is relatively  small, allowing binding of additional proteins, a feature that is consistent with  the proposed role of atRSZ33 in spliceosome assembly.', '2002 Oct 18', 'J Biol Chem', '10.1074/jbc.M206455200', 'Barta']
+
+atRSZ33: !interacts with! atSRp34/SR1
+atRSZ33: !interacts with! atRSZp21
+atRSZ33: !interacts with! atRSZp22
+atRSZ33: !interacts with! atSCL28
+atRSZ33: !interacts with! atSCL30
+atRSZ33: !interacts with! atSCL33/SR33
+atRSZ33: !interacts with! SCL30a
+atRSZ33: !interacts with! atSC35
+atRSZ33: !localizes to! nuclear speckles
+atRSZ33: !enhances! transcriptional activity

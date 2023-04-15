@@ -1,0 +1,10 @@
+['33616649', 'Oxygen deprivation caused by flooding activates acclimation responses to stress  and restricts plant growth. After experiencing flooding stress, plants must  restore normal growth; however, which genes are dynamically and precisely  controlled by flooding stress remains largely unknown. Here, we show that the  Arabidopsis thaliana ubiquitin E3 ligase SUBMERGENCE RESISTANT1 (SR1) regulates  the stability of the transcription factor WRKY33 to modulate the submergence  response. SR1 physically interacts with WRKY33 in vivo and in vitro and controls  its ubiquitination and proteasomal degradation. Both the sr1 mutant and WRKY33  overexpressors exhibited enhanced submergence tolerance and enhanced expression  of hypoxia-responsive genes. Genetic experiments showed that WRKY33 functions  downstream of SR1 during the submergence response. Submergence induced the  phosphorylation of WRKY33, which enhanced the activation of RAP2.2, a positive  regulator of hypoxia-response genes. Phosphorylated WRKY33 and RAP2.2 were  degraded by SR1 and the N-degron pathway during reoxygenation, respectively.  Taken together, our findings reveal that the on-and-off module SR1-WRKY33-RAP2.2  is connected to the well-known N-degron pathway to regulate acclimation to  submergence in Arabidopsis. These two different but related modulation cascades  precisely balance submergence acclimation with normal plant growth.', '2021 Jul 2', 'Plant Cell', '10.1093/plcell/koab062', 'ORCID:']
+
+SR1: !regulates! WRKY33 
+WRKY33: !functions downstream of! SR1 
+SR1: !controls! ubiquitination and proteasomal degradation of WRKY33 
+WRKY33: !enhances! submergence tolerance 
+WRKY33: !activates! RAP2.2 
+RAP2.2: !positively regulates! hypoxia-response genes 
+SR1: !degrades! phosphorylated WRKY33 
+N-degron pathway: !degrades! phosphorylated RAP2.2

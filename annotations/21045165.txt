@@ -1,0 +1,9 @@
+['21045165', 'Recent identification of the Arabidopsis thaliana tyrosylprotein sulfotransferase  (TPST) and a group of Tyr-sulfated peptides known as root meristem growth factors  (RGFs) highlights the importance of protein Tyr sulfation in plant growth and  development. Here, we report the action mechanism of TPST in maintenance of the  root stem cell niche, which in the Arabidopsis root meristem is an area of four  mitotically inactive quiescent cells plus the surrounding mitotically active stem  cells. Mutation of TPST leads to defective maintenance of the root stem cell  niche, decreased meristematic activity, and stunted root growth. We show that  TPST expression is positively regulated by auxin and that mutation of this gene  affects auxin distribution by reducing local expression levels of several PIN  genes and auxin biosynthetic genes in the stem cell niche region. We also show  that mutation of TPST impairs basal- and auxin-induced expression of the PLETHORA  (PLT) stem cell transcription factor genes and that overexpression of PLT2  rescues the root meristem defects of the loss-of-function mutant of TPST.  Together, these results support that TPST acts to maintain root stem cell niche  by regulating basal- and auxin-induced expression of PLT1 and PLT2.  TPST-dependent sulfation of RGFs provides a link between auxin and PLTs in  regulating root stem cell niche maintenance.', '2010 Nov', 'Plant Cell', '10.1105/tpc.110.075721', 'Li']
+
+TPST: !regulates! PIN genes
+TPST: !regulates! auxin biosynthetic genes
+TPST: !regulates! PLT1
+TPST: !regulates! PLT2
+auxin: !positively regulates! TPST
+RGFs: !sulfated by! TPST
+RGFs: !link! auxin and PLTs

@@ -1,0 +1,7 @@
+['26028217', 'Stem cells in plants and animals are maintained pluripotent by signals from  adjacent niche cells. In plants, WUSCHEL HOMEOBOX (WOX) transcription factors are  central regulators of stem cell maintenance in different meristem types, yet  their molecular mode of action has remained elusive. Here we show that in the  Arabidopsis root meristem, the WOX5 protein moves from the root niche organizer,  the quiescent center, into the columella stem cells, where it directly represses  the transcription factor gene CDF4. This creates a gradient of CDF4  transcription, which promotes differentiation opposite to the WOX5 gradient,  allowing stem cell daughter cells to exit the stem cell state. We further show  that WOX5 represses CDF4 transcription by recruiting TPL/TPR co-repressors and  the histone deacetylase HDA19, which consequently induces histone deacetylation  at the CDF4 regulatory region. Our results show that chromatin-mediated  repression of differentiation programs is a common strategy in plant and animal  stem cell niches.', '2015 Jun 8', 'Dev Cell', '10.1016/j.devcel.2015.04.024', 'Laux']
+
+WOX5: !represses! CDF4 
+WOX5: !recruits! TPL/TPR 
+WOX5: !recruits! HDA19 
+CDF4: !promotes! differentiation 
+HDA19: !induces! histone deacetylation

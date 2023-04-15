@@ -1,0 +1,9 @@
+['28855712', 'Meiotic recombination is initiated from the formation of DNA double-strand breaks  (DSBs). In Arabidopsis, several proteins, such as AtPRD1, AtPRD2, AtPRD3, AtDFO  and topoisomerase (Topo) VI-like complex, have been identified as playing  important roles in DSB formation. Topo VI-like complex in Arabidopsis may consist  of subunit A (Topo VIA: AtSPO11-1 and AtSPO11-2) and subunit B (Topo VIB:  MTOPVIB). Little is known about their roles in Arabidopsis DSB formation. Here,  we report on the characterization of the MTOPVIB gene using the Arabidopsis  mutant alleles mtopVIB-2 and mtopVIB-3, which were defective in DSB formation.  mtopVIB-3 exhibited abortion in embryo sac and pollen development, leading to a  significant reduction in fertility. The mtopVIB mutations affected the homologous  chromosome synapsis and recombination. MTOPVIB could interact with Topo VIA  proteins AtSPO11-1 and AtSPO11-2. AtPRD1 interacted directly with Topo VI-like  proteins. AtPRD1 also could interact with AtPRD3 and AtDFO. The results indicated  that AtPRD1 may act as a bridge protein to interact with AtPRD3 and AtDFO, and  interact directly with the Topo VI-like proteins MTOPVIB, AtSPO11-1 and AtSPO11-2  to take part in DSB formation in Arabidopsis.', '2017 Aug 30', 'Sci Rep', '10.1038/s41598-017-10270-9', 'Zhang']
+
+AtPRD1: !interacts with! AtPRD3 
+AtPRD1: !interacts with! AtDFO 
+AtPRD1: !interacts with! MTOPVIB 
+AtPRD1: !interacts with! AtSPO11-1 
+AtPRD1: !interacts with! AtSPO11-2 
+MTOPVIB: !interacts with! AtSPO11-1 
+MTOPVIB: !interacts with! AtSPO11-2

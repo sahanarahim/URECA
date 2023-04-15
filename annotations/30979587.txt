@@ -1,0 +1,11 @@
+['30979587', 'AGC protein kinases play important roles in plant growth and development. Several  AGC kinases in Arabidopsis have been functionally characterized. However, the  "AGC Other" subfamily, including IRE, IREH1, IRE3 and IRE4, has not been well  understood. Here, we reported that ireh1 mutants displayed a root skewing  phenotype, which can be enhanced by ire3 mutation. IREH1 and IRE3 were expressed  in roots, consistent with their function in controlling root skewing. The  fluorescence intensities of the microtubule marker KNpro:EGFP-MBD were decreased  in ireh1, ire3 and ireh1 ire3 mutants compared to wild type. The microtubule  arrangements in ireh1 and ireh1 ire3 mutants were also altered. IREH1 physically  interacted with IRE3 in vitro and in planta. Thus, our findings demonstrate that  IREH1 and IRE3 protein kinases play important roles in controlling root skewing,  and maintaining microtubule network in Arabidopsis.', '2019 May 20', 'J Genet Genomics', '10.1016/j.jgg.2019.02.007', 'Cheng']
+
+IREH1: !affects! root skewing
+IRE3: !affects! root skewing
+IREH1: !localizes to! roots
+IRE3: !localizes to! roots
+IREH1: !interacts with! IRE3
+IREH1: !enhances! KNpro:EGFP-MBD fluorescence intensity
+IRE3: !enhances! KNpro:EGFP-MBD fluorescence intensity
+IREH1: !represses! microtubule arrangement
+IRE3: !represses! microtubule arrangement

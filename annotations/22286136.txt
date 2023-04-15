@@ -1,0 +1,8 @@
+['22286136', 'In contrast to gene-for-gene disease resistance, nonhost resistance governs  defense responses to a broad range of potential pathogen species. To identify  specific genes involved in the signal transduction cascade associated with  nonhost disease resistance, we used a virus-induced gene-silencing screen in  Nicotiana benthamiana, and identified the peroxisomal enzyme glycolate oxidase  (GOX) as an essential component of nonhost resistance. GOX-silenced N.  benthamiana and Arabidopsis thaliana GOX T-DNA insertion mutants are compromised  for nonhost resistance. Moreover, Arabidopsis gox mutants have lower H(2)O(2)  accumulation, reduced callose deposition, and reduced electrolyte leakage upon  inoculation with hypersensitive response-causing nonhost pathogens. Arabidopsis  gox mutants were not affected in NADPH oxidase activity, and silencing of a gene  encoding NADPH oxidase (Respiratory burst oxidase homolog) in the gox mutants did  not further increase susceptibility to nonhost pathogens, suggesting that GOX  functions independently from NADPH oxidase. In the two gox mutants examined  (haox2 and gox3), the expression of several defense-related genes upon nonhost  pathogen inoculation was decreased compared with wild-type plants. Here we show  that GOX is an alternative source for the production of H(2)O(2) during both  gene-for-gene and nonhost resistance responses.', '2012 Jan', 'Plant Cell', '10.1105/tpc.111.093245', 'Mysore']
+
+GOX: !affects! Nonhost resistance 
+GOX: !synthesizes! H2O2 
+NADPH oxidase: !interacts with! GOX 
+NADPH oxidase: !produces! H2O2 
+GOX mutants: !reduce! H2O2 accumulation 
+GOX mutants: !decrease! Callose deposition

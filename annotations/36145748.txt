@@ -1,0 +1,7 @@
+['36145748', 'The recent finding that proline-induced root elongation is mediated by reactive  oxygen species (ROS) prompted us to re-evaluate other developmental processes  modulated by proline, such as flowering time. By controlling the cellular redox  status and the ROS distribution, proline could potentially affect the expression  of transcriptional factors subjected to epigenetic regulation, such as FLOWERING  LOCUS C (FLC). Accordingly, we investigated the effect of proline on flowering  time in more detail by analyzing the relative expression of the main flowering  time genes in p5cs1 p5cs2/P5CS2 proline-deficient mutants and found a significant  upregulation of FLC expression. Moreover, proline-deficient mutants exhibited an  adult vegetative phase shorter than wild-type samples, with a trichome  distribution reminiscent of plants with high FLC expression. In addition, the  vernalization-induced downregulation of FLC abolished the flowering delay of  p5cs1 p5cs2/P5CS2, and mutants homozygous for p5cs1 and flc-7 and heterozygous  for P5CS2 flowered as early as the flc-7 parental mutant, indicating that FLC  acts downstream of P5CS1/P5CS2 and is necessary for proline-modulated flowering.  The overall data indicate that the effects of proline on flowering time are  mediated by FLC.', '2022 Sep 8', 'Plants (Basel)', '10.3390/plants11182348', 'ORCID:']
+
+proline: !affects! ROS 
+ROS: !modulates! expression of transcriptional factors 
+transcriptional factors: !include! FLC 
+proline: !upregulates! FLC 
+FLC: !mediates! proline-modulated flowering time

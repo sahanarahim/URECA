@@ -1,0 +1,10 @@
+['17122068', 'Overall shoot architecture in higher plants is highly dependent on the activity  of embryonic and axillary shoot meristems, which are produced from the basal  adaxial boundaries of cotyledons and leaves, respectively. In Arabidopsis  thaliana, redundant functions of the CUP-SHAPED COTYLEDON genes CUC1, CUC2, and  CUC3 regulate embryonic shoot meristem formation and cotyledon boundary  specification. Their functional importance and relationship in postembryonic  development, however, is poorly understood. Here, we performed extensive analyses  of the embryonic and postembryonic functions of the three CUC genes using  multiple combinations of newly isolated mutant alleles. We found significant  roles of CUC2 and CUC3, but not CUC1, in axillary meristem formation and boundary  specification of various postembryonic shoot organs, such as leaves, stems, and  pedicels. In embryogenesis, all three genes make significant contributions,  although CUC3 appears to possess, at least partially, a distinct function from  that of CUC1 and CUC2. The function of CUC3 and CUC2 overlaps that of LATERAL  SUPPRESSOR, which was previously shown to be required for axillary meristem  formation. Our results reveal that redundant but partially distinct functions of  CUC1, CUC2, and CUC3 are responsible for shoot organ boundary and meristem  formation throughout the life cycle in Arabidopsis.', '2006 Nov', 'Plant Cell', '10.1105/tpc.106.045716', 'Tasaka']
+
+CUC1: !affects! Embryonic shoot meristem formation 
+CUC2: !affects! Embryonic shoot meristem formation 
+CUC3: !affects! Embryonic shoot meristem formation 
+CUC2: !affects! Axillary meristem formation 
+CUC3: !affects! Axillary meristem formation 
+CUC2: !affects! Boundary specification of postembryonic shoot organs 
+CUC3: !affects! Boundary specification of postembryonic shoot organs 
+CUC3: !overlaps with! LATERAL SUPPRESSOR

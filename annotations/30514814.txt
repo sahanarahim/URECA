@@ -1,0 +1,8 @@
+['30514814', 'The perception and relay of cell-wall signals are critical for plants to regulate  growth and stress responses, but the underlying mechanisms are poorly understood.  We found that the cell-wall leucine-rich repeat extensins (LRX) 3/4/5 are  critical for plant salt tolerance in Arabidopsis The LRXs physically associate  with the RAPID ALKALINIZATION FACTOR (RALF) peptides RALF22/23, which in turn  interact with the plasma membrane-localized receptor-like protein kinase FERONIA  (FER). The lrx345 triple mutant as well as fer mutant plants display retarded  growth and salt hypersensitivity, which are mimicked by overexpression of  RALF22/23 Salt stress promotes S1P protease-dependent release of mature RALF22  peptides. Treatment of roots with mature RALF22/23 peptides or salt stress causes  the internalization of FER. Our results suggest that the LRXs, RALFs, and FER  function as a module to transduce cell-wall signals to regulate plant growth and  salt stress tolerance.', '2018 Dec 18', 'Proc Natl Acad Sci U S A', '10.1073/pnas.1816991115', 'ORCID:']
+
+LRXs: !associate with! RALF peptides 
+RALF peptides: !interact with! FER 
+LRXs: !regulate! plant growth 
+LRXs: !regulate! salt stress tolerance 
+S1P protease: !releases! mature RALF22 peptides 
+mature RALF22 peptides: !cause! internalization of FER

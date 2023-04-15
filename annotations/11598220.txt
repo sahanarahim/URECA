@@ -1,0 +1,8 @@
+['11598220', 'We identified a recessive, brassinolide-insensitive mutant caused by a deletion  allele (bri1-201) of the brassinosteroid (BR) receptor BRI1. The bri1-201 mutant  displayed altered expression levels of genes differentially regulated by  gibberellin (GA). RNA-blot analysis revealed that BR and GA antagonistically  regulate the accumulation of mRNAs of the GA-responsive GASA1 gene, as well as  the GA-repressible GA5 gene. Expression studies with cycloheximide indicated that  the antagonistic effects of GA and BR on GA5 require de novo protein synthesis.  Reporter transgene analyses and RNA-blot analysis showed that BR and GA modulate  GA5 expression, at least in part, at the transcriptional level, and that the  signals are independent and subtractive.', '2001 Oct', 'Plant Physiol', '6843', 'Mundy']
+
+BRI1: !causes! recessive mutant
+BR: !antagonistically regulates! GASA1 & GA5 mRNA
+GA: !antagonistically regulates! GASA1 & GA5 mRNA
+GA & BR: !modulate! GA5 expression
+Cycloheximide: !requires! de novo protein synthesis
+BR & GA: !independently subtract! signals

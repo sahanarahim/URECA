@@ -1,0 +1,11 @@
+['25568310', "The interconnection between transcription and splicing is a subject of intense  study. We report that Arabidopsis homologue of spliceosome disassembly factor  NTR1 is required for correct expression and splicing of DOG1, a regulator of seed  dormancy. Global splicing analysis in atntr1 mutants revealed a bias for  downstream 5' and 3' splice site selection and an enhanced rate of exon skipping.  A local reduction in PolII occupancy at misspliced exons and introns in atntr1  mutants suggests that directionality in splice site selection is a manifestation  of fast PolII elongation kinetics. In agreement with this model, we found AtNTR1  to bind target genes and co-localise with PolII. A minigene analysis further  confirmed that strong alternative splice sites constitute an AtNTR1-dependent  transcriptional roadblock. Plants deficient in PolII endonucleolytic cleavage  showed opposite effects for splice site choice and PolII occupancy compared to  atntr1 mutants, and inhibition of PolII elongation or endonucleolytic cleavage in  atntr1 mutant resulted in partial reversal of splicing defects. We propose that  AtNTR1 is part of a transcription elongation checkpoint at alternative exons in  Arabidopsis.", '2015 Feb 12', 'EMBO J', '10.15252/embj.201489478', 'Swiezewski']
+
+NTR1: !required for! DOG1 expression 
+NTR1: !binds to! target genes 
+NTR1: !co-localizes with! PolII 
+PolII: !occupies! misspliced exons/introns 
+AtNTR1: !enhances! downstream 5'/3' splice site selection 
+AtNTR1: !increases! exon skipping rate 
+AtNTR1: !constitutes! transcriptional roadblock 
+PolII: !inhibits! splice site choice 
+PolII: !reverses! splicing defects

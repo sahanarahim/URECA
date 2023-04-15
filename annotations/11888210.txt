@@ -1,0 +1,12 @@
+['11888210', 'A cDNA from Arabidopsis thaliana resembling S-formylglutathione hydrolase (SFGH),  an enzyme with putative roles in formaldehyde detoxification in animals and  microorganisms, has been cloned and expressed in Escherichia coli. The purified  recombinant Arabidopsis enzyme (AtSFGH) was a dimer composed of 31-kDa subunits.  Like SFGHs from other sources, AtSFGH had thioesterase activity toward  S-formylglutathione and carboxyesterase activity toward 4-methylumbelliferyl  acetate. Unlike other SFGHs, the enzyme from Arabidopsis actively hydrolyzed  S-acetylglutathione. AtSFGH activity was inhibited by heavy metals and sulfhydryl  alkylating agents, but was insensitive to serine hydrolase inhibitors, suggesting  that the enzyme was a cysteine-dependent hydrolase. Although Atsfgh transcripts  were determined in plants and cultures of Arabidopsis, the respective enzyme  could not be detected in planta after the esterase activities present were  resolved using isoelectric focusing. Instead, Arabidopsis contained several  carboxyesterases active toward alpha-naphthyl acetate, which were all sensitive  to inhibition by the serine hydrolase inhibitor paraoxon.', '2002 Mar 15', 'Arch Biochem Biophys', '10.1006/abbi.2002.2772', 'Edwards']
+
+AtSFGH: !has thioesterase activity towards! S-formylglutathione 
+AtSFGH: !has carboxyesterase activity towards! 4-methylumbelliferyl acetate 
+AtSFGH: !actively hydrolyzes! S-acetylglutathione 
+AtSFGH: !inhibited by! heavy metals 
+AtSFGH: !inhibited by! sulfhydryl alkylating agents 
+AtSFGH: !insensitive to! serine hydrolase inhibitors 
+Atsfgh transcripts: !determined in! plants and cultures of Arabidopsis 
+AtSFGH: !not detected in! planta 
+Arabidopsis: !contains several carboxyesterases active towards! alpha-naphthyl acetate 
+Carboxyesterases: !sensitive to inhibition by! paraoxon

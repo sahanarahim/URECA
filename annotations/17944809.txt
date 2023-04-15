@@ -1,0 +1,10 @@
+['17944809', 'To investigate the specialization of the two Arabidopsis CDC27 subunits in the  anaphase-promoting complex (APC/C), we analyzed novel alleles of HBT/CDC27B and  CDC27A, and characterized the expression of complementing HOBBIT (HBT) protein  fusions in plant meristems and during the cell cycle. In contrast to other APC/C  mutants, which are gametophytic lethal, phenotypes of weak and null hbt alleles  indicate a primary role in the control of post-embryonic cell division and cell  elongation, whereas cdc27a nulls are phenotypically indistinguishable from the  wild type. However, cdc27a hbt double-mutant gametes are non-viable, indicating a  redundant requirement for both CDC27 subunits during gametogenesis.  Yeast-two-hybrid and pulldown studies with APC/C components suggest that the two  Arabidopsis CDC27 subunits participate in several complexes that are  differentially required during plant development. Loss-of-function analysis, as  well as cyclin B reporter protein accumulation, indicates a conserved role for  the plant APC/C in controlling mitotic progression and cell differentiation  during the entire life cycle.', '2008 Jan', 'Plant J', '10.1111/j.1365-313X.2007.03312.x', 'Scheres']
+
+HBT/CDC27B: !affects! Post-embryonic cell division 
+CDC27A: !affects! Post-embryonic cell division 
+HBT/CDC27B: !interacts with! CDC27A 
+CDC27A: !interacts with! HBT/CDC27B 
+HBT/CDC27B: !enhances! Gametophytic lethality 
+CDC27A: !enhances! Gametophytic lethality 
+APC/C: !controls! Mitotic progression 
+APC/C: !controls! Cell differentiation

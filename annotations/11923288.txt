@@ -1,0 +1,9 @@
+['11923288', 'The mechanisms by which plants regulate levels of the phytohormone  indole-3-acetic acid (IAA) are complex and not fully understood. One level of  regulation appears to be the synthesis and hydrolysis of IAA conjugates, which  function in both the permanent inactivation and temporary storage of auxin.  Similar to free IAA, certain IAA-amino acid conjugates inhibit root elongation.  We have tested the ability of 19 IAA-l-amino acid conjugates to inhibit  Arabidopsis seedling root growth. We have also determined the ability of purified  glutathione S-transferase (GST) fusions of four Arabidopsis IAA-amino acid  hydrolases (ILR1, IAR3, ILL1, and ILL2) to release free IAA by cleaving these  conjugates. Each hydrolase cleaves a subset of IAA-amino acid conjugates in  vitro, and GST-ILR1, GST-IAR3, and GST-ILL2 have K(m) values that suggest  physiological relevance. In vivo inhibition of root elongation correlates with in  vitro hydrolysis rates for each conjugate, suggesting that the identified  hydrolases generate the bioactivity of the conjugates.', '2002 Jun 7', 'J Biol Chem', '10.1074/jbc.M111955200', 'Bartel']
+
+IAA: !synthesizes! IAA-amino acid conjugates 
+GST-ILR1: !cleaves! IAA-amino acid conjugates 
+GST-IAR3: !cleaves! IAA-amino acid conjugates 
+GST-ILL2: !cleaves! IAA-amino acid conjugates 
+IAA-amino acid conjugates: !inhibits! root elongation 
+IAA-amino acid conjugates: !hydrolyzed by! hydrolases 
+hydrolases: !generate! bioactivity of conjugates

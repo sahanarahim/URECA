@@ -1,0 +1,8 @@
+['28244988', "Plant development requires coordination among complex signaling networks to  enhance the plant's adaptation to changing environments. DELLAs, transcription  regulators originally identified as repressors of phytohormone gibberellin  signaling, play a central role in integrating multiple signaling activities via  direct protein interactions with key transcription factors. Here, we found that  DELLA is mono-O-fucosylated by the novel O-fucosyltransferase SPINDLY (SPY) in  Arabidopsis thaliana. O-fucosylation activates DELLA by promoting its interaction  with key regulators in brassinosteroid- and light-signaling pathways, including  BRASSINAZOLE-RESISTANT1 (BZR1), PHYTOCHROME-INTERACTING-FACTOR3 (PIF3) and PIF4.  Moreover, spy mutants displayed elevated responses to gibberellin and  brassinosteroid, and increased expression of common target genes of DELLAs, BZR1  and PIFs. Our study revealed that SPY-dependent protein O-fucosylation plays a  key role in regulating plant development. This finding may have broader  importance because SPY orthologs are conserved in prokaryotes and eukaryotes,  thus suggesting that intracellular O-fucosylation may regulate a wide range of  biological processes in diverse organisms.", '2017 May', 'Nat Chem Biol', '10.1038/nchembio.2320', 'Sun']
+
+DELLA: !represses! gibberellin signaling 
+SPINDLY: !O-fucosylates! DELLA 
+O-fucosylation: !activates! DELLA 
+DELLA: !interacts with! BZR1, PIF3, PIF4 
+spy mutants: !exhibit increased responses to! gibberellin, brassinosteroid 
+SPY: !conserved in! prokaryotes, eukaryotes

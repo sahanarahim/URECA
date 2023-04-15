@@ -1,0 +1,9 @@
+['17681130', 'Brassinosteroids (BRs) are essential hormones for plant growth and development.  BRs regulate gene expression by inducing dephosphorylation of two key  transcription factors, BZR1 and BZR2/BES1, through a signal transduction pathway  that involves cell-surface receptors (BRI1 and BAK1) and a GSK3 kinase (BIN2).  How BR-regulated phosphorylation controls the activities of BZR1/BZR2 is not  fully understood. Here, we show that BIN2-catalyzed phosphorylation of BZR1/BZR2  not only inhibits DNA binding, but also promotes binding to the 14-3-3 proteins.  Mutations of a BIN2-phosphorylation site in BZR1 abolish 14-3-3 binding and lead  to increased nuclear localization of BZR1 protein and enhanced BR responses in  transgenic plants. Further, BR deficiency increases cytoplasmic localization, and  BR treatment induces rapid nuclear localization of BZR1/BZR2. Thus, 14-3-3  binding is required for efficient inhibition of phosphorylated BR transcription  factors, largely through cytoplasmic retention. This study demonstrates that  multiple mechanisms are required for BR regulation of gene expression and plant  growth.', '2007 Aug', 'Dev Cell', '10.1016/j.devcel.2007.06.009', 'Wang']
+
+BRI1: !signals! BIN2 
+BIN2: !phosphorylates! BZR1/BZR2 
+BZR1/BZR2: !binds to! 14-3-3 proteins 
+14-3-3 proteins: !inhibits! phosphorylated BR transcription factors 
+BR: !induces! dephosphorylation of BZR1/BZR2 
+BR: !promotes! nuclear localization of BZR1 protein 
+BR deficiency: !increases! cytoplasmic localization of BZR1/BZR2

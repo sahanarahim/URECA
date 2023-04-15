@@ -1,0 +1,9 @@
+['8628224', 'The binding specificity and tissue-specific expression pattern of TGA2 (AHBP-1b),  an Arabidopsis bZIP transcription factor have been determined. Filter-binding and  gel-shift assays showed that TGA2 has high affinity for C-boxes (ATGACGTCAT). In  this respect TGA2 is similar to other members of the Arabidopsis TGA family (such  as TGA1, TGA3 and OBF4) and to tobacco TGA1a. Genomic Southern blot analysis  confirmed that TGA2 is a member of the gene family. Northern blot analysis showed  that the gene is expressed at similar levels in root, stem, leaf and flower t at  somewhat lower levels in siliques. TGA3 was also found to be expressed at the  same level throughout the plant, whereas genes encoding TGA1 and OBF4 have  relatively high RNA expression levels in root. The differential expression of  these genes suggests that they have distinct functions.', '1996 Feb 5', 'Mol Gen Genet', '10.1007/BF02174184', 'Kijne']
+
+TGA2: !binds! C-boxes 
+TGA2: !similar to! TGA1, TGA3, OBF4 
+TGA2: !member of! gene family 
+TGA2: !expressed in! root, stem, leaf, flower 
+TGA3: !expressed in! plant 
+TGA1: !expressed in! root 
+OBF4: !expressed in! root

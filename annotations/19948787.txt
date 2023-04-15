@@ -1,0 +1,9 @@
+['19948787', 'Root architecture results from coordinated cell division and expansion in  spatially distinct cells of the root and is established and maintained by  gradients of auxin and nutrients such as sugars. Auxin is transported acropetally  through the root within the central stele and then, upon reaching the root apex,  auxin is transported basipetally through the outer cortical and epidermal cells.  The two Gbetagamma dimers of the Arabidopsis thaliana heterotrimeric G protein  complex are differentially localized to the central and cortical tissues of the  Arabidopsis roots. A null mutation in either the single beta (AGB1) or the two  gamma (AGG1 and AGG2) subunits confers phenotypes that disrupt the proper  architecture of Arabidopsis roots and are consistent with altered auxin  transport. Here, we describe an evolutionarily conserved interaction between  AGB1/AGG dimers and a protein designated N-MYC DOWNREGULATED-LIKE1 (NDL1). The  Arabidopsis genome encodes two homologs of NDL1 (NDL2 and NDL3), which also  interact with AGB1/AGG1 and AGB1/AGG2 dimers. We show that NDL proteins act in a  signaling pathway that modulates root auxin transport and auxin gradients in part  by affecting the levels of at least two auxin transport facilitators. Reduction  of NDL family gene expression and overexpression of NDL1 alter root architecture,  auxin transport, and auxin maxima. AGB1, auxin, and sugars are required for NDL1  protein stability in regions of the root where auxin gradients are established;  thus, the signaling mechanism contains feedback loops.', '2009 Nov', 'Plant Cell', '10.1105/tpc.109.065557', 'Jones']
+
+AGB1: !interacts with! NDL1 
+AGG1/2: !interacts with! NDL1 
+NDL1: !affects! auxin transport 
+NDL1: !modulates! root auxin transport 
+NDL1: !alters! root architecture 
+AGB1: !requires! auxin and sugars 
+auxin: !stabilizes! NDL1

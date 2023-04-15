@@ -1,0 +1,7 @@
+['9845368', 'The mechanism by which the phytochrome (phy) photoreceptor family transduces  informational light signals to photoresponsive genes is unknown. Using a yeast  two-hybrid screen, we have identified a phytochrome-interacting factor, PIF3, a  basic helix-loop-helix protein containing a PAS domain. PIF3 binds to wild-type  C-terminal domains of both phyA and phyB, but less strongly to  signaling-defective, missense mutant-containing domains. Expression of sense or  antisense PIF3 sequences in transgenic Arabidopsis perturbs photoresponsiveness  in a manner indicating that PIF3 functions in both phyA and phyB signaling  pathways in vivo. PIF3 localized to the nucleus in transient transfection  experiments, indicating a potential role in controlling gene expression.  Together, the data suggest that phytochrome signaling to photoregulated genes  includes a direct pathway involving physical interaction between the  photoreceptor and a transcriptional regulator.', '1998 Nov 25', 'Cell', '10.1016/s0092-8674(00)81636-0', 'Quail']
+
+phytochrome: !interacts with! PIF3 
+PIF3: !binds to! wild-type C-terminal domains of phyA and phyB 
+PIF3: !perturbs! photoresponsiveness in transgenic Arabidopsis 
+PIF3: !localizes to! nucleus 
+phytochrome: !signals to! photoregulated genes

@@ -1,0 +1,9 @@
+['32937889', 'We previously reported that the Agrobacterium virulence protein VirD5 possesses  transcriptional activation activity, binds to a specific DNA element D5RE, and is  required for Agrobacterium-mediated stable transformation, but not for transient  transformation. However, direct evidence for a role of VirD5 in plant  transcriptional regulation has been lacking. In this study, we found that the  Arabidopsis gene D5RF (coding for VirD5 response F-box protein, At3G49480) is  regulated by VirD5. D5RF has two alternative transcripts of 930 bp and 1594 bp  that encode F-box proteins of 309 and 449 amino acids, designated as D5RF.1 and  D5RF.2, respectively. D5RF.2 has a N-terminal extension of 140 amino acids  compared to D5RF.1, and both of them are located in the plant cell nucleus. The  promoter of the D5RF.1 contains two D5RE elements and can be activated by VirD5.  The expression of D5RF is downregulated when the host plant is infected with  virD5 deleted Agrobacterium. Similar to VirD5, D5RF also affects the stable but  not transient transformation efficiency of Agrobacterium. Some  pathogen-responsive genes are downregulated in the d5rf mutant. In conclusion,  this study further confirmed Agrobacterium VirD5 as the plant transcription  activator and identified Arabidopsis thalianaD5RF.1 as the first target gene of  VirD5 in regulation.', '2020 Sep 14', 'Int J Mol Sci', '10.3390/ijms21186731', 'Luo']
+
+VirD5: !binds to! D5RE 
+VirD5: !activates! D5RF.1 
+VirD5: !downregulates! D5RF 
+D5RF: !encodes! F-box proteins 
+D5RF: !localizes to! nucleus 
+D5RF: !affects! stable transformation efficiency 
+D5RF: !downregulates! pathogen-responsive genes

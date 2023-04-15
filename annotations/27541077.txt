@@ -1,0 +1,13 @@
+['27541077', 'Polyamines involve in gene regulation by interacting with and modulating the  functions of various anionic macromolecules such as DNA, RNA and proteins. In  this study, we identified an important function of the polyamine transporter LHR1  (LOWER EXPRESSION OF HEAT RESPONSIVE GENE1) in heat-inducible gene expression in  Arabidopsis thaliana. The lhr1 mutant was isolated through a forward genetic  screening for altered expression of the luciferase reporter gene driven by the  promoter from the heat-inducible gene AtHSP18.2. The lhr1 mutant showed reduced  induction of the luciferase gene in response to heat stress and was more  sensitive to high temperature than the wild type. Map-based cloning identified  that the LHR1 gene encodes the polyamine transporter PUT3 (POLYAMINE UPTAKE  TRANSPORTER 3) localized in the plasma membrane. The LHR1/PUT3 is required for  the uptake of extracellular polyamines and plays an important role in stabilizing  the mRNAs of several crucial heat stress responsive genes under high temperature.  Genome-wide gene expression analysis using RNA-seq identified an array of  differentially expressed genes, among which the transcript levels of some of the  heat shock protein genes significantly reduced in response to prolonged heat  stress in the lhr1 mutant. Our findings revealed an important heat stress  response and tolerance mechanism involving polyamine influx which modulates mRNA  stability of heat-inducible genes under heat stress conditions.', '2016 Dec', 'Plant J', '10.1111/tpj.13310', 'Shi']
+
+LHR1: !encodes! PUT3 
+PUT3: !localizes to! plasma membrane 
+LHR1/PUT3: !required for! uptake of extracellular polyamines 
+polyamines: !interact with! anionic macromolecules 
+polyamines: !modulate! functions of various anionic macromolecules 
+LHR1/PUT3: !stabilizes! mRNAs of heat stress responsive genes 
+LHR1: !isolated through! forward genetic screening 
+lhr1 mutant: !showed reduced! induction of luciferase gene 
+lhr1 mutant: !more sensitive to! high temperature 
+RNA-seq: !identified! array of differentially expressed genes 
+heat shock protein genes: !significantly reduced! in lhr1 mutant

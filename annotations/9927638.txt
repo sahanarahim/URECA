@@ -1,0 +1,13 @@
+['9927638', 'The Arabidopsis NPR1 gene was previously shown to be required for the salicylic  acid (SA)- and benzothiadiazole (BTH)-induced expression of pathogenesis-related  (PR) genes and systemic acquired resistance. The dominant ssi1 (for suppressor of  SA insensitivity) mutation characterized in this study defines a new component of  the SA signal transduction pathway that bypasses the requirement of NPR1 for  expression of the PR genes and disease resistance. The ssi1 mutation caused PR  (PR-1, BGL2 [PR-2], and PR-5) genes to be constitutively expressed and restored  resistance to an avirulent strain of Pseudomonas syringae pv tomato in npr1-5  (previously called sai1) mutant plants. In addition, ssi1 plants were small,  spontaneously developed hypersensitive response-like lesions, accumulated  elevated levels of SA, and constitutively expressed the antimicrobial defensin  gene PDF1.2. The phenotypes of the ssi1 mutant are SA dependent. When SA  accumulation was prevented in ssi1 npr1-5 plants by expressing the SA-degrading  salicylate hydroxylase (nahG) gene, all of the phenotypes associated with the  ssi1 mutation were suppressed. However, lesion formation and expression of the PR  genes were restored in these plants by the application of BTH. Interestingly,  expression of PDF1.2, which previously has been shown to be SA independent but  jasmonic acid and ethylene dependent, was also suppressed in ssi1 npr1-5 plants  by the nahG gene. Furthermore, exogenous application of BTH restored PDF1.2  expression in these plants. Our results suggest that SSI1 may function as a  switch modulating cross-talk between the SA- and jasmonic acid/ethylene-mediated  defense signal transduction pathways.', '1999 Feb', 'Plant Cell', '10.1105/tpc.11.2.191', 'Klessig']
+
+NPR1: !affects! PR gene expression
+ssi1: !bypasses! NPR1 requirement
+ssi1: !constitutively expresses! PR genes
+ssi1: !restores! resistance to Pseudomonas syringae
+ssi1: !causes! hypersensitive response-like lesions
+ssi1: !accumulates! SA
+ssi1: !constitutively expresses! PDF1.2
+nahG: !suppresses! ssi1 phenotypes
+BTH: !restores! PR gene expression
+BTH: !restores! PDF1.2 expression
+SSI1: !modulates! SA/jasmonic acid/ethylene pathways

@@ -1,0 +1,7 @@
+['18387366', 'We previously searched for interactions between plant telomere-binding proteins  and found that AtTRB1, from the single-myb-histone (Smh) family, interacts with  the Arabidopsis POT1-like-protein, AtPOT1b, involved in telomere capping. Here we  identify domains responsible for that interaction. We also map domains in AtTRB1  responsible for interactions with other Smh-family-members. Our results show that  the N-terminal OB-fold-domain of AtPOT1b mediates the interaction with AtTRB1.  This domain is characteristic for POT1- proteins and is involved with binding the  G-rich-strand of telomeric DNA. AtPOT1b also interacts with AtTRB2 and AtTRB3.  The central histone-globular-domain of AtTRB1 is involved with binding to AtTRB2  and 3, as well as to AtPOT1b. AtTRB1-heterodimers with other Smh-family-members  are more stable than AtTRB1-homodimers. Our results reveal interaction networks  of plant telomeres.', '2008 Apr 30', 'FEBS Lett', '10.1016/j.febslet.2008.03.034', 'Fajkus']
+
+AtTRB1: !interacts with! AtPOT1b
+AtTRB1: !interacts with! AtTRB2
+AtTRB1: !interacts with! AtTRB3
+AtPOT1b: !binds! G-rich-strand of telomeric DNA
+AtTRB1: !forms heterodimers with! other Smh-family-members

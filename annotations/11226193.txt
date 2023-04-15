@@ -1,0 +1,9 @@
+['11226193', 'Arabidopsis COP1 acts within the nucleus to repress photomorphogenesis, and its  nuclear abundance is negatively regulated by light. Here, we report the  identification of a COP1-interactive partner, CIP4. CIP4 is a nuclear protein and  a potent transcription coactivator. Conditional suppression of CIP4 expression  resulted in an elongated hypocotyl and reduced chlorophyll content in the light,  indicating that CIP4 is required for the promotion of photomorphogenesis.  Furthermore, CIP4 was revealed to act downstream of multiple photoreceptors as  well as COP1 in mediating light control of development. CIP4 expression is light  inducible and regulated by COP1. However, CIP4 does not play a role in mediating  the light induction of anthocyanin accumulation. Together with our previous  studies of CIP7 and HY5, our data suggest that COP1 interacts directly with and  regulates multiple physiological targets, which in turn regulate distinct sets of  light-regulated responses.', '2001 Feb', 'Plant Cell', '10.1105/tpc.13.2.399', 'Matsui']
+
+COP1: !represses! photomorphogenesis
+COP1: !interacts with! CIP4
+CIP4: !promotes! photomorphogenesis
+CIP4: !regulated by! COP1
+CIP4: !downstream of! photoreceptors
+COP1: !regulates! physiological targets
+CIP7/HY5: !regulated by! COP1

@@ -1,0 +1,7 @@
+['17692835', 'The secretory phospholipase A2-alpha from Arabidopsis thaliana (AtsPLA2-alpha),  being one of the first plant sPLA2s obtained in purified state, has been  characterised with respect to substrate preference and optimum conditions of  catalysis. The optima of pH, temperature, and calcium concentration were similar  to the parameters of secretory PLA2s from animals. However, substrate preferences  markedly differed. In contrast to pancreatic PLA2s, AtsPLA2-alpha preferred  zwitterionic phospholipids, and showed lower activity toward anionic  phospholipids. In substrates with two identical fatty acid chains, AtsPLA2-alpha  showed optimum activity toward phospholipids with decanoyl groups. In substrates  with palmitoyl groups in sn-1 position, acyl chains with higher degree of  unsaturation in sn-2 position were preferred, excluding arachidonic acid, showing  the evolutionary adaptation of the enzyme to substrate composition in plants. Km  values for short chain phospholipids were comparable to sPLA2s from animals,  whereas k cat values were much smaller and interfacial activation was less  important.', '2007 Dec', 'Chem Phys Lipids', '10.1016/j.chemphyslip.2007.07.001', 'Ulbrich-Hofmann']
+
+AtsPLA2-alpha: !prefers! zwitterionic phospholipids 
+AtsPLA2-alpha: !prefers! decanoyl groups 
+AtsPLA2-alpha: !prefers! higher degree of unsaturation in sn-2 position 
+AtsPLA2-alpha: !has comparable Km values! to sPLA2s from animals 
+AtsPLA2-alpha: !has lower k cat values! than sPLA2s from animals

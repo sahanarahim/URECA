@@ -1,0 +1,9 @@
+['32213638', 'The control of seed dormancy by abscisic acid (ABA) has been extensively studied,  but the underlying mechanism is not fully understood. Here, we report the  characterization of two ABA-related seed dormancy regulators in Arabidopsis  (Arabidopsis thaliana): ODR1 (for reversal of rdo5), an ortholog of the rice  (Oryza sativa) Seed dormancy4 (Sdr4), and the basic helix-loop-helix  transcription factor bHLH57. ODR1, whose transcript levels are directly  suppressed by the transcription factor ABA INSENSITIVE3 (ABI3), negatively  regulates seed dormancy by affecting ABA biosynthesis and ABA signaling. By  contrast, bHLH57 positively regulates seed dormancy by inducing the expression of  the genes 9-CIS-EPOXYCAROTENOID DIOXYGENASE6 (NCED6) and NCED9, which encode ABA  biosynthetic enzymes, and thus leads to higher ABA levels. ODR1 interacts with  bHLH57 and inhibits bHLH57-modulated NCED6 and NCED9 expression in the nucleus.  bhlh57 loss-of-function alleles can partially counteract the enhanced NCED6 and  NCED9 expression seen in odr1 mutants and can therefore rescue their associated  hyper-dormancy phenotype. Thus, we identified a novel ABI3-ODR1-bHLH57-NCED6/9  network that provides insights into the regulation of seed dormancy by ABA  biosynthesis and signaling.', '2020 Jun', 'Plant Cell', '10.1105/tpc.20.00026', 'ORCID:']
+
+ABI3: !suppresses! ODR1
+ODR1: !negatively regulates! seed dormancy
+bHLH57: !positively regulates! seed dormancy
+bHLH57: !induces expression of! NCED6/9
+ODR1: !interacts with! bHLH57
+bHLH57: !modulates expression of! NCED6/9
+ABI3-ODR1-bHLH57-NCED6/9: !regulates! seed dormancy by ABA biosynthesis and signaling

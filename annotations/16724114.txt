@@ -1,0 +1,8 @@
+['16724114', 'DRD1 is a SWI/SNF-like protein that cooperates with a plant-specific RNA  polymerase, Pol IVb, to facilitate RNA-directed de novo methylation and silencing  of homologous DNA. Screens to identify endogenous targets of this pathway in  Arabidopsis revealed intergenic regions and plant genes located primarily in  euchromatin. Many putative targets are near retrotransposon LTRs or other  intergenic sequences that encode short RNAs, which might epigenetically regulate  adjacent genes. Consistent with this, derepression of a solo LTR in drd1 and pol  IVb mutants was accompanied by reduced cytosine methylation and transcriptional  upregulation of neighboring sequences. The solo LTR and several other LTRs that  flank reactivated targets are associated with euchromatic histone modifications  but little or no H3K9 dimethylation, a hallmark of constitutive heterochromatin.  By contrast, LTRs of retrotransposons that remain silent in the mutants despite  reduced cytosine methylation lack euchromatic marks and have H3K9 dimethylation.  We propose that DRD1 and Pol IVb establish a basal level of silencing that can  potentially be reversed in euchromatin, and further reinforced in heterochromatin  by other proteins that induce more stable modifications.', '2006 Jun 21', 'EMBO J', '10.1038/sj.emboj.7601150', 'Matzke']
+
+DRD1: !cooperates with! Pol IVb 
+Pol IVb: !facilitates! RNA-directed de novo methylation and silencing 
+LTRs: !associated with! euchromatic histone modifications 
+LTRs: !lack! H3K9 dimethylation 
+DRD1: !establishes! basal level of silencing 
+Other proteins: !induce! more stable modifications

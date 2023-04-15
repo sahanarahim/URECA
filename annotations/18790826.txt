@@ -1,0 +1,11 @@
+['18790826', "Plants are simultaneously exposed to abiotic and biotic hazards. Here, we show  that local and systemic acclimation in Arabidopsis thaliana leaves in response to  excess excitation energy (EEE) is associated with cell death and is regulated by  specific redox changes of the plastoquinone (PQ) pool. These redox changes cause  a rapid decrease of stomatal conductance, global induction of ASCORBATE  PEROXIDASE2 and PATHOGEN RESISTANCE1, and increased production of reactive oxygen  species (ROS) and ethylene that signals through ETHYLENE INSENSITIVE2 (EIN2). We  provide evidence that multiple hormonal/ROS signaling pathways regulate the  plant's response to EEE and that EEE stimulates systemic acquired resistance and  basal defenses to virulent biotrophic bacteria. In the Arabidopsis LESION  SIMULATING DISEASE1 (lsd1) null mutant that is deregulated for EEE acclimation  responses, propagation of EEE-induced programmed cell death depends on the plant  defense regulators ENHANCED DISEASE SUSCEPTIBILITY1 (EDS1) and PHYTOALEXIN  DEFICIENT4 (PAD4). We find that EDS1 and PAD4 operate upstream of ethylene and  ROS production in the EEE response. The data suggest that the balanced activities  of LSD1, EDS1, PAD4, and EIN2 regulate signaling of programmed cell death, light  acclimation, and holistic defense responses that are initiated, at least in part,  by redox changes of the PQ pool.", '2008 Sep', 'Plant Cell', '10.1105/tpc.108.059618', 'Karpinski']
+
+EEE: !induces! ROS 
+EEE: !induces! Ethylene 
+Ethylene: !signals through! EIN2 
+PQ pool: !causes! redox changes 
+redox changes: !induce! stomatal conductance 
+redox changes: !induce! APX2 & PR1 
+LSD1: !regulates! EEE acclimation responses 
+EDS1 & PAD4: !operate upstream of! ethylene & ROS 
+EDS1 & PAD4: !regulate! programmed cell death

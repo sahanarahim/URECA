@@ -1,0 +1,9 @@
+['25747881', 'Obligate biotrophs, such as the powdery mildew pathogens, deliver effectors to  the host cell and obtain nutrients from the infection site. The interface between  the plant host and the biotrophic pathogen thus represents a major battleground  for plant-pathogen interactions. Increasing evidence shows that cellular  trafficking plays an important role in plant immunity. Here, we report that  Arabidopsis thaliana ENHANCED DISEASE RESISTANCE4 (EDR4) plays a negative role in  resistance to powdery mildew and that the enhanced disease resistance in edr4  mutants requires salicylic acid signaling. EDR4 mainly localizes to the plasma  membrane and endosomal compartments. Genetic analyses show that EDR4 and EDR1  function in the same genetic pathway. EDR1 and EDR4 accumulate at the penetration  site of powdery mildew infection, and EDR4 physically interacts with EDR1,  recruiting EDR1 to the fungal penetration site. In addition, EDR4 interacts with  CLATHRIN HEAVY CHAIN2 (CHC2), and edr4 mutants show reduced endocytosis rates.  Taken together, our data indicate that EDR4 associates with CHC2 and modulates  plant immunity by regulating the relocation of EDR1 in Arabidopsis.', '2015 Mar', 'Plant Cell', '10.1105/tpc.114.134668', 'Tang']
+
+EDR4: !affects! Resistance 
+EDR4: !localizes to! Plasma membrane 
+EDR4: !interacts with! EDR1 
+EDR4: !interacts with! CHC2 
+EDR4: !enhances! Endocytosis 
+EDR1: !interacts with! EDR4 
+CHC2: !interacts with! EDR4

@@ -1,0 +1,6 @@
+['10036776', 'Mitogen-activated protein kinases (MAPKs) play a key role in plant responses to  stress and pathogens. Activation and inactivation of MAPKs involve  phosphorylation and dephosphorylation on both threonine and tyrosine residues in  the kinase domain. Here we report the identification of an Arabidopsis gene  encoding a dual-specificity protein phosphatase capable of hydrolysing both  phosphoserine/threonine and phosphotyrosine in protein substrates. This enzyme,  designated AtDsPTP1 (Arabidopsis thaliana dual-specificity protein tyrosine  phosphatase), dephosphorylated and inactivated AtMPK4, a MAPK member from the  same plant. Replacement of a highly conserved cysteine by serine abolished  phosphatase activity of AtDsPTP1, indicating a conserved catalytic mechanism of  dual-specificity protein phosphatases from all eukaryotes.', '1998 Dec', 'Plant J', '10.1046/j.1365-313x.1998.00327.x', 'Luan']
+
+AtMPK4: !inactivated by! AtDsPTP1 
+AtDsPTP1: !hydrolyses! phosphoserine/threonine and phosphotyrosine 
+AtDsPTP1: !catalyzed by! conserved cysteine 
+AtMPK4: !plays key role in! plant responses to stress and pathogens

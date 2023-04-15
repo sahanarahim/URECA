@@ -1,0 +1,7 @@
+['35926014', 'Meiosis, at the transition between diploid and haploid life cycle phases, is  accompanied by reprograming of cell division machinery and followed by a  transition back to mitosis. We show that, in Arabidopsis, this transition is  driven by inhibition of translation, achieved by a mechanism that involves  processing bodies (P-bodies). During the second meiotic division, the  meiosis-specific protein THREE-DIVISION MUTANT 1 (TDM1) is incorporated into  P-bodies through interaction with SUPPRESSOR WITH MORPHOGENETIC EFFECTS ON  GENITALIA 7 (SMG7). TDM1 attracts eIF4F, the main translation initiation complex,  temporarily sequestering it in P-bodies and inhibiting translation. The failure  of tdm1 mutants to terminate meiosis can be overcome by chemical inhibition of  translation. We propose that TDM1-containing P-bodies down-regulate expression of  meiotic transcripts to facilitate transition of cell fates to postmeiotic  gametophyte differentiation.', '2022 Aug 5', 'Science', '10.1126/science.abo0904', 'ORCID:']
+
+TDM1: !interacts with! SMG7
+TDM1: !attracts! eIF4F
+eIF4F: !sequestered in! P-bodies
+P-bodies: !inhibit! translation
+translation: !down-regulates! meiotic transcripts

@@ -1,0 +1,9 @@
+['29086441', 'Emerging evidence indicates a close connection between cell-cycle progression and  the plant immune responses. In Arabidopsis, MODIFIER OF snc1-1 (MOS1) modulates a  number of processes including endoreduplication and plant disease resistance, but  the molecular mechanism underlying this modulation was not fully understood.  Here, we provide biochemical and genetic evidence that TEOSINTE BRANCHED 1,  CYCLOIDEA, PCF1 (TCP) transcription factors TCP15 and its homologues are  mediators of MOS1 function in the immune response and are likely to be also  involved in cell-cycle control. MOS1 and TCP proteins have a direct physical  interaction. They both bind to the promoter of the immune receptor gene SUPRESSOR  OF npr1-1, CONSTITUTIVE 1 (SNC1) and modulate its expression and consequently  immune responses. MOS1 and TCP15 both affect the expression of cell-cycle genes  D-type CYCLIN 3;1 (CYCD3;1), which may mediate the MOS1 function in cell-cycle  modulation. In addition, CYCD3;1 overexpression upregulates immune responses, and  SNC1 expression. This study investigated and revealed a role for MOS1 in  transcriptional regulation through TCP15 and its homologues. This finding  suggests the coordination of cell-cycle progression and plant immune responses at  multiple levels.', '2018 Jan', 'Plant J', '10.1111/tpj.13757', 'Hua']
+
+MOS1: !modulates! Process 
+MOS1: !interacts with! TCP 
+TCP: !mediates! MOS1 function 
+TCP: !binds to! SNC1 promoter 
+SNC1: !modulated by! MOS1 & TCP 
+CYCD3;1: !overexpressed by! MOS1 
+CYCD3;1: !upregulates! Immune responses & SNC1

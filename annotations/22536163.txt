@@ -1,0 +1,9 @@
+['22536163', 'Flowering time relies on the integration of intrinsic developmental cues and  environmental signals. FLC and its downstream target FT are key players in the  floral transition in Arabidopsis. Here, we characterized the expression pattern  and function of JMJ18, a novel JmjC domain-containing histone H3K4 demethylase  gene in Arabidopsis. JMJ18 was dominantly expressed in companion cells; its  temporal expression pattern was negatively and positively correlated with that of  FLC and FT, respectively, during vegetative development. Mutations in JMJ18  resulted in a weak late-flowering phenotype, while JMJ18 overexpressors exhibited  an obvious early-flowering phenotype. JMJ18 displayed demethylase activity toward  H3K4me3 and H3K4me2, and bound FLC chromatin directly. The levels of H3K4me3 and  H3K4me2 in chromatins of FLC clade genes and the expression of FLC clade genes  were reduced, whereas FT expression was induced and the protein expression of FT  increased in JMJ18 overexpressor lines. The early-flowering phenotype caused by  the overexpression of JMJ18 was mainly dependent on the functional FT. Our  findings suggest that the companion cell-dominant and developmentally regulated  JMJ18 binds directly to the FLC locus, reducing the level of H3K4 methylation in  FLC chromatin and repressing the expression of FLC, thereby promoting the  expression of FT in companion cells to stimulate flowering.', '2012', 'PLoS Genet', '10.1371/journal.pgen.1002664', 'Ma']
+
+FLC: !negatively correlated with! JMJ18 
+JMJ18: !binds to! FLC 
+JMJ18: !reduces! H3K4 methylation 
+H3K4 methylation: !represses! FLC 
+FT: !induced by! JMJ18 
+JMJ18: !promotes! FT expression 
+FT: !stimulates! flowering

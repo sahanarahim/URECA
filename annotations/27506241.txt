@@ -1,0 +1,12 @@
+['27506241', 'Sphingolipid synthesis is tightly regulated in eukaryotes. This regulation in  plants ensures sufficient sphingolipids to support growth while limiting the  accumulation of sphingolipid metabolites that induce programmed cell death.  Serine palmitoyltransferase (SPT) catalyzes the first step in sphingolipid  biosynthesis and is considered the primary sphingolipid homeostatic regulatory  point. In this report, Arabidopsis (Arabidopsis thaliana) putative SPT regulatory  proteins, orosomucoid-like proteins AtORM1 and AtORM2, were found to interact  physically with Arabidopsis SPT and to suppress SPT activity when coexpressed  with Arabidopsis SPT subunits long-chain base1 (LCB1) and LCB2 and the small  subunit of SPT in a yeast (Saccharomyces cerevisiae) SPT-deficient mutant.  Consistent with a role in SPT suppression, AtORM1 and AtORM2 overexpression lines  displayed increased resistance to the programmed cell death-inducing mycotoxin  fumonisin B(1), with an accompanying reduced accumulation of LCBs and C16 fatty  acid-containing ceramides relative to wild-type plants. Conversely, RNA  interference (RNAi) suppression lines of AtORM1 and AtORM2 displayed increased  sensitivity to fumonisin B(1) and an accompanying strong increase in LCBs and C16  fatty acid-containing ceramides relative to wild-type plants. Overexpression  lines also were found to have reduced activity of the class I ceramide synthase  that uses C16 fatty acid acyl-coenzyme A and dihydroxy LCB substrates but  increased activity of class II ceramide synthases that use very-long-chain fatty  acyl-coenzyme A and trihydroxy LCB substrates. RNAi suppression lines, in  contrast, displayed increased class I ceramide synthase activity but reduced  class II ceramide synthase activity. These findings indicate that ORM mediation  of SPT activity differentially regulates functionally distinct ceramide synthase  activities as part of a broader sphingolipid homeostatic regulatory network.', '2016 Oct', 'Plant Physiol', '10.1104/pp.16.00965', 'ORCID:']
+
+AtORM1: !interacts with! SPT 
+AtORM2: !interacts with! SPT 
+AtORM1: !suppresses! SPT 
+AtORM2: !suppresses! SPT 
+AtORM1: !enhances! resistance to fumonisin B(1) 
+AtORM2: !enhances! resistance to fumonisin B(1) 
+AtORM1: !represses! class I ceramide synthase 
+AtORM2: !represses! class I ceramide synthase 
+AtORM1: !enhances! class II ceramide synthase 
+AtORM2: !enhances! class II ceramide synthase

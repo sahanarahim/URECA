@@ -1,0 +1,8 @@
+['24498147', "SNF1-related kinase (SnRK1) in plants belongs to a conserved family that includes  sucrose non-fermenting 1 kinase (SNF1) in yeast and AMP-activated protein kinase  (AMPK) in animals. These kinases play important roles in the regulation of  cellular energy homeostasis and in response to stresses that deplete ATP, they  inhibit energy consuming anabolic pathways and promote catabolism. Energy stress  is sensed by increased AMP:ATP ratios and in plants, 5'-AMP inhibits inactivation  of phosphorylated SnRK1 by phosphatase. In previous studies, we showed that  geminivirus pathogenicity proteins interact with both SnRK1 and adenosine kinase  (ADK), which phosphorylates adenosine to generate 5'-AMP. This suggested a  relationship between SnRK1 and ADK, which we investigate in the studies described  here. We demonstrate that SnRK1 and ADK physically associate in the cytoplasm,  and that SnRK1 stimulates ADK in vitro by an unknown, non-enzymatic mechanism.  Further, altering SnRK1 or ADK activity in transgenic plants altered the activity  of the other kinase, providing evidence for in vivo linkage but also revealing  that in vivo regulation of these activities is complex. This study establishes  the existence of SnRK1-ADK complexes that may play important roles in energy  homeostasis and cellular responses to biotic and abiotic stress.", '2014', 'PLoS One', '10.1371/journal.pone.0087592', 'Bisaro']
+
+SnRK1: !interacts with! ADK 
+SnRK1: !stimulates! ADK 
+ADK: !phosphorylates! adenosine 
+SnRK1: !inhibits! energy consuming anabolic pathways 
+SnRK1: !promotes! catabolism 
+AMP:ATP: !senses! energy stress

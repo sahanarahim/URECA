@@ -1,0 +1,10 @@
+['25035403', 'Gibberellins (GAs) are essential regulators of plant development, and DELLAs are  negative regulators of GA signaling. The mechanism of GA-dependent transcription  has been explained by DELLA-mediated titration of transcriptional activators and  their release through the degradation of DELLAs in response to GA. However, the  effect of GA on genome-wide expression is predominantly repression, suggesting  the existence of unknown mechanisms of GA function. In this study, we identified  an Arabidopsis thaliana DELLA binding transcription factor, GAI-ASSOCIATED  FACTOR1 (GAF1). GAF1 shows high homology to INDETERMINATE DOMAIN1  (IDD1)/ENHYDROUS. GA responsiveness was decreased in the double mutant gaf1 idd1,  whereas it was enhanced in a GAF1 overexpressor. GAF1 binds to genes that are  subject to GA feedback regulation. Furthermore, we found that GAF1 interacts with  the corepressor TOPLESS RELATED (TPR) and that DELLAs and TPR act as coactivators  and a corepressor of GAF1, respectively. GA converts the GAF1 complex from  transcriptional activator to repressor via the degradation of DELLAs. These  results indicate that DELLAs turn on or off two sets of GA-regulated genes via  dual functions, namely titration and coactivation, providing a mechanism for the  integrative regulation of plant growth and GA homeostasis.', '2014 Jul', 'Plant Cell', '10.1105/tpc.114.125690', 'Takahashi']
+
+GAs: !regulate! Plant Development
+DELLAs: !titrate! Transcriptional Activators
+GA: !represses! Genome-wide Expression
+GAF1: !binds to! Genes
+GAF1: !interacts with! TPR
+DELLAs: !coactivate! GAF1
+TPR: !corepresses! GAF1
+GA: !degrades! DELLAs

@@ -1,0 +1,8 @@
+['29891689', "Photosystem II (PSII), a multisubunit protein complex of the photosynthetic  electron transport chain, functions as a water-plastoquinone oxidoreductase,  which is vital to the initiation of photosynthesis and electron transport.  Although the structure, composition, and function of PSII are well understood,  the mechanism of PSII biogenesis remains largely elusive. Here, we identified a  nuclear-encoded pentatricopeptide repeat (PPR) protein LOW PHOTOSYNTHETIC  EFFICIENCY 1 (LPE1; encoded by At3g46610) in Arabidopsis, which plays a crucial  role in PSII biogenesis. LPE1 is exclusively targeted to chloroplasts and  directly binds to the 5' UTR of psbA mRNA which encodes the PSII reaction center  protein D1. The loss of LPE1 results in less efficient loading of ribosome on the  psbA mRNA and great synthesis defects in D1 protein. We further found that LPE1  interacts with a known regulator of psbA mRNA translation HIGH CHLOROPHYLL  FLUORESCENCE 173 (HCF173) and facilitates the association of HCF173 with psbA  mRNA. More interestingly, our results indicate that LPE1 associates with psbA  mRNA in a light-dependent manner through a redox-based mechanism. This study  enhances our understanding of the mechanism of light-regulated D1 synthesis,  providing important insight into PSII biogenesis and the functional maintenance  of efficient photosynthesis in higher plants.", '2018 Jun 26', 'Proc Natl Acad Sci U S A', '10.1073/pnas.1807364115', 'ORCID:']
+
+LPE1: !localizes to! chloroplasts 
+LPE1: !binds to! psbA mRNA 
+LPE1: !interacts with! HCF173 
+LPE1: !associates with! psbA mRNA 
+psbA mRNA: !synthesizes! D1 protein 
+HCF173: !regulates! psbA mRNA translation

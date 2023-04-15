@@ -1,0 +1,12 @@
+['17092313', 'Intracellular release of calcium ions belongs to the earliest events in cellular  stress perception. The molecular mechanisms integrating signals from different  environmental cues and translating them into an optimized response are largely  unknown. We report here the functional characterization of CIPK1, a protein  kinase interacting strongly with the calcium sensors CBL1 and CBL9. Comparison of  the expression patterns indicates that the three proteins execute their functions  in the same tissues. Physical interaction of CIPK1 with CBL1 and CBL9 targets the  kinase to the plasma membrane. We show that, similarly to loss of CBL9 function,  mutation of either CBL1 or CIPK1 renders plants hypersensitive to osmotic stress.  Remarkably, in contrast to the cbl1 mutant and similarly to the cbl9 mutant, loss  of CIPK1 function impairs abscisic acid (ABA) responsiveness. We therefore  suggest that, by alternative complex formation with either CBL1 or CBL9, the  kinase CIPK1 represents a convergence point for ABA-dependent and ABA-independent  stress responses. Based on our genetic, physiological and protein-protein  interaction data, we propose a general model for information processing in  calcium-regulated signalling networks.', '2006 Dec', 'Plant J', '10.1111/j.1365-313X.2006.02921.x', 'Kudla']
+
+CIPK1: !interacts with! CBL1 
+CIPK1: !interacts with! CBL9 
+CBL1: !interacts with! CIPK1 
+CBL9: !interacts with! CIPK1 
+CBL1: !affects! osmotic stress response 
+CBL9: !affects! osmotic stress response 
+CIPK1: !affects! osmotic stress response 
+CBL1: !affects! ABA responsiveness 
+CBL9: !affects! ABA responsiveness 
+CIPK1: !affects! ABA responsiveness

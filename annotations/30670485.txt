@@ -1,0 +1,9 @@
+['30670485', 'The phloem plays essential roles in the source-to-sink relationship and in  long-distance communication, and thereby coordinates growth and development  throughout the plant. Here we employed isolation of nuclei tagged in specific  cell types coupled with low-input, high-throughput sequencing approaches to  analyze the changes of the chromatin modifications H3K4me3 and H3K27me3 and their  correlation with gene expression in the phloem companion cells (PCCs) of  Arabidopsis(Arabidopsis thaliana) shoots in response to changes in photoperiod.  We observed a positive correlation between changes in expression and H3K4me3  levels of genes that are involved in essential PCC functions, including  regulation of metabolism, circadian rhythm, development, and epigenetic  modifications. By contrast, changes in H3K27me3 signal appeared to contribute  little to gene expression changes. These genomic data illustrate the complex  gene-regulatory networks that integrate plant developmental and physiological  processes in the PCCs. Emphasizing the importance of cell-specific analyses, we  identified a previously uncharacterized MORN-motif repeat protein, MORN-MOTIF  REPEAT PROTEIN REGULATING FLOWERING1 (MRF1), that was strongly up-regulated in  the PCCs in response to inductive photoperiod. The mrf1 mutation delayed  flowering, whereas MRF1 overexpression had the opposite effect, indicating that  MRF1 acts as a floral promoter.', '2019 Feb', 'Plant Cell', '10.1105/tpc.17.00714', 'ORCID:']
+
+H3K4me3: !correlates with! gene expression 
+metabolism: !regulated by! genes 
+circadian rhythm: !regulated by! genes 
+development: !regulated by! genes 
+epigenetic modifications: !regulated by! genes 
+photoperiod: !induces! MRF1 
+MRF1: !promotes! flowering

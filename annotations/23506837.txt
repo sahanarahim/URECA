@@ -1,0 +1,7 @@
+['23506837', 'TBP-Associated Factors (TAFs) are components of complexes like TFIID, TFTC,  SAGA/STAGA and SMAT that are important for the activation of transcription,  either by establishing the basic transcription machinery or by facilitating  histone acetylation. However, in Drosophila embryos several TAFs were shown to be  associated with the Polycomb Repressive Complex 1 (PRC1), even though the role of  this interaction remains unclear. Here we show that in Arabidopsis TAF13  interacts with MEDEA and SWINGER, both members of a plant variant of Polycomb  Repressive Complex 2 (PRC2). PRC2 variants play important roles during the plant  life cycle, including seed development. The taf13 mutation causes seed defects,  showing embryo arrest at the 8-16 cell stage and over-proliferation of the  endosperm in the chalazal region, which is typical for Arabidopsis PRC2 mutants.  Our data suggest that TAF13 functions together with PRC2 in transcriptional  regulation during seed development.', '2013 Jul 1', 'Dev Biol', '10.1016/j.ydbio.2013.03.005', 'Kater']
+
+TAFs: !interact with! PRC1 
+TAF13: !interacts with! MEDEA 
+TAF13: !interacts with! SWINGER 
+TAF13: !functions with! PRC2 
+PRC2: !regulates! transcriptional regulation

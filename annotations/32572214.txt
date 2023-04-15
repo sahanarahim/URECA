@@ -1,0 +1,8 @@
+['32572214', 'Histone demethylation is crucial for proper chromatin structure and to ensure  normal development, and requires the large family of Jumonji C (JmjC)-containing  demethylases; however, the molecular mechanisms that regulate the substrate  specificity of these JmjC-containing demethylases remain largely unknown. Here,  we show that the substrate specificity of the Arabidopsis histone demethylase  JMJ16 is broadened from Lys 4 of histone H3 (H3K4) alone in somatic cells to both  H3K4 and H3K9 when it binds to the meiocyte-specific histone reader MMD1.  Consistent with this, the JMJ16 catalytic domain exhibits both H3K4 and H3K9  demethylation activities. Moreover, the JMJ16 C-terminal FYR domain interacts  with the JMJ16 catalytic domain and probably restricts its substrate specificity.  By contrast, MMD1 can compete with the N-terminal catalytic domain of JMJ16 for  binding to the FYR-C domain, thereby expanding the substrate specificity of JMJ16  by preventing the FYR domain from binding to the catalytic domain. We propose  that MMD1 and JMJ16 together in male meiocytes promote gene expression in an  H3K9me3-dependent manner and thereby contribute to meiotic chromosome  condensation.', '2020 Jul', 'Nat Plants', '10.1038/s41477-020-0697-0', 'ORCID:']
+
+JMJ16: !demethylates! H3K4 & H3K9
+JMJ16: !binds to! MMD1
+MMD1: !competes with! JMJ16 catalytic domain
+FYR-C domain: !restricts! JMJ16 substrate specificity
+MMD1: !expands! JMJ16 substrate specificity
+JMJ16 & MMD1: !promote! gene expression

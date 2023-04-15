@@ -1,0 +1,8 @@
+['15964904', 'TONSOKU(TSK)/MGOUN3/BRUSHY1 from Arabidopsis thaliana, which plays an important  role in the maintenance of meristem organization, contains an LGN repeat motif  similar to that found in animal proteins involved in asymmetric cell division.  One protein that interacts with the LGN motif of TSK in a yeast two-hybrid  screen, TSK-associating protein 1 (TSA1), contains a 10-fold repeat of a unique  41 amino acid sequence. The repeat sequence, with a glutamic  acid-phenylalanine-glutamic acid (EFE) conserved core sequence, is enriched with  acidic amino acids. TSA1 also contains an N-terminal putative signal peptide and  it interacts with the LGN motif of TSK through a C-terminal region separated from  the EFE repeats by a putative membrane-spanning region. The recombinant protein  consisting of EFE repeats was rich in alpha-helical structure and possessed  Ca2+-binding activity. Unlike nuclear localization of TSK, the TSA1 fused with  green fluorescent protein (GFP) expressed in tobacco BY-2 cells was localized in  small cytoplasmic vesicles during interphase. However, cellular localization of  both TSA1-GFP and GFP-TSK changed dynamically during mitosis. In particular, both  GFP-TSK and TSA1-GFP were concentrated in limited areas that are close to the  ends of spindle microtubules ahead of separating chromatids. These results are  discussed in terms of the possible involvement of TSK and TSA1 in mitosis.', '2005 Sep', 'Plant Cell Physiol', '10.1093/pcp/pci155', 'Nakamura']
+
+TSK: !interacts with! TSA1
+TSA1: !contains! EFE repeats
+EFE repeats: !binds! Ca2+
+TSK: !localizes to! nucleus
+TSA1: !localizes to! cytoplasmic vesicles
+TSK/TSA1: !dynamically change localization! during mitosis

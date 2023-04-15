@@ -1,0 +1,13 @@
+['16055633', 'CLAVATA3 (CLV3), CLV3/ESR19 (CLE19), and CLE40 belong to a family of 26 genes in  Arabidopsis thaliana that encode putative peptide ligands with unknown identity.  It has been shown previously that ectopic expression of any of these three genes  leads to a consumption of the root meristem. Here, we show that in vitro  application of synthetic 14-amino acid peptides, CLV3p, CLE19p, and CLE40p,  corresponding to the conserved CLE motif, mimics the overexpression phenotype.  The same result was observed when CLE19 protein was applied externally.  Interestingly, clv2 failed to respond to the peptide treatment, suggesting that  CLV2 is involved in the CLE peptide signaling. Crossing of the CLE19  overexpression line with clv mutants confirms the involvement of CLV2. Analyses  using tissue-specific marker lines revealed that the peptide treatments led to a  premature differentiation of the ground tissue daughter cells and  misspecification of cell identity in the pericycle and endodermis layers. We  propose that these 14-amino acid peptides represent the major active domain of  the corresponding CLE proteins, which interact with or saturate an unknown cell  identity-maintaining CLV2 receptor complex in roots, leading to consumption of  the root meristem.', '2005 Sep', 'Plant Cell', '10.1105/tpc.105.034009', 'Liu']
+
+CLV3: !affects! root meristem
+CLE19: !affects! root meristem
+CLE40: !affects! root meristem
+CLV3p: !mimics! CLV3
+CLE19p: !mimics! CLE19
+CLE40p: !mimics! CLE40
+CLE19: !interacts with! CLV2
+CLV2: !involved in! CLE peptide signaling
+CLE19: !crossed with! clv mutants
+peptide treatments: !leads to! premature differentiation
+CLE proteins: !interact with! unknown cell identity-maintaining CLV2 receptor complex

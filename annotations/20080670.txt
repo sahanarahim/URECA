@@ -1,0 +1,11 @@
+['20080670', 'In Arabidopsis thaliana, biosynthesis of the essential thiol antioxidant,  glutathione (GSH), is plastid-regulated, but many GSH functions, including heavy  metal detoxification and plant defense activation, depend on cytosolic GSH. This  finding suggests that plastid and cytosol thiol pools are closely integrated and  we show that in Arabidopsis this integration requires a family of three plastid  thiol transporters homologous to the Plasmodium falciparum chloroquine-resistance  transporter, PfCRT. Arabidopsis mutants lacking these transporters are heavy  metal-sensitive, GSH-deficient, and hypersensitive to Phytophthora infection,  confirming a direct requirement for correct GSH homeostasis in defense responses.  Compartment-specific measurements of the glutathione redox potential using  redox-sensitive GFP showed that knockout of the entire transporter family  resulted in a more oxidized glutathione redox potential in the cytosol, but not  in the plastids, indicating the GSH-deficient phenotype is restricted to the  cytosolic compartment. Expression of the transporters in Xenopus oocytes  confirmed that each can mediate GSH uptake. We conclude that these transporters  play a significant role in regulating GSH levels and the redox potential of the  cytosol.', '2010 Feb 2', 'Proc Natl Acad Sci U S A', '10.1073/pnas.0913689107', 'Cobbett']
+
+Gene: !synthesizes! GSH 
+Gene: !localizes to! Plastid 
+Gene: !transports! GSH 
+Gene: !affects! Heavy metal detoxification 
+Gene: !affects! Plant defense activation 
+Gene: !enhances! GSH homeostasis 
+Gene: !represses! Heavy metal sensitivity 
+Gene: !represses! GSH deficiency 
+Gene: !represses! Phytophthora infection

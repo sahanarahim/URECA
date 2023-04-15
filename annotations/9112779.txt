@@ -1,0 +1,14 @@
+['9112779', 'Two distinct cDNA clones encoding NAD(H)-dependent glutamate dehydrogenase  (NAD[H]-GDH) in Arabidopsis thaliana were identified and sequenced. The genes  corresponding to these cDNA clones were designated GDH1 and GDH2. Analysis of the  deduced amino acid sequences suggest that both gene products contain putative  mitochondrial transit polypeptides and NAD(H)- and alpha-ketoglutarate-binding  domains. Subcellular fractionation confirmed the mitochondrial location of the  NAD(H)-GDH isoenzymes. In addition, a putative EF-hand loop, shown to be  associated with Ca2+ binding, was identified in the GDH2 gene product but not in  the GDH1 gene product. GDH1 encodes a 43.0-kD polypeptide, designated alpha, and  GDH2 encodes a 42.5-kD polypeptide, designated beta. The two subunits combine in  different ratios to form seven NAD(H)-GDH isoenzymes. The slowest-migrating  isoenzyme in a native gel, GDH1, is a homohexamer composed of alpha subunits, and  the fastest-migrating isoenzyme, GDH7, is a homohexamer composed of beta  subunits. GDH isoenzymes 2 through 6 are heterohexamers composed of different  ratios of alpha and beta subunits. NAD(H)-GDH isoenzyme patterns varied among  different plant organs and in leaves of plants irrigated with different nitrogen  sources or subjected to darkness for 4 d. Conversely, there were little or no  measurable changes in isoenzyme patterns in roots of plants treated with  different nitrogen sources. In most instances, changes in isoenzyme patterns were  correlated with relative differences in the level of alpha and beta subunits.  Likewise, the relative difference in the level of alpha or beta subunits was  correlated with changes in the level of GDH1 or GDH2 transcript detected in each  sample, suggesting that NAD(H)-GDH activity is controlled at least in part at the  transcriptional level.', '1997 Apr', 'Plant Physiol', '10.1104/pp.113.4.1329', 'Weisemann']
+
+GDH1: !encodes! alpha subunit
+GDH2: !encodes! beta subunit
+alpha subunit: !combines with! beta subunit
+GDH1: !forms! homohexamer
+GDH7: !forms! homohexamer
+alpha subunit: !combines in different ratios with! beta subunit
+GDH isoenzymes 2-6: !form! heterohexamers
+NAD(H)-GDH isoenzyme patterns: !vary among! plant organs
+NAD(H)-GDH isoenzyme patterns: !change with! nitrogen sources
+alpha subunit: !correlated with! GDH1 transcript
+beta subunit: !correlated with! GDH2 transcript
+GDH activity: !controlled at least in part by! transcriptional level

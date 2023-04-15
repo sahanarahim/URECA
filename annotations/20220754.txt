@@ -1,0 +1,8 @@
+['20220754', 'Acquisition of cell identity in plants relies strongly on positional information,  hence cell-cell communication and inductive signalling are instrumental for  developmental patterning. During Arabidopsis embryogenesis, an extra-embryonic  cell is specified to become the founder cell of the primary root meristem,  hypophysis, in response to signals from adjacent embryonic cells. The  auxin-dependent transcription factor MONOPTEROS (MP) drives hypophysis  specification by promoting transport of the hormone auxin from the embryo to the  hypophysis precursor. However, auxin accumulation is not sufficient for  hypophysis specification, indicating that additional MP-dependent signals are  required. Here we describe the microarray-based isolation of MP target genes that  mediate signalling from embryo to hypophysis. Of three direct transcriptional  target genes, TARGET OF MP 5 (TMO5) and TMO7 encode basic helix-loop-helix (bHLH)  transcription factors that are expressed in the hypophysis-adjacent embryo cells,  and are required and partially sufficient for MP-dependent root initiation.  Importantly, the small TMO7 transcription factor moves from its site of synthesis  in the embryo to the hypophysis precursor, thus representing a novel MP-dependent  intercellular signal in embryonic root specification.', '2010 Apr 8', 'Nature', '10.1038/nature08836', 'Weijers']
+
+MP: !promotes! auxin transport 
+MP: !regulates! TMO5 
+MP: !regulates! TMO7 
+TMO5: !required for! MP-dependent root initiation 
+TMO7: !required for! MP-dependent root initiation 
+TMO7: !moves from! embryo to hypophysis precursor

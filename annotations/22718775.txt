@@ -1,0 +1,10 @@
+['22718775', 'TEOSINTE BRANCHED1/CYCLOIDEA/PROLIFERATING CELL FACTOR1 (TCP) transcription  factors control developmental processes in plants. The 24 TCP transcription  factors encoded in the Arabidopsis (Arabidopsis thaliana) genome are divided into  two classes, class I and class II TCPs, which are proposed to act  antagonistically. We performed a detailed phenotypic analysis of the class I  tcp20 mutant, showing an increase in leaf pavement cell sizes in 10-d-old  seedlings. Subsequently, a glucocorticoid receptor induction assay was performed,  aiming to identify potential target genes of the TCP20 protein during leaf  development. The LIPOXYGENASE2 (LOX2) and class I TCP9 genes were identified as  TCP20 targets, and binding of TCP20 to their regulatory sequences could be  confirmed by chromatin immunoprecipitation analyses. LOX2 encodes for a jasmonate  biosynthesis gene, which is also targeted by class II TCP proteins that are under  the control of the microRNA JAGGED AND WAVY (JAW), although in an antagonistic  manner. Mutation of TCP9, the second identified TCP20 target, resulted in  increased pavement cell sizes during early leaf developmental stages. Analysis of  senescence in the single tcp9 and tcp20 mutants and the tcp9tcp20 double mutants  showed an earlier onset of this process in comparison with wild-type control  plants in the double mutant only. Both the cell size and senescence phenotypes  are opposite to the known class II TCP mutant phenotype in JAW plants.  Altogether, these results point to an antagonistic function of class I and class  II TCP proteins in the control of leaf development via the jasmonate signaling  pathway.', '2012 Aug', 'Plant Physiol', '10.1104/pp.112.200303', 'Immink']
+
+TCP20: !controls! Developmental Processes 
+TCP20: !targets! LOX2 
+TCP20: !targets! TCP9 
+LOX2: !synthesizes! Jasmonate 
+JAW: !regulates! Class II TCPs 
+TCP9: !affects! Cell Size 
+TCP9: !affects! Senescence 
+Class I TCPs: !antagonize! Class II TCPs

@@ -1,0 +1,17 @@
+['10417722', 'The enzyme 4-coumarate:CoA ligase (4CL) plays a key role in channelling carbon  flow into diverse branch pathways of phenylpropanoid metabolism which serve  important functions in plant growth and adaptation to environmental  perturbations. Here we report on the cloning of the 4CL gene family from  Arabidopsis thaliana and demonstrate that its three members, At4CL1, At4CL2 and  At4CL3, encode isozymes with distinct substrate preference and specificities.  Expression studies revealed a differential behaviour of the three genes in  various plant organs and upon external stimuli such as wounding and UV  irradiation or upon challenge with the fungus, Peronospora parasitica.  Phylogenetic comparisons indicate that, in angiosperms, 4CL can be classified  into two major clusters, class I and class II, with the At4CL1 and At4CL2  isoforms belonging to class I and At4CL3 to class II. Based on their enzymatic  properties, expression characteristics and evolutionary relationships, At4CL3 is  likely to participate in the biosynthetic pathway leading to flavonoids whereas  At4CL1 and At4CL2 are probably involved in lignin formation and in the production  of additional phenolic compounds other than flavonoids.', '1999 Jul', 'Plant J', '10.1046/j.1365-313x.1999.00491.x', 'Kombrink']
+
+At4CL1: !synthesizes! lignin 
+At4CL2: !synthesizes! additional phenolic compounds 
+At4CL3: !synthesizes! flavonoids 
+At4CL1: !localizes to! various plant organs 
+At4CL2: !localizes to! various plant organs 
+At4CL3: !localizes to! various plant organs 
+At4CL1: !enhances! response to wounding 
+At4CL2: !enhances! response to wounding 
+At4CL3: !enhances! response to wounding 
+At4CL1: !enhances! response to UV irradiation 
+At4CL2: !enhances! response to UV irradiation 
+At4CL3: !enhances! response to UV irradiation 
+At4CL1: !enhances! response to Peronospora parasitica 
+At4CL2: !enhances! response to Peronospora parasitica 
+At4CL3: !enhances! response to Peronospora parasitica

@@ -1,0 +1,9 @@
+['24280391', 'Plant cortical microtubule arrays determine the cell wall deposition pattern and  proper cell shape and function. Although various microtubule-associated proteins  regulate the cortical microtubule array, the mechanisms underlying marked  rearrangement of cortical microtubules during xylem differentiation are not fully  understood. Here, we show that local Rho of Plant (ROP) GTPase signaling targets  an Arabidopsis thaliana kinesin-13 protein, Kinesin-13A, to cortical microtubules  to establish distinct patterns of secondary cell wall formation in xylem cells.  Kinesin-13A was preferentially localized with cortical microtubules in secondary  cell wall pits, areas where cortical microtubules are depolymerized to prevent  cell wall deposition. This localization of Kinesin-13A required the presence of  the activated ROP GTPase, MICROTUBULE DEPLETION DOMAIN1 (MIDD1) protein, and  cortical microtubules. Knockdown of Kinesin-13A resulted in the formation of  smaller secondary wall pits, while overexpression of Kinesin-13A enlarged their  surface area. Kinesin-13A alone could depolymerize microtubules in vitro;  however, both MIDD1 and Kinesin-13A were required for the depolymerization of  cortical microtubules in vivo. These results indicate that Kinesin-13A regulates  the formation of secondary wall pits by promoting cortical microtubule  depolymerization via the ROP-MIDD1 pathway.', '2013 Nov', 'Plant Cell', '10.1105/tpc.113.117853', 'Fukuda']
+
+ROP: !targets! Kinesin-13A 
+Kinesin-13A: !localizes to! cortical microtubules 
+MIDD1: !interacts with! Kinesin-13A 
+Kinesin-13A: !depolymerizes! microtubules 
+ROP: !activates! MIDD1 
+MIDD1: !enhances! Kinesin-13A 
+Kinesin-13A: !regulates! secondary wall pits

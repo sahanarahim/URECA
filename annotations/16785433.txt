@@ -1,0 +1,9 @@
+['16785433', 'AtPep1 is a 23-aa endogenous peptide elicitor from Arabidopsis leaves that  signals the activation of components of the innate immune response against  pathogens. Here, we report the isolation of an AtPep1 receptor from the surface  of Arabidopsis suspension-cultured cells. An (125)I-labeled AtPep1 analog  interacted with suspension-cultured Arabidopsis with a K(d) of 0.25 nM, and an  (125)I-labeled azido-Cys-AtPep1 photoaffinity analog specifically labeled a  membrane-associated protein of approximately 170 kDa. The labeled protein was  purified to homogeneity, and its tryptic peptides were identified as gene  At1g73080, which encodes a leucine-rich repeat receptor kinase, here called  PEPR1. Verification of the binding protein as the receptor for AtPep1 was  established by demonstrating the loss of function of microsomal membranes of two  SALK insertional mutants and by a gain in function of the alkalinization response  to AtPep1 by tobacco suspension-cultured cells expressing the At1g73080  transgene. Synthetic homologs of AtPep1, deduced from the C termini of six known  paralogs of PROPEP1, were biologically active and were competitors of the  interaction of an AtPep1 radiolabeled analog with the receptor. The data are  consistent with a role for PEPR1 as the receptor for AtPep1 to amplify innate  immunity in response to pathogen attacks.', '2006 Jun 27', 'Proc Natl Acad Sci U S A', '10.1073/pnas.0603729103', 'Ryan']
+
+AtPep1: !interacts with! PEPR1 
+PEPR1: !encodes! At1g73080 
+AtPep1: !elicits! innate immune response 
+AtPep1: !binds to! membrane-associated protein 
+AtPep1: !competed by! synthetic homologs 
+SALK insertional mutants: !lose function of! microsomal membranes 
+tobacco suspension-cultured cells: !gain in function of! alkalinization response

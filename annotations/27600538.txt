@@ -1,0 +1,8 @@
+['27600538', 'Grana are stacked thylakoid membrane structures in land plants that contain PSII  and light-harvesting complex II proteins (LHCIIs). We isolated two Arabidopsis  thaliana mutants, reduced induction of non-photochemical quenching1 (riq1) and  riq2, in which stacking of grana was enhanced. The curvature thylakoid 1a  (curt1a) mutant was previously shown to lack grana structure. In riq1 curt1a, the  grana were enlarged with more stacking, and in riq2 curt1a, the thylakoids were  abnormally stacked and aggregated. Despite having different phenotypes in  thylakoid structure, riq1, riq2, and curt1a showed a similar defect in the level  of nonphotochemical quenching of chlorophyll fluorescence (NPQ). In riq curt1a  double mutants, NPQ induction was more severely affected than in either single  mutant. In riq mutants, state transitions were inhibited and the PSII antennae  were smaller than in wild-type plants. The riq defects did not affect NPQ  induction in the chlorophyll b-less mutant. RIQ1 and RIQ2 are paralogous and  encode uncharacterized grana thylakoid proteins, but despite the high level of  identity of the sequence, the functions of RIQ1 and RIQ2 were not redundant. RIQ1  is required for RIQ2 accumulation, and the wild-type level of RIQ2 did not  complement the NPQ and thylakoid phenotypes in riq1 We propose that RIQ proteins  link the grana structure and organization of LHCIIs.', '2016 Sep', 'Plant Cell', '10.1105/tpc.16.00296', 'Shikanai']
+
+RIQ1: !affects! RIQ2 accumulation
+RIQ1: !enhances! Grana structure
+RIQ2: !enhances! Grana structure
+RIQ1/2: !localizes to! Thylakoid membrane
+RIQ1/2: !interacts with! PSII and LHCIIs
+RIQ1/2: !enhances! Nonphotochemical quenching of chlorophyll fluorescence

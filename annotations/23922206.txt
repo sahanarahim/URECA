@@ -1,0 +1,8 @@
+['23922206', 'Compared with small heat shock proteins (sHSPs) in other organisms, those in  plants are the most abundant and diverse. However, the molecular mechanisms by  which sHSPs are involved in cell protection remain unknown. Here, we  characterized the role of HSP21, a plastid nucleoid-localized sHSP, in  chloroplast development under heat stress. We show that an Arabidopsis thaliana  knockout mutant of HSP21 had an ivory phenotype under heat stress. Quantitative  real-time RT-PCR, run-on transcription, RNA gel blot, and polysome association  analyses demonstrated that HSP21 is involved in plastid-encoded RNA polymerase  (PEP)-dependent transcription. We found that the plastid nucleoid protein pTAC5  was an HSP21 target. pTAC5 has a C4-type zinc finger similar to that of  Escherichia coli DnaJ and zinc-dependent disulfide isomerase activity. Reduction  of pTAC5 expression by RNA interference led to similar phenotypic effects as  observed in hsp21. HSP21 and pTAC5 formed a complex that was associated mainly  with the PEP complex. HSP21 and pTAC5 were associated with the PEP complex not  only during transcription initiation, but also during elongation and termination.  Our results suggest that HSP21 and pTAC5 are required for chloroplast development  under heat stress by maintaining PEP function.', '2013 Aug', 'Plant Cell', '10.1105/tpc.113.111229', 'Lu']
+
+HSP21: !localizes to! plastid nucleoid 
+HSP21: !interacts with! pTAC5 
+pTAC5: !interacts with! HSP21 
+HSP21: !enhances! PEP-dependent transcription 
+pTAC5: !enhances! PEP-dependent transcription 
+HSP21: !maintains! PEP function

@@ -1,0 +1,8 @@
+['19517005', 'In plants, flowering is a critical developmental transition orchestrated by four  regulatory pathways. Distinct alleles encoding mutant forms of the Arabidopsis  potential calcium sensor CML24 cause alterations in flowering time. CML24 can act  as a switch in the response to day length perception; loss-of-function cml24  mutants are late flowering under long days, whereas apparent gain of CML24  function results in early flowering. CML24 function is required for proper  CONSTANS (CO) expression; components upstream of CO in the photoperiod pathway  are largely unaffected in the cml24 mutants. In conjunction with CML23, a related  calmodulin-like protein, CML24 also inhibits FLOWERING LOCUS C (FLC) expression  and therefore impacts the autonomous regulatory pathway of the transition to  flowering. Nitric oxide (NO) levels are elevated in cml23/cml24 double mutants  and are largely responsible for FLC transcript accumulation. Therefore, CML23 and  CML24 are potential calcium sensors that have partially overlapping function that  may act to transduce calcium signals to regulate NO accumulation. In turn, NO  levels influence the transition to flowering through both the photoperiod and  autonomous regulatory pathways.', '2007 Nov', 'Plant Signal Behav', '10.4161/psb.2.6.4695', 'Braam']
+
+CML24: !affects! flowering time 
+CML24: !regulates! CO expression 
+CML23/CML24: !inhibit! FLC expression 
+CML23/CML24: !transduce! calcium signals 
+NO: !accumulates! in cml23/cml24 double mutants 
+NO: !influences! transition to flowering

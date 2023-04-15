@@ -1,0 +1,10 @@
+['12917293', 'GLABRA3 (GL3) encodes a bHLH protein that interacts with the WD repeat protein,  TTG1. GL3 overexpression suppresses the trichome defect of the pleiotropic ttg1  mutations. However, single gl3 mutations only affect the trichome pathway with a  modest trichome number reduction. A novel unlinked bHLH-encoding locus is  described here, ENHANCER OF GLABRA3 (EGL3). When mutated, egl3 gives totally  glabrous plants only in the gl3 mutant background. The double bHLH mutant, gl3  egl3, has a pleiotropic phenotype like ttg1 having defective anthocyanin  production, seed coat mucilage production, and position-dependent root hair  spacing. Furthermore, the triple bHLH mutant, gl3 egl3 tt8, phenocopies the ttg1  mutation. Yeast two-hybrid and plant overexpression studies show that EGL3, like  GL3, interacts with TTG1, the myb proteins GL1, PAP1 and 2, CPC and TRY, and it  will form heterodimers with GL3. These results suggest a combinatorial model for  TTG1-dependent pathway regulation by this trio of partially functionally  redundant bHLH proteins.', '2003 Oct', 'Development', '10.1242/dev.00681', 'Lloyd']
+
+GL3: !interacts with! TTG1
+EGL3: !interacts with! TTG1
+GL3: !forms heterodimers with! EGL3
+GL3: !interacts with! GL1
+GL3: !interacts with! PAP1
+GL3: !interacts with! PAP2
+GL3: !interacts with! CPC
+GL3: !interacts with! TRY

@@ -1,0 +1,10 @@
+['11739776', 'The syntaxin family of soluble N-ethyl maleimide sensitive factor adaptor protein  receptors (SNAREs) is known to play an important role in the fusion of transport  vesicles with specific organelles. Twenty-four syntaxins are encoded in the  genome of the model plant Arabidopsis thaliana. These 24 genes are found in 10  gene families and have been reclassified as syntaxins of plants (SYPs). Some of  these gene families have been previously characterized, with the SYP2-type  syntaxins being found in the prevacuolar compartment (PVC) and the SYP4-type  syntaxins on the trans-Golgi network (TGN). Here we report on two previously  uncharacterized syntaxin groups. The SYP5 group is encoded by a two-member gene  family, whereas SYP61 is a single gene. Both types of syntaxins are localized to  multiple compartments of the endomembrane system, including the TGN and the PVC.  These two groups of syntaxins form SNARE complexes with each other, and with  other Arabidopsis SNAREs. On the TGN, SYP61 forms complexes with the SNARE VTI12  and either SYP41 or SYP42. SYP51 and SYP61 interact with each other and with  VTI12, most likely also on the TGN. On the PVC, a SYP5-type syntaxin interacts  specifically with a SYP2-type syntaxin, as well as the SNARE VTI11, forming a  SNARE complex likely involved in TGN-to-PVC trafficking.', '2001 Dec', 'Mol Biol Cell', '10.1091/mbc.12.12.3733', 'Raikhel']
+
+SYP2: !localizes to! PVC
+SYP4: !localizes to! TGN
+SYP5: !encoded by! two-member gene family
+SYP61: !encoded by! single gene
+SYP5: !localizes to! multiple compartments of endomembrane system
+SYP51: !interacts with! SYP61, VTI12
+SYP61: !interacts with! SYP51, VTI12
+SYP5: !interacts with! SYP2, VTI11

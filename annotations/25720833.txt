@@ -1,0 +1,8 @@
+['25720833', 'Abscisic acid (ABA) is a major phytohormone involved in important stress-related  and developmental plant processes. Recent phosphoproteomic analyses revealed a  large set of ABA-triggered phosphoproteins as putative mitogen-activated protein  kinase (MAPK) targets, although the evidence for MAPKs involved in ABA signalling  is still scarce. Here, we identified and reconstituted in vivo a complete  ABA-activated MAPK cascade, composed of the MAP3Ks MAP3K17/18, the MAP2K MKK3 and  the four C group MAPKs MPK1/2/7/14. In planta, we show that ABA activation of  MPK7 is blocked in mkk3-1 and map3k17mapk3k18 plants. Coherently, both mutants  exhibit hypersensitivity to ABA and altered expression of a set of ABA-dependent  genes. A genetic analysis further reveals that this MAPK cascade is activated by  the PYR/PYL/RCAR-SnRK2-PP2C ABA core signalling module through protein synthesis  of the MAP3Ks, unveiling an atypical mechanism for MAPK activation in eukaryotes.  Our work provides evidence for a role of an ABA-induced MAPK pathway in plant  stress signalling.', '2015 Apr', 'Plant J', '10.1111/tpj.12808', 'Colcombet']
+
+ABA: !triggers! phosphoproteins 
+MAP3K17/18: !activates! MKK3 
+MKK3: !activates! MPK1/2/7/14 
+MPK7: !blocked in! mkk3-1 & map3k17mapk3k18 plants 
+PYR/PYL/RCAR-SnRK2-PP2C: !activates! MAP3Ks 
+MAP3Ks: !synthesized by! protein synthesis

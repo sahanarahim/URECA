@@ -1,0 +1,16 @@
+['9681014', 'The Arabidopsis thaliana mutants fus3, lec1 and abi3 have pleiotropic defects  during late embryogenesis. Mutant embryos fail to enter the maturation programme  and initiate a vegetative germination pathway instead. Screening for genes which  are differentially expressed in the fus3 mutant of Arabidopsis resulted in the  isolation of several members of the MYB family. MYB domain proteins in plants  represent an extended gene family of transcription factors, suggesting their  participation in a variety of plant specific cellular functions. Here, the  authors describe one of these genes, designated AtMYB13, representing a novel  member of the MYB gene family. The structure of the gene as well as its genomic  organisation and localisation are reported. The expression of the gene is  regulated by dehydration, exogenous abscisic acid, light and wounding. A chimeric  AtMYB13 promoter/GUS gene is tissue-specifically expressed in transgenic  Arabidopsis plants. The GUS staining was predominantly detected in the shoot apex  zone and at the basis of developing flowers. In addition, the AtMYB13 gene  promoter is active at branching points of the inflorescence. Furthermore, ectopic  expression of the AtMYB13 gene has a characteristic impact on the architecture of  the inflorescence leading to peculiar hook structures at pedicel branching  points. In addition, some transgenic plants exhibit a reversed order of first  flowers and axillary buds. These data suggest a function of the AtMYB13 gene  product in linking shoot morphogenic activity with environmental as well as  intrinsic signals.', '1998 Mar', 'Plant J', '10.1046/j.1365-313x.1998.00072.x', 'Baumlein']
+
+fus3: !affects! late embryogenesis
+lec1: !affects! late embryogenesis
+abi3: !affects! late embryogenesis
+MYB family: !isolated from! fus3 mutant
+AtMYB13: !represents! novel member of MYB family
+dehydration: !regulates! AtMYB13 expression
+abscisic acid: !regulates! AtMYB13 expression
+light: !regulates! AtMYB13 expression
+wounding: !regulates! AtMYB13 expression
+AtMYB13 promoter/GUS gene: !expressed in! transgenic Arabidopsis plants
+shoot apex zone: !expresses! AtMYB13 promoter/GUS gene
+developing flowers: !expresses! AtMYB13 promoter/GUS gene
+inflorescence branching points: !expresses! AtMYB13 promoter/GUS gene
+AtMYB13 gene product: !links! shoot morphogenic activity with environmental and intrinsic signals

@@ -1,0 +1,10 @@
+['11591731', 'Cytokinesis requires membrane fusion during cleavage-furrow ingression in animals  and cell plate formation in plants. In Arabidopsis, the Sec1 homologue KEULE  (KEU) and the cytokinesis-specific syntaxin KNOLLE (KN) cooperate to promote  vesicle fusion in the cell division plane. Here, we characterize AtSNAP33, an  Arabidopsis homologue of the t-SNARE SNAP25, that was identified as a KN  interactor in a yeast two-hybrid screen. AtSNAP33 is a ubiquitously expressed  membrane-associated protein that accumulated at the plasma membrane and during  cell division colocalized with KN at the forming cell plate. A T-DNA insertion in  the AtSNAP33 gene caused loss of AtSNAP33 function, resulting in a lethal dwarf  phenotype. atsnap33 plantlets gradually developed large necrotic lesions on  cotyledons and rosette leaves, resembling pathogen-induced cellular responses,  and eventually died before flowering. In addition, mutant seedlings displayed  cytokinetic defects, and atsnap33 in combination with the cytokinesis mutant keu  was embryo lethal. Analysis of the Arabidopsis genome revealed two further  SNAP25-like proteins that also interacted with KN in the yeast two-hybrid assay.  Our results suggest that AtSNAP33, the first SNAP25 homologue characterized in  plants, is involved in diverse membrane fusion processes, including cell plate  formation, and that AtSNAP33 function in cytokinesis may be replaced partially by  other SNAP25 homologues.', '2001 Oct 15', 'J Cell Biol', '10.1083/jcb.200107126', 'Jurgens']
+
+KEU: !cooperates with! KN 
+AtSNAP33: !interacts with! KN 
+AtSNAP33: !localizes to! plasma membrane 
+AtSNAP33: !enhances! cell plate formation 
+T-DNA insertion: !causes loss of! AtSNAP33 function 
+atsnap33: !results in! lethal dwarf phenotype 
+atsnap33: !displays cytokinetic defects! 
+AtSNAP33: !replaced partially by! other SNAP25 homologues

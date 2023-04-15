@@ -1,0 +1,7 @@
+['25608465', 'Dipeptide (Leu-Leu) and nitrate transport activities of 26 Arabidopsis NPF  (NRT1/PTR Family) proteins were screened in Saccharomyces cerevisiae and Xenopus  laevis oocytes, respectively. Dipeptide transport activity has been confirmed for  2 already known dipeptide transporters (AtNPF8.1 and AtNPF8.3) but none of the  other tested NPFs displays dipeptide transport. The nitrate transport screen  resulted in the identification of two new nitrate transporters, AtNPF5.5 and  AtNPF5.10. The localization of the mRNA coding for NPF5.5 demonstrates that it is  the first NPF transporter reported to be expressed in Arabidopsis embryo. Two  independent homozygous npf5.5 KO lines display reduced total nitrogen content in  the embryo as compared to WT plants, demonstrating an effect of NPF5.5 function  on the embryo nitrogen content. Finally, NPF5.5 gene produces two different  transcripts (AtNPF5.5a and AtNPF5.5b) encoding proteins with different N-terminal  ends. Both proteins are able to transport nitrate in xenopus oocytes.', '2015 Jan 22', 'Sci Rep', '10.1038/srep07962', 'Lacombe']
+
+AtNPF8.1: !transports! Dipeptide 
+AtNPF8.3: !transports! Dipeptide 
+AtNPF5.5: !localizes to! Arabidopsis embryo 
+AtNPF5.5: !affects! Total nitrogen content in embryo 
+AtNPF5.5a/b: !transport! Nitrate

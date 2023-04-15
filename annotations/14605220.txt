@@ -1,0 +1,8 @@
+['14605220', 'To define the functions of genes previously identified by expression profiling as  being rapidly light induced under phytochrome (phy) control, we are investigating  the seedling de-etiolation phenotypes of mutants carrying T-DNA insertional  disruptions at these loci. Mutants at one such locus displayed reduced  responsiveness to continuous red, but not continuous far-red light, suggesting a  role in phyB signaling but not phyA signaling. Consistent with such a role,  expression of this gene is induced by continuous red light in wild-type  seedlings, but the level of induction is strongly reduced in phyB-null mutants.  The locus encodes a novel protein that we show localizes to the nucleus, thus  suggesting a function in light-regulated gene expression. Recently, this locus  was identified as EARLY FLOWERING 4, a gene implicated in floral induction and  regulating the expression of the gene CIRCADIAN CLOCK-ASSOCIATED 1. Together with  these previous data, our findings suggest that EARLY FLOWERING 4 functions as a  signaling intermediate in phy-regulated gene expression involved in promotion of  seedling de-etiolation, circadian clock function, and photoperiod perception.', '2003 Dec', 'Plant Physiol', '10.1104/pp.103.030007', 'Quail']
+
+gene: !induces! expression 
+gene: !localizes to! nucleus 
+gene: !regulates! CIRCADIAN CLOCK-ASSOCIATED 1 
+gene: !promotes! seedling de-etiolation 
+gene: !affects! circadian clock function 
+gene: !influences! photoperiod perception

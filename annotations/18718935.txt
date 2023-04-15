@@ -1,0 +1,15 @@
+['18718935', 'J domain-containing proteins (J proteins) are functional partners for heat shock  protein 70 (Hsp70) molecular chaperones and mediate various cellular processes by  regulating activities of Hsp70. Budding yeast has three J proteins in the  endoplasmic reticulum (ER): Scj1p and Jem1p functioning in protein folding and  quality control in the ER, and Sec63p functioning in protein translocation across  the ER membrane as partners for BiP, an Hsp70 in the ER. Here we report that  Arabidopsis thaliana has orthologs of these yeast ER J proteins, which we  designated as AtERdj3A, AtERdj3B, AtP58(IPK), AtERdj2A and AtERdj2B. Tunicamycin  treatment of Arabidopsis cells, which causes ER stress, led to up-regulation of  AtERdj3A, AtERdj3B, AtP58(IPK) and AtERdj2B. Subcellular fractionation analyses  showed their ER localization, indicating that the identified J proteins indeed  function as partners for BiP in Arabidopsis cells. Since expression of AtERdj3A,  AtERdj3B and AtP58(IPK) partially suppressed the growth defects of the yeast  jem1Deltascj1Delta mutant, they have functions similar to those of Scj1p and  Jem1p. T-DNA insertions of the AtERDJ2A gene resulted in pollen germination  defects, probably reflecting its essential function in protein translocation.  These results suggest that A. thaliana has a set of ER J proteins structurally  and functionally conserved from yeast to plants.', '2008 Oct', 'Plant Cell Physiol', '10.1093/pcp/pcn119', 'Nishikawa']
+
+AtERdj3A: !localizes to! ER 
+AtERdj3B: !localizes to! ER 
+AtP58(IPK): !localizes to! ER 
+AtERdj2A: !localizes to! ER 
+AtERdj2B: !localizes to! ER 
+Scj1p: !functions similar to! AtERdj3A 
+Jem1p: !functions similar to! AtERdj3B 
+BiP: !interacts with! AtERdj3A 
+BiP: !interacts with! AtERdj3B 
+BiP: !interacts with! AtP58(IPK) 
+BiP: !interacts with! AtERdj2A 
+BiP: !interacts with! AtERdj2B 
+AtERDJ2A: !essential for! protein translocation

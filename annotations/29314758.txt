@@ -1,0 +1,11 @@
+['29314758', 'LHP1 mediates recruitment of the PRC2 histone methyltransferase complex to  chromatin and thereby facilitates maintenance of H3K27me3 on FLC, a key flowering  repressor gene. Here, we report that the PWWP domain proteins (PDPs) interact  with FVE and MSI5 to suppress FLC expression and thereby promote flowering. We  demonstrated that FVE, MSI5, and PDP3 were co-purified with LHP1. The H3K27me3  level on FLC was decreased in the pdp mutants as well as in the fve/msi5 double  mutant. This study suggests that PDPs function together with FVE and MSI5 to  regulate the function of the PRC2 complex on FLC.', '2018 May', 'J Integr Plant Biol', '10.1111/jipb.12630', 'He']
+
+LHP1: !mediates recruitment of! PRC2
+PDPs: !interact with! FVE
+PDPs: !interact with! MSI5
+FVE: !interacts with! MSI5
+FVE: !suppresses! FLC
+MSI5: !suppresses! FLC
+PDP3: !co-purified with! LHP1
+H3K27me3: !decreased in! pdp mutants
+H3K27me3: !decreased in! fve/msi5 double mutant

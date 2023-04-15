@@ -1,0 +1,9 @@
+['11329381', 'Rma1 is a protein with a RING finger motif and a C-terminal membrane-anchoring  domain and is well conserved among higher eukaryotes. We show that fusion  proteins between maltose binding protein (MBP) and human or Arabidopsis Rma1 are  polyubiquitinated, when incubated with the rabbit reticulocyte or the wheat germ  lysate, respectively. The polyubiquitination of MBP-Rma1 has been reconstituted  by incubation with purified ubiquitin, the ubiquitin-activating enzyme E1, and  one of the two ubiquitin-conjugating E2 enzymes (Ubc4 or UbcH5a). Other E2  enzymes tested, E2-20k, E2-25k, Ubc3 and Ubc8, are not able to confer this  modification. Mutational analysis shows that the RING finger motif of Rma1 is  necessary for the auto-ubiquitination of MBP-Rma1. Thus, Rma1 represents a novel,  membrane-bound type of ubiquitin ligase E3, which probably functions with the  Ubc4/5 subfamily of E2. The MBP moiety but not Rma1 itself is ubiquitinated in  the auto-ubiquitination reaction of MBP-Rma1. Free MBP in solution is not a  substrate of Rma1. These observations indicate that bringing the substrate into  its physical vicinity is very important for the action of ubiquitin ligase.', '2001 May', 'J Cell Sci', '10.1242/jcs.114.10.1949', 'Nakano']
+
+Rma1: !activates! Ubc4/5 
+MBP-Rma1: !polyubiquitinated by! Rabbit reticulocyte 
+MBP-Rma1: !polyubiquitinated by! Wheat germ lysate 
+Rma1: !auto-ubiquitinates! MBP-Rma1 
+RING finger motif: !necessary for! Auto-ubiquitination of MBP-Rma1 
+MBP: !ubiquitinated in! Auto-ubiquitination reaction 
+Free MBP: !not a substrate of! Rma1

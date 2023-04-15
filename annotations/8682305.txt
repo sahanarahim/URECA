@@ -1,0 +1,7 @@
+['8682305', 'We have sequenced a cDNA and a gene, AtRPC14, from Arabidopsis thaliana (At)  (ecotype Columbia) that encode a protein related to the yeast RNA polymerases  (Pol) I and III subunits, yAC19. Polyclonal antibodies raised against the  recombinant At polypeptide (AtC14) bind to the Pol I and/or III subunits of about  13-15 kDa, but do not bind to any Pol II subunit in Pol purified from  cauliflower, wheat or At. The amino acid (aa) sequence derived from the AtRPC14  cDNA and genomic clones consists of 122 aa, as compared to the 142 aa in the  yeast yAC19 subunit and 143 aa in a putative Caenorhabditis elegans CeAC16  subunit. AtC14, yAC19 and CeAC16 contain a conserved sequence of about 85 aa  which is related to two motifs in the alpha subunit of Escherichia coli (Ec) Pol.  AtC14 lacks a highly charged N terminus of about 50 aa found in both yAC19 and  CeAC16, but has a highly charged C terminus of about 30 aa not found in yAC19 and  CeAC16.', '1996 Jun 26', 'Gene', '10.1016/0378-1119(96)00030-3', 'Guilfoyle']
+
+AtRPC14: !encodes! protein 
+protein: !related to! yeast RNA polymerases 
+AtC14: !binds to! Pol I and/or III subunits 
+AtC14: !lacks! N terminus of 50 aa 
+AtC14: !has! C terminus of 30 aa

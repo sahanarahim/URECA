@@ -1,0 +1,10 @@
+['15923338', 'The actin cytoskeleton is required for many cellular processes in plant cells.  The nucleation process is the rate-limiting step for actin assembly. Formins  belong to a new class of conserved actin nucleator, which includes at least 2  formin homology domains, FH1 and FH2, which direct the assembly of unbranched  actin filaments. The function of plant formins is quite poorly understood. Here,  we provide the first biochemical study of the function of conserved domains of a  formin-like protein (AtFH8) from Arabidopsis (Arabidopsis thaliana). The purified  recombinant AtFH8(FH1FH2) domain has the ability to nucleate actin filaments in  vitro at the barbed end and caps the barbed end of actin filaments, decreasing  the rate of subunit addition and dissociation. In addition, purified  AtFH8(FH1FH2) binds actin filaments and severs them into short fragments. The  proline-rich domain (FH1) of the AtFH8 binds directly to profilin and is  necessary for nucleation when actin monomers are profilin bound. However,  profilin inhibits the nucleation mediated by AtFH8(FH1FH2) to some extent, but  increases the rate of actin filament elongation in the presence of AtFH8(FH1FH2).  Moreover, overexpression of the full-length AtFH8 in Arabidopsis causes a  prominent change in root hair cell development and its actin organization,  indicating the involvement of AtFH8 in polarized cell growth through the actin  cytoskeleton.', '2005 Jun', 'Plant Physiol', '10.1104/pp.104.055665', 'Ren']
+
+AtFH8: !nucleates! actin filaments 
+AtFH8: !binds! actin filaments 
+AtFH8: !severs! actin filaments 
+AtFH8: !binds! profilin 
+profilin: !inhibits! nucleation 
+profilin: !increases! elongation 
+AtFH8: !affects! root hair cell development 
+AtFH8: !organizes! actin cytoskeleton

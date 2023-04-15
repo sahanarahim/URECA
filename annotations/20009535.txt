@@ -1,0 +1,8 @@
+['20009535', 'Plant peroxisomes are essential organelles that house diverse metabolic  activities. To understand the full spectrum of peroxisomal functions, we recently  performed a proteomic analysis of Arabidopsis leaf peroxisomes followed by in  vivo subcellular targeting validation of some novel proteins. Here, we continue  with the targeting analysis and demonstrate that the nonapeptide RVx(5)HF, which  is present near the N terminus of the newly identified peroxisomal protein, HIT3  (histidine triad family protein 3), is a functional peroxisome targeting signal  type 2 (PTS2). In addition, we have confirmed the peroxisomal localization of UP6  (unknown protein 6) and GLX1 (glyoxalase 1 homolog), two proteins with possible  roles in stress responses and glutathione-dependent detoxification, respectively.  These data, together with results from our previous analysis of the peroxisomal  proteome, reinforce the notion that peroxisomes are involved in various stress  responses and suggest glutathione as a major antioxidant in plant peroxisomes.', '2010 Feb', 'Plant Signal Behav', '10.4161/psb.5.2.10412', 'Hu']
+
+HIT3: !contains! RVx(5)HF 
+RVx(5)HF: !is a! PTS2 
+UP6: !localizes to! peroxisomes 
+GLX1: !localizes to! peroxisomes 
+Peroxisomes: !involved in! stress responses 
+Glutathione: !major antioxidant in! plant peroxisomes

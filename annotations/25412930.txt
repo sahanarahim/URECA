@@ -1,0 +1,7 @@
+['25412930', 'The movement of chromosomes during meiosis involves location of their telomeres  at the inner surface of the nuclear envelope. Sad1/UNC-84 (SUN) domain proteins  are inner nuclear envelope proteins that are part of complexes linking  cytoskeletal elements with the nucleoskeleton, connecting telomeres to the  force-generating mechanism in the cytoplasm. These proteins play a conserved role  in chromosome dynamics in eukaryotes. Homologues of SUN domain proteins have been  identified in several plant species. In Arabidopsis thaliana, two proteins that  interact with each other, named AtSUN1 and AtSUN2, have been identified.  Immunolocalization using antibodies against AtSUN1 and AtSUN2 proteins revealed  that they were associated with the nuclear envelope during meiotic prophase I.  Analysis of the double mutant Atsun1-1 Atsun2-2 has revealed severe meiotic  defects, namely a delay in the progression of meiosis, absence of full synapsis,  the presence of unresolved interlock-like structures, and a reduction in the mean  cell chiasma frequency. We propose that in Arabidopsis thaliana, overlapping  functions of SUN1 and SUN2 ensure normal meiotic recombination and synapsis.', '2015 Jan', 'Plant J', '10.1111/tpj.12730', 'Armstrong']
+
+Sad1/UNC-84: !localizes to! nuclear envelope 
+AtSUN1: !interacts with! AtSUN2 
+AtSUN1: !localizes to! nuclear envelope 
+AtSUN2: !localizes to! nuclear envelope 
+AtSUN1/AtSUN2: !ensure! normal meiotic recombination and synapsis

@@ -1,0 +1,11 @@
+['16682642', 'Arabidopsis thaliana has five ethylene hormone receptors, which bind ethylene and  elicit responses critical for plant growth and development. Here we describe a  negative regulator of ethylene responses, REVERSION-TO-ETHYLENE SENSITIVITY1  (RTE1), which regulates the function of at least one of the receptors, ETR1, in  Arabidopsis. RTE1 was identified based on the ability of rte1 mutations to  suppress ethylene insensitivity of the dominant gain-of-function allele etr1-2.  rte1 loss-of-function mutants have an enhanced ethylene response that closely  resembles the etr1 null phenotype. The etr1 rte1 double null mutant is identical  to the etr1 and rte1 single null mutants, suggesting that the two genes act in  the same pathway. rte1 is unable to suppress the etr1-1 gain-of-function allele,  placing RTE1 at or upstream of ETR1. rte1 also fails to suppress gain-of-function  mutations in each of the four other ethylene receptor genes. RTE1 encodes a  previously undescribed predicted membrane protein, which is highly conserved in  plants, animals [corrected] and protists but absent in fungi and prokaryotes.  Ethylene treatment induces RTE1 expression, and overexpression of RTE1 confers  reduced ethylene sensitivity that partially depends on ETR1. These findings  demonstrate that RTE1 is a negative regulator of ethylene signaling and suggest  that RTE1 plays an important role in ETR1 function.', '2006 May 16', 'Proc Natl Acad Sci U S A', '10.1073/pnas.0602239103', 'Chang']
+
+ETR1: !binds! ethylene 
+RTE1: !regulates! ETR1 
+RTE1: !suppresses! ethylene insensitivity 
+rte1: !enhances! ethylene response 
+ettr1 rte1: !acts in! same pathway 
+RTE1: !encodes! predicted membrane protein 
+Ethylene: !induces! RTE1 expression 
+RTE1: !confers! reduced ethylene sensitivity 
+RTE1: !plays role in! ETR1 function

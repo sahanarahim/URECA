@@ -1,0 +1,7 @@
+['24137006', "How alternative splicing (AS) is regulated in plants has not yet been elucidated.  Previously, we have shown that the nuclear cap-binding protein complex (AtCBC) is  involved in AS in Arabidopsis thaliana. Here we show that both subunits of AtCBC  (AtCBP20 and AtCBP80) interact with SERRATE (AtSE), a protein involved in the  microRNA biogenesis pathway. Moreover, using a high-resolution reverse  transcriptase-polymerase chain reaction AS system we have found that AtSE  influences AS in a similar way to the cap-binding complex (CBC), preferentially  affecting selection of 5' splice site of first introns. The AtSE protein acts in  cooperation with AtCBC: many changes observed in the mutant lacking the correct  SERRATE activity were common to those observed in the cbp mutants. Interestingly,  significant changes in AS of some genes were also observed in other mutants of  plant microRNA biogenesis pathway, hyl1-2 and dcl1-7, but a majority of them did  not correspond to the changes observed in the se-1 mutant. Thus, the role of  SERRATE in AS regulation is distinct from that of HYL1 and DCL1, and is similar  to the regulation of AS in which CBC is involved.", '2014 Jan', 'Nucleic Acids Res', '10.1093/nar/gkt894', 'Jarmolowski']
+
+AtCBC: !interacts with! AtSE 
+AtSE: !influences! AS 
+AtSE: !cooperates with! AtCBC 
+HYL1: !affects! AS 
+DCL1: !affects! AS

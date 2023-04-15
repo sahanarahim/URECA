@@ -1,0 +1,11 @@
+['23437850', "The Bruno RNA-binding protein (RBP) has been shown to initially repress the  translation of oskar mRNA during Drosophila oogenesis and later to be involved in  a broad range of RNA regulation. Here, we show that homologous constitutive  overexpression of each of two Arabidopsis thaliana Bruno-like genes, AtBRN1 and  AtBRN2, delayed the flowering time, while the atbrn1 atbrn2-3 double mutant  flowered early and exhibited increased expression of APETALA1 (AP1) and LEAFY  (LFY) transcripts. Crossing of 35S::AtBRNs with SOC1 101-D plants demonstrated  that 35S::AtBRNs suppress an early-flowering phenotype of SOC1 101-D in which the  coding sequence (CDS) with the 3' UTR of SUPPRESSOR OF OVEREXPRESSION OF  CONSTANS1 (SOC1) gene is overexpressed. However, this early-flowering phenotype  by SOC1 overexpression was maintained in the plants coexpressing 35S::AtBRNs and  35S::SOC1 without the 3' UTR (-3' UTR). Using yeast three-hybrid, electrophoretic  mobility shift, RNA immunoprecipitation, and protoplast transient assays, we  found that AtBRNs bind to the 3' UTR of SOC1 RNA and participate in mRNA decay,  which was mediated by the distal region of the SOC1 3' UTR. Overall, AtBRNs  repress SOC1 activity in a 3' UTR-dependent manner, thereby controlling the  flowering time in Arabidopsis.", '2013 May', 'New Phytol', '10.1111/nph.12181', 'Choi']
+
+AtBRN1: !delays! flowering time 
+AtBRN2: !delays! flowering time 
+AtBRN1: !increases! AP1 and LFY transcripts 
+AtBRN2: !increases! AP1 and LFY transcripts 
+35S::AtBRNs: !suppresses! early-flowering phenotype of SOC1 101-D 
+35S::AtBRNs: !maintains! early-flowering phenotype of SOC1 without 3' UTR 
+AtBRNs: !binds to! 3' UTR of SOC1 RNA 
+AtBRNs: !participates in! mRNA decay 
+AtBRNs: !represses! SOC1 activity in 3' UTR-dependent manner

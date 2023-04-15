@@ -1,0 +1,11 @@
+['19880609', 'The viral genome-linked protein, VPg, of potyviruses is a multifunctional protein  involved in viral genome translation and replication. Previous studies have shown  that both eukaryotic translation initiation factor 4E (eIF4E) and eIF4G or their  respective isoforms from the eIF4F complex, which modulates the initiation of  protein translation, selectively interact with VPg and are required for potyvirus  infection. Here, we report the identification of two DEAD-box RNA helicase-like  proteins, PpDDXL and AtRH8 from peach (Prunus persica) and Arabidopsis  (Arabidopsis thaliana), respectively, both interacting with VPg. We show that  AtRH8 is dispensable for plant growth and development but necessary for potyvirus  infection. In potyvirus-infected Nicotiana benthamiana leaf tissues, AtRH8  colocalizes with the chloroplast-bound virus accumulation vesicles, suggesting a  possible role of AtRH8 in viral genome translation and replication. Deletion  analyses of AtRH8 have identified the VPg-binding region. Comparison of this  region and the corresponding region of PpDDXL suggests that they are highly  conserved and share the same secondary structure. Moreover, overexpression of the  VPg-binding region from either AtRH8 or PpDDXL suppresses potyvirus accumulation  in infected N. benthamiana leaf tissues. Taken together, these data demonstrate  that AtRH8, interacting with VPg, is a host factor required for the potyvirus  infection process and that both AtRH8 and PpDDXL may be manipulated for the  development of genetic resistance against potyvirus infections.', '2010 Jan', 'Plant Physiol', '10.1104/pp.109.147983', 'Wang']
+
+VPg: !interacts with! eIF4E 
+VPg: !interacts with! eIF4G 
+VPg: !interacts with! PpDDXL 
+VPg: !interacts with! AtRH8 
+AtRH8: !localizes to! chloroplast-bound virus accumulation vesicles 
+AtRH8: !required for! potyvirus infection 
+AtRH8: !binds to! VPg 
+PpDDXL: !binds to! VPg 
+VPg-binding region: !suppresses! potyvirus accumulation

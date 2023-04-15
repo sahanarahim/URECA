@@ -1,0 +1,11 @@
+['9681033', 'Dual hybrid interacting screening in yeast led to the identification of two  proteins from Arabidopsis both exhibiting sequence similarity to a family of  transcriptional coactivators from a diverse range of organisms. Their discovery  constitutes the first description of such plant proteins. A modified yeast  two-hybrid approach utilising the green fluorescent protein (GFP) of Aequora  victoria was developed and used to clone one of the putative plant  transcriptional coactivators from an Arabidopsis cDNA library. The two proteins,  designated KIWI and KELP, can associate both hetero- and homomerically and their  genes were cloned and mapped on the Arabidopsis genome. Both proteins are  believed to play a role in gene activation during pathogen defence and plant  development. The involvement of these proteins in general plant transcription as  well as the advantages of using GFP as a reporter gene for detecting  protein-protein interactions are discussed.', '1998 Jun', 'Plant J', '10.1046/j.1365-313x.1998.00169.x', 'Somssich']
+
+KIWI: !associates with! KELP 
+KIWI: !cloned from! Arabidopsis cDNA library 
+KIWI: !mapped on! Arabidopsis genome 
+KIWI: !plays role in! gene activation 
+KELP: !associates with! KIWI 
+KELP: !cloned from! Arabidopsis cDNA library 
+KELP: !mapped on! Arabidopsis genome 
+KELP: !plays role in! gene activation 
+GFP: !used to detect! protein-protein interactions

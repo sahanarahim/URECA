@@ -1,0 +1,9 @@
+['17363895', 'Plant flowering is a crucial developmental transition from the vegetative to  reproductive phase and is properly timed by a number of intrinsic and  environmental cues. Genetic studies have identified that chromatin modification  influences the expression of FLOWERING LOCUS C (FLC), a MADS-box transcription  factor that controls flowering time. Histone deacetylation and methylation at  H3K9 and H3K27 are associated with repression of FLC; in contrast, methylation at  H3K4 and H3K36 activates FLC expression. However, little is known about the  functions of histone arginine methylation in plants. Here, we report that  Arabidopsis Shk1 binding protein 1 (SKB1) catalyzes histone H4R3 symmetric  dimethylation (H4R3sme2). SKB1 lesion results in upregulation of FLC and late  flowering under both long and short days, but late flowering is reversed by  vernalization and gibberellin treatments. An skb1-1flc-3 double mutant blocks  late-flowering phenotype, which suggests that SKB1 promotes flowering by  suppressing FLC transcription. SKB1 binds to the FLC promoter, and disruption of  SKB1 results in reduced H4R3sme2, especially in the promoter of FLC chromatin.  Thus, SKB1-mediated H4R3sme2 is a novel histone mark required for repression of  FLC expression and flowering time control.', '2007 Apr 4', 'EMBO J', '10.1038/sj.emboj.7601647', 'Chong']
+
+FLC: !repressed by! Histone deacetylation and methylation 
+FLC: !activated by! Methylation at H3K4 and H3K36 
+SKB1: !catalyzes! Histone H4R3 symmetric dimethylation 
+SKB1: !promotes! Flowering 
+SKB1: !suppresses! FLC transcription 
+SKB1: !binds to! FLC promoter 
+H4R3sme2: !required for! Repression of FLC expression

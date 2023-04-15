@@ -1,0 +1,9 @@
+['12857822', 'To evaluate the genetic control of stress responses in Arabidopsis, we have  analyzed a mutant (uvh6-1) that exhibits increased sensitivity to UV light, a  yellow-green leaf coloration, and mild growth defects. We have mapped the uvh6-1  locus to chromosome I and have identified a candidate gene, AtXPD, within the  corresponding region. This gene shows sequence similarity to the human (Homo  sapiens) XPD and yeast (Saccharomyces cerevisiae) RAD3 genes required for  nucleotide excision repair. We propose that UVH6 is equivalent to AtXPD because  uvh6-1 mutants carry a mutation in a conserved residue of AtXPD and because  transformation of uvh6-1 mutants with wild-type AtXPD DNA suppresses both UV  sensitivity and other defective phenotypes. Furthermore, the UVH6/AtXPD protein  appears to play a role in repair of UV photoproducts because the uvh6-1 mutant  exhibits a moderate defect in the excision of UV photoproducts. This defect is  also suppressed by transformation with UVH6/AtXPD DNA. We have further identified  a T-DNA insertion in the UVH6/AtXPD gene (uvh6-2). Plants carrying homozygous  insertions were not detected in analyses of progeny from plants heterozygous for  the insertion. Thus, homozygous insertions appear to be lethal. We conclude that  the UVH6/AtXPD gene is required for UV resistance and is an essential gene in  Arabidopsis.', '2003 Jul', 'Plant Physiol', '10.1104/pp.103.021808', 'Hall']
+
+AtXPD: !affects! UV sensitivity 
+AtXPD: !synthesizes! UVH6 protein 
+UVH6/AtXPD gene: !required for! UV resistance 
+UVH6/AtXPD gene: !essential for! Arabidopsis 
+uvh6-1 mutants: !carry! mutation in AtXPD 
+uvh6-1 mutants: !transform with! wild-type AtXPD DNA 
+uvh6-2 mutants: !exhibit! lethal phenotype

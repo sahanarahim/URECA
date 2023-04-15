@@ -1,0 +1,7 @@
+['17085683', 'EXORIBONUCLEASE4 (XRN4), the Arabidopsis thaliana homolog of yeast XRN1, is  involved in the degradation of several unstable mRNAs. Although a role for XRN4  in RNA silencing of certain transgenes has been reported, xrn4 mutant plants were  found to lack any apparent visible phenotype. Here, we show that XRN4 is allelic  to the unidentified components of the ethylene response pathway  ETHYLENE-INSENSITIVE5/ACC-INSENSITIVE1 (EIN5/AIN1) and EIN7. xrn4 mutant  seedlings are ethylene-insensitive as a consequence of the upregulation of EIN3  BINDING F-BOX PROTEIN1 (EBF1) and EBF2 mRNA levels, which encode related F-box  proteins involved in the turnover of EIN3 protein, a crucial transcriptional  regulator of the ethylene response pathway. Epistasis analysis placed  XRN4/EIN5/AIN1 downstream of CTR1 and upstream of EBF1/2. XRN4 does not appear to  regulate ethylene signaling via an RNA-INDUCED SILENCING COMPLEX-based RNA  silencing mechanism but acts by independent means. The identification of XRN4 as  an integral new component in ethylene signaling adds RNA degradation as another  posttranscriptional process that modulates the perception of this plant hormone.', '2006 Nov', 'Plant Cell', '10.1105/tpc.106.046508', 'Genschik']
+
+XRN4: !allelic to! EIN5/AIN1
+EIN3: !regulated by! EBF1/2
+CTR1: !downstream of! XRN4/EIN5/AIN1
+EBF1/2: !upstream of! XRN4/EIN5/AIN1
+XRN4: !modulates! ethylene signaling

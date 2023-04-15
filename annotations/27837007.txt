@@ -1,0 +1,14 @@
+['27837007', 'Light and temperature are two key environmental signals that profoundly affect  plant growth and development, but underlying molecular mechanisms of how light  and temperature signals affect the circadian clock are largely unknown. Here, we  report that COR27 and COR28 are regulated not only by low temperatures but also  by light signals. COR27 and COR28 are negative regulators of freezing tolerance  but positive regulators of flowering, possibly representing a trade-off between  freezing tolerance and flowering. Furthermore, loss-of-function mutations in  COR27 and COR28 result in period lengthening of various circadian output rhythms  and affect central clock gene expression. Also, the cor27 cor28 double mutation  affects the pace of the circadian clock. Additionally, COR27 and COR28 are direct  targets of CCA1, which represses their transcription via chromatin binding.  Finally, we report that COR27 and COR28 bind to the chromatin of TOC1 and PRR5 to  repress their transcription, suggesting that their effects on rhythms are in part  due to their regulation of TOC1 and PRR5 These data demonstrate that blue light  and low temperature-regulated COR27 and COR28 regulate the circadian clock as  well as freezing tolerance and flowering time.', '2016 Nov', 'Plant Cell', '10.1105/tpc.16.00354', 'ORCID:']
+
+COR27: !regulates! freezing tolerance 
+COR27: !represses! TOC1 and PRR5 transcription 
+COR28: !regulates! freezing tolerance 
+COR28: !represses! TOC1 and PRR5 transcription 
+COR27: !positively regulates! flowering 
+COR28: !positively regulates! flowering 
+COR27: !lengthens! circadian output rhythms 
+COR28: !lengthens! circadian output rhythms 
+COR27: !affects! pace of circadian clock 
+COR28: !affects! pace of circadian clock 
+CCA1: !represses! COR27 and COR28 transcription 
+Light: !regulates! COR27 and COR28

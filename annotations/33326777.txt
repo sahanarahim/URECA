@@ -1,0 +1,9 @@
+['33326777', 'Global warming and emerging plant diseases challenge agricultural food/feed  production. We identify mechanism(s) regulating both plant thermotolerance and  disease resistance. Using virus-induced gene silencing (VIGS)-based genetic  screening, we identify a thioredoxin-like 1 (TRXL1) gene involved in plant  nonhost disease resistance and thermotolerance. TRXL1 is reduced, partly degraded  via proteases and proteasome, and alters its chloroplast localization during heat  stress. TRXL1 interacts with more than 400 proteins, including chaperonin CPN60A,  caseinolytic protease (CLPC1), and NADP-dependent malate dehydrogenase  (NADP-MDH). Chaperonin 60A (CPN60A) guards TRXL1 from degradation, whereas CLPC1  degrades TRXL1 during heat stress. TRXL1 regulates NADP-MDH activity, leading to  an increase in malate level and inhibition of superoxide radical formation. We  show that CPN60A and NADP-MDH positively regulate nonhost resistance, and CPN60A  positively and CLPC1 negatively regulate thermotolerance. This study shows an  antagonistic post-translational regulation of TRXL1 by CPN60A and CLPC1 and  regulation of MDH by TRXL1, leading to plant disease resistance and  thermotolerance.', '2020 Dec 15', 'Cell Rep', '10.1016/j.celrep.2020.108512', 'Mysore']
+
+TRXL1: !degraded by! proteases/proteasome 
+TRXL1: !interacts with! CPN60A/CLPC1/NADP-MDH 
+CPN60A: !guards! TRXL1 
+CLPC1: !degrades! TRXL1 
+TRXL1: !regulates! NADP-MDH 
+CPN60A: !positively regulates! nonhost resistance/thermotolerance 
+CLPC1: !negatively regulates! thermotolerance

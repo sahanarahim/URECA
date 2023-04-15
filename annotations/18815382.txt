@@ -1,0 +1,12 @@
+['18815382', 'Four isoforms of debranching enzymes are found in the genome of Arabidopsis  (Arabidopsis thaliana): three isoamylases (ISA1, ISA2, and ISA3) and a  pullulanase (PU1). Each isoform has a specific function in the starch pathway:  synthesis and/or degradation. In this work we have determined the levels of  functional redundancy existing between these isoforms by producing and analyzing  different combinations of mutations: isa3-1 pu1-1, isa1-1 isa3-1, and isa1-1  isa3-1 pu1-1. While the starch content strongly increased in the isa3-1 pu1-1  double mutant, the latter decreased by over 98% in the isa1-1 isa3-1 genotype and  almost vanished in triple mutant combination. In addition, whereas the isa3-1  pu1-1 double mutant synthesizes starch very similar to that of the wild type, the  structure of the residual starch present either in isa1-1 isa3-1 or in isa1-1  isa3-1 pu1-1 combination is deeply affected. In the same way, water-soluble  polysaccharides that accumulate in the isa1-1 isa3-1 and isa1-1 isa3-1 pu1-1  genotypes display strongly modified structure compared to those found in isa1-1.  Taken together, these results show that in addition to its established function  in polysaccharide degradation, the activity of ISA3 is partially redundant to  that of ISA1 for starch synthesis. Our results also reveal the dual function of  pullulanase since it is partially redundant to ISA3 for degradation and to ISA1  for synthesis. Finally, x-ray diffraction analyses suggest that the crystallinity  and the presence of the 9- to 10-nm repetition pattern in starch precisely depend  on the level of debranching enzyme activity.', '2008 Nov', 'Plant Physiol', '10.1104/pp.108.129379', "D'Hulst"]
+
+ISA1: !synthesizes! starch 
+ISA3: !synthesizes! starch 
+PU1: !synthesizes! starch 
+ISA1: !degrades! polysaccharides 
+ISA3: !degrades! polysaccharides 
+PU1: !degrades! polysaccharides 
+ISA3: !redundant to! ISA1 for starch synthesis 
+PU1: !redundant to! ISA3 for degradation 
+PU1: !redundant to! ISA1 for synthesis 
+starch: !depends on! debranching enzyme activity

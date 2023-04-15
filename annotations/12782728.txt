@@ -1,0 +1,9 @@
+['12782728', 'Post-translational modification of proteins by small polypeptides, such as  ubiquitin, has emerged as a common and important mechanism for regulating protein  function. Small ubiquitin-like modifier (SUMO) is a small protein that is  structurally related to but functionally different from ubiquitin. We report the  identification and functional analysis of AtSUMO1, AtSUMO2, and AtSCE1a as  components of the SUMO conjugation (sumoylation) pathway in Arabidopsis. In  yeast-two hybrid assays, AtSUMO1/2 interacts specifically with a SUMO-conjugating  enzyme but not with a ubiquitin-conjugating enzyme. AtSCE1a, the Arabidopsis  SUMO-conjugating enzyme ortholog, conjugates SUMO to RanGAP in vitro. AtSUMO1/2  and AtSCE1a colocalize at the nucleus, and AtSUMO1/2 are conjugated to endogenous  SUMO targets in vivo. Analysis of transgenic plants showed that overexpression of  AtSUMO1/2 does not have any obvious effect in general plant development, but  increased sumoylation levels attenuate abscisic acid (ABA)-mediated growth  inhibition and amplify the induction of ABA- and stress-responsive genes such as  RD29A. Reduction of AtSCE1a expression levels accentuates ABA-mediated growth  inhibition. Our results suggest a role for SUMO in the modulation of the ABA  signal transduction pathway.', '2003 Jun', 'Plant Cell', '10.1105/tpc.009902', 'Chua']
+
+AtSUMO1/2: !interacts with! AtSCE1a 
+AtSCE1a: !conjugates! SUMO 
+AtSUMO1/2: !localizes to! nucleus 
+AtSUMO1/2: !conjugated to! endogenous SUMO targets 
+AtSUMO1/2: !enhances! ABA-mediated growth inhibition 
+AtSUMO1/2: !amplifies! induction of ABA- and stress-responsive genes 
+AtSCE1a: !reduction of expression levels! accentuates ABA-mediated growth inhibition

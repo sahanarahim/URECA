@@ -1,0 +1,8 @@
+['24924143', 'External supply of sucrose to carbon-starved Arabidopsis seedlings induced  changes in phosphorylation of Brassinosteroid Signaling Kinase 8 (BSK8) at two  different sites. Serine S(20) lies within a phosphorylation hotspot at the  N-terminal region of the protein, while S(213) is located within the kinase  domain of BSK8. Upon sucrose supply phosphorylation of BSK8(S20) and BSK8(S213)  showed opposite behavior with increasing phosphorylation of S(213) and decreased  phosphorylation of S(20) at 5 min after sucrose supply. Here we aim to  systematically analyze the effects of BSK8 mutations on downstream cellular  regulatory events and characterize molecular functions of BSK8 and its  phosphorylation. Comparative phosphoproteomic profiling of a bsk8 knockout mutant  and wild type revealed potential targets in sucrose metabolism. Activity of  sucrose-phosphate synthase (SPS) was decreased by phosphorylation at S(152), and  SPS phosphorylation inversely correlated with sucrose-induced BSK8 activity.  Furthermore, BSK8 was found to interact with BSL2, a Kelch-type phosphatase. On  the basis of a combination of kinase activity measurements, SPS activity assays,  and phosphorylation site mutations in BSK8 at S(20) and S(213), we conclude that  regulation of SPS by BSK8 occurs through activation of a phosphatase that in turn  may dephosphorylate SPS and thus activates the enzyme.', '2014 Jul 3', 'J Proteome Res', '10.1021/pr5003164', 'Schulze']
+
+BSK8: !phosphorylates! SPS 
+BSK8: !inversely correlates with! sucrose-induced BSK8 activity 
+BSK8: !interacts with! BSL2 
+BSK8: !regulates! SPS 
+SPS: !dephosphorylated by! BSK8 
+SPS: !activated by! phosphatase

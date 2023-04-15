@@ -1,0 +1,15 @@
+['10962025', 'The promoters of MEA (FIS1), FIS2, and FIE (FIS3), genes that repress seed  development in the absence of pollination, were fused to beta-glucuronidase (GUS)  to study their activity pattern. The FIS2GUS product is found in the embryo sac,  in each of the polar cell nuclei, and in the central cell nucleus. After  pollination, the maternally derived FIS2GUS protein occurs in the nuclei of the  cenocytic endosperm. Before cellularization of the endosperm, activity is  terminated in the micropylar and central nuclei of the endosperm and subsequently  in the nuclei of the chalazal cyst. MEAGUS has a pattern of activity similar to  that of FIS2GUS, but FIEGUS protein is found in many tissues, including the  prepollination embryo sac, and in embryo and endosperm postpollination. The  similarity in mutant phenotypes; the activity of FIE, MEA, and FIS2 in the same  cells in the embryo sac; and the fact that MEA and FIE proteins interact in a  yeast two-hybrid system suggest that these proteins operate in the same system of  control of seed development. Maternal and not paternal FIS2GUS, MEAGUS, and  FIEGUS show activity in early endosperm, so these genes may be imprinted. When  fis2, mea, and fie mutants are pollinated, seed development is arrested at the  heart embryo stage. The seed arrest of mea and fis2 is avoided when they are  fertilized by a low methylation parent. The wild-type alleles of MEA or FIS2 are  not required. The parent-of-origin-determined differential activity of MEA, FIS2,  and FIE is not dependent on DNA methylation, but methylation does control some  gene(s) that have key roles in seed development.', '2000 Sep 12', 'Proc Natl Acad Sci U S A', '10.1073/pnas.170292997', 'Chaudhury']
+
+FIS1: !fused to! GUS
+FIS2: !fused to! GUS
+FIE: !fused to! GUS
+FIS2GUS: !localizes to! embryo sac
+MEAGUS: !similar activity pattern to! FIS2GUS
+FIEGUS: !found in! many tissues
+FIS2, MEA, FIE: !interact in! yeast two-hybrid system
+FIS2GUS, MEAGUS, FIEGUS: !maternally derived! early endosperm
+MEA, FIS2: !arrest seed development at! heart embryo stage
+MEA, FIS2: !avoided when fertilized by! low methylation parent
+MEA, FIS2: !not required! wild-type alleles
+MEA, FIS2, FIE: !parent-of-origin-determined differential activity! not dependent on DNA methylation
+methylation: !controls! gene(s) key roles in seed development

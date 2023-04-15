@@ -1,0 +1,7 @@
+['28746306', 'During multicellular development, specification of distinct cell fates is often  regulated by the same transcription factors operating differently in distinct  cis-regulatory modules, either through different protein complexes,  conformational modification of protein complexes, or combinations of both. Direct  visualization of different transcription factor complex states guiding specific  gene expression programs has been challenging. Here we use in vivo FRET-FLIM  (Forster resonance energy transfer measured by fluorescence lifetime microscopy)  to reveal spatial partitioning of protein interactions in relation to  specification of cell fate. We show that, in Arabidopsis roots, three fully  functional fluorescently tagged cell fate regulators establish cell-type-specific  interactions at endogenous expression levels and can form higher order complexes.  We reveal that cell-type-specific in vivo FRET-FLIM distributions reflect  conformational changes of these complexes to differentially regulate target genes  and specify distinct cell fates.', '2017 Aug 3', 'Nature', '10.1038/nature23317', 'Blilou']
+
+Transcription factor: !regulates! Gene expression
+Protein complex: !modifies! Transcription factor
+Cell fate regulator: !forms! Higher order complexes
+Higher order complexes: !differentially regulate! Target genes
+Target genes: !specify! Distinct cell fates

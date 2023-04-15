@@ -1,0 +1,9 @@
+['21515584', 'Here, we present a comparative structure-function study of a nematode and a plant  core alpha1,3-fucosyltransferase based on deletion and point mutations of the coding  regions of Caenorhabditis elegans FUT-1 and Arabidopsis thaliana FucTA (FUT11).  In particular, our results reveal a novel "first cluster motif" shared by both  core and Lewis-type alpha1,3-fucosyltransferases of the GT10 family. To evaluate the  role of the conserved serine within this motif, this residue was replaced with  alanine in FucTA (S218) and FUT-1 (S243). The S218A replacement completely  abolished the enzyme activity of FucTA, while the S243A mutant of FUT-1 retained  20% of the "wild-type" activity. Based on the results of homology modeling of  FucTA, other residues potentially involved in the donor substrate binding were  examined, and mutations of N219 and R226 dramatically affected enzymatic  activity. Finally, as both FucTA and FUT-1 were shown to be N-glycosylated, we  examined the putative N-glycosylation sites. While alanine replacements at single  potential N-glycosylation sites of FucTA resulted in a loss of up to 80% of the  activity, a triple glycosylation site mutant still retained 5%, as compared to  the control. In summary, our data indicate similar trends in structure-function  relationships of distantly related enzymes which perform similar biochemical  reactions and form the basis for future work aimed at understanding the structure  of alpha1,3-fucosyltransferases in general.', '2011 Nov', 'Glycobiology', '10.1093/glycob/cwr056', 'Wilson']
+
+FUT-1: !retains! 20% activity
+FucTA: !abolishes! enzyme activity
+S218A: !affects! FucTA activity
+N219: !affects! FucTA activity
+R226: !affects! FucTA activity
+FucTA: !loses up to! 80% activity
+FucTA: !retains! 5% activity

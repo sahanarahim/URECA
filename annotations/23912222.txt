@@ -1,0 +1,8 @@
+['23912222', 'Coordination of gene expression in the organelles and the nucleus is important  for eukaryotic cell function. Transcriptional and post-transcriptional gene  regulation in mitochondria remains incompletely understood in most eukaryotes,  including plants. Here we show that poly(A)-specific ribonuclease, which  influences the poly(A) status of cytoplasmic mRNA in many eukaryotes, directly  regulates the poly(A) tract of mitochondrial mRNA in conjunction with a  bacterial-type poly(A) polymerase, AGS1, in Arabidopsis. An Arabidopsis  poly(A)-specific ribonuclease-deficient mutant, ahg2-1, accumulates  polyadenylated mitochondrial mRNA and shows defects in mitochondrial protein  complex levels. Mutations of AGS1 suppress the ahg2-1 phenotype. Mitochondrial  localizations of AHG2 and AGS1 are required for their functions in the regulation  of the poly(A) tract of mitochondrial mRNA. Our findings suggest that AHG2 and  AGS1 constitute a regulatory system that controls mitochondrial mRNA poly(A)  status in Arabidopsis.', '2013', 'Nat Commun', '10.1038/ncomms3247', 'Hayashi']
+
+AHG2: !regulates! poly(A) tract of mitochondrial mRNA 
+AGS1: !regulates! poly(A) tract of mitochondrial mRNA 
+AHG2: !localizes to! mitochondria 
+AGS1: !localizes to! mitochondria 
+ahg2-1 mutant: !accumulates! polyadenylated mitochondrial mRNA 
+AGS1 mutation: !suppresses! ahg2-1 phenotype

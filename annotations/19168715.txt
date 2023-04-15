@@ -1,0 +1,12 @@
+['19168715', 'Cell separation is thought to involve degradation of pectin by several hydrolytic  enzymes, particularly polygalacturonase (PG). Here, we characterize an activation  tagging line with reduced growth and male sterility caused by increased  expression of a PG encoded by QUARTET2 (QRT2). QRT2 is essential for pollen grain  separation and is part of a small family of three closely related endo-PGs in the  Arabidopsis thaliana proteome, including ARABIDOPSIS DEHISCENCE ZONE  POLYGALACTURONASE1 (ADPG1) and ADPG2. Functional assays and complementation  experiments confirm that ADPG1, ADPG2, and QRT2 are PGs. Genetic analysis  demonstrates that ADPG1 and ADPG2 are essential for silique dehiscence. In  addition, ADPG2 and QRT2 contribute to floral organ abscission, while all three  genes contribute to anther dehiscence. Expression analysis is consistent with the  observed mutant phenotypes. INDEHISCENT (IND) encodes a putative basic  helix-loop-helix required for silique dehiscence, and we demonstrate that the  closely related HECATE3 (HEC3) gene is required for normal seed abscission and  show that IND and HEC3 are required for normal expression of ADPG1 in the silique  dehiscence zone and seed abscission zone, respectively. We also show that  jasmonic acid and ethylene act together with abscisic acid to regulate floral  organ abscission, in part by promoting QRT2 expression. These results demonstrate  that multiple cell separation events, including both abscission and dehiscence,  require closely related PG genes.', '2009 Jan', 'Plant Cell', '10.1105/tpc.108.063768', 'Swain']
+
+QRT2: !affects! Pollen grain separation 
+ADPG1: !interacts with! ADPG2 
+ADPG1: !enhances! Silique dehiscence 
+ADPG2: !enhances! Floral organ abscission 
+QRT2: !enhances! Anther dehiscence 
+IND: !interacts with! HEC3 
+IND: !regulates! ADPG1 expression 
+HEC3: !regulates! Seed abscission 
+Jasmonic acid: !interacts with! Ethylene 
+Jasmonic acid: !regulates! QRT2 expression

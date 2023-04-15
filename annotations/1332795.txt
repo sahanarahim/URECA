@@ -1,0 +1,13 @@
+['1332795', 'Genomic and cDNA clones that code for a protein with structural and biochemical  properties similar to the receptor protein kinases from animals were obtained  from Arabidopsis. Structural features of the predicted polypeptide include an  amino-terminal membrane targeting signal sequence, a region containing blocks of  leucine-rich repeat elements, a single putative membrane spanning domain, and a  characteristic serine/threonine-specific protein kinase domain. The gene coding  for this receptor-like transmembrane kinase was designated TMK1. Portions of the  TMK1 gene were expressed in Escherichia coli, and antibodies were raised against  the recombinant polypeptides. These antibodies immunodecorated a 120-kD  polypeptide present in crude extracts and membrane preparations. The  immunodetectable band was present in extracts from leaf, stem, root, and floral  tissues. The kinase domain of TMK1 was expressed as a fusion protein in E. coli,  and the purified fusion protein was found capable of autophosphorylation on  serine and threonine residues. The possible role of the TMK1 gene product in  transmembrane signaling is discussed.', '1992 Oct', 'Plant Cell', '10.1105/tpc.4.10.1263', 'Bleecker']
+
+TMK1: !codes for! protein 
+protein: !contains! membrane targeting signal sequence 
+protein: !contains! leucine-rich repeat elements 
+protein: !contains! single putative membrane spanning domain 
+protein: !contains! serine/threonine-specific protein kinase domain 
+TMK1: !expresses in! Escherichia coli 
+antibodies: !raised against! recombinant polypeptides 
+120-kD polypeptide: !immunodecorated by! antibodies 
+120-kD polypeptide: !present in! leaf, stem, root, and floral tissues 
+fusion protein: !expressed in! E. coli 
+fusion protein: !capable of! autophosphorylation on serine and threonine residues

@@ -1,0 +1,8 @@
+['18643985', 'High-salinity stress affects plant growth and development. We have previously  reported that overexpression of the salinity-responsive DWARF AND DELAYED  FLOWERING 1 (DDF1) gene, encoding an AP2 transcription factor of the DREB1/CBF  subfamily, causes dwarfism mainly by levels of reducing bioactive gibberellin  (GA) in transgenic Arabidopsis. Here, we found that the GA 2-oxidase 7 gene  (GA2ox7), which encodes a C20-GA deactivation enzyme, is strongly upregulated in  DDF1-overexpressing transgenic plants. A loss-of-function mutation of GA2ox7  (ga2ox7-2) suppressed the dwarf phenotype of DDF1-overexpressing plants,  indicating that their GA deficiency is due to overexpression of GA2ox7. Transient  overexpression of DDF1 activated the promoter of GA2ox7 in Arabidopsis leaves. A  gel shift assay showed that DDF1 binds DRE-like motifs (GCCGAC and ATCGAC) in the  GA2ox7 promoter. In Arabidopsis under high-salinity stress, six GA2ox genes,  including GA2ox7, were upregulated. Furthermore, the ga2ox7-2 mutant was less  growth retarded than wild-type Col under high-salinity stress. These results  demonstrate that, under salinity stress, Arabidopsis plants actively reduce  endogenous GA levels via the induction of GA 2-oxidase, with the result that  growth is repressed for stress adaptation.', '2008 Nov', 'Plant J', '10.1111/j.1365-313X.2008.03627.x', 'Oda']
+
+DDF1: !overexpresses! GA2ox7 
+GA2ox7: !upregulates! DDF1 
+DDF1: !binds! DRE-like motifs 
+GA2ox7: !induces! reduction of endogenous GA levels 
+High-salinity stress: !upregulates! GA2ox7 
+ga2ox7-2 mutant: !suppresses! dwarf phenotype of DDF1-overexpressing plants

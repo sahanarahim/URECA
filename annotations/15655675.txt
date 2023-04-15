@@ -1,0 +1,6 @@
+['15655675', 'UDP-xylose (UDP-Xyl) is a sugar donor for the synthesis of glycoproteins,  polysaccharides, various metabolites, and oligosaccharides in plants,  vertebrates, and fungi. In plants, the biosynthesis of UDP-Xyl from  UDP-glucuronic acid (UDP-GlcA) appears to be catalyzed by numerous UDP-glucuronic  acid decarboxylase (Uxs) isoforms. For example, six Uxs isoforms in Arabidopsis  thaliana (L.) and four in rice have been identified. However, the reason/s for  the existence of several isoforms that are necessary for the synthesis of UDP-Xyl  remains unknown. Here, we describe a Uxs isoform in Arabidopsis, AtUXS2, encoding  an integral membrane protein that appears to be localized to the Golgi apparatus.  The enzyme is a dimer and has distinct properties. Unlike the UXS3 isoform, which  is shown here to be a soluble protein, the UXS2 isoform is membrane bound. The  characteristics of the membrane-bound AtUxs2 and cytosolic AtUxs3 support the  hypothesis that unique UDP-GlcA-DCs possessing distinct sub-cellular  localizations can spatially regulate specific xylosylation events in plant cells.', '2005 Jun', 'Planta', '10.1007/s00425-004-1471-7', 'Bar-Peled']
+
+UDP-xylose: !synthesized from! UDP-glucuronic acid 
+AtUXS2: !localizes to! Golgi apparatus 
+AtUxs2: !interacts with! AtUxs3 
+AtUxs2: !enhances! xylosylation events

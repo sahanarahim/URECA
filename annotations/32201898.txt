@@ -1,0 +1,8 @@
+['32201898', 'Flavonoids are a major group of plant-specific metabolites that determine flower  and seed coloration. In plant cells, flavonoids are synthesized at the cytosolic  surface of the endoplasmic reticulum and are sequestered in the vacuole. It is  possible that membrane trafficking, including vesicle trafficking and organelle  dynamics, contributes to flavonoid transport and accumulation. However, the  underlying mechanism has yet to be fully elucidated. Here we show that the  Arabidopsis ECHIDNA protein plays a role in flavonoid accumulation in the vacuole  and protein trafficking to the vacuole. We found defective pigmentation patterns  in echidna seed, possibly caused by reduced levels of proanthocyanidins, which  determine seed coloration. The echidna mutant has defects in protein sorting to  the protein storage vacuole as well as vacuole morphology. These findings  indicate that ECHIDNA is involved in the vacuolar trafficking pathway as well as  the previously described secretory pathway. In addition, we found a genetic  interaction between echidna and green fluorescent seed 9 (gfs9), a membrane  trafficking factor involved in flavonoid accumulation. Our findings suggest that  vacuolar trafficking and/or vacuolar development, both of which are collectively  regulated by ECHIDNA and GFS9, are required for flavonoid accumulation, resulting  in seed coat pigmentation.', '2020 Jul 6', 'J Exp Bot', '10.1093/jxb/eraa147', 'Shimada']
+
+ECHIDNA: !regulates! Flavonoid accumulation 
+ECHIDNA: !affects! Protein sorting 
+ECHIDNA: !influences! Vacuole morphology 
+GFS9: !interacts with! ECHIDNA 
+GFS9: !regulates! Membrane trafficking 
+GFS9: !contributes to! Flavonoid accumulation

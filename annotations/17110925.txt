@@ -1,0 +1,10 @@
+['17110925', 'Chromatin assembly factor 1 (CAF-1) is involved in nucleo some assembly following  DNA replication and nucleotide excision repair. In Arabidopsis thaliana, the  three CAF-1 subunits are encoded by FAS1, FAS2 and, most likely, MSI1,  respectively. In this study, we asked whether genomic stability is altered in  fas1 and fas2 mutants that are lacking CAF-1 activity. Depletion of either  subunit increased the frequency of somatic homologous recombination (HR) in  planta approximately 40-fold. The frequency of transferred DNA (T-DNA)  integration was also elevated. A delay in loading histones onto newly replicated  or repaired DNA might make these DNA stretches more accessible, both to repair  enzymes and to foreign DNA. Furthermore, fas mutants exhibited increased levels  of DNA double-strand breaks, a G2-phase retardation that accelerates  endoreduplication, and elevated levels of mRNAs coding for proteins involved in  HR-all factors that could also contribute to upregulation of HR frequency in fas  mutants.', '2006 Nov 29', 'EMBO J', '10.1038/sj.emboj.7601434', 'Toki']
+
+FAS1: !affects! Somatic homologous recombination
+FAS2: !affects! Somatic homologous recombination
+CAF-1: !synthesizes! Histones
+DNA replication: !localizes to! Newly replicated DNA
+Nucleotide excision repair: !localizes to! Newly repaired DNA
+DNA double-strand breaks: !enhances! Endoreduplication
+G2-phase retardation: !enhances! Endoreduplication
+mRNAs: !represses! Proteins involved in HR

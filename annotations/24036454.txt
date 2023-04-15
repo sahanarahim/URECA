@@ -1,0 +1,7 @@
+['24036454', 'Plant LOSS OF GDU 2 (LOG2) and Mammalian Mahogunin Ring Finger 1 (MGRN1) proteins  are RING-type E3 ligases sharing similarity N-terminal to the RING domain.  Deletion of this region disrupts the interaction of LOG2 with the plant membrane  protein GLUTAMINE DUMPER1 (GDU1). Phylogenetic analysis identified two clades of  LOG2/MGRN1-like proteins in vertebrates and plants. The ability of MGRN1 to  functionally replace LOG2 was tested. MGRN1 ubiquitylates GDU1 in vitro and can  partially substitute for LOG2 in the plant, partially restoring amino acid  resistance to a GDU1-myc over-expression, log2-2 background. Altogether, these  results suggest a conserved function for the N-terminal domain in evolution.', '2013 Nov 1', 'FEBS Lett', '10.1016/j.febslet.2013.08.045', 'Pilot']
+
+LOG2: !interacts with! GDU1
+MGRN1: !interacts with! GDU1
+LOG2/MGRN1: !share similarity! N-terminal to RING domain
+MGRN1: !substitutes for! LOG2
+MGRN1: !ubiquitylates! GDU1

@@ -1,0 +1,7 @@
+['11283333', 'Proper development of petals and stamens in Arabidopsis flowers requires the  activities of APETALA3 (AP3) and PISTILLATA (PI), whose transcripts can be  detected in the petal and stamen primordia. Localized expression of AP3 and PI  requires the activities of at least three genes: APETALA1 (AP1), LEAFY (LFY), and  UNUSUAL FLORAL ORGANS (UFO). It has been proposed that UFO provides spatial cues  and that LFY specifies competence for AP3 and PI expression in the developing  flower. To understand the epistatic relationship among AP1, LFY, and UFO in  regulating AP3 and PI expression, we generated two versions of AP1 that have  strong transcriptional activation potential. Genetic and molecular analyses of  transgenic plants expressing these activated AP1 proteins show that the  endogenous AP1 protein acts largely as a transcriptional activator in vivo and  that AP1 specifies petals by regulating the spatial domains of AP3 and PI  expression through UFO.', '2001 Apr', 'Plant Cell', '10.1105/tpc.13.4.739', 'Yanofsky']
+
+AP3: !requires! PI
+AP1: !localizes! AP3 & PI
+LFY: !specifies competence for! AP3 & PI
+UFO: !provides spatial cues for! AP3 & PI
+AP1: !regulates! AP3 & PI expression

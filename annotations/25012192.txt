@@ -1,0 +1,9 @@
+['25012192', 'Transcriptional feedback loops are central to the architecture of eukaryotic  circadian clocks. Models of the Arabidopsis thaliana circadian clock have  emphasized transcriptional repressors, but recently, Myb-like REVEILLE (RVE)  transcription factors have been established as transcriptional activators of  central clock components, including PSEUDO-RESPONSE REGULATOR5 (PRR5) and TIMING  OF CAB EXPRESSION1 (TOC1). We show here that NIGHT LIGHT-INDUCIBLE AND  CLOCK-REGULATED1 (LNK1) and LNK2, members of a small family of four LNK proteins,  dynamically interact with morning-expressed oscillator components, including RVE4  and RVE8. Mutational disruption of LNK1 and LNK2 function prevents  transcriptional activation of PRR5 by RVE8. The LNKs lack known DNA binding  domains, yet LNK1 acts as a transcriptional activator in yeast and in planta.  Chromatin immunoprecipitation shows that LNK1 is recruited to the PRR5 and TOC1  promoters in planta. We conclude that LNK1 is a transcriptional coactivator  necessary for expression of the clock genes PRR5 and TOC1 through recruitment to  their promoters via interaction with bona fide DNA binding proteins such as RVE4  and RVE8.', '2014 Jul', 'Plant Cell', '10.1105/tpc.114.126573', 'ORCID:']
+
+RVE: !interacts with! LNK
+LNK: !enhances! PRR5
+LNK: !enhances! TOC1
+RVE4: !interacts with! LNK1
+RVE8: !interacts with! LNK1
+LNK1: !localizes to! PRR5
+LNK1: !localizes to! TOC1

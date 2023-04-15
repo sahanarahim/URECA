@@ -1,0 +1,7 @@
+['30385760', 'Most DNA in the genomes of higher organisms does not encode proteins, yet much is  transcribed by RNA polymerase II (RNAPII) into long non-coding RNAs (lncRNAs).  The biological significance of most lncRNAs is largely unclear. Here, we identify  a lncRNA (SVALKA) in a cold-sensitive region of the Arabidopsis genome. Mutations  in SVALKA affect CBF1 expression and freezing tolerance. RNAPII read-through  transcription of SVALKA results in a cryptic lncRNA overlapping CBF1 on the  antisense strand, termed asCBF1. Our molecular dissection reveals that CBF1 is  suppressed by RNAPII collision stemming from the SVALKA-asCBF1 lncRNA cascade.  The SVALKA-asCBF1 cascade provides a mechanism to tightly control CBF1 expression  and timing that could be exploited to maximize freezing tolerance with mitigated  fitness costs. Our results provide a compelling example of local gene regulation  by lncRNA transcription having a profound impact on the ability of plants to  appropriately acclimate to challenging environmental conditions.', '2018 Nov 1', 'Nat Commun', '10.1038/s41467-018-07010-6', 'ORCID:']
+
+SVALKA: !affects! CBF1 expression 
+SVALKA: !transcribes! asCBF1 
+asCBF1: !suppresses! CBF1 
+SVALKA-asCBF1 cascade: !controls! CBF1 expression and timing 
+SVALKA-asCBF1 cascade: !maximizes! freezing tolerance

@@ -1,0 +1,13 @@
+['30604175', 'Bax inhibitor-1 (BI-1) is a widely conserved cell death regulator that confers  resistance to environmental stress in plants. Previous studies suggest that  Arabidopsis thaliana BI-1 (AtBI-1) modifies sphingolipids by interacting with  cytochrome b(5) (AtCb5), an electron-transfer protein. To reveal how AtBI-1  regulates sphingolipid synthesis, we screened yeast sphingolipid-deficient  mutants and identified yeast ELO2 and ELO3 as novel enzymes that are essential  for AtBI-1 function. ELO2 and ELO3 are condensing enzymes that synthesize  very-long-chain fatty acids (VLCFAs), major fatty acids in plant sphingolipids.  In Arabidopsis, we identified four ELO homologs (AtELO1-AtELO4), localized in the  endoplasmic reticulum membrane. Of those AtELOs, AtELO1 and AtELO2 had a  characteristic histidine motif and were bound to AtCb5-B. This result suggests  that AtBI-1 interacts with AtELO1 and AtELO2 through AtCb5. AtELO2 and AtCb5-B  also interact with KCR1, PAS2, and CER10, which are essential for the synthesis  of VLCFAs. Therefore, AtELO2 may participate in VLCFA synthesis with AtCb5 in  Arabidopsis. In addition, our co-immunoprecipitation/mass spectrometry analysis  demonstrated that AtBI-1 forms a complex with AtELO2, KCR1, PAS2, CER10, and  AtCb5-D. Furthermore, AtBI-1 contributes to the rapid synthesis of 2-hydroxylated  VLCFAs in response to oxidative stress. These results indicate that AtBI-1  regulates VLCFA synthesis by interacting with VLCFA-synthesizing enzymes.', '2019 Jan', 'J Plant Res', '10.1007/s10265-018-01081-8', 'Kawai-Yamada']
+
+AtBI-1: !interacts with! AtCb5
+AtELO2: !interacts with! AtCb5-B
+AtELO2: !interacts with! KCR1
+AtELO2: !interacts with! PAS2
+AtELO2: !interacts with! CER10
+AtBI-1: !interacts with! AtELO2
+AtBI-1: !interacts with! KCR1
+AtBI-1: !interacts with! PAS2
+AtBI-1: !interacts with! CER10
+AtBI-1: !interacts with! AtCb5-D
+AtBI-1: !enhances! VLCFA synthesis

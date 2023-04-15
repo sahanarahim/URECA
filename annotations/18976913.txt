@@ -1,0 +1,8 @@
+['18976913', 'Unlike animals that produce gametes upon differentiation of meiotic products,  plants develop haploid male and female gametophytes that differentiate gametes  such as sperm, egg and central cells, and accessory cells [1, 2]. Both  gametophytes participate in double fertilization and give rise to the next  sporophytic generation. Little is known about the function of cell-cycle genes in  differentiation and development of gametophytes and in reproduction [1, 2].  RETINOBLASTOMA RELATED (RBR) is a plant homolog of the tumor suppressor  Retinoblastoma (pRb), which is primarily known as negative regulator of the cell  cycle [3]. We show that RBR is required for cell differentiation of male and  female gametophytes in Arabidopsis and that loss of RBR perturbs expression  levels of the evolutionarily ancient Polycomb Repressive Complex 2 (PRC2)  subunits and their modifiers encoding PRC2 subunits or DNA METHYLTRANSFERASE 1  (MET1) [4-6], exemplifying convergent evolution involving the RBR-PRC2-MET1  regulatory pathways. In addition, RBR binds MET1, and maintenance of  heterochromatin in central cells, a mechanism that is likely mediated by MET1[7,  8], is impaired in the absence of RBR. Surprisingly, PRC2-specific  H3K27-trimethylation activity represses paternal RBR allele, suggesting a  functional role for a dynamic and reciprocal RBR-PRC2 regulatory circuit in  cellular differentiation and reproductive development.', '2008 Nov 11', 'Curr Biol', '10.1016/j.cub.2008.09.026', 'Gruissem']
+
+RBR: !regulates! Cell Cycle 
+RBR: !perturbs! PRC2 
+RBR: !binds! MET1 
+PRC2: !modifies! RBR 
+MET1: !maintains! Heterochromatin 
+PRC2: !represses! Paternal RBR

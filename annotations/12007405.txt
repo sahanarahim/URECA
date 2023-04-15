@@ -1,0 +1,9 @@
+['12007405', 'Plant steroid hormones, known as brassinosteroids (BRs), signal through a plasma  membrane localized receptor kinase BRI1. We identified bes1, a semidominant  suppressor of bri1, which exhibits constitutive BR response phenotypes including  long and bending petioles, curly leaves, accelerated senescence, and constitutive  expression of BR-response genes. BES1 accumulates in the nucleus in response to  BRs. BES1 is phosphorylated and appears to be destabilized by the glycogen  synthase kinase-3 (GSK-3) BIN2, a negative regulator of the BR pathway. These  results establish a signaling cascade for BRs with similarities to the Wnt  pathway, in which signaling through cell surface receptors leads to inactivation  of a GSK-3 allowing accumulation of a nuclear protein that regulates target gene  expression.', '2002 Apr 19', 'Cell', '10.1016/s0092-8674(02)00721-3', 'Chory']
+
+BRI1: !signals through! plasma membrane 
+BES1: !suppresses! BRI1 
+BRs: !induces accumulation of! BES1 
+BES1: !accumulates in! nucleus 
+BIN2: !phosphorylates and destabilizes! BES1 
+GSK-3: !inactivated by! BRs 
+BES1: !regulates expression of! target genes

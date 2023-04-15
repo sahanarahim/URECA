@@ -1,0 +1,8 @@
+['35348751', 'Membrane contact sites (MCSs) are interorganellar connections that allow for the  direct exchange of molecules, such as lipids or Ca2+ between organelles, but can  also serve to tether organelles at specific locations within cells. Here, we  identified and characterized three proteins of Arabidopsis thaliana that form a  lipid droplet (LD)-plasma membrane (PM) tethering complex in plant cells, namely  LD-localized SEED LD PROTEIN (SLDP) 1 and SLDP2 and PM-localized LD-PLASMA  MEMBRANE ADAPTOR (LIPA). Using proteomics and different protein-protein  interaction assays, we show that both SLDPs associate with LIPA. Disruption of  either SLDP1 and SLDP2 expression, or that of LIPA, leads to an aberrant  clustering of LDs in Arabidopsis seedlings. Ectopic co-expression of one of the  SLDPs with LIPA is sufficient to reconstitute LD-PM tethering in Nicotiana  tabacum pollen tubes, a cell type characterized by dynamically moving LDs in the  cytosolic streaming. Furthermore, confocal laser scanning microscopy revealed  both SLDP2.1 and LIPA to be enriched at LD-PM contact sites in seedlings. These  and other results suggest that SLDP and LIPA interact to form a tethering complex  that anchors a subset of LDs to the PM during post-germinative seedling growth in  Arabidopsis.', '2022 May 24', 'Plant Cell', '10.1093/plcell/koac095', 'ORCID:']
+
+SLDP1: !interacts with! LIPA
+SLDP2: !interacts with! LIPA
+LIPA: !tethers! LDs
+SLDP1/2: !localizes to! LDs
+LIPA: !localizes to! PM
+SLDP1/2: !enhances! LD-PM tethering

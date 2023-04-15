@@ -1,0 +1,6 @@
+['35351902', 'Seed germination is a critical step in the life cycle of plants controlled by the  phytohormones abscisic acid (ABA) and gibberellin (GA), and by phytochromes, an  important class of photoreceptors in plants. Here we show that light-dependent  germination is enhanced in mutants deficient in the AP2/ERF transcription factors  ERF55 and ERF58. Light-activated phytochromes repress ERF55/ERF58 expression and  directly bind ERF55/ERF58 to displace them from the promoter of PIF1 and SOM,  genes encoding transcriptional regulators that prevent the completion of  germination. The same mechanism controls the expression of genes that encode ABA  or GA metabolic enzymes to decrease levels of ABA and possibly increase levels of  GA. Interestingly, ERF55 and ERF58 are themselves under transcriptional control  of ABA and GA, suggesting that they are part of a self-reinforcing signalling  loop which controls the completion of germination. Overall, we identified a role  of ERF55/ERF58 in phytochrome-mediated regulation of germination completion.', '2022 Mar 29', 'Nat Commun', '10.1038/s41467-022-29315-3', 'ORCID:']
+
+phytochromes: !repress! ERF55/ERF58
+ERF55/ERF58: !displace from! PIF1/SOM promoter
+ERF55/ERF58: !control expression of! ABA/GA metabolic enzymes
+ABA/GA: !transcriptionally control! ERF55/ERF58

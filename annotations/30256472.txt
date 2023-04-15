@@ -1,0 +1,8 @@
+['30256472', 'Phytochrome A (phyA) is a red and far-red (FR) sensing photoreceptor regulating  plant growth and development. Its biologically active FR-absorbing form Pfr  translocates into the nucleus and subsequently regulates gene expression. Two  transport facilitators, FR elongated hypocotyl 1 (FHY1) and FHY1-like (FHL), are  crucial for its cytoplasmic-nuclear translocation. FHY1 interacts preferentially  with activated phyA (Pfr) in assays with recombinant phyA and FHY1 and in vivo.  Nuclear translocation of the phyA-FHY1 complex depends on a nuclear localization  signal (NLS) of FHY1, which is recognized by IMPalphas independently of phyA. The  complex is guided along the actin cytoskeleton. Additionally, FHY1 has the  ability to exit the nucleus via the exportin route, thus is able to repeatedly  transport phyA molecules to the nucleus, balancing the nucleo-cytoplasmic  distribution. The direction of FHY1s transport appears to depend on its  phosphorylation state in different compartments. Phosphorylated serins close to  the NLS prevent FHY1 binding to IMPalpha. The work presented here elucidates key  steps of the mechanism by which photoactivated phyA translocates to the nucleus.', '2018 Dec', 'Plant J', '10.1111/tpj.14107', 'Zeidler']
+
+phyA: !translocates to! nucleus 
+FHY1: !interacts with! phyA 
+FHY1: !recognized by! IMPalphas 
+FHY1: !guided by! actin cytoskeleton 
+FHY1: !exits via! exportin route 
+FHY1: !direction of transport depends on! phosphorylation state

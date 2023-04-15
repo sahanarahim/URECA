@@ -1,0 +1,9 @@
+['23524850', 'Mammalian target-of-rapamycin (mTOR) triggers S6 kinase (S6K) activation to  phosphorylate targets linked to translation in response to energy, nutrients, and  hormones. Pathways of TOR activation in plants remain unknown. Here, we uncover  the role of the phytohormone auxin in TOR signalling activation and reinitiation  after upstream open reading frame (uORF) translation, which in plants is  dependent on translation initiation factor eIF3h. We show that auxin triggers TOR  activation followed by S6K1 phosphorylation at T449 and efficient loading of  uORF-mRNAs onto polysomes in a manner sensitive to the TOR inhibitor Torin-1.  Torin-1 mediates recruitment of inactive S6K1 to polysomes, while auxin triggers  S6K1 dissociation and recruitment of activated TOR instead. A putative target of  TOR/S6K1-eIF3h-is phosphorylated and detected in polysomes in response to auxin.  In TOR-deficient plants, polysomes were prebound by inactive S6K1, and loading of  uORF-mRNAs and eIF3h was impaired. Transient expression of eIF3h-S178D in plant  protoplasts specifically upregulates uORF-mRNA translation. We propose that TOR  functions in polysomes to maintain the active S6K1 (and thus eIF3h)  phosphorylation status that is critical for translation reinitiation.', '2013 Apr 17', 'EMBO J', '10.1038/emboj.2013.61', 'Ryabova']
+
+mTOR: !triggers! S6K activation 
+auxin: !triggers! TOR activation 
+TOR: !mediates! S6K1 recruitment 
+S6K1: !dissociates! in response to auxin 
+eIF3h: !phosphorylated by! TOR/S6K1 
+uORF-mRNAs: !loaded onto! polysomes 
+TOR: !maintains! active S6K1 phosphorylation

@@ -1,0 +1,11 @@
+['25061985', 'Arabidopsis thaliana has three genes that encode distinct aconitases (ACO), but  little is known about the function of each isoenzyme during plant development. In  newly emerged seedlings of Arabidopsis, transcript and protein levels for ACO3  were selectively induced to yield more than 80% of total aconitase activity.  Characterization of knockout mutants for each of the three ACOs suggests a major  role for only ACO3 in citrate metabolism. The aco3 mutant showed delayed early  seedling growth, altered assimilation of [14C]acetate feeding and elevated  citrate levels, which were nearly 4-fold greater than in wild-type, aco1 or aco2.  However, both ACO1 and ACO2 are active in seedlings as shown by inhibition of  aco3 growth by the toxin monofluoroacetate, and altered [14C]acetate assimilation  and metabolite levels in aco1 and aco2. Relative levels of fumarate and malate  differed between aco2 and aco3, indicating metabolically isolated pools of these  metabolites in seedlings. Our inability to enrich ACO protein through  mitochondria isolation, and the reduced cytosolic ACO activity of the iron-sulfur  centre assembly mutant atm3-1, indicated a cytosolic localization of ACO3 in  3-day-old seedlings. Subsequently, we determined that more than 90% of ACO3 was  cytosolic. We conclude that ACO3 is cytosolic in young seedlings and functions in  citrate catabolism consistent with the operation of the classic glyoxylate and  not direct catabolism of citrate within mitochondria.', '2014 Oct 15', 'Biochem J', '10.1042/BJ20140430', 'Balk']
+
+ACO3: !induces! transcript and protein levels 
+ACO3: !represses! early seedling growth 
+ACO3: !alters! assimilation of [14C]acetate feeding 
+ACO3: !elevates! citrate levels 
+ACO1/ACO2: !inhibits! aco3 growth 
+ACO1/ACO2: !alters! [14C]acetate assimilation and metabolite levels 
+ACO2/ACO3: !differs! fumarate and malate levels 
+ACO3: !localizes to! cytosol 
+ACO3: !functions in! citrate catabolism

@@ -1,0 +1,8 @@
+['25085430', "Recognition of pathogen-associated molecular patterns (PAMPs) by  surface-localized pattern-recognition receptors (PRRs) activates plant innate  immunity, mainly through activation of numerous protein kinases. Appropriate  induction of immune responses must be tightly regulated, as many of the kinases  involved have an intrinsic high activity and are also regulated by other external  and endogenous stimuli. Previous evidences suggest that PAMP-triggered immunity  (PTI) is under constant negative regulation by protein phosphatases but the  underlying molecular mechanisms remain unknown. Here, we show that protein  Ser/Thr phosphatase type 2A (PP2A) controls the activation of PRR complexes by  modulating the phosphostatus of the co-receptor and positive regulator BAK1. A  potential PP2A holoenzyme composed of the subunits A1, C4, and B'eta/zeta inhibits  immune responses triggered by several PAMPs and anti-bacterial immunity. PP2A  constitutively associates with BAK1 in planta. Impairment in this PP2A-based  regulation leads to increased steady-state BAK1 phosphorylation, which can poise  enhanced immune responses. This work identifies PP2A as an important negative  regulator of plant innate immunity that controls BAK1 activation in  surface-localized immune receptor complexes.", '2014 Sep 17', 'EMBO J', '10.15252/embj.201488698', 'Zipfel']
+
+PAMPs: !activate! PRRs 
+PRRs: !regulated by! protein kinases 
+protein kinases: !inhibited by! protein phosphatases 
+PP2A: !controls! BAK1 activation 
+BAK1: !phosphorylated by! PP2A 
+PP2A: !constitutively associates with! BAK1

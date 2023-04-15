@@ -1,0 +1,11 @@
+['15960622', 'Arabidopsis uses two major classes of photoreceptors to mediate seedling  de-etiolation. The cryptochromes (cry1 and cry2) absorb blue/ultraviolet-A light,  whereas the phytochromes (phyA-phyE) predominantly regulate responses to  red/far-red light. Arabidopsis COP1 represses light signaling by acting as an E3  ubiquitin ligase in the nucleus, and is responsible for targeted degradation of a  number of photomorphogenesis-promoting factors, including HY5, LAF1, phyA, and  HFR1. Distinct light signaling pathways initiated by multiple photoreceptors  (including both phytochromes and cryptochromes) eventually converge on COP1,  causing its inactivation and nuclear depletion. Arabidopsis SPA1, which encodes a  protein structurally related to COP1, also represses light signaling under  various light conditions. In this study, we present genetic evidence supporting  that HFR1, which encodes a photomorphogenesis-promoting bHLH transcription  factor, acts downstream of SPA1 and is required for different subsets of branch  pathways of light signaling controlled by SPA1 under different light conditions.  We show that SPA1 physically interacts with HFR1 in a yeast two-hybrid assay and  an in vitro co-immunoprecipitation assay. We demonstrate that higher levels of  HFR1 protein accumulate in the spa1 mutant background under various light  conditions, including far-red, red, blue, and white light, whereas a marginal  increase in HFR1 transcript level is only seen in dark- and far-red light-grown  spa1-100 mutants. Together, our data suggest that repression of light signaling  by Arabidopsis SPA1 likely involves post-translational regulation of HFR1 protein  accumulation.', '2005 Jul', 'Plant J', '10.1111/j.1365-313X.2005.02433.x', 'Wang']
+
+cry1/cry2: !absorb! blue/ultraviolet-A light
+phyA-phyE: !regulate responses to! red/far-red light
+COP1: !represses light signaling by! acting as an E3 ubiquitin ligase
+HY5/LAF1/phyA/HFR1: !targeted for degradation by! COP1
+multiple photoreceptors: !converge on! COP1
+SPA1: !represses light signaling under various light conditions!
+HFR1: !acts downstream of! SPA1
+SPA1: !physically interacts with! HFR1
+spa1 mutant: !increases levels of! HFR1 protein

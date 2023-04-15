@@ -1,0 +1,8 @@
+['32101756', 'Upon fertilization, the ovary increases in size and undergoes a complex  developmental process to become a fruit. We show that cytokinins (CKs), which are  required to determine ovary size before fertilization, have to be degraded to  facilitate fruit growth. The expression of CKX7, which encodes a cytosolic  CK-degrading enzyme, is directly positively regulated post-fertilization by the  MADS-box transcription factor STK. Similar to stk, two ckx7 mutants possess  shorter fruits than wild type. Quantification of CKs reveals that stk and ckx7  mutants have high CK levels, which negatively control cell expansion during fruit  development, compromising fruit growth. Overexpression of CKX7 partially  complements the stk fruit phenotype, confirming a role for CK degradation in  fruit development. Finally, we show that STK is required for the expression of  FUL, which is essential for valve elongation. Overall, we provide insights into  the link between CKs and molecular pathways that control fruit growth.', '2020 Feb 25', 'Cell Rep', '10.1016/j.celrep.2020.01.101', 'Colombo']
+
+CKX7: !encodes! CK-degrading enzyme 
+STK: !regulates! CKX7 
+STK: !required for! FUL expression 
+CKs: !degraded by! CKX7 
+CKs: !negatively control! cell expansion 
+FUL: !essential for! valve elongation

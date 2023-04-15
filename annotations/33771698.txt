@@ -1,0 +1,10 @@
+['33771698', 'Switch defective/sucrose non-fermentable (SWI/SNF) chromatin remodeling complexes  are multi-subunit machines that play vital roles in the regulation of chromatin  structure and gene expression. However, the mechanisms by which SWI/SNF complexes  recognize their target loci in plants are not fully understood. Here, we show  that the Arabidopsis thaliana bromodomain-containing proteins BRD1, BRD2, and  BRD13 are core subunits of SWI/SNF complexes and critical for SWI/SNF genomic  targeting. These three BRDs interact directly with multiple SWI/SNF subunits,  including the BRAHMA (BRM) catalytic subunit. Phenotypic and transcriptomic  analyses of the brd1 brd2 brd13 triple mutant revealed that these BRDs act  largely redundantly to control gene expression and developmental processes that  are also regulated by BRM. Genome-wide occupancy profiling demonstrated that  these three BRDs extensively colocalize with BRM on chromatin. Simultaneous loss  of function of three BRD genes results in reduced BRM protein levels and  decreased occupancy of BRM on chromatin across the genome. Furthermore, we  demonstrated that the bromodomains of BRDs are essential for genomic targeting of  the BRD subunits of SWI/SNF complexes to their target sites. Collectively, these  results demonstrate that BRD1, BRD2, and BRD13 are core subunits of SWI/SNF  complexes and reveal their biological roles in facilitating genomic targeting of  BRM-containing SWI/SNF complexes in plants.', '2021 Jun 7', 'Mol Plant', '10.1016/j.molp.2021.03.018', 'Li']
+
+BRD1: !interacts with! BRM 
+BRD2: !interacts with! BRM 
+BRD13: !interacts with! BRM 
+BRDs: !localize to! chromatin 
+BRDs: !enhance! BRM occupancy 
+BRDs: !synthesize! SWI/SNF complexes 
+BRDs: !affect! gene expression 
+BRDs: !affect! developmental processes

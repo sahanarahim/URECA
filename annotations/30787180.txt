@@ -1,0 +1,9 @@
+['30787180', 'Plants can fully catabolize purine nucleotides. A firmly established central  intermediate is the purine base xanthine. In the current widely accepted model of  plant purine nucleotide catabolism, xanthine can be generated in various ways  involving either inosine and hypoxanthine or guanosine and xanthosine as  intermediates. In a comprehensive mutant analysis involving single and multiple  mutants of urate oxidase, xanthine dehydrogenase, nucleoside hydrolases,  guanosine deaminase, and hypoxanthine guanine phosphoribosyltransferase, we  demonstrate that purine nucleotide catabolism in Arabidopsis (Arabidopsis  thaliana) mainly generates xanthosine, but not inosine and hypoxanthine, and that  xanthosine is derived from guanosine deamination and a second source, likely  xanthosine monophosphate dephosphorylation. Nucleoside hydrolase 1 (NSH1) is  known to be essential for xanthosine hydrolysis, but the in vivo function of a  second cytosolic nucleoside hydrolase, NSH2, is unclear. We demonstrate that NSH1  activates NSH2 in vitro and in vivo, forming a complex with almost two orders of  magnitude higher catalytic efficiency for xanthosine hydrolysis than observed for  NSH1 alone. Remarkably, an inactive NSH1 point mutant can activate NSH2 in vivo,  fully preventing purine nucleoside accumulation in nsh1 background. Our data lead  to an altered model of purine nucleotide catabolism that includes an NSH  heterocomplex as a central component.', '2019 Mar', 'Plant Cell', '10.1105/tpc.18.00899', 'ORCID:']
+
+Urate oxidase: !generates! xanthine 
+Xanthine dehydrogenase: !generates! xanthosine 
+Guanosine deaminase: !generates! xanthosine 
+Xanthosine monophosphate: !dephosphorylates to! xanthosine 
+Nucleoside hydrolase 1 (NSH1): !activates! NSH2 
+NSH1: !forms complex with! NSH2 
+NSH1 point mutant: !activates! NSH2 in vivo

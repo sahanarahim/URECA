@@ -1,0 +1,8 @@
+['14729917', 'We have isolated a dominant, auxin-insensitive mutant of Arabidopsis thaliana,  massugu2 (msg2), that displays neither hypocotyl gravitropism nor phototropism,  fails to maintain an apical hook as an etiolated seedling, and is defective in  lateral root formation. Yet other aspects of growth and development of msg2  plants are almost normal. These characteristics of msg2 are similar to those of  another auxin-insensitive mutant, non-phototropic hypocotyl4 (nph4), which is a  loss-of-function mutant of AUXIN RESPONSE FACTOR7 (ARF7) (Harper et al., 2000).  Map-based cloning of the MSG2 locus reveals that all four mutant alleles result  in amino acid substitutions in the conserved domain II of an  Auxin/Indole-3-Acetic Acid protein, IAA19. Interestingly, auxin inducibility of  MSG2/IAA19 gene expression is reduced by 65% in nph4/arf7. Moreover, MSG2/IAA19  protein binds to the C-terminal domain of NPH4/ARF7 in a Saccharomyces cerevisiae  (yeast) two-hybrid assay and to the whole latter protein in vitro by pull-down  assay. These results suggest that MSG2/IAA19 and NPH4/ARF7 may constitute a  negative feedback loop to regulate differential growth responses of hypocotyls  and lateral root formation.', '2004 Feb', 'Plant Cell', '10.1105/tpc.018630', 'Yamamoto']
+
+msg2: !displays! neither hypocotyl gravitropism nor phototropism
+nph4: !is a! loss-of-function mutant of ARF7
+msg2: !results in! amino acid substitutions in IAA19
+nph4/ARF7: !reduces! auxin inducibility of MSG2/IAA19 gene expression
+MSG2/IAA19: !binds to! C-terminal domain of NPH4/ARF7
+MSG2/IAA19: !binds to! whole NPH4/ARF7 protein in vitro

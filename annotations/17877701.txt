@@ -1,0 +1,12 @@
+['17877701', 'Plants synthesize ascorbate from guanosine diphosphate (GDP)-mannose via  L-galactose/L-gulose, although uronic acids have also been proposed as  precursors. Genes encoding all the enzymes of the GDP-mannose pathway have  previously been identified, with the exception of the step that converts  GDP-L-galactose to L-galactose 1-P. We show that a GDP-L-galactose phosphorylase,  encoded by the Arabidopsis thaliana VTC2 gene, catalyses this step in the  ascorbate biosynthetic pathway. Furthermore, a homologue of VTC2, At5g55120,  encodes a second GDP-L-galactose phosphorylase with similar properties to VTC2.  Two At5g55120 T-DNA insertion mutants (vtc5-1 and vtc5-2) have 80% of the  wild-type ascorbate level. Double mutants were produced by crossing the  loss-of-function vtc2-1 mutant with each of the two vtc5 alleles. These show  growth arrest immediately upon germination and the cotyledons subsequently  bleach. Normal growth was restored by supplementation with ascorbate or  L-galactose, indicating that both enzymes are necessary for ascorbate generation.  vtc2-1 leaves contain more mannose 6-P than wild-type. We conclude that the  GDP-mannose pathway is the only significant source of ascorbate in A. thaliana  seedlings, and that ascorbate is essential for seedling growth. A. thaliana  leaves accumulate more ascorbate after acclimatization to high light intensity.  VTC2 expression and GDP-L-galactose phosphorylase activity rapidly increase on  transfer to high light, but the activity of other enzymes in the GDP-mannose  pathway is little affected. VTC2 and At5g55120 (VTC5) expression also peak in at  the beginning of the light cycle and are controlled by the circadian clock. The  GDP-L-galactose phosphorylase step may therefore play an important role in  controlling ascorbate biosynthesis.', '2007 Nov', 'Plant J', '10.1111/j.1365-313X.2007.03266.x', 'Smirnoff']
+
+Gene: VTC2 !synthesizes! GDP-L-galactose 
+Gene: VTC2 !enhances! ascorbate biosynthesis 
+Gene: VTC5 !synthesizes! GDP-L-galactose 
+Gene: VTC5 !enhances! ascorbate biosynthesis 
+Gene: VTC2 !localizes to! high light intensity 
+Gene: VTC5 !localizes to! high light intensity 
+Gene: VTC2 !interacts with! circadian clock 
+Gene: VTC5 !interacts with! circadian clock 
+Gene: VTC2 !represses! mannose 6-P 
+Gene: VTC5 !represses! mannose 6-P

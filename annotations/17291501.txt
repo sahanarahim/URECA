@@ -1,0 +1,14 @@
+['17291501', "Jasmonate:amino acid synthetase (JAR1) is involved in the function of jasmonic  acid (JA) as a plant hormone. It catalyzes the synthesis of several JA-amido  conjugates, the most important of which appears to be JA-Ile. Structurally, JAR1  is a member of the firefly luciferase superfamily that comprises enzymes that  adenylate various organic acids. This study analyzed the substrate specificity of  recombinant JAR1 and determined whether it catalyzes the synthesis of mono- and  dinucleoside polyphosphates, which are side-reaction products of many enzymes  forming acyl approximately adenylates. Among different oxylipins tested as mixed  stereoisomers for substrate activity with JAR1, the highest rate of conversion to  Ile-conjugates was observed for (+/-)-JA and 9,10-dihydro-JA, while the rate of  conjugation with 12-hydroxy-JA and OPC-4  (3-oxo-2-(2Z-pentenyl)cyclopentane-1-butyric acid) was only about 1-2% that for  (+/-)-JA. Of the two stereoisomers of JA, (-)-JA and (+)-JA, rate of synthesis of  the former was about 100-fold faster than for (+)-JA. Finally, we have  demonstrated that (1) in the presence of ATP, Mg(2+), (-)-JA and tripolyphosphate  the ligase produces adenosine 5'-tetraphosphate (p(4)A); (2) addition of  isoleucine to that mixture halts the p(4)A synthesis; (3) the enzyme produces  neither diadenosine triphosphate (Ap(3)A) nor diadenosine tetraphosphate (Ap(4)A)  and (4) Ap(4)A cannot substitute ATP as a source of adenylate in the complete  reaction that yields JA-Ile.", '2007 Mar 6', 'FEBS Lett', '10.1016/j.febslet.2007.01.049', 'Wasternack']
+
+JAR1: !synthesizes! JA-Ile 
+JAR1: !catalyzes! Synthesis of JA-amido conjugates 
+JAR1: !converts! (+/-)-JA 
+JAR1: !converts! 9,10-dihydro-JA 
+JAR1: !converts! 12-hydroxy-JA 
+JAR1: !converts! OPC-4 
+(-)-JA: !converts! 100x faster than (+)-JA 
+ATP: !produces! p(4)A 
+Isoleucine: !halts! p(4)A synthesis 
+Ap(3)A: !not produced! by JAR1 
+Ap(4)A: !not produced! by JAR1 
+Ap(4)A: !cannot substitute! ATP

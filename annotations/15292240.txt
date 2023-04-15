@@ -1,0 +1,8 @@
+['15292240', 'The chloroplast signal recognition particle consists of a conserved 54-kDa GTPase  and a novel 43-kDa chromodomain protein (cpSRP43) that together bind  light-harvesting chlorophyll a/b-binding protein (LHCP) to form a soluble  targeting complex that is subsequently directed to the thylakoid membrane.  Homology-based modeling of cpSRP43 indicates the presence of two previously  identified chromodomains along with a third N-terminal chromodomain. Chromodomain  deletion constructs were used to examine the role of each chromodomain in  mediating distinct steps in the LHCP localization mechanism. The C-terminal  chromodomain is completely dispensable for LHCP targeting/integration in vitro.  The central chromodomain is essential for both targeting complex formation and  integration because of its role in binding the M domain of cpSRP54. The  N-terminal chromodomain (CD1) is unnecessary for targeting complex formation but  is required for integration. This correlates with the ability of CD1 along with  the ankyrin repeat region of cpSRP43 to regulate the GTPase cycle of the  cpSRP-receptor complex.', '2004 Oct 8', 'J Biol Chem', '10.1074/jbc.M401600200', 'Henry']
+
+cpSRP43: !consists of! two chromodomains 
+chromodomain: !binds! M domain of cpSRP54 
+CD1: !regulates! GTPase cycle of cpSRP-receptor complex 
+LHCP: !forms! targeting complex with cpSRP43 
+CD1: !required for! integration of LHCP 
+C-terminal chromodomain: !dispensable for! LHCP targeting/integration

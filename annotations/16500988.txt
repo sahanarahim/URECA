@@ -1,0 +1,12 @@
+['16500988', 'Photomorphogenesis is regulated by red/far-red light-absorbing phytochromes and  blue/UV-A light-absorbing cryptochromes. We isolated an Arabidopsis thaliana blue  light mutant, short hypocotyl under blue1 (shb1), a knockout allele. However,  shb1-D, a dominant allele, exhibited a long-hypocotyl phenotype under red,  far-red, and blue light. The phenotype conferred by shb1-D was caused by  overaccumulation of SHB1 transcript and recapitulated by overexpression of SHB1  in Arabidopsis. Therefore, SHB1 acts in cryptochrome signaling but overexpression  may expand its signaling activity to red and far-red light. Consistent with this,  overexpression of SHB1 enhanced the expression of PHYTOCHROME-INTERACTING FACTOR4  (PIF4) under red light. PIF4 appears to specifically mediate SHB1 regulation of  hypocotyl elongation and CHLOROPHYLL a/b BINDING PROTEIN3 or CHALCONE SYNTHASE  expression under red light. Overexpression of SHB1 also promoted  proteasome-mediated degradation of phytochrome A and hypocotyl elongation under  far-red light. Under blue light, shb1 suppressed LONG HYPOCOTYL IN FAR-RED LIGHT1  (HFR1) expression and showed several deetiolation phenotypes similar to hfr1-201.  However, the hypocotyl and cotyledon-opening phenotypes of shb1 were opposite to  those of hfr1-201, and HFR1 acts downstream of SHB1. SHB1 encodes a nuclear and  cytosolic protein that has motifs homologous with SYG1 protein family members.  Therefore, our studies reveal a signaling step in regulating cryptochrome- and  possibly phytochrome-mediated light responses.', '2006 Apr', 'Plant Cell', '10.1105/tpc.105.037879', 'Ni']
+
+phytochromes: !regulate! Photomorphogenesis 
+cryptochromes: !regulate! Photomorphogenesis 
+SHB1: !acts in! cryptochrome signaling 
+SHB1: !overexpression enhances! PIF4 expression 
+PIF4: !mediates! SHB1 regulation 
+CHLOROPHYLL a/b BINDING PROTEIN3: !mediated by! PIF4 
+CHALCONE SYNTHASE: !mediated by! PIF4 
+SHB1: !promotes! proteasome-mediated degradation of phytochrome A 
+HFR1: !acts downstream of! SHB1 
+SHB1: !encodes! nuclear and cytosolic protein

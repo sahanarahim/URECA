@@ -1,0 +1,6 @@
+['23058975', 'Heterotrimeric G proteins (Galpha, Gbeta, Ggamma) play important roles in signal  transduction among various eukaryotic species. G proteins transmit signals by  regulating the activities of effector proteins, but only a few Gbeta-interacting  effectors have been identified in plants. Here we show by a yeast two-hybrid  screen that a putative myristoylated 2C-type protein phosphatase, PP2C52, is an  Arabidopsis Gbeta (AGB1)-interacting partner. The interaction between AGB1 and  PP2C52 was confirmed by an in vitro pull-down assay and a bimolecular  fluorescence complementation assay. PP2C52 transcripts were detected in many  tissues. PP2C52 was localized to the plasma membrane and a mutation in the  putative myristoylation site of PP2C52 disrupted its plasma membrane  localization. Our results suggest that PP2C52 interacts with AGB1 on the plasma  membrane and transmits signals via dephosphorylation of other proteins.', '2012 Dec', 'Biochim Biophys Acta', '10.1016/j.bbamcr.2012.10.001', 'Takano']
+
+Gbeta: !interacts with! PP2C52
+PP2C52: !localizes to! plasma membrane
+AGB1: !interacts with! PP2C52
+PP2C52: !dephosphorylates! other proteins

@@ -1,0 +1,9 @@
+['11972043', 'Expression of higher plant mitochondrial (mt) genes is regulated at the  transcriptional, posttranscriptional, and translational levels, but the vast  majority of the mtDNA and RNA-binding proteins involved remain to be identified.  Plant mt single-stranded nucleic acid-binding proteins were purified by affinity  chromatography, and corresponding genes have been identified. A majority of these  proteins belong to a family of RNA-binding proteins characterized by the presence  of an N-terminal RNA-recognition motif (RRM) sequence. They diverge in their  C-terminal sequences, suggesting that they can be involved in different plant mt  regulation processes. Mitochondrial localization of the proteins was confirmed  both in vitro and in vivo and by immunolocalization. Binding experiments showed  that several proteins have a preference for poly(U)-rich sequences. This mt  protein family contains the ubiquitous RRM motif and has no known mt counterpart  in non-plant species. Phylogenetic and functional analysis suggest a common  ancestor with RNA-binding glycine-rich proteins (GRP), a family of  developmentally regulated proteins of unknown function. As with several plant,  cyanobacteria, and animal proteins that have similar structures, the expression  of one of the Arabidopsis thaliana mt RNA-binding protein genes is induced by low  temperatures.', '2002 Apr 30', 'Proc Natl Acad Sci U S A', '10.1073/pnas.092019599', 'Gualberto']
+
+Gene: !affects! Expression 
+Gene: !encodes! RNA-binding protein 
+RNA-binding protein: !localizes to! Mitochondria 
+RNA-binding protein: !interacts with! Poly(U)-rich sequences 
+RNA-binding protein: !related to! GRP 
+GRP: !enhances! Developmental regulation 
+Gene: !induced by! Low temperatures

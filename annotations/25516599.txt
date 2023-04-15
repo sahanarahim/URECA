@@ -1,0 +1,9 @@
+['25516599', 'Light and copper are important environmental determinants of plant growth and  development. Despite the wealth of knowledge on both light and copper signaling,  the molecular mechanisms that integrate the two pathways remain poorly  understood. Here, we use Arabidopsis thaliana to demonstrate an interaction  between SQUAMOSA PROMOTER BINDING PROTEIN-LIKE7 (SPL7) and ELONGATED HYPOCOTYL5  (HY5), which mediate copper and light signaling, respectively. Through  whole-genome chromatin immunoprecipitation and RNA sequencing analyses, we  elucidated the SPL7 regulon and compared it with that of HY5. We found that the  two transcription factors coregulate many genes, including those involved in  anthocyanin accumulation and photosynthesis. Moreover, SPL7 and HY5 act  coordinately to transcriptionally regulate MIR408, which results in differential  expression of microRNA408 (miR408) and its target genes in response to changing  light and copper conditions. We demonstrate that this regulation is tied to  copper allocation to the chloroplast and plastocyanin levels. Finally, we found  that constitutively activated miR408 rescues the distinct developmental defects  of the hy5, spl7, and hy5 spl7 mutants. These findings revealed the existence of  crosstalk between light and copper, mediated by a HY5-SPL7 network. Furthermore,  integration of transcriptional and posttranscriptional regulation is critical for  governing proper metabolism and development in response to combined copper and  light signaling.', '2014 Dec', 'Plant Cell', '10.1105/tpc.114.127340', 'Li']
+
+SPL7: !interacts with! HY5 
+HY5: !interacts with! SPL7 
+SPL7: !coregulates! genes 
+HY5: !coregulates! genes 
+SPL7: !regulates! MIR408 
+HY5: !regulates! MIR408 
+MIR408: !rescues! hy5, spl7, and hy5 spl7 mutants

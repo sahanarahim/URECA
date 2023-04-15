@@ -1,0 +1,11 @@
+['36682886', 'MicroRNAs (miRNAs) are small non-coding RNAs that play a central role in  regulating various developmental and biological processes. The expression of  miRNAs is differentially modulated in response to various biotic and abiotic  stresses. Recent findings have shown that some pri-miRNAs encode small regulatory  peptides known as microRNA-encoded peptides (miPEP). miPEPs regulate the growth  and development of plants by modulating corresponding miRNA expression; however,  the role of these peptides under different stress conditions remains unexplored.  Here, we report that pri-miR408 encodes a small peptide, miPEP408, that regulates  the expression of miR408, its targets, and associated phenotype in Arabidopsis.  We also report that miR408, apart from Plantacyanin (ARPN) and Laccase3 (LAC3),  targets a glutathione S-transferase (GSTU25) that plays a role in sulfur  assimilation and exhibits a range of detoxification activities with the  environmental pollutant. Plants overexpressing miR408 showed severe sensitivity  under low sulfur (LS), arsenite As(III), and LS + As(III) stress, while miR408  mutants developed using the CRISPR/Cas9 approach showed tolerance. Transgenic  lines showed phenotypic alteration and modulation in the expression of genes  involved in the sulfur reduction pathway and affect sulfate and glutathione  accumulation. Similar to miR408 overexpressing lines, the exogenous application  of synthetic miPEP408 and miPEP408OX lines led to sensitivity in plants under LS,  As(III), and combined LS + As(III) stress compared to the control. This study  suggests the involvement of miR408 and miPEP408 in heavy metal and nutrient  deficiency responses through modulation of the sulfur assimilation pathway.', '2023 Jan 23', 'Plant Physiol', '10.1093/plphys/kiad033', 'ORCID:']
+
+miRNA: !regulates! Process 
+pri-miRNA: !encodes! miPEP 
+miPEP: !regulates! miRNA expression 
+miR408: !targets! ARPN, LAC3, GSTU25 
+miR408: !modulates! Phenotype 
+miR408: !affects! Sulfur assimilation pathway 
+miR408 overexpressing lines: !sensitive to! LS, As(III), LS + As(III) stress 
+miR408 mutants: !tolerant to! LS, As(III), LS + As(III) stress 
+synthetic miPEP408: !leads to! Sensitivity in plants under LS, As(III), LS + As(III) stress

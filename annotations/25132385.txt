@@ -1,0 +1,6 @@
+['25132385', 'Plants adjust the timing of the transition to flowering to ensure their  reproductive success in changing environments. Temperature and light are major  environmental signals that affect flowering time through converging on the  transcriptional regulation of FLOWERING LOCUS T (FT) encoding the florigen  in Arabidopsis. Here, we show that a MYB transcription factor EARLY FLOWERING MYB  PROTEIN (EFM) plays an important role in directly repressing FT expression in the  leaf vasculature. EFM mediates the effect of ambient temperature on flowering and  is directly promoted by another major FT repressor, SHORT VEGETATIVE PHASE. EFM  interacts with an H3K36me2 demethylase JMJ30, which forms a negative feedback  regulatory loop with the light-responsive circadian clock, to specifically  demethylate an active mark H3K36me2 at FT. Our results suggest that EFM is an  important convergence point that mediates plant responses to temperature and  light to determine the timing of reproduction.', '2014 Aug 25', 'Dev Cell', '10.1016/j.devcel.2014.07.004', 'Yu']
+
+EFM: !represses! FT 
+EFM: !promoted by! SHORT VEGETATIVE PHASE 
+EFM: !interacts with! JMJ30 
+JMJ30: !demethylates! H3K36me2

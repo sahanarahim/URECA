@@ -1,0 +1,9 @@
+['22335396', 'Arabidopsis bZIP28, an ER membrane-associated transcription factor, is activated  in response to conditions that induce ER stress-adverse environmental conditions  or exposure to ER stress agents such as tunicamycin and dithiothreitol. Upon  stress treatment, bZIP28 exits the ER and moves to the Golgi, where it is  proteolytically processed, releasing its transcriptional component, which  relocates to the nucleus. In this study, we tracked the movement of GFP-tagged  bZIP28 in an effort to understand its mobilization from the ER and release from  the Golgi. We identified a small region in bZIP28 that is rich in dibasic amino  acids and proximal to the transmembrane domain required for its movement from the  ER. In response to ER stress, bZIP28 showed enhanced interaction with Sar1 and  Sec12, components of the COPII machinery. We demonstrated that the dibasic amino  acid-rich region in bZIP28 is involved in the interaction with Sar1. Upon  migration to the Golgi, bZIP28 is proteolytically processed by proteases S1P and  S2P. We found a putative helix-breaking residue in the transmembrane domain of  bZIP28 to be crucial for its processing and liberation from Golgi bodies. Thus,  in response to stress, bZIP28 moves from organelle to organelle by interaction of  critical elements in the molecule with the transport and/or proteolytic machinery  resident in the various organelles.', '2012 Jun', 'Plant J', '10.1111/j.1365-313X.2012.04943.x', 'Howell']
+
+bZIP28: !moves from! ER 
+bZIP28: !interacts with! Sar1 
+bZIP28: !processed by! S1P 
+bZIP28: !processed by! S2P 
+bZIP28: !liberated from! Golgi bodies 
+Sar1: !interacts with! bZIP28 
+Sec12: !interacts with! bZIP28

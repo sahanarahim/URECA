@@ -1,0 +1,6 @@
+['14535889', 'Arabinogalactan-proteins (AGPs) are extracellular proteoglycans that are  implicated in many plant growth and developmental processes, but in no case has a  biological function been assigned to a particular AGP. AtAGP30 is a non-classical  AGP core protein from Arabidopsis that is expressed only in roots. Analysis of  the corresponding mutant, agp30, has revealed that the wild-type gene product is  required in vitro for root regeneration and in planta for the timing of seed  germination. The mutant shows a suppression of the abscisic acid (ABA)-induced  delay in germination and altered expression of some ABA-regulated genes. This  suggests that AtAGP30 functions in the ABA response. By analogy to  proteoglycan-mediated regulation of growth-factor-signalling pathways in animals,  our data indicate that phytohormone activity in plants can be modulated by AGPs.', '2003 Oct', 'Plant J', '10.1046/j.1365-313x.2003.01874.x', 'Roberts']
+
+AtAGP30: !affects! root regeneration 
+AtAGP30: !regulates! ABA response 
+ABA: !delays! seed germination 
+AtAGP30: !modulates! phytohormone activity

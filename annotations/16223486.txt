@@ -1,0 +1,10 @@
+['16223486', 'We investigated the fourth subgroup of Arabidopsis aquaporin, small and basic  intrinsic proteins (SIPs). When they were expressed in yeast, SIP1;1 and SIP1;2,  but not SIP2;1, gave water-channel activity. The transient expression of SIPs  linked with green fluorescent protein in Arabidopsis cells and the subcellular  fractionation of the tissue homogenate showed their ER localization. The SIP  proteins were detected in all of the tissues, except for dry seeds. Histochemical  analysis of promoter-beta-glucuronidase fusions revealed the cell-specific  expression of SIPs. SIP1;1 and SIP1;2 may function as water channels in the ER,  while SIP2;1 might act as an ER channel for other small molecules or ions.', '2005 Oct 24', 'FEBS Lett', '10.1016/j.febslet.2005.09.076', 'Maeshima']
+
+SIP1;1: !expresses in! yeast 
+SIP1;2: !expresses in! yeast 
+SIP2;1: !does not express in! yeast 
+SIPs: !localizes to! ER 
+SIPs: !detected in! all tissues 
+SIP1;1: !functions as! water channel 
+SIP1;2: !functions as! water channel 
+SIP2;1: !functions as! ER channel

@@ -1,0 +1,7 @@
+['15313574', 'The model organism Arabidopsis thaliana contains a restricted set of  heterotrimeric G-protein subunits, with only one canonical Galpha subunit  (AtGPA1), one Gbeta subunit (AtAGB1), and two Ggamma subunits (AtAGG1 and AtGG2)  identified. We have identified a novel additional component of heterotrimeric  G-protein signaling in the A. thaliana genome, regulator of G-protein signaling-1  (AtRGS1). This protein has the predicted topology and structure of a  G-protein-coupled receptor in that it contains seven transmembrane domains, but  AtRGS1 also contains a unique C-terminal extension, namely a regulator of  G-protein signaling domain (RGS box). This article describes methods for the  purification and in vitro functional analysis of the RGS box of AtRGS1.', '2004', 'Methods Enzymol', '10.1016/S0076-6879(04)89019-0', 'Siderovski']
+
+AtGPA1: !interacts with! AtAGB1 
+AtAGB1: !interacts with! AtAGG1 
+AtAGG1: !interacts with! AtGG2 
+AtRGS1: !contains! RGS box 
+RGS box: !purified and analyzed! in vitro

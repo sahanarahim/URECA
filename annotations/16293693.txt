@@ -1,0 +1,11 @@
+['16293693', 'We have identified mutant alleles of two sporophytically acting genes, HAIKU2  (IKU2) and MINISEED3 (MINI3). Homozygotes of these alleles produce a small seed  phenotype associated with reduced growth and early cellularization of the  endosperm. This phenotype is similar to that described for another seed size  gene, IKU1. MINI3 encodes WRKY10, a WRKY class transcription factor. MINI3  promoter::GUS fusions show the gene is expressed in pollen and in the developing  endosperm from the two nuclei stage at approximately 12 hr postfertilization to  endosperm cellularization at approximately 96 hr. MINI3 is also expressed in the  globular embryo but not in the late heart stage of embryo development. The early  endosperm expression of MINI3 is independent of its parent of origin. IKU2  encodes a leucine-rich repeat (LRR) KINASE (At3g19700). IKU2::GUS has a similar  expression pattern to that of MINI3. The patterns of expression of the two genes  and their similar phenotypes indicate they may operate in the same genetic  pathway. Additionally, we found that both MINI3 and IKU2 showed decreased  expression in the iku1-1 mutant. IKU2 expression was reduced in a mini3-1  background, whereas MINI3 expression was unaltered in the iku2-3 mutant. These  data suggest the successive action of the three genes IKU1, IKU2, and MINI3 in  the same pathway of seed development.', '2005 Nov 29', 'Proc Natl Acad Sci U S A', '10.1073/pnas.0508418102', 'Chaudhury']
+
+IKU2: !encodes! LRR KINASE
+MINI3: !encodes! WRKY10
+IKU2: !expressed in! developing endosperm
+MINI3: !expressed in! pollen, developing endosperm, globular embryo
+IKU2: !expressed independently of! parent of origin
+MINI3: !similar phenotype to! IKU1
+IKU2: !reduced expression in! mini3-1 background
+MINI3: !unaltered expression in! iku2-3 mutant
+IKU1: !successive action with! IKU2, MINI3

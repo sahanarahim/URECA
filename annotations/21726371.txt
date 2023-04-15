@@ -1,0 +1,9 @@
+['21726371', 'Plants possess two distinct types of immune receptor. The first type, pattern  recognition receptors (PRRs), recognizes microbe-associated molecular patterns  (MAMPs) and initiates pattern-triggered immunity (PTI) on recognition. FLS2 is a  PRR, which recognizes a part of bacterial flagellin. The second type, resistance  (R) proteins, recognizes pathogen effectors and initiates effector-triggered  immunity (ETI) on recognition. RPM1, RPS2 and RPS5 are R proteins. Here, we  provide evidence that FLS2 is physically associated with all three R proteins.  Our findings suggest that signalling interactions occur between PTI and ETI at  very early stages and/or that FLS2 forms a PTI signalling complex, some  components of which are guarded by R proteins.', '2011 Sep', 'Mol Plant Pathol', '10.1111/j.1364-3703.2010.00704.x', 'Katagiri']
+
+FLS2: !recognizes! bacterial flagellin 
+FLS2: !associated with! RPM1 
+FLS2: !associated with! RPS2 
+FLS2: !associated with! RPS5 
+RPM1: !guards! FLS2 
+RPS2: !guards! FLS2 
+RPS5: !guards! FLS2

@@ -1,0 +1,8 @@
+['12837952', 'ACTIN-RELATED PROTEINS 2 and 3 form the major subunits of the ARP2/3 complex,  which is known as an important regulator of actin organization in diverse  organisms. Here, we report that two genes, WURM and DISTORTED1, which are  important for cell shape control in Arabidopsis, encode the plant ARP2 and ARP3  orthologs, respectively. Mutations in these genes result in misdirected expansion  of various cell types: trichome expansion is randomized, pavement cells fail to  produce lobes, hypocotyl cells curl out of the normal epidermal plane, and root  hairs are sinuous. At the subcellular level, cell shape changes are linked to  severe filamentous actin aggregation and compromised vacuole fusion. Because all  seven subunits of the ARP2/3 complex are present in plants, our data indicate  that this complex may play a pivotal role during plant cell morphogenesis.', '2003 Jul', 'Plant Cell', '10.1105/tpc.011676', 'Hulskamp']
+
+WURM: !encodes! ARP2 
+DISTORTED1: !encodes! ARP3 
+ARP2/3 complex: !regulates! actin organization 
+Mutations: !result in! misdirected expansion of cell types 
+Cell shape changes: !linked to! filamentous actin aggregation 
+ARP2/3 complex: !plays a pivotal role! during plant cell morphogenesis

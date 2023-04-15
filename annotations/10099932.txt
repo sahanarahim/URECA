@@ -1,0 +1,9 @@
+['10099932', 'Organised cell division and expansion play important roles in plant  embryogenesis. To address their cellular basis, we have analysed Arabidopsis  abnormal-embryo mutants which were isolated for their characteristic phenotype:  mutant embryos are small, mushroom-shaped ("pilz") and consist of only one or few  large cells each containing one or more variably enlarged nuclei and often cell  wall stubs. These 23 mutants represent four genes, PFIFFERLING, HALLIMASCH,  CHAMPIGNON, and PORCINO, which map to different chromosomes. All four genes have  very similar mutant phenotypes although porcino embryos often consisted of only  one large cell. The endosperm did not cellularise and contained a variably  reduced number of highly enlarged nuclei. By contrast, genetic evidence suggests  that these genes are not required for gametophyte development. Expression of cell  cycle genes, Cdc2a, CyclinA2 and CyclinB1, and the cytokinesis-specific KNOLLE  gene was not altered in mutant embryos. However, KNOLLE syntaxin accumulated in  patches but no KNOLLE-positive structure resembling a forming cell plate occurred  in mitotic cells. A general defect in microtubule assembly was observed in all  mutants. Interphase cells lacked cortical microtubules, and spindles were absent  from mitotic nuclei although in rare cases, short stubs of microtubules were  attached to partially condensed chromosomes. Our results suggest that the  cellular components affected by the pilz group mutations are necessary for  continuous microtubule organisation, mitotic division and cytokinesis but do not  mediate cell cycle progression.', '1999 Feb', 'Eur J Cell Biol', '10.1016/S0171-9335(99)80011-9', 'Jurgens']
+
+PFIFFERLING: !affects! Cell cycle
+HALLIMASCH: !affects! Cell cycle
+CHAMPIGNON: !affects! Cell cycle
+PORCINO: !affects! Cell cycle
+Cell cycle genes: !not altered in! Mutant embryos
+KNOLLE gene: !accumulates in! Patches
+Microtubules: !absent from! Mitotic nuclei

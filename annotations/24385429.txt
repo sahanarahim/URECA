@@ -1,0 +1,7 @@
+['24385429', 'ESCRT proteins mediate membrane remodeling and scission events and are essential  for endosomal sorting of plasma membrane proteins for degradation. We have  identified a novel, plant-specific ESCRT component called PROS (POSITIVE  REGULATOR OF SKD1) in Arabidopsis thaliana. PROS has a strong positive effect on  the in vitro ATPase activity of SKD1 (also known as Vacuolar Protein Sorting 4 or  VPS4), a critical component required for ESCRT-III disassembly and endosomal  vesiculation. PROS interacts with both SKD1 and the SKD1-positive regulator  LIP5/VTA1. We have identified a putative MIM domain within PROS that mediate the  interaction with the MIT domain of SKD1. Interestingly, whereas MIM domains are  commonly found at the C terminus of ESCRT-III subunits, the PROS MIM domain is  internal. The heterologous expression of PROS in yeast mutant cells lacking Vta1p  partially rescues endosomal sorting defects. PROS is expressed in most tissues  and cells types in Arabidopsis thaliana. Silencing of PROS leads to reduced cell  expansion and abnormal organ growth.', '2014 Feb 21', 'J Biol Chem', '10.1074/jbc.M113.529685', 'Otegui']
+
+PROS: !interacts with! SKD1 
+PROS: !interacts with! LIP5/VTA1 
+PROS: !enhances! SKD1 ATPase activity 
+PROS: !localizes to! most tissues and cells in Arabidopsis thaliana 
+PROS: !represses! cell expansion and organ growth

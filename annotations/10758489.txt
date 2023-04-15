@@ -1,0 +1,8 @@
+['10758489', 'Cyclin-dependent kinases (CDKs) are important regulators of the eukaryotic cell  division cycle. To study protein-protein interactions involving plant CDKs, the  Arabidopsis thaliana Cdc2aAt was used as bait in the yeast two-hybrid system.  Here we report on the isolation of ICK2, and show that it interacts with Cdc2aAt,  but not with a second CDK from Arabidopsis, Cdc2bAt. ICK2 contains a  carboxy-terminal domain related to that of ICK1, a previously described CDK  inhibitor from Arabidopsis, and to the CDK-binding domain of the mammalian  inhibitor p27Kip1. Outside of this domain, ICK2 is distinct from ICK1, p27Kip1,  and other proteins. At nanogram levels (8 nM), purified recombinant ICK2 inhibits  p13Suc1-associated histone H1 kinase activity from Arabidopsis tissue extracts,  demonstrating that it is a potent inhibitor of plant CDK activity in vitro. ICK2  mRNA was present in all tissues analysed by Northern hybridization, and its  distribution was distinct from that of ICK1. These results demonstrate that  plants possess a family of differentially regulated CDK inhibitors that contain a  conserved carboxy terminal but with distinct amino terminal regions.', '2000 Feb', 'Plant J', '10.1046/j.1365-313x.2000.00688.x', 'Fobert']
+
+Cdc2aAt: !interacts with! ICK2 
+ICK2: !inhibits! p13Suc1-associated histone H1 kinase activity 
+ICK2: !contains! carboxy-terminal domain 
+ICK2: !distinct from! ICK1, p27Kip1 
+ICK2 mRNA: !present in! all tissues 
+ICK2 mRNA: !distinct from! ICK1

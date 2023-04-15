@@ -1,0 +1,12 @@
+['19914916', 'N-Glycosylation is an important post-translational modification that occurs in  many secreted and membrane proteins in eukaryotic cells. Golgi alpha-mannosidase  I hydrolases (MANI) are key enzymes that play a role in the early N-glycan  modification pathway in the Golgi apparatus. In Arabidopsis thaliana, two  putative MANI genes, AtMANIa (At3g21160) and AtMANIb (At1g51590), were  identified. Biochemical analysis using bacterially produced recombinant AtMANI  isoforms revealed that both AtMANI isoforms encode  1-deoxymannojirimycin-sensitive alpha-mannosidase I and act on Man(8)GlcNAc(2)  and Man(9)GlcNAc(2) structures to yield Man(5)GlcNAc(2). Structures of hydrolytic  intermediates accumulated in the AtMANI reactions indicate that AtMANIs employ  hydrolytic pathways distinct from those of mammalian MANIs. In planta,  AtMANI-GFP/DsRed fusion proteins were detected in the Golgi stacks. Arabidopsis  mutant lines manIa-1, manIa-2, manIb-1, and manIb-2 showed N-glycan profiles  similar to that of wild type. On the other hand, the manIa manIb double mutant  lines produced Man(8)GlcNAc(2) as the predominant N-glycan and lacked  plant-specific complex and hybrid N-glycans. These data indicate that either  AtMANIa or AtMANIb can function as the Golgi alpha-mannosidase I that produces  the Man(5)GlcNAc(2) N-glycan structure necessary for complex N-glycan synthesis.', '2010 Feb', 'Glycobiology', '10.1093/glycob/cwp170', 'Fujiyama']
+
+AtMANIa: !encodes! 1-deoxymannojirimycin-sensitive alpha-mannosidase I 
+AtMANIa: !localizes to! Golgi stacks 
+AtMANIb: !encodes! 1-deoxymannojirimycin-sensitive alpha-mannosidase I 
+AtMANIb: !localizes to! Golgi stacks 
+AtMANIa: !synthesizes! Man(5)GlcNAc(2) 
+AtMANIb: !synthesizes! Man(5)GlcNAc(2) 
+manIa-1: !lacks! plant-specific complex and hybrid N-glycans 
+manIa-2: !lacks! plant-specific complex and hybrid N-glycans 
+manIb-1: !lacks! plant-specific complex and hybrid N-glycans 
+manIb-2: !lacks! plant-specific complex and hybrid N-glycans

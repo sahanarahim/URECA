@@ -1,0 +1,10 @@
+['9528776', "In mammalian cells, mitogen-induced phosphorylation of ribosomal protein S6 by  p70s6k has been implicated in the selective translational upregulation of 5'TOP  mRNAs. We demonstrate here that the homologous Arabidopsis thaliana protein,  AtS6k2, ectopically expressed in human 293 cells or isolated from plant cells,  phosphorylates specifically mammalian and plant S6 at 25 degrees C but not at 37  degrees C. When Arabidopsis suspension culture cells are shifted from 25 to 37  degrees C, the kinase becomes rapidly inactivated, consistent with the  observation that heat shock abrogates S6 phosphorylation in plants. Treatment  with potato acid phosphatase reduced the specific activity of immunoprecipitated  AtS6k2 threefold, an effect which was blocked in the presence of 4-nitrophenyl  phosphate. In quiescent mammalian cells, AtS6k2 is activated by serum  stimulation, a response which is abolished by the fungal metabolite wortmannin  but is resistant to rapamycin. Treatment of mammalian cells with rapamycin  abolishes in vivo S6 phosphorylation by p70s6k; however, ectopic expression of  AtS6k2 rescues the rapamycin block. Collectively, the data demonstrate that  AtS6k2 is the functional plant homolog of mammalian p70s6k and identify a new  signalling pathway in plants.", '1998 Apr', 'Mol Cell Biol', '10.1128/MCB.18.4.2038', 'Nagy']
+
+AtS6k2: !phosphorylates! S6 
+AtS6k2: !inactivated by! heat shock 
+AtS6k2: !reduced by! potato acid phosphatase 
+AtS6k2: !activated by! serum stimulation 
+AtS6k2: !blocked by! wortmannin 
+AtS6k2: !resistant to! rapamycin 
+p70s6k: !implicated in! selective translational upregulation of 5'TOP mRNAs 
+p70s6k: !inhibited by! rapamycin

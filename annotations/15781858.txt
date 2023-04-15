@@ -1,0 +1,6 @@
+['15781858', 'The organization of living cells is based on networks of interacting molecules.  Systematic analysis of protein interactions of 3-aa loop extension (TALE)  homeodomain proteins, fundamental regulators of plant meristem function and leaf  development, revealed a highly connected, complex network. The network includes  nine members of Arabidopsis thaliana ovate family proteins (AtOFPs), a  plant-specific protein family, indicating a close functional connection to TALE  homeodomain proteins. Evidence is provided that AtOFP1 is an essential  pleiotropic developmental regulator. AtOFP1 and AtOFP5 are shown to associate  with the cytoskeleton and to regulate subcellular localization of TALE  homeodomain proteins, suggesting a previously unrecognized control mechanism in  plant development.', '2005 Mar 29', 'Proc Natl Acad Sci U S A', '10.1073/pnas.0501181102', 'Uhrig']
+
+TALE homeodomain proteins: !interact with! AtOFPs 
+AtOFP1: !essential for! plant development 
+AtOFP1 and AtOFP5: !associate with! cytoskeleton 
+AtOFP1 and AtOFP5: !regulate! subcellular localization of TALE homeodomain proteins

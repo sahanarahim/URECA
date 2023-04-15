@@ -1,0 +1,9 @@
+['12609028', "MADS-domain-containing transcription factors comprise a large family of  regulators that have diverse roles in plant development, including the regulation  of flowering time. AGAMOUS-LIKE 20/SUPPRESSOR OF OVEREXPRESSION OF CONSTANS1  (SOC1) and FRUITFUL act to promote flowering, whereas FLOWERING LOCUS C (FLC),  FLOWERING LOCUS M/MADS AFFECTING FLOWERING1, and SHORT VEGETATIVE PHASE are  inhibitors of flowering. Here we report that AGAMOUS-LIKE 24 (AGL24) also plays a  role in the regulation of flowering time. agl24 mutants are late flowering and  overexpression of AGL24 causes early flowering in wild-type and  late-flowering-mutant backgrounds. The effect of AGL24 overexpression is most  pronounced in autonomous-pathway-mutant and FRIGIDA-containing backgrounds. The  behavior of AGL24 is most similar to that of SOC1. Like SOC1, AGL24 mRNA levels  are upregulated by vernalization. Unlike SOC1, however, AGL24 mRNA levels are not  affected by FLC, and therefore AGL24 may represent an FLC-independent target of  the vernalization pathway. There is also evidence for cross-talk between AGL24  and SOC1. When overexpressed, SOC1 and AGL24 are able to upregulate each other's  expression. Thus, AGL24 represents another component in a network of  MADS-domain-containing transcription factors that regulate flowering time.", '2003 Mar', 'Plant J', '10.1046/j.1365-313x.2003.01671.x', 'Amasino']
+
+MADS-domain-transcription factors: !regulate! flowering time
+AGAMOUS-LIKE 20/SOC1: !promote! flowering
+FLC/MADS AFFECTING FLOWERING1/SHORT VEGETATIVE PHASE: !inhibit! flowering
+AGL24: !affects! flowering time
+VERNALIZATION: !upregulates! AGL24 mRNA levels
+FLC: !does not affect! AGL24 mRNA levels
+SOC1/AGL24: !upregulate! each other's expression

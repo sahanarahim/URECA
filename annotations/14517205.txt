@@ -1,0 +1,8 @@
+['14517205', 'Integration of thylakoid proteins by the chloroplast signal recognition particle  (cpSRP) posttranslational transport pathway requires the cpSRP, an SRP receptor  homologue (cpFtsY), and the membrane protein ALB3. Similarly, Escherichia coli  uses an SRP and FtsY to cotranslationally target membrane proteins to the SecYEG  translocase, which contains an ALB3 homologue, YidC. In neither system are the  interactions between soluble and membrane components well understood. We show  that complexes containing cpSRP, cpFtsY, and ALB3 can be precipitated using  affinity tags on cpSRP or cpFtsY. Stabilization of this complex with GMP-PNP  specifically blocks subsequent integration of substrate (light harvesting chl  a/b-binding protein [LHCP]), indicating that the complex occupies functional ALB3  translocation sites. Surprisingly, neither substrate nor cpSRP43, a component of  cpSRP, was necessary to form a complex with ALB3. Complexes also contained  cpSecY, but its removal did not inhibit ALB3 function. Furthermore, antibody  bound to ALB3 prevented ALB3 association with cpSRP and cpFtsY and inhibited LHCP  integration suggesting that a complex containing cpSRP, cpFtsY, and ALB3 must  form for proper LHCP integration.', '2003 Sep 29', 'J Cell Biol', '10.1083/jcb.200307067', 'Henry']
+
+cpSRP: !interacts with! cpFtsY 
+cpFtsY: !interacts with! ALB3 
+ALB3: !interacts with! cpSRP 
+ALB3: !interacts with! cpFtsY 
+cpSecY: !interacts with! ALB3 
+LHCP: !integrates via! ALB3

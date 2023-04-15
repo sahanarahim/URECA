@@ -1,0 +1,10 @@
+['24404182', 'Maintaining correct DNA and histone methylation patterns is essential for the  development of all eukaryotes. In Arabidopsis, we identified SHOOT GROWTH1 (SG1),  a novel protein involved in the control of gene methylation. SG1 contains both a  Bromo-Adjacent Homology (BAH) domain found in several chromatin regulators and an  RNA-Recognition Motif (RRM). The sg1 mutations are associated with drastic  pleiotropic phenotypes. The mutants degenerate after few generations and are  similar to mutants of the histone demethylase INCREASE IN BONSAI METHYLATION1  (IBM1). A methylome analysis of sg1 mutants revealed a large number of gene  bodies hypermethylated in the cytosine CHG context, associated with an increase  in di-methylation of lysine 9 on histone H3 tail (H3K9me2), an epigenetic mark  normally found in silenced transposons. The sg1 phenotype is suppressed by  mutations in genes encoding the DNA methyltransferase CHROMOMETHYLASE3 (CMT3) or  the histone methyltransferase KRYPTONITE (KYP), indicating that SG1 functions  antagonistically to CMT3 or KYP. We further show that the IBM1 transcript is not  correctly processed in sg1, and that the functional IBM1 transcript complements  sg1. Altogether, our results suggest a function for SG1 in the maintenance of  genome integrity by regulating IBM1.', '2014', 'PLoS One', '10.1371/journal.pone.0084687', 'Bouche']
+
+SG1: !affects! DNA and histone methylation patterns 
+SG1: !contains! BAH domain and RRM 
+sg1: !associated with! pleiotropic phenotypes 
+sg1: !increases! CHG context gene bodies hypermethylation 
+sg1: !increases! H3K9me2 di-methylation 
+sg1: !suppressed by! CMT3 or KYP mutations 
+IBM1: !not processed correctly in! sg1 
+IBM1: !complements! sg1

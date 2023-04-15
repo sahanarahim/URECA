@@ -1,0 +1,9 @@
+['20305124', 'The Arabidopsis thaliana MADS box transcription factors APETALA3 (AP3) and  PISTILLATA (PI) heterodimerize and are required to specify petal identity, yet  many details of how this regulatory process is effected are unclear. We have  identified three related genes, BHLH136/BANQUO1 (BNQ1), BHLH134/BANQUO2 (BNQ2),  and BHLH161/BANQUO3 (BNQ3), as being directly and negatively regulated by AP3 and  PI in petals. BNQ1, BNQ2, and BNQ3 encode products belonging to a family of  atypical non-DNA binding basic helix-loop-helix (bHLH) proteins that  heterodimerize with and negatively regulate bHLH transcription factors. We show  that bnq3 mutants have pale-green sepals and carpels and decreased chlorophyll  levels, suggesting that BNQ3 has a role in regulating light responses. The ap3  bnq3 double mutant displays pale second-whorl organs, supporting the hypothesis  that BNQ3 is downstream of AP3. Consistent with a role in light response, we show  that the BNQ gene products regulate the function of HFR1 (for LONG HYPOCOTYL IN  FAR-RED1), which encodes a bHLH protein that regulates photomorphogenesis through  modulating phytochrome and cryptochrome signaling. The BNQ genes also are  required for appropriate regulation of flowering time. Our results suggest that  petal identity is specified in part through downregulation of BNQ-dependent  photomorphogenic and developmental signaling pathways.', '2010 Mar', 'Plant Cell', '10.1105/tpc.109.065946', 'Irish']
+
+AP3: !regulates! BNQ1 
+PI: !regulates! BNQ1 
+BNQ1: !heterodimerizes with! bHLH 
+BNQ3: !regulates! light responses 
+AP3: !downstream of! BNQ3 
+BNQ: !regulates! HFR1 
+BNQ: !required for! flowering time

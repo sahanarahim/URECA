@@ -1,0 +1,9 @@
+['11786543', 'The E2F transcription factors are key components of the cyclin  D/retinoblastoma/E2F pathway. Here we demonstrate that Arabidopsis thaliana  contains six functional AtE2F genes that are all expressed in cell suspension  culture but show different patterns of expression during cell cycle progression.  According to their structural and functional features, the six AtE2Fs can be  divided into two distinct groups; although the three members of the first group,  AtE2Fa, AtE2Fb and AtE2Fc, possess all the conserved domains found in other plant  and animal E2Fs, the remaining AtE2Fs are novel proteins, which reveal a  duplication of the DNA binding domain but lack any other conserved region.  Furthermore, the AtE2Fs of the first group are functional transcription factors  that in association with AtDP proteins can recognize specifically an E2F  cis-element and can transactivate an E2F-responsive reporter gene in plant cells.  In contrast, the AtE2Fs of the second group can bind specifically the E2F site  without interacting with DP partners but cannot activate gene expression and,  instead, are able to inhibit E2F-dependent activation of gene expression in  Arabidopsis cells. These findings suggest distinctive roles for the plant E2F  proteins and point to a complex concerted regulation of E2F-dependent gene  expression in plant cells.', '2002 Mar 22', 'J Biol Chem', '10.1074/jbc.M110616200', 'Albani']
+
+AtE2Fa: !interacts with! AtDP 
+AtE2Fb: !interacts with! AtDP 
+AtE2Fc: !interacts with! AtDP 
+AtE2Fs: !duplicate! DNA binding domain 
+AtE2Fs: !recognize! E2F cis-element 
+AtE2Fs: !transactivate! E2F-responsive reporter gene 
+AtE2Fs: !inhibit! E2F-dependent activation of gene expression

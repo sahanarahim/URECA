@@ -1,0 +1,7 @@
+['30082764', 'In plants and animals, nucleotide-binding leucine-rich repeat (NLR) proteins  serve as intracellular immune receptors. Defence signalling by NLRs often  requires the formation of NLR heteropairs. Our knowledge of the molecular  mechanism regulating this process is limited. In a reverse genetic screen to  identify the partner of the Arabidopsis typical NLR, SUPRESSOR OF NPR1,  CONSTITUTIVE 1 (SNC1), we discovered three NLRs that are redundantly required for  SNC1-mediated defence, which were named SIDEKICK SNC1 1 (SIKIC1), SIKIC2 and  SIKIC3. Immunoprecipitation-mass spectrometry analyses revealed that SIKIC2  physically associates with SNC1. We also uncovered that the protein level of  SIKIC2 is under the control of two previously uncharacterized redundant E3  ubiquitin ligases MUSE1 and MUSE2. As SNC1 accumulation has previously been shown  to be regulated by the E3 ubiquitin ligase SCF(CPR1), this report provides  evidence that the homeostasis of individual components of partnered typical NLRs  is subjected to differential regulation via ubiquitin-mediated protein  degradation.', '2018 Sep', 'Nat Plants', '10.1038/s41477-018-0216-8', 'ORCID:']
+
+NLR: !forms! heteropairs 
+SIKIC2: !associates with! SNC1 
+MUSE1: !regulates! SIKIC2 
+MUSE2: !regulates! SIKIC2 
+SCF(CPR1): !regulates! SNC1

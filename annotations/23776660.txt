@@ -1,0 +1,11 @@
+['23776660', 'The CLAVATA (CLV) signaling pathway is essential for shoot meristem homeostasis  in Arabidopsis. CLV acts to limit the expression domain of the stem  cell-promoting gene WUSCHEL (WUS). The closely related receptor-kinases CLV1 and  BAM1 are key components in this pathway; however, the downstream factors that  link the receptors to WUS regulation are poorly understood. The Arabidopsis gene  At5g65480 was recently identified as a direct transcriptional target up-regulated  by WUS. We have independently identified this gene which we term CCI1 as a CLV1  and BAM1 interacting protein in vitro and in transient expression. CCI1 has  phosphatidylinositide-binding activity in vitro and localizes to the plasma  membrane in transient expression. Furthermore, CLV signaling components and CCI1  both partition to detergent-resistant membrane microdomains characterized as  lipid rafts.', '2013', 'PLoS One', '10.1371/journal.pone.0066345', 'Clark']
+
+CLV: !limits! WUS
+CLV1: !interacts with! BAM1
+At5g65480: !up-regulated by! WUS
+CCI1: !interacts with! CLV1 
+CCI1: !interacts with! BAM1
+CCI1: !binds! phosphatidylinositide
+CCI1: !localizes to! plasma membrane
+CLV signaling components: !partition to! lipid rafts
+CCI1: !partition to! lipid rafts

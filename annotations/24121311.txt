@@ -1,0 +1,12 @@
+['24121311', 'Elucidating molecular links between cell-fate regulatory networks and dynamic  patterning modules is a key for understanding development. Auxin is important for  plant patterning, particularly in roots, where it establishes positional  information for cell-fate decisions. PIN genes encode plasma membrane proteins  that serve as auxin efflux transporters; mutations in members of this gene family  exhibit smaller roots with altered root meristems and stem-cell patterning.  Direct regulators of PIN transcription have remained elusive. Here, we establish  that a MADS-box gene (XAANTAL2, XAL2/AGL14) controls auxin transport via PIN  transcriptional regulation during Arabidopsis root development; mutations in this  gene exhibit altered stem-cell patterning, root meristem size, and root growth.  XAL2 is necessary for normal shootward and rootward auxin transport, as well as  for maintaining normal auxin distribution within the root. Furthermore, this  MADS-domain transcription factor upregulates PIN1 and PIN4 by direct binding to  regulatory regions and it is required for PIN4-dependent auxin response. In turn,  XAL2 expression is regulated by auxin levels thus establishing a positive  feedback loop between auxin levels and PIN regulation that is likely to be  important for robust root patterning.', '2013 Oct 30', 'EMBO J', '10.1038/emboj.2013.216', 'Alvarez-Buylla']
+
+XAL2/AGL14: !regulates! PIN transcription
+XAL2/AGL14: !binds to! regulatory regions
+PIN genes: !encode! auxin efflux transporters
+Auxin: !establishes! positional information
+Mutations in PIN genes: !exhibit! altered root meristems
+XAL2: !upregulates! PIN1 and PIN4
+Auxin levels: !regulate! XAL2 expression
+Auxin levels: !maintain! normal auxin distribution
+XAL2: !required for! shootward and rootward auxin transport
+Positive feedback loop: !established between! auxin levels and PIN regulation

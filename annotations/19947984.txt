@@ -1,0 +1,10 @@
+['19947984', 'The facilitates chromatin transcription (FACT) complex, consisting of the SSRP1  and SPT16 proteins, is a histone chaperone that assists the progression of  transcribing RNA polymerase on chromatin templates by destabilizing nucleosomes.  Here, we examined plants that harbour mutations in the genes encoding the  subunits of Arabidopsis FACT. These experiments revealed that (i) SSRP1 is  critical for plant viability, and (ii) plants with reduced amounts of SSRP1 and  SPT16 display various defects in vegetative and reproductive development. Thus,  mutant plants display an increased number of leaves and inflorescences, show  early bolting, have abnormal flower and leaf architecture, and their seed  production is severely affected. The early flowering of the mutant plants is  associated with reduced expression of the floral repressor FLC in ssrp1 and spt16  plants. Compared to control plants, reduced amounts of FACT in mutant plants are  detected at the FLC locus as well as at the locations of housekeeping genes  (whose expression is not affected in the mutants), suggesting that expression of  FLC is particularly sensitive to reduced FACT activity. Analysis of double  mutants that are affected in the expression of both FACT subunits and factors  catalysing the mono-ubiquitination of histone H2B (HUB1/2) demonstrates that they  genetically interact to regulate various developmental processes (i.e. branching,  leaf venation pattern, silique development) but independently regulate the growth  of leaves and the induction of flowering.', '2010 Feb', 'Plant J', '10.1111/j.1365-313X.2009.04096.x', 'Grasser']
+
+SSRP1: !affects! Plant viability 
+SPT16: !affects! Plant viability 
+FACT: !destabilizes! Nucleosomes 
+ssrp1/spt16: !causes! Early bolting 
+ssrp1/spt16: !reduces! FLC expression 
+FACT: !regulates! Housekeeping genes 
+HUB1/2: !interacts with! FACT 
+HUB1/2: !regulates! Branching, leaf venation pattern, silique development

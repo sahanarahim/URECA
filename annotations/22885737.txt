@@ -1,0 +1,8 @@
+['22885737', 'Diverse stresses such as high salt conditions cause an increase in reactive  oxygen species (ROS), necessitating a redox stress response. However, little is  known about the signaling pathways that regulate the antioxidant system to  counteract oxidative stress. Here, we show that a Glycogen Synthase Kinase3 from  Arabidopsis thaliana (ASKalpha) regulates stress tolerance by activating  Glc-6-phosphate dehydrogenase (G6PD), which is essential for maintaining the  cellular redox balance. Loss of stress-activated ASKalpha leads to reduced G6PD  activity, elevated levels of ROS, and enhanced sensitivity to salt stress.  Conversely, plants overexpressing ASKalpha have increased G6PD activity and low  levels of ROS in response to stress and are more tolerant to salt stress. ASKalpha  stimulates the activity of a specific cytosolic G6PD isoform by phosphorylating  the evolutionarily conserved Thr-467, which is implicated in cosubstrate binding.  Our results reveal a novel mechanism of G6PD adaptive regulation that is critical  for the cellular stress response.', '2012 Aug', 'Plant Cell', '10.1105/tpc.112.101279', 'Jonak']
+
+ASKalpha: !activates! G6PD 
+ASKalpha: !phosphorylates! Thr-467 
+Loss of ASKalpha: !leads to! Reduced G6PD activity 
+Overexpression of ASKalpha: !increases! G6PD activity 
+G6PD: !maintains! Cellular redox balance 
+G6PD: !implicated in! Cosubstrate binding

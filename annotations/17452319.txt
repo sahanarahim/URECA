@@ -1,0 +1,9 @@
+['17452319', 'In this study we characterize two novel chloroplast SufE-like proteins from  Arabidopsis thaliana. Other SufE-like proteins, including the previously  described A. thaliana CpSufE, participate in sulfur mobilization for Fe-S  biosynthesis through activation of cysteine desulfurization by NifS-like  proteins. In addition to CpSufE, the Arabidopsis genome encodes two other  proteins with SufE domains, SufE2 and SufE3. SufE2 has plastid targeting  information. Purified recombinant SufE2 could activate the cysteine desulfurase  activity of CpNifS 40-fold. SufE2 expression was flower-specific and high in  pollen; we therefore hypothesize that SufE2 has a specific function in pollen  Fe-S cluster biosynthesis. SufE3, also a plastid targeted protein, was expressed  at low levels in all major plant organs. The mature SufE3 contains two domains,  one SufE-like and one with similarity to the bacterial quinolinate synthase,  NadA. Indeed SufE3 displayed both SufE activity (stimulating CpNifS cysteine  desulfurase activity 70-fold) and quinolinate synthase activity. The full-length  protein was shown to carry a highly oxygen-sensitive (4Fe-4S) cluster at its NadA  domain, which could be reconstituted by its own SufE domain in the presence of  CpNifS, cysteine and ferrous iron. Knock-out of SufE3 in Arabidopsis is  embryolethal. We conclude that SufE3 is the NadA enzyme of A. thaliana, involved  in a critical step during NAD biosynthesis.', '2007 Jun 22', 'J Biol Chem', '10.1074/jbc.M701428200', 'Pilon']
+
+SufE2: !localizes to! plastid 
+SufE2: !activates! CpNifS 
+SufE3: !contains! SufE-like and NadA domains 
+SufE3: !synthesizes! quinolinate 
+SufE3: !enhances! CpNifS cysteine desulfurase activity 
+SufE3: !reconstitutes! 4Fe-4S cluster 
+SufE3: !represses! NAD biosynthesis

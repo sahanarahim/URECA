@@ -1,0 +1,9 @@
+['25663622', 'Brassinosteroids (BRs) play important roles in plant development and the response  to environmental cues. BIL1/BZR1 is a master transcription factor in BR  signaling, but the mechanisms that lead to the finely tuned targeting of  BIL1/BZR1 by BRs are unknown. Here, we identified BRZ-SENSITIVE-SHORT HYPOCOTYL1  (BSS1) as a negative regulator of BR signaling in a chemical-biological analysis  involving brassinazole (Brz), a specific BR biosynthesis inhibitor. The bss1-1D  mutant, which overexpresses BSS1, exhibited a Brz-hypersensitive phenotype in  hypocotyl elongation. BSS1 encodes a BTB-POZ domain protein with ankyrin repeats,  known as BLADE ON PETIOLE1 (BOP1), which is an important regulator of leaf  morphogenesis. The bss1-1D mutant exhibited an increased accumulation of  phosphorylated BIL1/BZR1 and a negative regulation of BR-responsive genes. The  number of fluorescent BSS1/BOP1-GFP puncta increased in response to Brz  treatment, and the puncta were diffused by BR treatment in the root and  hypocotyl. We show that BSS1/BOP1 directly interacts with BIL1/BZR1 or BES1. The  large protein complex formed between BSS1/BOP1 and BIL1/BZR1 was only detected in  the cytosol. The nuclear BIL1/BZR1 increased in the BSS1/BOP1-deficient  background and decreased in the BSS1/BOP1-overexpressing background. Our study  suggests that the BSS1/BOP1 protein complex inhibits the transport of BIL1/BZR1  to the nucleus from the cytosol and negatively regulates BR signaling.', '2015 Feb', 'Plant Cell', '10.1105/tpc.114.131508', 'Nakano']
+
+BR: !activates! BIL1/BZR1 
+BSS1: !inhibits! BR signaling 
+BSS1: !encodes! BOP1 
+BOP1: !regulates! leaf morphogenesis 
+BSS1/BOP1: !interacts with! BIL1/BZR1 
+BSS1/BOP1: !inhibits! transport of BIL1/BZR1 to nucleus 
+BSS1/BOP1: !negatively regulates! BR signaling

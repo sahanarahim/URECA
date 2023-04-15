@@ -1,0 +1,7 @@
+['29463779', 'The plant canopy functions as an aerial array of light-harvesting antennas. To  achieve maximal yield, each leaf within this array and the array as a whole need  to rapidly adjust to naturally occurring fluctuations in light intensity and  quality. Excessive light stress triggers the closing of pores in leaves called  stomata to minimize moisture loss. We found that different leaves within the  canopy of an Arabidopsis thaliana plant, including leaves not directly exposed to  light, coordinated stomatal closure in response to light stress by sending and  receiving rapid systemic signals. This response required the plant hormones  abscisic acid and jasmonic acid and was mediated by a rapid autopropagating wave  of reactive oxygen species (ROS) production. Furthermore, this response depended  on the function of genes encoding the ROS-generating NADPH oxidase RBOHD and  various stomatal regulators, such as the anion channel SLAC1, GHR1 (guard cell  hydrogen peroxide resistant 1), and lipoxygenase 1 (LOX1). Our findings reveal  that plants function as highly dynamic and coordinated organisms, optimizing the  overall response of their canopies to fluctuating light intensities.', '2018 Feb 20', 'Sci Signal', '10.1126/scisignal.aam9514', 'ORCID:']
+
+RBOHD: !generates! ROS
+ABA/JA: !regulate! RBOHD
+SLAC1: !mediates! ABA/JA
+GHR1: !mediates! ABA/JA
+LOX1: !mediates! ABA/JA

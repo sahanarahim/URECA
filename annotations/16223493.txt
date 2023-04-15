@@ -1,0 +1,6 @@
+['16223493', 'Regulated intramembrane proteolysis (RIP) is a fundamental mechanism for  controlling a wide range of cellular functions. The Drosophila protein Rhomboid-1  (Rho-1) is an intramembrane serine protease that cleaves epidermal growth factor  receptor (EGFR) ligands to release active growth factors. Despite differences in  the primary structure of Rhomboid proteins, the proteolytic activity and  substrate specificity of these enzymes has been conserved in diverse organisms.  Here, we show that an Arabidopsis Rhomboid protein AtRBL2 has proteolytic  activity and substrate specificity. AtRBL2 cleaved the Drosophila ligands Spitz  and Keren, but not similar proteins like TGFalpha, when expressed in mammalian  cells, leading to the release of soluble ligands into the medium. These studies  provide the first evidence that the determinants of RIP are present in plants.', '2005 Oct 24', 'FEBS Lett', '10.1016/j.febslet.2005.09.049', 'Okada']
+
+Rho-1: !cleaves! EGFR ligands 
+AtRBL2: !cleaves! Spitz and Keren 
+AtRBL2: !does not cleave! TGFalpha 
+AtRBL2: !releases! soluble ligands

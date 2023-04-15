@@ -1,0 +1,14 @@
+['18093929', 'The C-repeat-binding factor (CBF)/dehydration-responsive element-binding factor  (DREB1) proteins constitute a small family of Arabidopsis transcriptional  activators (CBF1/DREB1B, CBF2/DREB1C, and CBF3/DREB1A) that play a prominent role  in cold acclimation. A fundamental question about these factors that remains to  be answered is whether they are functionally equivalent. Recently, we reported  that CBF2 negatively regulates CBF1 and CBF3 expression, and that CBFs are  subjected to different temporal regulation during cold acclimation, which  suggested this might not be the case. In this study, we have analyzed the  expression of CBF genes in different tissues of Arabidopsis, during development  and in response to low temperature, and characterized RNA interference (RNAi) and  antisense lines that fail to accumulate CBF1 or/and CBF3 mRNAs under cold  conditions. We found that CBF1 and CBF3 are regulated in a different way than  CBF2. Moreover, in contrast to CBF2, CBF1 and CBF3 are not involved in regulating  other CBF genes and positively regulate cold acclimation by activating the same  subset of CBF-target genes. All these results demonstrate that CBF1 and CBF3 have  different functions than CBF2. We also found that the CBF regulon is composed of  at least two different kind of genes, one of them requiring the simultaneous  expression of both CBF1 and CBF3 to be properly induced. This indicates that CBF1  and CBF3 have a concerted additive effect to induce the whole CBF regulon and the  complete development of cold acclimation.', '2007 Dec 26', 'Proc Natl Acad Sci U S A', '10.1073/pnas.0705639105', 'Salinas']
+
+CBF1/DREB1B: !regulates! CBF2 
+CBF2: !regulates! CBF1/DREB1B 
+CBF1/DREB1B: !temporally regulated differently than! CBF2 
+CBF1/DREB1B: !not involved in regulating! other CBF genes 
+CBF1/DREB1B: !positively regulates! cold acclimation 
+CBF1/DREB1B: !additive effect with! CBF3 
+CBF3/DREB1A: !regulates! CBF2 
+CBF2: !regulates! CBF3/DREB1A 
+CBF3/DREB1A: !temporally regulated differently than! CBF2 
+CBF3/DREB1A: !not involved in regulating! other CBF genes 
+CBF3/DREB1A: !positively regulates! cold acclimation 
+CBF3/DREB1A: !additive effect with! CBF1

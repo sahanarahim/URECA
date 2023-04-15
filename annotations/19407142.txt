@@ -1,0 +1,7 @@
+['19407142', 'Type 2C protein phosphatases (PP2Cs) are vitally involved in abscisic acid (ABA)  signaling. Here, we show that a synthetic growth inhibitor called pyrabactin  functions as a selective ABA agonist. Pyrabactin acts through PYRABACTIN  RESISTANCE 1 (PYR1), the founding member of a family of START proteins called  PYR/PYLs, which are necessary for both pyrabactin and ABA signaling in vivo. We  show that ABA binds to PYR1, which in turn binds to and inhibits PP2Cs. We  conclude that PYR/PYLs are ABA receptors functioning at the apex of a negative  regulatory pathway that controls ABA signaling by inhibiting PP2Cs. Our results  illustrate the power of the chemical genetic approach for sidestepping genetic  redundancy.', '2009 May 22', 'Science', '10.1126/science.1173041', 'Cutler']
+
+PYR1: !binds to! ABA 
+PYR1: !inhibits! PP2Cs 
+ABA: !activates! PYR1 
+PYR/PYLs: !function as! ABA receptors 
+PP2Cs: !are inhibited by! PYR1

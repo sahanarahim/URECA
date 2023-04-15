@@ -1,0 +1,8 @@
+['20525852', 'ABSCISIC ACID INSENSITIVE3 (ABI3) is a major regulator of seed maturation in  Arabidopsis thaliana. We detected two ABI3 transcripts, ABI3-alpha and ABI3-beta,  which encode full-length and truncated proteins, respectively. Alternative  splicing of ABI3 is developmentally regulated, and the ABI3-beta transcript  accumulates at the end of seed maturation. The two ABI3 transcripts differ by the  presence of a cryptic intron in ABI3-alpha, which is spliced out in ABI3-beta.  The suppressor of abi3-5 (sua) mutant consistently restores wild-type seed  features in the frameshift mutant abi3-5 but does not suppress other abi3 mutant  alleles. SUA is a conserved splicing factor, homologous to the human protein  RBM5, and reduces splicing of the cryptic ABI3 intron, leading to a decrease in  ABI3-beta transcript. In the abi3-5 mutant, ABI3-beta codes for a functional ABI3  protein due to frameshift restoration.', '2010 Jun', 'Plant Cell', '10.1105/tpc.110.074674', 'Soppe']
+
+ABI3: !encodes! ABI3-alpha and ABI3-beta
+ABI3-alpha: !contains! cryptic intron
+ABI3-beta: !accumulates! at end of seed maturation
+SUA: !reduces! splicing of cryptic ABI3 intron
+SUA: !restores! wild-type seed features in abi3-5 mutant
+RBM5: !homologous to! SUA

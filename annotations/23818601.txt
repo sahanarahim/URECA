@@ -1,0 +1,17 @@
+['23818601', 'The light-harvesting complexes of plants have evolved the ability to switch  between efficient light harvesting and quenching forms to optimize photosynthesis  in response to the environment. Several distinct mechanisms, collectively termed  "nonphotochemical quenching" (NPQ), provide flexibility in this response. Here we  report the isolation and characterization of a mutant, suppressor of quenching 1  (soq1), that has high NPQ even in the absence of photosystem II subunit S (PsbS),  a protein that is necessary for the rapidly reversible component of NPQ. The  formation of NPQ in soq1 was light intensity-dependent, and it exhibited slow  relaxation kinetics and other characteristics that distinguish it from known NPQ  components. Treatment with chemical inhibitors or an uncoupler, as well as  crosses to mutants known to affect other NPQ components, showed that the NPQ in  soq1 does not require a transthylakoid pH gradient, zeaxanthin formation, or the  phosphorylation of light-harvesting complexes, and it appears to be unrelated to  the photosystem II damage-and-repair cycle. Measurements of pigments and  chlorophyll fluorescence lifetimes indicated that the additional NPQ in soq1 is  the result of a decrease in chlorophyll excited-state lifetime and not pigment  bleaching. The SOQ1 gene was isolated by map-based cloning, and it encodes a  previously uncharacterized thylakoid membrane protein with thioredoxin-like and  beta-propeller domains located in the lumen and a haloacid-dehalogenase domain  exposed to the chloroplast stroma. We propose that the role of SOQ1 is to prevent  formation of a slowly reversible form of antenna quenching, thereby maintaining  the efficiency of light harvesting.', '2013 Jul 16', 'Proc Natl Acad Sci U S A', '10.1073/pnas.1305443110', 'Niyogi']
+
+PsbS: !regulates! NPQ 
+soq1: !exhibits! high NPQ 
+chemical inhibitors: !affects! NPQ in soq1 
+uncoupler: !affects! NPQ in soq1 
+mutants: !affects! other NPQ components 
+transthylakoid pH gradient: !affects! NPQ in soq1 
+zeaxanthin formation: !affects! NPQ in soq1 
+phosphorylation of light-harvesting complexes: !affects! NPQ in soq1 
+photosystem II damage-and-repair cycle: !affects! NPQ in soq1 
+pigments: !indicate! decrease in chlorophyll excited-state lifetime 
+chlorophyll fluorescence lifetimes: !indicate! decrease in chlorophyll excited-state lifetime 
+SOQ1 gene: !encodes! thylakoid membrane protein 
+thioredoxin-like domain: !localizes to! lumen 
+beta-propeller domain: !localizes to! lumen 
+halo

@@ -1,0 +1,8 @@
+['18710496', 'BACKGROUND: In Arabidopsis six genes group into the gene family of the organic  cation transporters (OCTs). In animals the members of the OCT-family are mostly  characterized as polyspecific transporters involved in the homeostasis of  solutes, the transport of monoamine neurotransmitters and the transport of  choline and carnitine. In plants little is known about function, localisation and  regulation of this gene family. Only one protein has been characterized as a  carnitine transporter at the plasma membrane so far. FINDINGS: We localized the  five uncharacterized members of the Arabidopsis OCT family, designated OCT2-OCT6,  via GFP fusions and protoplast transformation to the tonoplast. Expression  analysis with RNA Gel Blots showed a distinct, organ-specific expression pattern  of the individual genes. With reporter gene fusion of four members we analyzed  the tissue specific distribution of OCT2, 3, 4, and 6. In experiments with salt,  drought and cold stress, we could show that AtOCT4, 5 and 6 are up-regulated  during drought stress, AtOCT3 and 5 during cold stress and AtOCT 5 and 6 during  salt stress treatments. CONCLUSION: Localisation of the proteins at the tonoplast  and regulation of the gene expression under stress conditions suggests a specific  role for the transporters in plant adaptation to environmental stress.', '2008 Jul 11', 'BMC Res Notes', '10.1186/1756-0500-1-43', 'Koch']
+
+OCTs: !localize to! tonoplast 
+OCTs: !express in! organ-specific pattern 
+AtOCT4, 5 and 6: !up-regulate during! drought stress 
+AtOCT3 and 5: !up-regulate during! cold stress 
+AtOCT5 and 6: !up-regulate during! salt stress 
+OCTs: !suggest role in! plant adaptation to environmental stress

@@ -1,0 +1,7 @@
+['25468978', 'Metallochaperones traffic copper (Cu(+)) from its point of entry at the plasma  membrane to its destination. In plants, one destination is the chloroplast, which  houses plastocyanin, a Cu-dependent electron transfer protein involved in  photosynthesis. We present a previously unidentified Cu(+) chaperone that evolved  early in the plant lineage by an alternative-splicing event of the pre-mRNA  encoding the chloroplast P-type ATPase in Arabidopsis 1 (PAA1). In several land  plants, recent duplication events created a separate chaperone-encoding gene  coincident with loss of alternative splicing. The plant-specific Cu(+) chaperone  delivers Cu(+) with specificity for PAA1, which is flipped in the envelope  relative to prototypical bacterial ATPases, compatible with a role in Cu(+)  import into the stroma and consistent with the canonical catalytic mechanism of  these enzymes. The ubiquity of the chaperone suggests conservation of this  Cu(+)-delivery mechanism and provides a unique snapshot into the evolution of a  Cu(+) distribution pathway. We also provide evidence for an interaction between  PAA2, the Cu(+)-ATPase in thylakoids, and the Cu(+)-chaperone for Cu/Zn  superoxide dismutase (CCS), uncovering a Cu(+) network that has evolved to  fine-tune Cu(+) distribution.', '2014 Dec 16', 'Proc Natl Acad Sci U S A', '10.1073/pnas.1421545111', 'Merchant']
+
+Metallochaperones: !traffic! Cu(+) 
+PAA1: !receives! Cu(+) 
+PAA2: !interacts with! Cu(+)-chaperone 
+Cu(+)-chaperone: !delivers! Cu(+) 
+Cu/Zn superoxide dismutase (CCS): !receives! Cu(+)

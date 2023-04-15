@@ -1,0 +1,11 @@
+['10781110', 'Metal cation homeostasis is essential for plant nutrition and resistance to toxic  heavy metals. Many plant metal transporters remain to be identified at the  molecular level. In the present study, we have isolated AtNramp cDNAs from  Arabidopsis and show that these genes complement the phenotype of a metal uptake  deficient yeast strain, smf1. AtNramps show homology to the Nramp gene family in  bacteria, yeast, plants, and animals. Expression of AtNramp cDNAs increases  Cd(2+) sensitivity and Cd(2+) accumulation in yeast. Furthermore, AtNramp3 and  AtNramp4 complement an iron uptake mutant in yeast. This suggests possible roles  in iron transport in plants and reveals heterogeneity in the functional  properties of Nramp transporters. In Arabidopsis, AtNramps are expressed in both  roots and aerial parts under metal replete conditions. Interestingly, AtNramp3  and AtNramp4 are induced by iron starvation. Disruption of the AtNramp3 gene  leads to slightly enhanced cadmium resistance of root growth. Furthermore,  overexpression of AtNramp3 results in cadmium hypersensitivity of Arabidopsis  root growth and increased accumulation of Fe, on Cd(2+) treatment. Our results  show that Nramp genes in plants encode metal transporters and that AtNramps  transport both the metal nutrient Fe and the toxic metal cadmium.', '2000 Apr 25', 'Proc Natl Acad Sci U S A', '10.1073/pnas.97.9.4991', 'Schroeder']
+
+AtNramp: !complements! smf1 phenotype 
+AtNramp: !increases! Cd(2+) sensitivity 
+AtNramp: !complements! iron uptake mutant 
+AtNramp: !expressed in! roots & aerial parts 
+AtNramp: !induced by! iron starvation 
+AtNramp3: !leads to! enhanced cadmium resistance 
+AtNramp3: !results in! cadmium hypersensitivity 
+AtNramp3: !increases! Fe accumulation 
+AtNramps: !transport! metal nutrient Fe & toxic metal cadmium

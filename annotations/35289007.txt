@@ -1,0 +1,9 @@
+['35289007', 'Cellulose is the main structural component in the plant cell walls. We show that  two glycosyltransferase family 31 (GT31) enzymes of Arabidopsis thaliana, here  named cellulose synthesis associated glycosyltransferases 1 and 2 (CAGE1 and 2),  influence both primary and secondary cell wall cellulose biosynthesis. cage1cage2  mutants show primary cell wall defects manifesting as impaired growth and cell  expansion in seedlings and etiolated hypocotyls, along with secondary cell wall  defects, apparent as collapsed xylem vessels and reduced xylem wall thickness in  the inflorescence stem. Single and double cage mutants also show increased  sensitivity to the cellulose biosynthesis inhibitor isoxaben. The cage1cage2  phenotypes were associated with an approximately 30% reduction in cellulose  content, an approximately 50% reduction in secondary cell wall CELLULOSE SYNTHASE  (CESA) protein levels in stems and reduced cellulose biosynthesis rate in  seedlings. CESA transcript levels were not significantly altered in cage1cage2  mutants, suggesting that the reduction in CESA levels was caused by a  post-transcriptional mechanism. Both CAGE1 and 2 localize to the Golgi apparatus  and are predicted to synthesize beta-1,3-galactans on arabinogalactan proteins. In  line with this, the cage1cage2 mutants exhibit reduced levels of beta-Yariv binding  to arabinogalactan protein linked beta-1,3-galactan. This leads us to hypothesize  that defects in arabinogalactan biosynthesis underlie the cellulose deficiency of  the mutants.', '2022 Jun', 'Plant J', '10.1111/tpj.15734', 'ORCID:']
+
+CAGE1: !synthesizes! beta-1,3-galactans 
+CAGE2: !synthesizes! beta-1,3-galactans 
+CAGE1: !localizes to! Golgi apparatus 
+CAGE2: !localizes to! Golgi apparatus 
+Cellulose: !repressed by! CAGE1 & CAGE2 
+CESA: !repressed by! CAGE1 & CAGE2 
+beta-Yariv: !reduced binding to! arabinogalactan protein linked beta-1,3-galactan
