@@ -103,7 +103,7 @@ def search():
                     for k in genes[i][j]:
                         if j.strip()!='' and i.strip()!='':
                             forSending.append(Gene(i, j, k[1], k[2], 'Yes'))
-                            elements.append({"source": j, "target": i, "interaction": k[1]})
+                            elements.append({"source": i, "target": j, "interaction": k[1]})
             
     cytoscape_js_code = generate_cytoscape_js(elements)
     if forSending!=[]:
