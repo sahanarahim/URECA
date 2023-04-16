@@ -33,26 +33,31 @@ def generate_cytoscape_js(elements):
           {{
             selector: 'node',
             style: {{
-              'background-color': '#666',
+              'background-color': '#6FB1FC', // Node background color
               'label': 'data(id)',
+              'color': '#000000', // Node label text color
+              'text-opacity': 1, // Node label text opacity (0-1)
               'font-size': '6px',
               'text-halign': 'center',
               'text-valign': 'center',
               'text-wrap': 'wrap',
-              'text-max-width': 100
+              'text-max-width': 50
             }},
           }},
     
           {{
             selector: 'edge',
             style: {{
-              'width': 3,
-              'line-color': '#ccc',
+              'width': 2,
+              'line-color': '#A9A9A9', // Edge line color
+              'curve-style': 'bezier', // Edge curve style
               'target-arrow-color': '#ccc',
               'target-arrow-shape': 'triangle',
               'curve-style': 'bezier',
               'label': 'data(interaction)',
               'font-size': '6px',
+              'text-wrap': 'wrap', // Enable edge label text wrapping
+              'text-max-width': 50, // Maximum edge label text width before wrapping (in pixels)
               'text-rotation': 'autorotate',
               'text-margin-x': '5px',
               'text-margin-y': '-5px'
@@ -72,12 +77,11 @@ def generate_cytoscape_js(elements):
 app = Flask(__name__)
 
 class Gene:
-    def __init__(self, id, description, inter_type, publication, frequent):
+    def __init__(self, id, description, inter_type, publication):
         self.id = id
         self.target = description
         self.inter_type = inter_type
         self.publication = publication
-        self.frequent = frequent
 
 @app.route('/')
 def index():
@@ -102,7 +106,7 @@ def search():
                 for j in genes[i]:
                     for k in genes[i][j]:
                         if j.strip()!='' and i.strip()!='':
-                            forSending.append(Gene(i, j, k[1], k[2], 'Yes'))
+                            forSending.append(Gene(i, j, k[1], k[2]))
                             elements.append({"source": i, "target": j, "interaction": k[1]})
             
     cytoscape_js_code = generate_cytoscape_js(elements)
