@@ -89,7 +89,7 @@ def index():
 
 @app.route('/search', methods=['POST'])
 def search():
-    with open('D:/GPT_annotator/allDic', 'rb') as file:
+    with open('allDic', 'rb') as file:
         genes = pickle.load(file)
 
     try:
