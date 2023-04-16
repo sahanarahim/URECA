@@ -69,10 +69,6 @@ def generate_cytoscape_js(elements):
     """
     return script
 
-
-
-
-
 app = Flask(__name__)
 
 class Gene:
@@ -96,29 +92,24 @@ def search():
         my_search = request.form['gene_id']
     except:
         my_search='cesa'
-        
+         
     forSending = []
     elements = []
+
     if len(my_search)>0:
         for i in genes:
             if my_search.upper() in i:
                 for j in genes[i]:
                     for k in genes[i][j]:
-                        if k[0]==1:
+                        if j.strip()!='' and i.strip()!='':
                             forSending.append(Gene(i, j, k[1], k[2], 'Yes'))
                             elements.append({"source": j, "target": i, "interaction": k[1]})
-                        else:
-                            forSending.append(Gene(i, j, k[1], k[2], 'No'))
-                            elements.append({"source": j, "target": i, "interaction": k[1]})
-
             
     cytoscape_js_code = generate_cytoscape_js(elements)
     if forSending!=[]:
         return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code)
     else:
         return render_template('not_found.html')
-
-
 
 if __name__ == '__main__':
     app.run(debug=True)
