@@ -79,6 +79,15 @@
         margin-top: 0;
         font-size: 24px;
       }
+      .future {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 10px 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        font-size: 16px;
+      }
     </style>
   </head>
   <body>
@@ -105,11 +114,22 @@
       <ul>
         <li>Search by gene/molecule/compartment/stress/organ or some other term</li>
 		<li>E.g., you could search for cesa/proline/mitochondria/heat/flower</li>
+		<li>The search engine is very primitive (for now), so 100% match is required</li>
         <li>Use partial search terms to broaden your results (e.g. "CESA" instead of "CESA1")</li>
         <li>Try searching for related terms or synonyms</li>
-        <li>The search engine is very primitive, so 100% match is required</li>
       </ul>
     </div>
+	
+	<div class="future">
+	  <h2>Future:</h2>
+      <ul>
+        <li>Grind through all abstracts from Plant Cell/Physiology/Journal and other main journals</li>
+		<li>Date range: 2005-now</li>
+      </ul>
+    </div>
+	<div class="future">
+	  <img src="{{ url_for('static', filename='capture.png') }}" alt="App Screenshot" style="max-width: 100%;">
+	</div>
     <footer>
       &copy; 2023 PlantConnectome @mutwillab
     </footer>

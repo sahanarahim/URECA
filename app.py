@@ -101,16 +101,21 @@ def search():
          
     forSending = []
     elements = []
-
+    
     if len(my_search)>0:
         for i in genes:
-            if my_search.upper() in i:
+            if my_search.upper() in i:                
+
+
                 for j in genes[i]:
+                    forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
+                    elements.append({"source": j[0], "target": j[2], "interaction": j[1]})
+                    '''
                     for k in genes[i][j]:
                         if j.strip()!='' and i.strip()!='':
-                            forSending.append(Gene(i, j, k[1], k[2]))
+                            forSending.append(Gene(i, j, k[1], k[2])) #source, target, type
                             elements.append({"source": i, "target": j, "interaction": k[1]})
-            
+                '''
     cytoscape_js_code = generate_cytoscape_js(elements)
     if forSending!=[]:
         return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code)
@@ -124,9 +129,7 @@ if __name__ == '__main__':
     for i in genes:
         items+=1
         for j in genes[i]:
-            for k in genes[i][j]:
-            
-                papers.append(k[2])
+            papers.append(j[3])
     papers = set(papers)    
     print(papers)
     
