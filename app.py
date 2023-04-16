@@ -69,6 +69,7 @@ def generate_cytoscape_js(elements):
           name: 'cose'
         }}
       }});
+
     }}
     );
     """
@@ -85,7 +86,8 @@ class Gene:
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    v = open('stats.txt','r').read().rstrip().split()
+    return render_template('index.html', entities = v[1], papers = v[0])
 
 @app.route('/search', methods=['POST'])
 def search():
@@ -116,4 +118,19 @@ def search():
         return render_template('not_found.html')
 
 if __name__ == '__main__':
+    with open('allDic', 'rb') as file:
+        genes = pickle.load(file)
+    items, papers = 0, []
+    for i in genes:
+        items+=1
+        for j in genes[i]:
+            for k in genes[i][j]:
+            
+                papers.append(k[2])
+    papers = set(papers)    
+    print(papers)
+    
+    v = open('stats.txt','w')
+    v.write(str(len(papers))+'\t'+str(items))
+    v.close()
     app.run(debug=True)

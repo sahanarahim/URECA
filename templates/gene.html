@@ -59,22 +59,43 @@
 	
     </style>
 
-  <script src="https://unpkg.com/cytoscape@3.19.1/dist/cytoscape.min.js"></script>
+  <script src="https://unpkg.com/cytoscape@3.23.0/dist/cytoscape.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+  <script src="https://unpkg.com/cytoscape-cola/cytoscape-cola.js"></script>
+  
   </head>
   <body>
-    <h1>Gene Information</h1>
+    <h1>Pan/zoom with mouse, scroll down on the right side of the page</h1>
 	
-	<div class="cy-wrapper" style="width: 100%; height: 1200px; overflow: hidden;">
+	<div class="cy-wrapper" style="width: 90%; height: 1200px; overflow: hidden;">
 		<div id="cy" style="width: 100%; height: 100%; background-color: white !important;"></div>
 	</div>
 	
+    <button>Render PNG</button>
+	
     <script>
       {{ cytoscape_js_code | safe }}
-	  cy.container().classList.add('cy-viewport');
+	  
+		const cy = cytoscape({
+		  container: document.getElementById('cy'),
+		  // and the rest of the example you already have
+		})
+
+		const btn = document.querySelector('button');
+
+		btn.addEventListener('click', () => {
+		  if (cy) {
+			const base64URI = cy.png();
+			const img = document.createElement('img');
+			img.src = base64URI;
+			document.body.appendChild(img);
+		  } else {
+			console.log('Cytoscape instance is not initialized');
+		  }
+		});
     </script>
+	
 	
     <table class="sortable">
       <thead>
