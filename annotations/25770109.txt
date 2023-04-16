@@ -1,9 +1,0 @@
-['25770109', 'Proper control of immune-related gene expression is crucial for the host to  launch an effective defense response. Perception of microbe-associated molecular  patterns (MAMPs) induces rapid and profound transcriptional reprogramming via  unclear mechanisms. Here, we show that ASR3 (ARABIDOPSIS SH4-RELATED3) functions  as a transcriptional repressor and plays a negative role in regulating  pattern-triggered immunity (PTI) in Arabidopsis thaliana. ASR3 belongs to a  plant-specific trihelix transcription factor family for which functional studies  are lacking. MAMP treatments induce rapid phosphorylation of ASR3 at threonine  189 via MPK4, a mitogen-activated protein kinase that negatively regulates PTI  responses downstream of multiple MAMP receptors. ASR3 possesses transcriptional  repressor activity via its ERF-associated amphiphilic repression motifs and  negatively regulates a large subset of flg22-induced genes. Phosphorylation of  ASR3 by MPK4 enhances its DNA binding activity to suppress gene expression.  Importantly, the asr3 mutant shows enhanced disease resistance to virulent  bacterial pathogen infection, whereas transgenic plants overexpressing the  wild-type or phospho-mimetic form of ASR3 exhibit compromised PTI responses. Our  studies reveal a function of the trihelix transcription factors in plant innate  immunity and provide evidence that ASR3 functions as a transcriptional repressor  regulated by MAMP-activated MPK4 to fine-tune plant immune gene expression.', '2015 Mar', 'Plant Cell', '10.1105/tpc.114.134809', 'Shan']
-
-MAMP: !induces! phosphorylation of ASR3
-MPK4: !phosphorylates! ASR3
-ASR3: !represses! flg22-induced genes
-ASR3: !binds to! DNA
-ASR3: !enhanced by! MPK4
-asr3 mutant: !shows enhanced! disease resistance
-transgenic plants: !overexpressing! wild-type/phospho-mimetic form of ASR3 !exhibit compromised! PTI responses

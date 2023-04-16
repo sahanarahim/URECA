@@ -1,9 +1,0 @@
-['26979383', 'ATP synthases in chloroplasts (cpATPase) and mitochondria (mtATPase) are  responsible for ATP production during photosynthesis and oxidative  phosphorylation, respectively. Both enzymes consist of two multisubunit  complexes, the membrane-bound coupling factor O and the soluble coupling factor  1. During cpATPase biosynthesis, several accessory factors facilitate subunit  production and orchestrate complex assembly. Here, we describe a new auxiliary  protein in Arabidopsis thaliana, which is required for cpATPase accumulation.  AtCGLD11 (CONSERVED IN THE GREEN LINEAGE AND DIATOMS 11) is a protein without any  known functional domain and shows dual localization to chloroplasts and  mitochondria. Loss of AtCGLD11 function results in reduced levels of cpATPase and  impaired photosynthetic performance with lower rates of ATP synthesis. In yeast  two-hybrid experiments, AtCGLD11 interacts with the beta subunits of the cpATPase  and mtATPase. Our results suggest that AtCGLD11 functions in F1 assembly during  cpATPase biogenesis, while its role in mtATPase biosynthesis may not, or not yet,  be essential.', '2016 Jun 6', 'Mol Plant', '10.1016/j.molp.2016.03.002', 'Ruhle']
-
-cpATPase: !produces! ATP 
-AtCGLD11: !facilitates! cpATPase production 
-AtCGLD11: !localizes to! chloroplasts and mitochondria 
-AtCGLD11: !interacts with! beta subunits of cpATPase and mtATPase 
-Loss of AtCGLD11: !reduces! cpATPase levels 
-Loss of AtCGLD11: !impairs! photosynthetic performance 
-Loss of AtCGLD11: !lowers! rates of ATP synthesis

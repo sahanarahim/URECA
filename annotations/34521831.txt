@@ -1,7 +1,0 @@
-['34521831', 'Cell homeostasis is perturbed when dramatic shifts in the external environment  cause the physical-chemical properties inside the cell to change. Experimental  approaches for dynamically monitoring these intracellular effects are currently  lacking. Here, we leverage the environmental sensitivity and structural  plasticity of intrinsically disordered protein regions (IDRs) to develop a FRET  biosensor capable of monitoring rapid intracellular changes caused by osmotic  stress. The biosensor, named SED1, utilizes the Arabidopsis intrinsically  disordered AtLEA4-5 protein expressed in plants under water deficit.  Computational modeling and in vitro studies reveal that SED1 is highly sensitive  to macromolecular crowding. SED1 exhibits large and near-linear  osmolarity-dependent changes in FRET inside living bacteria, yeast, plant, and  human cells, demonstrating the broad utility of this tool for studying  water-associated stress. This study demonstrates the remarkable ability of IDRs  to sense the cellular environment across the tree of life and provides a  blueprint for their use as environmentally-responsive molecular tools.', '2021 Sep 14', 'Nat Commun', '10.1038/s41467-021-25736-8', 'ORCID:']
-
-AtLEA4-5: !synthesizes! SED1 
-SED1: !monitors! intracellular changes 
-osmotic stress: !causes! physical-chemical property changes 
-IDRs: !sense! cellular environment 
-SED1: !exhibits! osmolarity-dependent FRET changes

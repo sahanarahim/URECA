@@ -1,8 +1,0 @@
-['34144927', 'The Arabidopsis thaliana RPD3-type histone deacetylases have been known to form  conserved SIN3-type histone deacetylase complexes, but whether they form other  types of complexes is unknown. Here, we perform affinity purification followed by  mass spectrometry and demonstrate that the Arabidopsis RPD3-type histone  deacetylases HDA6 and HDA19 interact with several previously uncharacterized  proteins, thereby forming three types of plant-specific histone deacetylase  complexes, which we named SANT, ESANT, and ARID. RNA-seq indicates that the newly  identified components function together with HDA6 and HDA19 and coregulate the  expression of a number of genes. HDA6 and HDA19 were previously thought to  repress gene transcription by histone deacetylation. We find that the histone  deacetylase complexes can repress gene expression via both histone  deacetylation-dependent and -independent mechanisms. In the mutants of histone  deacetylase complexes, the expression of a number of stress-induced genes is  up-regulated, and several mutants of the histone deacetylase complexes show  severe retardation in growth. Considering that growth retardation is thought to  be a trade-off for an increase in stress tolerance, we infer that the histone  deacetylase complexes identified in this study prevent overexpression of  stress-induced genes and thereby ensure normal growth of plants under nonstress  conditions.', '2021 May 20', 'J Genet Genomics', '10.1016/j.jgg.2021.04.004', 'He']
-
-HDA6: !interacts with! HDA19 
-HDA6: !forms! SANT, ESANT, ARID complexes 
-HDA6/HDA19: !coregulate! gene expression 
-HDA6/HDA19: !repress! gene transcription 
-HDA6/HDA19: !prevent overexpression of! stress-induced genes 
-HDA6/HDA19: !ensure! normal growth

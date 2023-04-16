@@ -1,8 +1,0 @@
-['25381317', 'Plants, which are sessile unlike most animals, have evolved a system to reduce  growth under stress; however, the molecular mechanisms of this stress response  are not well known. During programmed development, a fraction of the leaf  epidermal precursor cells become meristemoid mother cells (MMCs), which are stem  cells that produce both stomatal guard cells and epidermal pavement cells. Here  we report that Arabidopsis plants, in response to osmotic stress,  post-transcriptionally decrease the protein level of SPEECHLESS, the  transcription factor promoting MMC identity, through the action of a  mitogen-activated protein kinase (MAPK) cascade. The growth reduction under  osmotic stress was lessened by inhibition of the MAPK cascade or by a mutation  that disrupted the MAPK target amino acids in SPEECHLESS, indicating that  Arabidopsis reduces growth under stress by integrating the osmotic stress signal  into the MAPK-SPEECHLESS core developmental pathway.', '2014 Dec', 'Plant Cell Physiol', '10.1093/pcp/pcu159', 'Kakimoto']
-
-MAPK: !activates! SPEECHLESS 
-SPEECHLESS: !promotes! MMC identity 
-osmotic stress: !activates! MAPK cascade 
-MAPK cascade: !represses! SPEECHLESS 
-inhibition of MAPK cascade: !lessens! growth reduction under osmotic stress 
-mutation disrupting MAPK target amino acids in SPEECHLESS: !lessens! growth reduction under osmotic stress

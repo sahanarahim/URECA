@@ -1,7 +1,0 @@
-['26863186', 'Sexual reproduction requires recognition between the male and female gametes. In  flowering plants, the immobile sperms are delivered to the ovule-enclosed female  gametophyte by guided pollen tube growth. Although the female  gametophyte-secreted peptides have been identified to be the chemotactic  attractant to the pollen tube, the male receptor(s) is still unknown. Here we  identify a cell-surface receptor heteromer, MDIS1-MIK, on the pollen tube that  perceives female attractant LURE1 in Arabidopsis thaliana. MDIS1, MIK1 and MIK2  are plasma-membrane-localized receptor-like kinases with extracellular  leucine-rich repeats and an intracellular kinase domain. LURE1 specifically binds  the extracellular domains of MDIS1, MIK1 and MIK2, whereas mdis1 and mik1 mik2  mutant pollen tubes respond less sensitively to LURE1. Furthermore, LURE1  triggers dimerization of the receptors and activates the kinase activity of MIK1.  Importantly, transformation of AtMDIS1 to the sister species Capsella rubella can  partially break down the reproductive isolation barrier. Our findings reveal a  new mechanism of the male perception of the female attracting signals.', '2016 Mar 10', 'Nature', '10.1038/nature16975', 'Yang']
-
-LURE1: !binds! MDIS1, MIK1, MIK2 
-MDIS1, MIK1, MIK2: !perceive! LURE1 
-LURE1: !triggers dimerization of! MDIS1, MIK1, MIK2 
-MIK1: !activates kinase activity of! LURE1 
-AtMDIS1: !transforms to! Capsella rubella

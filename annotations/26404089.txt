@@ -1,7 +1,0 @@
-['26404089', 'The phytohormone abscisic acid (ABA) is important for growth, development and  stress responses in plants. Recent research has identified ABA receptors and  signalling components that regulate seed germination and stomatal closure.  However, proteins that regulate ABA signalling remain poorly understood. Here we  use a forward-genetic screen to identify rbm25-1 and rbm25-2, two Arabidopsis  mutants with increased sensitivity to growth inhibition by ABA. Using RNA-seq, we  found that RBM25 controls the splicing of many pre-mRNAs. The protein phosphatase  2C HAB1, a critical component in ABA signalling, shows a dramatic defect in  pre-mRNA splicing in rbm25 mutants. Ectopic expression of a HAB1 complementary  DNA derived from wild-type mRNAs partially suppresses the rbm25-2 mutant  phenotype. We suggest that RNA splicing is of particular importance for plant  response to ABA and that the splicing factor RBM25 has a critical role in this  response.', '2015 Sep 25', 'Nat Commun', '10.1038/ncomms9139', 'Zhu']
-
-ABA: !regulates! seed germination and stomatal closure
-RBM25: !controls! pre-mRNA splicing
-HAB1: !critical component in! ABA signalling
-RBM25: !affects! HAB1 pre-mRNA splicing
-Ectopic expression of HAB1: !partially suppresses! rbm25-2 mutant phenotype

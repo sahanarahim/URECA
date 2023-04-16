@@ -1,8 +1,0 @@
-['11889039', 'In Arabidopsis, phytochrome A (phyA) is the primary photoreceptor mediating  various plant responses to far-red (FR) light. Here we show that phyA signaling  involves a combinatorial action of downstream intermediates, which controls  overlapping yet distinctive sets of FR responses. FHY3 is a prominent phyA  signaling intermediate sharing structural similarity to FAR1, a previously  identified phyA signaling component. The fhy3 and far1 mutants display similar  yet distinctive defects in phyA signaling; however, overexpression of either FHY3  or FAR1 suppresses the mutant phenotype of both genes. Moreover, overexpression  of partial fragments of FHY3 can cause a dominant-negative interference phenotype  on phyA signaling that is stronger than those of the fhy3 or far1 null mutants.  Further, we demonstrate that FHY3 and FAR1 are capable of homo- and  hetero-interaction. Our data indicate that FHY3, together with FAR1, defines a  key module in a signaling network underlying phyA-mediated FR light responses.', '2002 Mar 15', 'EMBO J', '10.1093/emboj/21.6.1339', 'Deng']
-
-phyA: !mediates! plant responses
-FHY3: !shares similarity with! FAR1
-fhy3: !displays similar yet distinctive defects to! far1
-FHY3: !suppresses! far1 mutant phenotype
-FHY3: !causes dominant-negative interference on! phyA signaling
-FHY3: !interacts with! FAR1

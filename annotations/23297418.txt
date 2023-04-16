@@ -1,7 +1,0 @@
-['23297418', 'Chloroplast membrane lipid synthesis relies on the import of glycerolipids from  the ER. The TGD (TriGalactosylDiacylglycerol) proteins are required for this  lipid transfer process. The TGD1, -2, and -3 proteins form a putative ABC  (ATP-binding cassette) transporter transporting ER-derived lipids through the  inner envelope membrane of the chloroplast, while TGD4 binds phosphatidic acid  (PtdOH) and resides in the outer chloroplast envelope. We identified two  sequences in TGD4, amino acids 1-80 and 110-145, which are necessary and  sufficient for PtdOH binding. Deletion of both sequences abolished PtdOH binding  activity. We also found that TGD4 from 18:3 plants bound specifically and with  increased affinity PtdOH. TGD4 did not interact with other proteins and formed a  homodimer both in vitro and in vivo. Our results suggest that TGD4 is an integral  dimeric beta-barrel lipid transfer protein that binds PtdOH with its N terminus and  contains dimerization domains at its C terminus.', '2013 Feb 15', 'J Biol Chem', '10.1074/jbc.M112.438986', 'Benning']
-
-TGD1: !forms! ABC transporter 
-TGD4: !binds! PtdOH 
-TGD4: !interacts with! itself 
-TGD4: !contains! dimerization domains 
-18:3 plants: !increases affinity of! TGD4 for PtdOH

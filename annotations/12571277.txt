@@ -1,8 +1,0 @@
-['12571277', 'The lue1 mutant was previously isolated in a bio-imaging screen for Arabidopsis  mutants exhibiting inappropriate regulation of an AtGA20ox1 promoter-luciferase  reporter fusion. Here we show that lue1 is allelic to fra2, bot1 and erh3, and  encodes a truncated katanin-like microtubule-severing protein (AtKSS).  Complementation of lue1 with the wild-type AtKSS gene restored both wild-type  stature and luciferase reporter levels. Hormonal responses of lue1 to ethylene  and gibberellins revealed inappropriate cortical microtubule reorientation during  cell growth. Moreover, a fusion between the AtKSS protein and GFP decorated  cortical microtubules. A yeast two-hybrid screen with AtKSS as the bait  identified proteins related to those involved in microtubule processing,  including a katanin p80 subunit and a kinesin ortholog. These results indicate  that AtKSS is involved in microtubule dynamics in response to plant hormones.', '2003 Mar 1', 'J Cell Sci', '10.1242/jcs.00274', 'Mundy']
-
-lue1: !allelic to! fra2, bot1, erh3
-AtKSS: !encodes! truncated katanin-like microtubule-severing protein
-AtKSS: !complements! lue1
-AtKSS: !responds to! ethylene, gibberellins
-AtKSS: !decorates! cortical microtubules
-AtKSS: !interacts with! katanin p80 subunit, kinesin ortholog

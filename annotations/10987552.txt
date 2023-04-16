@@ -1,9 +1,0 @@
-['10987552', "Germin-like proteins (GLPs) are ubiquitous plant proteins encoded by diverse  multigene families. It is not known whether they share germin's unusual  biochemical properties and oxalate oxidase activity. Using specific antibodies,  we have studied three GLPs (AtGER1. AtGER2 and AtGER3) in Arabidopsis thaliana  (L.) Heynh. as well as in transgenic tobacco (Nicotiana tabacum L.) plants  overexpressing these proteins. Like wheat ( Triticum aestivum L.) germin, these  Arabidopsis GLPs are associated with the extracellular matrix (ECM) and they also  seem to exist as two glycosylated isoforms. However, none of them is an oxalate  oxidase. Although GLPs display several conserved features, each has its specific  characteristics. Both AtGER2 and AtGER3 are oligomeric proteins that share  germin's resistance to pepsin and to dissociation by heat and SDS. In contrast,  AtGER1 seems to exist as a monomer. The GLPs may interact with the ECM in a  variety of ways, since each is efficiently extracted by different conditions. In  addition, germins and GLPs all bind Cibacron Blue, a dye often but not  exclusively used for the purification of enzymes having nucleotide cofactors. In  the case of AtGER2, binding to the dye is so tight that it almost allows a  one-step purification of this protein. The variety of sequences, expression  patterns and biochemical features indicates that GLPs could be a class of  receptors localized in the ECM and involved in physiological and developmental  processes as well as stress response.", '2000 Aug', 'Planta', '10.1007/s004250000277', 'Berna']
-
-AtGER1: !exists as! monomer 
-AtGER2/AtGER3: !exist as! oligomers 
-AtGER2/AtGER3: !resistant to! pepsin 
-AtGER2/AtGER3: !resistant to! heat/SDS 
-AtGER2/AtGER3/germin: !binds! Cibacron Blue 
-GLPs: !localized in! ECM 
-GLPs: !involved in! physiological/developmental processes/stress response

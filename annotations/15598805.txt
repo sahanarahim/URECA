@@ -1,9 +1,0 @@
-['15598805', 'The Arabidopsis thaliana genome contains five class III homeodomain-leucine  zipper genes. We have isolated loss-of-function alleles for each family member  for use in genetic analysis. This gene family regulates apical embryo patterning,  embryonic shoot meristem formation, organ polarity, vascular development, and  meristem function. Genetic analyses revealed a complex pattern of overlapping  functions, some of which are not readily inferred by phylogenetic relationships  or by gene expression patterns. The PHABULOSA and PHAVOLUTA genes perform  overlapping functions with REVOLUTA, whereas the PHABULOSA, PHAVOLUTA, and  CORONA/ATHB15 genes perform overlapping functions distinct from REVOLUTA.  Furthermore, ATHB8 and CORONA encode functions that are both antagonistic to  those of REVOLUTA within certain tissues and overlapping with REVOLUTA in other  tissues. Differences in expression patterns explain some of these genetic  interactions, whereas other interactions are likely attributable to differences  in protein function as indicated by cross-complementation studies.', '2005 Jan', 'Plant Cell', '10.1105/tpc.104.026161', 'Clark']
-
-PHABULOSA: !overlaps with! REVOLUTA
-PHAVOLUTA: !overlaps with! REVOLUTA
-PHABULOSA: !overlaps with! PHAVOLUTA
-PHAVOLUTA: !overlaps with! CORONA/ATHB15
-CORONA/ATHB15: !overlaps with! PHABULOSA
-ATHB8: !antagonizes! REVOLUTA
-CORONA/ATHB15: !antagonizes! REVOLUTA

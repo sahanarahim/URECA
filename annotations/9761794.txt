@@ -1,8 +1,0 @@
-['9761794', 'We have identified the function of the Arabidopsis DIMINUTO/DWARF1 (DIM/DWF1)  gene by analyzing the dim mutant, a severe dwarf with greatly reduced fertility.  Both the mutant phenotype and gene expression could be rescued by the addition of  exogenous brassinolide. Analysis of endogenous sterols demonstrated that dim  accumulates 24-methylenecholesterol but is deficient in campesterol, an early  precursor of brassinolide. In addition, we show that dim is deficient in  brassinosteroids as well. Feeding experiments using deuterium-labeled  24-methylenecholesterol and 24-methyldesmosterol confirmed that DIM/DWF1 is  involved in both the isomerization and reduction of the Delta24(28) bond. This  conversion is not required in cholesterol biosynthesis in animals but is a key  step in the biosynthesis of plant sterols. Transient expression of a green  fluorescent protein-DIM/DWF1 fusion protein and biochemical experiments showed  that DIM/DWF1 is an integral membrane protein that most probably is associated  with the endoplasmic reticulum.', '1998 Oct', 'Plant Cell', '10.1105/tpc.10.10.1677', 'Chua']
-
-DIM/DWF1: !synthesizes! brassinolide 
-DIM/DWF1: !converts! 24-methylenecholesterol 
-dim: !accumulates! 24-methylenecholesterol 
-dim: !deficient in! campesterol 
-dim: !deficient in! brassinosteroids 
-DIM/DWF1: !associated with! endoplasmic reticulum

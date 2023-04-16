@@ -1,8 +1,0 @@
-['21294795', 'The nuclear envelope (NE) is a highly active structure with a specific set of  nuclear envelope proteins acting in diverse cellular events. SUN proteins are  conserved NE proteins among eukaryotes. Although they form nucleocytoplasmic  linkage complexes in metazoan cells, their functions in the plant kingdom are  unknown. To understand the function of plant SUN proteins, in this study we first  investigated the dynamics of Arabidopsis SUN proteins during mitosis in  Arabidopsis roots and cultured cells. For this purpose, we performed dual and  triple visualization of these proteins, microtubules, chromosomes, and  endoplasmic reticulum (ER) in cultured cells, and observed their dynamics during  mitosis using a high-speed spinning disk confocal microscope. The localizations  of SUN proteins changed dynamically during mitosis, tightly coupled with NE  dynamics. Moreover, NE re-formation marked with SUN proteins is temporally and  spatially coordinated with plant-specific microtubule structures such as  phragmoplasts. Finally, the analysis with gene knockdowns of AtSUN1 and AtSUN2  indicated that they are necessary for the maintenance and/or formation of  polarized nuclear shape in root hairs. These results suggest that Arabidopsis SUN  proteins function in the maintenance or formation of nuclear shape as components  of the nucleocytoskeletal complex.', '2011 May', 'Plant J', '10.1111/j.1365-313X.2011.04523.x', 'Fukuda']
-
-AtSUN1: !maintains/forms! Nuclear shape 
-AtSUN2: !maintains/forms! Nuclear shape 
-AtSUN proteins: !coordinate with! NE dynamics 
-AtSUN proteins: !coordinate with! Plant-specific microtubule structures 
-NE: !dynamically changes! During mitosis 
-Microtubules: !form! Phragmoplasts

@@ -1,9 +1,0 @@
-['27577789', 'Abscisic acid (ABA) is an essential hormone for plant development and stress  responses. ABA signaling is suppressed by clade A PP2C phosphatases, which  function as key repressors of this pathway through inhibiting ABA-activated  SnRK2s (SNF1-related protein kinases). Upon ABA perception, the PYR/PYL/RCAR ABA  receptors bind to PP2Cs with high affinity and biochemically inhibit their  activity. While this mechanism has been extensively studied, how PP2Cs are  regulated at the protein level is only starting to be explored. Arabidopsis  thaliana RING DOMAIN LIGASE5 (RGLG5) belongs to a five-member E3 ubiquitin ligase  family whose target proteins remain unknown. We report that RGLG5, together with  RGLG1, releases the PP2C blockade of ABA signaling by mediating PP2CA protein  degradation. ABA promotes the interaction of PP2CA with both E3 ligases, which  mediate ubiquitination of PP2CA and are required for ABA-dependent PP2CA  turnover. Downregulation of RGLG1 and RGLG5 stabilizes endogenous PP2CA and  diminishes ABA-mediated responses. Moreover, the reduced response to ABA in  germination assays is suppressed in the rglg1 amiR (artificial microRNA)-rglg5  pp2ca-1 triple mutant, supporting a functional link among these loci. Overall,  our data indicate that RGLG1 and RGLG5 are important modulators of ABA signaling,  and they unveil a mechanism for activation of the ABA pathway by controlling PP2C  half-life.', '2016 Sep', 'Plant Cell', '10.1105/tpc.16.00364', 'An']
-
-ABA: !inhibits! PP2C 
-PP2C: !inhibited by! ABA 
-RGLG1/RGLG5: !mediates! PP2CA degradation 
-ABA: !promotes! RGLG1/RGLG5 interaction 
-RGLG1/RGLG5: !ubiquitinates! PP2CA 
-RGLG1/RGLG5: !required for! ABA-dependent PP2CA turnover 
-RGLG1/RGLG5: !modulates! ABA signaling

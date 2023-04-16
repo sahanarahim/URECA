@@ -1,7 +1,0 @@
-['15208317', "The Arabidopsis thaliana open reading frame At4g20960 predicts a protein whose  N-terminal part is similar to the eubacterial  2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate deaminase domain. A  synthetic open reading frame specifying a pseudomature form of the plant enzyme  directed the synthesis of a recombinant protein which was purified to apparent  homogeneity and was shown by NMR spectroscopy to convert  2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate into  5-amino-6-ribosylamino-2,4(1H,3H)-pyrimidinedione 5'-phosphate at a rate of 0.9  micromol mg(-1) min(-1). The substrate and product of the enzyme are both subject  to spontaneous anomerization of the ribosyl side chain as shown by (13)C NMR  spectroscopy. The protein contains 1 eq of Zn(2+)/subunit. The deaminase activity  could be assigned to the N-terminal section of the plant protein. The deaminase  domains of plants and eubacteria share a high degree of similarity, in contrast  to deaminases from fungi. These data show that the riboflavin biosynthesis in  plants proceeds by the same reaction steps as in eubacteria, whereas fungi use a  different pathway.", '2004 Aug 27', 'J Biol Chem', '10.1074/jbc.M404406200', 'Bacher']
-
-At4g20960: !synthesizes! recombinant protein 
-recombinant protein: !converts! 2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate 
-recombinant protein: !contains! Zn(2+) 
-plant protein: !shares similarity with! eubacterial deaminase domain 
-fungi: !use different pathway than! plants and eubacteria

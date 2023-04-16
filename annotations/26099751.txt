@@ -1,8 +1,0 @@
-['26099751', "Alternative polyadenylation (APA) is a widespread mechanism for gene regulation  and has been implicated in flowering, but the molecular basis governing the  choice of a specific poly(A) site during the vegetative-to-reproductive growth  transition remains unclear. Here we characterize HLP1, an hnRNP A/B protein as a  novel regulator for pre-mRNA 3'-end processing in Arabidopsis. Genetic analysis  reveals that HLP1 suppresses Flowering Locus C (FLC), a key repressor of  flowering in Arabidopsis. Genome-wide mapping of HLP1-RNA interactions indicates  that HLP1 binds preferentially to A-rich and U-rich elements around cleavage and  polyadenylation sites, implicating its role in 3'-end formation. We show HLP1 is  significantly enriched at transcripts involved in RNA metabolism and flowering.  Comprehensive profiling of the poly(A) site usage reveals that HLP1 mutations  cause thousands of poly(A) site shifts. A distal-to-proximal poly(A) site shift  in the flowering regulator FCA, a direct target of HLP1, leads to upregulation of  FLC and delayed flowering. Our results elucidate that HLP1 is a novel factor  involved in 3'-end processing and controls reproductive timing via targeting APA.", '2015 Jul', 'Cell Res', '10.1038/cr.2015.77', 'Cao']
-
-HLP1: !suppresses! FLC 
-HLP1: !binds to! A-rich/U-rich elements 
-HLP1: !enriches! transcripts involved in RNA metabolism/flowering 
-HLP1: !causes! poly(A) site shifts 
-HLP1: !upregulates! FCA 
-FCA: !leads to! upregulation of FLC

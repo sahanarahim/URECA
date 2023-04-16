@@ -1,9 +1,0 @@
-['14688296', 'The requirement of CUL1 for Arabidopsis embryogenesis suggests that  Skp1-CUL1-F-box protein (SCF) complexes play important roles during embryo  development. Among the 21 Arabidopsis Skp1-like genes (ASKs), it is unknown which  ASK gene(s) is essential for embryo development. In this study, we demonstrate a  vital role for ASK1 and ASK2 in Arabidopsis embryogenesis and postembryonic  development through analysis of the ask1 ask2 double mutant. Our detailed  analysis indicates that the double mutations in both ASK1 and ASK2 affect cell  division and cell expansion/elongation and cause a developmental delay during  embryogenesis and lethality in seedling growth. The expression patterns of ASK1  and ASK2 were examined further and found to be consistent with their roles in  embryogenesis and seedling development. We propose that mutations in ASK1 and  ASK2 abolish all of the ASK1- and ASK2-based SCF and non-SCF complexes, resulting  in alteration of gene expression and leading to defects in growth and  development.', '2004 Jan', 'Plant Cell', '10.1105/tpc.017772', 'Xie']
-
-CUL1: !requires! SCF complexes
-ASK1: !affects! embryogenesis
-ASK2: !affects! embryogenesis
-ASK1: !affects! seedling growth
-ASK2: !affects! seedling growth
-ASK1: !regulates! gene expression
-ASK2: !regulates! gene expression

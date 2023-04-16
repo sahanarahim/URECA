@@ -1,7 +1,0 @@
-['22529749', 'The capacity to respond to day length, photoperiodism, is crucial for flowering  plants to adapt to seasonal change. The photoperiodic control of flowering in  plants is mediated by a long-distance mobile floral stimulus called florigen that  moves from leaves to the shoot apex. Although the proteins encoded by FLOWERING  LOCUS T (FT) in Arabidopsis and its orthologs in other plants are identified as  the long-sought florigen, whether their transport is a simple diffusion process  or under regulation remains elusive. Here we show that an endoplasmic reticulum  (ER) membrane protein, FT-INTERACTING PROTEIN 1 (FTIP1), is an essential  regulator required for FT protein transport in Arabidopsis. Loss of function of  FTIP1 exhibits late flowering under long days, which is partly due to the  compromised FT movement to the shoot apex. FTIP1 and FT share similar mRNA  expression patterns and subcellular localization, and they interact specifically  in phloem companion cells. FTIP1 is required for FT export from companion cells  to sieve elements, thus affecting FT transport through the phloem to the SAM. Our  results provide a mechanistic understanding of florigen transport, demonstrating  that FT moves in a regulated manner and that FTIP1 mediates FT transport to  induce flowering.', '2012', 'PLoS Biol', '10.1371/journal.pbio.1001313', 'Yu']
-
-FT: !interacts with! FTIP1
-FTIP1: !regulates! FT transport
-FTIP1: !localizes to! ER membrane
-FTIP1: !enhances! FT export from companion cells
-FTIP1: !affects! FT transport through phloem

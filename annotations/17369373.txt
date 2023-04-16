@@ -1,8 +1,0 @@
-['17369373', 'Crosstalk between salicylic acid (SA) and jasmonic acid (JA) signaling is  well-studied but not during leaf senescence. We found that the  senescence-specific WRKY53 transcription factor interacts with the JA-inducible  protein EPITHIOSPECIFYING SENESCENCE REGULATOR (ESR/ESP). The expression of these  genes is antagonistically regulated in response to JA and SA, respectively, and  each negatively influences the other. Leaf senescence is accelerated in ESR  knockout plants (ESR-KO) but retarded in ESR overexpressors (ESR-OE), with the  reverse true for WRKY53. ESR-OE showed higher resistance than ESR-KO to bacterial  and fungal pathogens. However, pathogen resistance was not altered in WRKY53  overexpressors or knockouts (W53-KO), suggesting that ESR has a greater impact on  WRKY53 function in senescence than WRKY53 on ESR function in pathogen resistance.  ESR inhibits WRKY53 DNA binding in vitro, and their interaction is localized to  the nucleus in vivo; however, ESR is exclusively in the cytoplasm in W53-KO  cells, indicating that ESR is brought to the nucleus by the interaction.  Therefore, ESR has dual functions: as cytoplasmic epithiospecifier and as  negative regulator of WRKY53 in the nucleus. These results suggest that WRKY53  and ESR mediate negative crosstalk between pathogen resistance and senescence,  which is most likely governed by the JA and SA equilibrium.', '2007 Mar', 'Plant Cell', '10.1105/tpc.106.042705', 'Zentgraf']
-
-WRKY53: !interacts with! ESR 
-ESR: !inhibits! WRKY53 
-ESR: !localizes to! nucleus 
-ESR: !enhances! pathogen resistance 
-WRKY53: !represses! ESR 
-ESR: !synthesizes! epithiospecifier

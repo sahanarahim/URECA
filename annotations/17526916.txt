@@ -1,8 +1,0 @@
-['17526916', 'eer4 was isolated as an Arabidopsis mutant with an extreme response to ethylene  in dark-grown seedlings that was also found to have partial ethylene  insensitivity at the level of ethylene-dependent gene expression, including ERF1.  Subsequent cloning of eer4 revealed an inappropriate stop codon in a previously  uncharacterized TFIID-interacting transcription factor homologous to human TAF12  and yeast TAF61. Genetic and pharmacological analysis demonstrated that the eer4  phenotype is strictly ethylene dependent in seedlings, yet a double mutant with  the partially ethylene-insensitive Arabidopsis mutant, ein3-1, had restored  ethylene responsiveness, indicating that eer4 also regulates a previously unknown  resetting or dampening mechanism for the ethylene signalling pathway. Consistent  with the absolute requirement of EER4 for ERF1 expression, biochemical analysis  showed that EER4 is localized to the nucleus where it probably recruits EIN3 and  probably other transcription factors along with components of the TFIID complex  for expression of a subset of genes required for either manifestation or  subsequent dampening of the response to ethylene.', '2007', 'J Exp Bot', '10.1093/jxb/erm080', 'Larsen']
-
-eer4: !affects! ethylene-dependent gene expression 
-eer4: !interacts with! TFIID complex 
-eer4: !localizes to! nucleus 
-eer4: !enhances! ERF1 expression 
-eer4: !represses! ethylene responsiveness 
-eer4: !synthesizes! subset of genes

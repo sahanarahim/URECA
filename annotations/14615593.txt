@@ -1,8 +1,0 @@
-['14615593', 'Phytochrome kinase substrate1 (PKS1) is a cytoplasmic protein that interacts  physically with, and is phosphorylated by, the plant photoreceptor phytochrome.  Here, we show that light transiently increases PKS1 mRNA levels and concentrates  its expression to the elongation zone of the hypocotyl and root. This response is  mediated by phytochrome A (phyA) acting in the very low fluence response (VLFR)  mode. In the hypocotyl, PKS1 RNA and protein accumulation are maintained only  under prolonged incubation in far-red light, the wavelength that most effectively  activates phyA. Null mutants of PKS1 and its closest homolog, PKS2, show enhanced  phyA-mediated VLFR. Notably, a pks1 pks2 double mutant has no phenotype, whereas  overexpression of either PKS1 or PKS2 results in the same phenotype as the pks1  or pks2 single null mutant. We propose that PKS1 and PKS2 are involved in a  growth regulatory loop that provides homeostasis to phyA signaling in the VLFR.  In accordance with this idea, PKS1 effects are larger in the pks2 background (and  vice versa). Moreover, the two proteins can interact with each other, and PKS2  negatively regulates PKS1 protein levels specifically under VLFR conditions.', '2003 Dec', 'Plant Cell', '10.1105/tpc.014563', 'Fankhauser']
-
-phyA: !activates! PKS1 
-PKS1: !interacts with! phyA 
-PKS1: !localizes to! hypocotyl and root 
-PKS1: !enhances! VLFR 
-PKS2: !interacts with! PKS1 
-PKS2: !represses! PKS1

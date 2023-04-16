@@ -1,8 +1,0 @@
-['12628921', 'Ethylene signal transduction involves ETR1, a two-component histidine protein  kinase receptor. ETR1 functions upstream of the negative regulator CTR1. The  similarity of CTR1 to members of the Raf family of mitogen-activated protein  kinase kinase kinases (MAPKKKs) suggested that ethylene signaling in plants  involves a MAPK pathway, but no direct evidence for this has been provided. Here  we show that distinct MAPKs are activated by the ethylene precursor  aminocyclopropane-1-carboxylic acid (ACC) in Medicago and Arabidopsis: In  Medicago, the ACC-activated MAPKs were SIMK and MMK3, while in Arabidopsis MPK6  and another MAPK were identified. Medicago SIMKK specifically mediated  ACC-induced activation of SIMK and MMK3. Transgenic Arabidopsis plants  overexpressing SIMKK have constitutive MPK6 activation and ethylene-induced  target gene expression. SIMKK overexpressor lines resemble ctr1 mutants in  showing a triple response phenotype in the absence of ACC. Whereas MPK6 was not  activated by ACC in etr1 mutants, ein2 and ein3 mutants showed normal activation  profiles. In contrast, ctr1 mutants showed constitutive activation of MPK6. These  data indicate that a MAPK cascade is part of the ethylene signal transduction  pathway in plants.', '2003 Mar 17', 'EMBO J', '10.1093/emboj/cdg131', 'Hirt']
-
-ETR1: !functions upstream of! CTR1
-SIMKK: !mediates ACC-induced activation of! SIMK, MMK3
-MPK6: !activated by! ACC
-SIMKK: !overexpressor lines resemble! ctr1 mutants
-MPK6: !not activated by ACC in! etr1 mutants
-ctr1 mutants: !constitutive activation of! MPK6

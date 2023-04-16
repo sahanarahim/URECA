@@ -1,9 +1,0 @@
-['19166850', 'Oligomeric structures of the four LOV domains in Arabidopsis phototropin1 (phot1)  and 2 (phot2) were studied using crosslinking. Both LOV1 domains of phot1 and  phot2 form a dimer independently on the light conditions, suggesting that the  LOV1 domain can be a stable dimerization site of phot in vivo. In contrast,  phot1-LOV2 is in a monomer-dimer equilibrium and phot2-LOV2 exists as a monomer  in the dark. Blue light-induced a slight increase in the monomer population in  phot1-LOV2, suggesting a possible blue light-inducible dissociation of dimers.  Furthermore, blue light caused a band shift of the phot2-LOV2 monomer. CD spectra  revealed the unfolding of helices and the formation of strand structures. Both  light-induced changes were reversible in the dark.', '2009 Feb 4', 'FEBS Lett', '10.1016/j.febslet.2009.01.019', 'Tokutomi']
-
-phot1-LOV1: !forms! dimer 
-phot2-LOV1: !forms! dimer 
-phot1-LOV2: !exists in! monomer-dimer equilibrium 
-phot2-LOV2: !exists as! monomer 
-blue light: !induces! dissociation of dimers 
-blue light: !causes! band shift of phot2-LOV2 monomer 
-CD spectra: !reveal! unfolding of helices and formation of strand structures

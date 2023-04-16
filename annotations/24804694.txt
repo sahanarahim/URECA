@@ -1,8 +1,0 @@
-['24804694', 'The pollen wall, an essential structure for pollen function, consists of two  layers, an inner intine and an outer exine. The latter is further divided into  sexine and nexine. Many genes involved in sexine development have been reported,  in which the MYB transcription factor Male Sterile 188 (MS188) specifies sexine  in Arabidopsis. However, nexine formation remains poorly understood. Here we  report the knockout of TRANSPOSABLE ELEMENT SILENCING VIA AT-HOOK (TEK) leads to  nexine absence in Arabidopsis. TEK encodes an AT-hook nuclear localized family  protein highly expressed in tapetum during the tetrad stage. Absence of nexine in  tek disrupts the deposition of intine without affecting sexine formation. We find  that ABORTED MICROSPORES directly regulates the expression of TEK and MS188 in  tapetum for the nexine and sexine formation, respectively. Our data show that a  transcriptional cascade in the tapetum specifies the development of pollen wall.', '2014 May 8', 'Nat Commun', '10.1038/ncomms4855', 'Yang']
-
-MS188: !specifies! sexine 
-TEK: !regulates! MS188 
-ABORTED MICROSPORES: !regulates! TEK 
-TEK: !localizes to! nucleus 
-TEK: !synthesizes! nexine 
-MS188: !synthesizes! sexine

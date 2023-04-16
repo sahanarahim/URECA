@@ -1,9 +1,0 @@
-['28918565', 'This work adds a new player, HER2, downstream of the perception of E-2-hexenal, a  green leaf volatile, and shows that E-2-hexenal specifically changes the redox  status of the mitochondria. It is widely accepted that plants produce and respond  to green leaf volatiles (GLVs), but the molecular components involved in  transducing their perception are largely unknown. The GLV E-2-hexenal inhibits  root elongation in seedlings and, using this phenotype, we isolated E-2-hexenal  response (her) Arabidopsis thaliana mutants. Using map-based cloning we  positioned the her2 mutation to the At5g63620 locus, resulting in a phenylalanine  instead of serine on position 223. Knockdown and overexpression lines of HER2  confirmed the role of HER2, which encodes an oxidoreductase, in the  responsiveness to E-2-hexenal. Since E-2-hexenal is a reactive electrophile  species, which are known to influence the redox status of cells, we utilized  redox sensitive GFP2 (roGFP2) to determine the redox status of  E-2-hexenal-treated root cells. Since the signal peptide of HER2 directed mCherry  to the mitochondria, we targeted the expression of roGFP2 to this organelle  besides the cytosol. E-2-hexenal specifically induced a change in the redox  status in the mitochondria. We did not see a difference in the redox status in  her2 compared to wild-type Arabidopsis. Still, the mitochondrial redox status did  not change with Z-3-hexenol, another abundant GLV. These results indicate that  HER2 is involved in transducing the perception of E-2-hexenal, which changes the  redox status of the mitochondria.', '2017 Nov', 'Plant Mol Biol', '10.1007/s11103-017-0659-8', 'Schuurink']
-
-E-2-hexenal: !inhibits! root elongation 
-HER2: !encodes! oxidoreductase 
-E-2-hexenal: !changes! redox status 
-roGFP2: !targeted to! mitochondria 
-E-2-hexenal: !induces! change in redox status 
-her2: !does not affect! redox status 
-Z-3-hexenol: !does not affect! redox status

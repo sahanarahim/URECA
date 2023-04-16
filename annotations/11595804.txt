@@ -1,8 +1,0 @@
-['11595804', "The in vitro DNA binding activity of the Arabidopsis Tag1 transposase (TAG1) was  characterized to determine the mechanism of DNA recognition. In addition to  terminal inverted repeats, the Tag1 element contains four different subterminal  repeats that flank a transcribed region encoding a 729-amino acid protein. A  single site-specific DNA binding domain is located near the N terminus of TAG1,  between residues 21 and 133. This domain binds specifically to the AAACCC and  TGACCC subterminal repeats, found near the 5' and 3' ends of the element,  respectively. The ACCC sequence within these repeats is critical for recognition  because mutations at positions 3, 5, and 6 abolished binding, yet the first two  bases also are important because substitutions at these positions decreased  binding by up to 90%. Weak interaction also occurs with the terminal inverted  repeats, but no binding was observed to the other two 3' subterminal repeat  regions. Sequence analysis of the TAG1 DNA binding domain revealed a C(2)HC zinc  finger motif. Tests for metal dependence showed that DNA binding activity was  inhibited by divalent metal chelators and greatly enhanced by zinc. Furthermore,  mutation of each cysteine residue predicted to be a metal ligand in the C(2)HC  motif abolished DNA binding. Together, these data show that the DNA binding  domain of TAG1 specifically binds to distinct subterminal repeats and contains a  zinc finger.", '2001 Oct', 'Plant Cell', '10.1105/tpc.010149', 'Crawford']
-
-Tag1: !binds to! AAACCC
-Tag1: !binds to! TGACCC
-Tag1: !binds to! terminal inverted repeats
-Tag1: !contains! C(2)HC zinc finger motif
-Tag1: !enhanced by! zinc
-Tag1: !inhibited by! divalent metal chelators

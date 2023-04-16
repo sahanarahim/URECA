@@ -1,7 +1,0 @@
-['11752373', 'Dark-grown transgenic Arabidopsis seedlings expressing the C-terminal domains  (CCT) of the cryptochrome (CRY) blue light photoreceptors exhibit features that  are normally associated only with light-grown seedlings, indicating that the  signaling mechanism of Arabidopsis CRY is mediated through CCT. The phenotypic  properties mediated by CCT are remarkably similar to those of the constitutive  photomorphogenic1 (cop1) mutants. Here we show that Arabidopsis cryptochrome 1  (CRY1) and its C-terminal domain (CCT1) interacted strongly with the COP1  protein. Coimmunoprecipitation studies showed that CRY1 was bound to COP1 in  extracts from both dark- and light-grown Arabidopsis. An interaction also was  observed between the C-terminal domain of Arabidopsis phytochrome B and COP1,  suggesting that phytochrome signaling also proceeds, at least in part, through  direct interaction with COP1. These findings give new insight into the initial  step in light signaling in Arabidopsis, providing a molecular link between the  blue light receptor, CRY1, and COP1, a negative regulator of photomorphogenesis.', '2001 Dec', 'Plant Cell', '10.1105/tpc.010367', 'Cashmore']
-
-CRY1: !interacts with! COP1
-CCT1: !interacts with! COP1
-phytochrome B: !interacts with! COP1
-CRY1: !enhances! photomorphogenesis
-COP1: !represses! photomorphogenesis

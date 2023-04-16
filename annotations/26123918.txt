@@ -1,9 +1,0 @@
-['26123918', 'After transcription, most chloroplast precursor RNAs undergo further  post-transcriptional processing including cleavage, editing, and splicing.  Previous investigation has shown that the cleavage of the rpoA transcript and  most editing sites, including accD-1, are defective in the knockout mutant of  PDM1/SEL1, a PLS-type PPR protein, and that PDM1 is associated with the rpoA  transcript. In this work, we found that the splicing of group II introns in trnK  and ndhA is also affected in pdm1. Co-immunoprecipitation mass spectrometry  experiments were performed to identify proteins that are associated with PDM1. We  obtained 126 non-redundant proteins, of which MORF9 was reported to be involved  in RNA editing in chloroplast. Yeast two-hybrid assays showed that PDM1 interacts  directly with MORF9, MORF2, and MORF8. RNA immunoprecipitation showed that PDM1  associates with the transcripts of trnK and ndhA, as well as accD-1, suggesting  that PDM1 is involved in RNA editing and splicing. Therefore, PDM1 is an  important protein for post-transcriptional regulation in chloroplast.', '2015 Dec', 'Photosynth Res', '10.1007/s11120-015-0171-4', 'Yang']
-
-PDM1: !affects! cleavage of rpoA transcript
-PDM1: !interacts with! MORF9
-PDM1: !interacts with! MORF2
-PDM1: !interacts with! MORF8
-PDM1: !associates with! trnK transcript
-PDM1: !associates with! ndhA transcript
-PDM1: !associates with! accD-1 transcript

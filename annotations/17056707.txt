@@ -1,9 +1,0 @@
-['17056707', 'As part of our analysis of branched-chain amino acid metabolism in plants, we  analyzed the function of Arabidopsis thaliana BRANCHED-CHAIN AMINOTRANSFERASE4  (BCAT4). Recombinant BCAT4 showed high efficiency with Met and its derivatives  and the corresponding 2-oxo acids, suggesting its participation in the chain  elongation pathway of Met-derived glucosinolate biosynthesis. This was  substantiated by in vivo analysis of two BCAT4 T-DNA knockout mutants, in which  Met-derived aliphatic glucosinolate accumulation is reduced by approximately 50%.  The increase in free Met and S-methylmethionine levels in these mutants, together  with in vitro substrate specificity, strongly implicate BCAT4 in catalysis of the  initial deamination of Met to 4-methylthio-2-oxobutyrate. BCAT4 transcription is  induced by wounding and is predominantly observed in the phloem. BCAT4 transcript  accumulation also follows a diurnal rhythm, and green fluorescent protein tagging  experiments and subcellular protein fractions show that BCAT4 is located in the  cytosol. The assignment of BCAT4 to the Met chain elongation pathway documents  the close evolutionary relationship of this pathway to Leu biosynthesis. In  addition to BCAT4, the enzyme methylthioalkylmalate synthase 1 has been recruited  for the Met chain elongation pathway from a gene family involved in Leu  formation. This suggests that the two pathways have a common evolutionary origin.', '2006 Oct', 'Plant Cell', '10.1105/tpc.105.039339', 'Binder']
-
-BCAT4: !catalyzes! Met deamination 
-BCAT4: !localizes to! cytosol 
-BCAT4: !induces! transcription 
-BCAT4: !accumulates! transcript 
-BCAT4: !follows! diurnal rhythm 
-Met chain elongation pathway: !evolutionarily related to! Leu biosynthesis 
-Methylthioalkylmalate synthase 1: !recruited from! gene family involved in Leu formation

@@ -1,8 +1,0 @@
-['15319482', 'BRASSINOSTEROID-INSENSITIVE 1 (BRI1) is a Leu-rich-repeat (LRR) receptor kinase  that functions as a critical component of a transmembrane brassinosteroid (BR)  receptor. It is believed that BRI1 becomes activated through heterodimerization  with BAK1, a similar LRR receptor kinase, in response to BR signal. A yeast  two-hybrid screen using the kinase domain of BRI1 identified an Arabidopsis  thaliana Transthyretin-Like protein (TTL) as a potential BRI1 substrate. TTL  interacts with BRI1 in a kinase-dependent manner in yeast and is phosphorylated  by BRI1 in vitro. TTL displays a similar expression pattern with BRI1 and is  associated with the plasma membrane. Overexpression of the TTL gene results in a  phenotype that was observed in weak bri1 mutants and null bak1 mutants. By  contrast, two T-DNA insertional mutations in the TTL gene promote plant growth  and enhance BR sensitivity. We hypothesized that TTL might directly regulate  certain biochemical activities near the plasma membrane to control plant growth.', '2004 Sep', 'Plant Cell', '10.1105/tpc.104.023903', 'Li']
-
-BRI1: !heterodimerizes with! BAK1
-BRI1: !interacts with! TTL
-TTL: !phosphorylated by! BRI1
-TTL: !associated with! plasma membrane
-TTL: !overexpression of! !promotes plant growth!
-TTL: !mutations in! !enhance BR sensitivity!

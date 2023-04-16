@@ -1,9 +1,0 @@
-['14749726', "Here we report on a lipid-signalling pathway in plants that is downstream of  phosphatidic acid and involves the Arabidopsis protein kinase, AGC2-1, regulated  by the 3'-phosphoinositide-dependent kinase-1 (AtPDK1). AGC2-1 specifically  interacts with AtPDK1 through a conserved C-terminal hydrophobic motif that leads  to its phosphorylation and activation, whereas inhibition of AtPDK1 expression by  RNA interference abolishes AGC2-1 activity. Phosphatidic acid specifically binds  to AtPDK1 and stimulates AGC2-1 in an AtPDK1-dependent manner. AtPDK1 is  ubiquitously expressed in all plant tissues, whereas expression of AGC2-1 is  abundant in fast-growing organs and dividing cells, and activated during re-entry  of cells into the cell cycle after sugar starvation-induced G1-phase arrest.  Plant hormones, auxin and cytokinin, synergistically activate the  AtPDK1-regulated AGC2-1 kinase, indicative of a role in growth and cell division.  Cellular localisation of GFP-AGC2-1 fusion protein is highly dynamic in root  hairs and at some stages confined to root hair tips and to nuclei. The agc2-1  knockout mutation results in a reduction of root hair length, suggesting a role  for AGC2-1 in root hair growth and development.", '2004 Feb 11', 'EMBO J', '10.1038/sj.emboj.7600068', 'Bogre']
-
-AtPDK1: !interacts with! AGC2-1
-AtPDK1: !stimulates! AGC2-1
-Phosphatidic acid: !binds to! AtPDK1
-Auxin: !synergistically activates! AtPDK1-regulated AGC2-1
-Cytokinin: !synergistically activates! AtPDK1-regulated AGC2-1
-GFP-AGC2-1: !localizes to! root hair tips and nuclei
-agc2-1 knockout mutation: !reduces! root hair length

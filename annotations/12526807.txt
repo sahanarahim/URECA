@@ -1,9 +1,0 @@
-['12526807', "Mutations in the Arabidopsis ROS1 locus cause transcriptional silencing of a  transgene and a homologous endogenous gene. In the ros1 mutants, the promoter of  the silenced loci is hypermethylated, which may be triggered by small RNAs  produced from the transgene repeats. The transcriptional silencing in ros1  mutants can be released by the ddm1 mutation or the application of the DNA  methylation inhibitor 5-aza-2'-deoxycytidine. ROS1 encodes an endonuclease III  domain nuclear protein with bifunctional DNA glycosylase/lyase activity against  methylated but not unmethylated DNA. The ros1 mutant shows enhanced sensitivity  to genotoxic agents methyl methanesulfonate and hydrogen peroxide. We suggest  that ROS1 is a DNA repair protein that represses homology-dependent  transcriptional gene silencing by demethylating the target promoter DNA.", '2002 Dec 13', 'Cell', '10.1016/s0092-8674(02)01133-9', 'Zhu']
-
-Mutations: !cause! Transcriptional silencing
-ROS1: !encodes! Endonuclease III domain nuclear protein
-ddm1 mutation: !releases! Transcriptional silencing
-5-aza-2'-deoxycytidine: !inhibits! DNA methylation
-ROS1: !has bifunctional DNA glycosylase/lyase activity against! Methylated DNA
-ROS1: !enhances sensitivity to! Genotoxic agents
-ROS1: !represses! Homology-dependent transcriptional gene silencing

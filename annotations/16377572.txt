@@ -1,8 +1,0 @@
-['16377572', 'The maintenance of stem cells in defined locations is crucial for all  multicellular organisms. Although intrinsic factors and signals for stem cell  fate have been identified in several species, it has remained unclear how these  connect to the ability to reenter the cell cycle that is one of the defining  properties of stem cells. We show that local reduction of expression of the  RETINOBLASTOMA-RELATED (RBR) gene in Arabidopsis roots increases the amount of  stem cells without affecting cell cycle duration in mitotically active cells.  Conversely, induced RBR overexpression dissipates stem cells prior to arresting  other mitotic cells. Overexpression of D cyclins, KIP-related proteins, and E2F  factors also affects root stem cell pool size, and genetic interactions suggest  that these factors function in a canonical RBR pathway to regulate somatic stem  cells. Expression analysis and genetic interactions position RBR-mediated  regulation of the stem cell state downstream of the patterning gene SCARECROW.', '2005 Dec 29', 'Cell', '10.1016/j.cell.2005.09.042', 'Scheres']
-
-RBR: !affects! stem cell pool size 
-SCARECROW: !regulates! RBR 
-D cyclins: !interact with! RBR 
-KIP-related proteins: !interact with! RBR 
-E2F factors: !interact with! RBR 
-RBR: !represses! stem cell state

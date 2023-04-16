@@ -1,8 +1,0 @@
-['25744164', 'Plant immunity requires recognition of pathogen effectors by intracellular NB-LRR  immune receptors encoded by Resistance (R) genes. Most R proteins recognize a  specific effector, but some function in pairs that recognize multiple effectors.  Arabidopsis thaliana TIR-NB-LRR proteins RRS1-R and RPS4 together recognize two  bacterial effectors, AvrRps4 from Pseudomonas syringae and PopP2 from Ralstonia  solanacearum. However, AvrRps4, but not PopP2, is recognized in rrs1/rps4  mutants. We reveal an R gene pair that resembles and is linked to RRS1/RPS4,  designated as RRS1B/RPS4B, which confers recognition of AvrRps4 but not PopP2.  Like RRS1/RPS4, RRS1B/RPS4B proteins associate and activate defence genes upon  AvrRps4 recognition. Inappropriate combinations (RRS1/RPS4B or RRS1B/RPS4) are  non-functional and this specificity is not TIR domain dependent. Distinct  putative orthologues of both pairs are maintained in the genomes of Arabidopsis  thaliana relatives and are likely derived from a common ancestor pair. Our  results provide novel insights into paired R gene function and evolution.', '2015 Mar 6', 'Nat Commun', '10.1038/ncomms7338', 'Jones']
-
-RRS1-R/RPS4: !recognize! AvrRps4/PopP2 
-RRS1B/RPS4B: !recognize! AvrRps4 
-RRS1/RPS4B: !non-functional! 
-RRS1B/RPS4: !non-functional! 
-RRS1-R/RPS4: !activate! defence genes 
-RRS1B/RPS4B: !activate! defence genes

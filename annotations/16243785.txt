@@ -1,6 +1,0 @@
-['16243785', 'The complexity of the plastid transcriptional apparatus (two or three different  RNA polymerases and numerous regulatory proteins) makes it very difficult to  attribute specific function(s) to its individual components. We have  characterized an Arabidopsis T-DNA insertion line disrupting the nuclear gene  coding for one of the six plastid sigma factors (SIG4) that regulate the activity  of the plastid-encoded RNA polymerase PEP. This mutant shows a specific  diminution of transcription of the plastid ndhF gene, coding for a subunit of the  plastid NDH [NAD(P)H dehydrogenase] complex. The absence of another NDH subunit,  i.e. NDHH, and the absence of a chlorophyll fluorescence transient previously  attributed to the activity of the plastid NDH complex indicate a strong  down-regulation of NDH activity in the mutant plants. Results suggest that  plastid NDH activity is regulated on the transcriptional level by an  ndhF-specific plastid sigma factor, SIG4.', '2005', 'Nucleic Acids Res', '10.1093/nar/gki908', 'Lerbs-Mache']
-
-SIG4: !regulates! plastid NDH activity 
-SIG4: !down-regulates! ndhF gene transcription 
-ndhF gene: !codes for! subunit of plastid NDH complex 
-plastid NDH complex: !diminished in! SIG4 mutant plants

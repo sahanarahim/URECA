@@ -1,6 +1,0 @@
-['26512101', 'The biogenesis of microRNAs (miRNAs), which regulate mRNA abundance through  posttranscriptional silencing, comprises multiple well-orchestrated processing  steps. We have identified the Arabidopsis thaliana K homology (KH) domain protein  REGULATOR OF CBF GENE EXPRESSION 3 (RCF3) as a cofactor affecting miRNA  biogenesis in specific plant tissues. MiRNA and miRNA-target levels were reduced  in apex-enriched samples of rcf3 mutants, but not in other tissues.  Mechanistically, RCF3 affects miRNA biogenesis through nuclear interactions with  the phosphatases C-TERMINAL DOMAIN PHOSPHATASE-LIKE1 and 2 (CPL1 and CPL2). These  interactions are essential to regulate the phosphorylation status, and thus the  activity, of the double-stranded RNA binding protein and DICER-LIKE1 (DCL1)  cofactor HYPONASTIC LEAVES1 (HYL1).', '2015 Nov 10', 'Proc Natl Acad Sci U S A', '10.1073/pnas.1512865112', 'ORCID:']
-
-RCF3: !affects! miRNA biogenesis 
-RCF3: !interacts with! CPL1 and CPL2 
-CPL1 and CPL2: !regulate! phosphorylation status of HYL1 
-HYL1: !cofactor of! DCL1

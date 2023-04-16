@@ -1,8 +1,0 @@
-['18291319', 'An in vivo plant screen that allows for the analysis of exogenously applied  substrates against transgenic Arabidopsis lines overexpressing individual  cytochrome P450s has been developed. By deploying this screen with a subset of 91  P450s, we have identified an original substrate for members of the CYP82C  subfamily. The therapeutic compound 8-methoxypsoralen was hydroxylated by plants  overexpressing CYP82C2 or CYP82C4, forming 5-hydroxy-8-methoxypsoralen.  Additionally, plants further modified this product to create a glycosylated  compound, likely the compound 5-O-beta-D-glucopyranosyl-8-methoxypsoralen. The  discovery of adducts of therapeutic compounds demonstrates the potential of this  biocatalysis screening approach to create compounds that may be of  pharmacological value. Additionally, this platform provides a means to expand the  general knowledge base of P450 enzyme/substrate combinations and may provide  valuable tools for a vast array of biocatalytic and bioremediation processes.', '2008 Feb', 'Chem Biol', '10.1016/j.chembiol.2008.01.008', 'Bobzin']
-
-CYP82C2: !hydroxylates! 8-methoxypsoralen
-CYP82C4: !hydroxylates! 8-methoxypsoralen
-5-hydroxy-8-methoxypsoralen: !glycosylated to! 5-O-beta-D-glucopyranosyl-8-methoxypsoralen
-P450s: !screened with! exogenously applied substrates
-P450s: !identify! original substrate
-P450s/substrate combinations: !expand knowledge base of! biocatalysis/bioremediation processes

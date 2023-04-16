@@ -1,6 +1,0 @@
-['24076026', 'Plant cysteine proteinase inhibitors (cystatins) play important roles in plant  defense mechanisms. Some proteins that interact with cystatins may defend against  abiotic stresses. Here, we showed that AtCaN2, a Ca(2+)-dependent nuclease in  Arabidopsis, is transcribed in senescent leaves and stems and interacts with an  Arabidopsis cystatin (AtCYSb) in a yeast two-hybrid screen. The interaction  between AtCYSb and AtCaN2 was confirmed by in vitro pull-down assay and  bimolecular fluorescence complementation. Agarose gel electrophoresis showed that  the nuclease activity of AtCaN2 against lambdaDNA was inhibited by AtCYSb, which  suggests that AtCYSb regulates nucleic acid degradation in cells.', '2013 Nov 1', 'FEBS Lett', '10.1016/j.febslet.2013.09.019', 'Zhang']
-
-AtCaN2: !interacts with! AtCYSb
-AtCYSb: !regulates! nucleic acid degradation
-AtCaN2: !enhances! nuclease activity
-AtCYSb: !inhibits! nuclease activity

@@ -1,8 +1,0 @@
-['27803189', 'Plants progress from a juvenile vegetative phase of development to an adult  vegetative phase of development before they enter the reproductive phase. miR156  has been shown to be the master regulator of the juvenile-to-adult transition in  plants. However, the mechanism of how miR156 is transcriptionally regulated still  remains elusive. In a forward genetic screen, we identified that a mutation in  the SWI2/SNF2 chromatin remodeling ATPase BRAHMA (BRM) exhibited an accelerated  vegetative phase change phenotype by reducing the expression of miR156, which in  turn caused a corresponding increase in the levels of SQUAMOSA PROMOTER BINDING  PROTEIN LIKE genes. BRM regulates miR156 expression by directly binding to the  MIR156A promoter. Mutations in BRM not only increased occupancy of the -2 and +1  nucleosomes proximal to the transcription start site at the MIR156A locus but  also the levels of trimethylated histone H3 at Lys 27. The precocious phenotype  of brm mutant was partially suppressed by a second mutation in SWINGER (SWN), but  not by a mutation in CURLEY LEAF, both of which are key components of the  Polycomb Group Repressive Complex 2 in plants. Our results indicate that BRM and  SWN act antagonistically at the nucleosome level to fine-tune the temporal  expression of miR156 to regulate vegetative phase change in Arabidopsis.', '2016 Dec', 'Plant Physiol', '10.1104/pp.16.01588', 'ORCID:']
-
-miR156: !regulates! juvenile-to-adult transition 
-BRM: !regulates! miR156 expression 
-BRM: !binds to! MIR156A promoter 
-BRM: !increases! occupancy of -2 and +1 nucleosomes 
-BRM: !increases! trimethylated histone H3 at Lys 27 
-SWN: !acts antagonistically with! BRM

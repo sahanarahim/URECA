@@ -1,8 +1,0 @@
-['24127609', 'In flowering plants, light is one of the major environmental stimuli that  determine the timing of the transition from the vegetative to reproductive phase.  In Arabidopsis, phytochrome B (phyB); phyA; cryptochrome 2; and flavin-binding,  KELCH repeat, F-BOX 1 are major photoreceptors that regulate flowering. Unlike  phyA; cryptochrome 2; and flavin-binding, KELCH repeat, F-BOX 1, phyB delays  flowering mainly by destabilizing the CONSTANS (CO) protein, whose reduction  leads to decreased expression of a florigen gene, flowering locus T. However, it  remains unclear how the phyB-mediated CO destabilization is mechanistically  regulated. Here, we identify a unique phytochrome-dependent late-flowering (PHL)  gene, which is mainly involved in the phyB-dependent regulation of flowering.  Plants with mutant phl exhibited a late-flowering phenotype, especially under  long-day conditions. The late-flowering phenotype of the phl mutant was  completely overridden by a phyB mutation, indicating that PHL normally  accelerates flowering by countering the inhibitory effect of phyB on flowering.  Accordingly, PHL physically interacted with phyB both in vitro and in vivo in a  red light-dependent manner. Furthermore, in the presence of phyB under red light,  PHL interacted with CO as well. Taken together, we propose that PHL regulates  photoperiodic flowering by forming a phyB-PHL-CO tripartite complex.', '2013 Oct 29', 'Proc Natl Acad Sci U S A', '10.1073/pnas.1310631110', 'Nagatani']
-
-phyB: !delays! flowering 
-phyB: !destabilizes! CO 
-phyA; cryptochrome 2; and flavin-binding, KELCH repeat, F-BOX 1: !regulate! flowering 
-PHL: !accelerates! flowering 
-PHL: !interacts with! phyB 
-PHL: !interacts with! CO

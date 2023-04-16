@@ -1,8 +1,0 @@
-['18298668', 'Flowering is a major developmental phase change that transforms the fate of the  shoot apical meristem (SAM) from a leaf-bearing vegetative meristem to that of a  flower-producing inflorescence meristem. In Arabidopsis, floral meristems are  specified on the periphery of the inflorescence meristem by the combined  activities of the FLOWERING LOCUS T (FT)-FD complex and the flower meristem  identity gene, LEAFY (LFY). Two redundant functioning homeobox genes, PENNYWISE  (PNY) and POUND-FOOLISH (PNF), which are expressed in the vegetative and  inflorescence SAM, regulate patterning events during reproductive development,  including floral specification. To determine the role of PNY and PNF in the  floral specification network, we characterized the genetic relationship of these  homeobox genes with LFY and FT. Results from this study demonstrate that LFY  functions downstream of PNY and PNF. Ectopic expression of LFY promotes flower  formation in pny pnf plants, while the flower specification activity of ectopic  FT is severely attenuated. Genetic analysis shows that when mutations in pny and  pnf genes are combined with lfy, a synergistic phenotype is displayed that  significantly reduces floral specification and alters inflorescence patterning  events. In conclusion, results from this study support a model in which PNY and  PNF promote LFY expression during reproductive development. At the same time, the  flower formation activity of FT is dependent upon the function of PNY and PNF.', '2008 Jun', 'Plant J', '10.1111/j.1365-313X.2008.03458.x', 'Smith']
-
-FT: !promotes! LFY 
-PNY: !promotes! LFY 
-PNF: !promotes! LFY 
-LFY: !promotes! Flower formation 
-PNY: !regulates! FT 
-PNF: !regulates! FT

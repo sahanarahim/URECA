@@ -1,6 +1,0 @@
-['21954463', 'The dynamic instability of cortical microtubules (MTs) (i.e., their ability to  rapidly alternate between phases of growth and shrinkage) plays an essential role  in plant growth and development. In addition, recent studies have revealed a  pivotal role for dynamic instability in the response to salt stress conditions.  The salt stress response includes a rapid depolymerization of MTs followed by the  formation of a new MT network that is believed to be better suited for surviving  high salinity. Although this initial depolymerization response is essential for  the adaptation to salt stress, the underlying molecular mechanism has remained  largely unknown. Here, we show that the MT-associated protein SPIRAL1 (SPR1)  plays a key role in salt stress-induced MT disassembly. SPR1, a microtubule  stabilizing protein, is degraded by the 26S proteasome, and its degradation rate  is accelerated in response to high salinity. We show that accelerated SPR1  degradation is required for a fast MT disassembly response to salt stress and for  salt stress tolerance.', '2011 Sep', 'Plant Cell', '10.1105/tpc.111.089920', 'Smalle']
-
-SPIRAL1: !degraded by! 26S proteasome
-26S proteasome: !accelerates degradation of! SPIRAL1
-SPIRAL1: !required for! fast MT disassembly
-SPIRAL1: !required for! salt stress tolerance

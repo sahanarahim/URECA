@@ -1,7 +1,0 @@
-['18614710', 'The cellular import of the hormone auxin is a fundamental requirement for the  generation of auxin gradients that control a multitude of plant developmental  processes. The AUX/LAX family of auxin importers, exemplified by AUX1 from  Arabidopsis (Arabidopsis thaliana), has been shown to mediate auxin import when  expressed heterologously. The quantitative nature of the interaction between AUX1  and its transport substrate indole-3-acetic acid (IAA) is incompletely  understood, and we sought to address this in the present investigation. We  expressed AUX1 to high levels in a baculovirus expression system and prepared  membrane fragments from baculovirus-infected insect cells. These membranes proved  suitable for determination of the binding of IAA to AUX1 and enabled us to  determine a K(d) of 2.6 mum, comparable with estimates for the K(m) for IAA  transport. The efficacy of a number of auxin analogues and auxin transport  inhibitors to displace IAA binding from AUX1 has also been determined and can be  rationalized in terms of their physiological effects. Determination of the  parameters describing the initial interaction between a plant transporter and its  hormone ligand provides novel quantitative data for modeling auxin fluxes.', '2008 Sep', 'Plant Physiol', '10.1104/pp.108.122044', 'Kerr']
-
-AUX1: !binds to! IAA 
-IAA: !binds to! AUX1 
-AUX1: !transports! IAA 
-auxin analogues: !displace! IAA binding from AUX1 
-auxin transport inhibitors: !displace! IAA binding from AUX1

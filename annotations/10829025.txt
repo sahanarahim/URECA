@@ -1,9 +1,0 @@
-['10829025', "Fibrillarin is a key nucleolar protein in eukaryotes which associates with box  C/D small nucleolar RNAs (snoRNAs) directing 2'-O-ribose methylation of the rRNA.  In this study we describe two genes in Arabidopsis thaliana, AtFib1 and AtFib2,  encoding nearly identical proteins conserved with eukaryotic fibrillarins. We  demonstrate that AtFib1 and AtFib2 proteins are functional homologs of the yeast  Nop1p (fibrillarin) and can rescue a yeast NOP1-null mutant strain. Surprisingly,  for the first time in plants, we identified two isoforms of a novel box C/D  snoRNA, U60.1f and U60.2f, nested in the fifth intron of AtFib1 and AtFib2.  Interestingly after gene duplication the host intronic sequences completely  diverged, but the snoRNA was conserved, even in other crucifer fibrillarin genes.  We show that the U60f snoRNAs accumulate in seedlings and that their targeted  residue on the 25 S rRNA is methylated. Our data reveal that the three modes of  expression of snoRNAs, single, polycistronic, and intronic, exist in plants and  suggest that the mechanisms directing rRNA methylation, dependent on fibrillarin  and box C/D snoRNAs, are evolutionarily conserved in plants.", '2000 Sep 1', 'J Biol Chem', '10.1074/jbc.M002996200', 'Echeverria']
-
-AtFib1: !encodes! Fibrillarin 
-AtFib2: !encodes! Fibrillarin 
-AtFib1/AtFib2: !contain! U60.1f/U60.2f snoRNA 
-Yeast NOP1-null mutant: !rescued by! AtFib1/AtFib2 proteins 
-U60f snoRNAs: !accumulate in! seedlings 
-U60f snoRNAs: !methylate! 25 S rRNA 
-Fibrillarin: !directs! 2'-O-ribose methylation of rRNA

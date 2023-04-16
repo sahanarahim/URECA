@@ -1,8 +1,0 @@
-['10398719', 'Previously, we have shown that the Arabidopsis det2 (deetiolated2) mutant is  defective in the biosynthesis of brassinosteroids (BR) and that DET2 (a steroid  5alpha-reductase) acts early in the proposed BR biosynthetic pathway. In this  paper we present further biochemical characterization of det2. We have undertaken  metabolic experiments with 2H-labeled substrates of intermediates involved in the  formation of campestanol from campesterol, and quantitative analysis of  intermediates in Arabidopsis wild type and det2. The results of these studies  indicate the early operating steps of BR biosynthesis as: campesterol -->  4-en-3beta-ol --> 4-en-3-one --> 3-one --> campestanol in Arabidopsis, with det2  deficient in the conversion of 4-en-3-one to 3-one. We have also detected these  intermediates in the formation of campestanol from campesterol and their  metabolic conversions using cultured cells of Catharanthus roseus. These studies  confirmed the biosynthetic sequence of events from campesterol to campestanol as  was found in Arabidopsis. As such, the originally proposed biosynthetic pathway  should be modified.', '1999 Jul', 'Plant Physiol', '10.1104/pp.120.3.833', 'Chory']
-
-DET2: !affects! BR biosynthesis 
-campesterol: !converts to! 4-en-3beta-ol 
-4-en-3beta-ol: !converts to! 4-en-3-one 
-4-en-3-one: !converts to! 3-one 
-3-one: !converts to! campestanol 
-DET2: !deficient in! conversion of 4-en-3-one to 3-one

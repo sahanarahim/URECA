@@ -1,8 +1,0 @@
-['23104832', 'Eukaryotic organisms have evolved a set of strategies to safeguard genome  integrity, but the underlying mechanisms remain poorly understood. Here, we  report that asymmetric leaves1/2 enhancer7 (AE7), an Arabidopsis thaliana gene  encoding a protein in the evolutionarily conserved Domain of Unknown Function 59  family, participates in the cytosolic iron-sulfur (Fe-S) cluster assembly (CIA)  pathway to maintain genome integrity. The severe ae7-2 allele is embryo lethal,  whereas plants with the weak ae7 (ae7-1) allele are viable but exhibit highly  accumulated DNA damage that activates the DNA damage response to arrest the cell  cycle. AE7 is part of a protein complex with CIA1, NAR1, and MET18, which are  highly conserved in eukaryotes and are involved in the biogenesis of cytosolic  and nuclear Fe-S proteins. ae7-1 plants have lower activities of the cytosolic  [4Fe-4S] enzyme aconitase and the nuclear [4Fe-4S] enzyme DNA glycosylase ROS1.  Additionally, mutations in the gene encoding the mitochondrial ATP binding  cassette transporter ATM3/ABCB25, which is required for the activity of cytosolic  Fe-S enzymes in Arabidopsis, also result in defective genome integrity similar to  that of ae7-1. These results indicate that AE7 is a central member of the CIA  pathway, linking plant mitochondria to nuclear genome integrity through assembly  of Fe-S proteins.', '2012 Oct', 'Plant Cell', '10.1105/tpc.112.102608', 'Cui']
-
-AE7: !participates in! CIA pathway 
-CIA1/NAR1/MET18: !interact with! AE7 
-ae7-2: !is embryo lethal! 
-ae7-1: !exhibits! DNA damage 
-aconitase/ROS1: !have lower activities in! ae7-1 plants 
-ATM3/ABCB25: !mutations in! result in defective genome integrity similar to ae7-1

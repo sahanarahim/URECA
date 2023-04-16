@@ -1,9 +1,0 @@
-['24118304', 'Aluminum (Al) toxicity is the major limiting factor for crop production on acid  soils, but the transcriptional regulation of Al tolerance genes is largely  unknown. Here, we found that the expression of a WRKY domain-containing  transcription factor WRKY46 is inhibited by Al and expressed in root stele,  whereas the expression of ALMT1, which encodes a malate efflux transporter, is  induced by Al stress and spatially co-localized with WRKY46 in root stele,  indicating the possible interaction between WRKY46 and ALMT1 in Arabidopsis.  Mutation of WRKY46 by T-DNA insertion leads to better root growth under Al  stress, and lower root Al content compared with the wild-type Col-0. The wrky46  mutant shows increased root malate secretion, which is consistent with the higher  ALMT1 expression in the mutant. Transient expression analysis using truncated  promoter of ALMT1 showed that ALMT1 expression can be inhibited by WRKY46 in  tobacco leaves. The yeast one-hybrid assay and ChIP-qPCR analysis revealed that  WRKY46 directly binds to ALMT1 promoter through specific W-boxes. Taken together,  we demonstrated that WRKY46 is a negative regulator of ALMT1, mutation of WRKY46  leads to increased malate secretion and reduced Al accumulation in root apices,  and thus confers higher Al resistance.', '2013 Dec', 'Plant J', '10.1111/tpj.12337', 'Zheng']
-
-WRKY46: !inhibits! ALMT1 
-WRKY46: !binds to! ALMT1 promoter 
-ALMT1: !induced by! Al stress 
-ALMT1: !co-localized with! WRKY46 
-WRKY46: !represses! ALMT1 expression 
-Mutation of WRKY46: !enhances! root growth under Al stress 
-Mutation of WRKY46: !reduces! root Al content

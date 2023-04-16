@@ -1,7 +1,0 @@
-['11719192', 'The acceleration of flowering by a long period of low temperature, vernalization,  is an adaptation that ensures plants overwinter before flowering. Vernalization  induces a developmental state that is mitotically stable, suggesting that it may  have an epigenetic basis. The VERNALIZATION2 (VRN2) gene mediates vernalization  and encodes a nuclear-localized zinc finger protein with similarity to Polycomb  group (PcG) proteins of plants and animals. In wild-type Arabidopsis,  vernalization results in the stable reduction of the levels of the floral  repressor FLC. In vrn2 mutants, FLC expression is downregulated normally in  response to vernalization, but instead of remaining low, FLC mRNA levels increase  when plants are returned to normal temperatures. VRN2 function therefore stably  maintains FLC repression after a cold treatment, serving as a mechanism for the  cellular memory of vernalization.', '2001 Nov 16', 'Cell', '10.1016/s0092-8674(01)00573-6', 'Dean']
-
-VRN2: !mediates! vernalization
-VRN2: !encodes! zinc finger protein
-vernalization: !induces! developmental state
-FLC: !repressed by! VRN2
-VRN2: !maintains! FLC repression

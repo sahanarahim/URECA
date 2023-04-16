@@ -1,9 +1,0 @@
-['20229063', 'The function of cytosolic AtHsp90.3 was characterized by complementing the  Saccharomyces cerevisiae endogenous Hsp90 genes and overexpressing it in  Arabidopsis thaliana. Though AtHsp90.3 supported the yeast growth under heat  stress, in Arabidopsis, compared to the wild type, the transgenic plants  overexpressing cytosolic AtHsp90.3 were more sensitive to heat stress with a  lower germination rate and higher mortality but and more tolerant to high Ca(2+).  Transcriptional expression of heat stress transcription factors, AtHsfA1d,  AtHsfA7a and AtHsfB1, and two Hsps, AtHsp101 and AtHsp17, was delayed by  constitutive overexpression of cytosolic AtHsp90.3 under heat stress. These  results indicate that overexpressing AtHsp90.3 impaired plant tolerance to heat  stress and proper homeostasis of Hsp90 was critical for cellular stress response  and/or tolerance in plants.', '2010 Jul', 'Biotechnol Lett', '10.1007/s10529-010-0240-x', 'Wang']
-
-AtHsp90.3: !supports! yeast growth
-AtHsp90.3: !impairs! plant tolerance to heat stress
-AtHsfA1d: !repressed by! AtHsp90.3
-AtHsfA7a: !repressed by! AtHsp90.3
-AtHsfB1: !repressed by! AtHsp90.3
-AtHsp101: !repressed by! AtHsp90.3
-AtHsp17: !repressed by! AtHsp90.3

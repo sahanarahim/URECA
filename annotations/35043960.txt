@@ -1,9 +1,0 @@
-['35043960', 'The bacterial pathogen Ralstonia solanacearum causes wilt disease on Arabidopsis  thaliana and tomato (Solanum lycopersicum). This pathogen uses type III effectors  to inhibit the plant immune system; however, how individual effectors interfere  with plant immune responses, including transcriptional reprograming, remain  elusive. Here, we show that the type III effector RipAB targets Arabidopsis TGACG  SEQUENCE-SPECIFIC BINDING PROTEIN (TGA) transcription factors, the central  regulators of plant immune gene regulation, via physical interaction in the  nucleus to dampen immune responses. RipAB was required for R. solanacearum  virulence on wild-type tomato and Arabidopsis but not Arabidopsis tga1 tga4 and  tga2 tga5 tga6 mutants. Stable expression of RipAB in Arabidopsis suppressed the  pathogen-associated molecular pattern-triggered reactive oxygen species (ROS)  burst and immune gene induction as well as salicylic acid (SA) regulons including  RBOHD and RBOHF, responsible for ROS production, all of which were phenocopied by  the tga1 tga4 and tga2 tga5 tga6 mutants. We found that TGAs directly activate  RBOHD and RBOHF expression and that RipAB inhibits this through interfering with  the recruitment of RNA polymerase II. These results suggest that TGAs are the  bona fide and major virulence targets of RipAB, which disrupts SA signaling by  inhibiting TGA activity to achieve successful infection.', '2022 Apr 26', 'Plant Cell', '10.1093/plcell/koac015', 'ORCID:']
-
-RipAB: !targets! TGAs 
-TGAs: !activate! RBOHD/RBOHF 
-RipAB: !inhibits! TGA activity 
-RipAB: !interferes with! RNA polymerase II recruitment 
-RipAB: !dampens! immune responses 
-RipAB: !suppresses! ROS burst 
-RipAB: !phenocopied by! tga1 tga4/tga2 tga5 tga6 mutants

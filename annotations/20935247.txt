@@ -1,8 +1,0 @@
-['20935247', 'Cyanide is stoichiometrically produced as a coproduct of the ethylene  biosynthesis pathway and is detoxified by beta-cyanoalanine synthase enzymes. The  molecular and phenotypical analysis of T-DNA insertion mutants of the  mitochondrial beta-cyanoalanine synthase CYS-C1 suggests that discrete accumulation  of cyanide is not toxic for the plant and does not alter mitochondrial  respiration rates but does act as a strong inhibitor of root hair development.  The cys-c1 null allele is defective in root hair formation and accumulates  cyanide in root tissues. The root hair defect is phenocopied in wild-type plants  by the exogenous addition of cyanide to the growth medium and is reversed by the  addition of hydroxocobalamin or by genetic complementation with the CYS-C1 gene.  Hydroxocobalamin not only recovers the root phenotype of the mutant but also the  formation of reactive oxygen species at the initial step of root hair tip growth.  Transcriptional profiling of the cys-c1 mutant reveals that cyanide accumulation  acts as a repressive signal for several genes encoding enzymes involved in cell  wall rebuilding and the formation of the root hair tip as well as genes involved  in ethylene signaling and metabolism. Our results demonstrate that mitochondrial  beta-cyanoalanine synthase activity is essential to maintain a low level of cyanide  for proper root hair development.', '2010 Oct', 'Plant Cell', '10.1105/tpc.110.076828', 'Romero']
-
-CYS-C1: !produces! Cyanide 
-Cyanide: !inhibits! Root Hair Development 
-CYS-C1: !reverses! Root Hair Defect 
-Hydroxocobalamin: !recovers! Root Phenotype 
-Cyanide: !represses! Cell Wall Rebuild Genes 
-Cyanide: !represses! Ethylene Signaling Genes

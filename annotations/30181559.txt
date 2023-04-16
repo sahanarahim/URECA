@@ -1,9 +1,0 @@
-['30181559', "A family of DEDDh 3'-->5' exonucleases known as Small RNA Degrading Nucleases  (SDNs) initiates the turnover of ARGONAUTE1 (AGO1)-bound microRNAs in Arabidopsis  by trimming their 3' ends. Here, we report the crystal structure of Arabidopsis  SDN1 (residues 2-300) in complex with a 9 nucleotide single-stranded RNA  substrate, revealing that the DEDDh domain forms rigid interactions with the  N-terminal domain and binds 4 nucleotides from the 3' end of the RNA via its  catalytic pocket. Structural and biochemical results suggest that the SDN1  C-terminal domain adopts an RNA Recognition Motif (RRM) fold and is critical for  substrate binding and enzymatic processivity of SDN1. In addition, SDN1 interacts  with the AGO1 PAZ domain in an RNA-independent manner in vitro, enabling it to  act on AGO1-bound microRNAs. These extensive structural and biochemical studies  may shed light on a common 3' end trimming mechanism for 3'-->5' exonucleases in  the metabolism of small non-coding RNAs.", '2018 Sep 4', 'Nat Commun', '10.1038/s41467-018-05942-7', 'ORCID:']
-
-SDN1: !trims! 3' end of RNA 
-SDN1: !binds! 4 nucleotides from 3' end 
-DEDDh domain: !forms rigid interactions with! N-terminal domain 
-C-terminal domain: !adopts! RRM fold 
-C-terminal domain: !critical for! substrate binding 
-SDN1: !interacts with! AGO1 PAZ domain 
-AGO1: !bound by! microRNAs

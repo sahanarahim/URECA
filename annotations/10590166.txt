@@ -1,7 +1,0 @@
-['10590166', 'Members of the Arabidopsis calcineurin B-like Ca(2)+ binding protein (AtCBL)  family are differentially regulated by stress conditions. One AtCBL plays a role  in salt stress; another is implicated in response to other stress signals,  including drought, cold, and wounding. In this study, we identified a group of  novel protein kinases specifically associated with AtCBL-type Ca(2)+ sensors. In  addition to a typical protein kinase domain, they all contain a unique C-terminal  region that is both required and sufficient for interaction with the AtCBL-type  but not calmodulin-type Ca(2)+ binding proteins from plants. Interactions between  the kinases and AtCBLs require micromolar concentrations of Ca(2)+, suggesting  that increases in cellular Ca(2)+ concentrations may trigger the formation of  AtCBL-kinase complexes in vivo. Unlike most serine/threonine kinases, the  AtCBL-interacting kinase efficiently uses Mn(2)+ to Mg(2)+ as a cofactor and may  function as a Mn(2)+ binding protein in the cell. These findings link a new type  of Ca(2)+ sensors to a group of novel protein kinases, providing the molecular  basis for a unique Ca(2)+ signaling machinery in plant cells.', '1999 Dec', 'Plant Cell', '10.1105/tpc.11.12.2393', 'Kudla']
-
-AtCBL: !interacts with! AtCBL-interacting kinase 
-AtCBL-interacting kinase: !uses! Mn(2)+ 
-AtCBL-interacting kinase: !requires! Ca(2)+ 
-AtCBL-interacting kinase: !binds to! AtCBL 
-AtCBL: !regulated by! stress conditions

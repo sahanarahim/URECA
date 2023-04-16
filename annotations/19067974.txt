@@ -1,9 +1,0 @@
-['19067974', 'The sfr6-1 mutant of Arabidopsis thaliana was identified previously on the basis  of its failure to undergo acclimation to freezing temperatures following exposure  to low positive temperatures. This failure is attributed to a defect in the  pathway leading to cold on-regulated (COR) gene expression via CBF (C-box binding  factor) transcription factors. We identified a region of chromosome 4 containing  SFR6 by positional mapping. Fine mapping of the sfr6-1 mutation proved impossible  as the locus resides very close to the centromere. Therefore, we screened 380  T-DNA lines with insertions in genes within the large region to which sfr6-1  mapped. This resulted in the identification of two further mutant alleles of SFR6  (sfr6-2 and sfr6-3); like the original sfr6-1 mutation, these disrupt freezing  tolerance and COR gene expression. To determine the protein sequence, we cloned  an SFR6 cDNA based on the predicted coding sequence, but this offered no  indication as to the mechanism by which SFR6 acts. The SFR6 gene itself is not  strongly regulated by cold, thus discounting regulation of SFR6 activity at the  transcriptional level. We show that over-expression of CBF1 or CBF2 transcription  factors, which constitutively activate COR genes in the wild-type, cannot do so  in sfr6-1. We demonstrate that CBF protein accumulates to wild-type levels in  response to cold in sfr6-1. These results indicate a role for the SFR6 protein in  the CBF pathway -downstream of CBF translation. The fact that the SFR6 protein is  targeted to the nucleus may suggest a direct role in modulating gene expression.', '2009 Apr', 'Plant J', '10.1111/j.1365-313X.2008.03763.x', 'Knight']
-
-SFR6: !affects! freezing tolerance 
-SFR6: !regulates! COR gene expression 
-CBF1/2: !activates! COR genes 
-CBF1/2: !cannot activate! COR genes in sfr6-1 
-CBF: !accumulates to! wild-type levels in sfr6-1 
-SFR6: !downstream of! CBF translation 
-SFR6: !targeted to! nucleus

@@ -1,9 +1,0 @@
-['19969521', 'A mutant isolated from a screen of EMS-mutagenized Arabidopsis lines, per1,  showed normal root hair development under control conditions but displayed an  inhibited root hair elongation phenotype upon Pi deficiency. Additionally, the  per1 mutant exhibited a pleiotropic phenotype under control conditions,  resembling Pi-deficient plants in several aspects. Inhibition of root hair  elongation upon growth on low Pi media was reverted by treatment with the Pi  analog phosphite, suggesting that the mutant phenotype is not caused by a lack of  Pi. Reciprocal grafting experiments revealed that the mutant rootstock is  sufficient to cause the phenotype. Complementation analyses showed that the PER1  gene encodes an ubiquitin-specific protease, UBP14. The mutation caused a  synonymous substitution in the 12th exon of this gene, resulting in a lower  abundance of the UBP14 protein, probably as a consequence of reduced translation  efficiency. Transcriptional profiling of per1 and wild-type plants subjected to  short-term Pi starvation revealed genes that may be important for the signaling  of Pi deficiency. We conclude that UBP14 function is crucial for adapting root  development to the prevailing local availability of phosphate.', '2010 Jan', 'Mol Plant', '10.1093/mp/ssp086', 'Schmidt']
-
-per1: !inhibits! root hair elongation
-Pi deficiency: !causes! pleiotropic phenotype
-phosphite: !reverts! mutant phenotype
-mutant rootstock: !causes! phenotype
-PER1 gene: !encodes! UBP14
-UBP14 protein: !abundance is! reduced
-Pi starvation: !reveals! genes important for signaling

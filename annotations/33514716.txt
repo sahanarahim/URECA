@@ -1,8 +1,0 @@
-['33514716', 'Plant genomes encode hundreds of receptor kinases and peptides, but the number of  known plant receptor-ligand pairs is limited. We report that the Arabidopsis  leucine-rich repeat receptor kinase LRR-RK MALE DISCOVERER 1-INTERACTING RECEPTOR  LIKE KINASE 2 (MIK2) is the receptor for the SERINE RICH ENDOGENOUS PEPTIDE  (SCOOP) phytocytokines. MIK2 is necessary and sufficient for immune responses  triggered by multiple SCOOP peptides, suggesting that MIK2 is the receptor for  this divergent family of peptides. Accordingly, the SCOOP12 peptide directly  binds MIK2 and triggers complex formation between MIK2 and the BRASSINOSTEROID  INSENSITIVE 1-ASSOCIATED KINASE 1 (BAK1) co-receptor. MIK2 is required for  resistance to the important root pathogen Fusarium oxysporum. Notably, we reveal  that Fusarium proteomes encode SCOOP-like sequences, and corresponding synthetic  peptides induce MIK2-dependent immune responses. These results suggest that MIK2  may recognise Fusarium-derived SCOOP-like sequences to induce immunity against  Fusarium. The definition of SCOOPs as MIK2 ligands will help to unravel the  multiple roles played by MIK2 during plant growth, development and stress  responses.', '2021 Jan 29', 'Nat Commun', '10.1038/s41467-021-20932-y', 'ORCID:']
-
-LRR-RK MIK2: !receives! SCOOP peptides 
-SCOOP peptides: !binds to! MIK2 
-MIK2: !forms complex with! BAK1 
-MIK2: !required for! resistance to Fusarium oxysporum 
-Fusarium proteomes: !encode! SCOOP-like sequences 
-Synthetic SCOOP peptides: !induce! MIK2-dependent immune responses

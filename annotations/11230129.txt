@@ -1,7 +1,0 @@
-['11230129', 'The Arabidopsis calcineurin B-like calcium sensor proteins (AtCBLs) interact with  a group of serine-threonine protein kinases (AtCIPKs) in a calcium-dependent  manner. Here we identify a 24 amino acid domain (NAF domain) unique to these  kinases as being required and sufficient for interaction with all known AtCBLs.  Mutation of conserved residues either abolished or significantly diminished the  affinity of AtCIPK1 for AtCBL2. Comprehensive two-hybrid screens with various  AtCBLs identified 15 CIPKs as potential targets of CBL proteins. Database  analyses revealed additional kinases from Arabidopsis and other plant species  harbouring the NAF interaction module. Several of these kinases have been  implicated in various signalling pathways mediating responses to stress, hormones  and environmental cues. Full-length CIPKs show preferential interaction with  distinct CBLs in yeast and in vitro assays. Our findings suggest differential  interaction affinity as one of the mechanisms generating the temporal and spatial  specificity of calcium signals within plant cells and that different combinations  of CBL-CIPK proteins contribute to the complex network that connects various  extracellular signals to defined cellular responses.', '2001 Mar 1', 'EMBO J', '10.1093/emboj/20.5.1051', 'Kudla']
-
-AtCBLs: !interact with! AtCIPKs 
-AtCIPK1: !binds to! AtCBL2 
-AtCBLs: !interact with! 15 CIPKs 
-CIPKs: !connect! extracellular signals 
-CBL-CIPK proteins: !contribute to! complex network

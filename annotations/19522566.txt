@@ -1,7 +1,0 @@
-['19522566', 'The Arabidopsis thaliana genome contains more than 200 rapidly evolved resistance  (R)-like genes coding for nucleotide binding leucine-rich repeat (NB-LRR) and  their related proteins. A dozen of them are shown to play key roles in plant  responses to biotic attacks, and they need to be repressed in the absence of  biotic stresses to prevent activation of defense responses that are usually  detrimental to plant growth and development. Here, we show that the Arabidopsis  BON1 and BON3 genes, two members of the evolutionarily conserved copine, are  negative regulators of several R-like genes. At least four such genes of the  Toll-interleukin-1 receptor-like (TIR)-NB-LRR or TIR-NB type were identified  through their activities in triggering cell death in the absence of the BON1 and  BON3 function and their natural variations between two Arabidopsis accessions,  Col-0 and Ws-2. These so-named lesion cell death (LCD) genes contribute  quantitatively to the phenotypes of enhanced defense response and cell death in  the bon1bon3 mutant. Further, their activation in the bon1bon3 mutants appears to  be through different regulatory modes, and BON1 and BON3 may repress the  transcript accumulation or protein activities of these R-like genes.', '2009 Jul', 'Mol Plant Microbe Interact', '10.1094/MPMI-22-7-0840', 'Hua']
-
-BON1: !represses! R-like genes
-BON3: !represses! R-like genes
-R-like genes: !trigger! cell death
-BON1/BON3: !enhance! defense response
-BON1/BON3: !contribute to! LCD phenotype

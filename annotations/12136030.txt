@@ -1,8 +1,0 @@
-['12136030', 'The Arabidopsis SECRET AGENT (SEC) and SPINDLY (SPY) proteins are similar to  animal O-linked N-acetylglucosamine transferases (OGTs). OGTs catalyze the  transfer of N-acetylglucosamine (GlcNAc) from UDP-GlcNAc to Ser/Thr residues of  proteins. In animals, O-GlcNAcylation has been shown to affect protein activity,  stability, and/or localization. SEC protein expressed in Escherichia coli had  autocatalytic OGT activity. To determine the function of SEC in plants, two tDNA  insertional mutants were identified and analyzed. Although sec mutant plants did  not exhibit obvious phenotypes, sec and spy mutations had a synthetic lethal  interaction. This lethality was incompletely penetrant in gametes and completely  penetrant postfertilization. The rate of both female and male sec spy gamete  transmission was higher in plants heterozygous for both mutations than in plants  heterozygous for sec and homozygous for spy. Double-mutant embryos aborted at  various stages of development and no double-mutant seedlings were obtained. These  results indicate that OGT activity is required during gametogenesis and  embryogenesis with lethality occurring when parentally derived SEC, SPY, and/or  O-GlcNAcylated proteins become limiting.', '2002 Jul', 'Genetics', '10.1093/genetics/161.3.1279', 'Olszewski']
-
-SEC: !catalyzes! transfer of N-acetylglucosamine 
-SEC: !affects! protein activity 
-SPY: !interacts with! SEC 
-SEC/SPY: !synthesizes! OGT activity 
-SEC/SPY: !represses! gametogenesis 
-SEC/SPY: !enhances! embryogenesis

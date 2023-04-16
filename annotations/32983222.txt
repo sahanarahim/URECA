@@ -1,8 +1,0 @@
-['32983222', 'Arabidopsis thaliana ENO2 (AtENO2) encodes two proteins AtENO2 (enolase) and  AtMBP-1 (c-Myc binding protein 1-like). The loss of AtENO2 function causes the  constitutive developmental defects which are correlated with reduced enolase  activity, but not AtMBP-1 transcript abundance. However, the regulation mechanism  of AtENO2 on the seed properties is still not clear. In this study, we found that  the mutation of AtENO2 reduced the seed size and weight. The level of glucose in  seed was significantly elevated but that of starch was decreased in AtENO2  mutants compared to WT plants. We also found that AtENO2 mutation reduced the  content of cytokinin which resulted in smaller cotyledons. The RNA-seq data  showed that there were 1892 differentially expressed genes and secondary  metabolic pathways were significantly enriched. Instead of AtMBP-1, AtENO2  protein interacted with AtbZIP75 which may mediate the secondary metabolism.  Therefore, ENO2 alters the size and weight of seeds which is not only regulated  by the content of cytokinin and secondary metabolism, but may be affected by the  interaction of ENO2 and bZIP57. These results are helpful to understand the novel  function of AtENO2 which provide a foundation for further exploration of the key  candidate genes for crop breeding.', '2020', 'Front Plant Sci', '10.3389/fpls.2020.574316', 'Zhang']
-
-AtENO2: !affects! seed size and weight
-AtENO2: !alters! glucose and starch content
-AtENO2: !reduces! cytokinin content
-AtENO2: !regulates! 1892 differentially expressed genes
-AtENO2: !interacts with! AtbZIP75
-AtENO2: !mediates! secondary metabolism

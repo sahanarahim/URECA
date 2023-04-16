@@ -1,7 +1,0 @@
-['28850756', 'The pentatricopeptide repeat-DYW protein AtECB2 affects plastid RNA editing at  seven sites, including accD-794, accD-1568, ndhF-290, ndhG-50, petL-5, rpoA-200  and rpoC1-488. To understand the mechanism of its involvement in RNA editing, a  transgenic line was constructed with AtECB2 fused to a 4xMYC tag that could  complement the atecb2 phenotype. RNA immunoprecipitation analysis indicated that  AtECB2 is associated with the transcripts of accD, ndhF, ndhG and petL.  Co-immunoprecipitation and mass spectrometry experiments showed that multiple  organelle RNA editing factor 2 (MORF2) and porphobilinogen deaminase HEMC are  associated with AtECB2. Biochemical analysis showed that AtECB2 directly  interacts with HEMC through its E domain, while HEMC interacts with MORF8/RIP1.  Deletion analysis showed that the E domain is essential for RNA editing. The  hemc-1 mutant showed an albino and seedling-lethal phenotype. Of the seven  editing sites affected in atecb2, the editing of accD-794 and ndhF-290 was also  reduced in hemc-1. RNA immunoprecipitation analysis suggested that HEMC is  associated with the editing sites of ndhF transcripts. These results showed that  both HEMC and multiple organellar RNA editing factor (MORF) proteins are  associated with AtECB2 for RNA editing in plastids.', '2017 Nov', 'Plant J', '10.1111/tpj.13672', 'Yang']
-
-AtECB2: !affects! plastid RNA editing
-AtECB2: !interacts with! MORF2
-AtECB2: !interacts with! HEMC
-HEMC: !interacts with! MORF8/RIP1
-HEMC: !enhances! RNA editing of accD-794 and ndhF-290

@@ -1,9 +1,0 @@
-['27208222', 'Salicylic acid (SA) serves as a critical signaling molecule in plant defense. Two  transcription factors, SARD1 and CBP60g, control SA biosynthesis through  regulating pathogen-induced expression of Isochorismate Synthase1, which encodes  a key enzyme for SA biosynthesis. Here, we report that Pattern-Triggered Immunity  Compromised Receptor-like Cytoplasmic Kinase1 (PCRK1) and PCRK2 function as key  regulators of SA biosynthesis. In the pcrk1 pcrk2 double mutant, pathogen-induced  expression of SARD1, CBP60g, and ICS1 is greatly reduced. The pcrk1 pcrk2 double  mutant, but neither of the single mutants, exhibits reduced accumulation of SA  and enhanced disease susceptibility to bacterial pathogens. Both PCRK1 and PCRK2  interact with the pattern recognition receptor FLS2, and treatment with  pathogen-associated molecular patterns leads to rapid phosphorylation of PCRK2.  Our data suggest that PCRK1 and PCRK2 function downstream of pattern recognition  receptor in a signal relay leading to the activation of SA biosynthesis.', '2016 Jun', 'Plant Physiol', '10.1104/pp.15.01954', 'Zhang']
-
-SARD1: !regulates! Isochorismate Synthase1
-CBP60g: !regulates! Isochorismate Synthase1
-PCRK1: !interacts with! FLS2
-PCRK2: !interacts with! FLS2
-PCRK1: !represses! SA biosynthesis
-PCRK2: !represses! SA biosynthesis
-FLS2: !activates! PCRK1 & PCRK2

@@ -1,8 +1,0 @@
-['21320696', 'Plants have evolved sophisticated surveillance systems to recognize pathogen  effectors delivered into host cells. RPM1 is an NB-LRR immune receptor that  recognizes the Pseudomonas syringae effectors AvrB and AvrRpm1. Both effectors  associate with and affect the phosphorylation of RIN4, an immune regulator.  Although the kinase and the specific mechanisms involved are unclear, it has been  hypothesized that RPM1 recognizes phosphorylated RIN4. Here, we identify RIPK as  a RIN4-interacting receptor-like protein kinase that phosphorylates RIN4. In  response to bacterial effectors, RIPK phosphorylates RIN4 at amino acid residues  T21, S160, and T166. RIN4 phosphomimetic mutants display constitutive activation  of RPM1-mediated defense responses and RIN4 phosphorylation is induced by AvrB  and AvrRpm1 during P. syringae infection. RIPK knockout lines exhibit reduced  RIN4 phosphorylation and blunted RPM1-mediated defense responses. Taken together,  our results demonstrate that the RIPK kinase associates with and modifies an  effector-targeted protein complex to initiate host immunity.', '2011 Feb 17', 'Cell Host Microbe', '10.1016/j.chom.2011.01.010', 'Coaker']
-
-RPM1: !recognizes! AvrB & AvrRpm1 
-RIPK: !interacts with! RIN4 
-RIPK: !phosphorylates! RIN4 
-RIN4: !affects! RPM1-mediated defense responses 
-AvrB & AvrRpm1: !induces! RIN4 phosphorylation 
-RIPK: !modifies! effector-targeted protein complex
