@@ -1,80 +1,26 @@
-
 from flask import Flask, render_template, request, redirect, url_for
 import pickle
 
 def generate_cytoscape_js(elements):
     nodes = [
-        "{ data: { id: '%s' } }" % node.replace("'", r"\'")
+        "{ data: { id: '%s' } }" % node
         for node in set(edge["source"] for edge in elements) | set(edge["target"] for edge in elements)
     ]
     edges = [
         "{ data: { id: 'edge%s', source: '%s', target: '%s', interaction: '%s' } }" % (
             i,
-            edge['source'].replace("'", r"\'"),
-            edge['target'].replace("'", r"\'"),
-            edge['interaction'].replace("'", r"\'"),
+            edge['source'],
+            edge['target'],
+            edge['interaction'],
         )
         for i, edge in enumerate(elements)
     ]
 
-    script = f"""
-    document.addEventListener('DOMContentLoaded', function () {{
-      const cy = cytoscape({{
-        container: document.getElementById('cy'),
-    
-        elements: [
-          // Nodes
-          {', '.join(nodes)},
-    
-          // Edges
-          {', '.join(edges)}
-        ],
-    
-        style: [
-          {{
-            selector: 'node',
-            style: {{
-              'background-color': '#6FB1FC', // Node background color
-              'label': 'data(id)',
-              'color': '#000000', // Node label text color
-              'text-opacity': 1, // Node label text opacity (0-1)
-              'font-size': '6px',
-              'text-halign': 'center',
-              'text-valign': 'center',
-              'text-wrap': 'wrap',
-              'text-max-width': 50
-            }},
-          }},
-    
-          {{
-            selector: 'edge',
-            style: {{
-              'width': 2,
-              'line-color': '#A9A9A9', // Edge line color
-              'curve-style': 'bezier', // Edge curve style
-              'target-arrow-color': '#ccc',
-              'target-arrow-shape': 'triangle',
-              'curve-style': 'bezier',
-              'label': 'data(interaction)',
-              'font-size': '6px',
-              'text-wrap': 'wrap', // Enable edge label text wrapping
-              'text-max-width': 50, // Maximum edge label text width before wrapping (in pixels)
-              'text-rotation': 'autorotate',
-              'text-margin-x': '5px',
-              'text-margin-y': '-5px'
-            }},
-          }},
-        ],
-    
-        layout: {{
-          name: 'cose'
-        }}
-      }});
+    a = open('network.txt','r').read()
 
-    }}
-    );
-    """
-    return script
+    nodes = ', '.join(nodes)
+    edges = ', '.join(edges)
+    return a.replace('NODES',nodes).replace('EDGES',edges)
 
 def process_network(elements):
     
