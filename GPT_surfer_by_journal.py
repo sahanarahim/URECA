@@ -61,7 +61,7 @@ def search_and_fetch_journal_papers(journal_name, email, year_cutoff, retmax=100
     handle.close()
 
     paper_details = []
-
+    print('pmids', len(papers), journal_name)
     for paper in papers:
         pmid = paper['MedlineCitation']['PMID']
         title = paper['MedlineCitation']['Article']['ArticleTitle']
@@ -85,7 +85,7 @@ def search_and_fetch_journal_papers(journal_name, email, year_cutoff, retmax=100
 
         paper_details.append(paper_info)
 
-    print(len(paper_details), journal_name)
+    print('abstract',len(paper_details), journal_name)
     return paper_details
 
 email = 'mutwil@gmail.com'
