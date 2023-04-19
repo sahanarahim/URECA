@@ -1,3 +1,4 @@
+
 from flask import Flask, render_template, request, redirect, url_for
 import pickle
 
@@ -75,6 +76,27 @@ def generate_cytoscape_js(elements):
     """
     return script
 
+def process_network(elements):
+    
+    #remove redundancies
+    edges = []
+    for i in elements:
+        if i not in edges:
+            edges.append(i)
+
+    #groups similar nodes that have same source+interaction
+    edgeTypes = {}
+    for i in elements:
+        key = (i['source'], i['interaction'])
+        if key in edgeTypes:
+            edgeTypes[key] += [i['target']]
+        else:
+            edgeTypes[key] = [i['target']]
+    print(edgeTypes)
+    return edges
+
+
+
 app = Flask(__name__)
 
 class Gene:
@@ -110,6 +132,7 @@ def search():
                         forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
                         elements.append({"source": j[0], "target": j[2], "interaction": j[1]})
 
+    elements = process_network(elements)
     cytoscape_js_code = generate_cytoscape_js(elements)
     if forSending!=[]:
         return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code)
@@ -117,17 +140,37 @@ def search():
         return render_template('not_found.html')
 
 if __name__ == '__main__':
-    with open('allDic', 'rb') as file:
-        genes = pickle.load(file)
-    items, papers = 0, []
-    for i in genes:
-        items+=1
-        for j in genes[i]:
-            papers.append(j[3])
-    papers = set(papers)    
-    print(papers)
+    import os
+    items, edges = [],0
+    for i in os.listdir(os.getcwd()+'/annotations/'):
+        a = open(os.getcwd()+'/annotations/'+i,'r').read()
+        
+        if len(a)>0:
+            findings = a.split('\n\n')[1].split('\n')
+            
+            for j in findings:
+                if j.count('!')==2:
+                    splitta = j.split('!')
+        
+                    agentA, _, agentB = splitta
+                    agentA = agentA.split(':')[0].upper()
+                    agentB = agentB.strip().upper()
+                    edges+=1
+                    items+=[agentA]
+                    items+=[agentB]
+                
+        
+    # with open('C. elegans[Organism]_papers.txt', 'rb') as file:
+    #     genes = pickle.load(file)
+    # items, papers = 0, []
+    # for i in genes:
+    #     items+=1
+    #     for j in genes[i]:
+    #         papers.append(j[3])
+    # papers = set(papers)    
+    # print(papers)
     
     v = open('stats.txt','w')
-    v.write(str(len(papers))+'\t'+str(items))
+    v.write(str(len(os.listdir(os.getcwd()+'/annotations/')))+'\t'+str(len(set(items))))
     v.close()
     app.run(debug=True)
