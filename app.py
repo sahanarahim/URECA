@@ -159,16 +159,6 @@ if __name__ == '__main__':
                     items+=[agentA]
                     items+=[agentB]
                 
-        
-    # with open('C. elegans[Organism]_papers.txt', 'rb') as file:
-    #     genes = pickle.load(file)
-    # items, papers = 0, []
-    # for i in genes:
-    #     items+=1
-    #     for j in genes[i]:
-    #         papers.append(j[3])
-    # papers = set(papers)    
-    # print(papers)
     
     v = open('stats.txt','w')
     v.write(str(len(os.listdir(os.getcwd()+'/annotations/')))+'\t'+str(len(set(items))))
