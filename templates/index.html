@@ -99,12 +99,34 @@
     <header>
       <h1>PlantConnectome</h1>
     </header>
-    <form action="/search" method="POST">
+	
+	<script>
+	function submitForm(event) {
+	  const titleInput = document.getElementById("gene_id");
+	  if (titleInput.value === "") {
+		titleInput.value = titleInput.placeholder;
+	  }
+	}
+	</script>
+    <form action="/search" method="POST" onsubmit="submitForm(event)">
       <label for="gene_id">Enter Gene ID/molecule/compartment</label>
-      <input type="text" id="gene_id" name="gene_id" placeholder="e.g. CESA">
+      <input type="text" id="gene_id" name="gene_id" placeholder="CESA">
       <input type="submit" value="Search">
     </form>
 	
+
+		
+    <form action="/author" method="POST">
+      <label for="author">Enter author name</label>
+      <input type="text" id="author" name="author" placeholder="John Doe">
+      <input type="submit" value="Search">
+    </form>
+	
+    <form action="/title" method="POST">
+      <label for="title">Enter paper title</label>
+      <input type="text" id="title" name="title" placeholder="Ancestral genome reconstruction for studies of the green lineage">
+      <input type="submit" value="Search">
+    </form>
 	
 	<div class="stats">
 	  <h2>Stats:</h2>

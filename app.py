@@ -1,5 +1,8 @@
 from flask import Flask, render_template, request, redirect, url_for
 import pickle
+import re
+
+
 
 def generate_cytoscape_js(elements):
     nodes = [
@@ -37,7 +40,6 @@ def process_network(elements):
             edgeTypes[key] += [i['target']]
         else:
             edgeTypes[key] = [i['target']]
-    print(edgeTypes)
     return edges
 
 def find_terms(my_search, genes):   
@@ -73,6 +75,95 @@ class Gene:
 def index():
     v = open('stats.txt','r').read().rstrip().split()
     return render_template('index.html', entities = v[1], papers = v[0])
+    
+@app.route('/author', methods=['POST'])
+def author():
+    try:
+        my_search = request.form['author'].lower()
+    except:
+        my_search=''
+
+    if my_search!='':
+        with open('abstracts', 'rb') as f:
+            # Load the object from the file
+            papers = pickle.load(f)
+            
+        hits = []
+        
+        for i in papers:
+            for author in i['authors']:
+            
+                replacements = {"ä": "ae", "ö": "oe", "ü": "ue", "ß": "ss", "é": "e", "ô": "o", "î": "i", "ç": "c"}
+                author = ''.join(replacements.get(c, c) for c in author)
+
+                if len(set(my_search.split())&set(author.lower().split()))==len(set(my_search.split())):
+                    hits.append(i['pmid'])
+        
+        forSending = []
+        if hits!=[]:
+            with open('allDic', 'rb') as file:
+                genes = pickle.load(file)
+            
+            
+            elements = [] 
+            for i in genes:
+                for j in genes[i]:
+                    if j[3] in hits:
+                        if j[0]!='' and j[2]!='':
+                            forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
+                            elements.append({"source": j[0].replace("'","").replace('"',''), "target": j[2].replace("'","").replace('"',''), "interaction": j[1]})                
+                        break
+
+    
+    if forSending!=[]:
+        elements = process_network(elements)
+        cytoscape_js_code = generate_cytoscape_js(elements)
+        return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code)
+    else:
+        return render_template('not_found.html')
+        
+@app.route('/title', methods=['POST'])
+def title():
+    try:
+        my_search = request.form['title'].lower()
+    except:
+        my_search=''
+
+    if my_search!='':
+        with open('abstracts', 'rb') as f:
+            # Load the object from the file
+            papers = pickle.load(f)
+            
+        hits = []
+        
+        for i in papers:
+            if len(set(my_search.split())&set(i['title'].lower().split()))>len(set(my_search.split()))*0.8:
+
+                hits.append(i['pmid'])
+                break
+        
+        forSending = []
+        if hits!=[]:
+            with open('allDic', 'rb') as file:
+                genes = pickle.load(file)
+            
+            
+            elements = [] 
+            for i in genes:
+                for j in genes[i]:
+                    if j[3] in hits:
+                        if j[0]!='' and j[2]!='':
+                            forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
+                            elements.append({"source": j[0].replace("'","").replace('"',''), "target": j[2].replace("'","").replace('"',''), "interaction": j[1]})                
+                        break
+
+    
+    if forSending!=[]:
+        elements = process_network(elements)
+        cytoscape_js_code = generate_cytoscape_js(elements)
+        return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code)
+    else:
+        return render_template('not_found.html')
 
 @app.route('/search', methods=['POST'])
 def search():
