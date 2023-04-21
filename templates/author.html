@@ -68,6 +68,27 @@
         padding: 20px;
         text-align: center;
       }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  .title {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+
+  .count-info {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+
+  .count {
+    font-weight: bold;
+  }
     </style>
 
   <script src="https://unpkg.com/cytoscape@3.23.0/dist/cytoscape.min.js"></script>
@@ -79,8 +100,24 @@
   
   </head>
   <body>
-    <h1 style="text-align: center;">Search results for: '{{ search_term }}', with {{ number_papers }} papers in our database on the topic</h1>
+  <h1 style="text-align: center;">Search results for: {{ author }}</h1>
 
+ 
+  <table>
+    <thead>
+      <tr>
+        <th>Source</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Papers on NCBI: {{ ncbi_count }}</td>
+      </tr>
+      <tr>
+        <td>Papers in our database: {{ connectome_count }}</td>
+      </tr>
+    </tbody>
+  </table>
 	<div class="cy-wrapper" style="width: 90%; height: 1200px; overflow: hidden;">
 		<div id="cy" style="width: 100%; height: 100%; background-color: white !important;"></div>
 	</div>
