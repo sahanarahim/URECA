@@ -237,7 +237,9 @@
   </head>
   <body>
     <h1 style="text-align: center;">Search results for: '{{ search_term }}', with {{ number_papers }} papers in our database on the topic</h1>
-
+	{% if warning %}
+	  <p style="color: red; text-align: center;">{{ warning }}</p>
+	{% endif %}
 	<form id="node-search-form" style="text-align: center;">
 	  <input type="text" id="node-search" name="node-search" placeholder="Search a node by name" />
 	  <button type="submit">Submit</button>

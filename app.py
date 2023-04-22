@@ -138,7 +138,11 @@ def author():
     if forSending!=[]:
         elements = process_network(elements)
         cytoscape_js_code = generate_cytoscape_js(elements)
-        return render_template('author.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, ncbi_count=count, author= my_search, connectome_count=len(set(papers)))
+        warning = ''
+        if len(elements)>400:
+            warning = 'The network might be too large to be displayed, so click on "Layout Options", select the edge types that you are interested in and click "Recalculate layout".'
+
+        return render_template('author.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, ncbi_count=count, author= my_search, connectome_count=len(set(papers)), warning=warning)
     else:
         return render_template('not_found.html')
         
@@ -207,11 +211,15 @@ def search():
         papers = []
         for i in forSending:
             papers+=[i.publication]
-        
+            
+        warning = ''
+        if len(elements)>400:
+            warning = 'The network might be too large to be displayed, so click on "Layout Options",  select the edge types that you are interested in and click "Recalculate layout".'
         elements = process_network(elements)
         cytoscape_js_code = generate_cytoscape_js(elements)
+
     if forSending!=[]:
-        return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, search_term = my_search, number_papers = len(set(papers)))
+        return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, search_term = my_search, number_papers = len(set(papers)), warning = warning)
     else:
         return render_template('not_found.html')
 
