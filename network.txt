@@ -168,13 +168,33 @@ cy.on('click', 'node', function(evt){
 	nonNeighbors.style('opacity', '0.5');
 });
 
+cy.on('click', function(evt){
+  if( evt.target === cy ){
+    cy.nodes().style('opacity', '1');
+  }
+});
 
+var removedEles = cy.collection();
 
-cy.on('mouseout', 'node', function(evt){
-
+cy.on('dblclick', 'node', function(evt){
   var node = evt.target;
   var neighborhood = node.neighborhood().add(node);
-
+  removedEles = cy.elements().difference(neighborhood).remove();
+  neighborhood.select();
 });
+
+cy.on('dblclick', function(evt){
+  if(evt.target === cy){
+    removedEles.restore();
+  }
+});
+
+cy.on('cxttap', 'node', function(evt){
+  var node = evt.target;
+  node.remove();
+});
+
+
+
 }
 );
