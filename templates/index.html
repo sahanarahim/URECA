@@ -161,7 +161,7 @@
 </script>
 
 <form action="/search" method="POST" onsubmit="submitGeneForm(event)" id="gene-form">
-  <label for="gene_id">Enter Gene ID/molecule/compartment</label>
+  <label for="gene_id">Enter a gene, molecule, compartment, stress, cell type, organ...</label>
   <input type="text" id="gene_id" name="gene_id" placeholder="CESA">
   <a href="#" onclick="submitFormWith(event, 'pin1')">pin1</a>
   <a href="#" onclick="submitFormWith(event, 'proline')">proline</a>
@@ -172,7 +172,7 @@
 </form>
 
 <form action="/author" method="POST" onsubmit="submitNameForm(event)" id="name-form">
-  <label for="author">Enter Author Name (without special characters)</label>
+  <label for="author">Enter author name (without special characters)</label>
   <input type="text" id="author" name="author" placeholder="John Doe">
   <a href="#" onclick="submitFormWith(event, 'Marek Mutwil')">Marek Mutwil</a>
   <br>
