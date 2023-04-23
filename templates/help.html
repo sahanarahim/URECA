@@ -35,11 +35,22 @@
       a:hover {
         text-decoration: underline;
       }
+  .help-button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+  }
     </style>
   </head>
   <body>
     <div class="search-results">
       <h2>Help/FAQ</h2>
+	  <button class="help-button" onclick="window.location.href='{{ url_for('index') }}'">Go back</button>
+
       <ul>
         <li>
           <p><strong>How was the database constructed?</strong></p>

@@ -223,7 +223,15 @@
 		.button-container .cancel-button {
 		  width: 50%;
 		}
-
+  .help-button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    font-size: 12px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+  }
 
     </style>
 
@@ -243,6 +251,8 @@
 	<form id="node-search-form" style="text-align: center;">
 	  <input type="text" id="node-search" name="node-search" placeholder="Search a node by name" />
 	  <button type="submit">Submit</button>
+	  <button class="help-button" onclick="window.location.href='{{ url_for('index') }}'">Go back</button>
+
 	</form>
 
 	<div class="cy-wrapper" style="width: 90%; height: 1200px; overflow: hidden; position: relative; background-color: black;">
