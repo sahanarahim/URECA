@@ -111,7 +111,9 @@
   <body>
     <header>
       <h1>PlantConnectome</h1>
-    </header>
+	  <p>Welcome to PlantConnectome, a database containing relationships between genes, molecules, compartments, stresses, organs, and other entities related to plant biology. Our database contains {{entities}} entities and {{papers}} analyzed publication abstracts. Use the search form below to explore our database, and check out our stats and search tips for more information.</p>
+      <a href="{{ url_for('help') }}">Help</a>
+	</header>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
   function submitGeneForm(event) {
@@ -169,22 +171,12 @@
       <input type="submit" value="Search">
     </form>
 	
-	<div class="stats">
-	  <h2>Stats:</h2>
-      <ul>
-        <li>Number of genes/molecules/compartments and other entities: {{entities}}</li>
-		<li>Number of analyzed publication abstracts: {{papers}}</li>
-      </ul>
-    </div>
 	
     <div class="search-tips">
       <h2>Search Tips:</h2>
       <ul>
-        <li>Search by gene/molecule/compartment/stress/organ or some other term</li>
-		<li>E.g., you could search for cesa/proline/mitochondria/heat/flower</li>
 		<li>The search engine is very primitive (for now), so 100% match is required</li>
         <li>Use partial search terms to broaden your results (e.g. "CESA" instead of "CESA1")</li>
-        <li>Try searching for related terms or synonyms</li>
       </ul>
     </div>
 	
