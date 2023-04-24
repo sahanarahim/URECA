@@ -116,7 +116,10 @@
     border: none;
     cursor: pointer;
   }
-
+.discord-invite a {
+  color: #fff;
+  text-shadow: 1px 1px 2px #000;
+}
     </style>
   </head>
   <body>
@@ -125,7 +128,7 @@
 	  <p>We used GPT to uncover relationships between genes, molecules, compartments, stresses, organs, and other entities in plants.</p>
 	  <p>We analyzed <strong>{{papers}} papers </strong> and identified <strong>{{entities}} entities</strong> by having GPT process paper abstracts.</p>
 		<div class="discord-invite">
-		  <p><a href="https://discord.gg/XZ9DzFw8pr" target="_blank">Any issues or suggestions? Drop by our Discord channel to let us know</a></p>
+		  <p><a href="https://discord.gg/qr8tYYHu7Y" target="_blank">Any issues or suggestions? Drop by our Discord channel to let us know</a></p>
 		</div>
       <button class="help-button" onclick="window.location.href='{{ url_for('help') }}'">Help</button>
 
