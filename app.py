@@ -78,7 +78,7 @@ def make_text(elements):
                     temp[k[0]] += [pubmedLink %(k[1],k[1])]
             
             for target in temp:
-                tempRefs += [target + ' ('+', '.join(temp[target])+')']
+                tempRefs += [target + ' ('+', '.join(list(set(temp[target])))+')']
             tempSentences.append(text+', '.join(tempRefs))
 
         finishedSentence= '. '.join(tempSentences)+'.'
@@ -198,22 +198,23 @@ def author():
 def title():
     try:
         my_search = request.form['title'].lower()
+        pmids = []
+        for i in my_search.split(';'):
+            pmids+=i.split()
     except:
-        my_search=''
-
+        my_search='26503768; 22294619'
+        for i in my_search.split(';'):
+            pmids+=i.split()
+            
+    forSending = []
     if my_search!='':
-        with open('abstracts', 'rb') as f:
+        with open('titles', 'rb') as f:
             # Load the object from the file
             papers = pickle.load(f)
-            
-        hits = []
+
+        hits = list(set(pmids)&set(papers))
         
-        for i in papers:
-            if len(set(my_search.split())&set(i['title'].lower().split()))>len(set(my_search.split()))*0.8:
-                hits.append(i['pmid'])
-                break
         
-        forSending = []
         if hits!=[]:
             with open('allDic', 'rb') as file:
                 genes = pickle.load(file)
@@ -231,7 +232,8 @@ def title():
     if forSending!=[]:
         elements = process_network(elements)
         cytoscape_js_code = generate_cytoscape_js(elements)
-        return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code)
+        summaryText = make_text(forSending)
+        return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, number_papers = len(hits), search_term = my_search, summaryText=summaryText)
     else:
         return render_template('not_found.html')
 
