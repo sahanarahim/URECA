@@ -146,7 +146,13 @@
       titleInput.value = titleInput.placeholder;
     }
   }
-
+  
+  function submitTitleForm(event) {
+    const titleInput = document.getElementById("title");
+    if (titleInput.value === "") {
+      titleInput.value = titleInput.placeholder;
+    }
+  }
   function submitFormWith(event, value) {
     event.preventDefault();
     // Submit the form with the clicked value
@@ -180,10 +186,11 @@
   <input type="submit" value="Search">
 </form>
 	
-    <form action="/title" method="POST">
+    <form action="/title" method="POST"  onsubmit="submitTitleForm(event)" id="title-form">
       <label for="title">Enter paper pubmed ID, separated by semicolon</label>
       <input type="text" id="title" name="title" placeholder="26503768; 22294619">
 	  <a href="#" onclick="submitFormWith(event, '26503768; 22294619')">26503768; 22294619</a>
+	  <br>
       <input type="submit" value="Search">
     </form>
 	
@@ -199,8 +206,7 @@
 	<div class="future">
 	  <h2>Future:</h2>
       <ul>
-        <li>Grind through all abstracts from Plant Cell/Physiology/Journal and other main journals</li>
-		<li>Date range: 2005-now</li>
+        <li>Improve the database based on your feedback.</li>
       </ul>
     </div>
 	<div class="future">

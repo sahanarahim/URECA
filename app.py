@@ -196,18 +196,17 @@ def author():
         
 @app.route('/title', methods=['POST'])
 def title():
-    try:
-        my_search = request.form['title'].lower()
-        pmids = []
-        for i in my_search.split(';'):
-            pmids+=i.split()
-    except:
-        my_search='26503768; 22294619'
-        for i in my_search.split(';'):
-            pmids+=i.split()
+
+    my_search = request.form['title'].lower()
+    pmids = []
+    for i in my_search.split(';'):
+        pmids+=i.split()
+
             
     forSending = []
-    if my_search!='':
+    print(my_search)
+    if pmids!=[]:
+        
         with open('titles', 'rb') as f:
             # Load the object from the file
             papers = pickle.load(f)
