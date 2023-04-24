@@ -41,6 +41,49 @@ def process_network(elements):
         else:
             edgeTypes[key] = [i['target']]
     return edges
+    
+def make_text(elements):    
+    '''Given all edges in the KnowledgeNet, it makes the text summary'''
+    pubmedLink = '<a href="https://pubmed.ncbi.nlm.nih.gov/%s" target="_blank">%s</a>'
+    #Paragraph order: node by the highest degree. Sentence order in a paragraph: node,interaction type by the number of targets.  
+    topicDic = {}
+    nodeDegree, nodeSentenceDegree = {}, {}
+    for i in elements:
+        if i.id not in topicDic:
+            topicDic[i.id]={}
+            nodeDegree[i.id]=0
+            nodeSentenceDegree[i.id]={}
+        if i.inter_type not in topicDic[i.id]:
+            topicDic[i.id][i.inter_type] = [[i.target, i.publication]]
+            nodeSentenceDegree[i.id][i.inter_type] = 1
+            nodeDegree[i.id] += 1
+        else:
+            topicDic[i.id][i.inter_type] += [[i.target, i.publication]]
+            nodeDegree[i.id] += 1
+            nodeSentenceDegree[i.id][i.inter_type] += 1
+
+    sorted_nodes = sorted(nodeDegree, key=lambda x: nodeDegree[x], reverse=True)    
+    save = []
+    for i in sorted_nodes:
+        sorted_sentences = sorted(nodeSentenceDegree[i], key=lambda x: nodeSentenceDegree[i][x], reverse=True)
+        tempSentences = []
+        for j in sorted_sentences:
+            text = '<span  style="color: red;">'+i+'</span>'+' '+'<span  style="color: orange;">'+j+'</span>'+' '
+            temp = {}
+            tempRefs = []
+            for k in topicDic[i][j]:
+                if k[0] not in temp:
+                    temp[k[0]] = [pubmedLink %(k[1],k[1])]
+                else:
+                    temp[k[0]] += [pubmedLink %(k[1],k[1])]
+            
+            for target in temp:
+                tempRefs += [target + ' ('+', '.join(temp[target])+')']
+            tempSentences.append(text+', '.join(tempRefs))
+
+        finishedSentence= '. '.join(tempSentences)+'.'
+        save.append(finishedSentence)
+    return '<br><br>'.join(save)
 
 def find_terms(my_search, genes):   
     forSending = []
@@ -54,8 +97,15 @@ def find_terms(my_search, genes):
                         if j[0]!='' and j[2]!='':
                             forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
                             elements.append({"source": j[0].replace("'","").replace('"',''), "target": j[2].replace("'","").replace('"',''), "interaction": j[1].replace("'","").replace('"','')})                
+            if '?' in my_search: #exact word
+                if my_search.upper().strip().replace('?','') in i.strip().split():
+                    for j in genes[i]:
+                        if j[0]!='' and j[2]!='':
+                            forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
+                            elements.append({"source": j[0].replace("'","").replace('"',''), "target": j[2].replace("'","").replace('"',''), "interaction": j[1].replace("'","").replace('"','')})                
+
+            
             if my_search.upper().strip() in i.strip():
-                print(i,'asd')
                 for j in genes[i]:
                     if j[0]!='' and j[2]!='':
                         forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
@@ -115,7 +165,6 @@ def author():
         handle = Entrez.esearch(db="pubmed", term=search_query)
         record = Entrez.read(handle)
         count = record["Count"]
-        print(count)
         
         forSending = []
         if hits!=[]:
@@ -139,10 +188,12 @@ def author():
         elements = process_network(elements)
         cytoscape_js_code = generate_cytoscape_js(elements)
         warning = ''
+        summaryText = make_text(forSending)
+        
         if len(elements)>400:
             warning = 'The network might be too large to be displayed, so click on "Layout Options", select the edge types that you are interested in and click "Recalculate layout".'
 
-        return render_template('author.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, ncbi_count=count, author= my_search, connectome_count=len(set(papers)), warning=warning)
+        return render_template('author.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, ncbi_count=count, author= my_search, connectome_count=len(set(papers)), warning=warning, summaryText=summaryText)
     else:
         return render_template('not_found.html')
         
@@ -212,6 +263,7 @@ def search():
         for i in forSending:
             papers+=[i.publication]
             
+        summaryText = make_text(forSending)
         warning = ''
         if len(elements)>400:
             warning = 'The network might be too large to be displayed, so click on "Layout Options",  select the edge types that you are interested in and click "Recalculate layout".'
@@ -219,7 +271,7 @@ def search():
         cytoscape_js_code = generate_cytoscape_js(elements)
 
     if forSending!=[]:
-        return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, search_term = my_search, number_papers = len(set(papers)), warning = warning)
+        return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, search_term = my_search, number_papers = len(set(papers)), warning = warning, summaryText=summaryText)
     else:
         return render_template('not_found.html')
 
