@@ -240,33 +240,13 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script src="https://unpkg.com/cytoscape-svg"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.js"></script>
-
-
-
-
   
   </head>
   <body>
-  <button id="download-pdf">Download as PDF</button>
 
-<script>
-function downloadAsPDF() {
-  // Assuming your Cytoscape instance is named 'cy'
-  const cy = document.getElementById('cy')._cyreg.cy;
 
-  // Export the network view as an SVG
-  const svgContent = cy.svg({ copyStyles: true, bg: 'white' });
 
-  // Convert the SVG to a PDF using the jsPDF library
-  const pdf = new jsPDF('l', 'pt', 'a4');
-  pdf.svg(svgContent, { x: 10, y: 10, width: 500, height: 300 }).then(() => {
-    pdf.save('network.pdf');
-  });
-}
 
-  document.getElementById('download-pdf').addEventListener('click', downloadAsPDF);
-</script>
     <h1 style="text-align: center;">Search results for: '{{ search_term }}', with {{ number_papers }} papers in our database on the topic</h1>
 	{% if warning %}
 	  <p style="color: red; text-align: center;">{{ warning }}</p>
@@ -275,10 +255,11 @@ function downloadAsPDF() {
 	  <input type="text" id="node-search" name="node-search" placeholder="Search a node by name" />
 	  <button type="submit">Submit</button>
 	  <button class="help-button" onclick="window.location.href='{{ url_for('index') }}'">Go back</button>
-
+	  <button class="help-button" id="download-pdf">Download as SVG</button>
 	</form>
+	
 <div style="text-align: center;">
-    <p>A table containing the edge information and article abstracts is found below the network.</p>
+    <p>A <a href="#sortable">table</a> containing the edge information and article abstracts is found below the network.</p>
 </div>
 	<div class="cy-wrapper" style="width: 90%; height: 1200px; overflow: hidden; position: relative; background-color: black;">
 	  <div id="cy" style="width: 100%; height: 100%; background-color: white !important;"></div>
@@ -358,6 +339,40 @@ function downloadTableAsTSV(tableId, filename) {
 }
 
     </script>
+	
+<script>
+function downloadAsSVG() {
+  // Assuming your Cytoscape instance is named 'cy'
+  const cy = document.getElementById('cy')._cyreg.cy;
+
+  // Register the SVG Exporter plugin
+  cytoscape.use(cytoscapeSvg);
+
+  // Export the network view as an SVG
+  const svgContent = cy.svg({ copyStyles: true, bg: 'white' });
+
+  // Modify the downloaded SVG to have black letters
+  const svgDOM = new DOMParser().parseFromString(svgContent, 'image/svg+xml');
+  const labels = svgDOM.querySelectorAll('text');
+  labels.forEach(label => label.setAttribute('fill', '#00FF00'));
+  const modifiedSvgContent = new XMLSerializer().serializeToString(svgDOM);
+
+  // Create a Blob from the SVG content
+  const blob = new Blob([modifiedSvgContent], { type: 'image/svg+xml;charset=utf-8' });
+  const url = URL.createObjectURL(blob);
+
+  // Create a link element, set its href to the Blob URL, and trigger a click event to download the SVG
+  const link = document.createElement('a');
+  link.href = url;
+  link.download = 'network.svg';
+  link.click();
+
+  // Revoke the Blob URL
+  URL.revokeObjectURL(url);
+}
+  document.getElementById('download-pdf').addEventListener('click', downloadAsSVG);
+
+</script>
 	<button class="help-button" onclick="downloadTableAsTSV('sortable', 'table.tsv')">Download table as TSV</button>
 
 	<p>The table below lists all of the edges found in the KnowledgeNetwork. Click on the PubmedID to see the abstract that was used to infer an edge.</p>
