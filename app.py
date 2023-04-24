@@ -98,6 +98,7 @@ def find_terms(my_search, genes):
                             forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
                             elements.append({"source": j[0].replace("'","").replace('"',''), "target": j[2].replace("'","").replace('"',''), "interaction": j[1].replace("'","").replace('"','')})                
             if '?' in my_search: #exact word
+                print(my_search.upper().strip().replace('?',''))
                 if my_search.upper().strip().replace('?','') in i.strip().split():
                     for j in genes[i]:
                         if j[0]!='' and j[2]!='':
@@ -136,24 +137,20 @@ def index():
 def author():
     try:
         my_search = request.form["author"].lower()
+        replacements = {"ä": "ae", "ö": "oe", "ü": "ue", "ß": "ss", "é": "e", "ô": "o", "î": "i", "ç": "c"}
+        my_search = ''.join(replacements.get(c, c) for c in my_search)
     except:
-        my_search=''
+        my_search =''
 
     if my_search!='':
-        with open('abstracts', 'rb') as f:
+        with open('authors', 'rb') as f:
             # Load the object from the file
             papers = pickle.load(f)
-            
+           
         hits = []
-        
-        for i in papers:
-            for author in i['authors']:
-            
-                replacements = {"ä": "ae", "ö": "oe", "ü": "ue", "ß": "ss", "é": "e", "ô": "o", "î": "i", "ç": "c"}
-                author = ''.join(replacements.get(c, c) for c in author)
-
-                if len(set(my_search.split())&set(author.lower().split()))==len(set(my_search.split())):
-                    hits.append(i['pmid'])
+        for author in papers:      
+            if len(set(my_search.split())&set(author.lower().split()))==len(set(my_search.split())):
+                hits+=papers[author]
                     
         # provide your email address to the Entrez API
         Entrez.email = "mutwil@gmail.com"

@@ -123,7 +123,7 @@
     <header>
       <h1>PlantConnectome</h1>
 	  <p>We used GPT to uncover relationships between genes, molecules, compartments, stresses, organs, and other entities in plants.</p>
-	  <p>We analyzed <strong>{{papers}} papers </strong> and identified <strong>{{entities}} entities</strong> by by having GPT process paper abstracts.</p>
+	  <p>We analyzed <strong>{{papers}} papers </strong> and identified <strong>{{entities}} entities</strong> by having GPT process paper abstracts.</p>
 		<div class="discord-invite">
 		  <p><a href="https://discord.gg/XZ9DzFw8pr" target="_blank">Any issues or suggestions? Drop by our Discord channel to let us know</a></p>
 		</div>
@@ -162,8 +162,9 @@
 
 <form action="/search" method="POST" onsubmit="submitGeneForm(event)" id="gene-form">
   <label for="gene_id">Enter a gene, molecule, compartment, stress, cell type, organ, or any other related term</label>
+  <p>Search options:"?" looks for a matching word, '!" looks for an exact match.</label>
   <input type="text" id="gene_id" name="gene_id" placeholder="CESA">
-  <a href="#" onclick="submitFormWith(event, 'pin1')">pin1</a>
+  <a href="#" onclick="submitFormWith(event, 'pin1!')">pin1!</a>
   <a href="#" onclick="submitFormWith(event, 'proline')">proline</a>
   <a href="#" onclick="submitFormWith(event, 'heat?')">heat?</a>
   <a href="#" onclick="submitFormWith(event, 'root hair')">root hair</a>

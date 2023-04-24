@@ -275,7 +275,7 @@
 	</form>
 	
 <div style="text-align: center;">
-    <p>A <a href="#sortable">table</a> containing the edge information and article abstracts is found below the network.</p>
+    <p>A <a href="#summaryText">summary</a> and a <a href="#sortable">table</a> containing the edge information and article abstracts is found below the network.</p>
 </div>
 	<div class="cy-wrapper" style="width: 90%; height: 1200px; overflow: hidden; position: relative; background-color: black;">
 	  <div id="cy" style="width: 100%; height: 100%; background-color: white !important;"></div>
@@ -389,10 +389,12 @@ function downloadAsSVG() {
   document.getElementById('download-pdf').addEventListener('click', downloadAsSVG);
 
 </script>
-
+	
+	<div id="summaryText">
 	<p><strong>This is the text summary of the network.</strong></p>
 	{{ summaryText|safe }}
 	<br><br><br>
+	</div> 
 	<button class="help-button" onclick="downloadTableAsTSV('sortable', 'table.tsv')">Download table as TSV</button>
 
 	<p>The table below lists all of the edges found in the KnowledgeNetwork. Click on the PubmedID to see the abstract that was used to infer an edge.</p>
