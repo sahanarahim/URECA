@@ -373,8 +373,11 @@ function downloadAsSVG() {
   document.getElementById('download-pdf').addEventListener('click', downloadAsSVG);
 
 </script>
+	<p><strong>This is the text summary of the network.</strong></p>
+	{{ summaryText|safe }}
+	<br><br><br>
 	<button class="help-button" onclick="downloadTableAsTSV('sortable', 'table.tsv')">Download table as TSV</button>
-
+	
 	<p>The table below lists all of the edges found in the KnowledgeNetwork. Click on the PubmedID to see the abstract that was used to infer an edge.</p>
     <table id="sortable" class="sortable">
       <thead>

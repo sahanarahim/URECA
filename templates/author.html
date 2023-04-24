@@ -238,12 +238,13 @@
   <script src="https://unpkg.com/cytoscape@3.23.0/dist/cytoscape.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
-  <script src="https://unpkg.com/cytoscape-cola/cytoscape-cola.js"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-
+<script src="https://unpkg.com/cytoscape-svg"></script>
   
   </head>
   <body>
+
+
   <h1 style="text-align: center;">Search results for: {{ author }}</h1>
 
  
@@ -262,6 +263,7 @@
       </tr>
     </tbody>
   </table>
+
 	{% if warning %}
 	  <p style="color: red; text-align: center;">{{ warning }}</p>
 	{% endif %}
@@ -269,10 +271,11 @@
 	  <input type="text" id="node-search" name="node-search" placeholder="Search a node by name" />
 	  <button type="submit">Submit</button>
 	  <button class="help-button" onclick="window.location.href='{{ url_for('index') }}'">Go back</button>
-
+	  <button class="help-button" id="download-pdf">Download as SVG</button>
 	</form>
+	
 <div style="text-align: center;">
-    <p>A table containing the edge information and article abstracts is found below the network.</p>
+    <p>A <a href="#sortable">table</a> containing the edge information and article abstracts is found below the network.</p>
 </div>
 	<div class="cy-wrapper" style="width: 90%; height: 1200px; overflow: hidden; position: relative; background-color: black;">
 	  <div id="cy" style="width: 100%; height: 100%; background-color: white !important;"></div>
@@ -324,11 +327,76 @@
 	  });
 	  layout.run();
 	}
+	
+function downloadTableAsTSV(tableId, filename) {
+  const table = document.getElementById(tableId);
+  const rows = table.querySelectorAll('tr');
+  let tsvContent = '';
+
+  rows.forEach(row => {
+    const rowData = [];
+    const cells = row.querySelectorAll('th, td');
+
+    cells.forEach(cell => {
+      rowData.push(cell.textContent);
+    });
+
+    tsvContent += rowData.join('\t') + '\n';
+  });
+
+  const blob = new Blob([tsvContent], { type: 'text/tab-separated-values' });
+  const url = URL.createObjectURL(blob);
+
+  const link = document.createElement('a');
+  link.href = url;
+  link.download = filename;
+  link.click();
+  URL.revokeObjectURL(url);
+}
 
     </script>
-	<p>The table below lists all of the edges found in the KnowledgeNetwork. Click on the PubmedID to see the abstract that was used to infer an edge.</p>
+	
+<script>
+function downloadAsSVG() {
+  // Assuming your Cytoscape instance is named 'cy'
+  const cy = document.getElementById('cy')._cyreg.cy;
 
-    <table class="sortable">
+  // Register the SVG Exporter plugin
+  cytoscape.use(cytoscapeSvg);
+
+  // Export the network view as an SVG
+  const svgContent = cy.svg({ copyStyles: true, bg: 'white' });
+
+  // Modify the downloaded SVG to have black letters
+  const svgDOM = new DOMParser().parseFromString(svgContent, 'image/svg+xml');
+  const labels = svgDOM.querySelectorAll('text');
+  labels.forEach(label => label.setAttribute('fill', '#00FF00'));
+  const modifiedSvgContent = new XMLSerializer().serializeToString(svgDOM);
+
+  // Create a Blob from the SVG content
+  const blob = new Blob([modifiedSvgContent], { type: 'image/svg+xml;charset=utf-8' });
+  const url = URL.createObjectURL(blob);
+
+  // Create a link element, set its href to the Blob URL, and trigger a click event to download the SVG
+  const link = document.createElement('a');
+  link.href = url;
+  link.download = 'network.svg';
+  link.click();
+
+  // Revoke the Blob URL
+  URL.revokeObjectURL(url);
+}
+  document.getElementById('download-pdf').addEventListener('click', downloadAsSVG);
+
+</script>
+
+	<p><strong>This is the text summary of the network.</strong></p>
+	{{ summaryText|safe }}
+	<br><br><br>
+	<button class="help-button" onclick="downloadTableAsTSV('sortable', 'table.tsv')">Download table as TSV</button>
+
+	<p>The table below lists all of the edges found in the KnowledgeNetwork. Click on the PubmedID to see the abstract that was used to infer an edge.</p>
+    <table id="sortable" class="sortable">
       <thead>
         <tr>
           <th>Source</th>
