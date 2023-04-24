@@ -1,3 +1,25 @@
+function downloadAsPDF() {
+  // Assuming your Cytoscape instance is named 'cy'
+  const cy = document.getElementById('cy')._cyreg.cy;
+
+
+  // Register the SVG Exporter plugin
+  cytoscape.use(cytoscapeSvg);
+
+  // Export the network view as an SVG
+  const svgContent = cy.svg({ copyStyles: true, bg: 'white' });
+
+  // Convert the SVG to a PDF using the jsPDF library
+  const pdf = new jsPDF('l', 'pt', 'a4');
+  pdf.svg(svgContent, { x: 10, y: 10, width: 500, height: 300 }).then(() => {
+    pdf.save('network.pdf');
+  });
+}
+
+// Add an event listener to the button to handle the click event
+document.querySelector(".open-button").addEventListener("click", openForm);
+
+
 function openForm() {
   document.getElementById("myForm").style.display = "block";
   

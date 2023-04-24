@@ -238,12 +238,35 @@
   <script src="https://unpkg.com/cytoscape@3.23.0/dist/cytoscape.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
-  <script src="https://unpkg.com/cytoscape-cola/cytoscape-cola.js"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src="https://unpkg.com/cytoscape-svg"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.js"></script>
+
+
+
 
   
   </head>
   <body>
+  <button id="download-pdf">Download as PDF</button>
+
+<script>
+function downloadAsPDF() {
+  // Assuming your Cytoscape instance is named 'cy'
+  const cy = document.getElementById('cy')._cyreg.cy;
+
+  // Export the network view as an SVG
+  const svgContent = cy.svg({ copyStyles: true, bg: 'white' });
+
+  // Convert the SVG to a PDF using the jsPDF library
+  const pdf = new jsPDF('l', 'pt', 'a4');
+  pdf.svg(svgContent, { x: 10, y: 10, width: 500, height: 300 }).then(() => {
+    pdf.save('network.pdf');
+  });
+}
+
+  document.getElementById('download-pdf').addEventListener('click', downloadAsPDF);
+</script>
     <h1 style="text-align: center;">Search results for: '{{ search_term }}', with {{ number_papers }} papers in our database on the topic</h1>
 	{% if warning %}
 	  <p style="color: red; text-align: center;">{{ warning }}</p>
@@ -254,7 +277,9 @@
 	  <button class="help-button" onclick="window.location.href='{{ url_for('index') }}'">Go back</button>
 
 	</form>
-
+<div style="text-align: center;">
+    <p>A table containing the edge information and article abstracts is found below the network.</p>
+</div>
 	<div class="cy-wrapper" style="width: 90%; height: 1200px; overflow: hidden; position: relative; background-color: black;">
 	  <div id="cy" style="width: 100%; height: 100%; background-color: white !important;"></div>
 	  <button class="open-button" onclick="openForm()">Layout Options</button>
@@ -305,10 +330,38 @@
 	  });
 	  layout.run();
 	}
+	
+function downloadTableAsTSV(tableId, filename) {
+  const table = document.getElementById(tableId);
+  const rows = table.querySelectorAll('tr');
+  let tsvContent = '';
+
+  rows.forEach(row => {
+    const rowData = [];
+    const cells = row.querySelectorAll('th, td');
+
+    cells.forEach(cell => {
+      rowData.push(cell.textContent);
+    });
+
+    tsvContent += rowData.join('\t') + '\n';
+  });
+
+  const blob = new Blob([tsvContent], { type: 'text/tab-separated-values' });
+  const url = URL.createObjectURL(blob);
+
+  const link = document.createElement('a');
+  link.href = url;
+  link.download = filename;
+  link.click();
+  URL.revokeObjectURL(url);
+}
 
     </script>
+	<button class="help-button" onclick="downloadTableAsTSV('sortable', 'table.tsv')">Download table as TSV</button>
 
-    <table class="sortable">
+	<p>The table below lists all of the edges found in the KnowledgeNetwork. Click on the PubmedID to see the abstract that was used to infer an edge.</p>
+    <table id="sortable" class="sortable">
       <thead>
         <tr>
           <th>Source</th>
