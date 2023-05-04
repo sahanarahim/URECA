@@ -2,10 +2,34 @@ from flask import Flask, render_template, request, redirect, url_for
 import pickle
 import re
 from Bio import Entrez
+import os
+from random import randint
 
+# Importing custom utilities 
+import utils.edges as e
+
+
+# == DELETE AFTER ==
+connections = {}
+def find_connections(f):
+    try: 
+        for j in open(f'./annotations/{f}').readlines()[2:]:
+            n1, edge, n2 = list(map(lambda x : x.strip().replace(':', '').title(), j.split("!")))
+            key = f"{n1}%?%{edge}"
+            
+            if key not in connections:
+                connections[key] = []
+            connections[key].append(n2)
+    except:
+        pass
+
+for f in os.listdir("./annotations"):
+    find_connections(f)
+connection_keys = sorted(connections, key = lambda x : len(connections[x]), reverse = True)
 
 def generate_cytoscape_js(elements):
-    nodes = [
+
+    '''nodes = [
         "{ data: { id: '%s' } }" % node
         for node in set(edge["source"] for edge in elements) | set(edge["target"] for edge in elements)
     ]
@@ -18,11 +42,64 @@ def generate_cytoscape_js(elements):
         )
         for i, edge in enumerate(elements)
     ]
-
+    print(edges)'''
+    chosen_edges = ['Modulate', 'Modulated By']
+    statements = []
+    
+    ''' while True:
+        ind = randint(0, len(chosen_edges) - 1)
+        for i in connection_keys:
+            if len(k) == 20: break 
+            if chosen_edges[ind] in i: k.append(i)
+        break'''
+    
+    for i in range(len(chosen_edges)):
+        times = 0
+        for j in connection_keys:
+            if times == 5: break 
+            if chosen_edges[i].title() not in j:
+                continue 
+            if True:
+                res = e.search_passive_edges(chosen_edges[i], e.PASSIVE_EDGES)
+                if res:
+                    for k in connections[j]:
+                        node1, node2 = j.split("%?%")[0], k 
+                        statements.append((node2, res.upper(), node1))
+                else:
+                    for k in connections[j]:
+                        node1, edge, node2 = j.split("%?%")[0], j.split("%?%")[1], k 
+                        statements.append((node1, edge, node2))
+            times += 1
+                
+    nodes, edges = ["{ data: { id: \"%s\" } }" % statements[0][0]], []
+    '''
+     nodes = ["{ data: { id: '%s' } }" % node for node in chosen + [f'{query_n}{i * " "}' for i in range(5)]]
+    edges = [
+        "{ data: { id: 'edge%s', source: '%s', target: '%s', interaction: '%s' } }" % (
+            i,
+            query_n + i * " ",
+            n,
+            edge,
+        )
+        for i, n in enumerate(chosen)
+    ]
+    '''
+    for i in range(len(statements)):
+        connected_to, query_n, edge = statements[i][2], statements[i][0], statements[i][1]
+        if len(connected_to) and len(query_n) and len(edge):
+            nodes.append("{ data: { id: \"%s\" } }" % connected_to)
+            nodes.append("{ data: { id: \"%s\" } }" % query_n)
+            edges.append("{ data: { id: \"edge%s\", source: \"%s\", target: \"%s\", interaction: \"%s\" } }" % (
+                i,
+                query_n,
+                connected_to,
+                edge,
+            ))
     a = open('network.txt','r').read()
 
     nodes = ', '.join(nodes)
     edges = ', '.join(edges)
+    
     return a.replace('NODES',nodes).replace('EDGES',edges)
 
 def process_network(elements):    
@@ -114,6 +191,7 @@ def find_terms(my_search, genes):
     return elements, forSending
 
 app = Flask(__name__)
+app.debug = True
 
 class Gene:
     def __init__(self, id, description, inter_type, publication):
@@ -297,8 +375,7 @@ if __name__ == '__main__':
                     items+=[agentA]
                     items+=[agentB]
                 
-    
     v = open('stats.txt','w')
     v.write(str(len(os.listdir(os.getcwd()+'/annotations/')))+'\t'+str(len(set(items))))
     v.close()
-    app.run(debug=True)
+    app.run(debug = True)
