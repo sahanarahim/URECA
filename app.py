@@ -86,6 +86,7 @@ def generate_cytoscape_js(elements):
     '''
     for i in range(len(statements)):
         connected_to, query_n, edge = statements[i][2], statements[i][0], statements[i][1]
+        print(f'{query_n} {edge.upper()} {connected_to}')
         if len(connected_to) and len(query_n) and len(edge):
             nodes.append("{ data: { id: \"%s\" } }" % connected_to)
             nodes.append("{ data: { id: \"%s\" } }" % query_n)
@@ -359,7 +360,7 @@ if __name__ == '__main__':
     import os
     items, edges = [],0
     for i in os.listdir(os.getcwd()+'/annotations/'):
-        a = open(os.getcwd()+'/annotations/'+i,'r').read()
+        a = open(os.getcwd()+'/annotations/'+i,'r', encoding = 'ISO-8859-1').read()
         
         if len(a)>0:
             findings = a.split('\n\n')[1].split('\n')

@@ -27,6 +27,6 @@ def search_passive_edges(edge, to_search):
     Otherwise, a 'None' is returned.
     '''
     for i in list(to_search.items()):
-        if edge.upper() in list(map(lambda x : x.upper(), i[0])):
+        if edge.upper() in [j.upper() for j in i[0]]:
             return i[1].upper()
     return None
