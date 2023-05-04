@@ -1,0 +1,8 @@
+In plants, photoperiod is an important cue for determining flowering. The floral transition in Arabidopsis thaliana is earlier under long-day (LD) than under short-day (SD) conditions. Flowering of Arabidopsis plants under SD conditions is mainly regulated by the plant hormone gibberellin (GA). Here, we report two WRKY transcription factors function oppositely in controlling flowering time under SD conditions. Phenotypic analysis showed that disruption of WRKY12 caused a delay in flowering, while loss of WRKY13 function promoted flowering. WRKY12 and WRKY13 displayed negatively correlated expression profiles and function successively to regulate flowering. Molecular and genetic analyses demonstrated that FRUITFULL (FUL) is a direct downstream target gene of WRKY12 and WRKY13. Interestingly, we found that DELLA proteins GIBBERELLIN INSENSITIVE (GAI) and RGA-LIKE1 (RGL1) interacted with WRKY12 and WRKY13, and their interactions interfered with the transcriptional activity of the WRKY12 and WRKY13. Further studies suggested thatWRKY12 and WRKY13 partly mediated the effect of GA<sub>3</sub> on controlling flowering time. Taken together, our results indicate that WRKY12 and WRKY13 oppositely modulate flowering time under SD conditions, which at least partially involves the action of GA.
+
+WRKY12: !represses! FUL
+WRKY13: !enhances! FUL
+WRKY12: !interacts with! GAI
+WRKY13: !interacts with! RGL1
+GA3: !affects! WRKY12/13
+WRKY12/13: !regulate! flowering time

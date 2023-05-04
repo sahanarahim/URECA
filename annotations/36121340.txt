@@ -1,0 +1,14 @@
+['36121340', 'Anthocyanins are a group of pigments that have various roles in plants including  attracting pollinators and seed dispersers and protecting against various types  of stress. In vegetative tissue, these anthocyanins are sequestered in the  vacuole following biosynthesis in the cytoplasm, though there remain questions as  to the events leading to the vacuolar sequestration. In this study, we were able  to show that the uptake of acylated anthocyanins by vacuolar membrane-enriched  vesicles isolated from Arabidopsis was stimulated by the addition of MgATP and  was inhibited by both vanadate and glybenclamide, but not by gramicidin D or  bafilomycin A(1) , suggesting that uptake involves an ATP-binding cassette (ABC)  transporter and not an H(+) -antiporter. Membrane vesicles isolated from yeast  expressing the ABC transporters designated AtABCC1, AtABCC2, and AtABCC14 are  capable of MgATP-dependent uptake of acylated anthocyanins. This uptake was not  dependent on glutathione as seen previously for anthocyanidin 3-O-monoglucosides.  Compared to the wild-type, the transport of acylated anthocyanins was lower in  vacuolar membrane-enriched vesicles isolated from atabcc1 cell cultures providing  evidence that AtABCC1 may be the predominant transporter of these compounds in  vivo. In addition, the pattern of anthocyanin accumulation differed between the  atabcc1, atabcc2, and atabcc14 mutants and the wild-type seedlings under  anthocyanin inductive conditions. We suggest that AtABCC1, AtABCC2, and AtABCC14  are involved in the vacuolar transport of acylated anthocyanins produced in the  vegetative tissue of Arabidopsis and that the pattern of anthocyanin accumulation  can be altered depending on the presence or absence of a specific vacuolar ABC  transporter.', '2022 Sep', 'Physiol Plant', '10.1111/ppl.13780', 'Shaban']
+
+MgATP: !stimulates! Uptake of acylated anthocyanins 
+Vanadate: !inhibits! Uptake of acylated anthocyanins 
+Glybenclamide: !inhibits! Uptake of acylated anthocyanins 
+Gramicidin D: !does not affect! Uptake of acylated anthocyanins 
+Bafilomycin A(1): !does not affect! Uptake of acylated anthocyanins 
+AtABCC1: !mediates! Uptake of acylated anthocyanins 
+AtABCC2: !mediates! Uptake of acylated anthocyanins 
+AtABCC14: !mediates! Uptake of acylated anthocyanins 
+Glutathione: !not required for! Uptake of acylated anthocyanins 
+AtABCC1: !reduces! Transport of acylated anthocyanins 
+AtABCC2: !alters! Pattern of anthocyanin accumulation 
+AtABCC14: !alters!

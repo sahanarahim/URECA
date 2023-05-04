@@ -1,0 +1,8 @@
+The hormone jasmonate (JA), which functions in plant immunity, regulates resistance to pathogen infection and insect attack through triggering genome-wide transcriptional reprogramming in plants. We show that the basic helix-loop-helix transcription factor (TF) MYC2 in tomato (<i>Solanum lycopersicum</i>) acts downstream of the JA receptor to orchestrate JA-mediated activation of both the wounding and pathogen responses. Using chromatin immunoprecipitation sequencing (ChIP-seq) coupled with RNA sequencing (RNA-seq) assays, we identified 655 MYC2-targeted JA-responsive genes. These genes are highly enriched in Gene Ontology categories related to TFs and the early response to JA, indicating that MYC2 functions at a high hierarchical level to regulate JA-mediated gene transcription. We also identified a group of MYC2-targeted TFs (MTFs) that may directly regulate the JA-induced transcription of late defense genes. Our findings suggest that MYC2 and its downstream MTFs form a hierarchical transcriptional cascade during JA-mediated plant immunity that initiates and amplifies transcriptional output. As proof of concept, we showed that during plant resistance to the necrotrophic pathogen <i>Botrytis cinerea</i>, MYC2 and the MTF JA2-Like form a transcription module that preferentially regulates wounding-responsive genes, whereas MYC2 and the MTF ETHYLENE RESPONSE FACTOR.C3 form a transcription module that preferentially regulates pathogen-responsive genes.
+
+JA: !regulates! MYC2 
+MYC2: !orchestrates! JA-mediated activation 
+MYC2: !targets! JA-responsive genes 
+MTFs: !directly regulate! JA-induced transcription 
+MYC2/JA2-Like: !preferentially regulates! wounding-responsive genes 
+MYC2/ERF.C3: !preferentially regulates! pathogen-responsive genes

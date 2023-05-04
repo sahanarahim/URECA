@@ -1,0 +1,7 @@
+In thylakoid membrane, each monomer of the dimeric complex of cytochrome b <sub>6</sub> f is comprised of eight subunits that are both nucleus- and plastid-encoded. Proper cytochrome b <sub>6</sub> f complex integration into the thylakoid membrane requires numerous regulatory factors for coordinated transport, insertion and assembly of the subunits. Although, the chloroplast-encoded cytochrome b <sub>6</sub> f subunit IV (PetD) consists of three transmembrane helices, the signal and the mechanism of protein integration into the thylakoid membrane have not been identified. Here, we demonstrate that the native PetD subunit cannot incorporate into the thylakoid membranes spontaneously, but that proper integration occurs through the post-translational signal recognition particle (SRP) pathway. Furthermore, we show that PetD insertion into thylakoid membrane involves the coordinated action of cpFTSY, cpSRP54 and ALB3 insertase. PetD subunit integration into the thylakoid membrane is a post-translational and an SRP-dependent process that requires the formation of the cpSRP-cpFtsY-ALB3-PetD complex. This data provides a new insight into the molecular mechanisms by which membrane proteins integration into the thylakoid membrane is accomplished and is not limited to PetD.
+
+PetD: !requires! SRP pathway
+cpFTSY: !coordinates with! cpSRP54
+cpSRP54: !coordinates with! ALB3
+ALB3: !coordinates with! PetD
+PetD: !inserted into! thylakoid membrane

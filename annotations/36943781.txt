@@ -1,0 +1,7 @@
+The macronutrient phosphorus is essential for plant growth and development. Plants have evolved multiple strategies to increase the efficiency of phosphate (Pi) acquisition to protect themselves from Pi starvation. However, the crosstalk between Pi homeostasis and plant development remains to be explored. Here, we report that overexpressing microRNA399 (miR399) in maize (Zea mays) is associated with premature senescence after pollination. Knockout of ZmPHO2 (Phosphate 2), a miR399 target, resulted in a similar premature senescence phenotype. Strikingly, we discovered that INDETERMINATE1 (ID1), a floral transition regulator, inhibits the transcription of ZmMIR399 genes by directly binding to their promoters, alleviating the repression of ZmPHO2 by miR399 and ultimately contributing to the maintenance of Pi homeostasis in maize. Unlike ZmMIR399 genes, whose expression is induced by Pi deficiency, ID1 expression was independent of the external inorganic orthophosphate status, indicating that ID1 is an autonomous regulator of Pi homeostasis. Furthermore, we show that ZmPHO2 was under selection during maize domestication and cultivation, resulting in a more sensitive response to Pi starvation in temperate maize than in tropical maize. Our study reveals a direct functional link between Pi-deprivation sensing by the miR399-ZmPHO2 regulatory module and plant developmental regulation by ID1.
+
+miR399: !targets! ZmPHO2 
+ID1: !inhibits! ZmMIR399 
+ZmPHO2: !repressed by! miR399 
+ID1: !regulates! Pi homeostasis 
+ZmPHO2: !selected during! maize domestication

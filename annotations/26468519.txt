@@ -1,0 +1,10 @@
+Precise measurements of leaf vein traits are an important aspect of plant phenotyping for ecological and genetic research. Here, we present a powerful and user-friendly image analysis tool named phenoVein. It is dedicated to automated segmenting and analyzing of leaf veins in images acquired with different imaging modalities (microscope, macrophotography, etc.), including options for comfortable manual correction. Advanced image filtering emphasizes veins from the background and compensates for local brightness inhomogeneities. The most important traits being calculated are total vein length, vein density, piecewise vein lengths and widths, areole area, and skeleton graph statistics, like the number of branching or ending points. For the determination of vein widths, a model-based vein edge estimation approach has been implemented. Validation was performed for the measurement of vein length, vein width, and vein density of Arabidopsis (Arabidopsis thaliana), proving the reliability of phenoVein. We demonstrate the power of phenoVein on a set of previously described vein structure mutants of Arabidopsis (hemivenata, ondulata3, and asymmetric leaves2-101) compared with wild-type accessions Columbia-0 and Landsberg erecta-0. phenoVein is freely available as open-source software.
+
+phenoVein: !measures! leaf vein traits 
+leaf vein traits: !calculated by! phenoVein 
+phenoVein: !filters! images 
+images: !emphasizes! veins 
+veins: !measured for! Arabidopsis 
+Arabidopsis: !validates! phenoVein 
+phenoVein: !compares! mutants and wild-type accessions 
+mutants: !analyzed with! phenoVein

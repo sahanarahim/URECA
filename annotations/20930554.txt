@@ -1,0 +1,8 @@
+In a recent publication we analyzed the global effects triggered by IAA overproduction in S. meliloti RD64 under free-living conditions by comparing the gene expression pattern of wild type 1021 with that of RD64 and 1021 treated with IAA and other four chemically or functionally related molecules. Among the genes differentially expressed in RD64 and IAA-treated 1021 cells we found two genes of pho operon, phoT and phoC. Based on this finding we examined the mechanisms for mineral P solubilization in RD64 and the potential ability of this strain to improve Medicago growth under P-starved conditions. Here, we further analyze the expression profiles obtained in microarray analysis and evaluate the specificity and the extent of overlap between all treatments. Venn diagrams indicated that IAA- and 2,4-D-regulated genes were closely related. Furthermore, most differentially expressed genes from pSymA were induced in 1021 cells treated with 2,4-D, ICA, IND and Trp as compared to the untreated 1021 cells. RT-PCR analysis was employed to analyze the differential expression patterns of nitrogen fixation genes under free-living and symbiotic conditions. Under symbiotic condition, the relative expression levels of nif and fix genes were significantly induced in Mt- RD64 plants and in Mt-1021 plants treated with IAA and 2,4-D whereas they were unchanged or repressed in Mt-1021 plants treated with the other selected compounds when compared to the untreated Mt-1021 plants.
+
+gene: !affects! expression
+gene: !induced by! IAA
+gene: !induced by! 2,4-D
+gene: !repressed by! other compounds
+gene: !enhances! nitrogen fixation
+gene: !synthesizes! mineral P solubilization

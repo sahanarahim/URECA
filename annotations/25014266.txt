@@ -1,0 +1,10 @@
+The exposition of 7-day-old pea seedlings to dehydration induced sudden changes in the concentration of monosaccharides and sucrose in epicotyl and roots tissues. During 24h of dehydration, the concentration of glucose and, to a lesser extent, fructose in seedling tissues decreased. The accumulation of sucrose was observed in roots after 4h and in epicotyls after 8h of stress. Epicotyls and roots also began to accumulate galactinol and raffinose after 8h of stress, when small changes in the water content of tissues occurred. The accumulation of galactinol and raffinose progressed parallel to water withdrawal from tissues, but after seedling rehydration both galactosides disappeared. The synthesis of galactinol and raffinose by an early induction (during the first hour of treatment) of galactinol synthase (PsGolS) and raffinose synthase (PsRS) gene expression as well as a later increase in the activity of both enzymes was noted. Signals possibly triggering the induction of PsGolS and PsRS gene expression and accumulation of galactinol and raffinose in seedlings are discussed.
+
+PsGolS: !induces! PsRS
+PsGolS: !synthesizes! galactinol
+PsRS: !induces! PsGolS
+PsRS: !synthesizes! raffinose
+dehydration: !induces! PsGolS
+dehydration: !induces! PsRS
+dehydration: !enhances! galactinol
+dehydration: !enhances! raffinose

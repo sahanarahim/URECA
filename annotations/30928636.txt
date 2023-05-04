@@ -1,0 +1,7 @@
+CRISPR/Cas9 genome editing relies on sgRNA-target DNA base pairing and a short downstream PAM sequence to recognize target DNA. The strict protospacer adjacent motif (PAM) requirement hinders applications of the CRISPR/Cas9 system since it restricts the targetable sites in the genomes. xCas9 and SpCas9-NG are two recently engineered SpCas9 variants that can recognize more relaxed NG PAMs, implying a great potential in addressing the issue of PAM constraint. Here we use stable transgenic lines to evaluate the efficacies of xCas9 and SpCas9-NG in performing gene editing and base editing in rice. We found that xCas9 can efficiently induce mutations at target sites with NG and GAT PAM sequences in rice. However, base editors containing xCas9 failed to edit most of the tested target sites. SpCas9-NG exhibited a robust editing activity at sites with various NG PAMs without showing any preference for the third nucleotide after NG. Moreover, we showed that xCas9 and SpCas9-NG have higher specificity than SpCas9 at the CGG PAM site. We further demonstrated that different forms of cytosine or adenine base editors containing SpCas9-NG worked efficiently in rice with broadened PAM compatibility. Taken together, our work has yielded versatile genome-engineering tools that will significantly expand the target scope in rice and other crops.
+
+CRISPR/Cas9: !recognizes! PAM sequence
+xCas9: !induces mutations at! target sites
+SpCas9-NG: !edits! sites with various NG PAMs
+xCas9: !has higher specificity than! SpCas9
+base editors: !work efficiently in! rice

@@ -1,0 +1,9 @@
+Brassinosteroids (BRs) and abscisic acid (ABA) are plant hormones that antagonistically regulate many aspects of plant growth and development; however, the mechanisms that regulate the crosstalk of these two hormones are still not well understood. BRs regulate plant growth and development by activating BRASSINAZOLE RESISTANT 1 (BZR1) family transcription factors. Here we show that the crosstalk between BRs and ABA signalling is partially mediated by BZR1 regulated gene expression. bzr1-1D is a dominant mutant with enhanced BR signalling; our results showed that bzr1-1D mutant is less sensitive to ABA-inhibited primary root growth. By RNA sequencing, a subset of BZR1 regulated ABA-responsive root genes were identified. Of these genes, the expression of a major ABA signalling component ABA INSENSITIVE 5 (ABI5) was found to be suppressed by BR and by BZR1. Additional evidences showed that BZR1 could bind strongly with several G-box cis-elements in the promoter of ABI5, suppress the expression of ABI5 and make plants less sensitive to ABA. Our study demonstrated that ABI5 is a direct target gene of BZR1, and modulating the expression of ABI5 by BZR1 plays important roles in regulating the crosstalk between the BR and ABA signalling pathways.
+
+BRs: !regulate! BZR1
+BZR1: !activates! BRs
+BZR1: !regulates! ABA-responsive root genes
+ABA: !inhibits! primary root growth
+BZR1: !suppresses! ABI5
+BZR1: !binds to! G-box cis-elements in ABI5 promoter
+ABI5: !modulates! crosstalk between BR and ABA signalling

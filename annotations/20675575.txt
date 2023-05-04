@@ -1,0 +1,8 @@
+The adaptation of root architecture to environmental constraints is a major agricultural trait, notably in legumes, the third main crop worldwide. This root developmental plasticity depends on the formation of lateral roots (LRs) emerging from primary roots. In the model legume Medicago truncatula, the HD-Zip I transcription factor HB1 is expressed in primary and lateral root meristems and induced by salt stress. Constitutive expression of HB1 in M. truncatula roots alters their architecture, whereas hb1 TILLING mutants showed increased lateral root emergence. Electrophoretic mobility shift assay, promoter mutagenesis, and chromatin immunoprecipitation-PCR assays revealed that HB1 directly recognizes a CAATAATTG cis-element present in the promoter of a LOB-like (for Lateral Organ Boundaries) gene, LBD1, transcriptionally regulated by auxin. Expression of these genes in response to abscisic acid and auxin and their behavior in hb1 mutants revealed an HB1-mediated repression of LBD1 acting during LR emergence. M. truncatula HB1 regulates an adaptive developmental response to minimize the root surface exposed to adverse environmental stresses.
+
+HB1: !regulates! LBD1
+HB1: !represses! LBD1
+HB1: !recognizes! CAATAATTG
+HB1: !induces! salt stress
+HB1: !mediates! LR emergence
+LBD1: !transcriptionally regulated by! auxin

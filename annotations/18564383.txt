@@ -1,0 +1,10 @@
+Massive degradation of photosynthetic proteins is the hallmark of leaf senescence; however the mechanism involved in chloroplast protein breakdown is not completely understood. As small 'senescence-associated vacuoles' (SAVs) with intense proteolytic activity accumulate in senescing leaves of soybean and Arabidopsis, the main goal of this work was to determine whether SAVs are involved in the degradation of chloroplastic components. SAVs with protease activity were readily detected through confocal microscopy of naturally senescing leaves of tobacco (Nicotiana tabacum L.). In detached leaves incubated in darkness, acceleration of the chloroplast degradation rate by ethylene treatment correlated with a twofold increase in the number of SAVs per cell, compared to untreated leaves. In a tobacco line expressing GFP targeted to plastids, GFP was re-located to SAVs in senescing leaves. SAVs were isolated by sucrose density gradient centrifugation. Isolated SAVs contained chloroplast-targeted GFP and the chloroplast stromal proteins Rubisco (ribulose-1,5-bisphosphate carboxylase/oxygenase) and glutamine synthetase, but lacked the thylakoid proteins D1 and light-harvesting complex II of the photosystem II reaction center and photosystem II antenna, respectively. In SAVs incubated at 30 degrees C, there was a steady decrease in Rubisco levels, which was completely abolished by addition of protease inhibitors. These results indicate that SAVs are involved in degradation of the soluble photosynthetic proteins of the chloroplast stroma during senescence of leaves.
+
+SAV: !contains! GFP 
+SAV: !contains! Rubisco 
+SAV: !contains! Glutamine synthetase 
+SAV: !lacks! D1 
+SAV: !lacks! Light-harvesting complex II 
+Ethylene: !increases! SAVs 
+SAV: !degrades! Rubisco 
+Protease inhibitors: !inhibit! Rubisco degradation

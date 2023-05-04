@@ -1,0 +1,23 @@
+B-box containing proteins (BBXs) integrate light and various hormonal signals to regulate plant growth and development. Here, we demonstrate that the photomorphogenic repressors BBX28 and BBX29 positively regulate brassinosteroid (BR) signaling in Arabidopsis thaliana seedlings. Treatment with the BR brassinolide stabilized BBX28 and BBX29, which partially depended on BR INSENSITIVE1 (BRI1) and BIN2. bbx28 bbx29 seedlings exhibited larger cotyledon aperture than the wild-type when treated with brassinazole in the dark, which partially suppressed the closed cotyledons of brassinazole resistant 1-1D (bzr1-1D). Consistently, overexpressing BBX28 and BBX29 partially rescued the short hypocotyls of bri1-5 and bin2-1 in both the dark and light, while the loss-of-function of BBX28 and BBX29 partially suppressed the long hypocotyls of bzr1-1D in the light. BBX28 and BBX29 physically interacted with BR-ENHANCED EXPRESSION1 (BEE1), BEE2, and BEE3 and enhanced their binding to and activation of their target genes. Moreover, BBX28 and BBX29 as well as BEE1, BEE2, and BEE3 increased BZR1 accumulation to promote the BR signaling pathway. Therefore, both BBX28 and BBX29 interact with BEE1, BEE2, and BEE3 to orchestrate light and BR signaling by facilitating the transcriptional activity of BEE target genes. Our study provides insights into the pivotal roles of BBX28 and BBX29 as signal integrators in ensuring normal seedling development.
+
+BBX28: !interacts with! BEE1
+BBX28: !interacts with! BEE2
+BBX28: !interacts with! BEE3
+BBX29: !interacts with! BEE1
+BBX29: !interacts with! BEE2
+BBX29: !interacts with! BEE3
+BRI1: !stabilizes! BBX28
+BRI1: !stabilizes! BBX29
+BIN2: !stabilizes! BBX28
+BIN2: !stabilizes! BBX29
+BBX28: !enhances! BEE1
+BBX28: !enhances! BEE2
+BBX28: !enhances! BEE3
+BBX29: !enhances! BEE1
+BBX29: !enhances! BEE2
+BBX29: !enhances! BEE3
+BEE1: !activates! BBX28
+BEE1: !activates! BBX29
+BEE2: !activates! BBX28
+BEE2: !activates! BBX29
+BEE3: !activ

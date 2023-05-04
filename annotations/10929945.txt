@@ -1,0 +1,9 @@
+['10929945', 'A partial cDNA encoding an Arabidopsis thaliana FH (Formin Homology) protein  (AFH1) was used as a probe to clone a full length AFH1 cDNA. The deduced protein  encoded by the cDNA contains a FH1 domain rich in proline residues and a  C-terminal FH2 domain which is highly conserved amongst FH proteins. In contrast  to FH proteins of other organisms, the predicted AFH1 protein also contains a  putative signal peptide and a transmembrane domain suggesting its association  with membrane. Cell fractionation by differential centrifugation demonstrated the  presence of AFH1 in the Triton X-100 insoluble microsomal fraction. An  Arabidopsis cDNA library was screened to identify proteins that interact with the  C-terminal region of AFH1 using yeast two-hybrid assays, and one of the isolated  cDNAs encoded a novel protein, FIP2. Experiments using recombinant proteins  expressed in E. coli demonstrated that FIP2 interacted directly with AFH1. The  amino acid sequence of FIP2 has partial homology to bacterial putative membrane  proteins and animal A-type K+ ATPases. AFH1 may form a membrane anchored complex  with FIP2, which might be involved in the organization of the actin cytoskeleton.', '2000 May', 'Plant Cell Physiol', '10.1093/pcp/41.5.617', 'Chua']
+
+AFH1: !encodes! FH protein 
+AFH1: !localizes to! Triton X-100 insoluble microsomal fraction
+AFH1: !interacts with! FIP2
+FIP2: !encodes! novel protein
+FIP2: !homologous to! bacterial putative membrane proteins and animal A-type K+ ATPases
+FIP2: !interacts with! AFH1
+AFH1/FIP2 complex: !involved in! organization of actin cytoskeleton

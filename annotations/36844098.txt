@@ -1,0 +1,19 @@
+<i>Sitobion miscanthi</i>, <i>Rhopalosiphum padi</i>, and <i>Schizaphis graminum</i> are the three main pests in Chinese wheat-producing regions. In 2020, they are classified into the Chinese Class I list of agricultural diseases and pests, due to their severe harm to wheat plantings. <i>S. miscanthi</i>, <i>R. padi</i>, and <i>S. graminum</i> are migrant pests, and understanding their migration patterns and simulating their migration trajectories would improve forecasting and controlling them. Furthermore, the bacterial community of the migrant wheat aphid is also less known. In this study, we employed a suction trap to uncover the migration patterns of the three wheat aphid species in Yuanyang county, Henan province, during 2018 to 2020. And then the migration trajectories of <i>S. miscanthi</i> and <i>R. padi</i> were simulated using the NOAA HYSPLIT model. The interactions between wheat aphids and bacteria were further revealed by specific PCR and 16S rRNA amplicon sequencing. The results showed that the population dynamics of migrant wheat aphids was varied. Most of the trapped samples were identified to be <i>R. padi</i>, and <i>S. graminum</i> was the least collected sample. Typically, <i>R. padi</i> had two migration peaks in the 3 years, whereas <i>S. miscanthi</i> and <i>S. graminum</i> only exhibited one migration peak in 2018 and 2019. Moreover, the aphid migration trajectories varied over the years. Generally, the aphids originated from the south and migrated to the north. Herein, the infections of three main aphid facultative bacterial symbionts, <i>Serratia symbiotica</i>, <i>Hamiltonella defensa</i>, and <i>Regiella insercticola</i>, were detected in <i>S. miscanthi</i> and <i>R. padi</i> with specific PCR. <i>Rickettsiella</i>, <i>Arsenophonus</i>, <i>Rickettsia</i>, and <i>Wolbachia</i> were further identified with 16S rRNA amplicon sequencing. Biomarker searching indicated that <i>Arsenophonus</i> was significantly enriched in <i>R. padi</i>. Furthermore, diversity analyses showed that the bacterial community of <i>R. padi</i> had a higher richness and evenness than that of <i>S. miscanthi</i>. In conclusion, this study expands our knowledge about the migration patterns of aphids in the main wheat plant region of China and reveals the interactions between bacterial symbionts and migrant aphids.
+
+S. miscanthi: !migrates to! North
+R. padi: !migrates to! North
+S. graminum: !migrates to! North
+S. miscanthi: !infected by! S. symbiotica
+S. miscanthi: !infected by! H. defensa
+S. miscanthi: !infected by! R. insercticola
+R. padi: !infected by! S. symbiotica
+R. padi: !infected by! H. defensa
+R. padi: !infected by! R. insercticola
+R. padi: !enriched by! Arsenophonus
+S. miscanthi: !enriched by! Rickettsiella
+S. miscanthi: !enriched by! Arsenophonus
+S. miscanthi: !enriched by! Rickettsia
+S. miscanthi: !enriched by! Wolbachia
+R. padi: !enriched by! Rickettsiella
+R. padi: !enriched by! Arsenophonus
+R. padi: !en

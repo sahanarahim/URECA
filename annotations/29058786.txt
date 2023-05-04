@@ -1,0 +1,9 @@
+Flowers are required for the Darwinian fitness of flowering plants, but flowers' advertisements for pollination services can attract florivores. Previous glasshouse work with Nicotiana attenuata revealed the role of jasmonate (JA) signaling in flower development, advertisement and defense. However, whether JA signaling mediates flowers' filtering of floral visitors in nature remained unknown. This field study revealed that silencing JA signaling resulted in flowers that produce less nectar and benzyl acetone, two pollinator-attractive traits. Meanwhile, flowers of defenseless plants were highly attacked by a suite of native herbivores, and damage to buds in native plants correlated negatively with their JA-Ile levels.
+
+jasmonate: !affects! flower development
+jasmonate: !affects! advertisement
+jasmonate: !affects! defense
+jasmonate: !affects! nectar production
+jasmonate: !affects! benzyl acetone production
+herbivores: !attack! defenseless plants
+JA-Ile: !correlates with! bud damage

@@ -1,0 +1,14 @@
+Genomic imprinting is often associated with allele-specific epigenetic modifications. Although many reports suggested potential roles of DNA methylation and H3K27me3 in regulating genomic imprinting, the contributions of allele-specific active histone modifications to imprinting remain still unclear in plants. Here, we report the identification of 337 high-stringency allele-specific H3K4me3 and H3K36me3 peaks in maize endosperm. Paternally preferred H3K4me3 and H3K36me3 peaks mostly co-localized with paternally expressed genes (PEGs), while endosperm-specific maternally expressed genes (endo-MEGs) were associated with maternally preferred H3K4me3 and H3K36me3 peaks. A unique signature for PEGs was observed, where the active H3K4me4 and H3K36me3 as well as repressive H3K27me3 appeared together. At the gene body of con-PEGs (constitutively expressed PEG), H3K27me3 and H3K36me3 were specifically deposited on hypomethylated maternal alleles and hypermethylated paternal alleles, respectively. Around the transcription start sites of endo-MEGs, DNA methylation and H3K4me3 specifically marked paternal and maternal alleles, respectively. In addition, 35 maternally expressed non-coding RNAs exhibited the same allele-specific epigenetic features as endo-MEGs, indicating similar mechanisms for the regulation of imprinted genes and non-coding RNAs. Taken together, our results uncover the complex patterns of mutually exclusive epigenetic modifications deposited at different alleles of imprinted genes that are required for genomic imprinting in maize endosperm.
+
+H3K4me3: !localizes to! PEGs
+H3K36me3: !localizes to! PEGs
+H3K27me3: !represses! PEGs
+H3K4me3: !localizes to! endo-MEGs
+H3K36me3: !localizes to! endo-MEGs
+H3K27me3: !represses! con-PEGs
+DNA methylation: !marks! paternal alleles
+DNA methylation: !marks! maternal alleles
+H3K4me3: !marks! paternal alleles
+H3K4me3: !marks! maternal alleles
+H3K36me3: !marks! paternal alleles
+H3K27me3: !marks! maternal alleles

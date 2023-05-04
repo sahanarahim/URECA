@@ -1,0 +1,8 @@
+From screening a population of Arabidopsis overexpression lines, two Arabidopsis genes were identified, EFO1 (early flowering by overexpression 1) and EFO2, that confer early flowering when overexpressed. The two genes encode putative WD-domain proteins which share high sequence similarity and constitute a small subfamily. Interestingly, the efo2-1 loss-of-function mutant also flowered earlier in short days and slightly earlier in long days than the wild type, while no flowering-time or morphological differences were observed in efo1-1 relative to the wild type. In addition, the efo2-1 mutation perturbed hypocotyl elongation, leaf expansion and formation, and stem elongation. EFO1 and EFO2 are both regulated by the circadian clock. Expression and genetic analyses revealed that EFO2 suppresses flowering largely through the action of CONSTANS (CO) and flowering locus T (FT), suggesting that EFO2 is a negative regulator of photoperiodic flowering. The growth defects in efo2-1 were augmented in efo1 efo2, but the induction of FT in the double mutant was comparable to that in efo2-1. Thus, while EFO2 acts as a floral repressor, EFO1 may not be directly involved in flowering, but the two genes do have overlapping roles in regulating other developmental processes. EFO1 and EFO2 may function collectively to serve as one of the converging points where the signals of growth and flowering intersect.
+
+EFO1: !enhances! EFO2
+EFO2: !represses! flowering
+EFO2: !suppresses! CO and FT
+EFO1: !interacts with! EFO2
+EFO1: !regulates! developmental processes
+EFO1 and EFO2: !converge! growth and flowering signals

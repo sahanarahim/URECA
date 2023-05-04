@@ -1,0 +1,9 @@
+Our objective was to calibrate a model of the root system architecture on several Poaceae species and to assess its value to simulate several 'integrated' traits measured at the root system level: specific root length (SRL), maximum root depth and root mass. We used the model ArchiSimple, made up of sub-models that represent and combine the basic developmental processes, and an experiment on 13 perennial grassland Poaceae species grown in 1.5-m-deep containers and sampled at two different dates after planting (80 and 120 d). Model parameters were estimated almost independently using small samples of the root systems taken at both dates. The relationships obtained for calibration validated the sub-models, and showed species effects on the parameter values. The simulations of integrated traits were relatively correct for SRL and were good for root depth and root mass at the two dates. We obtained some systematic discrepancies that were related to the slight decline of root growth in the last period of the experiment. Because the model allowed correct predictions on a large set of Poaceae species without global fitting, we consider that it is a suitable tool for linking root traits at different organisation levels.
+
+Model: !calibrates! Poaceae species
+Model: !represents! developmental processes
+Experiment: !measures! integrated traits
+Parameter: !estimated by! small samples
+Relationships: !validate! sub-models
+Simulations: !predict! SRL, root depth, root mass
+Discrepancies: !related to! slight decline of root growth

@@ -1,0 +1,12 @@
+Cytoplasmic recognition of pathogen virulence effectors by plant NB-LRR proteins leads to strong induction of defence responses termed effector triggered immunity (ETI). In tomato, a protein complex containing the NB-LRR protein Prf and the protein kinase Pto confers recognition of the Pseudomonas syringae effectors AvrPto and AvrPtoB. Although structurally unrelated, AvrPto and AvrPtoB interact with similar residues in the Pto catalytic cleft to activate ETI via an unknown mechanism. Here we show that the Prf complex is oligomeric, containing at least two molecules of Prf. Within the complex, Prf can associate with Pto or one of several Pto family members including Fen, Pth2, Pth3, or Pth5. The dimerization surface for Prf is the novel N-terminal domain, which also coordinates an intramolecular interaction with the remainder of the molecule, and binds Pto kinase or a family member. Thus, association of two Prf N-terminal domains brings the associated kinases into close promixity. Tomato lines containing Prf complexed with Pth proteins but not Pto possessed greater immunity against P. syringae than tomatoes lacking Prf. This demonstrates that incorporation of non-Pto kinases into the Prf complex extends the number of effector proteins that can be recognized.
+
+Prf: !dimerizes! N-terminal domain 
+Prf: !associates with! Pto 
+Prf: !associates with! Fen 
+Prf: !associates with! Pth2 
+Prf: !associates with! Pth3 
+Prf: !associates with! Pth5 
+Pto: !recognizes! AvrPto 
+Pto: !recognizes! AvrPtoB 
+AvrPto: !activates! ETI 
+AvrPtoB: !activates! ETI

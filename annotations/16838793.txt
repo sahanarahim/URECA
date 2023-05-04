@@ -1,0 +1,7 @@
+The chromosomal ntrPR operon of Sinorhizobium meliloti encodes a protein pair that forms a toxin-antitoxin (TA) module, the first characterized functional TA system in Rhizobiaceae. Similarly to other bacterial TA systems, the toxin gene ntrR is preceded by and partially overlaps with the antitoxin gene ntrP. Based on protein homologies, the ntrPR operon belongs to the vapBC family of TA systems. The operon is negatively autoregulated by the NtrPNtrR complex. Promoter binding by NtrP is weak; stable complex formation also requires the presence of NtrR. The N-terminal part of NtrP is responsible for the interaction with promoter DNA, whereas the C-terminal part is required for protein-protein interactions. In the promoter region, a direct repeat sequence was identified as the binding site of the NtrPNtrR complex. NtrR expression resulted in the inhibition of cell growth and colony formation; this effect was counteracted by the presence of the antitoxin NtrP. These results and our earlier observations demonstrating a less effective downregulation of a wide range of symbiotic and metabolic functions in the ntrR mutant under microoxic conditions and an increased symbiotic efficiency with the host plant alfalfa suggest that the ntrPR module contributes to adjusting metabolic levels under symbiosis and other stressful conditions.
+
+NtrP: !binds to! Promoter DNA
+NtrP: !interacts with! NtrR
+NtrPNtrR: !autoregulates! ntrPR operon
+NtrPNtrR: !inhibits! Cell growth/Colony formation
+NtrP: !counteracts! NtrR expression

@@ -1,0 +1,8 @@
+The Oryza sativa L. indica subspecies is the most widely cultivated rice. During the last few years, we have collected over 20,000 putative full-length cDNAs and over 40,000 ESTs isolated from various cDNA libraries of two indica varieties Guangluai 4 and Minghui 63. A database of the rice indica cDNAs was therefore built to provide a comprehensive web data source for searching and retrieving the indica cDNA clones. Rice Indica cDNA Database (RICD) is an online MySQL-PHP driven database with a user-friendly web interface. It allows investigators to query the cDNA clones by keyword, genome position, nucleotide or protein sequence, and putative function. It also provides a series of information, including sequences, protein domain annotations, similarity search results, SNPs and InDels information, and hyperlinks to gene annotation in both The Rice Annotation Project Database (RAP-DB) and The TIGR Rice Genome Annotation Resource, expression atlas in RiceGE and variation report in Gramene of each cDNA. The online rice indica cDNA database provides cDNA resource with comprehensive information to researchers for functional analysis of indica subspecies and for comparative genomics. The RICD database is available through our website http://www.ncgr.ac.cn/ricd.
+
+Gene: !affects! Process 
+Gene: !localizes to! Genome Position 
+Gene: !interacts with! Protein Domain Annotations 
+Gene: !enhances! Similarity Search Results 
+Gene: !represses! SNPs and InDels Information 
+Gene: !synthesizes! Hyperlinks to Gene Annotation

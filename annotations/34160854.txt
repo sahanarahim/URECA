@@ -1,0 +1,13 @@
+The butenolide molecule, karrikin (KAR), emerging in smoke of burned plant material, enhances light responses such as germination, inhibition of hypocotyl elongation, and anthocyanin accumulation in Arabidopsis. The KAR signaling pathway consists of KARRIKIN INSENSITIVE 2 (KAI2) and MORE AXILLARY GROWTH 2 (MAX2), which, upon activation, act in an SCF E3 ubiquitin ligase complex to target the downstream signaling components SUPPRESSOR OF MAX2 1 (SMAX1) and SMAX1-LIKE 2 (SMXL2) for degradation. How degradation of SMAX1 and SMXL2 is translated into growth responses remains unknown. Although light clearly influences the activity of KAR, the molecular connection between the two pathways is still poorly understood. Here, we demonstrate that the KAR signaling pathway promotes the activity of a transcriptional module consisting of ELONGATED HYPOCOTYL 5 (HY5), B-BOX DOMAIN PROTEIN 20 (BBX20), and BBX21. The bbx20 bbx21 mutant is largely insensitive to treatment with KAR<sub>2</sub> , similar to a hy5 mutant, with regards to inhibition of hypocotyl elongation and anthocyanin accumulation. Detailed analysis of higher order mutants in combination with RNA-sequencing analysis revealed that anthocyanin accumulation downstream of SMAX1 and SMXL2 is fully dependent on the HY5-BBX module. However, the promotion of hypocotyl elongation by SMAX1 and SMXL2 is, in contrast to KAR<sub>2</sub> treatment, only partially dependent on BBX20, BBX21, and HY5. Taken together, these results suggest that light- and KAR-dependent signaling intersect at the HY5-BBX transcriptional module.
+
+KAI2: !activates! SCF E3 ubiquitin ligase complex
+MAX2: !activates! SCF E3 ubiquitin ligase complex
+SCF E3 ubiquitin ligase complex: !targets! SMAX1
+SCF E3 ubiquitin ligase complex: !targets! SMXL2
+KAR: !enhances! light responses
+HY5: !interacts with! BBX20
+BBX20: !interacts with! BBX21
+HY5-BBX module: !promoted by! KAR signaling pathway
+SMAX1: !dependent on! HY5-BBX module for anthocyanin accumulation
+SMXL2: !dependent on! HY5-BBX module for anthocyanin accumulation
+SMAX1/SMXL2: !partially dependent on! HY5-BBX module for hypocotyl elongation

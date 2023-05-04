@@ -1,0 +1,7 @@
+Root growth is maintained by the continuous division of cells in the apical meristem. ROOT MERISTEM GROWTH FACTOR 1 (RGF1) is a critical peptide hormone regulating root stem cell niche maintenance. Previous studies discovered that five closely related leucine-rich repeat receptor-like protein kinases (LRR-RLKs), named RGF1 INSENSITIVES (RGIs) or RGF1 RECEPTORS (RGFRs), are able to perceive the RGF1 signal and redundantly control root stem cell niche maintenance. RGF1 regulates root meristem activity mainly via two downstream transcription factors, PLETHORA 1 (PLT1) and PLT2. Regulatory proteins connecting cell surface RGF1-RGI1 and nuclear PLTs, however, were not identified. Here, we report that the mitogen-activated protein (MAP) kinase kinase 4 (MKK4) and MAP kinase 3 (MPK3) were co-immunoprecipitated with RGI1-FLAG after Arabidopsis seedlings were treated with RGF1. Genetic and biochemical assays confirmed that MKK4 and MKK5, and their downstream targets MPK3 and MPK6, are essential RGI-dependent regulators of root meristem development. In addition, we found that the MKK4/MKK5-MPK3/MPK6 module functions downstream of YDA, a MAPKKK. Our results demonstrate that RGF1-RGI1 regulate the expression of PLT1/PLT2 via a YDA-MKK4/MKK5-MPK3/MPK6 signaling cascade.
+
+RGF1: !regulates! root meristem activity
+RGI1: !interacts with! MKK4/MKK5
+YDA: !activates! MKK4/MKK5
+MKK4/MKK5: !activate! MPK3/MPK6
+MPK3/MPK6: !regulate! PLT1/PLT2

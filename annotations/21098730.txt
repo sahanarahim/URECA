@@ -1,0 +1,9 @@
+A defining, yet poorly understood characteristic of the circadian clock is that it is buffered against changes in temperature such that the period length is relatively constant across a range of physiologically relevant temperatures. We describe here the role of PSEUDO RESPONSE REGULATOR7 (PRR7) and PRR9 in temperature compensation. The Arabidopsis thaliana circadian oscillator comprises a series of interlocking feedback loops, and PRR7 and PRR9 function in the morning loop. The prr7 prr9 double mutant displays a unique phenotype that has not been observed before in other Arabidopsis clock mutants. In the prr7 prr9 mutant, the effects of temperature are overcompensated, apparently due to hyperactivation of the transcription factors CIRCADIAN CLOCK ASSOCIATED1 (CCA1) and LATE ELONGATED HYPOCOTYL (LHY). Inactivation of CCA1 and LHY fully suppresses the overcompensation defects of prr7 prr9 mutants and rescues their long period phenotype. Overcompensation in prr7 prr9 mutants does not rely on FLOWERING LOCUS C, a previously identified gene required for temperature compensation. Together, our results reveal a role of PRR7 and PRR9 in regulating CCA1 and LHY activities in response to ambient temperature.
+
+PRR7: !regulates! CCA1 
+PRR7: !regulates! LHY
+PRR9: !regulates! CCA1
+PRR9: !regulates! LHY
+CCA1: !enhances! Overcompensation
+LHY: !enhances! Overcompensation
+FLOWERING LOCUS C: !not required for! Temperature Compensation

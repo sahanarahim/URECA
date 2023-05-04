@@ -1,0 +1,9 @@
+Fruit ripening is a complex and genetically programmed process modulated by transcription factors, hormones, and other regulators. However, the mechanism underlying the regulatory loop involving the membrane-protein targets of RIPENING-INHIBITOR (RIN) remains poorly understood. To unravel the function of tomato ( <i><u>S</u>olanum <u>l</u>ycopersicum</i>) <i>FERONIA Like</i> (<i>SlFERL</i>), a putative MADS-box transcription factor target gene, we investigated and addressed the significance of <i>SlFERL</i> in fruit ripening by combining reverse genetics, biochemical, and cytological analyses. Here, we report that RIN and Tomato AGAMOUS-LIKE1 (TAGL1) directly bind to the promoter region of <i>SlFERL</i> and further activate its expression transcriptionally, suggesting a potential role of <i>SlFERL</i> in fruit ripening. Overexpression of <i>SlFERL</i> significantly accelerated the ripening process of tomato fruit, whereas RNA interference knockdown of <i>SlFERL</i> resulted in delayed fruit ripening. Moreover, a surface plasmon resonance assay coupled with tandem mass spectrometry and a protein interaction assay revealed that SlFERL interacts with the key enzyme <i>S</i>-adenosyl-Met synthetase 1 (SlSAMS1) in the ethylene biosynthesis pathway, leading to increased <i>S</i>-adenosyl-Met accumulation and elevated ethylene production. Thus, SlFERL serves as a positive regulator of ethylene production and fruit ripening. This study provides clues to the molecular regulatory networks underlying fruit ripening.
+
+RIN: !activates! SlFERL
+TAGL1: !activates! SlFERL
+SlFERL: !accelerates! ripening
+SlFERL: !interacts with! SlSAMS1
+SlSAMS1: !increases! S-adenosyl-Met accumulation
+SlSAMS1: !elevates! ethylene production
+SlFERL: !regulates! ethylene production

@@ -1,0 +1,8 @@
+Successful application of posttranscriptional gene silencing (PTGS) for gene function study in both plants and animals depends on high target specificity and silencing efficiency. By computational analysis with genome and/or transcriptome sequences of 25 plant species, we predicted that about 50% to 70% of gene transcripts in plants have potential off-targets when used for PTGS that could obscure experimental results. We have developed a publicly available Web-based computational tool called siRNA Scan to identify potential off-targets during PTGS. Some of the potential off-targets obtained from this tool were tested by measuring the amount of off-target transcripts using quantitative reverse transcription-PCR. Up to 50% of the predicted off-target genes tested in plants were actually silenced when tested experimentally. Our results suggest that a high risk of off-target gene silencing exists during PTGS in plants. Our siRNA Scan tool is useful to design better constructs for PTGS by minimizing off-target gene silencing in both plants and animals.
+
+PTGS: !depends on! target specificity 
+PTGS: !has potential for! off-target silencing 
+siRNA Scan: !identifies! potential off-targets 
+quantitative reverse transcription-PCR: !measures! amount of off-target transcripts 
+predicted off-target genes: !silenced! when tested experimentally 
+siRNA Scan: !minimizes! off-target gene silencing

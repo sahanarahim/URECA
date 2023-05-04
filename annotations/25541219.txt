@@ -1,0 +1,7 @@
+['25541219', 'Xylem vessel cells develop secondary cell walls in distinct patterns. Cortical  microtubules are rearranged into distinct patterns and regulate secondary cell  wall deposition; however, it is unclear how exocytotic membrane trafficking is  linked to cortical microtubules. Here, we show that the novel coiled-coil  proteins vesicle tethering 1 (VETH1) and VETH2 recruit EXO70A1, an exocyst  subunit essential for correct patterning of secondary cell wall deposition, to  cortical microtubules via the conserved oligomeric Golgi complex (COG) 2 protein.  VETH1 and VETH2 encode an uncharacterized domain of an unknown function  designated DUF869, and were preferentially up-regulated in xylem cells.  VETH1-green fluorescent protein (GFP) and VETH2-GFP co-localized at novel  vesicle-like small compartments, which exhibited microtubule plus-end-directed  and end-tracking dynamics. VETH1 and VETH2 interacted with COG2, and this  interaction promoted the association between cortical microtubules and EXO70A1  These results suggest that the VETH-COG2 complex ensures the correct secondary  cell wall deposition pattern by recruiting exocyst components to cortical  microtubules.', '2015 Feb', 'Plant Cell Physiol', '10.1093/pcp/pcu197', 'Fukuda']
+
+VETH1: !interacts with! COG2
+VETH2: !interacts with! COG2
+COG2: !recruits! EXO70A1
+EXO70A1: !localizes to! cortical microtubules
+VETH1/2: !enhances! association between cortical microtubules and EXO70A1

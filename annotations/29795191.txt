@@ -1,0 +1,13 @@
+Plant resistance genes typically encode proteins with nucleotide binding site-leucine rich repeat (NLR) domains. Here we show that Ptr is an atypical resistance gene encoding a protein with four Armadillo repeats. Ptr is required for broad-spectrum blast resistance mediated by the NLR R gene Pi-ta and by the associated R gene Pi-ta2. Ptr is expressed constitutively and encodes two isoforms that are mainly localized in the cytoplasm. A two base pair deletion within the Ptr coding region in the fast neutron-generated mutant line M2354 creates a truncated protein, resulting in susceptibility to M. oryzae. Targeted mutation of Ptr in a resistant cultivar using CRISPR/Cas9 leads to blast susceptibility, further confirming its resistance function. The cloning of Ptr may aid in the development of broad spectrum blast resistant rice.
+
+Ptr: !encodes! protein 
+protein: !contains! NLR domains 
+Ptr: !required for! broad-spectrum blast resistance 
+R gene Pi-ta: !mediated by! Ptr 
+R gene Pi-ta2: !mediated by! Ptr 
+Ptr: !expressed! constitutively 
+Ptr: !localized in! cytoplasm 
+M2354: !creates! truncated protein 
+truncated protein: !results in! susceptibility to M. oryzae 
+CRISPR/Cas9: !targeted mutation of! Ptr 
+resistant cultivar: !leads to! blast susceptibility

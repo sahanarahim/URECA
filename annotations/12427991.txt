@@ -1,0 +1,8 @@
+['12427991', 'The components of the cellular machinery that accomplish the various complex and  dynamic membrane fusion events that occur at the division plane during plant  cytokinesis, including assembly of the cell plate, are not fully understood. The  most well-characterized component, KNOLLE, a cell plate-specific soluble  N-ethylmaleimide-sensitive fusion protein (NSF)-attachment protein receptor  (SNARE), is a membrane fusion machine component required for plant cytokinesis.  Here, we show the plant ortholog of Cdc48p/p97, AtCDC48, colocalizes at the  division plane in dividing Arabidopsis cells with KNOLLE and another SNARE, the  plant ortholog of syntaxin 5, SYP31. In contrast to KNOLLE, SYP31 resides in  defined punctate membrane structures during interphase and is targeted during  cytokinesis to the division plane. In vitro-binding studies demonstrate that  AtCDC48 specifically interacts in an ATP-dependent manner with SYP31 but not with  KNOLLE. In contrast, we show that KNOLLE assembles in vitro into a large  approximately 20S complex in an Sec18p/NSF-dependent manner. These results  suggest that there are at least two distinct membrane fusion pathways involving  Cdc48p/p97 and Sec18p/NSF that operate at the division plane to mediate plant  cytokinesis. Models for the role of AtCDC48 and SYP31 at the division plane will  be discussed.', '2002 Nov', 'Plant Physiol', '10.1104/pp.011742', 'Bednarek']
+
+KNOLLE: !localizes to! Division Plane 
+SYP31: !localizes to! Division Plane 
+AtCDC48: !localizes to! Division Plane 
+AtCDC48: !interacts with! SYP31 
+KNOLLE: !assembles into! 20S Complex 
+Sec18p/NSF: !enhances! KNOLLE Assembly

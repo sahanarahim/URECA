@@ -1,0 +1,7 @@
+In a complex agricultural region, determine the appropriate crop for each plot of land to maximize the expected total profit is the key problem in cultivation management. However, many factors such as cost, yield, and selling price are typically uncertain, which causes an exact programming method impractical. In this paper, we present a problem of crop cultivation planning, where the uncertain factors are estimated as fuzzy parameters. We adapt an efficient evolutionary algorithm, water wave optimization (WWO), to solve this problem, where each solution is evaluated based on three metrics including the expected, optimistic and pessimistic values, the combination of which enables the algorithm to search credible solutions under uncertain conditions. Test results on a set of agricultural regions in East China showed that the solutions of our fuzzy optimization approach obtained significantly higher profits than those of non-fuzzy optimization methods based on only the expected values.
+
+Crop: !maximizes! Profit 
+Cost: !estimated as! Fuzzy Parameters 
+WWO: !adapted to! Solve Problem 
+Metrics: !combined to! Search Credible Solutions 
+Fuzzy Optimization: !obtains higher! Profits

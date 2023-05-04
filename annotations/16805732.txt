@@ -1,0 +1,14 @@
+['16805732', 'In Arabidopsis, jasmonate is required for stamen and pollen maturation. Mutants  deficient in jasmonate synthesis, such as opr3, are male-sterile but become  fertile when jasmonate is applied to developing flower buds. We have used ATH1  oligonucleotide arrays to follow gene expression in opr3 stamens for 22 h  following jasmonate treatment. In these experiments, a total of 821 genes were  specifically induced by jasmonate and 480 genes were repressed. Comparisons with  data from previous studies indicate that these genes constitute a stamen-specific  jasmonate transcriptome, with a large proportion (70%) of the genes expressed in  the sporophytic tissue but not in the pollen. Bioinformatics tools allowed us to  associate many of the induced genes with metabolic pathways that are probably  upregulated during jasmonate-induced maturation. Our pathway analysis led to the  identification of specific genes within larger families of homologues that  apparently encode stamen-specific isozymes. Extensive additional analysis of our  dataset identified 13 transcription factors that may be key regulators of the  stamen maturation processes triggered by jasmonate. Two of these transcription  factors, MYB21 and MYB24, are the only members of subgroup 19 of the R2R3 family  of MYB proteins. A myb21 mutant obtained by reverse genetics exhibited shorter  anther filaments, delayed anther dehiscence and greatly reduced male fertility. A  myb24 mutant was phenotypically wild-type, but production of a myb21myb24 double  mutant indicated that introduction of the myb24 mutation exacerbated all three  aspects of the myb21 phenotype. Exogenous jasmonate could not restore fertility  to myb21 or myb21myb24 mutant plants. Together with the data from transcriptional  profiling, these results indicate that MYB21 and MYB24 are induced by jasmonate  and mediate important aspects of the jasmonate response during stamen  development.', '2006 Jun', 'Plant J', '10.1111/j.1365-313X.2006.02756.x', 'Browse']
+
+jasmonate: !required for! stamen/pollen maturation 
+opr3 mutants: !become fertile when! jasmonate applied 
+genes: !induced by! jasmonate 
+genes: !repressed by! jasmonate 
+genes: !associated with! metabolic pathways 
+genes: !encode! stamen-specific isozymes 
+transcription factors: !key regulators of! stamen maturation 
+MYB21/24: !induced by! jasmonate 
+MYB21: !mediates! jasmonate response 
+myb21 mutant: !exhibited! shorter anther filaments 
+myb21myb24 double mutant: !exacerbated! myb21 phenotype 
+exogenous jasmonate: !cannot restore fertility to! myb21/myb21myb24 mutant plants

@@ -1,0 +1,8 @@
+The biogenesis of the photosynthetic electron transfer chain in the thylakoid membranes requires the concerted expression of genes in the chloroplast and the nucleus. Chloroplast gene expression is subjected to anterograde control by a battery of nucleus-encoded proteins that are imported in the chloroplast, where they mostly intervene at posttranscriptional steps. Using a new genetic screen, we identify a nuclear mutant that is required for expression of the PsaA subunit of photosystem I (PSI) in the chloroplast of Chlamydomonas reinhardtii. This mutant is affected in the stability and translation of psaA messenger RNA. The corresponding gene, TRANSLATION OF psaA1 (TAA1), encodes a large protein with two domains that are thought to mediate RNA binding: an array of octatricopeptide repeats (OPR) and an RNA-binding domain abundant in apicomplexans (RAP) domain. We show that as expected for its function, TAA1 is localized in the chloroplast. It was previously shown that when mixotrophic cultures of C. reinhardtii (which use both photosynthesis and mitochondrial respiration for growth) are shifted to conditions of iron limitation, there is a strong decrease in the accumulation of PSI and that this is rapidly reversed when iron is resupplied. Under these conditions, TAA1 protein is also down-regulated through a posttranscriptional mechanism and rapidly reaccumulates when iron is restored. These observations reveal a concerted regulation of PSI and of TAA1 in response to iron availability.
+
+Gene: !affects! Process
+TAA1: !localizes to! Chloroplast
+TAA1: !interacts with! PsaA mRNA
+Iron: !enhances! TAA1 protein
+Iron: !represses! PSI accumulation
+TAA1: !synthesizes! PsaA subunit

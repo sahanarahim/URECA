@@ -1,0 +1,9 @@
+Garden dahlias (Dahlia variabilis) are autoallooctoploids with redundant genes producing wide color variations in flowers. There are no pure white dahlia cultivars, despite its long breeding history. However, the white areas of bicolor flower petals appear to be pure white. The objective of this experiment was to elucidate the mechanism by which the pure white color is expressed in the petals of some bicolor cultivars. A pigment analysis showed that no flavonoid derivatives were detected in the white areas of petals in a star-type cultivar 'Yuino' and the two seedling cultivars 'OriW1' and 'OriW2' borne from a red-white bicolor cultivar, 'Orihime', indicating that their white areas are pure white. Semi-quantitative RT-PCR showed that in the pure white areas, transcripts of two chalcone synthases (CHS), DvCHS1 and DvCHS2 which share 69% nucleotide similarity with each other, were barely detected. Premature mRNA of DvCHS1 and DvCHS2 were detected, indicating that these two CHS genes are silenced post-transcriptionally. RNA gel blot analysis revealed that small interfering RNAs (siRNAs) derived from CHSs were produced in these pure white areas. By high-throughput sequence analysis of small RNAs in the pure white areas with no mismatch acceptance, small RNAs were mapped to two alleles of DvCHS1 and two alleles of DvCHS2 expressed in 'Yuino' petals. Therefore, we concluded that simultaneous siRNA-mediated post-transcriptional gene silencing of redundant CHS genes results in the appearance of pure white color in dahlias.
+
+DvCHS1: !produces! siRNAs 
+DvCHS2: !produces! siRNAs 
+siRNAs: !silence! DvCHS1 
+siRNAs: !silence! DvCHS2 
+DvCHS1: !shares! 69% nucleotide similarity with DvCHS2 
+DvCHS1: !barely detected! in pure white areas 
+DvCHS2: !barely detected! in pure white areas

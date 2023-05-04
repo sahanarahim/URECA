@@ -1,0 +1,12 @@
+Topoisomerase IIA (Topo IIA) is an essential ubiquitous enzyme involved in controlling DNA topology during multiple processes of genome function, and has been implicated in the generation of double-stranded breaks (DSB) in genomic DNA prior to DNA integration in plant genomes. Despite extensive characterization of type II topoisomerases from bacteria, viruses and animals, no studies on the specificity of plant Topo IIA-mediated DNA cleavage have been reported. We mapped and characterized Arabidopsis thaliana Topo IIA (AtTopoIIA) cleavage sites and demonstrated that they were cleaved in vivo. The consensus for the AtTopoIIA cleavage sites (ANNNRN downward arrowGTACNTNNNY) was significantly different from recognition sequences reported for Topo IIA from other organisms. The mapped cleavage sites were abundant in the Arabidopsis genome, exhibited a weak consensus, and were cleaved with relatively low efficiency. Use of the systematic evolution of ligands by exponential enrichment (SELEX) protocol identified a single, efficiently cleaved sequence TATATATATGTATATATATA that was over-represented in the genome. The mapped AtTopoIIA cleavage sites and the SELEX sites differed in their genomic distribution and associations with gene regulatory elements, matrix attachment regions, stress-induced DNA duplex destabilization sequences and T-DNA loci, suggesting different genome functions. Mapped AtTopoIIA sites but not SELEX sites were strongly associated with T-DNA integration sites, providing evidence for the involvement of AtTopoIIA-mediated DSB formation in T-DNA integration.
+
+Topo IIA: !cleaves! DNA
+AtTopoIIA: !differs from! Topo IIA from other organisms
+AtTopoIIA: !exhibits weak consensus! for cleavage sites
+SELEX: !identifies! single, efficiently cleaved sequence
+AtTopoIIA: !associated with! gene regulatory elements
+AtTopoIIA: !associated with! matrix attachment regions
+AtTopoIIA: !associated with! stress-induced DNA duplex destabilization sequences
+AtTopoIIA: !associated with! T-DNA loci
+SELEX: !not associated with! T-DNA loci
+AtTopoIIA: !associated with! T-DNA integration sites

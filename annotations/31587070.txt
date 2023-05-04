@@ -1,0 +1,11 @@
+An increased concentration of cytosolic Ca2+ is an early response of plant cells to heat shock. Arabidopsis cyclic nucleotide-gated ion channel 6 (CNGC6) mediates heat-induced Ca2+ influx and is activated by cAMP. However, it remains unclear how the Ca2+ conductivity of CNGC6 is negatively regulated under the elevated cytosolic Ca2+ concentration. In this study, Arabidopsis calmodulin isoforms CaM1/4, CaM2/3/5, CaM6, and CaM7 were found to bind to CNGC6 to varying degrees, and this binding was dependent on the presence of Ca2+ and IQ6, an atypical isoleucine-glutamine motif in CNGC6. Knockout of CaM2, CaM3, CaM5, and CaM7 genes led to a marked increase in plasma membrane inward Ca2+ current under heat shock conditions; however, knockout of CaM1, CaM4, and CaM6 genes had no significant effect on plasma membrane Ca2+ current. Moreover, the deletion of IQ6 from CNGC6 led to a marked increase in plasma membrane Ca2+ current under heat shock conditions. Taken together, the data suggest that CNGC6-mediated Ca2+ influx is likely to be negatively regulated by CaM2/3/5 and CaM7 isoforms under heat shock conditions, and that IQ6 plays an important role in CaM binding and the feedback regulation of the channel.
+
+CNGC6: !binds to! CaM1/4
+CNGC6: !binds to! CaM2/3/5
+CNGC6: !binds to! CaM6
+CNGC6: !binds to! CaM7
+CaM2: !regulates! CNGC6
+CaM3: !regulates! CNGC6
+CaM5: !regulates! CNGC6
+CaM7: !regulates! CNGC6
+IQ6: !facilitates! CaM binding

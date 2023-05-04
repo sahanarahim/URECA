@@ -1,0 +1,10 @@
+CesA1 and CesA3 are thought to occupy noninterchangeable sites in the cellulose synthase making primary wall cellulose in Arabidopsis (Arabidopsis thaliana L. Heynh). With domain swaps and deletions, we show that sites C terminal to transmembrane domain 2 give CesAs access to their individual sites and, from dominance and recessive behavior, deduce that certain CesA alleles exclude others from accessing each site. Constructs that swapped or deleted N-terminal domains were stably transformed into the wild type and into the temperature-sensitive mutants rsw1 (Ala-549Val in CesA1) and rsw5 (Pro-1056Ser in CesA3). Dominant-positive behavior was assayed as root elongation at the restrictive temperature and dominant-negative effects were observed at the permissive temperature. A protein with the catalytic and C-terminal domains of CesA1 and the N-terminal domain of CesA3 promoted growth only in rsw1 consistent with it accessing the CesA1 site even though it contained the CesA3 N-terminal domain. A protein having the CesA3 catalytic and C-terminal domains linked to the CesA1 N-terminal domain dramatically affected growth, but only in the CesA3 mutant. This is consistent with the operation of the same access rule taking this chimeric protein to the CesA3 site. In this case, however, the transgene behaved as a genotype-specific dominant negative, causing a 60% death rate in rsw5, but giving no visible phenotype in wild type or rsw1. We therefore hypothesize that possession of CesA3(WT) protects Columbia and rsw1 from the lethal effects of this chimeric protein, whereas the mutant protein (CesA3(rsw5)) does not.
+
+CesA1: !occupies! noninterchangeable sites
+CesA3: !occupies! noninterchangeable sites
+CesA1: !excludes! CesA3
+CesA3: !excludes! CesA1
+CesA1/CesA3 chimeric protein: !accesses! CesA1 site
+CesA1/CesA3 chimeric protein: !accesses! CesA3 site
+CesA3(WT): !protects! Columbia and rsw1
+CesA3(rsw5): !does not protect! Columbia and rsw1

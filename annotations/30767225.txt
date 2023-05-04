@@ -1,0 +1,10 @@
+Isoprene and monoterpenes (MTs) are among the most abundant and reactive volatile organic compounds produced by plants (biogenic volatile organic compounds). We conducted a meta-analysis to quantify the mean effect of environmental factors associated to climate change (warming, drought, elevated CO<sub>2</sub> , and O<sub>3</sub> ) on the emission of isoprene and MTs. Results indicated that all single factors except warming inhibited isoprene emission. When subsets of data collected in experiments run under similar change of a given environmental factor were compared, isoprene and photosynthesis responded negatively to elevated O<sub>3</sub> (-8% and -10%, respectively) and drought (-15% and -42%), and in opposite ways to elevated CO<sub>2</sub> (-23% and +55%) and warming (+53% and -23%, respectively). Effects on MTs emission were usually not significant, with the exceptions of a significant stimulation caused by warming (+39%) and by elevated O<sub>3</sub> (limited to O<sub>3</sub> -insensitive plants, and evergreen species with storage organs). Our results clearly highlight individual effects of environmental factors on isoprene and MT emissions, and an overall uncoupling between these secondary metabolites produced by the same methylerythritol 4-phosphate pathway. Future results from manipulative experiments and long-term observations may help untangling the interactive effects of these factors and filling gaps featured in the current meta-analysis.
+
+warming: !enhances! MTs emission
+drought: !inhibits! isoprene emission
+drought: !inhibits! photosynthesis
+CO2: !inhibits! isoprene emission
+CO2: !enhances! photosynthesis
+O3: !inhibits! isoprene emission
+O3: !inhibits! photosynthesis
+O3: !stimulates! MTs emission (limited to O3-insensitive plants, and evergreen species with storage organs)

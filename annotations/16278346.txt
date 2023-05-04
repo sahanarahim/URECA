@@ -1,0 +1,13 @@
+We have isolated phytochrome B (phyB) and phyC mutants from rice (Oryza sativa) and have produced all combinations of double mutants. Seedlings of phyB and phyB phyC mutants exhibited a partial loss of sensitivity to continuous red light (Rc) but still showed significant deetiolation responses. The responses to Rc were completely canceled in phyA phyB double mutants. These results indicate that phyA and phyB act in a highly redundant manner to control deetiolation under Rc. Under continuous far-red light (FRc), phyA mutants showed partially impaired deetiolation, and phyA phyC double mutants showed no significant residual phytochrome responses, indicating that not only phyA but also phyC is involved in the photoperception of FRc in rice. Interestingly, the phyB phyC double mutant displayed clear R/FR reversibility in the pulse irradiation experiments, indicating that both phyA and phyB can mediate the low-fluence response for gene expression. Rice is a short-day plant, and we found that mutation in either phyB or phyC caused moderate early flowering under the long-day photoperiod, while monogenic phyA mutation had little effect on the flowering time. The phyA mutation, however, in combination with phyB or phyC mutation caused dramatic early flowering.
+
+phyB: !affects! Deetiolation response
+phyC: !affects! Deetiolation response
+phyA: !affects! Deetiolation response
+phyA: !interacts with! phyB
+phyA: !interacts with! phyC
+phyB: !interacts with! phyC
+phyB: !mediates! Low-fluence response
+phyC: !mediates! Low-fluence response
+phyA: !influences! Flowering time
+phyB: !influences! Flowering time
+phyC: !influences! Flowering time

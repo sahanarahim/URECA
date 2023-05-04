@@ -1,0 +1,14 @@
+['19218364', 'The circadian clock is an endogenous mechanism that coordinates biological  processes with daily and seasonal changes in the environment. Heterodimerization  of central clock components is an important way of controlling clock function in  several different circadian systems. CIRCADIAN CLOCK ASSOCIATED1 (CCA1) and LATE  ELONGATED HYPOCOTYL (LHY) are Myb-related proteins that function in or close to  the central oscillator in Arabidopsis (Arabidopsis thaliana). Single mutants of  cca1 and lhy have a phenotype of short-period rhythms. cca1 lhy double mutants  show an even shorter period phenotype than the cca1 single mutant, suggesting  that CCA1 and LHY are only partially functionally redundant. To determine whether  CCA1 and LHY act in parallel or synergistically in the circadian clock, we  examined their expression in both light-grown and etiolated seedlings. We have  shown that LHY and CCA1 bind to the same region of the promoter of a  Light-harvesting chlorophyll a/b protein (Lhcb, also known as CAB). CCA1 and LHY  can form homodimers, and they also colocalize in the nucleus and heterodimerize  in vitro and in vivo. In Arabidopsis, CCA1 and LHY physically interact in a  manner independent of photoperiod. Moreover, results from gel filtration  chromatography indicate that CCA1 and LHY are present in the same large complex  in plants. Taken together, these results imply that CCA1 and LHY function  synergistically in regulating circadian rhythms of Arabidopsis.', '2009 Jun', 'Plant Physiol', '10.1104/pp.108.133272', 'Tobin']
+
+CCA1: !heterodimerizes with! LHY 
+LHY: !heterodimerizes with! CCA1 
+CCA1: !binds to! Lhcb promoter 
+LHY: !binds to! Lhcb promoter 
+CCA1: !forms homodimers with! LHY 
+LHY: !forms homodimers with! CCA1 
+CCA1: !colocalizes with! LHY 
+LHY: !colocalizes with! CCA1 
+CCA1: !interacts with! LHY 
+LHY: !interacts with! CCA1 
+CCA1: !present in same complex as! LHY 
+LHY: !present in same complex as! CCA1

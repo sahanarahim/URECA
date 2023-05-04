@@ -1,0 +1,10 @@
+As a leaf homologous organ, soybean pods are an essential factor in determining yield and quality of the grain. In this study, a recognition method of soybean pods and estimation of pods weight per plant were proposed based on improved YOLOv5 model. First, the YOLOv5 model was improved by using the coordinate attention (CA) module and the regression loss function of boundary box to detect and accurately count the pod targets on the living plants. Then, the prediction model was established to reliably estimate the yield of the whole soybean plant based on back propagation (BP) neural network with the topological structure of 5-120-1. Finally, compared with the traditional YOLOv5 model, the calculation and parameters of the proposed model were reduced by 17% and 7.6%, respectively. The results showed that the average precision (AP) value of the improved YOLOv5 model reached 91.7% with detection rate of 24.39 frames per millisecond. The mean square error (MSE) of the estimation for single pod weight was 0.00865, and the average coefficients of determination R<sup>2</sup> between predicted and actual weight of a single pod was 0.945. The mean relative error (MRE) of the total weight estimation for all potted soybean plant was 0.122. The proposed method can provide technical support for not only the research and development of the pod's real-time detection system, but also the intelligent breeding and yield estimation.
+
+YOLOv5 model: !improved by! Coordinate Attention (CA) module 
+YOLOv5 model: !improved by! Regression loss function of boundary box 
+Back Propagation (BP) neural network: !established with! Topological structure of 5-120-1 
+Improved YOLOv5 model: !reaches! Average Precision (AP) value of 91.7% 
+Improved YOLOv5 model: !detects! 24.39 frames per millisecond 
+Prediction model: !estimates! Single pod weight 
+Prediction model: !predicts! Actual weight of a single pod 
+Prediction model: !estimates! Total weight estimation for all potted soybean plant

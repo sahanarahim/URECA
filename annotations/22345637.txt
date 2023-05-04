@@ -1,0 +1,11 @@
+Plant resistance proteins (R) are involved in pathogen recognition and subsequent initiation of defence responses. Their activity is regulated by inter- and intramolecular interactions. In a yeast two-hybrid screen two clones (I2I-1 and I2I-2) specifically interacting with I-2, a Fusarium oxysporum f. sp. lycopersici resistance protein of the CC-NB-LRR family, were identified. Sequence analysis revealed that I2I-1 belongs to the Formin gene family (SlFormin) whereas I2I-2 has homology to translin-associated protein X (SlTrax). SlFormin required only the N-terminal CC I-2 domain for binding, whereas SlTrax required both I-2 CC and part of the NB-ARC domain. Tomato plants stably silenced for these interactors were not compromised in I-2-mediated disease resistance. When extended or mutated forms of I-2 were used as baits, distinct and often opposite, interaction patterns with the two interactors were observed. These interaction patterns correlated with the proposed activation state of I-2 implying that active and inactive R proteins adopt distinct conformations. It is concluded that the yeast two hybrid system can be used as a proxy to monitor these different conformational states.
+
+R: !recognizes! Pathogen 
+I2I-1: !interacts with! I-2 
+I2I-2: !interacts with! I-2 
+SlFormin: !requires! N-terminal CC I-2 domain 
+SlTrax: !requires! I-2 CC and NB-ARC domain 
+Silenced plants: !not compromised in! I-2-mediated disease resistance 
+Extended/mutated forms of I-2: !observed distinct interaction patterns with! two interactors 
+Interaction patterns: !correlate with! activation state of I-2 
+Yeast two hybrid system: !can be used as proxy to monitor! different conformational states

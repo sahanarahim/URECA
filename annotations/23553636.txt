@@ -1,0 +1,10 @@
+Leaf growth is a complex developmental process that is continuously fine-tuned by the environment. Various abiotic stresses, including mild drought stress, have been shown to inhibit leaf growth in Arabidopsis (Arabidopsis thaliana), but the underlying mechanisms remain largely unknown. Here, we identify the redundant Arabidopsis transcription factors ETHYLENE RESPONSE FACTOR5 (ERF5) and ERF6 as master regulators that adapt leaf growth to environmental changes. ERF5 and ERF6 gene expression is induced very rapidly and specifically in actively growing leaves after sudden exposure to osmotic stress that mimics mild drought. Subsequently, enhanced ERF6 expression inhibits cell proliferation and leaf growth by a process involving gibberellin and DELLA signaling. Using an ERF6-inducible overexpression line, we demonstrate that the gibberellin-degrading enzyme GIBBERELLIN 2-OXIDASE6 is transcriptionally induced by ERF6 and that, consequently, DELLA proteins are stabilized. As a result, ERF6 gain-of-function lines are dwarfed and hypersensitive to osmotic stress, while the growth of erf5erf6 loss-of-function mutants is less affected by stress. Besides its role in plant growth under stress, ERF6 also activates the expression of a plethora of osmotic stress-responsive genes, including the well-known stress tolerance genes STZ, MYB51, and WRKY33. Interestingly, activation of the stress tolerance genes by ERF6 occurs independently from the ERF6-mediated growth inhibition. Together, these data fit into a leaf growth regulatory model in which ERF5 and ERF6 form a missing link between the previously observed stress-induced 1-aminocyclopropane-1-carboxylic acid accumulation and DELLA-mediated cell cycle exit and execute a dual role by regulating both stress tolerance and growth inhibition.
+
+ERF5: !regulates! leaf growth
+ERF6: !regulates! leaf growth
+ERF5/ERF6: !induce! osmotic stress
+ERF6: !induces! GIBBERELLIN 2-OXIDASE6
+GIBBERELLIN 2-OXIDASE6: !stabilizes! DELLA proteins
+ERF6: !activates! STZ, MYB51, WRKY33
+ERF6: !regulates! stress tolerance
+ERF6: !inhibits! cell proliferation

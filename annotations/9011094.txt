@@ -1,0 +1,5 @@
+['9011094', 'Trans-activation activity of ATMYB2, a drought-inducible Myb-related protein in  Arabidopsis thaliana, was analyzed using a transient assay of Arabidopsis leaf  protoplasts. ATMYB2 activated the transcription of a reporter gene from the  MYB-binding site in a sequence-specific manner. Deletion of the C-terminal region  of ATMYB2 reduced the trans-activation of the reporter gene, indicating that the  acidic region at the C-terminus of ATMYB2 is required for transcriptional  activation. The domain exchange analysis with the yeast GAL4 revealed that the  C-terminal acidic region of ATMYB2 contains a sufficient domain for  trans-activation. These results indicate that ATMYB2 acts as a transcriptional  activator and that the C-terminal acidic region of ATMYB2 can function as a  transcriptional activation domain.', '1996 Dec', 'Plant J', '10.1046/j.1365-313x.1996.10061145.x', 'Shinozaki']
+
+ATMYB2: !activates! Reporter gene
+ATMYB2: !requires! C-terminal region
+C-terminal region: !contains! Transcriptional activation domain

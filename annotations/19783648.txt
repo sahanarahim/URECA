@@ -1,0 +1,11 @@
+The EMBRYONIC FLOWER (EMF) genes are required to maintain vegetative development in Arabidopsis (Arabidopsis thaliana). Loss-of-function emf mutants skip the vegetative phase, flower upon germination, and display pleiotropic phenotypes. EMF1 encodes a putative transcriptional regulator, while EMF2 encodes a Polycomb group (PcG) protein. PcG proteins form protein complexes that maintain gene silencing via histone modification. They are known to function as master regulators repressing multiple gene programs. Both EMF1 and EMF2 participate in PcG-mediated silencing of the flower homeotic genes AGAMOUS, PISTILLATA, and APETALA3. Full-genome expression pattern analysis of emf mutants showed that both EMF proteins regulate additional gene programs, including photosynthesis, seed development, hormone, stress, and cold signaling. Chromatin immunoprecipitation was carried out to investigate whether EMF regulates these genes directly. It was determined that EMF1 and EMF2 interact with genes encoding the transcription factors ABSCISIC ACID INSENSITIVE3, LONG VEGETATIVE PHASE1, and FLOWERING LOCUS C, which control seed development, stress and cold signaling, and flowering, respectively. Our results suggest that the two EMFs repress the regulatory genes of individual gene programs to effectively silence the genetic pathways necessary for vegetative development and stress response. A model of the regulatory network mediated by EMF is proposed.
+
+EMF1: !encodes! transcriptional regulator
+EMF2: !encodes! PcG protein
+PcG proteins: !maintain gene silencing via! histone modification
+EMF1: !participates in! PcG-mediated silencing
+EMF2: !participates in! PcG-mediated silencing
+EMF1: !interacts with! ABSCISIC ACID INSENSITIVE3
+EMF2: !interacts with! LONG VEGETATIVE PHASE1
+EMF1: !interacts with! FLOWERING LOCUS C
+EMF2: !interacts with! FLOWERING LOCUS C

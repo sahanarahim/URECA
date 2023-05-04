@@ -1,0 +1,11 @@
+Alkaline/neutral invertases (A/N-Invs) are unique to plants and photosynthetic bacteria. Although considerable advances have been made in our understanding of sucrose metabolic enzymes in plants, the function of A/N-Invs remained puzzling. In a recent study, we have analyzed the subcellullar localization of a cytosolic (At-A/N-InvG, At1g35580) and a mitochondrial (At-A/N-InvA, At1g56560) Arabidopsis A/N-Inv. Unexpectedly, At-A/N-InvA knockout plants showed a more severe growth defect than At-A/N-InvG knockout plants and a link between the two A/N-Invs and oxidative stress defence was found. Overexpression of At-A/N-InvA and At-A/N-InvG in leaf mesophyll protoplasts reduced the activity of the ascorbate peroxidase 2 (APX2) promoter, that was stimulated by hydrogen peroxide and abscisic acid. It is discussed here how sugars and ascorbate might contribute to mitochondrial reactive oxygen species homeostasis. We hypothesize that both mitochondrial and cytosolic A/N-Invs and mitochondria-associated hexokinases are key mediators, integrating metabolic and sugar signalling processes. 
+
+At-A/N-InvG: !localizes to! cytosol
+At-A/N-InvA: !localizes to! mitochondria
+At-A/N-InvA: !affects! growth defect
+At-A/N-InvA: !interacts with! oxidative stress defence
+At-A/N-InvA: !represses! APX2 promoter
+At-A/N-InvG: !represses! APX2 promoter
+Sugars: !interacts with! A/N-Invs
+Ascorbate: !interacts with! A/N-Invs
+Hexokinases: !interacts with! A/N-Invs

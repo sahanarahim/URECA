@@ -1,0 +1,11 @@
+Rice has the unique ability to express alpha-amylase under anoxic conditions, a feature that is critical for successful anaerobic germination and growth. Previously, anaerobic conditions were shown to up-regulate the expression of Amy3 subfamily genes (Amy3B/C, 3D, and 3E) in rice embryos. These genes are known to be feedback regulated by the hydrolytic products of starchy endosperm such as the simple sugar glucose. It was found that oxygen deficiency interferes with the repression of Amy3D gene expression imposed by low concentrations of glucose but not with that imposed by higher amounts. This differential anoxic de-repression depending on sugar concentration suggests the presence of two distinct pathways for sugar regulation of Amy3D gene expression. Anoxic de-repression can be mimicked by treating rice embryos with inhibitors of ATP synthesis during respiration. Other sugar-regulated rice alpha-amylase genes, Amy3B/C and 3E, behave similarly to Amy3D. Treatment with a respiratory inhibitor or anoxia also relieved the sugar repression of the rice CIPK15 gene, a main upstream positive regulator of SnRK1A that is critical for Amy3D expression in response to sugar starvation. SnRK1A accumulation was previously shown to be required for MYBS1 expression, which transactivates Amy3D by binding to a cis-acting element found in the proximal region of all Amy3 subfamily gene promoters (the TA box). Taken together, these results suggest that prevention of oxidative phosphorylation by oxygen deficiency interferes with the sugar repression of Amy3 subfamily gene expression, leading to their enhanced expression in rice embryos during anaerobic germination.
+
+Amy3D: !up-regulated by! anoxic conditions 
+Amy3D: !repressed by! low glucose concentrations 
+Amy3D: !de-repressed by! oxygen deficiency 
+Amy3B/C, 3D, 3E: !similarly regulated to! Amy3D 
+CIPK15: !relieved of sugar repression by! anoxia/respiratory inhibitor 
+SnRK1A: !accumulated by! CIPK15 
+MYBS1: !expressed by! SnRK1A 
+Amy3D: !transactivated by! MYBS1 
+TA box: !binds to! MYBS1

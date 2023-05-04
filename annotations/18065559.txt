@@ -1,0 +1,12 @@
+Flagellate green algae have developed a visual system, the eyespot apparatus, which allows the cell to phototax. In a recent proteomic approach, we identified 202 proteins from a fraction enriched in eyespot apparatuses of Chlamydomonas reinhardtii. Among these proteins, five protein kinases and two protein phosphatases were present, indicating that reversible protein phosphorylation occurs in the eyespot. About 20 major phosphoprotein bands were detected in immunoblots of eyespot proteins with an anti-phosphothreonine antibody. Toward the profiling of the targets of protein kinases in the eyespot fraction, we analyzed its phosphoproteome. The solubilized proteins of the eyespot fraction were treated with the endopeptidases LysC and trypsin prior to enrichment of phosphopeptides with immobilized metal-ion affinity chromatography. Phosphopeptides were analyzed by nano-liquid chromatography-electrospray ionization-mass spectrometry (MS) with MS/MS as well as neutral-loss-triggered MS/MS/MS spectra. We were able to identify 68 different phosphopeptides along with 52 precise in vivo phosphorylation sites corresponding to 32 known proteins of the eyespot fraction. Among the identified phosphoproteins are enzymes of carotenoid and fatty acid metabolism, putative signaling components, such as a SOUL heme-binding protein, a Ca(2+)-binding protein, and an unusual protein kinase, but also several proteins with unknown function. Notably, two unique photoreceptors, channelrhodopsin-1 and channelrhodopsin-2, contain three and one phosphorylation sites, respectively. Phosphorylation of both photoreceptors occurs in the cytoplasmatic loop next to their seven transmembrane regions in a similar distance to that observed in vertebrate rhodopsins, implying functional importance for regulation of these directly light-gated ion channels relevant for the photoresponses of C. reinhardtii.
+
+protein kinase: !phosphorylates! protein
+protein phosphatase: !dephosphorylates! protein
+channelrhodopsin-1: !contains! 3 phosphorylation sites
+channelrhodopsin-2: !contains! 1 phosphorylation site
+cytoplasmatic loop: !locates near! transmembrane regions
+SOUL heme-binding protein: !is a! putative signaling component
+Ca(2+)-binding protein: !is a! putative signaling component
+unusual protein kinase: !is a! putative signaling component
+enzyme of carotenoid metabolism: !is a! phosphoprotein
+enzyme of fatty acid metabolism: !is a! phosphoprotein

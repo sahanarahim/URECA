@@ -1,0 +1,9 @@
+Trienoic fatty acids (TAs), the major constituents in plant membrane lipids, play essential roles in stress signalling as precursors of the phytohormone jasmonic acid (JA). Arabidopsis FAD7 encodes a plastidial omega-3 fatty acid desaturase, which catalyses the production of TAs. In coordination with other JA-biosynthetic genes, expression of FAD7 is induced locally by wounding. This provides a feedforward mechanism for the rapid and sustainable accumulation of JA. To identify molecular components involved in this mechanism, a transgenic Arabidopsis line carrying the FAD7 promoter (pFAD7) fused to the firefly luciferase gene (LUC) was constructed. Reciprocal crossing experiments revealed that the induction of FAD7 expression depends largely on JA biosynthesis and the SCF(COI1)-mediated signalling mechanism, whereas JA alone is insufficient for its maximal induction. Full induction required synergistic interactions between JA-dependent and -independent wound signalling mechanisms. A genetic screen for aberrant pFAD7::LUC expression yielded a recessive mutant showing enhanced wound-induced LUC bioluminescence. The mutation was associated with the cpl1 locus encoding an RNA polymerase II C-terminal domain (CTD) phosphatase, and conferred wound hyper-responsiveness on the promoters of several JA-biosynthetic genes. The picture of signalling mechanisms underlying the wound-regulated FAD7 expression, and potential roles of CPL proteins as attenuators of wound-induced JA biosynthesis, are discussed.
+
+FAD7: !produces! TAs 
+FAD7: !induces! JA 
+Wounding: !induces! FAD7 
+JA: !induces! FAD7 
+SCF(COI1): !mediates! FAD7 induction 
+CPL1: !enhances! wound-induced LUC bioluminescence 
+CPL1: !attenuates! JA biosynthesis

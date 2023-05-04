@@ -1,0 +1,8 @@
+Endoreduplication represents a variation on the cell cycle in which multiple rounds of DNA replication occur without subsequent chromosome separation and cytokinesis, thereby increasing the cellular DNA content. It is known that the DNA ploidy level of cells is controlled by external stimuli such as light; however, limited knowledge is available on how environmental signals regulate the endoreduplication cycle at the molecular level. Previously, we had demonstrated that the conversion from a mitotic cell cycle into an endoreduplication cycle is controlled by the atypical E2F transcription factor, DP-E2F-LIKE1 (DEL1), that represses the endocycle onset. Here, the Arabidopsis (Arabidopsis thaliana) DEL1 gene was identified as a transcriptional target of the classical E2Fb and E2Fc transcription factors that antagonistically control its transcript levels through competition for a single E2F cis-acting binding site. In accordance with the reported opposite effects of light on the protein levels of E2Fb and E2Fc, DEL1 transcription depended on the light regime. Strikingly, modified DEL1 expression levels uncoupled the link between light and endoreduplication in hypocotyls, implying that DEL1 acts as a regulatory connection between endocycle control and the photomorphogenic response.
+
+E2Fb: !regulates! DEL1
+E2Fc: !regulates! DEL1
+Light: !affects! E2Fb
+Light: !affects! E2Fc
+DEL1: !represses! endocycle onset
+DEL1: !connects! endocycle control and photomorphogenic response

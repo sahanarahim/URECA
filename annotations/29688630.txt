@@ -1,0 +1,11 @@
+['29688630', 'Arabidopsis thaliana possesses two fumarase genes (FUM), AtFUM1 (At2g47510)  encoding for the mitochondrial Krebs cycle-associated enzyme and AtFUM2  (At5g50950) for the cytosolic isoform required for fumarate massive accumulation.  Here, the comprehensive biochemical studies of AtFUM1 and AtFUM2 shows that they  are active enzymes with similar kinetic parameters but differential regulation.  For both enzymes, fumarate hydratase (FH) activity is favored over the malate  dehydratase (MD) activity; however, MD is the most regulated activity with  several allosteric activators. Oxalacetate, glutamine, and/or asparagine are  modulators causing the MD reaction to become preferred over the FH reaction.  Activity profiles as a function of pH suggest a suboptimal FUM activity in  Arabidopsis cells; moreover, the direction of the FUM reaction is sensitive to pH  changes. Under mild oxidation conditions, AtFUMs form high mass molecular  aggregates, which present both FUM activities decreased to a different extent.  The biochemical properties of oxidized AtFUMs (oxAtFUMs) were completely reversed  by NADPH-supplied Arabidopsis leaf extracts, suggesting that the AtFUMs redox  regulation can be accomplished in vivo. Mass spectrometry analyses indicate the  presence of an active site-associated intermolecular disulfide bridge in  oxAtFUMs. Finally, a phylogenetic approach points out that other plant species  may also possess cytosolic FUM2 enzymes mainly encoded by paralogous genes,  indicating that the evolutionary history of this trait has been drawn through a  process of parallel evolution. Overall, according to our results, a multilevel  regulatory pattern of FUM activities emerges, supporting the role of this enzyme  as a carbon flow monitoring point through the organic acid metabolism in plants.', '2018 Jun', 'FEBS J', '10.1111/febs.14483', 'Tronconi']
+
+AtFUM1: !encodes! mitochondrial Krebs cycle-associated enzyme 
+AtFUM2: !encodes! cytosolic isoform 
+FH: !favored over! MD 
+Oxalacetate, glutamine, asparagine: !modulate! MD reaction 
+pH: !affects! FUM activity 
+oxAtFUMs: !reversed by! NADPH-supplied Arabidopsis leaf extracts 
+intermolecular disulfide bridge: !present in! oxAtFUMs 
+paralogous genes: !encode! cytosolic FUM2 enzymes 
+FUM: !role as! carbon flow monitoring point

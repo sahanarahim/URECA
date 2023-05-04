@@ -1,0 +1,11 @@
+['15277686', 'Transcription repression plays important roles in preventing crucial regulatory  proteins from being expressed in inappropriate temporal or spatial domains.  LEUNIG (LUG) and SEUSS (SEU) normally act to prevent ectopic expression of the  floral homeotic gene AGAMOUS in flowers. LUG encodes a protein with sequence  similarities to the yeast Tup1 corepressor. SEU encodes a plant-specific  regulatory protein with sequence similarity in a conserved dimerization domain to  the LIM-domain binding 1/Chip proteins in mouse and Drosophila. Despite the  molecular isolation of LUG and SEU, the biochemical function of these two  proteins remains uncharacterized, and the mechanism of AGAMOUS repression remains  unknown. Here, we report that LUG and SEU interact directly in vitro and in vivo.  Furthermore, LUG exhibits a strong repressor activity on several heterologous  promoters in yeast and plant cells. SEU, in contrast, does not exhibit any direct  repressor activity, but can repress reporter gene expression only in the presence  of LUG, indicating a possible role of SEU as an adaptor protein for LUG. Our  results demonstrate that LUG encodes a functional homologue of Tup1 and that SEU  may function similarly to Ssn6, an adaptor protein of Tup1. We have defined the  LUG/LUH, Flo8, single-strand DNA-binding protein domain of LUG as both necessary  and sufficient for the interaction with SEU and two domains of LUG as important  for its repressor function. Our work provides functional insights into plant  transcriptional corepressors and reveals both conservation and distinctions  between plant corepressors and those of yeast and animals.', '2004 Aug 3', 'Proc Natl Acad Sci U S A', '10.1073/pnas.0403055101', 'Liu']
+
+LUG: !encodes! Tup1-like protein
+SEU: !encodes! plant-specific regulatory protein
+LUG: !interacts with! SEU
+LUG: !exhibits! repressor activity
+SEU: !represses! reporter gene expression
+LUG/LUH: !interacts with! SEU
+Flo8: !interacts with! SEU
+LUG: !contains! domains necessary for interaction with SEU
+LUG: !contains! domains important for repressor function

@@ -1,0 +1,9 @@
+Evidence going as far back as the early part of the 20th century suggests that both light and chloroplast function may play key roles in host susceptibility to viruses. Despite the long history of such work, confirmation of these phenomena and a determination of the underlying mechanisms remain elusive. Here, we revisited these questions using modern imaging technologies to study the susceptibility of Nicotiana benthamiana to Turnip mosaic virus (TuMV). We found that both light deficiency and photosystem impairment increased the susceptibility of N. benthamiana to TuMV infection. Time-lapse photography studies indicated that, under these conditions, rub-inoculated plants exhibited greater numbers of infection foci and more rapid foci development. The rate of systemic movement was also accelerated though cell-to-cell movement appeared unchanged. Inhibition of salicylic acid (SA)-mediated defense responses is not likely responsible for changes in susceptibility because SA and pathogen response-1 gene induction were not affected by light deficiency or chloroplast impairment and treatment of plants with SA had no measureable impact on TuMV infection. Taken together, these data suggest that both light and optimal chloroplast function influence virus infection either by limiting the cellular resources needed by TuMV to establish replication complexes or the host's ability to activate SA-independent defenses.
+
+light: !affects! susceptibility to TuMV
+chloroplast function: !affects! susceptibility to TuMV
+light deficiency: !increases! susceptibility to TuMV
+photosystem impairment: !increases! susceptibility to TuMV
+SA-mediated defense responses: !not likely responsible for! changes in susceptibility 
+cellular resources: !limits! TuMV replication complexes
+host: !limits! ability to activate SA-independent defenses

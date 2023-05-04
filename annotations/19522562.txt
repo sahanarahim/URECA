@@ -1,0 +1,13 @@
+During development of legume root nodules, rhizobia and their host plant cells undergo profound differentiation, which is underpinned by massive changes in gene expression in both symbiotic partners. Oxygen concentrations in infected and surrounding uninfected cells drop precipitously during nodule development. To assess what effects this has on plant and bacterial cell differentiation and gene expression, we used a leghemoglobin-RNA-interference (LbRNAi) line of Lotus japonicus, which is devoid of leghemoglobins and has elevated levels of free-oxygen in its nodules. Bacteroids in LbRNAi nodules showed altered ultrastructure indicating changes in bacterial differentiation. Transcript analysis of 189 plant and 192 bacterial genes uncovered many genes in both the plant and bacteria that were differentially regulated during nodulation of LbRNAi plants compared with the wild type (containing Lb and able to fix nitrogen). These included fix and nif genes of the bacteria, which are involved in microaerobic respiration and nitrogen fixation, respectively, and plant genes involved in primary and secondary metabolism. Metabolite analysis revealed decreased levels of many amino acids in nodules of LbRNAi plants, consistent with the defect in symbiotic nitrogen fixation of this line.
+
+Gene: !affects! Process
+Gene: !localizes to! X
+Gene: !interacts with! Y
+Gene: !enhances! Z
+Gene: !represses! U
+Gene: !synthesizes! I
+Oxygen: !decreases! in infected and surrounding cells
+Bacteroids: !show altered ultrastructure! in LbRNAi nodules
+Plant genes: !involved in! primary and secondary metabolism
+Bacterial genes: !involved in! microaerobic respiration and nitrogen fixation
+Metabolites: !decrease! in nodules of LbRNAi plants

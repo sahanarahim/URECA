@@ -1,0 +1,6 @@
+We reported that DGS1 plays a positive role in regulating grain size in rice and was regulated by OsBZR1. Grain size is an important agronomic trait that contributes to grain yield. However, the underlying molecular mechanisms that determine final grain size are still largely unknown. We isolated a rice mutant showing reduced grain size in a <sup>60</sup>Co-irradiated variety Nanjing 35 population. We named the mutant decreased grain size1 (dgs1). Map-based cloning and subsequent transgenic CRISPR and complementation assays indicated that a mutation had occurred in LOC_Os03g49900 and that the DGS1 allele regulated grain size. DGS1 encodes a protein with a 7-transmembrane domain and C3HC4 type RING domain. It was widely expressed, especially in young tissues. DGS1 is a membrane-located protein. OsBZR1 (BRASSINAZOLE-RESISTANT1), a core transcription activator of BR signaling, also plays a positive role in grain size. We provided preliminary evidence that OsBZR1 can bind to the DGS1 promoter to activate expression of DGS1.
+
+DGS1: !regulates! grain size
+OsBZR1: !regulates! DGS1
+DGS1: !encodes! protein
+OsBZR1: !binds to! DGS1 promoter

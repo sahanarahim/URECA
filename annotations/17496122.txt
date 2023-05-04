@@ -1,0 +1,9 @@
+Agrobacterium tumefaciens-mediated genetic transformation is an efficient tool for genetic engineering of plants. VirE2 is a single-stranded DNA binding Agrobacterium protein that is transported into the plant cell and presumably protects the T-DNA from degradation. Using a yeast two-hybrid system, we identified Arabidopsis thaliana VIRE2-INTERACTING PROTEIN2 (VIP2) with a NOT domain that is conserved in both plants and animals. Furthermore, we provide evidence supporting VIP2 interaction with VIP1, a basic domain/leucine zipper motif-containing protein required for nuclear import and integration of T-DNA. Virus-induced gene silencing of VIP2 in Nicotiana benthamiana and characterization of the Arabidopsis vip2 mutant (At vip2) demonstrate that VIP2 is required for Agrobacterium-mediated stable transformation but not for transient transformation. Assays based upon a promoter-trap vector and quantification of T-DNA integration further confirmed VIP2 involvement in T-DNA integration. Interestingly, VIP2 transcripts were induced to a greater extent over prolonged periods after infection with a T-DNA transfer-competent Agrobacterium strain compared with the transfer-deficient Agrobacterium strain. Transcriptome analyses of At vip2 suggest that VIP2 is likely a transcriptional regulator, and the recalcitrancy to transformation in At vip2 is probably due to the combination of muted gene expression response upon Agrobacterium infection and repression of histone genes resulting in decreased T-DNA integration events.
+
+VirE2: !binds! single-stranded DNA
+VirE2: !interacts with! VIP2
+VIP2: !interacts with! VIP1
+VIP2: !required for! Agrobacterium-mediated transformation
+VIP2: !induces! transcripts
+VIP2: !regulates! transcription
+VIP2: !represses! histone genes

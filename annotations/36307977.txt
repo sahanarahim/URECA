@@ -1,0 +1,8 @@
+Evidence of whole-genome duplications (WGDs) and subsequent karyotype changes has been detected in most major lineages of living organisms on Earth. To clarify the complex resulting multi-layered patterns of gene collinearity in genome analyses, there is a need for convenient and accurate toolkits. To meet this need, we developed WGDI (Whole-Genome Duplication Integrated analysis), a Python-based command-line tool that facilitates comprehensive analysis of recursive polyploidization events and cross-species genome alignments. WGDI supports three main workflows (polyploid inference, hierarchical inference of genomic homology, and ancestral chromosome karyotyping) that can improve the detection of WGD and characterization of WGD-related events based on high-quality chromosome-level genomes. Significantly, it can extract complete synteny blocks and facilitate reconstruction of detailed karyotype evolution. This toolkit is freely available at GitHub (https://github.com/SunPengChuan/wgdi). As an example of its application, WGDI convincingly clarified karyotype evolution in Aquilegia coerulea and Vitis vinifera following WGDs and rejected the hypothesis that Aquilegia contributed as a parental lineage to the allopolyploid origin of core dicots.
+
+Gene: !affects! Karyotype Evolution 
+WGDI: !facilitates! Comprehensive Analysis 
+WGDI: !improves! Detection of WGD 
+WGDI: !characterizes! WGD-related Events 
+WGDI: !extracts! Synteny Blocks 
+WGDI: !reconstructs! Detailed Karyotype Evolution

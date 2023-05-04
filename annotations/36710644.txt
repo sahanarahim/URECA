@@ -1,0 +1,10 @@
+Soluble sugars play an important role in plant growth, development and fruit quality. Pear fruits have demonstrated a considerable improvement in sugar quality during their long history of selection. However, little is known about the underlying molecular mechanisms accompanying the changes in fruit sugar content as a result of selection by horticulturists. Here, we identified a calcium-dependent protein kinase (PbCPK28), which is located on LG15 and is present within a selective sweep region, thus linked to the quantitative trait loci for soluble solids. Association analysis indicates that a single nucleotide polymorphism-13 variation (SNP13<sup>T/C</sup> ) in the PbCPK28 regulatory region led to fructose content diversity in pear. Elevated expression of PbCPK28 resulted in significantly increased fructose levels in pear fruits. Furthermore, PbCPK28 interacts with and phosphorylates PbTST4, a proton antiporter, thereby coupling the sugar import into the vacuole with proton export. We demonstrated that residues S277 and S314 of PbTST4 are crucial for its function. Additionally, PbCPK28 interacts with and phosphorylates the vacuolar hydrogen proton pump PbVHA-A1, which could provide proton motive forces for PbTST4. We also found that the T11 and Y120 phosphorylation sites in PbVHA-A1 are essential for its function. Evolution analysis and yeast-two-hybrid results support that the CPK-TST/CPK-VHA-A regulatory network is highly conserved in plants, especially the corresponding phosphorylation sites. Together, our work identifies an agriculturally important natural variation and an important regulatory network, allowing genetic improvement of fruit sugar contents in pears through modulation of PbCPK28 expression and phosphorylation of PbTST4 and PbVHA-A1.
+
+PbCPK28: !localizes to! LG15 
+PbCPK28: !enhances! Fructose content 
+PbCPK28: !interacts with! PbTST4 
+PbCPK28: !interacts with! PbVHA-A1 
+PbTST4: !phosphorylated by! PbCPK28 
+PbTST4: !essential residues! S277, S314 
+PbVHA-A1: !phosphorylated by! PbCPK28 
+PbVHA-A1: !essential residues! T11, Y120

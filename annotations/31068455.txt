@@ -1,0 +1,8 @@
+Arabidopsis (<i>Arabidopsis thaliana</i>) floral meristems terminate after the carpel primordia arise. This is achieved through the temporal repression of <i>WUSCHEL</i> (<i>WUS</i>), which is essential for stem cell maintenance. At floral stage 6, <i>WUS</i> is repressed by KNUCKLES (KNU), a repressor directly activated by AGAMOUS. KNU was suggested to repress <i>WUS</i> through histone deacetylation; however, how the changes in the chromatin state of <i>WUS</i> are initiated and maintained to terminate the floral meristem remains elusive. Here, we show that KNU integrates initial transcriptional repression with polycomb-mediated stable silencing of <i>WUS</i> After KNU is induced, it binds to the <i>WUS</i> promoter and causes eviction of SPLAYED, which is a known activator of <i>WUS</i> and can oppose polycomb repression. KNU also physically interacts with FERTILIZATION-INDEPENDENT ENDOSPERM, a key polycomb repressive complex2 component, and mediates the subsequent deposition of the repressive histone H3 lysine 27 trimethylation for stable silencing of <i>WUS</i> This multi-step silencing of <i>WUS</i> leads to the termination of floral stem cells, ensuring proper carpel development. Thus, our work describes a detailed mechanism for heritable floral stem cell termination in a precise spatiotemporal manner.
+
+KNU: !activates! AGAMOUS
+KNU: !binds to! WUS promoter
+KNU: !evicts! SPLAYED
+KNU: !interacts with! FERTILIZATION-INDEPENDENT ENDOSPERM
+KNU: !mediates! H3 lysine 27 trimethylation
+WUS: !repressed by! KNU

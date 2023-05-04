@@ -1,0 +1,8 @@
+Trichomes that originate from plant aerial epidermis act as mechanical and chemical barriers against herbivores. Although several regulators have recently been identified, the regulatory pathway underlying multicellular trichome formation remains largely unknown in tomato. Here, we report a novel HD-ZIP IV transcription factor, Lanata (Ln), a missense mutation which caused the hairy phenotype. Biochemical analyses demonstrate that Ln separately interacts with two trichome regulators, Woolly (Wo) and Hair (H). Genetic and molecular evidence demonstrates that Ln directly regulates the expression of H. The interaction between Ln and Wo can increase trichome density by enhancing the expression of SlCycB2 and SlCycB3, which we previously showed are involved in tomato trichome formation. Furthermore, SlCycB2 represses the transactivation of the SlCycB3 gene by Ln and vice versa. Our findings provide new insights into the novel regulatory network controlling multicellular trichome formation in tomato.
+
+Ln: !interacts with! Wo 
+Ln: !directly regulates! H 
+Wo: !enhances! SlCycB2 
+Wo: !enhances! SlCycB3 
+SlCycB2: !represses! SlCycB3 
+SlCycB3: !represses! SlCycB2

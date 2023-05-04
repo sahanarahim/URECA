@@ -1,0 +1,10 @@
+Serine hydroxymethyltransferases (SHMs) are important enzymes of cellular one-carbon metabolism and are essential for the photorespiratory glycine-into-serine conversion in leaf mesophyll mitochondria. In Arabidopsis (Arabidopsis thaliana), SHM1 has been identified as the photorespiratory isozyme, but little is known about the very similar SHM2. Although the mitochondrial location of SHM2 can be predicted, some data suggest that this particular isozyme could be inactive or not targeted into mitochondria. We report that SHM2 is a functional mitochondrial SHM. In leaves, the presequence of SHM2 selectively hinders targeting of the enzyme into mesophyll mitochondria. For this reason, the enzyme is confined to the vascular tissue of wild-type Arabidopsis, likely the protoxylem and/or adjacent cells, where it occurs together with SHM1. The resulting exclusion of SHM2 from the photorespiratory environment of mesophyll mitochondria explains why this enzyme cannot substitute for SHM1 in photorespiratory metabolism. Unlike the individual shm1 and shm2 null mutants, which require CO(2)-enriched air to inhibit photorespiration (shm1) or do not show any visible impairment (shm2), double-null mutants cannot survive in CO(2)-enriched air. It seems that SHM1 and SHM2 operate in a redundant manner in one-carbon metabolism of nonphotorespiring cells with a high demand of one-carbon units; for example, during lignification of vascular cells. We hypothesize that yet unknown kinetic properties of SHM2 might render this enzyme unsuitable for the high-folate conditions of photorespiring mesophyll mitochondria.
+
+SHM1: !localizes to! Mesophyll mitochondria
+SHM2: !localizes to! Vascular tissue
+SHM1: !enhances! Photorespiratory metabolism
+SHM2: !represses! Photorespiratory metabolism
+SHM1: !interacts with! SHM2
+SHM2: !interacts with! SHM1
+SHM1: !synthesizes! One-carbon units
+SHM2: !synthesizes! One-carbon units

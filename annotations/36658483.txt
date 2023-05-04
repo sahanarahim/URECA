@@ -1,0 +1,14 @@
+Testa color is an important trait of peanut (Arachis hypogaea L.) which is closely related with the nutritional and commercial value. Pink and red are main color of peanut testa. However, the genetic mechanism of testa color regulation in peanut is not fully understood. To elucidate a clear picture of peanut testa regulatory model, samples of pink cultivar (Y9102), red cultivar (ZH12), and two RNA pools (bulk red and bulk pink) constructed from F<sub>4</sub> lines of Y9102 x ZH12 were compared through a bulk RNA-seq approach. A total of 2992 differential expressed genes (DEGs) were identified among which 317 and 1334 were up-regulated and 225 and 1116 were down-regulated in the bulk red-vs-bulk pink RNA pools and Y9102-vs-ZH12, respectively. KEGG analysis indicates that these genes were divided into significantly enriched metabolic pathways including phenylpropanoid, flavonoid/anthocyanin, isoflavonoid and lignin biosynthetic pathways. Notably, the expression of the anthocyanin upstream regulatory genes PAL, CHS, and CHI was upregulated in pink and red testa peanuts, indicating that their regulation may occur before to the advent of testa pigmentation. However, the differential expression of down-stream regulatory genes including F3H, DFR, and ANS revealed that deepening of testa color not only depends on their gene expression bias, but also linked with FLS inhibition. In addition, the down-regulation of HCT, IFS, HID, 7-IOMT, and I2'H genes provided an alternative mechanism for promoting anthocyanin accumulation via perturbation of lignin and isoflavone pathways. Furthermore, the co-expression module of MYB, bHLH, and WRKY transcription factors also suggested a fascinating transcriptional activation complex, where MYB-bHLH could utilize WRKY as a co-option during the testa color regulation by augmenting anthocyanin biosynthesis in peanut. These findings reveal candidate functional genes and potential strategies for the manipulation of anthocyanin biosynthesis to improve peanut varieties with desirable testa color.
+
+PAL: !upregulated in! pink/red testa peanuts
+CHS: !upregulated in! pink/red testa peanuts
+CHI: !upregulated in! pink/red testa peanuts
+FLS: !inhibited by! deepening of testa color
+HCT: !downregulated by! anthocyanin accumulation
+IFS: !downregulated by! anthocyanin accumulation
+HID: !downregulated by! anthocyanin accumulation
+7-IOMT: !downregulated by! anthocyanin accumulation
+I2'H: !downregulated by! anthocyanin accumulation
+MYB: !co-expressed with! bHLH/WRKY
+bHLH: !co-expressed with! MYB/WRKY
+WRKY: !co-expressed with! MYB/bHLH

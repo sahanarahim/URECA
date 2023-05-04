@@ -1,0 +1,10 @@
+['15688221', 'Telomeric DNA-binding proteins (TBPs) are crucial components that regulate the  structure and function of eukaryotic telomeres and are evolutionarily conserved.  We have identified two homologues of AtTBP1 (for Arabidopsis thaliana telomeric  DNA binding protein 1), designated as AtTBP2 and AtTRP2, which encode proteins  that specifically bind to the telomeric DNA of this plant. These proteins show  extensive homology with other known plant TBPs. The isolated C-terminal segments  of these proteins were capable of sequence-specific binding to duplex telomeric  plant DNA in vitro. DNA bending assays using the Arabidopsis TBPs revealed that  AtTBP1 and AtTBP2 have DNA-bending abilities comparable to that of the human  homologue hTRF1, and higher than those of AtTRP1 and AtTRP2.', '2005 Mar', 'Mol Genet Genomics', '10.1007/s00438-004-1096-3', 'Cho']
+
+AtTBP1: !binds to! telomeric DNA
+AtTBP2: !binds to! telomeric DNA
+AtTRP2: !binds to! telomeric DNA
+AtTBP1: !bends! DNA
+AtTBP2: !bends! DNA
+AtTRP1: !bends! DNA
+AtTRP2: !bends! DNA
+hTRF1: !bends! DNA

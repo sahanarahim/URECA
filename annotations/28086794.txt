@@ -1,0 +1,13 @@
+The dwarfing gene sdw1 has been widely used throughout the world to develop commercial barley varieties. There are at least four different alleles at the sdw1 locus. Mutations in the gibberellin 20-oxidase gene (HvGA20ox2) resulted in multiple alleles at the sdw1 locus. The sdw1.d allele from Diamant is due to a 7-bp deletion in exon 1, while the sdw1.c allele from Abed Denso has 1-bp deletion and a 4-bp insertion in the 5' untranslated region. The sdw1.a allele from Jotun resulted from a total deletion of the HvGA20ox2 gene. The structural changes result in lower gene expression in sdw1.d and lack of expression in sdw1.a. There are three HvGA20ox genes in the barley genome. The partial or total loss of function of the HvGA20ox2 gene could be compensated by enhanced expression of its homolog HvGA20ox1and HvGA20ox3. A diagnostic molecular marker was developed to differentiate between the wild-type, sdw1.d and sdw1.a alleles and another molecular marker for differentiation of sdw1.c and sdw1.a. The markers were further tested in 197 barley varieties, out of which 28 had the sdw1.d allele and two varieties the sdw1.a allele. To date, the sdw1.d and sdw1.a alleles have only been detected in the modern barley varieties and lines. The results provided further proof that the gibberellin 20-oxidase gene (HvGA20ox2) is the functional gene of the barley sdw1 mutants. Different deletions resulted in different functional alleles for different breeding purposes. Truncated protein could maintain partial function. Partial or total loss of function of the HvGA20ox2 gene could be compensated by enhanced expression of its homolog HvGA20ox1 and HvGA20ox3.
+
+sdw1: !has! 4 alleles
+HvGA20ox2: !causes! multiple alleles at sdw1 locus
+sdw1.d: !is due to! 7-bp deletion in exon 1
+sdw1.c: !is due to! 1-bp deletion and 4-bp insertion in 5' untranslated region
+sdw1.a: !is due to! total deletion of HvGA20ox2 gene
+HvGA20ox2: !results in! lower gene expression in sdw1.d and lack of expression in sdw1.a
+HvGA20ox2: !could be compensated by! enhanced expression of HvGA20ox1 and HvGA20ox3
+molecular marker: !differentiates between! wild-type, sdw1.d and sdw1.a alleles
+HvGA20ox2: !is the functional gene of! barley sdw1 mutants
+deletions: !result in! different functional alleles for different breeding purposes
+truncated protein: !maintains! partial function

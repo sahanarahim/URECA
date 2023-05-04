@@ -1,0 +1,11 @@
+A low-cost dynamic image capturing and analysis pipeline using color-based deep learning segmentation was developed for direct leaf area estimation of multiple crop types in a commercial environment. Crop yield is largely driven by intercepted radiation of the leaf canopy, making the leaf area index (LAI) a critical parameter for estimating yields. The growth rate of leaves at different growth stages determines the overall LAI, which is used by crop growth models (CGM) for simulating yield. Consequently, precise phenotyping of the leaves can help elucidate phenological processes relating to resource capturing. A stable system for acquiring images and a strong data processing backend play a vital role in reducing throughput time and increasing accuracy of calculations, compared to manual analysis. However, most available solutions are not dynamic, as they use color-based segmentation, which fails to capture leaves with varying shades and shapes. We have developed a system that uses a low-cost setup to acquire images and an automated pipeline to manage the data storage on the device and in the cloud. The system is powered by virtual machines that run multiple custom-trained deep learning models to segment out leaves, calculate leaf area (LA) for the whole set and at the individual leaf level, overlays important information on the images, and appends them on a compatible file used for CGMs with very high accuracy. The pipeline is dynamic and can be used for multiple crops. The use of open-source hardware, platforms, and algorithms makes this system affordable and reproducible.
+
+Crop yield: !driven by! intercepted radiation
+Leaf area index: !used by! crop growth models
+Phenotyping: !helps elucidate! phenological processes
+System: !uses! low-cost setup
+Data processing: !powered by! virtual machines
+Deep learning models: !segment out! leaves
+Leaf area: !calculated at! individual leaf level
+Images: !overlaid with! important information
+Compatible file: !appended to! compatible file

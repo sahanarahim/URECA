@@ -1,0 +1,7 @@
+Understanding biological temperature responses is crucial to predicting global carbon fluxes. The current approach to modelling temperature responses of photosynthetic capacity in large scale modelling efforts uses a modified Arrhenius equation. We rederived the modified Arrhenius equation from the source publication from 1942 and uncovered a missing term that was dropped by 2002. We compare fitted temperature response parameters between the correct and incorrect derivation of the modified Arrhenius equation. We find that most parameters are minimally affected, though activation energy is impacted quite substantially. We then scaled the impact of these small errors to whole plant carbon balance and found that the impact of the rederivation of the modified Arrhenius equation on modelled daily carbon gain causes a meaningful deviation of c. 18% day<sup>-1</sup> . This suggests that the error in the derivation of the modified Arrhenius equation has impacted the accuracy of predictions of carbon fluxes at larger scales since > 40% of Earth System Models contain the erroneous derivation. We recommend that the derivation error be corrected in modelling efforts moving forward.
+
+modified Arrhenius equation: !affects! carbon fluxes
+derivation error: !impacts! accuracy of predictions
+activation energy: !affected by! derivation error
+modelled daily carbon gain: !deviates by! 18% day<sup>-1</sup> 
+Earth System Models: !contain! erroneous derivation

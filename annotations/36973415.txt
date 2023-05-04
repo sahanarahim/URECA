@@ -1,0 +1,9 @@
+Many plant species monitor and respond to changes in day length (photoperiod) for aligning reproduction with a favourable season. Day length is measured in leaves and, when appropriate, leads to the production of floral stimuli called florigens that are transmitted to the shoot apical meristem to initiate inflorescence development<sup>1</sup>. Rice possesses two florigens encoded by HEADING DATE 3a (Hd3a) and RICE FLOWERING LOCUS T 1 (RFT1)<sup>2</sup>. Here we show that the arrival of Hd3a and RFT1 at the shoot apical meristem activates FLOWERING LOCUS T-LIKE 1 (FT-L1), encoding a florigen-like protein that shows features partially differentiating it from typical florigens. FT-L1 potentiates the effects of Hd3a and RFT1 during the conversion of the vegetative meristem into an inflorescence meristem and organizes panicle branching by imposing increasing determinacy to distal meristems. A module comprising Hd3a, RFT1 and FT-L1 thus enables the initiation and balanced progression of panicle development towards determinacy.
+
+Hd3a: !activates! FT-L1
+RFT1: !activates! FT-L1
+FT-L1: !potentiates! Hd3a
+FT-L1: !potentiates! RFT1
+FT-L1: !organizes! panicle branching
+Hd3a: !enables! panicle development
+RFT1: !enables! panicle development

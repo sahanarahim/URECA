@@ -1,0 +1,9 @@
+RNA-seq analysis of a transgenic tobacco plant, i-hpHSP90C, in which chloroplast HSP90C genes can be silenced in an artificially inducible manner resulting in the development of chlorosis, revealed the up- and downregulation of 2746 and 3490 genes, respectively. Gene ontology analysis of these differentially expressed genes indicated the upregulation of ROS-responsive genes; the activation of the innate immunity and cell death pathways; and the downregulation of genes involved in photosynthesis, plastid organization, and cell cycle. Cell death was confirmed by trypan blue staining and electrolyte leakage assay, and the H<sub>2</sub>O<sub>2</sub> production was confirmed by diaminobenzidine staining. The results collectively suggest that the reduced levels of HSP90C chaperone lead the plant to develop chlorosis primarily through the global downregulation of chloroplast- and photosynthesis-related genes and additionally through the light-dependent production of ROS, followed by the activation of immune responses, including cell death.
+
+RNA-seq: !upregulates! ROS-responsive genes 
+ROS-responsive genes: !activates! innate immunity and cell death pathways 
+innate immunity and cell death pathways: !downregulates! photosynthesis, plastid organization, and cell cycle genes 
+HSP90C chaperone: !leads to! chlorosis 
+chlorosis: !caused by! global downregulation of chloroplast- and photosynthesis-related genes 
+global downregulation: !triggers! light-dependent production of ROS 
+light-dependent production of ROS: !activates! immune responses including cell death

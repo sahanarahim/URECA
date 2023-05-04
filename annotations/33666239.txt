@@ -1,0 +1,8 @@
+Plant pathogens and their hosts often coexist with mammal grazers. However, the direction and strength of grazing effects on foliar fungal diseases can be idiosyncratic, varying among host plant species and pathogen types. We combined a 6 yr yak-grazing experiment, a clipping experiment simulating different mammal consumption patterns (leaf damage vs whole-leaf removal), and a meta-analysis of 63 comparisons to evaluate how grazing impacts foliar fungal diseases across plant growth types (grass vs forb) and pathogen life histories (biotroph vs necrotroph). In the yak-grazing experiment, grazing had no significant effect on disease severity, and grasses experienced a higher disease severity than forbs; there was a significant interaction between pathogen type and grazing. In both the yak-grazing experiment and meta-analysis, grazing decreased biotrophic pathogens (mainly rusts and powdery mildew), but did not affect necrotrophic pathogens (mainly leaf spots). The clipping experiment suggested that grazers might promote infection by necrotrophic pathogens by producing wounds on leaves, but inhibit biotrophic pathogens via leaf removal. In conclusion, our three-part approach revealed that intrinsic properties of both plants and pathogens shape patterns of disease in natural ecosystems, greatly improving our ability to predict disease severity under mammal grazing.
+
+grazing: !decreases! biotrophic pathogens
+grazing: !increases! necrotrophic pathogens
+grazing: !produces wounds on! leaves
+grazing: !removes! leaves
+plant growth type: !affects! disease severity
+pathogen life history: !affects! disease severity

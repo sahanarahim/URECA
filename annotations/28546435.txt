@@ -1,0 +1,7 @@
+A forward genetic screen is one of the best methods for revealing the function of genes. In plants, this technique is highly efficient, as it is relatively easy to grow and screen hundreds or thousands of individuals. The cost efficiency and ease of data production afforded by next-generation sequencing have created new opportunities for rapid mapping of induced mutations. Current mapping tools are often not user friendly, are complicated, or require extensive preparation steps. To simplify the process of mapping new mutations, we developed a pipeline that takes next-generation sequencing fastq files as input, calls on several well-established and freely available genome-analysis tools, and outputs the most likely causal DNA changes. The pipeline has been validated in <i>Arabidopsis thaliana</i> (Arabidopsis) and can be readily applied to other species, with the possibility of mapping either dominant or recessive mutations.
+
+Forward genetic screen: !reveals! Function of genes
+Next-generation sequencing: !creates! Opportunities for rapid mapping
+Pipeline: !takes! Fastq files as input
+Pipeline: !outputs! Most likely causal DNA changes
+Validated in Arabidopsis: !applied to! Other species

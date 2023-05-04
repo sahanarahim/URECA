@@ -1,0 +1,8 @@
+Samples of single epidermal, basal and trichome cells were collected by glass microcapillaries from 7-week-old Arabidopsis thaliana leaves. Transcript amplification of these single-cell samples was performed by RT PCR. For gene expression profiling, we hybridized the amplified transcriptome of each individual cell type to nylon membranes spotted with 16,000 Arabidopsis expressed sequence tags (ESTs). Initial analysis of the array filter data enabled us to functionally categorize transcripts that were present in each individual cell type. In order to confirm the filter array data, we used RT PCR. Results of this RT PCR approach confirmed the presence of 12 selected candidate genes in agreement with array filter hybridization data. Further, transcripts involved in detoxification and sulfur metabolism could be identified in epidermal cell extracts. Together, the results of our study provide the localization of approximately 1000 expressed genes to either pavement, basal or trichome cells. To cluster transcripts with similar expression levels, we developed a novel mathematical algorithm. Based on the mean and standard deviation, ratios of expression levels of a transcript were defined for pairs of the three cell types. This numerical analysis enabled subdivision into 67 categories of genes differentially expressed in epidermal, basal and trichome cells. Transcripts in each category displayed similar ratios of expression levels in the three cell types. Examples of these clusters are presented and discussed in Appendix A.
+
+Gene: !localizes to! epidermal cells
+Gene: !localizes to! basal cells
+Gene: !localizes to! trichome cells
+Gene: !enhances! detoxification
+Gene: !enhances! sulfur metabolism
+Gene: !clusters with! similar expression levels

@@ -1,0 +1,11 @@
+<i>Arabidopsis thaliana</i> shows a wide range of natural genetic variation in light responses. Shade avoidance syndrome is a strategy of major adaptive significance that includes seed germination, elongation of vegetative structures, leaf hyponasty, and acceleration of flowering. Previously, we found that the southernmost Arabidopsis accession, collected in the south of Patagonia (Pat), is hyposensitive to light and displays a reduced response to shade light. This work aimed to explore the genetic basis of the shade avoidance response (SAR) for hypocotyl growth by QTL mapping in a recently developed 162 RIL population between Col-0 and Pat. We mapped four QTL for seedling hypocotyl growth: <i>WL1</i> and <i>WL2</i> QTL in white light, <i>SHADE1</i> QTL in shade light, and <i>SAR1</i> QTL for the SAR. <i>PHYB</i> is the strongest candidate gene for <i>SAR1</i> QTL. Here we studied the function of two polymorphic indels in the promoter region, a GGGR deletion, and three non-synonymous polymorphisms on the <i>PHYB</i> coding region compared with the Col-0 reference genome. To decipher the contribution and relevance of each <i>PHYB</i>-Pat polymorphism, we constructed transgenic lines with single or double polymorphisms by using Col-0 as a reference genome. We found that single polymorphisms in the coding region of <i>PHYB</i> have discrete functions in seed germination, seedling development, and shade avoidance response. These results suggest distinct functions for each <i>PHYB</i> polymorphism to the adjustment of plant development to variable light conditions.
+
+PHYB: !affects! Seed Germination
+PHYB: !affects! Seedling Development
+PHYB: !affects! Shade Avoidance Response
+WL1: !affects! White Light Hypocotyl Growth
+WL2: !affects! White Light Hypocotyl Growth
+SHADE1: !affects! Shade Light Hypocotyl Growth
+SAR1: !affects! Shade Avoidance Response
+GGGR Deletion: !affects! PHYB
+Non-Synonymous Polymorphisms: !affects! PHYB

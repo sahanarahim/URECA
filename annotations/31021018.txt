@@ -1,0 +1,10 @@
+In seed plants, cellulose is synthesized by rosette-shaped cellulose synthesis complexes (CSCs) that are obligate hetero-oligomeric, comprising three non-interchangeable cellulose synthase (CESA) isoforms. The moss Physcomitrella patens has rosette CSCs and seven CESAs, but its common ancestor with seed plants had rosette CSCs and a single CESA gene. Therefore, if P. patens CSCs are hetero-oligomeric, then CSCs of this type evolved convergently in mosses and seed plants. Previous gene knockout and promoter swap experiments showed that PpCESAs from class A (PpCESA3 and PpCESA8) and class B (PpCESA6 and PpCESA7) have non-redundant functions in secondary cell wall cellulose deposition in leaf midribs, whereas the two members of each class are redundant. Based on these observations, we proposed the hypothesis that the secondary class A and class B PpCESAs associate to form hetero-oligomeric CSCs. Here we show that transcription of secondary class A PpCESAs is reduced when secondary class B PpCESAs are knocked out and vice versa, as expected for genes encoding isoforms that occupy distinct positions within the same CSC. The class A and class B isoforms co-accumulate in developing gametophores and co-immunoprecipitate, suggesting that they interact to form a complex in planta. Finally, secondary PpCESAs interact with each other, whereas three of four fail to self-interact when expressed in two different heterologous systems. These results are consistent with the hypothesis that obligate hetero-oligomeric CSCs evolved independently in mosses and seed plants and we propose the constructive neutral evolution hypothesis as a plausible explanation for convergent evolution of hetero-oligomeric CSCs.
+
+PpCESA3: !interacts with! PpCESA8
+PpCESA6: !interacts with! PpCESA7
+PpCESA3: !reduced when! PpCESA6 knocked out
+PpCESA8: !reduced when! PpCESA7 knocked out
+PpCESAs: !co-accumulate in! developing gametophores
+PpCESAs: !co-immunoprecipitate! in planta
+PpCESAs: !interact with! each other
+PpCESAs: !fail to self-interact! in heterologous systems

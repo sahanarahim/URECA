@@ -1,0 +1,11 @@
+Stringent modulation of immune signaling in plants is necessary to enable a rapid response to pathogen attack without spurious defense activation. To identify genes involved in plant immunity, a forward genetic screen for enhancers of the autoimmune snc1 (suppressor of npr1, constitutive 1) mutant was conducted. The snc1 mutant contains a gain-of-function mutation in a gene encoding a NOD-like receptor (NLR) protein. The isolated muse7 (mutant, snc1-enhancing, 7) mutant was shown to confer a reversion to autoimmune phenotypes in the wild-type-like mos4 (modifier of snc1, 4) snc1 background. Positional cloning revealed that MUSE7 encodes an evolutionarily conserved putative kinase substrate of unknown function. The muse7 single mutants display enhanced resistance to the bacterial pathogen Pseudomonas syringae pv. tomato DC3000. While transcription of SNC1 is not enhanced, elevated SNC1 protein accumulation is associated with mutations in muse7. Accumulation of two additional NLR proteins, RPS2 (RESISTANCE TO PSEUDOMONAS SYRINGAE 2) and RPM1 (RESISTANCE TO PSEUDOMONAS SYRINGAE pv. MACULICOLA 1), was also observed in muse7 plants. Although proteasome-mediated degradation of NLR proteins is a well studied event in plant immunity, no interactions were detected between MUSE7 and selected components of this pathway. This study has demonstrated a role for MUSE7 in modulating plant immune responses through negatively affecting NLR accumulation, and will benefit future studies of MUSE7 homologs in other species.
+
+snc1: !affects! Plant immunity
+muse7: !enhances! snc1 mutant
+MUSE7: !synthesizes! Putative kinase substrate
+muse7: !confers! Reversion to autoimmune phenotypes
+muse7: !resists! Pseudomonas syringae pv. tomato DC3000
+SNC1: !accumulates! In muse7 plants
+RPS2: !accumulates! In muse7 plants
+RPM1: !accumulates! In muse7 plants
+MUSE7: !interacts with! Selected components of proteasome-mediated degradation pathway

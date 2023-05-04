@@ -1,0 +1,9 @@
+Chloroplastic membrane proteins can be targeted to any of three distinct membrane systems, i.e., the outer envelope membrane (OEM), inner envelope membrane (IEM), and thylakoid membrane. This complex structure of chloroplasts adds significantly to the challenge of studying protein targeting to various membrane sub-compartments within a chloroplast. In this investigation, we examined the role played by the transmembrane domain (TMD) in directing membrane proteins to either the IEM or thylakoid membrane. Using the IEM protein, Arc6 (Accumulation and Replication of Chloroplasts 6), we exchanged the stop-transfer TMD of Arc6 with various TMDs derived from different IEM and thylakoid membrane proteins and monitored the subcellular localization of these Arc6-hybrid proteins. We showed that when the Arc6 TMD was replaced with a TMD derived from various thylakoid membrane proteins, these Arc6(thylTMD) hybrid proteins could be directed to the thylakoid membrane rather than to the IEM. Conversely, when the TMD of the thylakoid membrane proteins, STN8 (State Transition protein kinase 8) or Plsp1 (Plastidic type I signal peptidase 1), was replaced with the stop-transfer TMD of Arc6, STN8 and Plsp1 were halted at the IEM. From our investigation, we conclude that the TMD plays a critical role in targeting integral membrane proteins to either the IEM or thylakoid membrane.
+
+Arc6: !directed to! IEM 
+Arc6: !replaced with! thylTMD 
+thylTMD: !directed to! thylakoid membrane 
+STN8: !replaced with! Arc6 TMD 
+Plsp1: !replaced with! Arc6 TMD 
+STN8: !halted at! IEM 
+Plsp1: !halted at! IEM

@@ -1,0 +1,9 @@
+Abscisic acid-responsive gene expression is regulated by numerous transcription factors, including a subgroup of basic leucine zipper factors that bind to the conserved cis-acting sequences known as ABA-responsive elements. Although one of these factors, ABA-insensitive 5 (ABI5), was identified genetically, the paucity of genetic data for the other family members has left it unclear whether they perform unique functions or act redundantly to ABI5 or each other. To test for potential redundancy with ABI5, we identified the family members with most similar effects and interactions in transient expression systems (ABF3 and ABF1), then characterized loss-of-function lines for those loci. The abf1 and abf3 monogenic mutant lines had at most minimal effects on germination or seed-specific gene expression, but the enhanced ABA- and stress-resistance of abf3 abi5 double mutants revealed redundant action of these genes in multiple stress responses of seeds and seedlings. Although ABI5, ABF3, and ABF1 have some overlapping effects, they appear to antagonistically regulate each other's expression at specific stages. Consequently, loss of any one factor may be partially compensated by increased expression of other family members.
+
+ABI5: !interacts with! ABF3
+ABF3: !interacts with! ABI5
+ABI5: !interacts with! ABF1
+ABF1: !interacts with! ABI5
+ABI5: !antagonistically regulates! ABF3
+ABF3: !antagonistically regulates! ABI5
+ABF1: !antagonistically regulates! ABI5

@@ -1,0 +1,8 @@
+In wheat (Triticum aestivum L) and other cereals, the number of ears per unit area is one of the main yield-determining components. An automatic evaluation of this parameter may contribute to the advance of wheat phenotyping and monitoring. There is no standard protocol for wheat ear counting in the field, and moreover it is time consuming. An automatic ear-counting system is proposed using machine learning techniques based on RGB (red, green, blue) images acquired from an unmanned aerial vehicle (UAV). Evaluation was performed on a set of 12 winter wheat cultivars with three nitrogen treatments during the 2017-2018 crop season. The automatic system uses a frequency filter, segmentation and feature extraction, with different classification techniques, to discriminate wheat ears in micro-plot images. The relationship between the image-based manual counting and the algorithm counting exhibited high levels of accuracy and efficiency. In addition, manual ear counting was conducted in the field for secondary validation. The correlations between the automatic and the manual in-situ ear counting with grain yield were also compared. Correlations between the automatic ear counting and grain yield were stronger than those between manual in-situ counting and GY, particularly for the lower nitrogen treatment. Methodological requirements and limitations are discussed.
+
+UAV: !acquires! RGB images
+Filter: !filters! RGB images
+Segmentation: !extracts features from! RGB images
+Classification: !discriminates! wheat ears
+Manual counting: !correlates with! grain yield
+Automatic counting: !correlates with! grain yield

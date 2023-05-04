@@ -1,0 +1,12 @@
+*Aquaporins can contribute to the control of root water uptake, provided that at least one membrane is crossed between the root medium and the xylem and that water does not move only along the apoplast. In the present study we have critically assessed the possibility of such a purely apoplastic pathway. *A range of methods were used to analyse root water flow (root pressure probe, root exudation, vacuum perfusion and cell pressure probe) and associated driving forces (gradients in hydrostatic pressure and osmolality). These methods were complemented by theoretical approaches in which we predicted, for a particular main pathway of water movement, values for root pressure and osmolality and compared these with measured values. *The mere existence of root pressure excludes the possibility of a purely apoplastic pathway of radial water uptake. A membrane(s) must be crossed. Equilibrium measurements of gradients in hydrostatic and osmotic pressure between the root medium and the xylem point to a root reflection coefficient for solutes close to 1.0. *The generally accepted composite model of water transport across roots should be revised. Barley (Hordeum vulgare) roots behave as perfect osmometers. Root reflection coefficients significantly smaller than unity may be experimental artefacts.
+
+root pressure probe: !measures! root water flow
+vacuum perfusion: !measures! root water flow
+cell pressure probe: !measures! root water flow
+root exudation: !measures! root water flow
+hydrostatic pressure: !creates! gradients in osmolality
+osmolality: !creates! gradients in hydrostatic pressure
+root medium: !crossed by! membrane(s)
+xylem: !crossed by! membrane(s)
+root reflection coefficient: !close to! 1.0
+barley roots: !behave as! perfect osmometers

@@ -1,0 +1,11 @@
+Urease is a ubiquitous nickel metalloenzyme. In plants, its activation requires three urease accessory proteins (UAPs), UreD, UreF, and UreG. In bacteria, the UAPs interact with urease and facilitate activation, which involves the channeling of two nickel ions into the active site. So far this process has not been investigated in eukaryotes. Using affinity pulldowns of Strep-tagged UAPs from <i>Arabidopsis</i> and rice transiently expressed <i>in planta</i>, we demonstrate that a urease-UreD-UreF-UreG complex exists in plants and show its stepwise assembly. UreG is crucial for nickel delivery because UreG-dependent urease activation <i>in vitro</i> was observed only with UreG obtained from nickel-sufficient plants. This activation competence could not be generated <i>in vitro</i> by incubation of UreG with nickel, bicarbonate, and GTP. Compared with their bacterial orthologs, plant UreGs possess an N-terminal extension containing a His- and Asp/Glu-rich hypervariable region followed by a highly conserved sequence comprising two potential H<i>X</i>H metal-binding sites. Complementing the <i>ureG-1</i> mutant of <i>Arabidopsis</i> with N-terminal deletion variants of UreG demonstrated that the hypervariable region has a minor impact on activation efficiency, whereas the conserved region up to the first H<i>X</i>H motif is highly beneficial and up to the second H<i>X</i>H motif strictly required for activation. We also show that urease reaches its full activity several days after nickel becomes available in the leaves, indicating that urease activation is limited by nickel accessibility <i>in vivo</i> Our data uncover the crucial role of UreG for nickel delivery during eukaryotic urease activation, inciting further investigations of the details of this process.
+
+UreD: !interacts with! UreF 
+UreF: !interacts with! UreG 
+UreG: !facilitates! urease activation 
+UreG: !requires! nickel-sufficient plants 
+UreG: !contains! N-terminal extension 
+Hypervariable region: !has minor impact on! activation efficiency 
+Conserved region: !highly beneficial for! activation efficiency 
+HXH motif: !strictly required for! activation 
+Nickel: !limits! urease activation in vivo

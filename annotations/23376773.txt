@@ -1,0 +1,8 @@
+Chloroplast development depends on the synthesis and import of a large number of nuclear-encoded proteins. The synthesis of some of these proteins is affected by the functional state of the plastid via a process known as retrograde signaling. Retrograde plastid-to-nucleus signaling has been often characterized in seedlings of Arabidopsis thaliana exposed to norflurazon (NF), an inhibitor of carotenoid biosynthesis. Results of this work suggested that, throughout seedling development, a factor is released from the plastid to the cytoplasm that indicates a perturbation of plastid homeostasis and represses nuclear genes required for normal chloroplast development. The identity of this factor is still under debate. Reactive oxygen species (ROS) were among the candidates discussed as possible retrograde signals in NF-treated plants. In the present work, this proposed role of ROS has been analyzed. In seedlings grown from the very beginning in the presence of NF, ROS-dependent signaling was not detectable, whereas, in seedlings first exposed to NF after light-dependent chloroplast formation had been completed, enhanced ROS production occurred and, among others, (1)O2-mediated and EXECUTER-dependent retrograde signaling was induced. Hence, depending on the developmental stage at which plants are exposed to NF, different retrograde signaling pathways may be activated, some of which are also active in non-treated plants under light stress.
+
+plastid: !releases! factor
+factor: !represses! nuclear genes
+plastid: !signals to! nucleus
+ROS: !mediates! retrograde signaling
+NF: !induces! ROS production
+light stress: !activates! retrograde signaling

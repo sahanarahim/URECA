@@ -1,0 +1,11 @@
+As the last stage of leaf development, senescence is a fine-tuned process regulated by interplays of multiple signaling pathways. We have previously identified soybean (Glycine max) SENESCENCE-ASSOCIATED RECEPTOR-LIKE KINASE (SARK), a leucine-rich repeat-receptor-like protein kinase from soybean, as a positive regulator of leaf senescence. Here, we report the elucidation of the molecular mechanism of GmSARK-mediated leaf senescence, especially its specific roles in senescence-inducing hormonal pathways. A glucocorticoid-inducible transcription system was used to produce transgenic Arabidopsis (Arabidopsis thaliana) plants for inducible overexpression of GmSARK, which led to early leaf senescence, chloroplast destruction, and abnormal flower morphology in Arabidopsis. Transcript analyses of the GmSARK-overexpressing seedlings revealed a multitude of changes in phytohormone synthesis and signaling, specifically the repression of cytokinin functions and the induction of auxin and ethylene pathways. Inhibition of either auxin action or ethylene biosynthesis alleviated the senescence induced by GmSARK. Consistently, mutation of either AUXIN RESISTANT1 or ETHYLENE INSENSITIVE2 completely reversed the GmSARK-induced senescence. We further identified a homolog of GmSARK with a similar expression pattern in Arabidopsis and named it AtSARK. Inducible overexpression of AtSARK caused precocious senescence and abnormal floral organ development nearly identical to the GmSARK-overexpressing plants, whereas a T-DNA insertion mutant of AtSARK showed significantly delayed senescence. A kinase assay on recombinant catalytic domains of GmSARK and AtSARK revealed that these two leucine-rich repeat-receptor-like protein kinases autophosphorylate on both serine/threonine and tyrosine residues. We inferred that the SARK-mediated pathway may be a widespread mechanism in regulating leaf senescence.
+
+GmSARK: !induces! leaf senescence
+GmSARK: !represses! cytokinin functions
+GmSARK: !induces! auxin pathways
+GmSARK: !induces! ethylene pathways
+auxin: !alleviates! GmSARK-induced senescence
+ethylene: !alleviates! GmSARK-induced senescence
+AtSARK: !induces! precocious senescence
+AtSARK: !induces! abnormal floral organ development
+GmSARK/AtSARK: !autophosphorylates! serine/threonine and tyrosine residues

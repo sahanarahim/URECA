@@ -1,0 +1,15 @@
+Drought is one of the major challenges affecting crop productivity and yield. However, water stress responses are notoriously multigenic and quantitative with strong environmental effects on phenotypes. It is also clear that water stress often does not occur alone under field conditions but rather in conjunction with other abiotic stresses such as high temperature and high light intensities. A multidisciplinary approach with successful integration of a whole range of -omics technologies will not only define the system, but also provide new gene targets for both transgenic approaches and marker-assisted selection. Transcription factors are major players in water stress signaling and some constitute major hubs in the signaling webs. The main transcription factors in this network include MYB, bHLH, bZIP, ERF, NAC, and WRKY transcription factors. The role of WRKY transcription factors in abiotic stress signaling networks is just becoming apparent and systems biology approaches are starting to define their places in the signaling network. Using systems biology approaches, there are now many transcriptomic analyses and promoter analyses that concern WRKY transcription factors. In addition, reports on nuclear proteomics have identified WRKY proteins that are up-regulated at the protein level by water stress. Interactomics has started to identify different classes of WRKY-interacting proteins. What are often lacking are connections between metabolomics, WRKY transcription factors, promoters, biosynthetic pathways, fluxes and downstream responses. As more levels of the system are characterized, a more detailed understanding of the roles of WRKY transcription factors in drought responses in crops will be obtained.
+
+MYB: !interacts with! bHLH
+bHLH: !interacts with! bZIP
+bZIP: !interacts with! ERF
+ERF: !interacts with! NAC
+NAC: !interacts with! WRKY
+WRKY: !interacts with! transcriptomic analyses
+WRKY: !interacts with! promoter analyses
+WRKY: !interacts with! nuclear proteomics
+WRKY: !interacts with! interactomics
+WRKY: !interacts with! metabolomics
+WRKY: !interacts with! biosynthetic pathways
+WRKY: !interacts with! fluxes
+WRKY: !interacts with! downstream responses

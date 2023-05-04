@@ -1,0 +1,10 @@
+The plant hormone gibberellin (GA) impacts plant growth and development differently depending on the developmental context. In the maize (Zea mays) tassel, application of GA alters floral development, resulting in the persistence of pistils. GA signaling is achieved by the GA-dependent turnover of DELLA domain transcription factors, encoded by dwarf8 (d8) and dwarf9 (d9) in maize. The D8-Mpl and D9-1 alleles disrupt GA signaling, resulting in short plants and normal tassel floret development in the presence of excess GA. However, D9-1 mutants are unable to block GA-induced pistil development. Gene expression in developing tassels of D8-Mpl and D9-1 mutants and their wild-type siblings was determined upon excess GA<sub>3</sub> and mock treatments. Using GA-sensitive transcripts as reporters of GA signaling, we identified a weak loss of repression under mock conditions in both mutants, with the effect in D9-1 being greater. D9-1 was also less able to repress GA signaling in the presence of excess GA<sub>3</sub> . We treated a diverse set of maize inbred lines with excess GA<sub>3</sub> and measured the phenotypic consequences on multiple aspects of development (e.g., height and pistil persistence in tassel florets). Genotype affected all GA-regulated phenotypes but there was no correlation between any of the GA-affected phenotypes, indicating that the complexity of the relationship between GA and development extends beyond the two-gene epistasis previously demonstrated for GA and brassinosteroid biosynthetic mutants.
+
+gibberellin: !affects! Plant growth and development
+dwarf8: !encodes! DELLA domain transcription factors
+dwarf9: !encodes! DELLA domain transcription factors
+D8-Mpl: !disrupts! GA signaling
+D9-1: !disrupts! GA signaling
+GA-sensitive transcripts: !report! GA signaling
+D9-1: !less able to repress! GA signaling
+genotype: !affects! GA-regulated phenotypes

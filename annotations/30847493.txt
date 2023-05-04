@@ -1,0 +1,9 @@
+Two mutants sensitive to high light for growth and impaired in NDH-1 activity were isolated from a transposon-tagged library of Synechocystis sp. strain PCC 6803. Both mutants were tagged in the ssl3451 gene encoding a hypothetical protein, which shares a significant homology with the Arabidopsis (Arabidopsis thaliana) CHLORORESPIRATORY REDUCTION 42 (CRR42). In Arabidopsis, CRR42 associates only with an NDH-1 hydrophilic arm assembly intermediate (NAI) of about 400 kDa (NAI400), one of total three NAIs (NAI800, NAI500 and NAI400), and its deletion has little, if any, effect on accumulation of any NAIs in the stroma. In comparison, the ssl3451 product was localized mainly in the cytoplasm and associates with two NAIs of about 300 kDa (NAI300) and 130 kDa (NAI130). Deletion of Ssl3451 reduced the abundance of the NAI300 complex to levels no longer visible on gels and of the NAI130 complex to a low level, thereby impeding the assembly process of NDH-1 hydrophilic arm. Further, Ssl3451 interacts with another assembly factor Ssl3829 and they have a similar effect on accumulation of NAIs and NdhI maturation factor Slr1097 in the cytoplasm. We thus propose that Ssl3451 plays an important role in accumulation of the NAI300 and NAI130 complexes in the cytoplasm via its interacting protein Ssl3829.
+
+ssl3451: !encodes! hypothetical protein
+ssl3451: !localizes to! cytoplasm
+ssl3451: !interacts with! Ssl3829
+ssl3451: !affects! NDH-1 hydrophilic arm assembly
+ssl3451: !enhances! NAI300 and NAI130 complexes
+Ssl3829: !interacts with! ssl3451
+Ssl3829: !affects! NdhI maturation factor Slr1097

@@ -1,0 +1,7 @@
+*Pathogenicity of the Gram-negative plant pathogen Xanthomonas campestris pv. vesicatoria (Xcv) depends on a type III secretion system that translocates a cocktail of > 25 type III effector proteins into the plant cell. *In this study, we identified the effector AvrBsT as a suppressor of specific plant defense. AvrBsT belongs to the YopJ/AvrRxv protein family, members of which are predicted to act as proteases and/or acetyltransferases. *AvrBsT suppresses the hypersensitive response (HR) that is elicited by the effector protein AvrBs1 from Xcv in resistant pepper plants. HR suppression occurs inside the plant cell and depends on a conserved predicted catalytic residue of AvrBsT. Yeast two-hybrid based analyses identified plant interaction partners of AvrBs1 and AvrBsT, including a putative regulator of sugar metabolism, SNF1-related kinase 1 (SnRK1), as interactor of AvrBsT. Intriguingly, gene silencing experiments revealed that SnRK1 is required for the induction of the AvrBs1-specific HR. *We therefore speculate that SnRK1 is involved in the AvrBsT-mediated suppression of the AvrBs1-specific HR.
+
+AvrBsT: !suppresses! HR 
+AvrBsT: !interacts with! SnRK1 
+AvrBs1: !elicits! HR 
+SnRK1: !regulates! sugar metabolism 
+SnRK1: !required for! AvrBs1-specific HR

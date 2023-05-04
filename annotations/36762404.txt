@@ -1,0 +1,8 @@
+Mitogen-activated protein (MAP) kinase signaling cascades play important roles in eukaryotic defense against various pathogens. Activation of the extracellular ATP (eATP) receptor P2K1 triggers MAP kinase 3 and 6 (MPK3/6) phosphorylation, which leads to an elevated plant defense response. However, the mechanism by which P2K1 activates the MAPK cascade is unclear. In this study, we show that in Arabidopsis thaliana, P2K1 phosphorylates the Raf-like MAP kinase kinase kinase (MAPKKK) INTEGRIN-LINKED KINASE 5 (ILK5) on serine 192 in the presence of eATP. The interaction between P2K1 and ILK5 was confirmed both in vitro and in planta and their interaction was enhanced by ATP treatment. Similar to P2K1 expression, ILK5 expression levels were highly induced by treatment with ATP, flg22, Pseudomonas syringae pv. tomato DC3000, and various abiotic stresses. ILK5 interacts with and phosphorylates the MAP kinase kinase MKK5. Moreover, phosphorylation of MPK3/6 was significantly reduced upon ATP treatment in ilk5 mutant plants, relative to wild-type. The ilk5 mutant plants showed higher susceptibility to P. syringae pathogen infection relative to wild-type plants. Plants expressing only the mutant ILK5S192A protein, with decreased kinase activity, did not activate the MAPK cascade upon ATP addition. These results suggest that eATP activation of P2K1 results in transphosphorylation of the Raf-like MAPKKK ILK5, which subsequently triggers the MAPK cascade, culminating in activation of MPK3/6 associated with an elevated innate immune response.
+
+P2K1: !phosphorylates! ILK5
+ILK5: !interacts with! P2K1
+ILK5: !phosphorylates! MKK5
+MKK5: !activates! MPK3/6
+MPK3/6: !enhances! Plant defense response
+ILK5: !represses! Pathogen infection

@@ -1,0 +1,10 @@
+The genome sequence of the Enterobacteriaceae phytopathogen Dickeya dadantii (formerly Erwinia chrysanthemi) revealed homologs of genes required for a complete flagellar secretion system and one flagellin gene. We found that D. dadantii was able to swim and swarm but that ability to swarm was dependent upon both growth media and temperature. Mutation of the D. dadantii fliA gene was pleiotropic, with the alternate sigma factor required for flagella production and development of disease symptoms but not bacterial growth in Nicotiana benthamiana leaves. The flagellar sigma factor was also required for multiple bacterial phenotypes, including biofilm formation in culture, bacterial adherence to plant tissue, and full expression of pectate lyase activity (but not cellulase or protease activity). Surprisingly, mutation of fliA resulted in the increased expression of avrL (a gene of unknown function in D. dadantii) and two pectate lyase gene homologs, pelX and ABF-0019391. Because FliA is a key contributor to virulence in D. dadantii, it is a new target for disease control.
+
+FliA: !affects! Flagella production
+FliA: !enhances! Virulence
+FliA: !represses! Bacterial growth in leaves
+FliA: !synthesizes! AvrL
+FliA: !synthesizes! PelX
+FliA: !synthesizes! ABF-0019391
+Growth media: !affects! Swarming ability
+Temperature: !affects! Swarming ability

@@ -1,0 +1,10 @@
+The plant hormone auxin controls many aspects of plant growth and development by promoting the degradation of Auxin/Indole-3-acetic acid (Aux/IAA) proteins. The domain II (DII) of Aux/IAA proteins is sufficient for eliciting the degradation by directly interacting with the auxin receptor F-box protein TIR1 to form a TIR1/AFBs-Aux/IAA complex in an auxin-dependent manner. However, the underlying mechanisms of fine-tuning Aux/IAA degradation by auxin stimuli remain to be elucidated. Here, we show that OsIPK2, a rice (Oryza sativa) inositol polyphosphate kinase, directly interacts with an Aux/IAA protein OsIAA11 to repress its degradation. In a rice protoplast transient expression system, the auxin-induced degradation of Myc-OsIAA11 fusion was delayed by co-expressed GFP-OsIPK2 proteins. Furthermore, expressing additional OsIPK2 or its N-terminal amino acid sequence enhanced the accumulation of OsIAA11 proteins in transgenic plants, which in turn caused defects in lateral root formation and auxin response. Taken together, we identify a novel co-factor of Aux/IAA in auxin signaling and demonstrate its role in regulating lateral root development.
+
+TIR1: !interacts with! DII 
+OsIPK2: !interacts with! OsIAA11 
+auxin: !promotes degradation of! Aux/IAA 
+OsIPK2: !represses degradation of! OsIAA11 
+GFP-OsIPK2: !delays degradation of! Myc-OsIAA11 
+OsIPK2: !enhances accumulation of! OsIAA11 
+OsIAA11: !causes defects in! lateral root formation 
+OsIAA11: !affects! auxin response

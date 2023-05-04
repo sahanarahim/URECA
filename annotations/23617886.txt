@@ -1,0 +1,7 @@
+A closed-form solution for steady-state coupled phloem/xylem flow is presented. This incorporates the basic Münch flow model of phloem transport, the cohesion model of xylem flow, and local variation in the xylem water potential and lateral water flow along the transport pathway. Use of the Lambert-W function allows this solution to be obtained under much more general and realistic conditions than has previously been possible. Variation in phloem resistance (i.e. viscosity) with solute concentration, and deviations from the Van't Hoff expression for osmotic potential are included. It is shown that the model predictions match those of the equilibrium solution of a numerical time-dependent model based upon the same mechanistic assumptions. The effect of xylem flow upon phloem flow can readily be calculated, which has not been possible in any previous analytical model. It is also shown how this new analytical solution can handle multiple sources and sinks within a complex architecture, and can describe competition between sinks. The model provides new insights into Münch flow by explicitly including interactions with xylem flow and water potential in the closed-form solution, and is expected to be useful as a component part of larger numerical models of entire plants.
+
+Münch flow: !incorporates! Cohesion model 
+Münch flow: !includes! Variation in phloem resistance 
+Münch flow: !describes! Competition between sinks 
+Münch flow: !interacts with! Xylem flow 
+Münch flow: !accounts for! Water potential

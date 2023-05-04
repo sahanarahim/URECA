@@ -1,0 +1,8 @@
+The PsbQ-like (PQL) proteins 1 and 2, previously shown to be located in the thylakoid lumen of Arabidopsis thaliana, are homologous to PSII oxygen-evolving complex protein PsbQ. Nevertheless, pql mutants showed no defects in PSII but instead the activity of the chloroplast NAD(P)H dehydrogenease (NDH) complex was severely impaired. In line with this observation, the NDH subunits were low in abundance in pql mutants, and, conversely, ndh mutants strongly down-regulated the accumulation of the PQL proteins. In addition, the PQL2 protein was up-regulated in mutant plants deficient in the PSI complex or the thylakoid membrane-bound ferredoxin-NADP(+) oxidoreductase, whereas in pql mutants the PSI complex was slightly up-regulated. Taken together, the two PQL proteins are shown to be novel subunits of the lumenal protuberance of the NDH complex.
+
+PQL1: !localizes to! thylakoid lumen
+PQL2: !localizes to! thylakoid lumen
+pql mutants: !down-regulate! NDH subunits
+ndh mutants: !up-regulate! PQL proteins
+PSI complex: !up-regulated in! pql mutants
+Ferredoxin-NADP(+): !up-regulates! PQL2

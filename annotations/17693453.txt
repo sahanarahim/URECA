@@ -1,0 +1,11 @@
+The imidazolinone-tolerant mutant of Arabidopsis thaliana, csr1-2(D), carries a mutation equivalent to that found in commercially available Clearfield crops. Despite their widespread usage, the mechanism by which Clearfield crops gain imidazolinone herbicide tolerance has not yet been fully characterized. Transcription profiling of imazapyr (an imidazolinone herbicide)-treated wild-type and csr1-2(D) mutant plants using Affymetrix ATH1 GeneChip microarrays was performed to elucidate further the biochemical and genetic mechanisms of imidazolinone resistance. In wild-type shoots, the genes which responded earliest to imazapyr treatment were detoxification-related genes which have also been shown to be induced by other abiotic stresses. Early-response genes included steroid sulfotransferase (ST) and 1-aminocyclopropane-1-carboxylic acid oxidase (ACO), as well as members of the glycosyltransferase, glutathione transferase (GST), cytochrome P450, ATP-binding cassette (ABC) transporter, multidrug and toxin extrusion (MATE) and alternative oxidase (AOX) protein families. Later stages of the imazapyr response involved regulation of genes participating in biosynthesis of amino acids, secondary metabolites and tRNA. In contrast to the dynamic changes in the transcriptome profile observed in imazapyr-treated wild-type plants, the transcriptome of csr1-2(D) did not exhibit significant changes following imazapyr treatment, compared with mock-treated csr1-2(D). Further, no substantial difference was observed between wild-type and csr1-2(D) transcriptomes in the absence of imazapyr treatment. These results indicate that CSR1 is the sole target of imidazolinone and that the csr1-2(D) mutation has little or no detrimental effect on whole-plant fitness.
+
+ST: !synthesizes! steroid sulfotransferase 
+ACO: !synthesizes! 1-aminocyclopropane-1-carboxylic acid oxidase 
+GST: !synthesizes! glycosyltransferase 
+P450: !synthesizes! cytochrome P450 
+ABC: !synthesizes! ATP-binding cassette transporter 
+MATE: !synthesizes! multidrug and toxin extrusion protein 
+AOX: !synthesizes! alternative oxidase protein 
+CSR1: !affects! imidazolinone tolerance 
+csr1-2(D): !lacks! CSR1

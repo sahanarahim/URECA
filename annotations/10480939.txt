@@ -1,0 +1,7 @@
+['10480939', 'The integration of light-harvesting chlorophyll proteins (LHCPs) into the  thylakoid membrane proceeds in two steps. First, LHCP interacts with a  chloroplast signal recognition particle (cpSRP) to form a soluble targeting  intermediate called the transit complex. Second, LHCP integrates into the  thylakoid membrane in the presence of GTP, at least one other soluble factor, and  undefined membrane components. We previously determined that cpSRP is composed of  43- and 54-kDa polypeptides. We have examined the subunit stoichiometry of cpSRP  and find that it is trimeric and composed of two subunits of cpSRP43/subunit of  cpSRP54. A chloroplast homologue of FtsY, an Escherichia coli protein that is  critical for the function of E. coli SRP, was found largely in the stroma  unassociated with cpSRP. When chloroplast FtsY was combined with cpSRP and GTP,  the three factors promoted efficient LHCP integration into thylakoid membranes in  the absence of stroma, demonstrating that they are all required for  reconstituting the soluble phase of LHCP transport.', '1999 Sep 17', 'J Biol Chem', '10.1074/jbc.274.38.27219', 'Hoffman']
+
+LHCP: !interacts with! cpSRP 
+cpSRP: !composed of! 43- and 54-kDa polypeptides 
+FtsY: !found in! stroma 
+FtsY: !combined with! cpSRP and GTP 
+FtsY, cpSRP, GTP: !promote! LHCP integration

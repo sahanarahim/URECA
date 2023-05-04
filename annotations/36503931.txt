@@ -1,0 +1,8 @@
+DNA replication stress threatens genome stability and affects plant growth and development. How plants resolve replication stress is poorly understood. The protein kinase WEE1-mediated cell cycle arrest is required for replication stress responses. The E3 ubiquitin ligases anaphase-promoting complex/cyclosome (APC/C) and Skp1/Cullin 1/F-box (SCF) are essential regulators of the cell cycle. Here, we show that APC/CCDC20 mediates the degradation of SCFFBL17 during replication stress responses in Arabidopsis thaliana. Biochemically, WEE1 interacts with and phosphorylates the APC/C co-activator APC10, which enhances the interaction between F-BOX-LIKE17 (FBL17) and CELL DIVISION CYCLE 20 (CDC20), an activator of APC/C. Both APC10 and CDC20 are required for the polyubiquitination and degradation of FBL17. Genetically, silencing CDC20 or APC10 confers plant hypersensitivity to replication stress, which is suppressed by loss of FBL17. Collectively, our study suggests that WEE1 activates APC/C to inhibit FBL17, providing insight into replication stress responses in plants.
+
+WEE1: !interacts with! APC10 
+APC10: !enhances! FBL17-CDC20 interaction 
+CDC20: !mediates! FBL17 degradation 
+FBL17: !represses! replication stress responses 
+CDC20: !required for! FBL17 polyubiquitination 
+APC10: !required for! FBL17 degradation

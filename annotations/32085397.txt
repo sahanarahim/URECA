@@ -1,0 +1,17 @@
+Following an in-depth transcriptomics-based approach, we first screened out and analyzed (in silico) <i>cis</i> motifs in a group of 63 drought-inducible genes (in soybean). Six novel synthetic promoters (SynP14-SynP19) were designed by concatenating 11 <i>cis</i> motifs, <i>ABF, ABRE, ABRE-Like, CBF, E2F-VARIANT, G-box, GCC-Box, MYB1, MYB4, RAV1-A</i>, and <i>RAV1-B</i> (in multiple copies and various combination) with a minimal 35s core promoter and a 222 bp synthetic intron sequence. In order to validate their drought-inducibility and root-specificity, the designed synthetic assemblies were transformed in soybean hairy roots to drive GUS gene using pCAMBIA3301. Through GUS histochemical assay (after a 72 h 6% PEG6000 treatment), we noticed higher glucuronidase activity in transgenic hairy roots harboring SynP15, SynP16, and SynP18. Further screening through GUS fluorometric assay flaunted SynP16 as the most appropriate combination of efficient drought-responsive <i>cis</i> motifs. Afterwards, we stably transformed SynP15, SynP16, and SynP18 in Arabidopsis and carried out GUS staining as well as fluorometric assays of the transgenic plants treated with simulated drought stress. Consistently, SynP16 retained higher transcriptional activity in Arabidopsis roots in response to drought. Thus the root-specific drought-inducible synthetic promoters designed using stimulus-specific <i>cis</i> motifs in a definite fashion could be exploited in developing drought tolerance in soybean and other crops as well. Moreover, the rationale of design extends our knowledge of trial-and-error based <i>cis</i> engineering to construct synthetic promoters for transcriptional upgradation against other stresses.
+
+ABF: !concatenates with! SynP14-SynP19
+ABRE: !concatenates with! SynP14-SynP19
+ABRE-Like: !concatenates with! SynP14-SynP19
+CBF: !concatenates with! SynP14-SynP19
+E2F-VARIANT: !concatenates with! SynP14-SynP19
+G-box: !concatenates with! SynP14-SynP19
+GCC-Box: !concatenates with! SynP14-SynP19
+MYB1: !concatenates with! SynP14-SynP19
+MYB4: !concatenates with! SynP14-SynP19
+RAV1-A: !concatenates with! SynP14-SynP19
+RAV1-B: !concatenates with! SynP14-SynP19
+SynP15: !enhances! GUS activity
+SynP16: !enhances! GUS activity
+SynP18: !enhances! GUS activity
+SynP16:

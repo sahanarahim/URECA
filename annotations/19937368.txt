@@ -1,0 +1,13 @@
+['19937368', 'An emerging view of plant cell cycle regulators, including the E2F transcription  factors, implicates them in the integration of cell proliferation and  development. Arabidopsis encodes six E2F proteins that can act as activators or  repressors of E2F-responsive genes. E2FA, E2FB and E2FC interact with the  retinoblastoma-like RBR protein and bind to DNA together with their DP partners.  In contrast, E2FD, E2FE and E2FF (also known as DEL2, DEL1 and DEL3) are atypical  E2Fs that possess duplicated DNA binding regions, lack trans-activating and  RBR-binding domains and are believed to act as transcriptional  inhibitors/repressors. E2FE/DEL1 has been shown to inhibit the endocycle and  E2FF/DEL3 appears to control cell expansion but the role of E2FD/DEL2 has not  been reported so far. In this study, we investigated the expression of E2FD/DEL2  and analysed the accumulation of its product. These studies revealed that  E2FD/DEL2 accumulation is subject to negative post-translational regulation  mediated by the plant hormone auxin. Moreover, the analysis of mutant and  transgenic plants characterized by altered expression of E2FD/DEL2 has revealed  that this atypical E2F can affect plant growth by promoting cell proliferation  and repressing cell elongation. Overexpression of E2FD/DEL2 increased the  expression of E2FA, E2FB and E2FE/DEL1 whereas its inactivation led to the  up-regulation of genes encoding repressors of cell division. These results  suggest that E2FD/DEL2 is part of a regulatory network that controls the balance  between cell proliferation and development in Arabidopsis.', '2010 Mar', 'Plant Mol Biol', '10.1007/s11103-009-9577-8', 'Albani']
+
+E2FA: !interacts with! RBR 
+E2FB: !interacts with! RBR 
+E2FC: !interacts with! RBR 
+E2FD: !represses! cell division 
+E2FE: !inhibits! endocycle 
+E2FF: !controls! cell expansion 
+E2FD: !subject to! negative post-translational regulation 
+E2FD: !promotes! cell proliferation 
+E2FD: !represses! cell elongation 
+E2FD: !up-regulates! repressors of cell division 
+E2FD: !part of! regulatory network

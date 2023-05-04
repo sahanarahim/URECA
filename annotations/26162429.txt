@@ -1,0 +1,14 @@
+Brassinosteroids (BRs) are plant hormones involved in various growth and developmental processes. The BR signaling system is well established in Arabidopsis (Arabidopsis thaliana) and rice (Oryza sativa) but poorly understood in maize (Zea mays). BRASSINOSTEROID INSENSITIVE1 (BRI1) is a BR receptor, and database searches and additional genomic sequencing identified five maize homologs including duplicate copies of BRI1 itself. RNA interference (RNAi) using the extracellular coding region of a maize zmbri1 complementary DNA knocked down the expression of all five homologs. Decreased response to exogenously applied brassinolide and altered BR marker gene expression demonstrate that zmbri1-RNAi transgenic lines have compromised BR signaling. zmbri1-RNAi plants showed dwarf stature due to shortened internodes, with upper internodes most strongly affected. Leaves of zmbri1-RNAi plants are dark green, upright, and twisted, with decreased auricle formation. Kinematic analysis showed that decreased cell division and cell elongation both contributed to the shortened leaves. A BRASSINOSTEROID INSENSITIVE1-ETHYL METHANESULFONATE-SUPPRESSOR1-yellow fluorescent protein (BES1-YFP) transgenic line was developed that showed BR-inducible BES1-YFP accumulation in the nucleus, which was decreased in zmbri1-RNAi. Expression of the BES1-YFP reporter was strong in the auricle region of developing leaves, suggesting that localized BR signaling is involved in promoting auricle development, consistent with the zmbri1-RNAi phenotype. The blade-sheath boundary disruption, shorter ligule, and disrupted auricle morphology of RNAi lines resemble KNOTTED1-LIKE HOMEOBOX (KNOX) mutants, consistent with a mechanistic connection between KNOX genes and BR signaling.
+
+BRI1: !receives! BRs 
+BRs: !affects! Process 
+zmbri1-RNAi: !decreases! Response to BRs 
+zmbri1-RNAi: !alters! BR marker gene expression 
+zmbri1-RNAi: !causes! Dwarf stature 
+zmbri1-RNAi: !produces! Dark green, upright, twisted leaves 
+zmbri1-RNAi: !decreases! Cell division and cell elongation 
+BES1-YFP: !accumulates in! Nucleus 
+BES1-YFP: !localizes to! Auricle region 
+KNOX: !disrupts! Blade-sheath boundary 
+KNOX: !shortens! Ligule 
+KNOX: !disrupts! Auricle morphology

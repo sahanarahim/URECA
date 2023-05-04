@@ -1,0 +1,11 @@
+Using a novel analytical tool, this study investigates the relative roles of actin, microtubules, myosin, and Golgi bodies on form and movement of the endoplasmic reticulum (ER) in tobacco (Nicotiana tabacum) leaf epidermal cells. Expression of a subset of truncated class XI myosins, which interfere with the activity of native class XI myosins, and drug-induced actin depolymerization produce a more persistent network of ER tubules and larger persistent cisternae. The treatments differentially affect two persistent size classes of cortical ER cisternae, those >0.3 microm(2) and those smaller, called punctae. The punctae are not Golgi, and ER remodeling occurs in the absence of Golgi bodies. The treatments diminish the mobile fraction of ER membrane proteins but not the diffusive flow of mobile membrane proteins. The results support a model whereby ER network remodeling is coupled to the directionality but not the magnitude of membrane surface flow, and the punctae are network nodes that act as foci of actin polymerization, regulating network remodeling through exploratory tubule growth and myosin-mediated shrinkage.
+
+actin: !affects! ER remodeling
+microtubules: !affects! ER remodeling
+myosin: !affects! ER remodeling
+Golgi bodies: !affects! ER remodeling
+truncated class XI myosins: !interfere with! native class XI myosins
+drug-induced actin depolymerization: !produces! more persistent network of ER tubules
+ER membrane proteins: !diminished by! treatments
+mobile fraction of ER membrane proteins: !not affected by! diffusive flow of mobile membrane proteins
+punctae: !not Golgi! and !act as foci of! actin polymerization

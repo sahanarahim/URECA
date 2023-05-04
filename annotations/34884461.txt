@@ -1,0 +1,11 @@
+Rice is a main food crop for more than half of the global population. The brown planthopper (BPH, <i>Nilaparvata lugens</i>) is one of the most destructive insect pests of rice. Currently, repeated overuse of chemical insecticides represents a common practice in agriculture for BPH control, which can induce insect tolerance and provoke environmental concerns. This situation calls for innovative and widely applicable strategies for rice protection against BPH. Here we report that the rice osa-miR162a can mediate cross-kingdom RNA interference (RNAi) by targeting the <i>NlTOR</i> (<i>Target of rapamycin</i>) gene of BPH that regulates the reproduction process. Through artificial diet or injection, osa-miR162a mimics repressed the <i>NlTOR</i> expression and impaired the oviposition of BPH adults. Consistently, overproduced osa-miR162a in transgenic rice plants compromised the fecundity of BPH adults fed with these plants, but meanwhile perturbed root and grain development. To circumvent this issue, we generated osa-miR162a-m1, a sequence-optimized osa-miR162a, by decreasing base complementarity to rice endogenous target genes while increasing base complementarity to <i>NlTOR</i>. Transgenic overexpression of osa-miR162a-m1 conferred rice resistance to BPH without detectable developmental penalty. This work reveals the first cross-kingdom RNAi mechanism in rice-BPH interactions and inspires a potentially useful approach for improving rice resistance to BPH. We also introduce an effective strategy to uncouple unwanted host developmental perturbation from desirable cross-kingdom RNAi benefits for overexpressed plant miRNAs.
+
+osa-miR162a: !targets! NlTOR 
+NlTOR: !regulates! reproduction process 
+osa-miR162a: !represses! NlTOR expression 
+osa-miR162a: !impairs! oviposition of BPH adults 
+osa-miR162a: !compromises! fecundity of BPH adults 
+osa-miR162a: !perturbs! root and grain development 
+osa-miR162a-m1: !decreases! base complementarity to rice endogenous target genes 
+osa-miR162a-m1: !increases! base complementarity to NlTOR 
+osa-miR162a-m1: !confers! rice resistance to BPH

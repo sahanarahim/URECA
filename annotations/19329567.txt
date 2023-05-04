@@ -1,0 +1,12 @@
+['19329567', 'Protein phosphatase 1 (PP1) is a eukaryotic serine/threonine protein phosphatase,  and mediates diverse cellular processes in animal systems via the association of  a catalytic subunit (PP1c) with multiple regulatory subunits that determine the  catalytic activity, the subcellular localization, and the substrate specificity.  However, no regulatory subunit of PP1 has been identified in plants so far. In  this study, we identified inhibitor-3 (Inh3) as a regulatory subunit of PP1 and  characterized a functional role of Inh3 in Vicia faba and Arabidopsis  (Arabidopsis thaliana). We found Inh3 as one of the proteins interacting with  PP1c using a yeast two-hybrid system. Biochemical analyses demonstrated that  Arabidopsis Inh3 (AtInh3) bound to PP1c via the RVxF motif of AtInh3, a consensus  PP1c-binding sequence both in vitro and in vivo. AtInh3 inhibited the PP1c  phosphatase activity in the nanomolar range in vitro. AtInh3 was localized in  both the nucleus and cytoplasm, and it colocalized with Arabidopsis PP1c in these  compartments. Disruption mutants of AtINH3 delayed the progression of early  embryogenesis, arrested embryo development at the globular stage, and eventually  caused embryo lethality. Furthermore, reduction of AtINH3 expression by RNA  interference led to a decrease in fertility. Transformation of the lethal mutant  of inh3 with wild-type AtINH3 restored the phenotype, whereas that with the  AtINH3 gene having a mutation in the RVxF motif did not. These results define  Inh3 as a regulatory subunit of PP1 in plants and suggest that Inh3 plays a  crucial role in early embryogenesis in Arabidopsis.', '2009 May', 'Plant Physiol', '10.1104/pp.109.135335', 'Shimazaki']
+
+PP1c: !interacts with! Inh3 
+Inh3: !binds to! PP1c 
+RVxF motif: !binds to! PP1c 
+AtInh3: !inhibits! PP1c phosphatase activity 
+AtInh3: !localizes to! nucleus and cytoplasm 
+AtInh3: !colocalizes with! Arabidopsis PP1c 
+AtINH3 disruption mutants: !delay! early embryogenesis 
+AtINH3 RNA interference: !decreases! fertility 
+Wild-type AtINH3: !restores! phenotype 
+AtINH3 gene with mutation in RVxF motif: !does not restore! phenotype

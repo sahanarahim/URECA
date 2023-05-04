@@ -1,0 +1,9 @@
+Mitogen-activated protein kinase (MAPK) cascades are universal signaling modules in eukaryotes, including yeasts, animals and plants. They are involved in responses to various biotic and abiotic stresses, hormones, cell division and developmental processes. A MAPK cascade is composed of three functionally tiered protein kinases, namely MAPK, MAPK kinases (MAPKKs) and MAPK kinase kinases (MAPKKKs). These kinases have been intensively studied for their roles in developmental and physiological processes in various organisms. In this study, a Medicago truncatula MtMAPKK4 mutant with the tobacco retrotransposon Tnt1 insertion was identified using reverse genetics methods. No homozygous progeny could be produced by self-pollination of mapkk4/+ heterozygotes for 5 generations. Heterozygous mapkk4/+ mutant plants exhibited growth retardation, chlorosis symptoms and significantly reduced numbers of infection threads and nodules. The interaction between MtMAPKK4 and MtMAPK3/6 occurred both in yeast and in planta. Green fluorescent protein-tagged MtMAPKK4, MtMAPK3 and MtMAPK6 were all localized to membranes, cytoplasm and nuclei. Expression of MtMAPKK4, MtMAPK3 and MtMAPK6 was detected in various tissues of M. truncatula plants at the nodule maturation stage. Transcript levels of these genes were decreased in roots at the early symbiotic stage.
+
+MAPK: !interacts with! MAPKKs 
+MAPK: !interacts with! MAPKKKs 
+MtMAPKK4: !causes! growth retardation 
+MtMAPKK4: !localizes to! membranes, cytoplasm and nuclei 
+MtMAPKK4: !interacts with! MtMAPK3/6 
+MtMAPK3/6: !localizes to! membranes, cytoplasm and nuclei 
+MtMAPKK4: !represses! expression of MtMAPKK4, MtMAPK3 and MtMAPK6

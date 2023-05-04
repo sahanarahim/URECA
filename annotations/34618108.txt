@@ -1,0 +1,10 @@
+The proper biogenesis, morphogenesis, and dynamics of subcellular organelles are essential to their metabolic functions. Conventional techniques for identifying, classifying, and quantifying abnormalities in organelle morphology are largely manual and time-consuming, and require specific expertise. Deep learning has the potential to revolutionize image-based screens by greatly improving their scope, speed, and efficiency. Here, we used transfer learning and a convolutional neural network (CNN) to analyze over 47,000 confocal microscopy images from Arabidopsis wild-type and mutant plants with abnormal division of one of three essential energy organelles: chloroplasts, mitochondria, or peroxisomes. We have built a deep-learning framework, DeepLearnMOR (Deep Learning of the Morphology of Organelles), which can rapidly classify image categories and identify abnormalities in organelle morphology with over 97% accuracy. Feature visualization analysis identified important features used by the CNN to predict morphological abnormalities, and visual clues helped to better understand the decision-making process, thereby validating the reliability and interpretability of the neural network. This framework establishes a foundation for future larger-scale research with broader scopes and greater data set diversity and heterogeneity.
+
+Chloroplasts: !essential to! Metabolic functions
+Conventional techniques: !time-consuming and require! Specific expertise
+Deep learning: !has potential to! Revolutionize image-based screens
+Transfer learning: !used to! Analyze confocal microscopy images
+CNN: !classifies! Image categories
+DeepLearnMOR: !identifies! Abnormalities in organelle morphology
+Feature visualization: !identifies! Important features used by CNN
+Visual clues: !help to understand! Decision-making process

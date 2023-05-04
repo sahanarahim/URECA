@@ -1,0 +1,11 @@
+CudA, a nuclear protein required for Dictyostelium prespore-specific gene expression, binds in vivo to the promoter of the cotC prespore gene. A 14 nucleotide region of the cotC promoter binds CudA in vitro and ECudA, an Entamoeba CudA homologue, also binds to this site. The CudA and ECudA DNA-binding sites contain a dyad and, consistent with a symmetrical binding site, CudA forms a homodimer in the yeast two-hybrid system. Mutation of CudA binding sites within the cotC promoter reduces expression from cotC in prespore cells. The CudA and ECudA proteins share a 120 amino acid core of homology, and clustered point mutations introduced into two highly conserved motifs within the ECudA core region decrease its specific DNA binding in vitro. This region, the presumptive DNA-binding domain, is similar in sequence to domains in two Arabidopsis proteins and one Oryza protein. Significantly, these are the only proteins in the two plant species that contain an SH2 domain. Such a structure, with a DNA-binding domain located upstream of an SH2 domain, suggests that the plant proteins are orthologous to metazoan STATs. Consistent with this notion, the DNA sequence of the CudA half site, GAA, is identical to metazoan STAT half sites, although the relative positions of the two halves of the dyad are reversed. These results define a hitherto unrecognised class of transcription factors and suggest a model for the evolution of STATs and their DNA-binding sites.
+
+CudA: !binds to! cotC promoter
+ECudA: !binds to! cotC promoter
+CudA: !forms homodimer! yeast two-hybrid system
+Mutation: !reduces expression of! cotC
+ECudA: !shares core homology with! CudA
+Mutation: !decreases DNA binding of! ECudA
+Arabidopsis proteins: !contain! SH2 domain
+Oryza protein: !contains! SH2 domain
+CudA half site: !identical to! metazoan STAT half sites

@@ -1,0 +1,10 @@
+Nitrate is the main source of nitrogen for plants but often distributed heterogeneously in soil. Plants have evolved sophisticated strategies to achieve adequate nitrate by modulating the root system architecture. The nitrate acquisition system is triggered by the short mobile peptides C-TERMINALLY ENCODED PEPTIDES (CEPs) that are synthesized on the nitrate-starved roots, but induce the expression of nitrate transporters on the other nitrate-rich roots through an unclear signal transduction pathway. Here, we demonstrate that the transcription factors HBI1 and TCP20 play important roles in plant growth and development in response to fluctuating nitrate supply. HBI1 physically interacts with TCP20, and this interaction was enhanced by the nitrate starvation. HBI1 and TCP20 directly bind to the promoters of CEPs and cooperatively induce their expression. Mutation in HBIs and/or TCP20 resulted in impaired systemic nitrate acquisition response. Our solid genetic and molecular evidence strongly indicate that the HBI1-TCP20 module positively regulates the CEPs-mediated systemic nitrate acquisition.
+
+HBI1: !interacts with! TCP20
+HBI1: !enhances! TCP20
+CEPs: !synthesizes! HBI1
+CEPs: !synthesizes! TCP20
+HBI1: !binds to! CEPs
+TCP20: !binds to! CEPs
+HBI1: !regulates! CEPs
+TCP20: !regulates! CEPs

@@ -1,0 +1,8 @@
+['17933903', 'Although the Arabidopsis thaliana genome contains genes encoding 20  mitogen-activated protein kinases (MAPKs) and 10 MAPK kinases (MAPKKs), most of  them are still functionally uncharacterized. In this work, we analyzed the  function of the group B MAPK kinase, MKK3. Transgenic ProMKK3:GUS lines showed  basal expression in vascular tissues that was strongly induced by Pseudomonas  syringae pv tomato strain DC3000 (Pst DC3000) infection but not by abiotic  stresses. The growth of virulent Pst DC3000 was increased in mkk3 knockout plants  and decreased in MKK3-overexpressing plants. Moreover, MKK3 overexpression lines  showed increased expression of several PR genes. By yeast two-hybrid analysis,  coimmunoprecipitation, and protein kinase assays, MKK3 was revealed to be an  upstream activator of the group C MAPKs MPK1, MPK2, MPK7, and MPK14.  Flagellin-derived flg22 peptide strongly activated MPK6 but resulted in poor  activation of MPK7. By contrast, MPK6 and MPK7 were both activated by H(2)O(2),  but only MPK7 activation was enhanced by MKK3. In agreement with the notion that  MKK3 regulates the expression of PR genes, ProPR1:GUS expression was strongly  enhanced by coexpression of MKK3-MPK7. Our results reveal that the MKK3 pathway  plays a role in pathogen defense and further underscore the importance and  complexity of MAPK signaling in plant stress responses.', '2007 Oct', 'Plant Cell', '10.1105/tpc.106.050039', 'Hirt']
+
+MKK3: !induces! PR genes
+MKK3: !activates! MPK1, MPK2, MPK7, MPK14
+flg22 peptide: !activates! MPK6
+H2O2: !activates! MPK6, MPK7
+MKK3: !enhances! MPK7 activation
+MKK3-MPK7: !enhances! ProPR1:GUS expression

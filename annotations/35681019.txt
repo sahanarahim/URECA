@@ -1,0 +1,10 @@
+The majority of the pyruvate inside plant mitochondria is either transported into the matrix from the cytosol via the mitochondria pyruvate carrier (MPC) or synthesized in the matrix by alanine aminotransferase (AlaAT) or NAD-malic enzyme (NAD-ME). Pyruvate from these origins could mix into a single pool in the matrix and contribute indistinguishably to respiration via the pyruvate dehydrogenase complex (PDC), or these molecules could maintain a degree of independence in metabolic regulation. Here we demonstrate that feeding isolated mitochondria with uniformly labelled <sup>13</sup>C-pyruvate and unlabelled malate enables the assessment of pyruvate contribution from different sources to intermediate production in the tricarboxylic acid cycle. Imported pyruvate was the preferred source for citrate production even when the synthesis of NAD-ME-derived pyruvate was optimized. Genetic or pharmacological elimination of MPC activity removed this preference and allowed an equivalent amount of citrate to be generated from the pyruvate produced by NAD-ME. Increasing the mitochondrial pyruvate pool size by exogenous addition affected only metabolites from pyruvate transported by MPC, whereas depleting the pyruvate pool size by transamination to alanine affected only metabolic products derived from NAD-ME. PDC was more membrane-associated than AlaAT and NAD-ME, suggesting that the physical organization of metabolic machinery may influence metabolic rates. Together, these data reveal that the respiratory substrate supply in plants involves distinct pyruvate pools inside the matrix that can be flexibly mixed on the basis of the rate of pyruvate transport from the cytosol. These pools are independently regulated and contribute differentially to organic acid export from plant mitochondria.
+
+MPC: !transports! Pyruvate
+AlaAT: !synthesizes! Pyruvate
+NAD-ME: !synthesizes! Pyruvate
+PDC: !converts! Pyruvate
+MPC: !prefers! Citrate production
+MPC: !eliminated by! Genetic/pharmacological elimination
+Pyruvate pool size: !affected by! Exogenous addition/transamination to alanine
+PDC: !more membrane-associated than! AlaAT/NAD-ME

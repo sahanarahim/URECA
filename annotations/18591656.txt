@@ -1,0 +1,14 @@
+['18591656', 'Plants depend on light signals to modulate many aspects of their development and  optimize their photosynthetic capacity. Phytochromes (phys), a family of  photoreceptors, initiate a signal transduction pathway that alters expression of  a large number of genes to induce these responses. Recently, phyA and phyB were  shown to bind members of a basic helix-loop-helix family of transcription factors  called phy-interacting factors (PIFs). PIF1 negatively regulates chlorophyll  biosynthesis and seed germination in the dark, and light-induced degradation of  PIF1 relieves this negative regulation to promote photomorphogenesis. Here, we  report that PIF1 regulates expression of a discrete set of genes in the dark,  including protochlorophyllide oxidoreductase (POR), ferrochelatase (FeChII), and  heme oxygenase (HO3), which are involved in controlling the chlorophyll  biosynthetic pathway. Using ChIP and DNA gel-shift assays, we demonstrate that  PIF1 directly binds to a G-box (CACGTG) DNA sequence element present in the PORC  promoter. Moreover, in transient assays, PIF1 activates transcription of PORC in  a G-box-dependent manner. These data strongly suggest that PIF1 directly and  indirectly regulates key genes involved in chlorophyll biosynthesis to optimize  the greening process in Arabidopsis.', '2008 Jul 8', 'Proc Natl Acad Sci U S A', '10.1073/pnas.0803611105', 'Huq']
+
+phyA: !binds! PIFs 
+phyB: !binds! PIFs 
+PIF1: !regulates! chlorophyll biosynthesis 
+PIF1: !regulates! seed germination 
+PIF1: !degrades! light-induced 
+PIF1: !regulates! expression of genes 
+POR: !regulated by! PIF1 
+FeChII: !regulated by! PIF1 
+HO3: !regulated by! PIF1 
+G-box: !bound by! PIF1 
+PORC promoter: !bound by! PIF1 
+PORC: !activated by! PIF1

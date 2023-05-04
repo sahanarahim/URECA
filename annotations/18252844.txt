@@ -1,0 +1,7 @@
+['18252844', 'Inositol polyphosphate 5-phosphatase (5PTase) is a key enzyme in the  phosphatidylinositol metabolic pathway, which plays critical roles in a number of  cellular processes in plants. Our previous work implicated the role of 5PTase13,  which encodes a WD40-containing type II 5PTase, in hormone-mediated cotyledon  vein development. Here, we show that 5PTase13 is also involved in blue light  responses in Arabidopsis thaliana. Compared with that in darkness, the expression  of 5PTase13 was suppressed by blue light irradiation, and disruption of the gene  resulted in shortened hypocotyls and expanded cotyledons. Genetic analysis showed  that 5PTase13 acted independently from CRYPTOCHROME1 and CONSTITUTIVE  PHOTOMORPHOGENIC1 but interacted functionally with PHOTOTROPIN1 (PHOT1). The  expression level of 5PTase13 was significantly enhanced in phot1 single or phot1  phot2 double mutants under blue light, and suppression of 5PTase13 expression  rescued the elongated hypocotyls in the phot1 or phot1 phot2 mutants. Further  analysis showed that the blue light-induced elevation of cytosolic Ca2+ was  inhibited in the phot1 mutant but enhanced in the 5pt13 mutant, suggesting that  5PTase13 antagonizes PHOT1-mediated effects on calcium signaling under blue  light.', '2008 Feb', 'Plant Cell', '10.1105/tpc.107.052670', 'Xue']
+
+5PTase13: !affects! cotyledon vein development
+5PTase13: !suppressed by! blue light
+5PTase13: !interacts with! PHOT1
+PHOT1: !enhances! 5PTase13 expression
+PHOT1: !inhibits! Ca2+ elevation

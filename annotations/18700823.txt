@@ -1,0 +1,9 @@
+Many bacteria use quorum sensing (QS) as an intercellular signaling mechanism to regulate gene expression in local populations. Plant and algal hosts, in turn, secrete compounds that mimic bacterial QS signals, allowing these hosts to manipulate QS-regulated gene expression in bacteria. Lumichrome, a derivative of the vitamin riboflavin, was purified and chemically identified from culture filtrates of the alga Chlamydomonas as a QS signal-mimic compound capable of stimulating the Pseudomonas aeruginosa LasR QS receptor. LasR normally recognizes the N-acyl homoserine lactone (AHL) signal, N-3-oxo-dodecanoyl homoserine lactone. Authentic lumichrome and riboflavin stimulated the LasR receptor in bioassays and lumichrome activated LasR in gel shift experiments. Amino acid substitutions in LasR residues required for AHL binding altered responses to both AHLs and lumichrome or riboflavin. These results and docking studies indicate that the AHL binding pocket of LasR recognizes both AHLs and the structurally dissimilar lumichrome or riboflavin. Bacteria, plants, and algae commonly secrete riboflavin or lumichrome, raising the possibility that these compounds could serve as either QS signals or as interkingdom signal mimics capable of manipulating QS in bacteria with a LasR-like receptor.
+
+Bacteria: !use! Quorum Sensing
+Plants/Algae: !secrete! Compounds
+Compounds: !mimic! QS Signals
+Lumichrome: !purified from! Chlamydomonas
+LasR: !recognizes! AHLs & Lumichrome/Riboflavin
+Amino Acids: !alter! LasR Responses
+Riboflavin/Lumichrome: !serve as! QS Signals/Mimics

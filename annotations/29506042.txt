@@ -1,0 +1,6 @@
+['29506042', 'Cuticular wax is a major component of the surface cuticle of plants, which  performs crucial functions in optimizing plant growth. Histone acetylation  regulates gene expression in diverse biological processes, but its role in  cuticular wax synthesis is not well understood. In this study, we observed that  mutations of the Arabidopsis thaliana histone acetyltransferase GENERAL CONTROL  NON-REPRESSED PROTEIN5 (GCN5) impaired the accumulation of stem cuticular wax.  Three target genes of GCN5, ECERIFERUM3 (CER3), CER26, and CER1-LIKE1 (CER1-L1),  were identified by RNA-seq and ChIP assays. H3K9/14 acetylation levels at the  promoter regions of CER3, CER26, and CER1-L1 were consistently and significantly  decreased in the gcn5-2 mutant as compared to the wild-type. Notably,  overexpression of CER3 in the gcn5-2 mutant rescued the defect in stem cuticular  wax biosynthesis. Collectively, these data demonstrate that GCN5 is involved in  stem cuticular wax accumulation by modulating CER3 expression via H3K9/14  acetylation, which underlines the important role of histone acetylation in  cuticular wax biosynthesis.', '2018 May 25', 'J Exp Bot', '10.1093/jxb/ery077', 'Ni']
+
+GCN5: !regulates! CER3 
+GCN5: !acetylates! H3K9/14 
+CER3: !rescues! gcn5-2 mutant 
+H3K9/14: !modulated by! GCN5

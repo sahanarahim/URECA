@@ -1,0 +1,6 @@
+Positive phototropism is the process through which plants orient their organs toward a directional light source. While the blue light receptors phototropins (phot) play a major role in phototropism toward blue (B) and ultraviolet (UV) radiation, recent research showed that the UVB light receptor UVR8 also triggers phototropism toward UVB. In addition, new details of the molecular mechanisms underlying the activity of these receptors and interaction with other environmental signals have emerged in the past years. In this review, we summarize the current knowledge about hypocotyledoneous and inflorescence stem growth reorientation toward B and UVB, with a focus on the molecular mechanisms.
+
+phot: !triggers! phototropism
+UVR8: !triggers! phototropism
+environmental signals: !interact with! phot
+environmental signals: !interact with! UVR8

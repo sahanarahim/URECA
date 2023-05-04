@@ -1,0 +1,8 @@
+Zur is a regulator of the high-affinity zinc uptake system in many bacteria. In Xanthomonas campestris pv. campestris 8004, a putative protein encoded by the open reading frame designated as XC1430 shows 42% amino acid similarity with the Zur of Escherichia coli. An XC1430-disrupted mutant 1430nk was constructed by homologous suicide plasmid integration. 1430nk failed to grow in rich medium supplemented with Zn2+ at a concentration of 400 microM and in nonrich medium supplemented with Zn2+ at a concentration of 110 microM, whereas the wild-type strain grew well in the same conditions. In rich medium with 400 microM Zn2+, 1430nk accumulated significantly more Zn2+ than the wild-type strain. 1430nk showed a reduction in virulence on the host plant Chinese radish (Raphanus sativus L. var. radiculus Pers.) and produced less extracellular polysaccharide (EPS) than did the wild-type strain in the absence of added zinc. These results revealed that XC1430 is a functional member of the Zur regulator family that controls zinc homeostasis, EPS production, and virulence in X. campestris pv. campestris.
+
+XC1430: !affects! Zn2+ uptake
+XC1430: !affects! Virulence
+XC1430: !affects! EPS production
+Zur: !similar to! XC1430
+1430nk: !fails to grow in! Rich medium with 400 microM Zn2+
+1430nk: !accumulates more! Zn2+ than wild-type strain

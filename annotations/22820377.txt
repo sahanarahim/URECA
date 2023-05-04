@@ -1,0 +1,10 @@
+['22820377', 'Brassinosteroid and gibberellin promote many similar developmental responses in  plants; however, their relationship remains unclear. Here we show that BR and GA  act interdependently through a direct interaction between the BR-activated BZR1  and GA-inactivated DELLA transcription regulators. GA promotion of cell  elongation required BR signalling, whereas BR or active BZR1 suppressed the  GA-deficient dwarf phenotype. DELLAs directly interacted with BZR1 and inhibited  BZR1-DNA binding both in vitro and in vivo. Genome-wide analysis defined a  BZR1-dependent GA-regulated transcriptome, which is enriched with light-regulated  genes and genes involved in cell wall synthesis and photosynthesis/chloroplast  function. GA promotion of hypocotyl elongation requires both BZR1 and the  phytochrome-interacting factors (PIFs), as well as their common downstream  targets encoding the PRE-family helix-loop-helix factors. The results demonstrate  that GA releases DELLA-mediated inhibition of BZR1, and that the DELLA-BZR1-PIF4  interaction defines a core transcription module that mediates coordinated growth  regulation by GA, BR and light signals.', '2012 Aug', 'Nat Cell Biol', '10.1038/ncb2546', 'Wang']
+
+BR: !interacts with! GA 
+BZR1: !interacts with! DELLA 
+GA: !promotes! cell elongation 
+BR: !suppresses! GA-deficient dwarf phenotype 
+DELLA: !inhibits! BZR1-DNA binding 
+BZR1: !regulates! GA-regulated transcriptome 
+PIFs: !interact with! BZR1 
+GA: !releases! DELLA-mediated inhibition of BZR1

@@ -1,0 +1,8 @@
+Light is one of the key environmental cues controlling photomorphogenic development in plants. A group of B-box (BBX) proteins play critical roles in this developmental process through diverse regulatory mechanisms. In this study we report that BBX29 acts as a negative regulator of light signaling. BBX29 interacts with CONSTITUTIVELY PHOTOMORPHOGENIC 1 (COP1) and undergoes COP1-mediated degradation in the dark. Mutant seedlings with loss of BBX29 function show shortened hypocotyls, while transgenic plants overexpressing BBX29 display elongated hypocotyls in the light. Both BBX28 and BBX29 interfere with the binding of ELONGATED HYPOCOTYL 5 (HY5) to the promoters of BBX30 and BBX31, consequently leading to the upregulation of their transcript levels. BBX30 and BBX31 associate with the promoter regions of BBX28 and BBX29, which in turn promotes the expression of these genes. Taken together, this study reveals a transcriptional feedback loop consisting of BBX28, BBX29, BBX30, BBX31, and HY5 that serves to fine-tune photomorphogenesis in response to light in plants.
+
+BBX29: !interacts with! COP1
+BBX29: !represses! light signaling
+BBX28: !interacts with! HY5
+BBX30: !associates with! BBX28
+BBX31: !associates with! BBX29
+HY5: !binds to! BBX30, BBX31

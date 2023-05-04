@@ -1,0 +1,17 @@
+Crocetin biosynthesis in Buddleja davidii flowers proceeds through a zeaxanthin cleavage pathway catalyzed by two carotenoid cleavage dioxygenases (BdCCD4.1 and BdCCD4.3), followed by oxidation and glucosylation reactions that lead to the production of crocins. We isolated and analyzed the expression of 12 genes from the carotenoid pathway in B. davidii flowers and identified four candidate genes involved in the biosynthesis of crocins (BdALDH, BdUGT74BC1, BdUGT74BC2, and BdUGT94AA3). In addition, we characterized the profile of crocins and their carotenoid precursors, following their accumulation during flower development. Overall, seven different crocins, crocetin, and picrocrocin were identified in this study. The accumulation of these apocarotenoids parallels tissue development, reaching the highest concentration when the flower is fully open. Notably, the pathway was regulated mainly at the transcript level, with expression patterns of a large group of carotenoid precursor and apocarotenoid genes (BdPSY2, BdPDS2, BdZDS, BdLCY2, BdBCH, BdALDH, and BdUGT Genes) mimicking the accumulation of crocins. Finally, we used comparative correlation network analysis to study how the synthesis of these valuable apocarotenoids diverges among B. davidii, Gardenia jasminoides, and Crocus sativus, highlighting distinctive differences which could be the basis of the differential accumulation of crocins in the three species.
+
+BdCCD4.1: !catalyzes! Zeaxanthin cleavage pathway
+BdCCD4.3: !catalyzes! Zeaxanthin cleavage pathway
+BdALDH: !involved in! Crocin biosynthesis
+BdUGT74BC1: !involved in! Crocin biosynthesis
+BdUGT74BC2: !involved in! Crocin biosynthesis
+BdUGT94AA3: !involved in! Crocin biosynthesis
+BdPSY2: !regulates! Carotenoid precursor accumulation
+BdPDS2: !regulates! Carotenoid precursor accumulation
+BdZDS: !regulates! Carotenoid precursor accumulation
+BdLCY2: !regulates! Carotenoid precursor accumulation
+BdBCH: !regulates! Carotenoid precursor accumulation
+BdALDH: !regulates! Apocarotenoid accumulation
+BdUGT Genes: !regulates! Apocarotenoid accumulation
+B. davidii: !accumulates! Crocins
+Gardenia jasminoides: !accumulates! Croc

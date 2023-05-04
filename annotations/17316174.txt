@@ -1,0 +1,9 @@
+Flowers produce a plethora of secondary metabolites but only nectar sugars, floral pigments and headspace volatiles have been examined in the context of pollinator behavior. We identify secondary metabolites in the headspace and nectar of glasshouse- and field-grown Nicotiana attenuata plants, infer within-flower origins by analyzing six flower parts, and compare the attractiveness of 16 constituents in standardized choice tests with two guilds of natural pollinators (Manducasexta moths and Archilochus alexandri and Selasphorus rufus hummingbirds) and one nectar thief (Solenopsis xyloni ants) to determine whether nectar metabolites can 'filter' flower visitors: only two could. Moths responded more strongly than did hummingbirds to headspace presentation of nicotine and benzylacetone, the most abundant repellent and attractant compounds, respectively. For both pollinators, nectar repellents decreased nectaring time and nectar volume removed, but increased visitation number, particularly for hummingbirds. Fewer ants visited if the nectar contained repellents. To determine whether nicotine reduced nectar removal rates in nature, we planted transformed, nicotine-silenced plants into native populations in Utah over 2 years. Plants completely lacking nicotine in their nectar had 68-70% more nectar removed per night by the native community of floral visitors than did wild-type plants. We hypothesize that nectar repellents optimize the number of flower visitors per volume of nectar produced, allowing plants to keep their nectar volumes small.
+
+Gene: !affects! Process
+Process: !produces! Secondary Metabolites
+Secondary Metabolites: !attracts/repells! Pollinators
+Pollinators: !respond to! Headspace Volatiles
+Headspace Volatiles: !contain! Nicotine
+Nicotine: !silenced in! Transformed Plants
+Transformed Plants: !have! Reduced Nectar Removal

@@ -1,0 +1,13 @@
+Arabidopsis ABSCISIC ACID INSENSEITIVE3 (ABI3), FUSCA3 (FUS3) and LEAFY COTYLEDON1 (LEC1) encode key transcription factors that control seed maturation events, including seed storage protein (SSP) accumulation. Although lec1 mutations are known to down-regulate SSP gene expression as the fus3 or abi3 mutation does, the mechanisms by which LEC1 regulates SSP gene expression are largely unknown compared with the mechanisms utilized by FUS3 or ABI3. We expressed LEC1 ectopically in transgenic plants using an artificial dexamethasone (Dex) induction system. The ectopic expression of LEC1 also resulted in the induction of FUS3 and ABI3 expression, which preceded the induction of SSP expression. The expression of FUS3 and ABI3 was found to be down-regulated in developing siliques of the lec1 mutant. Furthermore, the levels of ectopic SSP induction by LEC1 were greatly or moderately reduced in transgenic plants with an abi3 or fus3 mutant background, respectively. LEC1-induced ectopic expression of the At1g62290 aspartic protease gene, which was identified to be regulated preferentially by FUS3, was more severely affected in the fus3 mutant than in the abi3 mutant. From these data, we suggest that LEC1 controls the expression of the SSP genes in a hierarchical manner, which involves ABI3 and FUS3.
+
+ABI3: !controls! SSP accumulation
+FUS3: !controls! SSP accumulation
+LEC1: !controls! SSP accumulation
+LEC1: !induces! FUS3 expression
+LEC1: !induces! ABI3 expression
+ABI3: !down-regulates! SSP expression
+FUS3: !down-regulates! SSP expression
+LEC1: !hierarchically regulates! SSP expression
+LEC1: !involves! ABI3
+LEC1: !involves! FUS3
+At1g62290: !preferentially regulated by! FUS3

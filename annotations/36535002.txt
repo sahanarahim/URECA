@@ -1,0 +1,8 @@
+Leaf margins are complex plant morphological features that contribute to leaf shape diversity, which affects plant structure, yield, and adaptation. Although several leaf margin regulators have been identified to date, the genetic basis of their natural variation has not been fully elucidated. In this study, we profiled two distinct leaf morphology types (serrated and smooth) using the persistent homology mathematical framework (PHMF) in two poplar species (Populus tomentosa and Populus simonii, respectively). A combined genome-wide association study (GWAS) and expression quantitative trait nucleotide (eQTN) mapping were applied to create a leaf morphology control module using data from P. tomentosa and P. simonii populations. Natural variation in leaf margins was associated with YABBY11 (YAB11) transcript abundance in poplar. In P. tomentosa, PtoYAB11 carries a premature stop codon (PtoYAB11PSC), resulting in the loss of its positive regulation of NGATHA-LIKE1 (PtoNGAL-1) and RIBULOSE BISPHOSPHATE CARBOXYLASE LARGE SUBUNIT (PtoRBCL). Overexpression of PtoYAB11PSC promoted serrated leaf margins, enlarged leaves, enhanced photosynthesis, and increased biomass. Overexpression of PsiYAB11 in P. tomentosa promoted smooth leaf margins, higher stomatal density, and greater light damage repair ability. In poplar, YAB11-NGAL1 is sensitive to environmental conditions, acts as a positive regulator of leaf margin serration, and may also link environmental signaling to leaf morphological plasticity.
+
+YAB11: !affects! Leaf Margin
+PtoYAB11PSC: !promotes! Serrated Leaf Margins
+PsiYAB11: !promotes! Smooth Leaf Margins
+YAB11: !regulates! NGAL1
+NGAL1: !positively regulates! Leaf Margin Serration
+YAB11: !links! Environmental Signaling

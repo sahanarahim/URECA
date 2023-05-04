@@ -1,0 +1,7 @@
+The endoplasmic reticulum (ER) quality control system monitors protein homeostasis and relies on the activity of many molecular chaperones. Binding immunoglobulin protein (BiP) is a major ER luminal chaperone that is involved in most functions of the organelle. BiP activity is tightly regulated by nucleotide exchange factors (NEFs). However, information about NEFs in plants is limited. We obtained a Fes1-like protein (OsFes1C) through isobaric tags for relative and absolute quantitation-based proteomics analysis of ER-stressed rice (Oryza sativa) seeds. Unlike its homologs in yeast and mammals, which are located in the cytosol and respond to heat stress, OsFes1C is an ER membrane protein and responds to ER and salt stresses. OsFes1C interacts directly with OsBiP1 and the interaction is inhibited by ATP but promoted by ADP, suggesting that OsFes1C acts as a potential NEF of OsBiP1 in vivo. Overexpression or suppression of OsFes1C led to hypersensitivity to ER stress and affected the growth of rice. Furthermore, we established that OsFes1C directly interacts with a putative salt response protein and is involved in the salt response. Taken together, our study marks an important step toward elucidating the functional mechanisms of an identified ER stress response factor in rice.
+
+BiP: !interacts with! OsFes1C
+OsFes1C: !localizes to! ER
+OsFes1C: !enhances! BiP activity
+OsFes1C: !represses! ER stress
+OsFes1C: !interacts with! salt response protein

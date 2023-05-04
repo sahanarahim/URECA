@@ -1,0 +1,8 @@
+Epicuticular waxes provide a hydrophobic barrier that protects land plants from environmental stresses. To elucidate the molecular functions of maize glossy mutants that reduce the accumulation of epicuticular waxes, eight non-allelic glossy mutants were subjected to transcriptomic comparisons with their respective wild-type siblings. Transcriptomic comparisons identified 2279 differentially expressed (DE) genes. Other glossy genes tended to be down-regulated in glossy mutants; by contrast stress-responsive pathways were induced in mutants. Gene co-expression network (GCN) analysis found that glossy genes were clustered, suggestive of co-regulation. Genes that potentially regulate the accumulation of glossy gene transcripts were identified via a pathway level co-expression analysis. Expression data from diverse organs showed that maize glossy genes are generally active in young leaves, silks, and tassels, while largely inactive in seeds and roots. Through reverse genetics, a DE gene homologous to Arabidopsis CER8 and co-expressed with known glossy genes was confirmed to participate in epicuticular wax accumulation. GCN data-informed forward genetics approach enabled cloning of the gl14 gene, which encodes a putative membrane-associated protein. Our results deepen understanding of the transcriptional regulation of the genes involved in the accumulation of epicuticular wax, and provide two maize glossy genes and a number of candidate genes for further characterization.
+
+gene: !affects! epicuticular wax accumulation
+gene: !localizes to! young leaves, silks, and tassels
+gene: !interacts with! CER8
+gene: !enhances! stress-responsive pathways
+gene: !represses! other glossy genes
+gene: !synthesizes! membrane-associated protein

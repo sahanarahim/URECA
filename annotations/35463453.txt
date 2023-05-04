@@ -1,0 +1,9 @@
+Although growing evidence shows that microRNA (miRNA) regulates plant growth and development, miRNA regulatory networks in plants are not well understood. Current experimental studies cannot characterize miRNA regulatory networks on a large scale. This information gap provides an excellent opportunity to employ computational methods for global analysis and generate valuable models and hypotheses. To address this opportunity, we collected miRNA-target interactions (MTIs) and used MTIs from <i>Arabidopsis thaliana</i> and <i>Medicago truncatula</i> to predict homologous MTIs in soybeans, resulting in 80,235 soybean MTIs in total. A multi-level iterative bi-clustering method was developed to identify 483 soybean miRNA-target regulatory modules (MTRMs). Furthermore, we collected soybean miRNA expression data and corresponding gene expression data in response to abiotic stresses. By clustering these data, 37 MTRMs related to abiotic stresses were identified, including stress-specific MTRMs and shared MTRMs. These MTRMs have gene ontology (GO) enrichment in resistance response, iron transport, positive growth regulation, etc. Our study predicts soybean MTRMs and miRNA-GO networks under different stresses, and provides miRNA targeting hypotheses for experimental analyses. The method can be applied to other biological processes and other plants to elucidate miRNA co-regulation mechanisms.
+
+miRNA: !regulates! plant growth and development
+MTIs: !collected from! Arabidopsis thaliana and Medicago truncatula
+MTIs: !predicted in! soybeans
+bi-clustering method: !identifies! 483 MTRMs
+miRNA expression data: !clustered with! gene expression data
+37 MTRMs: !related to! abiotic stresses
+MTRMs: !have GO enrichment in! resistance response, iron transport, positive growth regulation

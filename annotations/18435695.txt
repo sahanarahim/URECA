@@ -1,0 +1,10 @@
+Arabidopsis thaliana databases are available that highlight the behavior of the transcriptome under literally hundreds of experimental manipulations, making attempts possible that integrate this information into gene networks. We present and discuss the functioning of a gene network model generated using deposited microarray experiments. Based on a graphical Gaussian model, the network describes conditional coregulation of genes under a variety of external factors and abiotic, biotic and chemical treatments. In this study, we show an aspect of this network that pertains to functions of genes in families where all members appear to carry out the same biochemical reaction. Chosen in this study were 10 genes in the Arabidopsis genome encoding trehalose-6-phosphate phosphatases (TPPs). Nine of these genes were highlighted by the network. Generally, each TPP formed a network associated with genes that identify different functional categories. Thus, network structures were obtained that identified connections to carbon distribution, drought, cold, pathogen responses, calcium and reactive oxygen species/redox signatures, including transcriptional control genes that separated network graphs seeded with different TPP genes. The structure of the transcript coexpression networks, by associating diverse members of gene families into separate clusters, facilitates hypothesis building and in-depth studies of functions of individual genes in families.
+
+Gene: !affects! Process
+Gene: !localizes to! Carbon distribution
+Gene: !interacts with! Drought
+Gene: !enhances! Cold
+Gene: !represses! Pathogen responses
+Gene: !synthesizes! Calcium
+Gene: !regulates! Reactive oxygen species/redox signatures
+Gene: !controls! Transcriptional control genes

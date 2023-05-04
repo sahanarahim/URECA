@@ -1,0 +1,10 @@
+['16980562', 'Transitory starch of leaves is broken down hydrolytically, making maltose the  predominant form of carbon exported from chloroplasts at night. Maltose  metabolism in the cytoplasm of Escherichia coli requires amylomaltase (MalQ) and  maltodextrin phosphorylase (MalP). Possible orthologs of MalQ and MalP in the  cytosol of Arabidopsis (Arabidopsis thaliana) were proposed as disproportionating  enzyme (DPE2, At2g40840) and alpha-glucan phosphorylase (AtPHS2, At3g46970). In  this article, we measured the activities of recombinant DPE2 and AtPHS2 proteins  with various substrates; we show that maltose and a highly branched, soluble  heteroglycan (SHG) are excellent substrates for DPE2 and propose that a SHG is  the in vivo substrate for DPE2 and AtPHS2. In E. coli, MalQ and MalP  preferentially use smaller maltodextrins (G(3)-G(7)) and we suggest that MalQ and  DPE2 have similar, but nonidentical, roles in maltose metabolism. To study this,  we complemented a MalQ(-) E. coli strain with DPE2 and found that the rescue was  not complete. To investigate the role of AtPHS2 in maltose metabolism, we  characterized a T-DNA insertion line of the AtPHS2 gene. The nighttime maltose  level increased 4 times in the Atphs2-1 mutant. The comparison of maltose  metabolism in Arabidopsis with that in E. coli and the comparison of the maltose  level in plants lacking DPE2 or AtPHS2 indicate that an alternative route to  metabolize the glucan residues in SHG exists. Other plant species also contain  SHG, DPE2, and alpha-glucan phosphorylase, so this pathway for maltose metabolism  may be widespread among plants.', '2006 Nov', 'Plant Physiol', '10.1104/pp.106.086850', 'Sharkey']
+
+MalQ: !metabolizes! Maltose 
+MalP: !metabolizes! Maltose 
+DPE2: !metabolizes! Maltose 
+AtPHS2: !metabolizes! Maltose 
+DPE2: !rescues! MalQ- E. coli strain 
+AtPHS2: !increases! Nighttime maltose level 
+SHG: !substrate for! DPE2 and AtPHS2 
+Plants: !contain! SHG, DPE2, and alpha-glucan phosphorylase

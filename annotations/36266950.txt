@@ -1,0 +1,8 @@
+Plants perceive pathogens and induce robust transcriptional reprogramming to rapidly achieve immunity. The mechanisms of how immune-related genes are transcriptionally regulated remain largely unknown. Previously, the trihelix transcriptional factor ARABIDOPSIS SH4-RELATED 3 (ASR3) was shown to negatively regulate pattern-triggered immunity (PTI) in Arabidopsis thaliana. Here, we identified another trihelix family member ASR3-Interacting Transcriptional Factor 1 (AITF1) as an interacting protein of ASR3. ASR3-Interacting Transcriptional Factor 1 and ASR3 form heterogenous and homogenous dimers in planta. Both aitf1 and asr3 single mutants exhibited increased resistance against the bacterial pathogen Pseudomonas syringae, but the double mutant showed reduced resistance, suggesting AITF1 and ASR3 interdependently regulate immune gene expression and resistance. Overexpression of AITF1 triggered autoimmunity dependently on its DNA-binding ability and the presence of ASR3. Notably, autoimmunity caused by overexpression of AITF1 was dependent on a TIR-NBS-LRR (TNL) protein suppressor of AITF1-induced autoimmunity 1 (SAA1), as well as enhanced disease susceptibility 1 (EDS1), the central regulator of TNL signaling. ASR3-Interacting Transcriptional Factor 1 and ASR3 directly activated SAA1 expression through binding to the GT-boxes in SAA1 promoter. Collectively, our results revealed a mechanism of trihelix transcription factor complex in regulating immune gene expression, thereby modulating plant disease resistance and autoimmunity.
+
+ASR3: !interacts with! AITF1
+AITF1: !enhances! resistance
+AITF1: !triggers! autoimmunity
+SAA1: !suppresses! AITF1-induced autoimmunity
+EDS1: !regulates! TNL signaling
+ASR3/AITF1: !activate! SAA1 expression

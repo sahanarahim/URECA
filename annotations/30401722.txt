@@ -1,0 +1,8 @@
+Single-molecule full-length complementary DNA (cDNA) sequencing can aid genome annotation by revealing transcript structure and alternative splice forms, yet current annotation pipelines do not incorporate such information. Here we present long-read annotation (LoReAn) software, an automated annotation pipeline utilizing short- and long-read cDNA sequencing, protein evidence, and ab initio prediction to generate accurate genome annotations. Based on annotations of two fungal genomes (<i>Verticillium dahliae</i> and <i>Plicaturopsis crispa</i>) and two plant genomes (Arabidopsis [<i>Arabidopsis thaliana</i>] and <i>Oryza sativa</i>), we show that LoReAn outperforms popular annotation pipelines by integrating single-molecule cDNA-sequencing data generated from either the Pacific Biosciences or MinION sequencing platforms, correctly predicting gene structure, and capturing genes missed by other annotation pipelines.
+
+Gene: !affects! Process 
+Gene: !synthesizes! I 
+Gene: !represses! U 
+Gene: !enhances! Z 
+Gene: !interacts with! Protein Evidence 
+Gene: !localizes to! cDNA Sequencing

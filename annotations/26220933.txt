@@ -1,0 +1,8 @@
+Plant biology is rapidly entering an era where we have the ability to conduct intricate studies that investigate how a plant interacts with the entirety of its environment. This requires complex, large studies to measure how plant genotypes simultaneously interact with a diverse array of environmental stimuli. Successful interpretation of the results from these studies requires us to transition away from the traditional standard of conducting an array of pairwise t tests toward more general linear modeling structures, such as those provided by the extendable ANOVA framework. In this Perspective, we present arguments for making this transition and illustrate how it will help to avoid incorrect conclusions in factorial interaction studies (genotype × genotype, genotype × treatment, and treatment × treatment, or higher levels of interaction) that are becoming more prevalent in this new era of plant biology.
+
+genotype: !interacts with! environment 
+genotype: !interacts with! genotype 
+genotype: !interacts with! treatment 
+treatment: !interacts with! environment 
+treatment: !interacts with! genotype 
+treatment: !interacts with! treatment

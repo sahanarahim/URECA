@@ -1,0 +1,9 @@
+We demonstrate two synthetic single-cell systems that can be used to better understand how the acquisition of an orphan gene can affect complex phenotypes. The Arabidopsis orphan gene, <i>Qua-Quine Starch</i> (<i>QQS</i>) has been identified as a regulator of carbon (C) and nitrogen (N) partitioning across multiple plant species. <i>QQS</i> modulates this important biotechnological trait by replacing NF-YB (Nuclear Factor Y, subunit B) in its interaction with NF-YC. In this study, we expand on these prior findings by developing <i>Chlamydomonas reinhardtii</i> and <i>Saccharomyces cerevisiae</i> strains, to refactor the functional interactions between QQS and NF-Y subunits to affect modulations in C and N allocation. Expression of <i>QQS</i> in <i>C. reinhardtii</i> modulates C (<i>i.e.</i>, starch) and N (<i>i.e.</i>, protein) allocation by affecting interactions between NF-YC and NF-YB subunits. Studies in <i>S. cerevisiae</i> revealed similar functional interactions between QQS and the NF-YC homolog (HAP5), modulating C (<i>i.e.</i>, glycogen) and N (<i>i.e.</i>, protein) allocation. However, in <i>S. cerevisiae</i> both the NF-YA (HAP2) and NF-YB (HAP3) homologs appear to have redundant functions to enable QQS and HAP5 to affect C and N allocation. The genetically tractable systems that developed herein exhibit the plasticity to modulate highly complex phenotypes.
+
+QQS: !interacts with! NF-YB 
+NF-YC: !interacts with! NF-YB 
+QQS: !interacts with! NF-YC 
+HAP5: !interacts with! NF-YC 
+HAP2: !interacts with! HAP3 
+QQS: !modulates! C and N allocation 
+HAP5: !modulates! C and N allocation

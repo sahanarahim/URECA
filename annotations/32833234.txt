@@ -1,0 +1,8 @@
+Plants experience a decrease in the red:far-red light ratio (R:FR) when grown at high planting density. In addition to eliciting the shade avoidance response, low R:FR also enhances plant susceptibility to pathogens via modulation of defense hormone-mediated responses. However, other mechanisms, also affected by low R:FR, have not been considered as potential components in FR-induced susceptibility. Here, we identify FR-induced accumulation of leaf soluble sugars as a novel component of FR-induced susceptibility. We observed that phytochrome inactivation by FR or phytochrome B mutation was associated with elevated leaf glucose and fructose levels and enhanced disease severity caused by Botrytis cinerea. By experimentally manipulating internal leaf sugar levels, we found that the FR-induced susceptibility in tomato was partly sugar-dependent. Further analysis revealed that the observed sugar accumulation in supplemental FR occurred in a jasmonic acid (JA)-dependent manner, and the JA biosynthesis mutant def1 also displayed elevated soluble sugar levels, which was rescued by exogenous methyl jasmonate (MeJA) application. We propose that the reduced JA responsiveness under low R:FR promotes disease symptoms not only via dampened induction of defense responses, but also via increased levels of soluble sugars that supports pathogen growth in tomato leaves.
+
+phytochrome: !inactivated by! FR 
+FR: !induces! sugar accumulation 
+sugar accumulation: !mediated by! JA 
+JA: !synthesized by! def1 
+def1: !rescued by! MeJA 
+MeJA: !enhances! disease susceptibility

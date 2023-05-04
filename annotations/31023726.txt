@@ -1,0 +1,9 @@
+['31023726', "Currently one-third of the proteins encoded by the Arabidopsis (Arabidopsis  thaliana) genome are of unknown function. Some of these unknown proteins are  likely to be involved in uncharacterized vital biological processes.  Evolutionarily conserved single copy genes in flowering plants have been shown to  be enriched in essential housekeeping functions. This together with publicly  available gene expression data allows for a focused search for uncharacterized  essential genes. Here we identify an essential single copy gene called OPENER  (OPNR) in Arabidopsis. We show that OPNR is predominantly expressed in actively  dividing cells and performs essential functions in seed development and root  meristem maintenance. Cell cycle tracking using 5-ethynyl-2'-deoxyuridine  staining and fluorescent cell cycle markers together with the increased size of  nucleolus and nucleus in opnr mutants indicate that OPNR is required for cell  cycle progression through the S or G2 phases. Intriguingly, OPNR localizes to the  nuclear envelope and mitochondria. Furthermore, the nuclear envelope localization  of OPNR is dependent on its interaction with nuclear inner membrane Sad1/UNC-84  (SUN) domain proteins SUN1 and SUN2. Taken together our results open a line of  investigation into an evolutionarily conserved essential cellular process  occurring in both the nuclear envelopes and mitochondria of dividing cells.", '2019 Jul', 'Plant Cell', '10.1105/tpc.19.00033', 'ORCID:']
+
+OPNR: !affects! Seed development 
+OPNR: !localizes to! Nuclear envelope 
+OPNR: !interacts with! SUN1 
+OPNR: !interacts with! SUN2 
+OPNR: !enhances! Cell cycle progression 
+SUN1: !interacts with! OPNR 
+SUN2: !interacts with! OPNR

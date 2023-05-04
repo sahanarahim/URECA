@@ -1,0 +1,7 @@
+Grapevine is one of the economically most important quality crops. The monitoring of the plant performance during the growth period is, therefore, important to ensure a high quality end-product. This includes the observation, detection, and respective reduction of unhealthy berries (physically damaged, or diseased). At harvest, it is not necessary to know the exact cause of the damage, but rather if the damage is apparent or not. Since a manual screening and selection before harvest is time-consuming and expensive, we propose an automatic, image-based machine learning approach, which can lead observers directly to anomalous areas without the need to monitor every plant manually. Specifically, we train a fully convolutional variational autoencoder with a feature perceptual loss on images with healthy berries only and consider image areas with deviations from this model as damaged berries. We use heatmaps which visualize the results of the trained neural network and, therefore, support the decision making for farmers. We compare our method against a convolutional autoencoder that was successfully applied to a similar task and show that our approach outperforms it.
+
+Gene: !affects! Plant performance 
+Gene: !monitors! Unhealthy berries 
+Gene: !trains! Fully convolutional variational autoencoder 
+Gene: !visualizes! Heatmaps 
+Gene: !compares! Convolutional autoencoder

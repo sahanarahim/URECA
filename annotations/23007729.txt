@@ -1,0 +1,8 @@
+Abscisic acid (ABA) signaling via the pyrabactin-resistant and related (PYR/PYL/RCAR) receptors begins with ABA-dependent inactivation of the ABA-insensitive(ABI)-clade protein phosphatases(PP)2Cs, thereby permitting phosphorylation and activation of the Snf1-related (SnRK)2 clade of protein kinases, and activation of their downstream targets such as ABA-response element binding basic leucine zipper (bZIP) transcription factors (ABF/AREB/ABI5 clade). Several of these are also activated by calcium-dependent protein kinases such as CPK11. Turning off ABA response requires turnover and/or inactivation of these transcription factors, which could result from their dephosphorylation. To address the hypothesis that the ABI-clade PP2Cs regulate the bZIPs directly, in addition to their indirect effects via SnRKs, we have assayed interactions between multiple members of the ABF/AREB clade and the PP2Cs by yeast two-hybrid, in vitro phosphatase, and bimolecular fluorescence complementation assays. In addition, we have expanded the list of documented specific interactions among these bZIP proteins and the kinases that could activate them and found that some PP2Cs can also interact directly with CPK11. These studies support specific interactions among kinases, phosphatases and transcription factors that are co-expressed in early seedling development.
+
+ABA: !inactivates! PP2Cs
+SnRK2: !activated by! PP2Cs
+ABF/AREB/ABI5: !activated by! SnRK2
+ABF/AREB/ABI5: !interacts with! PP2Cs
+CPK11: !activated by! PP2Cs
+CPK11: !interacts with! ABF/AREB/ABI5

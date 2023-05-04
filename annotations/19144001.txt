@@ -1,0 +1,11 @@
+Two similar Arabidopsis dynamin-related proteins, DRP3A and DRP3B, are thought to be key factors in both mitochondrial and peroxisomal fission. However, the functional and genetic relationships between DRP3A and DRP3B have not been fully investigated. In a yeast two-hybrid assay, DRP3A and DRP3B interacted with themselves and with each other. DRP3A and DRP3B localized to mitochondria and peroxisomes, and co-localized with each other in leaf epidermal cells. In two T-DNA insertion mutants, drp3a and drp3b, the mitochondria are a little longer and fewer in number than those in the wild-type cells. In the double mutant, drp3a/drp3b, mitochondria are connected to each other, resulting in massive elongation. Overexpression of either DRP3A or DRP3B in drp3a/drp3b restored the particle shape of mitochondria, suggesting that DRP3A and DRP3B are functionally redundant in mitochondrial fission. In the case of peroxisomal fission, DRP3A and DRP3B appear to have different functions: peroxisomes in drp3a were larger and fewer in number than those in the wild type, whereas peroxisomes in drp3b were as large and as numerous as those in the wild type, and peroxisomes in drp3a/drp3b were as large and as numerous as those in drp3a. Although overexpression of DRP3A in drp3a/drp3b restored the shape and number of peroxisomes, overexpression of DRP3B did not restore the phenotypes, and often caused elongation instead. These results suggest that DRP3B and DRP3A have redundant molecular functions in mitochondrial fission, whereas DRP3B has a minor role in peroxisomal fission that is distinct from that of DRP3A.
+
+DRP3A: !interacts with! DRP3B
+DRP3A: !localizes to! mitochondria
+DRP3A: !localizes to! peroxisomes
+DRP3B: !localizes to! mitochondria
+DRP3B: !localizes to! peroxisomes
+DRP3A: !enhances! mitochondrial fission
+DRP3B: !enhances! mitochondrial fission
+DRP3A: !enhances! peroxisomal fission
+DRP3B: !represses! peroxisomal fission

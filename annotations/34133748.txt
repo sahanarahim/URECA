@@ -1,0 +1,12 @@
+Isodon lophanthoides var. gerardiana (Lamiaceae), also named xihuangcao, is a traditional Chinese medicinal herb that exhibits a broad range of pharmacological activities. Abietane-type diterpenoids are the characteristic constituents of I. lophanthoides, yet their biosynthesis has not been elucidated. Although the aerial parts are the most commonly used organs of I. lophanthoides, metabolite profiling by gas chromatography-mass spectrometry showed the underground parts also contain large amounts of labdane diterpenoids including abietatriene, miltiradiene and ferruginol, which are distinct from the 13-hydroxy-8(14)-abietene detected in the aerial parts. Comparative transcriptome analysis of root and leaf samples identified a diverse diterpene synthase family including 6 copalyl diphosphate synthase (IlCPS1-6) and 5 kaurene synthase-like (IlKSL1-5). Here we report the functional characterization of six of these enzymes using yeast heterologous expression system. Both IlCPS1 and IlCPS3 synthesized (+)-copalyl diphosphate (CPP), in combination with IlKSL1 resulted in miltiradiene, precursor of abietane-type diterpenoids, while coupling with IlKSL5 led to the formation of hydroxylated diterpene scaffold nezukol. Expression profiling and phylogenetic analysis further support the distinct evolutionary relationship and spatial distribution of IlCPS1 and IlCPS3. IlCPS2 converted GGPP into labda-7,13E-dien-15-ol diphosphate. IlCPS6 was identified as ent-CPS, indicating a role in gibberellin metabolism. We further identified a single residue that determined the water addition of nezukol synthase IlKSL5. Substitution of alanine 513 with isoleucine completely altered the product outcome from hydroxylated nezukol to isopimara-7,15-diene. Together, these findings elucidated the early steps of bioactive abietane-type diterpenoid biosynthesis in I. lophanthoides and the catalytic mechanism of nezukol synthase.
+
+IlCPS1: !synthesizes! (+)-copalyl diphosphate (CPP)
+IlCPS3: !synthesizes! (+)-copalyl diphosphate (CPP)
+IlKSL1: !interacts with! IlCPS1
+IlKSL1: !produces! Miltiradiene
+IlKSL5: !interacts with! IlCPS1
+IlKSL5: !produces! Hydroxylated diterpene scaffold nezukol
+IlCPS2: !synthesizes! Labda-7,13E-dien-15-ol diphosphate
+IlCPS6: !synthesizes! Ent-CPS
+IlKSL5: !contains! Alanine 513
+Isoleucine: !substitutes for! Alanine 513

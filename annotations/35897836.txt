@@ -1,0 +1,12 @@
+Salt stress seriously restricts plant growth and development, affects yield and quality, and thus becomes an urgent problem to be solved in cucumber stress resistance breeding. Mining salt tolerance genes and exploring the molecular mechanism of salt tolerance could accelerate the breeding of cucumber germplasm with excellent salt stress tolerance. In this study, 220 cucumber core accessions were used for Genome-Wide Association Studies (GWAS) and the identification of salt tolerance genes. The salinity injury index that was collected in two years showed significant differences among the core germplasm. A total of seven loci that were associated with salt tolerance in cucumber seedlings were repeatedly detected, which were located on Chr.2 (<i>gST2.1</i>), Chr.3 (<i>gST3.1</i> and <i>gST3.2</i>), Chr.4 (<i>gST4.1</i> and <i>gST4.2</i>), Chr.5 (<i>gST5.1</i>), and Chr.6 (<i>gST6.1</i>). Within these loci, 62 genes were analyzed, and 5 candidate genes (<i>CsaV3_2G035120</i>, <i>CsaV3_3G023710</i>, <i>CsaV3_4G033150</i>, <i>CsaV3_5G023530</i>, and <i>CsaV3_6G009810</i>) were predicted via the functional annotation of <i>Arabidopsis</i> homologous genes, haplotype of extreme salt-tolerant accessions, and qRT-PCR. These results provide a guide for further research on salt tolerance genes and molecular mechanisms of cucumber seedlings.
+
+gST2.1: !contains! CsaV3_2G035120
+gST3.1: !contains! CsaV3_3G023710
+gST3.2: !contains! CsaV3_4G033150
+gST4.1: !contains! CsaV3_5G023530
+gST4.2: !contains! CsaV3_6G009810
+CsaV3_2G035120: !localizes to! gST2.1
+CsaV3_3G023710: !localizes to! gST3.1
+CsaV3_4G033150: !localizes to! gST3.2
+CsaV3_5G023530: !localizes to! gST4.1
+CsaV3_6G009810: !localizes to! gST4.2

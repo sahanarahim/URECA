@@ -1,0 +1,15 @@
+This study compares the influence of phosphate (Pi) deprivation on the coordinate synthesis of the principle Pi-starvation inducible (PSI) acid phosphatase (AP) isozymes in a suspension cell culture with the homologous in planta system. Tomato suspension cells express three PSI purple AP isozymes: a heterodimeric intracellular AP (IAP) composed of 63 and 57 kDa subunits, and two monomeric secreted APs (SAPs) (84 kDa SAP1 and 57 kDa SAP2) localized in the culture media. Immunoblots probed with rabbit antibodies raised against purified SAP1 or IAP indicated the immunological distinctiveness of SAP1 relative to IAP and SAP2. Time-course studies of cells and seedlings undergoing a transition from Pi sufficiency to Pi deficiency revealed a close relationship between total IAP or SAP activity and relative amounts of antigenic IAP or SAP polypeptides. Upregulation of the pre-existing IAP in 6-day-old Pi-deficient (-Pi) suspension cells coincided with a 20-fold reduction in intracellular free Pi levels, which occurred 2 d prior to initial accumulation of SAP1 and SAP2 in the culture media. Similarly, root-specific SAP synthesis in -Pi seedlings occurred at least 7 d following IAP induction in roots or shoots. Preferential sequestration of limiting Pi to the leaves of the -Pi seedlings was suggested by the delayed induction of leaf versus root IAP. Our results confirm recent transcript profiling studies suggesting that PSI proteins are subject to both temporal and tissue-specific syntheses in- Pi plants.
+
+IAP: !synthesizes! SAP1 
+IAP: !synthesizes! SAP2 
+Pi-deficiency: !induces! IAP 
+Pi-deficiency: !induces! SAP1 
+Pi-deficiency: !induces! SAP2 
+SAP1: !distinct from! IAP 
+SAP2: !distinct from! IAP 
+SAP1: !localizes to! culture media 
+SAP2: !localizes to! culture media 
+IAP: !localizes to! cells 
+Pi-deficiency: !enhances! IAP 
+Pi-deficiency: !represses! Pi levels 
+Pi-deficiency: !sequesters! Pi to leaves

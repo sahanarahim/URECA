@@ -1,0 +1,10 @@
+Flavonoids are one of the most important secondary metabolites in plants, and phenylalanine ammonia-lyase (PAL) is the first rate-limiting enzyme for their biosynthesis. However, detailed information on the regulation of PAL in plants is still little. In this study, PAL in E. ferox was identified and functionally analyzed, and its upstream regulatory network was investigated. Through genome-wide identification, we obtained 12 putative PAL genes from E. ferox. Phylogenetic tree and synteny analysis revealed that PAL in E. ferox was expanded and mostly preserved. Subsequently, enzyme activity assays demonstrated that EfPAL1 and EfPAL2 both catalyzed the production of cinnamic acid from phenylalanine only, with EfPAL2 exhibiting a superior enzyme activity. Overexpression of EfPAL1 and EfPAL2 in Arabidopsis thaliana, respectively, both enhanced the biosynthesis of flavonoids. Furthermore, two transcription factors, EfZAT11 and EfHY5, were identified by yeast one-hybrid library assays as binding to the promoter of EfPAL2, and further luciferase (LUC) activity analysis indicated that EfZAT11 promoted the expression of EfPAL2, while EfHY5 repressed the expression of EfPAL2. These results suggested that EfZAT11 and EfHY5 positively and negatively regulate flavonoid biosynthesis, respectively. Subcellular localization revealed that EfZAT11 and EfHY5 were localized in the nucleus. Our findings clarified the key EfPAL1 and EfPAL2 of flavonoid biosynthesis in E. ferox and established the upstream regulatory network of EfPAL2, which would provide novel information for the study of flavonoid biosynthesis mechanism.
+
+EfPAL1: !catalyzes! cinnamic acid
+EfPAL2: !catalyzes! cinnamic acid
+EfPAL1: !enhances! flavonoid biosynthesis
+EfPAL2: !enhances! flavonoid biosynthesis
+EfZAT11: !promotes! EfPAL2 expression
+EfHY5: !represses! EfPAL2 expression
+EfZAT11: !localizes to! nucleus
+EfHY5: !localizes to! nucleus

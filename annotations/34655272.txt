@@ -1,0 +1,13 @@
+Interactions between plant hosts and their microbiotas are becoming increasingly evident, while the effects of plant communities on microbial communities in different geographic environments are poorly understood. Here, the differentiation of licorice plant ecotypes and the distribution of root-associated microbiotas were investigated across five sampling sites in northwest China. The interactions between the environment, plant and microbial communities, and their effects on licorice root secondary metabolites, were elucidated. The plant community was clearly differentiated into distinct ecotypes based on genotyping-by-sequencing and was primarily driven by geographic distance and available soil nitrogen. The bulk soil and root-associated microbiotas (rhizosphere soil and root endosphere) partially correlated with plant community, but all were significantly discriminated by plant clade. Moreover, these microbiotas were explained to different extents by distinct combinations of environment, geography, and plant community. Similarly, three structural equation models showed that licorice root secondary metabolites were complicatedly modulated by multiple abiotic and biotic factors, and were mostly explained by these factors in the rhizosphere model. Collectively, the results provide novel insights into the role of environment-plant-microbiota interactions in regulating root secondary metabolites. That should be accounted for when selecting appropriate licorice planting sites and management measures.
+
+Environment: !affects! Plant Community 
+Plant Community: !affects! Microbiotas 
+Microbiotas: !affects! Root Secondary Metabolites 
+Geographic Distance: !affects! Plant Community 
+Available Soil Nitrogen: !affects! Plant Community 
+Plant Clade: !discriminates! Microbiotas 
+Environment: !explains! Microbiotas 
+Geography: !explains! Microbiotas 
+Plant Community: !explains! Microbiotas 
+Abiotic Factors: !modulate! Root Secondary Metabolites 
+Biotic Factors: !modulate! Root Secondary Metabolites

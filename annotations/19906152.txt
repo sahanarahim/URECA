@@ -1,0 +1,8 @@
+Water availability and movement in soil are critical determinants of resource availability to, and interactions among, members of the soil community. However, it has been impossible to observe gradients in soil water potential empirically at millimetre spatial scales. Here we describe progress towards that goal using output from two microbial biosensors, Pantoea agglomerans BRT98/pPProGreen and Pseudomonas putida KT2442/pPProGreen, engineered with a reporter system based on the osmotically sensitive proU promoter from Escherichia coli. The proU-GFP construct in both microbiosensors produced green fluorescent protein (GFP) as a function total water potential in nonsterile soil. Controlled experiments in liquid culture showed that dramatically different microbiosensor growth rates (resulting from exposure to different salts as osmolytes) did not alter the GFP output as a function of water potential in either sensor, but P. agglomerans' GFP levels at a given water potential were strongly influenced by the type of carbon (energy) source available to the microbes. In non-sterile rhizosphere soil along Zea mays L. roots, though GFP expression was quite variable, microbiosensors reported statistically significantly more negative soil water potentials as a function of axial distance from root tips, reflecting the gradient in soil water potential hypothesized to develop during transpiration.
+
+Pantoea agglomerans BRT98/pPProGreen: !produces! GFP
+Pseudomonas putida KT2442/pPProGreen: !produces! GFP
+proU promoter: !controls! GFP production
+osmolytes: !influence! GFP production
+carbon source: !affects! GFP production in P. agglomerans
+Zea mays L.: !creates! gradient in soil water potential

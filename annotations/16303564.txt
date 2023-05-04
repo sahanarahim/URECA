@@ -1,0 +1,11 @@
+['16303564', "Although microRNAs (miRNAs) have been documented to regulate development in  plants and animals , the function of miRNAs in physiology is unclear. miR399 has  multiple target sites in the 5' untranslated region (UTR) of a gene encoding a  putative ubiquitin-conjugating enzyme (UBC) in Arabidopsis thaliana. We report  here that miR399 was highly induced, whereas the target UBC mRNA was reduced by  low-phosphate (Pi) stress. In transgenic plants with constitutive expression of  miR399, UBC mRNA accumulation was suppressed even under high Pi. The expression  of transgene UBC mRNA with 5' UTR miR399 target sites, but not the one without 5'  UTR, was reduced under low-Pi condition. Furthermore, transgenic Arabidopsis  plants with constitutive expression of miR399 accumulated more Pi than the  wild-type, and transgenic plants expressing the UBC mRNA without 5' UTR  (miRNA-deregulated) showed less inhibition of primary root growth and less  induction of a Pi transporter gene by low-Pi stress than those of wild-type  plants. We conclude that miR399 downregulates UBC mRNA accumulation by targeting  the 5' UTR, and this regulation is important for plant responses to Pi  starvation. The results suggest that miRNAs have functional roles for plants to  cope with fluctuations in mineral-nutrient availability in the soil.", '2005 Nov 22', 'Curr Biol', '10.1016/j.cub.2005.10.016', 'Zhu']
+
+miR399: !induces! UBC mRNA 
+miR399: !targets! 5' UTR 
+low-Pi stress: !induces! miR399 
+low-Pi stress: !reduces! UBC mRNA 
+transgenic plants: !express! miR399 
+transgenic plants: !suppress! UBC mRNA 
+UBC mRNA: !inhibits! primary root growth 
+UBC mRNA: !induces! Pi transporter gene 
+miRNAs: !have functional roles! for plants

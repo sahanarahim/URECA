@@ -1,0 +1,8 @@
+Abscisic acid (ABA) plays a crucial role in the adaptation of young seedlings to environmental stresses. However, the role of epigenetic components and core transcriptional machineries in the effect of ABA on seed germination and seedling growth remain unclear. Here, we show that a histone 3 lysine 4 (H3K4) demethylase, JMJ17, regulates the expression of ABA-responsive genes during seed germination and seedling growth. Using comparative interactomics, WRKY40, a central transcriptional repressor in ABA signaling, was shown to interact with JMJ17. WRKY40 facilitates the recruitment of JMJ17 to the ABI5 chromatin, which removes gene activation marks (H3K4me3) from the ABI5 chromatin, thereby repressing its expression. Additionally, WRKY40 represses the transcriptional activation activity of HY5, which can activate ABI5 expression by directly binding to its promoter. An increase in ABA concentrations decreases the affinity of WRKY40 for the ABI5 promoter. Thus, WRKY40 and JMJ17 are released from the ABI5 chromatin, activating HY5. The accumulated ABI5 protein further shows heteromeric interaction with HY5, and thus synergistically activates its own expression. Our findings reveal a novel transcriptional switch, composed of JMJ17-WRKY40 and HY5-ABI5 modules, which regulates the ABA response during seed germination and seedling development in Arabidopsis.
+
+JMJ17: !regulates! ABA-responsive genes
+WRKY40: !interacts with! JMJ17
+WRKY40: !represses! HY5
+ABA: !decreases affinity of! WRKY40
+HY5: !activates! ABI5
+ABI5: !heteromeric interacts with! HY5

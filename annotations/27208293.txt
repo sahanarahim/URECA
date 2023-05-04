@@ -1,0 +1,9 @@
+In contrast to mammalian matrix metalloproteinases (MMPs) that play important roles in the remodeling of the extracellular matrix in animals, the proteases responsible for dynamic modifications of the plant cell wall are largely unknown. A possible involvement of MMPs was addressed by cloning and functional characterization of Sl2-MMP and Sl3-MMP from tomato (Solanum lycopersicum). The two tomato MMPs were found to resemble mammalian homologs with respect to gelatinolytic activity, substrate preference for hydrophobic amino acids on both sides of the scissile bond, and catalytic properties. In transgenic tomato seedlings silenced for Sl2/3-MMP expression, necrotic lesions were observed at the base of the hypocotyl. Cell death initiated in the epidermis and proceeded to include outer cortical cell layers. In later developmental stages, necrosis spread, covering the entire stem and extending into the leaves of MMP-silenced plants. The subtilisin-like protease P69B was identified as a substrate of Sl2- and Sl3-MMP. P69B was shown to colocalize with Sl-MMPs in the apoplast of the tomato hypocotyl, it exhibited increased stability in transgenic plants silenced for Sl-MMP activity, and it was cleaved and inactivated by Sl-MMPs in vitro. The induction of cell death in Sl2/3-MMP-silenced plants depended on P69B, indicating that Sl2- and Sl3-MMP act upstream of P69B in an extracellular proteolytic cascade that contributes to the regulation of cell death in tomato.
+
+Sl2-MMP: !cleaves! P69B
+Sl3-MMP: !cleaves! P69B
+Sl2-MMP: !localizes to! Apoplast
+Sl3-MMP: !localizes to! Apoplast
+P69B: !stabilized by! Sl2/3-MMP silencing
+Sl2/3-MMP: !regulates! Cell death
+P69B: !required for! Sl2/3-MMP-induced cell death

@@ -1,0 +1,9 @@
+Forest ecosystems release large amounts of carbon to the atmosphere from fine-root respiration (R(r)), but the control of this flux and its temperature sensitivity (Q(10)) are poorly understood. We attempted to: (1) identify the factors limiting this flux using additions of glucose and an electron transport uncoupler (carbonyl cyanide m-chlorophenylhydrazone); and (2) improve yearly estimates of R(r) by directly measuring its Q(10)in situ using temperature-controlled cuvettes buried around intact, attached roots. The proximal limits of R(r) of loblolly pine (Pinus taeda L.) trees exposed to free-air CO(2) enrichment (FACE) and N fertilization were seasonally variable; enzyme capacity limited R(r) in the winter, and a combination of substrate supply and adenylate availability limited R(r) in summer months. The limiting factors of R(r) were not affected by elevated CO(2) or N fertilization. Elevated CO(2 )increased annual stand-level R(r) by 34% whereas the combination of elevated CO(2) and N fertilization reduced R(r) by 40%. Measurements of in situ R(r) with high temporal resolution detected diel patterns that were correlated with canopy photosynthesis with a lag of 1 d or less as measured by eddy covariance, indicating a dynamic link between canopy photosynthesis and root respiration. These results suggest that R(r) is coupled to daily canopy photosynthesis and increases with carbon allocation below ground.
+
+glucose: !limits! R(r)
+enzyme capacity: !limits! R(r)
+substrate supply: !limits! R(r)
+adenylate availability: !limits! R(r)
+elevated CO2: !increases! R(r)
+N fertilization: !reduces! R(r)
+canopy photosynthesis: !correlated with! root respiration

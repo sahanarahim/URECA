@@ -1,0 +1,8 @@
+Enormous progress has been achieved understanding the molecular mechanisms regulating endoreduplication. By contrast, how this process is coordinated with the cell cycle or cell expansion and contributes to overall growth in multicellular systems remains unclear. A holistic approach was used here to give insight into the functional links between endoreduplication, cell division, cell expansion, and whole growth in the Arabidopsis (Arabidopsis thaliana) leaf. Correlative analyses, quantitative genetics, and structural equation modeling were applied to a large data set issued from the multiscale phenotyping of 200 genotypes, including both genetically modified lines and recombinant inbred lines. All results support the conclusion that endoreduplication in leaf cells could be controlled by leaf growth itself. More generally, leaf growth could act as a "hub" that drives cell division, cell expansion, and endoreduplication in parallel. In many cases, this strategy allows compensations that stabilize leaf area even when one of the underlying cellular processes is limiting.
+
+leaf growth: !drives! cell division
+leaf growth: !drives! cell expansion
+leaf growth: !drives! endoreduplication
+cell division: !stabilizes! leaf area
+cell expansion: !stabilizes! leaf area
+endoreduplication: !stabilizes! leaf area

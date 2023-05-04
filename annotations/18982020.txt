@@ -1,0 +1,9 @@
+['18982020', 'Mitogen-activated protein kinase (MAPK) cascades play important roles in  regulating plant innate immune responses. In a genetic screen to search for  mutants with constitutive defense responses, we identified multiple alleles of  mpk4 and mekk1 that exhibit cell death and constitutive defense responses.  Bimolecular fluorescence complementation (BiFC) analysis showed that both MPK4  and MEKK1 interact with MKK1 and MKK2, two closely related MAPK kinases. mkk1 and  mkk2 single mutant plants do not have obvious mutant phenotypes. To test whether  MKK1 and MKK2 function redundantly, mkk1 mkk2 double mutants were generated. The  mkk1 mkk2 double mutant plants die at seedling stage and the seedling-lethality  phenotype is temperature-dependent. Similar to the mpk4 and mekk1 mutants, the  mkk1 mkk2 double mutant seedlings accumulate high levels of H2O2, display  spontaneous cell death, constitutively express Pathogenesis Related (PR) genes  and exhibit pathogen resistance. In addition, activation of MPK4 by flg22 is  impaired in the mkk1 mkk2 double mutants, suggesting that MKK1 and MKK2 function  together with MPK4 and MEKK1 in a MAP kinase cascade to negatively regulate  innate immune responses in plants.', '2008 Dec', 'Cell Res', '10.1038/cr.2008.300', 'Zhang']
+
+MPK4: !interacts with! MKK1 
+MPK4: !interacts with! MKK2 
+MEKK1: !interacts with! MKK1 
+MEKK1: !interacts with! MKK2 
+MKK1: !functions redundantly with! MKK2 
+MPK4: !activated by! flg22 
+MPK4: !negatively regulates! innate immune responses

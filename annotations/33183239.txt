@@ -1,0 +1,14 @@
+Wild species of cotton are excellent resistance to abiotic stress. Diploid D-genome cotton showed abundant phenotypic diversity and was the putative donor species of allotetraploid cotton which produce the largest textile natural fiber. A total of 41,053 genes were expressed in all samples by mapping RNA-seq Illumina reads of G. thurberi (D<sub>1</sub>), G. klotzschianum (D<sub>3-k</sub>), G. raimondii (D<sub>5</sub>) and G. trilobum (D<sub>8</sub>) to reference genome. The numbers of differently expressed genes (DEGs) were significantly higher under cold stress than salt stress. However, 34.1% DEGs under salt stress were overlapped with cold stress in four species. Notably, a potential shared network (cold and salt response, including 16 genes) was mined out by gene co-expression analysis. A total of 47,180-55,548 unique genes were identified in four diploid species by De novo assembly. Furthermore, 163, 344, 330, and 161 positively selected genes (PSGs) were detected in thurberi, G. klotzschianum, G. raimondii and G. trilobum by evolutionary analysis, respectively, and 9.5-17% PSGs of four species were DEGs in corresponding species under cold or salt stress. What's more, most of PSGs were enriched GO term related to response to stimulation. G. klotzschianum showed the best tolerance under both cold and salt stress. Interestingly, we found that a RALF-like protein coding gene not only is PSGs of G. klotzschianum, but also belongs to the potential shared network. Our study provided new evidence that gene expression variations of evolution by natural selection were essential drivers of the morphological variations related to environmental adaptation during evolution. Additionally, there exist shared regulated networks under cold and salt stress, such as Ca<sup>2+</sup> signal transduction and oxidation-reduction mechanisms. Our work establishes a transcriptomic selection mechanism for altering gene expression of the four diploid D-genome cotton and provides available gene resource underlying multi-abiotic resistant cotton breeding strategy.
+
+G. thurberi: !produces! RNA-seq Illumina reads
+G. klotzschianum: !produces! RNA-seq Illumina reads
+G. raimondii: !produces! RNA-seq Illumina reads
+G. trilobum: !produces! RNA-seq Illumina reads
+DEGs: !higher under! cold stress
+DEGs: !overlapped with! cold stress
+gene co-expression analysis: !mines out! potential shared network
+De novo assembly: !identifies! unique genes
+evolutionary analysis: !detects! positively selected genes
+PSGs: !enriched in! GO term related to response to stimulation
+RALF-like protein coding gene: !belongs to! potential shared network
+gene expression variations: !essential drivers of! morphological variations

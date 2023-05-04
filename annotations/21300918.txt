@@ -1,0 +1,6 @@
+The circadian clock of the model plant Arabidopsis (Arabidopsis thaliana) is made up of a complex series of interacting feedback loops whereby proteins regulate their own expression across day and night. early bird (ebi) is a circadian mutation that causes the clock to speed up: ebi plants have short circadian periods, early phase of clock gene expression, and are early flowering. We show that EBI associates with ZEITLUPE (ZTL), known to act in the plant clock as a posttranslational mediator of protein degradation. However, EBI is not degraded by its interaction with ZTL. Instead, ZTL counteracts the effect of EBI during the day and increases it at night, modulating the expression of key circadian components. The partnership of EBI with ZTL reveals a novel mechanism involved in controlling the complex transcription-translation feedback loops of the clock. This work highlights the importance of cross talk between the ubiquitination pathway and transcriptional control for regulation of the plant clock.
+
+ebi: !associates with! ZTL
+ZTL: !counteracts! ebi 
+ebi: !modulates! expression of key circadian components
+ZTL: !increases! ebi at night

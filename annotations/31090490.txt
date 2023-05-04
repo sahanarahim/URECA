@@ -1,0 +1,9 @@
+Clubroot disease, caused by <i>Plasmodiophora brassicae</i> Woronin, is a major threat to the production of <i>Brassica'</i> crops. Resistance to different <i>P. brassicae</i> pathotypes has been reported in the A genome, chromosome A08; however, the molecular mechanism of this resistance, especially the involvement of long noncoding RNAs (lncRNAs), is not understood. We have used a strand-specific lncRNA-Seq approach to catalog lncRNAs from the roots of clubroot-susceptible and -resistant <i>Brassica napus</i> lines. In total, 530 differentially expressed (DE) lncRNAs were identified, including 88% of long intergenic RNAs and 11% natural antisense transcripts. Sixteen lncRNAs were identified as target mimics of the microRNAs (miRNAs) and eight were identified as the precursors of miRNAs. KEGG pathway analysis of the DE lncRNAs showed that the cis-regulated target genes mostly belong to the phenylpropanoid biosynthetic pathway (15%) and plant-pathogen interactions (15%) while the transregulated target genes mostly belong to carbon (18%) and amino acid biosynthesis pathway (19%). In all, 24 DE lncRNAs were identified from chromosome A08, which is known to harbor a quantitative trait locus conferring resistance to different <i>P. brassicae</i> pathotypes; however, eight of these lncRNAs showed expression only in the resistant plants. These results could form the basis for future studies aimed at delineating the roles of lncRNAs in plant-microbe interactions.
+
+lncRNA: !mimics! miRNA 
+lncRNA: !precursor of! miRNA 
+lncRNA: !regulates! phenylpropanoid biosynthetic pathway 
+lncRNA: !regulates! plant-pathogen interactions 
+lncRNA: !regulates! carbon biosynthesis pathway 
+lncRNA: !regulates! amino acid biosynthesis pathway 
+lncRNA: !expressed in! resistant plants

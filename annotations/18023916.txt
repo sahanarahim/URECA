@@ -1,0 +1,7 @@
+Recently, curvature was described as a new trait useful in the analysis of root apex shape. Treating the root profile as a geometric curve revealed that root apex curvature values are lower in ethylene-insensitive mutants (Cervantes E, Tocino A. Geometric analysis of Arabidopsis root apex reveals a new aspect of the ethylene signal transduction pathway in development. J Plant Physiol 2005;162:1038-45). This fact suggests that curvature is regulated by ethylene. In this work, we have determined the curvature values in embryonic roots of wild-type Columbia as well as in ethylene signal-transduction mutants, and found smaller values in embryos of the mutants. We also report on the evolution of root curvature during early development after seed germination. The line Lt16b that expresses GFP in the cell wall has allowed us to investigate the evolution of curvature values in three successive cell layers of seedling roots by confocal microscopy. Treatment of seedlings with norbornadiene resulted in lower curvature values. Our results show details illustrating the effect of ethylene in root curvature.
+
+ethylene: !affects! root curvature
+mutants: !have lower! curvature values
+norbornadiene: !decreases! curvature values
+GFP: !localizes to! cell wall
+Lt16b: !expresses! GFP

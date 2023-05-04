@@ -1,0 +1,11 @@
+Salicylic acid (SA) plays an important role in plant immune response, including resistance to pathogens and systemic acquired resistance. Two major components, NONEXPRESSOR OF PATHOGENESIS-RELATED GENES (NPRs) and TGACG motif-binding transcription factors (TGAs), are known to mediate SA signaling, which might also be orchestrated by other hormonal and environmental changes. Nevertheless, the molecular and functional interactions between SA signaling components and other cellular signaling pathways remain poorly understood. Here we showed that the steroid plant hormone brassinosteroid (BR) promotes SA responses by inactivating BR-INSENSITIVE 2 (BIN2), which inhibits the redox-sensitive clade I TGAs in Arabidopsis. We found that both BR and the BIN2 inhibitor bikinin synergistically increase SA-mediated physiological responses, such as resistance to Pst DC3000. Our genetic and biochemical analyses indicated that BIN2 functionally interacts with TGA1 and TGA4, but not with other TGAs. We further demonstrated that BIN2 phosphorylates Ser-202 of TGA4, resulting in the suppression of the redox-dependent interaction between TGA4 and NPR1 as well as destabilization of TGA4. Consistently, transgenic Arabidopsis overexpressing TGA4-YFP with a S202A mutation displayed enhanced SA responses compared to the wild-type TGA4-YFP plants. Taken together, these results suggest a novel crosstalk mechanism by which BR signaling coordinates the SA responses mediated by redox-sensitive clade I TGAs.
+
+SA: !mediates! Plant immune response
+NPRs: !mediates! SA signaling
+TGAs: !mediates! SA signaling
+BR: !promotes! SA responses
+BIN2: !inhibits! TGAs
+BIN2: !interacts with! TGA1 & TGA4
+BIN2: !phosphorylates! Ser-202 of TGA4
+TGA4: !stabilizes! NPR1
+TGA4-YFP: !enhances! SA responses

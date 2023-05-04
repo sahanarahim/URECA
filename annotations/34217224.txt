@@ -1,0 +1,8 @@
+N-terminal acetylation (NTA) is a highly abundant protein modification catalyzed by N-terminal acetyltransferases (NATs) in eukaryotes. However, the plant NATs and their biological functions have been poorly explored. Here we reveal that loss of function of CKRC3 and NBC-1, the auxiliary subunit (Naa25) and catalytic subunit (Naa20) of Arabidopsis NatB, respectively, led to defects in skotomorphogenesis and triple responses of ethylene. Proteome profiling and WB test revealed that the 1-amincyclopropane-1-carboxylate oxidase (ACO, catalyzing the last step of ethylene biosynthesis pathway) activity was significantly down-regulated in natb mutants, leading to reduced endogenous ethylene content. The defective phenotypes could be fully rescued by application of exogenous ethylene, but less by its precursor ACC. The present results reveal a previously unknown regulation mechanism at the co-translational protein level for ethylene homeostasis, in which the NatB-mediated NTA of ACOs render them an intracellular stability to maintain ethylene homeostasis for normal growth and responses.
+
+CKRC3: !catalyzes! NTA 
+NBC-1: !catalyzes! NTA 
+NatB: !mediates! NTA 
+natb mutants: !down-regulate! ACO activity 
+ACO: !stabilized by! NatB-mediated NTA 
+NatB-mediated NTA: !maintains! ethylene homeostasis

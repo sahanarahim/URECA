@@ -1,0 +1,10 @@
+Plant cyclic nucleotide gated channels (CNGCs) facilitate cytosolic Ca<sup>2+</sup> influx as an early step in numerous signaling cascades. CNGC-mediated Ca<sup>2+</sup> elevations are essential for plant immune defense and high temperature thermosensing. In the present study, we evaluated phenotypes of CNGC2, CNGC4, CNGC6, and CNGC12 null mutants in these two pathways. It is shown CNGC2, CNGC4, and CNGC6 physically interact in vivo, whereas CNGC12 does not. CNGC involvement in immune signaling was evaluated by monitoring mutant response to elicitor peptide Pep3. Pep3 response cascades involving CNGCs included mitogen-activated kinase activation mediated by Ca<sup>2+</sup> -dependent protein kinase phosphorylation. Pep3-induced reactive oxygen species generation was impaired in cngc2, cngc4, and cngc6, but not in cngc12, suggesting that CNGC2, CNGC4, and CNGC6 (which physically interact) may be components of a multimeric CNGC channel complex for immune signaling. However, unlike cngc2 and cngc4, cngc6 is not sensitive to high Ca<sup>2+</sup> and displays no pleiotropic dwarfism. All four cngc mutants showed thermotolerance compared to wild-type, although CNGC12 does not interact with the other three CNGCs. These results imply that physically interacting CNGCs may, in some cases, function in a signaling cascade as components of a heteromeric channel complex, although this may not be the case in other signaling pathways.
+
+CNGC2: !interacts with! CNGC4
+CNGC2: !interacts with! CNGC6
+CNGC4: !interacts with! CNGC6
+CNGC2: !enhances! Pep3 response cascades
+CNGC4: !enhances! Pep3 response cascades
+CNGC6: !enhances! Pep3 response cascades
+CNGC12: !does not interact with! other CNGCs
+CNGC12: !does not enhance! Pep3 response cascades

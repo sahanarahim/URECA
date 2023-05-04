@@ -1,0 +1,16 @@
+Phytosulfokine (PSK) is perceived by the leucine-rich repeat receptor kinase PSKR1 and promotes growth in Arabidopsis thaliana. PSKR1 is coexpressed with the CYCLIC NUCLEOTIDE-GATED CHANNEL gene CNGC17. PSK promotes protoplast expansion in the wild type but not in cngc17. Protoplast expansion is likewise promoted by cGMP in a CNGC17-dependent manner. Furthermore, PSKR1-deficient protoplasts do not expand in response to PSK but are still responsive to cGMP, suggesting that cGMP acts downstream of PSKR1. Mutating the guanylate cyclase center of PSKR1 impairs seedling growth, supporting a role for PSKR1 signaling via cGMP in planta. While PSKR1 does not interact directly with CNGC17, it interacts with the plasma membrane-localized H(+)-ATPases AHA1 and AHA2 and with the BRI-associated receptor kinase 1 (BAK1). CNGC17 likewise interacts with AHA1, AHA2, and BAK1, suggesting that PSKR1, BAK1, CNGC17, and AHA assemble in a functional complex. Roots of deetiolated bak1-3 and bak1-4 seedlings were unresponsive to PSK, and bak1-3 and bak1-4 protoplasts expanded less in response to PSK but were fully responsive to cGMP, indicating that BAK1 acts in the PSK signal pathway upstream of cGMP. We hypothesize that CNGC17 and AHAs form a functional cation-translocating unit that is activated by PSKR1/BAK1 and possibly other BAK1/RLK complexes.
+
+PSKR1: !perceives! PSK 
+PSKR1: !coexpresses with! CNGC17 
+PSK: !promotes! protoplast expansion 
+cGMP: !promotes! protoplast expansion 
+PSKR1: !signals via! cGMP 
+PSKR1: !interacts with! AHA1 
+PSKR1: !interacts with! AHA2 
+PSKR1: !interacts with! BAK1 
+CNGC17: !interacts with! AHA1 
+CNGC17: !interacts with! AHA2 
+CNGC17: !interacts with! BAK1 
+BAK1: !acts upstream of! cGMP 
+BAK1: !acts in! PSK signal pathway 
+CNGC17: !forms! cation-translocating unit

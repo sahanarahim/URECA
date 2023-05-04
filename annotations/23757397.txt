@@ -1,0 +1,10 @@
+Functional gene clusters, containing two or more genes encoding different enzymes for the same pathway, are sometimes observed in plant genomes, most often when the genes specify the synthesis of specialized defensive metabolites. Here, we show that a cluster of genes in tomato (Solanum lycopersicum; Solanaceae) contains genes for terpene synthases (TPSs) that specify the synthesis of monoterpenes and diterpenes from cis-prenyl diphosphates, substrates that are synthesized by enzymes encoded by cis-prenyl transferase (CPT) genes also located within the same cluster. The monoterpene synthase genes in the cluster likely evolved from a diterpene synthase gene in the cluster by duplication and divergence. In the orthologous cluster in Solanum habrochaites, a new sesquiterpene synthase gene was created by a duplication event of a monoterpene synthase followed by a localized gene conversion event directed by a diterpene synthase gene. The TPS genes in the Solanum cluster encoding cis-prenyl diphosphate-utilizing enzymes are closely related to a tobacco (Nicotiana tabacum; Solanaceae) diterpene synthase encoding Z-abienol synthase (Nt-ABS). Nt-ABS uses the substrate copal-8-ol diphosphate, which is made from the all-trans geranylgeranyl diphosphate by copal-8-ol diphosphate synthase (Nt-CPS2). The Solanum gene cluster also contains an ortholog of Nt-CPS2, but it appears to encode a nonfunctional protein. Thus, the Solanum functional gene cluster evolved by duplication and divergence of TPS genes, together with alterations in substrate specificity to utilize cis-prenyl diphosphates and through the acquisition of CPT genes.
+
+Gene: !encodes! Enzyme 
+Gene: !specifies synthesis of! Monoterpenes 
+Gene: !specifies synthesis of! Diterpenes 
+Gene: !evolved from! Diterpene Synthase 
+Gene: !created by duplication of! Monoterpene Synthase 
+Gene: !directed by! Diterpene Synthase 
+Gene: !utilizes! Cis-Prenyl Diphosphates 
+Gene: !acquired! CPT Genes

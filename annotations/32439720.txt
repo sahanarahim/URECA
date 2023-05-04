@@ -1,0 +1,11 @@
+Proteins in the Chromodomain-Helicase/ATPase-DNA-binding domain (CHD) family are divided into three groups. The function of group I CHD proteins in nucleosome positioning is well established, while that of group II members (represented by CHD3/Mi2) remains unclear. Using high-throughput approaches, we investigated the function of the group II rice (<i>Oryza sativa</i>) CHD protein CHR729 in nucleosome positioning, gene expression, histone methylation, and binding. Our data revealed that the <i>chr729</i> mutation led to increased nucleosome occupancy in the rice genome and altered the expression and histone H3K4me3 modification of many, mainly underexpressed, genes. Further analysis showed that the mutation affected both the deposition and depletion of H3K4me3 in distinct chromatin regions, with concomitant changes in H3K27me3 modification. Genetic and genomic analyses revealed that CHR729 and JMJ703, an H3K4 demethylase, had agonistic, antagonistic, and independent functions in modulating H3K4me3 and the expression of subsets of genes. In addition, CHR729 binding was enriched in H3K4me3-marked genic and H3K27me3-marked intergenic regions. The results indicate that CHR729 has distinct functions in regulating H3K4me3 and H3K27me3 modifications and gene expression at different chromatin domains and provide insight into chromatin regulation of bivalent genes marked by both H3K4me3 and H3K27me3.
+
+CHD3/Mi2: !affects! Nucleosome Positioning
+CHR729: !affects! Nucleosome Occupancy
+CHR729: !affects! Gene Expression
+CHR729: !affects! Histone H3K4me3 Modification
+CHR729: !affects! Histone H3K27me3 Modification
+CHR729: !interacts with! JMJ703
+CHR729: !enhances! H3K4me3 Deposition
+CHR729: !represses! H3K4me3 Depletion
+CHR729: !localizes to! Genic and Intergenic Regions

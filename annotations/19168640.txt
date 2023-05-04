@@ -1,0 +1,11 @@
+Starch biosynthetic enzymes from maize (Zea mays) and wheat (Triticum aestivum) amyloplasts exist in cell extracts in high molecular weight complexes; however, the nature of those assemblies remains to be defined. This study tested the interdependence of the maize enzymes starch synthase IIa (SSIIa), SSIII, starch branching enzyme IIb (SBEIIb), and SBEIIa for assembly into multisubunit complexes. Mutations that eliminated any one of those proteins also prevented the others from assembling into a high molecular mass form of approximately 670 kD, so that SSIII, SSIIa, SBEIIa, and SBEIIb most likely all exist together in the same complex. SSIIa, SBEIIb, and SBEIIa, but not SSIII, were also interdependent for assembly into a complex of approximately 300 kD. SSIII, SSIIa, SBEIIa, and SBEIIb copurified through successive chromatography steps, and SBEIIa, SBEIIb, and SSIIa coimmunoprecipitated with SSIII in a phosphorylation-dependent manner. SBEIIa and SBEIIb also were retained on an affinity column bearing a specific conserved fragment of SSIII located outside of the SS catalytic domain. Additional proteins that copurified with SSIII in multiple biochemical methods included the two known isoforms of pyruvate orthophosphate dikinase (PPDK), large and small subunits of ADP-glucose pyrophosphorylase, and the sucrose synthase isoform SUS-SH1. PPDK and SUS-SH1 required SSIII, SSIIa, SBEIIa, and SBEIIb for assembly into the 670-kD complex. These complexes may function in global regulation of carbon partitioning between metabolic pathways in developing seeds.
+
+SSIII: !interacts with! SSIIa
+SSIII: !interacts with! SBEIIb
+SSIII: !interacts with! SBEIIa
+SSIIa: !interacts with! SBEIIb
+SSIIa: !interacts with! SBEIIa
+SBEIIb: !interacts with! SBEIIa
+SSIII: !interacts with! PPDK
+SSIII: !interacts with! ADP-glucose pyrophosphorylase
+SSIII: !interacts with! SUS-SH1

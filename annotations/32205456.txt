@@ -1,0 +1,8 @@
+Leaf morphogenesis requires growth polarized along three axes-proximal-distal (P-D) axis, medial-lateral axis, and abaxial-adaxial axis. Grass leaves display a prominent P-D polarity consisting of a proximal sheath separated from the distal blade by the auricle and ligule. Although proper specification of the four segments is essential for normal morphology, our knowledge is incomplete regarding the mechanisms that influence P-D specification in monocots such as maize (<i>Zea mays</i>). Here, we report the identification of the gene underlying the semidominant, leaf patterning maize mutant <i>Hairy Sheath Frayed1</i> (<i>Hsf1</i>). <i>Hsf1</i> plants produce leaves with outgrowths consisting of proximal segments-sheath, auricle, and ligule-emanating from the distal blade margin. Analysis of three independent <i>Hsf1</i> alleles revealed gain-of-function missense mutations in the ligand binding domain of the maize cytokinin (CK) receptor <i>Z. mays Histidine Kinase1</i> (<i>ZmHK1</i>) gene. Biochemical analysis and structural modeling suggest the mutated residues near the CK binding pocket affect CK binding affinity. Treatment of the wild-type seedlings with exogenous CK phenocopied the <i>Hsf1</i> leaf phenotypes. Results from expression and epistatic analyses indicated the <i>Hsf1</i> mutant receptor appears to be hypersignaling. Our results demonstrate that hypersignaling of CK in incipient leaf primordia can reprogram developmental patterns in maize.
+
+ZmHK1: !mutates in! Hsf1 
+Hsf1: !causes! outgrowths 
+CK: !binds to! ZmHK1 
+ZmHK1: !affects! CK binding affinity 
+CK: !phenocopies! Hsf1 leaf phenotypes 
+ZmHK1: !appears to be! hypersignaling

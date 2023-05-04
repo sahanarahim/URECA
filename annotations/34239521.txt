@@ -1,0 +1,9 @@
+To enable a scalable sparse testing genomic selection (GS) strategy at preliminary yield trials in the CIMMYT maize breeding program, optimal approaches to incorporate genotype by environment interaction (GEI) in genomic prediction models are explored. Two cross-validation schemes were evaluated: CV1, predicting the genetic merit of new bi-parental populations that have been evaluated in some environments and not others, and CV2, predicting the genetic merit of half of a bi-parental population that has been phenotyped in some environments and not others using the coefficient of determination (CDmean) to determine optimized subsets of a full-sib family to be evaluated in each environment. We report similar prediction accuracies in CV1 and CV2, however, CV2 has an intuitive appeal in that all bi-parental populations have representation across environments, allowing efficient use of information across environments. It is also ideal for building robust historical data because all individuals of a full-sib family have phenotypic data, albeit in different environments. Results show that grouping of environments according to similar growing/management conditions improved prediction accuracy and reduced computational requirements, providing a scalable, parsimonious approach to multi-environmental trials and GS in early testing stages. We further demonstrate that complementing the full-sib calibration set with optimized historical data results in improved prediction accuracy for the cross-validation schemes.
+
+Gene: !affects! GS strategy 
+GEI: !interacts with! genomic prediction models 
+CV1: !predicts! genetic merit of bi-parental populations 
+CV2: !predicts! genetic merit of half of a bi-parental population 
+CDmean: !determines! optimized subsets of a full-sib family 
+Grouping environments: !improves! prediction accuracy 
+Full-sib calibration set: !complements! optimized historical data

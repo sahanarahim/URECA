@@ -1,0 +1,8 @@
+The mitotic activity of root apical meristem (RAM) is critical to primary root growth and development. Previous studies have identified the roles of ROOT GROWTH FACTOR 1 (RGF1), a peptide ligand, and its receptors, RGF1 INSENSITIVEs (RGIs), a clade of five leucine-rich-repeat receptor-like kinases, in promoting cell division in the RAM, which determines the primary root length. However, the downstream signaling components remain elusive. In this study, we identify a complete mitogen-activated protein kinase (MAPK or MPK) cascade, composed of YDA, MKK4/MKK5, and MPK3/MPK6, that functions downstream of the RGF1-RGI ligand-receptor pair. Similar to the rgi1/2/3/4/5 quintuple mutant, loss-of-function mutants of MPK3 and MPK6, MKK4 and MKK5, or YDA show a short-root phenotype, which is associated with reduced mitotic activity and lower expression of PLETHORA 1 (PLT1)/PLT2 in the RAM. Furthermore, MPK3/MPK6 activation in response to exogenous RGF1 treatment is impaired in the rgi1/2/3/4/5 quintuple, yda single, and mkk4 mkk5 double mutants. Epistatic analyses demonstrated that the expression of constitutively active MKK4, MKK5, or YDA driven by the RGI2 promoter can rescue the short-root phenotype of the rgi1/2/3/4/5 mutant. Taken together, these results suggest that the YDA-MKK4/MKK5-MPK3/MPK6 cascade functions downstream of the RGF1-RGI ligand-receptor pair and upstream of PLT1/PLT2 to modulate the stem cell population and primary root growth in Arabidopsis.
+
+RGF1: !activates! RGI
+RGI: !activates! YDA
+YDA: !activates! MKK4/MKK5
+MKK4/MKK5: !activates! MPK3/MPK6
+MPK3/MPK6: !regulates! PLT1/PLT2
+PLT1/PLT2: !affects! mitotic activity

@@ -1,0 +1,8 @@
+Seed dormancy governs the timing of germination, one of the most important developmental transitions in a plant's life cycle. The <i>DELAY OF GERMINATION1</i> (<i>DOG1</i>) gene is a key regulator of seed dormancy and a major quantitative trait locus in Arabidopsis (<i>Arabidopsis thaliana</i>). <i>DOG1</i> expression is under tight developmental and environmental regulation, but the transcription factors involved are not known. Here we show that basic LEUCINE ZIPPER TRANSCRIPTION FACTOR67 (bZIP67) acts downstream of the central regulator of seed development, LEAFY COTYLEDON1, to transactivate <i>DOG1</i> during maturation and help to establish primary dormancy. We show that <i>bZIP67</i> overexpression enhances dormancy and that bZIP67 protein (but not transcript) abundance is increased in seeds matured in cool conditions, providing a mechanism to explain how temperature regulates <i>DOG1</i> expression. We also show that natural allelic variation in the <i>DOG1</i> promoter affects bZIP67-dependent transactivation, providing a mechanism to explain ecotypic differences in seed dormancy that are controlled by the <i>DOG1</i> locus.
+
+LEAFY COTYLEDON1: !regulates! bZIP67
+bZIP67: !transactivates! DOG1
+DOG1: !governs! Seed dormancy
+bZIP67: !enhances! Dormancy
+bZIP67: !increases! Protein abundance
+DOG1 promoter: !affects! bZIP67-dependent transactivation

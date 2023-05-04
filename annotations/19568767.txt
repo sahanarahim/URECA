@@ -1,0 +1,9 @@
+Branched-chain amino acid transaminases (BCATs) play a crucial role in the metabolic pathway of leucine, isoleucine and valine by catalyzing the last step of synthesis and/or the initial step of degradation of these amino acids. In this study, we characterized a new BCAT from Nicotiana benthamiana (NbBCAT, GeneBank accession No. EU194916), the deduced amino acid sequence of which exhibits a very high percentage of identity to the homologous enzymes from Solanum tuberosum (StBCAT-2, 91.5%) and Arabidopsis thaliana (AtBCAT1-6, 56.4-68.6%). Complementation experiment using a Deltabat1/Deltabat2 double knockout yeast strain system demonstrated enzymatic activities for NbBCAT. Ectopically expressed NbBCAT::green fluorescence fusion protein was targeted predominantly to the chloroplasts in tobacco protoplasts. The highest levels of NbBCAT transcripts were found in open flowers as well as in young leaves. Virus-induced gene silencing of NbBCAT resulted in abnormal leaf development and loss of apical dominance. In NbBCAT-silenced plants, two KNOTTED1-type genes, NTH15 and NTH23, were upregulated. This was accompanied by various hormone changes, as a result of transcriptional regulation of gibberellin 20-oxidase (Ntc12) and adenosine phosphate isopentenyltransferase. The transcript levels of NbBCAT could also be repressed by hormone treatment. These results suggest that NbBCAT, an enzyme in the branched-chain amino acid metabolic pathway, may be involved in the regulation of endogenous hormones by its effect on KNOX genes.
+
+NbBCAT: !catalyzes! Synthesis/Degradation of leucine, isoleucine and valine 
+NbBCAT: !localizes to! Chloroplasts 
+NbBCAT: !enhances! Apical dominance 
+NbBCAT: !regulates! KNOX genes 
+KNOX genes: !upregulated by! NbBCAT silencing 
+KNOX genes: !affects! Hormone levels 
+Hormone levels: !repressed by! NbBCAT transcript levels

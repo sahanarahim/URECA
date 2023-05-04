@@ -1,0 +1,8 @@
+The phytohormone ethylene controls plant growth and stress responses. Ethylene-exposed dark-grown Arabidopsis seedlings exhibit dramatic growth reduction, yet the seedlings rapidly return to the basal growth rate when ethylene gas is removed. However, the underlying mechanism governing this acclimation of dark-grown seedlings to ethylene remains enigmatic. Here, we report that ethylene triggers the translocation of the Raf-like protein kinase CONSTITUTIVE TRIPLE RESPONSE1 (CTR1), a negative regulator of ethylene signaling, from the endoplasmic reticulum to the nucleus. Nuclear-localized CTR1 stabilizes the ETHYLENE-INSENSITIVE3 (EIN3) transcription factor by interacting with and inhibiting EIN3-BINDING F-box (EBF) proteins, thus enhancing the ethylene response and delaying growth recovery. Furthermore, Arabidopsis plants with enhanced nuclear-localized CTR1 exhibited improved tolerance to drought and salinity stress. These findings uncover a mechanism of the ethylene signaling pathway that links the spatiotemporal dynamics of cellular signaling components to physiological responses.
+
+ethylene: !triggers! translocation of CTR1 
+CTR1: !localizes to! nucleus 
+CTR1: !interacts with! EBF proteins 
+EIN3: !stabilized by! CTR1 
+CTR1: !enhances! ethylene response 
+CTR1: !improves! tolerance to drought and salinity stress

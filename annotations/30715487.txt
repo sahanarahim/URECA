@@ -1,0 +1,10 @@
+In many plants, anthocyanin biosynthesis is affected by environmental conditions. Ultraviolet-B (UV-B) radiation promotes anthocyanin accumulation and fruit coloration in apple skin, whereas high temperature suppresses these processes. In this study, we characterized a B-box transcription factor, MdCOL4, from 'Fuji' apple, and identified its role in anthocyanin biosynthesis by overexpressing its encoding gene in apple red callus. The expression of MdCOL4 was reduced by UV-B, but promoted by high temperature. We explored the regulatory relationship between heat shock transcription factors (HSFs) and MdCOL4, and found that MdHSF3b and MdHSF4a directly bound to the heat shock element cis-element of the MdCOL4 promoter. MdCOL4 interacted with MdHY5 to synergistically inhibit the expression of MdMYB1, and MdCOL4 directly bound to the promoters of MdANS and MdUFGT, which encode genes in the anthocyanin biosynthetic pathway, to suppress their expression. Our findings shed light on the molecular mechanism by which MdCOL4 suppresses anthocyanin accumulation in apple skin under UV-B and high temperature.
+
+MdCOL4: !affects! anthocyanin biosynthesis
+MdCOL4: !promoted by! high temperature
+MdHSF3b: !interacts with! MdCOL4
+MdHSF4a: !interacts with! MdCOL4
+MdHY5: !interacts with! MdCOL4
+MdMYB1: !repressed by! MdCOL4
+MdANS: !repressed by! MdCOL4
+MdUFGT: !repressed by! MdCOL4

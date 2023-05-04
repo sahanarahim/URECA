@@ -1,0 +1,9 @@
+Geranylgeranyl diphosphate (GGPP) produced by GGPP synthase (GGPPS) serves as a precursor for many plastidial isoprenoids, including carotenoids. Phytoene synthase (PSY) converts GGPP into phytoene, the first committed intermediate of the carotenoid pathway. Here we used biochemical, molecular, and genetic tools to characterise the plastidial members of the GGPPS family in tomato (Solanum lycopersicum) and their interaction with PSY isoforms. The three tomato GGPPS isoforms found to localise in plastids (SlG1, 2 and 3) exhibit similar kinetic parameters. Gene expression analyses showed a preferential association of individual GGPPS and PSY isoforms when carotenoid biosynthesis was induced during root mycorrhization, seedling de-etiolation and fruit ripening. SlG2, but not SlG3, physically interacts with PSY proteins. By contrast, CRISPR-Cas9 mutants defective in SlG3 showed a stronger impact on carotenoid levels and derived metabolic, physiological and developmental phenotypes compared with those impaired in SlG2. Double mutants defective in both genes could not be rescued. Our work demonstrates that the bulk of GGPP production in tomato chloroplasts and chromoplasts relies on two cooperating GGPPS paralogues, unlike other plant species such as Arabidopsis thaliana, rice or pepper, which produce their essential plastidial isoprenoids using a single GGPPS isoform.
+
+GGPPS: !produces! GGPP 
+GGPPS: !converts! GGPP 
+PSY: !converts! GGPP 
+SlG1, 2 and 3: !localize to! plastids 
+SlG2 and PSY: !interact with! each other 
+SlG3: !enhances! carotenoid levels 
+SlG2 and SlG3: !cooperate! in tomato

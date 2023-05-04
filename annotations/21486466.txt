@@ -1,0 +1,12 @@
+Proteogenomics aims to utilize experimental proteome information for refinement of genome annotation. Since mass spectrometry-based shotgun proteomics approaches provide large-scale peptide sequencing data with high throughput, a data repository for shotgun proteogenomics would represent a valuable source of gene expression evidence at the translational level for genome re-annotation. Here, we present OryzaPG-DB, a rice proteome database based on shotgun proteogenomics, which incorporates the genomic features of experimental shotgun proteomics data. This version of the database was created from the results of 27 nanoLC-MS/MS runs on a hybrid ion trap-orbitrap mass spectrometer, which offers high accuracy for analyzing tryptic digests from undifferentiated cultured rice cells. Peptides were identified by searching the product ion spectra against the protein, cDNA, transcript and genome databases from Michigan State University, and were mapped to the rice genome. Approximately 3200 genes were covered by these peptides and 40 of them contained novel genomic features. Users can search, download or navigate the database per chromosome, gene, protein, cDNA or transcript and download the updated annotations in standard GFF3 format, with visualization in PNG format. In addition, the database scheme of OryzaPG was designed to be generic and can be reused to host similar proteogenomic information for other species. OryzaPG is the first proteogenomics-based database of the rice proteome, providing peptide-based expression profiles, together with the corresponding genomic origin, including the annotation of novelty for each peptide. The OryzaPG database was constructed and is freely available at http://oryzapg.iab.keio.ac.jp/.
+
+Proteogenomics: !utilizes! experimental proteome information 
+Mass spectrometry: !provides! large-scale peptide sequencing data 
+OryzaPG-DB: !incorporates! genomic features of experimental shotgun proteomics data 
+NanoLC-MS/MS: !offers! high accuracy for analyzing tryptic digests 
+Protein, cDNA, transcript and genome databases: !searched! against product ion spectra 
+Peptides: !mapped to! rice genome 
+3200 genes: !covered by! peptides 
+40 genes: !contained! novel genomic features 
+Database scheme: !designed to be! generic 
+OryzaPG: !provides! peptide-based expression profiles

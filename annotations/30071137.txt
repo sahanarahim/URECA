@@ -1,0 +1,11 @@
+Plant xylem response to drought is routinely represented by a vulnerability curve (VC). Despite the significance of VCs, the connection between anatomy and tissue-level hydraulic response to drought remains a subject of inquiry. We present a numerical model of water flow in flowering plant xylem that combines current knowledge on diffuse-porous anatomy and embolism spread to explore this connection. The model produces xylem networks and uses different parameterizations of intervessel connection vulnerability to embolism spread: the Young-Laplace equation and pit membrane stretching. Its purpose is upscaling processes occurring on the microscopic length scales, such as embolism propagation through pit membranes, to obtain tissue-scale hydraulics. The terminal branch VC of Acer glabrum was successfully reproduced relying only on real observations of xylem tissue anatomy. A sensitivity analysis shows that hydraulic performance and VC shape and location along the water tension axis are heavily dependent on anatomy. The main result is that the linkage between pit-scale and vessel-scale anatomical characters, along with xylem network topology, affects VCs significantly. This work underscores the importance of stepping up research related to the three-dimensional network structure of xylem tissues. The proposed model's versatility makes it an important tool to explore similar future questions.
+
+xylem: !represents! vulnerability curve
+anatomy: !connects to! tissue-level hydraulic response
+model: !combines! knowledge on diffuse-porous anatomy and embolism spread
+model: !produces! xylem networks
+Young-Laplace equation: !parameterizes! intervessel connection vulnerability
+Acer glabrum: !reproduced by! model
+sensitivity analysis: !shows! dependence on anatomy
+pit-scale: !linked to! vessel-scale anatomical characters
+xylem network topology: !affects! VCs

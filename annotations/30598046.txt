@@ -1,0 +1,11 @@
+Mitogen-activated protein kinase (MAPK) cascades serve as unified signaling modules in plant development and defense response. Previous reports demonstrated an essential role of <i>Arabidopsis</i> GLIP1, a member of the GDSL-like-motif lipase family, in both local and systemic resistance. <i>GLIP1</i> expression is highly induced by pathogen attack. However, the one or more signaling pathways involved are unknown. Here, we report that two pathogen-responsive MAPKs, MPK3 and MPK6, are implicated in regulating gene expression of <i>GLIP1</i> as well as <i>GLIP3</i> and <i>GLIP4</i>. After gain-of-function activation, MPK3 and MPK6 can strongly induce the expression of <i>GLIP1</i>, <i>GLIP3</i>, and <i>GLIP4</i>. Both <i>GLIP1</i> and <i>GLIP3</i> contribute to the plant resistance to <i>Botrytis cinerea</i>. WRKY33, a MPK3/MPK6 substrate, is essential for the MPK3/MPK6-dependent <i>GLIP1</i> induction. In addition, WRKY2 and WRKY34, two close homologs of WRKY33, have a minor effect in MPK3/MPK6-regulated <i>GLIP1</i> expression in <i>B. cinerea</i>-infected plants. Chromatin immunoprecipitation-quantitative polymerase chain reaction analysis demonstrated that the <i>GLIP1</i> gene is a direct target of WRKY33. In addition, we demonstrated that MPK3/MPK6-induced <i>GLIP1</i> expression is independent of ethylene and jasmonic acid, two important hormones in plant defense. Our results provide insights into the regulation of the <i>GLIP</i> family at the transcriptional level in plant immunity.
+
+MPK3: !induces! GLIP1
+MPK6: !induces! GLIP1
+WRKY33: !regulates! GLIP1
+WRKY2: !regulates! GLIP1
+WRKY34: !regulates! GLIP1
+GLIP1: !contributes to! resistance
+GLIP3: !contributes to! resistance
+MPK3/MPK6: !independent of! ethylene
+MPK3/MPK6: !independent of! jasmonic acid

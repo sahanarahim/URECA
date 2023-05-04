@@ -1,0 +1,12 @@
+The SABRE (Systematic consolidation of Arabidopsis and other Botanical REsources) database cross-searches plant genetic resources through publicly available Arabidopsis information. In SABRE, plant expressed sequence tag (EST)/cDNA clones are related to TAIR (The Arabidoposis Information Resource) gene models and their annotations through sequence similarity. By entering a keyword, SABRE searches and retrieves TAIR gene models and annotations, together with homologous gene clones from various plant species. SABRE thus facilitates using TAIR annotations of Arabidopsis genes for research on homologous genes from other model plants. To expand the application range of SABRE to crop breeding, we have recently upgraded SABRE to SABRE2 (http://sabre.epd.brc.riken.jp/SABRE2.html), by newly adding six model plants (including the major crops barley, soybean, tomato and wheat), and by improving the retrieval interface. The present version has integrated information on >1.5 million plant EST/cDNA clones from the National BioResource Project (NBRP) of Japan. All clones are actual experimental resources from 14 plant species (Arabidoposis, barley, cassava, Chinese cabbage, lotus, morning glory, poplar, Physcomitrella patens, Striga hermonthica, soybean, Thellungiella halophila, tobacco, tomato and wheat), and are available from the core facilities of the NBRP. SABRE2 is thus a useful tool that can contribute towards the improvement of important crop breeds by connecting basic research and crop breeding.
+
+Gene: !affects! Process 
+Gene: !localizes to! X 
+Gene: !interacts with! Y 
+Gene: !enhances! Z 
+Gene: !represses! U 
+Gene: !synthesizes! I 
+TAIR Gene Model: !annotates! Arabidopsis Genes 
+SABRE2: !integrates! Plant EST/cDNA Clones 
+NBRP: !provides! Plant EST/cDNA Clones 
+SABRE2: !connects! Basic Research and Crop Breeding

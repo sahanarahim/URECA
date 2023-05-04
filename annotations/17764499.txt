@@ -1,0 +1,15 @@
+Cell wall polysaccharides are synthesized from sugar-nucleotides, e.g. uridine 5'-diphosphoglucose (UDP-Glc), but the metabolic pathways that produce sugar-nucleotides in plants remain controversial. To help distinguish between potentially 'competing' pathways, we have developed a novel dual-radiolabelling strategy that generates a remarkably wide range of 3H:14C ratios among the various proposed precursors. Arabidopsis cell cultures were fed traces of D-[1-(3)H]galactose and a 14C-labelled hexose (e.g. D-[U-14C]fructose) in the presence of an approximately 10(4)-fold excess of non-radioactive carbon source. Six interconvertible 'core intermediates', galactose 1-phosphate <--> UDP-galactose <--> UDP-glucose <--> glucose 1-phosphate <--> glucose 6-phosphate <--> fructose 6-phosphate, showed a large decrease in 3H:14C ratio along this pathway from left to right. The isotope ratio of a polysaccharide-bound sugar residue indicates from which of the six core intermediates its sugar-nucleotide donor substrate stemmed. Polymer-bound galacturonate, xylose, arabinose and apiose residues (all produced via UDP-glucuronate) stemmed from UDP-glucose, not glucose 6-phosphate; therefore, UDP-glucuronate arose predominantly by the action of UDP-glucose dehydrogenase rather than through the postulated competing pathway leading from glucose 6-phosphate via myo-inositol. The data also indicate that UDP-galacturonate was not formed by a hypothetical UDP-galactose dehydrogenase. Polymer-bound mannose and fucose residues stemmed from fructose 6-phosphate, not glucose 1-phosphate; therefore GDP-mannose (guanosine 5'-diphosphomannose) arose predominantly by a pathway involving phosphomannose isomerase (via mannose phosphates) rather than through a postulated competing pathway involving GDP-glucose epimerization. Curiously, the ribose residues of RNA did not stem directly from hexose 6-phosphates, but predominantly from UDP-glucose; an alternative to the textbook pentose-phosphate pathway therefore predominates in plants.
+
+UDP-Glc: !synthesizes! sugar-nucleotides 
+galactose 1-phosphate: !interconverts with! UDP-galactose 
+UDP-galactose: !interconverts with! UDP-glucose 
+UDP-glucose: !interconverts with! glucose 1-phosphate 
+glucose 1-phosphate: !interconverts with! glucose 6-phosphate 
+glucose 6-phosphate: !interconverts with! fructose 6-phosphate 
+galacturonate: !stems from! UDP-glucose 
+xylose: !stems from! UDP-glucose 
+arabinose: !stems from! UDP-glucose 
+apiose: !stems from! UDP-glucose 
+mannose: !stems from! fructose 6-phosphate 
+fucose: !stems from! fructose 6-phosphate 
+ribose: !stems from! UDP-glucose

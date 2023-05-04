@@ -1,0 +1,5 @@
+['10458608', 'Systemic acquired resistance (SAR) is a plant immune response induced after a  local infection by necrotizing pathogens. The Arabidopsis NPR1 gene is a positive  regulator of SAR, essential for transducing the SAR signal salicylic acid (SA).  Mutations in the NPR1 gene abolish the SA-induced expression of  pathogenesis-related (PR) genes and resistance to pathogens. To identify  additional regulators of SAR, we screened for suppressors of npr1-1. In the  npr1-1 background, the sni1 (suppressor of npr1-1, inducible 1) mutant shows near  wild-type levels of PR1 expression and resistance to pathogens after induction.  Restoration of SAR in npr1-1 by the recessive sni1 mutation indicates that  wild-type SNI1 may function as a negative regulator of SAR. We cloned the SNI1  gene and found that it encodes a leucine-rich nuclear protein.', '1999 Aug 6', 'Cell', '10.1016/s0092-8674(00)81962-5', 'Dong']
+
+NPR1: !regulates! SAR 
+sni1: !suppresses! NPR1 
+SNI1: !represses! SAR

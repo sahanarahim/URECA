@@ -1,0 +1,10 @@
+The transition from vegetative to reproductive development in the temperate cereals is mainly regulated by seasonal cues including vernalization (determined mainly by VRN1 and VRN2 genes) and photoperiod (determined mainly by PPD1 and CO2 genes). The wheat VRN3 gene, which is similar to Arabidopsis FT, plays a central role in the integration of the competing signals from these two pathways. Under long days, VRN3 transcription is down-regulated by VRN2, a unique flowering repressor in cereals, and up-regulated by CO2. Overexpression of VRN3 overcomes VRN2 repression and promotes VRN1 transcription and flowering initiation. Using yeast two- and three-hybrid assays we show here that the CCT domains present in VRN2 and CO2 proteins interact with the same subset of eight NF-Y proteins, and that these CCT proteins compete with NF-YA for interactions with NF-YB proteins. We have confirmed all these interactions in vitro, and the interactions between VRN2 and two of the three NF-YB proteins were further confirmed in planta. In addition, we show that mutations in the CCT domain of VRN2 that eliminate the vernalization requirement in winter wheat also reduce the strength of the interactions between VRN2 and NF-Y proteins, and the ability of VRN2 to compete with CO2. Taken together, our results suggest that the interactions between CCT and NF-Y proteins play an important role in the integration of the vernalization and photoperiod seasonal signals, and provide a flexible combinatorial system to integrate multiple developmental and environmental signals in the regulation of flowering initiation in the temperate cereals.
+
+VRN1: !determined by! VRN2
+VRN2: !down-regulates! VRN3
+CO2: !up-regulates! VRN3
+VRN2: !interacts with! NF-Y proteins
+CO2: !interacts with! NF-Y proteins
+VRN2: !competes with! CO2
+VRN2: !interacts with! NF-YA
+VRN2: !interacts with! NF-YB

@@ -1,0 +1,9 @@
+The correct folding and assembly of newly synthesized secretory proteins are monitored by the protein quality control system of the endoplasmic reticulum (ER). Through interactions with chaperones such as the binding protein (BiP) and other folding helpers, quality control favors productive folding and sorts for degradation defective proteins. A major route for quality control degradation identified in yeast, plants, and animals is constituted by retrotranslocation from the ER to the cytosol and subsequent disposal by the ubiquitin/proteasome system, but alternative routes involving the vacuole have been identified in yeast. In this study, we have studied the destiny of sGFP418, a fusion between a secretory form of GFP and a domain of the vacuolar protein phaseolin that is involved in the correct assembly of phaseolin and in BiP recognition of unassembled subunits. We show that sGFP418, despite lacking the phaseolin vacuolar sorting signal, is delivered to the vacuole and fragmented, in a process that is inhibited by the secretory traffic inhibitor brefeldin A. Moreover, a fusion between GFP and a domain of the maize storage protein gamma-zein involved in zein polymerization also undergoes post-translational fragmentation similar to that of sGFP418. These results show that defective secretory proteins with permanently exposed sequences normally involved in oligomerization can be delivered to the vacuole by secretory traffic. This strongly suggests the existence of a plant vacuolar sorting mechanism devoted to the disposal of defective secretory proteins.
+
+BiP: !interacts with! folding helpers 
+sGFP418: !delivered to! vacuole 
+sGFP418: !fragmented by! vacuole 
+brefeldin A: !inhibits! sGFP418 fragmentation 
+GFP-gamma-zein fusion: !undergoes! post-translational fragmentation 
+secretory proteins: !delivered to! vacuole 
+vacuole: !devoted to! disposal of defective secretory proteins

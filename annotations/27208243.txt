@@ -1,0 +1,7 @@
+Cofactors such as NAD, AMP, and Coenzyme A (CoA) are essential for a diverse set of reactions and pathways in the cell. Specific carrier proteins are required to distribute these cofactors to different cell compartments, including peroxisomes. We previously identified a peroxisomal transport protein in Arabidopsis (Arabidopsis thaliana) called the peroxisomal NAD carrier (PXN). When assayed in vitro, this carrier exhibits versatile transport functions, e.g. catalyzing the import of NAD or CoA, the exchange of NAD/NADH, and the export of CoA. These observations raise the question about the physiological function of PXN in plants. Here, we used Saccharomyces cerevisiae to address this question. First, we confirmed that PXN, when expressed in yeast, is active and targeted to yeast peroxisomes. Secondl, detailed uptake analyses revealed that the CoA transport function of PXN can be excluded under physiological conditions due to its low affinity for this substrate. Third, we expressed PXN in diverse mutant yeast strains and investigated the suppression of the mutant phenotypes. These studies provided strong evidences that PXN was not able to function as a CoA transporter or a redox shuttle by mediating a NAD/NADH exchange, but instead catalyzed the import of NAD into peroxisomes against AMP in intact yeast cells.
+
+Cofactors: !require! Carrier Proteins
+PXN: !localizes to! Peroxisomes
+PXN: !transports! NAD
+PXN: !exchanges! NAD/NADH
+PXN: !imports! NAD against AMP

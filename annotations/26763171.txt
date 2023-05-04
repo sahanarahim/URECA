@@ -1,0 +1,8 @@
+Mitochondria play a central role in plant metabolism as they are a major source of ATP through synthesis by the oxidative phosphorylation pathway and harbour key metabolic reactions such as the TCA cycle. The energy and building blocks produced by mitochondria are essential to drive plant growth and development as well as to provide fuel for responses to abiotic and biotic stresses. The majority of mitochondrial proteins are encoded in the nuclear genome and have to be imported into the organelle. For the regulation of the corresponding genes intricate signalling pathways exist to adjust their expression. Signals directly regulate nuclear gene expression (anterograde signalling) to adjust the protein composition of the mitochondria to the needs of the cell. In parallel, mitochondria communicate back their functional status to the nucleus (retrograde signalling) to prompt transcriptional regulation of responsive genes via largely unknown signalling mechanisms. Plant hormones are the major signalling components regulating all layers of plant development and cellular functions. Increasing evidence is now becoming available that plant hormones are also part of signalling networks controlling mitochondrial function and their biogenesis. This review summarizes recent advances in understanding the interaction of mitochondrial and hormonal signalling pathways.
+
+Gene: !affects! Process
+Process: !regulates! Gene
+Gene: !localizes to! Mitochondria
+Mitochondria: !communicates with! Nucleus
+Nucleus: !regulates! Gene
+Hormone: !regulates! Mitochondrial Function

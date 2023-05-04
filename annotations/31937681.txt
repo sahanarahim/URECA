@@ -1,0 +1,9 @@
+Plant iron deficiency (-Fe) activates a complex regulatory network that coordinates root Fe uptake and distribution to sink tissues. In Arabidopsis (<i>Arabidopsis thaliana</i>), FER-LIKE FE DEFICIENCY-INDUCED TRANSCRIPTION FACTOR (FIT), a basic helix-loop-helix (bHLH) transcription factor (TF), regulates root Fe acquisition genes. Many other -Fe-induced genes are FIT independent, and instead regulated by other bHLH TFs and by yet unknown TFs. The cis-regulatory code, that is, the cis-regulatory elements (CREs) and their combinations that regulate plant -Fe-responses, remains largely elusive. Using Arabidopsis root transcriptome data and coexpression clustering, we identified over 100 putative CREs (pCREs) that predicted -Fe-induced gene expression in computational models. To assess pCRE properties and possible functions, we used large-scale in vitro TF binding data, positional bias, and evolutionary conservation. As one example, our approach uncovered pCREs resembling IDE1 (iron deficiency-responsive element 1), a known grass -Fe response CRE. Arabidopsis IDE1-likes were associated with FIT-dependent gene expression, more specifically with biosynthesis of Fe-chelating compounds. Thus, IDE1 seems to be conserved in grass and nongrass species. Our pCREs matched among others in vitro binding sites of B3, NAC, bZIP, and TCP TFs, which might be regulators of -Fe responses. Altogether, our findings provide a comprehensive source of cis-regulatory information for -Fe-responsive genes that advance our mechanistic understanding and inform future efforts in engineering plants with more efficient Fe uptake or transport systems.
+
+FER-LIKE FE DEFICIENCY-INDUCED TRANSCRIPTION FACTOR (FIT): !regulates! root Fe acquisition genes
+NAC: !binds! pCREs
+B3: !binds! pCREs
+bZIP: !binds! pCREs
+TCP: !binds! pCREs
+IDE1: !associated with! FIT-dependent gene expression
+IDE1: !conserved in! grass and nongrass species

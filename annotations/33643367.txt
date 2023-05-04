@@ -1,0 +1,11 @@
+The chromatin modification H3K27me3 is involved in almost every developmental stage in Arabidopsis. Much remains unknown about the dynamic regulation of this histone modification in flower development and control of self-fertility. Here we demonstrate that the H3K27me3-specific demethylases ELF6 and JMJ13 antagonistically regulate carpel and stamen growth and thus modulate self-fertility. Transcriptome and epigenome data are used to identify potential targets of ELF6 and JMJ13 responsible for these physiological functions. We find that ELF6 relieves expansin genes of epigenetic silencing to promote cell elongation in the carpel, enhancing carpel growth and therefore encouraging out-crossing. On the other hand, JMJ13 activates genes of the jasmonic acid regulatory network alongside the auxin responsive SAUR26, to inhibit carpel growth, enhance stamen growth, and overall promote self-pollination. Our evidence provides novel mechanisms of self-fertility regulation in <i>A. thaliana</i> demonstrating how chromatin modifying enzymes govern the equilibrium between flower self-pollination and out-crossing.
+
+H3K27me3: !regulated by! ELF6
+ELF6: !relieves silencing of! expansin genes
+expansin genes: !promote! cell elongation
+JMJ13: !activates! jasmonic acid regulatory network
+jasmonic acid regulatory network: !inhibits! carpel growth
+SAUR26: !activated by! JMJ13
+JMJ13: !enhances! stamen growth
+ELF6: !encourages! out-crossing
+JMJ13: !promotes! self-pollination

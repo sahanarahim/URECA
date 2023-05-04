@@ -1,0 +1,10 @@
+Maintenance of cytosine methylation in plants is controlled by three DNA methyltransferases. MET1 maintains CG methylation, and DRM1/2 and CMT3 act redundantly to enforce non-CG methylation. RPS, a repetitive hypermethylated DNA fragment from Petunia hybrida, attracts DNA methylation when transferred into Petunia or other species. In Arabidopsis thaliana, which does not contain any RPS homologues, RPS transgenes are efficiently methylated in all sequence contexts. To test which DNA methylation pathways regulate RPS methylation, we examined maintenance of RPS methylation in various mutant backgrounds. Surprisingly, CG methylation was lost in a drm1/2/cmt3 mutant, and non-CG methylation was almost completely eliminated in a met1 mutant. An unusual cooperative activity of all three DNA methyltransferases is therefore required for maintenance of both CG and non-CG methylation in RPS. Other unusual features of RPS methylation are the independence of its non-CG methylation from the RNA-directed DNA methylation (RdDM) pathway and the exceptional maintenance of methylation at a CC(m)TGG site in some epigenetic mutants. This is indicative of activity of a methylation system in plants that may have evolved from the DCM methylation system that controls CC(m)WGG methylation in bacteria. Our data suggest that strict separation of CG and non-CG methylation pathways does not apply to all target regions, and that caution is required in generalizing methylation data obtained for individual genomic regions.
+
+MET1: !maintains! CG methylation
+DRM1/2 & CMT3: !enforce! non-CG methylation
+RPS: !attracts! DNA methylation
+drm1/2/cmt3 mutant: !loses! CG methylation
+met1 mutant: !eliminates! non-CG methylation
+all three DNA methyltransferases: !require! cooperative activity
+RPS methylation: !independent of! RdDM pathway
+CC(m)TGG site: !maintained in! epigenetic mutants

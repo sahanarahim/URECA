@@ -1,0 +1,9 @@
+The pepper (<i>Capsicum annuum</i>) resistance gene <i>bacterial spot3</i> (<i>Bs3</i>) is transcriptionally activated by the matching <i>Xanthomonas euvesicatoria</i> transcription-activator-like effector (TALE) AvrBs3. AvrBs3-induced <i>Bs3</i> expression triggers a rapid and local cell death reaction, the hypersensitive response (HR). Bs3 is most closely related to plant flavin monooxygenases of the YUCCA (YUC) family, which catalyze the final step in auxin biosynthesis. Targeted mutagenesis of predicted NADPH- and FAD-cofactor sites resulted in Bs3 derivatives that no longer trigger HR, thereby suggesting that the enzymatic activity of Bs3 is crucial to Bs3-triggered HR. Domain swap experiments between pepper <i>Bs3</i> and Arabidopsis (<i>Arabidopsis thaliana</i>) <i>YUC8</i> uncovered functionally exchangeable and functionally distinct regions in both proteins, which is in agreement with a model whereby <i>Bs3</i> evolved from an ancestral <i>YUC</i> gene. Mass spectrometric measurements revealed that expression of <i>YUC</i>s, but not expression of <i>Bs3</i>, coincides with an increase in auxin levels, suggesting that Bs3 and YUCs, despite their sequence similarity, catalyze distinct enzymatic reactions. Finally, we found that expression of <i>Bs3</i> coincides with increased levels of the salicylic acid and pipecolic acid, two compounds that are involved in systemic acquired resistance.
+
+AvrBs3: !activates! Bs3
+Bs3: !triggers! HR
+Bs3: !related to! YUCCA
+Bs3: !requires! enzymatic activity
+YUC8: !exchangeable with! Bs3
+YUCs: !increases! auxin levels
+Bs3: !increases! salicylic acid and pipecolic acid

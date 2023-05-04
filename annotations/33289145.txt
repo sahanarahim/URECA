@@ -1,0 +1,9 @@
+Pathogens secrete effector proteins into host cells to suppress host immunity and promote pathogen virulence, although many features at the molecular interface of host-pathogen interactions remain to be characterized. In a yeast two-hybrid assay, we found that the Pseudomonas syringae effector HopZ1a interacts with the Arabidopsis transcriptional regulator Abscisic Acid Repressor 1 (ABR1). Further analysis revealed that ABR1 interacts with multiple P. syringae effectors, suggesting that it may be targeted as a susceptibility hub. Indeed, loss-of-function abr1 mutants exhibit reduced susceptibility to a number of P. syringae strains. The ABR1 protein comprises a conserved APETALA2 (AP2) domain flanked by long regions of predicted structural disorder. We verified the DNA-binding activity of the AP2 domain and demonstrated that the disordered domains act redundantly to enhance DNA binding and to facilitate transcriptional activation by ABR1. Finally, we compared gene expression profiles from wild-type and abr1 plants following inoculation with P. syringae, which suggested that the reduced susceptibility of abr1 mutants is due to the loss of a virulence target rather than an enhanced immune response. These data highlight ABR1 as a functionally important component at the host-pathogen interface.
+
+HopZ1a: !interacts with! ABR1
+ABR1: !interacts with! multiple P. syringae effectors
+ABR1: !comprises! AP2 domain
+AP2 domain: !binds! DNA
+disordered domains: !enhance! DNA binding
+disordered domains: !facilitate! transcriptional activation
+abr1 mutants: !exhibit reduced susceptibility! to P. syringae strains

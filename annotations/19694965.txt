@@ -1,0 +1,11 @@
+* We used an inadvertent whole-ecosystem 14C label at a temperate forest in Oak Ridge, Tennessee, USA to develop a model (Radix1.0) of fine-root dynamics. Radix simulates two live-root pools, two dead-root pools, non-normally distributed root mortality turnover times, a stored carbon (C) pool, and seasonal growth and respiration patterns. * We applied Radix to analyze measurements from two root size classes (< 0.5 and 0.5-2.0 mm diameter) and three soil-depth increments (O horizon, 0-15 cm and 30-60 cm). * Predicted live-root turnover times were < 1 yr and approximately 10 yr for short- and long-lived pools, respectively. Dead-root pools had decomposition turnover times of approximately 2 yr and approximately 10 yr. Realistic characterization of C flows through fine roots requires a model with two live fine-root populations, two dead fine-root pools, and root respiration. These are the first fine-root turnover time estimates that take into account respiration, storage, seasonal growth patterns, and non-normal turnover time distributions. * The presence of a root population with decadal turnover times implies a lower amount of belowground net primary production used to grow fine-root tissue than is currently predicted by models with a single annual turnover pool.
+
+root: !has! two live pools 
+root: !has! two dead pools 
+root: !has! non-normal turnover times 
+root: !stores! carbon 
+root: !has! seasonal growth and respiration patterns 
+root: !has! short-lived pool with < 1 yr turnover time 
+root: !has! long-lived pool with 10 yr turnover time 
+root: !has! decomposition turnover time of 2 yr 
+root: !uses! lower amount of belowground net primary production than predicted by models with single annual turnover pool

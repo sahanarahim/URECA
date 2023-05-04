@@ -1,0 +1,8 @@
+Genes of the flavonol pathway are activated by UV-B, but suppressed by concomitant flg22 application in Arabidopsis. Analysis at the metabolite level suggested that this regulation allows the plant to focus its secondary metabolism on the plant defence towards pathogen attack. We now demonstrate by chromatin immunoprecipitation followed by quantitative PCR, that this antagonistic gene regulation is mediated at the chromatin level by differential regulation of histone 3 lysine 9 acetylation (H3K9ac), which is a hallmark for gene activation. Since H3K9ac levels were altered at least at four independent gene loci, namely, chalcone synthase, chalcone-flavone isomerase, flavanone 3-hydroxylase and the positive regulator MYB12, which correlates with the observed gene activation/suppression reported previously, it appears that this process is mediated by chromatin remodelling. Since suppression of H3K9ac prevents gene expression, we conclude H3K9ac is rather cause than consequence of gene activation. This finding allows us also to extend our working model, involving the two opposing MYB transcription factors of the flavonol pathway, MYB12 (being UV-B-activated and flg22-suppressed) and MYB4 (a negative regulator, which is activated by both flg22 and UV-B stress).
+
+Gene: !activates! H3K9ac 
+H3K9ac: !causes! Gene activation 
+UV-B: !activates! Genes of flavonol pathway 
+flg22: !suppresses! Genes of flavonol pathway 
+MYB12: !activated by! UV-B, !suppressed by! flg22 
+MYB4: !activated by! UV-B, !activated by! flg22

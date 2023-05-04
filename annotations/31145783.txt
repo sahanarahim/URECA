@@ -1,0 +1,8 @@
+MicroRNAs are a class of non-coding small RNAs involved in the negative regulation of gene expression, which play critical roles in developmental and metabolic pathways. Studies in several plants have identified a few microRNAs and other small RNAs that target regulators of the phenylpropanoid metabolic pathway called the MYB transcription factors. However, it is not well understood how sRNA-mediated regulation of MYBs influences the accumulation of specific secondary metabolites. Using sRNA sequencing, degradome analysis, mRNA sequencing, and proteomic analysis, we establish that grape lines with high anthocyanin content express two MYB-targeting microRNAs abundantly, resulting in the differential expression of specific MYB proteins. miR828 and miR858 target coding sequences of specific helix motifs in the mRNA sequences of MYB proteins. Targeting by miR828 caused MYB RNA decay and the production of a cascade of secondary siRNAs that depend on RNA-dependent RNA polymerase 6. MYB suppression and cascade silencing was more robust in grape lines with high anthocyanin content than in a flavonol-rich grape line. We establish that microRNA-mediated silencing targeted the repressor class of MYBs to promote anthocyanin biosynthesis in grape lines with high anthocyanins. We propose that this process regulates the expression of appropriate MYBs in grape lines to produce specific secondary metabolites.
+
+miR828: !targets! MYB mRNA
+miR858: !targets! MYB mRNA
+miR828: !causes! MYB RNA decay
+RNA-dependent RNA polymerase 6: !produces! cascade of secondary siRNAs
+MYB suppression: !promotes! anthocyanin biosynthesis
+microRNA-mediated silencing: !targets! repressor class of MYBs

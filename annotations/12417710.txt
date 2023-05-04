@@ -1,0 +1,9 @@
+['12417710', 'Pollen tube growth is dependent on a dynamic actin cytoskeleton, suggesting that  actin-regulating proteins are involved. We have examined the regulation of the  lily pollen-specific actin-depolymerizing factor (ADF) LlADF1. Its actin binding  and depolymerizing activity is pH sensitive, inhibited by certain  phosphoinositides, but not controlled by phosphorylation. Compared with its  F-actin binding properties, its low activity in depolymerization assays has been  used to explain why pollen ADF decorates F-actin in pollen grains. This low  activity is incompatible with a role in increasing actin dynamics necessary to  promote pollen tube growth. We have identified a plant homolog of  actin-interacting protein, AIP1, which enhances the depolymerization of F-actin  in the presence of LlADF1 by approximately 60%. Both pollen ADF and pollen AIP1  bind F-actin in pollen grains but are mainly cytoplasmic in pollen tubes. Our  results suggest that together these proteins remodel actin filaments as pollen  grains enter and exit dormancy.', '2002 Nov', 'Plant Cell', '10.1105/tpc.005363', 'Hussey']
+
+LlADF1: !binds! F-actin 
+LlADF1: !inhibited by! phosphoinositides 
+AIP1: !enhances! depolymerization of F-actin 
+AIP1: !interacts with! LlADF1 
+LlADF1/AIP1: !localizes to! pollen grains 
+LlADF1/AIP1: !cytoplasmic in! pollen tubes 
+LlADF1/AIP1: !remodel! actin filaments

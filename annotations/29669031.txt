@@ -1,0 +1,11 @@
+This study examines the association of auxin with ethylene and nitric oxide (NO) in regulating the magnesium (Mg) deficiency-induced root hair development in Arabidopsis thaliana. With Mg deficiency, both ethylene and NO promoted the elevation of root auxin levels in roots by inducing the expression of AUXIN-RESISTANT1 (AUX1), PIN-FORMED 1 (PIN1) and PIN2 transporters. In turn, auxin stimulated ethylene and NO production by activating the activities of 1-aminocyclopropane-1-carboxylate (ACC) oxidase (ACO), ACC synthase (ACS), nitrate reductase (NR) and NO synthase-like (NOS-L). These processes constituted an NO/ethylene-auxin feedback loop. Interestingly, however, the roles of ethylene and NO in regulating Mg deficiency-induced root hair development required the action of auxin, but not vice versa. In summary, these results suggest that Mg deficiency induces a positive interaction between the accumulation of auxin and ethylene/NO in roots, with auxin acting downstream of ethylene and NO signals to regulate Mg deficiency-induced root hair morphogenesis.
+
+AUX1: !induces expression of! PIN1
+PIN1: !induces expression of! PIN2
+ACO: !activated by! auxin
+ACS: !activated by! auxin
+NR: !activated by! auxin
+NOS-L: !activated by! auxin
+ethylene: !promotes! auxin levels
+NO: !promotes! auxin levels
+auxin: !stimulates! ethylene and NO production

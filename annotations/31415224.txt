@@ -1,0 +1,8 @@
+<i>Phytophthora sojae</i> is a significant pathogen of soybean worldwide. Pathotype surveys for <i>Phytophthora sojae</i> are conducted to monitor resistance gene efficacy and determine if new resistance genes are needed. Valuable measurements for pathotype analysis include the distribution of susceptible reactions, pathotype complexity, pathotype frequency, and diversity indices for pathotype distributions. Previously the Habgood-Gilmour Spreadsheet (HaGiS), written in Microsoft Excel, was used for data analysis. However, the growing popularity of the R programming language in plant pathology and desire for reproducible research made HaGiS a prime candidate for conversion into an R package. Here we report on the development and use of an R package, hagis, that can be used to produce all outputs from the HaGiS Excel sheet for <i>P. sojae</i> or other gene-for-gene pathosystem studies.
+
+Gene: !affects! Pathotype Analysis
+Gene: !localizes to! Microsoft Excel
+Gene: !interacts with! R Programming Language
+Gene: !enhances! Reproducible Research
+Gene: !represses! Phytophthora sojae
+Gene: !synthesizes! HaGiS R Package

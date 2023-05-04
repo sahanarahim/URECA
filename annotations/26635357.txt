@@ -1,0 +1,11 @@
+['26635357', 'Ceramide makes up the acyl-backbone of sphingolipids and plays a central role in  determining the function of these essential membrane lipids. In Arabidopsis, the  varied chemical composition of ceramide is determined by the specificity of three  different isoforms of ceramide synthase, denoted LAG one homologue 1, -2 and -3  (LOH1, LOH2 and LOH3), for a range of long-chain base (LCB) and acyl-CoA  substrates. The contribution of each of these isoforms to the synthesis of  ceramide was investigated by in vitro ceramide synthase assays. The plant LCB  phytosphingosine was efficiently used by the LOH1 and LOH3 isoforms, with LOH1  having the lowest Km for the LCB substrate of the three isoforms. In contrast,  sphinganine was used efficiently only by the LOH2 isoform. Acyl-CoA specificity  was also distinguished between the three isoforms with LOH2 almost completely  specific for palmitoyl-CoA whereas the LOH1 isoform showed greatest activity with  lignoceroyl- and hexacosanoyl-CoAs. Interestingly, unsaturated acyl-CoAs were not  used efficiently by any isoform whereas unsaturated LCB substrates were preferred  by LOH2 and 3. Fumonisin B1 (FB1) is a general inhibitor of ceramide synthases  but LOH1 was found to have a much lower Ki than the other isoforms pointing  towards the origin of FB1 sensitivity in plants. Overall, the data suggest  distinct roles and modes of regulation for each of the ceramide synthases in  Arabidopsis sphingolipid metabolism.', '2016 Mar 1', 'Biochem J', '10.1042/BJ20150824', 'Markham']
+
+LOH1: !uses! phytosphingosine 
+LOH2: !uses! sphinganine 
+LOH3: !uses! phytosphingosine 
+LOH1: !uses! lignoceroyl-CoA 
+LOH2: !uses! palmitoyl-CoA 
+LOH3: !uses! hexacosanoyl-CoA 
+LOH2: !uses! unsaturated LCB substrates 
+LOH3: !uses! unsaturated LCB substrates 
+LOH1: !has lower Ki than other isoforms for! FB1

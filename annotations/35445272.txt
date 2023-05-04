@@ -1,0 +1,9 @@
+SQUINT (SQN) regulates plant maturation by promoting the activity of miR156, which functions primarily in the miR156-SQUAMOSA PROMOTER BINDING PROTEIN-LIKE9 (SPL9) module regulating plant growth and development. Here, we show that SQN acts in the jasmonate (JA) pathway, a major signaling pathway regulating plant responses to insect herbivory and pathogen infection. Arabidopsis thaliana sqn mutants showed elevated sensitivity to the necrotrophic fungus Botrytis cinerea compared with wild type. However, SQN is not involved in the early pattern-triggered immunity response often triggered by fungal attack. Rather, SQN positively regulates the JA pathway, as sqn loss-of-function mutants treated with B. cinerea showed reduced JA accumulation, JA response and sensitivity to JA. Furthermore, the miR156-SPL9 module regulates plant resistance to B. cinerea: mir156 mutant, and SPL9 overexpression plants displayed elevated sensitivity to B. cinerea. Moreover, constitutively expressing miR156a or reducing SPL9 expression in the sqn-1 mutant restored the sensitivity of Arabidopsis to B. cinerea and JA responses. These results suggest that SQN positively modulates plant resistance to B. cinerea through the JA pathway, and the miR156-SPL9 module functions as a bridge between SQN and JA to mediate plant resistance to this pathogen.
+
+SQN: !regulates! miR156 
+miR156: !regulates! SPL9 
+SQN: !regulates! JA pathway 
+JA pathway: !regulates! plant responses to pathogens 
+SQN: !positively regulates! JA pathway 
+miR156-SPL9 module: !regulates! plant resistance to B. cinerea 
+miR156: !bridges! SQN and JA

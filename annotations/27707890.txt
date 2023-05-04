@@ -1,0 +1,10 @@
+['27707890', 'A wide diversity of isoprenoids is produced in different plant compartments. Most  groups of isoprenoids synthesized in plastids, and some produced elsewhere in the  plant cell derive from geranylgeranyl diphosphate (GGPP) synthesized by GGPP  synthase (GGPPS) enzymes. In Arabidopsis (Arabidopsis thaliana), five genes  appear to encode GGPPS isoforms localized in plastids (two), the endoplasmic  reticulum (two), and mitochondria (one). However, the loss of function of the  plastid-targeted GGPPS11 isoform (referred to as G11) is sufficient to cause  lethality. Here, we show that the absence of a strong transcription initiation  site in the G11 gene results in the production of transcripts of different  lengths. The longer transcripts encode an isoform with a functional plastid  import sequence that produces GGPP for the major groups of photosynthesis-related  plastidial isoprenoids. However, shorter transcripts are also produced that lack  the first translation initiation codon and rely on a second in-frame ATG codon to  produce an enzymatically active isoform lacking this N-terminal domain. This  short enzyme localizes in the cytosol and is essential for embryo development.  Our results confirm that the production of differentially targeted enzyme  isoforms from the same gene is a central mechanism to control the biosynthesis of  isoprenoid precursors in different plant cell compartments.', '2016 Nov', 'Plant Physiol', '10.1104/pp.16.01392', 'ORCID:']
+
+GGPPS: !synthesizes! GGPP
+G11 gene: !produces! transcripts 
+transcripts: !encode! isoforms 
+isoforms: !localize to! plastids/endoplasmic reticulum/mitochondria 
+longer transcripts: !contain! functional plastid import sequence 
+shorter transcripts: !lack! first translation initiation codon 
+short enzyme: !localizes to! cytosol 
+short enzyme: !essential for! embryo development

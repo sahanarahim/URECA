@@ -1,0 +1,5 @@
+Basic helix-loop-helix (bHLH) genes are important regulators of development in plants. SbbHLH1, a Sorghum bicolor bHLH sequence, was isolated from a suppression subtractive hybridization library constructed using 13 independent brown midrib (bmr) mutants as the tester and wild-type sorghum as the driver. The gene was upregulated in at least five of the mutants at the five- to seven-leaf stage. Using a yeast expression system, the N-terminal portion of SbbHLH1 was shown to be required for proper transactivation. Its heterologous expression in Arabidopsis thaliana markedly reduced the plant's lignin content. It downregulated the lignin synthesis genes 4CL1, HCT, COMT, PAL1, and CCR1, and upregulated the transcription factors MYB83, MYB46, and MYB63. The hypothesis is proposed that SbbHLH1 has stronger effect on the regulation of lignin synthesis than the various MYB transcription factors, with a possible feedback mechanism acting on the MYB transcriptional regulators.
+
+SbbHLH1: !upregulates! MYB83, MYB46, MYB63
+SbbHLH1: !downregulates! 4CL1, HCT, COMT, PAL1, CCR1
+MYB83, MYB46, MYB63: !feedback to! SbbHLH1

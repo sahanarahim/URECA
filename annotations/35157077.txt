@@ -1,0 +1,11 @@
+Opaque2 (O2) functions as a central regulator of the synthesis of starch and storage proteins and the O2 gene is transcriptionally regulated by a hub coordinator of seed development and grain filling, ABSCISIC ACID INSENSITIVE 19 (ZmABI19), in maize (Zea mays). Here, we identified a second hub coordinator, basic Leucine Zipper 29 (ZmbZIP29) that interacts with ZmABI19 to regulate O2 expression. Like zmabi19, zmbzip29 mutations resulted in a dramatic decrease of transcript and protein levels of O2 and thus a significant reduction of starch and storage proteins. zmbzip29 seeds developed slower and had a smaller size at maturity than those of the wild type. The zmbzip29;zmabi19 double mutant displayed more severe seed phenotypes and a greater reduction of storage reserves compared to the single mutants, whereas overexpression of the two transcription factors enhanced O2 expression, storage-reserve accumulation, and kernel weight. ZmbZIP29, ZmABI19, and O2 expression was induced by abscisic acid (ABA). With ABA treatment, ZmbZIP29 and ZmABI19 synergistically transactivated the O2 promoter. Through liquid chromatography tandem-mass spectrometry analysis, we established that the residues threonine(T) 57 in ZmABI19, T75 in ZmbZIP29, and T387 in O2 were phosphorylated, and that SnRK2.2 was responsible for the phosphorylation. The ABA-induced phosphorylation at these sites was essential for maximum transactivation of downstream target genes for endosperm filling in maize.
+
+ZmABI19: !regulates! O2 
+ZmbZIP29: !interacts with! ZmABI19 
+ZmbZIP29: !regulates! O2 
+ZmbZIP29;zmabi19: !results in! reduction of storage reserves 
+Overexpression of ZmABI19, ZmbZIP29: !enhances! O2 expression 
+ABA: !induces! ZmbZIP29, ZmABI19, O2 expression 
+ABA: !synergistically transactivates! O2 promoter 
+SnRK2.2: !phosphorylates! T57, T75, T387 
+Phosphorylation at sites: !essential for! maximum transactivation of downstream target genes

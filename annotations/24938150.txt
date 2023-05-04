@@ -1,0 +1,7 @@
+Seed germination and young seedling establishment should be tightly regulated to maximize plant survival and thereby enable successful propagation. Plants have evolved developmental signalling networks to integrate environmental cues for proper control of these critical processes, in which brassinosteroids are known to attenuate ABA-mediated arrest of early seedling development; however, the underlying regulatory mechanism remains elusive. Here we reveal that a BES1/TPL/HDA19 repressor complex mediates the inhibitory action of brassinosteroids on ABA responses during early seedling development. BR-activated BES1 forms a transcriptional repressor complex with TPL-HDA19, which directly facilitates the histone deacetylation of ABI3 chromatin. This event leads to the transcriptional repression of ABI3 and consequently ABI5, major ABA signalling regulators in early seedling development. Our data reveal that the BR-activated BES1-TPL-HDA19 repressor complex controls epigenetic silencing of ABI3 and thereby suppresses the ABA signalling output during early seedling development.
+
+BES1: !activates! TPL-HDA19
+TPL-HDA19: !facilitates! histone deacetylation
+histone deacetylation: !represses! ABI3
+ABI3: !transcriptionally represses! ABI5
+BR: !activates! BES1

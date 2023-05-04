@@ -1,0 +1,8 @@
+Seven new genes controlled by the quorum-sensing signal molecule N-(3-oxohexanoyl)-L-homoserine lactone (OHHL) have been identified in Erwinia carotovora subsp. carotovora. Using TnphoA as a mutagen, we enriched for mutants defective in proteins that could play a role in the interaction between E. carotovora subsp. carotovora and its plant hosts, and identified NipEcc and its counterpart in E. carotovora subsp. atroseptica. These are members of a growing family of proteins related to Nep1 from Fusarium oxysporum which can induce necrotic responses in a variety of dicotyledonous plants. NipEcc produced necrosis in tobacco, NipEca affected potato stem rot, and both affected virulence in potato tubers. In E. carotovora subsp. carotovora, nip was shown to be subject to weak repression by the LuxR family regulator, EccR, and may be regulated by the negative global regulator RsmA.
+
+NipEcc: !induces! necrosis in tobacco 
+NipEca: !induces! stem rot in potato 
+NipEcc/NipEca: !affects! virulence in potato tubers 
+OHHL: !controls! NipEcc/NipEca 
+EccR: !represses! NipEcc 
+RsmA: !regulates! NipEcc

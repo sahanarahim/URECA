@@ -1,0 +1,8 @@
+Breeders and evolutionary geneticists have grappled with the complexity of the 'genotype-to-phenotype map' for decades. Now, recent studies highlight the relevance of this concept for understanding heritability of plant microbiomes. Because host phenotype is a more proximate cause of microbiome variation than host genotype, microbiome heritability varies across plant anatomy and development. Fine-scale variation of plant traits within organs suggests that the well-established concept of 'microbiome compartment' should be refined. Additionally, recent work shows that the balance of deterministic processes (including host genetic effects) vs stochastic processes also varies over time and space. Together, these findings suggest that re-centering plant phenotype - both as a predictor and a readout of microbiome function - will accelerate new insights into microbiome heritability.
+
+host genotype: !affects! host phenotype 
+host phenotype: !influences! microbiome variation 
+plant anatomy: !determines! microbiome heritability 
+microbiome compartment: !refined by! fine-scale variation of plant traits 
+deterministic processes: !balanced with! stochastic processes 
+host phenotype: !predicts! microbiome function

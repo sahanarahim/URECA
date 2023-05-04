@@ -1,0 +1,10 @@
+We describe a simple and efficient homology-based excision method to delete plastid genes. The procedure allows one or more adjacent plastid genes to be deleted without the retention of a marker gene. We used aadA-based transformation to duplicate a 649 bp region of plastid DNA corresponding to the atpB promoter region. Efficient recombination between atpB repeats deletes the intervening foreign genes and 1,984 bp of plastid DNA (co-ordinates 57,424-59,317) containing the rbcL gene. Only five foreign bases are present in DeltarbcL plants illustrating the precision of homology-based excision. Sequence analysis of non-functional rbcL-related sequences in DeltarbcL plants indicated an extra-plastidic origin. Mutant DeltarbcL plants were heterotrophic, pale-green and contained round plastids with reduced amounts of thylakoids. Restoration of autotrophy and leaf pigmentation following aadA-based transformation with the wild-type rbcL gene ruled out mutations in other genes. Excision and re-use of aadA shows that, despite the multiplicity of plastid genomes, homology-based excision ensures complete removal of functional aadA genes. Rescue of the DeltarbcL mutation and autotrophic growth stabilizes transgenic plastids in heteroplasmic transformants following antibiotic withdrawal, enhancing the overall efficiency of plastid transformation. Unlike the available set of homoplasmic knockout mutants in 25 plastid genes, the rbcL deletion mutant isolated here is readily transformed with the efficient aadA marker gene. This improvement in deletion design facilitates advanced studies that require the isolation of double mutants in distant plastid genes and the replacement of the deleted locus with site-directed mutant alleles and is not easily achieved using other methods.
+
+gene: !deletes! plastid genes 
+gene: !duplicates! 649 bp region 
+gene: !recombines! atpB repeats 
+gene: !causes! heterotrophy 
+gene: !reduces! thylakoids 
+gene: !rescues! DeltarbcL mutation 
+gene: !stabilizes! transgenic plastids 
+gene: !enhances! overall efficiency

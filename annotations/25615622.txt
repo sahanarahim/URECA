@@ -1,0 +1,10 @@
+The chromatin remodeler BRAHMA (BRM) is a Trithorax Group (TrxG) protein that antagonizes the functions of Polycomb Group (PcG) proteins in fly and mammals. Recent studies also implicate such a role for Arabidopsis (Arabidopsis thaliana) BRM but the molecular mechanisms underlying the antagonism are unclear. To understand the interplay between BRM and PcG during plant development, we performed a genome-wide analysis of trimethylated histone H3 lysine 27 (H3K27me3) in brm mutant seedlings by chromatin immunoprecipitation followed by next generation sequencing (ChIP-seq). Increased H3K27me3 deposition at several hundred genes was observed in brm mutants and this increase was partially supressed by removal of the H3K27 methyltransferase CURLY LEAF (CLF) or SWINGER (SWN). ChIP experiments demonstrated that BRM directly binds to a subset of the genes and prevents the inappropriate association and/or activity of PcG proteins at these loci. Together, these results indicate a crucial role of BRM in restricting the inappropriate activity of PcG during plant development. The key flowering repressor gene SHORT VEGETATIVE PHASE (SVP) is such a BRM target. In brm mutants, elevated PcG occupancy at SVP accompanies a dramatic increase in H3K27me3 levels at this locus and a concomitant reduction of SVP expression. Further, our gain- and loss-of-function genetic evidence establishes that BRM controls flowering time by directly activating SVP expression. This work reveals a genome-wide functional interplay between BRM and PcG and provides new insights into the impacts of these proteins in plant growth and development.
+
+BRM: !antagonizes! PcG
+BRM: !prevents inappropriate activity of! PcG
+BRM: !binds to! subset of genes
+BRM: !activates! SVP expression
+H3K27me3: !increases in! brm mutants
+CLF/SWN: !partially suppresses increase in! H3K27me3
+PcG: !occupies! SVP in brm mutants
+SVP: !reduces expression of! in brm mutants

@@ -1,0 +1,9 @@
+Germination of Arabidopsis seeds in darkness induces apical hook development, based on a tightly regulated differential growth coordinated by a multiple hormone cross-talk. Here, we endeavoured to clarify the function of brassinosteroids (BRs) and cross-talk with ethylene in hook development. An automated infrared imaging system was developed to study the kinetics of hook development in etiolated Arabidopsis seedlings. To ascertain the photomorphogenic control of hook opening, the system was equipped with an automatic light dimmer. We demonstrate that ethylene and BRs are indispensable for hook formation and maintenance. Ethylene regulation of hook formation functions partly through BRs, with BR feedback inhibition of ethylene action. Conversely, BR-mediated extension of hook maintenance functions partly through ethylene. Furthermore, we revealed that a short light pulse is sufficient to induce rapid hook opening. Our dynamic infrared imaging system allows high-resolution, kinetic imaging of up to 112 seedlings in a single experimental run. At this high throughput, it is ideally suited to rapidly gain insight in pathway networks. We demonstrate that BRs and ethylene cooperatively regulate apical hook development in a phase-dependent manner. Furthermore, we show that light is a predominant regulator of hook opening, inhibiting ethylene- and BR-mediated postponement of hook opening.
+
+ethylene: !regulates! hook formation 
+BRs: !regulate! hook formation 
+ethylene: !inhibited by! BRs 
+BRs: !extend! hook maintenance 
+light: !induces! rapid hook opening 
+ethylene: !postpones! hook opening 
+BRs: !postpone! hook opening

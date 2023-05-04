@@ -1,0 +1,10 @@
+Insertional mutagenesis is a cornerstone of functional genomics. High-copy transposable element systems such as Mutator (Mu) in maize (Zea mays) afford the advantage of high forward mutation rates but pose a challenge for identifying the particular element responsible for a given mutation. Several large mutant collections have been generated in Mu-active genetic stocks, but current methods limit the ability to rapidly identify the causal Mu insertions. Here we present a method to rapidly assay Mu insertions that are genetically linked to a mutation of interest. The method combines elements of MuTAIL (thermal asymmetrically interlaced) and amplification of insertion mutagenized sites (AIMS) protocols and is applicable to the analysis of single mutants or to high-throughput analyses of mutant collections. Briefly, genomic DNA is digested with a restriction enzyme and adapters are ligated. Polymerase chain reaction is performed with TAIL cycling parameters, using a fluorescently labeled Mu primer, which results in the preferential amplification and labeling of Mu-containing genomic fragments. Products from a segregating line are analyzed on a capillary sequencer. To recover a fragment of interest, PCR products are cloned and sequenced. Sequences with lengths matching the size of a band that co-segregates with the mutant phenotype represent candidate linked insertion sites, which are then confirmed by PCR. We demonstrate the utility of the method by identifying Mu insertion sites linked to seed-lethal mutations with a preliminary success rate of nearly 50%.
+
+Mutator: !generates! High-copy transposable element systems 
+MuTAIL: !combines with! AIMS protocol 
+DNA: !digested by! Restriction enzyme 
+Adapters: !ligated to! Genomic DNA 
+PCR: !performed with! Fluorescently labeled Mu primer 
+Capillary sequencer: !analyzes! Products from segregating line 
+Fragment of interest: !recovered by! PCR 
+Mutations: !identifies! Mu insertion sites

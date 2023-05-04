@@ -1,0 +1,11 @@
+['24461228', 'In higher plants, asparagine (Asn) is a major form of organic nitrogen used for  transport and storage. There are two pathways of Asn metabolism, involving  asparaginase and Asn aminotransferase. The enzyme serine:glyoxylate  aminotransferase encoded by AGT1 has been identified as an asparagine  aminotransferase in Arabidopsis. The product of asparagine transamination,  alpha-ketosuccinamate, can be hydrolyzed by the enzyme omega-amidase to form  oxaloacetate and ammonia. A candidate gene was identified in Arabidopsis based on  its sequence similarity with mouse omega-amidase. Recombinant omega-amidase  exhibited comparable catalytic activities with alpha-hydroxysuccinamate,  alpha-ketosuccinamate and alpha-ketoglutaramate, the product of glutamine  transamination. A mutant with a T-DNA inserted in the first exon accumulated  alpha-ketosuccinamate and alpha-hydroxysuccinamate as compared with wild-type,  both under control conditions and after treatment with Asn. Treatment with Asn  led to decreased transcript levels of omega-amidase in root, while transcript  levels of AGT1 are increased under these conditions, suggesting that excess Asn  may lead to the accumulation of alpha-ketosuccinamate and  alpha-hydroxysuccinamate.', '2014 Mar', 'Phytochemistry', '10.1016/j.phytochem.2013.12.020', 'Marsolais']
+
+Asparagine: !metabolized by! asparaginase 
+asparaginase: !encoded by! AGT1 
+AGT1: !synthesizes! alpha-ketosuccinamate 
+alpha-ketosuccinamate: !hydrolyzed by! omega-amidase 
+omega-amidase: !candidate gene identified in! Arabidopsis 
+Arabidopsis: !mutant with T-DNA inserted in! first exon 
+first exon: !accumulates! alpha-ketosuccinamate 
+alpha-ketosuccinamate: !decreases transcript levels of! omega-amidase 
+omega-amidase: !increases transcript levels of! AGT1

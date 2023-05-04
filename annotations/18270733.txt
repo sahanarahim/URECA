@@ -1,0 +1,7 @@
+Chloroplasts arise by binary fission from pre-existing plastids, thus division plays a key role in the development of these essential photosynthetic organelles. To ensure that actively dividing tissues accumulate large numbers of chloroplasts prior to cell division, chloroplast division and the cell cycle must be intimately linked. However, little is known about the regulation of the plastid division machinery during cell division and these questions are difficult to address in higher plants. For this purpose we have studied the unicellular green alga Chlamydomonas reinhardtii for its potential as a new system for chloroplast division research. Here we show the functional conservation of key components of the higher plant chloroplast machinery in Chlamydomonas. The highly conserved Chlamydomonas MinD homologue, CrMinD1, retains crucial protein-protein interactions, sub-cellular localisation and the ability to affect both higher plant plastid division and bacterial cell division. Furthermore, using the coupling of chloroplast and cell division in Chlamydomonas we have established that transcript levels of chloroplast division homologues significantly increase during cell division, with levels falling as division reaches completion.
+
+Chlamydomonas: !contains! CrMinD1
+CrMinD1: !interacts with! higher plant plastid division machinery
+CrMinD1: !localizes to! sub-cellular 
+CrMinD1: !affects! bacterial cell division
+Chlamydomonas: !increases! transcript levels of chloroplast division homologues during cell division

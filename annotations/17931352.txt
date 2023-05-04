@@ -1,0 +1,9 @@
+The technological advances in the instrumentation employed in life sciences have enabled the collection of a virtually unlimited quantity of data from multiple sources. By gathering data from several analytical platforms, with the aim of parallel monitoring of, e.g. transcriptomic, metabolomic or proteomic events, one hopes to answer and understand biological questions and observations. This 'systems biology' approach typically involves advanced statistics to facilitate the interpretation of the data. In the present study, we demonstrate that the O2PLS multivariate regression method can be used for combining 'omics' types of data. With this methodology, systematic variation that overlaps across analytical platforms can be separated from platform-specific systematic variation. A study of Populus tremula x Populus tremuloides, investigating short-day-induced effects at transcript and metabolite levels, is employed to demonstrate the benefits of the methodology. We show how the models can be validated and interpreted to identify biologically relevant events, and discuss the results in relation to a pairwise univariate correlation approach and principal component analysis.
+
+Gene: !affects! Process 
+Process: !monitored by! Systems Biology 
+Systems Biology: !uses! O2PLS Method 
+O2PLS Method: !separates! Systematic Variation 
+Systematic Variation: !investigated in! Populus tremula x Populus tremuloides 
+Populus tremula x Populus tremuloides: !examined at! Transcript & Metabolite Levels 
+Transcript & Metabolite Levels: !validated by! Univariate Correlation & PCA

@@ -1,0 +1,7 @@
+Entry into mitosis is universally controlled by cyclin-dependent kinases (CDKs). A key regulatory event in metazoans and fission yeast is CDK activation by the removal of inhibitory phosphate groups in the ATP binding pocket catalyzed by Cdc25 phosphatases. In contrast with other multicellular organisms, we show here that in the flowering plant Arabidopsis thaliana, cell cycle control does not depend on sudden changes in the phosphorylation pattern of the PSTAIRE-containing Cdk1 homolog CDKA;1. Consistently, we found that neither mutants in a previously identified CDC25 candidate gene nor plants in which it is overexpressed display cell cycle defects. Inhibitory phosphorylation of CDKs is also the key event in metazoans to arrest cell cycle progression upon DNA damage. However, we show here that the DNA damage checkpoint in Arabidopsis can also operate independently of the phosphorylation of CDKA;1. These observations reveal a surprising degree of divergence in the circuitry of highly conserved core cell cycle regulators in multicellular organisms. Based on biomathematical simulations, we propose a plant-specific model of how progression through the cell cycle could be wired in Arabidopsis.
+
+CDKs: !control! Entry into mitosis 
+Cdc25 phosphatases: !activate! CDKs 
+CDKA;1: !inhibited by! Inhibitory phosphorylation 
+CDC25 candidate gene: !not affected by! Mutants 
+DNA damage checkpoint: !operates independently of! Phosphorylation of CDKA;1

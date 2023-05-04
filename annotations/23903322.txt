@@ -1,0 +1,9 @@
+Ca(2+) signaling is an early and necessary event in plant immunity. The tomato (Solanum lycopersicum) kinase Pto triggers localized programmed cell death (PCD) upon recognition of Pseudomonas syringae effectors AvrPto or AvrPtoB. In a virus-induced gene silencing screen in Nicotiana benthamiana, we independently identified two components of a Ca(2+)-signaling system, Cbl10 (for calcineurin B-like protein) and Cipk6 (for calcineurin B-like interacting protein kinase), as their silencing inhibited Pto/AvrPto-elicited PCD. N. benthamiana Cbl10 and Cipk6 are also required for PCD triggered by other plant resistance genes and virus, oomycete, and nematode effectors and for host susceptibility to two P. syringae pathogens. Tomato Cipk6 interacts with Cbl10 and its in vitro kinase activity is enhanced in the presence of Cbl10 and Ca(2+), suggesting that tomato Cbl10 and Cipk6 constitute a Ca(2+)-regulated signaling module. Overexpression of tomato Cipk6 in N. benthamiana leaves causes accumulation of reactive oxygen species (ROS), which requires the respiratory burst homolog RbohB. Tomato Cbl10 and Cipk6 interact with RbohB at the plasma membrane. Finally, Cbl10 and Cipk6 contribute to ROS generated during effector-triggered immunity in the interaction of P. syringae pv tomato DC3000 and N. benthamiana. We identify a role for the Cbl/Cipk signaling module in PCD, establishing a mechanistic link between Ca(2+) and ROS signaling in plant immunity.
+
+Pto: !triggers! PCD
+AvrPto/AvrPtoB: !elicit! PCD
+Cbl10: !interacts with! Cipk6
+Cbl10: !enhances! Cipk6's kinase activity
+Cbl10/Cipk6: !interact with! RbohB
+Cbl10/Cipk6: !contribute to! ROS
+Ca(2+): !regulates! Cbl10/Cipk6 signaling module

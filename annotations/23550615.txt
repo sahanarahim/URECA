@@ -1,0 +1,10 @@
+The phytohormone ABA and the transcription factor ABSCISIC ACID INSENSITIVE 3 (ABI3)/VIVIPAROUS 1 (VP1) function in protecting embryos during the desiccation stage of seed development. In a similar signaling pathway, vegetative tissue of the moss Physcomitrella patens survives desiccation by activating downstream genes (e.g. LEA1) in response to ABA and ABI3. We show that the PpLEA1 promoter responds to PpABI3 primarily through the ACTT-core element (5'-TCCACTTGTC-3'), while the ACGT-core ABA-responsive element (ABRE) appears to respond to ABA alone. We also found by yeast-two-hybrid screening that PpABI3A interacts with PpNF-YC1, a subunit of CCAAT box binding factor (CBF)/nuclear factor Y (NF-Y). PpNF-YC1 increased the activation of the PpLEA1 promoter when incubated with PpABI3A, as did NF-YB, NF-YC, and ABI3 from Arabidopsis. This new response element (ACTT) is responsible for activating the ABI3-dependent ABA response pathway cooperatively with the nuclear factor Y (NF-Y) complex. These results further define the regulatory interactions at the transcriptional level for the expression of this network of genes required for drought/desiccation tolerance. This gene regulatory set is in large part conserved between vegetative tissue of bryophytes and seeds of angiosperms and will shed light on the evolution of this pathway in the green plant lineage.
+
+ABA: !activates! PpLEA1 promoter
+ABI3: !activates! PpLEA1 promoter
+ACTT-core element: !responds to! ABI3
+ACGT-core ABRE: !responds to! ABA
+PpABI3A: !interacts with! PpNF-YC1
+NF-YB: !increases activation of! PpLEA1 promoter
+NF-YC: !increases activation of! PpLEA1 promoter
+ABI3 (Arabidopsis): !increases activation of! PpLEA1 promoter

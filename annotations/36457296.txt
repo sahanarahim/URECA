@@ -1,0 +1,8 @@
+To establish persistent infections in host plants, herbivorous invaders, such as root-knot nematodes, must rely on effectors for suppressing damage-induced jasmonate-dependent host defenses. However, at present, the effector mechanisms targeting the biosynthesis of biologically active jasmonates to avoid adverse host responses are unknown. Using yeast two-hybrid, in planta co-immunoprecipitation, and mutant analyses, we identified 12-oxophytodienoate reductase 2 (OPR2) as an important host target of the stylet-secreted effector MiMSP32 of the root-knot nematode Meloidogyne incognita. MiMSP32 has no informative sequence similarities with other functionally annotated genes but was selected for the discovery of novel effector mechanisms based on evidence of positive, diversifying selection. OPR2 catalyzes the conversion of a derivative of 12-oxophytodienoate to jasmonic acid (JA) and operates parallel to 12-oxophytodienoate reductase 3 (OPR3), which controls the main pathway in the biosynthesis of jasmonates. We show that MiMSP32 targets OPR2 to promote parasitism of M. incognita in host plants independent of OPR3-mediated JA biosynthesis. Artificially manipulating the conversion of the 12-oxophytodienoate by OPRs increases susceptibility to multiple unrelated plant invaders. Our study is the first to shed light on a novel effector mechanism targeting this process to regulate the susceptibility of host plants.
+
+MiMSP32: !targets! OPR2 
+OPR2: !converts! 12-oxophytodienoate 
+12-oxophytodienoate: !produces! JA 
+MiMSP32: !promotes! parasitism 
+OPR2: !operates parallel to! OPR3 
+OPR3: !controls! JA biosynthesis

@@ -1,0 +1,6 @@
+Label-free LC-MS/MS-based shot-gun proteomics was used to quantify the differential protein synthesis and metabolite profiling in order to assess metabolic changes during the development of citrus fruits. Our results suggested the occurrence of a metabolic change during citrus fruit maturation, where the organic acid and amino acid accumulation seen during the early stages of development shifted into sugar synthesis during the later stage of citrus fruit development. The expression of invertases remained unchanged, while an invertase inhibitor was up-regulated towards maturation. The increased expression of sucrose-phosphate synthase and sucrose-6-phosphate phosphatase and the rapid sugar accumulation suggest that sucrose is also being synthesized in citrus juice sac cells during the later stage of fruit development.
+
+gene: !synthesizes! sugar 
+gene: !inhibits! invertase 
+gene: !synthesizes! sucrose-phosphate synthase 
+gene: !synthesizes! sucrose-6-phosphate phosphatase

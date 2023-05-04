@@ -1,0 +1,16 @@
+Gramene (http://www.gramene.org), a knowledgebase founded on comparative functional analyses of genomic and pathway data for model plants and major crops, supports agricultural researchers worldwide. The resource is committed to open access and reproducible science based on the FAIR data principles. Since the last NAR update, we made nine releases; doubled the genome portal's content; expanded curated genes, pathways and expression sets; and implemented the Domain Informational Vocabulary Extraction (DIVE) algorithm for extracting gene function information from publications. The current release, #63 (October 2020), hosts 93 reference genomes-over 3.9 million genes in 122 947 families with orthologous and paralogous classifications. Plant Reactome portrays pathway networks using a combination of manual biocuration in rice (320 reference pathways) and orthology-based projections to 106 species. The Reactome platform facilitates comparison between reference and projected pathways, gene expression analyses and overlays of gene-gene interactions. Gramene integrates ontology-based protein structure-function annotation; information on genetic, epigenetic, expression, and phenotypic diversity; and gene functional annotations extracted from plant-focused journals using DIVE. We train plant researchers in biocuration of genes and pathways; host curated maize gene structures as tracks in the maize genome browser; and integrate curated rice genes and pathways in the Plant Reactome.
+
+Gramene: !hosts! 93 reference genomes
+Gramene: !integrates! ontology-based protein structure-function annotation
+Gramene: !trains! plant researchers in biocuration of genes and pathways
+Gramene: !hosts! curated maize gene structures
+Gramene: !integrates! curated rice genes and pathways
+Plant Reactome: !portrays! pathway networks
+Plant Reactome: !facilitates! comparison between reference and projected pathways
+DIVE algorithm: !extracts! gene function information from publications
+Gene: !affects! process
+Gene: !localizes to! X
+Gene: !interacts with! Y
+Gene: !enhances! Z
+Gene: !represses! U
+Gene: !synthesizes! I

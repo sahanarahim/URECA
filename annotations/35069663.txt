@@ -1,0 +1,9 @@
+The N-degron pathway is a branch of the ubiquitin-proteasome system where amino-terminal residues serve as degradation signals. In a synthetic biology approach, we expressed ubiquitin ligase PRT6 and ubiquitin conjugating enzyme 2 (AtUBC2) from <i>Arabidopsis thaliana</i> in a <i>Saccharomyces cerevisiae</i> strain with mutation in its endogenous N-degron pathway. The two enzymes re-constitute part of the plant N-degron pathway and were probed by monitoring the stability of co-expressed GFP-linked plant proteins starting with Arginine N-degrons. The novel assay allows for straightforward analysis, whereas <i>in vitro</i> interaction assays often do not allow detection of the weak binding of N-degron recognizing ubiquitin ligases to their substrates, and <i>in planta</i> testing is usually complex and time-consuming.
+
+PRT6: !expresses! AtUBC2 
+AtUBC2: !expresses! PRT6 
+GFP-linked plant proteins: !monitored by! N-degron pathway 
+N-degron pathway: !monitors! GFP-linked plant proteins 
+ubiquitin ligases: !detected by! in vitro interaction assays 
+in vitro interaction assays: !detects! ubiquitin ligases 
+in planta testing: !complex and time-consuming!

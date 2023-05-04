@@ -1,0 +1,10 @@
+Complex DNA structures, such as double Holliday junctions and stalled replication forks, arise during DNA replication and DNA repair. Factors processing these intermediates include the endonuclease MUS81, helicases of the RecQ family, and the yeast SNF2 ATPase RAD5 and its Arabidopsis thaliana homolog RAD5A. By testing sensitivity of mutant plants to DNA-damaging agents, we defined the roles of these factors in Arabidopsis. rad5A recq4A and rad5A mus81 double mutants are more sensitive to cross-linking and methylating agents, showing that RAD5A is required for damage-induced DNA repair, independent of MUS81 and RECQ4A. The lethality of the recq4A mus81 double mutant indicates that MUS81 and RECQ4A also define parallel DNA repair pathways. The recq4A/mus81 lethality is suppressed by blocking homologous recombination (HR) through disruption of RAD51C, showing that RECQ4A and MUS81 are required for processing recombination-induced aberrant intermediates during replication. Thus, plants possess at least three different pathways to process DNA repair intermediates. We also examined HR-mediated double-strand break (DSB) repair using recombination substrates with inducible site-specific DSBs: MUS81 and RECQ4A are required for efficient synthesis-dependent strand annealing (SDSA) but only to a small extent for single-strand annealing (SSA). Interestingly, RAD5A plays a significant role in SDSA but not in SSA.
+
+MUS81: !processes! DNA repair intermediates
+RECQ4A: !processes! DNA repair intermediates
+RAD5A: !processes! DNA repair intermediates
+MUS81: !interacts with! RECQ4A
+RAD5A: !suppresses! recq4A/mus81 lethality
+MUS81: !required for! efficient SDSA
+RECQ4A: !required for! efficient SDSA
+RAD5A: !plays role in! SDSA

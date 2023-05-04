@@ -1,0 +1,9 @@
+Understanding the macro-mechanical behavior of wood at the micro-scale is of great significance for the design of cell-wall-like composite materials and pulp papermaking. In order to predict tracheid mechanical properties and analyze its relationship with tracheid features, based on the FCN network model, a double-channel FCN network with sparse attention (D-SA-FCN) was designed by introducing the double-channel mechanism and the sparse attention mechanism. The features of tracheid of larch were extracted numerically and the data set was established by using the compression strength data, the gray level co-occurrence matrix, cell segmentation and geometric analysis. A feature analysis algorithm based on PCA and random forest was established to optimize the feature values. The training set accuracy of the D-SA-FCN network model reached 85.75% with the five-level mechanical property level according to the classification standard. The accuracy of the training model is 71.48% and 79.52% when the morphological and texture features are input respectively. The results show that texture features had a more significant impact on mechanics to a certain extent and the D-SA-FCN could reduce the computational complexity and improve the prediction accuracy.
+
+FCN network: !predicts! tracheid mechanical properties 
+Double-channel FCN network: !introduces! sparse attention mechanism 
+Data set: !established by! compression strength data, gray level co-occurrence matrix, cell segmentation and geometric analysis 
+Feature analysis algorithm: !based on! PCA and random forest 
+D-SA-FCN network model: !reaches! 85.75% accuracy 
+Morphological and texture features: !input! 71.48% and 79.52% accuracy respectively 
+Texture features: !have more significant impact on! mechanics

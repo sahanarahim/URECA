@@ -1,0 +1,11 @@
+['17189332', 'Heterologous expression of the Arabidopsis (Arabidopsis thaliana) IPMS1  (At1g18500) and IPMS2 (At1g74040) cDNAs in Escherichia coli yields  isopropylmalate synthases (IPMSs; EC 2.3.3.13). These enzymes catalyze the first  dedicated step in leucine (Leu) biosynthesis, an aldol-type condensation of  acetyl-coenzyme A (CoA) and 2-oxoisovalerate yielding isopropylmalate. Most  biochemical properties of IPMS1 and IPMS2 are similar: broad pH optimum around pH  8.5, Mg2+ as cofactor, feedback inhibition by Leu, Km for 2-oxoisovalerate of  approximately 300 microM, and a Vmax of approximately 2 x 10(3) micromol min(-1)  g(-1). However, IPMS1 and IPMS2 differ in their Km for acetyl-CoA (45 microM and  16 microM, respectively) and apparent quaternary structure (dimer and tetramer,  respectively). A knockout insertion mutant for IPMS1 showed an increase in valine  content but no changes in Leu content; two insertion mutants for IPMS2 did not  show any changes in soluble amino acid content. Apparently, in planta each gene  can adequately compensate for the absence of the other, consistent with available  microarray and reverse transcription-polymerase chain reaction data that show  that both genes are expressed in all organs at all developmental stages. Both  encoded proteins accept 2-oxo acid substrates in vitro ranging in length from  glyoxylate to 2-oxohexanoate, and catalyze at a low rate the condensation of  acetyl-CoA and 4-methylthio-2-oxobutyrate, i.e. a reaction involved in  glucosinolate chain elongation normally catalyzed by methylthioalkylmalate  synthases. The evolutionary relationship between IPMS and methylthioalkylmalate  synthase enzymes is discussed in view of their amino acid sequence identity (60%)  and overlap in substrate specificity.', '2007 Feb', 'Plant Physiol', '10.1104/pp.106.085555', 'Gershenzon']
+
+IPMS1: !catalyzes! leucine biosynthesis 
+IPMS2: !catalyzes! leucine biosynthesis 
+IPMS1: !differs from! IPMS2 
+IPMS1: !knockout increases! valine content 
+IPMS2: !knockout does not affect! amino acid content 
+IPMS1/IPMS2: !compensate for each other! in planta 
+IPMS1/IPMS2: !accept! 2-oxo acid substrates 
+IPMS1/IPMS2: !catalyze! condensation of acetyl-CoA and 4-methylthio-2-oxobutyrate 
+IPMS1/IPMS2: !have 60%! amino acid sequence identity

@@ -1,0 +1,6 @@
+['28586645', 'Phosphorylation plays an essential role in microRNA (miRNA) processing by  regulating co-factors of the miRNA biogenesis machinery. HYL1 (Hyponastic Leaves  1), a core co-factor in plant miRNA biogenesis, is a short-lived phosphoprotein.  However, the precise balance and regulatory mechanism of the stability and  phosphorylation of HYL1 remain unclear. Here, we show that a highly conserved PP4  (Protein Phosphatase 4) and SMEK1 (Suppressor of MEK 1) complex dephosphorylates  HYL1 to promote miRNA biogenesis, by antagonizing the MAPK cascade in  Arabidopsis. The smek1 mutants exhibit defective miRNA biogenesis due to  accelerated degradation of HYL1. SMEK1 stabilizes HYL1 in a dual manner: SMEK1,  as a suppressor, inhibits MAPK activation to attenuate HYL1 phosphorylation;  SMEK1 assembles a functional PP4 to target HYL1 for dephosphorylation. Moreover,  the protein level of SMEK1 is increased in response to abscisic acid. Our results  provide insights into the delicate balance between a protein kinase and a  phosphatase during miRNA biogenesis.', '2017 Jun 5', 'Dev Cell', '10.1016/j.devcel.2017.05.008', 'Zheng']
+
+HYL1: !regulated by! PP4/SMEK1 
+PP4/SMEK1: !inhibits! MAPK cascade 
+SMEK1: !stabilizes! HYL1 
+ABA: !increases! SMEK1

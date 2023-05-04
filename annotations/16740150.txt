@@ -1,0 +1,9 @@
+Glucosinolates are a group of secondary metabolites that function as defense substances against herbivores and micro-organisms in the plant order Capparales. Indole glucosinolates (IGS), derivatives of tryptophan, may also influence plant growth and development. In Arabidopsis thaliana, indole-3-acetaldoxime (IAOx) produced from tryptophan by the activity of two cytochrome P450 enzymes, CYP79B2 and CYP79B3, serves as a precursor for IGS biosynthesis but is also an intermediate in the biosynthetic pathway of indole-3-acetic acid (IAA). Another cytochrome P450 enzyme, CYP83B1, funnels IAOx into IGS. Although there is increasing information about the genes involved in this biochemical pathway, their regulation is not fully understood. OBP2 has recently been identified as a member of the DNA-binding-with-one-finger (DOF) transcription factors, but its function has not been studied in detail so far. Here we report that OBP2 is expressed in the vasculature of all Arabidopsis organs, including leaves, roots, flower stalks and petals. OBP2 expression is induced in response to a generalist herbivore, Spodoptera littoralis, and by treatment with the plant signalling molecule methyl jasmonate, both of which also trigger IGS accumulation. Constitutive and inducible over-expression of OBP2 activates expression of CYP83B1. In addition, auxin concentration is increased in leaves and seedlings of OBP2 over-expression lines relative to wild-type, and plant size is diminished due to a reduction in cell size. RNA interference-mediated OBP2 blockade leads to reduced expression of CYP83B1. Collectively, these data provide evidence that OBP2 is part of a regulatory network that regulates glucosinolate biosynthesis in Arabidopsis.
+
+OBP2: !induces! CYP83B1
+OBP2: !activates! CYP83B1
+OBP2: !increases! auxin concentration
+OBP2: !triggers! IGS accumulation
+CYP79B2: !produces! IAOx
+CYP79B3: !produces! IAOx
+CYP83B1: !funnels! IAOx into IGS

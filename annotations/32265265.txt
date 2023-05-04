@@ -1,0 +1,8 @@
+The antagonistic regulation of seed germination by the phytohormones abscisic acid (ABA) and gibberellic acid (GA) has been well-established. However, how these phytohormones antagonistically regulate root growth and branching (tillering in rice, <i>Oryza sativa</i>) remains obscure. Rice <i>TILLER ENHANCER</i> (<i>TE</i>) encodes an activator of the APC/C<sup>TE</sup> E3 ubiquitin ligase complex that represses tillering but promotes seed germination. In this study, we identified a dual role of GA and APC/C<sup>TE</sup> in regulating root growth. High GA levels can activate APC/C<sup>TE</sup> to promote the degradation of rice SHORT-ROOT1 (OsSHR1, a key factor promoting root growth) in the root meristem (RM) or MONOCULM1 (MOC1, a key factor promoting tillering) in the axillary meristem (AM), leading to restricted root growth and tillering, while low GA levels can activate the role of APC/C<sup>TE</sup> in stimulating RM cell division to promote root growth. In addition, moderate enhancement of ABA signaling helps maintain the RM and AM size, sustaining root growth and tillering by antagonizing the GA-promoted degradation of OsSHR1 and MOC1 through the SnRK2-APC/C<sup>TE</sup> regulatory module. We conclude that APC/C<sup>TE</sup> plays a key role in regulating plant architecture by mediating the crosstalk between ABA and GA signaling pathways.
+
+GA: !activates! APC/C<sup>TE</sup> 
+ABA: !enhances! SnRK2-APC/C<sup>TE</sup> 
+APC/C<sup>TE</sup>: !promotes degradation of! OsSHR1 
+APC/C<sup>TE</sup>: !promotes degradation of! MOC1 
+GA: !promotes degradation of! OsSHR1 
+GA: !promotes degradation of! MOC1

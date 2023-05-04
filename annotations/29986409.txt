@@ -1,0 +1,6 @@
+<i>Chlorella</i> has great potential as a bio-factory for production of value-added compounds. To produce the desired chemicals more efficiently in <i>Chlorella</i>, genetic tools for modification of <i>Chlorella</i> need to be developed, especially an endogenous promoter. In this study, the promoter of photosystem I protein D (<i>psaD</i>) from <i>Chlorella vulgaris</i> UTEX395 was identified. Computational analysis revealed the presence of several putative cis-acting elements, including a potential core element, and light-responsive or stress-responsive elements. Gene expression analysis in heterologous expression system in <i>Chlamydomonas</i><i>reinhardtii</i> and <i>Nicotiana</i><i>benthamiana</i> showed that <i>CvpsaD</i> promoter can be used to drive the expression of genes. Functional analysis of this promoter suggested that the initiator element (Inr) is important for its function (i.e., TATA-less promoter) and that an additional factor (e.g., downstream of the transcriptional start site) might be needed for light response. We have shown that the <i>CvpsaD</i> promoter is functional, but not sufficiently strong, both in microalgae and higher plant.
+
+psaD: !promotes! expression 
+Inr: !important for! function 
+factor: !needed for! light response 
+CvpsaD: !not sufficiently strong in! microalgae and higher plants

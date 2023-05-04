@@ -1,0 +1,10 @@
+['23910659', 'Flowering plants in the reproductive stage are particularly vulnerable to ambient  temperature fluctuations. Nevertheless, they maintain seed production under  certain levels of exposure to temperature change. The mechanisms underlying this  temperature tolerance are largely unknown. Using an in vitro Arabidopsis pollen  tube culture, we found that a synthetic CLV3/ESR-related peptide, CLE45,  prolonged pollen tube growth. A subsequent screen of Arabidopsis mutants of  leucine-rich repeat receptor-like kinase genes identified two candidate receptors  for CLE45 peptide, STERILITY-REGULATING KINASE MEMBER1 (SKM1) and SKM2. The  double loss-of-function mutant was insensitive to CLE45 peptide in terms of  pollen tube growth in vitro. The SKM1 protein actually interacted with CLE45  peptide. CLE45 was preferentially expressed in the stigma in the pistil at 22 degrees C,  but upon temperature shift to 30 degrees C, its expression expanded to the transmitting  tract, along which pollen tubes elongated. In contrast, both SKM1 and SKM2 were  expressed in pollen. Disturbance of CLE45-SKM1/SKM2 signaling transduction by  either RNAi suppression of CLE45 expression or introduction of a kinase-dead  version of SKM1 into skm1 plants reduced seed production at 30 degrees C, but not at  22 degrees C. Taken together with the finding that CLE45 peptide application alleviated  mitochondrial decay during the in vitro pollen tube culture, these results  strongly suggest that the pollen-pistil interaction via the CLE45-SKM1/SKM2  signaling pathway sustains pollen performance under higher temperatures, leading  to successful seed production.', '2013 Sep 9', 'Curr Biol', '10.1016/j.cub.2013.06.060', 'Fukuda']
+
+CLE45: !interacts with! SKM1 
+CLE45: !expressed in! stigma 
+SKM1: !interacts with! CLE45 
+SKM1: !expressed in! pollen 
+SKM2: !interacts with! CLE45 
+SKM2: !expressed in! pollen 
+CLE45-SKM1/SKM2: !sustains! pollen performance 
+CLE45-SKM1/SKM2: !leads to! successful seed production

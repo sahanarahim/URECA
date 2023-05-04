@@ -1,0 +1,11 @@
+Stomatal conductance (gs) typically declines in response to increasing intercellular CO2 concentration (ci). However, the mechanisms underlying this response are not fully understood. Recent work suggests that stomatal responses to ci and red light (RL) are linked to photosynthetic electron transport. We investigated the role of photosynthetic electron transport in the stomatal response to ci in intact leaves of cocklebur (Xanthium strumarium) plants by examining the responses of gs and net CO2 assimilation rate to ci in light and darkness, in the presence and absence of the photosystem II inhibitor 3-(3,4-dichlorophenyl)-1,1-dimethylurea (DCMU), and at 2% and 21% ambient oxygen. Our results indicate that (1) gs and assimilation rate decline concurrently and with similar spatial patterns in response to DCMU; (2) the response of gs to ci changes slope in concert with the transition from Rubisco- to electron transport-limited photosynthesis at various irradiances and oxygen concentrations; (3) the response of gs to ci is similar in darkness and in DCMU-treated leaves, whereas the response in light in non-DCMU-treated leaves is much larger and has a different shape; (4) the response of gs to ci is insensitive to oxygen in DCMU-treated leaves or in darkness; and (5) stomata respond normally to RL when ci is held constant, indicating the RL response does not require a reduction in ci by mesophyll photosynthesis. Together, these results suggest that part of the stomatal response to ci involves the balance between photosynthetic electron transport and carbon reduction either in the mesophyll or in guard cell chloroplasts.
+
+gs: !responds to! ci
+ci: !affects! gs
+RL: !affects! gs
+DCMU: !inhibits! photosystem II
+O2: !influences! gs response to ci
+Rubisco: !limits! photosynthesis
+electron transport: !limits! photosynthesis
+mesophyll photosynthesis: !reduces! ci
+guard cell chloroplasts: !balance! electron transport and carbon reduction

@@ -1,0 +1,10 @@
+['17727612', 'Chloroplast NAD(P)H dehydrogenase (NDH) is a homolog of the bacterial NADH  dehydrogenase NDH-1 and is involved in cyclic electron transport around  photosystem I. In higher plants, 14 subunits of the NDH complex have been  identified. The subunit that contains the electron donor-binding site or an  electron donor to NDH has not been determined. Arabidopsis crr1  (chlororespiratory reduction 1) mutants were isolated by chlorophyll fluorescence  imaging on the basis of their lack of NDH activity. CRR1 is homologous to  dihydrodipicolinate reductase (DHPR), which functions in a lysine biosynthesis  pathway. However, the dihydrodipicolinate-binding motif was not conserved in  CRR1, and the crr1 defect was specific to accumulation of the NDH complex,  implying that CRR1 is not involved in lysine biosynthesis in Arabidopsis.  Similarly to other nuclear-encoded genes for NDH subunits, CRR1 was expressed  only in photosynthetic tissue. CRR1 contained a NAD(P)H-binding motif and was a  candidate electron donor-binding subunit of the NDH complex. However, CRR1 was  detected in the stroma but not in the thylakoid membranes, where the NDH complex  is localized. Furthermore, CRR1 was stable in crr2-2 lacking the NDH complex.  These results suggest that CRR1 is involved in biogenesis or stabilization of the  NDH complex, possibly via the reduction of an unknown substrate.', '2007 Nov', 'Plant J', '10.1111/j.1365-313X.2007.03256.x', 'Shikanai']
+
+NDH: !involves! cyclic electron transport 
+CRR1: !homologous to! DHPR 
+CRR1: !specific to! NDH complex accumulation 
+CRR1: !expressed in! photosynthetic tissue 
+CRR1: !contains! NAD(P)H-binding motif 
+CRR1: !localizes to! stroma 
+CRR1: !stable in! crr2-2 
+CRR1: !involved in! biogenesis/stabilization of NDH complex

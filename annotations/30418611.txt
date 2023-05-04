@@ -1,0 +1,10 @@
+Soybean yield is largely dependent on growth period. We characterized two growth period quantitative trait loci, Gp11 and Gp12, from a recombinant inbred population generated from a cross of wild (W05) and cultivated (C08) soybean. Lines carrying Gp11C08 and Gp12C08 tend to have a shorter growth period and higher expression of GmFT2a and GmFT5a. Furthermore, multiple interval mapping suggests that Gp11 and Gp12 may be genetically interacting with the E2 locus. This is consistent with the observation that GmFT2a and GmFT5a are activated by Gp11C08 and Gp12C08 at ZT4 in the recessive e2 but not the dominant E2 background. Gp11 and Gp12 are duplicated genomic regions each containing a copy of the soybean ortholog of PSEUDO RESPONSE REGULATOR 3 (GmPRR3A and GmPRR3B). GmPRR3A and GmPRR3B from C08 carry mutations that delete the CCT domain in the encoded proteins. These mutations were selected during soybean improvement and they alter the subcellular localization of GmPRR3A and GmPRR3B. Furthermore, GmPRR3A and GmPRR3B can interact with TOPLESS-related transcription factors, suggesting that they function in a transcription repressor complex. This study addresses previously unexplored components of the genetic network that probably controls the growth period of soybean and puts these loci into context with the well-characterized growth period-regulating E loci.
+
+Gp11C08: !enhances! GmFT2a
+Gp12C08: !enhances! GmFT5a
+Gp11: !interacts with! E2
+Gp12: !interacts with! E2
+GmPRR3A: !localizes to! CCT domain
+GmPRR3B: !localizes to! CCT domain
+GmPRR3A: !interacts with! TOPLESS-related transcription factors
+GmPRR3B: !interacts with! TOPLESS-related transcription factors

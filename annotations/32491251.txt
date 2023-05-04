@@ -1,0 +1,10 @@
+Soybean nodulation is a highly controlled process that involves complex gene regulation at both transcriptional and post-transcriptional levels. In the present study, we profiled gene expression changes, alternative splicing events, and DNA methylation patterns during nodule formation, development, and senescence. The transcriptome data uncovered key transcription patterns of nodule development that included 9669 core genes and 7302 stage-specific genes. Alternative splicing analysis uncovered a total of 2323 genes that undergo alternative splicing events in at least one nodule developmental stage, with activation of exon skipping and repression of intron retention being the most common splicing events in nodules compared to roots. Approximately 40% of the differentially spliced genes were also differentially expressed at the same nodule developmental stage, implying a substantial association between gene expression and alternative splicing. Genome-wide-DNA methylation analysis revealed dynamic changes in nodule methylomes that were specific to each nodule stage, occurred in a sequence-specific manner, and impacted the expression of 1864 genes. An attractive hypothesis raised by our data is that increased DNA methylation may contribute to the efficiency of alternative splicing. Together, our results provide intriguing insights into the associations between gene expression, alternative splicing, and DNA methylation that may shape transcriptome complexity and proteome specificity in developing soybean nodules.
+
+Gene: !affects! Process
+Process: !involves! Gene Regulation
+Gene: !localizes to! Nodule Development
+Nodule Development: !includes! Core Genes
+Core Genes: !undergo! Alternative Splicing Events
+Alternative Splicing Events: !impact! Expression of Genes
+Expression of Genes: !associated with! DNA Methylation
+DNA Methylation: !influences! Alternative Splicing

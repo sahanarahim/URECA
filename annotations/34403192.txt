@@ -1,0 +1,7 @@
+To understand and engineer plant metabolism, we need a comprehensive and accurate annotation of all metabolic information across plant species. As a step towards this goal, we generated genome-scale metabolic pathway databases of 126 algal and plant genomes, ranging from model organisms to crops to medicinal plants (https://plantcyc.org). Of these, 104 have not been reported before. We systematically evaluated the quality of the databases, which revealed that our semi-automated validation pipeline dramatically improves the quality. We then compared the metabolic content across the 126 organisms using multiple correspondence analysis and found that Brassicaceae, Poaceae, and Chlorophyta appeared as metabolically distinct groups. To demonstrate the utility of this resource, we used recently published sorghum transcriptomics data to discover previously unreported trends of metabolism underlying drought tolerance. We also used single-cell transcriptomics data from the Arabidopsis root to infer cell type-specific metabolic pathways. This work shows the quality and quantity of our resource and demonstrates its wide-ranging utility in integrating metabolism with other areas of plant biology.
+
+genome: !contains! metabolic pathways
+database: !improved by! validation pipeline
+organism: !grouped into! metabolically distinct groups
+sorghum transcriptomics data: !reveals! previously unreported trends of metabolism
+single-cell transcriptomics data: !inferred from! Arabidopsis root

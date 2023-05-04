@@ -1,0 +1,10 @@
+Trithorax-group proteins (TrxGs) play essential regulatory roles in chromatin modification to activate transcription. Although TrxGs have been shown to be extensively involved in the activation of developmental genes, how the specific TrxGs function in the dehydration and abscisic acid (ABA)-mediated modulation of downstream gene expression remains unknown. Here, we report that two evolutionarily conserved Arabidopsis thaliana TrxGs, ARABIDOPSIS TRITHORAX4 (ATX4) and ATX5, play essential roles in the drought stress response. atx4 and atx5 single loss-of-function mutants showed drought stress-tolerant and ABA-hypersensitive phenotypes during seed germination and seedling development, while the atx4 atx5 double mutant displayed further exacerbation of the phenotypes. Genome-wide RNA-sequencing analyses showed that ATX4 and ATX5 regulate the expression of genes functioning in dehydration stress. Intriguingly, ABA-HYPERSENSITIVE GERMINATION 3 (AHG3), an essential negative regulator of ABA signaling, acts genetically downstream of ATX4 and ATX5 in response to ABA. ATX4 and ATX5 directly bind to the AHG3 locus and trimethylate histone H3 of Lys 4 (H3K4). Moreover, ATX4 and ATX5 occupancies at AHG3 are dramatically increased under ABA treatment, and are also essential for RNA polymerase II (RNAPII) occupancies. Our findings reveal novel molecular functions of A. thaliana TrxGs in dehydration stress and ABA responses.
+
+ATX4: !regulates! AHG3
+ATX5: !regulates! AHG3
+ATX4: !trimethylates! H3K4
+ATX5: !trimethylates! H3K4
+ATX4: !occupies! AHG3
+ATX5: !occupies! AHG3
+ATX4: !increases occupancy of! RNAPII
+ATX5: !increases occupancy of! RNAPII

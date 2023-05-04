@@ -1,0 +1,6 @@
+Artemisinin is biosynthesized in Artemisia annua and widely used for the treatment of malaria. Abscisic acid (ABA)-responsive kinase 1 (AaAPK1), a member of the SnRK2 family, is involved in the regulation of artemisinin biosynthesis through the phosphorylation of AabZIP1, which directly transactivates genes involved in artemisinin biosynthesis. Through diverse assays - including yeast two-hybrid and bimolecular fluorescence complementation assays - we report that the ABA-responsive protein phosphatase AaPP2C1 physically interacts with AaAPK1. In addition, phos-tag mobility shift assays indicate that AaPP2C1 dephosphorylates AaAPK1. Moreover, dual-luciferase assays demonstrate that the presence of AaPP2C1 reduces the transactivation of artemisinin biosynthesis genes by AabZIP1. These results further refine the post-translational regulatory network of artemisinin biosynthesis, showing that AaPP2C1 is negatively involved through dephosphorylation of AaAPK1.
+
+AaAPK1: !phosphorylates! AabZIP1
+AaPP2C1: !interacts with! AaAPK1
+AaPP2C1: !dephosphorylates! AaAPK1
+AaPP2C1: !reduces transactivation of! artemisinin biosynthesis genes

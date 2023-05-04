@@ -1,0 +1,9 @@
+Among the five phytochromes in Arabidopsis thaliana, phytochrome A (phyA) plays a major role in seedling deetiolation. Mutant analyses have identified more than 10 positive components acting downstream of phyA to inhibit hypocotyl elongation. However, their sites of action and their hierarchical relationships are poorly understood. Here, we investigated the genetic and molecular relationship between two homologous proteins, FAR-RED ELONGATED HYPOCOTYL1 (FHY1) and FHY1-LIKE (FHL), and two transcription factors, LONG AFTER FAR-RED LIGHT1 (LAF1) and LONG HYPOCOTYL IN FAR-RED1 (HFR1). Analyses of double and triple mutants showed that LAF1, a myb factor, and HFR1, a basic helix-loop-helix factor, independently transmit phyA signals downstream of FHY1 and FHL. Coimmunoprecipitation experiments showed that phyA, FHY1, FHL, LAF1, and HFR1 are components of protein complexes in vivo. In vitro pull-down assays demonstrated direct interactions between partner proteins with the N-terminal region of FHY1, as well as that of FHL, interacting with the LAF1 N-terminal portion and the HFR1 C-terminal region. These results suggest that, in addition to assisting phyA nuclear accumulation, FHY1 and FHL are required to assemble photoreceptor/transcription factor complexes for phyA signaling.
+
+phyA: !affects! hypocotyl elongation
+FHY1: !interacts with! LAF1
+FHL: !interacts with! LAF1
+FHY1: !interacts with! HFR1
+FHL: !interacts with! HFR1
+LAF1: !transmits! phyA signals
+HFR1: !transmits! phyA signals

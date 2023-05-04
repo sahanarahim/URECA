@@ -1,0 +1,13 @@
+Functional traits in closely related lineages are expected to vary similarly along common environmental gradients as a result of shared evolutionary and biogeographic history, or legacy effects, and as a result of biophysical tradeoffs in construction. We test these predictions in Pelargonium, a relatively recent evolutionary radiation. Bayesian phylogenetic mixed effects models assessed, at the subclade level, associations between plant height, leaf area, leaf nitrogen content and leaf mass per area (LMA), and five environmental variables capturing temperature and rainfall gradients across the Greater Cape Floristic Region of South Africa. Trait-trait integration was assessed via pairwise correlations within subclades. Of 20 trait-environment associations, 17 differed among subclades. Signs of regression coefficients diverged for height, leaf area and leaf nitrogen content, but not for LMA. Subclades also differed in trait-trait relationships and these differences were modulated by rainfall seasonality. Leave-one-out cross-validation revealed that whether trait variation was better predicted by environmental predictors or trait-trait integration depended on the clade and trait in question. Legacy signals in trait-environment and trait-trait relationships were apparently lost during the earliest diversification of Pelargonium, but then retained during subsequent subclade evolution. Overall, we demonstrate that global-scale patterns are poor predictors of patterns of trait variation at finer geographic and taxonomic scales.
+
+plant height: !correlates with! leaf area 
+leaf area: !correlates with! leaf nitrogen content 
+leaf nitrogen content: !correlates with! leaf mass per area 
+environmental variables: !affects! plant height 
+environmental variables: !affects! leaf area 
+environmental variables: !affects! leaf nitrogen content 
+environmental variables: !affects! leaf mass per area 
+subclades: !differ in! trait-environment associations 
+subclades: !differ in! trait-trait relationships 
+rainfall seasonality: !modulates! trait-trait differences 
+global-scale patterns: !poor predictors of! trait variation

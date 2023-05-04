@@ -1,0 +1,8 @@
+Ralstonia solanacearum is a bacterial vascular pathogen causing devastating bacterial wilt. In the field, resistance against this pathogen is quantitative and is available for breeders only in tomato and eggplant. To understand the basis of resistance to R. solanacearum in tomato, we investigated the spatio-temporal dynamics of bacterial colonization using non-invasive live monitoring techniques coupled to grafting of susceptible and resistant varieties. We found four 'bottlenecks' that limit the bacterium in resistant tomato: root colonization, vertical movement from roots to shoots, circular vascular bundle invasion, and radial apoplastic spread in the cortex. Radial invasion of cortical extracellular spaces occurred mostly at late disease stages but was observed throughout plant infection. This study shows that resistance is expressed in both root and shoot tissues, and highlights the importance of structural constraints to bacterial spread as a resistance mechanism. It also shows that R. solanacearum is not only a vascular pathogen but spreads out of the xylem, occupying the plant apoplast niche. Our work will help elucidate the complex genetic determinants of resistance, setting the foundations to decipher the molecular mechanisms that limit pathogen colonization, which may provide new precision tools to fight bacterial wilt in the field.
+
+root: !limits! R. solanacearum
+vertical movement: !limits! R. solanacearum
+circular vascular bundle: !limits! R. solanacearum
+radial apoplastic spread: !limits! R. solanacearum
+resistance: !expressed in! root and shoot tissues
+R. solanacearum: !occupies! plant apoplast niche

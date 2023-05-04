@@ -1,0 +1,10 @@
+['16790030', "The Arabidopsis DNA ligase 1 gene (AtLIG1) is indispensable for cell viability.  AtLIG1 expresses one major and two minor mRNA transcripts differing only in the  length of the 5' untranslated leader sequences preceding a common ORF. Control of  AtLIG1 isoform production and intracellular targeting depends upon mechanisms  controlling the choice of translation initiation site within the AtLIG1 ORF.  Confocal laser scanning microscopy of green fluorescent protein-tagged AtLIG1  isoforms expressed in Arabidopsis revealed that translation of AtLIG1 mRNA  transcripts from the first in-frame start codon produces an AtLIG1 isoform that  is targeted exclusively to the mitochondria. Translation initiation from the  second in-frame start codon produces an AtLIG1 isoform targeted only to the  nucleus. There is no evidence for AtLIG1-GFP being targeted to chloroplasts. The  mitochondrial AtLIG1 isoform possesses both an N-terminal mitochondrial-targeting  signal and an internal bipartite nuclear localization signal (NLS) yet is  targeted only to mitochondria, demonstrating a hierarchical dominance of the  mitochondrial presequence over the NLS. The length of the 5'-UTR and more  significantly the nucleotide context around alternative start codons in the  AtLIG1 transcripts affect translation initiation to ensure a balanced synthesis  of both nuclear and mitochondrial AtLIG1 isoforms, probably via a  context-dependent leaky ribosome scanning mechanism.", '2006 Aug', 'Plant J', '10.1111/j.1365-313X.2006.02791.x', 'Bray']
+
+AtLIG1: !expresses! mRNA transcripts 
+mRNA transcripts: !differ in! 5' untranslated leader sequences 
+AtLIG1 isoforms: !targeted to! mitochondria 
+AtLIG1 isoforms: !targeted to! nucleus 
+AtLIG1 isoform: !possesses! N-terminal mitochondrial-targeting signal 
+AtLIG1 isoform: !possesses! internal bipartite nuclear localization signal 
+5'-UTR: !affects! translation initiation 
+nucleotide context: !affects! translation initiation

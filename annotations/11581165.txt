@@ -1,0 +1,8 @@
+['11581165', 'The photoreceptor phytochrome (phy) A has a well-defined role in regulating gene  expression in response to specific light signals. Here, we describe a new  Arabidopsis mutant, laf1 (long after far-red light 1) that has an elongated  hypocotyl specifically under far-red light. Gene expression studies showed that  laf1 has reduced responsiveness to continuous far-red light but retains wild-type  responses to other light wavelengths. As far-red light is only perceived by phyA,  our results suggest that LAF1 is specifically involved in phyA signal  transduction. Further analyses revealed that laf1 is affected in a subset of  phyA-dependent responses and the phenotype is more severe at low far-red fluence  rates. LAF1 encodes a nuclear protein with strong homology with the R2R3-MYB  family of DNA-binding proteins. Experiments using yeast cells identified a  transactivation domain in the C-terminal portion of the protein. LAF1 is  constitutively targeted to the nucleus by signals in its N-terminal portion, and  the full-length protein accumulates in distinct nuclear speckles. This  accumulation in speckles is abolished by a point mutation in a lysine residue  (K258R), which might serve as a modification site by a small ubiquitin-like  protein (SUMO).', '2001 Oct 1', 'Genes Dev', '10.1101/gad.915001', 'Chua']
+
+phyA: !regulates! gene expression 
+LAF1: !involved in! phyA signal transduction 
+LAF1: !encodes! R2R3-MYB family of DNA-binding proteins 
+LAF1: !constitutively targeted to! nucleus 
+LAF1: !accumulates in! nuclear speckles 
+K258R: !abolishes! accumulation in speckles

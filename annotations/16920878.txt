@@ -1,0 +1,8 @@
+The RNA-binding protein CHLAMY1 from the green alga Chlamydomonas reinhardtii consists of two subunits. One (named C1) contains three lysine homology motifs and the other (named C3) has three RNA recognition motifs. CHLAMY1 binds specifically to uridine-guanine-repeat sequences and its circadian-binding activity is controlled at the posttranslational level, presumably by time-dependent formation of protein complexes consisting of C1 and C3 or C1 alone. Here we have characterized the role of the two subunits within the circadian system by measurements of a circadian rhythm of phototaxis in strains where C1 or C3 are either up- or down-regulated. Further, we have measured the rhythm of nitrite reductase activity in strains with reduced levels of C1 or C3. In case of changes in the C3 level (both increases and decreases), the acrophase of the phototaxis rhythm and of the nitrite reductase rhythm (C3 decrease) was shifted by several hours from subjective day (maximum in wild-type cells) back towards the night. In contrast, both silencing and overexpression of C1 resulted in disturbed circadian rhythms and arrhythmicity. Interestingly, the expression of C1 is interconnected with that of C3. Our data suggest that CHLAMY1 is involved in the control of the phase angle and period of the circadian clock in C. reinhardtii.
+
+C1: !affects! phototaxis rhythm
+C1: !affects! nitrite reductase rhythm
+C3: !shifts! acrophase of phototaxis rhythm
+C3: !shifts! acrophase of nitrite reductase rhythm
+C1: !interacts with! C3
+C1: !regulates! expression of C3

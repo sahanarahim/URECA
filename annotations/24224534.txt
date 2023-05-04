@@ -1,0 +1,10 @@
+The divergently oriented Sinorhizobium meliloti emrAB (SMc03168 and SMc03167) and emrR (SMc03169) genes are predicted to encode an efflux system of the major facilitator superfamily and a TetR-like transcriptional regulator, respectively. The transcription of the emrA gene was found to be inducible by flavonoids, including luteolin and apigenin, which are known inducers of the nodulation genes in S. meliloti. Interestingly, quercetin, which does not induce nodulation genes, was also a potent inducer of emrA, indicating that NodD is not directly involved in regulation of emrA. The likely regulator of emrAB is EmrR, which binds to palindrome-like sequences in the intergenic region. Several modifications of the palindromes, including an increase of the spacing between the two half sites, prevented binding of EmrR. Binding was also impaired by the presence of luteolin. Mutations in emrA had no obvious effect on symbiosis. This was in contrast to the emrR mutant, which exhibited a symbiotic deficiency with Medicago sativa. Conserved binding sites for TetR-like regulators within the intergenic regions between the emrAB and emrR genes were identified in many symbiotic and pathogenic members of the order Rhizobiales.
+
+emrAB: !encodes! efflux system
+emrR: !encodes! transcriptional regulator
+flavonoids: !induce! emrA
+NodD: !not involved in! regulation of emrA
+EmrR: !binds to! palindrome-like sequences
+mutations in emrA: !have no effect on! symbiosis
+emrR mutant: !exhibits deficiency with! Medicago sativa
+TetR-like regulators: !conserved binding sites for! Rhizobiales

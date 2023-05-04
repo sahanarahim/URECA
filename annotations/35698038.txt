@@ -1,0 +1,13 @@
+Wheat (Triticum aestivum L.) is an important cereal crop. Increasing grain yield for wheat is always a priority. Due to the complex genome of hexaploid wheat with 21 chromosomes, it is difficult to identify underlying genes by traditional genetic approach. The combination of genetics and omics analysis has displayed the powerful capability to identify candidate genes for major quantitative trait loci (QTLs), but such studies have rarely been carried out in wheat. In this study, candidate genes related to yield were predicted by a combined use of linkage mapping and weighted gene co-expression network analysis (WGCNA) in a recombinant inbred line population. QTL mapping was performed for plant height (PH), spike length (SL) and seed traits. A total of 68 QTLs were identified for them, among which, 12 QTLs were stably identified across different environments. Using RNA sequencing, we scanned the 99,168 genes expression patterns of the whole spike for the recombinant inbred line population. By the combined use of QTL mapping and WGCNA, 29, 47, 20, 26, 54, 46 and 22 candidate genes were predicted for PH, SL, kernel length (KL), kernel width, thousand kernel weight, seed dormancy, and seed vigor, respectively. Candidate genes for different traits had distinct preferences. The known PH regulation genes Rht-B and Rht-D, and the known seed dormancy regulation genes TaMFT can be selected as candidate gene. Moreover, further experiment revealed that there was a SL regulatory QTL located in an interval of about 7 Mbp on chromosome 7A, named TaSL1, which also involved in the regulation of KL. A combination of QTL mapping and WGCNA was applied to predicted wheat candidate genes for PH, SL and seed traits. This strategy will facilitate the identification of candidate genes for related QTLs in wheat. In addition, the QTL TaSL1 that had multi-effect regulation of KL and SL was identified, which can be used for wheat improvement. These results provided valuable molecular marker and gene information for fine mapping and cloning of the yield-related trait loci in the future.
+
+QTL: !affects! PH
+QTL: !affects! SL
+QTL: !affects! KL
+QTL: !affects! Kernel Width
+QTL: !affects! Thousand Kernel Weight
+QTL: !affects! Seed Dormancy
+QTL: !affects! Seed Vigor
+Rht-B: !regulates! PH
+Rht-D: !regulates! PH
+TaMFT: !regulates! Seed Dormancy
+TaSL1: !regulates! KL & SL

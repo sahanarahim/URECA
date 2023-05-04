@@ -1,0 +1,8 @@
+<i>Ramularia collo-cygni</i> is the causal agent of Ramularia leaf spot disease (RLS) on barley and became, during the recent decades, an increasing threat for farmers across the world. Here, we analyze morphological, transcriptional, and metabolic responses of two barley cultivars having contrasting tolerance to RLS, when infected by an aggressive or mild <i>R. collo-cygni</i> isolate. We found that fungal biomass in leaves of the two cultivars does not correlate with their tolerance to RLS, and both cultivars displayed cell wall reinforcement at the point of contact with the fungal hyphae. Comparative transcriptome analysis identified that the largest transcriptional differences between cultivars are at the early stages of fungal colonization with differential expression of kinases, calmodulins, and defense proteins. Weighted gene co-expression network analysis identified modules of co-expressed genes, and hub genes important for cultivar responses to the two <i>R. collo-cygni</i> isolates. Metabolite analyses of the same leaves identified defense compounds such as <i>p</i>-CHDA and serotonin, correlating with responses observed at transcriptome and morphological level. Together these all-round responses of barley to <i>R. collo-cygni</i> provide molecular tools for further development of genetic and physiological markers that may be tested for improving tolerance of barley to this fungal pathogen.
+
+kinase: !enhances! defense protein
+calmodulin: !enhances! defense protein
+defense protein: !represses! R. collo-cygni
+hub gene: !affects! cultivar response
+p-CHDA: !synthesizes! defense compound
+serotonin: !synthesizes! defense compound

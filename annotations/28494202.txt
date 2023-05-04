@@ -1,0 +1,7 @@
+Abscisic acid (ABA) plays roles in plant growth and development and in stress responses. Recently, we found that ABA regulates ABA-insensitive protein kinase 1 (AIK1), a mitogen-activated protein kinase kinase kinase. Compared with wild-type, aik1-1 showed downregulation of ABA-responsive genes (RD29A, MYC2, ABI3 and ABI4). Under ABA treatment, the transcript level of KRP1 (Kip-related protein, a cyclin-dependent kinase inhibitor) was lower in aik1-1 than in wild-type. The activity of ABA-activated MPK6 was decreased in abi1 abi2, and abi1 abi2 hab1, and increased in snrk2.2 snrk2.3 and pyr1 pyl1 pyl2 pyl4 mutants. These results indicated that AIK1-MKK5-MPK6 functions in ABA responses and requires ABA-responsive gene expression to regulate ABA-inhibited root growth and cell division. The ABA signaling pathway regulates this MAPK cascade.
+
+ABA: !regulates! AIK1
+AIK1: !downregulates! ABA-responsive genes
+ABA: !activates! MPK6
+ABA-responsive gene expression: !regulates! ABA-inhibited root growth and cell division
+ABA signaling pathway: !regulates! MAPK cascade

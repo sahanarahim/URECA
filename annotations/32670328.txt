@@ -1,0 +1,10 @@
+Plant resistance against biotrophic and necrotrophic pathogens is mediated by mutually synergistic and antagonistic effects of salicylic acid (SA) and jasmonic acid (JA) signals. However, the unique and shared genes responding to the defense mediated by JA/SA signals were largely unclear. To reveal discrete, synergistic and antagonistic JA/SA responsive genes in <i>Arabidopsis thaliana</i>, Meta-Analysis was employed with 257 publicly available <i>Arabidopsis thaliana</i> RNA-Seq gene expression profiles following treatment of mock, JA or SA analogs. JA/SA signalings were found to co-induce broad-spectrum disease-response genes, co-repress the genes related to photosynthesis, auxin, and gibberellin, and reallocate resources of growth toward defense. JA might attenuate SA induced immune response by inhibiting the expression of resistance genes and receptor-like proteins/kinases. Strikingly, co-expression network analysis revealed that JA/SA uniquely regulated genes showing highly coordinated co-expression only in their respective treatment. Using principal component analysis, and hierarchical cluster analysis, JA/SA analogs were segregated into separate entities based on the global differential expression matrix rather than the expression matrix. To accurately classify JA/SA analogs with as few genes as possible, 87 genes, including the SA receptor <i>NPR4</i>, and JA biosynthesis gene <i>AOC1</i> and JA response biomarkers <i>VSP1/2</i>, were identified by three feature selection algorithms as JA/SA markers. The results were confirmed by independent datasets and provided valuable resources for further functional analyses in JA- or SA- mediated plant defense. These methods would provide cues to build a promising approach for probing the mode of action of potential elicitors.
+
+SA: !mediates! Plant resistance
+JA/SA: !co-induces! Disease-response genes
+JA/SA: !co-represses! Photosynthesis, auxin, gibberellin genes
+JA: !attenuates! SA induced immune response
+JA/SA: !uniquely regulates! Highly coordinated co-expression
+NPR4: !identifies! JA/SA analogs
+AOC1: !identifies! JA/SA analogs
+VSP1/2: !identifies! JA/SA analogs

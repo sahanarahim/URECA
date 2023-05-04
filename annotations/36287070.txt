@@ -1,0 +1,8 @@
+The plant hormone ethylene plays a central role in the ripening of climacteric fruits, such as apple (Malus domestica). Ethylene biosynthesis in apple fruit can be suppressed by calcium ions (Ca2+); however, the underlying mechanism is largely unknown. In this study, we identified an apple APETALA2/ETHYLENE-RESPONSIVE FACTOR (AP2/ERF) transcription factor, MdCYTOKININ RESPONSE FACTOR4 (MdCRF4), which functions as a transcriptional activator of ethylene biosynthesis- and signaling-related genes, including Md1-AMINOCYCLOPROPANE-1-CARBOXYLIC ACID SYNTHASE1 (MdACS1) and MdETHYLENE-RESPONSIVE FACTOR3 (MdERF3), as a partner of the calcium sensor, calmodulin. Ca2+ promoted the Ca2+/CaM2-mediated phosphorylation of MdCRF4, resulting in MdCRF4 recognition by the E3 ubiquitin ligase MdXB3 ORTHOLOG 1 IN ARABIDOPSIS THALIANA (MdXBAT31), and consequently its ubiquitination and degradation via the 26S proteasome pathway. This in turn resulted in lower expression of MdACS1 and MdERF3 and reduced ethylene biosynthesis. Transiently overexpressing various MdCRF4 proteins with specific mutated phosphorylation sites revealed that the phosphorylation state of MdCRF4 affects the ripening of apple fruit. The results reveal that a Ca2+/CaM-MdCRF4-MdXBAT31 module is involved in Ca2+-suppressed ethylene biosynthesis, which delays apple fruit ripening. This provides insights into fruit ripening that may result in strategies for extending fruit shelf life.
+
+MdCRF4: !activates! MdACS1, MdERF3
+Ca2+: !promotes! Ca2+/CaM-mediated phosphorylation of MdCRF4
+MdXBAT31: !recognizes! phosphorylated MdCRF4
+MdXBAT31: !ubiquitinates! MdCRF4
+26S proteasome pathway: !degrades! ubiquitinated MdCRF4
+MdCRF4: !affects! ripening of apple fruit

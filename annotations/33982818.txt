@@ -1,0 +1,11 @@
+Light serves as a crucial environmental cue which modulates plant growth and development, and which is controlled by multiple photoreceptors including the primary red light photoreceptor, phytochrome B (phyB). The signaling mechanism of phyB involves direct interactions with a group of basic helix-loop-helix (bHLH) transcription factors, PHYTOCHROME-INTERACTING FACTORS (PIFs), and the negative regulators of photomorphogenesis, COP1 and SPAs. H2A.Z is an evolutionarily conserved H2A variant which plays essential roles in transcriptional regulation. The replacement of H2A with H2A.Z is catalyzed by the SWR1 complex. Here, we show that the Pfr form of phyB physically interacts with the SWR1 complex subunits SWC6 and ARP6. phyB and ARP6 co-regulate numerous genes in the same direction, some of which are associated with auxin biosynthesis and response including YUC9, which encodes a rate-limiting enzyme in the tryptophan-dependent auxin biosynthesis pathway. Moreover, phyB and HY5/HYH act to inhibit hypocotyl elongation partially through repression of auxin biosynthesis. Based on our findings and previous studies, we propose that phyB promotes H2A.Z deposition at YUC9 to inhibit its expression through direct phyB-SWC6/ARP6 interactions, leading to repression of auxin biosynthesis, and thus inhibition of hypocotyl elongation in red light.
+
+phyB: !interacts with! PIFs 
+phyB: !interacts with! SWR1 complex subunits 
+phyB: !co-regulates! numerous genes 
+phyB: !inhibits! hypocotyl elongation 
+SWR1 complex subunits: !catalyze! replacement of H2A with H2A.Z 
+HY5/HYH: !inhibit! hypocotyl elongation 
+YUC9: !encodes! rate-limiting enzyme in auxin biosynthesis pathway 
+phyB: !represses! YUC9 expression 
+phyB: !inhibits! auxin biosynthesis

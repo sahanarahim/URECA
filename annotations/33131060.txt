@@ -1,0 +1,15 @@
+In Arabidopsis thaliana, PROPEPs and their derived elicitor-active Pep epitopes provide damage-associated molecular patterns (DAMPs), which trigger defence responses through cell-surface receptors PEPR1 and PEPR2. In addition, Pep peptides induce root growth inhibition and root hair formation, however their relationships and coordinating mechanisms are poorly understood. Here, we reveal that Pep1-mediated root hair formation requires PEPR-associated kinases BAK1/BKK1 and BIK1/PBL1, ethylene, auxin and root hair differentiation regulators, in addition to PEPR2. Our analysis on 69 accessions unravels intraspecies variations in Pep1-induced root hair formation and growth inhibition. The absence of a positive correlation between the two traits suggests their separate regulation and diversification in natural populations of A. thaliana. Restricted PEPR2 expression to certain root tissues is sufficient to induce root hair formation and growth inhibition in response to Pep1, indicating the capacity of non-cell-autonomous receptor signalling in different root tissues. Of particular note, root hair cell-specific PEPR2 expression uncouples defence activation from root growth inhibition and root hair formation, suggesting a unique property of root hairs in root defence activation following Pep1 recognition.
+
+Pep1: !induces! root hair formation
+Pep1: !induces! growth inhibition
+BAK1/BKK1: !mediates! Pep1-induced root hair formation
+BIK1/PBL1: !mediates! Pep1-induced root hair formation
+ethylene: !mediates! Pep1-induced root hair formation
+auxin: !mediates! Pep1-induced root hair formation
+root hair differentiation regulators: !mediates! Pep1-induced root hair formation
+PEPR1: !recognizes! DAMPs
+PEPR2: !recognizes! DAMPs
+PEPR2: !induces! root hair formation
+PEPR2: !induces! growth inhibition
+PEPR2: !activates! defence responses
+PEPR2: !uncouples! defence activation from root growth inhibition

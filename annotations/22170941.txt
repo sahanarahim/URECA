@@ -1,0 +1,9 @@
+A metabolic study revealed that 28-norcastasterone in Arabidopsis is synthesized from cholesterol via the late C-6 oxidation pathway. On the other hand, the early C-6 oxidation pathway was found to be interrupted because cholestanol is converted to 6-oxocholestanol, but further metabolism to 28-norcathasterone was not observed. The 6-oxoBRs were found to have been produced from the respective 6-deoxoBRs administered to the enzyme solution, thus indicating that these 6-oxoBRs are supplied from the late C-6 oxidation pathway. Heterologously expressed CYP85A1 and CYP85A2 in yeast catalysed this C-6 oxidation, with CYP85A2 being much more efficient than CYP85A1. Abnormal growth of det2 and dwf4 was restored via the application of 28-norcastasterone and closer precursors. Furthermore, det2 and dwf4 could not convert cholesterol to cholestanol and cholestanol to 6-deoxo-28-norcathasterone, respectively. It is, therefore, most likely that the same enzyme system is operant in the synthesis of both 28-norcastasterone and castasterone. In the presence of S-adenosyl-L-methionine, the cell-free enzyme extract catalysed the C-24 methylation of 28-norcastasterone to castasterone, although the conversion rates of 28-norteasterone to teasterone and 28-nortyphasterol to typhasterol were much lower; this suggests that 28-norcastasterone is the primary precursor for the generation of C(28)-BRs from C(27)-BRs.
+
+CYP85A1: !catalyses! C-6 oxidation 
+CYP85A2: !catalyses! C-6 oxidation 
+det2: !restored by! 28-norcastasterone 
+dwf4: !restored by! 28-norcastasterone 
+S-adenosyl-L-methionine: !catalyses! C-24 methylation 
+28-norcastasterone: !synthesized from! cholesterol 
+28-norcastasterone: !primary precursor for! C(28)-BRs

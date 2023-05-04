@@ -1,0 +1,9 @@
+In plants, the shoot apical meristem (SAM) is essential for the growth of aboveground organs. However, little is known about its molecular responses to abiotic stresses. Here, we show that the SAM of Arabidopsis thaliana displays an autonomous heat-stress (HS) memory of a previous non-lethal HS, allowing the SAM to regain growth after exposure to an otherwise lethal HS several days later. Using RNA sequencing, we identified genes participating in establishing the SAM's HS transcriptional memory, including the stem cell (SC) regulators CLAVATA1 (CLV1) and CLV3, HEAT SHOCK PROTEIN 17.6A (HSP17.6A), and the primary carbohydrate metabolism gene FRUCTOSE-BISPHOSPHATE ALDOLASE 6 (FBA6). We demonstrate that sugar availability is essential for survival of plants at high temperature. HEAT SHOCK TRANSCRIPTION FACTOR A2 (HSFA2A) directly regulates the expression of HSP17.6A and FBA6 by binding to the heat-shock elements in their promoters, indicating that HSFA2 is required for transcriptional activation of SAM memory genes. Collectively, these findings indicate that plants have evolved a sophisticated protection mechanism to maintain SCs and, hence, their capacity to re-initiate shoot growth after stress release.
+
+CLV1: !regulates! SC 
+CLV3: !regulates! SC 
+HSP17.6A: !regulated by! HSFA2A 
+FBA6: !regulated by! HSFA2A 
+HSFA2A: !binds to! heat-shock elements 
+HSFA2A: !activates! HSP17.6A 
+HSFA2A: !activates! FBA6

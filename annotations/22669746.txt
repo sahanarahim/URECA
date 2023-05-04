@@ -1,0 +1,10 @@
+We have identified transcription factors that interact with a promoter region involved in expression of the Arabidopsis thaliana COX5b-1 gene, which encodes an isoform of the cytochrome c oxidase zinc binding subunit. Elements with the core sequence ATCATT, involved in induction by sugars, are recognized both in vitro and in one-hybrid assays in yeast by HD-Zip proteins from the delta subclass and, though less efficiently, by the trihelix transcription factor GT-3b. DistalB-like elements (CCACTTG), required for induction by abscisic acid (ABA), interact with ESE1, a member of the B-3 subgroup of AP2/ERF transcription factors. The HD-Zip protein Athb-21 and ESE1 are able to interact in yeast two-hybrid assays with the ABA responsive element binding factor AREB2/ABF4, which binds to a G-box absolutely required for expression of the COX5b-1 gene. Overexpression of the identified transcription factors in plants produces an increase in COX5b-1 transcript levels. Moreover, these factors are able to induce the expression of a reporter gene located in plants under the control of the relevant COX5b-1 promoter regions required for expression. Analysis of promoter regions of COX5b genes from different plant species suggests that the identified transcription factors were recruited for the regulation of COX5b gene expression at different stages during the evolution of dicot plants.
+
+HD-Zip: !interacts with! ATCATT
+Trihelix: !interacts with! ATCATT
+ESE1: !interacts with! CCACTTG
+AREB2/ABF4: !interacts with! HD-Zip
+AREB2/ABF4: !interacts with! ESE1
+HD-Zip: !induces! COX5b-1
+ESE1: !induces! COX5b-1
+Overexpression: !increases! COX5b-1 transcript levels

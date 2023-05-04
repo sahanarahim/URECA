@@ -1,0 +1,10 @@
+Essential genes represent critical cellular components whose disruption results in lethality. Characteristics shared among essential genes have been uncovered in fungal and metazoan model systems. However, features associated with plant essential genes are largely unknown and the full set of essential genes remains to be discovered in any plant species. Here, we show that essential genes in Arabidopsis thaliana have distinct features useful for constructing within- and cross-species prediction models. Essential genes in A. thaliana are often single copy or derived from older duplications, highly and broadly expressed, slow evolving, and highly connected within molecular networks compared with genes with nonlethal mutant phenotypes. These gene features allowed the application of machine learning methods that predicted known lethal genes as well as an additional 1970 likely essential genes without documented phenotypes. Prediction models from A. thaliana could also be applied to predict Oryza sativa and Saccharomyces cerevisiae essential genes. Importantly, successful predictions drew upon many features, while any single feature was not sufficient. Our findings show that essential genes can be distinguished from genes with nonlethal phenotypes using features that are similar across kingdoms and indicate the possibility for translational application of our approach to species without extensive functional genomic and phenomic resources.
+
+Gene: !single copy or derived from older duplications! Essential genes 
+Gene: !highly and broadly expressed! Essential genes 
+Gene: !slow evolving! Essential genes 
+Gene: !highly connected within molecular networks! Essential genes 
+Gene: !predicts! Known lethal genes 
+Gene: !predicts! Additional 1970 likely essential genes 
+Gene: !predicts! Oryza sativa essential genes 
+Gene: !predicts! Saccharomyces cerevisiae essential genes

@@ -1,0 +1,7 @@
+['32989172', 'Plant roots are sustained through meristem activity at the root tip. Two  transcriptional pathways, one mediated by PLETHORAs (PLTs) and the other by  SHORTROOT and SCARECROW, play major roles in root meristem development. The role  of PLTs during root meristem development requires a concentration gradient, which  is not only contributed by posttranslational regulation such as growth dilution  and intercellular movement but also likely by a largely unknown fine-tuned  transcriptional regulatory mechanism. We report here that Arabidopsis  (Arabidopsis thaliana) JANUS positively regulates PLT1 expression in the root  meristem by recruiting RNA polymerase II (Pol II) to PLT1 and by interacting with  PLT1. JANUS-dependent recruitment of Pol II is inhibited through the competitive  binding of JANUS by GRF-INTERACTING FACTOR1 (GIF1)/ANGUSTIFOLIA3, a  transcriptional cofactor that negatively regulates PLT1 expression. Finally, GIF1  and JANUS, the antagonistic regulators of PLT1, both depend on Arabidopsis  IMPORTIN beta4 for their nuclear accumulation. The combination of an importin and  its two antagonistic cargos in PLT1 transcription may have logistic benefits in  fine-tuning the transcription of PLT1 in root meristem.', '2020 Dec', 'Plant Cell', '10.1105/tpc.20.00108', 'ORCID:']
+
+PLT1: !regulated by! JANUS 
+JANUS: !inhibited by! GIF1 
+GIF1: !interacts with! JANUS 
+JANUS: !depends on! IMPORTIN beta4 
+GIF1: !depends on! IMPORTIN beta4

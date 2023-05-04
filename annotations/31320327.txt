@@ -1,0 +1,8 @@
+Cucumber (<i>Cucumis sativus</i> L.) is an important vegetable crop that carries on vegetative growth and reproductive growth simultaneously. Indeterminate growth is favourable for fresh market under protected environments, whereas determinate growth is preferred for pickling cucumber in the once-over mechanical harvest system. The genetic basis of determinacy is largely unknown in cucumber. In this study, map-based cloning of the <i>de</i> locus showed that the determinate growth habit is caused by a non-synonymous SNP in <i>CsTFL1</i><i>CsTFL1</i> is expressed in the subapical regions of the shoot apical meristem, lateral meristem and young stems. Ectopic expression of <i>CsTFL1</i> rescued the terminal flower phenotype in the <i>Arabidopsis tfl1-11</i> mutant and delayed flowering in wild-type <i>Arabidopsis</i> Knockdown of <i>CsTFL1</i> resulted in determinate growth and formation of terminal flowers in cucumber. Biochemical analyses indicated that CsTFL1 interacts with a homolog of the miRNA biogenesis gene CsNOT2a; CsNOT2a interacts with FDP. Cucumber CsFT directly interacts with CsNOT2a and CsFD, and CsFD interacts with two 14-3-3 proteins. These data suggest that CsTFL1 competes with CsFT for interaction with CsNOT2a-CsFDP to inhibit determinate growth and terminal flower formation in cucumber.
+
+CsTFL1: !affects! determinate growth
+CsTFL1: !interacts with! CsNOT2a
+CsNOT2a: !interacts with! FDP
+CsFT: !interacts with! CsNOT2a
+CsFT: !interacts with! CsFDP
+CsFDP: !interacts with! two 14-3-3 proteins

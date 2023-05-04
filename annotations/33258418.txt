@@ -1,0 +1,7 @@
+<i>Phytophthora</i> spp. secrete vast arrays of effector molecules during infection to aid in host colonization. The crinkling and necrosis (CRN) protein family forms an extensive repertoire of candidate effectors that accumulate in the host nucleus to perturb processes required for immunity. Here, we show that CRN12_997 from <i>Phytophthora capsici</i> binds a TCP transcription factor, SlTCP14-2, to inhibit its immunity-associated activity against <i>Phytophthora</i> spp. Coimmunoprecipitation and bimolecular fluorescence complementation studies confirm a specific CRN12_997-SlTCP14-2 interaction in vivo. Coexpression of CRN12_997 specifically counteracts the TCP14-enhanced immunity phenotype, suggesting that CRN mediated perturbation of SlTCP14-2 function. We show that SlTCP14-2 associates with nuclear chromatin and that CRN12_997 diminishes SlTCP14-2 DNA binding. Collectively, our data support a model in which SlTCP14-2 associates with chromatin to enhance immunity. The interaction between CRN12_997 and SlTCP14-2 reduces DNA binding of the immune regulator. We propose that the modulation of SlTCP14-2 chromatin affinity, caused by CRN12-997, enhances susceptibility to <i>P. capsici</i>.[Formula: see text] Copyright © 2021 The Author(s). This is an open access article distributed under the CC BY-NC-ND 4.0 International license.
+
+CRN12_997: !interacts with! SlTCP14-2
+SlTCP14-2: !enhances! immunity
+CRN12_997: !represses! SlTCP14-2 activity
+SlTCP14-2: !associates with! nuclear chromatin
+CRN12_997: !diminishes! SlTCP14-2 DNA binding

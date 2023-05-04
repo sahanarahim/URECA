@@ -1,0 +1,10 @@
+BLAST searchable databases containing insertion flanking sequences have revolutionized reverse genetics in plant research. The development of such databases has so far been limited to a small number of model species and normally requires extensive labour input. Here we describe a highly efficient and widely applicable method that we adapted to identify unique transposon-flanking genomic sequences in Petunia. The procedure is based on a multi-dimensional pooling strategy for the collection of DNA samples; up to thousands of different templates are amplified from each of the DNA pools separately, and knowledge of their source is safeguarded by the use of pool-specific (sample) identification tags in one of the amplification primers. All products are combined into a single sample that is subsequently used as a template for unidirectional pyrosequencing. Computational analysis of the clustered sequence output allows automatic assignment of sequences to individual DNA sources. We have amplified and analysed transposon-flanking sequences from a Petunia transposon insertion library of 1000 individuals. Using 30 DNA isolations, 70 PCR reactions and two GS20 sequencing runs, we were able to allocate around 10 000 transposon flanking sequences to specific plants in the library. These sequences have been organized in a database that can be BLAST-searched for insertions into genes of interest. As a proof of concept, we have performed an in silico screen for insertions into members of the NAM/NAC transcription factor family. All in silico-predicted transposon insertions into members of this family could be confirmed in planta.
+
+DNA: !amplified from! Pool
+Pool: !contains! DNA samples
+PCR: !amplifies! DNA
+Pyrosequencing: !clusters! Sequence output
+Sequence: !assigned to! Individual DNA sources
+Database: !BLAST-searched for! Insertions into genes of interest
+NAM/NAC transcription factor family: !in silico-screened for! Transposon insertions
+Transposon insertions: !confirmed in planta!

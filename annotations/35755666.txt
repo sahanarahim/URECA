@@ -1,0 +1,11 @@
+<i>Magnaporthe grisea</i> is one of the most destructive pathogen that encounters a challenge to rice production around the worldwide. The unique properties of ZnO nanoparticles (NPs), have high attractiveness as nanofungicide. In the present study, the response of fungi to ZnO NPs was evaluated using RNA sequencing (RNA-seq). Two different aligners (STAR and Hisat2) were used for aligning the clean reads, and the DEseq2 package was used to identify the differentially expressed genes (DEGs). In total, 1,438 and 761 fungal genes were significantly up- and down-regulated in response to ZnO NPs, respectively. The DEGs were subjected to functional enrichment analysis to identify significantly enriched biological pathways. Functional enrichment analysis revealed that "cell membrane components," "ion (calcium) transmembrane transporter activity," "steroid biosynthesis pathway" and "catalytic activity" were the contributed terms to fungal response mechanisms. The genes involved in aflatoxin efflux pumps and ribosome maturation were among the genes showing significant up- and down-regulation after ZnO NPs application. To confirm the obtained RNA-seq results, the expression of six randomly selected genes were evaluated using q-RT-PCR. Overall, the RNA-seq results suggest that ZnO NPs primarily act on the fungal cell membrane, but accumulation of ROS inside the cell induces oxidative stress, the fungal catalytic system is disrupted, resulting into the inhibition of ROS scavenging and eventually, to the death of fungal cells. Our findings provide novel insights into the effect of ZnO NPs as a promising nanofungicide for effective control of rice blast disease.
+
+ZnO NPs: !affects! Fungal cell membrane 
+Cell membrane components: !contribute to! Fungal response mechanisms 
+Ion (calcium) transmembrane transporter activity: !contribute to! Fungal response mechanisms 
+Steroid biosynthesis pathway: !contribute to! Fungal response mechanisms 
+Catalytic activity: !contribute to! Fungal response mechanisms 
+Aflatoxin efflux pumps: !up-regulated by! ZnO NPs 
+Ribosome maturation: !down-regulated by! ZnO NPs 
+ROS: !induces! Oxidative stress 
+Fungal catalytic system: !disrupted by! ROS

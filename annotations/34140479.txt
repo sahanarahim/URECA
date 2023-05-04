@@ -1,0 +1,6 @@
+Identification of small molecules is a critical task in various areas of life science. Recent advances in mass spectrometry have enabled the collection of tandem mass spectra of small molecules from hundreds of thousands of environments. To identify which molecules are present in a sample, one can search mass spectra collected from the sample against millions of molecular structures in small molecule databases. The existing approaches are based on chemistry domain knowledge, and they fail to explain many of the peaks in mass spectra of small molecules. Here, we present molDiscovery, a mass spectral database search method that improves both efficiency and accuracy of small molecule identification by learning a probabilistic model to match small molecules with their mass spectra. A search of over 8 million spectra from the Global Natural Product Social molecular networking infrastructure shows that molDiscovery correctly identify six times more unique small molecules than previous methods.
+
+molDiscovery: !improves! Efficiency and Accuracy 
+molDiscovery: !identifies! Unique Small Molecules 
+Global Natural Product Social molecular networking infrastructure: !provides! 8 Million Spectra 
+molDiscovery: !correctly identifies! 6 Times More Unique Small Molecules

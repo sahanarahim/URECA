@@ -1,0 +1,8 @@
+ASYMMETRIC LEAVES2 (AS2)/LATERAL ORGAN BOUNDARIES DOMAIN (LBD) family proteins are plant-specific nuclear proteins, and genes encoding several family members have been implicated in plant development. We investigated the function of two members of the Arabidopsis thaliana AS2/LBD family, AS2-LIKE19 (ASL19)/LBD30 and ASL20/LBD18, which encode homologous proteins. Both ASL19 and ASL20 were expressed in immature tracheary elements (TEs), and the expression was dependent on VASCULAR-RELATED NAC-DOMAIN PROTEIN6 (VND6) and VND7, which are transcription factors required for TE differentiation. Overexpression of ASL19 and ASL20 induced transdifferentiation of cells from nonvascular tissues into TE-like cells, similar to those induced upon VND6/7 overexpression. By contrast, aberrant TEs were formed when a cDNA encoding a fusion protein of ASL20 with an artificial repressor domain (ASL20-SRDX) was expressed from its native promoter. These results provide evidence that ASL proteins positively regulate TE differentiation. In transgenic plants overexpressing both ASL19 and ASL20, the xylem-deficient phenotype caused by the expression of dominant-negative versions of VND6/7 proteins was not rescued. However, ectopic expression of VND7 was detected in plants overexpressing ASL20. Moreover, VND genes and their downstream targets were downregulated in ASL20-SRDX plants. Therefore, ASL20 appears to be involved in a positive feedback loop for VND7 expression that regulates TE differentiation-related genes.
+
+ASL19: !induces! transdifferentiation 
+ASL20: !induces! transdifferentiation 
+VND6/7: !regulate! ASL expression 
+ASL20: !interacts with! VND7 
+ASL20: !enhances! VND7 expression 
+ASL20: !represses! downstream targets

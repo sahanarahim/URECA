@@ -1,0 +1,8 @@
+Plant growth in dense vegetation can be strongly affected by competition for light between neighbours. These neighbours can not only be detected through phytochrome-mediated perception of a reduced red:far-red ratio, but also through altered blue light fluence rates. A reduction in blue light (low blue) induces a set of phenotypic traits, such as shoot elongation, to consolidate light capture; these are called shade avoidance responses. Here we show that both auxin and brassinosteroids (BR) play an important role in the regulation of enhanced hypocotyl elongation of Arabidopsis seedlings in response to blue light depletion. Only when both hormones are experimentally blocked simultaneously, using mutants and chemical inhibitors, will the response be fully inhibited. Upon exposure to low blue several members of the cell wall modifying XYLOGLUCAN ENDOTRANSGLUCOSYLASE/HYDROLASE (XTH) protein family are regulated as well. Interestingly, auxin and BR each regulate a subset of these XTHs, by which they could regulate cell elongation. We hypothesize that auxin and BR regulate specific XTH genes in a non-redundant and non-synergistic manner during low-blue-induced shade avoidance responses of Arabidopsis seedlings, which explains why both hormones are required for an intact low-blue response.
+
+phytochrome: !detects! reduced red:far-red ratio
+low blue: !induces! shoot elongation
+auxin: !regulates! XTH genes
+BR: !regulates! XTH genes
+auxin: !non-redundantly regulates! BR
+BR: !non-redundantly regulates! auxin

@@ -1,0 +1,10 @@
+When the gibberellin (GA) receptor GIBBERELLIN INSENSITIVE DWARF 1 (GID1) binds to GA, GID1 interacts with DELLA proteins, repressors of GA signaling. This interaction inhibits the suppressive function of DELLA protein and thereby activates the GA response. However, how DELLA proteins exert their suppressive function and how GID1s inhibit suppressive function of DELLA proteins is unclear. By yeast one-hybrid experiments and transient expression of the N-terminal region of rice DELLA protein (SLR1) in rice callus, we established that the N-terminal DELLA/TVHYNP motif of SLR1 possesses transactivation activity. When SLR1 proteins with various deletions were over-expressed in rice, the severity of dwarfism correlated with the transactivation activity observed in yeast, indicating that SLR1 suppresses plant growth through transactivation activity. This activity was suppressed by the GA-dependent GID1-SLR1 interaction, which may explain why GA responses are induced in the presence of GA. The C-terminal GRAS domain of SLR1 also exhibits a suppressive function on plant growth, possibly by directly or indirectly interacting with the promoter region of target genes. Our results indicate that the N-terminal region of SLR1 has two roles in GA signaling: interaction with GID1 and transactivation activity.
+
+GID1: !interacts with! DELLA proteins
+DELLA proteins: !repress! GA signaling
+SLR1: !transactivates! plant growth
+GID1: !inhibits! suppressive function of DELLA proteins
+GA: !activates! GA response
+SLR1: !suppresses! plant growth
+SLR1: !interacts with! GID1
+GRAS domain: !interacts with! promoter region

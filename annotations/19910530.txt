@@ -1,0 +1,10 @@
+['19910530', 'Reactive oxygen species (ROS) mediate abscisic acid (ABA) signaling in guard  cells. To dissect guard cell ABA-ROS signaling genetically, a cell type-specific  functional genomics approach was used to identify 2 MAPK genes, MPK9 and MPK12,  which are preferentially and highly expressed in guard cells. To provide genetic  evidence for their function, Arabidopsis single and double TILLING mutants that  carry deleterious point mutations in these genes were isolated. RNAi-based  gene-silencing plant lines, in which both genes are silenced simultaneously, were  generated also. Mutants carrying a mutation in only 1 of these genes did not show  any altered phenotype, indicating functional redundancy in these genes.  ABA-induced stomatal closure was strongly impaired in 2 independent RNAi lines in  which both MPK9 and MPK12 transcripts were significantly silenced. Consistent  with this result, mpk9-1/12-1 double mutants showed an enhanced transpirational  water loss and ABA- and H(2)O(2)-insensitive stomatal response. Furthermore, ABA  and calcium failed to activate anion channels in guard cells of mpk9-1/12-1,  indicating that these 2 MPKs act upstream of anion channels in guard cell ABA  signaling. An MPK12-YFP fusion construct rescued the ABA-insensitive stomatal  response phenotype of mpk9-1/12-1, demonstrating that the phenotype was caused by  the mutations. The MPK12 protein is localized in the cytosol and the nucleus, and  ABA and H(2)O(2) treatments enhance the protein kinase activity of MPK12.  Together, these results provide genetic evidence that MPK9 and MPK12 function  downstream of ROS to regulate guard cell ABA signaling positively.', '2009 Dec 1', 'Proc Natl Acad Sci U S A', '10.1073/pnas.0907205106', 'Kwak']
+
+MPK9: !affects! ABA-ROS signaling 
+MPK12: !affects! ABA-ROS signaling 
+MPK9/MPK12: !redundant in! function 
+MPK9/MPK12: !silencing of! impairs ABA-induced stomatal closure 
+MPK9/MPK12: !act upstream of! anion channels 
+MPK12: !localizes to! cytosol and nucleus 
+MPK12: !enhanced by! ABA and H2O2 treatments 
+MPK12: !regulates guard cell ABA signaling positively!

@@ -1,0 +1,11 @@
+['15842626', "Staphylococcus aureus is a ubiquitous gram-positive bacterium that can cause  superficial to serious systemic infections in animals and humans. Here we report  the development of a plant infection model to study the pathogenesis of this  bacterium. Three global regulatory mutants, RN6911 (agr-), ALC 488 (sarA-) ALC  842 (sarA-/agr-) and an alpha-toxin mutant defective in biofilm formation  (DU1090) which are attenuated in animal pathogenesis, were also attenuated in  their ability to infect plants, suggesting that these regulators that mediate  synthesis of virulence factors essential for animal pathogenesis are also  required for plant pathogenesis. Further, using Arabidopsis plants altered in  defense responses such as the transgenic lines NahG [defective in salicylic acid  (SA) accumulation], and 35S-LOX2- (defective in jasmonic acid production and  hyper-accumulator of SA), and mutants ics1 (depleted in SA accumulation), and  npr1-1 (non-expressor of pathogenesis-related protein) we show that resistance of  Arabidopsis to typical plant pathogens and the animal pathogen S. aureus is  conserved and is mediated by SA. The data presented here suggest that Arabidopsis  thaliana resistance to S. aureus is mediated either by a direct effect of SA on  the pathogen, specifically one that affects the attachment/aggregate formation on  the root surface and reduces the pathogen's virulence, or by SA-dependent,  NPR1-independent host responses.", '2005 May', 'Plant J', '10.1111/j.1365-313X.2005.02385.x', 'Vivanco']
+
+agr-: !attenuates! plant infection 
+sarA-: !attenuates! plant infection 
+sarA-/agr-: !attenuates! plant infection 
+DU1090: !attenuates! plant infection 
+NahG: !defective in! SA accumulation 
+35S-LOX2-: !defective in! JA production 
+ics1: !depleted in! SA accumulation 
+npr1-1: !non-expressor of! PR proteins 
+SA: !mediates! resistance to S. aureus

@@ -1,0 +1,8 @@
+Hyperosmotic stress caused by drought and salinity is a significant environmental threat that limits plant growth and agricultural productivity. Osmotic stress induces diverse responses in plants including Ca<sup>2+</sup> signaling, accumulation of the stress hormone abscisic acid (ABA), reprogramming of gene expression, and altering of growth. Despite intensive investigation, no global regulators of all of these responses have been identified. Here, we show that the Ca<sup>2+</sup>-responsive phospholipid-binding BONZAI (BON) proteins are critical for all of these osmotic stress responses. A Ca<sup>2+</sup>-imaging-based forward genetic screen identified a loss-of-function bon1 mutant with a reduced cytosolic Ca<sup>2+</sup> signal in response to hyperosmotic stress. The loss-of-function mutants of the BON1 gene family, bon1bon2bon3, are impaired in the induction of gene expression and ABA accumulation in response to osmotic stress. In addition, the bon mutants are hypersensitive to osmotic stress in growth inhibition. BON genes have been shown to negatively regulate plant immune responses mediated by intracellular immune receptor NLR genes including SNC1. We found that the defects of the bon mutants in osmotic stress responses were suppressed by mutations in the NLR gene SNC1 or the immunity regulator PAD4. Our findings indicate that NLR signaling represses osmotic stress responses and that BON proteins suppress NLR signaling to enable global osmotic stress responses in plants.
+
+BON: !represses! NLR
+Ca<sup>2+</sup>: !induces! BON
+BON: !enhances! ABA accumulation
+BON: !enhances! gene expression
+BON: !suppresses! SNC1
+PAD4: !suppresses! BON

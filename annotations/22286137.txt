@@ -1,0 +1,7 @@
+Land plant cells assemble microtubule arrays without a conspicuous microtubule organizing center like a centrosome. In Arabidopsis thaliana, the TONNEAU1 (TON1) proteins, which share similarity with FOP, a human centrosomal protein, are essential for microtubule organization at the cortex. We have identified a novel superfamily of 34 proteins conserved in land plants, the TON1 Recruiting Motif (TRM) proteins, which share six short conserved motifs, including a TON1-interacting motif present in all TRMs. An archetypal member of this family, TRM1, is a microtubule-associated protein that localizes to cortical microtubules and binds microtubules in vitro. Not all TRM proteins can bind microtubules, suggesting a diversity of functions for this family. In addition, we show that TRM1 interacts in vivo with TON1 and is able to target TON1 to cortical microtubules via its C-terminal TON1 interaction motif. Interestingly, three motifs of TRMs are found in CAP350, a human centrosomal protein interacting with FOP, and the C-terminal M2 motif of CAP350 is responsible for FOP recruitment at the centrosome. Moreover, we found that TON1 can interact with the human CAP350 M2 motif in yeast. Taken together, our results suggest conservation of eukaryotic centrosomal components in plant cells.
+
+TON1: !interacts with! TRM1 
+TRM1: !localizes to! cortical microtubules 
+TRM1: !binds! microtubules 
+TON1: !interacts with! CAP350 M2 motif 
+CAP350 M2 motif: !recruits! FOP

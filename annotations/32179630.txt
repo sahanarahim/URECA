@@ -1,0 +1,7 @@
+['32179630', 'Hydrogen sulfide (H(2)S), a plant gasotransmitter, functions in the plant  response to cadmium (Cd) stress, implying a role for cysteine desulfhydrase in  producing H(2)S in this process. Whether d -CYSTEINE DESULFHYDRASE (DCD) acts in  the plant Cd response remains to be identified, and if it does, how DCD is  regulated in this process is also unknown. Here, we report that DCD-mediated  H(2)S production enhances plant Cd tolerance in Arabidopsis (Arabidopsis  thaliana). When subjected to Cd stress, a dcd mutant accumulated more Cd and  reactive oxygen species and showed increased Cd sensitivity, whereas transgenic  lines overexpressing DCD had decreased Cd and reactive oxygen species levels and  were more tolerant to Cd stress compared with wild-type plants. Furthermore, the  expression of DCD was stimulated by Cd stress, and this up-regulation was  mediated by a Cd-induced transcription factor, WRKY13, which bound to the DCD  promoter. Consistently, the higher Cd sensitivity of the wrky13-3 mutant was  rescued by the overexpression of DCD Together, our results demonstrate that  Cd-induced WRKY13 activates DCD expression to increase the production of H(2)S,  leading to higher Cd tolerance in plants.', '2020 May', 'Plant Physiol', '10.1104/pp.19.01504', 'ORCID:']
+
+DCD: !produces! H(2)S 
+WRKY13: !induces! DCD 
+Cd: !stimulates! WRKY13 
+DCD: !enhances! Cd tolerance 
+WRKY13: !binds to! DCD promoter

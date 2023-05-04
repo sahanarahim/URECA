@@ -1,0 +1,8 @@
+In plants, light signals trigger a photomorphogenic program involving transcriptome changes, epigenetic regulation, and inhibited hypocotyl elongation. The evolutionarily conserved histone variant H2A.Z, which functions in transcriptional regulation, is deposited in chromatin by the SWI2/SNF2-RELATED 1 complex (SWR1c). However, the role of H2A.Z in photomorphogenesis and its deposition mechanism remain unclear. Here, we show that in Arabidopsis thaliana, H2A.Z deposition at its target loci is induced by light irradiation via NUCLEAR FACTOR-Y, subunit C (NF-YC) proteins, thereby inhibiting photomorphogenic growth. NF-YCs physically interact with ACTIN-RELATED PROTEIN6 (ARP6), a key component of the SWR1c that is essential for depositing H2A.Z, in a light-dependent manner. NF-YCs and ARP6 function together as negative regulators of hypocotyl growth by depositing H2A.Z at their target genes during photomorphogenesis. Our findings reveal an important role for the histone variant H2A.Z in photomorphogenic growth and provide insights into a novel transcription regulatory node that mediates H2A.Z deposition to control plant growth in response to changing light conditions.
+
+Light: !triggers! Photomorphogenic program
+H2A.Z: !deposited by! SWR1c
+NF-YC: !induces! H2A.Z deposition
+NF-YC: !interacts with! ARP6
+NF-YC/ARP6: !regulate! Hypocotyl growth
+H2A.Z: !controls! Plant growth

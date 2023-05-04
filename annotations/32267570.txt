@@ -1,0 +1,9 @@
+The Arabidopsis MEKK1-MKK1/MKK2-MPK4 kinase cascade is monitored by the nucleotide-binding leucine-rich-repeat immune receptor SUMM2. Disruption of this kinase cascade leads to activation of SUMM2-mediated immune responses. MEKK2, a close paralog of MEKK1, is required for defense responses mediated by SUMM2, the molecular mechanism of which is unclear. In this study, we showed that MEKK2 serves as a negative regulator of MPK4. It binds to MPK4 to directly inhibit its phosphorylation by upstream MKKs. Activation of SUMM2-mediated defense responses induces the expression of MEKK2, which in turn blocks MPK4 phosphorylation to further amplify immune responses mediated by SUMM2. Intriguingly, MEKK2 locates in a tandem repeat consisting of MEKK1, MEKK2 and MEKK3, which was generated from a recent gene duplication event, suggesting that MEKK2 evolved from a MAPKKK to become a negative regulator of MAP kinases.
+
+MEKK1: !monitors! SUMM2
+MEKK2: !required for! SUMM2-mediated defense responses
+MEKK2: !binds to! MPK4
+MEKK2: !inhibits! MPK4 phosphorylation
+SUMM2: !induces! MEKK2 expression
+MEKK2: !amplifies! SUMM2-mediated immune responses
+MEKK2: !locates in! tandem repeat

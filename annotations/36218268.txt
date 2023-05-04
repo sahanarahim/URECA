@@ -1,0 +1,9 @@
+With the widespread use of clustered regularly interspaced palindromic repeats (CRISPR)/CRISPR-associated nuclease (Cas) technologies in plants, large-scale genome editing is increasingly needed. Here, we developed a geminivirus-mediated surrogate system, called Wheat Dwarf Virus-Gate (WDV-surrogate), to facilitate high-throughput genome editing. WDV-Gate has two parts: one is the recipient callus from a transgenic rice line expressing Cas9 and a mutated hygromycin-resistant gene (HygM) for surrogate selection; the other is a WDV-based construct expressing two single guide RNAs (sgRNAs) targeting HygM and a gene of interest, respectively. We evaluated WDV-Gate on six rice loci by producing a total of 874 T<sub>0</sub> plants. Compared with the conventional method, the WDV-Gate system, which was characterized by a transient and high level of sgRNA expression, significantly increased editing frequency (66.8% vs. 90.1%), plantlet regeneration efficiency (2.31-fold increase), and numbers of homozygous-edited plants (36.3% vs. 70.7%). Large-scale editing using pooled sgRNAs targeting the SLR1 gene resulted in a high editing frequency of 94.4%, further demonstrating its feasibility. We also tested WDV-Gate on sequence knock-in for protein tagging. By co-delivering a chemically modified donor DNA with the WDV-Gate plasmid, 3xFLAG peptides were successfully fused to three loci with an efficiency of up to 13%. Thus, by combining transiently expressed sgRNAs and a surrogate selection system, WDV-Gate could be useful for high-throughput gene knock-out and sequence knock-in.
+
+gene: !affects! editing frequency
+gene: !enhances! plantlet regeneration efficiency
+gene: !synthesizes! sgRNAs
+sgRNA: !targets! HygM
+sgRNA: !targets! gene of interest
+donor DNA: !co-delivers! WDV-Gate plasmid
+WDV-Gate: !facilitates! high-throughput genome editing

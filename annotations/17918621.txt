@@ -1,0 +1,12 @@
+['17918621', 'Effector proteins injected by the pathogenic bacteria Pseudomonas syringae into  plants can have profound effects on the pathogen-host interaction due to their  efficient recognition by plants and the subsequent triggering of defenses. The  AvrRpt2 effector triggers strong local and systemic defense (called systemic  acquired resistance [SAR]) responses in Arabidopsis thaliana plants that harbor a  functional RPS2 gene that encodes an R protein in the coiled-coil,  nucleotide-binding domain, leucine-rich repeat class. The newly identified win3-T  mutant shows greatly reduced resistance to P syringae carrying avrRpt2. In win3-T  plants, RIN4 cleavage, an early AvrRpt2-induced event, is normal. However,  salicylic acid accumulation is compromised, as is SAR induction and the local  hypersensitive cell death response after infection by P syringae carrying  avrRpt2. WIN3 encodes a member of the firefly luciferase protein superfamily.  Expression of WIN3 at an infection site partially requires PAD4, a protein known  to play a quantitative role in RPS2-mediated signaling. WIN3 expression in tissue  distal to an infection site requires multiple salicylic acid regulatory genes.  Finally, win3-T plants show modestly increased susceptibility to virulent P  syringae and modestly reduced SAR in response to P. syringae carrying avrRpm1.  Thus, WIN3 is a key element of the RPS2 defense response pathway and a basal and  systemic defense component.', '2007 Oct', 'Mol Plant Microbe Interact', '10.1094/MPMI-20-10-1192', 'Greenberg']
+
+AvrRpt2: !triggers! defense responses 
+RPS2 gene: !encodes! R protein 
+win3-T mutant: !shows reduced resistance to! P syringae carrying avrRpt2 
+RIN4: !cleaved by! AvrRpt2 
+salicylic acid: !accumulated by! win3-T plants 
+SAR: !induced by! win3-T plants 
+WIN3: !encodes! member of firefly luciferase protein superfamily 
+PAD4: !required for! WIN3 expression at infection site 
+salicylic acid regulatory genes: !required for! WIN3 expression distal to infection site 
+win3-T plants: !show increased susceptibility to! virulent P syringae

@@ -1,0 +1,12 @@
+Ran is a multifunctional small GTPase that is involved in nucleocytoplasmic transport, mitotic spindle assembly, and nuclear envelope formation. Nuclear import of Ran relies on a small RanGDP-binding protein, Nuclear Transport Factor 2 (NTF2). Three proteins are expressed in Arabidopsis (Arabidopsis thaliana) that show significant sequence similarity to human and yeast (Saccharomyces cerevisiae) NTF2. Here, we demonstrate that two of them, AtNTF2a and AtNTF2b, can functionally replace the essential NTF2 gene in yeast. Consistent with this finding, both AtNTF2a and AtNTF2b interact with yeast and Arabidopsis Ran. The third NTF2-related protein, AtNTL, does not functionally replace NTF2 in yeast. Similar to yeast NTF2-green fluorescent protein (GFP), AtNTF2a-GFP and AtNTF2b-GFP accumulate at the nuclear rim. The AtNTF2a E38K and E91K mutants, which fail to bind Ran, are not functional in yeast, indicating conservation of the requirement for these key amino acids in plants and yeast. AtNTF2a overexpression, but not AtNTF2aE38K overexpression, blocks nuclear import of a plant transcription factor in Nicotiana benthamiana leaves, indicating that excess AtNTF2a disrupts nuclear import in a Ran-binding-dependent manner. On the basis of these results, we propose that AtNTF2a and AtNTF2b function in Ran import in Arabidopsis and that nuclear import of Ran is functionally conserved in plants.
+
+Ran: !interacts with! NTF2 
+AtNTF2a: !interacts with! Ran 
+AtNTF2b: !interacts with! Ran 
+AtNTL: !does not interact with! Ran 
+AtNTF2a-GFP: !localizes to! nuclear rim 
+AtNTF2b-GFP: !localizes to! nuclear rim 
+AtNTF2aE38K: !fails to bind! Ran 
+AtNTF2aE91K: !fails to bind! Ran 
+AtNTF2a: !disrupts! nuclear import 
+AtNTF2aE38K: !does not disrupt! nuclear import

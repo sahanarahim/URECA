@@ -1,0 +1,9 @@
+Carotenoid-derived regulatory metabolites and hormones are generally known to arise through the oxidative cleavage of a single double bond in the carotenoid backbone, which yields mono-carbonyl products called apocarotenoids. However, the extended conjugated double bond system of these pigments predestines them also to repeated cleavage forming dialdehyde products, diapocarotenoids, which have been less investigated due to their instability and low abundance. Recently, we reported on the short diapocarotenoid anchorene as an endogenous Arabidopsis metabolite and specific signaling molecule that promotes anchor root formation. In this work, we investigated the biological activity of a synthetic isomer of anchorene, iso-anchorene, which can be derived from repeated carotenoid cleavage. We show that iso-anchorene is a growth inhibitor that specifically inhibits primary root growth by reducing cell division rates in the root apical meristem. Using auxin efflux transporter marker lines, we also show that the effect of iso-anchorene on primary root growth involves the modulation of auxin homeostasis. Moreover, by using liquid chromatography-mass spectrometry analysis, we demonstrate that iso-anchorene is a natural Arabidopsis metabolite. Chemical inhibition of carotenoid biosynthesis led to a significant decrease in the iso-anchorene level, indicating that it originates from this metabolic pathway. Taken together, our results reveal a novel carotenoid-derived regulatory metabolite with a specific biological function that affects root growth, manifesting the biological importance of diapocarotenoids.
+
+Carotenoid: !yields! apocarotenoids 
+apocarotenoids: !yields! diapocarotenoids 
+diapocarotenoids: !promotes! anchor root formation 
+iso-anchorene: !inhibits! primary root growth 
+iso-anchorene: !modulates! auxin homeostasis 
+carotenoid biosynthesis: !synthesizes! iso-anchorene 
+diapocarotenoids: !affects! root growth

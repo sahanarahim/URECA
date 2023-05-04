@@ -1,0 +1,14 @@
+The EMBRYONIC FLOWER (EMF) 1 gene has been shown to be necessary for maintenance of vegetative development. To investigate the molecular mechanism of EMF1-mediated plant development, we screened EMF1-interacting proteins and identified 11 candidate proteins using the yeast two-hybrid system. Among the candidate genes, three EMF1-Interacting Protein (EIP) genes, EIP1, EIP6 and EIP9, are predicted to encode a WNK (with-no-lysine) kinase, a B-box zinc-finger protein and a DnaJ-domain protein, respectively. The expression patterns of EIP1, EIP6 and EIP9 were similar to that of EMF1, and EMF1-EIP1, EMF1-EIP6 and EMF1-EIP9 heterodimers were localized in the nucleus. In addition, eip1, eip6 and eip9 mutants flowered early and showed increased expression of flowering-time and floral organ identity genes, while EIP1-, EIP6- and EIP9-overexpressing transgenic plants showed late flowering phenotypes. Our results suggest that EMF1 interacts with EIP1, EIP6 and EIP9 during vegetative development to regulate flowering time in Arabidopsis.
+
+EMF1: !interacts with! EIP1
+EMF1: !interacts with! EIP6
+EMF1: !interacts with! EIP9
+EIP1: !localizes to! nucleus
+EIP6: !localizes to! nucleus
+EIP9: !localizes to! nucleus
+eip1: !enhances! flowering-time
+eip6: !enhances! flowering-time
+eip9: !enhances! flowering-time
+EIP1: !represses! flowering-time
+EIP6: !represses! flowering-time
+EIP9: !represses! flowering-time

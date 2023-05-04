@@ -1,0 +1,8 @@
+The vascular wilt pathogen Fusarium oxysporum f. sp. lycopersici efficiently invades roots and colonizes vascular tissues of its host tomato. For these processes, the F-box protein Frp1 is required. The Fusarium oxysporum Deltafrp1 mutant was characterized in detail to uncover the cause of its colonization defect. Using growth assays, we could attribute poor root colonization to reduced assimilation of organic acids, amino acids (except proline), or polysaccharides, singly or in combination. External root colonization by the Deltafrp1 mutant is restored by the addition of 0.1% glucose or proline but infection still does not occur. This is due to the inability of the Deltafrp1 mutant to penetrate the roots, as demonstrated by the lack of expression of SIX1 in the Deltafrp1 strain, which is a gene exclusively expressed inside roots, and loss of cell wall-degrading enzyme (CWDE) gene expression. Many of the metabolic defects of the Deltafrp1 strain can be attributed to reduced expression of the ICL1 (isocitrate lyase) gene. Strikingly, an Deltaicl1 mutant is still fully pathogenic and capable of external root colonization. We conclude that the inability of the Deltafrp1 strain to colonize and invade roots is not primarily due to metabolic defects but can be attributed to reduced expression of several CWDE genes.
+
+Frp1: !affects! Root colonization
+Frp1: !represses! CWDE gene expression
+SIX1: !localizes to! Roots
+ICL1: !synthesizes! Isocitrate lyase
+CWDE: !enhances! Root penetration
+Glucose/Proline: !restores! External root colonization

@@ -1,0 +1,10 @@
+Pattern-triggered immunity (PTI) is triggered by recognition of elicitors called microbe-associated molecular patterns (MAMPs). Although immune responses may provide good protection of plants from pathogen attack, excessive immune responses have negative impacts on plant growth and development. Thus, a good balance between positive and negative effects on the immune signaling network is important for plant fitness. However, little information is known about the molecular mechanisms that are involved in attenuation of PTI. Here, we describe a growth-promoting peptide hormone, phytosulfokine (PSK), as attenuating PTI signaling in Arabidopsis. This research was motivated by the observation that expression of the PSK Receptor 1 (PSKR1) gene was induced by MAMP treatment. Plants homozygous for pskr1 T-DNA insertions showed enhanced defense gene expression and seedling growth inhibition triggered by MAMPs. The pskr1 plants also showed enhanced PTI against the bacterial pathogen Pseudomonas syringae. These results indicate that the PSKR-mediated signaling attenuates immune responses. Tyrosyl protein sulfotransferase (TPST) is an enzyme required for production of the mature sulfated PSK. Like pskr1 mutants, a tpst T-DNA insertion line exhibited enhanced MAMP-triggered seedling growth inhibition, which was suppressed by exogenous application of PSK. Thus, PSK signaling mediated by PSKR1 attenuates PTI but stimulates growth.
+
+MAMP: !triggers! PTI
+PSKR1: !induces expression of! MAMP
+pskr1: !enhances! defense gene expression
+pskr1: !inhibits! seedling growth
+TPST: !synthesizes! PSK
+tpst: !enhances! MAMP-triggered seedling growth inhibition
+PSK: !attenuates! immune responses
+PSK: !stimulates! growth

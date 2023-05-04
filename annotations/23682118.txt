@@ -1,0 +1,6 @@
+In Arabidopsis thaliana, the phytohormone auxin is an important patterning agent during embryogenesis and post-embryonic development, exerting effects through transcriptional regulation. The main determinants of the transcriptional auxin response machinery are AUXIN RESPONSE FACTOR (ARF) transcription factors and AUXIN/INDOLE-3-ACETIC ACID (AUX/IAA) inhibitors. Although members of these two protein families are major developmental regulators, the transcriptional regulation of the genes encoding them has not been well explored. For example, apart from auxin-linked regulatory inputs, factors regulating the expression of the AUX/IAA BODENLOS (BDL)/IAA12 are not known. Here, it was shown that the HOMEODOMAIN-LEUCINE ZIPPER (HD-ZIP) transcription factor HOMEOBOX PROTEIN 5 (HB5) negatively regulates BDL expression, which may contribute to the spatial control of BDL expression. As such, HB5 and probably other class I HD-ZIP proteins, appear to modulate BDL-dependent auxin response.
+
+ARF: !regulates! AUX/IAA
+auxin: !regulates! ARF
+BDL: !regulated by! auxin
+HB5: !negatively regulates! BDL

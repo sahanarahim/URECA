@@ -1,0 +1,8 @@
+['12119377', 'Phytochrome A signaling shows two photobiologically discrete outputs: so-called  very-low-fluence responses (VLFR) and high-irradiance responses (HIR). By  modifying previous screening protocols, we isolated two Arabidopsis mutants  retaining VLFR and lacking HIR. Phytochrome A negatively or positively regulates  phytochrome B signaling, depending on light conditions. These mutants retained  the negative but lacked the positive regulation. Both mutants carry the novel  phyA-302 allele, in which Glu-777 (a residue conserved in angiosperm  phytochromes) changed to Lys in the PAS2 motif of the C-terminal domain. The  phyA-302 mutants showed a 50% reduction in phytochrome A levels in darkness, but  this difference was compensated for by greater stability under continuous far-red  light. phyA-302:green fluorescent protein fusion proteins showed normal  translocation from the cytosol to the nucleus under continuous far-red light but  failed to produce nuclear spots, suggesting that nuclear speckles could be  involved in HIR signaling and phytochrome A degradation. We propose that the PAS2  domain of phytochrome A is necessary to initiate signaling in HIR but not in  VLFR, likely via interaction with a specific partner.', '2002 Jul', 'Plant Cell', '10.1105/tpc.000521', 'Casal']
+
+phytochrome A: !regulates! phytochrome B 
+phyA-302: !affects! HIR signaling 
+Glu-777: !changes to! Lys 
+phyA-302: !stabilizes under! far-red light 
+phyA-302: !fails to produce! nuclear spots 
+PAS2 domain: !necessary to initiate! HIR signaling

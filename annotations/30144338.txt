@@ -1,0 +1,11 @@
+Light signal provides the spatial and temporal information for plants to adapt to the prevailing environmental conditions. Alterations in light quality and quantity can trigger robust changes in global gene expression. In Arabidopsis thaliana, two groups of key factors regulating those changes in gene expression are CONSTITUTIVE PHOTOMORPHOGENESIS/DEETIOLATED/FUSCA (COP/DET/FUS) and a subset of basic helix-loop-helix transcription factors called PHYTOCHROME-INTERACTING FACTORS (PIFs). Recently, rapid progress has been made in characterizing the E3 ubiquitin ligases for the light-induced degradation of PIF1, PIF3 and PIF4; however, the E3 ligase(s) for PIF5 remains unknown. Here, we show that the CUL4<sup>COP</sup><sup>1-</sup><sup>SPA</sup> complex is necessary for the red light-induced degradation of PIF5. Furthermore, COP1 and SPA proteins stabilize PIF5 in the dark, but promote the ubiquitination and degradation of PIF5 in response to red light through the 26S proteasome pathway. Genetic analysis illustrates that overexpression of PIF5 can partially suppress both cop1-4 and spaQ seedling de-etiolation phenotypes under dark and red-light conditions. In addition, the PIF5 protein level cycles under both diurnal and constant light conditions, which is also defective in the cop1-4 and spaQ backgrounds. Both cop1-4 and spaQ show defects in diurnal growth pattern. Overexpression of PIF5 partially restores growth defects in cop1-4 and spaQ under diurnal conditions, suggesting that the COP1-SPA complex plays an essential role in photoperiodic hypocotyl growth, partly through regulating the PIF5 level. Taken together, our data illustrate how the CUL4<sup>COP</sup><sup>1-</sup><sup>SPA</sup> E3 ligase dynamically controls the PIF5 level to regulate plant development.
+
+Light signal: !triggers! Global gene expression
+COP/DET/FUS: !regulates! Global gene expression
+PIFs: !regulates! Global gene expression
+CUL4<sup>COP</sup><sup>1-</sup><sup>SPA</sup>: !promotes! Ubiquitination of PIF5
+COP1/SPA: !stabilizes! PIF5 in dark
+COP1/SPA: !promotes! Degradation of PIF5 in red light
+PIF5: !partially suppresses! cop1-4/spaQ seedling de-etiolation phenotypes
+PIF5: !cycles! Under diurnal/constant light conditions
+COP1/SPA: !regulates! Photoperiodic hypocotyl growth

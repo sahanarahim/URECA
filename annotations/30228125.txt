@@ -1,0 +1,12 @@
+Plants induce systemic acquired resistance (SAR) upon localized exposure to pathogens. Pipecolic acid (Pip) production via AGD2-LIKE DEFENSE RESPONSE PROTEIN1 (ALD1) is key for SAR establishment. Here, we report a positive feedback loop important for SAR induction in <i>Arabidopsis thaliana</i> We showed that local activation of the MAP kinases MPK3 and MPK6 is sufficient to trigger Pip production and mount SAR. Consistent with this, mutations in <i>MPK3</i> or <i>MPK6</i> led to compromised Pip accumulation upon inoculation with the bacterial pathogen <i>Pseudomonas syringae</i> pv <i>tomato</i> DC3000 (<i>Pto</i>) AvrRpt2, which triggers strong sustained MAPK activation. By contrast, <i>P. syringae</i> pv <i>maculicola</i> and <i>Pto</i>, which induce transient MAPK activation, trigger Pip biosynthesis and SAR independently of MPK3/6. <i>ALD1</i> expression, Pip accumulation, and SAR were compromised in mutants defective in the MPK3/6-regulated transcription factor WRKY33. Chromatin immunoprecipitation showed that WRKY33 binds to the <i>ALD1</i> promoter. We found that Pip triggers activation of MPK3 and MPK6 and that MAPK activation after <i>Pto</i> AvrRpt2 inoculation is compromised in <i>wrky33</i> and <i>ald1</i> mutants. Collectively, our results reveal a positive regulatory loop consisting of MPK3/MPK6, WRKY33, ALD1, and Pip in SAR induction and suggest the existence of distinct SAR activation pathways that converge at the level of Pip biosynthesis.
+
+MPK3/6: !activates! WRKY33
+WRKY33: !binds to! ALD1 promoter
+MPK3/6: !triggers! Pip production
+Pip: !activates! MPK3/6
+Pto AvrRpt2: !induces! MAPK activation
+WRKY33: !regulates! ALD1 expression
+Pto Maculicola/AvrRpt2: !triggers! Pip biosynthesis/SAR
+ALD1: !synthesizes! Pip
+MPK3/6: !compromises! Pip accumulation
+wrky33/ald1 mutants: !compromise! MAPK activation

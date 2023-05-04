@@ -1,0 +1,12 @@
+Circadian rhythm of stomatal aperture is mainly regulated by light/darkness. Blue and red light induce stomatal opening through different mechanisms that are mediated by special receptors. ROP2, a member of Rho GTPase family in Arabidopsis (<i>Arabidopsis</i><i>thaliana</i>), has been found to negatively regulate light-induced stomatal opening. However, the upstream guanine nucleotide exchange factor (GEF) RopGEFs have not been revealed, and it is unclear which photoreceptor is required for the action of RopGEFs-ROPs. Here, we showed that RopGEF2 acted as a negative regulator in phytochrome B (phyB)-mediated red light-induced stomatal opening. Meanwhile, ROP7, another member of ROP family, acting redundantly with ROP2, was regulated by RopGEF2 in this process. RopGEF2 interacted with ROP7 and ROP2 and enhanced their intrinsic nucleotide exchange rates. Furthermore, the direct interactions between phyB and RopGEF2 were detected in vitro and in plants, and phyB enhanced the GEF activity of RopGEF2 toward both ROP7 and ROP2 under light. In addition, RopGEF4 functioned redundantly with RopGEF2 in red light-induced stomatal opening by activating both ROP7 and ROP2, and <i>RopGEF2</i>/<i>RopGEF4</i> acted genetically downstream of <i>phyB</i>; however, the GEF activity of RopGEF4 was not directly enhanced by phyB. These results revealed that red light-activated phyB enhances the GEF activities of RopGEF2 and RopGEF4 directly or indirectly, and then activate both ROP7 and ROP2 in guard cells. The negative mechanism triggered by phyB prevents the excessive stomatal opening under red light.
+
+phyB: !enhances! RopGEF2 
+RopGEF2: !interacts with! ROP7 
+RopGEF2: !interacts with! ROP2 
+RopGEF2: !enhances! ROP7 
+RopGEF2: !enhances! ROP2 
+phyB: !interacts with! RopGEF2 
+RopGEF4: !functionally redundant with! RopGEF2 
+RopGEF4: !activates! ROP7 
+RopGEF4: !activates! ROP2 
+phyB: !downstream of! RopGEF2/RopGEF4

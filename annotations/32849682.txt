@@ -1,0 +1,15 @@
+Iron (Fe) is an essential nutrient for all living organisms but can lead to cytotoxicity when present in excess. Fe toxicity often occurs in rice grown in submerged paddy fields with low pH, leading dramatical increases in ferrous ion concentration, disrupting cell homeostasis and impairing growth and yield. However, the underlying molecular mechanisms of Fe toxicity response and tolerance in plants are not well characterized yet. Microarray and genome-wide association analyses have shown that rice employs four defense systems to regulate Fe homeostasis under Fe excess. In defense 1, Fe excess tolerance is implemented by Fe exclusion as a result of suppression of genes involved in Fe uptake and translocation such as <i>OsIRT1</i>, <i>OsYSL2</i>, <i>OsTOM1</i>, <i>OsYSL15</i>, <i>OsNRAMP1</i>, <i>OsNAS1</i>, <i>OsNAS2</i>, <i>OsNAAT1</i>, <i>OsDMAS1</i>, and <i>OsIRO2</i>. The Fe-binding ubiquitin ligase, HRZ, is a key regulator that represses Fe uptake genes in response to Fe excess in rice. In defense 2, rice retains Fe in the root system rather than transporting it to shoots. In defense 3, rice compartmentalizes Fe in the shoot. In defense 2 and 3, the vacuolar Fe transporter <i>OsVIT2</i>, Fe storage protein ferritin, and the nicotinamine synthase <i>OsNAS3</i> mediate the isolation or detoxification of excess Fe. In defense 4, rice detoxifies the ROS produced within the plant body in response to excess Fe. Some <i>OsWRKY</i> transcription factors, <i>S-nitrosoglutathione-reductase</i> variants, p450-family proteins, and <i>OsNAC4</i>, <i>5</i>, and <i>6</i> are implicated in defense 4. These knowledge will facilitate the breeding of tolerant crops with increased productivity in low-pH, Fe-excess soils.
+
+OsIRT1: !represses! OsYSL2
+OsTOM1: !represses! OsYSL15
+OsNRAMP1: !represses! OsNAS1
+OsNAS2: !represses! OsNAAT1
+OsDMAS1: !represses! OsIRO2
+HRZ: !represses! Fe uptake genes
+OsVIT2: !transports! Fe
+Ferritin: !stores! Fe
+OsNAS3: !detoxifies! Fe
+OsWRKY: !regulates! ROS
+S-nitrosoglutathione-reductase: !detoxifies! ROS
+p450-family proteins: !detoxifies! ROS
+OsNAC4, 5, 6: !detoxifies! ROS

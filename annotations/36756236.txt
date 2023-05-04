@@ -1,0 +1,12 @@
+Tar spot is a high-profile disease, causing various degrees of yield losses on corn (<i>Zea mays</i> L.) in several countries throughout the Americas. Disease symptoms usually appear at the lower canopy in corn fields with a history of tar spot infection, making it difficult to monitor the disease with unmanned aircraft systems (UAS) because of occlusion. UAS-based multispectral imaging and machine learning were used to monitor tar spot at different canopy and temporal levels and extract epidemiological parameters from multiple treatments. Disease severity was assessed visually at three canopy levels within micro-plots, while aerial images were gathered by UASs equipped with multispectral cameras. Both disease severity and multispectral images were collected from five to eleven time points each year for two years. Image-based features, such as single-band reflectance, vegetation indices (VIs), and their statistics, were extracted from ortho-mosaic images and used as inputs for machine learning to develop disease quantification models. The developed models showed encouraging performance in estimating disease severity at different canopy levels in both years (coefficient of determination up to 0.93 and Lin's concordance correlation coefficient up to 0.97). Epidemiological parameters, including initial disease severity or y<sub>0</sub> and area under the disease progress curve, were modeled using data derived from multispectral imaging. In addition, results illustrated that digital phenotyping technologies could be used to monitor the onset of tar spot when disease severity is relatively low (< 1%) and evaluate the efficacy of disease management tactics under micro-plot conditions. Further studies are required to apply and validate our methods to large corn fields.
+
+UAS: !monitors! tar spot 
+multispectral imaging: !extracts! epidemiological parameters 
+disease severity: !assessed visually! at three canopy levels 
+multispectral cameras: !gather! aerial images 
+single-band reflectance: !extracted from! ortho-mosaic images 
+VIs: !used as inputs for! machine learning 
+machine learning: !develops! disease quantification models 
+models: !show! encouraging performance 
+data: !model! epidemiological parameters 
+digital phenotyping technologies: !used to monitor! onset of tar spot

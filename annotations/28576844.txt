@@ -1,0 +1,10 @@
+The availability of a whole-genome sequenced mutant population and the cataloging of mutations of each line at a single-nucleotide resolution facilitate functional genomic analysis. To this end, we generated and sequenced a fast-neutron-induced mutant population in the model rice cultivar Kitaake (<i>Oryza sativa</i> ssp <i>japonica</i>), which completes its life cycle in 9 weeks. We sequenced 1504 mutant lines at 45-fold coverage and identified 91,513 mutations affecting 32,307 genes, i.e., 58% of all rice genes. We detected an average of 61 mutations per line. Mutation types include single-base substitutions, deletions, insertions, inversions, translocations, and tandem duplications. We observed a high proportion of loss-of-function mutations. We identified an inversion affecting a single gene as the causative mutation for the short-grain phenotype in one mutant line. This result reveals the usefulness of the resource for efficient, cost-effective identification of genes conferring specific phenotypes. To facilitate public access to this genetic resource, we established an open access database called KitBase that provides access to sequence data and seed stocks. This population complements other available mutant collections and gene-editing technologies. This work demonstrates how inexpensive next-generation sequencing can be applied to generate a high-density catalog of mutations.
+
+Gene: !affects! Process 
+Gene: !localizes to! X 
+Gene: !interacts with! Y 
+Gene: !enhances! Z 
+Gene: !represses! U 
+Gene: !synthesizes! I 
+Mutation: !affects! Gene 
+Mutation: !causes! Phenotype

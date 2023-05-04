@@ -1,0 +1,8 @@
+['35222475', 'Although numerous studies have been carried out on chloroplast development and  biogenesis, the underlying regulatory mechanisms are still largely elusive. Here,  we characterized a chloroplast stromal protein Chloroplast Development and  Biogenesis1 (CDB1). The knockout cdb1 mutant exhibits a seedling-lethal and ivory  leaf phenotype. Immunoblot and RNA blot analyses show that accumulation of  chloroplast ribosomes is compromised in cdb1, resulting in an almost complete  loss of plastid-encoded proteins including the core subunits of the  plastid-encoded RNA polymerase (PEP) RpoB and RpoC2, and therefore in impaired  PEP activity. Orthologs of CDB1 are found in green algae and land plants.  Moreover, a protein shows high similarity with CDB1, designated as CDB1-Like  (CDB1L), is present in angiosperms. Absence of CDB1L results in impaired embryo  development. While CDB1 is specifically located in the chloroplast stroma, CDB1L  is localized in both chloroplasts and mitochondria in Arabidopsis. Thus, our  results demonstrate that CDB1 is indispensable for chloroplast development and  biogenesis through its involvement in chloroplast ribosome assembly whereas CDB1L  may fulfill a similar function in both mitochondria and chloroplasts.', '2022', 'Front Plant Sci', '10.3389/fpls.2022.815859', 'Xin']
+
+CDB1: !affects! Chloroplast development and biogenesis
+CDB1: !localizes to! Chloroplast stroma
+CDB1L: !localizes to! Chloroplasts and mitochondria
+CDB1: !synthesizes! Plastid-encoded proteins
+CDB1: !enhances! PEP activity
+CDB1L: !enhances! Embryo development

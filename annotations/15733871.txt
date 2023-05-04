@@ -1,0 +1,5 @@
+['15733871', 'Calmodulin (CaM) is a ubiquitous Ca(2+)-binding protein known to regulate diverse  cellular functions by modulating the activity of various target proteins. We  isolated a cDNA encoding AtWRKY7, a novel CaM-binding transcription factor, from  an Arabidopsis expression library with horseradish peroxidase-conjugated CaM. CaM  binds specifically to the Ca(2+)-dependent CaM-binding domain (CaMBD) of AtWRKY7,  as shown by site-directed mutagenesis, a gel mobility shift assay, a  split-ubiquitin assay, and a competition assay using a Ca2+/CaM-dependent enzyme.  Furthermore, we show that the CaMBD of AtWRKY7 is a conserved structural motif  (C-motif) found in group IId of the WRKY protein family.', '2005 Feb 28', 'FEBS Lett', '10.1016/j.febslet.2005.01.057', 'Cho']
+
+CaM: !binds to! AtWRKY7 
+AtWRKY7: !contains! CaMBD 
+CaMBD: !is a! C-motif

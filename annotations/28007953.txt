@@ -1,0 +1,11 @@
+In eukaryotic autotrophs, photosystems are composed of a core moiety, hosting charge separation and electron transport reactions, and an antenna system, enhancing light harvesting and photoprotection. In Chlamydomonas reinhardtii, the major antenna of PSII is a heterogeneous trimeric complex made up of LHCBM1-LHCBM9 subunits. Despite high similarity, specific functions have been reported for several members including LHCBM1, 2, 7, and 9. In this work, we analyzed the function of LHCBM4 and LHCBM6 gene products in vitro by synthesizing recombinant apoproteins from individual sequences and refolding them with pigments. Additionally, we characterized knock-down strains in vivo for LHCBM4/6/8 genes. We show that LHCBM4/6/8 subunits could be found as a component of PSII supercomplexes with different sizes, although the largest pool was free in the membranes and poorly connected to PSII. Impaired accumulation of LHCBM4/6/8 caused a decreased LHCII content per PSII and a reduction in the amplitude of state 1-state 2 transitions. In addition, the reduction of LHCBM4/6/8 subunits caused a significant reduction of the Non-photochemical quenching activity and in the level of photoprotection.
+
+LHCBM1: !affects! PSII
+LHCBM2: !affects! PSII
+LHCBM7: !affects! PSII
+LHCBM9: !affects! PSII
+LHCBM4: !affects! PSII
+LHCBM6: !affects! PSII
+LHCBM4/6/8: !localizes to! PSII supercomplexes
+LHCBM4/6/8: !represses! Non-photochemical quenching activity
+LHCBM4/6/8: !reduces! Photoprotection

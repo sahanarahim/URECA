@@ -1,0 +1,13 @@
+The grain number per panicle (GNP) is an important yield component. Identifying naturally favorable variations in GNP will benefit high-yield rice breeding. Here, we performed a genome-wide association study using a mini-core collection of 266 cultivated rice accessions with deep sequencing data and investigated the phenotype for three years. Three genes, i.e., <i>TOTOU1</i> (<i>TUT1</i>), <i>Grain height date 7</i> (<i>Ghd7</i>), and <i>Days to heading 7</i>/<i>Grain height date 7.1</i>/<i>Pseudo-Response Regulator37</i> (<i>DTH7/Ghd7.1</i>/<i>OsPRR37</i>), which regulate GNP, were found in the quantitative trait loci (QTL) identified in this study. A stable QTL, <i>qGNP1.3</i>, which showed a strong correlation with variations in GNP, was repeatedly detected. After functional and transgenic phenotype analysis, we identified a novel gene, <i>regulator of grain number 1a</i> (<i>RGN1a</i>), which codes for protein kinase, controlling GNP in rice. The <i>RGN1a</i> mutation caused 37.2%, 27.8%, 51.2%, and 25.5% decreases in grain number, primary branch number per panicle, secondary branch number per panicle, and panicle length, respectively. Furthermore, breeding utilization analysis revealed that the additive effects of the dominant allelic variants of <i>RGN1a</i> and <i>DTH7</i> played a significant role in increasing the grain number per panicle in <i>japonica</i> rice. Our findings enrich the gene pool and provide an effective strategy for the genetic improvement of grain numbers.
+
+TOTOU1: !affects! GNP
+Ghd7: !affects! GNP
+DTH7/Ghd7.1/OsPRR37: !affects! GNP
+qGNP1.3: !correlates with! GNP
+RGN1a: !regulates! GNP
+RGN1a: !decreases! grain number
+RGN1a: !decreases! primary branch number
+RGN1a: !decreases! secondary branch number
+RGN1a: !decreases! panicle length
+RGN1a: !interacts with! DTH7
+RGN1a/DTH7: !increases! grain number

@@ -1,0 +1,9 @@
+The jasmonate family of phytohormones plays central roles in plant development and stress acclimation. However, the regulatory modes of their signaling circuitry remain largely unknown. Here we describe that cyclophilin 20-3 (CYP20-3), a binding protein of (+)-12-oxo-phytodienoic acid (OPDA), crisscrosses stress responses with light-dependent redox reactions, which fine-tunes the activity of key enzymes in the plastid photosynthetic carbon assimilation and sulfur assimilation pathways. Under stressed states, OPDA - accumulated in the chloroplasts - binds and promotes CYP20-3 to transfer electron (e<sup>-</sup>) from thioredoxins (i.e., type-f2 and -x) to 2-Cys peroxiredoxin B (2-CysPrxB) or serine acetyltransferase 1 (SAT1). Reduction (activation) of 2-CysPrxB then optimizes peroxide detoxification and carbon metabolisms in the photosynthesis, whereas the activation of SAT1 stimulates sulfur assimilation which in turn coordinates redox-resolved nucleus gene expressions in defense responses against biotic and abiotic stresses. Thus, we conclude that CYP20-3 is positioned as a unique metabolic hub in the interface between photosynthesis (light) and OPDA signaling, where controls resource (e<sup>-</sup>) allocations between plant growth and defense responses.
+
+CYP20-3: !binds! OPDA 
+CYP20-3: !transfers e<sup>-</sup> from! thioredoxins 
+2-CysPrxB: !reduced by! CYP20-3 
+SAT1: !activated by! CYP20-3 
+2-CysPrxB: !optimizes! peroxide detoxification 
+SAT1: !stimulates! sulfur assimilation 
+OPDA: !signals! defense responses

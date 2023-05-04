@@ -1,0 +1,8 @@
+The frequency and severity of heatwave events are increasing, exposing species to conditions beyond their physiological limits. Species respond to heatwaves in different ways, however it remains unclear if plants have the adaptive capacity to successfully respond to hotter and more frequent heatwaves. We exposed eight tree populations from two climate regions grown under cool and warm temperatures to repeated heatwave events of moderate (40°C) and extreme (46°C) severity to assess adaptive capacity to heatwaves. Leaf damage and maximum quantum efficiency of photosystem II (F<sub>v</sub> /F<sub>m</sub> ) were significantly impacted by heatwave severity and growth temperatures, respectively; populations from a warm-origin avoided damage under moderate heatwaves compared to those from a cool-origin, indicating a degree of local adaptation. We found that plasticity to heatwave severity and repeated heatwaves contributed to enhanced thermal tolerance and lower leaf temperatures<sub>,</sub> leading to greater thermal safety margins (thermal tolerance minus leaf temperature) in a second heatwave. Notably, while we show that adaptation and physiological plasticity are important factors affecting plant adaptive capacity to thermal stress, plasticity of thermal tolerances and thermal safety margins provides the opportunity for trees to persist among fluctuating heatwave exposures.
+
+heatwave: !affects! species
+temperature: !impacts! leaf damage
+temperature: !impacts! F<sub>v</sub>/F<sub>m</sub>
+origin: !influences! heatwave damage
+plasticity: !enhances! thermal tolerance
+plasticity: !increases! thermal safety margins

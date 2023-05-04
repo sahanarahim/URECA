@@ -1,0 +1,11 @@
+The accumulation of the red carotenoid pigment lycopene in tomato (<i>Solanum lycopersicum</i>) fruit is achieved by increased carotenoid synthesis during ripening. The first committed step that determines the flux in the carotenoid pathway is the synthesis of phytoene catalyzed by phytoene synthase (PSY). Tomato has three <i>PSY</i> genes that are differentially expressed. <i>PSY1</i> is exclusively expressed in fruits, while <i>PSY2</i> mostly functions in green tissues. It has been established that PSY1 is mostly responsible for phytoene synthesis in fruits. Although PSY2 is found in the chromoplasts, it is inactive because loss-of-function mutations in <i>PSY1</i> in the locus <i>yellow flesh</i> (<i>r</i>) eliminate carotenoid biosynthesis in the fruit. Here we demonstrate that specific perturbations of carotenoid biosynthesis downstream to phytoene prior and during the transition from chloroplast to chromoplast cause the recovery of phytoene synthesis in <i>yellow flesh</i> (<i>r</i>) fruits without significant transcriptional changes of <i>PSY1</i> and <i>PSY2</i>. The recovery of carotenoid biosynthesis was abolished when the expression of <i>PSY2</i> was silenced, indicating that the perturbations of carotenoid biosynthesis reactivated the chloroplast-specific PSY2 in fruit chromoplasts. Furthermore, it is demonstrated that PSY2 can function in fruit chromoplasts under certain conditions, possibly due to alterations in the plastidial sub-organelle organization that affect its association with the carotenoid biosynthesis metabolon. This finding provides a plausible molecular explanation to the epistasis of the mutation <i>tangerine</i> in the gene <i>carotenoid isomerase</i> over <i>yellow flesh</i>.
+
+PSY1: !affects! Carotenoid biosynthesis 
+PSY2: !affects! Carotenoid biosynthesis 
+PSY1: !localizes to! Fruits 
+PSY2: !localizes to! Green tissues 
+PSY1: !interacts with! PSY2 
+PSY2: !interacts with! PSY1 
+Perturbations: !enhances! PSY2 activity 
+Silencing PSY2: !represses! Carotenoid biosynthesis 
+PSY2: !synthesizes! Phytoene

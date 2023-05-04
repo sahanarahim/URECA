@@ -1,0 +1,8 @@
+• The internal transcribed spacer (ITS) of the nuclear ribosomal DNA region is a widely used species marker for plants and fungi. Recent metagenomic studies using next-generation sequencing, however, generate only partial ITS sequences. Here we compare the performance of partial and full-length ITS sequences with several classification methods. • We compiled a full-length ITS data set and created short fragments to simulate the read lengths commonly recovered from current next-generation sequencing platforms. We compared recovery, erroneous recovery, and coverage for the following methods: best BLAST hit classification, MEGAN classification, and automated phylogenetic assignment using the Statistical Assignment Program (SAP). • We found that summarizing results with more inclusive taxonomic ranks increased recovery and reduced erroneous recovery. The similarity-based methods BLAST and MEGAN performed consistently across most fragment lengths. Using a phylogeny-based method, SAP runs with queries 400 bp or longer worked best. Overall, BLAST had the highest recovery rates and MEGAN had the lowest erroneous recovery rates. • A high-throughput ITS classification method should be selected, taking into consideration read length, an acceptable tradeoff between maximizing the total number of classifications and minimizing the number of erroneous classifications, and the computational speed of the assignment method.
+
+ITS: !used as! species marker 
+BLAST: !performs consistently across! fragment lengths 
+MEGAN: !performs consistently across! fragment lengths 
+SAP: !works best with! queries 400 bp or longer 
+BLAST: !has highest! recovery rates 
+MEGAN: !has lowest! erroneous recovery rates

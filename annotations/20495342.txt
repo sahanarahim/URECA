@@ -1,0 +1,8 @@
+Plant red/far-red photoreceptor phytochromes are known as autophosphorylating serine/threonine kinases. However, the functional roles of autophosphorylation and kinase activity of phytochromes are largely unknown. We recently reported that the autophosphorylation of phytochrome A (phyA) plays an important role in regulating plant phytochrome signaling by controlling phyA protein stability. Two serine residues in the N-terminal extension (NTE) region were identified as autophosphorylation sites, and phyA mutant proteins with serine-to-alanine mutations were degraded in plants at a significantly slower rate than the wild-type under light conditions, resulting in transgenic plants with hypersensitive light responses. In addition, the autophosphorylation site phyA mutants had normal protein kinase activities. Collectively, our results suggest that phytochrome autophosphorylation provides a mechanism for signal desensitization in phytochrome-mediated light signaling by accelerating the degradation of phytochrome A.
+
+phyA: !autophosphorylates! NTE region 
+NTE region: !controls! phyA protein stability 
+phyA: !degrades! faster under light conditions 
+mutant proteins: !have! slower degradation rate 
+mutant proteins: !result in! hypersensitive light responses 
+autophosphorylation: !provides a mechanism for! signal desensitization

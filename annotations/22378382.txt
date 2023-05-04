@@ -1,0 +1,10 @@
+The winter-annual habit of Arabidopsis thaliana requires active alleles of flowering locus C (FLC), which encodes a potent flowering repressor, and FRIGIDA (FRI), an activator of FLC. FLC activation by FRI is accompanied by an increase in specific histone modifications, such as tri-methylation of histone H3 at lysine 4 (H3K4me3), and requires three H3K4 methyltransferases, the Drosophila Trithorax-class Arabidopsis trithorax1 (ATX1) and ATX2, and yeast Set1-class ATX-related7/set domain group25 (ATXR7/SDG25). However, lesions in all of these genes failed to suppress the enhanced FLC expression caused by FRI completely, suggesting that another H3K4 methyltransferase may participate in the FLC activation. Here, we show that ATXR3/SDG2, which is a member of a novel class of H3K4 methyltransferases, also contributes to FLC activation. An ATXR3 lesion suppressed the enhanced FLC expression and delayed flowering caused by an active allele of FRI in non-vernalized plants. The decrease in FLC expression in atxr3 mutants was accompanied by reduced H3K4me3 levels at FLC chromatin. We also found that the rapid flowering of atxr3 was epistatic to that of atxr7, suggesting that ATXR3 functions in FLC activation in sequence with ATXR7. Our results indicate that the novel-class H3K4 methyltransferase, ATXR3, is a transcriptional activator that plays a role in the FLC activation and establishing the winter-annual habit. In addition, ATXR3 also contributes to the activation of other FLC clade members, such as flowering locus M/MADS affecting flowering1 (FLM/MAF1) and MAF5, at least partially explaining the ATXR3 function in delayed flowering caused by non-inductive photoperiods.
+
+FLC: !represses! flowering
+FRI: !activates! FLC
+ATX1/2: !methylate! H3K4
+ATXR7/SDG25: !methylate! H3K4
+ATXR3/SDG2: !methylate! H3K4
+ATXR3: !activates! FLC
+ATXR3: !activates! FLM/MAF1
+ATXR3: !activates! MAF5

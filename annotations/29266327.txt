@@ -1,0 +1,9 @@
+Apple (Malus × domestica) trees are vulnerable to freezing temperatures. However, there has been only limited success in developing cold-hardy cultivars. This lack of progress is due at least partly to lack of understanding of the molecular mechanisms of freezing tolerance in apple. In this study, we evaluated the potential roles for two R2R3 MYB transcription factors (TFs), MYB88 and the paralogous FLP (MYB124), in cold stress in apple and Arabidopsis. We found that MYB88 and MYB124 positively regulate freezing tolerance and cold-responsive gene expression in both apple and Arabidopsis. Chromatin-Immunoprecipitation-qPCR and electrophoretic mobility shift assays showed that MdMYB88/MdMYB124 act as direct regulators of the COLD SHOCK DOMAIN PROTEIN 3 (MdCSP3) and CIRCADIAN CLOCK ASSOCIATED 1 (MdCCA1) genes. Dual luciferase reporter assay indicated that MdCCA1 but not MdCSP3 activated the expression of MdCBF3 under cold stress. Moreover, MdMYB88 and MdMYB124 promoted anthocyanin accumulation and H<sub>2</sub> O<sub>2</sub> detoxification in response to cold. Taken together, our results suggest that MdMYB88 and MdMYB124 positively regulate cold hardiness and cold-responsive gene expression under cold stress by C-REPEAT BINDING FACTOR (CBF)-dependent and CBF-independent pathways.
+
+MYB88: !regulates! MdCSP3
+MYB88: !regulates! MdCCA1
+MdCCA1: !activates! MdCBF3
+MYB88: !promotes! Anthocyanin accumulation
+MYB88: !promotes! H<sub>2</sub> O<sub>2</sub> detoxification
+MYB124: !regulates! MdCSP3
+MYB124: !regulates! MdCCA1

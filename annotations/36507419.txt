@@ -1,0 +1,11 @@
+<i>Quercus acutissima</i> is an economic and ecological tree species often used for afforestation of arid and semi-arid lands and is considered as an excellent tree for soil and water conservation. Here, we combined PacBio long reads, Hi-C, and Illumina short reads to assemble <i>Q. acutissima</i> genome. We generated a 957.1 Mb genome with a contig N50 of 1.2 Mb and scaffold N50 of 77.0 Mb. The repetitive sequences constituted 55.63% of the genome, among which long terminal repeats were the majority and accounted for 23.07% of the genome. <i>Ab initio</i>, homology-based and RNA sequence-based gene prediction identified 29,889 protein-coding genes, of which 82.6% could be functionally annotated. Phylogenetic analysis showed that <i>Q. acutissima</i> and <i>Q. variabilis</i> were differentiated around 3.6 million years ago, and showed no evidence of species-specific whole genome duplication. The assembled and annotated high-quality <i>Q. acutissima</i> genome not only promises to accelerate the species molecular biology studies and breeding, but also promotes genome level evolutionary studies.
+
+Quercus acutissima: !has! 957.1 Mb genome
+Quercus acutissima: !contains! 29,889 protein-coding genes
+Quercus acutissima: !differentiated from! Quercus variabilis
+PacBio long reads: !used to assemble! Quercus acutissima genome
+Hi-C: !used to assemble! Quercus acutissima genome
+Illumina short reads: !used to assemble! Quercus acutissima genome
+Repetitive sequences: !constitute! 55.63% of Quercus acutissima genome
+Long terminal repeats: !constitute! 23.07% of Quercus acutissima genome
+Gene prediction: !identifies! 82.6% functionally annotated genes

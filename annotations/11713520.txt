@@ -1,0 +1,8 @@
+['11713520', 'The plant hormone auxin is central in many aspects of plant development. Previous  studies have implicated the ubiquitin-ligase SCF(TIR1) and the AUX/IAA proteins  in auxin response. Dominant mutations in several AUX/IAA genes confer pleiotropic  auxin-related phenotypes, whereas recessive mutations affecting the function of  SCF(TIR1) decrease auxin response. Here we show that SCF(TIR1) is required for  AUX/IAA degradation. We demonstrate that SCF(TIR1) interacts with AXR2/IAA7 and  AXR3/IAA17, and that domain II of these proteins is necessary and sufficient for  this interaction. Further, auxin stimulates binding of SCF(TIR1) to the AUX/IAA  proteins, and their degradation. Because domain II is conserved in nearly all  AUX/IAA proteins in Arabidopsis, we propose that auxin promotes the degradation  of this large family of transcriptional regulators, leading to diverse downstream  effects.', '2001 Nov 15', 'Nature', '10.1038/35104500', 'Estelle']
+
+SCF(TIR1): !interacts with! AXR2/IAA7 
+SCF(TIR1): !interacts with! AXR3/IAA17 
+AUX/IAA: !localizes to! Domain II 
+Domain II: !necessary and sufficient for! SCF(TIR1) interaction 
+Auxin: !stimulates binding of! SCF(TIR1) 
+Auxin: !promotes degradation of! AUX/IAA proteins

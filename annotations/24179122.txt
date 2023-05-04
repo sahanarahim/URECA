@@ -1,0 +1,9 @@
+Seed germination is the first step for seed plants to initiate a new life cycle. Light plays a predominant role in promoting seed germination, where the initial phase is mediated by photoreceptor phytochrome B (phyB). Previous studies showed that phytochrome-interacting factor1 (PIF1) represses seed germination downstream of phyB. Here, we identify a positive regulator of phyB-dependent seed germination, long hypocotyl in far-red1 (HFR1). HFR1 blocks PIF1 transcriptional activity by forming a heterodimer with PIF1 that prevents PIF1 from binding to DNA. Our whole-genomic analysis shows that HFR1 and PIF1 oppositely mediate the light-regulated transcriptome in imbibed seeds. Through the HFR1-PIF1 module, light regulates expression of numerous genes involved in cell wall loosening, cell division, and hormone pathways to initiate seed germination. The functionally antagonistic HFR1-PIF1 pair constructs a fail-safe mechanism for fine-tuning seed germination during low-level illumination, ensuring a rapid response to favorable environmental changes. This study identifies the HFR1-PIF1 pair as a central module directing the whole genomic transcriptional network to rapidly initiate light-induced seed germination.
+
+phyB: !regulates! seed germination
+PIF1: !represses! seed germination
+HFR1: !blocks! PIF1 transcriptional activity
+HFR1: !forms heterodimer with! PIF1
+HFR1: !oppositely mediates! light-regulated transcriptome
+HFR1: !constructs fail-safe mechanism for! fine-tuning seed germination
+HFR1: !directs! whole genomic transcriptional network

@@ -1,0 +1,10 @@
+['11701880', 'Arabidopsis possesses several genes related to the multidrug resistance (MDR)  genes of animals, one of which, AtMDR1, was shown to be induced by the hormone  auxin. Plants having mutations in AtMDR1 or its closest relative, AtPGP1, were  isolated by a reverse genetic strategy. Auxin transport activity was greatly  impaired in atmdr1 and atmdr1 atpgp1 double mutant plants. Epinastic cotyledons  and reduced apical dominance were mutant phenotypes consistent with the disrupted  basipetal flow of auxin. The auxin transport inhibitor 1-naphthylphthalamic acid  was shown to bind tightly and specifically to AtMDR1 and AtPGP1 proteins. The  results indicate that these two MDR-like genes of Arabidopsis encode  1-naphthylphthalamic acid binding proteins that are required for normal auxin  distribution and auxin-mediated development.', '2001 Nov', 'Plant Cell', '10.1105/tpc.010350', 'Spalding']
+
+AtMDR1: !induces! auxin 
+AtMDR1: !impairs! auxin transport 
+AtPGP1: !impairs! auxin transport 
+AtMDR1/AtPGP1: !causes! epinastic cotyledons 
+AtMDR1/AtPGP1: !reduces! apical dominance 
+AtMDR1/AtPGP1: !binds! 1-naphthylphthalamic acid 
+AtMDR1/AtPGP1: !required for! normal auxin distribution 
+AtMDR1/AtPGP1: !mediates! auxin-mediated development

@@ -1,0 +1,10 @@
+Factors that affect the direction of root growth in response to environmental signals influence crop productivity. We analyzed the root tropic responses of thioredoxin (trxs), thigmotropic (wav2-1), and hydrotropic (ahr1 and nhr1) Arabidopsis thaliana mutants treated with low concentrations of paraquat (PQ), which induces mild oxidative stress, and established a new method for evaluating root waviness (root bending effort, RBE). This method estimates root bending by measuring and summing local curvature over the whole length of the root, regardless of the asymmetry of the wavy pattern under thigmostimulation. In roots of the wav2-1 mutant, but not in those of the trxs and ahr1 mutants, RBE was significantly inhibited under mild oxidative stress. Thigmotropic stimulation of wav2-1 mutant roots, with or without PQ treatment, showed high levels of reactive oxygen species fluorescence, in contrast to roots of the ahr1 mutant. Furthermore, PQ inhibited root growth in all genotypes tested, except in the wav2-1 mutant. In a hydrotropism assay of the trxs and wav2-1 mutants, root growth behavior was similar to the wild type with and without PQ, while the root growth of ahr1 and nhr1 mutants was diminished with PQ. These results indicate that hydrotropic and thigmotropic mutants respond differently to exogenous PQ, depending on the tropic stimulus perceived. Therefore, the mechanisms underlying hydrotropism and thigmotropism may differ.
+
+thioredoxin: !responds to! paraquat 
+wav2-1: !responds to! paraquat 
+ahr1: !responds to! paraquat 
+nhr1: !responds to! paraquat 
+wav2-1: !produces! reactive oxygen species 
+ahr1: !inhibited by! paraquat 
+nhr1: !inhibited by! paraquat 
+hydrotropism: !differs from! thigmotropism

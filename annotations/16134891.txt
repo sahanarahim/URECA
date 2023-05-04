@@ -1,0 +1,10 @@
+We investigated the hallmarks of posttranscription gene silencing (PTGS) in mature plants, embryos, and seedlings of the transgenic plum trees (Prunus sp.) that are resistant to Plum pox virus (PPV). We previously demonstrated that the transgene insert and resistance to PPV were mutually inherited in progeny of line C5. We show here that C5 constitutively produces a short (22 nt) and a long (25 to 26 nt) species of short interfering (si)RNA from embryo to mature plant in the absence of PPV inoculation. Unlike siRNA, methylation and transcription of the PPV-coat protein transgene were 're-set' following seed germination. Uninoculated transgenic susceptible clones did not display DNA methylation, nor did they produce detectable levels of siRNA. Upon infection, susceptible clones, transgenic or untransformed, did produce siRNA but only the short 22-nt species. These findings show that plum trees respond to virus infection by initiating PTGS-like mechanisms that involve the production of siRNA. We further suggest that high-level virus resistance in transgenic Prunus species requires the production of the long-size class of siRNA. The research adds new insights into PTGS silencing in woody perennial plant species.
+
+transgene: !produces! siRNA
+embryo: !produces! siRNA
+mature plant: !produces! siRNA
+seed germination: !resets! methylation & transcription
+susceptible clones: !do not produce! siRNA
+virus infection: !initiates! PTGS-like mechanisms
+virus infection: !produces! short 22-nt siRNA
+high-level virus resistance: !requires! long-size class of siRNA

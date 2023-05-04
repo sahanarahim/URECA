@@ -1,0 +1,12 @@
+['19807882', 'Sad1/UNC-84 (SUN)-domain proteins are inner nuclear membrane (INM) proteins that  are part of bridging complexes linking cytoskeletal elements with the  nucleoskeleton, and have been shown to be conserved in non-plant systems. In this  paper, we report the presence of members of this family in the plant kingdom, and  investigate the two Arabidopsis SUN-domain proteins, AtSUN1 and AtSUN2. Our  results indicate they contain the highly conserved C-terminal SUN domain, and  share similar structural features with animal and fungal SUN-domain proteins  including a functional coiled-coil domain and nuclear localization signal. Both  are expressed in various tissues with AtSUN2 expression levels relatively low but  upregulated in proliferating tissues. Further, we found AtSUN1 and AtSUN2  expressed as fluorescent protein fusions, to localize to and show low mobility in  the nuclear envelope (NE), particularly in the INM. Deletion of various  functional domains including the N terminus and coiled-coil domain affect the  localization and increase the mobility of AtSUN1 and AtSUN2. Finally, we present  evidence that AtSUN1 and AtSUN2 are present as homomers and heteromers in vivo,  and that the coiled-coil domains are required for this. The study provides  evidence suggesting the existence of cytoskeletal-nucleoskeletal bridging  complexes at the plant NE.', '2010 Jan', 'Plant J', '10.1111/j.1365-313X.2009.04038.x', 'Evans']
+
+AtSUN1: !localizes to! INM 
+AtSUN2: !localizes to! INM 
+AtSUN1: !expressed in! various tissues 
+AtSUN2: !expressed in! various tissues 
+AtSUN1: !interacts with! AtSUN2 
+AtSUN2: !interacts with! AtSUN1 
+AtSUN1: !requires! N terminus 
+AtSUN2: !requires! N terminus 
+AtSUN1: !requires! coiled-coil domain 
+AtSUN2: !requires! coiled-coil domain

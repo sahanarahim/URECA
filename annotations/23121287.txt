@@ -1,0 +1,10 @@
+Although huge amounts of high-throughput sequencing (HTS) data are available, limited systematic analyses have been performed by integrating these valuable resources. Based on small RNA (sRNA), RNA and degradome HTS data, the sRNAs specifically expressed at vegetative and reproductive stages were identified separately in rice. Two distinct groups of sRNA HTS data, which were prepared during the vegetative and the reproductive stages, were utilized to extract stage-specific sRNAs. Degradome sequencing data were employed for sRNA target validation. RNA sequencing data were used to construct expression-based, sRNA-mediated networks. As a result, 26 microRNAs and 413 sRNAs were specifically expressed at the vegetative stage, and 79 microRNAs and 539 sRNAs were specifically expressed at the reproductive stage. In addition to the microRNAs, numerous stage-specific sRNAs enriched in ARGONAUTE1 showed great potential to perform cleavage-based repression on the targets. Several stage-specific sRNAs were indicated to result from the wobble effect of Dicer-like 1-mediated processing of microRNA precursors. The expression patterns of the sRNA targets, and the stage-specific cleavage signals strongly indicated the reliability of the constructed networks. A set of rice stage-specific sRNAs along with the regulatory cascades, which have great potential in regulating specific developmental stages, were provided for further investigation.
+
+sRNA: !specifically expressed at! vegetative stage
+sRNA: !specifically expressed at! reproductive stage
+microRNA: !specifically expressed at! vegetative stage
+microRNA: !specifically expressed at! reproductive stage
+ARGONAUTE1: !enriched in! stage-specific sRNAs
+Dicer-like 1: !mediates processing of! microRNA precursors
+sRNA: !represses! targets
+sRNA: !indicated by! cleavage signals

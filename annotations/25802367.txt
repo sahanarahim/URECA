@@ -1,0 +1,8 @@
+The genome-wide abundance of two histone modifications, H3K4me3 and H3K9ac (both associated with actively expressed genes), was monitored in Arabidopsis (Arabidopsis thaliana) leaves at different time points during developmental senescence along with expression in the form of RNA sequencing data. H3K9ac and H3K4me3 marks were highly convergent at all stages of leaf aging, but H3K4me3 marks covered nearly 2 times the gene area as H3K9ac marks. Genes with the greatest fold change in expression displayed the largest positively correlated percentage change in coverage for both marks. Most senescence up-regulated genes were premarked by H3K4me3 and H3K9ac but at levels below the whole-genome average, and for these genes, gene expression increased without a significant increase in either histone mark. However, for a subset of genes showing increased or decreased expression, the respective gain or loss of H3K4me3 marks was found to closely match the temporal changes in mRNA abundance; 22% of genes that increased expression during senescence showed accompanying changes in H3K4me3 modification, and they include numerous regulatory genes, which may act as primary response genes.
+
+H3K4me3: !covers! 2x gene area
+H3K9ac: !convergent with! H3K4me3
+H3K4me3/H3K9ac: !correlated with! fold change in expression
+H3K4me3/H3K9ac: !premeasured! senescence up-regulated genes
+H3K4me3: !closely matches! temporal changes in mRNA abundance
+H3K4me3: !includes! regulatory genes

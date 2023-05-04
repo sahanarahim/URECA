@@ -1,0 +1,10 @@
+Tomato is one of the major vegetable crops consumed worldwide. <i>Tomato yellow leaf curl virus</i> (TYLCV) and fungal <i>Oidium</i> sp. are devastating pathogens causing yellow leaf curl disease and powdery mildew. Such viral and fungal pathogens reduce tomato crop yields and cause substantial economic losses every year. Several commercial tomato varieties include <i>Ty-5</i> (<i>SlPelo</i>) and <i>Mildew resistance locus o 1</i> (<i>SlMlo1</i>) locus that carries the susceptibility (<i>S</i>-gene) factors for TYLCV and powdery mildew, respectively. The clustered regularly interspaced short palindromic repeats (CRISPR)/CRISPR-associated protein (Cas) is a valuable genome editing tool to develop disease-resistant crop varieties. In this regard, targeting susceptibility factors encoded by the host plant genome instead of the viral genome is a promising approach to achieve pathogen resistance without the need for stable inheritance of CRISPR components. In this study, the CRISPR/Cas9 system was employed to target the <i>SlPelo</i> and <i>SlMlo1</i> for trait introgression in elite tomato cultivar BN-86 to confer host-mediated immunity against pathogens. <i>SlPelo</i>-knockout lines were successfully generated, carrying the biallelic indel mutations. The pathogen resistance assays in <i>SlPelo</i> mutant lines confirmed the suppressed accumulation of TYLCV and restricted the spread to non-inoculated plant parts. Generated knockout lines for the <i>SlMlo1</i> showed complete resistance to powdery mildew fungus. Overall, our results demonstrate the efficiency of the CRISPR/Cas9 system to introduce targeted mutagenesis for the rapid development of pathogen-resistant varieties in tomato.
+
+Tomato: !carries! SlPelo
+Tomato: !carries! SlMlo1
+CRISPR/Cas9: !targets! SlPelo
+CRISPR/Cas9: !targets! SlMlo1
+SlPelo: !knocked out! Tomato
+SlMlo1: !knocked out! Tomato
+TYLCV: !suppressed! SlPelo-knockout lines
+Powdery mildew fungus: !restricted! SlMlo1-knockout lines

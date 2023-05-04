@@ -1,0 +1,14 @@
+Four near-isogenic lines (NILs) with different allele combinations of the <i>starch branching enzyme 3</i> (<i>SBE3</i>) and <i>granule-bound starch synthase 1</i> (<i>GBSS1</i>) were developed by crossing the <i>japonica</i> rice cultivars "Dodamssal" and "Hwayeong." The associations between sequence variations in <i>SBE3</i> and <i>GBSS1</i>, and starch-related traits were investigated. These sequence variations led to changes in seed morphology, starch structure, starch crystallinity, amylopectin chain length distribution, digestibility, apparent amylose content (AAC), and resistant starch content (RS). <i>SBE3</i> and <i>GBSS1</i> showed genetic interaction in regulating AAC and RS. Gene expression profiling of panicle tissues revealed significant differences in expression levels of <i>GBSS1</i>, <i>SBE3</i>, and other starch-related genes among the four NILs, indicating that variations in <i>GBSS1</i> and <i>SBE3</i> changed the expression level of starch-related genes. These variations contributed to the changes observed in AAC, RS, and physico-chemical characteristics of the rice starch from the NILs.
+
+SBE3: !affects! GBSS1
+GBSS1: !affects! SBE3
+SBE3: !influences! starch-related traits
+GBSS1: !influences! starch-related traits
+SBE3: !interacts with! GBSS1
+GBSS1: !interacts with! SBE3
+SBE3: !regulates! AAC
+GBSS1: !regulates! AAC
+SBE3: !regulates! RS
+GBSS1: !regulates! RS
+SBE3: !alters! expression of starch-related genes
+GBSS1: !alters! expression of starch-related genes

@@ -1,0 +1,9 @@
+In most cases, both roots and mycorrhizal fungi are needed for plant nutrient foraging. Frequently, the colonization of roots by arbuscular mycorrhizal (AM) fungi seems to be greater in species with thick and sparsely branched roots than in species with thin and densely branched roots. Yet, whether a complementarity exists between roots and mycorrhizal fungi across these two types of root system remains unclear. We measured traits related to nutrient foraging (root morphology, architecture and proliferation, AM colonization and extramatrical hyphal length) across 14 coexisting AM subtropical tree species following root pruning and nutrient addition treatments. After root pruning, species with thinner roots showed more root growth, but lower mycorrhizal colonization, than species with thicker roots. Under multi-nutrient (NPK) addition, root growth increased, but mycorrhizal colonization decreased significantly, whereas no significant changes were found under nitrogen or phosphate additions. Moreover, root length proliferation was mainly achieved by altering root architecture, but not root morphology. Thin-root species seem to forage nutrients mainly via roots, whereas thick-root species rely more on mycorrhizal fungi. In addition, the reliance on mycorrhizal fungi was reduced by nutrient additions across all species. These findings highlight complementary strategies for nutrient foraging across coexisting species with contrasting root traits.
+
+root: !forages nutrients via! roots 
+root: !colonized by! AM fungi 
+AM fungi: !colonizes! root 
+AM fungi: !forages nutrients via! extramatrical hyphal length 
+thick-root species: !rely more on! mycorrhizal fungi 
+thin-root species: !rely more on! roots 
+nutrient addition: !reduces reliance on! mycorrhizal fungi

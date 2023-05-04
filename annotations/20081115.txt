@@ -1,0 +1,11 @@
+['20081115', 'Cyclic electron flow (CEFI) has been proposed to balance the chloroplast energy  budget, but the pathway, mechanism, and physiological role remain unclear. We  isolated a new class of mutant in Arabidopsis thaliana, hcef for high CEF1, which  shows constitutively elevated CEF1. The first of these, hcef1, was mapped to  chloroplast fructose-1,6-bisphosphatase. Crossing hcef1 with pgr5, which is  deficient in the antimycin A-sensitive pathway for plastoquinone reduction,  resulted in a double mutant that maintained the high CEF1 phenotype, implying  that the PGR5-dependent pathway is not involved. By contrast, crossing hcef1 with  crr2-2, deficient in thylakoid NADPH dehydrogenase (NDH) complex, results in a  double mutant that is highly light sensitive and lacks elevated CEF1, suggesting  that NDH plays a direct role in catalyzing or regulating CEF1. Additionally, the  NdhI component of the NDH complex was highly expressed in hcef1, whereas other  photosynthetic complexes, as well as PGR5, decreased. We propose that (1) NDH is  specifically upregulated in hcef1, allowing for increased CEF1; (2) the hcef1  mutation imposes an elevated ATP demand that may trigger CEF1; and (3)  alternative mechanisms for augmenting ATP cannot compensate for the loss of CEF1  through NDH.', '2010 Jan', 'Plant Cell', '10.1105/tpc.109.071084', 'Kramer']
+
+hcef1: !maps to! chloroplast fructose-1,6-bisphosphatase 
+hcef1: !crossed with! pgr5 
+hcef1: !crossed with! crr2-2 
+PGR5: !not involved in! CEF1 
+crr2-2: !lacks elevated! CEF1 
+NDH: !plays direct role in! catalyzing/regulating CEF1 
+NDH: !upregulated in! hcef1 
+hcef1: !imposes elevated! ATP demand 
+ATP: !cannot compensate for! loss of CEF1 through NDH

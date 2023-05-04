@@ -1,0 +1,7 @@
+Ensuring reliable supply of services from nature is key to the sustainable development and well-being of human societies. Varied and frequently complex relationships between biodiversity and ecosystem services have, however, frustrated our capacity to quantify and predict the vulnerability of those services to species extinctions. Here, we use a qualitative Boolean modelling framework to identify universal drivers of the robustness of ecosystem service supply to species loss. These drivers comprise simple features of the networks that link species to the functions they perform that, in turn, underpin a service. Together, they define what we call network fragility. Using data from >250 real ecological networks representing services such as pollination and seed-dispersal, we demonstrate that network fragility predicts remarkably well the robustness of empirical ecosystem services. We then show how to quantify contributions of individual species to ecosystem service robustness, enabling quantification of how vulnerability scales from species to services. Our findings provide general insights into the way species, functional traits, and the links between them together determine the vulnerability of ecosystem service supply to biodiversity loss.
+
+species: !links to! function 
+function: !underpins! service 
+service: !determines! vulnerability 
+species: !contributes to! robustness 
+robustness: !scales from! species

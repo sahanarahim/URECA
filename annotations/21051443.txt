@@ -1,0 +1,8 @@
+The AGC kinase OsOxi1, which has been isolated as an interactor with OsPti1a, positively regulates basal disease resistance in rice. In eukaryotes, AGC kinase family proteins are regulated by 3-phosphoinositide-dependent protein kinase 1 (Pdk1). In Arabidopsis, AtPdk1 directly interacts with phosphatidic acid, which functions as a second messenger in both biotic and abiotic stress responses. However, the functions of Pdk1 are poorly understood in plants. We show here that OsPdk1 acts upstream of the OsOxi1-OsPti1a signal cascade in disease resistance in rice. OsPdk1 interacts with OsOxi1 and phosphorylates the Ser283 residue of OsOxi1 in vitro. To investigate whether OsPdk1 is involved in immunity that is triggered by microbial-associated molecular patterns, we analyzed the phosphorylation status of OsPdk1 in response to chitin elicitor. Like OsOxi1, OsPdk1 is rapidly phosphorylated in response to chitin elicitor, suggesting that OsPdk1 participates in signal transduction through pathogen recognition. The overexpression of OsPdk1 enhanced basal resistance against a blast fungus, Magnaporthe oryzae, and a bacterial pathogen, Xanthomonas oryzae pv. oryzae (Xoo). Taken together, these results suggest that OsPdk1 positively regulates basal disease resistance through the OsOxi1-OsPti1a phosphorylation cascade in rice.
+
+OsOxi1: !interacts with! OsPti1a
+OsPdk1: !interacts with! OsOxi1
+OsPdk1: !interacts with! phosphatidic acid
+OsPdk1: !phosphorylates! Ser283 residue of OsOxi1
+OsPdk1: !responds to! chitin elicitor
+OsPdk1: !enhances! basal resistance against blast fungus and bacterial pathogen

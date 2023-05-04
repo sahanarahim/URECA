@@ -1,0 +1,7 @@
+Plant hormones ethylene and auxin synergistically regulate plant root growth and development. Ubiquitin-mediated proteolysis of Aux/IAA transcriptional repressors by the E3 ubiquitin ligase SCF<sup>TIR1/AFB</sup> triggers a transcription-based auxin signaling. Here we show that rice (<i>Oryza sativa</i> L.) soil-surface rooting 1 (SOR1), which is a RING finger E3 ubiquitin ligase identified from analysis of a rice ethylene-insensitive mutant <i>mhz2/sor1-2</i>, controls root-specific ethylene responses by modulating Aux/IAA protein stability. SOR1 physically interacts with OsIAA26 and OsIAA9, which are atypical and canonical Aux/IAA proteins, respectively. SOR1 targets OsIAA26 for ubiquitin/26S proteasome-mediated degradation, whereas OsIAA9 protects the OsIAA26 protein from degradation by inhibiting the E3 activity of SOR1. Auxin promotes SOR1-dependent degradation of OsIAA26 by facilitating SCF<sup>OsTIR1/AFB2</sup>-mediated and SOR1-assisted destabilization of OsIAA9 protein. Our study provides a candidate mechanism by which the SOR1-OsIAA26 module acts downstream of the OsTIR1/AFB2-auxin-OsIAA9 signaling to modulate ethylene inhibition of root growth in rice seedlings.
+
+SOR1: !interacts with! OsIAA26 
+SOR1: !interacts with! OsIAA9 
+OsTIR1/AFB2: !interacts with! OsIAA9 
+Auxin: !promotes! SOR1-dependent degradation of OsIAA26 
+Auxin: !facilitates! SCF<sup>OsTIR1/AFB2</sup>-mediated and SOR1-assisted destabilization of OsIAA9 protein

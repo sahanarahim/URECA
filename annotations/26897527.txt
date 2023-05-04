@@ -1,0 +1,12 @@
+Leafy spurge (Euphorbia esula L.) is an herbaceous weed that maintains a perennial growth pattern through seasonal production of abundant underground adventitious buds (UABs) on the crown and lateral roots. During the normal growing season, differentiation of bud to shoot growth is inhibited by physiological factors external to the affected structure; a phenomenon referred to as paradormancy. Initiation of shoot growth from paradormant UABs can be accomplished through removal of the aerial shoots (hereafter referred to as paradormancy release). In this study, phytohormone abundance and the transcriptomes of paradormant UABs vs. shoot-induced growth at 6, 24, and 72 h after paradormancy release were compared based on hormone profiling and RNA-seq analyses. Results indicated that auxin, abscisic acid (ABA), and flavonoid signaling were involved in maintaining paradormancy in UABs of leafy spurge. However, auxin, ABA, and flavonoid levels/signals decreased by 6 h after paradormancy release, in conjunction with increase in gibberellic acid (GA), cytokinin, jasmonic acid (JA), ethylene, and brassinosteroid (BR) levels/signals. Twenty four h after paradormancy release, auxin and ABA levels/signals increased, in conjunction with increase in GA levels/signals. Major cellular changes were also identified in UABs at 24 h, since both principal component and Venn diagram analysis of transcriptomes clearly set the 24 h shoot-induced growth apart from other time groups. In addition, increase in auxin and ABA levels/signals and the down-regulation of 40 over-represented AraCyc pathways indicated that stress-derived cellular responses may be involved in the activation of stress-induced re-orientation required for initiation of shoot growth. Seventy two h after paradormancy release, auxin, cytokinin, and GA levels/signals were increased, whereas ABA, JA, and ethylene levels/signals were decreased. Combined results were consistent with different phytohormone signals acting in concert to direct cellular changes involved in bud differentiation and shoot growth. In addition, shifts in balance of these phytohormones at different time points and stress-related cellular responses after paradormancy release appear to be critical factors driving transition of bud to shoot growth.
+
+auxin: !increases! GA
+ABA: !increases! GA
+flavonoid: !decreases! GA
+GA: !enhances! shoot growth
+auxin: !increases! ABA
+ABA: !decreases! JA
+JA: !represses! shoot growth
+cytokinin: !enhances! shoot growth
+ethylene: !represses! shoot growth
+BR: !enhances! shoot growth

@@ -1,0 +1,11 @@
+Head blight caused by Fusarium graminearum threatens world-wide wheat production, resulting in both yield loss and mycotoxin contamination. We reconstructed the global F. graminearum gene regulatory network (GRN) from a large collection of transcriptomic data using Bayesian network inference, a machine-learning algorithm. This GRN reveals connectivity between key regulators and their target genes. Focusing on key regulators, this network contains eight distinct but interwoven modules. Enriched for unique functions, such as cell cycle, DNA replication, transcription, translation and stress responses, each module exhibits distinct expression profiles. Evolutionarily, the F. graminearum genome can be divided into core regions shared with closely related species and variable regions harboring genes that are unique to F. graminearum and perform species-specific functions. Interestingly, the inferred top regulators regulate genes that are significantly enriched from the same genomic regions (P < 0.05), revealing a compartmentalized network structure that may reflect network rewiring related to specific adaptation of this plant pathogen. This first-ever reconstructed filamentous fungal GRN primes our understanding of pathogenicity at the systems biology level and provides enticing prospects for novel disease control strategies involving the targeting of master regulators in pathogens. The program can be used to construct GRNs of other plant pathogens.
+
+F. graminearum: !causes! Head blight 
+Bayesian network inference: !reconstructs! F. graminearum gene regulatory network 
+Key regulators: !connects to! target genes 
+Cell cycle, DNA replication, transcription, translation and stress responses: !enriches! modules 
+Core regions: !shares with! closely related species 
+Variable regions: !harbors! genes unique to F. graminearum 
+Top regulators: !regulate! genes from same genomic regions 
+GRN: !primes! understanding of pathogenicity 
+Program: !can be used to construct! GRNs of other plant pathogens

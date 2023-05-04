@@ -1,0 +1,12 @@
+Vegetation shade is characterized by marked decreases in the red/far-red ratio and photosynthetic irradiance. The activity of phytochrome in the field has typically been described by its photoequilibrium, defined by the photochemical properties of the pigment in combination with the spectral distribution of the light. This approach represents an oversimplification because phytochrome B (phyB) activity depends not only on its photochemical reactions but also on its rates of synthesis, degradation, translocation to the nucleus, and thermal reversion. To account for these complex cellular reactions, we used a model to simulate phyB activity under a range of field conditions. The model provided values of phyB activity that in turn predicted hypocotyl growth in the field with reasonable accuracy. On the basis of these observations, we define two scenarios, one is under shade, in cloudy weather, at the extremes of the photoperiod or in the presence of rapid fluctuations of the light environment caused by wind-induced movements of the foliage, where phyB activity departs from photoequilibrium and becomes affected by irradiance and temperature in addition to the spectral distribution. The other scenario is under full sunlight, where phyB activity responds mainly to the spectral distribution of the light.
+
+phyB: !depends on! synthesis
+phyB: !depends on! degradation
+phyB: !depends on! translocation to nucleus
+phyB: !depends on! thermal reversion
+phyB: !predicts! hypocotyl growth
+shade: !affects! phyB activity
+sunlight: !affects! phyB activity
+irradiance: !affects! phyB activity
+temperature: !affects! phyB activity
+spectral distribution: !affects! phyB activity

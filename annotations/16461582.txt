@@ -1,0 +1,8 @@
+['16461582', 'In eukaryotic cells, compartments of the highly dynamic endomembrane system are  acidified to varying degrees by the activity of vacuolar H(+)-ATPases  (V-ATPases). In the Arabidopsis thaliana genome, most V-ATPase subunits are  encoded by small gene families, thus offering potential for a multitude of enzyme  complexes with different kinetic properties and localizations. We have determined  the subcellular localization of the three Arabidopsis isoforms of the  membrane-integral V-ATPase subunit VHA-a. Colocalization experiments as well as  immunogold labeling showed that VHA-a1 is preferentially found in the trans-Golgi  network (TGN), the main sorting compartment of the secretory pathway. Uptake  experiments with the endocytic tracer FM4-64 revealed rapid colocalization with  VHA-a1, indicating that the TGN may act as an early endosomal compartment.  Concanamycin A, a specific V-ATPase inhibitor, blocks the endocytic transport of  FM4-64 to the tonoplast, causes the accumulation of FM4-64 together with newly  synthesized plasma membrane proteins, and interferes with the formation of  brefeldin A compartments. Furthermore, nascent cell plates are rapidly stained by  FM4-64, indicating that endocytosed material is redirected into the secretory  flow after reaching the TGN. Together, our results suggest the convergence of the  early endocytic and secretory trafficking pathways in the TGN.', '2006 Mar', 'Plant Cell', '10.1105/tpc.105.037978', 'Schumacher']
+
+V-ATPases: !affects! acidification 
+VHA-a1: !localizes to! TGN 
+VHA-a1: !interacts with! FM4-64 
+Concanamycin A: !inhibits! endocytic transport 
+Concanamycin A: !interferes with! brefeldin A compartments 
+FM4-64: !stains! nascent cell plates

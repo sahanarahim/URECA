@@ -1,0 +1,11 @@
+['20473553', 'Shoot branching and growth are controlled by phytohormones such as auxin and  other components in Arabidopsis. We identified a mutant (igi1) showing decreased  height and bunchy branching patterns. The phenotypes reverted to the wild type in  response to RNA interference with the IGI1 gene. Histochemical analysis by GUS  assay revealed tissue-specific gene expression in the anther and showed that the  expression levels of the IGI1 gene in apical parts, including flowers, were  higher than in other parts of the plants. The auxin biosynthesis component gene,  CYP79B2, was up-regulated in igi1 mutants and the IGI1 gene was down-regulated by  IAA treatment. These results indicated that there is an interplay regulation  between IGI1 and phytohormone auxin. Moreover, the expression of the  auxin-related shoot branching regulation genes, MAX3 and MAX4, was down-regulated  in igi1 mutants. Taken together, these results indicate that the overexpression  of the IGI1 influenced MAX pathway in the shoot branching regulation.', '2010 Aug', 'Plant Mol Biol', '10.1007/s11103-010-9645-0', 'Cheong']
+
+IGI1: !affects! Shoot branching 
+IGI1: !up-regulates! CYP79B2 
+IGI1: !down-regulates! IAA 
+IGI1: !down-regulates! MAX3 
+IGI1: !down-regulates! MAX4 
+CYP79B2: !up-regulated by! IGI1 
+IAA: !down-regulated by! IGI1 
+MAX3: !down-regulated by! IGI1 
+MAX4: !down-regulated by! IGI1

@@ -1,0 +1,13 @@
+['15310821', 'The ADO/FKF/LKP/ZTL family of proteins of Arabidopsis thaliana Heynh. have a LOV  domain, an F-box motif, and a kelch repeat region. LKP2 is a member of this  family and functions either within or very close to the circadian oscillator in  Arabidopsis. Promoter-GUS fusion studies revealed that the LKP2 gene was highly  active in rosette leaves. In CaMV 35S:LKP2-GFP plants, GFP-associated  fluorescence was detected in nuclei, suggesting that LKP2 is a nuclear protein.  Yeast two-hybrid analysis demonstrated that LKP2 interacted with some Arabidopsis  Skp1-like proteins (ASK), as do other ADO/FKF/LKP/ZTL family proteins, suggesting  that LKP2 can form an SCF (Skp1-Cullin-F-box protein) complex that functions as a  ubiquitin E3 ligase. LKP2 interacted not only with itself but also with other  members of the family, LKP1 and FKF1. The two-hybrid analysis also demonstrated  that LKP2 interacted with TOC1, a clock component, but not with CCA1 or LHY,  negative regulators of TOC1 gene expression. The LOV domain of LKP2 was shown to  be necessary and sufficient for the interaction with TOC1. An interaction between  LKP2 and APRR5, a paralogue of TOC1, was also observed, but LKP2 did not interact  with APRR3, APRR7, or APRR9, other paralogues of TOC1.', '2004 Sep', 'J Exp Bot', '10.1093/jxb/erh226', 'Kiyosue']
+
+LKP2: !localizes to! nucleus 
+LKP2: !interacts with! ASK 
+LKP2: !interacts with! LKP1 
+LKP2: !interacts with! FKF1 
+LKP2: !interacts with! TOC1 
+LKP2: !interacts with! APRR5 
+LKP2: !does not interact with! CCA1 
+LKP2: !does not interact with! LHY 
+LKP2: !does not interact with! APRR3 
+LKP2: !does not interact with! APRR7 
+LKP2: !does not interact with! APRR9

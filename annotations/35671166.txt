@@ -1,0 +1,11 @@
+Salicylic acid (SA) plays a key role in plant resistance to pathogens. In Arabidopsis, the isochorismate synthase pathway mainly contributes to pathogen-induced SA synthesis, and the expression of SA synthesis genes is activated by two calmodulin (CaM)-binding protein 60 (CBP60)-type transcription factors, CBP60g and SARD1. In tobacco, the mechanisms underlying SA synthesis remain largely unknown. SA production is induced by wounding in tobacco plants in which the expression of two stress-related mitogen-activated protein kinases is suppressed. Using this phenomenon, we identified genes whose expression is associated with SA synthesis. One of the genes, NtCBP60g, showed 23% amino acid sequence identity with CBP60g. Transient overexpression of NtCBP60g as well as NtSARD1, a tobacco homolog of SARD1, induced SA accumulation in Nicotiana benthamiana leaves. NtCBP60g and NtSARD1 bound CaM, and CaM enhanced SA accumulation induced by NtCBP60g and NtSARD1. Conversely, mutations in NtCBP60g and NtSARD1 that abolished CaM binding reduced their ability to induce SA. Expression profiling and promoter analysis identified two hypersensitivity-related genes, HSR201 and HSR203J as the targets of NtCBP60g and NtSARD1. Virus-induced gene silencing of both NtCBP60g and NtSARD1 homologs compromised SA accumulation and the expression of HSR201 and HSR203J homologs, which were induced by a pathogen-derived elicitor in N. benthamiana leaves. Moreover, elicitor-induced SA accumulation was compromised by silencing of the HSR201 homolog and the HSR203J homolog. These results suggested that HSR201 and HSR203J are regulated by NtCBP60g and NtSARD1 and are required for elicitor-induced SA synthesis.
+
+CBP60g: !activates! SA synthesis genes
+SARD1: !activates! SA synthesis genes
+NtCBP60g: !binds! CaM
+NtSARD1: !binds! CaM
+CaM: !enhances! SA accumulation
+NtCBP60g: !regulates! HSR201
+NtSARD1: !regulates! HSR203J
+HSR201: !required for! elicitor-induced SA synthesis
+HSR203J: !required for! elicitor-induced SA synthesis

@@ -1,0 +1,7 @@
+['36191209', 'MicroRNAs (miRNAs) play an essential role in plant growth and development, and as  such, their biogenesis is fine-tuned via regulation of the core microprocessor  components. Here, we report that Arabidopsis AAR2, a homolog of a U5 snRNP  assembly factor in yeast and humans, not only acts in splicing but also promotes  miRNA biogenesis. AAR2 interacts with the microprocessor component hyponastic  leaves 1 (HYL1) in the cytoplasm, nucleus, and dicing bodies. In aar2 mutants,  abundance of nonphosphorylated HYL1, the active form of HYL1, and the number of  HYL1-labeled dicing bodies are reduced. Primary miRNA (pri-miRNA) accumulation is  compromised despite normal promoter activities of MIR genes in aar2 mutants. RNA  decay assays show that the aar2-1 mutation leads to faster degradation of  pri-miRNAs in a HYL1-dependent manner, which reveals a previously unknown and  negative role of HYL1 in miRNA biogenesis. Taken together, our findings reveal a  dual role of AAR2 in miRNA biogenesis and pre-messenger RNA splicing.', '2022 Oct 11', 'Proc Natl Acad Sci U S A', '10.1073/pnas.2208415119', 'ORCID:']
+
+AAR2: !interacts with! HYL1 
+AAR2: !promotes! miRNA biogenesis 
+HYL1: !regulates! AAR2 
+HYL1: !affects! pri-miRNA accumulation 
+HYL1: !influences! RNA decay

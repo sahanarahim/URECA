@@ -1,0 +1,9 @@
+['10069828', 'Since the isolation and characterization of dwarf1-1 (dwf1-1) from a T-DNA  insertion mutant population, phenotypically similar mutants, including  deetiolated2 (det2), constitutive photomorphogenesis and dwarfism (cpd),  brassinosteroid insensitive1 (bri1), and dwf4, have been reported to be defective  in either the biosynthesis or the perception of brassinosteroids. We present  further characterization of dwf1-1 and additional dwf1 alleles. Feeding tests  with brassinosteroid-biosynthetic intermediates revealed that dwf1 can be rescued  by 22alpha-hydroxycampesterol and downstream intermediates in the brassinosteroid  pathway. Analysis of the endogenous levels of brassinosteroid intermediates  showed that 24-methylenecholesterol in dwf1 accumulates to 12 times the level of  the wild type, whereas the level of campesterol is greatly diminished, indicating  that the defective step is in C-24 reduction. Furthermore, the deduced amino acid  sequence of DWF1 shows significant similarity to a flavin adenine  dinucleotide-binding domain conserved in various oxidoreductases, suggesting an  enzymatic role for DWF1. In support of this, 7 of 10 dwf1 mutations directly  affected the flavin adenine dinucleotide-binding domain. Our molecular  characterization of dwf1 alleles, together with our biochemical data, suggest  that the biosynthetic defect in dwf1 results in reduced synthesis of bioactive  brassinosteroids, causing dwarfism.', '1999 Mar', 'Plant Physiol', '10.1104/pp.119.3.897', 'Feldmann']
+
+dwf1-1: !affects! brassinosteroid biosynthesis 
+dwf1: !rescued by! 22alpha-hydroxycampesterol 
+dwf1: !accumulates! 24-methylenecholesterol 
+dwf1: !diminished! campesterol 
+dwf1: !similar to! flavin adenine dinucleotide-binding domain 
+dwf1: !affected by! 7 of 10 mutations 
+dwf1: !causes! dwarfism

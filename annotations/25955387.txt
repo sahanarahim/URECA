@@ -1,0 +1,13 @@
+Ubiquitin-mediated protein degradation is involved in various cellular processes including plant-microbe interactions and defense responses. Although there are many E3 ubiquitin ligases in rice, the functions of their targets in defense responses are unclear. We recently found that SPIN6 (SPL11-interacting Protein 6) is a Rho GTPase-activating protein and acts as the target of the E3 ligase SPL11, a negative regulator of plant cell death and innate immunity. Our results showed that SPIN6 serves as a link between the SPL11-mediated ubiquitination pathway and the OsRac1-associated defense system. Here, we show that SPIN6 interacts with OsHUB1 and OsHUB2, the homologous proteins of Arabidopsis RING finger E3 ligases HUB1 and HUB2. OsHub1 and OsHub2 are down-regulated in the Spin6 RNAi plants and during the compatible interaction between rice and Magnaporthe oryzae. OsHub1 and OsHub2 are induced by hormone treatments. Like HUB1 and HUB2 in Arabidopsis, OsHUB1 and OsHUB2 in rice form homo- and hetero-dimers. Our results suggest that OsHUB1 and OsHUB2 may be associated with the SPIN6/OsRac1 pathway in rice immunity.
+
+SPIN6: !interacts with! OsHUB1 
+SPIN6: !interacts with! OsHUB2 
+SPL11: !targets! SPIN6 
+OsRac1: !associated with! SPIN6/OsRac1 pathway 
+OsHub1: !down-regulated in! Spin6 RNAi plants 
+OsHub1: !induced by! hormone treatments 
+OsHub2: !down-regulated in! Spin6 RNAi plants 
+OsHub2: !induced by! hormone treatments 
+OsHUB1: !forms homo- and hetero-dimers with! OsHUB2 
+HUB1: !homologous to! OsHUB1 
+HUB2: !homologous to! OsHUB2

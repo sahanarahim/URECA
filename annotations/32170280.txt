@@ -1,0 +1,8 @@
+Non-photochemical quenching is the photoprotective heat dissipation of chlorophyll-excited states. In higher plants, two quenching sites are located in trimeric LHCII and monomeric CP29 proteins. Catalysis of dissipative reactions requires interactions between chromophores, either carotenoid, chlorophyll or both. We identified CP29 protein domains involved in quenching by complementing an Arabidopsis deletion mutant with sequences deleted in pigment-binding or pH-sensitive sites. Acidic residues exposed to the thylakoid lumen were found not essential for activation of thermal dissipation in vivo. Chlorophylls a603 (a5) and a616 were identified as components of the catalytic pigment cluster responsible for quenching reaction(s), in addition to xanthophyll L2 and chlorophyll a609 (b5). We suggest that a conformational change induced by acidification in PsbS is transduced to CP29, thus bringing chlorophylls a603, a609 and a616 into close contact and activating a dissipative channel. Consistently, mutations on putative protonatable residues, exposed to the thylakoid lumen and previously suggested to regulate xanthophyll exchange at binding site L2, did not affect quenching efficiency.
+
+LHCII: !interacts with! CP29
+CP29: !binds! carotenoid/chlorophyll
+CP29: !activates! thermal dissipation
+PsbS: !induces! conformational change in CP29
+Chlorophyll a603/a616: !form! catalytic pigment cluster
+Mutations: !do not affect! quenching efficiency

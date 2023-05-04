@@ -1,0 +1,9 @@
+Many cyanobacteria secrete siderophores to sequester iron. Alternatively, mechanisms to utilize xenosiderophores have evolved. The overall uptake systems are comparable to that of other bacteria involving outer membrane transporters energized by TonB as well as plasma membrane-localized transporters. However, the function of the bioinformatically-inferred components is largely not established and recent studies showed a high diversity of the complexity of the uptake systems in different cyanobacteria. Thus, we approached the systems of the filamentous Anabaena sp. PCC 7120 as a model of a siderophore-secreting cyanobacterium. Anabaena sp. produces schizokinen and uptake of Fe-schizokinen involves the TonB-dependent transporter, schizokinen transporter (SchT), and the ABC-type transport system FhuBCD. We confirm that this system is also relevant for the uptake of structurally similar Fe-siderophore complexes like Fe-aerobactin. Moreover, we demonstrate a function of the TonB-dependent transporter IutA2 in Fe-schizokinen uptake in addition to SchT. The iutA2 mutant shows growth defects upon iron limitation, alterations in Fe-schizokinen uptake and in the transcription profile of the Fe-schizokinen uptake system. The physiological properties of the mutant confirm the importance of iron uptake for cellular function, e.g. for the Krebs cycle. Based on the relative relation of expression of schT and iutA2 as well as of the iron uptake rate to the degree of starvation, a model for the need of the co-existence of two different outer membrane transporters for the same substrate is discussed.
+
+TonB: !energizes! Outer Membrane Transporters 
+SchT: !transports! Fe-schizokinen 
+FhuBCD: !transports! Fe-schizokinen 
+IutA2: !transports! Fe-schizokinen 
+Fe-schizokinen: !taken up by! SchT, FhuBCD, IutA2 
+Iron: !important for! Krebs cycle 
+SchT, IutA2: !co-exist for! Fe-schizokinen uptake

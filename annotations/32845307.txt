@@ -1,0 +1,8 @@
+Recent rapid progress in deep neural network techniques has allowed recognition and classification of various objects, often exceeding the performance of the human eye. In plant biology and crop sciences, some deep neural network frameworks have been applied mainly for effective and rapid phenotyping. In this study, beyond simple optimizations of phenotyping, we propose an application of deep neural networks to make an image-based internal disorder diagnosis that is hard even for experts, and to visualize the reasons behind each diagnosis to provide biological interpretations. Here, we exemplified classification of calyx-end cracking in persimmon fruit by using five convolutional neural network models with various layer structures and examined potential analytical options involved in the diagnostic qualities. With 3,173 visible RGB images from the fruit apex side, the neural networks successfully made the binary classification of each degree of disorder, with up to 90% accuracy. Furthermore, feature visualizations, such as Grad-CAM and LRP, visualize the regions of the image that contribute to the diagnosis. They suggest that specific patterns of color unevenness, such as in the fruit peripheral area, can be indexes of calyx-end cracking. These results not only provided novel insights into indexes of fruit internal disorders but also proposed the potential applicability of deep neural networks in plant biology.
+
+Deep Neural Networks: !exceeds! Human Eye
+Deep Neural Networks: !applied to! Phenotyping
+Deep Neural Networks: !classifies! Calyx-End Cracking
+Deep Neural Networks: !visualizes! Reasons Behind Diagnosis
+RGB Images: !used for! Binary Classification
+Feature Visualizations: !identify! Patterns of Color Unevenness

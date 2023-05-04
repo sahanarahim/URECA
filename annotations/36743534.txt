@@ -1,0 +1,10 @@
+Flavonoids are important water soluble secondary metabolites in plants, and light is one of the most essential environmental factors regulating flavonoids biosynthesis. In the previous study, we found bagging treatment significantly inhibited the accumulation of flavonols and anthocyanins but promoted the proanthocyanidins accumulation in the fruit peel of mango (<i>Mangifera indica</i> L.) cultivar 'Sensation', while the relevant molecular mechanism is still unknown. In this study, RNA-seq was conducted to identify the key pathways and genes involved in the light-regulated flavonoids biosynthesis in mango peel. By weighted gene co-expression network analysis (WGCNA), 16 flavonoids biosynthetic genes were crucial for different flavonoids compositions biosynthesis under bagging treatment in mango. The higher expression level of <i>LAR</i> (<i>mango026327</i>) in bagged samples might be the reason why light inhibits proanthocyanidins accumulation in mango peel. The reported <i>MYB</i> positively regulating anthocyanins biosynthesis in mango, <i>MiMYB1</i>, has also been identified by WGCNA in this study. Apart from MYB and bHLH, ERF, WRKY and bZIP were the three most important transcription factors (TFs) involved in the light-regulated flavonoids biosynthesis in mango, with both activators and repressors. Surprisingly, two <i>HY5</i> transcripts, which are usually induced by light, showed higher expression level in bagged samples. Our results provide new insights of the regulatory effect of light on the flavonoids biosynthesis in mango fruit peel.
+
+LAR: !enhances! proanthocyanidins
+MiMYB1: !regulates! anthocyanins
+MYB: !regulates! anthocyanins
+bHLH: !regulates! flavonoids
+ERF: !regulates! flavonoids
+WRKY: !regulates! flavonoids
+bZIP: !regulates! flavonoids
+HY5: !represses! flavonoids

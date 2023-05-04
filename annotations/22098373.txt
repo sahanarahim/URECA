@@ -1,0 +1,6 @@
+As a consequence of the transient nature of kinase-substrate interactions, the detection of kinase targets, although central for understanding many biological processes, has remained challenging. Here we present a straightforward procedure that relies on the comparison of wild type with activation-loop mutants in the kinase of interest by bimolecular complementation assays. As a proof of functionality, we present the identification and in vivo confirmation of substrates of the major cell-cycle kinase in Arabidopsis, revealing a direct link between cell proliferation and the control of the redox state.
+
+kinase: !identifies! substrate 
+substrate: !controlled by! kinase 
+cell-cycle kinase: !directly linked to! cell proliferation 
+cell proliferation: !influenced by! redox state

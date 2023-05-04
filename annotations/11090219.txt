@@ -1,0 +1,8 @@
+['11090219', 'We describe a green fluorescent protein (GFP)-based assay for investigating  membrane traffic on the secretory pathway in plants. Expression of  AtRab1b(N121I), predicted to be a dominant inhibitory mutant of the Arabidopsis  Rab GTPase AtRab1b, resulted in accumulation of a secreted GFP marker in an  intracellular reticulate compartment reminiscent of the endoplasmic reticulum.  This accumulation was alleviated by coexpressing wild-type AtRab1b but not  AtRab8c. When a Golgi-targeted and N-glycosylated variant of GFP was coexpressed  with AtRab1b(N121I), the variant also accumulated in a reticulate network and an  endoglycosidase H-sensitive population appeared. Unexpectedly, expression of  AtRab1b(N121I), but not of the wild-type AtRab1b, resulted in a reduction or  cessation of vectorial Golgi movement, an effect that was reversed by  coexpression of the wild type. We conclude that AtRab1b function is required for  transport from the endoplasmic reticulum to the Golgi apparatus and suggest that  this process may be coupled to the control of Golgi movement.', '2000 Nov', 'Plant Cell', '10.1105/tpc.12.11.2201', 'Moore']
+
+AtRab1b: !affects! Membrane traffic
+AtRab1b(N121I): !accumulates in! Reticulate compartment
+AtRab1b(N121I): !alleviated by! Wild-type AtRab1b
+GFP variant: !accumulates in! Reticulate network
+AtRab1b(N121I): !reduces/ceases! Vectorial Golgi movement
+Wild-type AtRab1b: !reverses! Reduction/cessation of vectorial Golgi movement

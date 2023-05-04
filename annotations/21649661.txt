@@ -1,0 +1,8 @@
+Understanding what determines the size and composition of fruit, grain and seed in response to the environment and genotype is challenging, as these traits result from several linked processes controlled at different levels of organization, from the subcellular to the crop level, with subtle interactions occurring at or between the levels of organization. Process-based simulation models (PBSMs) implement algorithms to simulate metabolic and biophysical aspects of cell, tissue and organ behaviour. In this review, fruit, grain and seed PBSMs describing the main phases of growth, development and storage metabolism are discussed. From this concurrent work, it is possible to identify generic storage organ processes which can be modelled similarly for fruit, grain and seed. Spatial heterogeneity at the tissue and whole-plant level is found to be a key consideration in modelling the effects of the environment and genotype on fruit, grain and seed end-use value. In the future, PBSMs may well become the main link between studies at the molecular and whole-plant levels. To bridge this phenotype-to-genotype gap, future models need to remain plastic without becoming overparameterized.
+
+Gene: !affects! Process 
+Process: !modelled by! PBSMs 
+PBSMs: !simulate! Metabolic and biophysical aspects 
+Environment: !influences! Spatial heterogeneity 
+Genotype: !influences! Spatial heterogeneity 
+Phenotype: !bridged to! Genotype

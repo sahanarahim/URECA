@@ -1,0 +1,11 @@
+The transition from seed to seedling is mediated by germination, a complex process that starts with imbibition and completes with radicle emergence. To gain insight into the transcriptional program mediating germination, previous studies have compared the transcript profiles of dry, dormant, and germinating after-ripened Arabidopsis (Arabidopsis thaliana) seeds. While informative, these approaches did not distinguish the transcriptional responses due to imbibition, shifts in metabolism, or breaking of dormancy from those triggered by the initiation of germination. In this study, three mechanistically distinct small molecules that inhibit Arabidopsis seed germination (methotrexate, 2, 4-dinitrophenol, and cycloheximide) were identified using a small-molecule screen and used to probe the germination transcriptome. Germination-responsive transcripts were defined as those with significantly altered transcript abundance across all inhibitory treatments with respect to control germinating seeds, using data from ATH1 microarrays. This analysis identified numerous germination regulators as germination responsive, including the DELLA proteins GAI, RGA, and RGL3, the abscisic acid-insensitive proteins ABI4, ABI5, ABI8, and FRY1, and the gibberellin receptor GID1A. To help visualize these and other publicly available seed microarray data, we designed a seed mRNA expression browser using the electronic Fluorescent Pictograph platform. An overall decrease in gene expression and a 5-fold greater number of transcripts identified as statistically down-regulated in drug-inhibited seeds point to a role for mRNA degradation or turnover during seed germination. The genes identified in our study as responsive to germination define potential uncharacterized regulators of this process and provide a refined transcriptional signature for germinating Arabidopsis seeds.
+
+GAI: !regulates! Germination
+RGA: !regulates! Germination
+RGL3: !regulates! Germination
+ABI4: !regulates! Germination
+ABI5: !regulates! Germination
+ABI8: !regulates! Germination
+FRY1: !regulates! Germination
+GID1A: !regulates! Germination
+mRNA: !degraded during! Germination

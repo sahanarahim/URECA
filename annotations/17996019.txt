@@ -1,0 +1,8 @@
+We have designed a screen for mutants affected in 3' maturation of the chloroplast rbcL mRNA in Chlamydomonas reinhardtii. We inserted a spectinomycin resistance cassette, 5'atpA::aadA::3'rbcL, in a peripheral domain of tscA, the gene for a small non-coding RNA involved in trans-splicing of psaA. Depending on the orientation of the cassette, a polar effect was observed which was due to processing at the 3'rbcL element: the chimeric tscA RNA was truncated and splicing of psaA was blocked. We selected phenotypic revertants of this insertion mutant that restored psaA splicing, which correlated with the presence of chimeric transcripts that regained the 3' part of tscA. We analyzed two nuclear and six chloroplast suppressors. Five chloroplast mutations altered a short element in the center of the second inverted repeat in the 3'rbcL (IR2), and one deleted a larger region including this element. These mutations revealed a cis-acting element in IR2 which is required for 3' processing. When the same mutations were inserted in the 3' untranslated region (UTR) of the native rbcL gene, the rbcL mRNA accumulated to normal levels, but in strong alleles its 3' end was located upstream, near the end of the first inverted repeat (IR1). Deletion of either IR1 or IR2 allowed stable accumulation of rbcL mRNA, but deletion of both resulted in its complete absence. This indicated that the two inverted repeats function as redundant mRNA stability determinants in the 3' UTR of rbcL.
+
+tscA: !affects! 3' maturation of rbcL mRNA
+chimeric tscA RNA: !truncates! psaA splicing
+mutations: !alter! short element in IR2
+mutations: !delete! larger region including IR2 element
+IR2: !required for! 3' processing
+IR1/IR2: !function as! redundant mRNA stability determinants

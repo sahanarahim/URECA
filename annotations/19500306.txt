@@ -1,0 +1,11 @@
+['19500306', 'In Arabidopsis, three receptors exist for the phytohormone gibberellin. Of the  three, only a double loss-of-function mutant (atgid1a atgid1c) shows a dwarf  phenotype, while other double and all single mutants show no abnormality in  height. In this study we show that the expression of AtGID1b-GUS mRNA, driven by  the AtGID1b promoter, is low in inflorescence stems, but may be 10% of  AtGID1a-GUS mRNA, driven by the AtGID1a promoter. However, AtGID1b-GUS enzymatic  activity does not exist in them. This factor strongly suggests that atgid1a  atgid1c lacks sufficient AtGID1b protein for normal stem growth. In the stamens  of pAtGID1c::AtGID1c-GUS transformants, we detected clear AtGID1c-GUS activity,  while another atgid1a atgid1b, which has short stamens in its flowers, causes the  adhesion of little pollen to stigmas thus leading to its low fertility. We then  evaluated the affinity of the AtGID1-DELLA interaction by a competitive yeast  three-hybrid system and also by QCM apparatus. AtGID1c showed a quite lower  affinity to RGL2, the major DELLA protein in floral buds, than AtGID1a or  AtGID1b. The low affinity of the AtGID1c-RGL2 interaction is likely to be  responsible for the failure of AtGID1c to hold RGL2, which is required for normal  stamen development. Taken together with expressional information of DELLA genes,  we propose that in a double loss-of-function mutant of gibberellin receptors, the  emergence of any phenotype(s) depends on the abundance of the remaining receptor  and its preference to DELLA proteins existing at a target site.', '2009 Oct', 'Plant J', '10.1111/j.1365-313X.2009.03936.x', 'Nakajima']
+
+AtGID1a: !affects! stem growth 
+AtGID1b: !affects! stem growth 
+AtGID1c: !affects! stamen development 
+AtGID1a: !interacts with! RGL2 
+AtGID1b: !interacts with! RGL2 
+AtGID1c: !interacts with! RGL2 
+AtGID1a: !enhances! fertility 
+AtGID1b: !enhances! fertility 
+AtGID1c: !represses! fertility

@@ -1,0 +1,11 @@
+['16725371', 'Arv1p is involved in the regulation of cellular lipid homeostasis in the yeast  Saccharomyces cerevisiae. Here, we report the characterization of the two  Arabidopsis thaliana ARV genes and the encoded proteins, AtArv1p and AtArv2p. The  functional identity of AtArv1p and AtArv2p was demonstrated by complementation of  the thermosensitive phenotype of the arv1Delta yeast mutant strain YJN1756. Both  A. thaliana proteins contain the bipartite Arv1 homology domain (AHD), which  consists of an NH(2)-terminal cysteine-rich subdomain with a putative  zinc-binding motif followed by a C-terminal subdomain of 33 amino acids. Removal  of the cysteine-rich subdomain has no effect on Arvp activity, whereas the  presence of the C-terminal subdomain of the AHD is critical for Arvp function.  Localization experiments of AtArv1p and AtArv2p tagged with green fluorescent  protein (GFP) and expressed in onion epidermal cells demonstrated that both  proteins are exclusively targeted to the endoplasmic reticulum. Analysis of  beta-glucuronidase (GUS) activity in transgenic A. thaliana plants carrying  chimeric ARV1::GUS and ARV2::GUS genes showed that ARV gene promoters direct  largely overlapping patterns of expression that are restricted to tissues in  which cells are actively dividing or expanding. The results of this study support  the notion that plants, yeast and mammals share common molecular mechanisms  regulating intracellular lipid homeostasis.', '2006 Jul', 'Biochim Biophys Acta', '10.1016/j.bbalip.2006.03.025', 'Ferrer']
+
+AtArv1p: !localizes to! endoplasmic reticulum 
+AtArv2p: !localizes to! endoplasmic reticulum 
+ARV1::GUS: !directs! expression in actively dividing/expanding cells 
+ARV2::GUS: !directs! expression in actively dividing/expanding cells 
+AtArv1p: !contains! bipartite Arv1 homology domain 
+AtArv2p: !contains! bipartite Arv1 homology domain 
+cysteine-rich subdomain: !has no effect on! Arvp activity 
+C-terminal subdomain: !critical for! Arvp function 
+Arv1p: !regulates! cellular lipid homeostasis

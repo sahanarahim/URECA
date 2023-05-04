@@ -1,0 +1,11 @@
+Accumulated transcriptome data can be used to investigate regulatory networks of genes involved in various biological systems. Co-expression analysis data sets generated from comprehensively collected transcriptome data sets now represent efficient resources that are capable of facilitating the discovery of genes with closely correlated expression patterns. In order to construct a co-expression network for barley, we analyzed 45 publicly available experimental series, which are composed of 1,347 sets of GeneChip data for barley. On the basis of a gene-to-gene weighted correlation coefficient, we constructed a global barley co-expression network and classified it into clusters of subnetwork modules. The resulting clusters are candidates for functional regulatory modules in the barley transcriptome. To annotate each of the modules, we performed comparative annotation using genes in Arabidopsis and Brachypodium distachyon. On the basis of a comparative analysis between barley and two model species, we investigated functional properties from the representative distributions of the gene ontology (GO) terms. Modules putatively involved in drought stress response and cellulose biogenesis have been identified. These modules are discussed to demonstrate the effectiveness of the co-expression analysis. Furthermore, we applied the data set of co-expressed genes coupled with comparative analysis in attempts to discover potentially Triticeae-specific network modules. These results demonstrate that analysis of the co-expression network of the barley transcriptome together with comparative analysis should promote the process of gene discovery in barley. Furthermore, the insights obtained should be transferable to investigations of Triticeae plants. The associated data set generated in this analysis is publicly accessible at http://coexpression.psc.riken.jp/barley/.
+
+Gene: !affects! Process 
+Gene: !localizes to! X 
+Gene: !interacts with! Y 
+Gene: !enhances! Z 
+Gene: !represses! U 
+Gene: !synthesizes! I 
+Co-expression analysis: !identifies! Functional Regulatory Modules 
+Comparative Analysis: !reveals! GO Terms 
+Data Set: !facilitates! Gene Discovery

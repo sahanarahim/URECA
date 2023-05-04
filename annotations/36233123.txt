@@ -1,0 +1,7 @@
+There is evidence that non-coding RNAs play significant roles in the regulation of nutrient homeostasis, development, and stress responses in plants. Accurate identification of ncRNAs is the first step in determining their function. While a number of machine learning tools have been developed for ncRNA identification, no dedicated tool has been developed for ncRNA identification in plants. Here, an automated machine learning tool, PINC is presented to identify ncRNAs in plants using RNA sequences. First, we extracted 91 features from the sequence. Second, we combined the F-test and variance threshold for feature selection to find 10 features. The AutoGluon framework was used to train models for robust identification of non-coding RNAs from datasets constructed for four plant species. Last, these processes were combined into a tool, called PINC, for the identification of plant ncRNAs, which was validated on nine independent test sets, and the accuracy of PINC ranged from 92.74% to 96.42%. As compared with CPC2, CPAT, CPPred, and CNIT, PINC outperformed the other tools in at least five of the eight evaluation indicators. PINC is expected to contribute to identifying and annotating novel ncRNAs in plants.
+
+PINC: !identifies! ncRNAs 
+F-test: !combined with! variance threshold 
+AutoGluon: !used to train! models 
+PINC: !validated on! nine independent test sets 
+PINC: !outperforms! CPC2, CPAT, CPPred, and CNIT

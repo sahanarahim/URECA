@@ -1,0 +1,8 @@
+Bradyrhizobium sp. strain DOA9 contains two copies of the nifDK genes, nifDKc, located on the chromosome, and nifDKp, located on a symbiotic megaplasmid. Unlike most rhizobia, this bacterium displays nitrogenase activity under both free-living and symbiotic conditions. Transcriptional analysis using gusA reporter strains showed that both nifDK operons were highly expressed under symbiosis, whereas nifDKc was the most abundantly expressed under free-living conditions. During free-living growth, the nifDKp mutation did not affect nitrogenase activity, whereas nitrogenase activity was drastically reduced with the nifDKc mutant. This led us to suppose that nifDKc is the main contributor of nitrogenase activity in the free-living state. In contrast, during symbiosis, no effect of the nifDKc mutation was observed and the nitrogen-fixation efficiency of plants inoculated with the nifDKp mutant was reduced. This suggests that nifDKp plays the main role in nitrogenase enzyme activity during symbiosis. Together, these data suggest that Bradyrhizobium sp. strain DOA9 contains two functional copies of nifDK genes that are regulated differently and that, depending on their lifestyle, contribute differently to nitrogenase activity.
+
+nifDKc: !contributes to! nitrogenase activity (free-living)
+nifDKp: !contributes to! nitrogenase activity (symbiotic)
+nifDKc: !highly expressed under! free-living conditions
+nifDKp: !highly expressed under! symbiotic conditions
+nifDKc: !main contributor of! nitrogenase activity (free-living)
+nifDKp: !main contributor of! nitrogenase activity (symbiotic)

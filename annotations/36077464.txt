@@ -1,0 +1,8 @@
+Potential drug toxicities and drug interactions of redundant compounds of plant complexes may cause unexpected clinical responses or even severe adverse events. On the other hand, super-additivity of drug interactions between natural products and synthetic drugs may be utilized to gain better performance in disease management. Although without enough datasets for prediction model training, based on the SwissSimilarity and PubChem platforms, for the first time, a feasible workflow of prediction of both toxicity and drug interaction of plant complexes was built in this study. The optimal similarity score threshold for toxicity prediction of this system is 0.6171, based on an analysis of 20 different herbal medicines. From the PubChem database, 31 different sections of toxicity information such as "Acute Effects", "NIOSH Toxicity Data", "Interactions", "Hepatotoxicity", "Carcinogenicity", "Symptoms", and "Human Toxicity Values" sections have been retrieved, with dozens of active compounds predicted to exert potential toxicities. In <i>Spatholobus suberectus</i> Dunn (SSD), there are 9 out of 24 active compounds predicted to play synergistic effects on cancer management with various drugs or factors. The synergism between SSD, luteolin and docetaxel in the management of triple-negative breast cancer was proved by the combination index assay, synergy score detection assay, and xenograft model.
+
+Gene: !affects! Process
+Gene: !synthesizes! Compounds
+Gene: !predicts! Toxicity
+Gene: !predicts! Interactions
+Gene: !plays synergistic effects with! Drugs/Factors
+Gene: !proved by! Assay/Model

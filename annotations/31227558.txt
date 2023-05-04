@@ -1,0 +1,10 @@
+Abscisic acid (ABA) and reactive oxygen species (ROS) act as key signaling molecules in the plant response to salt stress; however, how these signals are transduced and amplified remains unclear. Here, a soybean (<i>Glycine max</i>) salinity-induced NAM/ATAF1/2/CUC2 (NAC) transcription factor encoded by <i>SALT INDUCED NAC1</i> (<i>GmSIN1</i>) was shown to be a key component of this process. Overexpression of <i>GmSIN1</i> in soybean promoted root growth and salt tolerance and increased yield under salt stress; RNA interference-mediated knockdown of <i>GmSIN1</i> had the opposite effect. The rapid induction of <i>GmSIN1</i> in response to salinity required ABA and ROS, and the effect of <i>GmSIN1</i> on root elongation and salt tolerance was achieved by boosting cellular ABA and ROS contents. GmSIN1 upregulated 9-<i>cis</i>-epoxycarotenoid dioxygenase coding genes in soybean (<i>GmNCED3s</i>, associated with ABA synthesis) and <i>Respiratory burst oxidase homolog B</i> genes in soybean (<i>GmRbohBs</i>, associated with ROS generation) by binding to their promoters at a site that has not been described to date. Together, <i>GmSIN1</i>, <i>GmNCED3s</i>, and <i>GmRbohBs</i> constitute a positive feed-forward system that enables the rapid accumulation of ABA and ROS, effectively amplifying the initial salt stress signal. These findings suggest that the combined modulation of ABA and ROS contents enhances soybean salt tolerance.
+
+GmSIN1: !induces! GmNCED3s
+GmSIN1: !induces! GmRbohBs
+ABA: !induces! GmSIN1
+ROS: !induces! GmSIN1
+GmSIN1: !enhances! ABA
+GmSIN1: !enhances! ROS
+ABA: !synthesizes! GmNCED3s
+ROS: !synthesizes! GmRbohBs

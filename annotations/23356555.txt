@@ -1,0 +1,8 @@
+The world's forests are currently exposed to increasing concentrations of carbon dioxide (CO2) and ozone (O3). Both pollutants can potentially exert a selective effect on plant populations. This, in turn, may lead to changes in ecosystem properties, such as carbon sequestration. Here, we report how elevated CO2 and O3 affect the genetic composition of a woody plant population via altered survival. Using data from the Aspen free-air CO2 enrichment (FACE) experiment (in which aspen clones were grown in factorial combinations of CO2 and O3), we develop a hierarchical Bayesian model of survival. We also examine how survival differences between clones could affect pollutant responses in the next generation. Our model predicts that the relative abundance of the tested clones, given equal initial abundance, would shift under either elevated CO2 or O3 as a result of changing survival rates. Survival was strongly affected by between-clone differences in growth responses. Selection could noticeably decrease O3 sensitivity in the next generation, depending on the heritability of growth responses and the distribution of seed production. The response to selection by CO2, however, is likely to be small. Our results suggest that the changing atmospheric composition could shift the genotypic composition and average pollutant responses of tree populations over moderate timescales.
+
+CO2: !affects! Survival 
+O3: !affects! Survival 
+Survival: !differs between! Clones 
+Clones: !exhibit differences in! Growth Responses 
+Growth Responses: !heritable and affect! O3 Sensitivity 
+CO2: !has small effect on! Selection

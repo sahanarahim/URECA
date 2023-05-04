@@ -1,0 +1,15 @@
+Chinese bayberry (Myrica rubra Sieb. & Zucc.) is an important fruit tree in China, and has high medicinal value. At present, the genome, transcriptome and germplasm resources of bayberry have been reported. In order to make more convenient use of these data, the Bayberry Database was established. The Bayberry Database is a comprehensive and intuitive data platform for examining the diverse annotated genome and germplasm resources of this species. This database contains nine central functional domains to interact with multiomic data: home, genome, germplasm, markers, tools, map, expression, reference, and contact. All domains provide pathways to a variety of data types composed of a reference genome sequence, transcriptomic data, gene patterns, phenotypic data, fruit images of Myrica rubra varieties, gSSR data, gene maps with annotation and evolutionary analyses. The tools module includes BLAST search, keyword search, sequence fetch and enrichment analysis functions. The web address of the database is as follows http://www.bayberrybase.cn/ . The Myrica rubra database is an intelligent, interactive, and user-friendly system that enables researchers, breeders and horticultural personnel to browse, search and retrieve relevant and useful information and thus facilitate genomic research and breeding efforts concerning Myrica rubra. This database will be of great help to bayberry research and breeding in the future.
+
+Genome: !contains! Reference Genome Sequence
+Transcriptomic Data: !contained in! Genome
+Gene Patterns: !contained in! Genome
+Phenotypic Data: !contained in! Genome
+Fruit Images: !contained in! Germplasm
+gSSR Data: !contained in! Germplasm
+Gene Maps: !contained in! Map
+Annotation: !contained in! Map
+Evolutionary Analyses: !contained in! Map
+BLAST Search: !included in! Tools
+Keyword Search: !included in! Tools
+Sequence Fetch: !included in! Tools
+Enrichment Analysis: !included in! Tools

@@ -1,0 +1,12 @@
+Approaches that enable high-throughput, non-destructive measurement of plant traits are essential for programs seeking to improve crop yields through physiological breeding. However, many key traits still require measurement using slow, labor-intensive, and destructive approaches. We investigated the potential to retrieve key traits associated with leaf source-sink balance and carbon-nitrogen status from leaf optical properties. Structural and biochemical traits and leaf reflectance (500-2400 nm) of eight crop species were measured and used to develop predictive 'spectra-trait' models using partial least squares regression. Independent validation data demonstrated that the models achieved very high predictive power for C, N, C:N ratio, leaf mass per area, water content, and protein content (R2>0.85), good predictive capability for starch, sucrose, glucose, and free amino acids (R2=0.58-0.80), and some predictive capability for nitrate (R2=0.51) and fructose (R2=0.44). Our spectra-trait models were developed to cover the trait space associated with food or biofuel crop plants and can therefore be applied in a broad range of phenotyping studies.
+
+leaf reflectance: !predicts! C, N, C:N ratio
+leaf reflectance: !predicts! leaf mass per area
+leaf reflectance: !predicts! water content
+leaf reflectance: !predicts! protein content
+leaf reflectance: !predicts! starch
+leaf reflectance: !predicts! sucrose
+leaf reflectance: !predicts! glucose
+leaf reflectance: !predicts! free amino acids
+leaf reflectance: !predicts! nitrate
+leaf reflectance: !predicts! fructose

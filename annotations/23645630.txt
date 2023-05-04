@@ -1,0 +1,9 @@
+The critical developmental switch from heterotrophic to autotrophic growth of plants involves light signaling transduction and the production of reactive oxygen species (ROS). ROS function as signaling molecules that regulate multiple developmental processes, including cell death. However, the relationship between light and ROS signaling remains unclear. Here, we identify transcriptional modules composed of the basic helix-loop-helix and bZIP transcription factors PHYTOCHROME-INTERACTING FACTOR1 (PIF1), PIF3, ELONGATED HYPOCOTYL5 (HY5), and HY5 HOMOLOGY (HYH) that bridge light and ROS signaling to regulate cell death and photooxidative response. We show that pif mutants release more singlet oxygen and exhibit more extensive cell death than the wild type during Arabidopsis thaliana deetiolation. Genome-wide expression profiling indicates that PIF1 represses numerous ROS and stress-related genes. Molecular and biochemical analyses reveal that PIF1/PIF3 and HY5/HYH physically interact and coordinately regulate the expression of five ROS-responsive genes by directly binding to their promoters. Furthermore, PIF1/PIF3 and HY5/HYH function antagonistically during the seedling greening process. In addition, phytochromes, cryptochromes, and CONSTITUTIVE PHOTOMORPHOGENIC1 act upstream to regulate ROS signaling. Together, this study reveals that the PIF1/PIF3-HY5/HYH transcriptional modules mediate crosstalk between light and ROS signaling and sheds light on a new mechanism by which plants adapt to the light environments.
+
+PIF1/PIF3: !regulates! ROS-responsive genes
+HY5/HYH: !regulates! ROS-responsive genes
+PIF1/PIF3: !interacts with! HY5/HYH
+phytochromes: !regulates! ROS signaling
+cryptochromes: !regulates! ROS signaling
+CONSTITUTIVE PHOTOMORPHOGENIC1: !regulates! ROS signaling
+light: !signals! ROS signaling

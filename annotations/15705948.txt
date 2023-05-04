@@ -1,0 +1,8 @@
+Arabidopsis thaliana plants with null mutations in the genes encoding the alpha and beta subunits of the single heterotrimeric G protein are less and more sensitive, respectively, to O3 damage than wild-type Columbia-0 plants. The first peak of the bimodal oxidative burst elicited by O3 in wild-type plants is almost entirely missing in both mutants. The late peak is normal in plants lacking the Gbeta protein but missing in plants lacking the Galpha protein. Endogenous reactive oxygen species (ROS) are first detectable in chloroplasts of leaf epidermal guard cells. ROS production in adjacent cells is triggered by extracellular ROS signals produced by guard cell membrane-associated NADPH oxidases encoded by the AtrbohD and AtrbohF genes. The late, tissue damage-associated component of the oxidative burst requires only the Galpha protein and arises from multiple cellular sources. The early component of the oxidative burst, arising primarily from chloroplasts, requires signaling through the heterotrimer (or the Gbetagamma complex) and is separable from Galpha-mediated activation of membrane-bound NADPH oxidases necessary for both intercellular signaling and cell death.
+
+Gbeta: !less sensitive to! O3 damage
+Galpha: !more sensitive to! O3 damage
+AtrbohD/F: !encodes! NADPH oxidases
+Galpha: !triggers! late peak of oxidative burst
+Gbeta/Gbetagamma: !triggers! early peak of oxidative burst
+Galpha: !activates! NADPH oxidases

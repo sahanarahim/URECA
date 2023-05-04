@@ -1,0 +1,9 @@
+['11901167', 'Novel mutations in the RSW1 and KNOPF genes were identified in a large-scale  screen for mutations that affect cell expansion in early Arabidopsis embryos.  Embryos from both types of mutants were radially swollen with greatly reduced  levels of crystalline cellulose, the principal structural component of the cell  wall. Because RSW1 was previously shown to encode a catalytic subunit of  cellulose synthase, the similar morphology of knf and rsw1-2 embryos suggests  that the radially swollen phenotype of knf mutants is largely due to their  cellulose deficiency. Map-based cloning of the KNF gene and enzyme assays of knf  embryos demonstrated that KNF encodes alpha-glucosidase I, the enzyme that  catalyzes the first step in N-linked glycan processing. The strongly reduced  cellulose content of knf mutants indicates that N-linked glycans are required for  cellulose biosynthesis. Because cellulose synthase catalytic subunits do not  appear to be N glycosylated, the N-glycan requirement apparently resides in other  component(s) of the cellulose synthase machinery. Remarkably, cellular processes  other than extracellular matrix biosynthesis and the formation of protein storage  vacuoles appear unaffected in knf embryos. Thus in Arabidopsis cells, like yeast,  N-glycan trimming is apparently required for the function of only a small subset  of N-glycoproteins.', '2002 Mar 18', 'J Cell Biol', '10.1083/jcb.200111093', 'Somerville']
+
+RSW1: !affects! Cell expansion 
+KNOPF: !affects! Cell expansion 
+RSW1: !synthesizes! Cellulose 
+KNF: !encodes! Alpha-glucosidase I 
+KNF: !reduces! Cellulose content 
+N-glycan: !required for! Cellulose biosynthesis 
+N-glycan: !trims! Small subset of N-glycoproteins

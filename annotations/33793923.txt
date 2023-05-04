@@ -1,0 +1,8 @@
+The potassium ion (K+) is vital for plant growth and development, and K+-deprivation leads to reduced crop yields. Here we describe phenotypic, transcriptomic, and mutant analyses to investigate the signaling mechanisms mediating root architectural changes in Arabidopsis (Arabidopsis thaliana) Columbia. We showed effects on root architecture are mediated through a reduction in cell division in the lateral root (LR) meristems, the rate of LR initiation is reduced but LR density is unaffected, and primary root growth is reduced only slightly. This was primarily regulated through gibberellic acid (GA) signaling, which leads to the accumulation of growth-inhibitory DELLA proteins. The short LR phenotype was rescued by exogenous application of GA but not of auxin or by the inhibition of ethylene signaling. RNA-seq analysis showed upregulation by K+-deprivation of the transcription factors JUNGBRUNNEN1 (JUB1) and the C-repeat-binding factor (CBF)/dehydration-responsive element-binding factor 1 regulon, which are known to regulate GA signaling and levels that regulate DELLAs. Transgenic overexpression of JUB1 and CBF1 enhanced responses to K+ stress. Attenuation of the reduced LR growth response occurred in mutants of the CBF1 target gene SFR6, implicating a role for JUB1, CBF1, and SFR6 in the regulation of LR growth in response to K+-deprivation via DELLAs. We propose this represents a mechanism to limit horizontal root growth in conditions where K+ is available deeper in the soil.
+
+K+-deprivation: !affects! root architecture
+GA signaling: !mediates! root architectural changes
+JUB1/CBF1: !upregulated by! K+-deprivation
+JUB1/CBF1: !regulate! GA signaling
+SFR6: !target gene of! CBF1
+JUB1/CBF1/SFR6: !regulate! LR growth in response to K+-deprivation

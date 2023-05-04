@@ -1,0 +1,8 @@
+['11707264', 'Specific primers derived from both genomic sequence data and EST cDNA sequences  were used to polymerase chain reaction amplify two full-length cDNA sequences  (AtSMO1 and AtSMO2), 801 and 783 bp, respectively, from an Arabidopsis thaliana  cDNA library. The predicted proteins show 32 and 29% identity to the ERG25 gene  from Saccharomyces cerevisiae which encodes the sterol-4alpha-methyl oxidase  (SMO), a membrane-bound non-heme di-iron oxygenase involved in lipid metabolism.  Heterologous expression of AtSMO1 and AtSMO2 in a yeast erg25 ergosterol  auxotroph, lacking SMO activity, restored growth and endogenous ergosterol  synthesis. These results represent the first functional identification of SMO  genes from plants.', '2001 Nov 9', 'FEBS Lett', '10.1016/s0014-5793(01)03002-2', 'Rahier']
+
+AtSMO1: !restores growth of! yeast auxotroph 
+AtSMO2: !restores growth of! yeast auxotroph 
+AtSMO1: !encodes! ERG25 gene 
+AtSMO2: !encodes! ERG25 gene 
+ERG25 gene: !synthesizes! sterol-4alpha-methyl oxidase 
+sterol-4alpha-methyl oxidase: !involved in! lipid metabolism

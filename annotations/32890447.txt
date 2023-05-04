@@ -1,0 +1,10 @@
+Phytochromes are red/far-red light receptors in plants involved in the regulation of growth and development. Phytochromes can sense the light environment and contribute to measuring day length; thereby, they allow plants to respond and adapt to changes in the ambient environment. Two well-characterized signalling pathways act downstream of phytochromes and link light perception to the regulation of gene expression. The CONSTITUTIVELY PHOTOMORPHOGENIC 1/SUPPRESSOR OF PHYA-105 (COP1/SPA) E3 ubiquitin ligase complex and the PHYTOCHROME INTERACTING FACTORs (PIFs) are key components of these pathways and repress light responses in the dark. In light-grown seedlings, phytochromes inhibit COP1/SPA and PIF activity and thereby promote light signalling. In a yeast-two-hybrid screen for proteins binding to light-activated phytochromes, we identified COLD-REGULATED GENE 27 (COR27). COR27 and its homologue COR28 bind to phyA and phyB, the two primary phytochromes in seed plants. COR27 and COR28 have been described previously with regard to a function in the regulation of freezing tolerance, flowering and the circadian clock. Here, we show that COR27 and COR28 repress early seedling development in blue, far-red and in particular red light. COR27 and COR28 contain a conserved Val-Pro (VP)-peptide motif, which mediates binding to the COP1/SPA complex. COR27 and COR28 are targeted for degradation by COP1/SPA and mutant versions with a VP to AA amino acid substitution in the VP-peptide motif are stabilized. Overall, our data suggest that COR27 and COR28 accumulate in light but act as negative regulators of light signalling during early seedling development, thereby preventing an exaggerated response to light.
+
+phytochromes: !sense! light environment 
+phytochromes: !regulate! gene expression 
+COP1/SPA: !repress! light responses 
+PIFs: !repress! light responses 
+phyA/phyB: !bind to! COR27/COR28 
+COR27/COR28: !repress! early seedling development 
+COR27/COR28: !targeted for degradation by! COP1/SPA 
+VP-peptide motif: !mediates binding to! COP1/SPA complex

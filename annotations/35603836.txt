@@ -1,0 +1,8 @@
+The circadian clock maintains the daily rhythms of plant growth and anticipates predictable ambient temperature cycles. The evening complex (EC), comprising EARLY FLOWERING 3 (ELF3), ELF4, and LUX ARRHYTHMO, plays an essential role in suppressing thermoresponsive hypocotyl growth by negatively regulating PHYTOCHROME INTERACTING FACTOR 4 (PIF4) activity and its downstream targets in Arabidopsis thaliana. However, how EC activity is attenuated by warm temperatures remains unclear. Here, we demonstrate that warm temperature-induced REVEILLE 7 (RVE7) fine-tunes thermoresponsive growth in Arabidopsis by repressing ELF4 expression. RVE7 transcript and RVE7 protein levels increased in response to warm temperatures. Under warm temperature conditions, an rve7 loss-of-function mutant had shorter hypocotyls, while overexpressing RVE7 promoted hypocotyl elongation. PIF4 accumulation and downstream transcriptional effects were reduced in the rve7 mutant but enhanced in RVE7 overexpression plants under warm conditions. RVE7 associates with the Evening Element in the ELF4 promoter and directly represses its transcription. ELF4 is epistatic to RVE7, and overexpressing ELF4 suppressed the phenotype of the RVE7 overexpression line under warm temperature conditions. Together, our results identify RVE7 as an important regulator of thermoresponsive growth that functions (in part) by controlling ELF4 transcription, highlighting the importance of ELF4 for thermomorphogenesis in plants.
+
+ELF3: !interacts with! ELF4 
+ELF4: !repressed by! RVE7 
+RVE7: !enhances! PIF4 
+PIF4: !downstream of! ELF4 
+RVE7: !associates with! Evening Element 
+ELF4: !epistatic to! RVE7

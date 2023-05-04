@@ -1,0 +1,7 @@
+High-efficiency methods for DNA assembly have enabled the routine assembly of synthetic DNAs of increased size and complexity. However, these techniques require customization, elaborate vector sets or serial manipulations for the different stages of assembly. We have developed Loop assembly based on a recursive approach to DNA fabrication. The system makes use of two Type IIS restriction endonucleases and corresponding vector sets for efficient and parallel assembly of large DNA circuits. Standardized level 0 parts can be assembled into circuits containing 1, 4, 16 or more genes by looping between the two vector sets. The vectors also contain modular sites for hybrid assembly using sequence overlap methods. Loop assembly enables efficient and versatile DNA fabrication for plant transformation. We show the construction of plasmids up to 16 genes and 38 kb with high efficiency (> 80%). We have characterized Loop assembly on over 200 different DNA constructs and validated the fidelity of the method by high-throughput Illumina plasmid sequencing. Our method provides a simple generalized solution for DNA construction with standardized parts. The cloning system is provided under an OpenMTA license for unrestricted sharing and open access.
+
+Type IIS restriction endonucleases: !enable! Loop assembly 
+Loop assembly: !facilitates! DNA fabrication 
+DNA fabrication: !constructs! plasmids 
+plasmids: !contain! genes 
+genes: !synthesize! proteins

@@ -1,0 +1,10 @@
+The Bamboo mosaic virus (BaMV) is a positive-sense, single-stranded RNA virus. Previously, we identified that the chloroplast phosphoglycerate kinase (chl-PGK) from Nicotiana benthamiana is one of the viral RNA binding proteins involved in the BaMV infection cycle. Because chl-PGK is transported to the chloroplast, we hypothesized that chl-PGK might be involved in viral RNA localization in the chloroplasts. To test this hypothesis, we constructed two green fluorescent protein (GFP)-fused mislocalized PGK mutants, the transit peptide deletion mutant (NO TRANSIT PEPTIDE [NOTP]-PGK-GFP) and the nucleus location mutant (nuclear location signal [NLS]-PGK-GFP). Using confocal microscopy, we demonstrated that NOTP-PGK-GFP and NLS-PGK-GFP are localized in the cytoplasm and nucleus, respectively, in N. benthamiana plants. When NOTP-PGK-GFP and NLS-PGK-GFP are transiently expressed, we observed a reduction in BaMV coat protein accumulation to 47% and 27% that of the wild-type PGK-GFP, respectively. To localize viral RNA in infected cells, we employed the interaction of NLS-GFP-MS2 (phage MS2 coat protein) with the modified BaMV RNA containing the MS2 coat protein binding sequence. Using confocal microscopy, we observed that BaMV viral RNA localizes to chloroplasts. Furthermore, elongation factor1a fused with the transit peptide derived from chl-PGK or with a Rubisco small subunit can partially restore BaMV accumulation in NbPGK1-knockdown plants by helping BaMV target chloroplasts.
+
+chl-PGK: !transports to! chloroplast
+NOTP-PGK-GFP: !localizes to! cytoplasm
+NLS-PGK-GFP: !localizes to! nucleus
+NOTP-PGK-GFP: !reduces! BaMV coat protein accumulation
+NLS-PGK-GFP: !reduces! BaMV coat protein accumulation
+NLS-GFP-MS2: !interacts with! modified BaMV RNA
+BaMV viral RNA: !localizes to! chloroplasts
+EF1a: !enhances! BaMV accumulation in NbPGK1-knockdown plants

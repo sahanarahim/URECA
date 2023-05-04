@@ -1,0 +1,12 @@
+Auxin transport network, which is important in the integration of plant developmental signals, depends on differential expression of the auxin efflux carrier PIN gene family. We cloned three tomato PIN (referred as SlPIN) cDNAs and examined their expression patterns in fruit and other organs. The expression of SlPIN1 and SlPIN2 was highest in very young fruit immediately after anthesis, whereas the expression of SlPIN3 was low at this same stage of fruit development. SlPIN2::GUS was expressed in ovules at anthesis and in young developing seeds at 4 days after anthesis, while SlPIN1::GUS was expressed in whole fruit. The DR5::GUS auxin-responsive reporter gene was expressed in the fruit and peduncle at anthesis and was higher in the peduncle 4 days after anthesis. These studies suggest that auxin is likely transported from young seeds by SlPIN1 and SlPIN2 and accumulated in peduncles where SlPIN gene expression is low in tomato. The possible role of SlPINs in fruit set was discussed.
+
+SlPIN1: !synthesizes! Auxin
+SlPIN2: !synthesizes! Auxin
+SlPIN3: !synthesizes! Auxin
+SlPIN1: !localizes to! Whole fruit
+SlPIN2: !localizes to! Ovules and young developing seeds
+SlPIN3: !localizes to! Very young fruit
+SlPIN1: !enhances! Fruit set
+SlPIN2: !enhances! Fruit set
+DR5::GUS: !represses! SlPIN gene expression
+DR5::GUS: !localizes to! Fruit and peduncle

@@ -1,0 +1,9 @@
+When plants encounter environmental stresses, phytohormone abscisic acid (ABA) accumulates quickly and efficiently reduces water loss by inducing stomatal closure. Reactive oxygen species (ROS) is an important regulator in ABA-induced stomatal closure, and ROS generation is modulated by multiple components in guard-cell ABA signaling. ROP interactive CRIB-containing protein 7 (RIC7) has been found to negatively regulate ABA-induced stomatal closure. However, the molecular details of the RIC7 function in this process are unclear. Here, by using two <i>RIC7</i> overexpressing mutants, we confirmed the negative role of RIC7 in ABA-induced stomatal closure and found that guard cells of <i>RIC7</i> overexpressing mutants generated less H<sub>2</sub>O<sub>2</sub> than the wild type with ABA treatment, which were consistent with the reduced expression levels of ROS generation related NADPH oxidase genes <i>AtRBOHD</i> and <i>AtRBOHF</i>, and cytosolic polyamine oxidase genes <i>PAO1</i> and <i>PAO5</i> in the <i>RIC7</i> overexpressing mutants. Furthermore, external applied H<sub>2</sub>O<sub>2</sub> failed to rescue the defects of stomatal closure in <i>RIC7</i> overexpressing mutants. These results suggest that RIC7 affects H<sub>2</sub>O<sub>2</sub> generation in guard cells, and the function of H<sub>2</sub>O<sub>2</sub> is dependent on RIC7 in ABA-induced stomatal closure, indicative of interdependency between RIC7 and H<sub>2</sub>O<sub>2</sub> in ABA guard-cell signaling.
+
+RIC7: !negatively regulates! ABA-induced stomatal closure
+RIC7: !affects! H<sub>2</sub>O<sub>2</sub> generation
+AtRBOHD: !synthesizes! ROS
+AtRBOHF: !synthesizes! ROS
+PAO1: !synthesizes! ROS
+PAO5: !synthesizes! ROS
+H<sub>2</sub>O<sub>2</sub>: !dependent on! RIC7

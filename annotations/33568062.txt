@@ -1,0 +1,18 @@
+Monochasma savatieri is a medicinal root hemiparasitic herb that extracts water and nutrients from the host plant via a haustorium. M. savatieri exhibits an enhanced growth after the establishment of parasite-host associations, but little is known about the molecular mechanism responsible. In this study, endogenous hormones, RNA sequencing and small RNA sequencing analysis were performed on M. savatieri before and after establishment of parasite-host associations. When grown with the host, decreased contents of jasmonic acid (JA) and indole-3-acetic acid (IAA) and increased abscisic acid (ABA) content were observed in M. savatieri with the established parasitic relationship. When grown with the host, 46,424 differentially expressed genes (DEGs) and 162 differentially expressed miRNAs (DEmiRs) were identified in the comparison between M. savatieri with the established parasitic relationship and without the established parasitic relationship. Analysis of Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) showed that these DEGs and targets of DEmiRs mostly participated in plant hormone signal transduction, starch and sucrose metabolism, carbohydrate metabolism, cell growth and death, and transport and catabolism. Furthermore, correlation analysis of mRNA and miRNA revealed that 10 miRNA-target pairs from novel_mir65, novel_mir40, novel_mir80, miR397-5p_1, novel_mir36, novel_mir25 and novel_mir17 may have important roles in regulating the parasitic development of M. savatieri. Our study not only expands the understanding of enhanced growth in M. savatieri after the establishment of parasite-host associations, but also first provides abundant resources for future molecular and genetic studies in M. savatieri.
+
+jasmonic acid: !decreases! M. savatieri
+indole-3-acetic acid: !decreases! M. savatieri
+abscisic acid: !increases! M. savatieri
+DEGs: !participate in! plant hormone signal transduction
+DEmiRs: !participate in! plant hormone signal transduction
+starch and sucrose metabolism: !participate in! DEGs
+carbohydrate metabolism: !participate in! DEGs
+cell growth and death: !participate in! DEGs
+transport and catabolism: !participate in! DEGs
+novel_mir65: !regulates! parasitic development of M. savatieri
+novel_mir40: !regulates! parasitic development of M. savatieri
+novel_mir80: !regulates! parasitic development of M. savatieri
+miR397-5p_1: !regulates! parasitic development of M. savatieri
+novel_mir36: !regulates! parasitic development of M. savatieri
+novel_mir25: !regulates! parasitic development of M. savatieri
+novel

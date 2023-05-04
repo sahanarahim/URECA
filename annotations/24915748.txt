@@ -1,0 +1,11 @@
+The Arabidopsis thaliana gene AtSgpp (locus tag At2g38740), encodes a protein whose sequence motifs and expected structure reveal that it belongs to the HAD hydrolases subfamily I, with the C1-type cap domain (Caparrós-Martín et al. in Planta 237:943-954, 2013). In the presence of Mg(2+) ions, the enzyme has a phosphatase activity over a wide range of phosphosugar substrates. AtSgpp promiscuity is preferentially detectable on D-ribose-5-phosphate, 2-deoxy-D-ribose-5-phosphate, 2-deoxy-D-glucose-6-phosphate, D-mannose-6-phosphate, D-fructose-1-phosphate, D-glucose-6-phosphate, DL-glycerol-3-phosphate, and D-fructose-6-phosphate. Site-directed mutagenesis analysis of the putative signature sequence motif-5 (IAGKH), which defines its specific chemistry, brings to light the active-site residues Ala-69 and His-72. Mutation A69M, changes the pH dependence of AtSgpp catalysis, and mutant protein AtSgpp-H72K was inactive in phosphomonoester dephosphorylation. It was also observed that substitutions I68M and K71R slightly affect the substrate specificity, while the replacement of the entire motif for that of homologous DL-glycerol-3-phosphatase AtGpp (MMGRK) does not switch AtSgpp activity to the specific targeting for DL-glycerol-3-phosphate.
+
+AtSgpp: !encodes! protein 
+protein: !belongs to! HAD hydrolases subfamily I 
+AtSgpp: !has phosphatase activity! Mg(2+) ions 
+AtSgpp: !preferentially detectable on! D-ribose-5-phosphate 
+AtSgpp: !active-site residues! Ala-69 and His-72 
+A69M: !changes pH dependence! AtSgpp catalysis 
+H72K: !inactive in! phosphomonoester dephosphorylation 
+I68M, K71R: !slightly affect! substrate specificity 
+AtGpp: !does not switch! AtSgpp activity

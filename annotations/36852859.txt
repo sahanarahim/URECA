@@ -1,0 +1,10 @@
+CpFTSY is a component of the chloroplast signal recognition particle (CpSRP) pathway that post-translationally targets light-harvesting complex proteins (LHCPs) to the thylakoid membranes in plants and green algae containing chloroplasts derived from primary endosymbiosis. In plants, CpFTSY also plays a major role in co-translational incorporation of chloroplast encoded subunits of photosynthetic complexes to the thylakoids. This role has not been demonstrated in green algae. So far, its function in organisms with chloroplasts derived from secondary endosymbiotic events has not been elucidated. Here, we report the generation and characterization of mutants lacking CpFTSY in the diatom Phaeodactylum tricornutum. We found that this protein is not involved in inserting LHCPs into thylakoid membranes, indicating that the post-translational part of the CpSRP pathway is not active in this group of microalgae. Lack of CpFTSY caused an increased level of photoprotection, low electron transport rates, inefficient repair of PSII, reduced growth, a strong decline in the PSI subunit PsaC and upregulation of proteins that might compensate for a non-functional co-translational CpSRP pathway during light stress conditions. The phenotype was highly similar to the one described for diatoms lacking another component of the co-translational CpSRP pathway, the CpSRP54 protein. However, in contrast to cpsrp54 mutants, only one thylakoid membrane protein, PetD of the Cytb6f complex, was downregulated in cpftsy. Our results point to a minor role for CpFTSY in the co-translational CpSRP pathway, suggesting that other mechanism may partially compensate for the effect of a disrupted CpSRP pathway.
+
+CpFTSY: !affects! photoprotection
+CpFTSY: !affects! electron transport rates
+CpFTSY: !affects! PSII repair
+CpFTSY: !affects! growth
+CpFTSY: !affects! PsaC
+CpFTSY: !affects! proteins
+CpFTSY: !affects! PetD
+CpSRP54: !affects! thylakoid membrane proteins

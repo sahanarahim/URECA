@@ -1,0 +1,8 @@
+Brassinosteroids (BRs) play key roles in diverse plant growth processes through a complex signaling pathway. Components orchestrating the BR signaling pathway include receptors such as kinases, transcription factors, protein kinases and phosphatases. The proper functioning of the receptor kinase BRI1 and the transcription factors BES1/BZR1 depends on their dephosphorylation by type 2A protein phosphatases (PP2A). In this work, we report that an additional phosphatase family, type one protein phosphatases (PP1), contributes to the regulation of the BR signaling pathway. Co-immunoprecipitation and BiFC experiments performed in Arabidopsis plants overexpressing durum wheat <i>TdPP1</i> showed that <i>TdPP1</i> interacts with dephosphorylated BES1, but not with the BRI1 receptor. Higher levels of dephosphorylated, active BES1 were observed in these transgenic lines upon BR treatment, indicating that <i>TdPP1</i> modifies the BR signaling pathway by activating BES1. Moreover, ectopic expression of durum wheat <i>TdPP1</i> lead to an enhanced growth of primary roots in comparison to wild-type plants in presence of BR. This phenotype corroborates with a down-regulation of the BR-regulated genes CPD and DWF4. These data suggest a role of PP1 in fine-tuning BR-driven responses, most likely via the control of the phosphorylation status of BES1.
+
+BRI1: !interacts with! PP2A 
+BES1/BZR1: !dephosphorylated by! PP2A 
+TdPP1: !interacts with! BES1 
+TdPP1: !activates! BES1 
+TdPP1: !enhances! growth 
+TdPP1: !represses! CPD & DWF4

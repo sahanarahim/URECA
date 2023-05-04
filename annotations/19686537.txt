@@ -1,0 +1,8 @@
+A key challenge in cell biology is to directly link protein localization to function. The green fluorescent protein (GFP)-binding protein, GBP, is a 13-kDa soluble protein derived from a llama heavy chain antibody that binds with high affinity to GFP as well as to some GFP variants such as yellow fluorescent protein (YFP). A GBP fusion to the red fluorescent protein (RFP), a molecule termed a chromobody, was previously used to trace in vivo the localization of various animal antigens. In this study, we extend the use of chromobody technology to plant cells and develop several applications for the in vivo study of GFP-tagged plant proteins. We took advantage of Agrobacterium tumefaciens-mediated transient expression assays (agroinfiltration) and virus expression vectors (agroinfection) to express functional GBP:RFP fusion (chromobody) in the model plant Nicotiana benthamiana. We showed that the chromobody is effective in binding GFP- and YFP-tagged proteins in planta. Most interestingly, GBP:RFP can be applied to interfere with the function of GFP fusion protein and to mislocalize (trap) GFP fusions to the plant cytoplasm in order to alter the phenotype mediated by the targeted proteins. Chromobody technology, therefore, represents a new alternative technique for protein interference that can directly link localization of plant proteins to in vivo function.
+
+GFP: !binds to! GBP 
+GBP: !fuses with! RFP 
+RFP: !expresses! chromobody 
+chromobody: !binds to! GFP 
+GFP: !traps to! cytoplasm 
+cytoplasm: !alters! phenotype

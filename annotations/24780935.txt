@@ -1,0 +1,8 @@
+BAK1 is a multifunctional leucine-rich repeat receptor kinase (LRR-RLK) that exerts its function by interacting with multiple ligand binding receptors and thereby influences diverse processes varying from brassinosteroid perception via PAMP and DAMP perception to cell death control. We recently identified a new BAK1 interacting protein, BIR2, that is also a LRR-RLK but, in contrast to BAK1, negatively regulates BAK1-dependent PAMP responses. While brassinosteroid responses are not affected by BIR2, cell death is negatively regulated as described for BAK1. BIR2 is released from BAK1 after ligand perception, increasing the pool of free BAK1 that is available to form complexes with activated ligand binding receptors. Individual ligands can only partially release BAK1 from BIR2. After exposition to a cocktail of ligands, almost the complete amount of BAK1 can be released indicating that BAK1 exists, together with BIR2, in subpools that can be individually addressed by specific ligands. These data support the idea that BAK1 exists in preformed complexes with its ligand binding receptor partners. Overexpression of BIR2 results in reduced complex formation of BAK1 with FLS2, showing that BIR2 negatively regulates BAK1 complex formation with ligand binding receptors.
+
+BAK1: !interacts with! BIR2
+BIR2: !negatively regulates! BAK1-dependent PAMP responses
+BAK1: !released from! BIR2
+Ligands: !partially release! BAK1
+Cocktail of ligands: !release! almost complete amount of BAK1
+BIR2: !reduces complex formation! of BAK1 with FLS2

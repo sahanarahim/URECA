@@ -1,0 +1,8 @@
+['20834229', 'In diverse eukaryotes, constitutively silent sequences, such as transposons and  repeats, are marked by methylation at histone H3 lysine 9 (H3K9me). Although  selective H3K9me is critical for maintaining genome integrity, mechanisms to  exclude H3K9me from active genes remain largely unexplored. Here, we show in  Arabidopsis that the exclusion depends on a histone demethylase gene, IBM1  (increase in BONSAI methylation). Loss-of-function ibm1 mutation results in  ectopic H3K9me and non-CG methylation in thousands of genes. The ibm1-induced  genic H3K9me depends on both histone methylase KYP/SUVH4 and DNA methylase CMT3,  suggesting interdependence of two epigenetic marks--H3K9me and non-CG  methylation. Notably, IBM1 enhances loss of H3K9me in transcriptionally  de-repressed sequences. Furthermore, disruption of transcription in genes induces  ectopic non-CG methylation, which mimics the loss of IBM1 function. We propose  that active chromatin is stabilized by an autocatalytic loop of transcription and  H3K9 demethylation. This process counteracts a similarly autocatalytic  accumulation of silent epigenetic marks, H3K9me and non-CG methylation.', '2010 Oct 20', 'EMBO J', '10.1038/emboj.2010.227', 'Kakutani']
+
+H3K9me: !excluded from! active genes
+IBM1: !depends on! KYP/SUVH4 & CMT3
+IBM1: !enhances! loss of H3K9me
+transcription: !induces! ectopic non-CG methylation
+transcription: !stabilizes! active chromatin
+H3K9me & non-CG methylation: !accumulate! autocatalytically

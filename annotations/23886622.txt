@@ -1,0 +1,9 @@
+MicroRNAs (miRNAs) are a class of small regulatory RNAs that are found in almost all of the eukaryotes. Arabidopsis (Arabidopsis thaliana) miRNAs are processed from primary miRNAs (pri-miRNAs), mainly by the ribonuclease III-like enzyme DICER-LIKE1 (DCL1) and its specific partner, HYPONASTIC LEAVES1 (HYL1), a double-strand RNA-binding protein, both of which contain two double-strand RNA-binding domains (dsRBDs). These dsRBDs are essential for miRNA processing, but the functions of them are not clear. Here, we report that the two dsRBDs of DCL1 (DCL1-D1D2), and to some extent the second dsRBD (DCL1-D2), complement the hyl1 mutant, but not the first dsRBD of DCL1 (DCL1-D1). DCL1-D1 is diffusely distributed throughout the nucleoplasm, whereas DCL1-D2 and DCL1-D1D2 concentrate in nuclear dicing bodies in which DCL1 and HYL1 colocalize. We show further that protein-protein interaction is mainly mediated by DCL1-D2, while DCL1-D1 plays a major role in binding of pri-miRNAs. These results suggest parallel roles between C-terminal dsRBDs of DCL1 and N-terminal dsRBDs of HYL1 and support a model in which Arabidopsis pri-miRNAs are recruited to dicing bodies through functionally divergent dsRBDs of microprocessor for accurate processing of plant pri-miRNAs.
+
+DCL1: !processes! pri-miRNAs
+HYL1: !partners with! DCL1
+DCL1-D1D2: !complements! hyl1 mutant
+DCL1-D1: !diffusely distributed in! nucleoplasm
+DCL1-D2: !concentrates in! nuclear dicing bodies
+DCL1-D2: !mediates! protein-protein interaction
+DCL1-D1: !binds! pri-miRNAs

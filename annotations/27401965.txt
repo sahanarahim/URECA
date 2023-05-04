@@ -1,0 +1,8 @@
+Identifying sets of genes that are specifically expressed in certain tissues or in response to an environmental stimulus is useful for designing reporter constructs, generating gene expression markers, or for understanding gene regulatory networks. We have developed an easy-to-use online tool for defining a desired expression profile (a modification of our Expression Angler program), which can then be used to identify genes exhibiting patterns of expression that match this profile as closely as possible. Further, we have developed another online tool, Cistome, for predicting or exploring cis-elements in the promoters of sets of co-expressed genes identified by such a method, or by other methods. We present two use cases for these tools, which are freely available on the Bio-Analytic Resource at http://BAR.utoronto.ca.
+
+Gene: !affects! Expression
+Gene: !localizes to! Tissues
+Gene: !interacts with! Environmental Stimulus
+Gene: !enhances! Reporter Constructs
+Gene: !represses! Gene Regulatory Networks
+Gene: !synthesizes! Cis-elements

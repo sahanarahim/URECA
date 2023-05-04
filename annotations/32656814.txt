@@ -1,0 +1,11 @@
+Availability of plant-specific enzyme kinetic data is scarce, limiting the predictive power of metabolic models and precluding identification of genetic factors of enzyme properties. Enzyme kinetic data are measured in vitro, often under non-physiological conditions, and conclusions elicited from modeling warrant caution. Here we estimate maximal in vivo catalytic rates for 168 plant enzymes, including photosystems I and II, cytochrome-b6f complex, ATP-citrate synthase, sucrose-phosphate synthase as well as enzymes from amino acid synthesis with previously undocumented enzyme kinetic data in BRENDA. The estimations are obtained by integrating condition-specific quantitative proteomics data, maximal rates of selected enzymes, growth measurements from Arabidopsis thaliana rosette with and fluxes through canonical pathways in a constraint-based model of leaf metabolism. In comparison to findings in Escherichia coli, we demonstrate weaker concordance between the plant-specific in vitro and in vivo enzyme catalytic rates due to a low degree of enzyme saturation. This is supported by the finding that concentrations of nicotinamide adenine dinucleotide (phosphate), adenosine triphosphate and uridine triphosphate, calculated based on our maximal in vivo catalytic rates, and available quantitative metabolomics data are below reported <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>K</mi><mi>M</mi></msub></math> values and, therefore, indicate undersaturation of respective enzymes. Our findings show that genome-wide profiling of enzyme kinetic properties is feasible in plants, paving the way for understanding resource allocation.
+
+Photosystems I and II: !enhances! Growth 
+Cytochrome-b6f complex: !enhances! Growth 
+ATP-citrate synthase: !enhances! Growth 
+Sucrose-phosphate synthase: !enhances! Growth 
+Enzymes from amino acid synthesis: !enhances! Growth 
+Quantitative proteomics data: !integrates with! Maximal rates of selected enzymes 
+Growth measurements: !integrates with! Fluxes through canonical pathways 
+Quantitative metabolomics data: !compared to! Findings in Escherichia coli 
+Nicotinamide adenine dinucleotide (phosphate): !indicates! Undersaturation of respective enzymes

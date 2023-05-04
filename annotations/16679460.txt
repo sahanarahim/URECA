@@ -1,0 +1,8 @@
+Proteins of the YidC/Oxa1p/ALB3 family play an important role in inserting proteins into membranes of mitochondria, bacteria, and chloroplasts. In Chlamydomonas reinhardtii, one member of this family, Albino3.1 (Alb3.1), was previously shown to be mainly involved in the assembly of the light-harvesting complex. Here, we show that a second member, Alb3.2, is located in the thylakoid membrane, where it is associated with large molecular weight complexes. Coimmunoprecipitation experiments indicate that Alb3.2 interacts with Alb3.1 and the reaction center polypeptides of photosystem I and II as well as with VIPP1, which is involved in thylakoid formation. Moreover, depletion of Alb3.2 by RNA interference to 25 to 40% of wild-type levels leads to a reduction in photosystems I and II, indicating that the level of Alb3.2 is limiting for the assembly and/or maintenance of these complexes in the thylakoid membrane. Although the levels of several photosynthetic proteins are reduced under these conditions, other proteins are overproduced, such as VIPP1 and the chloroplast chaperone pair Hsp70/Cdj2. These changes are accompanied by a large increase in vacuolar size and, after a prolonged period, by cell death. We conclude that Alb3.2 is required directly or indirectly, through its impact on thylakoid protein biogenesis, for cell survival.
+
+Alb3.1: !interacts with! Alb3.2
+Alb3.2: !localizes to! thylakoid membrane
+Alb3.2: !interacts with! reaction center polypeptides of photosystem I and II
+Alb3.2: !interacts with! VIPP1
+Alb3.2: !enhances! photosystems I and II
+Alb3.2: !represses! cell death

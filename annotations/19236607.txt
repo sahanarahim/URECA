@@ -1,0 +1,11 @@
+Data mining depends on the ability to access machine-readable metadata that describe genotypes, environmental conditions, and sampling times and strategy. This article presents Xeml Lab. The Xeml Interactive Designer provides an interactive graphical interface at which complex experiments can be designed, and concomitantly generates machine-readable metadata files. It uses a new eXtensible Mark-up Language (XML)-derived dialect termed XEML. Xeml Lab includes a new ontology for environmental conditions, called Xeml Environment Ontology. However, to provide versatility, it is designed to be generic and also accepts other commonly used ontology formats, including OBO and OWL. A review summarizing important environmental conditions that need to be controlled, monitored and captured as metadata is posted in a Wiki (http://www.codeplex.com/XeO) to promote community discussion. The usefulness of Xeml Lab is illustrated by two meta-analyses of a large set of experiments that were performed with Arabidopsis thaliana during 5 years. The first reveals sources of noise that affect measurements of metabolite levels and enzyme activities. The second shows that Arabidopsis maintains remarkably stable levels of sugars and amino acids across a wide range of photoperiod treatments, and that adjustment of starch turnover and the leaf protein content contribute to this metabolic homeostasis.
+
+Gene: !affects! Metabolite levels
+Gene: !affects! Enzyme activities
+Gene: !localizes to! Xeml Lab
+Gene: !interacts with! Xeml Environment Ontology
+Gene: !interacts with! OBO
+Gene: !interacts with! OWL
+Gene: !enhances! Metabolic homeostasis
+Gene: !represses! Sources of noise
+Gene: !synthesizes! Starch turnover

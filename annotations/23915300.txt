@@ -1,0 +1,8 @@
+The challenges of plant protein targeting prediction are the existence of dual subcellular targets and the bias of experimentally confirmed data towards few and mostly nonplant model species. To assess whether training with proteins from evolutionarily distant species has a negative impact on prediction accuracy, we developed the Green Targeting Predictor tool, which was trained with a species-specific data set for Physcomitrella patens. Its performance was compared with that of the same tool trained with a mixed data set. In addition, we updated the Ambiguous Targeting Predictor. We found that predictions deviated from in vivo observations predominantly for proteins diverging within the green lineage, as well as for dual targeted proteins. To evaluate the usefulness of heterologous expression systems, selected proteins were subjected to localization studies in P. patens, Arabidopsis thaliana and Nicotiana tabacum. Four out of six proteins that show dual targeting in the original plant system were located only in a single compartment in one or both heterologous systems. We conclude that targeting signals of divergent plant species exhibit differences, calling for custom in silico and in vivo approaches when aiming to unravel the actual distribution patterns of proteins within a plant cell.
+
+P. patens: !trained with! Green Targeting Predictor
+P. patens: !compared with! Mixed data set
+Ambiguous Targeting Predictor: !updated!
+Dual targeted proteins: !deviated from! In vivo observations
+Selected proteins: !subjected to! Localization studies
+P. patens/A. thaliana/N. tabacum: !located in! Single compartment

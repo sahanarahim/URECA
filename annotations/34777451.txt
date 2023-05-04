@@ -1,0 +1,13 @@
+Leaf senescence is the terminal stage of leaf development. Both light and the plant hormone ethylene play important roles in regulating leaf senescence. However, how they coordinately regulate leaf senescence during leaf development remains largely unclear. In this study, we show that FHY3 and FAR1, two homologous proteins essential for phytochrome A-mediated light signaling, physically interact with and repress the DNA binding activity of EIN3 (a key transcription factor essential for ethylene signaling) and PIF5 (a bHLH transcription factor negatively regulating light signaling), and interfere with their DNA binding to the promoter of <i>ORE1</i>, which encodes a key NAC transcription factor promoting leaf senescence. In addition, we show that FHY3, PIF5, and EIN3 form a tri-protein complex(es) and that they coordinately regulate the progression of leaf senescence. We show that during aging or under dark conditions, accumulation of FHY3 protein decreases, thus lifting its repression on DNA binding of EIN3 and PIF5, leading to the increase of <i>ORE1</i> expression and onset of leaf senescence. Our combined results suggest that FHY3 and FAR1 act in an age gating mechanism to prevent precocious leaf senescence by integrating light and ethylene signaling with developmental aging.
+
+FHY3: !represses! EIN3 
+FHY3: !represses! PIF5 
+FHY3: !forms complex with! EIN3 
+FHY3: !forms complex with! PIF5 
+FAR1: !represses! EIN3 
+FAR1: !represses! PIF5 
+EIN3: !binds to! ORE1 
+PIF5: !binds to! ORE1 
+FHY3: !decreases accumulation of! itself 
+EIN3: !increases expression of! ORE1 
+PIF5: !increases expression of! ORE1

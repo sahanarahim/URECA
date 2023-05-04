@@ -1,0 +1,10 @@
+['26739014', 'The Bcl-2-associated athanogene (BAG) family is an evolutionarily conserved group  of cochaperones that modulate numerous cellular processes. Previously we found  that Arabidopsis thaliana BAG6 is required for basal immunity against the fungal  phytopathogen Botrytis cinerea. However, the mechanisms by which BAG6 controls  immunity are obscure. Here, we address this important question by determining the  molecular mechanisms responsible for BAG6-mediated basal resistance. We show that  Arabidopsis BAG6 is cleaved in vivo in a caspase-1-like-dependent manner and via  a combination of pull-downs, mass spectrometry, yeast two-hybrid assays, and  chemical genomics, we demonstrate that BAG6 interacts with a C2 GRAM domain  protein (BAGP1) and an aspartyl protease (APCB1), both of which are required for  BAG6 processing. Furthermore, fluorescence and transmission electron microscopy  established that BAG6 cleavage triggers autophagy in the host that coincides with  disease resistance. Targeted inactivation of BAGP1 or APCB1 results in the  blocking of BAG6 processing and loss of resistance. Mutation of the cleavage site  blocks cleavage and inhibits autophagy in plants; disease resistance is also  compromised. Taken together, these results identify a mechanism that couples an  aspartyl protease with a molecular cochaperone to trigger autophagy and plant  defense, providing a key link between fungal recognition and the induction of  cell death and resistance.', '2016 Jan', 'Plant Cell', '10.1105/tpc.15.00626', 'Dickman']
+
+BAG6: !interacts with! BAGP1 
+BAG6: !interacts with! APCB1 
+BAG6: !cleaved by! caspase-1-like 
+BAG6: !triggers! autophagy 
+BAG6: !required for! basal immunity 
+BAGP1: !required for! BAG6 processing 
+APCB1: !required for! BAG6 processing 
+Mutation of cleavage site: !blocks! BAG6 cleavage

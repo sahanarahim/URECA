@@ -1,0 +1,11 @@
+['27876642', 'Light is a crucial environmental signal that promotes photomorphogenesis, the  developmental process with a series of light-dependent alterations for plants to  adapt various external challenges. Chromatin modification has been proposed to be  involved in such light-mediated growth, but the underlying mechanism is still  elusive. In this study, we identified four Arabidopsis thaliana Nuclear Factor-YC  homologs, NF-YC1, NF-YC3, NF-YC4, and NF-YC9 (NF-YCs), which function redundantly  as repressors of light-controlled hypocotyl elongation via histone deacetylation.  Obvious etiolation phenotypes are observed in NF-YCs loss-of-function mutant  seedlings grown under light conditions, including significant elongated  hypocotyls and fewer opened cotyledons. We found that NF-YCs interact with  histone deacetylase HDA15 in the light, co-target the promoters of a set of  hypocotyl elongation-related genes, and modulate the levels of histone H4  acetylation on the associated chromatins, thus repressing gene expression. In  contrast, NF-YC-HDA15 complex is dismissed from the target genes in the dark,  resulting in increased level of H4 acetylation and consequent etiolated growth.  Further analyses revealed that transcriptional repression activity of NF-YCs on  the light-controlled hypocotyl elongation partially depends on the deacetylation  activity of HDA15, and loss of HDA15 function could rescue the short-hypocotyl  phenotype of NF-YCs overexpression plants. Taken together, our results indicate  that NF-YC1, NF-YC3, NF-YC4, and NF-YC9 function as transcriptional co-repressors  by interacting with HDA15 to inhibit hypocotyl elongation in photomorphogenesis  during the early seedling stage. Our findings highlight that NF-YCs can modulate  plant development in response to environmental cues via epigenetic regulation.', '2017 Feb 13', 'Mol Plant', '10.1016/j.molp.2016.11.007', 'Hou']
+
+NF-YC1: !interacts with! HDA15 
+NF-YC3: !interacts with! HDA15 
+NF-YC4: !interacts with! HDA15 
+NF-YC9: !interacts with! HDA15 
+NF-YCs: !represses! hypocotyl elongation 
+NF-YCs: !co-targets! promoters of hypocotyl elongation-related genes 
+NF-YCs: !modulates! levels of histone H4 acetylation 
+HDA15: !dismisses! NF-YC-HDA15 complex from target genes 
+HDA15: !rescues! short-hypocotyl phenotype of NF-YCs overexpression plants

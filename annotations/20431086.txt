@@ -1,0 +1,9 @@
+In temperate cereals, such as wheat (Triticum aestivum) and barley (Hordeum vulgare), the transition to reproductive development can be accelerated by prolonged exposure to cold (vernalization). We examined the role of the grass-specific MADS box gene ODDSOC2 (OS2) in the vernalization response in cereals. The barley OS2 gene (HvOS2) is expressed in leaves and shoot apices but is repressed by vernalization. Vernalization represses OS2 independently of VERNALIZATION1 (VRN1) in a VRN1 deletion mutant of einkorn wheat (Triticum monococcum), but VRN1 is required to maintain down-regulation of OS2 in vernalized plants. Furthermore, barleys that carry active alleles of the VRN1 gene (HvVRN1) have reduced expression of HvOS2, suggesting that HvVRN1 down-regulates HvOS2 during development. Overexpression of HvOS2 delayed flowering and reduced spike, stem, and leaf length in transgenic barley plants. Plants overexpressing HvOS2 showed reduced expression of barley homologs of the Arabidopsis (Arabidopsis thaliana) gene FLOWERING PROMOTING FACTOR1 (FPF1) and increased expression of RNase-S-like genes. FPF1 promotes floral development and enhances cell elongation, so down-regulation of FPF1-like genes might explain the phenotypes of HvOS2 overexpression lines. We present an extended model of the genetic pathways controlling vernalization-induced flowering in cereals, which describes the regulatory relationships between VRN1, OS2, and FPF1-like genes. Overall, these findings highlight differences and similarities between the vernalization responses of temperate cereals and the model plant Arabidopsis.
+
+VRN1: !represses! OS2
+OS2: !down-regulates! FPF1
+VRN1: !maintains down-regulation of! OS2
+OS2: !delays! flowering
+OS2: !reduces! spike, stem, and leaf length
+FPF1: !promotes! floral development
+FPF1: !enhances! cell elongation

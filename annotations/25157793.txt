@@ -1,0 +1,8 @@
+Tree internal carbon (C) fluxes between compound and compartment pools are difficult to measure directly. Here we used a C mass balance approach to decipher these fluxes and provide a full description of tree C allocation dynamics. We collected independent measurements of tree C sinks, source and pools in Pinus halepensis in a semi-arid forest, and converted all fluxes to g C per tree d(-1) . Using this data set, a process flowchart was created to describe and quantify the tree C allocation on diurnal to annual time-scales. The annual C source of 24.5 kg C per tree yr(-1) was balanced by C sinks of 23.5 kg C per tree yr(-1) , which partitioned into 70%, 17% and 13% between respiration, growth, and litter (plus export to soil), respectively. Large imbalances (up to 57 g C per tree d(-1) ) were observed as C excess during the wet season, and as C deficit during the dry season. Concurrent changes in C reserves (starch) were sufficient to buffer these transient C imbalances. The C pool dynamics calculated using the flowchart were in general agreement with the observed pool sizes, providing confidence regarding our estimations of the timing, magnitude, and direction of the internal C fluxes.
+
+Tree: !sources! Carbon
+Tree: !sinks! Carbon
+Respiration: !sinks! Carbon
+Growth: !sinks! Carbon
+Litter: !sinks! Carbon
+Starch: !buffers! Carbon Imbalances

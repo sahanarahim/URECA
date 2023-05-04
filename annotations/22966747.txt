@@ -1,0 +1,10 @@
+['22966747', "Galactomannans comprise a beta-1,4-mannan backbone substituted with alpha-1,6-galactosyl  residues. Genes encoding the enzymes that are primarily responsible for backbone  synthesis and side-chain addition of galactomannans were previously identified  and characterized. To identify additional genes involved in galactomannan  biosynthesis, we previously performed deep EST profiling of fenugreek (Trigonella  foenum-graecum L.) seed endosperm, which accumulates large quantities of  galactomannans as a reserve carbohydrate during seed development. One of the  candidate genes encodes a protein that is likely to be a glycosyltransferase.  Because this protein is involved in mannan biosynthesis, we named it 'mannan  synthesis-related' (MSR). Here, we report the characterization of a fenugreek MSR  gene (TfMSR) and its two Arabidopsis homologs, AtMSR1 and AtMSR2. TfMSR was  highly and specifically expressed in the endosperm. TfMSR, AtMSR1 and AtMSR2  proteins were all determined to be localized to the Golgi by fluorescence  confocal microscopy. The level of mannosyl residues in stem glucomannans  decreased by approximately 40% for Arabidopsis msr1 single T-DNA insertion  mutants and by more than 50% for msr1 msr2 double mutants, but remained unchanged  for msr2 single mutants. In addition, in vitro mannan synthase activity from the  stems of msr1 single and msr1 msr2 double mutants also decreased. Expression of  AtMSR1 or AtMSR2 in the msr1 msr2 double mutant completely or partially restored  mannosyl levels. From these results, we conclude that the MSR protein is  important for mannan biosynthesis, and offer some ideas about its role.", '2013 Jan', 'Plant J', '10.1111/tpj.12019', 'Keegstra']
+
+TfMSR: !localizes to! Golgi 
+AtMSR1/2: !localizes to! Golgi 
+TfMSR: !enhances! Mannan biosynthesis 
+AtMSR1/2: !enhances! Mannan biosynthesis 
+msr1: !represses! Mannosyl residues 
+msr2: !represses! Mannosyl residues 
+msr1 msr2: !represses! Mannosyl residues 
+AtMSR1/2: !restores! Mannosyl levels

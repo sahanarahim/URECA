@@ -1,0 +1,10 @@
+LYK3 is a lysin motif receptor-like kinase of Medicago truncatula, which is essential for the establishment of the nitrogen-fixing, root nodule symbiosis with Sinorhizobium meliloti. LYK3 is a putative receptor of S. meliloti Nod factor signals, but little is known of how it is regulated and how it transduces these symbiotic signals. In a screen for LYK3-interacting proteins, we identified M. truncatula Plant U-box protein 1 (PUB1) as an interactor of the kinase domain. In planta, both proteins are localized and interact in the plasma membrane. In M. truncatula, PUB1 is expressed specifically in symbiotic conditions, is induced by Nod factors, and shows an overlapping expression pattern with LYK3 during nodulation. Biochemical studies show that PUB1 has a U-box-dependent E3 ubiquitin ligase activity and is phosphorylated by the LYK3 kinase domain. Overexpression and RNA interference studies in M. truncatula show that PUB1 is a negative regulator of the LYK3 signaling pathway leading to infection and nodulation and is important for the discrimination of rhizobia strains producing variant Nod factors. The potential role of PUB E3 ubiquitin ligases in controlling plant-microbe interactions and development through interacting with receptor-like kinases is discussed.
+
+LYK3: !interacts with! PUB1
+PUB1: !localizes to! plasma membrane
+LYK3: !phosphorylates! PUB1
+PUB1: !expresses in! symbiotic conditions
+PUB1: !induced by! Nod factors
+PUB1: !overlaps expression with! LYK3
+PUB1: !has U-box dependent E3 ubiquitin ligase activity!
+PUB1: !negative regulator of! LYK3 signaling pathway

@@ -1,0 +1,7 @@
+Quantifying the anatomical data acquired from three-dimensional (3D) images has become increasingly important in recent years. Visualization and image segmentation are essential for acquiring accurate and detailed anatomical data from images; however, plant tissues such as leaves are difficult to image by confocal or multi-photon laser scanning microscopy because their airspaces generate optical aberrations. To overcome this problem, we established a staining method based on Nile Red in silicone-oil solution. Our staining method enables color differentiation between lipid bilayer membranes and airspaces, while minimizing any damage to leaf development. By repeated applications of our staining method we performed time-lapse imaging of a leaf over 5 days. To counteract the drastic decline in signal-to-noise ratio at greater tissue depths, we also developed a local thresholding method (direction-selective local thresholding, DSLT) and an automated iterative segmentation algorithm. The segmentation algorithm uses the DSLT to extract the anatomical structures. Using the proposed methods, we accurately segmented 3D images of intact leaves to single-cell resolution, and measured the airspace volumes in intact leaves.
+
+Nile Red: !stains! Leaf
+Silicone-oil solution: !enables color differentiation between! Lipid bilayer membranes and airspaces
+Time-lapse imaging: !measures! Airspace volumes
+DSLT: !extracts! Anatomical structures
+Segmentation algorithm: !uses! DSLT

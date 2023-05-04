@@ -1,0 +1,8 @@
+MicroRNAs (miRNA) are a class of non-coding RNAs that have important gene regulatory roles in various organisms. However, the miRNAs involved in soybean's response to soybean mosaic virus (SMV) are unknown. To identify novel miRNAs and biotic-stress regulated small RNAs that are involved in soybean's response to SMV, two small RNA libraries were constructed from mock-inoculated and SMV-infected soybean leaves and sequenced. This led to the discovery of 179 miRNAs, representing 52 families, among which five miRNAs belonging to three families were novel miRNAs in soybean. A large proportion (71.5 %) of miRNAs arose from segmental duplication, similar to the process that drives the evolution of protein-coding genes. In addition, we predicted 346 potential targets of these identified miRNAs, and verified 12 targets by modified 5'-RACE analysis. Finally, three miRNAs (miR160, miR393 and miR1510) that are involved in plant resistance were observed to respond to SMV infection. The interaction between miRNAs and resistance-related genes provides a novel mechanism for pathogens to evade host recognition.
+
+miRNA: !regulates! gene
+SMV: !induces! miRNA
+segmental duplication: !generates! miRNA
+miRNA: !targets! gene
+miRNA: !responds to! SMV
+miRNA: !interacts with! resistance-related genes

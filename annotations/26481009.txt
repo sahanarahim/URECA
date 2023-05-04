@@ -1,0 +1,8 @@
+OsSAPK8 is an essential activator of OsSLAC1 by phosphorylation, and OsSLAC1 is a nitrate-selective anion channel. S-type anion channel AtSLAC1 and protein kinase AtOST1 have been well-characterized as two core components of ABA signaling cascade in Arabidopsis guard cells, and AtOST1 functions as a main upstream activator of AtSLAC1 for drought stress- and ABA-induced stomata closure. However, the identity of the ortholog of AtOST1 in rice, the main activator of OsSLAC1, is still unknown. Here, we report that protein kinase OsSAPK8 interacts with and activates OsSLAC1 mainly by phosphorylating serine 129 (S129) of OsSLAC1, and this phosphorylating site corresponds to the specific phosphorylating site serine 120 (S120) of AtSLAC1 for AtOST1. Additionally, we found that OsSLAC1 is a nitrate-selective anion channel without obvious permeability to chloride, malate, and sulfate, and the expression of OsSLAC1 in Arabidopsis slac1-3 (atslac1-3) mutant successfully rescued the hypersensitive phenotype of this mutant to drought stress. Together, this research suggests that OsSAPK8 is a counterpart of AtOST1 for the activation of OsSLAC1, which is a nitrate-selective anion channel.
+
+OsSAPK8: !activates! OsSLAC1
+AtOST1: !activates! AtSLAC1
+OsSAPK8: !interacts with! OsSLAC1
+AtOST1: !corresponds to! OsSAPK8
+OsSLAC1: !selective for! nitrate
+OsSLAC1: !rescues! slac1-3 mutant

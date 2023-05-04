@@ -1,0 +1,9 @@
+We present a novel method to experimentally visualize in vivo the topology of transmembrane proteins residing in the endoplasmic reticulum (ER) membrane or passing through the secretory pathway on their way to their final destination. This approach, so-called redox-based topology analysis (ReTA), is based on fusion of transmembrane proteins with redox-sensitive GFP (roGFP) and ratiometric imaging. The ratio images provide direct information on the orientation of roGFP relative to the membrane as the roGFP fluorescence alters with changes in the glutathione redox potential across the ER membrane. As proof of concept, we produced binary read-outs using oxidized roGFP inside the ER lumen and reduced roGFP on the cytosolic side of the membrane for both N- and C-terminal fusions of single and multi-spanning membrane proteins. Further, successive deletion of hydrophobic domains from the C-terminus of the K/HDEL receptor ERD2 resulted in alternating localization of roGFP and a topology model for AtERD2 with six transmembrane domains.
+
+Gene: !affects! Process
+roGFP: !fused with! Transmembrane Proteins
+K/HDEL Receptor ERD2: !deleted hydrophobic domains from! C-terminus
+roGFP: !localizes to! ER Lumen
+roGFP: !localizes to! Cytosolic Side of Membrane
+roGFP: !alters fluorescence with! Changes in Glutathione Redox Potential
+AtERD2: !has topology model with! Six Transmembrane Domains

@@ -1,0 +1,7 @@
+Survival of trees growing in temperate zones requires cycling between active growth and dormancy. This involves growth cessation in the autumn triggered by a photoperiod shorter than the critical day length. Variations in GIGANTEA (GI)-like genes have been associated with phenology in a range of different tree species, but characterization of the functions of these genes in the process is still lacking. We describe the identification of the Populus orthologs of GI and their critical role in short-day-induced growth cessation. Using ectopic expression and silencing, gene expression analysis, protein interaction and chromatin immunoprecipitation experiments, we show that PttGIs are likely to act in a complex with PttFKF1s (FLAVIN-BINDING, KELCH REPEAT, F-BOX 1) and PttCDFs (CYCLING DOF FACTOR) to control the expression of PttFT2, the key gene regulating short-day-induced growth cessation in Populus. In contrast to Arabidopsis, in which the GI-CONSTANS (CO)-FLOWERING LOCUS T (FT) regulon is a crucial day-length sensor for flowering time, our study suggests that, in Populus, PttCO-independent regulation of PttFT2 by PttGI is more important in the photoperiodic control of growth cessation and bud set.
+
+PttGI: !controls! PttFT2
+PttGI: !interacts with! PttFKF1s
+PttGI: !interacts with! PttCDFs
+PttGI: !regulates! growth cessation
+PttGI: !regulates! bud set

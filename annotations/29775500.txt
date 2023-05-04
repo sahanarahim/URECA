@@ -1,0 +1,8 @@
+Pre-harvest sprouting (PHS) is an unfavorable trait in cereal crops that could seriously decrease grain yield and quality. Although some PHS-associated quantitative trait loci or genes in cereals have been reported, the molecular mechanism underlying PHS remains largely elusive. Here, we characterized a rice mutant, phs8, which exhibits PHS phenotype accompanied by sugary endosperm. Map-based cloning revealed that PHS8 encodes a starch debranching enzyme named isoamylase1. Mutation in PHS8 resulted in the phytoglycogen breakdown and sugar accumulation in the endosperm. Intriguingly, with increase of sugar contents, decreased expression of OsABI3 and OsABI5 as well as reduced sensitivity to abscisic acid (ABA) were found in the phs8 mutant. Using rice suspension cell system, we confirmed that exogenous sugar is sufficient to suppress the expression of both OsABI3 and OsABI5. Furthermore, overexpression of OsABI3 or OsABI5 could partially rescue the PHS phenotype of phs8. Therefore, our study presents important evidence supporting that endosperm sugar not only acts as an essential energy source for seed germination but also determines seed dormancy and germination by affecting ABA signaling.
+
+PHS8: !encodes! isoamylase1
+isoamylase1: !causes! phytoglycogen breakdown
+phytoglycogen breakdown: !leads to! sugar accumulation
+sugar accumulation: !suppresses! OsABI3/OsABI5 expression
+OsABI3/OsABI5 expression: !determines! seed dormancy/germination
+seed dormancy/germination: !affected by! ABA signaling

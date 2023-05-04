@@ -1,0 +1,11 @@
+Arsenate resistance has been used for screening for photosynthetic mutants of Chlamydomonas, since photosynthetic mutants, such as CC981 defective in phosphoribulokinase, were shown to have arsenate resistance. Also, another type of arsenate-resistant mutants, including AR3 that lacks a homolog of a phosphate (Pi) transporter, PTB1, has been isolated. We investigated the uptake of Pi and arsenate, and the gene expression of Pi transporters, which are involved in both Pi and arsenate transport, in mutants CC981 and AR3. In the wild type, both Pi and arsenate uptake were initially high, but were inactivated in the presence of arsenate with time, especially in the dark. In contrast, both mutants were shown to exhibit higher Pi uptake, but lower arsenate uptake than the wild type, regardless of the presence or absence of light. Then, the gene expression of Pi transporters in the cells used for the uptake measurements was investigated and compared between the mutants and the wild type. In CC981, the mRNA levels of PTA2 and PTA4 were higher, while those of PTB3 and PTB5 were lower, as compared with in the wild type. In AR3, those of PTA2 and PTB2 were higher, but that of PTB5 was lower than in the wild type. These findings suggest that the arsenate resistance shown by the mutants in light is due to reduction of arsenate uptake probably through the down-regulation of some Pi transporter expression, while the Pi uptake maintained even in the dark is possibly related to higher expression of other Pi transporter(s) than in the wild type.
+
+CC981: !exhibits! arsenate resistance
+AR3: !exhibits! arsenate resistance
+wild type: !inactivates! Pi and arsenate uptake
+CC981: !has higher! mRNA levels of PTA2 and PTA4
+CC981: !has lower! mRNA levels of PTB3 and PTB5
+AR3: !has higher! mRNA levels of PTA2 and PTB2
+AR3: !has lower! mRNA levels of PTB5
+mutants: !reduce! arsenate uptake
+mutants: !maintain! Pi uptake

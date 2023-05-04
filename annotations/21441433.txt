@@ -1,0 +1,8 @@
+The chromatin modifying Polycomb group (PcG) and trithorax group (trxG) proteins are central regulators of cell identity that maintain a tightly controlled balance between cell proliferation and cell differentiation. The opposing activities of PcG and trxG proteins ensure the correct expression of specific transcriptional programs at defined developmental stages. Here, we report that the chromatin remodeling factor PICKLE (PKL) and the PcG protein CURLY LEAF (CLF) antagonistically determine root meristem activity. Whereas loss of PKL function caused a decrease in meristematic activity, loss of CLF function increased meristematic activity. Alterations of meristematic activity in pkl and clf mutants were not connected with changes in auxin concentration but correlated with decreased or increased expression of root stem cell and meristem marker genes, respectively. Root stem cell and meristem marker genes are modified by the PcG-mediated trimethylation of histone H3 on lysine 27 (H3K27me3). Decreased expression levels of root stem cell and meristem marker genes in pkl correlated with increased levels of H3K27me3, indicating that root meristem activity is largely controlled by the antagonistic activity of PcG proteins and PKL.
+
+PcG: !antagonizes! trxG
+PKL: !inhibits! meristem activity
+CLF: !promotes! meristem activity
+PKL: !decreases! root stem cell marker gene expression
+CLF: !increases! root stem cell marker gene expression
+H3K27me3: !correlates with! PKL expression levels

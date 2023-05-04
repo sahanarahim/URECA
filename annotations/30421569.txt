@@ -1,0 +1,7 @@
+Optimizing leaf shape is a major challenge in efforts to develop an ideal plant type. Cucumber leaf shapes are diverse; however, the molecular regulatory mechanisms underlying leaf shape formation are unknown. In this study, we obtained a round leaf mutant (rl) from an ethyl methanesulfonate-induced mutagenesis population. Genetic analysis revealed that a single recessive gene, rl, is responsible for this mutation. A modified MutMap analysis combined linkage mapping identified a single nucleotide polymorphism within a candidate gene, Csa1M537400, as the mutation underlying the trait. Csa1M537400 encodes a PINOID kinase protein involved in auxin transport. Expression of Csa1M537400 was significantly lower in the rl mutant than in wild type, and it displayed higher levels of IAA (indole-3-acetic acid) in several tissues. Treatment of wild-type plants with an auxin transport inhibitor induced the formation of round leaves, similar to those in the rl mutant. Altered expression patterns of several auxin-related genes in the rl mutant suggest that rl plays a key role in auxin biosynthesis, transport, and response in cucumber. These findings provide insight into the molecular mechanism underlying the regulation of auxin signaling pathways in cucumber, and will be valuable in the development of an ideal plant type.
+
+rl: !regulates! auxin transport 
+Csa1M537400: !encodes! PINOID kinase protein 
+rl: !affects! expression of auxin-related genes 
+rl: !influences! IAA levels 
+auxin transport inhibitor: !induces! round leaf formation

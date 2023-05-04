@@ -1,0 +1,8 @@
+['10715321', 'The Arabidopsis GNOM protein, a guanine nucleotide exchange factor (GEF) that  acts on ADP ribosylation factor (ARF)-type G proteins, is required for  coordination of cell polarity along the apical-basal embryo axis. Interallelic  complementation of gnom mutants suggested that dimerization is involved in GNOM  function. Here, direct interaction between GNOM molecules is demonstrated in  vitro and by using a yeast two-hybrid system. Interaction was confined to an  N-terminal domain conserved within a subgroup of large ARF GEFs. The same domain  mediated in vitro binding to cyclophilin 5 (Cyp5), which was identified as a GNOM  interactor in two-hybrid screening. Cyp5 displayed peptidylprolyl  cis/trans-isomerase and protein refolding activities that were sensitive to  cyclosporin A. Cyp5 protein accumulated in several plant organs and, like GNOM,  was partitioned between cytosolic and membrane fractions. Cyp5 protein was also  expressed in the developing embryo. Our results suggest that Cyp5 may regulate  the ARF GEF function of the GNOM protein during embryogenesis.', '2000 Mar', 'Plant Cell', '10.1105/tpc.12.3.343', 'Jurgens']
+
+GNOM: !interacts with! Cyp5
+GNOM: !binds to! N-terminal domain
+Cyp5: !interacts with! GNOM
+Cyp5: !exhibits! peptidylprolyl cis/trans-isomerase activity
+Cyp5: !accumulates in! plant organs
+Cyp5: !localizes to! developing embryo

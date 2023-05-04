@@ -1,0 +1,10 @@
+Ovule initiation is a key step that strongly influences ovule number and seed yield. Notably, mutants with enhanced brassinosteroid (BR) and cytokinin (CK) signaling produce more ovules and have a higher seed number per silique (SNS) than wild-type plants. Here, we crossed BR- and CK-related mutants to test whether these phytohormones function together in ovule initiation. We determined that simultaneously enhancing BR and CK contents led to higher ovule and seed numbers than enhancing BR or CK separately, and BR and CK enhanced each other. Further, the BR-response transcription factor BZR1 directly interacted with the CK-response transcription factor ARABIDOPSIS RESPONSE REGULATOR1 (ARR1). Treatments with BR or BR plus CK strengthened this interaction and subsequent ARR1 targeting and induction of downstream genes to promote ovule initiation. Enhanced CK signaling partially rescued the reduced SNS phenotype of BR-deficient/insensitive mutants whereas enhanced BR signaling failed to rescue the low SNS of CK-deficient mutants, suggesting that BR regulates ovule initiation and SNS through CK-mediated and -independent pathways. Our study thus reveals that interaction between BR and CK promotes ovule initiation and increases seed number, providing important clues for increasing the seed yield of dicot crops.
+
+BR: !enhances! CK
+CK: !enhances! BR
+BZR1: !interacts with! ARR1
+BR: !strengthens! ARR1 interaction
+ARR1: !induces! downstream genes
+BR: !regulates! ovule initiation
+CK: !partially rescues! SNS phenotype of BR-deficient/insensitive mutants
+BR: !fails to rescue! SNS of CK-deficient mutants

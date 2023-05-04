@@ -1,0 +1,9 @@
+Both blue light (BL) and auxin are essential for phototropism in Arabidopsis thaliana. However, the mechanisms by which light is molecularly linked to auxin during phototropism remain elusive. Here, we report that phytochrome interacting factoR4 (PIF4) and PIF5 act downstream of the BL sensor phototropin1 (PHOT1) to negatively modulate phototropism in Arabidopsis. We also reveal that PIF4 and PIF5 negatively regulate auxin signaling. Furthermore, we demonstrate that PIF4 directly activates the expression of the auxin/indole-3-acetic acid (IAA) genes IAA19 and IAA29 by binding to the G-box (CACGTG) motifs in their promoters. Our genetic assays demonstrate that IAA19 and IAA29, which physically interact with auxin response factor7 (ARF7), are sufficient for PIF4 to negatively regulate auxin signaling and phototropism. This study identifies a key step of phototropic signaling in Arabidopsis by showing that PIF4 and PIF5 link light and auxin.
+
+BL: !activates! PHOT1
+PHOT1: !regulates! PIF4/PIF5
+PIF4/PIF5: !negatively modulate! phototropism
+PIF4/PIF5: !negatively regulate! auxin signaling
+PIF4: !activates! IAA19/IAA29
+IAA19/IAA29: !interact with! ARF7
+PIF4: !negatively regulate! auxin signaling/phototropism

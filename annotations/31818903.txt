@@ -1,0 +1,18 @@
+MADS box transcription factors (TFs) are subdivided into type I and II based on phylogenetic analysis. The type II TFs regulate floral organ identity and flowering time, but type I TFs are relatively less characterized. Here, we report the functional characterization of two type I MADS box TFs in rice (<i>Oryza sativa</i>), <i>MADS78</i> and <i>MADS79</i> Transcript abundance of both these genes in developing seed peaked at 48 h after fertilization and was suppressed by 96 h after fertilization, corresponding to syncytial and cellularized stages of endosperm development, respectively. Seeds overexpressing <i>MADS78</i> and <i>MADS</i> <i>79</i> exhibited delayed endosperm cellularization, while CRISPR-Cas9-mediated single knockout mutants showed precocious endosperm cellularization. <i>MADS78</i> and <i>MADS</i> <i>79</i> were indispensable for seed development, as a double knockout mutant failed to make viable seeds. Both MADS78 and 79 interacted with MADS89, another type I MADS box, which enhances nuclear localization. The expression analysis of <i>Fie1</i>, a rice FERTILIZATION-INDEPENDENT SEED-POLYCOMB REPRESSOR COMPLEX2 component, in <i>MADS78</i> and <i>79</i> mutants and vice versa established an antithetical relation, suggesting that <i>Fie1</i> could be involved in negative regulation of <i>MADS78</i> and <i>MADS</i> <i>79</i> Misregulation of <i>MADS78</i> and <i>MADS</i> <i>79</i> perturbed auxin homeostasis and carbon metabolism, as evident by misregulation of genes involved in auxin transport and signaling as well as starch biosynthesis genes causing structural abnormalities in starch granules at maturity. Collectively, we show that <i>MADS78</i> and <i>MADS</i> <i>79</i> are essential regulators of early seed developmental transition and impact both seed size and quality in rice.
+
+MADS78: !regulates! floral organ identity
+MADS79: !regulates! floral organ identity
+MADS78: !localizes to! nucleus
+MADS79: !localizes to! nucleus
+MADS78: !interacts with! MADS89
+MADS79: !interacts with! MADS89
+MADS78: !represses! Fie1
+MADS79: !represses! Fie1
+MADS78: !affects! auxin homeostasis
+MADS79: !affects! auxin homeostasis
+MADS78: !affects! carbon metabolism
+MADS79: !affects! carbon metabolism
+MADS78: !enhances! seed size
+MADS79: !enhances! seed size
+MADS78: !enhances! seed quality
+MADS79: !enhances! seed quality

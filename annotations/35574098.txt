@@ -1,0 +1,9 @@
+Wheat ears in unmanned aerial vehicles (UAV) orthophotos are characterized by occlusion, small targets, dense distribution, and complex backgrounds. Rapid identification of wheat ears in UAV orthophotos in a field environment is critical for wheat yield prediction. Three improvements were achieved based on YOLOX-m: mosaic optimized, using BiFPN structure, and attention mechanism, then ablation experiments were performed to verify the effect of each improvement. Three scene datasets were established: images were acquired during three different growing periods, at three planting densities, and under three scenarios of UAV flight heights. In ablation experiments, three improvements had increased recognition accuracies on the experimental dataset. Compared the accuracy of the standard model with our improved model on three scene datasets. Our improved model during three different periods, at three planting densities, and under three scenarios of the UAV flight height, obtaining 88.03%, 87.59%, and 87.93% accuracies, which were, respectively, 2.54%, 1.89%, and 2.15% better than the original model. The results of this study showed that the improved YOLOX-m model can achieve UAV orthophoto wheat recognition under different practical scenarios in large fields, and that the best combination were obtained images from the wheat milk stage, low planting density, and low flight altitude.
+
+YOLOX-m: !improved by! mosaic optimization
+YOLOX-m: !improved by! BiFPN structure
+YOLOX-m: !improved by! attention mechanism
+YOLOX-m: !increased accuracy of! wheat recognition
+YOLOX-m: !best combination obtained from! wheat milk stage
+YOLOX-m: !best combination obtained from! low planting density
+YOLOX-m: !best combination obtained from! low flight altitude

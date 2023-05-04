@@ -1,0 +1,9 @@
+Basic helix-loop-helix/helix-loop-helix (bHLH/HLH) transcription factors play important roles in cell elongation in plants. However, little is known about how bHLH/HLH transcription factors antagonistically regulate fiber elongation in cotton (Gossypium hirsutum). In this study, we report that two bHLH/HLH transcription factors, fiber-related protein 2 (GhFP2) and ACTIVATOR FOR CELL ELONGATION 1 (GhACE1), function in fiber development of cotton. GhFP2 is an atypical bHLH protein without the basic region, and its expression is regulated by brassinosteroid (BR)-related BRASSINAZOLE RESISTANT 1 (GhBZR1). Overexpression of GhFP2 in cotton hindered fiber elongation, resulting in shortened fiber length. In contrast, suppression of GhFP2 expression in cotton promoted fiber development, leading to longer fibers compared with the wild-type. GhFP2 neither contains a DNA-binding domain nor has transcriptional activation activity. Furthermore, we identified GhACE1, a bHLH protein that interacts with GhFP2 and positively regulates fiber elongation. GhACE1 could bind to promoters of plasma membrane intrinsic protein 2;7 (GhPIP2;7) and expansions 8 (GhEXP8) for directly activating their expression, but the interaction between GhFP2 and GhACE1 suppressed transcriptional activation of these target genes by GhACE1. Taken together, our results indicate that GhACE1 promotes fiber elongation by activating expressions of GhPIP2;7 and GhEXP8, but its transcription activation on downstream genes may be obstructed by BR-modulated GhFP2. Thus, our data reveal a key mechanism for fiber cell elongation through a pair of antagonizing HLH/bHLH transcription factors in cotton.
+
+GhFP2: !regulates! GhACE1
+GhFP2: !inhibited by! GhBZR1
+GhACE1: !interacts with! GhFP2
+GhACE1: !activates! GhPIP2;7
+GhACE1: !activates! GhEXP8
+GhFP2: !represses! GhPIP2;7
+GhFP2: !represses! GhEXP8

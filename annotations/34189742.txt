@@ -1,0 +1,8 @@
+Comprehensively controlling phytoplasma-associated jujube witches' broom (JWB) disease is extremely challenging for the jujube industry. Although the pathogenesis of phytoplasma disease has been highlighted in many plant species, the release of lateral buds from dormancy under JWB phytoplasma infection has not been characterized in woody perennial jujube. Here, two 16SrV-B group phytoplasma effectors, SJP1 and SJP2, were experimentally determined to induce witches' broom with increased lateral branches. In vivo interaction and subcellular localization analyses showed that both SJP1 and SJP2 were translocated from the cytoplasm to the nucleus to target the CYC/TB1-TCP transcription factor ZjBRC1. The N- and C-terminal coiled-coil domains of SJP1 and SJP2 were required for the TCP-binding ability. ZjBRC1 bound directly to the auxin efflux carrier ZjPIN1c/3 promoters and down-regulated their expression to promote the accumulation of endogenous auxin indole-3-acetic acid in jujube calli. Furthermore, JWB phytoplasma infection suppressed ZjBRC1 accumulation and induced ZjPIN1c/3 expression to stimulate lateral bud outgrowth. Therefore, SJP1 and SJP2 stimulate lateral bud outgrowth, at least partly, by repressing the ZjBRC1-controlled auxin efflux channel in jujube, representing a potential strategy for comprehensive phytoplasma-associated disease control and a resource for gene editing breeding to create new cultivars with varying degrees of shoot branching.
+
+SJP1: !represses! ZjBRC1
+SJP2: !represses! ZjBRC1
+ZjBRC1: !binds to! ZjPIN1c/3
+ZjBRC1: !down-regulates! ZjPIN1c/3
+JWB phytoplasma: !suppresses! ZjBRC1
+JWB phytoplasma: !induces! ZjPIN1c/3

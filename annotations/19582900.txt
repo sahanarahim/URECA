@@ -1,0 +1,15 @@
+The enzymological properties of AtAurora1, a kinase responsible for the cell cycle-dependent phosphorylation of histone H3 at S10, and its cross-talk with other post-translational histone modifications, were determined. In vitro phosphorylation of H3S10 by AtAurora1 is strongly increased by K9 acetylation, and decreased by K14 acetylation and T11 phosphorylation. However, S10 phosphorylation activity is unaltered by mono-, di- or trimethylation of K9. An interference of H3K9 dimethylation by SUVR4 occurs by a pre-existing phosphorylation at S10. Hence, cross-talk in plants exists between phosphorylation of H3S10 and methylation, acetylation or phosphorylation of neighbouring amino acid residues. AtAurora1 undergoes autophosphorylation in vivo regardless of the presence of substrate, and forms dimers in planta. Of the three ATP-competitive Aurora inhibitors tested, Hesperadin was most effective in reducing the in vivo kinase activity of AtAurora1. Hesperadin consistently inhibited histone H3S10 phosphorylation during mitosis in Arabidopsis cells, but did not affect other H3 post-translational modifications, suggesting a specific inhibition of AtAurora in vivo. Inactivation of AtAurora also caused lagging chromosomes in a number of anaphase cells, but, unlike the situation in mammalian cells, Hesperadin did not influence the microtubule dynamics in dividing cells.
+
+AtAurora1: !phosphorylates! H3S10 
+K9 acetylation: !increases! AtAurora1 phosphorylation of H3S10 
+K14 acetylation: !decreases! AtAurora1 phosphorylation of H3S10 
+T11 phosphorylation: !decreases! AtAurora1 phosphorylation of H3S10 
+H3K9 dimethylation: !interferes with! S10 phosphorylation 
+SUVR4: !interferes with! H3K9 dimethylation 
+AtAurora1: !autophosphorylates! in vivo 
+AtAurora1: !forms dimers! in planta 
+Hesperadin: !inhibits! AtAurora1 in vivo 
+Hesperadin: !inhibits! H3S10 phosphorylation during mitosis 
+Hesperadin: !does not affect! other H3 post-translational modifications 
+Hesperadin: !causes lagging chromosomes! in anaphase cells 
+Hesperadin:

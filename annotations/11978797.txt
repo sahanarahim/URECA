@@ -1,0 +1,9 @@
+['11978797', 'A cDNA from Arabidopsis thaliana and four related cDNAs from Nicotiana tabacum  that we have isolated encode hitherto unidentified members of the mitochondrial  carrier family. These proteins have been overexpressed in bacteria and  reconstituted into phospholipid vesicles. Their transport properties demonstrate  that they are orthologs/isoforms of a novel mitochondrial carrier capable of  transporting both dicarboxylates (such as malate, oxaloacetate, oxoglutarate, and  maleate) and tricarboxylates (such as citrate, isocitrate, cis-aconitate, and  trans-aconitate). The newly identified dicarboxylate-tricarboxylate carrier  accepts only the single protonated form of citrate (H-citrate2-) and the  unprotonated form of malate (malate2-) and catalyzes obligatory, electroneutral  exchanges. Oxoglutarate, citrate, and malate are mutually competitive inhibitors,  showing K(i) close to the respective K(m). The carrier is expressed in all plant  tissues examined and is largely spread in the plant kingdom. Furthermore, nitrate  supply to nitrogen-starved tobacco plants leads to an increase in its mRNA in  roots and leaves. The dicarboxylate-tricarboxylate carrier may play a role in  important plant metabolic functions requiring organic acid flux to or from the  mitochondria, such as nitrogen assimilation, export of reducing equivalents from  the mitochondria, and fatty acid elongation.', '2002 Jul 5', 'J Biol Chem', '10.1074/jbc.M202702200', 'Palmieri']
+
+cDNA: !encodes! mitochondrial carrier
+protein: !transports! dicarboxylates/tricarboxylates
+carrier: !accepts! H-citrate2-/malate2-
+carrier: !inhibited by! oxoglutarate/citrate/malate
+carrier: !expressed in! all plant tissues
+nitrate: !increases! mRNA of carrier in roots/leaves
+carrier: !plays role in! nitrogen assimilation/reducing equivalents export/fatty acid elongation

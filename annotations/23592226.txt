@@ -1,0 +1,13 @@
+In the first reaction specific for proanthocyanidin (PA) biosynthesis in Arabidopsis thaliana and Medicago truncatula, anthocyanidin reductase (ANR) converts cyanidin to (-)-epicatechin. The glucosyltransferase UGT72L1 catalyzes formation of epicatechin 3'-O-glucoside (E3'OG), the preferred substrate for MATE transporters implicated in PA biosynthesis in both species. The mechanism of PA polymerization is still unclear, but may involve the laccase-like polyphenol oxidase TRANSPARENT TESTA 10 (TT10). We have employed a combination of cell biological, biochemical and genetic approaches to evaluate this PA pathway model. The promoter regions of UGT72L1 and MtANR share common cis-acting elements and direct overlapping, but partially distinct, expression patterns. UGT72L1 and MtANR are localized in the cytosol, whereas TT10 is localized to the vacuole. Over-expression of UGT72L1 in M. truncatula hairy roots results in increased accumulation of PA-like compounds, and loss of function of UGT72L1 partially reduces epicatechin, E3'OG and extractable PA levels in M. truncatula seeds. Expression of UGT72L1 in A. thaliana leads to a massive increase in E3'OG in immature seed, but reduced levels of extractable PAs. However, when UGT72L1 was expressed in the Arabidopsis tt10 mutant, extractable PA levels increased and seed coat browning was delayed. Our results suggest that glycosylation of epicatechin is important for both PA precursor transport and assembly, but that additional redundant pathways may exist.
+
+ANR: !converts! cyanidin 
+UGT72L1: !catalyzes! epicatechin 3'-O-glucoside 
+UGT72L1: !overlaps with! MtANR expression 
+UGT72L1: !localizes to! cytosol 
+TT10: !localizes to! vacuole 
+UGT72L1: !increases! PA-like compounds 
+UGT72L1: !reduces! epicatechin, E3'OG and extractable PA levels 
+UGT72L1: !increases! E3'OG in immature seed 
+UGT72L1: !reduces! extractable PAs 
+UGT72L1: !increases! extractable PA levels 
+UGT72L1: !delays! seed coat browning

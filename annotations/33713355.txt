@@ -1,0 +1,14 @@
+Cucurbit phloem is complex, with large sieve tubes on both sides of the xylem (bicollateral phloem), and extrafascicular elements that form an intricate web linking the rest of the vasculature. Little is known of the physical interconnections between these networks or their functional specialization, largely because the extrafascicular phloem strands branch and turn at irregular angles. Here, export in the phloem from specific regions of the lamina of cucumber (Cucumis sativus L.) was mapped using carboxyfluorescein and <sup>14</sup> C as mobile tracers. We also mapped vascular architecture by conventional microscopy and X-ray computed tomography using optimized whole-tissue staining procedures. Differential gene expression in the internal (IP) and external phloem (EP) was analyzed by laser-capture microdissection followed by RNA-sequencing. The vascular bundles of the lamina form a nexus at the petiole junction, emerging in a predictable pattern, each bundle conducting photoassimilate from a specific region of the blade. The vascular bundles of the stem interconnect at the node, facilitating lateral transport around the stem. Elements of the extrafascicular phloem traverse the stem and petiole obliquely, joining the IP and EP of adjacent bundles. Using pairwise comparisons and weighted gene coexpression network analysis, we found differences in gene expression patterns between the petiole and stem and between IP and EP, and we identified hub genes of tissue-specific modules. Genes related to transport were expressed primarily in the EP while those involved in cell differentiation and development as well as amino acid transport and metabolism were expressed mainly in the IP.
+
+carboxyfluorescein: !traces! export
+<sup>14</sup>C: !traces! export
+lamina: !exports to! petiole junction
+petiole junction: !connects! vascular bundles
+vascular bundles: !interconnect at! node
+node: !facilitates! lateral transport
+extrafascicular phloem: !joins! IP and EP
+pairwise comparisons: !identify! differences in gene expression
+weighted gene coexpression network analysis: !identifies! hub genes
+transport-related genes: !expressed mainly in! EP
+cell differentiation/development-related genes: !expressed mainly in! IP
+amino acid transport/metabolism-related genes: !expressed mainly in! IP

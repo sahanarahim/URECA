@@ -1,0 +1,11 @@
+Soybean yield is a complex quantitative trait, which is greatly affected by environmental conditions. The main objective of this study is not only to identify specific traits contributing to yield in different latitudes, which can be further used in breeding, but also to identify the outperforming varieties, as this can help to select new lines with these traits. One hundred and seventy-three soybean genotypes were tested in three different ecological environments, including Harbin, Changchun, and Shenyang in China during 2015-2016 cropping seasons. The evaluation on the different agronomic and physiological traits indicated that the soybean varieties with higher plant height, more nodes of main stem, branches, pods, grains, and 100-grain weight, or longer growth periods may have higher yield. Pods, grains and 100-grain weight can be used as direct selection criteria for yield increase, and likewise the other traits such as plant height, nodes of main stem, branches, growth periods indirectly affected yield by affecting the three traits above. The effect of genotype × environment (G × E) interaction on different agronomic traits was significant. The representativeness and discriminability for grains yield per plant was the most significant in Harbin, which could be used to screen varieties with high yield and wider adaptability. Genotype "Suinong 1" was considered stable with higher value of grain yield per plant than other genotypes used in this study. As the yield of certain soybean cultivars may be significantly reduced if they are grown in a region as little as 2°N beyond its normal cultivation latitudes, therefore, the identification and analysis on the stable and widely adaptive soybean genotypes would be very important, and it would provide the significant reference accordance of soybean variety selection for the soybean breeders.
+
+plant height: !affects! yield
+nodes of main stem: !affects! yield
+branches: !affects! yield
+pods: !affects! yield
+grains: !affects! yield
+100-grain weight: !affects! yield
+growth periods: !affects! yield
+genotype × environment (G × E): !interacts with! agronomic traits
+Suinong 1: !has! higher grain yield per plant

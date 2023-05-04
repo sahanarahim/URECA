@@ -1,0 +1,10 @@
+miR396 targets seven GROWTH-REGULATING FACTOR (GRF) genes and the BASIC HELIX-LOOP-HELIX (bHLH) TRANSCRIPTION FACTOR 74 gene (bHLH74) in Arabidopsis. Previous research revealed that the miR396 target module regulates cell proliferation and plays a critical role in leaf development. However, no additional biological functions of miR396 have been investigated in detail. In this study, T-DNA insertion mutants and transgenic plants with altered levels of miR396 or its target genes were used to characterize the regulatory role of miR396 in root development. We found that AtMIR396a was the predominant source for miR396 accumulation in the roots of seedlings, and that the mir396a-1 mutant had longer roots than wild-type seedlings. Overexpression of AtMIR396a decreased the transcript levels of target genes such as GRF genes and bHLH74, and resulted in a shorter root phenotype. Furthermore, the bhlh74-1 mutant had shorter roots, whereas overexpression of an miR396-resistant form of bHLH74 (mbHLH74) had an enhanced root growth phenotype. Moreover, MIR396a regulated root growth by affecting the elongation zone. Taken together, these data indicate that miR396a-mediated bHLH74 repression helps regulate root growth in Arabidopsis seedlings.
+
+miR396: !targets! GRF genes 
+miR396: !targets! bHLH74 gene
+AtMIR396a: !accumulates! miR396
+mir396a-1 mutant: !has longer roots than! wild-type seedlings
+AtMIR396a: !decreases transcript levels of! target genes
+bhlh74-1 mutant: !has shorter roots than! wild-type seedlings
+mbHLH74: !has enhanced root growth phenotype than! wild-type seedlings
+miR396a: !regulates root growth by affecting! elongation zone

@@ -1,0 +1,10 @@
+We have conducted a large-scale study of gene expression in the C4 monocot sorghum (Sorghum bicolor) L. Moench cv BTx623 in response to the signaling compounds salicylic acid (SA), methyl jasmonate (MeJA), and the ethylene precursor aminocyclopropane carboxylic acid. Expression profiles were generated from seedling root and shoot tissue at 3 and 27 h, using a microarray containing 12,982 nonredundant elements. Data from 102 slides and quantitative reverse transcription-PCR data on mRNA abundance from 171 genes were collected and analyzed and are here made publicly available. Numerous gene clusters were identified in which expression was correlated with particular signaling compound and tissue combinations. Many genes previously implicated in defense responded to the treatments, including numerous pathogenesis-related genes and most members of the phenylpropanoid pathway, and several other genes that may represent novel activities or pathways. Genes of the octadecanoic acid pathway of jasmonic acid (JA) synthesis were induced by SA as well as by MeJA. The resulting hypothesis that increased SA could lead to increased endogenous JA production was confirmed by measurement of JA content. Comparison of responses to SA, MeJA, and combined SA+MeJA revealed patterns of one-way and mutual antagonisms, as well as synergistic effects on regulation of some genes. These experiments thus help further define the transcriptional results of cross talk between the SA and JA pathways and suggest that a subset of genes coregulated by SA and JA may comprise a uniquely evolved sector of plant signaling responsive cascades.
+
+Gene: !affects! Expression
+Gene: !responds to! SA
+Gene: !responds to! MeJA
+Gene: !synthesizes! JA
+Gene: !induces! Pathogenesis-related genes
+Gene: !induces! Phenylpropanoid pathway
+Gene: !antagonizes! SA+MeJA
+Gene: !coregulates! SA and JA

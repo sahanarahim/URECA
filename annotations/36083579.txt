@@ -1,0 +1,10 @@
+['36083579', 'Repression of embryonic traits during the seed-to-seedling phase transition  requires the inactivation of master transcription factors associated with  embryogenesis. How the timing of such inactivation is controlled is unclear.  Here, we report on a novel transcriptional co-repressor, Arabidopsis thaliana  SDR4L, that forms a feedback inhibition loop with the master transcription  factors LEC1 and ABI3 to repress embryonic traits post-imbibition. LEC1 and ABI3  regulate their own expression by inducing AtSDR4L during mid to late  embryogenesis. AtSDR4L binds to sites upstream of LEC1 and ABI4, and these  transcripts are upregulated in Atsdr4l seedlings. Atsdr4l seedlings phenocopy a  LEC1 overexpressor. The embryonic traits of Atsdr4l can be partially rescued by  impairing LEC1 or ABI3. The penetrance and expressivity of the Atsdr4l phenotypes  depend on both developmental and external cues, demonstrating the importance of  AtSDR4L in seedling establishment under suboptimal conditions.', '2022 Nov', 'J Integr Plant Biol', '10.1111/jipb.13360', 'ORCID:']
+
+LEC1: !induces! AtSDR4L 
+AtSDR4L: !binds to! LEC1 
+AtSDR4L: !binds to! ABI3 
+LEC1: !regulates own expression by! AtSDR4L 
+ABI3: !regulates own expression by! AtSDR4L 
+AtSDR4L: !represses! embryonic traits 
+LEC1: !overexpressor phenocopies! Atsdr4l 
+ABI3: !impairment partially rescues! Atsdr4l

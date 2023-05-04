@@ -1,0 +1,9 @@
+Circadian clocks maintain robust and accurate timing over a broad range of physiological temperatures, a characteristic termed temperature compensation. In Arabidopsis thaliana, ambient temperature affects the rhythmic accumulation of transcripts encoding the clock components TIMING OF CAB EXPRESSION1 (TOC1), GIGANTEA (GI), and the partially redundant genes CIRCADIAN CLOCK ASSOCIATED1 (CCA1) and LATE ELONGATED HYPOCOTYL (LHY). The amplitude and peak levels increase for TOC1 and GI RNA rhythms as the temperature increases (from 17 to 27 degrees C), whereas they decrease for LHY. However, as temperatures decrease (from 17 to 12 degrees C), CCA1 and LHY RNA rhythms increase in amplitude and peak expression level. At 27 degrees C, a dynamic balance between GI and LHY allows temperature compensation in wild-type plants, but circadian function is impaired in lhy and gi mutant plants. However, at 12 degrees C, CCA1 has more effect on the buffering mechanism than LHY, as the cca1 and gi mutations impair circadian rhythms more than lhy at the lower temperature. At 17 degrees C, GI is apparently dispensable for free-running circadian rhythms, although partial GI function can affect circadian period. Numerical simulations using the interlocking-loop model show that balancing LHY/CCA1 function against GI and other evening-expressed genes can largely account for temperature compensation in wild-type plants and the temperature-specific phenotypes of gi mutants.
+
+TOC1: !increases with! temperature
+GI: !increases with! temperature
+LHY: !decreases with! temperature
+CCA1: !increases with! temperature
+GI: !balances with! LHY
+GI: !affects! circadian period
+LHY/CCA1: !balances with! GI

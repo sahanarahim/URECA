@@ -1,0 +1,7 @@
+Protein homoeostasis in plastids is strategically regulated by the protein quality control system involving multiple chaperones and proteases, among them the Clp protease. Here, we determined the structure of the chloroplast ClpP complex from Chlamydomonas reinhardtii by cryo-electron microscopy. ClpP contains two heptameric catalytic rings without any symmetry. The top ring contains one ClpR6, three ClpP4 and three ClpP5 subunits while the bottom ring is composed of three ClpP1<sub>C</sub> subunits and one each of the ClpR1-4 subunits. ClpR3, ClpR4 and ClpT4 subunits connect the two rings and stabilize the complex. The chloroplast Cpn11/20/23 co-chaperonin, a co-factor of Cpn60, forms a cap on the top of ClpP by protruding mobile loops into hydrophobic clefts at the surface of the top ring. The co-chaperonin repressed ClpP proteolytic activity in vitro. By regulating Cpn60 chaperone and ClpP protease activity, the co-chaperonin may play a role in coordinating protein folding and degradation in the chloroplast.
+
+ClpP: !contains! ClpR6, ClpP4, ClpP5
+ClpP: !contains! ClpP1<sub>C</sub>, ClpR1-4
+ClpR3, ClpR4, ClpT4: !connect! ClpP rings
+Cpn11/20/23: !forms cap on! ClpP
+Cpn11/20/23: !represses! ClpP activity

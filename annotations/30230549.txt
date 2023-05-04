@@ -1,0 +1,8 @@
+Proper regulation of seed germination is essential for the successful propagation of a plant. The transcription factor ABSCISIC ACID INSENSITIVE5 (ABI5) of the abscisic acid (ABA) signaling pathway plays a central role in the inhibition of seed germination. ABI5 is precisely regulated by the core ABA signaling components and multiple other factors. However, the complex regulatory network of ABI5 remains largely unknown. In this study, we determined the biochemical interaction between ABI5 and the BRINSENSITIVE1 (BRI1)-EMS-SUPPRESSOR1 (BES1) transcription factor of the brassinosteroid (BR) signaling pathway, as well as the function of BES1 regulating ABI5 during seed germination in Arabidopsis. BES1 directly interacts with ABI5 both in vitro and in vivo. The bZIP domain of ABI5, which is responsible for DNA binding, is critical for ABI5 binding to BES1. The interaction of BES1 with ABI5 significantly suppressed the binding of ABI5 to the promoter regions of downstream genes, which resulted in their reduced expression and consequently facilitated seed germination. This study shed new light on the coordination of multiple signaling pathways during seed germination. In particular, BES1 directly binds to ABI5, which interferes with its transcriptional activity and suppresses ABA signaling output.
+
+ABI5: !interacts with! BES1
+BES1: !binds to! ABI5
+ABI5: !binds to! promoter regions
+BES1: !suppresses! ABI5 binding to promoter regions
+ABI5: !represses! downstream gene expression
+BES1: !facilitates! seed germination

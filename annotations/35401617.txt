@@ -1,0 +1,10 @@
+Plant hormone brassinosteroids (BRs) play key roles in plant adaptation to biotic stresses, including various pathogen infections. As a core factor in BR signaling, the transcription factor BRI1-EMS-SUPPRESSOR 1 (BES1) activates BR responses <i>via</i> regulating the expression of target genes. However, the molecular mechanism of BRs in regulating plant immunity is unclear, and the key components are not identified. In this study, we found that BR biosynthesis and signaling transduction are essential for plant resistance to pathogen infection, and BR biosynthesis or BR signaling-deficient mutants displayed susceptibility to <i>Pseudomonas syringae</i> pv. <i>tomato</i> DC3000 (<i>Pst</i> DC3000) infection [including more serious symptoms and more photosystem II (PSII) photochemistry damage]. We identified a callose synthase gene <i>GLUCAN SYNTHASE-LIKE 8</i> (<i>GSL8</i>) as a direct target of BES1, and its expression was induced by BRs/BES1. Meanwhile, BRs induced callose accumulation after <i>Pst</i> DC3000 infection. Moreover, BES1 gain-of-function mutant <i>bes1-D</i> showed promoted <i>Pst</i> DC3000 resistance. <i>GSL8</i> T-DNA insertion mutant <i>gsl8-1</i> was susceptible to DC3000, while brassinolide (BL) treatment partially rescued <i>gsl8-1</i> susceptible phenotypes. Our study suggests that BR-induced pathogen resistance partly depends on the BR-induced BES1-GSL8 cascade to mediate callose accumulation.
+
+BR: !activates! BES1
+BES1: !regulates expression of! target genes
+BRs: !essential for! plant resistance to pathogen infection
+BES1: !induces expression of! GSL8
+GSL8: !mediates! callose accumulation
+BRs: !induce! callose accumulation after Pst DC3000 infection
+BES1: !promotes! Pst DC3000 resistance
+BL: !partially rescues! gsl8-1 susceptible phenotypes

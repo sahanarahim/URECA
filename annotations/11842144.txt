@@ -1,0 +1,10 @@
+['11842144', 'Electrophysiological studies were conducted on the cloned plant cyclic  nucleotide-gated ion channels AtCNGC2 and AtCNGC1 from Arabidopsis, and NtCBP4  from tobacco (Nicotiana tobacum). The nucleotide coding sequences for these  proteins were expressed in Xenopus laevis oocytes or HEK 293 cells. Channel  characteristics were evaluated using voltage clamp analysis of currents in the  presence of cAMP. AtCNGC2 was demonstrated to conduct K(+) and other monovalent  cations, but exclude Na(+); this conductivity profile is unique for any ion  channel not possessing the amino acid sequence found in the selectivity filter of  K(+)-selective ion channels. Application of cAMP evoked currents in membrane  patches of oocytes injected with AtCNGC2 cRNA. Direct activation of the channel  by cyclic nucleotide, demonstrated by application of cyclic nucleotide to patches  of membranes expressing such channels, is a hallmark characteristic of this ion  channel family. Voltage clamp studies (two-electrode configuration) demonstrated  that AtCNGC1 and NtCBP4 are also cyclic nucleotide-gated channels. Addition of a  lipophilic analog of cAMP to the perfusion bath of oocytes injected with NtCBP4  and AtCNGC1 cRNAs induced inward rectified, noninactivating K(+) currents.', '2002 Feb', 'Plant Physiol', '10.1104/pp.010832', 'Berkowitz']
+
+AtCNGC2: !conducts! K(+) 
+AtCNGC2: !excludes! Na(+) 
+AtCNGC2: !evokes currents in! membrane patches 
+AtCNGC2: !directly activated by! cyclic nucleotide 
+AtCNGC1: !voltage clamped! two-electrode configuration 
+AtCNGC1: !induced inward rectified, noninactivating K(+) currents! lipophilic analog of cAMP 
+NtCBP4: !voltage clamped! two-electrode configuration 
+NtCBP4: !induced inward rectified, noninactivating K(+) currents! lipophilic analog of cAMP

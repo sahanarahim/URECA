@@ -1,0 +1,9 @@
+Forest fungal communities are shaped by the interactions between host tree root systems and the associated soil conditions. We investigated how the soil environment, root morphological traits, and root chemistry influence root-inhabiting fungal communities in three tropical forest sites of varying successional status in Xishuangbanna, China. For 150 trees of 66 species, we measured root morphology and tissue chemistry. Tree species identity was confirmed by sequencing rbcL, and root-associated fungal (RAF) communities were determined using high-throughput ITS2 sequencing. Using distance-based redundancy analysis and hierarchical variation partitioning, we quantified the relative importance of two soil variables (site average total phosphorus and available phosphorus), four root traits (dry matter content, tissue density, specific tip abundance, and forks), and three root tissue elemental concentrations (nitrogen, calcium, and manganese) on RAF community dissimilarity. The root and soil environment collectively explained 23% of RAF compositional variation. Soil phosphorus explained 76% of that variation. Twenty fungal taxa differentiated RAF communities among the three sites. Soil phosphorus most strongly affects RAF assemblages in this tropical forest. Variation in root calcium and manganese concentrations and root morphology among tree hosts, principally an architectural trade-off between dense, highly branched vs less-dense, herringbone-type root systems, are important secondary determinants.
+
+root: !influences! RAF community
+soil: !influences! RAF community
+site: !differentiates! RAF communities
+soil phosphorus: !strongly affects! RAF assemblages
+root calcium: !affects! RAF communities
+root manganese: !affects! RAF communities
+root morphology: !affects! RAF communities

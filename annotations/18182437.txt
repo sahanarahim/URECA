@@ -1,0 +1,10 @@
+In previous studies it has been shown that callus cell cultures of Arabidopsis thaliana respond to changes in gravitational field strengths by altered gene expression. In this study an investigation was carried out into how different g conditions affect the proteome of such cells. For this purpose, callus cells were exposed to 8 g (centrifugation) and simulated microgravity (2-D clinorotation: fast rotating clinostat, yielding 0.0016 g at maximum; and 3-D random positioning) for up to 16 h. Extracts containing total soluble protein were subjected to 2-D SDS-PAGE. Image analysis of Sypro Ruby-stained gels showed that approximately 28 spots reproducibly and significantly (P <0.05) changed in amount after 2 h of hypergravity (18 up- and 10 down-regulated). These spots were analysed by electrospray ionization tandem mass spectrometry (ESI-MS/MS). In the case of 2-D clinorotation, 19 proteins changed in a manner similar to hypergravity, while random positioning affected only eight spots. Identified proteins were mainly stress related, and are involved in detoxification of reactive oxygen species, signalling, and calcium binding. Surprisingly, centrifugation and clinorotation showed homologies which were not detected for random positioning. The data indicate that simulation of weightlessness is different between clinorotation and random positioning.
+
+gene: !affects! expression 
+expression: !alters! proteome 
+proteome: !changes in! amount 
+amount: !analyzed by! ESI-MS/MS 
+ESI-MS/MS: !identifies! proteins 
+proteins: !involved in! detoxification 
+detoxification: !related to! stress 
+stress: !signalled by! calcium binding

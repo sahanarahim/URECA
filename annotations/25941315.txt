@@ -1,0 +1,9 @@
+Ethylene is an important phytohormone in the regulation of plant growth, development, and stress response throughout the lifecycle. Previously, we discovered that a subfamily II ethylene receptor tobacco (Nicotiana tabacum) Histidine Kinase1 (NTHK1) promotes seedling growth. Here, we identified an NTHK1-interacting protein translationally controlled tumor protein (NtTCTP) by the yeast (Saccharomyces cerevisiae) two-hybrid assay and further characterized its roles in plant growth. The interaction was further confirmed by in vitro glutathione S-transferase pull down and in vivo coimmunoprecipitation and bimolecular fluorescence complementation assays, and the kinase domain of NTHK1 mediates the interaction with NtTCTP. The NtTCTP protein is induced by ethylene treatment and colocalizes with NTHK1 at the endoplasmic reticulum. Overexpression of NtTCTP or NTHK1 reduces plant response to ethylene and promotes seedling growth, mainly through acceleration of cell proliferation. Genetic analysis suggests that NtTCTP is required for the function of NTHK1. Furthermore, association of NtTCTP prevents NTHK1 from proteasome-mediated protein degradation. Our data suggest that plant growth inhibition triggered by ethylene is regulated by a unique feedback mechanism, in which ethylene-induced NtTCTP associates with and stabilizes ethylene receptor NTHK1 to reduce plant response to ethylene and promote plant growth through acceleration of cell proliferation.
+
+NTHK1: !interacts with! NtTCTP
+NTHK1: !localizes to! endoplasmic reticulum
+NtTCTP: !induced by! ethylene
+NtTCTP: !associates with! NTHK1
+NTHK1: !represses! ethylene response
+NTHK1: !enhances! seedling growth
+NtTCTP: !stabilizes! NTHK1

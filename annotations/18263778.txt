@@ -1,0 +1,12 @@
+Protein-protein interactions among enzymes of amylopectin biosynthesis were investigated in developing wheat (Triticum aestivum) endosperm. Physical interactions between starch branching enzymes (SBEs) and starch synthases (SSs) were identified from endosperm amyloplasts during the active phase of starch deposition in the developing grain using immunoprecipitation and cross-linking strategies. Coimmunoprecipitation experiments using peptide-specific antibodies indicate that at least two distinct complexes exist containing SSI, SSIIa, and either of SBEIIa or SBEIIb. Chemical cross linking was used to identify protein complexes containing SBEs and SSs from amyloplast extracts. Separation of extracts by gel filtration chromatography demonstrated the presence of SBE and SS forms in protein complexes of around 260 kD and that SBEII forms may also exist as homodimers. Analysis of cross-linked 260-kD aggregation products from amyloplast lysates by mass spectrometry confirmed SSI, SSIIa, and SBEII forms as components of one or more protein complexes in amyloplasts. In vitro phosphorylation experiments with gamma-(32)P-ATP indicated that SSII and both forms of SBEII are phosphorylated. Treatment of the partially purified 260-kD SS-SBE complexes with alkaline phosphatase caused dissociation of the assembly into the respective monomeric proteins, indicating that formation of SS-SBE complexes is phosphorylation dependent. The 260-kD SS-SBEII protein complexes are formed around 10 to 15 d after pollination and were shown to be catalytically active with respect to both SS and SBE activities. Prior to this developmental stage, SSI, SSII, and SBEII forms were detectable only in monomeric form. High molecular weight forms of SBEII demonstrated a higher affinity for in vitro glucan substrates than monomers. These results provide direct evidence for the existence of protein complexes involved in amylopectin biosynthesis.
+
+SBEIIa: !interacts with! SSI
+SBEIIb: !interacts with! SSI
+SSI: !interacts with! SBEIIa 
+SSI: !interacts with! SBEIIb
+SSIIa: !interacts with! SBEIIa
+SSIIa: !interacts with! SBEIIb
+SBEIIa: !forms complex with! SSIIa
+SBEIIb: !forms complex with! SSIIa
+SBEIIa: !phosphorylation dependent! SSIIa
+SBEIIb: !phosphorylation dependent! SSIIa

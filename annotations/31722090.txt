@@ -1,0 +1,7 @@
+We developed a machine learning-based model to identify the hidden labels of m<sup>6</sup>A candidates from noisy m6A-seq data. Peak-calling approaches, such as MeRIP-seq or m<sup>6</sup>A-seq, are commonly used to map m<sup>6</sup>A modifications. However, these technologies can only map m<sup>6</sup>A sites with 100-200 nt resolution and cannot reveal the precise location or the number of modified residues in a transcript. To address this challenge, we developed a novel machine learning-based approach, named HLMethy, to assign labels to m<sup>6</sup>A candidates from noisy m<sup>6</sup>A-seq data. The multiple instance learning framework was adopted and two different training strategies were used to generate the classification model. To test the performance of our model, the m<sup>6</sup>A sites with single-base resolution were used and our model achieved comparable performance against existing instance-level predictors, which suggest that our model has the potential to improve the data quality of m<sup>6</sup>A-seq at reduced costs. What's more, our generic framework can be extended to other newly found modifications that are found by peak-calling approaches. The source code of HLMethy is available at https://github.com/liuze-nwafu/HLMethy.
+
+m6A-seq: !maps! m6A modifications
+HLMethy: !identifies! hidden labels of m6A candidates 
+HLMethy: !achieves comparable performance to! existing instance-level predictors 
+HLMethy: !can be extended to! other newly found modifications 
+HLMethy: !is available at! https://github.com/liuze-nwafu/HLMethy

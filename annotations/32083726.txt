@@ -1,0 +1,9 @@
+Systemin, a peptide plant hormone of 18 amino acids, coordinates local and systemic immune responses. The activation of the canonical systemin-mediated systemic signaling pathway involves systemin release from its precursor prosystemin, systemin binding to its membrane receptor SYSTEMIN RECEPTOR1 (SYR1), and the transport of long-distance signaling molecules, including jasmonic acid, the prosystemin mRNA, volatile organic compounds and possibly systemin itself. Here, we review emerging evidence that the disordered structure and unconventional processing and secretion of systemin contribute to the regulation of systemin-mediated signaling during plant defense. We highlight recent advances in systemin research, which elucidated how cells integrate multiple long-distance signals into the systemic defense response. In addition, we discuss the perception of systemin by SYR1 and its mediation of downstream defense responses.
+
+prosystemin: !releases! systemin 
+SYR1: !binds to! systemin 
+systemin: !transports! long-distance signaling molecules 
+systemin: !regulates! systemin-mediated signaling 
+systemin: !integrates! multiple long-distance signals 
+SYR1: !perceives! systemin 
+SYR1: !mediates! downstream defense responses

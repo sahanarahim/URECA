@@ -1,0 +1,10 @@
+['17905861', 'We generated fusions between three Arabidopsis (Arabidopsis thaliana) tonoplast  intrinsic proteins (TIPs; alpha-, gamma-, and delta-TIP) and yellow fluorescent  protein (YFP). We also produced soluble reporters consisting of the monomeric red  fluorescent protein (RFP) and either the C-terminal vacuolar sorting signal of  phaseolin or the sequence-specific sorting signal of proricin. In transgenic  Arabidopsis leaves, mature roots, and root tips, all TIP fusions localized to the  tonoplast of the central vacuole and both of the lumenal RFP reporters were found  within TIP-delimited vacuoles. In embryos from developing, mature, and  germinating seeds, all three TIPs localized to the tonoplast of protein storage  vacuoles. To determine the temporal TIP expression patterns and to rule out  mistargeting due to overexpression, we generated plants expressing YFP fused to  the complete genomic sequences of the three TIP isoforms. In transgenic  Arabidopsis, gamma-TIP expression was limited to vegetative tissues, but  specifically excluded from root tips, whereas alpha-TIP was exclusively expressed  during seed maturation. delta-TIP was expressed in vegetative tissues, but not  root tips, at a later stage than gamma-TIP. Our findings indicate that, in the  Arabidopsis tissues analyzed, two different vacuolar sorting signals target  soluble proteins to a single vacuolar location. Moreover, TIP isoform  distribution is tissue and development specific, rather than organelle specific.', '2007 Dec', 'Plant Physiol', '10.1104/pp.107.103945', 'Frigerio']
+
+alpha-TIP: !expressed in! seed maturation 
+gamma-TIP: !expressed in! vegetative tissues 
+delta-TIP: !expressed in! vegetative tissues 
+YFP: !fused to! TIPs 
+RFP: !fused to! vacuolar sorting signals 
+TIPs: !localize to! tonoplast 
+RFP reporters: !localize to! TIP-delimited vacuoles 
+vacuolar sorting signals: !target! soluble proteins

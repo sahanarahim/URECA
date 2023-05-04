@@ -1,0 +1,8 @@
+['9741626', 'The proteasome consists of a 20S proteolytic core particle (CP) and a 19S  regulatory particle (RP), which selects ubiquitinated substrates for  translocation into the CP. An eight-subunit subcomplex of the RP, the lid, can be  dissociated from proteasomes prepared from a deletion mutant for Rpn10, an RP  subunit. A second subcomplex, the base, contains all six proteasomal ATPases and  links the RP to the CP. The base is sufficient to activate the CP for degradation  of peptides or a nonubiquitinated protein, whereas the lid is required for  ubiquitin-dependent degradation. By electron microscopy, the base and the lid  correspond to the proximal and distal masses of the RP, respectively. The lid  subunits share sequence motifs with components of the COP9/signalosome complex  and eIF3, suggesting that these functionally diverse particles have a common  evolutionary ancestry.', '1998 Sep 4', 'Cell', '10.1016/s0092-8674(00)81603-7', 'Finley']
+
+Rpn10: !dissociates! lid 
+base: !links! RP to CP 
+lid: !required for! ubiquitin-dependent degradation 
+base: !activates! CP 
+COP9/signalosome complex: !shares sequence motifs with! lid subunits 
+eIF3: !shares sequence motifs with! lid subunits

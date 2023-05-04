@@ -1,0 +1,8 @@
+Histone deacetylase (HDAC) is a chromatin-remodeling factor that contributes to transcriptional repression in eukaryotes. In Arabidopsis (Arabidopsis thaliana), the transcription factors LEAFY COTYLEDON1 (LEC1), FUSCA3 (FUS3), and ABSCISIC ACID INSENSITIVE3 (ABI3) play key roles in embryogenesis. Although the repression of embryogenesis-related genes during germination has been proposed to occur, the role of HDAC in this process has not been elucidated. To address this question, the effects of an HDAC inhibitor and suppression of the Arabidopsis HDAC genes on this process were investigated. Here, we show that treatment of an HDA6 repression line with the HDAC inhibitor trichostatin A resulted in growth arrest and elevated transcription of LEC1, FUS3, and ABI3 during germination. The growth-arrest phenotype of the repression line was suppressed by lec1, fus3, and abi3. An HDA6/HDA19 double-repression line displayed arrested growth after germination and the formation of embryo-like structures on the true leaves of 6-week-old plants even without trichostatin A. The growth-arrest phenotype of this line was rescued by lec1. These results suggest that during germination in Arabidopsis, HDA6 and HDA19 redundantly regulate the repression of embryonic properties directly or indirectly via repression of embryo-specific gene function.
+
+HDAC: !represses! embryogenesis-related genes
+LEC1: !interacts with! HDAC
+FUS3: !interacts with! HDAC
+ABI3: !interacts with! HDAC
+HDA6: !represses! LEC1, FUS3, ABI3
+HDA19: !represses! LEC1, FUS3, ABI3

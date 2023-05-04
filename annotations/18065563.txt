@@ -1,0 +1,7 @@
+Recent work suggests that the Stagonospora nodorum-wheat pathosystem is controlled by host-selective toxins (HSTs; SnToxA, SnTox1, and SnTox2) that interact directly or indirectly with dominant host genes (Tsn1, Snn1, and Snn2) to induce disease. Here we describe and characterize a novel HST designated SnTox3, and the corresponding wheat sensitivity/susceptibility gene identified on chromosome arm 5BS, which we designated as Snn3. SnTox3 is a proteinaceous necrosis-inducing toxin between 10 and 30 kD in size. The S. nodorum isolates Sn1501 (SnToxA-, SnTox2+, and SnTox3+), SN15 (SnToxA+, SnTox2+, and SnTox3+), and SN15KO18, a strain of SN15 with a disrupted form of SnToxA, were evaluated on a population of wheat recombinant inbred lines. A compatible Snn3-SnTox3 interaction played a significant role in the development of disease caused by isolates Sn1501 and SN15KO18, with Snn2 being epistatic to Snn3. Snn3 was not significantly associated with disease caused by SN15 presumably due to the major effects observed for Snn2 and Tsn1, which were largely additive. This work introduces a fourth HST produced by S. nodorum and builds on the notion that the S. nodorum-wheat pathosystem is largely based on multiple host-toxin interactions that follow an inverse gene-for-gene scenario.
+
+SnTox3: !interacts with! Snn3
+Sn1501: !induces disease in! wheat recombinant inbred lines
+Snn3: !epistatic to! Snn2
+Snn2: !additive to! Tsn1
+SnToxA: !major effects on! SN15

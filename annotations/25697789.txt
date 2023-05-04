@@ -1,0 +1,12 @@
+The use of high-throughput phenotyping systems and non-destructive imaging is widely regarded as a key technology allowing scientists and breeders to develop crops with the ability to perform well under diverse environmental conditions. However, many of these phenotyping studies have been optimized using the model plant Arabidopsis thaliana. In this study, The Plant Accelerator(®) at The University of Adelaide, Australia, was used to investigate the growth and phenotypic response of the important cereal crop, Sorghum bicolor L. Moench and related hybrids to water-limited conditions and different levels of fertilizer. Imaging in different spectral ranges was used to monitor plant composition, chlorophyll, and moisture content. Phenotypic image analysis accurately measured plant biomass. The data set obtained enabled the responses of the different sorghum varieties to the experimental treatments to be differentiated and modelled. Plant architectural instead of architecture elements were determined using imaging and found to correlate with an improved tolerance to stress, for example diurnal leaf curling and leaf area index. Analysis of colour images revealed that leaf 'greenness' correlated with foliar nitrogen and chlorophyll, while near infrared reflectance (NIR) analysis was a good predictor of water content and leaf thickness, and correlated with plant moisture content. It is shown that imaging sorghum using a high-throughput system can accurately identify and differentiate between growth and specific phenotypic traits. R scripts for robust, parsimonious models are provided to allow other users of phenomic imaging systems to extract useful data readily, and thus relieve a bottleneck in phenotypic screening of multiple genotypes of key crop plants.
+
+Sorghum: !responds to! water-limited conditions
+Sorghum: !responds to! different levels of fertilizer
+Imaging: !measures! plant composition
+Imaging: !measures! chlorophyll
+Imaging: !measures! moisture content
+Imaging: !measures! biomass
+Plant architecture: !correlates with! improved tolerance to stress
+Leaf 'greenness': !correlates with! foliar nitrogen and chlorophyll
+NIR analysis: !correlates with! water content and leaf thickness
+NIR analysis: !correlates with! plant moisture content

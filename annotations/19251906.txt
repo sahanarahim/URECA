@@ -1,0 +1,8 @@
+['19251906', 'Leaf senescence is a developmentally programmed cell death process that  constitutes the final step of leaf development, and it can be regulated by  multiple environmental cues and endogenous signals. The mitogen-activated protein  kinase (MAPK) cascades play diverse roles in intracellular and extracellular  signaling in plants. Roles of the MAPK signaling module in leaf senescence are  unknown. Here, a MAPK cascade involving MKK9-MPK6 is shown to play an important  role in regulating leaf senescence in Arabidopsis (Arabidopsis thaliana). Both  MKK9 and MPK6 possess kinase activities, with MPK6 an immediate target of MKK9,  as revealed by in vitro, in vivo, and in planta assays. The constitutive and  inducible overexpression of MKK9 causes premature senescence in leaves and in  whole Arabidopsis plants. The premature senescence phenotype is suppressed when  MKK9 is overexpressed in the mpk6 null background. When either MKK9 or MPK6 is  knocked out, leaf senescence is delayed.', '2009 May', 'Plant Physiol', '10.1104/pp.108.133439', 'Gan']
+
+MKK9: !regulates! MPK6 
+MPK6: !target of! MKK9 
+MKK9: !causes premature senescence in! leaves 
+MKK9: !suppressed by! mpk6 null background 
+MKK9: !knocked out causes delayed! leaf senescence 
+MPK6: !knocked out causes delayed! leaf senescence

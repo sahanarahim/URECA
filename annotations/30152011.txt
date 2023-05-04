@@ -1,0 +1,9 @@
+Phenomic datasets need to be accessible to the scientific community. Their reanalysis requires tracing relevant information on thousands of plants, sensors and events. The open-source Phenotyping Hybrid Information System (PHIS) is proposed for plant phenotyping experiments in various categories of installations (field, glasshouse). It unambiguously identifies all objects and traits in an experiment and establishes their relations via ontologies and semantics that apply to both field and controlled conditions. For instance, the genotype is declared for a plant or plot and is associated with all objects related to it. Events such as successive plant positions, anomalies and annotations are associated with objects so they can be easily retrieved. Its ontology-driven architecture is a powerful tool for integrating and managing data from multiple experiments and platforms, for creating relationships between objects and enriching datasets with knowledge and metadata. It interoperates with external resources via web services, thereby allowing data integration into other systems; for example, modelling platforms or external databases. It has the potential for rapid diffusion because of its ability to integrate, manage and visualize multi-source and multi-scale data, but also because it is based on 10 yr of trial and error in our groups.
+
+genotype: !declared for! plant/plot 
+objects: !associated with! genotype 
+events: !associated with! objects 
+ontology-driven architecture: !powerful tool for! data integration/management 
+PHIS: !interoperates with! external resources 
+PHIS: !allows data integration into! other systems 
+PHIS: !enables rapid diffusion of! multi-source/multi-scale data

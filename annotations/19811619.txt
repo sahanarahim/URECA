@@ -1,0 +1,8 @@
+High-density oligonucleotide arrays are widely used for analysis of gene expression on a genomic scale, but the generated data remain largely inaccessible for comparative analysis purposes. Similarity searches in databases with differentially expressed gene (DEG) lists may be used to assign potential functions to new genes and to identify potential chemical inhibitors/activators and genetic suppressors/enhancers. Although this is a very promising concept, it requires the compatibility and validity of the DEG lists to be significantly improved. Using Arabidopsis and human datasets, we have developed guidelines for the performance of similarity searches against databases that collect microarray data. We found that, in comparison with many other methods, a rank-product analysis achieves a higher degree of inter- and intra-laboratory consistency of DEG lists, and is advantageous for assessing similarities and differences between them. To support this concept, we developed a tool called MASTA (microarray overlap search tool and analysis), and re-analyzed over 600 Arabidopsis microarray expression datasets. This revealed that large-scale searches produce reliable intersections between DEG lists that prove to be useful for genetic analysis, thus aiding in the characterization of cellular and molecular mechanisms. We show that this approach can be used to discover unexpected connections and to illuminate unanticipated interactions between individual genes.
+
+Gene: !affects! Expression 
+Gene: !localizes to! Database 
+Gene: !interacts with! Chemical Inhibitors/Activators 
+Gene: !enhances! Rank-Product Analysis 
+Gene: !represses! Inter- and Intra-Laboratory Consistency 
+Gene: !synthesizes! MASTA Tool

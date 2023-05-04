@@ -1,0 +1,7 @@
+['20581305', 'In Arabidopsis thaliana, the three MADS box genes SEEDSTICK (STK), SHATTERPROOF1  (SHP1), and SHP2 redundantly regulate ovule development. Protein interaction  studies have shown that a multimeric complex composed of the ovule identity  proteins together with the SEPALLATA MADS domain proteins is necessary to  determine ovule identity. Despite the extensive knowledge that has become  available about these MADS domain transcription factors, little is known  regarding the genes that they regulate. Here, we show that STK, SHP1, and SHP2  redundantly regulate VERDANDI (VDD), a putative transcription factor that belongs  to the plant-specific B3 superfamily. The vdd mutant shows defects during the  fertilization process resulting in semisterility. Analysis of the vdd mutant  female gametophytes indicates that antipodal and synergid cell identity and/or  differentiation are affected. Our results provide insights into the pathways  regulated by the ovule identity factors and the role of the downstream target  gene VDD in female gametophyte development.', '2010 Jun', 'Plant Cell', '10.1105/tpc.109.068627', 'Colombo']
+
+STK: !regulates! SHP1 
+SHP1: !regulates! SHP2 
+STK/SHP1/SHP2: !regulate! VDD 
+VDD: !affects! fertilization process 
+VDD: !affects! antipodal/synergid cell identity/differentiation

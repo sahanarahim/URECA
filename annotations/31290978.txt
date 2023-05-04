@@ -1,0 +1,11 @@
+Potassium (K+) is a critical determinant of salinity tolerance, and H2O2 has been recognized as an important signaling molecule that mediates many physiological responses. However, the details of how H2O2 signaling regulates K+ uptake in the root under salt stress remain elusive. In this study, salt-sensitive cucumber and salt-tolerant pumpkin which belong to the same family, Cucurbitaceae, were used to answer the above question. We show that higher salt tolerance in pumpkin was related to its superior ability for K+ uptake and higher H2O2 accumulation in the root apex. Transcriptome analysis showed that salinity induced 5816 (3005 up- and 2811 down-) and 4679 (3965 up- and 714 down-) differentially expressed genes (DEGs) in cucumber and pumpkin, respectively. DEGs encoding NADPH oxidase (respiratory burst oxidase homolog D; RBOHD), 14-3-3 protein (GRF12), plasma membrane H+-ATPase (AHA1), and potassium transporter (HAK5) showed higher expression in pumpkin than in cucumber under salinity stress. Treatment with the NADPH oxidase inhibitor diphenylene iodonium resulted in lower RBOHD, GRF12, AHA1, and HAK5 expression, reduced plasma membrane H+-ATPase activity, and lower K+ uptake, leading to a loss of the salinity tolerance trait in pumpkin. The opposite results were obtained when the plants were pre-treated with exogenous H2O2. Knocking out of RBOHD in pumpkin by CRISPR/Cas9 [clustered regularly interspaced short palindromic repeat (CRISPR)/CRISPR-associated protein 9] editing of coding sequences resulted in lower root apex H2O2 and K+ content and GRF12, AHA1, and HAK5 expression, ultimately resulting in a salt-sensitive phenotype. However, ectopic expression of pumpkin RBOHD in Arabidopsis led to the opposite effect. Taken together, this study shows that RBOHD-dependent H2O2 signaling in the root apex is important for pumpkin salt tolerance and suggests a novel mechanism that confers this trait, namely RBOHD-mediated transcriptional and post-translational activation of plasma membrane H+-ATPase operating upstream of HAK5 K+ uptake transporters.
+
+K+: !regulated by! H2O2
+RBOHD: !enhances! K+ uptake
+GRF12: !upregulated by! RBOHD
+AHA1: !upregulated by! RBOHD
+HAK5: !upregulated by! RBOHD
+H+-ATPase: !activated by! RBOHD
+RBOHD: !represses! salt tolerance
+CRISPR/Cas9: !knocks out! RBOHD
+RBOHD: !activates! HAK5

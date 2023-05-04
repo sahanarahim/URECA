@@ -1,0 +1,11 @@
+Linking biochemistry and genetics of tolerance to osmotic stress is of interest for understanding plant adaptations to unfavorable conditions. The aims of this study were to investigate the variability in responses of panel of elite maize inbred lines to water withholding for stress-related traits through association study and to identify pathways linked to detected associations for better understanding of maize stress responses. Densely genotyped public and expired Plant Variety Protection Certificate (ex-PVP) inbred lines were planted in controlled conditions (16-h/8-h day/night, 25°C, 50% RH) in control (CO) and exposed to 10-day water withholding (WW). Traits analyzed were guaiacol peroxidase activity (GPOD), total protein content (PROT), lipid peroxidation (TBARS), hydrogen peroxide accumulation (H<sub>2</sub>O<sub>2</sub>), proline accumulation (proline), and current water content (CWC). Proline accumulation was found to be influenced by H<sub>2</sub>O<sub>2</sub> and TBARS signaling pathways acting as an accumulation-switching mechanism. Most of the associations detected were for proline (29.4%) and TBARS (44.1%). Gene ontology (GO) enrichment analysis showed significant enrichment in regulation of integral membrane parts and peroxisomes along with regulation of transcription and polysaccharide catabolism. Dynamic studies involving inbreds with extreme phenotypes are needed to elucidate the role of this signaling mechanism in regulation of response to water deficit.
+
+GPOD: !influences! Proline 
+H<sub>2</sub>O<sub>2</sub>: !influences! Proline 
+TBARS: !influences! Proline 
+Proline: !influenced by! H<sub>2</sub>O<sub>2</sub> 
+Proline: !influenced by! TBARS 
+GO: !enriches! Regulation of integral membrane parts 
+GO: !enriches! Peroxisomes 
+GO: !enriches! Regulation of transcription 
+GO: !enriches! Polysaccharide catabolism

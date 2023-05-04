@@ -1,0 +1,12 @@
+DELAY OF GERMINATION1 (DOG1) is a primary regulator of seed dormancy. Accumulation of DOG1 in seeds leads to deep dormancy and delayed germination in Arabidopsis. B3 domain-containing transcriptional repressors HSI2/VAL1 and HSL1/VAL2 silence seed dormancy and enable the subsequent germination and seedling growth. However, the roles of HSI2 and HSL1 in regulation of DOG1 expression and seed dormancy remain elusive. Seed dormancy was analysed by measurement of maximum germination percentage of freshly harvested Arabidopsis seeds. In vivo protein-protein interaction analysis, ChIP-qPCR and EMSA were performed and suggested that HSI2 and HSL1 can form dimers to directly regulate DOG1. HSI2 and HSL1 dimers interact with RY elements at DOG1 promoter. Both B3 and PHD-like domains are required for enrichment of HSI2 and HSL1 at the DOG1 promoter. HSI2 and HSL1 recruit components of polycomb-group proteins, including CURLY LEAF (CLF) and LIKE HETERCHROMATIN PROTEIN 1 (LHP1), for consequent deposition of H3K27me3 marks, leading to repression of DOG1 expression. Our findings suggest that HSI2- and HSL1-dependent histone methylation plays critical roles in regulation of seed dormancy during seed germination and early seedling growth.
+
+DOG1: !affects! Seed dormancy 
+HSI2/VAL1: !interacts with! DOG1 
+HSL1/VAL2: !interacts with! DOG1 
+HSI2/VAL1: !forms dimers with! HSL1/VAL2 
+HSI2/VAL1: !enriches at! DOG1 promoter 
+HSL1/VAL2: !enriches at! DOG1 promoter 
+HSI2/VAL1: !recruits! CLF and LHP1 
+HSL1/VAL2: !recruits! CLF and LHP1 
+CLF and LHP1: !deposit! H3K27me3 marks 
+H3K27me3 marks: !repress! DOG1 expression

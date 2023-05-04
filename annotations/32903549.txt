@@ -1,0 +1,10 @@
+The discovery of functional genes underlying agronomic traits is of great importance for wheat improvement. Here we designed a new wheat exome capture probe panel based on IWGSC RefSeq v1.0 genome sequence information and developed an effective algorithm, varBScore, that can sufficiently reduce the background noise in gene mapping and identification. An effective method, termed bulked segregant exome capture sequencing (BSE-Seq) for identifying causal mutations or candidate genes was established by combining the use of a newly designed wheat exome capture panel, sequencing of bulked segregant pools from segregating populations, and the robust algorithm varBScore. We evaluated the effectiveness of varBScore on SNP calling using the published dataset for mapping and cloning the yellow rust resistance gene <i>Yr7</i> in wheat. Furthermore, using BSE-Seq, we rapidly identified a wheat yellow leaf mutant gene, <i>ygl1</i>, in an ethyl methanesulfonate (EMS) mutant population and found that a single mutation of G to A at 921 position in the wild type <i>YGL1</i> gene encoding magnesium-chelatase subunit chlI caused the leaf yellowing phenotype. We further showed that mutation of <i>YGL1</i> through CRISPR/Cas9 gene editing led to a yellow phenotype on the leaves of transgenic wheat, indicating that <i>ygl1</i> is the correct causal gene responsible for the mutant phenotype. In summary, our approach is highly efficient for discovering causal mutations and gene cloning in wheat.
+
+IWGSC RefSeq v1.0: !used to design! wheat exome capture probe panel
+varBScore: !reduces! background noise in gene mapping and identification
+BSE-Seq: !combines! wheat exome capture panel, sequencing of bulked segregant pools, and varBScore
+Yr7: !mapped and cloned using! published dataset
+ygl1: !identified by! BSE-Seq in EMS mutant population
+YGL1: !mutated at! 921 position in wild type gene
+CRISPR/Cas9: !causes mutation of! YGL1
+YGL1: !responsible for! yellow phenotype on transgenic wheat leaves

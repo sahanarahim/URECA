@@ -1,0 +1,16 @@
+In higher plants, inflorescence architecture is an important agronomic trait directly determining seed yield. However, little information is available on the regulatory mechanism of inflorescence development in perennial woody plants. Based on two inflorescence branching mutants, we investigated the transcriptome differences in inflorescence buds between two mutants and wild-type (WT) plants by RNA-Seq to identify the genes and regulatory networks controlling inflorescence architecture in Jatropha curcas L., a perennial woody plant belonging to Euphorbiaceae. Two inflorescence branching mutants were identified in germplasm collection of Jatropha. The duo xiao hua (dxh) mutant has a seven-order branch inflorescence, and the gynoecy (g) mutant has a three-order branch inflorescence, while WT Jatropha has predominantly four-order branch inflorescence, occasionally the three- or five-order branch inflorescences in fields. Using weighted gene correlation network analysis (WGCNA), we identified several hub genes involved in the cytokinin metabolic pathway from modules highly associated with inflorescence phenotypes. Among them, Jatropha ADENOSINE KINASE 2 (JcADK2), ADENINE PHOSPHORIBOSYL TRANSFERASE 1 (JcAPT1), CYTOKININ OXIDASE 3 (JcCKX3), ISOPENTENYLTRANSFERASE 5 (JcIPT5), LONELY GUY 3 (JcLOG3) and JcLOG5 may participate in cytokinin metabolic pathway in Jatropha. Consistently, exogenous application of cytokinin (6-benzyladenine, 6-BA) on inflorescence buds induced high-branch inflorescence phenotype in both low-branch inflorescence mutant (g) and WT plants. These results suggested that cytokinin is an important regulator in controlling inflorescence branching in Jatropha. In addition, comparative transcriptome analysis showed that Arabidopsis homologous genes Jatropha AGAMOUS-LIKE 6 (JcAGL6), JcAGL24, FRUITFUL (JcFUL), LEAFY (JcLFY), SEPALLATAs (JcSEPs), TERMINAL FLOWER 1 (JcTFL1), and WUSCHEL-RELATED HOMEOBOX 3 (JcWOX3), were differentially expressed in inflorescence buds between dxh and g mutants and WT plants, indicating that they may participate in inflorescence development in Jatropha. The expression of JcTFL1 was downregulated, while the expression of JcLFY and JcAP1 were upregulated in inflorescences in low-branch g mutant. Cytokinin is an important regulator in controlling inflorescence branching in Jatropha. The regulation of inflorescence architecture by the genes involved in floral development, including TFL1, LFY and AP1, may be conservative in Jatropha and Arabidopsis. Our results provide helpful information for elucidating the regulatory mechanism of inflorescence architecture in Jatropha.
+
+JcADK2: !affects! Cytokinin metabolic pathway
+JcAPT1: !affects! Cytokinin metabolic pathway
+JcCKX3: !affects! Cytokinin metabolic pathway
+JcIPT5: !affects! Cytokinin metabolic pathway
+JcLOG3: !affects! Cytokinin metabolic pathway
+JcLOG5: !affects! Cytokinin metabolic pathway
+Cytokinin: !enhances! Inflorescence branching
+JcAGL6: !regulates! Inflorescence development
+JcAGL24: !regulates! Inflorescence development
+JcFUL: !regulates! Inflorescence development
+JcLFY: !regulates! Inflorescence development
+JcSEPs: !regulates! Inflorescence development
+JcTFL1: !regulates! Inflorescence development
+JcWOX3: !regulates! Inflorescence development

@@ -1,0 +1,10 @@
+['15821992', 'We report the identification by two hybrid screens of two novel similar proteins,  called Arabidopsis thaliana gamma carbonic anhydrase like1 and 2 (AtgammaCAL1 and  AtgammaCAL2), that interact specifically with putative Arabidopsis thaliana gamma  Carbonic Anhydrase (AtgammaCA) proteins in plant mitochondria. The interaction  region that was located in the N-terminal 150 amino acids of mature AtgammaCA and  AtgammaCA like proteins represents a new interaction domain. In vitro experiments  indicate that these proteins are imported into mitochondria and are associated  with mitochondrial complex I as AtgammaCAs. All plant species analyzed contain  both AtgammaCA and AtgammaCAL sequences indicating that these genes were  conserved throughout plant evolution. Structural modeling of AtgammaCAL sequences  show a deviation of functionally important active site residues with respect to  gammaCAs but could form active interfaces in the interaction with AtgammaCAs. We  postulate a CA complex tightly associated to plant mitochondrial complex.', '2004 Dec', 'Plant Mol Biol', '10.1007/s11103-004-6324-z', 'Zabaleta']
+
+AtgammaCA: !interacts with! AtgammaCAL1 
+AtgammaCA: !interacts with! AtgammaCAL2 
+AtgammaCA: !localizes to! mitochondria 
+AtgammaCA: !associated with! mitochondrial complex I 
+AtgammaCAL: !conserved throughout! plant evolution 
+AtgammaCAL: !deviates from! gammaCAs 
+AtgammaCAL: !forms active interfaces! with AtgammaCAs 
+AtgammaCAL: !postulates! CA complex

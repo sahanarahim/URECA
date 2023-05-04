@@ -1,0 +1,12 @@
+Gene expression during seed development in <i>Arabidopsis thaliana</i> is controlled by transcription factors including LEAFY COTYLEDON1 (LEC1) and LEC2, ABA INSENSITIVE3 (ABI3), FUSCA3 (FUS3), known as LAFL proteins, and AGAMOUS-LIKE15 (AGL15). The transition from seed maturation to germination and seedling growth requires the transcriptional silencing of these seed maturation-specific factors leading to downregulation of structural genes including those that encode seed storage proteins, oleosins, and dehydrins. During seed germination and vegetative growth, B3-domain protein HSI2/VAL1 is required for the transcriptional silencing of <i>LAFL</i> genes. Here, we report chromatin immunoprecipitation analysis indicating that HSI2/VAL1 binds to the upstream sequences of the <i>AGL15</i> gene but not at <i>LEC1</i>, <i>ABI3</i>, <i>FUS3</i>, or <i>LEC2</i> loci. Functional analysis indicates that the HSI2/VAL1 B3 domain interacts with two RY elements upstream of the <i>AGL15</i> coding region and at least one of them is required for HSI2/VAL1-dependent <i>AGL15</i> repression. Expression analysis of the major seed maturation regulatory genes <i>LEC1</i>, <i>ABI3</i>, <i>FUS3</i>, and <i>LEC2</i> in different genetic backgrounds demonstrates that HSI2/VAL1 is epistatic to <i>AGL15</i> and represses the seed maturation regulatory program through downregulation of <i>AGL15</i> by deposition of H3K27me3 at this locus. This hypothesis is further supported by results that show that HSI2/VAL1 physically interacts with the Polycomb Repressive Complex 2 component protein MSI1, which is also enriched at the <i>AGL15</i> locus.
+
+LEC1: !controls! seed development
+LEC2: !controls! seed development
+ABI3: !controls! seed development
+FUS3: !controls! seed development
+AGL15: !controlled by! HSI2/VAL1
+HSI2/VAL1: !binds to! AGL15
+HSI2/VAL1: !interacts with! RY elements
+HSI2/VAL1: !represses! seed maturation
+HSI2/VAL1: !epistatic to! AGL15
+HSI2/VAL1: !interacts with! MSI1

@@ -1,0 +1,11 @@
+['16666289', 'We have examined the activity of the thiamin phosphate pyrophosphorylase in  Arabidopsis thaliana wild type and in a mutant (th-1) which requires exogenous  thiamin for growth. Mutant and wild-type plants grown in 1 x 10(-7) molar thiamin  were used for the examination of the production of thiamin and thiamin  monophosphate (TMP) using 4-methyl-5-hydroxyethylthiazole phosphate and  2-methyl-4-amino-5-hydroxymethylpyrimidine pyrophosphate as substrates. While the  wild-type strain formed both thiamin and TMP, the th-1 mutant did not. When TMP  was added to the extracts, the th-1 mutant, as well as wild type, produced  thiamin. Accordingly, it was concluded that the th-1 mutant was defective in the  activity of TMP pyrophosphorylase. Some of the characteristics of the enzyme from  the wild-type plant were examined. The optimum temperature for the reaction is 45  degrees C, and the K(m) values for the substrates are 2.7 x 10(-6) molar for  4-methyl-5-hydroxyethylthiazole phosphate and 1.8 x 10(-6) molar for  2-methyl-4-amino-5-hydroxymethylpyrimidine pyrophosphate.', '1988 Oct', 'Plant Physiol', '10.1104/pp.88.2.248', 'Nishimune']
+
+th-1 mutant: !requires! exogenous thiamin
+wild type: !produces! thiamin
+wild type: !produces! TMP
+th-1 mutant: !does not produce! TMP
+TMP: !added to! extracts
+th-1 mutant: !produces! thiamin
+enzyme: !optimum temperature! 45 degrees C
+4-methyl-5-hydroxyethylthiazole phosphate: !Km value! 2.7 x 10(-6) molar
+2-methyl-4-amino-5-hydroxymethylpyrimidine pyrophosphate: !Km value! 1.8 x 10(-6) molar

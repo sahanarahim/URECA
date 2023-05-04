@@ -1,0 +1,8 @@
+['11163246', 'Postembryonic development of plants depends on the activity of apical meristems  established during embryogenesis. The shoot apical meristem (SAM) and the root  apical meristem (RAM) have similar but distinct cellular organization.  Arabidopsis FASCIATA1 (FAS1) and FAS2 genes maintain the cellular and functional  organization of both SAM and RAM, and FAS gene products are subunits of the  Arabidopsis counterpart of chromatin assembly factor-1 (CAF-1). fas mutants are  defective in maintenance of the expression states of WUSCHEL (WUS) in SAM and  SCARECROW (SCR) in RAM. We suggest that CAF-1 plays a critical role in the  organization of SAM and RAM during postembryonic development by facilitating  stable maintenance of gene expression states.', '2001 Jan 12', 'Cell', '10.1016/s0092-8674(01)00197-0', 'Araki']
+
+FAS1: !maintains! SAM/RAM 
+FAS2: !maintains! SAM/RAM 
+CAF-1: !facilitates! FAS gene products 
+WUS: !expressed by! FAS mutants 
+SCR: !expressed by! FAS mutants 
+CAF-1: !plays role in! SAM/RAM organization

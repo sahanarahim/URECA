@@ -1,0 +1,7 @@
+Shoots can be regenerated from roots in Arabidopsis by treating root explants with cytokinin, however, shoot regeneration requires preincubation on callus induction medium (CIM) prior to induction on cytokinin-rich shoot induction medium (SIM). A cytokinin-inducible marker gene, RESPONSE REGULATOR 15 (ARR15), was identified through a "CIM dropout experiment" with similar requirements for CIM preincubation. The requirements for ARR15 contrasted to ARR5, another cytokinin-inducible ARR gene that does not require CIM preincubation. We show here that despite their differences, both ARR5 and ARR15 are direct targets of the transcriptional B-type response regulator, ARR2. This was demonstrated by identifying genes upregulated following beta estradiol induced nuclear relocation of an ARR2-estradiol receptor fusion protein. The differences in CIM preincubation requirements for ARR5 and ARR15 expression indicate an additional layer of control for these A-type ARR genes during SIM incubation. For ARR15, the CIM requirement is a transcriptional effect, because the expression of ARR15 promoter:GUS reporter gene constructs is also affected by CIM preincubation. A testable model is that transcription of ARR15, but not ARR5, is blocked by a repressor and that the effects of the repressor are relieved by CIM preincubation.
+
+ARR15: !inducible by! cytokinin 
+ARR15: !requires! CIM preincubation 
+ARR2: !directly targets! ARR5 & ARR15 
+ARR15: !repressed by! repressor 
+CIM: !relieves! repressor

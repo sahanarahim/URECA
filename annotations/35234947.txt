@@ -1,0 +1,8 @@
+Despite the identification of temperature sensors and downstream components involved in promoting stem growth by warm temperatures, when and how previous temperatures affect current plant growth remain unclear. Here we show that hypocotyl growth in Arabidopsis thaliana during the night responds not only to the current temperature but also to preceding daytime temperatures, revealing a short-term memory of previous conditions. Daytime temperature affected the levels of PHYTOCHROME-INTERACTING FACTOR 4 (PIF4) and LONG HYPOCOTYL 5 (HY5) in the nucleus during the next night. These factors jointly accounted for the observed growth kinetics, whereas nighttime memory of prior daytime temperature was impaired in pif4 and hy5 mutants. PIF4 promoter activity largely accounted for the temperature-dependent changes in PIF4 protein levels. Notably, the decrease in PIF4 promoter activity triggered by cooling required a stronger temperature shift than the increase caused by warming, representing a typical hysteretic effect; this hysteretic pattern required EARLY-FLOWERING 3 (ELF3). Warm temperatures promoted the formation of nuclear condensates of ELF3 in hypocotyl cells during the afternoon but not in the morning. These nuclear speckles showed poor sensitivity to subsequent cooling. We conclude that ELF3 achieves hysteresis and drives the PIF4 promoter into the same behavior, enabling a short-term memory of daytime temperature conditions.
+
+PIF4: !interacts with! HY5 
+HY5: !enhances! hypocotyl growth 
+ELF3: !synthesizes! nuclear condensates 
+nuclear condensates: !represses! PIF4 promoter activity 
+PIF4 promoter activity: !affects! PIF4 protein levels 
+ELF3: !enhances! hysteretic effect

@@ -1,0 +1,10 @@
+['30962391', "A key characteristic of chloroplast gene expression is the predominance of  posttranscriptional control via numerous nucleus-encoded RNA binding factors.  Here, we explored the essential roles of the S1-domain-containing protein  photosynthetic electron transfer B (petB)/ petD Stabilizing Factor (BSF) in the  stabilization and translation of chloroplast mRNAs. BSF binds to the intergenic  region of petB-petD, thereby stabilizing 3' processed petB transcripts and  stimulating petD translation. BSF also binds to the 5' untranslated region of  petA and activates its translation. BSF displayed nucleic-acid-melting activity  in vitro, and its absence induces structural changes to target RNAs in vivo,  suggesting that BSF functions as an RNA chaperone to remodel RNA structure. BSF  physically interacts with the pentatricopeptide repeat protein Chloroplast RNA  Processing 1 (AtCRP1) and the ribosomal release factor-like protein Peptide chain  Release Factor 3 (PrfB3), whose established RNA ligands overlap with those of  BSF. In addition, PrfB3 stimulated the RNA binding ability of BSF in vitro. We  propose that BSF and PrfB3 cooperatively reduce the formation of secondary RNA  structures within target mRNAs and facilitate AtCRP1 binding. The translation  activation function of BSF for petD is conserved in Arabidopsis (Arabidopsis  thaliana) and maize (Zea mays), but that for petA operates specifically in  Arabidopsis. Our study sheds light on the mechanisms by which RNA binding  proteins cooperatively regulate mRNA stability and translation in chloroplasts.", '2019 Jun', 'Plant Cell', '10.1105/tpc.18.00946', 'ORCID:']
+
+BSF: !stabilizes! petB transcripts 
+BSF: !activates! petA translation 
+BSF: !remodels! RNA structure 
+AtCRP1: !binds to! BSF 
+PrfB3: !binds to! BSF 
+PrfB3: !stimulates! BSF's RNA binding ability 
+BSF/PrfB3: !reduce! secondary RNA structures 
+BSF/PrfB3: !facilitate! AtCRP1 binding

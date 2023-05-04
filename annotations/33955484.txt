@@ -1,0 +1,10 @@
+The plant shikimate pathway directs bulk carbon flow toward biosynthesis of aromatic amino acids (AAAs, i.e. tyrosine, phenylalanine, and tryptophan) and numerous aromatic phytochemicals. The microbial shikimate pathway is feedback inhibited by AAAs at the first enzyme, 3-deoxy-d-arabino-heptulosonate 7-phosphate synthase (DHS). However, AAAs generally do not inhibit DHS activities from plant extracts and how plants regulate the shikimate pathway remains elusive. Here, we characterized recombinant Arabidopsis thaliana DHSs (AthDHSs) and found that tyrosine and tryptophan inhibit AthDHS2, but not AthDHS1 or AthDHS3. Mixing AthDHS2 with AthDHS1 or 3 attenuated its inhibition. The AAA and phenylpropanoid pathway intermediates chorismate and caffeate, respectively, strongly inhibited all AthDHSs, while the arogenate intermediate counteracted the AthDHS1 or 3 inhibition by chorismate. AAAs inhibited DHS activity in young seedlings, where AthDHS2 is highly expressed, but not in mature leaves, where AthDHS1 is predominantly expressed. Arabidopsis dhs1 and dhs3 knockout mutants were hypersensitive to tyrosine and tryptophan, respectively, while dhs2 was resistant to tyrosine-mediated growth inhibition. dhs1 and dhs3 also had reduced anthocyanin accumulation under high light stress. These findings reveal the highly complex regulation of the entry reaction of the plant shikimate pathway and lay the foundation for efforts to control the production of AAAs and diverse aromatic natural products in plants.
+
+AthDHS2: !inhibited by! tyrosine and tryptophan
+AthDHS1/3: !attenuated inhibition of! AthDHS2
+chorismate/caffeate: !inhibit! all AthDHSs
+arogenate: !counteracts inhibition of! AthDHS1/3
+AAAs: !inhibit DHS activity in! young seedlings
+dhs1/3 knockout mutants: !hypersensitive to! tyrosine/tryptophan
+dhs2: !resistant to! tyrosine-mediated growth inhibition
+dhs1/3: !reduced anthocyanin accumulation under! high light stress

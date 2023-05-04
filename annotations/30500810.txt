@@ -1,0 +1,10 @@
+['30500810', 'Retinoblastoma (pRb) is a multifunctional regulator, which was likely present in  the last common ancestor of all eukaryotes. The Arabidopsis pRb homolog  RETINOBLASTOMA RELATED 1 (RBR1), similar to its animal counterparts, controls not  only cell proliferation but is also implicated in developmental decisions, stress  responses and maintenance of genome integrity. Although most functions of  pRb-type proteins involve chromatin association, a genome-wide understanding of  RBR1 binding sites in Arabidopsis is still missing. Here, we present a plant  chromatin immunoprecipitation protocol optimized for genome-wide studies of  indirectly DNA-bound proteins like RBR1. Our analysis revealed binding of  Arabidopsis RBR1 to approximately 1000 genes and roughly 500 transposable  elements, preferentially MITES. The RBR1-decorated genes broadly overlap with  previously identified targets of two major transcription factors controlling the  cell cycle, i.e. E2F and MYB3R3 and represent a robust inventory of RBR1-targets  in dividing cells. Consistently, enriched motifs in the RBR1-marked domains  include sequences related to the E2F consensus site and the MSA-core element  bound by MYB3R transcription factors. Following up a key role of RBR1 in DNA  damage response, we performed a meta-analysis combining the information about the  RBR1-binding sites with genome-wide expression studies under DNA stress. As a  result, we present the identification and mutant characterization of three novel  genes required for growth upon genotoxic stress.', '2018 Nov', 'PLoS Genet', '10.1371/journal.pgen.1007797', 'ORCID:']
+
+pRb: !controls! Cell proliferation 
+RBR1: !binds to! 1000 genes 
+RBR1: !binds to! 500 transposable elements 
+E2F: !overlaps with! RBR1-decorated genes 
+MYB3R3: !overlaps with! RBR1-decorated genes 
+RBR1: !marks! Domains 
+DNA damage response: !involves! RBR1 
+Meta-analysis: !identifies! 3 novel genes

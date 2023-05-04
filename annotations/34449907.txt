@@ -1,0 +1,7 @@
+MicroRNAs (miRNAs) are essential regulators of gene expression in metazoans and plants. In plants, most miRNAs are generated from primary miRNA transcripts (pri-miRNAs), which are processed by the Dicer-like 1 (DCL1) complex along with accessory proteins. Serrate-Associated Protein 1 (SEAP1), a conserved splicing-related protein, has been studied in human and yeast. However, the functions of SEAP1 in plants remain elusive. Lack of SEAP1 results in embryo lethality and knockdown of SEAP1 by an artificial miRNA (amiR<sup>SEAP1</sup> ) causes pleiotropic developmental defects and reduction in miRNA accumulation. SEAP1 associates with the DCL1 complex, and may promote the interaction of the DCL1 complexes with pri-miRNAs. SEAP1 also enhances pri-miRNA accumulation, but does not affect pri-miRNA transcription, suggesting it may indirectly or directly stabilize pri-miRNAs. In addition, SEAP1 affects the splicing of some pri-miRNAs and intron retention of messenger RNAs at global levels. Our findings uncover both conserved and novel functions of SEAP1 in plants. Besides the role as a splicing factor, SEPA1 may promote miRNA biogenesis by positively modulating pri-miRNA splicing, processing and/or stability.
+
+DCL1: !interacts with! SEAP1
+SEAP1: !promotes interaction of! DCL1 complex 
+SEAP1: !enhances! pri-miRNA accumulation
+SEAP1: !affects! pri-miRNA splicing
+SEAP1: !modulates! miRNA biogenesis

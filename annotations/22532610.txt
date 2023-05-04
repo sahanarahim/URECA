@@ -1,0 +1,8 @@
+['22532610', 'The Escherichia coli AlkB protein (EcAlkB) is a DNA repair enzyme which reverses  methylation damage such as 1-methyladenine (1-meA) and 3-methylcytosine (3-meC).  The mammalian AlkB homologues ALKBH2 and ALKBH3 display EcAlkB-like repair  activity in vitro, but their substrate specificities are different, and ALKBH2 is  the main DNA repair enzyme for 1-meA in vivo. The genome of the model plant  Arabidopsis thaliana encodes several AlkB homologues, including the yet  uncharacterized protein AT2G22260, which displays sequence similarity to both  ALKBH2 and ALKBH3. We have here characterized protein AT2G22260, by us denoted  ALKBH2, as both our functional studies and bioinformatics analysis suggest it to  be an orthologue of mammalian ALKBH2. The Arabidopsis ALKBH2 protein displayed in  vitro repair activities towards methyl and etheno adducts in DNA, and was able to  complement corresponding repair deficiencies of the E. coli alkB mutant.  Interestingly, alkbh2 knock-out plants were sensitive to the methylating agent  methylmethanesulphonate (MMS), and seedlings from these plants developed  abnormally when grown in the presence of MMS. The present study establishes  ALKBH2 as an important enzyme for protecting Arabidopsis against methylation  damage in DNA, and suggests its homologues in other plants to have a similar  function.', '2012 Aug', 'Nucleic Acids Res', '10.1093/nar/gks327', 'Falnes']
+
+EcAlkB: !repairs! methylation damage 
+ALKBH2: !repairs! 1-meA 
+AT2G22260: !similar to! ALKBH2 
+ALKBH2: !complements! E. coli alkB mutant 
+alkbh2 knock-out plants: !sensitive to! MMS 
+ALKBH2: !protects! Arabidopsis against methylation damage

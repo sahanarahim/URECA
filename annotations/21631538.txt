@@ -1,0 +1,8 @@
+We designed a simple dynamic and stochastic architectural model with six parameters to link the foraging performance of root systems to their developmental processes. Soil foraging was quantified by the volume enveloping the roots until a given uptake distance. Many simulated architectures were obtained by combining four different values for each parameter. The rate of soil colonization was mainly defined by individual root elongation rates and interbranch distances. Less intuitively, we showed that differentiation of elongation rates among the roots increased this colonization rate. Uptake efficiency--the ratio of the actual colonized volume to the volume of a unique cylinder with the same length and a radius corresponding to the uptake distance--declined with root system size. Nevertheless, large variations in efficiency existed among root systems for a given size, typically in a 4- to 10-fold range. Therefore, the 'efficiency gain' was defined as the deviation from the average trend in efficiency versus size. Between-root differentiation in elongation rates increased this gain. The level of hierarchy between mother and lateral roots, as well as the variation of elongation rates among lateral roots, was also shown to contribute to this optimization. Several parameter combinations could lead to similar efficiency gains.
+
+root elongation rate: !affects! soil colonization rate
+interbranch distance: !affects! soil colonization rate
+differentiation of elongation rates: !increases! soil colonization rate
+uptake efficiency: !declines with! root system size
+differentiation of elongation rates: !increases! efficiency gain
+level of hierarchy: !contributes to! optimization

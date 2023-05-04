@@ -1,0 +1,8 @@
+The symbiosis receptor kinase, SymRK, is required for root nodule development. A SymRK-interacting protein (SIP2) was found to form protein complex with SymRK in vitro and in planta. The interaction between SymRK and SIP2 is conserved in legumes. The SIP2 gene was expressed in all Lotus japonicus tissues examined. SIP2 represents a typical plant mitogen-activated protein kinase kinase (MAPKK) and exhibited autophosphorylation and transphosphorylation activities. Recombinant SIP2 protein could phosphorylate casein and the Arabidopsis thaliana MAP kinase MPK6. SymRK and SIP2 could not use one another as a substrate for phosphorylation. Instead, SymRK acted as an inhibitor of SIP2 kinase when MPK6 was used as a substrate, suggesting that SymRK may serve as a negative regulator of the SIP2 signaling pathway. Knockdown expression of SIP2 via RNA interference (RNAi) resulted in drastic reduction of nodules formed in transgenic hairy roots. A significant portion of SIP2 RNAi hairy roots failed to form a nodule. In these roots, the expression levels of SIP2 and three marker genes for infection thread and nodule primordium formation were downregulated drastically, while the expression of two other MAPKK genes were not altered. These observations demonstrate an essential role of SIP2 in the early symbiosis signaling and nodule organogenesis.
+
+SymRK: !interacts with! SIP2
+SIP2: !localizes to! Lotus japonicus tissues
+SIP2: !synthesizes! MAPKK
+SymRK: !inhibits! SIP2 kinase
+SIP2: !enhances! nodule formation
+SIP2 RNAi: !represses! marker genes

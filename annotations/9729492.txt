@@ -1,0 +1,7 @@
+['9729492', 'Mutations at the CLAVATA2 (CLV2) locus of Arabidopsis result in enlarged shoot  and flower meristems, as well as alterations in the development of the gynoecia,  flower pedicels, and stamens. The shoot and flower meristem phenotypes of clv2  mutants are similar to weak clv1 and clv3 mutants. We present genetic analysis  that CLV2 may function in the same pathway as CLV1 and CLV3 in the regulation of  meristem development, but function separately in the regulation of organ  development. We also present evidence that clv2 phenotypes are altered when the  mutants are grown under short-day light conditions. These alterations include  flower-to-shoot transformations, as well as a nearly complete suppression of the  flower phenotypes, indicating that the requirement for CLV2 changes in response  to different physiological conditions. The stm-1 mutation dominantly suppresses  clv2, and clv2 mutations suppress the strong stm-1 allele, but not the weak stm-2  allele.', '1998 Oct', 'Development', '10.1242/dev.125.19.3843', 'Clark']
+
+CLV2: !affects! Meristem development
+CLV2: !interacts with! CLV1 and CLV3
+CLV2: !responds to! Short-day light conditions
+CLV2: !suppressed by! STM-1 mutation
+STM-1: !dominantly suppresses! CLV2

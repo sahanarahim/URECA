@@ -1,0 +1,8 @@
+The hormone abscisic acid (ABA) regulates the stress signals crucial for plant tolerance to adverse environmental conditions. The circadian clock also uses environmental cues for appropriate timing of plant physiology and metabolism. Despite previous studies showing the connections between ABA and clock signalling pathways, the molecular nodes underlying these connections remained unknown. In a recent study, we have shown that the essential clock component TOC1 (Timing of CAB expression 1) regulates the diurnal expression of the ABA-related gene ABAR/CHLH/GUN5 by direct binding to its promoter. Treatment with ABA specifically induces TOC1 at midday and this induction controls both the phase of TOC1 binding and the expression of ABAR. TOC1 induction by ABA is abolished in ABAR RNAi plants revealing a new feedback loop that reciprocally links ABAR and TOC1 expression. This regulation is essential for ABA function as TOC1 and ABAR overexpressing and mutant plants display altered ABA-mediated tolerance to drought conditions. Notably, TOC1 is also implicated in ABA-mediated inhibition of seed germination but in an opposite direction to that observed for dehydration responses. These opposing functions open interesting questions about the spatial and temporal networks connecting ABA and clock signaling pathways.
+
+ABA: !regulates! stress signals
+ABA: !induces! TOC1
+TOC1: !binds to! ABAR promoter
+ABAR: !controls! TOC1 binding
+ABAR: !essential for! ABA function
+TOC1: !implicated in! ABA-mediated inhibition of seed germination

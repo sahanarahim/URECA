@@ -1,0 +1,9 @@
+Pentyl leafy volatiles (PLV) are C5 volatiles produced from polyunsaturated fatty acids by plant 13-lipoxygenases (13-LOX) in concert with other lipid metabolizing enzymes. Unlike related C6 volatiles (GLV, green leafy volatiles), little is known about the biosynthesis and physiological function of PLV in plants. Zea mays LOX6 (ZmLOX6) is an unusual plant LOX that lacks lipid oxygenation activity but acts as a hydroperoxide lyase hypothesized to be specifically involved in PLV synthesis. We overexpressed ZmLOX6 in Arabidopsis thaliana and established that it indeed produces PLVs. Overexpression of ZmLOX6 caused a mild chlorotic phenotype, and induced a similar phenotype in untransformed Col-0 plants grown in close proximity, suggesting that airborne signals, such as PLVs, are responsible for the phenotype. PLV production, dependency on the substrate from endogenous 13-LOX(s), and likely competition with endogenous 13-oxylipin pathway were consistent with the model that ZmLOX6 functions as a hydroperoxide lyase. The abundance of individual PLVs was differentially affected by ZmLOX6 overexpression, and the new profile indicated that ZmLOX6 had reaction products distinct from endogenous PLV-producing activities in the Arabidopsis host plants. ZmLOX6 overexpression also induced a new hormonal status, which is likely responsible for increased attraction and propagation of aphids, nonetheless improving host plant tolerance to aphid infestation.
+
+13-LOX: !produces! PLV 
+ZmLOX6: !produces! PLV 
+ZmLOX6: !induces! chlorotic phenotype 
+ZmLOX6: !competes with! endogenous 13-oxylipin pathway 
+ZmLOX6: !affects! abundance of individual PLVs 
+ZmLOX6: !induces! hormonal status 
+hormonal status: !improves! host plant tolerance to aphid infestation

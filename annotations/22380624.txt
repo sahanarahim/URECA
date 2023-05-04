@@ -1,0 +1,10 @@
+Phytochromes are a family of photoreceptor molecules, absorbing primarily in red and far-red, that are important in many aspects of plant development. These studies investigated the role of phytochromes in phototropism and gravitropism of seedlings of Arabidopsis thaliana. We used two transgenic lines, one which lacked phytochromes specifically in the roots (M0062/UASBVR) and the other lacked phytochromes in the shoots (CAB3::pBVR). These transgenic plants are deficient in the phytochrome chromophore in specific tissues due the expression of biliverdin IXa reductase (BVR), which binds to precursors of the chromophore. Experiments were performed in both light and dark conditions to determine whether roots directly perceive light signals or if the signal is perceived in the shoot and then transmitted to the root during tropistic curvature. Kinetics of tropisms and growth were assayed by standard methods or with a computer-based feedback system. We found that the perception of red light occurs directly in the root during phototropism in this organ and that signaling also may occur from root to shoot in gravitropism.
+
+phytochrome: !absorbs! red and far-red light 
+M0062/UASBVR: !lacks! phytochromes in roots 
+CAB3::pBVR: !lacks! phytochromes in shoots 
+BVR: !binds to! precursors of chromophore 
+root: !perceives! light signals 
+shoot: !transmits! signal to root 
+light: !induces! phototropism 
+dark: !induces! gravitropism

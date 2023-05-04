@@ -1,0 +1,9 @@
+Protein phosphorylation and dephosphorylation have been reported to play important roles in plant cold responses. In addition, phospho-regulatory feedback is a conserved mechanism for biological processes and stress responses in animals and plants. However, it is less well known that a regulatory feedback loop is formed by the protein kinase and the protein phosphatase in plant responses to cold stress. Here, we report that OPEN STOMATA 1 (OST1) and PROTEIN PHOSPHATASE 2C G GROUP 1 (PP2CG1) reciprocally regulate the activity during the cold stress response. The interaction of PP2CG1 and OST1 is inhibited by cold stress, which results in the release of OST1 at the cytoplasm and nucleus from suppression by PP2CG1. Interestingly, cold-activated OST1 phosphorylates PP2CG1 to suppress its phosphatase activity, thereby amplifying cold signaling in plants. Mutations of PP2CG1 and its homolog PP2CG2 enhance freezing tolerance, whereas overexpression of PP2CG1 decreases freezing tolerance. Moreover, PP2CG1 negatively regulates protein levels of C-REPEAT BINDING FACTORs (CBFs) under cold stress. Our results uncover a phosphor/dephosphor-regulatory feedback loop mediated by PP2CG1 phosphatase and OST1 protein kinase in plant cold responses.
+
+OST1: !interacts with! PP2CG1
+PP2CG1: !inhibited by! cold stress
+OST1: !phosphorylates! PP2CG1
+PP2CG1: !amplifies! cold signaling
+PP2CG1: !mutations enhance! freezing tolerance
+PP2CG1: !overexpression decreases! freezing tolerance
+PP2CG1: !negatively regulates! CBFs

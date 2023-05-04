@@ -1,0 +1,9 @@
+Evidence for declining populations of both wild and managed bees has raised concern about a potential global pollination crisis. Strategies to mitigate bee loss generally aim to enhance floral resources. However, we do not really know whether loss of preferred floral resources is the key driver of bee decline because accurate assessment of host plant preferences is difficult, particularly for species that have become rare. Here we examine whether population trends of wild bees in The Netherlands can be explained by trends in host plants, and how this relates to other factors such as climate change. We determined host plant preference of bee species using pollen loads on specimens in entomological collections that were collected before the onset of their decline, and used atlas data to quantify population trends of bee species and their host plants. We show that decline of preferred host plant species was one of two main factors associated with bee decline. Bee body size, the other main factor, was negatively related to population trend, which, because larger bee species have larger pollen requirements than smaller species, may also point toward food limitation as a key factor driving wild bee loss. Diet breadth and other potential factors such as length of flight period or climate change sensitivity were not important in explaining twentieth century bee population trends. These results highlight the species-specific nature of wild bee decline and indicate that mitigation strategies will only be effective if they target the specific host plants of declining species.
+
+bee: !prefers! host plant
+host plant: !affects! bee
+bee: !declines with! body size
+body size: !inversely related to! pollen requirements
+diet breadth: !unrelated to! bee decline
+flight period: !unrelated to! bee decline
+climate change: !unrelated to! bee decline

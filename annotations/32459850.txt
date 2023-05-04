@@ -1,0 +1,9 @@
+DNA sequencing was dominated by Sanger's chain termination method until the mid-2000s, when it was progressively supplanted by new sequencing technologies that can generate much larger quantities of data in a shorter time. At the forefront of these developments, long-read sequencing technologies (third-generation sequencing) can produce reads that are several kilobases in length. This greatly improves the accuracy of genome assemblies by spanning the highly repetitive segments that cause difficulty for second-generation short-read technologies. Third-generation sequencing is especially appealing for plant genomes, which can be extremely large with long stretches of highly repetitive DNA. Until recently, the low basecalling accuracy of third-generation technologies meant that accurate genome assembly required expensive, high-coverage sequencing followed by computational analysis to correct for errors. However, today's long-read technologies are more accurate and less expensive, making them the method of choice for the assembly of complex genomes. Oxford Nanopore Technologies (ONT), a third-generation platform for the sequencing of native DNA strands, is particularly suitable for the generation of high-quality assemblies of highly repetitive plant genomes. Here we discuss the benefits of ONT, especially for the plant science community, and describe the issues that remain to be addressed when using ONT for plant genome sequencing.
+
+DNA sequencing: !superseded by! new technologies 
+new technologies: !improve accuracy of! genome assemblies 
+third-generation sequencing: !appealing for! plant genomes 
+low basecalling accuracy: !required! expensive, high-coverage sequencing 
+long-read technologies: !more accurate and less expensive! 
+ONT: !suitable for! generation of high-quality assemblies 
+ONT: !beneficial for! plant science community

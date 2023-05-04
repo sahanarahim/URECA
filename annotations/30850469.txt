@@ -1,0 +1,13 @@
+Identification and functional characterization of hypoxia-responsive transcription factors is important for understanding plant responses to natural anaerobic environments and during storage and transport of fresh horticultural products. In this study, yeast one-hybrid library screening using the persimmon (<i>Diospyros kaki</i>) pyruvate decarboxylase (<i>DkPDC2</i>) promoter identified three ethylene response factor (ERF) genes (<i>DkERF23</i>/<i>DkERF24</i>/<i>DkERF25</i>) and four WRKY transcription factor genes (<i>DkWRKY/DdkWRKY5</i>/<i>DkWRKY6</i>/<i>DkWRKY7</i>) that were differentially expressed in response to high CO<sub>2</sub> (95%, with 4% N<sub>2</sub> and 1% oxygen) and high N<sub>2</sub> (99% N<sub>2</sub> and 1% oxygen). Yeast one-hybrid assays and electrophoretic mobility shift assays indicated that DkERF23, DkERF24, DkERF25, DkWRKY6, and DkWRKY7 could directly bind to the <i>DkPDC2</i> promoter. Dual-luciferase assays confirmed that these transcription factors were capable of transactivating the <i>DkPDC2</i> promoter. DkERF24 and DkWRKY1 in combination synergistically transactivated the <i>DkPDC2</i> promoter, and yeast two-hybrid and bimolecular fluorescence complementation assays confirmed protein-protein interaction between DkERF24 and DkWRKY1. Transient overexpression of <i>DkERF24</i> and <i>DkWRKY1</i> separately and in combination in persimmon fruit discs was effective in maintaining insolubilization of tannins, concomitantly with the accumulation of DkPDC2 transcripts. Studies with Arabidopsis (<i>Arabidopsis thaliana</i>) homologs <i>AtERF1</i> and <i>AtWRKY53</i> indicated that similar protein-protein interactions and synergistic regulatory effects also occur with the <i>DkPDC2</i> promoter. We propose that an ERF and WRKY transcription factor complex contributes to responses to hypoxia in both persimmon fruit and Arabidopsis, and the possibility that this is a general plant response requires further investigation.
+
+DkERF23: !binds to! DkPDC2 promoter
+DkERF24: !binds to! DkPDC2 promoter
+DkERF25: !binds to! DkPDC2 promoter
+DkWRKY: !binds to! DkPDC2 promoter
+DkWRKY5: !binds to! DkPDC2 promoter
+DkWRKY6: !binds to! DkPDC2 promoter
+DkWRKY7: !binds to! DkPDC2 promoter
+DkERF24: !interacts with! DkWRKY1
+AtERF1: !interacts with! AtWRKY53
+DkERF24: !synergistically transactivates! DkPDC2 promoter
+DkWRKY1: !synergistically transactivates! DkPDC2 promoter

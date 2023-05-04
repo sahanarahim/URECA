@@ -1,0 +1,9 @@
+Partial least squares regression (PLSR) modelling is a statistical technique for correlating datasets, and involves the fitting of a linear regression between two matrices. One application of PLSR enables leaf traits to be estimated from hyperspectral optical reflectance data, facilitating rapid, high-throughput, non-destructive plant phenotyping. This technique is of interest and importance in a wide range of contexts including crop breeding and ecosystem monitoring. The lack of a consensus in the literature on how to perform PLSR means that interpreting model results can be challenging, applying existing models to novel datasets can be impossible, and unknown or undisclosed assumptions can lead to incorrect or spurious predictions. We address this lack of consensus by proposing best practices for using PLSR to predict plant traits from leaf-level hyperspectral data, including a discussion of when PLSR is applicable, and recommendations for data collection. We provide a tutorial to demonstrate how to develop a PLSR model, in the form of an R script accompanying this manuscript. This practical guide will assist all those interpreting and using PLSR models to predict leaf traits from spectral data, and advocates for a unified approach to using PLSR for predicting traits from spectra in the plant sciences.
+
+PLSR: !correlates! datasets
+PLSR: !estimates! leaf traits
+PLSR: !facilitates! plant phenotyping
+PLSR: !interprets! model results
+PLSR: !applies! existing models
+PLSR: !recommends! data collection
+PLSR: !develops! PLSR model

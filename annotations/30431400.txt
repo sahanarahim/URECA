@@ -1,0 +1,9 @@
+Appressoria are important mediators of plant-microbe interactions. In the devastating rice blast pathogen <i>Magnaporthe oryzae</i>, appressorial morphogenesis from germ tube tips requires activated cAMP/PKA signaling and inactivated TOR signaling (TOR<sub>off</sub>). TOR<sub>off</sub> temporarily arrests G2 at a metabolic checkpoint during the single round of mitosis that occurs following germination. G2 arrest induces autophagy and appressorium formation concomitantly, allowing reprogression of the cell cycle to G1/G0 quiescence and a single appressorial nucleus. Inappropriate TOR activation abrogates G2 arrest and inhibits cAMP/PKA signaling downstream of cPKA. This results in multiple rounds of germ tube mitosis and the loss of autophagy and appressoria formation. How cAMP/PKA signaling connects to cell cycle progression and autophagy is not known. To address this, we interrogated TOR and cAMP/PKA pathways using signaling mutants, different surface properties, and specific cell cycle inhibitors and discovered a feed-forward subnetwork arising from TOR- and cAMP/PKA-signaling integration. This adenylate cyclase-cAMP-TOR-adenylate cyclase subnetwork reinforces cAMP/PKA-dependent appressorium formation under favorable environmental conditions. Under unfavorable conditions, the subnetwork collapses, resulting in reversible cell cycle-mediated germ tube growth regardless of external nutrient status. Collectively, this work provides new molecular insights on germ tube morphogenetic decision-making in response to static and dynamic environmental conditions.
+
+TOR: !inactivates! G2
+cAMP/PKA: !activates! G2
+TOR: !inhibits! cPKA
+cAMP/PKA: !induces! autophagy
+cAMP/PKA: !promotes! appressorial formation
+TOR: !regulates! cell cycle progression
+TOR: !integrates with! cAMP/PKA

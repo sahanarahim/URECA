@@ -1,0 +1,6 @@
+Epigenetic regulation of gene expression is important for plant adaptation to environmental changes. Previous results showed that Arabidopsis RPD3-like histone deacetylase HDA9 is known to function in repressing plant response to stress in Arabidopsis. However, how HDA9 targets to specific chromatin loci and controls gene expression networks involved in plant response to stress remains largely unclear. Here, we show that HDA9 represses stress tolerance response by interacting with and regulating the DNA binding and transcriptional activity of WRKY53, which functions as a high-hierarchy positive regulator of stress response. We found that WRKY53 is post-translationally modified by lysine acetylation at multiple sites, some of which are removed by HDA9, resulting in inhibition of WRKY53 transcription activity. Conversely, WRKY53 negatively regulates HDA9 histone deacetylase activity. Collectively, our results indicate that HDA9 and WRK53 are reciprocal negative regulators of each other's activities, illustrating how the functional interplay between a chromatin regulator and a transcription factor regulates stress tolerance in plants.
+
+HDA9: !represses! WRKY53
+WRKY53: !post-translationally modifies! HDA9
+HDA9: !removes! WRKY53 acetylation
+WRKY53: !negatively regulates! HDA9 activity

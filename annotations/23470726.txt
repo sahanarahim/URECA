@@ -1,0 +1,6 @@
+The mechanisms of circadian clock function in Arabidopsis rely on the complex relationships among core clock components. The current model of the Arabidopsis oscillator comprises a myriad of repressors but the mechanisms responsible for activation remain largely unknown. In our recent studies, we have demonstrated that the rhythms in H3 acetylation (H3ac) and H3K4 trimethylation (H3K4me3) are a key mechanism at the positive arm of the oscillator. H3K4me3 rhythmic accumulation is delayed compared to that of H3ac, which opens the possibility for separate roles for each mark. Indeed, the use of inhibitors that block H3K4me3 accumulation was concomitant with increased clock repressor binding, suggesting that H3K4me3 might control the timing from activation to repression. Plants mis-expressing the histone methyltransferase SET DOMAIN GROUP 2 (SDG2/ATXR3) displayed altered H3K4me3 accumulation, oscillator gene expression and clock repressor binding, suggesting that SDG2/ATXR3 is a key component contributing to proper circadian expression.
+
+H3ac: !affects! H3K4me3
+H3K4me3: !delays! Clock Repressor Binding
+SDG2/ATXR3: !controls! Oscillator Gene Expression
+SDG2/ATXR3: !contributes to! Proper Circadian Expression

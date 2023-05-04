@@ -1,0 +1,11 @@
+Tea seed is believed to be recalcitrant based on its sensitivity to chilling or drying stress. Reactive oxygen species (ROS) and alterations in cytosolic redox status have been implicated in intolerance to desiccation by recalcitrant seed, but there is little information available regarding how ROS are regulated in seeds susceptible to drying stress. We investigated changes in protein expression and activity in tea embryo in response to desiccation using physiological and proteomic methods. Results showed that desiccation treatment dramatically induced the accumulation of H(2)O(2) in tea embryos, accompanied by increased activities of antioxidant enzymes like ascorbate peroxidase (APX) and superoxide dismutase (SOD). Proteomic analyses also demonstrated that 23 proteins associated with defense response, metabolism and redox status were up-regulated following desiccation. Increase in antioxidants, ascorbic acid (AsA) and catalase (CAT) (H(2)O(2) scavengers) partially assuaged desiccation damage to tea seed, resulting in improved germination rates. Higher accumulation of H(2)O(2) aggravated desiccation damage to seeds leading to lower germination activity. We propose that desiccation causes an over-accumulation of ROS that are not efficiently scavenged by increased levels of antioxidant enzymes. High levels of ROS alter the redox status and are detrimental to seed viability. Reducing ROS to appropriate concentrations is an efficient way to reduce desiccation damage and improve germination rates of recalcitrant seeds.
+
+desiccation: !induces! H2O2
+H2O2: !increases! antioxidant enzymes
+antioxidant enzymes: !scavenge! H2O2
+desiccation: !upregulates! proteins
+proteins: !associated with! defense response, metabolism, redox status
+AsA/CAT: !scavenge! H2O2
+H2O2: !aggravates! desiccation damage
+ROS: !alter! redox status
+redox status: !detrimental to! seed viability

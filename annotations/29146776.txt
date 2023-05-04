@@ -1,0 +1,12 @@
+Photoreceptor-mediated light signaling plays a critical role in plant growth, development, and stress responses but its contribution to the spatial regulation of photoinhibition and photoprotection within the canopy remains unclear. Here, we show that low-red/far-red (<i>L</i>-<i>R</i>/<i>FR</i>) ratio light conditions significantly alleviate PSII and PSI photoinhibition in the shade leaves of tomato (<i>Solanum lycopersicum</i>) plants. This protection is accompanied by a phytochrome A-dependent induction of LONG HYPOCOTYL5 (HY5). HY5 binds to the promoter of <i>ABA INSENSITIVE</i>5 (<i>ABI5</i>), triggering <i>RESPIRATORY BURST OXIDASE HOMOLOG1</i> (<i>RBOH1</i>)-dependent H<sub>2</sub>O<sub>2</sub> production in the apoplast. Decreased levels of <i>HY5</i>, <i>ABI5</i>, and <i>RBOH1</i> transcripts increased cold-induced photoinhibition and abolished <i>L</i>-<i>R</i>/<i>FR</i>-induced alleviation of photoinhibition. <i>L</i>-<i>R</i>/<i>FR</i> illumination induced nonphotochemical quenching (NPQ) of chlorophyll <i>a</i> fluorescence and increased the activities of Foyer-Halliwell-Asada cycle enzymes and cyclic electron flux (CEF) around PSI. In contrast, decreased <i>HY5</i>, <i>ABI5</i>, and <i>RBOH1</i> transcript levels abolished the positive effect of <i>L</i>-<i>R</i>/<i>FR</i> on photoprotection. Loss of <i>PROTON GRADIENT REGULATION5</i>-dependent CEF led to increased photoinhibition and attenuated <i>L</i>-<i>R</i>/<i>FR</i>-dependent NPQ. These data demonstrate that HY5 is an important hub in the cross talk between light and cold response pathways, integrating ABA and reactive oxygen species signaling, leading to the attenuation of photoinhibition by enhanced induction of photoprotection in shade leaves.
+
+phytochrome A: !induces! HY5 
+HY5: !binds to! ABI5 
+ABI5: !triggers! RBOH1 
+RBOH1: !produces! H2O2 
+HY5: !decreases! cold-induced photoinhibition 
+L-R/FR: !induces! NPQ 
+L-R/FR: !increases! Foyer-Halliwell-Asada cycle enzymes 
+L-R/FR: !increases! cyclic electron flux 
+HY5: !integrates! ABA and ROS signaling 
+HY5: !leads to! attenuation of photoinhibition

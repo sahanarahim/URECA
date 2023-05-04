@@ -1,0 +1,6 @@
+Plant cell surface-localized receptor kinases such as FLS2, EFR, and CERK1 play a crucial role in detecting invading pathogenic bacteria. Upon stimulation by bacterium-derived ligands, FLS2 and EFR interact with BAK1, a receptor-like kinase, to activate immune responses. A number of Pseudomonas syringae effector proteins are known to block immune responses mediated by these receptors. Previous reports suggested that both FLS2 and BAK1 could be targeted by the P. syringae effector AvrPto to inhibit plant defenses. Here, we provide new evidence further supporting that FLS2 but not BAK1 is targeted by AvrPto in plants. The AvrPto-FLS2 interaction prevented the phosphorylation of BIK1, a downstream component of the FLS2 pathway.
+
+FLS2: !interacts with! BAK1
+EFR: !interacts with! BAK1
+AvrPto: !targets! FLS2
+AvrPto: !inhibits! BIK1

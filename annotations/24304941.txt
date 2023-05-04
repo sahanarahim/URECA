@@ -1,0 +1,8 @@
+Functional genomic research always needs to assemble different DNA fragments into a binary vector, so as to express genes with different tags from various promoters with different levels. The cloning systems available bear similar disadvantages, such as promoters/tags are fixed on a binary vector, which is generally with low cloning efficiency and limited for cloning sites if a novel promoter/tag is in need. Therefore, it is difficult both to assemble a gene and a promoter together and to modify the vectors in hand. Another disadvantage is that a long spacer from recombination sites, which may be detrimental to the protein function, exists between a gene and a tag. Multiple GATEWAY system only resolves former problem at the expense of very low efficiency and expensive for multiple LR reaction. To improve efficiency and flexibility for constructing expression vectors, we developed a platform, BioVector, by combining classical restriction enzyme/ligase strategy with modern Gateway DNA recombination system. This system included a series of vectors for gene cloning, promoter cloning, and binary vector construction to meet various needs for plant functional genomic study. This BioVector platform makes it easy to construct any vectors to express a target gene from a specific promoter with desired intensity, and it is also waiting to be freely modified by researchers themselves for ongoing demands. This idea can also be transferred to the different fields including animal or yeast study.
+
+Gene: !affects! Process
+Gene: !localizes to! Promoter
+Gene: !interacts with! Tag
+Gene: !enhances! Cloning Efficiency
+Gene: !represses! Spacer
+Gene: !synthesizes! Vector

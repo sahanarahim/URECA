@@ -1,0 +1,7 @@
+Ligand recognition by cell-surface receptors underlies development and immunity in both animals and plants. Modulating receptor signalling is critical for appropriate cellular responses but the mechanisms ensuring this are poorly understood. Here, we show that signalling by plant receptors for pathogen-associated molecular patterns (PAMPs) in immunity and CLAVATA3/EMBRYO SURROUNDING REGION-RELATED peptides (CLEp) in development uses a similar regulatory module. In the absence of ligand, signalling is dampened through association with specific type-2C protein phosphatases. Upon activation, PAMP and CLEp receptors phosphorylate divergent cytosolic kinases, which, in turn, phosphorylate the phosphatases, thereby promoting receptor signalling. Our work reveals a regulatory circuit shared between immune and developmental receptor signalling, which may have broader important implications for plant receptor kinase-mediated signalling in general.
+
+Receptor: !signals by! PAMP/CLEp
+Receptor: !associates with! Type-2C protein phosphatases
+PAMP/CLEp: !phosphorylates! Divergent cytosolic kinases
+Divergent cytosolic kinases: !phosphorylates! Phosphatases
+Phosphatases: !promotes! Receptor signalling

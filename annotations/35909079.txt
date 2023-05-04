@@ -1,0 +1,9 @@
+In a striking similarity to plant chloroplasts, the cyanobacterium Anabaena displays very low catalase activity, but expresses several peroxiredoxins (Prxs), including the typical 2-Cys-Prx (annotated as Alr4641), that detoxify H<sub>2</sub> O<sub>2</sub> . Due to the presence of multiple Prxs, the precise contribution of Alr4641 to the oxidative stress response of Anabaena is not well-defined. To unambiguously assess its in vivo function, the Alr4641 protein was knocked down using the CRISPRi approach in Anabaena PCC 7120. The knockdown strain (An-KD4641), which showed over 85% decrease in the content of Alr4641, was viable, but grew slower than the control strain (An-dCas9). An-KD4641 showed elevated levels of reactive oxygen species and the expression of several redox-responsive genes was analogous to that of An-dCas9 subjected to oxidative stress. The knockdown strain displayed reduced filament size, altered thylakoid ultrastructure, a marked drop in the ratio of phycocyanin to chlorophyll a and decreased photosynthetic parameters compared to An-dCas9. In comparison to the control strain, exposure to H<sub>2</sub> O<sub>2</sub> had a more severe effect on the photosynthetic parameters or survival of An-KD4641. Thus, in the absence of adequate catalase activity, 2-Cys-Prx appears to be the principal Prx responsible for maintaining redox homoeostasis in diverse photosynthetic systems ranging from chloroplasts to cyanobacteria.
+
+Alr4641: !detoxifies! H<sub>2</sub> O<sub>2</sub> 
+An-KD4641: !exhibits elevated! ROS 
+An-KD4641: !displays reduced! filament size 
+An-KD4641: !has altered! thylakoid ultrastructure 
+An-KD4641: !shows decreased! phycocyanin/chlorophyll a ratio 
+An-KD4641: !has decreased! photosynthetic parameters 
+An-KD4641: !is more sensitive to! H<sub>2</sub> O<sub>2</sub>

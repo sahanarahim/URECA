@@ -1,0 +1,8 @@
+['16956885', 'A growing body of evidence indicates that phytooxylipins play important roles in  plant defense responses. However, many enzymes involved in the biosynthesis of  these metabolites are still elusive. We have purified one of these enzymes, the  peroxygenase (PXG), from oat microsomes and lipid droplets. It is an integral  membrane protein requiring detergent for its solubilization. Proteinase K  digestion showed that PXG is probably deeply buried in lipid droplets or  microsomes with only about 2 kDa at the C-terminal region accessible to  proteolytic digestion. Sequencing of the N terminus of the purified protein  showed that PXG had no sequence similarity with either a peroxidase or a  cytochrome P450 but, rather, with caleosins, i.e. calcium-binding proteins. In  agreement with this finding, we demonstrated that recombinant thale cress and  rice caleosins, expressed in yeast, catalyze hydroperoxide-dependent  mono-oxygenation reactions that are characteristic of PXG. Calcium was also found  to be crucial for peroxygenase activity, whereas phosphorylation of the protein  had no impact on catalysis. Site-directed mutagenesis studies revealed that PXG  catalytic activity is dependent on two highly conserved histidines, the 9 GHz EPR  spectrum being consistent with a high spin pentacoordinated ferric heme.', '2006 Nov 3', 'J Biol Chem', '10.1074/jbc.M605395200', 'Blee']
+
+PXG: !requires! detergent 
+PXG: !has sequence similarity with! caleosins 
+caleosins: !catalyze! hydroperoxide-dependent mono-oxygenation reactions 
+PXG: !is dependent on! two highly conserved histidines 
+PXG: !requires! calcium 
+PXG: !is unaffected by! phosphorylation

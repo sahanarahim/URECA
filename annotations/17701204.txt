@@ -1,0 +1,10 @@
+Differential metabolomics based on a non-targeted FT-ICR/MS analysis demonstrated metabolite accumulation patterns reflecting light/dark conditions in Arabidopsis T87 cell culture. First, FT-ICR/MS data sets were converted into metabolome information using the Dr.DMASS software (http://kanaya.naist.jp/DrDMASS/). A quick search of a metabolite-species database, KNApSAcK (http://kanaya.naist.jp/KNApSAcK/), was implemented to assign metabolite candidates to each accurate MS data (<1 ppm) through the prediction of molecular formulas, and the candidate structures were further studied using MS/MS analyses. Specific metabolites representing the culture conditions included sugars, phenylpropanoid derivatives, flavonol aglycons, and a plastid nonmevalonate pathway intermediate. Transcriptomics data were obtained in parallel and analyzed using a transcriptome analysis tool, KaPPA-View (http://kpv.kazusa.or.jp/kappa-view/). The specific accumulation patterns of flavonol aglycons were in good agreement with the light/dark regulation of a cytochrome P450 gene, CYP75B, and the build-up of 2-C-methyl-D-erythritol 4-phosphate, a nonmevalonate pathway intermediate, in the light grown cells was also consistent with a gene expression profile. The differential metablomics scheme based on the FT-ICR/MS metabolomics can serve as an evaluation system of metabolic activities contributing to successful identification and proper manipulation of key enzymatic steps in metabolic engineering studies.
+
+FT-ICR/MS: !converts! metabolome information 
+Dr.DMASS: !converts! FT-ICR/MS data sets 
+KNApSAcK: !assigns! metabolite candidates 
+MS/MS: !studies! candidate structures 
+light/dark conditions: !affects! metabolite accumulation 
+CYP75B: !regulates! flavonol aglycons 
+nonmevalonate pathway: !builds up! 2-C-methyl-D-erythritol 4-phosphate 
+transcriptomics: !analyzed using! KaPPA-View

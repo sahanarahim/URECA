@@ -1,0 +1,11 @@
+Senescence is a tightly regulated developmental program coordinated by transcription factors. Identifying these transcription factors in crops will provide opportunities to tailor the senescence process to different environmental conditions and regulate the balance between yield and grain nutrient content. Here, we use ten time points of gene expression data along with gene network modeling to identify transcription factors regulating senescence in polyploid wheat (<i>Triticum aestivum</i>). We observe two main phases of transcriptional changes during senescence: early down-regulation of housekeeping functions and metabolic processes followed by up-regulation of transport and hormone-related genes. These two phases are largely conserved with Arabidopsis (<i>Arabidopsis thaliana</i>), although the individual genes underlying these changes are often not orthologous. We have identified transcription factor families associated with these early and later waves of differential expression. Using gene regulatory network modeling, we identified candidate transcription factors that may control senescence. Using independent, publicly available datasets, we found that the most highly ranked candidate genes in the network were enriched for senescence-related functions compared with all genes in the network. We validated the function of one of these candidate transcription factors in senescence using wheat chemically induced mutants. This study lays the groundwork to understand the transcription factors that regulate senescence in polyploid wheat and exemplifies the integration of time-series data with publicly available expression atlases and networks to identify candidate regulatory genes.
+
+Transcription factors: !regulate! Senescence
+Housekeeping functions: !down-regulated! Early phase
+Metabolic processes: !down-regulated! Early phase
+Transport genes: !up-regulated! Later phase
+Hormone-related genes: !up-regulated! Later phase
+Transcription factor families: !associated with! Early/later waves of differential expression
+Gene regulatory network modeling: !identifies! Candidate transcription factors
+Candidate genes: !enriched for! Senescence-related functions
+Chemically induced mutants: !validate! Function of candidate transcription factor

@@ -1,0 +1,8 @@
+Trichomes are specialized epidermal cells that act as barriers against biotic and abiotic stresses. Although the formation of trichomes on hairy organs is well studied, the molecular mechanisms of trichome inhibition on smooth organs are still largely unknown. Here, we demonstrate that the CINCINNATA (CIN)-like TEOSINTE BRANCHED1/CYCLOIDEA/PCF (TCP) transcription factors inhibit the formation of trichomes on cotyledons in Arabidopsis (Arabidopsis thaliana). The tcp2/3/4/5/10/13/17 septuple mutant produces cotyledons with ectopic trichomes on the adaxial sides. The expression patterns of TCP genes are developmentally regulated during cotyledon development. TCP proteins directly interact with GLABRA3 (GL3), a key component of the MYB transcription factor/basic helix-loop-helix domain protein/WD40-repeat proteins (MYB-bHLH-WD40, MBW) complex essential for trichome formation, to interfere with the transactivation activity of the MBW complex in cotyledons. TCPs also disrupt the MBW complex-R3 MYB negative feedback loop by directly promoting the expression of R3 MYB genes, which enhance the repression of the MBW complex. Our findings reveal a molecular framework in which TCPs suppress trichome formation on adaxial sides of cotyledons by repressing the activity of the MBW complex at the protein level and the transcripts of R3 MYB genes at the transcriptional level.
+
+TCP: !inhibits! trichome formation
+TCP: !interacts with! GL3
+TCP: !promotes! R3 MYB expression
+MBW: !forms! complex
+MBW: !represses! trichome formation
+R3 MYB: !enhances! repression of MBW

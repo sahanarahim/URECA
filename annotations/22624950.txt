@@ -1,0 +1,12 @@
+['22624950', "Camalexin (3-thiazol-2'-yl-indole) is the major phytoalexin found in Arabidopsis  thaliana. Several key intermediates and corresponding enzymes have been  identified in camalexin biosynthesis through mutant screening and biochemical  experiments. Camalexin is formed when indole-3-acetonitrile (IAN) is catalyzed by  the cytochrome P450 monooxygenase CYP71A13. Here, we demonstrate that the  Arabidopsis GH3.5 protein, a multifunctional acetyl-amido synthetase, is involved  in camalexin biosynthesis via conjugating indole-3-carboxylic acid (ICA) and  cysteine (Cys) and regulating camalexin biosynthesis genes. Camalexin levels were  increased in the activation-tagged mutant gh3.5-1D in both Col-0 and cyp71A13-2  mutant backgrounds after pathogen infection. The recombinant GH3.5 protein  catalyzed the conjugation of ICA and Cys to form a possible intermediate  indole-3-acyl-cysteinate (ICA(Cys)) in vitro. In support of the in vitro  reaction, feeding with ICA and Cys increased camalexin levels in Col-0 and  gh3.5-1D. Dihydrocamalexic acid (DHCA), the precursor of camalexin and the  substrate for PAD3, was accumulated in gh3.5-1D/pad3-1, suggesting that ICA(Cys)  could be an additional precursor of DHCA for camalexin biosynthesis. Furthermore,  expression of the major camalexin biosynthesis genes CYP79B2, CYP71A12, CYP71A13  and PAD3 was strongly induced in gh3.5-1D. Our study suggests that GH3.5 is  involved in camalexin biosynthesis through direct catalyzation of the formation  of ICA(Cys), and upregulation of the major biosynthetic pathway genes.", '2012 Jul', 'J Integr Plant Biol', '10.1111/j.1744-7909.2012.01131.x', 'He']
+
+GH3.5: !catalyzes! ICA(Cys) 
+GH3.5: !upregulates! CYP79B2 
+GH3.5: !upregulates! CYP71A12 
+GH3.5: !upregulates! CYP71A13 
+GH3.5: !upregulates! PAD3 
+CYP71A13: !catalyzes! Camalexin 
+IAN: !converted to! Camalexin 
+ICA: !conjugated with! Cys 
+DHCA: !precursor of! Camalexin 
+PAD3: !substrate for! DHCA

@@ -1,0 +1,10 @@
+The phytohormones abscisic acid (ABA) and gibberellic acid (GA) antagonistically control the shift between seed dormancy and its alleviation. DELAY OF GERMINATION1 (DOG1) is a critical regulator that determines the intensity of primary seed dormancy, but its underlying regulatory mechanism is unclear. In this study, we combined physiological, biochemical, and genetic approaches to reveal that a bHLH transcriptional factor WRKY36 progressively silenced DOG1 expression to break seed dormancy through ABI5-BINDING PROTEIN 2 (AFP2) as the negative regulator of ABA signal. AFP2 interacted with WRKY36, which recognizes the W-BOX in the DOG1 promoter to suppress its expression; Overexpressing WRKY36 broke primary seed dormancy, whereas wrky36 mutants showed strong primary seed dormancy. In addition, AFP2 recruited the transcriptional corepressor TOPLESS-RELATED PROTEIN2 (TPR2) to reduce histone acetylation at the DOG1 locus, ultimately mediating WRKY36-dependent inhibition of DOG1 expression to break primary seed dormancy. Our result proposes that the WRKY36-AFP2-TPR2 module progressively silences DOG1 expression epigenetically, thereby fine-tuning primary seed dormancy.
+
+ABA: !controls! seed dormancy
+DOG1: !determines intensity of! primary seed dormancy
+WRKY36: !silences! DOG1 expression
+AFP2: !interacts with! WRKY36
+WRKY36: !recognizes! W-BOX in DOG1 promoter
+AFP2: !recruits! TPR2
+TPR2: !reduces! histone acetylation at DOG1 locus
+WRKY36: !inhibits! DOG1 expression

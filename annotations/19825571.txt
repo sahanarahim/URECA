@@ -1,0 +1,13 @@
+The Arabidopsis sporophytic tapetum undergoes a programmed degeneration process to secrete lipid and other materials to support pollen development. However, the molecular mechanism regulating the degeneration process is unknown. To gain insight into this molecular mechanism, we first determined that the most critical period for tapetal secretion to support pollen development is from the vacuolate microspore stage to the early binucleate pollen stage. We then analyzed the expression of enzymes responsible for lipid biosynthesis and degradation with available in-silico data. The genes for these enzymes that are expressed in the stamen but not in the concurrent uninucleate microspore and binucleate pollen are of particular interest, as they presumably hold the clues to unique molecular processes in the sporophytic tissues compared to the gametophytic tissue. No gene for lipid biosynthesis but a single gene encoding a patatin-like protein likely for lipid mobilization was identified based on the selection criterion. A search for genes co-expressed with this gene identified additional genes encoding typical signal transduction components such as a leucine-rich repeat receptor kinase, an extra-large G-protein, other protein kinases, and transcription factors. In addition, proteases, cell wall degradation enzymes, and other proteins were also identified. These proteins thus may be components of a signaling network leading to degradation of a broad range of cellular components. Since a broad range of degradation activities is expected to occur only in the tapetal degeneration process at this stage in the stamen, it is further hypothesized that the signaling network acts in the tapetal degeneration process.
+
+Gene: !synthesizes! lipid biosynthesis enzymes 
+Gene: !localizes to! stamen 
+Gene: !represses! uninucleate microspore and binucleate pollen 
+Gene: !enhances! patatin-like protein 
+Gene: !interacts with! leucine-rich repeat receptor kinase 
+Gene: !affects! extra-large G-protein 
+Gene: !interacts with! other protein kinases 
+Gene: !affects! transcription factors 
+Gene: !synthesizes! proteases 
+Gene: !synthesizes! cell wall degradation enzymes 
+Gene: !synthesizes! other proteins

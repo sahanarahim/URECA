@@ -1,0 +1,8 @@
+Agrobacterium tumefaciens infects plant cells by the transfer of DNA. A key factor in this process is the bacterial virulence protein VirE2, which associates stoichiometrically with the transported single-stranded (ss) DNA molecule (T-strand). As observed in vitro by transmission electron microscopy, VirE2-ssDNA readily forms an extended helical complex with a structure well suited to the tasks of DNA protection and nuclear import. Here we have elucidated the role of the specific molecular chaperone VirE1 in regulating VireE2-VirE2 and VirE2-ssDNA interactions. VirE2 alone formed functional filamentous aggregates capable of ssDNA binding. In contrast, co-expression with VirE1 yielded monodisperse VirE1-VirE2 complexes. Cooperative binding of VirE2 to ssDNA released VirE1, resulting in a controlled formation mechanism for the helical complex that is further promoted by macromolecular crowding. Based on this in vitro evidence, we suggest that the constrained volume of the VirB channel provides a natural site for the exchange of VirE2 binding from VirE1 to the T-strand.
+
+VirE2: !associates with! ssDNA
+VirE1: !regulates! VirE2-VirE2 interactions
+VirE1: !regulates! VirE2-ssDNA interactions
+VirE2: !binds to! ssDNA
+VirE1: !releases! VirE2
+VirB channel: !provides site for! VirE2 binding exchange

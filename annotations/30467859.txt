@@ -1,0 +1,10 @@
+Research has begun to elucidate the signal transduction pathway(s) that control cellular responses to changes in mitochondrial status. Important tools in such studies are chemical inhibitors used to initiate mitochondrial dysfunction. This study compares the effect of different inhibitors and treatment conditions on the transcript amount of nuclear genes specifically responsive to mitochondrial dysfunction in leaf of Nicotiana tabacum L. cv. Petit Havana. The Complex III inhibitors antimycin A (AA) and myxothiazol (MYXO), and the Complex V inhibitor oligomycin (OLIGO), each increased the transcript amount of the mitochondrial dysfunction genes. Transcript responses to OLIGO were greater during treatment in the dark than in the light, and the dark treatment resulted in cell death. In the dark, transcript responses to AA and MYXO were similar to one another, despite MYXO leading to cell death. In the light, transcript responses to AA and MYXO diverged, despite cell viability remaining high with either inhibitor. This divergent response may be due to differential signaling from the chloroplast because only AA also inhibited cyclic electron transport, resulting in a strong acceptor-side limitation in photosystem I. In the light, chemical inhibition of chloroplast electron transport reduced transcript responses to AA, while having no effect on the response to MYXO, and increasing the response to OLIGO. Hence, when studying mitochondrial dysfunction signaling, different inhibitor and treatment combinations differentially affect linked processes (e.g. chloroplast function and cell fate) that then contribute to measured responses. Therefore, inhibitor and treatment conditions should be chosen to align with specific study goals.
+
+Gene: !affects! Transcript amount
+Inhibitor: !increases! Transcript amount of mitochondrial dysfunction genes
+AA: !inhibits! Cyclic electron transport
+MYXO: !leads to! Cell death
+OLIGO: !greater during! Treatment in the dark
+Dark treatment: !results in! Cell death
+Light treatment: !divergent response to! AA and MYXO
+Chloroplast electron transport: !reduces! Transcript responses to AA

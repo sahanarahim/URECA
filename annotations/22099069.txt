@@ -1,0 +1,12 @@
+Iron-sulfur [Fe-S] clusters are prosthetic groups required to sustain fundamental life processes including electron transfer, metabolic reactions, sensing, signaling, gene regulation and stabilization of protein structures. In plants, the biogenesis of Fe-S protein is compartmentalized and adapted to specific needs of the cell. Many environmental factors affect plant development and limit productivity and geographical distribution. The impact of these limiting factors is particularly relevant for major crops, such as soybean, which has worldwide economic importance. Here we analyze the transcriptional profile of the soybean cysteine desulfurases NFS1, NFS2 and ISD11 genes, involved in the biogenesis of [Fe-S] clusters, by quantitative RT-PCR. NFS1, ISD11 and NFS2 encoding two mitochondrial and one plastid located proteins, respectively, are duplicated and showed distinct transcript levels considering tissue and stress response. NFS1 and ISD11 are highly expressed in roots, whereas NFS2 showed no differential expression in tissues. Cold-treated plants showed a decrease in NFS2 and ISD11 transcript levels in roots, and an increased expression of NFS1 and ISD11 genes in leaves. Plants treated with salicylic acid exhibited increased NFS1 transcript levels in roots but lower levels in leaves. In silico analysis of promoter regions indicated the presence of different cis-elements in cysteine desulfurase genes, in good agreement with differential expression of each locus. Our data also showed that increasing of transcript levels of mitochondrial genes, NFS1/ISD11, are associated with higher activities of aldehyde oxidase and xanthine dehydrogenase, two cytosolic Fe-S proteins. Our results suggest a relationship between gene expression pattern, biochemical effects, and transcription factor binding sites in promoter regions of cysteine desulfurase genes. Moreover, data show proportionality between NFS1 and ISD11 genes expression.
+
+NFS1: !enhances! aldehyde oxidase activity
+NFS1: !enhances! xanthine dehydrogenase activity
+ISD11: !enhances! aldehyde oxidase activity
+ISD11: !enhances! xanthine dehydrogenase activity
+NFS2: !represses! cold-stress response
+NFS2: !represses! salicylic acid response
+NFS1: !localizes to! mitochondria
+ISD11: !localizes to! mitochondria
+NFS2: !localizes to! plastids
+NFS1: !proportionally related to! ISD11 expression

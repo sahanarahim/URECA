@@ -1,0 +1,7 @@
+RBOHF from Arabidopsis thaliana represents a multifunctional NADPH oxidase regulating biotic and abiotic stress tolerance, developmental processes and guard cell aperture. The molecular components and mechanisms determining RBOHF activity remain to be elucidated. Here we combined protein interaction studies, biochemical and genetic approaches, and pathway reconstitution analyses to identify and characterize proteins that confer RBOHF regulation and elucidated mechanisms that adjust RBOHF activity. While the Ca<sup>2+</sup> sensor-activated kinases CIPK11 and CIPK26 constitute alternative paths for RBOHF activation, the combined activity of CIPKs and the kinase open stomata 1 (OST1) triggers complementary activation of this NADPH oxidase, which is efficiently counteracted through dephosphorylation by the phosphatase ABI1. Within RBOHF, several distinct phosphorylation sites (p-sites) in the N-terminus of RBOHF appear to contribute individually to activity regulation. These findings identify RBOHF as a convergence point targeted by a complex regulatory network of kinases and phosphatases. We propose that this allows for fine-tuning of plant reactive oxygen species (ROS) production by RBOHF in response to different stimuli and in diverse physiological processes.
+
+CIPK11: !activates! RBOHF
+CIPK26: !activates! RBOHF
+OST1: !activates! RBOHF
+ABI1: !dephosphorylates! RBOHF
+RBOHF: !synthesizes! ROS

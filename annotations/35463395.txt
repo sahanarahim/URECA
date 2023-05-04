@@ -1,0 +1,8 @@
+In response to colonization by rhizobia bacteria, legumes are able to form nitrogen-fixing nodules in their roots, allowing the plants to grow efficiently in nitrogen-depleted environments. Legumes utilize a complex, long-distance signaling pathway to regulate nodulation that involves signals in both roots and shoots. We measured the transcriptional response to treatment with rhizobia in both the shoots and roots of <i>Medicago truncatula</i> over a 72-h time course. To detect temporal shifts in gene expression, we developed GeneShift, a novel computational statistics and machine learning workflow that addresses the time series replicate the averaging issue for detecting gene expression pattern shifts under different conditions. We identified both known and novel genes that are regulated dynamically in both tissues during early nodulation including leginsulin, defensins, root transporters, nodulin-related, and circadian clock genes. We validated over 70% of the expression patterns that GeneShift discovered using an independent <i>M. truncatula</i> RNA-Seq study. GeneShift facilitated the discovery of condition-specific temporally differentially expressed genes in the symbiotic nodulation biological system. In principle, GeneShift should work for time-series gene expression profiling studies from other systems.
+
+leginsulin: !regulates! nodulation 
+defensins: !regulates! nodulation 
+root transporters: !regulates! nodulation 
+nodulin-related: !regulates! nodulation 
+circadian clock genes: !regulates! nodulation 
+GeneShift: !discovers! expression patterns

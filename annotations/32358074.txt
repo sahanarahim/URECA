@@ -1,0 +1,14 @@
+Strigolactones (SLs) and karrikins (KARs) are related butenolide signaling molecules that control plant development. In Arabidopsis (<i>Arabidopsis thaliana</i>), they are recognized separately by two closely related receptors but use the same F-box protein MORE AXILLARY GROWTH2 (MAX2) for signal transduction, targeting different members of the SMAX1-LIKE (SMXL) family of transcriptional repressors for degradation. Both signals inhibit hypocotyl elongation in seedlings, raising the question of whether signaling is convergent or parallel. Here, we show that synthetic SL analog GR24<sup>4DO</sup> enhanced the interaction between the SL receptor DWARF14 (D14) and SMXL2, while the KAR surrogate GR24 <sup><i>ent</i>-5DS</sup> induced association of the KAR receptor KARRIKIN INSENSITIVE2 (KAI2) with SMAX1 and SMXL2. Both signals trigger polyubiquitination and degradation of SMXL2, with GR24<sup>4DO</sup> dependent on D14 and GR24 <sup><i>ent</i>-5DS</sup> dependent mainly on KAI2. SMXL2 is critical for hypocotyl responses to GR24<sup>4DO</sup> and functions redundantly with SMAX1 in hypocotyl response to GR24 <sup><i>ent</i>-5DS</sup> Furthermore, GR24<sup>4DO</sup> induced response of <i>D14-LIKE2</i> and <i>KAR-UP F-BOX1</i> through SMXL2, whereas GR24 <sup><i>ent</i>-5DS</sup> induced expression of these genes via both SMAX1 and SMXL2. These findings demonstrate that both SLs and KARs could trigger polyubiquitination and degradation of SMXL2, thus uncovering an unexpected but important convergent pathway in SL- and KAR-regulated gene expression and hypocotyl elongation.
+
+SLs: !recognized by! D14 
+KARs: !recognized by! KAI2 
+D14: !interacts with! SMXL2 
+KAI2: !interacts with! SMAX1 
+SMXL2: !degraded by! SLs 
+SMXL2: !degraded by! KARs 
+GR24<sup>4DO</sup>: !enhances! D14-SMXL2 interaction 
+GR24 <sup><i>ent</i>-5DS</sup>: !induces! KAI2-SMAX1 association 
+SMXL2: !critical for! GR24<sup>4DO</sup> response 
+SMXL2: !redundant with! SMAX1 for GR24 <sup><i>ent</i>-5DS</sup> response 
+GR24<sup>4DO</sup>: !induces! D14-LIKE2 & KAR-UP F-BOX1 expression 
+GR24 <sup><i>ent</i>-5DS</sup>: !induces! D14-LIKE2 & KAR-UP F

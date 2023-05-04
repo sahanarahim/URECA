@@ -1,0 +1,9 @@
+DNA methylation directed by 24-nucleotide small RNAs involves the small RNA-binding protein ARGONAUTE4 (AGO4), and it was previously shown that AGO4 localizes to nucleolus-adjacent Cajal bodies, sites of snRNP complex maturation. Here we demonstrate that AGO4 also localizes to a second class of nuclear bodies, called AB-bodies, which are found immediately adjacent to condensed 45S ribosomal DNA (rDNA) sequences. AB-bodies also contain other proteins involved in RNA-directed DNA methylation including NRPD1b (a subunit of the RNA Polymerase IV complex, RNA PolIV), NRPD2 (a second subunit of this complex), and the DNA methyltransferase DRM2. These two classes of AGO4 bodies are structurally independent--disruption of one class does not affect the other--suggesting a dynamic regulation of AGO4 within two distinct nuclear compartments in Arabidopsis. Abolishing Cajal body formation in a coilin mutant reduced overall AGO4 protein levels, and coilin dicer-like3 double mutants showed a small decrease in DNA methylation beyond that seen in dicer-like3 single mutants, suggesting that Cajal bodies are required for a fully functioning DNA methylation system in Arabidopsis.
+
+AGO4: !localizes to! Cajal bodies 
+AGO4: !localizes to! AB-bodies 
+AB-bodies: !contain! NRPD1b 
+AB-bodies: !contain! NRPD2 
+AB-bodies: !contain! DRM2 
+coilin: !affects! AGO4 protein levels 
+coilin: !affects! DNA methylation

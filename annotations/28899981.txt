@@ -1,0 +1,8 @@
+Ribosome-related mutants in <i>Arabidopsis thaliana</i> share several notable characteristics regarding growth and development, which implies the existence of a common pathway that responds to disorders in ribosome biogenesis. As a first step to explore this pathway genetically, we screened a mutagenized population of <i>root initiation defective2</i> (<i>rid2</i>), a temperature-sensitive mutant that is impaired in pre-rRNA processing, and isolated <i>suppressor of root initiation defective two1</i> (<i>sriw1</i>), a suppressor mutant in which the defects of cell proliferation observed in <i>rid2</i> at the restrictive temperature was markedly rescued. <i>sriw1</i> was identified as a missense mutation of the NAC transcription factor gene <i>ANAC082</i> The <i>sriw1</i> mutation greatly alleviated the developmental abnormalities of <i>rid2</i> and four other tested ribosome-related mutants, including <i>rid3</i> However, the impaired pre-rRNA processing in <i>rid2</i> and <i>rid3</i> was not relieved by <i>sriw1</i> Expression of <i>ANAC082</i> was localized to regions where phenotypic effects of ribosome-related mutations are readily evident and was elevated in <i>rid2</i> and <i>rid3</i> compared with the wild type. These findings suggest that ANAC082 acts downstream of perturbation of biogenesis of the ribosome and may mediate a set of stress responses leading to developmental alterations and cell proliferation defects.
+
+rid2: !shares! common pathway
+sriw1: !suppresses! rid2
+ANAC082: !mutated in! sriw1
+ANAC082: !localizes to! regions of ribosome-related mutations
+ANAC082: !elevates in! rid2 and rid3
+ANAC082: !mediates! stress responses

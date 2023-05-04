@@ -1,0 +1,8 @@
+Nitrogen is critical for plant growth and development. With the increase of nitrogen fertilizer application, nitrogen use efficiency decreases, resulting in wasted resources. In apple (Malus domestica) rootstocks, the potential molecular mechanism for improving nitrogen uptake efficiency to alleviate low-nitrogen stress remains unclear. We utilized multi-omics approaches to investigate the mechanism of nitrogen uptake in two apple rootstocks with different responses to nitrogen stress, Malus hupehensis and Malus sieversii. Under low-nitrogen stress, Malus sieversii showed higher efficiency in nitrogen uptake. Multi-omics analysis revealed substantial differences in the expression of genes involved in flavonoid and lignin synthesis pathways between the two materials, which were related to the corresponding metabolites. We discovered that basic helix-loop-helix 130 (bHLH130) transcription factor was highly negatively associated with the flavonoid biosynthetic pathway. bHLH130 may directly bind to the chalcone synthase gene (CHS) promoter and inhibit its expression. Overexpressing CHS increased flavonoid accumulation and nitrogen uptake. Inhibiting bHLH130 increased flavonoid biosynthesis while decreasing lignin accumulation, thus improving nitrogen uptake efficiency. These findings revealed the molecular mechanism by which bHLH130 regulates flavonoid and lignin biosyntheses in apple rootstocks under low-nitrogen stress.
+
+bHLH130: !inhibits! CHS 
+CHS: !promotes! flavonoid biosynthesis 
+bHLH130: !represses! flavonoid biosynthesis 
+bHLH130: !enhances! lignin accumulation 
+flavonoid biosynthesis: !improves! nitrogen uptake efficiency 
+lignin accumulation: !decreases! nitrogen uptake efficiency

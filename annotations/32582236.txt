@@ -1,0 +1,8 @@
+Liquid chromatography coupled with high-resolution mass spectrometry (LC-HRMS) represents the most powerful metabolomics platform to investigate biological systems. Reproducible and standardized workflows allow obtaining a meaningful biological interpretation. The purpose of this study was to set up and apply an open-source workflow for LC-HRMS plant metabolomics studies. Key steps of the proposed workflow were as follows: (1) experimental design, (2) sample preparation, (3) LC-HRMS analysis, (4) data processing, (5) custom database search, (6) statistical analysis, (7) compound identification, and (8) biochemical interpretation. Its applicability was evaluated through the study of metabolomics changes of two maize recombinant inbred lines with contrasting phenotypes with respect to disease severity after <i>Fusarium verticillioides</i> infection of seedlings. Analysis of data from the case-control study revealed abundance change in metabolites belonging to different metabolic pathways, including two amino acids (L-tryptophan and tyrosine), five flavonoids, and three <i>N</i>-hydroxynnamic acid amides.
+
+Gene: !affects! Metabolites 
+Metabolites: !change in abundance! Disease severity 
+Gene: !synthesizes! Amino acids 
+Amino acids: !belong to! Metabolic pathways 
+Metabolic pathways: !include! Flavonoids 
+Flavonoids: !and! N-hydroxynnamic acid amides

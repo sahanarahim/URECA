@@ -1,0 +1,12 @@
+During maize somatic embryogenesis, suppression of phytoglobins (Pgbs) reduced ABA levels leading to ethylene-induced programmed cell death in the developing embryos. These effects modulate embryonic yield depending on the cellular localization of specific phytoglobin gene expression. Suppression of Zea mays phytoglobins (ZmPgb1.1 or ZmPgb1.2) during somatic embryogenesis induces programmed cell death (PCD) by elevating nitric oxide (NO). While ZmPgb1.1 is expressed in many embryonic domains and its suppression results in embryo abortion, ZmPgb1.2 is expressed in the basal cells anchoring the embryos to the embryogenic tissue. Down-regulation of ZmPgb1.2 is required to induce PCD in these anchor cells allowing the embryos to develop further. Exogenous applications of ABA could reverse the effects caused by the suppression of either of the two ZmPgbs. A depletion of ABA, ascribed to a down-regulation of biosynthetic genes, was observed in those embryonic domains where the respective ZmPgbs were repressed. These effects were mediated by NO. Depletion in ABA content increased the transcription of genes participating in the synthesis and response of ethylene, as well as the accumulation of ethylene, which influenced embryogenesis. Somatic embryo number was reduced by high ethylene levels and increased with pharmacological treatments suppressing ethylene synthesis. The ethylene inhibition of embryogenesis was linked to the production of reactive oxygen species (ROS) and the execution of PCD. Integration of ABA and ethylene in the ZmPgb regulation of embryogenesis is proposed in a model where NO accumulates in ZmPgb-suppressing cells, decreasing the level of ABA. Abscisic acid inhibits ethylene biosynthesis and the NO-mediated depletion of ABA relieves this inhibition causing ethylene to accumulate. Elevated ethylene levels trigger production of ROS and induce PCD. Ethylene-induced PCD in the ZmPgb1.1-suppressing line [ZmPgb1.1 (A)] leads to embryo abortion, while PCD in the ZmPgb1.2-suppressing line [ZmPgb1.2 (A)] results in the elimination of the anchor cells and the successful development of the embryos.
+
+ZmPgb1.1: !suppresses! ABA
+ZmPgb1.2: !suppresses! ABA
+ABA: !inhibits! ethylene synthesis
+NO: !accumulates in! ZmPgb-suppressing cells
+ABA: !decreases! NO-mediated
+NO: !decreases! ABA content
+ethylene: !increases! transcription of genes
+ethylene: !induces! ROS production
+ROS: !induces! PCD
+PCD: !leads to! embryo abortion/anchor cell elimination

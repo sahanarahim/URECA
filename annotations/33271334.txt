@@ -1,0 +1,10 @@
+Tip growth is a special type of polarized growth in which a single and unique polarization site is established and maintained. Rho of Plants (ROP) proteins, which represent the only class of Rho GTPases in plants, regulate tip growth. The dynamic and asymmetric distribution of ROPs is critical for the establishment and maintenance of tip growth, and requires at least one positive feedback loop, which is still elusive. Here, we report a positive feedback circuit essential for tip growth of root hairs, in which ROPs, ROP activators and effectors, and AGC1.5 subfamily kinases are interconnected by sequential oligomerization and phosphorylation. AGC1.5 subfamily kinases interact with and phosphorylate two guanine nucleotide exchange factors (GEFs) of ROPs, RopGEF4 and RopGEF10. They also interact with two ROP effectors, ICR2/RIP3 and MIDD1/RIP4, which bridge active ROPs with AGC1.5. Functional loss of the AGC1.5 subfamily kinases or ICR2 and MIDD1 compromised root hair growth due to reduced ROP signaling. We found that asymmetric targeting of RopGEF4 and RopGEF10 is controlled by AGC1.5-dependent phosphorylation. Interestingly, we discovered that the ROP effectors recruit AGC1.5 to active ROP domains at the plasma membrane during root hair growth and are critical for AGC1.5-dependent phosphorylation of RopGEFs. Given the large number of AGC kinases in plants, this positive feedback circuit may be a universal theme for plant cell polar growth.
+
+ROP: !interacts with! RopGEF4 
+ROP: !interacts with! RopGEF10 
+RopGEF4: !phosphorylated by! AGC1.5 
+RopGEF10: !phosphorylated by! AGC1.5 
+ICR2: !bridges! ROPs and AGC1.5 
+MIDD1: !bridges! ROPs and AGC1.5 
+AGC1.5: !interacts with! ICR2 
+AGC1.5: !interacts with! MIDD1

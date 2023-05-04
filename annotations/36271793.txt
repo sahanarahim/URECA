@@ -1,0 +1,8 @@
+Over the last decade, RNA-seq has produced a massive amount of plant transcriptomic sequencing data deposited in public databases. Reanalysis of these public datasets can generate additional novel hypotheses not included in original studies. However, the large data volume and the requirement for specialized computational resources and expertise present a barrier for experimental biologists to explore public repositories. Here, we introduce PlantExp (https://biotec.njau.edu.cn/plantExp), a database platform for exploration of plant gene expression and alternative splicing profiles based on 131 423 uniformly processed publicly available RNA-seq samples from 85 species in 24 plant orders. In addition to two common retrieval accesses to gene expression and alternative splicing profiles by functional terms and sequence similarity, PlantExp is equipped with four online analysis tools, including differential expression analysis, specific expression analysis, co-expression network analysis and cross-species expression conservation analysis. With these online analysis tools, users can flexibly customize sample groups to reanalyze public RNA-seq datasets and obtain new insights. Furthermore, it offers a wide range of visualization tools to help users intuitively understand analysis results. In conclusion, PlantExp provides a valuable data resource and analysis platform for plant biologists to utilize public RNA-seq. datasets.
+
+RNA-seq: !produces! massive plant transcriptomic data
+PlantExp: !provides! database platform for exploration
+PlantExp: !offers! four online analysis tools
+PlantExp: !visualizes! analysis results
+Users: !customize! sample groups
+Users: !reanalyze! public RNA-seq datasets

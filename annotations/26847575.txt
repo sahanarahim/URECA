@@ -1,0 +1,8 @@
+In nature, plants are exposed to biotic and abiotic stresses that often occur simultaneously. Therefore, plant responses to combinations of stresses are most representative of how plants respond to stresses. We used RNAseq to assess temporal changes in the transcriptome of Arabidopsis thaliana to herbivory by Pieris rapae caterpillars, either alone or in combination with prior exposure to drought or infection with the necrotrophic fungus Botrytis cinerea. Pre-exposure to drought stress or Botrytis infection resulted in a significantly different timing of the caterpillar-induced transcriptional changes. Additionally, the combination of drought and P. rapae induced an extensive downregulation of A. thaliana genes involved in defence against pathogens. Despite a more substantial growth reduction observed for plants exposed to drought plus P. rapae feeding compared with P. rapae feeding alone, this did not affect weight increase of this specialist caterpillar. Plants respond to combined stresses with phenotypic and transcriptional changes that differ from the single stress situation. The effect of a previous exposure to drought or B. cinerea infection on transcriptional changes to caterpillars is largely overridden by the stress imposed by caterpillars, indicating that plants shift their response to the most recent stress applied.
+
+drought: !affects! transcriptional changes
+Botrytis infection: !affects! transcriptional changes
+drought: !overrides! Botrytis infection
+P. rapae feeding: !affects! transcriptional changes
+drought: !overrides! P. rapae feeding
+A. thaliana genes: !downregulated by! drought + P. rapae

@@ -1,0 +1,14 @@
+Fluorescent reporter proteins that allow repeated switching between a fluorescent and a non-fluorescent state in response to specific wavelengths of light are novel tools for monitoring of protein trafficking and super-resolution fluorescence microscopy in living organisms. Here, we describe variants of the reversibly photoswitchable fluorescent proteins rsFastLime, bsDronpa, and Padron that have been codon-optimized for the use in transgenic Arabidopsis plants. The synthetic proteins, designated rsFastLIME-s, bsDRONPA-s, and PADRON C-s, showed photophysical properties and switching behavior comparable to those reported for the original proteins. By combining the 'positively switchable' PADRON C-s with the 'negatively switchable' rsFastLIME-s or bsDRONPA-s, two different fluorescent reporter proteins could be imaged at the same wavelength upon transient expression in Nicotiana benthamiana cells. Thus, co-localization analysis can be performed using only a single detection channel. Furthermore, the proteins were used to tag the RNA-binding protein AtGRP7 (Arabidopsis thaliana glycine-rich RNA-binding protein 7) in transgenic Arabidopsis plants. Because the new reversibly photoswitchable fluorescent proteins show an increase in signal strength during each photoactivation cycle, we were able to generate a large number of scans of the same region and reconstruct 3-D images of AtGRP7 expression in the root tip. Upon photoactivation of the AtGRP7:rsFastLIME-s fusion protein in a defined region of a transgenic Arabidopsis root, spreading of the fluorescence signal into adjacent regions was observed, indicating that movement from cell to cell can be monitored. Our results demonstrate that rsFastLIME-s, bsDRONPA-s, and PADRON C-s are versatile fluorescent markers in plants. Furthermore, the proteins also show strong fluorescence in mammalian cells including COS-7 and HeLa cells.
+
+rsFastLIME-s: !codon-optimized for! Arabidopsis plants
+bsDRONPA-s: !codon-optimized for! Arabidopsis plants
+PADRON C-s: !codon-optimized for! Arabidopsis plants
+rsFastLIME-s: !combined with! PADRON C-s
+bsDRONPA-s: !combined with! PADRON C-s
+AtGRP7: !tagged with! rsFastLIME-s
+AtGRP7: !tagged with! bsDRONPA-s
+AtGRP7: !monitored by! 3-D imaging
+AtGRP7: !movement monitored by! fluorescence signal spreading
+rsFastLIME-s: !shows strong fluorescence in! mammalian cells
+bsDRONPA-s: !shows strong fluorescence in! mammalian cells
+PADRON C-s: !shows strong fluorescence in! mammalian cells

@@ -1,0 +1,8 @@
+Cytoplasmic male sterility (CMS) has attracted great interest because of its application in crop breeding. Despite increasing knowledge of CMS, not much is understood about its molecular mechanisms. Previously, orfH79 was cloned and identified as the CMS gene in Honglian rice, but how the ORFH79 protein causes pollen abortion is still unknown. Through bacterial two-hybrid library screening, P61, a subunit of the mitochondrial electron transport chain (ETC) complex III, was selected as a candidate that interacts with ORFH79. Bimolecular fluorescence complementation (BiFC) and coimmunoprecipitation (coIP) assays verified their interaction inside mitochondria. Blue native polyacrylamide gel electrophoresis (BN-PAGE) and western blotting showed ORF79 and P61 colocalized in mitochondrial ETC complex III of CMS lines. Compared with the maintainer line, Yuetai B (YB), a significant decrease of enzyme activity was detected in mitochondrial complex III of the CMS line, Yuetai A (YA), which resulted in decreased ATP concentrations and an increase in the reactive oxygen species (ROS) content. We propose that the CMS protein, ORFH79, can bind to complex III and decrease its enzyme activity through interaction with P61. This defect results in energy production dysfunction and oxidative stress in mitochondria, which may work as retrograde signals that lead to abnormal pollen development.
+
+ORFH79: !interacts with! P61
+ORFH79: !localizes to! mitochondrial ETC complex III
+ORFH79: !decreases! enzyme activity
+enzyme activity: !decreases! ATP concentrations
+ATP concentrations: !increases! ROS content
+ROS content: !leads to! abnormal pollen development

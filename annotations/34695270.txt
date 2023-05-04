@@ -1,0 +1,8 @@
+The sequencing of the Arabidopsis thaliana genome 21 years ago ushered in the genomics era for plant research. Since then, an incredible variety of bioinformatic tools permit easy access to large repositories of genomic, transcriptomic, proteomic, epigenomic and other '-omic' data. In this review, we cover some more recent tools (and highlight the 'classics') for exploring such data in order to help formulate quality, testable hypotheses, often without having to generate new experimental data. We cover tools for examining gene expression and co-expression patterns, undertaking promoter analyses and gene set enrichment analyses, and exploring protein-protein and protein-DNA interactions. We will touch on tools that integrate different data sets at the end of the article.
+
+Gene: !affects! Expression 
+Gene: !co-expresses with! Other Genes 
+Gene: !promoter analyses of! Gene 
+Gene: !enriches! Gene Set 
+Gene: !interacts with! Protein 
+Gene: !interacts with! DNA

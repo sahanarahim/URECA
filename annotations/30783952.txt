@@ -1,0 +1,11 @@
+The two predicted WD40 propellers on TOPLESS function as protein-protein interaction domains. The 1st WD40 propeller mediates interaction with RAV1, and the 2nd WD40 propeller mediates interaction with VRN5. The TOPLESS/TOPLESS-RELATED (TPL/TPR) co-repressor family proteins are known to interact with a wide variety of proteins including transcription factors, Mediator subunits, histone deacetylases, and histone tails. Through these interactions, TPL/TPR act to repress transcription in an increasingly diverse array of plant pathways. Proteins that bind TPL/TPR typically contain one or more Repression Domains (RDs) that mediate the interaction. For example, the well-characterized Ethylene response factor-associated Amphiphilic Repression (EAR) motif is known to facilitate interaction by binding the TOPLESS Domain (TPD) located in the N-terminus. Here we show that in yeast two-hybrid assays, the non-EAR protein, Related to ABI3/VP1-1 (RAV1), binds a novel region located within the first nine WD40-repeats of TPL. Protein modeling and in silico analysis suggest that these nine WD40 repeats may form the first of two WD40 propellers located on C-terminus of TPL. The interaction between RAV1 and the 1st WD40 propeller is conserved with another RAV family member, TEMPRANILLO1 (TEM1) and is mediated by the B3 Repression Domain (BRD) located on both RAV1 and TEM1. Also, the predicted 2nd WD40 propeller was shown in yeast cells to bind Vernalization 5 (VRN5), which contains several unconfirmed partial RDs. Furthermore, we demonstrate that the 1st WD40 propeller of TPL can form a complex with RAV1 both in yeast and in Arabidopsis protoplasts.
+
+TPL/TPR: !interacts with! transcription factors
+TPL/TPR: !interacts with! Mediator subunits
+TPL/TPR: !interacts with! histone deacetylases
+TPL/TPR: !interacts with! histone tails
+RAV1: !binds! 1st WD40 propeller of TPL
+TEM1: !binds! 1st WD40 propeller of TPL
+VRN5: !binds! 2nd WD40 propeller of TPL
+EAR motif: !binds! TOPLESS Domain (TPD)
+B3 Repression Domain (BRD): !binds! 1st WD40 propeller of TPL

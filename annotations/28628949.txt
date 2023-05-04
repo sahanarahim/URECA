@@ -1,0 +1,9 @@
+Photoperiod duration can be predicted from previous days, but irradiance fluctuates in an unpredictable manner. To investigate how allocation to starch responds to changes in these two environmental variables, Arabidopsis Col-0 was grown in a 6 h and a 12 h photoperiod at three different irradiances. The absolute rate of starch accumulation increased when photoperiod duration was shortened and when irradiance was increased. The proportion of photosynthate allocated to starch increased strongly when photoperiod duration was decreased but only slightly when irradiance was decreased. There was a small increase in the daytime level of sucrose and twofold increases in glucose, fructose and glucose 6-phosphate at a given irradiance in short photoperiods compared to long photoperiods. The rate of starch accumulation correlated strongly with sucrose and glucose levels in the light, irrespective of whether these sugars were responding to a change in photoperiod or irradiance. Whole plant carbon budget modelling revealed a selective restriction of growth in the light period in short photoperiods. It is proposed that photoperiod sensing, possibly related to the duration of the night, restricts growth in the light period in short photoperiods, increasing allocation to starch and providing more carbon reserves to support metabolism and growth in the long night.
+
+photoperiod: !affects! starch accumulation
+irradiance: !affects! starch accumulation
+photoperiod: !increases! sucrose/glucose levels
+irradiance: !increases! sucrose/glucose levels
+starch accumulation: !correlates with! sucrose/glucose levels
+photoperiod: !restricts! growth in light period
+photoperiod: !enhances! allocation to starch

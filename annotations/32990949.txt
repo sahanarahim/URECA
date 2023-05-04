@@ -1,0 +1,10 @@
+CERBERUS (also known as LIN) and VAPYRIN (VPY) are essential for infection of legumes by rhizobia and arbuscular mycorrhizal fungi (AMF). Medicago truncatula LIN (MtLIN) was reported to interact with MtVPY, but the significance of this interaction is unclear and the function of VPY in Lotus japonicus has not been studied. We demonstrate that CERBERUS has auto-ubiquitination activity in vitro and is localized within distinct motile puncta in L. japonicus root hairs and in Nicotiana benthamiana leaves. CERBERUS colocalized with the trans-Golgi network/early endosome markers. In L. japonicus, two VPY orthologs (LjVPY1 and LjVPY2) were identified. CERBERUS interacted with and colocalized with both LjVPY1 and LjVPY2. Co-expression of CERBERUS with LjVPY1 or LjVPY2 in N. benthamiana led to increased protein levels of LjVPY1 and LjVPY2, which accumulated as mobile punctate bodies in the cytoplasm. Conversely, LjVPY2 protein levels decreased in cerberus roots after rhizobial inoculation. Mutant analysis indicates that LjVPY1 and LjVPY2 are required for rhizobial infection and colonization by AMF. Our data suggest that CERBERUS stabilizes LjVPY1 and LjVPY2 within the trans-Golgi network/early endosome, where they might function to regulate endocytic trafficking and/or the formation or recycling of signaling complexes during rhizobial and AMF symbiosis.
+
+CERBERUS: !interacts with! VAPYRIN 
+CERBERUS: !localizes to! trans-Golgi network/early endosome 
+LjVPY1: !interacts with! CERBERUS 
+LjVPY2: !interacts with! CERBERUS 
+LjVPY1: !enhances! protein levels 
+LjVPY2: !represses! protein levels 
+LjVPY1: !required for! rhizobial infection 
+LjVPY2: !required for! colonization by AMF

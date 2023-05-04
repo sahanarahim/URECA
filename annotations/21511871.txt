@@ -1,0 +1,7 @@
+['21511871', 'Plant photoreceptors mediate light suppression of the E3 ubiquitin ligase COP1  (CONSTITUTIVE PHOTOMORPHOGENIC 1) to affect gene expression and  photomorphogenesis. However, how photoreceptors mediate light regulation of COP1  activity remains unknown. We report here that Arabidopsis blue-light receptor  cryptochrome 1 (CRY1) undergoes blue-light-dependent interaction with the  COP1-interacting protein SPA1 (SUPPRESSOR OF PHYTOCHROME A). We further show that  the CRY1-SPA1 interaction suppresses the SPA1-COP1 interaction and COP1-dependent  degradation of the transcription factor HY5. These results are consistent with a  hypothesis that photoexcited CRY1 interacts with SPA1 to modulate COP1 activity  and plant development.', '2011 May 15', 'Genes Dev', '10.1101/gad.2025011', 'Lin']
+
+CRY1: !interacts with! SPA1 
+SPA1: !interacts with! COP1 
+CRY1: !suppresses! SPA1-COP1 interaction 
+SPA1: !enhances! COP1-dependent degradation of HY5 
+CRY1: !affects! gene expression and photomorphogenesis

@@ -1,0 +1,8 @@
+['33111995', "Photosynthesis and carbon fixation depend critically on the regulation of pH in  chloroplast compartments in the daylight and at night. While it is established  that an alkaline stroma is required for carbon fixation, it is not known how  alkaline stromal pH is formed, maintained or regulated. We tested whether two  envelope transporters, AtKEA1 and AtKEA2, directly affected stromal pH in  isolated Arabidopsis chloroplasts using the fluorescent probe  2',7'-bis-(2-carboxyethyl)-5-(and-6)-carboxyfluorescein (BCECF). External K(+)  -induced alkalinization of the stroma was observed in chloroplasts from wild-type  (WT) plants but not from kea1kea2 mutants, suggesting that KEA1 and KEA2 mediate  K(+) uptake/H(+) loss to modulate stromal pH. While light-stimulated  alkalinization of the stroma was independent of KEA1 and KEA2, the rate of decay  to neutral pH in the dark is delayed in kea1kea2 mutants. However, the  dark-induced loss of a pH gradient across the thylakoid membrane was similar in  WT and mutant chloroplasts. This indicates that proton influx from the cytosol  mediated by envelope K(+) /H(+) antiporters contributes to adjustment of stromal  pH upon light to dark transitions.", '2021 Feb', 'New Phytol', '10.1111/nph.17042', 'ORCID:']
+
+AtKEA1: !mediates! K(+) uptake/H(+) loss 
+AtKEA2: !mediates! K(+) uptake/H(+) loss 
+light: !stimulates! alkalinization of stroma 
+kea1kea2 mutants: !lack! K(+) uptake/H(+) loss 
+kea1kea2 mutants: !delay! decay to neutral pH in dark 
+thylakoid membrane: !maintains! pH gradient across

@@ -1,0 +1,10 @@
+Microalgae contribute significantly to carbon fixation on Earth. Global warming influences their physiology and growth rates. To understand algal short-term acclimation and adaptation to changes in ambient temperature, it is essential to identify and characterize the molecular components that sense small temperature changes as well as the downstream signaling networks and physiological responses. Here, we used the green biflagellate alga <i>Chlamydomonas reinhardtii</i> as a model system in which to study responses to temperature. We report that an RNA recognition motif (RRM)-containing RNA-binding protein, Musashi, occurs in 25 putative splice variants. These variants bear one, two, and three RRM domains or even lack RRM domains. The most abundant Musashi variant, 12, with a molecular mass of 60 kD, interacts with two clock-relevant members of RNA metabolism, the subunit C3 of the RNA-binding protein CHLAMY1 and the 5'-3' exoribonuclease XRN1. These proteins are able to integrate temperature information by up- or down-regulation of their protein levels in cells grown at low (18°C) or high (28°C) temperature. We further show that the 60-kD Musashi variants with three RRM domains can bind to (UG)<sub>7</sub> repeat-containing RNAs and are up-regulated in cells grown at a higher temperature during early night. Intriguingly, the 60-kD Musashi variant 12, as well as C3 and XRN1, confer thermal acclimation to <i>C. reinhardtii</i>, as shown with mutant lines. Our data suggest that these three proteins of the RNA metabolism machinery are key members of the thermal signaling network in <i>C. reinhardtii</i>.
+
+Musashi: !interacts with! CHLAMY1 C3
+Musashi: !interacts with! XRN1
+Musashi: !binds to! (UG)7 repeat-containing RNAs
+Musashi: !up-regulates! at higher temperature
+C3: !integrates! temperature information
+XRN1: !integrates! temperature information
+C3: !confers! thermal acclimation
+XRN1: !confers! thermal acclimation

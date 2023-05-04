@@ -1,0 +1,11 @@
+Duckweeds are a monophyletic group of rapidly reproducing aquatic monocots in the Lemnaceae family. Given their clonal, exponentially fast reproduction, a key question is whether genome structure is conserved across the species in the absence of meiotic recombination. Here, we studied the genome and proteome of Spirodela polyrhiza, or greater duckweed, which has the largest body plan yet the smallest genome size in the family (1C=150 Mb). Using Oxford Nanopore sequencing combined with Hi-C scaffolding, we generated a highly contiguous, chromosome-scale assembly of S. polyrhiza line Sp7498 (Sp7498_HiC). Both the Sp7498_HiC and Sp9509 genome assemblies reveal large chromosomal misorientations relative to a recent PacBio assembly of Sp7498, highlighting the need for orthogonal long-range scaffolding techniques such as Hi-C and BioNano optical mapping. Shotgun proteomics of Sp7498 verified the expression of ~2250 proteins and revealed a high abundance of proteins involved in photosynthesis and carbohydrate metabolism among other functions. In addition, a strong increase in chloroplast proteins was observed that correlated to chloroplast density. This Sp7498_HiC genome was generated cheaply and quickly with a single Oxford Nanopore MinION flow cell and one Hi-C library in a classroom setting. Combining these data with a mass spectrometry-generated proteome illustrates the utility of duckweed as a model for genomics- and proteomics-based education.
+
+Oxford Nanopore: !generates! Sp7498_HiC genome
+Hi-C scaffolding: !scaffolds! Sp7498_HiC genome
+PacBio assembly: !compared to! Sp7498_HiC genome
+Shotgun proteomics: !verifies expression of! ~2250 proteins
+Chloroplast proteins: !correlate to! chloroplast density
+Oxford Nanopore MinION flow cell: !generates! Sp7498_HiC genome
+Hi-C library: !generates! Sp7498_HiC genome
+Mass spectrometry: !generates! proteome
+Duckweed: !model for! genomics- and proteomics-based education

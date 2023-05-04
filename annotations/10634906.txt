@@ -1,0 +1,7 @@
+['10634906', 'The Arabidopsis ABSCISIC ACID-INSENSITIVE3 (ABI3) protein has been identified  previously as a crucial regulator of late seed development. Here, we show that  dark-grown abi3 plants, or abi3 plants returned to the dark after germination in  the light, developed and maintained an etioplast with a prominent prolamellar  body at developmental stages in which the wild type did not. Overexpression of  ABI3 led to the preservation of the plastid ultrastructure that was present at  the onset of darkness. These observations suggest that ABI3 plays a role in  plastid differentiation pathways in vegetative tissues. Furthermore, the analysis  of deetiolated (det1) abi3 double mutants revealed that DET1 and ABI3 impinge on  a multitude of common processes. During seed maturation, ABI3 required DET1 to  achieve its full expression. Mature det1 abi3 seeds were found to be in a highly  germinative state, indicating that germination is controlled by both DET1 and  ABI3. During plastid differentiation in leaves of dark-grown plants, DET1 is  required for the action of ABI3 as it is during seed development. Together, the  results suggest that ABI3 is at least partly regulated by light.', '2000 Jan', 'Plant Cell', '10.1105/tpc.12.1.35', 'Boerjan']
+
+ABI3: !affects! Plastid differentiation 
+ABI3: !requires! DET1 
+DET1: !impinges on! Common processes 
+DET1: !regulates! ABI3 
+ABI3: !enhances! Germination

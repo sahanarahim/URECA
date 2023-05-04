@@ -1,0 +1,16 @@
+Arabidopsis has been used as a model system to study many aspects of plant growth and development. However, fruit senescence in Arabidopsis has been less investigated and the underlying molecular and hormonal (especially ethylene) regulatory mechanisms are not well understood. It is reported here that the Arabidopsis silique has characteristics of a climacteric fruit, and that AtNAP, a NAC family transcription factor gene whose expression is increased with the progression of silique senescence, plays an important role in its senescence. Silique senescence was delayed for 4-5 d in the atnap knockout mutant plants. The ethylene climacteric was delayed for 2 d in the atnap silique and the associated respiratory climacteric was suppressed. Exogenous ethylene stimulated respiration in the wild type, but not in the atnap mutant. The decoupling of the ethylene and respiratory climacterics in the atnap mutant suggests that AtNAP is required for ethylene stimulation of respiration. qPCR analyses revealed that the expression patterns of genes involved in ethylene biosynthesis, perception, and signalling, ACS2, ETR1, CTR1, EIN2, EIN3, and ERF1, were also altered in the atnap mutant. The effects of exogenous ABA, SA, 6-BA, and NAA on ethylene production and respiration in siliques of the wild type and atnap mutant were also investigated. A model involving ABA-AtNAP-controlled stomatal opening in regulating ethylene-stimulated respiration in fruit senescence is presented.
+
+AtNAP: !affects! Silique senescence 
+AtNAP: !regulates! Ethylene climacteric 
+AtNAP: !represses! Respiratory climacteric 
+AtNAP: !enhances! Ethylene stimulation of respiration 
+ACS2: !interacts with! AtNAP 
+ETR1: !interacts with! AtNAP 
+CTR1: !interacts with! AtNAP 
+EIN2: !interacts with! AtNAP 
+EIN3: !interacts with! AtNAP 
+ERF1: !interacts with! AtNAP 
+ABA: !interacts with! AtNAP 
+SA: !interacts with! AtNAP 
+6-BA: !interacts with! AtNAP 
+NAA: !interacts with! AtNAP

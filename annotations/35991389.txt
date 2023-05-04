@@ -1,0 +1,8 @@
+The classification of plug seedling quality plays an active role in enhancing the quality of seedlings. The EfficientNet-B7-CBAM model, an improved convolutional neural network (CNN) model, was proposed to improve classification efficiency and reduce high cost. To ensure that the EfficientNet-B7 model simultaneously learns crucial channel and spatial location information, the convolutional block attention module (CBAM) has been incorporated. To improve the model's ability to generalize, a transfer learning strategy and Adam optimization algorithm were introduced. A system for image acquisition collected 8,109 images of pepper plug seedlings, and data augmentation techniques improved the resulting data set. The proposed EfficientNet-B7-CBAM model achieved an average accuracy of 97.99% on the test set, 7.32% higher than before the improvement. Under the same experimental conditions, the classification accuracy increased by 8.88-20.05% to classical network models such as AlexNet, VGG16, InceptionV3, ResNet50, and DenseNet121. The proposed method had high accuracy in the plug seedling quality classification task. It was well-adapted to numerous types of plug seedlings, providing a reference for developing a fast and accurate algorithm for plug seedling quality classification.
+
+EfficientNet-B7-CBAM: !improves! Classification Efficiency 
+Transfer Learning Strategy: !introduced to! EfficientNet-B7-CBAM 
+Adam Optimization Algorithm: !introduced to! EfficientNet-B7-CBAM 
+Data Augmentation Techniques: !applied to! Image Acquisition System 
+EfficientNet-B7-CBAM: !increases! Classification Accuracy 
+AlexNet, VGG16, InceptionV3, ResNet50, DenseNet121: !compared to! EfficientNet-B7-CBAM

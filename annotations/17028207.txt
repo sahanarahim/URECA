@@ -1,0 +1,10 @@
+Petunia inflata S-locus F-box (Pi SLF) is thought to function as a typical F-box protein in ubiquitin-mediated protein degradation and, along with Skp1, Cullin-1, and Rbx1, could compose an SCF complex mediating the degradation of nonself S-RNase but not self S-RNase. We isolated three P. inflata Skp1s (Pi SK1, -2, and -3), two Cullin-1s (Pi CUL1-C and -G), and an Rbx1 (Pi RBX1) cDNAs and found that Pi CUL1-G did not interact with Pi RBX1 and that none of the three Pi SKs interacted with Pi SLF(2). We also isolated a RING-HC protein, S-RNase Binding Protein1 (Pi SBP1), almost identical to Petunia hybrida SBP1, which interacts with Pi SLFs, S-RNases, Pi CUL1-G, and an E2 ubiquitin-conjugating enzyme, suggesting that Pi CUL1-G, SBP1, and SLF may be components of a novel E3 ligase complex, with Pi SBP1 playing the roles of Skp1 and Rbx1. S-RNases interact more with nonself Pi SLFs than with self Pi SLFs, and Pi SLFs also interact more with nonself S-RNases than with self S-RNases. Bacterially expressed S(1)-, S(2)-, and S(3)-RNases are degraded by the 26S proteasomal pathway in a cell-free system, albeit not in an S-allele-specific manner. Native glycosylated S(3)-RNase is not degraded to any significant extent; however, deglycosylated S(3)-RNase is degraded as efficiently as the bacterially expressed S-RNases. Finally, S-RNases are ubiquitinated in pollen tube extracts, but whether this is mediated by the Pi SLF-containing E3 complex is unknown.
+
+Pi SLF: !interacts with! nonself S-RNase
+Pi SK1, -2, and -3: !interact with! Pi CUL1-G
+Pi CUL1-G: !does not interact with! Pi RBX1
+Pi SBP1: !interacts with! Pi SLFs, S-RNases, Pi CUL1-G, E2 ubiquitin-conjugating enzyme
+S-RNases: !interact more with! nonself Pi SLFs
+S(1)-, S(2)-, and S(3)-RNases: !degraded by! 26S proteasomal pathway
+glycosylated S(3)-RNase: !not degraded to any significant extent!
+S-RNases: !ubiquitinated in! pollen tube extracts

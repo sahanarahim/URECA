@@ -1,0 +1,10 @@
+Medicago truncatula, a close relative of alfalfa (Medicago sativa), is a model legume used for studying symbiotic nitrogen fixation, mycorrhizal interactions and legume genomics. J. Craig Venter Institute (JCVI; formerly TIGR) has been involved in M. truncatula genome sequencing and annotation since 2002 and has maintained a web-based resource providing data to the community for this entire period. The website (http://www.MedicagoGenome.org) has seen major updates in the past year, where it currently hosts the latest version of the genome (Mt4.0), associated data and legacy project information, presented to users via a rich set of open-source tools. A JBrowse-based genome browser interface exposes tracks for visualization. Mutant gene symbols originally assembled and curated by the Frugoli lab are now hosted at JCVI and tie into our community annotation interface, Medicago EuCAP (to be integrated soon with our implementation of WebApollo). Literature pertinent to M. truncatula is indexed and made searchable via the Textpresso search engine. The site also implements MedicMine, an instance of InterMine that offers interconnectivity with other plant 'mines' such as ThaleMine and PhytoMine, and other model organism databases (MODs). In addition to these new features, we continue to provide keyword- and locus identifier-based searches served via a Chado-backed Tripal Instance, a BLAST search interface and bulk downloads of data sets from the iPlant Data Store (iDS). Finally, we maintain an E-mail helpdesk, facilitated by a JIRA issue tracking system, where we receive and respond to questions about the website and requests for specific data sets from the community.
+
+Gene: !affects! Symbiotic nitrogen fixation
+Gene: !affects! Mycorrhizal interactions
+Gene: !affects! Legume genomics
+Gene: !localizes to! JBrowse-based genome browser
+Gene: !interacts with! Frugoli lab
+Gene: !enhances! Textpresso search engine
+Gene: !represses! Chado-backed Tripal Instance
+Gene: !synthesizes! iPlant Data Store (iDS)

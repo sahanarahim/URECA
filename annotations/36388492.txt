@@ -1,0 +1,8 @@
+Accurate and rapid identification of apple leaf diseases is the basis for preventing and treating apple diseases. However, it is challenging to identify apple leaf diseases due to their various symptoms, different colors, irregular shapes, uneven sizes, and complex backgrounds. To reduce computational cost and improve training results, a dilated convolution capsule network (DCCapsNet) is constructed for apple leaf disease identification based on a capsule network (CapsNet) and two dilated Inception modules with different dilation rates. The network can obtain multi-scale deep-level features to improve the classification capability of the model. The dynamic routing algorithm is used between the front and back layers of CapsNet to make the model converge quickly. In DCCapsNet, dilated Inception instead of traditional convolution is used to increase the convolution receptive fields and extract multi-scale features from disease leaf images, and CapsNet is used to capture the classification features of changeable disease leaves and overcome the overfitting problem in the training network. Extensive experiment results on the apple disease leaf image dataset demonstrate that the proposed method can effectively identify apple diseases. The method can realize the rapid and accurate identification of apple leaf disease.
+
+DCCapsNet: !constructs! Apple Leaf Disease Identification 
+DCCapsNet: !uses! Dilated Inception 
+Dilated Inception: !increases! Convolution Receptive Fields 
+CapsNet: !captures! Classification Features 
+Dynamic Routing Algorithm: !used between! Front and Back Layers of CapsNet 
+Proposed Method: !effectively identifies! Apple Diseases

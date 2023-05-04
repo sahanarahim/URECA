@@ -1,0 +1,12 @@
+Mitogen-activated protein kinase (MAPK) cascade is one of the major signaling systems in eukaryotes. External signals are tranduced through three protein kinases, which successively relay phosphorylation to finally activate target genes/proteins. However, few information on targets of MAPK have so far been available. In this study, we identified a novel transcription factor, NtWIF, which is directly phosphorylated by a wound-induced protein kinase (WIPK), a typical MAPK from tobacco plants. Phosphorylated NtWIF recognizes the auxin responsive element (ARE), and transcriptionally activates ARE-driven Luciferase-reporter genes. Transgenic tobacco plants, in which NtWIF was overexpressed or suppressed, showed distinct features not only in pathogen resistance, but also in seed development and root growth. Micro-array assay using transgenic lines identified 178 differentially expressed genes, among which nearly half was related to defense and development. Screening of the available promoter regions revealed that multiple genes encoding such as pathogenesis-related protein Q (PR-Q), beta-1,3-glucanase, aminocyclopropane carboxylic acid synthase 2, P-450 and WIPK itself possess the ARE motif. Upon coexpression in cultured cells, NtWIF transcriptionally activated the Luciferase-reporter gene driven by intact promoters of PR-Q and WIPK. Since ARE is commonly found in auxin-responsive genes, NtWIF possibly targets diverse genes for defense and development by sharing processes that involve auxins. Transcriptional activation of WIPK by NtWIF suggests that WIPK is produced through a feed-back controlling system. It was thus concluded that NtWIF is a missing link between WIPK and its down-stream proteins, and that WIPK cascade is auto-regulated through a self-amplifying circuit.
+
+WIPK: !phosphorylates! NtWIF
+NtWIF: !recognizes! ARE
+NtWIF: !transcriptionally activates! Luciferase-reporter genes
+NtWIF: !overexpression/suppression! affects defense & development
+ARE: !found in! auxin-responsive genes
+NtWIF: !targets! diverse genes for defense & development
+PR-Q, beta-1,3-glucanase, aminocyclopropane carboxylic acid synthase 2, P-450, WIPK: !possess! ARE motif
+NtWIF: !coexpression! activates Luciferase-reporter gene
+WIPK: !transcriptionally activated by! NtWIF
+WIPK: !auto-regulated through! self-amplifying circuit

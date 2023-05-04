@@ -1,0 +1,6 @@
+The COP9 Signalosome protein complex (CSN) is a pleiotropic regulator of plant development and contains eight-subunits. Six of these subunits contain the PCI motif which mediates specific protein interactions necessary for the integrity of the complex. COP9 complex subunit 7 (CSN7) contains an N-terminal PCI motif followed by a C-terminal extension which is also necessary for CSN function. A yeast-interaction trap assay identified the small subunit of ribonucelotide reductase (RNR2) from Arabidopsis as interacting with the C-terminal section of CSN7. This interaction was confirmed in planta by both bimolecular fluorescence complementation and immuoprecipitation assays with endogenous proteins. The subcellular localization of RNR2 was primarily nuclear in meristematic regions, and cytoplasmic in adult cells. RNR2 was constitutively nuclear in csn7 mutant seedlings, and was also primarily nuclear in wild type seedlings following exposure to UV-C. These two results correlate with constitutive expression of several DNA-damage response genes in csn7 mutants, and to increased tolerance of csn7 seedlings to UV-C treatment. We propose that the CSN is a negative regulator of RNR activity in Arabidopsis.
+
+CSN7: !interacts with! RNR2
+RNR2: !localizes to! nuclear 
+CSN7: !represses! RNR2
+RNR2: !enhances! DNA-damage response genes

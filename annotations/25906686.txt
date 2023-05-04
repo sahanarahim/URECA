@@ -1,0 +1,9 @@
+Patterning in Arabidopsis root development is coordinated via a localized auxin concentration maximum in the root tip, requiring the regulated expression of specific genes. However, little is known about how hormone and gene expression patterning is generated. Using a variety of experimental data, we develop a spatiotemporal hormonal crosstalk model that describes the integrated action of auxin, ethylene and cytokinin signalling, the POLARIS protein, and the functions of PIN and AUX1 auxin transporters. We also conduct novel experiments to confirm our modelling predictions. The model reproduces auxin patterning and trends in wild-type and mutants; reveals that coordinated PIN and AUX1 activities are required to generate correct auxin patterning; correctly predicts shoot to root auxin flux, auxin patterning in the aux1 mutant, the amounts of cytokinin, ethylene and PIN protein, and PIN protein patterning in wild-type and mutant roots. Modelling analysis further reveals how PIN protein patterning is related to the POLARIS protein through ethylene signalling. Modelling prediction of the patterning of POLARIS expression is confirmed experimentally. Our combined modelling and experimental analysis reveals that a hormonal crosstalk network regulates the emergence of patterns and levels of hormones and gene expression in wild-type and mutants.
+
+Auxin: !coordinates! Patterning
+Ethylene: !regulates! PIN protein patterning
+Cytokinin: !integrates with! Auxin
+POLARIS: !interacts with! Ethylene
+PIN: !generates! Auxin patterning
+AUX1: !coordinates with! PIN
+Shoot: !fluxes! Auxin to root

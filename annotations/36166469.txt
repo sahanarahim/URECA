@@ -1,0 +1,6 @@
+Adenosine bases of RNA can be transiently modified by the deposition of a methyl-group to form N6-methyladenosine (m6A). This adenosine-methylation is an ancient process and the enzymes involved are evolutionary highly conserved. A genetic screen designed to identify suppressors of late flowering transgenic Arabidopsis plants overexpressing the miP1a microProtein yielded a new allele of the FIONA1 (FIO1) m6A-methyltransferase. To characterize the early flowering phenotype of fio1 mutant plants we employed an integrative approach of mRNA-seq, Nanopore direct RNA-sequencing and meRIP-seq to identify differentially expressed transcripts as well as differentially methylated RNAs. We provide evidence that FIO1 is the elusive methyltransferase responsible for the 3'-end methylation of the FLOWERING LOCUS C (FLC) transcript. Furthermore, our genetic and biochemical data suggest that 3'-methylation stabilizes FLC mRNAs and non-methylated FLC is a target for rapid degradation.
+
+FIONA1: !methylates! N6-methyladenosine 
+FIONA1: !stabilizes! FLC mRNAs 
+FLC: !repressed by! FIONA1 
+FLC: !degraded without! methylation

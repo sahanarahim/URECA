@@ -1,0 +1,11 @@
+We examined changes in branch hydraulic, leaf structure and gas exchange properties in coast redwood (Sequoia sempervirens) and giant sequoia (Sequoiadendron giganteum) trees of different sizes. Leaf-specific hydraulic conductivity (k(L)) increased with height in S. sempervirens but not in S. giganteum, while xylem cavitation resistance increased with height in both species. Despite hydraulic adjustments, leaf mass per unit area (LMA) and leaf carbon isotope ratios (delta(13)C) increased, and maximum mass-based stomatal conductance (g(mass)) and photosynthesis (A(mass)) decreased with height in both species. As a result, both A(mass) and g(mass) were negatively correlated with branch hydraulic properties in S. sempervirens and uncorrelated in S. giganteum. In addition, A(mass) and g(mass) were negatively correlated with LMA in both species, which we attributed to the effects of decreasing leaf internal CO(2) conductance (g(i)). Species-level differences in wood density, LMA and area-based gas exchange capacity constrained other structural and physiological properties, with S. sempervirens exhibiting increased branch water transport efficiency and S. giganteum exhibiting increased leaf-level water-use efficiency with increasing height. Our results reveal different adaptive strategies for the two redwoods that help them compensate for constraints associated with growing taller, and reflect contrasting environmental conditions each species faces in its native habitat.
+
+gene: !affects! branch hydraulic
+gene: !affects! leaf structure
+gene: !affects! gas exchange properties
+gene: !enhances! xylem cavitation resistance
+gene: !represses! maximum mass-based stomatal conductance
+gene: !represses! photosynthesis
+gene: !represses! leaf internal CO2 conductance
+gene: !enhances! branch water transport efficiency
+gene: !enhances! leaf-level water-use efficiency

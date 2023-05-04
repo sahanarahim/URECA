@@ -1,0 +1,9 @@
+['35406652', 'In plants, many basic helix-loop-helix (bHLH) transcription factors are involved  in controlling cell elongation. Three bHLH proteins, PACLOBTRAZOL RESISTANCE1  (PRE1), Cryptochrome Interacting Basic Helix-loop-helix 5 (CIB5), and Arabidopsis  ILI1 binding bHLH1 (IBH1) form a triantagonistic system that antagonistically  regulates cell elongation in a competitive manner. In this study, we identified a  new player, HLH4, related to IBH1, that negatively regulates cell elongation in  Arabidopsis thaliana. Overexpression of HLH4 causes dwarf and dark green  phenotypes and results in the downregulation of many key regulatory and enzymatic  genes that participate in the anthocyanin biosynthetic pathway. HLH4 interacts  with CIB5 and PRE1. By interacting with CIB5, HLH4 interferes with the activity  of CIB5, and thus inhibiting the transcription of cell elongation-related genes  regulated by CIB5, including EXPANSINS8 and 11 (EXP8 and EXP11) and  indole-3-acetic acid 7 and 17 (IAA7 and IAA17). The interference of HLH4 on CIB5  is counteracted by PRE1, in which these bHLH proteins form a new tri-antagonistic  system.', '2022 Mar 24', 'Cells', '10.3390/cells11071087', 'ORCID:']
+
+PRE1: !interacts with! HLH4
+CIB5: !interacts with! HLH4
+HLH4: !represses! EXP8
+HLH4: !represses! EXP11
+HLH4: !represses! IAA7
+HLH4: !represses! IAA17
+PRE1: !counteracts! HLH4

@@ -1,0 +1,14 @@
+*The exocyst is a complex of eight proteins (Sec3p, Sec5p, Sec6p, Sec8p, Sec10p, Sec15p, Exo70p and Exo84p) involved in tethering vesicles to the plasma membrane during regulated or polarized secretion. Here, the plant exocyst complex was explored in phylogenetic, expression, and subcellular localization studies. *Evolutionary relationships of predicted exocyst subunits were examined in the complete genomes of Arabidopsis thaliana, Oryza sativa, Populus trichocarpa and Physcomitrella patens. Furthermore, detailed expression profiling of the A. thaliana microarray databases was performed and subcellular localization patterns were studied. *Several plant exocyst subunit genes appear to have undergone gene expansion in a common ancestor and subsequent duplication events in independent plant lineages. Expression profiling revealed that the A. thaliana Exo70 gene family exhibits dynamic expression patterns, while the remaining exocyst subunit genes displayed more static profiles. Subcellular localization patterns for A. thaliana exocyst subunits ranged from cytosolic to endosomal compartments (with enrichment in the early endosomes and the trans-Golgi network). Interestingly, two endosomal-localized AtExo70 proteins also recruited other exocyst subunits to these compartments. *Overall subcellular localization patterns were observed that were also found in yeast and animal cells, and this, coupled with the evolutionary relationships, suggests that the exocyst may perform similar conserved functions in plants.
+
+Sec3p: !interacts with! Sec5p
+Sec5p: !interacts with! Sec6p
+Sec6p: !interacts with! Sec8p
+Sec8p: !interacts with! Sec10p
+Sec10p: !interacts with! Sec15p
+Sec15p: !interacts with! Exo70p
+Exo70p: !interacts with! Exo84p
+Exo84p: !interacts with! Sec3p
+A. thaliana: !contains! Exo70 gene family
+Exo70 gene family: !exhibits! dynamic expression patterns
+AtExo70 proteins: !recruit! other exocyst subunits
+endosomal compartments: !enrich! early endosomes and trans-Golgi network

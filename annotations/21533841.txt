@@ -1,0 +1,15 @@
+miR828 in Arabidopsis triggers the cleavage of Trans-Acting SiRNA Gene 4 (TAS4) transcripts and production of small interfering RNAs (ta-siRNAs). One siRNA, TAS4-siRNA81(-), targets a set of MYB transcription factors including PAP1, PAP2, and MYB113 which regulate the anthocyanin biosynthesis pathway. Interestingly, miR828 also targets MYB113, suggesting a close relationship between these MYBs, miR828, and TAS4, but their evolutionary origins are unknown. We found that PAP1, PAP2, and TAS4 expression is induced specifically by exogenous treatment with sucrose and glucose in seedlings. The induction is attenuated in abscisic acid (ABA) pathway mutants, especially in abi3-1 and abi5-1 for PAP1 or PAP2, while no such effect is observed for TAS4. PAP1 is under regulation by TAS4, demonstrated by the accumulation of PAP1 transcripts and anthocyanin in ta-siRNA biogenesis pathway mutants. TAS4-siR81(-) expression is induced by physiological concentrations of Suc and Glc and in pap1-D, an activation-tagged line, indicating a feedback regulatory loop exists between PAP1 and TAS4. Bioinformatic analysis revealed MIR828 homologues in dicots and gymnosperms, but only in one basal monocot, whereas TAS4 is only found in dicots. Consistent with this observation, PAP1, PAP2, and MYB113 dicot paralogs show peptide and nucleotide footprints for the TAS4-siR81(-) binding site, providing evidence for purifying selection in contrast to monocots. Extended sequence similarities between MIR828, MYBs, and TAS4 support an inverted duplication model for the evolution of MIR828 from an ancestral gymnosperm MYB gene and subsequent formation of TAS4 by duplication of the miR828* arm. We obtained evidence by modified 5'-RACE for a MYB mRNA cleavage product guided by miR828 in Pinus resinosa. Taken together, our results suggest that regulation of anthocyanin biosynthesis by TAS4 and miR828 in higher plants is evolutionarily significant and consistent with the evolution of TAS4 since the dicot-monocot divergence.
+
+miR828: !triggers cleavage of! TAS4
+TAS4: !targets! MYB transcription factors
+MYB transcription factors: !regulated by! miR828
+PAP1, PAP2, TAS4: !induced by! sucrose and glucose
+ABA pathway mutants: !attenuate induction of! PAP1, PAP2
+TAS4-siR81(-): !expression induced by! Suc and Glc
+PAP1: !under regulation by! TAS4
+MIR828: !homologues in! dicots and gymnosperms
+TAS4: !only found in! dicots
+PAP1, PAP2, MYB113: !show footprints for! TAS4-siR81(-) binding site
+MIR828: !evolved from! ancestral gymnosperm MYB gene
+TAS4: !formed by duplication of! miR828* arm
+MYB mRNA: !cleavage product guided by! miR828

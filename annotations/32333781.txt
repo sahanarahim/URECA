@@ -1,0 +1,8 @@
+Angiosperms have three PsbQ-like (PQL) proteins in addition to the PsbQ subunit of the oxygen-evolving complex of photosystem II. Previous studies have shown that two PQL proteins, PnsL2 and PnsL3, are subunits of the chloroplast NADH dehydrogenase-like (NDH) complex involved in the photosystem I (PSI) cyclic electron flow. In addition, another PsbQ homolog, PQL3, is required for the NDH activity; however, the molecular function of PQL3 has not been elucidated. Here, we show that PQL3 is an assembly factor, particularly for the accumulation of subcomplex B (SubB) of the chloroplast NDH. In the pql3 mutant of Arabidopsis thaliana, the amounts of NDH subunits in SubB, PnsB1 and PsnB4, were decreased, causing a severe reduction in the NDH-PSI supercomplex. Analysis using blue native polyacrylamide gel electrophoresis suggested that the incorporation of PnsL3 into SubB was affected in the pql3 mutant. Unlike other PsbQ homologs, PQL3 was weakly associated with thylakoid membranes and was only partially protected from thermolysin digestion. Consistent with the function as an assembly factor, PQL3 accumulated independently in other NDH mutants, such as pnsl1-3. Furthermore, PQL3 accumulated in young leaves in a manner similar to the accumulation of CRR3, an assembly factor for SubB. These results suggest that PQL3 has developed a distinct function as an assembly factor for the NDH complex during evolution of the PsbQ protein family in angiosperms.
+
+PnsL2: !interacts with! PnsL3 
+PnsL3: !localizes to! SubB 
+PQL3: !enhances! NDH activity 
+PQL3: !localizes to! thylakoid membranes 
+PQL3: !accumulates in! young leaves 
+CRR3: !accumulates in! SubB

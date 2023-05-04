@@ -1,0 +1,13 @@
+The actin cytoskeleton is critical for tip growth in plants. Profilin is the main monomer actin binding protein in plant cells. The moss Physcomitrella patens has three profilin genes, which are monophyletic, suggesting a single ancestor for plant profilins. Here, we used RNA interference (RNAi) to determine the loss-of-function phenotype of profilin. Reduction of profilin leads to a complete loss of tip growth and a partial inhibition of cell division, resulting in plants with small rounded cells and fewer cells. We silenced all profilins by targeting their 3' untranslated region sequences, enabling complementation analyses by expression of profilin coding sequences. We show that any moss or a lily (Lilium longiflorum) profilin support tip growth. Profilin with a mutation in its actin binding site is unable to rescue profilin RNAi, while a mutation in the poly-l-proline binding site weakly rescues. We show that moss tip growing cells contain a prominent subapical cortical F-actin structure composed of parallel actin cables. Cells lacking profilin lose this structure; instead, their F-actin is disorganized and forms polarized cortical patches. Plants expressing the actin and poly-l-proline binding mutants exhibited similar F-actin disorganization. These results demonstrate that profilin and its binding to actin are essential for tip growth. Additionally, profilin is not needed for formation of F-actin, but profilin and its interactions with actin and poly-l-proline ligands are required to properly organize F-actin.
+
+Profilin: !binds to! actin
+Profilin: !binds to! poly-l-proline ligands
+RNAi: !reduces! profilin
+Reduced profilin: !inhibits! tip growth
+Reduced profilin: !inhibits! cell division
+Moss/Lily profilin: !rescues! profilin RNAi
+Actin binding site mutation: !prevents! rescue of profilin RNAi
+Poly-l-proline binding site mutation: !weakly rescues! profilin RNAi
+F-actin: !forms! parallel actin cables
+Lack of profilin: !disorganizes! F-actin
+Actin binding mutant: !disorganizes! F-actin

@@ -1,0 +1,11 @@
+We sought to gain insight into functions potentially altered by mechanostimulation and investigate the relationship between touch and darkness responses. Microarrays and quantitative RT-PCR were conducted to identify genes and analyze behaviors of calmodulin-like (CML) and xyloglucan endotransglucosylase/hydrolase (XTH) genes. Strikingly, 589 genes had touch-inducible expression; 171 had reduced expression. Darkness increased expression of 461 genes and decreased expression of 72 genes. Over half of the touch-inducible genes resembled the TCH genes in that they were also up-regulated by darkness; 67% of those darkness-inducible were also touch inducible. Expression of 12 CMLs and four XTHs was elevated by touch; three XTHs had reduced expression. In darkness-treated plants, 10 CMLs and nine XTHs had increased expression and one XTH was repressed. Over 2.5% of total genes were touch-inducible. Many were also darkness up-regulated, consistent with the hypothesis that these stimuli have partially overlapping signal transduction pathways. Regulated gene identities suggest that calcium and kinase signaling, wall modification, disease resistance and downstream transcriptional responses may be altered in response to mechanostimulation or darkness.
+
+touch: !induces expression of! 589 genes
+darkness: !induces expression of! 461 genes
+touch: !reduces expression of! 171 genes
+darkness: !reduces expression of! 72 genes
+touch: !induces expression of! 12 CMLs
+touch: !induces expression of! 4 XTHs
+darkness: !induces expression of! 10 CMLs
+darkness: !induces expression of! 9 XTHs
+darkness: !represses expression of! 1 XTH

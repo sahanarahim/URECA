@@ -1,0 +1,11 @@
+Phosphatidic acid (PA) is a class of lipid messengers involved in a variety of physiological processes. To understand how PA mediates cell functions in plants, we used a PA affinity membrane assay to isolate PA-binding proteins from Camelina sativa followed by mass spectrometric sequencing. A cytosolic glyceraldehyde-3-phosphate dehydrogenase (GAPC) was identified to bind to PA, and detailed analysis was carried out subsequently using GAPC1 and GAPC1 from Arabidopsis. The PA and GAPC binding was abolished by the cation zinc whereas oxidation of GAPCs promoted the PA binding. PA had little impact on the GAPC catalytic activity in vitro, but the PA treatment of Arabidopsis seedlings induced proteolytic cleavage of GAPC2 and inhibited Arabidopsis seedling growth. The extent of PA inhibition was greater in GAPC-overexpressing than wild-type seedlings, but the greater PA inhibition was abolished by application of zinc to the seedling. The PA treatment also reduced the expression of genes involved in PA synthesis and utilization, and the PA-reduced gene expression was partially recovered by zinc treatment. These data suggest that PA binds to oxidized GAPDH and promotes its cleavage and that the PA and GAPC interaction may provide a signaling link coordinating carbohydrate and lipid metabolism.
+
+PA: !binds to! GAPC
+GAPC: !inhibited by! PA
+Zinc: !abolishes! PA/GAPC binding
+Oxidation: !promotes! PA/GAPC binding
+PA: !induces proteolytic cleavage of! GAPC2
+PA: !inhibits! Arabidopsis seedling growth
+GAPC-overexpressing: !more sensitive to! PA inhibition
+Zinc: !recovers! PA-reduced gene expression
+PA: !coordinates! carbohydrate/lipid metabolism

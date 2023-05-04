@@ -1,0 +1,7 @@
+During nuclear maturation of most eukaryotic pre-messenger RNAs and long non-coding RNAs, introns are removed through the process of RNA splicing. Different classes of introns are excised by the U2-type or the U12-type spliceosomes, large complexes of small nuclear ribonucleoprotein particles and associated proteins. We created intronIC, a program for assigning intron class to all introns in a given genome, and used it on 24 eukaryotic genomes to create the Intron Annotation and Orthology Database (IAOD). We then used the data in the IAOD to revisit several hypotheses concerning the evolution of the two classes of spliceosomal introns, finding support for the class conversion model explaining the low abundance of U12-type introns in modern genomes.
+
+U2-type spliceosome: !removes! U2-type introns
+U12-type spliceosome: !removes! U12-type introns
+intronIC: !assigns! intron class
+IAOD: !contains! intron annotation data
+class conversion model: !explains! low abundance of U12-type introns

@@ -1,0 +1,12 @@
+['22392280', 'Phospholipase D (PLD) is involved in responses to abiotic stress and abscisic  acid (ABA) signaling. To investigate the roles of two Arabidopsis (Arabidopsis  thaliana) PLDs, PLDalpha1 and PLDdelta, in ABA signaling in guard cells, we analyzed ABA  responses in guard cells using Arabidopsis wild type, pldalpha1 and plddelta single  mutants, and a pldalpha1 plddelta double mutant. ABA-induced stomatal closure was  suppressed in the pldalpha1 plddelta double mutant but not in the pld single mutants. The  pldalpha1 and plddelta mutations reduced ABA-induced phosphatidic acid production in  epidermal tissues. Expression of either PLDalpha1 or PLDdelta complemented the double  mutant stomatal phenotype. ABA-induced stomatal closure in both pldalpha1 and plddelta  single mutants was inhibited by a PLD inhibitor (1-butanol ), suggesting that  both PLDalpha1 and PLDdelta function in ABA-induced stomatal closure. During ABA-induced  stomatal closure, wild-type guard cells accumulate reactive oxygen species and  nitric oxide and undergo cytosolic alkalization, but these changes are reduced in  guard cells of the pldalpha1 plddelta double mutant. Inward-rectifying K(+) channel  currents of guard cells were inhibited by ABA in the wild type but not in the  pldalpha1 plddelta double mutant. ABA inhibited stomatal opening in the wild type and the  plddelta mutant but not in the pldalpha1 mutant. In wild-type rosette leaves, ABA  significantly increased PLDdelta transcript levels but did not change PLDalpha1  transcript levels. Furthermore, the pldalpha1 and plddelta mutations mitigated ABA  inhibition of seed germination. These results suggest that PLDalpha1 and PLDdelta  cooperate in ABA signaling in guard cells but that their functions do not  completely overlap.', '2012 May', 'Plant Physiol', '10.1104/pp.112.195578', 'Murata']
+
+PLDalpha1: !affects! ABA-induced stomatal closure 
+PLDdelta: !affects! ABA-induced stomatal closure 
+PLDalpha1: !synthesizes! phosphatidic acid 
+PLDdelta: !synthesizes! phosphatidic acid 
+PLDalpha1: !enhances! ABA-induced ROS and NO production 
+PLDdelta: !enhances! ABA-induced ROS and NO production 
+PLDalpha1: !inhibits! ABA-induced K+ channel currents 
+PLDdelta: !inhibits! ABA-induced K+ channel currents 
+PLDalpha1: !represses! ABA inhibition of seed germination 
+PLDdelta: !represses! ABA inhibition of seed germination

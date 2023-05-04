@@ -1,0 +1,9 @@
+We identified a Torenia fournieri Lind. mutant (no. 252) that exhibited a sepaloid phenotype in which the second whorls were changed to sepal-like organs. This mutant had no stamens, and the floral organs consisted of sepals and carpels. Although the expression of a torenia class B MADS-box gene, GLOBOSA (TfGLO), was abolished in the 252 mutant, no mutation of TfGLO was found. Among torenia homologs such as APETALA1 (AP1), LEAFY (LFY), and UNUSUAL FLORAL ORGANS (UFO), which regulate expression of class B genes in Arabidopsis, only accumulation of the TfUFO transcript was diminished in the 252 mutant. Furthermore, a missense mutation was found in the coding region of the mutant TfUFO. Intact TfUFO complemented the mutant phenotype whereas mutated TfUFO did not; in addition, the transgenic phenotype of TfUFO-knockdown torenias coincided with the mutant phenotype. Yeast two-hybrid analysis revealed that the mutated TfUFO lost its ability to interact with TfLFY protein. In situ hybridization analysis indicated that the transcripts of TfUFO and TfLFY were partially accumulated in the same region. These results clearly demonstrate that the defect in TfUFO caused the sepaloid phenotype in the 252 mutant due to the loss of interaction with TfLFY.
+
+TfGLO: !affects! sepaloid phenotype
+252 mutant: !lacks! TfGLO expression
+TfUFO: !interacts with! TfLFY
+mutant TfUFO: !loses! ability to interact with TfLFY
+TfUFO: !localizes to! same region as TfLFY
+intact TfUFO: !complements! mutant phenotype
+mutated TfUFO: !does not complement! mutant phenotype

@@ -1,0 +1,12 @@
+In tomato (Solanum lycopersicum) fruit, the number of locules (cavities containing seeds that are derived from carpels) varies from two to up to 10 or more. Locule number affects fruit shape and size and is controlled by several quantitative trait loci (QTLs). The large majority of the phenotypic variation is explained by two of these QTLs, fasciated (fas) and locule number (lc), that interact epistatically with one another. FAS has been cloned, and mutations in the gene are described as key factors leading to the increase in fruit size in modern varieties. Here, we report the map-based cloning of lc. The lc QTL includes a 1,600-bp region that is located 1,080 bp from the 3' end of WUSCHEL, which encodes a homeodomain protein that regulates stem cell fate in plants. The molecular evolution of lc showed a reduction of diversity in cultivated accessions with the exception of two single-nucleotide polymorphisms. These two single-nucleotide polymorphisms were shown to be responsible for the increase in locule number. An evolutionary model of locule number is proposed herein, suggesting that the fas mutation appeared after the mutation in the lc locus to confer the extreme high-locule-number phenotype.
+
+FAS: !affects! Fruit size
+lc: !affects! Locule number
+FAS: !cloned!
+lc: !cloned!
+WUSCHEL: !localizes to! lc QTL
+lc: !includes! 1,600-bp region
+fas: !interacts with! lc
+lc: !evolutionarily reduced! Diversity in cultivated accessions
+Two single-nucleotide polymorphisms: !responsible for! Increase in locule number
+fas mutation: !appeared after! Mutation in lc locus

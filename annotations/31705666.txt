@@ -1,0 +1,7 @@
+We studied the maize leaf to understand how long-distance signals, auxin and cytokinin, control leaf growth dynamics. We constructed a mathematical model describing the transport of these hormones along the leaf growth zone and their interaction with the local gibberellin (GA) metabolism in the control of cell division. Assuming gradually declining auxin and cytokinin supply at the leaf base, the model generated spatiotemporal hormone distribution and growth patterns that matched experimental data. At the cellular level, the model predicted a basal leaf growth as a result of cell division driven by auxin and cytokinin. Superimposed on this, GA synthesis regulated growth through the control of the size of the region of active cell division. The predicted hormone and cell length distributions closely matched experimental data. To correctly predict the leaf growth profiles and final organ size of lines with reduced or elevated GA production, the model required a signal proportional to the size of the emerged part of the leaf that inhibited the basal leaf growth driven by auxin and cytokinin. Excision and shading of the emerged part of the growing leaf allowed us to demonstrate that this signal exists and depends on the perception of light intensity.
+
+auxin: !controls! cell division 
+cytokinin: !controls! cell division 
+GA: !synthesizes! growth 
+GA: !regulates! region of active cell division 
+light intensity: !inhibits! basal leaf growth

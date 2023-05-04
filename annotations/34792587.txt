@@ -1,0 +1,9 @@
+Short interspersed nuclear elements (SINEs) are a widespread type of small transposable element (TE). With increasing evidence for their impact on gene function and genome evolution in plants, accurate genome-scale SINE annotation becomes a fundamental step for studying the regulatory roles of SINEs and their relationship with other components in the genomes. Despite the overall promising progress made in TE annotation, SINE annotation remains a major challenge. Unlike some other TEs, SINEs are short and heterogeneous, and they usually lack well-conserved sequence or structural features. Thus, current SINE annotation tools have either low sensitivity or high false discovery rates. Given the demand and challenges, we aimed to provide a more accurate and efficient SINE annotation tool for plant genomes. The pipeline starts with maximizing the pool of SINE candidates via profile hidden Markov model-based homology search and de novo SINE search using structural features. Then, it excludes the false positives by integrating all known features of SINEs and the features of other types of TEs that can often be misannotated as SINEs. As a result, the pipeline substantially improves the tradeoff between sensitivity and accuracy, with both values close to or over 90%. We tested our tool in Arabidopsis thaliana and rice (Oryza sativa), and the results show that our tool competes favorably against existing SINE annotation tools. The simplicity and effectiveness of this tool would potentially be useful for generating more accurate SINE annotations for other plant species. The pipeline is freely available at https://github.com/yangli557/AnnoSINE.
+
+SINEs: !impact! gene function 
+SINEs: !annotated by! pipeline 
+pipeline: !maximizes! SINE candidates 
+pipeline: !excludes! false positives 
+pipeline: !improves! sensitivity/accuracy 
+pipeline: !tested in! Arabidopsis thaliana/rice 
+pipeline: !available at! https://github.com/yangli557/AnnoSINE

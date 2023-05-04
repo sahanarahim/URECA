@@ -1,0 +1,8 @@
+Optimal stomatal control models have shown great potential in predicting stomatal behavior and improving carbon cycle modeling. Basic stomatal optimality theory posits that stomatal regulation maximizes the carbon gain relative to a penalty of stomatal opening. All models take a similar approach to calculate instantaneous carbon gain from stomatal opening (the gain function). Where the models diverge is in how they calculate the corresponding penalty (the penalty function). In this review, we compare and evaluate 10 different optimization models in how they quantify the penalty and how well they predict stomatal responses to the environment. We evaluate models in two ways. First, we compare their penalty functions against seven criteria that ensure a unique and qualitatively realistic solution. Second, we quantitatively test model against multiple leaf gas-exchange datasets. The optimization models with better predictive skills have penalty functions that meet our seven criteria and use fitting parameters that are both few in number and physiology based. The most skilled models are those with a penalty function based on stress-induced hydraulic failure. We conclude by proposing a new model that has a hydraulics-based penalty function that meets all seven criteria and demonstrates a highly predictive skill against our test datasets.
+
+Optimal stomatal control models: !maximize! Carbon gain 
+Models: !diverge in! Penalty function 
+Penalty functions: !compared against! Seven criteria 
+Models: !quantitatively tested against! Leaf gas-exchange datasets 
+Penalty functions: !based on! Stress-induced hydraulic failure 
+New model: !proposed with! Hydraulics-based penalty function

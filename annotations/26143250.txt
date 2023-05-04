@@ -1,0 +1,8 @@
+Histone H2B monoubiquitination (H2Bub1) is an important regulatory mechanism in eukaryotic gene transcription and is essential for normal plant development. However, the function of H2Bub1 in reproductive development remains elusive. Here, we report rice (Oryza sativa) HISTONE MONOUBIQUITINATION1 (OsHUB1) and OsHUB2, the homologs of Arabidopsis (Arabidopsis thaliana) HUB1 and HUB2 proteins, which function as E3 ligases in H2Bub1, are involved in late anther development in rice. oshub mutants exhibit abnormal tapetum development and aborted pollen in postmeiotic anthers. Knockout of OsHUB1 or OsHUB2 results in the loss of H2Bub1 and a reduction in the levels of dimethylated lysine-4 on histone 3 (H3K4me2). Anther transcriptome analysis revealed that several key tapetum degradation-related genes including OsC4, rice Cysteine Protease1 (OsCP1), and Undeveloped Tapetum1 (UDT1) were down-regulated in the mutants. Further, chromatin immunoprecipitation assays demonstrate that H2Bub1 directly targets OsC4, OsCP1, and UDT1 genes, and enrichment of H2Bub1 and H3K4me2 in the targets is consistent to some degree. Our studies suggest that histone H2B monoubiquitination, mediated by OsHUB1 and OsHUB2, is an important epigenetic modification that in concert with H3K4me2, modulates transcriptional regulation of anther development in rice.
+
+OsHUB1: !mediates! H2Bub1 
+OsHUB2: !mediates! H2Bub1 
+H2Bub1: !regulates! anther development 
+H2Bub1: !targets! OsC4, OsCP1, UDT1 
+H3K4me2: !enriches! targets of H2Bub1 
+OsC4, OsCP1, UDT1: !down-regulated! in oshub mutants

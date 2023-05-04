@@ -1,0 +1,7 @@
+['34504049', 'Vesicle-associated membrane proteins 721 and 722 (VAMP721/722) are secretory  vesicle-localized arginine-conserved soluble N-ethylmaleimide-sensitive factor  attachment protein receptors (R-SNAREs) to drive exocytosis in plants. They are  involved in diverse physiological processes in plants by interacting with  distinct plasma membrane (PM) syntaxins. Here, we show that synaptotagmin 5  (SYT5) is involved in plant defense against Pseudomonas syringae pv tomato (Pst)  DC3000 by regulating SYP132-VAMP721/722 interactions. Calcium-dependent  stimulation of in vitro SYP132-VAMP722 interaction by SYT5 and reduced in vivo  SYP132-VAMP721/722 interaction in syt5 plants suggest that SYT5 regulates the  interaction between SYP132 and VAMP721/722. We interestingly found that disease  resistance to Pst DC3000 bacterium but not to Erysiphe pisi fungus is compromised  in syt5 plants. Since SYP132 plays an immune function to bacteria, elevated  growth of surface-inoculated Pst DC3000 in VAMP721/722-deficient plants suggests  that SYT5 contributes to plant immunity to Pst DC3000 by promoting the  SYP132-VAMP721/722 immune secretory pathway.', '2021 Sep 30', 'Mol Cells', '10.14348/molcells.2021.0100', 'ORCID:']
+
+VAMP721/722: !localizes to! secretory vesicles 
+SYT5: !interacts with! VAMP721/722 
+SYP132: !interacts with! VAMP721/722 
+SYT5: !enhances! SYP132-VAMP721/722 interaction 
+SYT5: !contributes to! plant immunity to Pst DC3000

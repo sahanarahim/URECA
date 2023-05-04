@@ -1,0 +1,10 @@
+Biosynthesis of aspartate (Asp)-derived amino acids lysine (Lys), methionine (Met), threonine (Thr), and isoleucine involves monofunctional Asp kinases (AKs) and dual-functional Asp kinase-homoserine dehydrogenases (AK-HSDHs). Four-week-old loss-of-function Arabidopsis (Arabidopsis thaliana) mutants in the AK-HSDH2 gene had increased amounts of Asp and Asp-derived amino acids, especially Thr, in leaves. To explore mechanisms behind this phenotype, we obtained single mutants for other AK and AK-HSDH genes, generated double mutants from ak-hsdh2 and ak mutants, and performed free and protein-bound amino acid profiling, transcript abundance, and activity assays. The increases of Asp, Lys, and Met in ak-hsdh2 were also observed in ak1-1, ak2-1, ak3-1, and ak-hsdh1-1. However, the Thr increase in ak-hsdh2 was observed in ak-hsdh1-1 but not in ak1-1, ak2-1, or ak3-1. Activity assays showed that AK2 and AK-HSDH1 are the major contributors to overall AK and HSDH activities, respectively. Pairwise correlation analysis revealed positive correlations between the amount of AK transcripts and Lys-sensitive AK activity and between the amount of AK-HSDH transcripts and both Thr-sensitive AK activity and total HSDH activity. In addition, the ratio of total AK activity to total HSDH activity negatively correlates with the ratio of Lys to the total amount of Met, Thr, and isoleucine. These data led to the hypothesis that the balance between Lys-sensitive AKs and Thr-sensitive AK-HSDHs is important for maintaining the amounts and ratios of Asp-derived amino acids.
+
+AK: !affects! Lys
+AK-HSDH: !affects! Thr
+AK2: !contributes to! overall AK activity
+AK-HSDH1: !contributes to! overall HSDH activity
+AK transcripts: !correlate with! Lys-sensitive AK activity
+AK-HSDH transcripts: !correlate with! Thr-sensitive AK activity & total HSDH activity
+Total AK activity: !correlates with! Total HSDH activity
+Lys: !correlates with! Total Met, Thr, & isoleucine

@@ -1,0 +1,8 @@
+That functional traits should affect individual performance and, in turn, determine fitness and population growth, is a foundational assumption of trait-based ecology. This assumption is, however, not supported by a strong empirical base. Here, we measured simultaneously two individual performance metrics (survival and growth), seven traits and 10 environmental properties for each of 3981 individuals of 205 species in a 50-ha stem-mapped subtropical forest. We then modelled survival/growth as a function of traits, environments and trait × environment interactions, and quantified their relative importance at both the species and individual levels. We found evidence of alternative functional designs and multiple performance peaks along environmental gradients, indicating the presence of complicated trait × environment interactions. However, such interactions were relatively unimportant in our site, which had relatively low environmental variations. Moreover, individual performance was not better predicted, and trait × environment interactions were not more likely detected, at the individual level than at the species level. Although the trait × environment interactions might be safely ignored in relatively homogeneous environments, we encourage future studies to test the interactive effects of traits and environments on individual performances and lifelong fitness at larger spatial scales or along experimentally manipulated environmental gradients.
+
+trait: !affects! individual performance 
+individual performance: !determines! fitness 
+fitness: !influences! population growth 
+environment: !interacts with! traits 
+traits: !influence! survival/growth 
+trait: !x! environment: !influences! individual performance

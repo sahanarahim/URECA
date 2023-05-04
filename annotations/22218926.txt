@@ -1,0 +1,10 @@
+The S5 locus regulates spikelet fertility of indica/japonica hybrid rice (Oryza sativa). There are three alleles at the S5 locus, including an indica allele (S5i), a japonica allele (S5j), and a wide-compatibility allele (S5n). This study analyzed the molecular basis for S5-dependent reproductive isolation and compatibility of indica/japonica rice hybrids. Three S5 alleles were expressed at extremely low levels, and only in the ovary. S5n was more similar to S5i in both RNA and protein expression profiles. The S5 locus was not essential for embryo sac development, although deleterious interactions between S5i and S5j resulted in reduced rates of spikelet fertility. The yeast two-hybrid system was used to test direct interactions between S5-encoded proteins. The results indicated that the S5i- and S5j-encoded eukaryotic aspartyl proteases formed both homodimers and heterodimers, whereas the S5n-encoded aspartyl protease was incapable of dimerization. Site-directed mutagenesis revealed that a single amino acid difference between S5i- and S5j-encoded aspartyl proteases (phenylalanine/leucine at residue 273) was primarily responsible for embryo sac abortion. The S5 locus may have promoted the subspeciation of indica and japonica, but it also enables gene flow between them.
+
+S5i: !expresses! S5n 
+S5j: !expresses! S5n 
+S5n: !expresses! S5i 
+S5n: !expresses! S5j 
+S5i: !interacts with! S5j 
+S5i: !causes! embryo sac abortion 
+S5j: !causes! embryo sac abortion 
+S5n: !inhibits! dimerization

@@ -1,0 +1,11 @@
+Flavonols, phenylalanine-derived secondary metabolites, have protective and regulatory functions in plants. In Arabidopsis thaliana, they are consecutively glycosylated at their 3-OH and 7-OH groups. UGT78D1 and UGT78D2 are the major flavonol 3-O-glycosyltransferases in Arabidopsis leaves. The ugt78d1 ugt78d2 double mutant, which was strongly compromised in the initial 3-O-glycosylation, showed a severe and specific repression of flavonol biosynthesis, retaining only one-third of the wild-type level. This metabolic phenotype was associated with a repressed transcription of several flavonol biosynthetic genes including the committed step chalcone synthase [(CHS) or TRANSPARENT TESTA 4 (TT4)]. Furthermore, the committed step of the upstream, general phenylpropanoid pathway, phenylalanine ammonia-lyase (PAL), was down-regulated in its enzyme activity and in the transcription of the flavonol-related PAL1 and PAL2. However, a complete blocking of flavonoid biosynthesis at CHS released PAL inhibition in a tt4 ugt78d1 ugt78d2 line. PAL activity was even enhanced in the flavonol synthase 1 mutant, which compromises the final formation of flavonol aglycones. The dependence of the PAL feedback inhibition on flavonols was confirmed by chemical complementation of tt4 ugt78d1 ugt78d2 using naringenin, a downstream flavonoid intermediate, which restored the PAL repression. Although aglycones were not analytically detectable, this study provides genetic evidence for a novel, flavonol-dependent feedback inhibition of the flavonol biosynthetic pathway and PAL. It was conditioned by the compromised flavonol-3-O-conjugation and a decrease in flavonol content, yet dependent on a residual, flavonol synthase 1 (FLS1)-related capacity to form flavonol aglycones. Thus, this regulation would not react to a reduced metabolic flux into flavonol biosynthesis, but it might prevent the accumulation of non-glycosylated, toxic flavonols.
+
+UGT78D1: !represses! flavonol biosynthesis
+UGT78D2: !represses! flavonol biosynthesis
+CHS: !repressed by! UGT78D1 & UGT78D2
+PAL: !inhibited by! flavonols
+PAL1: !down-regulated by! UGT78D1 & UGT78D2
+PAL2: !down-regulated by! UGT78D1 & UGT78D2
+tt4 ugt78d1 ugt78d2: !releases! PAL inhibition
+flavonoid intermediate: !restores! PAL repression
+FLS1: !forms! flavonol aglycones

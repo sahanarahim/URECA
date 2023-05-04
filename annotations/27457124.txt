@@ -1,0 +1,10 @@
+OsMADS1 controls rice (Oryza sativa) floral fate and organ development. Yet, its genome-wide targets and the mechanisms underlying its role as a transcription regulator controlling developmental gene expression are unknown. We identify 3112 gene-associated OsMADS1-bound sites in the floret genome. These occur in the vicinity of transcription start sites, within gene bodies, and in intergenic regions. Majority of the bound DNA contained CArG motif variants or, in several cases, only A-tracts. Sequences flanking the binding peak had a higher AT nucleotide content, implying that broader DNA structural features may define in planta binding. Sequences for binding by other transcription factor families like MYC, AP2/ERF, bZIP, etc. are enriched in OsMADS1-bound DNAs. Target genes implicated in transcription, chromatin remodeling, cellular processes, and hormone metabolism were enriched. Combining expression data from OsMADS1 knockdown florets with these DNA binding data, a snapshot of a gene regulatory network was deduced where targets, such as AP2/ERF and bHLH transcription factors and chromatin remodelers form nodes. We show that the expression status of these nodal factors can be altered by inducing the OsMADS1-GR fusion protein and present a model for a regulatory cascade where the direct targets of OsMADS1, OsbHLH108/SPT, OsERF034, and OsHSF24, in turn control genes such as OsMADS32 and OsYABBY5 This cascade, with other similar relationships, cumulatively contributes to floral organ development. Overall, OsMADS1 binds to several regulatory genes and, probably in combination with other factors, controls a gene regulatory network that ensures rice floret development.
+
+OsMADS1: !controls! rice floral fate and organ development
+OsMADS1: !binds to! regulatory genes
+OsMADS1: !induces! OsMADS1-GR fusion protein
+OsbHLH108/SPT: !controlled by! OsMADS1
+OsERF034: !controlled by! OsMADS1
+OsHSF24: !controlled by! OsMADS1
+OsMADS32: !controlled by! OsbHLH108/SPT, OsERF034, OsHSF24
+OsYABBY5: !controlled by! OsbHLH108/SPT, OsERF034, OsHSF24

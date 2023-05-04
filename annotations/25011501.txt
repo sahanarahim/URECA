@@ -1,0 +1,10 @@
+The begomovirus AL2 protein is a transcriptional activator, a silencing suppressor, and inhibitor of basal defense. AL2 forms a complex at the CP promoter, through interaction with a plant-specific DNA-binding protein, Arabidopsis PEAPOD2 (also known as TIFY4B). AtTIFY4B has three domains (PPD, TIFY and CCT_2) conserved between homologs from different plant species. We confirmed that the AL2 protein from Tomato golden mosaic virus and Cabbage leaf curl virus interacts with TIFY4B from Arabidopsis, tomato and Nicotiana benthamiana in the nucleus of plant cells. Bimolecular Fluorescence Complementation demonstrated that the interaction involves both the TIFY and CCT_2 domains. Surprisingly, amino acids 84-150 can prevent AtTIFY4B from localizing to the nucleus, and interaction with AL2 results in some of the protein re-entering the nucleus. When AtTIFY4B is over-expressed, we observe an increase in mean latent period, where systemic symptoms are detected on average, 4 days later than in mock treated plants. This appears to be a consequence of reduced viral DNA titers, possibly related to the role of TIFY4B in cell cycle arrest. Our results point to a potential role for TIFY4B in host defense against geminiviruses. Expression of TIFY4B in N. benthamiana increases in response to geminivirus infection, which would result in suppression of proliferation, reducing viral replication. Geminiviruses may counter this defense response through an interaction between AL2 and TIFY4B, which would inhibit TIY4B function. The consequence of this inhibition would be failure to arrest the cell cycle, providing an environment conducive for geminivirus replication.
+
+AL2: !interacts with! TIFY4B 
+TIFY4B: !localizes to! nucleus 
+AL2: !prevents! TIFY4B localization 
+TIFY4B: !enhances! latent period 
+TIFY4B: !represses! viral DNA titers 
+Geminiviruses: !interact with! TIFY4B 
+AL2: !inhibits! TIFY4B function 
+TIFY4B: !increases! in response to geminivirus infection

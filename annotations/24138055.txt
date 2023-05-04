@@ -1,0 +1,8 @@
+The identification of endogenous cis-regulatory DNA elements (CREs) responsive to endogenous and environmental cues is important for studying gene regulation and for biotechnological applications but is labor and time intensive. Alternatively, by taking a synthetic biology approach small specific DNA binding sites tailored to the needs of the scientist can be generated and rapidly identified. Here we report a novel approach to identify stimulus-responsive synthetic CREs (SynCREs) from an unbiased random synthetic element (SynE) library. Functional SynCREs were isolated by screening the SynE libray for elements mediating transcriptional activity in plant protoplasts. Responsive elements were chromatin immunoprecipitated by targeting the active Ser-5 phosphorylated RNA polymerase II CTD (Pol II ChIP). Using sequential enrichment, deep sequencing and a bioinformatics pipeline, candidate responsive SynCREs were identified within a pool of constitutively active DNA elements and further validated. These included bonafide biotic/abiotic stress-responsive motifs along with novel SynCREs. We tested several SynCREs in Arabidopsis and confirmed their response to biotic stimuli. Successful isolation of synthetic stress-responsive elements from our screen illustrates the power of the described methodology. This approach can be applied to any transfectable eukaryotic system since it exploits a universal feature of the eukaryotic Pol II.
+
+SynE library: !isolates! Functional SynCREs 
+Screening: !identifies! Responsive elements 
+Pol II ChIP: !enriches! Candidate responsive SynCREs 
+Bioinformatics pipeline: !validates! Responsive SynCREs 
+SynCREs: !respond to! Biotic/abiotic stress-responsive motifs 
+Arabidopsis: !confirms! Response to biotic stimuli

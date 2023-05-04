@@ -1,0 +1,7 @@
+The molecular pathways responsible for the flowering response to photoperiod have been extensively studied in Arabidopsis thaliana and cereals but remain poorly understood in other major plant groups. Here, we describe a dominant mutant at the LATE BLOOMER2 (LATE2) locus in pea (Pisum sativum) that is late-flowering with a reduced response to photoperiod. LATE2 acts downstream of light signaling and the circadian clock to control expression of the main photoperiod-regulated FT gene, FTb2, implying that it plays a primary role in photoperiod measurement. Mapping identified the CYCLING DOF FACTOR gene CDFc1 as a strong candidate for LATE2, and the late2-1D mutant was found to carry a missense mutation in CDFc1 that impairs its capacity to bind to the blue-light photoreceptor FKF1 in yeast two-hybrid assays and delays flowering in Arabidopsis when overexpressed. Arabidopsis CDF genes are important negative regulators of CONSTANS (CO) transcription, but we found no effect of LATE2 on the transcription of pea CO-LIKE genes, nor on genes in any other families previously implicated in the activation of FT in Arabidopsis. Our results reveal an important component of the pea photoperiod response pathway and support the view that regulation of FTb2 expression by photoperiod occurs via a CO-independent mechanism.
+
+LATE2: !controls! FTb2 expression
+CDFc1: !binds to! FKF1
+LATE2: !delays! flowering
+CDFc1: !impairs! binding capacity
+LATE2: !regulates! CO-LIKE genes

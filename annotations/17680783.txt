@@ -1,0 +1,8 @@
+Accurately identifying differentially expressed genes from microarray data is not a trivial task, partly because of poor variance estimates of gene expression signals. Here, after analyzing 380 replicated microarray experiments, we found that probesets have typical, distinct variances that can be estimated based on a large number of microarray experiments. These probeset-specific variances depend at least in part on the function of the probed gene: genes for ribosomal or structural proteins often have a small variance, while genes implicated in stress responses often have large variances. We used these variance estimates to develop a statistical test for differentially expressed genes called EVE (external variance estimation). The EVE algorithm performs better than the t-test and LIMMA on some real-world data, where external information from appropriate databases is available. Thus, EVE helps to maximize the information gained from a typical microarray experiment. Nonetheless, only a large number of replicates will guarantee to identify nearly all truly differentially expressed genes. However, our simulation studies suggest that even limited numbers of replicates will usually result in good coverage of strongly differentially expressed genes.
+
+Gene: !affects! Variance 
+Variance: !depends on! Function of gene 
+Function of gene: !implicated in! Stress responses 
+EVE algorithm: !performs better than! T-test and LIMMA 
+Large number of replicates: !guarantees to identify! Differentially expressed genes 
+Limited numbers of replicates: !result in! Good coverage of strongly differentially expressed genes

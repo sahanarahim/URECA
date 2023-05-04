@@ -1,0 +1,9 @@
+['16113208', 'The ambient-light conditions mediate chloroplast relocation in plant cells. Under  the low-light conditions, chloroplasts accumulate in the light (accumulation  response), while under the high-light conditions, they avoid the light (avoidance  response). In Arabidopsis (Arabidopsis thaliana), the accumulation response is  mediated by two blue-light receptors, termed phototropins (phot1 and phot2) that  act redundantly, and the avoidance response is mediated by phot2 alone. A mutant,  J-domain protein required for chloroplast accumulation response 1 (jac1), lacks  the accumulation response under weak blue light but shows a normal avoidance  response under strong blue light. In dark-adapted wild-type cells, chloroplasts  accumulate on the bottom of cells. Both the jac1 and phot2 mutants are defective  in this chloroplast movement in darkness. Positional cloning of JAC1 reveals that  this gene encodes a J-domain protein, resembling clathrin-uncoating factor  auxilin at its C terminus. The amounts of JAC1 transcripts and JAC1 proteins are  not regulated by light and by phototropins. A green fluorescent protein-JAC1  fusion protein showed a similar localization pattern to green fluorescent protein  alone in a transient expression assay using Arabidopsis mesophyll cells and onion  (Allium cepa) epidermal cells, suggesting that the JAC1 protein may be a soluble  cytosolic protein. Together, these results suggest that JAC1 is an essential  component of phototropin-mediated chloroplast movement.', '2005 Sep', 'Plant Physiol', '10.1104/pp.105.067371', 'Wada']
+
+phot1: !mediates! accumulation response 
+phot2: !mediates! avoidance response 
+jac1: !lacks! accumulation response 
+jac1: !defective in! chloroplast movement in darkness 
+JAC1: !encodes! J-domain protein 
+JAC1: !localizes to! cytosol 
+JAC1: !essential component of! phototropin-mediated chloroplast movement

@@ -1,0 +1,10 @@
+The higher plant ADP-glucose pyrophosphorylase (AGPase) is a heterotetramer consisting of two regulatory large subunits (LSs) and two catalytic small subunits (SSs). To further characterize the roles of these subunits in determining enzyme function, different combinations of wildtype LS (LWT) and variant forms (LUpReg1, LM345) were co-expressed with wildtype SS (SWT) and variant forms (STG-15 and Sdevo330) and their enzyme properties compared to those measured for the heterotetrameric wildtype enzyme and SS homotetrameric enzymes. Analysis of the allosteric regulatory properties of the various enzymes indicates that although the LS is required for optimal activation by 3-phosphoglyceric acid and resistance to Pi, the overall allosteric regulatory and kinetic properties are specified by both subunits. Our results show that the regulatory and kinetic properties of AGPase are not simply due to the LS modulating the properties of the SS but, instead, are a product of synergistic interaction between the two subunits.
+
+LWT: !interacts with! SWT
+LUpReg1: !interacts with! SWT
+LM345: !interacts with! SWT
+SWT: !interacts with! LWT
+SWT: !interacts with! LUpReg1
+SWT: !interacts with! LM345
+STG-15: !interacts with! LWT
+Sdevo330: !interacts with! LWT

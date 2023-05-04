@@ -1,0 +1,10 @@
+Salt tolerance in plants is mediated by Na+ extrusion from the cytosol by the plasma membrane Na+/H+ antiporter SOS1. This is activated in Arabidopsis root by the protein kinase complex SOS2-SOS3 and in Arabidopsis shoot by the protein kinase complex CBL10-SOS2, with SOS2 as a key node in the two pathways. The sos1 mutant is more sensitive than the sos2 mutant, suggesting that other partners may positively regulate SOS1 activity. Arabidopsis has 26 CIPK family proteins of which CIPK8 is the closest homolog to SOS2. It is hypothesized that CIPK8 can activate Na+ extrusion by SOS1 similarly to SOS2. The plasma membrane Na+/H+ exchange activity of transgenic yeast co-expressing CBL10, CIPK8, and SOS1 was higher than that of untransformed and SOS1 transgenic yeast, resulting in a lower Na+ accumulation and a better growth phenotype under salinity. However, CIPK8 could not interact with SOS3, and the co-expression of SOS3, CIPK8, and SOS1 in yeast did not confer a significant salt tolerance phenotype relative to SOS1 transgenic yeast. Interestingly, cipk8 displayed a slower Na+ efflux, a higher Na+ level, and a more sensitive phenotype than wild-type Arabidopsis, but grew better than sos2 under salinity stress. As expected, sos2cipk8 exhibited a more severe salt damage phenotype relative to cipk8 or sos2. Overexpression of CIPK8 in both cipk8 and sos2cipk8 attenuated the salt sensitivity phenotype. These results suggest that CIPK8-mediated activation of SOS1 is CBL10-dependent and SOS3-independent, indicating that CIPK8 and SOS2 activity in shoots is sufficient for regulating Arabidopsis salt tolerance.
+
+SOS2: !activates! SOS1
+CBL10-SOS2: !activates! Na+ extrusion by SOS1
+CIPK8: !homologous to! SOS2
+CBL10-CIPK8-SOS1: !exhibits higher! Na+/H+ exchange activity
+CIPK8: !cannot interact with! SOS3
+CIPK8: !slower Na+ efflux than! wild-type Arabidopsis
+sos2cipk8: !more severe salt damage phenotype than! cipk8 or sos2
+CIPK8: !attenuates! salt sensitivity phenotype

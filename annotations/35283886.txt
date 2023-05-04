@@ -1,0 +1,11 @@
+Light plays a crucial role in plant growth and development, and light signaling is integrated with various stress responses to adapt to different environmental changes. During this process, excessive protein synthesis overwhelms the protein-folding ability of the endoplasmic reticulum (ER), causing ER stress. Although crosstalk between light signaling and ER stress response has been reported in plants, the molecular mechanisms underlying this crosstalk are poorly understood. Here, we demonstrate that the photoreceptor phytochrome B (phyB) induces the expression of ER luminal protein chaperones as well as that of unfolded protein response (UPR) genes. The <i>phyB-5</i> mutant was less sensitive to tunicamycin (TM)-induced ER stress than were the wild-type plants, whereas <i>phyB</i>-overexpressing plants displayed a more sensitive phenotype under white light conditions. ER stress response genes (<i>BiP2</i> and <i>BiP3</i>), UPR-related bZIP transcription factors (<i>bZIP17</i>, <i>bZIP28</i>, and <i>bZIP60</i>), and programmed cell death (PCD)-associated genes (<i>OXI1</i>, <i>NRP1</i>, and <i>MC8</i>) were upregulated in <i>phyB</i>-overexpressing plants, but not in <i>phyB-5</i>, under ER stress conditions. The ER stress-sensitive phenotype of <i>phyB-5</i> under red light conditions was eliminated with a reduction in photo-equilibrium by far-red light and darkness. The N-terminal domain of phyB is essential for signal transduction of the ER stress response in the nucleus, which is similar to light signaling. Taken together, our results suggest that phyB integrates light signaling with the UPR to relieve ER stress and maintain proper plant growth.
+
+phyB: !induces expression of! ER luminal protein chaperones 
+phyB: !induces expression of! UPR genes 
+phyB-5: !less sensitive to! TM-induced ER stress 
+phyB-overexpressing plants: !more sensitive to! white light conditions 
+BiP2/BiP3: !upregulated in! phyB-overexpressing plants 
+bZIP17/bZIP28/bZIP60: !upregulated in! phyB-overexpressing plants 
+OXI1/NRP1/MC8: !upregulated in! phyB-overexpressing plants 
+phyB-5: !eliminated with reduction in! photo-equilibrium 
+phyB: !integrates! light signaling with UPR

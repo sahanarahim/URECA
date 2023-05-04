@@ -1,0 +1,7 @@
+The outgrowth of tiller buds in Poaceae is influenced by the ratio of red to far-red light irradiance (R:FR). At each point in the plant canopy, R:FR is affected by light scattered by surrounding plant tissues. This paper presents a three-dimensional virtual plant modelling approach to simulate local effects of R:FR on tillering in spring wheat (Triticum aestivum). R:FR dependence of bud outgrowth was implemented in a wheat model, using three hypothetical responses of bud extension to R:FR (unit step, curvilinear and linear response). Bud break occurred when a threshold bud length was reached. Simulations were performed for three plant population densities. In accordance with experimental observations, fewer tillers per plant were simulated for higher plant population densities. The linear and curvilinear responses caused a delay in the increase in tiller number compared with experimental data. The unit step response approached experimental results best. It is suggested that a model based on relatively simple relations can be used to simulate degree of tillering. This study has shown that the virtual plant approach is a promising tool with which to address crop morphological and ecological research questions where the determining factors act at the level of the individual plant organ.
+
+R:FR: !affects! Bud Outgrowth 
+Bud Outgrowth: !depends on! R:FR 
+Wheat Model: !implements! R:FR Dependence 
+Unit Step Response: !approaches! Experimental Results 
+Virtual Plant Approach: !promises to address! Crop Morphological/Ecological Research Questions

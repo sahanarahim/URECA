@@ -1,0 +1,7 @@
+PICKLE (PKL) is a chromodomain helicase DNA-binding domain 3 (CHD3) chromatin remodeler that plays essential roles in controlling the gene expression patterns that determine developmental identity in plants, but the molecular mechanisms through which PKL is recruited to its target genes remain elusive. Here, we define a cis-motif and trans-acting factors mechanism that governs the genomic occupancy profile of PKL in Arabidopsis thaliana. We show that two homologous trans-factors VIVIPAROUS1/ABI3-LIKE1 (VAL1) and VAL2 physically interact with PKL in vivo, localize extensively to PKL-occupied regions in the genome, and promote efficient PKL recruitment at thousands of target genes, including those involved in seed maturation. Transcriptome analysis and genetic interaction studies reveal a close cooperation of VAL1/VAL2 and PKL in regulating gene expression and developmental fate. We demonstrate that this recruitment operates at two master regulatory genes, ABSCISIC ACID INSENSITIVE3 and AGAMOUS-LIKE 15, to repress the seed maturation program and ensure the seed-to-seedling transition. Together, our work unveils a general rule through which the CHD3 chromatin remodeler PKL binds to its target chromatin in plants.
+
+PKL: !interacts with! VAL1/VAL2 
+VAL1/VAL2: !promote efficient recruitment of! PKL 
+PKL: !occupies regions in! genome 
+PKL: !regulates expression of! master regulatory genes 
+master regulatory genes: !repressed by! PKL

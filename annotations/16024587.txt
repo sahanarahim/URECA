@@ -1,0 +1,10 @@
+Phytochromes mediate a profound developmental shift when dark-grown seedlings are exposed to light. Here, we show that a subset of genes is upregulated in phytochrome B (phyB) mutants even before dark-grown Arabidopsis thaliana seedlings are exposed to light. Most of these genes bear the RY cis motif, which is a binding site of the transcription factor ABSCISIC ACID INSENSITIVE3 (ABI3), and the phyB mutation also enhances ABI3 expression. These changes in transcriptome have physiological consequences, because seedlings of the abi3 mutant showed enhanced responses to pulses of far-red light, whereas ABI3 overexpressers exhibited the opposite pattern. Seedlings of the wild type derived from seeds germinated in full darkness showed enhanced expression of genes bearing the RY cis motif and reduced responses to far-red light. We propose that, via changes in ABI3 expression, light, perceived mainly by phyB in the seed, generates a downstream transdevelopmental phase signal that preconditions the seedling to its most likely environment.
+
+phyB: !mediates! developmental shift
+phyB: !upregulates! genes with RY cis motif
+ABI3: !binds to! RY cis motif
+ABI3: !expression enhanced by! phyB mutation
+ABI3: !overexpression reduces! far-red light response
+RY cis motif: !enhances expression of! genes
+light: !perceived by! phyB
+light: !generates! downstream transdevelopmental phase signal

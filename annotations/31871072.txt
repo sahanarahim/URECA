@@ -1,0 +1,15 @@
+Lignin is a phenylpropanoid-derived polymer that functions as a major component of cell walls in plant vascular tissues. Biosynthesis of the aromatic amino acid Phe provides precursors for many secondary metabolites, including lignins and flavonoids. Here, we discovered that MYB transcription factors MYB20, MYB42, MYB43, and MYB85 are transcriptional regulators that directly activate lignin biosynthesis genes and Phe biosynthesis genes during secondary wall formation in Arabidopsis (<i>Arabidopsis thaliana</i>). Disruption of <i>MYB20</i>, <i>MYB42</i>, <i>MYB43</i>, and <i>MYB85</i> resulted in growth development defects and substantial reductions in lignin biosynthesis. In addition, our data showed that these MYB proteins directly activated transcriptional repressors that specifically inhibit flavonoid biosynthesis, which competes with lignin biosynthesis for Phe precursors. Together, our results provide important insights into the molecular framework for the lignin biosynthesis pathway.
+
+MYB20: !activates! lignin biosynthesis genes
+MYB42: !activates! lignin biosynthesis genes
+MYB43: !activates! lignin biosynthesis genes
+MYB85: !activates! lignin biosynthesis genes
+MYB20: !activates! Phe biosynthesis genes
+MYB42: !activates! Phe biosynthesis genes
+MYB43: !activates! Phe biosynthesis genes
+MYB85: !activates! Phe biosynthesis genes
+MYB20: !activates! transcriptional repressors
+MYB42: !activates! transcriptional repressors
+MYB43: !activates! transcriptional repressors
+MYB85: !activates! transcriptional repressors
+transcriptional repressors: !inhibit! flavonoid biosynthesis

@@ -1,0 +1,7 @@
+Regulation of stomatal (gs ) and mesophyll conductance (gm ) is an efficient means for optimizing the relationship between water loss and carbon uptake in plants. We assessed water-use efficiency (WUE)-based drought adaptation strategies with respect to mesophyll conductance of different functional plant groups of the forest understory. Moreover we aimed at assessing the mechanisms of and interactions between water and CO2 conductance in the mesophyll. The facts that an increase in WUE was observed only in the two species that increased gm in response to moderate drought, and that over all five species examined, changes in mesophyll conductance were significantly correlated with the drought-induced change in WUE, proves the importance of gm in optimizing resource use under water restriction. There was no clear correlation of mesophyll CO2 conductance and the tortuosity of water movement in the leaf across the five species in the control and drought treatments. This points either to different main pathways for CO2 and water in the mesophyll either to different regulation of a common pathway.
+
+gs: !affects! WUE
+gm: !affects! WUE
+WUE: !correlated with! gm
+CO2 conductance: !not correlated with! tortuosity of water movement
+CO2/water: !different pathways or! different regulation

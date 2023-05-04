@@ -1,0 +1,10 @@
+The Pseudomonas syringae effector AvrB targets multiple host proteins during infection, including the plant immune regulator RPM1-INTERACTING PROTEIN4 (RIN4) and RPM1-INDUCED PROTEIN KINASE (RIPK). In the presence of AvrB, RIPK phosphorylates RIN4 at Thr-21, Ser-160, and Thr-166, leading to activation of the immune receptor RPM1. Here, we investigated the role of RIN4 phosphorylation in susceptible Arabidopsis thaliana genotypes. Using circular dichroism spectroscopy, we show that RIN4 is a disordered protein and phosphorylation affects protein flexibility. RIN4 T21D/S160D/T166D phosphomimetic mutants exhibited enhanced disease susceptibility upon surface inoculation with P. syringae, wider stomatal apertures, and enhanced plasma membrane H(+)-ATPase activity. The plasma membrane H(+)-ATPase AHA1 is highly expressed in guard cells, and its activation can induce stomatal opening. The ripk knockout also exhibited a strong defect in pathogen-induced stomatal opening. The basal level of RIN4 Thr-166 phosphorylation decreased in response to immune perception of bacterial flagellin. RIN4 Thr166D lines exhibited reduced flagellin-triggered immune responses. Flagellin perception did not lower RIN4 Thr-166 phosphorylation in the presence of strong ectopic expression of AvrB. Taken together, these results indicate that the AvrB effector targets RIN4 in order to enhance pathogen entry on the leaf surface as well as dampen responses to conserved microbial features.
+
+AvrB: !targets! RIN4 
+RIN4: !phosphorylated by! RIPK 
+RIPK: !activates! RPM1 
+RIN4: !affects! protein flexibility 
+RIN4: !enhances! disease susceptibility 
+RIN4: !induces! stomatal opening 
+RIN4: !activates! H+-ATPase 
+RIN4: !dampens! flagellin-triggered immune responses

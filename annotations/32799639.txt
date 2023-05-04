@@ -1,0 +1,11 @@
+Plant potexvirus and potyvirus infection can trigger endoplasmic reticulum (ER) stress. ER stress signaling increases the expression of cytoprotective ER-chaperones, especially the BiP chaperones which contribute to pro-survival functions when plants are subjected to infection. The inositol requiring enzyme (IRE1) is one ER stress sensor that is activated to splice the bZIP60 mRNA which produces a truncated transcription factor that activates gene expression in the nucleus. The IRE1/bZIP60 pathway is associated with restricting potyvirus and potexvirus infection. Recent data also identified the IRE1-independent UPR pathways led by bZIP28 and bZIP17 contribute to potexvirus and potyvirus infection. These three bZIP pathways recognize <i>cis</i>-regulatory elements in the BiP promoters to enhance gene expression. BiP is part of a negative feedback loop that regulates the activities of the ER stress transducers IRE1, bZIP28, and bZIP17 to block their activation. We discuss a model in which bZIP60 and bZIP17 synergistically induce BiP and other genes restricting <i>Plantago asiatica mosaic virus</i> (PlAMV; a potexvirus) infection while bZIP60 and bZIP28 independently induce genes supporting PlAMV infection. Regarding <i>Turnip mosiac virus</i> (TuMV, a potyvirus) infection, bZIP60 and bZIP28 serve to repress local and systemic infection. Finally, tauroursodeoxycholic acid treatments were used to demonstrate that the protein folding capacity significantly influences PlAMV accumulation.
+
+IRE1: !activates! bZIP60 
+bZIP60: !induces! BiP 
+bZIP17: !synergistically induces! BiP 
+bZIP28: !independently induces! genes 
+BiP: !regulates! ER stress transducers 
+TuMV: !repressed by! bZIP60 & bZIP28 
+PlAMV: !restricted by! IRE1/bZIP60 & bZIP17 
+PlAMV: !supported by! bZIP60 & bZIP28 
+protein folding capacity: !influences! PlAMV accumulation

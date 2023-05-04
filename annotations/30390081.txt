@@ -1,0 +1,9 @@
+Root hairs elongate by tip growth and simultaneously harden the shank by constructing the inner secondary cell wall layer. While much is known about the process of tip growth<sup>1</sup>, almost nothing is known about the mechanism by which root hairs harden the shank. Here we show that phosphatidylinositol-3,5-bisphosphate (PtdIns(3,5)P<sub>2</sub>), the enzymatic product of FORMATION OF APLOID AND BINUCLEATE CELLS 1 (FAB1), is involved in the hardening of the shank in root hairs in Arabidopsis. FAB1 and PtdIns(3,5)P<sub>2</sub> localize to the plasma membrane along the shank of growing root hairs. By contrast, phosphatidylinositol 4-phosphate 5-kinase 3 (PIP5K3) and PtdIns(4,5)P<sub>2</sub> localize to the apex of the root hair where they are required for tip growth. Reduction of FAB1 function results in the formation of wavy root hairs while those of the wild type are straight. The localization of FAB1 in the plasma membrane of the root hair shank requires the activity of Rho-related GTPases from plants 10 (ROP10) and localization of ROP10 requires FAB1 activity. Computational modelling of root hair morphogenesis successfully reproduces the wavy root hair phenotype. Taken together, these data demonstrate that root hair shank hardening requires PtdIns(3,5)P<sub>2</sub>/ROP10 signalling.
+
+FAB1: !synthesizes! PtdIns(3,5)P<sub>2</sub>
+ROP10: !localizes to! Plasma membrane of root hair shank 
+FAB1: !localizes to! Plasma membrane of root hair shank 
+PIP5K3: !localizes to! Apex of root hair 
+PtdIns(4,5)P<sub>2</sub>: !localizes to! Apex of root hair 
+FAB1: !requires activity of! ROP10 
+ROP10: !requires activity of! FAB1

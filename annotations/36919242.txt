@@ -1,0 +1,8 @@
+In the post-genome-wide association study era, multi-omics techniques have shown great power and potential for candidate gene mining and functional genomics research. However, due to the lack of effective data integration and multi-omics analysis platforms, such techniques have not still been applied widely in rapeseed, an important oil crop worldwide. Here, we report a rapeseed multi-omics database (BnIR; http://yanglab.hzau.edu.cn/BnIR), which provides datasets of six omics including genomics, transcriptomics, variomics, epigenetics, phenomics, and metabolomics, as well as numerous "variation-gene expression-phenotype" associations by using multiple statistical methods. In addition, a series of multi-omics search and analysis tools are integrated to facilitate the browsing and application of these datasets. BnIR is the most comprehensive multi-omics database for rapeseed so far, and two case studies demonstrated its power to mine candidate genes associated with specific traits and analyze their potential regulatory mechanisms.
+
+Gene: !affects! Trait
+Gene: !localizes to! Omics
+Gene: !interacts with! Variation
+Gene: !enhances! Expression
+Gene: !represses! Phenotype
+Gene: !synthesizes! Metabolomics

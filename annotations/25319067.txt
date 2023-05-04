@@ -1,0 +1,9 @@
+The clustered regularly interspaced short palindromic repeats (CRISPR)-associated system enables biologists to edit genomes precisely and provides a powerful tool for perturbing endogenous gene regulation, modulation of epigenetic markers, and genome architecture. However, there are concerns about the specificity of the system, especially the usages of knocking out a gene. Previous designing tools either were mostly built-in websites or ran as command-line programs, and none of them ran locally and acquired a user-friendly interface. In addition, with the development of CRISPR-derived systems, such as chromosome imaging, there were still no tools helping users to generate specific end-user spacers. We herein present CRISPR Primer Designer for researchers to design primers for CRISPR applications. The program has a user-friendly interface, can analyze the BLAST results by using multiple parameters, score for each candidate spacer, and generate the primers when using a certain plasmid. In addition, CRISPR Primer Designer runs locally and can be used to search spacer clusters, and exports primers for the CRISPR-Cas system-based chromosome imaging system.
+
+CRISPR-Cas system: !enables! precise genome editing 
+CRISPR Primer Designer: !provides! user-friendly interface 
+CRISPR Primer Designer: !analyzes! BLAST results 
+CRISPR Primer Designer: !scores! candidate spacers 
+CRISPR Primer Designer: !generates! primers 
+CRISPR Primer Designer: !searches! spacer clusters 
+CRISPR Primer Designer: !exports! primers

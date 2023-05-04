@@ -1,0 +1,10 @@
+As the largest genus in Moraceae, <i>Ficus</i> is widely distributed across tropical and subtropical regions and exhibits a high degree of adaptability to different environments. At present, however, the phylogenetic relationships of this genus are not well resolved, and chloroplast evolution in <i>Ficus</i> remains poorly understood. Here, we sequenced, assembled, and annotated the chloroplast genomes of 10 species of <i>Ficus</i>, downloaded and assembled 13 additional species based on next-generation sequencing data, and compared them to 46 previously published chloroplast genomes. We found a highly conserved genomic structure across the genus, with plastid genome sizes ranging from 159,929 bp (<i>Ficus langkokensis</i>) to 160,657 bp (<i>Ficus religiosa</i>). Most chloroplasts encoded 113 unique genes, including a set of 78 protein-coding genes, 30 transfer RNA (tRNA) genes, four ribosomal RNA (rRNA) genes, and one pseudogene (<i>infA</i>). The number of simple sequence repeats (SSRs) ranged from 67 (<i>Ficus sagittata</i>) to 89 (<i>Ficus microdictya</i>) and generally increased linearly with plastid size. Among the plastomes, comparative analysis revealed eight intergenic spacers that were hotspot regions for divergence. Additionally, the <i>clpP</i>, <i>rbcL</i>, and <i>ccsA</i> genes showed evidence of positive selection. Phylogenetic analysis indicated that none of the six traditionally recognized subgenera of <i>Ficus</i> were monophyletic. Divergence time analysis based on the complete chloroplast genome sequences showed that <i>Ficus</i> species diverged rapidly during the early to middle Miocene. This research provides basic resources for further evolutionary studies of <i>Ficus</i>.
+
+gene: !encodes! protein-coding genes
+gene: !localizes to! chloroplast
+gene: !synthesizes! tRNA
+gene: !synthesizes! rRNA
+gene: !contains! SSRs
+gene: !diverges in! intergenic spacers
+gene: !undergoes! positive selection
+gene: !evolves! during Miocene

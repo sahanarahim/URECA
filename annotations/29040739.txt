@@ -1,0 +1,13 @@
+Papaya is an important tropical fruit with a rich source of carotenoids. The ripening of papaya is a physiological and metabolic process with remarkable changes including accumulation of carotenoids, which depends primarily on the action of ethylene. Ethylene response is mediated by a transcriptional cascade involving the transcription factor families of EIN3/EILs and ERFs. Although ERF members have been reported to control carotenoid production in Arabidopsis and tomato, whether EIN3/EILs are also involved in carotenoid biosynthesis during fruit ripening remains unclear. In this work, two EIN3 genes from papaya fruit, namely CpEIN3a and CpEIN3b, were studied, of which CpEIN3a was increased during fruit ripening, concomitant with the increase of transcripts of carotenoid biosynthesis-related genes including CpPDS2/4, CpZDS, CpLCY-e and CpCHY-b, and carotenoid content. Electrophoretic mobility shift assays (EMSAs) and transient expression analyses revealed that CpEIN3a was able to bind to the promoters of CpPDS4 and CpCHY-b, and promoted their transcription. Protein-protein interaction assays indicated that CpEIN3a physically interacted with another transcription factor CpNAC2, which acted as a transcriptional activator of CpPDS2/4, CpZDS, CpLCY-e and CpCHY-b by directly binding to their promoters. More importantly, the transcriptional activation abilities of CpPDS2/4, CpLCY-e and CpCHY-b were more pronounced following their interaction. Collectively, our findings suggest that CpEIN3a interacts with CpNAC2 and, individually or co-operatively, activates the transcription of a subset of carotenoid biosynthesis-related genes, providing new insights into the regulatory networks of carotenoid biosynthesis during papaya fruit ripening.
+
+CpEIN3a: !interacts with! CpNAC2
+CpEIN3a: !binds to! CpPDS4
+CpEIN3a: !binds to! CpCHY-b
+CpEIN3a: !activates! CpPDS2/4
+CpEIN3a: !activates! CpZDS
+CpEIN3a: !activates! CpLCY-e
+CpEIN3a: !activates! CpCHY-b
+CpNAC2: !binds to! CpPDS2/4
+CpNAC2: !binds to! CpZDS
+CpNAC2: !binds to! CpLCY-e
+CpNAC2: !binds to! CpCHY-b

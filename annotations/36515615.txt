@@ -1,0 +1,11 @@
+During sexual reproduction in flowering plants, the two haploid sperm cells embedded within the cytoplasm of a growing pollen tube are carried to the embryo sac for double fertilization. Pollen development in flowering plants is a dynamic process that encompasses changes at transcriptome and epigenome levels. While the transcriptome of pollen and sperm cells in Arabidopsis (Arabidopsis thaliana) is well documented, previous analyses have mostly been based on gene-level expression. In-depth transcriptome analysis, particularly the extent of alternative splicing at the resolution of sperm cell and vegetative nucleus, is still lacking. Therefore, we performed RNA-seq analysis to generate a spliceome map of Arabidopsis sperm cells and vegetative nuclei isolated from mature pollen grains. Based on our de-novo transcriptome assembly we identified 58039 transcripts, including 9681 novel transcripts, of which 2091 were expressed in sperm cells and 3600 in vegetative nuclei. 468 genes were regulated both at gene and splicing levels, with many having functions in mRNA splicing, chromatin modification, and protein localization. Moreover, a comparison with egg cell RNA-seq data uncovered sex-specific regulation of transcription and splicing factors. Our study provides insights into a gamete-specific alternative splicing landscape at unprecedented resolution.
+
+Gene: !affects! mRNA splicing
+Gene: !affects! Chromatin modification
+Gene: !affects! Protein localization
+Gene: !regulates! Transcription
+Gene: !regulates! Splicing
+Gene: !localizes to! Sperm cells
+Gene: !localizes to! Vegetative nuclei
+Gene: !enhances! Pollen development
+Gene: !synthesizes! Novel transcripts

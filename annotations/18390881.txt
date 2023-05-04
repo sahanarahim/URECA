@@ -1,0 +1,10 @@
+In our previous studies, we identified four DEFICIENS (DEF)-like genes and one GLOBOSA (GLO)-like gene involved in floral organ development in Phalaenopsis equestris. Revealing the DNA binding properties and protein-protein interactions of these floral homeotic MADS-box protein complexes (PeMADS) in orchids is crucial for the elucidation of the unique orchid floral morphogenesis. In this study, the interactome of B-class PeMADS proteins was assayed by the yeast two-hybrid system (Y2H) and glutathione S-transferase (GST) pull-down assays. Furthermore, the DNA binding activities of these proteins were assessed by using electrophoretic mobility shift assay (EMSA). All four DEF-like PeMADS proteins interacted individually with the GLO-like PeMADS6 in Y2H assay, yet with different strengths of interaction. Generally, the PeMADS3/PeMADS4 lineage interacted more strongly with PeMADS6 than the PeMADS2/PeMADS5 lineage did. In addition, independent homodimer formation for both PeMADS4 (DEF-like) and PeMADS6 (GLO-like) was detected. The protein-protein interactions between pairs of PeMADS proteins were further confirmed by using a GST pull-down assay. Furthermore, both the PeMADS4 homodimer and the PeMADS6 homodimer/homomultimer per se were able to bind to the MADS-box protein-binding motif CArG. The heterodimeric complexes PeMADS2-PeMADS6, PeMADS4-PeMADS6 and PeMADS5-PeMADS6 showed CArG binding activity. Taken together, these results suggest that various complexes formed among different combinations of the five B-class PeMADS proteins may increase the complexity of their regulatory functions and thus specify the molecular basis of whorl morphogenesis and combinatorial interactions of floral organ identity genes in orchids.
+
+PeMADS3/4: !interacts with! PeMADS6
+PeMADS2/5: !interacts with! PeMADS6
+PeMADS4: !forms homodimer!
+PeMADS6: !forms homodimer/homomultimer!
+PeMADS2: !forms heterodimer with! PeMADS6
+PeMADS4: !forms heterodimer with! PeMADS6
+PeMADS5: !forms heterodimer with! PeMADS6
+PeMADS4/6: !binds to! CArG

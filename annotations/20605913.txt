@@ -1,0 +1,15 @@
+The role of pyrophosphate in primary metabolism is poorly understood. Here, we report on the transient down-regulation of plastid-targeted soluble inorganic pyrophosphatase in Nicotiana benthamiana source leaves. Physiological and metabolic perturbations were particularly evident in chloroplastic central metabolism, which is reliant on fast and efficient pyrophosphate dissipation. Plants lacking plastidial soluble inorganic pyrophosphatase (psPPase) were characterized by increased pyrophosphate levels, decreased starch content, and alterations in chlorophyll and carotenoid biosynthesis, while constituents like amino acids (except for histidine, serine, and tryptophan) and soluble sugars and organic acids (except for malate and citrate) remained invariable from the control. Furthermore, translation of Rubisco was significantly affected, as observed for the amounts of the respective subunits as well as total soluble protein content. These changes were concurrent with the fact that plants with reduced psPPase were unable to assimilate carbon to the same extent as the controls. Furthermore, plants with lowered psPPase exposed to mild drought stress showed a moderate wilting phenotype and reduced vitality, which could be correlated to reduced abscisic acid levels limiting stomatal closure. Taken together, the results suggest that plastidial pyrophosphate dissipation through psPPase is indispensable for vital plant processes.
+
+psPPase: !down-regulates! pyrophosphate
+pyrophosphate: !affects! chloroplastic central metabolism
+chloroplastic central metabolism: !reliant on! psPPase
+psPPase: !affects! starch content
+starch content: !altered by! psPPase
+psPPase: !affects! chlorophyll and carotenoid biosynthesis
+chlorophyll and carotenoid biosynthesis: !altered by! psPPase
+psPPase: !affects! Rubisco translation
+Rubisco translation: !altered by! psPPase
+psPPase: !affects! carbon assimilation
+carbon assimilation: !limited by! psPPase
+psPPase: !affects! stomatal closure
+stomatal closure: !limited by! psPPase

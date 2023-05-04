@@ -1,0 +1,8 @@
+['25807486', 'MicroRNAs (miRNAs) are small regulatory RNA molecules that inhibit the expression  of specific target genes by binding to and cleaving their messenger RNAs or  otherwise inhibiting their translation into proteins. miRNAs are transcribed as  much larger primary transcripts (pri-miRNAs), the function of which is not fully  understood. Here we show that plant pri-miRNAs contain short open reading frame  sequences that encode regulatory peptides. The pri-miR171b of Medicago truncatula  and the pri-miR165a of Arabidopsis thaliana produce peptides, which we term  miPEP171b and miPEP165a, respectively, that enhance the accumulation of their  corresponding mature miRNAs, resulting in downregulation of target genes involved  in root development. The mechanism of miRNA-encoded peptide (miPEP) action  involves increasing transcription of the pri-miRNA. Five other pri-miRNAs of A.  thaliana and M. truncatula encode active miPEPs, suggesting that miPEPs are  widespread throughout the plant kingdom. Synthetic miPEP171b and miPEP165a  peptides applied to plants specifically trigger the accumulation of miR171b and  miR165a, leading to reduction of lateral root development and stimulation of main  root growth, respectively, suggesting that miPEPs might have agronomical  applications.', '2015 Apr 2', 'Nature', '10.1038/nature14346', 'Combier']
+
+MicroRNAs: !inhibit! target genes 
+pri-miRNA: !encodes! miPEPs 
+miPEPs: !enhance! mature miRNA accumulation 
+miPEPs: !trigger! miRNA accumulation 
+miRNA: !reduces! lateral root development 
+miRNA: !stimulates! main root growth

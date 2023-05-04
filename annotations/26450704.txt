@@ -1,0 +1,14 @@
+The green alga Chlamydomonas reinhardtii undergoes gametogenesis and mating upon nitrogen starvation. While the steps involved in its sexual reproductive cycle have been extensively characterized, the genome-wide transcriptional and epigenetic changes underlying different life cycle stages have yet to be fully described. Here, we performed transcriptome and methylome sequencing to quantify expression and DNA methylation from vegetative and gametic cells of each mating type and from zygotes. We identified 361 gametic genes with mating type-specific expression patterns and 627 genes that are specifically induced in zygotes; furthermore, these sex-related gene sets were enriched for secretory pathway and alga-specific genes. We also examined the C. reinhardtii nuclear methylation map with base-level resolution at different life cycle stages. Despite having low global levels of nuclear methylation, we detected 23 hypermethylated loci in gene-poor, repeat-rich regions. We observed mating type-specific differences in chloroplast DNA methylation levels in plus versus minus mating type gametes followed by chloroplast DNA hypermethylation in zygotes. Lastly, we examined the expression of candidate DNA methyltransferases and found three, DMT1a, DMT1b, and DMT4, that are differentially expressed during the life cycle and are candidate DNA methylases. The expression and methylation data we present provide insight into cell type-specific transcriptional and epigenetic programs during key stages of the C. reinhardtii life cycle.
+
+Gene: !affects! Process 
+Gene: !localizes to! X 
+Gene: !interacts with! Y 
+Gene: !enhances! Z 
+Gene: !represses! U 
+Gene: !synthesizes! I 
+Mating type: !specifically induces! 627 genes 
+Mating type: !enriches for! secretory pathway and alga-specific genes 
+DNA methylation: !detected in! gene-poor, repeat-rich regions 
+DNA methylation: !differs in! plus versus minus mating type gametes 
+DNA methylation: !hypermethylated in! zygotes 
+DNA methyltransferases: !differentially expressed! during life cycle

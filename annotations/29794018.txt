@@ -1,0 +1,13 @@
+The plant tricarboxylic acid (TCA) cycle provides essential precursors for respiration, amino acid biosynthesis, and general nitrogen metabolism; moreover, it is closely involved in biotic stress responses and cellular redox homeostasis. To further understand the in vivo function of the TCA cycle enzymes, we combined affinity purification with proteomics to generate a comprehensive extra-pathway protein-protein interaction network of the plant TCA cycle. We identified 125 extra-pathway interactions in Arabidopsis (<i>Arabidopsis thaliana</i>) mostly related to the mitochondrial electron transport complex/ATP synthesis and amino acid metabolism but also to proteins associated with redox stress. We chose three high-scoring and two low-scoring interactions for complementary bimolecular fluorescence complementation and yeast two-hybrid assays, which highlighted the reliability of our approach, supported the intimate involvement of TCA cycle enzymes within many biological processes, and reflected metabolic changes reported previously for the corresponding mutant lines. To analyze the function of a subset of these interactions, we selected two mutants of mitochondrial glutaredoxin S15 and Amidase, which have not yet been analyzed with respect to their TCA cycle function, and performed metabolite profiling and flux analysis. Consistent with their interactions identified in this study, TCA cycle metabolites and the relative TCA flux of the two mutants were altered significantly.
+
+Gene: !affects! Process
+TCA cycle enzymes: !involved in! Biotic stress responses
+TCA cycle enzymes: !involved in! Cellular redox homeostasis
+Mitochondrial electron transport complex/ATP synthesis: !interacts with! TCA cycle enzymes
+Amino acid metabolism: !interacts with! TCA cycle enzymes
+Redox stress proteins: !interacts with! TCA cycle enzymes
+Glutaredoxin S15: !interacts with! TCA cycle enzymes
+Amidase: !interacts with! TCA cycle enzymes
+Mutant lines: !reflects! Metabolic changes
+Metabolite profiling: !analyzes! Function of subset of interactions
+Flux analysis: !analyzes! Function of subset of interactions

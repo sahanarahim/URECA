@@ -1,0 +1,8 @@
+Extrachromosomal circular DNA (eccDNA) has been observed in different species for decades, and more and more evidence shows that this specific type of DNA molecules may play an important role in rapid adaptation. Therefore, characterizing the full landscape of eccDNA has become critical, and there are several protocols for enriching eccDNAs and performing short-read or long-read sequencing. However, there is currently no available bioinformatic tool to identify eccDNAs from Nanopore reads. More importantly, the current tools based on Illumina short reads lack an efficient standardized pipeline notably to identify eccDNA originating from repeated loci and cannot be applied to very large genomes. Here, we introduce a comprehensive tool to solve both of these two issues. Applying ecc_finder to eccDNA-seq data (either mobilome-seq, Circle-Seq and CIDER-seq) from <i>Arabidopsis</i>, human, and wheat (with genome sizes ranging from 120Mb to 17 Gb), we document the improvement of computational time, sensitivity, and accuracy and demonstrate ecc_finder wide applicability and functionality.
+
+eccDNA: !plays role in! rapid adaptation 
+protocols: !enrich! eccDNAs 
+Illumina short reads: !lack pipeline to! identify eccDNA from repeated loci 
+Nanopore reads: !lack tool to! identify eccDNAs 
+ecc_finder: !improves! computational time, sensitivity, and accuracy 
+ecc_finder: !applies to! Arabidopsis, human, and wheat

@@ -1,0 +1,8 @@
+Recent data suggest that plant disease resistance (R) proteins are present in multi-protein complexes. Tomato R protein I-2 confers resistance against the fungal pathogen Fusarium oxysporum. To identify components of the I-2 complex, we performed yeast two-hybrid screens using the I-2 leucine-rich repeat (LRR) domain as bait, and identified protein phosphatase 5 (PP5) as an I-2 interactor. Subsequent screens revealed two members of the cytosolic heat shock protein 90 (HSP90) family as interactors of PP5. By performing in vitro protein-protein interaction analysis using recombinant proteins, we were able to show a direct interaction between I-2 and PP5, and between I-2 and HSP90. The N-terminal part of the LRR domain was found to interact with HSP90, whereas the C-terminal part bound to PP5. The specific binding of HSP90 to the N-terminal region of the I-2 LRR domain was confirmed by co-purifying HSP90 from tomato lysate using recombinant proteins. Similarly, the interaction between PP5 and HSP90 was established. To investigate the role of PP5 and HSP90 for I-2 function, virus-induced gene silencing was performed in Nicotiana benthamiana. Silencing of HSP90 but not of PP5 completely blocked cell death triggered by I-2, showing that HSP90 is required for I-2 function. Together these data suggest that R proteins require, like steroid hormone receptors in animal systems, an HSP90/PP5 complex for their folding and functioning.
+
+I-2: !interacts with! PP5
+PP5: !interacts with! HSP90
+I-2: !interacts with! HSP90
+LRR domain: !binds to! HSP90
+LRR domain: !binds to! PP5
+HSP90: !required for! I-2 function

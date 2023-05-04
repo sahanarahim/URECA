@@ -1,0 +1,7 @@
+Using microscopy to investigate stomatal behaviour is common in plant physiology research. Manual inspection and measurement of stomatal pore features is low throughput, relies upon expert knowledge to record stomatal features accurately, requires significant researcher time and investment, and can represent a significant bottleneck to research pipelines. To alleviate this, we introduce StomaAI (SAI): a reliable, user-friendly and adaptable tool for stomatal pore and density measurements via the application of deep computer vision, which has been initially calibrated and deployed for the model plant Arabidopsis (dicot) and the crop plant barley (monocot grass). SAI is capable of producing measurements consistent with human experts and successfully reproduced conclusions of published datasets. SAI boosts the number of images that can be evaluated in a fraction of the time, so can obtain a more accurate representation of stomatal traits than is routine through manual measurement. An online demonstration of SAI is hosted at https://sai.aiml.team, and the full local application is publicly available for free on GitHub through https://github.com/xdynames/sai-app.
+
+StomaAI: !measures! Stomatal pore and density 
+StomaAI: !reproduces conclusions of! Published datasets 
+StomaAI: !boosts number of images! Evaluated 
+StomaAI: !hosted at! https://sai.aiml.team 
+StomaAI: !available for free on! GitHub

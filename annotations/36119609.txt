@@ -1,0 +1,12 @@
+Quantifying the phenolic compounds in plants is essential for maintaining the beneficial effects of plants on human health. Existing measurement methods are destructive and/or time consuming. To overcome these issues, research was conducted to develop a non-destructive and rapid measurement of phenolic compounds using hyperspectral imaging (HSI) and machine learning. In this study, the Arabidopsis was used since it is a model plant. They were grown in controlled and various stress conditions (LED lights and drought). Images were captured using HSI in the range of 400-1,000 nm (VIS/NIR) and 900-2,500 nm (SWIR). Initially, the plant region was segmented, and the spectra were extracted from the segmented region. These spectra were synchronized with plants' total phenolic content reference value, which was obtained from high-performance liquid chromatography (HPLC). The partial least square regression (PLSR) model was applied for total phenolic compound prediction. The best prediction values were achieved with SWIR spectra in comparison with VIS/NIR. Hence, SWIR spectra were further used. Spectral dimensionality reduction was performed based on discrete cosine transform (DCT) coefficients and the prediction was performed. The results were better than that of obtained with original spectra. The proposed model performance yielded <i>R</i> <sup>2</sup>-values of 0.97 and 0.96 for calibration and validation, respectively. The lowest standard errors of predictions (SEP) were 0.05 and 0.07 mg/g. The proposed model out-performed different state-of-the-art methods. These demonstrate the efficiency of the model in quantifying the total phenolic compounds that are present in plants and opens a way to develop a rapid measurement system.
+
+Hyperspectral Imaging: !measures! Total Phenolic Compounds 
+Arabidopsis: !used as! Model Plant 
+LED Lights/Drought: !applied as! Stress Conditions 
+HSI: !captures! Spectra (400-1,000 nm & 900-2,500 nm) 
+Segmented Region: !extracts! Spectra 
+HPLC: !synchronizes with! Reference Value 
+PLSR Model: !applied for! Total Phenolic Compound Prediction 
+SWIR Spectra: !yields best prediction values in comparison to! VIS/NIR 
+DCT Coefficients: !performs spectral dimensionality reduction on! Spectra 
+Proposed Model: !outperforms! State-of-the-Art Methods

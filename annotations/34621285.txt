@@ -1,0 +1,17 @@
+Drought currently affects several regions worldwide and tends to be more frequent due to climate change. It might compromise food security and the economic structure related to agribusiness. Popcorn has a crucial role in the Brazilian economy, but the cultivars that adapt to water stress, the most prejudicial abiotic stress for crop productivity, are unknown to date. This deficit of popcorn varieties adapted to heat and drought stresses will become more limiting with climate change. Given this scenario, knowing the genetic basis of agronomic traits under stress conditions is essential in promoting crop productivity and plant adaptation to abiotic stresses. Under two contrasting water conditions (WC) and different crop seasons (CS), we aimed to generate information about the combining ability of 10 popcorn progenitors and 15 hybrids through a partial diallel-mating design. The water stress was initiated at the male pre-anthesis stage. Significant genotype<sup>*</sup>crop seasons (G<sup>*</sup>CS), genotype<sup>*</sup>water condition (G<sup>*</sup>WC), and genotype<sup>*</sup>crop seasons<sup>*</sup>water condition (G<sup>*</sup>CS<sup>*</sup>WC) interactions were present. Regardless of CS and WC, non-additive effects controlled grain yield (GY), grain number per row (GN), ear length and diameter (ED), and 100-grain weight, while additive effects were present for popping expansion (PE). For each CS, regardless of WC, the cause-effect of GN (2018) and ED (2020) on GY seems to be an opportunity for indirect selection. Utilizing genetically broad-based hybrids is also a good opportunity for obtaining superior genotypes for GY and PE as it is possible to select inbred lines for both of these traits. We recommend the L76 × L61 hybrid for the Brazilian agribusiness context due to its greater productivity and dominance deviations.
+
+genotype: !affects! grain yield
+genotype: !affects! grain number per row
+genotype: !affects! ear length and diameter
+genotype: !affects! 100-grain weight
+genotype: !affects! popping expansion
+water condition: !affects! grain yield
+water condition: !affects! grain number per row
+water condition: !affects! ear length and diameter
+water condition: !affects! 100-grain weight
+water condition: !affects! popping expansion
+crop season: !affects! grain yield
+crop season: !affects! grain number per row
+crop season: !affects! ear length and diameter
+crop season: !affects! 100-grain weight
+crop season: !affects! popping expansion

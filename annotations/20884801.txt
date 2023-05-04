@@ -1,0 +1,7 @@
+Powdery mildew fungi are obligate biotrophic pathogens that only grow on living hosts and cause damage in thousands of plant species. Despite their agronomical importance, little direct functional evidence for genes of pathogenicity and virulence is currently available because mutagenesis and transformation protocols are lacking. Here, we show that the accumulation in barley (Hordeum vulgare) and wheat (Triticum aestivum) of double-stranded or antisense RNA targeting fungal transcripts affects the development of the powdery mildew fungus Blumeria graminis. Proof of concept for host-induced gene silencing was obtained by silencing the effector gene Avra10, which resulted in reduced fungal development in the absence, but not in the presence, of the matching resistance gene Mla10. The fungus could be rescued from the silencing of Avra10 by the transient expression of a synthetic gene that was resistant to RNA interference (RNAi) due to silent point mutations. The results suggest traffic of RNA molecules from host plants into B. graminis and may lead to an RNAi-based crop protection strategy against fungal pathogens.
+
+Host: !induces silencing of! Fungal Transcripts 
+Fungal Transcripts: !affects development of! Powdery Mildew Fungus 
+Avra10: !repressed by! Host-Induced Gene Silencing 
+Mla10: !rescues! Fungus from Silencing of Avra10 
+Synthetic Gene: !resists! RNA Interference

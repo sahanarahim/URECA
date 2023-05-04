@@ -1,0 +1,9 @@
+The small monocot plant Brachypodium distachyon is rapidly emerging as a powerful model system to study questions unique to the monocot crops. An extensive BLAST search was carried to identify putative orthologues of the Arabidopsis NRT2 genes in the fully sequenced Brachypodium genome. Seven genes encoding putative high-affinity nitrate transporters (BdNRT2) were identified. Transcriptional analysis of individual BdNRT2 gene under various nitrogen sources and levels in the wild-type and a T-DNA mutant of BdNRT2.1 were performed. A transgenic approach was taken to complement the bdnrt2.1 mutant. BdNRT2.1 and BdNRT2.2 were strongly induced by nitrate resupply to nitrogen-starved plants and were classified as inducible genes. BdNRT2.5 was found to be repressed by nitrate resupply whereas other members were constitutively expressed in the root. Interestingly, higher ammonium concentrations also triggered similar gene expression regulation, suggesting BdNRT2 gene expression was also governed by internal nitrogen status, not just external nitrate concentrations. In bdnrt2.1 mutant, the high-affinity transporter system (HATS) was reduced by 30% and BdNRT2.2 and BdNRT2.6 were differentially regulated. This pioneering research demonstrates that genes in the BdNRT2 family have diverse roles, differing from the Arabidopsis AtNRT2 family, in response to various nitrogen conditions. BdNRT2.1 serves as a key member of the family.
+
+BdNRT2.1: !affects! HATS
+BdNRT2.1: !represses! BdNRT2.5
+BdNRT2.2: !induces! BdNRT2.1
+BdNRT2.2: !induces! BdNRT2.2
+BdNRT2.6: !differentially regulates! bdnrt2.1
+Nitrate: !induces! BdNRT2.1
+Ammonium: !induces! BdNRT2.2

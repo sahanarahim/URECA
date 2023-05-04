@@ -1,0 +1,9 @@
+RNA PROCESSING FACTOR1 (RPF1) and RPF2 are pentatricopeptide repeat (PPR) proteins involved in 5' processing of different mitochondrial mRNAs in Arabidopsis (Arabidopsis thaliana). Both factors are highly similar to RESTORERS OF FERTILITY (RF), which are part of cytoplasmic male sterility/restoration systems in various plant species. These findings suggest a predominant role of RF-like PPR proteins in posttranscriptional 5' processing. To further explore the functions of this group of proteins, we examined a number of T-DNA lines carrying insertions in the corresponding PPR genes. This screening identified a nearly complete absence of mature ccmC transcripts in an At1g62930 T-DNA insertion line, a phenotype that could be restored by the introduction of the intact At1g62930 gene into the mutant. The insertion in this nuclear gene, which we now call RPF3, also leads to a severe reduction of the CcmC protein in mitochondria. The analysis of C24/rpf3-1 F2 hybrids lacking functional RPF3 genes revealed that this gene has less influence on the generation of the mature ccmC 5' transcript end derived from a distinct ccmC 5' upstream configuration found in mitochondrial DNAs from C24 and other accessions. These data show that a particular function of an RF-like protein is required only in connection with a distinct mtDNA configuration. Our new results further substantiate the fundamental role of RF-like PPR proteins in the posttranscriptional generation of plant mitochondrial 5' transcript termini.
+
+RPF1: !affects! 5' processing of mitochondrial mRNAs 
+RPF2: !affects! 5' processing of mitochondrial mRNAs 
+RF: !similar to! RPF1 and RPF2 
+At1g62930: !encodes! RPF3 
+CcmC protein: !reduced in! At1g62930 T-DNA insertion line 
+RPF3: !influences! generation of mature ccmC 5' transcript end 
+RPF3: !required for! distinct mtDNA configuration

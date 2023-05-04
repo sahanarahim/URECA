@@ -1,0 +1,8 @@
+Sucrose accumulation is one of the important factors that determine fruit enlargement and quality. Evaluation of the sugar profile of 105 pear cultivars revealed low-sucrose and high-sucrose (HS) types of pear fruits. To better understand the molecular mechanisms governing the sucrose content of pear fruits, this study performed transcriptome analysis during fruit development using low-sucrose 'Korla' fragrant pear and HS 'Hosui' pear, and a coexpression module uniquely associated with the control of high-sucrose accumulation was identified by weighted gene coexpression network analysis. These results suggested that there are seven candidate genes encoding key enzymes (fructokinase, glucose-6-phosphate isomerase, sucrose phosphate synthase and sucrose synthase) involved in sucrose biosynthesis and several transcription factors (TFs) whose expression patterns correlate with those of genes associated with sucrose biosynthesis. This correlation was confirmed by linear regression analysis between predicted gene expression and sucrose content in different pear cultivars during fruit development. This study provides insight into the molecular mechanism underlying differences in sucrose content across pear cultivars and presents candidate structural genes and TFs that could play important roles in regulating carbohydrate partitioning and sucrose accumulation.
+
+fructokinase: !synthesizes! Sucrose
+glucose-6-phosphate isomerase: !synthesizes! Sucrose
+sucrose phosphate synthase: !synthesizes! Sucrose
+sucrose synthase: !synthesizes! Sucrose
+transcription factors: !regulate! Sucrose biosynthesis
+genes: !affect! Sucrose accumulation

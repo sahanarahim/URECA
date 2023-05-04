@@ -1,0 +1,12 @@
+['15728341', 'Short, high-concentration peaks of the atmospheric pollutant ozone (O(3)) cause  the formation of cell death lesions on the leaves of sensitive plants. Numerous  similarities between the plant responses to O(3) and pathogens suggest that O(3)  triggers hypersensitive response-like programmed cell death (PCD). We examined  O(3) and superoxide-induced cell death in the O(3)-sensitive radical-induced cell  death1 (rcd1) mutant. Dying cells in O(3)-exposed rcd1 exhibited several of the  typical morphological characteristics of the hypersensitive response and PCD.  Double-mutant analyses indicated a requirement for salicylic acid and the  function of the cyclic nucleotide-gated ion channel AtCNGC2 in cell death.  Furthermore, a requirement for ATPases, kinases, transcription, Ca(2+) flux,  caspase-like proteolytic activity, and also one or more phenylmethylsulfonyl  fluoride-sensitive protease activities was shown for the development of cell  death lesions in rcd1. Furthermore, mitogen-activated protein kinases showed  differential activation patterns in rcd1 and Columbia. Taken together, these  results directly demonstrate the induction of PCD by O(3).', '2005 Mar', 'Plant Physiol', '10.1104/pp.104.055681', 'Kangasjarvi']
+
+O3: !triggers! PCD 
+salicylic acid: !requires! PCD 
+AtCNGC2: !requires! PCD 
+ATPases: !requires! PCD 
+kinases: !requires! PCD 
+transcription: !requires! PCD 
+Ca2+ flux: !requires! PCD 
+caspase-like proteolytic activity: !requires! PCD 
+phenylmethylsulfonyl fluoride-sensitive protease activities: !requires! PCD 
+mitogen-activated protein kinases: !differentially activates! rcd1 and Columbia

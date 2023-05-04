@@ -1,0 +1,13 @@
+Three pea (<i>Pisum sativum</i>) loci controlling photoperiod sensitivity, <i>HIGH RESPONSE</i> (<i>HR</i>), <i>DIE NEUTRALIS</i> (<i>DNE</i>), and <i>STERILE NODES</i> (<i>SN</i>), have recently been shown to correspond to orthologs of Arabidopsis (<i>Arabidopsis thaliana</i>) circadian clock genes <i>EARLY FLOWERING3</i> (<i>ELF3</i>), <i>ELF4</i>, and <i>LUX ARRHYTHMO</i>, respectively. A fourth pea locus, <i>PHOTOPERIOD</i> (<i>PPD</i>), also contributes to the photoperiod response in a similar manner to <i>SN</i> and <i>DNE</i>, and recessive <i>ppd</i> mutants on a spring-flowering <i>hr</i> mutant background show early, photoperiod-insensitive flowering. However, the molecular identity of <i>PPD</i> has so far remained elusive. Here, we show that the <i>PPD</i> locus also has a role in maintenance of diurnal and circadian gene expression rhythms and identify <i>PPD</i> as an <i>ELF3</i> co-ortholog, termed <i>ELF3b</i> Genetic interactions between pea <i>ELF3</i> genes suggest that loss of <i>PPD</i> function does not affect flowering time in the presence of functional <i>HR</i>, whereas <i>PPD</i> can compensate only partially for the lack of <i>HR</i> These results provide an illustration of how gene duplication and divergence can generate potential for the emergence of more subtle variations in phenotype that may be adaptively significant.
+
+HR: !affects! Photoperiod sensitivity
+DNE: !affects! Photoperiod sensitivity
+SN: !affects! Photoperiod sensitivity
+PPD: !affects! Photoperiod sensitivity
+ELF3: !localizes to! PPD
+ELF4: !localizes to! DNE
+LUX ARRHYTHMO: !localizes to! SN
+PPD: !interacts with! HR
+PPD: !enhances! Diurnal and circadian gene expression rhythms
+HR: !represses! PPD
+PPD: !synthesizes! ELF3b

@@ -1,0 +1,12 @@
+Plastid metabolism is critical in both photoautotrophic and heterotrophic plant cells. In chloroplasts, fructose-1,6-bisphosphate aldolase (FBA) catalyses the formation of both fructose 1,6-bisphosphate and sedoheptulose 1,7-bisphosphate within the Calvin-Benson cycle. Three Arabidopsis genes, AtFBA1-AtFBA3, encode plastidial isoforms of FBA, but the contribution of each isoform is unknown. Phylogenetic analysis indicates that FBA1 and FBA2 derive from a recently duplicated gene, while FBA3 is a more ancient paralog. fba1 mutants are phenotypically indistinguishable from the wild type, while both fba2 and fba3 have reduced growth. We show that FBA2 is the major isoform in leaves, contributing most of the measurable activity. Partial redundancy with FBA1 allows both single mutants to survive, but combining both mutations is lethal, indicating a block of photoautotrophy. In contrast, FBA3 is expressed predominantly in heterotrophic tissues, especially the leaf and root vasculature, but not in the leaf mesophyll. We show that the loss of FBA3 affects plastidial glycolytic metabolism of the root, potentially limiting the biosynthesis of essential compounds such as amino acids. However, grafting experiments suggest that fba3 is dysfunctional in leaf phloem transport, and we suggest that a block in photoassimilate export from leaves causes the buildup of high carbohydrate concentrations and retarded growth.
+
+AtFBA1: !encodes! FBA 
+AtFBA2: !derives from! AtFBA1 
+AtFBA3: !more ancient paralog of! AtFBA1 
+FBA1: !redundancy with! FBA2 
+FBA2: !major isoform in leaves! 
+FBA3: !expressed predominantly in! heterotrophic tissues 
+fba1: !phenotypically indistinguishable from! wild type 
+fba2: !reduced growth! 
+fba3: !affects plastidial glycolytic metabolism of! root 
+fba3: !dysfunctional in! leaf phloem transport

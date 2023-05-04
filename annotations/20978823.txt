@@ -1,0 +1,10 @@
+Jack bean (Canavalia ensiformis) seeds are toxic for insects and the toxicity is due in part to an entomotoxic peptide enzymatically released from ureases in the midgut of susceptible insects. To characterize expression of urease isoforms in jack bean seed, particularly the more abundant urease isoform (JBU), quantitative proteomics was performed. Quiescent through 5-day germinating seeds were analyzed at 1-day intervals using a total proteomics approach (TPA) and also after co-immunoprecipitation (co-IP) with anti-JBU monoclonal antibodies. Jack bean proteins for TPA and co-IP were pre-fractionated by SDS-PAGE, segmented for in-gel trypsin digestion, and analyzed by liquid chromatography coupled to nanospray ionization tandem mass spectrometry (LC-MS/MS). Acquired MS(2) data were searched against a comprehensive plant database and the MEROPS peptidase database, in the absence of a jack bean EST database. Proteins detected in TPA were quantified by label-free spectral counting. A total of 234 and 106 non-redundant proteins were detected in TPA and co-IP, respectively. Mobilization of JBU was observed beginning 3-days after imbibition indicating that the entomotoxic peptide was not formed before this stage. A predicted urease isoform, JBURE-IIb, was detected in the co-IP study. Additionally, 46 plastid proteins, including RuBisCO and plastid ATPase were pulled down with JBU antibodies. These data shed new light on the behavior of urease isoforms during the early stages of plant development.
+
+Jack bean: !synthesizes! JBU
+JBU: !localizes to! plastid proteins
+JBU: !enhances! entomotoxic peptide
+JBU: !interacts with! RuBisCO
+JBU: !represses! plastid ATPase
+TPA: !detects! 234 non-redundant proteins
+co-IP: !detects! 106 non-redundant proteins
+Quiescent seeds: !mobilizes! JBU

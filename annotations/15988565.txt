@@ -1,0 +1,8 @@
+We have carried out a detailed analysis of the changes in gene expression levels in Arabidopsis thaliana ecotype Columbia (Col-0) plants during and for 6 h after exposure to ozone (O3) at 350 parts per billion (ppb) for 6 h. This O3 exposure is sufficient to induce a marked transcriptional response and an oxidative burst, but not to cause substantial tissue damage in Col-0 wild-type plants and is within the range encountered in some major metropolitan areas. We have developed analytical and visualization tools to automate the identification of expression profile groups with common gene ontology (GO) annotations based on the sub-cellular localization and function of the proteins encoded by the genes, as well as to automate promoter analysis for such gene groups. We describe application of these methods to identify stress-induced genes whose transcript abundance is likely to be controlled by common regulatory mechanisms and summarized our findings in a temporal model of the stress response.
+
+Gene: !affects! Expression levels
+Gene: !localizes to! Sub-cellular localization
+Gene: !interacts with! GO annotations
+Gene: !enhances! Transcriptional response
+Gene: !represses! Tissue damage
+Gene: !synthesizes! Proteins

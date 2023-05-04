@@ -1,0 +1,9 @@
+The transcription factors ARABIDOPSIS THALIANA MERISTEM L1 (ATML1) and PROTODERMAL FACTOR2 (PDF2) are indispensable for epidermal cell-fate specification in Arabidopsis embryos. However, the mechanisms of regulation of these genes, particularly their relationship with cell-cell signalling pathways, although the subject of considerable speculation, remain unclear. Here we demonstrate that the receptor kinase ARABIDOPSIS CRINKLY4 (ACR4) positively affects the expression of ATML1 and PDF2 in seedlings. In contrast, ATML1- and PDF2-containing complexes directly and negatively affect both their own expression and that of ACR4. By modelling the resulting feedback loop, we demonstrate a network structure that is capable of maintaining robust epidermal cell identity post-germination. We show that a second seed-specific signalling pathway involving the subtilase ABNORMAL LEAFSHAPE1 (ALE1) and the receptor kinases GASSHO1 (GSO1) and GASSHO2 (GSO2) acts in parallel to the epidermal loop to control embryonic surface formation via an ATML1/PDF2-independent pathway. Genetic interactions between components of this linear pathway and the epidermal loop suggest that an intact embryo surface is necessary for initiation and/or stabilization of the epidermal loop, specifically during early embryogenesis.
+
+ATML1: !affects! PDF2
+ACR4: !affects! ATML1
+ACR4: !affects! PDF2
+ATML1: !represses! ATML1
+PDF2: !represses! PDF2
+ALE1: !interacts with! GSO1
+GSO1: !interacts with! GSO2

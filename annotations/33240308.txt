@@ -1,0 +1,13 @@
+The phytohormones salicylic acid (SA), jasmonic acid (JA), and ethylene (ET) are central regulators of biotic and abiotic stress responses in <i>Arabidopsis thaliana</i>. Here, we generated modular fluorescent protein-based reporter lines termed COLORFUL-PR1pro, -VSP2pro, and -PDF1.2apro. These feature hormone-controlled nucleus-targeted transcriptional output sensors and the simultaneous constitutive expression of spectrally separated nuclear reference and plasma membrane-localized reporters. This set-up allowed the study of cell-type specific hormone activities, cellular viability and microbial invasion. Moreover, we developed a software-supported high-throughput confocal microscopy imaging protocol for output quantification to resolve the spatio-temporal dynamics of respective hormonal signaling activities at single-cell resolution. Proof-of-principle analyses in <i>A. thaliana</i> leaves revealed distinguished hormone sensitivities in mesophyll, epidermal pavement and stomatal guard cells, suggesting cell type-specific regulatory protein activities. In plant-microbe interaction studies, we found that virulent and avirulent <i>Hyaloperonospora arabidopsidis</i> (<i>Hpa</i>) isolates exhibit different invasion dynamics and induce spatio-temporally distinct hormonal activity signatures. On the cellular level, these hormone-controlled reporter signatures demarcate the nascent sites of <i>Hpa</i> entry and progression, and highlight initiation, transduction and local containment of immune signals.
+
+SA: !controls! Transcriptional output
+JA: !controls! Transcriptional output
+ET: !controls! Transcriptional output
+COLORFUL-PR1pro: !features! Hormone-controlled nucleus-targeted transcriptional output sensors
+COLORFUL-VSP2pro: !features! Hormone-controlled nucleus-targeted transcriptional output sensors
+COLORFUL-PDF1.2apro: !features! Hormone-controlled nucleus-targeted transcriptional output sensors
+Mesophyll cells: !exhibit! Distinguished hormone sensitivities
+Epidermal pavement cells: !exhibit! Distinguished hormone sensitivities
+Stomatal guard cells: !exhibit! Distinguished hormone sensitivities
+Virulent Hpa isolates: !induce! Spatio-temporally distinct hormonal activity signatures
+Avirulent Hpa isolates: !induce! Spatio-temporally distinct hormonal activity signatures

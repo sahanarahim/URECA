@@ -1,0 +1,7 @@
+Cellulose is synthesized at the plasma membrane by protein complexes known as cellulose synthase complexes (CSCs). The cellulose-microtubule alignment hypothesis states that there is a causal link between the orientation of cortical microtubules and orientation of nascent cellulose microfibrils. The mechanism behind the alignment hypothesis is largely unknown. CESA interactive protein 1 (CSI1) interacts with CSCs and potentially links CSCs to the cytoskeleton. CSI1 not only co-localizes with CSCs but also travels bi-directionally in a speed indistinguishable from CSCs. The linear trajectories of CSI1-RFP coincide with the underlying microtubules labeled by YFP-TUA5. In the absence of CSI1, both the distribution and the motility of CSCs are defective and the alignment of CSCs and microtubules is disrupted. These observations led to the hypothesis that CSI1 directly mediates the interaction between CSCs and microtubules. In support of this hypothesis, CSI1 binds to microtubules directly by an in vitro microtubule-binding assay. In addition to a role in serving as a messenger from microtubule to CSCs, CSI1 labels SmaCCs/MASCs, a compartment that has been proposed to be involved in CESA trafficking and/or delivery to the plasma membrane.
+
+CSCs: !synthesize! Cellulose
+CSI1: !interacts with! CSCs
+CSI1: !travels with! CSCs
+CSI1: !binds to! Microtubules
+CSI1: !labels! SmaCCs/MASCs

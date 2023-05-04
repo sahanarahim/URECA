@@ -1,0 +1,14 @@
+Arabidopsis CDG1 negatively regulates flg22- and chitin-triggered immunity by promoting FLS2 and CERK1 degradation and is partially required for bacterial effector AvrRpm1-induced RIN4 phosphorylation. Negative regulators play indispensable roles in pattern-triggered immunity in plants by preventing sustained immunity impeding growth. Here, we report Arabidopsis thaliana CONSTITUTIVE DIFFERENTIAL GROWTH1 (CDG1), a receptor-like cytoplasmic kinase VII member, as a negative regulator of bacterial flagellin/flg22- and fungal chitin-triggered immunity. CDG1 can interact with the flg22 receptor FLAGELLIN SENSITIVE2 (FLS2) and chitin co-receptor CHITIN ELICITOR RECEPTOR KINASE1 (CERK1). CDG1 overexpression impairs flg22 and chitin responses by promoting the degradation of FLS2 and CERK1. This process requires the kinase activity of MEK KINASE1 (MEKK1), but not the Plant U-Box (PUB) ubiquitin E3 ligases PUB12 and PUB13. Interestingly, the Pseudomonas syringae effector AvrRpm1 can induce CDG1 to interact with its host target RPM1-INTERACTING PROTEIN4 (RIN4), which depends on the ADP-ribosyl transferase activity of AvrRpm1. CDG1 is capable of phosphorylating RIN4 in vitro at multiple sites including Thr166 and the AvrRpm1-induced Thr166 phosphorylation of RIN4 is diminished in cdg1 null plants. Accordingly, CDG1 knockout attenuates AvrRpm1-induced hypersensitive response and increases the growth of AvrRpm1-secreting bacteria in plants. Unexpectedly, AvrRpm1 can also induce FLS2 depletion, which is fully dependent on RIN4 and partially dependent on CDG1, but does not require the kinase activity of MEKK1. Collectively, this study reveals previously unknown functions of CDG1 in both pattern-triggered immunity and effector-triggered susceptibility in plants.
+
+CDG1: !negatively regulates! flg22- and chitin-triggered immunity
+CDG1: !promotes degradation of! FLS2 and CERK1
+CDG1: !interacts with! FLAGELLIN SENSITIVE2 (FLS2) and CHITIN ELICITOR RECEPTOR KINASE1 (CERK1)
+CDG1: !interacts with! RPM1-INTERACTING PROTEIN4 (RIN4)
+CDG1: !phosphorylates! RIN4
+CDG1: !partially required for! AvrRpm1-induced RIN4 phosphorylation
+CDG1: !attenuates! AvrRpm1-induced hypersensitive response
+CDG1: !increases growth of! AvrRpm1-secreting bacteria
+AvrRpm1: !induces! CDG1 to interact with RIN4
+AvrRpm1: !induces! FLS2 depletion
+FLS2 depletion: !fully dependent on! RIN4
+FLS2 depletion: !partially dependent on! CDG1

@@ -1,0 +1,9 @@
+The insertion of light-harvesting chlorophyll proteins (LHCPs) into the thylakoid membrane of the chloroplast is cpSRP-dependent, and requires the stromal components cpSRP54 and cpSRP43, the membrane-bound SRP receptor cpFtsY and the integral membrane protein Alb3. Previous studies demonstrated that the Arabidopsis mutant lacking both cpSRP54 and cpSRP43 had pale yellow leaves, but was viable, whereas the mutants lacking Alb3 exhibit an albino phenotype that is more severe and seedling lethality. We previously showed that a maize mutant lacking cpFtsY had a pale yellow-green phenotype and was seedling lethal. To compare the in vivo requirements of cpFtsY and Alb3 in thylakoid biogenesis in greater detail, we isolated Arabidopsis null mutants of cpftsY, and performed biochemical comparisons with the Arabidopsis alb3 mutant. Both cpftsY and alb3 null mutants were seedling lethal on a synthetic medium lacking sucrose, whereas on a medium supplemented with sucrose, they were able to grow to later developmental stages, but were mostly infertile. cpftsY mutant plants had yellow leaves in which the levels of LHCPs were reduced to 10-33% compared with wild type. In contrast, alb3 had yellowish white leaves, and the LHCP levels were less than or equal to 10% of those of wild type. Intriguingly, whereas accumulation of the Sec and Tat machineries were normal in both mutants, the Sec pathway substrate Cyt f was more severely decreased in the cpftsY mutant than in alb3, which may indicate a functional link between cpFtsY and Sec translocation machinery. These results suggest that cpFtsY and Alb3 have essentially similar, but slightly distinct, contributions to thylakoid biogenesis.
+
+cpSRP54: !requires! cpSRP43
+cpFtsY: !requires! cpSRP54
+Alb3: !requires! cpSRP54
+cpftsY: !affects! LHCP levels
+Alb3: !affects! LHCP levels
+cpftsY: !interacts with! Sec pathway
+Alb3: !interacts with! Sec pathway

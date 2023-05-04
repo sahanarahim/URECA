@@ -1,0 +1,13 @@
+HD2 proteins are plant specific histone deacetylases. Four HD2 proteins, HD2A, HD2B, HD2C, and HD2D, have been identified in Arabidopsis. It was found that the expression of HD2A, HD2B, HD2C, and HD2D was repressed by ABA and NaCl. To investigate the function of HD2 proteins further, two HD2C T-DNA insertion lines of Arabidopsis, hd2c-1 and hd2c-3 were identified. Compared with wild-type plants, hd2c-1 and hd2c-3 plants displayed increased sensitivity to ABA and NaCl during germination and decreased tolerance to salt stress. These observations support a role of HD2C in the ABA and salt-stress response in Arabidopsis. Moreover, it was demonstrated that HD2C interacted physically with a RPD3-type histone deacetylase, HDA6, and bound to histone H3. The expression of ABA-responsive genes, ABI1 and ABI2, was increased in hda6, hd2c, and hda6/hd2c-1 double mutant plants, which was associated with increased histone H3K9K14 acetylation and decreased histone H3K9 dimethylation. Taken together, our results suggested that HD2C functionally associates with HDA6 and regulates gene expression through histone modifications.
+
+HD2A: !repressed by! ABA
+HD2B: !repressed by! ABA
+HD2C: !repressed by! ABA
+HD2D: !repressed by! ABA
+HD2C: !interacts with! HDA6
+HD2C: !binds to! histone H3
+HDA6: !interacts with! HD2C
+ABI1: !increased in! hda6, hd2c, hda6/hd2c-1 double mutant plants
+ABI2: !increased in! hda6, hd2c, hda6/hd2c-1 double mutant plants
+histone H3K9K14 acetylation: !increased in! hda6, hd2c, hda6/hd2c-1 double mutant plants
+histone H3K9 dimethylation: !decreased in! hda6, hd2c, hda6/hd2c-1 double mutant plants

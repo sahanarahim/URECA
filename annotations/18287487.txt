@@ -1,0 +1,8 @@
+Legumes can acquire nitrogen (N) from NO(3)(-), NH(4)(+), and N(2) (through symbiosis with Rhizobium bacteria); however, the mechanisms by which uptake and assimilation of these N forms are coordinately regulated to match the N demand of the plant are currently unknown. Here, we find by use of the split-root approach in Medicago truncatula plants that NO(3)(-) uptake, NH(4)(+) uptake, and N(2) fixation are under general control by systemic signaling of plant N status. Indeed, irrespective of the nature of the N source, N acquisition by one side of the root system is repressed by high N supply to the other side. Transcriptome analysis facilitated the identification of over 3,000 genes that were regulated by systemic signaling of the plant N status. However, detailed scrutiny of the data revealed that the observation of differential gene expression was highly dependent on the N source. Localized N starvation results, in the unstarved roots of the same plant, in a strong compensatory up-regulation of NO(3)(-) uptake but not of either NH(4)(+) uptake or N(2) fixation. This indicates that the three N acquisition pathways do not always respond similarly to a change in plant N status. When taken together, these data indicate that although systemic signals of N status control root N acquisition, the regulatory gene networks targeted by these signals, as well as the functional response of the N acquisition systems, are predominantly determined by the nature of the N source.
+
+N status: !controls! NO3- uptake
+N status: !controls! NH4+ uptake
+N status: !controls! N2 fixation
+NO3- uptake: !upregulated by! localized N starvation
+NH4+ uptake: !not upregulated by! localized N starvation
+N2 fixation: !not upregulated by! localized N starvation

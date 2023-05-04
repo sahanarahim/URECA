@@ -1,0 +1,9 @@
+['17369351', 'Small regulatory microRNAs (miRNAs) are encoded in long precursors and are  released from them during processing by cleavage within partially duplexed  stem-loop structures. In the present work we investigated the role of the  Arabidopsis nuclear RNA-binding protein HYL1 and the nuclear RNase III enzyme  DCL1 in processing of primary miRNA (pri-miR171a). The miR171a gene is complex,  with multiple transcription start sites, as well as alternative splicing of exons  and alternative polyadenylation sites. Both HYL1 and DCL1 proteins are required  for processing of the major pri-miR171a, spliced and polyadenylated forms of  which accumulate in plants homozygous for mutations in either gene, but not in  wild-type plants. In transiently transfected Arabidopsis protoplasts,  HYL1-mCherry and YFP-DCL1 fusion proteins colocalize to small nuclear bodies  similar to Cajal bodies but lacking the Cajal body marker Atcoilin. The HYL1  protein coimmunoprecipitates with miR171a and miR159a precursors, indicating that  it is an integral component of the precursor processing machinery. Thus, the  distinct HYL1- and DCL1-containing nuclear bodies may be miRNA precursor  processing sites. Alternatively, they may be assembly and storage sites for the  miRNA precursor processing machinery.', '2007 Mar 27', 'Proc Natl Acad Sci U S A', '10.1073/pnas.0701061104', 'Fedoroff']
+
+HYL1: !encodes! miRNAs 
+DCL1: !encodes! miRNAs 
+HYL1: !required for! processing of pri-miR171a 
+DCL1: !required for! processing of pri-miR171a 
+HYL1: !coimmunoprecipitates with! miR171a and miR159a precursors 
+HYL1: !colocalizes to! small nuclear bodies 
+YFP-DCL1: !colocalizes to! small nuclear bodies

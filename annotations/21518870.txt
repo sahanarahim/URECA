@@ -1,0 +1,9 @@
+Transcriptional repression via methylation of histone H3 lysine 27 (H3K27) by the polycomb repressive complex 2 (PRC2) is conserved in higher eukaryotes. The Arabidopsis PRC2 controls homeotic gene expression, flowering time, and gene imprinting. Although downstream target genes and the regulatory mechanism of PRC2 are well understood, much less is known about the significance of posttranslational regulation of PRC2 protein activity. Here, we show the posttranslational regulation of CURLY LEAF (CLF) SET-domain polycomb group (PcG) protein by the F-box protein, UPWARD CURLY LEAF1 (UCL1). Overexpression of UCL1 generates mutant phenotypes similar to those observed in plants with a loss-of-function mutation in the CLF gene. Leaf curling and early flowering phenotypes of UCL1 overexpression mutants, like clf mutants, are rescued by mutations in the AGAMOUS and FLOWERING LOCUS T genes, which is consistent with UCL1 and CLF functioning in the same genetic pathway. Overexpression of UCL1 reduces the level of CLF protein and alters expression and H3K27 methylation of CLF-target genes in transgenic plants, suggesting that UCL1 negatively regulates CLF. Interaction of UCL1 with CLF was detected in plant nuclei and in the yeast two-hybrid system. The UCL1 F-box binds in vivo to components of the E3 ligase complex, which ubiquitylate proteins that are subsequently degraded via the ubiquitin-26S proteasome pathway. Taken together, these results demonstrate the posttranslational regulation of the CLF SET-domain PcG activity by the UCL1 F-box protein in the E3 ligase complex.
+
+PRC2: !controls! homeotic gene expression
+UCL1: !regulates! CLF
+UCL1: !interacts with! CLF
+UCL1: !reduces level of! CLF protein
+UCL1: !alters expression of! CLF-target genes
+UCL1: !binds to! E3 ligase complex
+E3 ligase complex: !ubiquitylates! proteins

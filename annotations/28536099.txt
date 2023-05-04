@@ -1,0 +1,9 @@
+Temporally regulated microRNAs have been identified as master regulators of developmental timing in both animals and plants. In plants, vegetative development is regulated by a temporal decrease in miR156 level, but how this decreased expression is initiated and then maintained during shoot development remains elusive. Here, we show that miR159 is required for the correct timing of vegetative development in <i>Arabidopsis thaliana</i> Loss of miR159 increases miR156 level throughout shoot development and delays vegetative development, whereas overexpression of miR159 slightly accelerated vegetative development. The repression of miR156 by miR159 is predominantly mediated by MYB33, an R2R3 MYB domain transcription factor targeted by miR159. Loss of <i>MYB33</i> led to subtle precocious vegetative phase change phenotypes in spite of the significant downregulation of miR156. MYB33 simultaneously promotes the transcription of <i>MIR156A</i> and <i>MIR156C</i>, as well as their target, <i>SPL9</i>, by directly binding to the promoters of these three genes. Rather than acting as major players in vegetative phase change in Arabidopsis, our results suggest that miR159 and MYB33 function as modifiers of vegetative phase change; i.e., miR159 facilitates vegetative phase change by repressing MYB33 expression, thus preventing MYB33 from hyperactivating miR156 expression throughout shoot development to ensure correct timing of the juvenile-to-adult transition in Arabidopsis.
+
+miR159: !represses! MYB33
+MYB33: !promotes! MIR156A
+MYB33: !promotes! MIR156C
+MYB33: !promotes! SPL9
+miR156: !decreases! during shoot development
+miR159: !delays! vegetative development
+miR159: !accelerates! vegetative development

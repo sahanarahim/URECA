@@ -1,0 +1,6 @@
+To compensate for a sessile nature, plants have developed sophisticated mechanisms to sense varying environmental conditions. Phytochromes (phys) are light and temperature sensors that regulate downstream genes to render plants responsive to environmental stimuli<sup>1-4</sup>. Here, we show that phyB directly triggers the formation of a repressive chromatin loop by physically interacting with VERNALIZATION INSENSITIVE 3-LIKE1/VERNALIZATION 5 (VIL1/VRN5), a component of Polycomb Repressive Complex 2 (PRC2)<sup>5,6</sup>, in a light-dependent manner. VIL1 and phyB cooperatively contribute to the repression of growth-promoting genes through the enrichment of Histone H3 Lys27 trimethylation (H3K27me3), a repressive histone modification. In addition, phyB and VIL1 mediate the formation of a chromatin loop to facilitate the repression of ATHB2. Our findings show that phyB directly utilizes chromatin remodelling to regulate the expression of target genes in a light-dependent manner.
+
+phyB: !interacts with! VIL1/VRN5
+VIL1/VRN5: !represses! growth-promoting genes
+phyB: !enhances! H3K27me3
+phyB: !forms chromatin loop to! repress ATHB2

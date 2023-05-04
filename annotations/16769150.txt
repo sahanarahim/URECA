@@ -1,0 +1,10 @@
+The anthranilate synthase ASA1, CYP79B2 and CYP71B15 (PAD3) are biosynthetic genes of the Arabidopsis phytoalexin camalexin, which are induced after pathogen infection and abiotic treatments like silver nitrate spraying. The natural variation of camalexin biosynthesis in response to Pseudomonas syringae infection was determined in several ecotypes, and differential CYP71B15 regulation as a potential basis for this variation was investigated. The expression of camalexin biosynthetic genes was restricted to the tissue undergoing cell death. After droplet infection with Alternaria alternata, a potent camalexin inducer in the Col-0 ecotype, camalexin formation and the induction of ASA1, CYP79B2 and CYP71B15 were strictly co-localized with the infection site.
+
+ASA1: !induces! CYP79B2
+CYP79B2: !induces! CYP71B15
+Pseudomonas syringae: !induces! camalexin biosynthesis
+ecotypes: !differ in! camalexin biosynthesis
+CYP71B15: !regulates! differential camalexin biosynthesis
+Alternaria alternata: !induces! camalexin formation
+Col-0 ecotype: !induces! ASA1, CYP79B2 and CYP71B15
+camalexin formation: !localizes to! infection site

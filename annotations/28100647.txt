@@ -1,0 +1,8 @@
+Marchantia polymorpha is an extant relative of the earliest terrestrial plants and has attracted a substantial interest as a model organism for evolutionary and developmental studies. Given its relatively simple genome, compact gene families, simple morphology, ease of propagation and transformation, M. polymorpha is becoming a promising platform for plant synthetic biology. Modular genetic parts have been essential for development of synthetic biology approaches, so we sought to design an engineering oriented database for M. polymorpha genetic parts where each gene is a stand-alone functional unit. MarpoDB is a database of M. polymorpha genes and genetic parts, which is tailored to become an integral tool for a synthetic biology workflow. Among its features are precompiled cross-database querying to InterPro, Pfam signatures and non-redundant Viridiplantae BLAST annotations; BLAST querying to M. polymorpha genes; sequence export in GenBank format; recoding of sequences to the common syntax for type IIS assembly and exchange of DNA parts; and a minimalistic, intuitive and interactive user interface for gene models and sequence exploration. Furthermore, we have implemented user input to encourage feedback, collaboration and exchange between the MarpoDB community. MarpoDB source-code is released on GitHub to promote development of computational tools for synthetic biology.
+
+MarpoDB: !tailored to! Synthetic Biology
+MarpoDB: !contains! Precompiled Cross-Database Querying
+MarpoDB: !provides! BLAST Querying
+MarpoDB: !exports! Sequence in GenBank Format
+MarpoDB: !encourages! Feedback and Collaboration
+MarpoDB: !released on! GitHub

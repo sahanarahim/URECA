@@ -1,0 +1,10 @@
+Endocytosis is a crucial mechanism by which eukaryotic cells internalize extracellular and plasma membrane material, and it is required for a multitude of cellular and developmental processes in unicellular and multicellular organisms. In animals and yeast, the best characterized pathway for endocytosis depends on the function of the vesicle coat protein clathrin. Clathrin-mediated endocytosis has recently been demonstrated also in plant cells, but its physiological and developmental roles remain unclear. Here, we assessed the roles of the clathrin-mediated mechanism of endocytosis in plants by genetic means. We interfered with clathrin heavy chain (CHC) function through mutants and dominant-negative approaches in Arabidopsis thaliana and established tools to manipulate clathrin function in a cell type-specific manner. The chc2 single mutants and dominant-negative CHC1 (HUB) transgenic lines were defective in bulk endocytosis as well as in internalization of prominent plasma membrane proteins. Interference with clathrin-mediated endocytosis led to defects in constitutive endocytic recycling of PIN auxin transporters and their polar distribution in embryos and roots. Consistent with this, these lines had altered auxin distribution patterns and associated auxin transport-related phenotypes, such as aberrant embryo patterning, imperfect cotyledon specification, agravitropic growth, and impaired lateral root organogenesis. Together, these data demonstrate a fundamental role for clathrin function in cell polarity, growth, patterning, and organogenesis in plants.
+
+clathrin: !mediates! Endocytosis
+mutants: !affect! Clathrin function
+CHC1: !localizes to! Vesicle coat protein
+HUB: !interacts with! CHC1
+PIN: !internalized by! Clathrin-mediated endocytosis
+auxin transporters: !recycles via! Endocytic recycling
+embryos: !influenced by! Auxin distribution
+roots: !affected by! Auxin transport-related phenotypes

@@ -1,0 +1,12 @@
+In response to insect feeding, corn plants (Zea mays cv. Delprim) release elevated levels of volatile organic compounds (VOCs), including the C(6)-volatile (Z)-3-hexenol. The level of mRNA accumulation for a series of defense genes was monitored in response to application of (Z)-3-hexenol (50 nmol) to undamaged plants. The induction of transcripts for hpl (hydroperoxide lyase), fps (farnesyl pyrophosphate synthase), pal (phenylalanine ammonia-lyase), lox (lipoxygenase), igl (indole-3-glycerol phosphate lyase) and mpi (maize proteinase inhibitor) were compared with metabolites generated from the respective pathways. While headspace VOC analysis showed an increase in (Z)-3-hexenyl acetate and methyl salicylate with lox and pal induction, respectively, MPI accumulation was not observed with an increase in mpi transcripts. Moreover, (Z)-3-hexenol treatment did not elevate sesquiterpene emissions or activate fps transcription. Chemical labeling and bioassay experiments established that exogenous (Z)-3-hexenol can be taken up and converted to a less active acetylated form. These data indicate that (Z)-3-hexenol can serve as a signaling molecule that triggers defense responses in maize and can rapidly be turned over in planta.
+
+hpl: !induces! mRNA 
+fps: !induces! mRNA 
+pal: !induces! mRNA 
+lox: !induces! mRNA 
+igl: !induces! mRNA 
+mpi: !induces! mRNA 
+(Z)-3-hexenol: !converts to! (Z)-3-hexenyl acetate 
+(Z)-3-hexenol: !converts to! methyl salicylate 
+(Z)-3-hexenol: !triggers! defense responses 
+(Z)-3-hexenol: !taken up and! converted to acetylated form

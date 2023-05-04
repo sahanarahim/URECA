@@ -1,0 +1,12 @@
+Structure-based high-throughput screening of chemical compounds that target protein-protein interactions (PPIs) is a promising technology for gaining insight into how plant development is regulated, leading to many potential agricultural applications. At present, there are no examples of using high-throughput screening to identify chemicals that target plant transcriptional complexes, some of which are responsible for regulating multiple physiological functions. Florigen, a protein encoded by FLOWERING LOCUS T (FT), was initially identified as a molecule that promotes flowering and has since been shown to regulate flowering and other developmental phenomena such as tuber formation in potato (Solanum tuberosum). FT functions as a component of the florigen activation complex (FAC) with a 14-3-3 scaffold protein and FD, a bZIP transcription factor that activates downstream gene expression. Although 14-3-3 is an important component of FAC, little is known about the function of the 14-3-3 protein itself. Here, we report the results of a high-throughput in vitro fluorescence resonance energy transfer (FRET) screening of chemical libraries that enabled us to identify small molecules capable of inhibiting FAC formation. These molecules abrogate the in vitro interaction between the 14-3-3 protein and the OsFD1 peptide, a rice (Oryza sativa) FD, by directly binding to the 14-3-3 protein. Treatment with S4, a specific hit molecule, strongly inhibited FAC activity and flowering in duckweed, tuber formation in potato, and branching in rice in a dose-dependent manner. Our results demonstrate that the high-throughput screening approach based on the three-dimensional structure of PPIs is suitable in plants. In this study, we have proposed good candidate compounds for future modification to obtain inhibitors of florigen-dependent processes through inhibition of FAC formation.
+
+FT: !encodes! Florigen 
+14-3-3: !interacts with! OsFD1 peptide 
+14-3-3: !scaffolds! FAC 
+FAC: !regulates! flowering 
+FAC: !regulates! tuber formation 
+FAC: !regulates! branching 
+S4: !inhibits! FAC activity 
+S4: !inhibits! flowering 
+S4: !inhibits! tuber formation 
+S4: !inhibits! branching

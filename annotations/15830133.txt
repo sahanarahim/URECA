@@ -1,0 +1,8 @@
+Five ab initio programs (FGENESH, GeneMark.hmm, GENSCAN, GlimmerR and Grail) were evaluated for their accuracy in predicting maize genes. Two of these programs, GeneMark.hmm and GENSCAN had been trained for maize; FGENESH had been trained for monocots (including maize), and the others had been trained for rice or Arabidopsis. Initial evaluations were conducted using eight maize genes (gl8a, pdc2, pdc3, rf2c, rf2d, rf2e1, rth1, and rth3) of which the sequences were not released to the public prior to conducting this evaluation. The significant advantage of this data set for this evaluation is that these genes could not have been included in the training sets of the prediction programs. FGENESH yielded the most accurate and GeneMark.hmm the second most accurate predictions. The five programs were used in conjunction with RT-PCR to identify and establish the structures of two new genes in the a1-sh2 interval of the maize genome. FGENESH, GeneMark.hmm and GENSCAN were tested on a larger data set consisting of maize assembled genomic islands (MAGIs) that had been aligned to ESTs. FGENESH, GeneMark.hmm and GENSCAN correctly predicted gene models in 773, 625, and 371 MAGIs, respectively, out of the 1353 MAGIs that comprise data set 2.
+
+FGENESH: !predicts! most accurately 
+GeneMark.hmm: !predicts! second most accurately 
+FGENESH: !identifies and establishes! two new genes 
+FGENESH: !correctly predicts! gene models in 773 MAGIs 
+GeneMark.hmm: !correctly predicts! gene models in 625 MAGIs 
+GENSCAN: !correctly predicts! gene models in 371 MAGIs

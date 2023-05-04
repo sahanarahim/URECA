@@ -1,0 +1,10 @@
+The growth of organs and whole plants depends on both cell growth and cell-cycle progression, but the interaction between both processes is poorly understood. In plants, the balance between growth and cell-cycle progression requires coordinated regulation of four different processes: macromolecular synthesis (cytoplasmic growth), turgor-driven cell-wall extension, mitotic cycle, and endocycle. Potential feedbacks between these processes include a cell-size checkpoint operating before DNA synthesis and a link between DNA contents and maximum cell size. In addition, key intercellular signals and growth regulatory genes appear to target at the same time cell-cycle and cell-growth functions. For example, auxin, gibberellin, and brassinosteroid all have parallel links to cell-cycle progression (through S-phase Cyclin D-CDK and the anaphase-promoting complex) and cell-wall functions (through cell-wall extensibility or microtubule dynamics). Another intercellular signal mediated by microtubule dynamics is the mechanical stress caused by growth of interconnected cells. Superimposed on developmental controls, sugar signalling through the TOR pathway has recently emerged as a central control point linking cytoplasmic growth, cell-cycle and cell-wall functions. Recent progress in quantitative imaging and computational modelling will facilitate analysis of the multiple interconnections between plant cell growth and cell cycle and ultimately will be required for the predictive manipulation of plant growth.
+
+cell growth: !depends on! cell-cycle progression
+macromolecular synthesis: !regulates! turgor-driven cell-wall extension
+mitotic cycle: !regulates! endocycle
+auxin: !targets! S-phase Cyclin D-CDK
+gibberellin: !targets! anaphase-promoting complex
+brassinosteroid: !targets! cell-wall extensibility
+microtubule dynamics: !mediates! mechanical stress
+TOR pathway: !links! cytoplasmic growth, cell-cycle and cell-wall functions

@@ -1,0 +1,11 @@
+To investigate the relationship between a carotenoid profile and gene expression for carotenoid cleavage dioxygenases, three citrus varieties that exhibit different 9-cis-violaxanthin levels in their juice sacs, Satsuma mandarin (Citrus unshiu Marc.; a variety accumulating a low level of 9-cis-violaxanthin), Valencia orange (Citrus sinensis Osbeck; variety accumulating a high level of 9-cis-violaxanthin), and Lisbon lemon (Citrus limon Burm.f.; a variety accumulating an undetectable level of 9-cis-violaxanthin) were used. Three cDNAs (CitCCD1, CitNCED2, and CitNCED3) were cloned. The recombinant CitCCD1 protein cleaved beta-cryptoxanthin, zeaxanthin, and all-trans-violaxanthin at the 9-10 and 9'-10' positions and 9-cis-violaxanthin at the 9'-10' position. The recombinant CitNCED2 and CitNCED3 proteins cleaved 9-cis-violaxanthin at the 11-12 position to form xanthoxin, a precursor of abscisic acid (ABA). The gene expression of CitCCD1 increased in the flavedos and juice sacs of the three varieties during maturation. In Satsuma mandarin, the gene expression of CitNCED2 and CitNCED3 increased noticeably, accompanying a massive accumulation of ABA in the flavedo and juice sacs. In Valencia orange, the gene expression of CitNCED3 increased with a slight elevation of the ABA level in the flavedo, whereas neither the gene expression of CitNCED2 nor the ABA level increased noticeably in the juice sacs. In Lisbon lemon, the gene expression of CitNCED2 increased remarkably, accompanying increases in the ABA level in the flavedo and juice sacs. These results suggest that, in the juice sacs, the efficient cleavage reaction for ABA synthesis reduces the 9-cis-violaxanthin level in Satsuma mandarin and Lisbon lemon, whereas the low cleavage reaction maintains the predominant 9-cis-violaxanthin accumulation in Valencia orange.
+
+CitCCD1: !cleaves! beta-cryptoxanthin, zeaxanthin, and all-trans-violaxanthin
+CitNCED2: !cleaves! 9-cis-violaxanthin
+CitNCED3: !cleaves! 9-cis-violaxanthin
+CitCCD1: !increases expression in! flavedos and juice sacs
+CitNCED2: !increases expression in! Satsuma mandarin
+CitNCED3: !increases expression in! Valencia orange
+CitNCED2: !increases expression in! Lisbon lemon
+9-cis-violaxanthin: !reduced by! CitNCED2 and CitNCED3
+ABA: !synthesized from! xanthoxin

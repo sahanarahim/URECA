@@ -1,0 +1,10 @@
+Magnaporthe oryzae is the most damaging fungal pathogen of rice (Oryza sativa). In this study, we characterized the TIG1 transducin beta-like gene required for infectious growth and its interacting genes that are required for plant infection in this model phytopathogenic fungus. Tig1 homologs in yeast and mammalian cells are part of a conserved histone deacetylase (HDAC) transcriptional corepressor complex. The tig1 deletion mutant was nonpathogenic and defective in conidiogenesis. It had an increased sensitivity to oxidative stress and failed to develop invasive hyphae in plant cells. Using affinity purification and coimmunoprecipitation assays, we identified several Tig1-associated proteins, including two HDACs that are homologous to components of the yeast Set3 complex. Functional analyses revealed that TIG1, SET3, SNT1, and HOS2 were core components of the Tig1 complex in M. oryzae. The set3, snt1, and hos2 deletion mutants displayed similar defects as those observed in the tig1 mutant, but deletion of HST1 or HOS4 had no detectable phenotypes. Deletion of any of these core components of the Tig1 complex resulted in a significant reduction in HDAC activities. Our results showed that TIG1, like its putative yeast and mammalian orthologs, is one component of a conserved HDAC complex that is required for infectious growth and conidiogenesis in M. oryzae and highlighted that chromatin modification is an essential regulatory mechanism during plant infection.
+
+TIG1: !affects! Infectious growth
+TIG1: !interacts with! SET3
+SET3: !interacts with! SNT1
+SNT1: !interacts with! HOS2
+TIG1: !enhances! HDAC activities
+SET3: !enhances! HDAC activities
+SNT1: !enhances! HDAC activities
+HOS2: !enhances! HDAC activities

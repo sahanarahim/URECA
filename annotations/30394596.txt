@@ -1,0 +1,11 @@
+Excess soluble salts in soil are harmful to the growth and development of most plants. Evidence is emerging that the plant cell wall is involved in sensing and responding to salt stress, but the underlying mechanisms are not well understood. We reveal that the histone acetyltransferase General control non-repressed protein 5 (GCN5) is required for the maintenance of cell wall integrity and salt stress tolerance. The levels of GCN5 mRNA are increased in response to salt stress. The gcn5 mutants exhibited severe growth inhibition and defects in cell wall integrity under salt stress conditions. Combining RNA sequencing and chromatin immunoprecipitation assays, we identified the chitinase-like gene CTL1, polygalacturonase involved in expansion-3 (PGX3) and MYB domain protein-54 (MYB54) as direct targets of GCN5. Acetylation of H3K9 and H3K14 mediated by GCN5 is associated with activation of CTL1, PGX3 and MYB54 under salt stress. Moreover, constitutive expression of CTL1 in the gcn5 mutant restores salt tolerance and cell wall integrity. In addition, the expression of the wheat TaGCN5 gene in Arabidopsis gcn5 mutant plants complemented the salt tolerance and cell wall integrity phenotypes, suggesting that GCN5-mediated salt tolerance is conserved between Arabidopsis and wheat. Taken together, our data indicate that GCN5 plays a key role in the preservation of salt tolerance via versatile regulation in plants.
+
+GCN5: !regulates! CTL1
+GCN5: !regulates! PGX3
+GCN5: !regulates! MYB54
+GCN5: !increases! mRNA levels
+GCN5: !mediates! H3K9 acetylation
+GCN5: !mediates! H3K14 acetylation
+GCN5: !maintains! cell wall integrity
+GCN5: !enhances! salt tolerance
+TaGCN5: !complements! gcn5 mutant plants

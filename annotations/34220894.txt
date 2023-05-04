@@ -1,0 +1,8 @@
+Wheat blast is a threat to global wheat production, and limited blast-resistant cultivars are available. The current estimations of wheat spike blast severity rely on human assessments, but this technique could have limitations. Reliable visual disease estimations paired with Red Green Blue (RGB) images of wheat spike blast can be used to train deep convolutional neural networks (CNN) for disease severity (DS) classification. Inter-rater agreement analysis was used to measure the reliability of who collected and classified data obtained under controlled conditions. We then trained CNN models to classify wheat spike blast severity. Inter-rater agreement analysis showed high accuracy and low bias before model training. Results showed that the CNN models trained provide a promising approach to classify images in the three wheat blast severity categories. However, the models trained on non-matured and matured spikes images showing the highest precision, recall, and F1 score when classifying the images. The high classification accuracy could serve as a basis to facilitate wheat spike blast phenotyping in the future.
+
+Wheat blast: !threatens! Global wheat production
+Human assessments: !measure! Wheat spike blast severity
+RGB images: !train! Deep convolutional neural networks (CNN)
+Inter-rater agreement analysis: !measures! Reliability of data collection
+CNN models: !classify! Wheat spike blast severity
+Non-matured and matured spikes images: !show highest precision, recall, and F1 score! When classifying images

@@ -1,0 +1,8 @@
+Heat shock protein 101 (HSP101) in plants, and bacterial and yeast orthologs, is essential for thermotolerance. To investigate thermotolerance mechanisms involving HSP101, we performed a suppressor screen in Arabidopsis thaliana of a missense HSP101 allele (hot1-4). hot1-4 plants are sensitive to acclimation heat treatments that are otherwise permissive for HSP101 null mutants, indicating that the hot1-4 protein is toxic. We report one suppressor (shot2, suppressor of hot1-4 2) has a missense mutation of a conserved residue in CLEAVAGE STIMULATION FACTOR77 (CstF77), a subunit of the polyadenylation complex critical for mRNA 3' end maturation. We performed ribosomal RNA depletion RNA-Seq and captured transcriptional readthrough with a custom bioinformatics pipeline. Acclimation heat treatment caused transcriptional readthrough in hot1-4 shot2, with more readthrough in heat-induced genes, reducing the levels of toxic hot1-4 protein and suppressing hot1-4 heat sensitivity. Although shot2 mutants develop like the wild type in the absence of stress and survive mild heat stress, reduction of heat-induced genes and decreased HSP accumulation makes shot2 in HSP101 null and wild-type backgrounds sensitive to severe heat stress. Our study reveals the critical function of CstF77 for 3' end formation of mRNA and the dominant role of HSP101 in dictating the outcome of severe heat stress.
+
+HSP101: !essential for! thermotolerance
+CstF77: !critical for! mRNA 3' end maturation
+hot1-4: !toxic to! Arabidopsis thaliana
+shot2: !suppresses! hot1-4 heat sensitivity
+acclimation heat treatment: !causes! transcriptional readthrough
+HSP101 null: !makes! shot2 sensitive to severe heat stress

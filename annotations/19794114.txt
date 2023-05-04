@@ -1,0 +1,16 @@
+In Arabidopsis thaliana, the cryptochrome (CRY) blue light photoreceptors and the phytochrome (phy) red/far-red light photoreceptors mediate a variety of light responses. COP1, a RING motif-containing E3 ubiquitin ligase, acts as a key repressor of photomorphogenesis. Production of stomata, which mediate gas and water vapor exchange between plants and their environment, is regulated by light and involves phyB and COP1. Here, we show that, in the loss-of-function mutants of CRY and phyB, stomatal development is inhibited under blue and red light, respectively. In the loss-of-function mutant of phyA, stomata are barely developed under far-red light. Strikingly, in the loss-of-function mutant of either COP1 or YDA, a mitogen-activated protein kinase kinase kinase, mature stomata are developed constitutively and produced in clusters in both light and darkness. CRY, phyA, and phyB act additively to promote stomatal development. COP1 acts genetically downstream of CRY, phyA, and phyB and in parallel with the leucine-rich repeat receptor-like protein TOO MANY MOUTHS but upstream of YDA and the three basic helix-loop-helix proteins SPEECHLESS, MUTE, and FAMA, respectively. These findings suggest that light-controlled stomatal development is likely mediated through a crosstalk between the cryptochrome-phytochrome-COP1 signaling system and the mitogen-activated protein kinase signaling pathway.
+
+CRY: !mediates! light responses
+phy: !mediates! light responses
+COP1: !represses! photomorphogenesis
+phyB: !regulates! stomatal development
+CRY: !inhibits! stomatal development
+phyA: !inhibits! stomatal development
+COP1: !constitutively produces! stomata
+YDA: !constitutively produces! stomata
+CRY: !promotes! stomatal development
+phyA: !promotes! stomatal development
+phyB: !promotes! stomatal development
+COP1: !downstream of! CRY, phyA, and phyB
+TOO MANY MOUTHS: !parallel to! COP1
+YDA: !upstream of! SPEECHLESS, MUTE, and FAMA

@@ -1,0 +1,10 @@
+['19234086', 'Ubiquitination is involved in a variety of biological processes, but the exact  role of ubiquitination in abiotic responses is not clearly understood in higher  plants. Here, we investigated Rma1H1, a hot pepper (Capsicum annuum) homolog of a  human RING membrane-anchor 1 E3 ubiquitin (Ub) ligase. Bacterially expressed  Rma1H1 displayed E3 Ub ligase activity in vitro. Rma1H1 was rapidly induced by  various abiotic stresses, including dehydration, and its overexpression in  transgenic Arabidopsis thaliana plants conferred strongly enhanced tolerance to  drought stress. Colocalization experiments with marker proteins revealed that  Rma1H1 resides in the endoplasmic reticulum (ER) membrane. Overexpression of  Rma1H1 in Arabidopsis inhibited trafficking of an aquaporin isoform PIP2;1 from  the ER to the plasma membrane and reduced PIP2;1 levels in protoplasts and  transgenic plants. This Rma1H1-induced reduction of PIP2;1 was inhibited by  MG132, an inhibitor of the 26S proteasome. Furthermore, Rma1H1 interacted with  PIP2;1 in vitro and ubiquitinated it in vivo. Similar to Rma1H1, Rma1, an  Arabidopsis homolog of Rma1H1, localized to the ER, and its overexpression  reduced the PIP2;1 protein level and inhibited trafficking of PIP2;1 from the ER  to the plasma membrane in protoplasts. In addition, reduced expression of Rma  homologs resulted in the increased level of PIP2;1 in protoplasts. We propose  that Rma1H1 and Rma1 play a critical role in the downregulation of plasma  membrane aquaporin levels by inhibiting aquaporin trafficking to the plasma  membrane and subsequent proteasomal degradation as a response to dehydration in  transgenic Arabidopsis plants.', '2009 Feb', 'Plant Cell', '10.1105/tpc.108.061994', 'Kim']
+
+Rma1H1: !localizes to! ER 
+Rma1H1: !interacts with! PIP2;1 
+Rma1H1: !ubiquitinates! PIP2;1 
+Rma1: !localizes to! ER 
+Rma1: !inhibits! trafficking of PIP2;1 
+Rma1: !reduces! PIP2;1 protein level 
+Overexpression of Rma1H1/Rma1: !enhances! drought tolerance 
+Reduced expression of Rma homologs: !increases! PIP2;1 level

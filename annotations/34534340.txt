@@ -1,0 +1,10 @@
+With the accumulation of massive data sets from high-throughput experiments and the rapid emergence of new types of omics data, gene sets have become more diverse and essential for the refinement of gene annotation at multidimensional levels. Accordingly, we collected and defined 236 007 gene sets across different categories for 44 plant species in the Plant Gene Set Annotation Database (PlantGSAD). These gene sets were divided into nine main categories covering many functional subcategories, such as trait ontology, co-expression modules, chromatin states, and liquid-liquid phase separation. The annotations from the collected gene sets covered all of the genes in the Brassicaceae species Arabidopsis and Poaceae species Oryza sativa. Several GSEA tools are implemented in PlantGSAD to improve the efficiency of the analysis, including custom SEA for a flexible strategy based on customized annotations, SEACOMPARE for the cross-comparison of SEA results, and integrated visualization features for ontological analysis that intuitively reflects their parent-child relationships. In summary, PlantGSAD provides numerous gene sets for multiple plant species and highly efficient analysis tools. We believe that PlantGSAD will become a multifunctional analysis platform that can be used to predict and elucidate the functions and mechanisms of genes of interest. PlantGSAD is publicly available at http://systemsbiology.cau.edu.cn/PlantGSEAv2/.
+
+gene: !affects! trait ontology
+gene: !affects! co-expression modules
+gene: !affects! chromatin states
+gene: !affects! liquid-liquid phase separation
+gene: !enhances! GSEA tools
+gene: !enhances! SEACOMPARE
+gene: !enhances! integrated visualization features
+gene: !enhances! ontological analysis

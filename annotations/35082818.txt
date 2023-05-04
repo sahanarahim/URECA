@@ -1,0 +1,9 @@
+Hybrid breeding of tomatoes (<i>Solanum lycopersicum</i>), an important vegetable crop, is an effective way to improve yield and enhance disease and stress resistance. However, the efficiency of tomato hybridization is hindered by self-fertilization, which can be overcome using male sterile lines. It has been reported that reactive oxygen species (ROS) act as a key regulator for anther development, mediated by <i>RBOH</i> (<i>Respiratory Burst Oxidase Homolog</i>) genes. Here, two tomato anther-expressed genes, <i>LeRBOH</i> (Solyc01g099620) and <i>LeRBOHE</i> (Solyc07g042460), were selected to cultivate novel tomato male sterile strains. By using a CRISPR/Cas9 system with a two-sgRNA module, the <i>lerboh</i>, <i>lerbohe</i>, and <i>lerboh lerbohe</i> mutant lines were generated, among which the <i>lerbohe</i> and <i>lerboh lerbohe</i> mutants displayed complete male sterility but could accept wild-type pollens and produce fruits normally. Further analysis uncovered significantly decreased ROS levels and abnormal programmed cell death in <i>lerboh lerbohe</i> anthers, indicating a key role of ROS metabolism in tomato pollen development. Taken together, our work demonstrates a successful application of gene editing via CRISPR/Cas9 in generating male sterile tomatoes and afforded helpful information for understanding how <i>RBOH</i> genes regulating tomato reproduction process.
+
+ROS: !regulates! anther development
+LeRBOH: !localizes to! tomato anthers
+LeRBOHE: !localizes to! tomato anthers
+CRISPR/Cas9: !edits! LeRBOH and LeRBOHE genes
+LeRBOH: !interacts with! LeRBOHE
+LeRBOH/LeRBOHE: !represses! ROS levels
+LeRBOH/LeRBOHE: !inhibits! programmed cell death

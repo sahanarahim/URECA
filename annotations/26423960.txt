@@ -1,0 +1,13 @@
+This study focused on the investigation of the effects of the PI motif and C-terminus of the Oncidium Gower Ramsey MADS box gene 8 (OMADS8), a PISTILLATA (PI) ortholog, on floral organ formation. 35S::OMADS8 completely rescued and 35S::OMADS8-PI (with the PI motif deleted) partially rescued petal/stamen formation, whereas these deficiencies were not rescued by 35S::OMADS8-C (C-terminal 29 amino acids deleted) in pi-1 mutants. OMADS8 could interact with Arabidopsis APETALA3 (AP3) and enter the nucleus. The nuclear entry efficiency was reduced for OMADS8-PI/AP3 and OMADS8-C/AP3. OMADS8 could also interact with OMADS5/OMADS9 (the Oncidium AP3 ortholog) and enter the nucleus with an efficiency only slightly affected by the deletion of the C-terminal sequence or PI motif. However, the stability of the OMADS8/OMADS5 and OMADS8/OMADS9 complexes was significantly reduced by deletion of the C-terminal sequence or PI motif. Further analysis indicated that the expression of genes downstream of AP3/PI (BNQ1/BNQ2/GNC/At4g30270) was compensated by 35S::OMADS8 and 35S::OMADS8-PI to a level similar to wild-type plants but was not affected by 35S::OMADS8-C in the pi-1 mutants. A similar FRET (fluorescence resonance energy transfer) efficiency was observed for Arabidopsis AGAMOUS (AG) and the Oncidium AG ortholog OMADS4 for OMADS8, OMADS8-PI and OMADS8-C. These results indicated that the OMADS8 PI motif and C-terminus were valuable for the interaction of OMADS8 with the AP3 orthologs to form higher order heterotetrameric complexes that regulated petal/stamen formation in both Oncidium orchids and transgenic Arabidopsis. However, the C-terminal sequence and PI motif were dispensable for the interaction of OMADS8 with the AG orthologs.
+
+OMADS8: !interacts with! AP3 
+OMADS8: !interacts with! OMADS5/OMADS9 
+OMADS8-PI/AP3: !reduces! nuclear entry efficiency 
+OMADS8-C/AP3: !reduces! nuclear entry efficiency 
+OMADS8-C/OMADS5/OMADS9: !reduces! stability of complex 
+35S::OMADS8: !compensates! expression of downstream genes 
+35S::OMADS8-PI: !compensates! expression of downstream genes 
+35S::OMADS8-C: !does not affect! expression of downstream genes 
+OMADS8: !has similar FRET efficiency with! AGAMOUS 
+OMADS8-PI: !has similar FRET efficiency with! AGAMOUS 
+OMADS8-C: !has similar FRET efficiency with! AGAMOUS

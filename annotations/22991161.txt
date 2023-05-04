@@ -1,0 +1,9 @@
+The Arabidopsis thaliana L. SOUL/haem-binding proteins, AtHBPs belong to a family of five members. The Arabidopsis cytosolic AtHBP1 (At1g17100) and AtHBP2 (At2g37970) have been shown to bind porphyrins and metalloporphyrins including haem. In contrast to the cytosolic localization of these haem-binding proteins, AtHBP5 (At5g20140) encodes a protein with an N-terminal transit peptide that probably directs targeting to the chloroplast. In this report, it is shown that AtHBP5 binds haem and interacts with the haem oxygenase, HY1, in both yeast two-hybrid and BiFC assays. The expression of HY1 is repressed in the athbp5 T-DNA knockdown mutant and the accumulation of H(2)O(2) is observed in athbp5 seedlings that are treated with methyl jasmonate (MeJA), a ROS-producing stress hormone. In contrast, AtHBP5 over-expressing plants show a decreased accumulation of H(2)O(2) after MeJA treatment compared with the controls. It is proposed that the interaction between the HY1 and AtHBP5 proteins participate in an antioxidant pathway that might be mediated by reaction products of haem catabolism.
+
+AtHBP1: !binds! porphyrins 
+AtHBP2: !binds! metalloporphyrins 
+AtHBP5: !localizes to! chloroplast 
+AtHBP5: !interacts with! HY1 
+HY1: !repressed in! athbp5 T-DNA knockdown mutant 
+HY1: !enhanced in! AtHBP5 over-expressing plants 
+AtHBP5: !participates in! antioxidant pathway

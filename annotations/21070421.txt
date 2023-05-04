@@ -1,0 +1,10 @@
+The utility of many T-DNA insertion mutant lines of Arabidopsis is compromised by their propensity to trigger transcriptional silencing of transgenes expressed from the CaMV 35S promoter. To try to circumvent this problem, we characterized the genetic requirements for maintenance of 35S promoter homology-dependent transcriptional gene silencing induced by the dcl3-1 (SALK_005512) T-DNA insertion mutant line. Surprisingly, even though DCL3 and RDR2 are known components of the siRNA-dependent transcriptional gene silencing pathway, transcriptional gene silencing of a 35S promoter-driven GUS hairpin transgene did occur in plants homozygous for the dcl3-1 T-DNA insertion and was unaffected by loss of function of RDR2. However, the transcriptional gene silencing was alleviated in dcl2 dcl3 dcl4 triple mutant plants and also by mutations in AGO4, NRPD2, HEN1 and MOM1. Thus, some T-DNA insertion mutant lines induce 35S promoter homology-dependent transcriptional silencing that requires neither DCL3 nor RDR2, but involves other genes known to function in siRNA-dependent transcriptional silencing. Consistent with these results, we detected 35S promoter siRNAs in dcl3-1 SALK line plants, suggesting that the 35S promoter homology-dependent silencing induced by some T-DNA insertion mutant lines is siRNA-mediated.
+
+DCL3: !induces! 35S promoter homology-dependent transcriptional silencing
+RDR2: !does not affect! 35S promoter homology-dependent transcriptional silencing
+dcl2 dcl3 dcl4 triple mutant plants: !alleviate! 35S promoter homology-dependent transcriptional silencing
+AGO4: !alleviates! 35S promoter homology-dependent transcriptional silencing
+NRPD2: !alleviates! 35S promoter homology-dependent transcriptional silencing
+HEN1: !alleviates! 35S promoter homology-dependent transcriptional silencing
+MOM1: !alleviates! 35S promoter homology-dependent transcriptional silencing
+dcl3-1 SALK line plants: !contain! 35S promoter siRNAs

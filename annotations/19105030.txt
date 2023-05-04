@@ -1,0 +1,14 @@
+A novel CBL-interacting protein kinase (CIPK) gene, ZmCIPK16, was isolated from maize (Zea mays), which has been certified to have two copies in the genome. The ZmCIPK16 is strongly induced in maize seedlings by PEG, NaCl, ABA, dehydration, heat and drought, but not by cold. A yeast two-hybrid assay demonstrated that ZmCIPK16 interacted with ZmCBL3, ZmCBL4, ZmCBL5, and ZmCBL8. Bimolecular fluorescence complementation (BiFC) assays prove that ZmCIPK16 can interact with ZmCBL3, ZmCBL4, ZmCBL5, and ZmCBL8 in vivo. Subcellular localization showed that ZmCIPK16 is distributed in the nucleus, plasma membrane and cytoplasm; this is different from the specific localization of ZmCBL3, ZmCBL4, and ZmCBL5, which are found in the plasma membrane. The results also showed that overexpression of ZmCIPK16 in the Arabidopsis sos2 mutant induced the expression of the SOS1 gene and enhanced salt tolerance. These findings indicate that ZmCIPK16 may be involved in the CBL-CIPK signaling network in maize responses to salt stress.
+
+ZmCIPK16: !interacts with! ZmCBL3
+ZmCIPK16: !interacts with! ZmCBL4
+ZmCIPK16: !interacts with! ZmCBL5
+ZmCIPK16: !interacts with! ZmCBL8
+ZmCIPK16: !localizes to! nucleus
+ZmCIPK16: !localizes to! plasma membrane
+ZmCIPK16: !localizes to! cytoplasm
+ZmCBL3: !localizes to! plasma membrane
+ZmCBL4: !localizes to! plasma membrane
+ZmCBL5: !localizes to! plasma membrane
+ZmCIPK16: !enhances! SOS1 gene expression
+ZmCIPK16: !enhances! salt tolerance

@@ -1,0 +1,6 @@
+Chromatin is the primary carrier of epigenetic information in higher eukaryotes. AtCYP71 contains both cyclophilin domain and WD40 repeats. Loss of AtCYP71 function causes drastic pleiotropic phenotypic defects. Here, we show that AtCYP71 physically interacts with FAS1 and LHP1, respectively, to modulate their distribution on chromatin. The lhp1 cyp71 double mutant showed more severe phenotypes than the single mutants, suggesting that AtCYP71 and LHP1 synergistically control plant development. Such synergism was in part illustrated by the observation that LHP1 association with its specific target loci requires AtCYP71 function. We also demonstrate that AtCYP71 physically interacts with FAS1 and is indispensable for FAS1 targeting to the KNAT1 locus. Together, our data suggest that AtCYP71 is involved in fundamental processes of chromatin assembly and histone modification in plants.
+
+AtCYP71: !interacts with! FAS1 
+AtCYP71: !interacts with! LHP1 
+LHP1: !requires! AtCYP71 
+FAS1: !targets to! KNAT1 locus !with! AtCYP71

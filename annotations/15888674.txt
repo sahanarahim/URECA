@@ -1,0 +1,13 @@
+We have developed a rice (Oryza sativa) genome annotation database (Osa1) that provides structural and functional annotation for this emerging model species. Using the sequence of O. sativa subsp. japonica cv Nipponbare from the International Rice Genome Sequencing Project, pseudomolecules, or virtual contigs, of the 12 rice chromosomes were constructed. Our most recent release, version 3, represents our third build of the pseudomolecules and is composed of 98% finished sequence. Genes were identified using a series of computational methods developed for Arabidopsis (Arabidopsis thaliana) that were modified for use with the rice genome. In release 3 of our annotation, we identified 57,915 genes, of which 14,196 are related to transposable elements. Of these 43,719 non-transposable element-related genes, 18,545 (42.4%) were annotated with a putative function, 5,777 (13.2%) were annotated as encoding an expressed protein with no known function, and the remaining 19,397 (44.4%) were annotated as encoding a hypothetical protein. Multiple splice forms (5,873) were detected for 2,538 genes, resulting in a total of 61,250 gene models in the rice genome. We incorporated experimental evidence into 18,252 gene models to improve the quality of the structural annotation. A series of functional data types has been annotated for the rice genome that includes alignment with genetic markers, assignment of gene ontologies, identification of flanking sequence tags, alignment with homologs from related species, and syntenic mapping with other cereal species. All structural and functional annotation data are available through interactive search and display windows as well as through download of flat files. To integrate the data with other genome projects, the annotation data are available through a Distributed Annotation System and a Genome Browser. All data can be obtained through the project Web pages at http://rice.tigr.org.
+
+Gene: !affects! Process 
+Gene: !encodes! Protein 
+Gene: !annotated with! Function 
+Gene: !related to! Transposable Elements 
+Gene: !has multiple splice forms! Genes 
+Gene: !incorporated with! Experimental Evidence 
+Gene: !assigned with! Gene Ontologies 
+Gene: !aligned with! Genetic Markers 
+Gene: !identified with! Flanking Sequence Tags 
+Gene: !aligned with! Homologs 
+Gene: !mapped with! Syntenic Cereal Species

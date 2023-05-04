@@ -1,0 +1,9 @@
+In response to the ratio of available carbon (C) and nitrogen (N) nutrients, plants regulate their metabolism, growth, and development, a process called the C/N-nutrient response. However, the molecular basis of C/N-nutrient signaling remains largely unclear. In this study, we identified three CALCINEURIN B-LIKE (CBL)-INTERACTING PROTEIN KINASES (CIPKs), CIPK7, CIPK12, and CIPK14, as key regulators of the C/N-nutrient response during the post-germination growth in Arabidopsis. Single-knockout mutants of CIPK7, CIPK12, and CIPK14 showed hypersensitivity to high C/low N conditions, which was enhanced in their triple-knockout mutant, indicating that they play a negative role and at least partly function redundantly in the C/N-nutrient response. Moreover, these CIPKs were found to regulate the function of ATL31, a ubiquitin ligase involved in the C/N-nutrient response via the phosphorylation-dependent ubiquitination and proteasomal degradation of 14-3-3 proteins. CIPK7, CIPK12, and CIPK14 physically interacted with ATL31, and CIPK14, acting with CBL8, directly phosphorylated ATL31 in a Ca<sup>2+</sup>-dependent manner. Further analyses showed that these CIPKs are required for ATL31 phosphorylation and stabilization, which mediates the degradation of 14-3-3 proteins in response to C/N-nutrient conditions. These findings provide new insights into C/N-nutrient signaling mediated by protein phosphorylation.
+
+CIPK7: !interacts with! ATL31
+CIPK12: !interacts with! ATL31
+CIPK14: !interacts with! ATL31
+CIPK14: !enhances! CBL8
+ATL31: !phosphorylated by! CIPK14
+ATL31: !stabilized by! CIPKs
+14-3-3 proteins: !degraded by! C/N-nutrient response

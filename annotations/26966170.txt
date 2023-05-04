@@ -1,0 +1,11 @@
+trans-Acting small interfering RNAs (tasiRNAs) participate in the regulation of organ morphogenesis and determination of developmental timing in plants by down-regulating target genes through mRNA cleavage. The production of tasiRNAs is triggered by microRNA173 (miR173) and other specific microRNA-mediated cleavage of 5'-capped and 3'-polyadenylated primary TAS transcripts (pri-TASs). Although pri-TASs are not thought to encode functional proteins, they contain multiple short open reading frames (ORFs). For example, the primary TAS2 transcript (pri-TAS2) contains 11 short ORFs, and the third ORF from the 5' terminus (ORF3) encompasses the miR173 target site. Here, we show that nonsense mutations in ORF3 of pri-TAS2 upstream of the miR173 recognition site suppress tasiRNA accumulation and that ORF3 is translated in vitro. Glycerol gradient centrifugation analysis of Arabidopsis (Arabidopsis thaliana) plant extracts revealed that pri-TAS2 and its miR173-cleaved 5' and 3' fragments are fractionated together in the polysome fractions. These and previous results suggest that the 3' fragment of pri-TAS2, which is a source of tasiRNAs, forms a huge complex containing SGS3, miR173-programmed AGO1 RNA-induced silencing complex, the 5' fragment, and ribosomes. This complex overaccumulated, moderately accumulated, and did not accumulate in rdr6, sde5, and sgs3 mutants, respectively. The sgs3 sde5 and rdr6 sde5 double mutants showed phenotypes similar to those of sgs3 and sde5 single mutants, respectively, with regard to the TAS2-related RNA accumulation, suggesting that the complex is formed in an SGS3-dependent manner, somehow modified and stabilized by SDE5, and becomes competent for RDR6 action. Ribosomes in this complex likely play an important role in this process.
+
+miR173: !triggers! tasiRNA production
+pri-TASs: !contain! multiple short ORFs
+ORF3: !encompasses! miR173 target site
+ORF3: !translated in vitro!
+pri-TAS2: !fractionated with! miR173-cleaved 5' and 3' fragments
+SGS3: !forms! complex with pri-TAS2
+SDE5: !modifies and stabilizes! complex
+RDR6: !becomes competent for! complex
+Ribosomes: !play important role in! process

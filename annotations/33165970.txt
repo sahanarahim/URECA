@@ -1,0 +1,12 @@
+It is common practice to manipulate CO<sub>2</sub> and O<sub>2</sub> mole fraction during gas-exchange experiments to suppress or exacerbate photorespiration, or simply carry out CO<sub>2</sub> response curves. In doing so, it is implicitly assumed that metabolic pathways other than carboxylation and oxygenation are altered minimally. In the past few years, targeted metabolic analyses have shown that this assumption is incorrect, with changes in the tricarboxylic acid cycle, anaplerosis (phosphoenolpyruvate carboxylation), and nitrogen or sulphur assimilation. However, this problem has never been tackled systematically using non-targeted analyses to embrace all possible affected metabolic pathways. Here, we exploited combined NMR, GC-MS, and LC-MS data and conducted non-targeted analyses on sunflower leaves sampled at different O<sub>2</sub> /CO<sub>2</sub> ratios in a gas exchange system. The statistical analysis of nearly 4,500 metabolic features not only confirms previous findings on anaplerosis or S assimilation, but also reveals significant changes in branched chain amino acids, phenylpropanoid metabolism, or adenosine turn-over. Noteworthy, all of these pathways involve CO<sub>2</sub> assimilation or liberation and thus affect net CO<sub>2</sub> exchange. We conclude that manipulating CO<sub>2</sub> and O<sub>2</sub> mole fraction has a broad effect on metabolism, and this must be taken into account to better understand variations in carboxylation (anaplerotic fixation) or apparent day respiration.
+
+CO<sub>2</sub>: !affects! Metabolic pathways
+O<sub>2</sub>: !affects! Metabolic pathways
+Metabolic pathways: !affected by! CO<sub>2</sub> 
+Metabolic pathways: !affected by! O<sub>2</sub>
+Anaplerosis: !altered by! CO<sub>2</sub>/O<sub>2</sub> ratio
+Nitrogen assimilation: !altered by! CO<sub>2</sub>/O<sub>2</sub> ratio
+Sulphur assimilation: !altered by! CO<sub>2</sub>/O<sub>2</sub> ratio
+Branched chain amino acids: !altered by! CO<sub>2</sub>/O<sub>2</sub> ratio
+Phenylpropanoid metabolism: !altered by! CO<sub>2</sub>/O<sub>2</sub> ratio
+Adenosine turn-over: !altered by! CO<sub>2</sub>/O<sub>2</sub> ratio

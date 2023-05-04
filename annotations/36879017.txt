@@ -1,0 +1,11 @@
+DNA methylation has been utilized for target gene silencing in plants. However, it is not well understood whether other silencing pathways can be also used to manipulate gene expression. Here we performed a gain-of-function screen for proteins that could silence a target gene when fused to an artificial zinc finger. We uncovered many proteins that suppressed gene expression through DNA methylation, histone H3K27me3 deposition, H3K4me3 demethylation, histone deacetylation, inhibition of RNA polymerase II transcription elongation or Ser-5 dephosphorylation. These proteins also silenced many other genes with different efficacies, and a machine learning model could accurately predict the efficacy of each silencer on the basis of various chromatin features of the target loci. Furthermore, some proteins were also able to target gene silencing when used in a dCas9-SunTag system. These results provide a more comprehensive understanding of epigenetic regulatory pathways in plants and provide an armament of tools for targeted gene manipulation.
+
+DNA methylation: !silences! target gene 
+protein: !silences! gene expression 
+protein: !deposits! histone H3K27me3 
+protein: !demethylates! H3K4me3 
+protein: !deacetylates! histone 
+protein: !inhibits! RNA polymerase II transcription elongation 
+protein: !dephosphorylates! Ser-5 
+machine learning model: !predicts! efficacy of silencer 
+dCas9-SunTag system: !targets! gene silencing

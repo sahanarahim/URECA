@@ -1,0 +1,11 @@
+RAR1 and SGT1 are important co-chaperones of Hsp90. We previously showed that TaHsp90.1 is required for wheat seedling growth, and that TaHsp90.2 and TaHsp90.3 are essential for resistance (R) gene mediated resistance to stripe rust fungus. Here, we report the characterization of TaRAR1 and TaSGT1 genes in bread wheat. TaRAR1 and TaSGT1 each had three homoeologs, which were located on wheat groups 2 and 3 chromosomes, respectively. Strong inhibition of seedling growth was observed after silencing TaSGT1 but not TaRAR1. In contrast, decreasing the expression of TaRAR1 or TaSGT1 could all compromise R gene mediated resistance to stripe rust fungus infection. Protein-protein interactions were found among TaRAR1, TaSGT1 and TaHsp90. The N-terminus of TaHsp90, the CHORD-I and CHORD-II domains of TaRAR1 and the CS domain of TaSGT1 may be instrumental for the interactions among the three proteins. Based on this work and our previous study on TaHsp90, we speculate that the TaSGT1-TaHsp90.1 interaction is important for maintaining bread wheat seedling growth. The TaRAR1-TaSGT1-TaHsp90.2 and TaRAR1-TaSGT1-TaHsp90.3 interactions are involved in controlling the resistance to stripe rust disease. The new information obtained here should aid further functional investigations of TaRAR1-TaSGT1-TaHsp90 complexes in regulating bread wheat growth and disease resistance.
+
+TaRAR1: !interacts with! TaSGT1
+TaRAR1: !interacts with! TaHsp90.2
+TaRAR1: !interacts with! TaHsp90.3
+TaSGT1: !interacts with! TaHsp90.1
+TaSGT1: !interacts with! TaHsp90.2
+TaSGT1: !interacts with! TaHsp90.3
+TaHsp90.1: !required for! wheat seedling growth
+TaHsp90.2: !essential for! R gene mediated resistance
+TaHsp90.3: !essential for! R gene mediated resistance

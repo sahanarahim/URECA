@@ -1,0 +1,8 @@
+['23459204', 'Leaf senescence is a key physiological process in all plants. Its onset is  tightly controlled by transcription factors, of which NAC factor ORE1 (ANAC092)  is crucial in Arabidopsis thaliana. Enhanced expression of ORE1 triggers early  senescence by controlling a downstream gene network that includes various  senescence-associated genes. Here, we report that unexpectedly ORE1 interacts  with the G2-like transcription factors GLK1 and GLK2, which are important for  chloroplast development and maintenance, and thereby for leaf maintenance. ORE1  antagonizes GLK transcriptional activity, shifting the balance from chloroplast  maintenance towards deterioration. Our finding identifies a new mechanism  important for the control of senescence by ORE1.', '2013 Apr', 'EMBO Rep', '10.1038/embor.2013.24', 'Balazadeh']
+
+ORE1: !triggers! senescence
+ORE1: !interacts with! GLK1
+ORE1: !interacts with! GLK2
+GLK1: !important for! chloroplast development
+GLK2: !important for! chloroplast maintenance
+ORE1: !antagonizes! GLK transcriptional activity

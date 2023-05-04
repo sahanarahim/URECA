@@ -1,0 +1,9 @@
+['12175016', 'The petunia NAM and ArabidopsisATAF1 and CUC2 genes define the conserved NAC  domain. In petunia, loss-of-function nam mutants result in embryos that fail to  elaborate shoot apical meristems (SAM), and nam seedlings do not develop shoots  and leaves. We have isolated a NAC domain gene, AtNAM, from an Arabidopsis  developing seed cDNA library. Expression of AtNAM mRNA is restricted primarily to  the region of the embryo including the SAM. The AtNAM gene contains three exons  and is located on Chromosome 1. In vivo assays in yeast demonstrate that AtNAM  encodes a transcription factor and that the NAC domain includes a specific DNA  binding domain (DBD). The AtNAM DBD is contained within a 60 amino acid region  which potentially folds into a helix-turn-helix motif that specifically binds to  the CaMV 35S promoter. The putative transcriptional activation domain is located  in the C-terminal region of the protein, a highly divergent region among NAC  domain-containing genes. The Arabidopsis genome contains 90 predicted NAC domain  genes; we refer to these collectively as the AtNAC superfamily. The first two  exons of all members of this superfamily encode the NAC domain. Most AtNAC genes  contain three exons with the last exon encoding an activation domain. A subfamily  of AtNAC genes contains additional terminal exons coding for protein domains  whose functions are unknown.', '2002 Sep', 'Plant Mol Biol', '10.1023/a:1016028530943', 'Thomas']
+
+NAM: !defines! NAC domain
+AtNAM: !localizes to! embryo region
+AtNAM: !binds to! CaMV 35S promoter
+AtNAM: !encodes! transcription factor
+AtNAC: !contains! NAC domain
+AtNAC: !encodes! activation domain
+AtNAC: !contains! unknown protein domains

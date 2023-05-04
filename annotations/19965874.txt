@@ -1,0 +1,19 @@
+Three beta-glucosidases (At1g66270-BGLU21, At1g66280-BGLU22, and At3g09260-BGLU23) were purified from the roots of Arabidopsis and their cDNAs were expressed in insect cells. In addition, two beta-glucosidase binding protein cDNAs (At3g16420; PBPI and At3g16430; PBPII) were expressed in Escherichia coli and their protein products purified. These binding proteins interact with beta-glucosidases and activate them. BGLU21, 22 and 23 hydrolyzed the natural substrate scopolin specifically and also hydrolyzed to some extent substrates whose aglycone moiety is similar to scopolin (e.g. esculin and 4-MU-glucoside). In contrast, they hydrolyzed poorly DIMBOA-glucoside and did not hydrolyze pNP- and oNP-glucosides. We determined the physicochemical properties of native and recombinant BGLUs, and found no differences between them. They were stable in a narrow pH range (5-7.5) and had temperature and pH optima for activity at 35 degrees C and pH 5.5, respectively. As for thermostability, >95% of their activity was retained at 40 degrees C but dramatically decreased at >50 degrees C. The apparent K(m) of native and recombinant enzymes for scopolin was 0.73 and 0.81 mM, respectively, and it was 5.8 and 9.7 mM, respectively, for esculin. Western blot analysis showed that all three enzymes were exclusively expressed in roots of seedlings but not in any other plant part or organ under normal conditions. Furthermore, spatial expression patterns of all eight genes belonging to subfamily 3 were investigated at the transcription level by RT-PCR.
+
+BGLU21: !interacts with! PBPI 
+PBPI: !activates! BGLU21 
+BGLU22: !interacts with! PBPII 
+PBPII: !activates! BGLU22 
+BGLU23: !interacts with! PBPI 
+PBPI: !activates! BGLU23 
+BGLU21: !hydrolyzes! scopolin 
+BGLU22: !hydrolyzes! scopolin 
+BGLU23: !hydrolyzes! scopolin 
+BGLU21: !hydrolyzes! esculin 
+BGLU22: !hydrolyzes! esculin 
+BGLU23: !hydrolyzes! esculin 
+BGLU21: !stable in! pH range 5-7.5 
+BGLU22: !stable in! pH range 5-7.5 
+BGLU23: !stable in! pH range 5-7.5 
+BGLU21: !temperature optimum! 35 degrees C 
+BGLU22: !temperature

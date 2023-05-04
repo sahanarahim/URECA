@@ -1,0 +1,7 @@
+Manual assessment of flower abundance of different flowering plant species in grasslands is a time-consuming process. We present an automated approach to determine the flower abundance in grasslands from drone-based aerial images by using deep learning (Faster R-CNN) object detection approach, which was trained and evaluated on data from five flights at two sites. Our deep learning network was able to identify and classify individual flowers. The novel method allowed generating spatially explicit maps of flower abundance that met or exceeded the accuracy of the manual-count-data extrapolation method while being less labor intensive. The results were very good for some types of flowers, with precision and recall being close to or higher than 90%. Other flowers were detected poorly due to reasons such as lack of enough training data, appearance changes due to phenology, or flowers being too small to be reliably distinguishable on the aerial images. The method was able to give precise estimates of the abundance of many flowering plant species. In the future, the collection of more training data will allow better predictions for the flowers that are not well predicted yet. The developed pipeline can be applied to any sort of aerial object detection problem.
+
+Deep Learning: !identifies and classifies! Flowers 
+Faster R-CNN: !detects! Flower abundance 
+Manual Count Data Extrapolation Method: !exceeded by! Deep Learning 
+Precision and Recall: !close to or higher than! 90% 
+Training Data: !allows better predictions for! Flowers

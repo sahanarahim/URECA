@@ -1,0 +1,10 @@
+The physical presence of roots and the compounds they release affect the cohesion between roots and their environment. However, the plant traits that are important for these interactions are unknown and most methods that quantify the contributions of these traits are time-intensive and require specialist equipment and complex substrates. Our lab developed an inexpensive, high-throughput phenotyping assay that quantifies root-substrate adhesion in <i>Arabidopsis thaliana</i>. We now report that this method has high sensitivity and versatility for identifying different types of traits affecting root-substrate adhesion including root hair morphology, vesicle trafficking pathways, and root exudate composition. We describe a practical protocol for conducting this assay and introduce its use in a forward genetic screen to identify novel genes affecting root-substrate interactions. This assay is a powerful tool for identifying and quantifying genetic contributions to cohesion between roots and their environment.
+
+root: !affects! cohesion
+traits: !important for! interactions
+assay: !quantifies! root-substrate adhesion
+morphology: !affects! root-substrate adhesion
+vesicle trafficking: !affects! root-substrate adhesion
+exudate composition: !affects! root-substrate adhesion
+protocol: !conducts! assay
+genetic screen: !identifies! novel genes

@@ -1,0 +1,12 @@
+In Arabidopsis thaliana, the cryptochrome and phytochrome photoreceptors act together to promote photomorphogenic development. The cryptochrome and phytochrome signaling mechanisms interact directly with CONSTITUTIVELY PHOTOMORPHOGENIC1 (COP1), a RING motif-containing E3 ligase that acts to negatively regulate photomorphogenesis. COP1 interacts with and ubiquitinates the transcription factors that promote photomorphogenesis, such as ELONGATED HYPOCOTYL5 and LONG HYPOCOTYL IN FAR-RED1 (HFR1), to inhibit photomorphogenic development. Here, we show that COP1 physically interacts with PIF3-LIKE1 (PIL1) and promotes PIL1 degradation via the 26S proteasome. We further demonstrate that phyB physically interacts with PIL1 and enhances PIL1 protein accumulation upon red light irradiation, probably through suppressing the COP1-PIL1 association. Biochemical and genetic studies indicate that PIL1 and HFR1 form heterodimers and promote photomorphogenesis cooperatively. Moreover, we demonstrate that PIL1 interacts with PIF1, 3, 4, and 5, resulting in the inhibition of the transcription of PIF direct-target genes. Our results reveal that PIL1 stability is regulated by phyB and COP1, likely through physical interactions, and that PIL1 coordinates with HFR1 to inhibit the transcriptional activity of PIFs, suggesting that PIL1, HFR1, and PIFs constitute a subset of antagonistic basic helix-loop-helix factors acting downstream of phyB and COP1 to regulate photomorphogenic development.
+
+Cryptochrome/phytochrome: !promote! photomorphogenic development
+COP1: !interacts with! ELONGATED HYPOCOTYL5 
+COP1: !interacts with! LONG HYPOCOTYL IN FAR-RED1
+COP1: !ubiquitinates! transcription factors
+COP1: !interacts with! PIF3-LIKE1
+phyB: !interacts with! PIF3-LIKE1
+phyB: !enhances! PIL1 protein accumulation
+PIL1: !forms heterodimers with! HFR1
+PIL1: !interacts with! PIF1, 3, 4, 5
+phyB/COP1: !regulate! PIL1 stability

@@ -1,0 +1,8 @@
+Circadian control of gene expression is well characterized at the transcriptional level, but little is known about diel or circadian control of translation. Genome-wide translation state profiling of mRNAs in Arabidopsis thaliana seedlings grown in long day was performed to estimate ribosome loading per mRNA. The experiments revealed extensive translational regulation of key biological processes. Notably, translation of mRNAs for ribosomal proteins and mitochondrial respiration peaked at night. Central clock mRNAs are among those subject to fluctuations in ribosome loading. There was no consistent phase relationship between peak translation states and peak transcript levels. The overlay of distinct transcriptional and translational cycles can be expected to alter the waveform of the protein synthesis rate. Plants that constitutively overexpress the clock gene CCA1 showed phase shifts in peak translation, with a 6-h delay from midnight to dawn or from noon to evening being particularly common. Moreover, cycles of ribosome loading that were detected under continuous light in the wild type collapsed in the CCA1 overexpressor. Finally, at the transcript level, the CCA1-ox strain adopted a global pattern of transcript abundance that was broadly correlated with the light-dark environment. Altogether, these data demonstrate that gene-specific diel cycles of ribosome loading are controlled in part by the circadian clock.
+
+Gene: !affects! Translation
+Gene: !localizes to! Ribosome
+Gene: !interacts with! mRNA
+Gene: !enhances! Mitochondrial Respiration
+Gene: !represses! Clock Gene CCA1
+Gene: !synthesizes! Protein Synthesis Rate

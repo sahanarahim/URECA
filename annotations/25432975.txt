@@ -1,0 +1,8 @@
+Comparative genomics combined with phylogenetic reconstructions are powerful approaches to study the evolution of genes and genomes. However, the current rapid expansion of the volume of genomic information makes it increasingly difficult to interrogate, integrate and synthesize comparative genome data while taking into account the maximum breadth of information available. GenomicusPlants (http://www.genomicus.biologie.ens.fr/genomicus-plants) is an extension of the Genomicus webserver that addresses this issue by allowing users to explore flowering plant genomes in an intuitive way, across the broadest evolutionary scales. Extant genomes of 26 flowering plants can be analyzed, as well as 23 ancestral reconstructed genomes. Ancestral gene order provides a long-term chronological view of gene order evolution, greatly facilitating comparative genomics and evolutionary studies. Four main interfaces ('views') are available where: (i) PhyloView combines phylogenetic trees with comparisons of genomic loci across any number of genomes; (ii) AlignView projects loci of interest against all other genomes to visualize its topological conservation; (iii) MatrixView compares two genomes in a classical dotplot representation; and (iv) Karyoview visualizes chromosome karyotypes 'painted' with colours of another genome of interest. All four views are interconnected and benefit from many customizable features.
+
+Gene: !affects! Process
+Gene: !localizes to! Genome
+Gene: !interacts with! Phylogenetic tree
+Gene: !enhances! Comparative genomics
+Gene: !represses! Volume of genomic information
+Gene: !synthesizes! Ancestral gene order

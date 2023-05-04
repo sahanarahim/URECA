@@ -1,0 +1,13 @@
+To investigate the link between the flowering time gene GIGANTEA (GI) and downstream genes, an inducible GI system was developed in Arabidopsis thaliana L. Heynh. Transgenic Arabidopsis plant lines were generated with a steroid-inducible post-translational control system for GI. The gene expression construct consisted of the coding region of the GI protein fused to that of the ligand binding domain of the rat glucocorticoid receptor (GR). This fusion gene was expressed from the constitutive cauliflower mosaic virus 35S promoter and was introduced into plants carrying the gi-2 mutation. Application of the steroid dexamethasone (DEX) was expected to result in activation of the GI-GR protein and its relocation from the cytoplasm to the nucleus. Application of DEX to the transgenic plant lines rescued the late flowering phenotype conferred by the gi-2 mutation. However, despite their delayed flowering in the absence of steroid, the transgenic lines expressed predicted GI downstream genes such as CONSTANS (CO) to relatively high levels. Nevertheless, increased CO and FLOWERING LOCUS T (FT) transcript accumulation was observed in transgenic plants within 8 h of DEX treatment compared to controls which was consistent with promotion of flowering by DEX. Unlike CO and FT, there was no change in the abundance of transcript of two other putative GI downstream genes HEME ACTIVATOR PROTEIN 3A (HAP3A) or TIMING OF CHLOROPHYLL A/B BINDING PROTEIN 1 (TOC1) after DEX application. The post-translational activation of GI and promotion of flowering by steroid application supports a nuclear role for GI in the floral transition. Known downstream flowering time genes CO and FT were elevated by DEX treatment, but not other proposed targets HAP3A and TOC1, indicating that the expression of these genes may be less directly regulated by GI.
+
+GI: !induces! FT 
+GI: !induces! CO 
+GI: !localizes to! nucleus 
+GI: !represses! gi-2 mutation 
+GI: !enhances! flowering 
+DEX: !induces! GI 
+DEX: !promotes! flowering 
+CO: !elevated by! DEX 
+FT: !elevated by! DEX 
+HAP3A: !not affected by! DEX 
+TOC1: !not affected by! DEX

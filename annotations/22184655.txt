@@ -1,0 +1,12 @@
+Cadmium (Cd) is toxic to plant cells. Under Cd exposure, the plant displayed leaf chlorosis, which is a typical symptom of iron (Fe) deficiency. Interactions of Cd with Fe have been reported. However, the molecular mechanisms of Cd-Fe interactions are not well understood. Here, we showed that FER-like Deficiency Induced Transcripition Factor (FIT), AtbHLH38, and AtbHLH39, three basic helix-loop-helix transcription factors involved in Fe homeostasis in plants, also play important roles in Cd tolerance. The gene expression analysis showed that the expression of FIT, AtbHLH38, and AtbHLH39 was up-regulated in the roots of plants treated with Cd. The plants overexpressing AtbHLH39 and double-overexpressing FIT/AtbHLH38 and FIT/AtbHLH39 exhibited more tolerance to Cd exposure than wild type, whereas no Cd tolerance was observed in plants overexpressing either AtbHLH38 or FIT. Further analysis revealed that co-overexpression of FIT with AtbHLH38 or AtbHLH39 constitutively activated the expression of Heavy Metal Associated3 (HMA3), Metal Tolerance Protein3 (MTP3), Iron Regulated Transporter2 (IRT2), and Iron Regulated Gene2 (IREG2), which are involved in the heavy metal detoxification in Arabidopsis (Arabidopis thaliana). Moreover, co-overexpression of FIT with AtbHLH38 or AtbHLH39 also enhanced the expression of NICOTIANAMINE SYNTHETASE1 (NAS1) and NAS2, resulting in the accumulation of nicotiananamine, a crucial chelator for Fe transportation and homeostasis. Finally, we showed that maintaining high Fe content in shoots under Cd exposure could alleviate the Cd toxicity. Our results provide new insight to understand the molecular mechanisms of Cd tolerance in plants.
+
+FIT: !activates! HMA3
+FIT: !activates! MTP3
+FIT: !activates! IRT2
+FIT: !activates! IREG2
+FIT: !activates! NAS1
+FIT: !activates! NAS2
+AtbHLH38: !interacts with! FIT
+AtbHLH39: !interacts with! FIT
+Cd: !affects! Fe homeostasis
+Fe: !alleviates! Cd toxicity

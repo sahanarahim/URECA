@@ -1,0 +1,8 @@
+Strigolactones (SLs) are phytohormones that play a central role in regulating shoot branching. SL perception and signaling involves the F-box protein MAX2 and the hydrolase DWARF14 (D14), proposed to act as an SL receptor. We used strong loss-of-function alleles of the Arabidopsis thaliana D14 gene to characterize D14 function from early axillary bud development through to lateral shoot outgrowth and demonstrated a role of this gene in the control of flowering time. Our data show that D14 distribution in vivo overlaps with that reported for MAX2 at both the tissue and subcellular levels, allowing physical interactions between these proteins. Our grafting studies indicate that neither D14 mRNA nor the protein move over a long range upwards in the plant. Like MAX2, D14 is required locally in the aerial part of the plant to suppress shoot branching. We also identified a mechanism of SL-induced, MAX2-dependent proteasome-mediated degradation of D14. This negative feedback loop would cause a substantial drop in SL perception, which would effectively limit SL signaling duration and intensity.
+
+MAX2: !interacts with! D14
+D14: !localizes to! MAX2
+D14: !represses! Shoot Branching
+SLs: !affects! D14
+MAX2: !enhances! SL Perception
+D14: !synthesizes! Proteasome-mediated Degradation

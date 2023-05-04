@@ -1,0 +1,10 @@
+Unilateral incompatibility (UI) manifests as pollen rejection in the pistil, typically when self-incompatible (SI) species are pollinated by self-compatible (SC) relatives. In the Solanaceae, UI occurs when pollen lack resistance to stylar S-RNases, but other, S-RNase-independent mechanisms exist. Pistils of the wild tomato Solanum pennellii LA0716 (SC) lack S-RNase yet reject cultivated tomato (Solanum lycopersicum, SC) pollen. In this cross, UI results from low pollen expression of a farnesyl pyrophosphate synthase gene (FPS2) in S. lycopersicum. Using pollen from fps2-/- loss-of-function mutants in S. pennellii, we identified a pistil factor locus, ui3.1, required for FPS2-based pollen rejection. We mapped ui3.1 to an interval containing 108 genes situated on the IL 3-3 introgression. This region includes a cluster of ornithine decarboxylase (ODC2) genes, with four copies in S. pennellii, versus one in S. lycopersicum. Expression of ODC2 transcript was 1,034-fold higher in S. pennellii than in S. lycopersicum styles. Pistils of odc2-/- knockout mutants in IL 3-3 or S. pennellii fail to reject fps2 pollen and abolish transmission ratio distortion (TRD) associated with FPS2. Pollen of S. lycopersicum express low levels of FPS2 and are compatible on IL 3-3 pistils, but incompatible on IL 12-3 × IL 3-3 hybrids, which express both ODC2 and ui12.1, a locus thought to encode the SI proteins HT-A and HT-B. TRD observed in F2 IL 12-3 × IL 3-3 points to additional ODC2-interacting pollen factors on both chromosomes. Thus, ODC2 genes contribute to S-RNase independent UI and interact genetically with ui12.1 to strengthen pollen rejection.
+
+FPS2: !affects! Pollen Rejection
+ODC2: !enhances! Pollen Rejection
+FPS2: !localizes to! S. lycopersicum
+ODC2: !localizes to! S. pennellii
+FPS2: !interacts with! ui3.1
+ODC2: !interacts with! ui12.1
+FPS2: !represses! Transmission Ratio Distortion
+ODC2: !enhances! Transmission Ratio Distortion

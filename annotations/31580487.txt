@@ -1,0 +1,10 @@
+Environmental light signal and GAs synergistically regulate seed dormancy and germination. The phytochrome B (phyB) photoreceptor regulates expression of the REVEILLE1 (RVE1) transcription factor, which directly inhibits GIBBERELLIN 3-OXIDASE2 transcription, suppressing GA biosynthesis. However, whether phyB-RVE1 coordinates with GA signaling in controlling seed dormancy and germination remains unknown. Here, we demonstrate that RVE1 regulation of seed dormancy and germination requires a DELLA repressor, REPRESSOR OF GA-LIKE2 (RGL2), in Arabidopsis thaliana. RVE1 interacts with both RGL2 and its E3 ubiquitin ligase SLEEPY1 (SLY1) and promotes RGL2 stability by restraining the RGL2-SLY1 interaction. Furthermore, RVE1 and RGL2 synergistically regulate global transcriptome changes; RGL2 enhances the DNA-binding capacity and transcriptional activity of RVE1 in regulating downstream gene expression. Moreover, RGL2 expression is repressed by phyB. Our study reveals a novel regulatory mechanism in which the RVE1-RGL2 module coordinately controls seed dormancy and germination by integrating light perception, GA metabolism and GA signaling pathways.
+
+phyB: !regulates! RVE1
+RVE1: !inhibits! GIBBERELLIN 3-OXIDASE2
+RVE1: !interacts with! RGL2
+RVE1: !interacts with! SLY1
+RVE1: !promotes! RGL2 stability
+RVE1: !enhances! RGL2 transcriptional activity
+RGL2: !repressed by! phyB
+RVE1: !coordinates with! GA signaling

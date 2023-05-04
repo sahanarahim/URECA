@@ -1,0 +1,8 @@
+Loquat fruit are susceptible to chilling injuries induced by postharvest storage at low temperature. The major symptoms are increased lignin content and flesh firmness, which cause a leathery texture. Pretreatment with methyl jasmonate (MeJA) can alleviate this low-temperature-induced lignification, but the mechanism is not understood. In this study, we characterized a novel class III peroxidase, EjPRX12, and studied its relationship to lignification. Transcript levels of EjPRX12 were attenuated following MeJA pretreatment, consistent with the reduced lignin content in fruit. In vitro enzyme activity assay indicated that EjPRX12 polymerized sinapyl alcohol, and overexpression of EjPRX12 in Arabidopsis promoted lignin accumulation, indicating that it plays a functional role in lignin polymerization. We also identified an HD-ZIP transcription factor, EjHB1, repressed by MeJA pretreatment, which directly bound to and significantly activated the EjPRX12 promoter. Overexpression of EjHB1 in Arabidopsis promoted lignin accumulation with induced expression of lignin-related genes, especially AtPRX64. Furthermore, a JAZ-interacting repressor, EjbHLH14, was characterized, and it is proposed that MeJA pretreatment caused EjbHLH14 to be released to repress the expression of EjHB1. These results identified a novel regulatory pathway involving EjbHLH14-EjHB1-EjPRX12 and revealed the molecular mechanism whereby MeJA alleviated lignification of loquat fruit at low temperature.
+
+EjbHLH14: !represses! EjHB1
+EjHB1: !activates! EjPRX12
+MeJA: !attenuates! EjPRX12
+EjPRX12: !polymerizes! sinapyl alcohol
+EjHB1: !induces! lignin-related genes
+MeJA: !releases! EjbHLH14

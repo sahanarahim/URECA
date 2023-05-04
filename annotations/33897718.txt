@@ -1,0 +1,12 @@
+Spatial separation of the photosynthetic reactions is a key feature of C<sub>4</sub> metabolism. In most C<sub>4</sub> plants, this separation requires compartmentation of photosynthetic enzymes between mesophyll (M) and bundle sheath (BS) cells. The upstream region of the gene encoding the maize PHOSPHOENOLPYRUVATE CARBOXYLASE 1 (ZmPEPC1) has been shown sufficient to drive M-specific <i>ZmPEPC1</i> gene expression. Although this region has been well characterized, to date, only few <i>trans</i>-factors involved in the <i>ZmPEPC1</i> gene regulation were identified. Here, using a yeast one-hybrid approach, we have identified three novel maize transcription factors ZmHB87, ZmCPP8, and ZmOrphan94 as binding to the <i>ZmPEPC1</i> upstream region. Bimolecular fluorescence complementation assays in maize M protoplasts unveiled that ZmOrphan94 forms homodimers and interacts with ZmCPP8 and with two other <i>ZmPEPC1</i> regulators previously reported, ZmbHLH80 and ZmbHLH90. Trans-activation assays in maize M protoplasts unveiled that ZmHB87 does not have a clear transcriptional activity, whereas ZmCPP8 and ZmOrphan94 act as activator and repressor, respectively. Moreover, we observed that ZmOrphan94 reduces the trans-activation activity of both activators ZmCPP8 and ZmbHLH90. Using the electromobility shift assay, we showed that ZmOrphan94 binds to several <i>cis</i>-elements present in the <i>ZmPEPC1</i> upstream region and one of these <i>cis</i>-elements overlaps with the ZmbHLH90 binding site. Gene expression analysis revealed that <i>ZmOrphan94</i> is preferentially expressed in the BS cells, suggesting that ZmOrphan94 is part of a transcriptional regulatory network downregulating <i>ZmPEPC1</i> transcript level in the BS cells. Based on both this and our previous work, we propose a model underpinning the importance of a regulatory mechanism within BS cells that contributes to the M-specific <i>ZmPEPC1</i> gene expression.
+
+ZmPEPC1: !localizes to! M cells 
+ZmHB87: !interacts with! ZmPEPC1 upstream region 
+ZmCPP8: !interacts with! ZmPEPC1 upstream region 
+ZmOrphan94: !interacts with! ZmPEPC1 upstream region 
+ZmOrphan94: !interacts with! ZmbHLH80 
+ZmOrphan94: !interacts with! ZmbHLH90 
+ZmCPP8: !enhances! ZmPEPC1 transcriptional activity 
+ZmOrphan94: !represses! ZmPEPC1 transcriptional activity 
+ZmOrphan94: !binds to! ZmPEPC1 cis-elements 
+ZmOrphan94: !synthesizes! in BS cells

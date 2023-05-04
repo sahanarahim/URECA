@@ -1,0 +1,10 @@
+Cryptochromes (CRYs) and UV RESISTANCE LOCUS 8 (UVR8) photoreceptors perceive UV-A/blue (315-500 nm) and UV-B (280-315 nm) radiation in plants, respectively. While the roles of CRYs and UVR8 have been studied in separate controlled-environment experiments, little is known about the interaction between these photoreceptors. Here, Arabidopsis wild-type Ler, CRYs and UVR8 photoreceptor mutants (uvr8-2, cry1cry2 and cry1cry2uvr8-2), and a flavonoid biosynthesis-defective mutant (tt4) were grown in a sun simulator. Plants were exposed to filtered radiation for 17 d or for 6 h, to study the effects of blue, UV-A, and UV-B radiation. Both CRYs and UVR8 independently enabled growth and survival of plants under solar levels of UV, while their joint absence was lethal under UV-B. CRYs mediated gene expression under blue light. UVR8 mediated gene expression under UV-B radiation, and in the absence of CRYs, also under UV-A. This negative regulation of UVR8-mediated gene expression by CRYs was also observed for UV-B. The accumulation of flavonoids was also consistent with this interaction between CRYs and UVR8. In conclusion, we provide evidence for an antagonistic interaction between CRYs and UVR8 and a role of UVR8 in UV-A perception.
+
+CRYs: !perceive! UV-A/blue radiation
+UVR8: !perceive! UV-B radiation
+CRYs: !enable! growth/survival under solar UV
+UVR8: !enable! growth/survival under solar UV
+CRYs: !mediate! gene expression under blue light
+UVR8: !mediate! gene expression under UV-B
+CRYs: !repress! UVR8-mediated gene expression under UV-A/B
+UVR8: !enhance! flavonoid accumulation

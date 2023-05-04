@@ -1,0 +1,7 @@
+Small RNAs that interact with Argonaute (AGO) proteins play central roles in RNA-mediated silencing. MEIOSIS ARRESTED AT LEPTOTENE1 (MEL1), a rice AGO, has specific functions in the development of pre-meiotic germ cells and the progression of meiosis. Here, we show that MEL1, which is located mostly in the cytoplasm of germ cells, associates preferentially with 21-nucleotide phased small interfering RNAs (phasiRNAs) that bear a 5'-terminal cytosine. Most phasiRNAs are derived from 1171 intergenic clusters distributed on all rice chromosomes. From these clusters, over 700 large intergenic, non-coding RNAs (lincRNAs) that contain the consensus sequence complementary to miR2118 are transcribed specifically in inflorescences, and cleaved within the miR2118 site. Cleaved lincRNAs are processed via DICER-LIKE4 (DCL4) protein, resulting in production of phasiRNAs. This study provides the evidence that the miR2118-dependent and the DCL4-dependent pathways are both required for biogenesis of 21-nt phasiRNAs associated with germline-specific MEL1 AGO in rice, and over 700 lincRNAs are key factors for induction of this biogenesis during reproductive-specific stages.
+
+MEL1: !associates with! phasiRNAs
+lincRNAs: !cleaved by! DCL4
+DCL4: !processes! lincRNAs
+miR2118: !dependent on! lincRNAs
+phasiRNAs: !derived from! intergenic clusters

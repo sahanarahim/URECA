@@ -1,0 +1,8 @@
+['19704545', "More than 10% of the plant-specific NAC (NAM, ATAF1/2, CUC2) transcription  factors have been predicted to have alpha-helical transmembrane (TM) domain in  their C-terminal regions, among which at least three members have been proven to  be membrane-associated and play a role in cell cycle control and stress  responses. These observations suggest that membrane-mediated regulation would be  an important molecular mechanism mediating rapid transcriptional responses to  internal and external stimuli in plants. Recently, we showed that a  salt-responsive NTL (NTM1-Like's) transcription factor NTL8 is localized  primarily in plasma membranes as dormant form and subsequently processed into  transcriptionally active, nuclear form. Overexpression of an active NTL8 form  exhibited delayed flowering as well as reduced growth with small curled leaves.  Consistent with this, expression of FLOWERING LOCUS T (FT) and its downstream  genes was significantly reduced in the transgenic plants. Furthermore, FT was  notably repressed by high salt. These results indicate that NTL8 mediates  salt-responsive flowering via FT in Arabidopsis and that membrane-mediated  transcription regulation underlies the salt signaling in mediating flowering  initiation.", '2007 Nov', 'Plant Signal Behav', '10.4161/psb.2.6.4645', 'Park']
+
+NAC: !affects! Cell Cycle Control 
+NAC: !affects! Stress Responses 
+NTL8: !localizes to! Plasma Membranes 
+NTL8: !enhances! Delayed Flowering 
+NTL8: !represses! FT Expression 
+FT: !repressed by! High Salt

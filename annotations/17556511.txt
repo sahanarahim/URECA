@@ -1,0 +1,11 @@
+Two genes encoding Arabidopsis (Arabidopsis thaliana) DEAD-box RNA helicases were identified in a functional genomics screen as being down-regulated by multiple abiotic stresses. Mutations in either gene caused increased tolerance to salt, osmotic, and heat stresses, suggesting that the helicases suppress responses to abiotic stress. The genes were therefore designated STRESS RESPONSE SUPPRESSOR1 (STRS1; At1g31970) and STRS2 (At5g08620). In the strs mutants, salt, osmotic, and cold stresses induced enhanced expression of genes encoding the transcriptional activators DREB1A/CBF3 and DREB2A and a downstream DREB target gene, RD29A. Under heat stress, the strs mutants exhibited enhanced expression of the heat shock transcription factor genes, HSF4 and HSF7, and the downstream gene HEAT SHOCK PROTEIN101. Germination of mutant seed was hyposensitive to the phytohormone abscisic acid (ABA), but mutants showed up-regulated expression of genes encoding ABA-dependent stress-responsive transcriptional activators and their downstream targets. In wild-type plants, STRS1 and STRS2 expression was rapidly down-regulated by salt, osmotic, and heat stress, but not cold stress. STRS expression was also reduced by ABA, but salt stress led to reduced STRS expression in both wild-type and ABA-deficient mutant plants. Taken together, our results suggest that STRS1 and STRS2 attenuate the expression of stress-responsive transcriptional activators and function in ABA-dependent and ABA-independent abiotic stress signaling networks.
+
+STRS1: !suppresses! abiotic stress responses
+STRS2: !suppresses! abiotic stress responses
+strs mutants: !exhibit enhanced expression of! DREB1A/CBF3 and DREB2A
+strs mutants: !exhibit enhanced expression of! HSF4 and HSF7
+strs mutants: !show hyposensitivity to! ABA
+STRS1: !down-regulated by! salt, osmotic, and heat stress
+STRS2: !down-regulated by! salt, osmotic, and heat stress
+STRS1: !down-regulated by! ABA
+STRS2: !down-regulated by! ABA

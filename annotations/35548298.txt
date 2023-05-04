@@ -1,0 +1,13 @@
+Autophagy is a conserved intracellular trafficking pathway for bulk degradation and recycling of cellular components in eukaryotes. The hallmark of autophagy is the formation of double-membraned vesicles termed autophagosomes, which selectively or non-selectively pack up various macromolecules and organelles and deliver these cargoes into the vacuole/lysosome. Like all other membrane trafficking pathways, the observation of autophagy is largely dependent on marker lines. ATG8/LC3 is the only autophagy-related (ATG) protein that, through a covalent bond to phosphatidylethanolamine (PE), associates tightly with the isolation membrane/pre-autophagosomal structure (PAS), the growing phagophore, the mature autophagosome, and the autophagic bodies. Therefore, fluorescent protein (FP)-tagged ATG8 had been widely used for monitoring autophagosome formation and autophagic flux. In rice (<i>Oryza sativa</i>), FP-OsATG8 driven by Cauliflower mosaic virus (CaMV) 35S promoter had been used for imaging autophagosome and autophagic bodies. Here, we constructed three vectors carrying <i>GFP-OsATG8a</i>, driven by <i>35S</i>, <i>ubiquitin</i>, and the endogenous <i>ATG8a</i> promoter, individually. Then, we compared them for their suitability in monitoring autophagy, by observing GFP-ATG8a puncta formation in transiently transformed rice protoplasts, and by tracking the autophagic flux with GFP-ATG8 cleavage assay in rice stable transgenic lines. GFP-Trap immunoprecipitation and mass spectrometry were also performed with the three marker lines to show that they can be used reliably for proteomic studies. We found out that the ubiquitin promoter is the best for protoplast imaging. Transgenic rice seedlings of the three marker lines showed comparable performance in autophagic flux measurement using the GFP-ATG8 cleavage assay. Surprisingly, the levels of GFP-ATG8a transcripts and protein contents were similar in all marker lines, indicating post-transcriptional regulation of the transgene expression by a yet unknown mechanism. These marker lines can serve as useful tools for autophagy studies in rice.
+
+35S promoter: !drives! GFP-OsATG8a 
+ubiquitin promoter: !drives! GFP-OsATG8a 
+ATG8a promoter: !drives! GFP-OsATG8a 
+GFP-OsATG8a: !localizes to! PAS 
+GFP-OsATG8a: !localizes to! autophagosome 
+GFP-OsATG8a: !localizes to! autophagic bodies 
+GFP-OsATG8a: !cleaves! GFP-ATG8 
+GFP-Trap: !immunoprecipitates! GFP-ATG8a 
+mass spectrometry: !analyzes! GFP-ATG8a 
+GFP-ATG8 cleavage assay: !measures! autophagic flux 
+transgene expression: !regulated by! unknown mechanism

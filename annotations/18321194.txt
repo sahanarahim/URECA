@@ -1,0 +1,12 @@
+The injection of nearly 30 effector proteins by the type III secretion system underlies the ability of Pseudomonas syringae pv. tomato DC3000 to cause disease in tomato and other host plants. The search for effector functions is complicated by redundancy within the repertoire and by plant resistance (R)-gene sentinels, which may convert effector virulence activities into a monolithic defense response. On the premise that some effectors target universal eukaryotic processes and that yeast (Saccharomyces cerevisiae) lacks R genes, the DC3000 effector repertoire was expressed in yeast. Of 27 effectors tested, HopAD1, HopAO1, HopD1, HopN1, and HopU1 were found to inhibit growth when expressed from a galactose-inducible GAL1 promoter, and HopAA1-1 and HopAM1 were found to cause cell death. Catalytic site mutations affecting the tyrosine phosphatase activity of HopAO1 and the cysteine protease activity of HopN1 prevented these effectors from inhibiting yeast growth. Expression of HopAA1-1, HopAM1, HopAD1, and HopAO1 impaired respiration in yeast, as indicated by tests with ethanol glycerol selective media. HopAA1-1 colocalized with porin to yeast mitochondria and was shown to cause cell death in yeast and plants in a domain-dependent manner. These results support the use of yeast for the study of plant-pathogen effector repertoires.
+
+HopAD1: !inhibits! growth
+HopAO1: !inhibits! growth
+HopD1: !inhibits! growth
+HopN1: !inhibits! growth
+HopU1: !inhibits! growth
+HopAA1-1: !causes! cell death
+HopAM1: !causes! cell death
+HopAO1: !impairs! respiration
+HopAA1-1: !localizes to! mitochondria
+HopAA1-1: !causes! cell death in plants

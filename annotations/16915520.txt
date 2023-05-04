@@ -1,0 +1,9 @@
+['16915520', "Pyruvate orthophosphate dikinase (PPDK) is a critical enzyme for C(4)  photosynthesis, providing the primary acceptor for fixation of bicarbonate in  mesophyll cells. Although first isolated in C(4) plants, it is also present in  C(3) species. We report that the single gene encoding PPDK in Arabidopsis  thaliana possesses two promoters, giving rise to two types of transcript. The  longer transcript is generated from a promoter upstream of the first exon, while  the shorter transcript is derived from a promoter found within the first intron  of the longer form. Apart from 5' untranslated regions, the presence of the first  exon, and three missing codons at the start of the second exon in the longer  form, the transcripts are identical. Fusions between the two forms of transcript  and gfp showed that the longer transcript encodes a protein targeted to the  chloroplast, that its first exon acts as a transit peptide, and that the smaller  protein is cytosolic. Abundance of the shorter transcript, responsible for  producing the cytosolic protein increases rapidly and specifically during  extended dark and dark-induced senescence. Transcripts for both chloroplastic and  cytosolic proteins were detectable in cotyledons, while in cauline leaves the  transcript encoding the chloroplastic protein was most abundant. We propose that  in cotyledons PPDK may be important in supplying PEP to gluconeogenesis, and in  ageing leaves it allows remobilisation of nitrogen to supply reproductive tissue.", '2006 Oct', 'Plant Mol Biol', '10.1007/s11103-006-9023-0', 'Hibberd']
+
+PPDK: !encodes! two types of transcript 
+longer transcript: !localizes to! chloroplast 
+shorter transcript: !localizes to! cytosol 
+cotyledons: !contain! transcripts for both proteins 
+cauline leaves: !contain! transcript for chloroplastic protein 
+PPDK: !supplies! PEP to gluconeogenesis 
+PPDK: !allows remobilisation of! nitrogen

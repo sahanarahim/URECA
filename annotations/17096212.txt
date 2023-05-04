@@ -1,0 +1,13 @@
+The BOLITA (BOL) gene, an AP2/ERF transcription factor, was characterized with the help of an activation tag mutant and overexpression lines in Arabidopsis and tobacco. The leaf size of plants overexpressing BOL was smaller than wild type plants due to a reduction in both cell size and cell number. Moreover, severe overexpressors showed ectopic callus formation in roots. Accordingly, global gene expression analysis using the overexpression mutant reflected the alterations in cell proliferation, differentiation and growth through expression changes in RBR, CYCD, and TCP genes, as well as genes involved in cell expansion (i.e. expansins and the actin remodeling factor ADF5). Furthermore, the expression of hormone signaling (i.e. auxin and cytokinin), biosynthesis (i.e. ethylene and jasmonic acid) and regulatory genes was found to be perturbed in bol-D mutant leaves.
+
+BOL: !affects! Cell size and number
+BOL: !affects! Callus formation
+RBR: !affected by! BOL
+CYCD: !affected by! BOL
+TCP: !affected by! BOL
+Expansins: !affected by! BOL
+ADF5: !affected by! BOL
+Auxin: !affected by! BOL
+Cytokinin: !affected by! BOL
+Ethylene: !affected by! BOL
+Jasmonic acid: !affected by! BOL

@@ -1,0 +1,16 @@
+Orchidaceae, the orchid family, encompasses more than 25,000 species and five subfamilies. Due to their beautiful and exotic flowers, distinct biological and ecological features, orchids have aroused wide interest among both researchers and the general public. We constructed the Orchidstra database, a resource for orchid transcriptome assembly and gene annotations. The Orchistra database has been under active development since 2013. To accommodate the increasing amount of orchid transcriptome data and house more comprehensive information, Orchidstra 2.0 has been built with a new database system to store the annotations of 510,947 protein-coding genes and 161,826 noncoding transcripts, covering 18 orchid species belonging to 12 genera in five subfamilies of Orchidaceae. We have improved the N50 size of protein-coding genes, provided new functional annotations (including protein-coding gene annotations, protein domain/family information, pathways analysis, Gene Ontology term assignments, orthologous genes across orchid species, cross-links to the database of model species, and miRNA information), and improved the user interface with better website performance. We also provide new database functionalities for database searching and sequence retrieval. Moreover, the Orchidstra 2.0 database incorporates detailed RNA-Seq gene expression data from various tissues and developmental stages in different orchid species. The database will be useful for gene prediction and gene family studies, and for exploring gene expression in orchid species. The Orchidstra 2.0 database is freely accessible at http://orchidstra2.abrc.sinica.edu.tw.
+
+Gene: !affects! Process 
+Gene: !annotates! Protein-coding genes 
+Gene: !annotates! Noncoding transcripts 
+Gene: !assigns! Gene Ontology terms 
+Gene: !cross-links! Database of model species 
+Gene: !enhances! Website performance 
+Gene: !incorporates! RNA-Seq gene expression data 
+Gene: !interacts with! miRNA 
+Gene: !localizes to! Orchidstra 2.0 database 
+Gene: !predicts! Genes 
+Gene: !represses! Pathways analysis 
+Gene: !retrieves! Sequences 
+Gene: !searches! Database 
+Gene: !synthesizes! Orthologous genes

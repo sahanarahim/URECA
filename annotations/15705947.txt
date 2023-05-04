@@ -1,0 +1,8 @@
+Arabidopsis thaliana seedlings undergo photomorphogenesis in the light and etiolation in the dark. Long Hypocotyl in Far-Red 1 (HFR1), a basic helix-loop-helix transcription factor, is required for both phytochrome A-mediated far-red and cryptochrome 1-mediated blue light signaling. Here, we report that HFR1 is a short-lived protein in darkness and is degraded through a 26S proteasome-dependent pathway. Light, irrespective of its quality, enhances HFR1 protein accumulation via promoting its stabilization. We demonstrate that HFR1 physically interacts with Constitutive Photomorphogenesis 1 (COP1) and that COP1 exhibits ubiquitin ligase activity toward HFR1 in vitro. In addition, we show that COP1 is required for degradation of HFR1 in vivo. Furthermore, plants overexpressing a C-terminal 161-amino acid fragment of HFR1 (CT161) display enhanced photomorphogenesis, suggesting an autonomous function of CT161 in promoting light signaling. This truncated HFR1 gene product is more stable than the full-length HFR1 protein in darkness, indicating that the COP1-interacting N-terminal portion of HFR1 is essential for COP1-mediated destabilization of HFR1. These results suggest that light enhances HFR1 protein accumulation by abrogating COP1-mediated degradation of HFR1, which is necessary and sufficient for promoting light signaling. Additionally, our results substantiate the E3 ligase activity of COP1 and its critical role in desensitizing light signaling.
+
+HFR1: !degraded by! 26S proteasome
+Light: !stabilizes! HFR1
+COP1: !ubiquitin ligase activity towards! HFR1
+COP1: !required for degradation of! HFR1
+CT161: !enhances! photomorphogenesis
+COP1: !destabilizes! N-terminal portion of HFR1

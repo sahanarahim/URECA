@@ -1,0 +1,10 @@
+Plant growth and development are highly coordinated by hormones, including brassinosteroid (BR) and gibberellin (GA). Although much progress has been made in understanding the fundamental signaling transduction in BR and GA, their relationship remains elusive in rice. Here, we show that BR suppresses the level of OsmiR159d, which cleaves the target OsGAMYBL2 gene. The OsmiR159d-OsGAMYBL2 pair functions as an early BR-responsive module regulating the expression of BU1, a BR-regulated gene involved in BR signaling, and CPS1 and GA3ox2, two genes in GA biosynthesis, by binding to the promoters of these genes. Furthermore, OsGSK2, a key negative player in BR signaling, interacts with OsGAMYBL2 and prevents it from being degraded under 24-epibrassinolide treatment, whereas SLR1, a rice DELLA protein negatively regulating GA signaling, interacts with OsGAMYBL2 and prevents OsGAMYBL2 from binding to the target gene promoter. GA signaling induces degradation of OsGAMYBL2 and, consequently, enhances BR signaling. These results demonstrate that a BR-responsive module acts as a common component functioning in both BR and GA pathways, which connects BR signaling and GA biosynthesis, and thus coordinates the regulation of BR and GA in plant growth and development.
+
+BR: !suppresses! OsmiR159d
+OsmiR159d: !cleaves! OsGAMYBL2
+OsGAMYBL2: !regulates! BU1
+OsGAMYBL2: !regulates! CPS1
+OsGAMYBL2: !regulates! GA3ox2
+OsGSK2: !interacts with! OsGAMYBL2
+SLR1: !interacts with! OsGAMYBL2
+GA: !induces degradation of! OsGAMYBL2

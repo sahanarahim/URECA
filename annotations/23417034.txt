@@ -1,0 +1,8 @@
+Vernalization is an environmentally induced epigenetic switch in which winter cold triggers epigenetic silencing of floral repressors and thus provides competence to flower in spring. Vernalization triggers the recruitment of chromatin-modifying complexes to a clade of flowering repressors that are epigenetically silenced via chromatin modifications. In Arabidopsis thaliana, VERNALIZATION INSENSITIVE3 (VIN3) and its related plant homeodomain finger proteins act together with Polycomb Repressive Complex 2 to increase repressive histone marks at floral repressor loci, including FLOWERING LOCUS C (FLC) and its related genes, by vernalization. Here, we show that VIN3 family of proteins nonredundantly functions to repress different subsets of the FLC gene family during the course of vernalization. Each VIN3 family protein binds to modified histone peptides in vitro and directly associates with specific sets of FLC gene family chromatins in vivo to mediate epigenetic silencing. In addition, members of the FLC gene family are also differentially regulated during the course of vernalization to mediate proper vernalization response. Our results show that these two gene families cooperated during the course of evolution to ensure proper vernalization response through epigenetic changes.
+
+VIN3: !represses! FLC 
+FLC: !silenced by! VIN3 
+VIN3: !binds to! modified histone peptides 
+VIN3: !associates with! specific sets of FLC chromatins 
+FLC: !differentially regulated during! vernalization 
+VIN3/FLC: !cooperate during! evolution

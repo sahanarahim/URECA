@@ -1,0 +1,8 @@
+MULTICOPY SUPPRESSOR OF IRA1 (MSI1) is a conserved subunit of Polycomb Repressive Complex 2 (PRC2), which mediates gene silencing by histone H3 lysine 27 trimethylation (H3K27Me3). Here, we demonstrated that MSI1 interacts with the RPD3-like histone deacetylase HDA6 both in vitro and in vivo. MSI1 and HDA6 are involved in flowering and repress the expression of FLC, MAF4, and MAF5 by removing H3K9 acetylation but adding H3K27Me3. Chromatin immunoprecipitation analysis showed that HDA6 and MSI1 interdependently bind to the chromatin of FLC, MAF4, and MAF5. Furthermore, H3K9 deacetylation mediated by HDA6 is dependent on MSI1, while H3K27Me3 mediated by PRC2 containing MSI1 is also dependent on HDA6. Taken together, these data indicate that MSI1 and HDA6 act interdependently to repress the expression of FLC, MAF4, and MAF5 through histone modifications. Our findings reveal that the HDA6-MSI1 module mediates the interaction between histone H3 deacetylation and H3K27Me3 to repress gene expression involved in flowering time control.
+
+MSI1: !interacts with! HDA6
+HDA6: !represses! FLC, MAF4, MAF5
+MSI1: !enhances! H3K27Me3
+HDA6: !enhances! H3K9 deacetylation
+MSI1: !depends on! HDA6
+HDA6: !depends on! MSI1

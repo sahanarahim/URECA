@@ -1,0 +1,14 @@
+Ongoing large-scale genome sequencing projects are forecasting a data deluge that will almost certainly overwhelm current analytical capabilities of evolutionary genomics. In contrast to population genomics, there are no standardized methods in evolutionary genomics for extracting evolutionary and functional (e.g. gene-trait association) signal from genomic data. Here, we examine how current practices of multi-species comparative genomics perform in this aspect and point out that many genomic datasets are under-utilized due to the lack of powerful methodologies. As a result, many current analyses emphasize gene families for which some functional data is already available, resulting in a growing gap between functionally well-characterized genes/organisms and the universe of unknowns. This leaves unknown genes on the 'dark side' of genomes, a problem that will not be mitigated by sequencing more and more genomes, unless we develop tools to infer functional hypotheses for unknown genes in a systematic manner. We provide an inventory of recently developed methods capable of predicting gene-gene and gene-trait associations based on comparative data, then argue that realizing the full potential of whole genome datasets requires the integration of phylogenetic comparative methods into genomics, a rich but underutilized toolbox for looking into the past.
+
+Gene: !affects! Process 
+Gene: !localizes to! X 
+Gene: !interacts with! Y 
+Gene: !enhances! Z 
+Gene: !represses! U 
+Gene: !synthesizes! I 
+Data: !overwhelms! Analytical Capabilities 
+Functional Data: !under-utilized due to! Lack of Methodologies 
+Genomes: !leaves unknown genes on! 'Dark Side' 
+Tools: !required to infer! Functional Hypotheses 
+Methods: !capable of predicting! Gene-Gene and Gene-Trait Associations 
+Phylogenetic Comparative Methods: !integrated into! Genomics

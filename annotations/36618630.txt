@@ -1,0 +1,7 @@
+GBLUP, the most widely used genomic prediction (GP) method, consumes large and increasing amounts of computational resources as the training population size increases due to the inverse of the genomic relationship matrix (GRM). Therefore, in this study, we developed a new genomic prediction method (RHEPCG) that avoids the direct inverse of the GRM by combining randomized Haseman-Elston (HE) regression (RHE-reg) and a preconditioned conjugate gradient (PCG). The simulation results demonstrate that RHEPCG, in most cases, not only achieves similar predictive accuracy with GBLUP but also significantly reduces computational time. As for the real data, RHEPCG shows similar or better predictive accuracy for seven traits of the <i>Arabidopsis thaliana</i> F2 population and four traits of the <i>Sorghum bicolor</i> RIL population compared with GBLUP. This indicates that RHEPCG is a practical alternative to GBLUP and has better computational efficiency.
+
+GBLUP: !consumes! computational resources 
+RHEPCG: !avoids! direct inverse of GRM 
+RHEPCG: !achieves! similar predictive accuracy 
+RHEPCG: !reduces! computational time 
+RHEPCG: !shows! similar or better predictive accuracy

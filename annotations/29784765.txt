@@ -1,0 +1,6 @@
+DAWDLE (DDL) is a conserved forkhead-associated (FHA) domain-containing protein with essential roles in plant development and immunity. It acts in the biogenesis of microRNAs (miRNAs) and endogenous small interfering RNAs (siRNAs), which regulate gene expression at the transcriptional and/or posttranscriptional levels. However, the functional mechanism of DDL and its impact on exogenous siRNAs remain elusive. Here, we report that DDL is required for the biogenesis of siRNAs derived from sense transgenes and inverted-repeat transgenes. Furthermore, we show that a mutation in the FHA domain of DDL disrupts the interaction of DDL with DICER-LIKE1 (DCL1), which is the enzyme that catalyzes miRNA maturation from primary miRNA transcripts (pri-miRNAs), resulting in impaired pri-miRNA processing. Moreover, we demonstrate that DDL interacts with DCL3, which is a DCL1 homolog responsible for siRNA production, and this interaction is crucial for optimal DCL3 activity. These results reveal that the interaction of DDL with DCLs is required for the biogenesis of miRNAs and siRNAs in Arabidopsis (<i>Arabidopsis thaliana</i>).
+
+DDL: !interacts with! DCL1 
+DDL: !interacts with! DCL3 
+DCL1: !catalyzes! miRNA maturation 
+DCL3: !produces! siRNAs

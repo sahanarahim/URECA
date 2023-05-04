@@ -1,0 +1,8 @@
+['12194854', 'The phytohormone abscisic acid (ABA) triggers an oscillation in the cytosolic  Ca(2+) concentration, which is then perceived by unknown Ca(2+) binding proteins  to initiate a series of signaling cascades that control many physiological  processes, including adaptation to environmental stress. We report here that a  Ca(2+) binding protein, SCaBP5, and its interacting protein kinase, PKS3,  function as global regulators of ABA responses. Arabidopsis mutants with silenced  SCaBP5 or PKS3 are hypersensitive to ABA in seed germination, seedling growth,  stomatal closing, and gene expression. PKS3 physically interacts with the 2C-type  protein phosphatase ABI2 (ABA-insensitive 2) and to a lesser extent with the  homologous ABI1 (ABA-insensitive 1) protein. Thus, SCaBP5 and PKS3 are part of a  calcium-responsive negative regulatory loop controlling ABA sensitivity.', '2002 Aug', 'Dev Cell', '10.1016/s1534-5807(02)00229-0', 'Zhu']
+
+ABA: !triggers! oscillation in Ca(2+) concentration 
+SCaBP5: !binds to! Ca(2+) 
+SCaBP5: !regulates! ABA responses 
+PKS3: !interacts with! ABI2 
+PKS3: !regulates! ABA responses 
+ABI2: !inhibits! ABA sensitivity

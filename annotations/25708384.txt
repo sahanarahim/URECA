@@ -1,0 +1,9 @@
+The hot ABA-deficiency suppressor2 (has2) mutation increases drought tolerance and the ABA sensitivity of stomata closure and seed germination. Here we report that the HAS2 locus encodes the mitochondrial editing factor11 (MEF11), also known as lovastatin insensitive1. has2/mef11 mutants exhibited phenotypes very similar to the ABA-hypersensitive mutant, hai1-1 pp2ca-1 hab1-1 abi1-2, which is impaired in four genes encoding type 2C protein phosphatases (PP2C) that act as upstream negative regulators of the ABA signaling cascade. Like pp2c, mef11 plants were more resistant to progressive water stress and seed germination was more sensitive to paclobutrazol (a gibberellin biosynthesis inhibitor) as well as mannitol and NaCl, compared with the wild-type plants. Phenotypic alterations in mef11 were associated with the lack of editing of transcripts for the mitochondrial cytochrome c maturation FN2 (ccmFN2) gene, which encodes a cytochrome c-heme lyase subunit involved in cytochrome c biogenesis. Although the abundance of electron transfer chain complexes was not affected, their dysfunction could be deduced from increased respiration and altered production of hydrogen peroxide and nitric oxide in mef11 seeds. As minor defects in mitochondrial respiration affect ABA signaling, this suggests an essential role for ABA in mitochondrial retrograde regulation.
+
+HAS2: !encodes! MEF11
+MEF11: !impairs! PP2C
+MEF11: !lacks editing of! ccmFN2
+ccmFN2: !encodes! cytochrome c-heme lyase subunit
+cytochrome c-heme lyase subunit: !involved in! cytochrome c biogenesis
+MEF11: !affects! respiration
+respiration: !alters! ABA signaling

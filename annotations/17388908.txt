@@ -1,0 +1,8 @@
+Ecological and biological processes can change from one state to another once a threshold has been crossed in space or time. Threshold responses to incremental changes in underlying variables can characterize diverse processes from climate change to the desertification of arid lands from overgrazing. Simultaneously estimating the location of thresholds and associated ecological parameters can be difficult: ecological data are often 'noisy', which can make the identification of the locations of ecological thresholds challenging. We illustrate this problem using two ecological examples and apply a class of statistical models well-suited to addressing this problem. We first consider the case of estimating allometric relationships between tree diameter and height when the trees have distinctly different growth modes across life-history stages. We next estimate the effects of canopy gaps and dense understory vegetation on tree recruitment in transects that transverse both canopy and gap conditions. The Bayesian change-point models that we present estimate both threshold locations and the slope or level of ecological quantities of interest, while incorporating uncertainty in the change-point location into these estimates. This class of models is suitable for problems with multiple thresholds and can account for spatial or temporal autocorrelation.
+
+Gene: !affects! Ecological Process 
+Gene: !localizes to! Life-History Stages 
+Gene: !interacts with! Canopy Gaps 
+Gene: !enhances! Tree Recruitment 
+Gene: !represses! Dense Understory Vegetation 
+Gene: !synthesizes! Bayesian Change-Point Models

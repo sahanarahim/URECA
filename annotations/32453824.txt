@@ -1,0 +1,11 @@
+Trichomes and the cuticle are two specialized structures of the aerial epidermis that are important for plant organ development and interaction with the environment. In this study, we report that Arabidopsis thaliana plants affected in the function of the class I TEOSINTE BRANCHED 1, CYCLOIDEA, PCF (TCP) transcription factors TCP14 and TCP15 show overbranched trichomes in leaves and stems and increased cuticle permeability. We found that TCP15 regulates the expression of MYB106, a MIXTA-like transcription factor involved in epidermal cell and cuticle development, and overexpression of MYB106 in a tcp14 tcp15 mutant reduces trichome branch number. TCP14 and TCP15 are also required for the expression of the cuticle biosynthesis genes CYP86A4, GPAT6, and CUS2, and of SHN1 and SHN2, two AP2/EREBP transcription factors required for cutin and wax biosynthesis. SHN1 and CUS2 are also targets of TCP15, indicating that class I TCPs influence cuticle formation acting at different levels, through the regulation of MIXTA-like and SHN transcription factors and of cuticle biosynthesis genes. Our study indicates that class I TCPs are coordinators of the regulatory network involved in trichome and cuticle development.
+
+TCP14: !regulates! MYB106
+TCP15: !regulates! MYB106
+TCP14: !regulates! CYP86A4
+TCP14: !regulates! GPAT6
+TCP14: !regulates! CUS2
+TCP14: !regulates! SHN1
+TCP14: !regulates! SHN2
+TCP15: !regulates! SHN1
+TCP15: !regulates! CUS2

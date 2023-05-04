@@ -1,0 +1,10 @@
+The plastids of plant cells each contain their own genome, and a bacterial-type RNA polymerase called plastid-encoded plastid RNA polymerase (PEP) is involved in transcription of this genome. While the catalytic core subunits are encoded by the plastid genome, the specificity subunit of PEP, sigma, is generally encoded by the nuclear genome and imported into plastids from the cytoplasm after translation. In this study, we identified and analyzed four sigma factor genes from the nuclear genome of a liverwort, Marchantia polymorpha. Phylogenetic analysis suggested that three of the four genes were orthologous to vascular plant genes and thus they were named MpSIG1, MpSIG2 and MpSIG5. The remaining gene was named MpSIGX. The gene products were predicted to localize to the plastid, and this prediction was experimentally demonstrated by expressing yellow fluorescent protein fusion genes in vivo. As with SIG5 genes of other plant species, expression of MpSIG5 was induced by blue-light irradiation and also under various stress conditions, indicating that the regulatory mechanism responsible is conserved among divergent plant species. However, while the major role of SIG5 in vascular plants is to repair the damaged PSII reaction center through psbD gene transcription, the relevant blue-light-responsive promoter (psbD-BLRP) was not found in M. polymorpha and psbD transcript accumulation did not occur in conjunction with MpSIG5 induction. Thus, the physiological role of SIG5 is probably divergent among plant phyla.
+
+MpSIG1: !localizes to! plastid
+MpSIG2: !localizes to! plastid
+MpSIG5: !localizes to! plastid
+MpSIGX: !localizes to! plastid
+MpSIG5: !induced by! blue-light irradiation
+MpSIG5: !induced by! various stress conditions
+psbD-BLRP: !not found in! M. polymorpha
+psbD transcript: !not accumulated with! MpSIG5 induction

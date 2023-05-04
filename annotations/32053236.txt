@@ -1,0 +1,11 @@
+Computational models of plants have identified gaps in our understanding of biological systems, and have revealed ways to optimize cellular processes or organ-level architecture to increase productivity. Thus, computational models are learning tools that help direct experimentation and measurements. Models are simplifications of complex systems, and often simulate specific processes at single scales (e.g. temporal, spatial, organizational, etc.). Consequently, single-scale models are unable to capture the critical cross-scale interactions that result in emergent properties of the system. In this perspective article, we contend that to accurately predict how a plant will respond in an untested environment, it is necessary to integrate mathematical models across biological scales. Computationally mimicking the flow of biological information from the genome to the phenome is an important step in discovering new experimental strategies to improve crops. A key challenge is to connect models across biological, temporal and computational (e.g. CPU versus GPU) scales, and then to visualize and interpret integrated model outputs. We address this challenge by describing the efforts of the international Crops in silico consortium.
+
+Gene: !affects! Process
+Process: !modeled by! Computational models
+Computational models: !simulate! Specific processes
+Specific processes: !capture! Cross-scale interactions
+Cross-scale interactions: !result in! Emergent properties
+Genome: !informs! Phenome
+Phenome: !improved by! Experimental strategies
+Experimental strategies: !discovered by! Integrated model outputs
+Integrated model outputs: !visualized and interpreted by! Crops in silico consortium

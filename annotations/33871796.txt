@@ -1,0 +1,15 @@
+The temporal expression profiles of citrus leaves explain the sink-source transition of immature leaves to mature leaves and provide knowledge regarding the differential responses of mature and immature leaves to biotic stress such as citrus canker and Asian citrus psyllid (Diaphorina citri). Citrus is an important fruit crop worldwide. Different developmental stages of citrus leaves are associated with distinct features, such as differences in susceptibilities to pathogens and insects, as well as photosynthetic capacity. Here, we investigated the mechanisms underlying these distinctions by comparing the gene expression profiles of mature and immature citrus leaves. Immature (stages V3 and V4), transition (stage V5), and mature (stage V6) Citrus sinensis leaves were chosen for RNA-seq analyses. Carbohydrate biosynthesis, photosynthesis, starch biosynthesis, and disaccharide metabolic processes were enriched among the upregulated differentially expressed genes (DEGs) in the V5 and V6 stages compared with that in the V3 and V4 stages. Glucose level was found to be higher in V5 and V6 than in V3 and V4. Among the four stages, the largest number of DEGs between contiguous stages were identified between V5 and V4, consistent with a change from sink to source, as well as with the sucrose and starch quantification data. The differential expression profiles related to cell wall synthesis, secondary metabolites such as flavonoids and terpenoids, amino acid biosynthesis, and immunity between immature and mature leaves may contribute to their different responses to Asian citrus psyllid infestation. The expression data suggested that both the constitutive and induced gene expression of immunity-related genes plays important roles in the greater resistance of mature leaves against Xanthomonas citri compared with immature leaves. The gene expression profiles in the different stages can help identify stage-specific promoters for the manipulation of the expression of citrus traits according to the stage. The temporal expression profiles explain the sink-source transition of immature leaves to mature leaves and provide knowledge regarding the differential responses to biotic stress.
+
+Gene: !affects! Process
+Gene: !synthesizes! Carbohydrate biosynthesis
+Gene: !enhances! Photosynthesis
+Gene: !represses! Susceptibility to pathogens
+Gene: !localizes to! Immature leaves
+Gene: !interacts with! Mature leaves
+Gene: !synthesizes! Starch biosynthesis
+Gene: !enhances! Glucose level
+Gene: !synthesizes! Cell wall synthesis
+Gene: !synthesizes! Secondary metabolites
+Gene: !synthesizes! Amino acid biosynthesis
+Gene: !enhances! Immunity
+Gene: !represses! Susceptibility to Asian citrus psyllid

@@ -1,0 +1,10 @@
+Plants show a suite of inducible defense responses against bacterial pathogens. Here we investigate in detail the effect of the circadian clock on these reactions in Arabidopsis thaliana. The magnitude of immune responses elicited by flg22, by virulent and by avirulent Pseudomonas syringae strains depends on the time of day of inoculation. The oxidative burst is stronger when flg22 is infiltrated in the morning in wild-type plants but not in the arrhythmic clock mutant lux arrhythmo/phytoclock1 (pcl1), and thus is controlled by the endogenous clock. Similarly, when bacteria are syringe-infiltrated into the leaf, defense gene induction is higher and bacterial growth is suppressed more strongly after morning inoculation in wild-type but not in pcl1 plants. Furthermore, cell death associated with the hypersensitive response was found to be under clock control. Notably, the clock effect depends on the mode of infection: upon spray inoculation onto the leaf surface, defense gene induction is higher and bacterial growth is suppressed more strongly upon evening inoculation. This different phasing of pre-invasive and post-invasive defense relates to clock-regulated stomatal movement. In particular, TIME FOR COFFEE may impact pathogen defense via clock-regulated stomata movement apart from its known role in time-of-day-dependent jasmonate responses. Taken together, these data highlight the importance of the circadian clock for the control of different immune responses at distinct times of the day.
+
+clock: !affects! defense responses
+flg22: !induces! immune responses
+virulent/avirulent Pseudomonas syringae strains: !depend on! time of day of inoculation
+oxidative burst: !stronger in! wild-type plants
+defense gene induction: !higher in! wild-type plants
+bacterial growth: !suppressed more strongly in! wild-type plants
+cell death: !under clock control!
+TIME FOR COFFEE: !impacts! pathogen defense

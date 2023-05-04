@@ -1,0 +1,11 @@
+We recently demonstrated that cell elongation in plants is regulated by a triantagonistic bHLH system, in which three bHLH proteins, Activator of Cell Elongation 1 (ACE1), Arabidopsis ILI1 binding BHLH 1 (AtIBH1) and Paclobutrazol Resistance 1 (PRE1), competitively regulate the expression of genes for cell elongation. Here we show that ATBS1 Interacting Factor 2 (AIF2), AIF3 and AIF4 interact with PRE1 and ACE1, similar to AtIBH1, and also negatively regulate cell elongation in the triantagonistic bHLH system. The expression of each AIF is constitutive or induced by light, but AtIBH1 expression is dependent on BR signaling and developmental phase. These results indicate that AIFs and AtIBH1 may play different roles in cell elongation in different signaling pathways.
+
+ACE1: !interacts with! AIF2
+ACE1: !interacts with! AIF3
+ACE1: !interacts with! AIF4
+PRE1: !interacts with! AIF2
+PRE1: !interacts with! AIF3
+PRE1: !interacts with! AIF4
+AtIBH1: !interacts with! ACE1
+AtIBH1: !interacts with! PRE1
+BR signaling: !induces! AtIBH1

@@ -1,0 +1,9 @@
+Drought is a key limiting factor for cotton (Gossypium spp.) production, as more than half of the global cotton supply is grown in regions with high water shortage. However, the underlying mechanism of the response of cotton to drought stress remains elusive. By combining genome-wide transcriptome profiling and a loss-of-function screen using virus-induced gene silencing, we identified Gossypium hirsutum GhWRKY59 as an important transcription factor that regulates the drought stress response in cotton. Biochemical and genetic analyses revealed a drought stress-activated mitogen-activated protein (MAP) kinase cascade consisting of GhMAP3K15-Mitogen-activated Protein Kinase Kinase 4 (GhMKK4)-Mitogen-activated Protein Kinase 6 (GhMPK6) that directly phosphorylates GhWRKY59 at residue serine 221. Interestingly, GhWRKY59 is required for dehydration-induced expression of GhMAPK3K15, constituting a positive feedback loop of GhWRKY59-regulated MAP kinase activation in response to drought stress. Moreover, GhWRKY59 directly binds to the W-boxes of DEHYDRATION-RESPONSIVE ELEMENT-BINDING PROTEIN 2 (GhDREB2), which encodes a dehydration-inducible transcription factor regulating the plant hormone abscisic acid (ABA)-independent drought response. Our study identified a complete MAP kinase cascade that phosphorylates and activates a key WRKY transcription factor, and elucidated a regulatory module, consisting of GhMAP3K15-GhMKK4-GhMPK6-GhWRKY59-GhDREB2, that is involved in controlling the cotton drought response.
+
+GhWRKY59: !regulates! drought stress response 
+GhMAP3K15: !activates! GhMKK4 
+GhMKK4: !activates! GhMPK6 
+GhMPK6: !phosphorylates! GhWRKY59 
+GhWRKY59: !positively feeds back! GhMAPK3K15 
+GhWRKY59: !binds to! GhDREB2 
+GhDREB2: !regulates! ABA-independent drought response

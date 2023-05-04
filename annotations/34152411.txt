@@ -1,0 +1,8 @@
+Seed germination and postgerminative growth require the precise coordination of multiple intrinsic and environmental signals. The phytohormone abscisic acid (ABA) suppresses these processes in Arabidopsis thaliana and the circadian clock contributes to the regulation of ABA signaling. However, the molecular mechanism underlying circadian clock-mediated ABA signaling remains largely unknown. Here, we found that the core circadian clock proteins PSEUDO-RESPONSE REGULATOR5 (PRR5) and PRR7 physically associate with ABSCISIC ACID-INSENSITIVE5 (ABI5), a crucial transcription factor of ABA signaling. PRR5 and PRR7 positively modulate ABA signaling redundantly during seed germination. Disrupting PRR5 and PRR7 simultaneously rendered germinating seeds hyposensitive to ABA, whereas the overexpression of PRR5 enhanced ABA signaling to inhibit seed germination. Consistent with this, the expression of several ABA-responsive genes is upregulated by PRR proteins. Genetic analysis demonstrated that PRR5 promotes ABA signaling mainly dependently on ABI5. Further mechanistic investigation revealed that PRR5 stimulates the transcriptional function of ABI5 without affecting its stability. Collectively, our results indicate that these PRR proteins function synergistically with ABI5 to activate ABA responses during seed germination, thus providing a mechanistic understanding of how ABA signaling and the circadian clock are directly integrated through a transcriptional complex involving ABI5 and central circadian clock components.
+
+PRR5: !associates with! ABI5
+PRR7: !associates with! ABI5
+PRR5: !modulates! ABA signaling
+PRR7: !modulates! ABA signaling
+PRR5: !promotes! ABA signaling
+PRR5: !stimulates! ABI5 transcriptional function

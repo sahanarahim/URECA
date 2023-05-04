@@ -1,0 +1,8 @@
+A big challenge in current systems biology research arises when different types of data must be accessed from separate sources and visualized using separate tools. The high cognitive load required to navigate such a workflow is detrimental to hypothesis generation. Accordingly, there is a need for a robust research platform that incorporates all data and provides integrated search, analysis, and visualization features through a single portal. Here, we present ePlant (http://bar.utoronto.ca/eplant), a visual analytic tool for exploring multiple levels of <i>Arabidopsis thaliana</i> data through a zoomable user interface. ePlant connects to several publicly available web services to download genome, proteome, interactome, transcriptome, and 3D molecular structure data for one or more genes or gene products of interest. Data are displayed with a set of visualization tools that are presented using a conceptual hierarchy from big to small, and many of the tools combine information from more than one data type. We describe the development of ePlant in this article and present several examples illustrating its integrative features for hypothesis generation. We also describe the process of deploying ePlant as an "app" on Araport. Building on readily available web services, the code for ePlant is freely available for any other biological species research.
+
+Gene: !affects! Process 
+Gene: !localizes to! 3D Molecular Structure 
+Gene: !interacts with! Proteome 
+Gene: !enhances! Hypothesis Generation 
+Gene: !represses! Cognitive Load 
+Gene: !synthesizes! Transcriptome

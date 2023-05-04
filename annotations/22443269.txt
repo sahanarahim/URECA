@@ -1,0 +1,8 @@
+Higher plants have evolved multiple RNA-dependent RNA polymerases (RDRs), which work with Dicer-like (DCL) proteins to produce different classes of small RNAs with specialized molecular functions. Here we report that OsRDR6, the rice (Oryza sativa L.) homolog of Arabidopsis RDR6, acts in the biogenesis of various types and sizes of small RNAs. We isolated a rice osrdr6-1 mutant, which was temperature sensitive and showed spikelet defects. This mutant displays reduced accumulation of tasiR-ARFs, the conserved trans-acting siRNAs (tasiRNAs) derived from the TAS3 locus, and ectopic expression of tasiR-ARF target genes, the Auxin Response Factors (including ARF2 and ARF3/ETTIN). The loss of tasiR-mediated repression of ARFs in osrdr6-1 can explain its morphological defects, as expression of two non-targeted ARF3 gene constructs (ARF3muts) in a wild-type background mimics the osrdr6 and osdcl4-1 mutant phenotypes. Small RNA high-throughput sequencing also reveals that besides tasiRNAs, 21-nucleotide (nt) phased small RNAs are also largely dependent on OsRDR6. Unexpectedly, we found that osrdr6-1 has a strong impact on the accumulation of 24-nt phased small RNAs, but not on unphased ones. Our work uncovers the key roles of OsRDR6 in small RNA biogenesis and directly illustrates the crucial functions of tasiR-ARFs in rice development.
+
+OsRDR6: !produces! tasiRNAs 
+OsRDR6: !produces! 21-nt phased small RNAs 
+OsRDR6: !produces! 24-nt phased small RNAs 
+tasiRNAs: !repress! ARF2 and ARF3/ETTIN 
+ARF2 and ARF3/ETTIN: !enhance! spikelet defects 
+ARF3muts: !mimic! osrdr6 and osdcl4-1 mutant phenotypes

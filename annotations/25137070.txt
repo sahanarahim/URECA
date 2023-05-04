@@ -1,0 +1,13 @@
+['25137070', 'Lignins are aromatic heteropolymers that arise from oxidative coupling of lignin  precursors, including lignin monomers (p-coumaryl, coniferyl, and sinapyl  alcohols), oligomers, and polymers. Whereas plant peroxidases have been shown to  catalyze oxidative coupling of monolignols, the oxidation activity of  well-studied plant peroxidases, such as horseradish peroxidase C (HRP-C) and  AtPrx53, are quite low for sinapyl alcohol. This characteristic difference has  led to controversy regarding the oxidation mechanism of sinapyl alcohol and  lignin oligomers and polymers by plant peroxidases. The present study explored  the oxidation activities of three plant peroxidases, AtPrx2, AtPrx25, and  AtPrx71, which have been already shown to be involved in lignification in the  Arabidopsis stem. Recombinant proteins of these peroxidases (rAtPrxs) were  produced in Escherichia coli as inclusion bodies and successfully refolded to  yield their active forms. rAtPrx2, rAtPrx25, and rAtPrx71 were found to oxidize  two syringyl compounds (2,6-dimethoxyphenol and syringaldazine), which were  employed here as model monolignol compounds, with higher specific activities than  HRP-C and rAtPrx53. Interestingly, rAtPrx2 and rAtPrx71 oxidized syringyl  compounds more efficiently than guaiacol. Moreover, assays with ferrocytochrome c  as a substrate showed that AtPrx2, AtPrx25, and AtPrx71 possessed the ability to  oxidize large molecules. This characteristic may originate in a protein radical.  These results suggest that the plant peroxidases responsible for lignin  polymerization are able to directly oxidize all lignin precursors.', '2014', 'PLoS One', '10.1371/journal.pone.0105332', 'Tsutsumi']
+
+AtPrx2: !oxidizes! 2,6-dimethoxyphenol 
+AtPrx2: !oxidizes! syringaldazine 
+AtPrx2: !oxidizes! guaiacol 
+AtPrx2: !oxidizes! ferrocytochrome c 
+AtPrx25: !oxidizes! 2,6-dimethoxyphenol 
+AtPrx25: !oxidizes! syringaldazine 
+AtPrx25: !oxidizes! ferrocytochrome c 
+AtPrx71: !oxidizes! 2,6-dimethoxyphenol 
+AtPrx71: !oxidizes! syringaldazine 
+AtPrx71: !oxidizes! guaiacol 
+AtPrx71: !oxidizes! ferrocytochrome c

@@ -1,0 +1,10 @@
+In Arabidopsis thaliana, the salt overly sensitive (SOS) pathway plays an essential role in maintaining ion homeostasis and conferring salt tolerance. Here we identified three SOS components in the woody plant Populus trichocarpa, designated as PtSOS1, PtSOS2 and PtSOS3. These putative SOS genes exhibited an overlapping but distinct expression pattern in poplar plants and the transcript levels of SOS1 and SOS2 were responsive to salinity stress. In poplar mesophyll protoplasts, PtSOS1 was specifically localized in the plasma membrane, whereas PtSOS2 was distributed throughout the cell, and PtSOS3 was predominantly targeted to the plasma membrane. Heterologous expression of PtSOS1, PtSOS2 and PtSOS3 could rescue salt-sensitive phenotypes of the corresponding Arabidopsis sos mutants, demonstrating that the Populus SOS proteins are functional homologues of their Arabidopsis counterpart. In addition, PtSOS3 interacted with, and recruited PtSOS2 to the plasma membrane in yeast and in planta. Reconstitution of poplar SOS pathway in yeast cells revealed that PtSOS2 and PtSOS3 acted coordinately to activate PtSOS1. Moreover, expression of the constitutively activated form of PtSOS2 partially complemented the sos3 mutant but not sos1, suggesting that PtSOS2 functions genetically downstream of SOS3 and upstream of SOS1. These results indicate a strong functional conservation of SOS pathway responsible for salt stress signaling from herbaceous to woody plants.
+
+PtSOS1: !localizes to! plasma membrane 
+PtSOS2: !localizes to! cell 
+PtSOS3: !localizes to! plasma membrane 
+PtSOS1: !interacts with! PtSOS2 
+PtSOS2: !interacts with! PtSOS3 
+PtSOS3: !activates! PtSOS1 
+PtSOS2: !genetically downstream of! PtSOS3 
+PtSOS1: !genetically upstream of! PtSOS2

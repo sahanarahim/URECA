@@ -1,0 +1,8 @@
+['30559192', "Aluminum (Al) toxicity is a major factor limiting crop production on acid soils,  which represent over 30% of the world's arable land. Some plants have evolved  mechanisms to detoxify Al. Arabidopsis, for example, secretes malate via the  AtALMT1 transporter to chelate and detoxify Al. The C2H2-type transcription  factor STOP1 plays a crucial role in Al resistance by inducing the expression of  a set of genes, including AtALMT1 Here, we identify and characterize an F-box  protein-encoding gene regulation of Atalmt1 expression 1 (RAE1) that regulates  the level of STOP1. Mutation and overexpression of RAE1 increases or decreases  the expression of AtALMT1 and other STOP1-regulated genes, respectively. RAE1  interacts with and promotes the degradation of STOP1 via the ubiquitin-26S  proteasome pathway, while Al stress promotes the accumulation of STOP1. We find  that STOP1 up-regulates RAE1 expression by directly binding to the RAE1 promoter,  thus forming a negative feedback loop between STOP1 and RAE1. Our results  demonstrate that RAE1 influences Al resistance through the ubiquitination and  degradation of STOP1.", '2019 Jan 2', 'Proc Natl Acad Sci U S A', '10.1073/pnas.1814426116', 'Huang']
+
+AtALMT1: !secreted by! Arabidopsis
+STOP1: !induces expression of! AtALMT1
+RAE1: !regulates level of! STOP1
+RAE1: !interacts with and promotes degradation of! STOP1
+STOP1: !up-regulates expression of! RAE1
+Al stress: !promotes accumulation of! STOP1

@@ -1,0 +1,7 @@
+Evidence is emerging that the E2F family of transcription factors plays an important role in the regulation of gene expression at the G1/S transition in plants. Here, we show that in the tobacco proliferating cell nuclear antigen (PCNA), whose transcript is specifically expressed at G1/S phase, the two E2F binding sites are synergistically responsible for transcriptional activation at G1/S phase in synchronized tobacco BY-2 cells transformed with promoter constructs fused to a reporter gene. In addition, we have isolated the tobacco DP cDNA (NtDP) and showed that significant activation of the reporter gene was observed in transient expression assays by concomitantly transfecting with plasmids expressing NtE2F and NtDP. This transcriptional activation was repressed by co-transfection with a plasmid expressing NtRBR1; in vitro pull-down assays also revealed that NtRBR1 binds directly to NtE2F, thereby potentially blocking the transcriptional activation of NtE2F. Importantly, this repressor activity was cancelled when NtRBR1 was further co-transfected with a plasmid expressing cyclin D but not with cyclin A or cyclin B. These results are discussed with respect to the repression activity of NtRBR1 on the NtE2F/NtDP complex.
+
+E2F: !activates! PCNA
+NtE2F: !interacts with! NtDP
+NtRBR1: !binds to! NtE2F
+NtRBR1: !represses! NtE2F/NtDP complex
+Cyclin D: !cancels! NtRBR1 repressor activity

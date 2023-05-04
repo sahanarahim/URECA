@@ -1,0 +1,6 @@
+Phytochrome B (phyB) absorbs red light signals and subsequently initiates a set of molecular events in plant cells to promote photomorphogenesis. Here we show that phyB directly interacts with B-BOX CONTAINING PROTEIN 4 (BBX4), a positive regulator of red light signaling, and positively controls its abundance in red light. BBX4 associates with PHYTOCHROME INTERACTING FACTOR 3 (PIF3) and represses PIF3 transcriptional activation activity and PIF3-controlled gene expression. The degradation of BBX4 in darkness is dependent on CONSTITUTIVELY PHOTOMORPHOGENIC 1 (COP1) and the 26S proteasome system. Collectively, BBX4 acts as a key component of the phyB-PIF3-mediated signaling module and fine tunes the red light action. phyB promotes the accumulation of BBX4, which in turn serves to repress PIF3 action through direct physical interaction to promote photomorphogenic development in red light.
+
+phyB: !promotes accumulation of! BBX4
+BBX4: !represses! PIF3
+COP1: !degrades! BBX4
+BBX4: !interacts with! PIF3

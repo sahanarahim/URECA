@@ -1,0 +1,7 @@
+During cold acclimation, C-repeat binding factors (CBFs) activate downstream targets, such as cold-regulated genes, leading to the acquisition of freezing tolerance in plants. Inducer of CBF expression 1 (ICE1) plays a key role by activating CBF3 expression in shaping the cold-induced transcriptome. While the ICE1-CBF3 regulon constitutes a major cold acclimation pathway, gene regulatory networks governing the CBF signaling are poorly understood. Here, we demonstrated that ICE1 and its paralog ICE2 induce CBF1, CBF2, and CBF3 by binding to the gene promoters. ICE2, like ICE1, was ubiquitinated by the high expression of osmotically responsive gene 1 (HOS1) E3 ubiquitin ligase. Whereas ICE2-defective ice2-2 mutant did not exhibit any discernible freezing-sensitive phenotypes, ice1-2 ice2-2/+ plant, which is defective in ICE1 and has a heterozygotic ice2 mutation, exhibited significantly reduced freezing tolerance. Accordingly, all three CBF genes were markedly down-regulated in the ice1-2 ice2-2/+ plant, indicating that ICE1 and ICE2 are functionally redundant with different implementations in inducing CBF genes. Together with the negative regulation of CBF3 by CBF2, we propose that the unified ICE-CBF pathway provides a transcriptional feedback of freezing tolerance to sustain plant development and survival during cold acclimation.
+
+ICE1: !activates! CBF3
+ICE2: !activates! CBF1, CBF2, CBF3
+HOS1: !ubiquitinates! ICE1, ICE2
+ICE1: !redundantly functions with! ICE2
+CBF2: !represses! CBF3

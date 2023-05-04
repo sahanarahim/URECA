@@ -1,0 +1,8 @@
+Abscisic acid is involved in the regulation of cold stress response, but its molecular mechanism remains to be elucidated. In this study, we demonstrated that the APETALA2/ethylene responsive factor (AP2/ERF) family protein MdABI4 positively regulates abscisic acid-mediated cold tolerance in apple. We found that MdABI4 interacts with MdICE1, a key regulatory protein involved in the cold stress response, and enhances the transcriptional regulatory function of MdICE1 on its downstream target gene MdCBF1, thus improving abscisic acid-mediated cold tolerance. The jasmonate-ZIM domain (JAZ) proteins MdJAZ1 and MdJAZ2 negatively modulate MdABI4-improved cold tolerance in apple by interacting with the MdABI4 protein. Further investigation showed that MdJAZ1 and MdJAZ2 interfere with the interaction between the MdABI4 and MdICE1 proteins. Together, our data revealed that MdABI4 integrates jasmonic acid and abscisic acid signals to precisely modulate cold tolerance in apple through the JAZ-ABI4-ICE1-CBF regulatory cascade. These findings provide insights into the crosstalk between jasmonic acid and abscisic acid signals in response to cold stress.
+
+MdABI4: !interacts with! MdICE1
+MdABI4: !enhances! MdCBF1
+MdJAZ1: !interacts with! MdABI4
+MdJAZ2: !interacts with! MdABI4
+MdJAZ1: !represses! MdABI4-improved cold tolerance
+MdJAZ2: !represses! MdABI4-improved cold tolerance

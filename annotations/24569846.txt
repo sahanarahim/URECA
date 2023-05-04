@@ -1,0 +1,9 @@
+The sensitivity of expansive growth to water deficit has a large genetic variability, which is higher than that of photosynthesis. It is observed in several species, with some genotypes stopping growth in a relatively wet soil, whereas others continue growing until the lower limit of soil-available water. The responses of growth to soil water deficit and evaporative demand share an appreciable part of their genetic control through the colocation of quantitative trait loci as do the responses of the growth of different organs to water deficit. This result may be caused by common mechanisms of action discussed in this paper (particularly, plant hydraulic properties). We propose that expansive growth, putatively linked to hydraulic processes, determines the sink strength under water deficit, whereas photosynthesis determines source strength. These findings have large consequences for plant modeling under water deficit and for the design of breeding programs.
+
+genes: !affect! expansive growth 
+expansive growth: !determines! sink strength 
+photosynthesis: !determines! source strength 
+genes: !localize to! quantitative trait loci 
+genes: !interact with! plant hydraulic properties 
+genes: !enhance! responses of growth to soil water deficit 
+genes: !repress! responses of growth to evaporative demand

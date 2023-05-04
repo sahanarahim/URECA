@@ -1,0 +1,8 @@
+Autophagy is a mechanism used for the transport of macromolecules to the vacuole for degradation. It can be either non-selective or selective, resulting from the specific binding of target proteins to Atg8, an essential autophagy-related protein. Nine Atg8 homologs exist in the model plant Arabidopsis thaliana, suggesting possible different roles for different homologs. In a previous report published in the Plant Cell, our group identified two plant-specific proteins, termed ATI1 and ATI2, which bind Atg8f, as a representative of the nine Atg8 homologs. The proteins were shown to associate with novel starvation-induced bodies that move on the ER network and reach the lytic vacuole. Altered expression level of the proteins was also shown to affect the ability of seeds to germinate in the presence of the germination inhibiting hormone ABA. In the present addendum article, we demonstrate that, in addition to Atg8f, ATI1 binds Atg8h, an Atg8 homolog from a different sub-family, indicating that ATI1 is not a specific target of Atg8f.
+
+Atg8: !binds! ATI1
+Atg8f: !binds! ATI1
+Atg8h: !binds! ATI1
+ATI1: !affects! seed germination
+ATI1: !associates with! starvation-induced bodies
+ATI2: !binds! Atg8f

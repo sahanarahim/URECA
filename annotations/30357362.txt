@@ -1,0 +1,12 @@
+The growth of fleshy fruits is still poorly understood as a result of the complex integration of water and solute fluxes, cell structural properties, and the regulation of whole plant source-sink relationships. To unravel the contribution of these processes to berry growth, a biophysical grape (Vitis vinifera L.) berry growth module was developed and integrated with a whole-plant functional-structural model, and was calibrated on two varieties, Cabernet Sauvignon and Sangiovese. The model captured well the variations in growth and sugar accumulation caused by environmental conditions, changes in leaf-to-fruit ratio, plant water status, and varietal differences, with obvious future application in predicting yield and maturity under a variety of production contexts and regional climates. Our analyses illustrated that grapevines strive to maintain proper ripening by partially compensating for a reduced source-sink ratio, and that under drought an enhanced berry sucrose uptake capacity can reverse berry shrinkage. Sensitivity analysis highlighted the importance of phloem hydraulic conductance, sugar uptake, and surface transpiration on growth, while suggesting that cell wall extensibility and the turgor threshold for cell expansion had minor effects. This study demonstrates that this integrated model is a useful tool in understanding the integration and relative importance of different processes in driving fleshy fruit growth.
+
+environment: !affects! berry growth
+leaf-to-fruit ratio: !influences! berry growth
+plant water status: !impacts! berry growth
+varietal differences: !influences! berry growth
+drought: !alters! berry sucrose uptake capacity
+phloem hydraulic conductance: !affects! growth
+sugar uptake: !influences! growth
+surface transpiration: !impacts! growth
+cell wall extensibility: !influences! cell expansion
+turgor threshold: !regulates! cell expansion

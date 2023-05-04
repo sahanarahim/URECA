@@ -1,0 +1,9 @@
+The phytohormone abscisic acid (ABA) is critical for plants encountering abiotic stress. We reported previously that the Arabidopsis (<i>Arabidopsis thaliana</i>) transcription factor MYB30 participates in ABA responses via SUMO ligase SAP-MIZ Domain-Containing SIZ1-mediated sumoylation. Here, we show that the RING-type ubiquitin E3 ligase RHA2b, which positively regulates ABA signaling, interacted with and ubiquitinated MYB30 to modulate MYB30 stability through the 26S proteasome pathway. The degradation rate of MYB30 was repressed significantly in the <i>rha2b-1</i> mutant. Phenotypic analyses showed that <i>MYB30</i> acts genetically downstream of <i>RHA2b</i> in ABA signaling. Substitutions of lysine-283 (K283) and K165 blocked ubiquitination, suggesting that these residues are sites of ubiquitination. K283 residue substitution significantly inhibited the degradation of MYB30 induced by ABA. The K165 site functioned additively with K283 in ABA-induced MYB30 degradation and ABA responses. At the same time, sumoylation protected MYB30 from degradation under cycloheximide and ABA treatment. Compared with MYB30, overexpression of MYB30-SUMO1 partially recovered the ABA sensitivity of <i>siz1-2</i> But MYB30-SUMO1 exhibited similar localization with MYB30 in nuclei. Overall, our results suggest that RHA2b targets MYB30 for degradation to modulate ABA signaling. Considering that the K283 residue also is the major site for sumoylation, we propose that sumoylation and ubiquitination act antagonistically in the ABA response to regulate the stability of MYB30 by occupying the same residue.
+
+MYB30: !interacts with! RHA2b
+RHA2b: !ubiquitinates! MYB30
+K283: !site of! ubiquitination
+K283: !site of! sumoylation
+MYB30: !repressed by! RHA2b
+SUMO1: !protects! MYB30
+ABA: !induces degradation of! MYB30

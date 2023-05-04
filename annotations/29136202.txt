@@ -1,0 +1,12 @@
+Multicellular organisms develop from a single cell that proliferates to form different cell types with specialized functions. Sixty years ago, Waddington suggested the 'epigenetic landscape' as a useful metaphor for the process. According to this view, cells move through a rugged identity space along genetically encoded trajectories, until arriving at one of the possible final fates. In plants in particular, these trajectories have strong spatial correlates, as cell identity is intimately linked to its relative position within the plant. During regeneration, however, positional signals are severely disrupted and differentiated cells are able to undergo rapid non-canonical identity changes. Moreover, while pluripotent properties have long been ascribed to plant cells, the introduction of induced pluripotent stem cells in animal studies suggests such plasticity may not be unique to plants. As a result, current concepts of differentiation as a gradual and hierarchical process are being reformulated across biological fields. Traditional studies of plant regeneration have placed strong emphasis on the emergence of patterns and tissue organization, and information regarding the events occurring at the level of individual cells is only now beginning to emerge. Here, I review the historical and current concepts of cell identity and identity transitions, and discuss how new views and tools may instruct the future understanding of differentiation and plant regeneration.
+
+Gene: !affects! Process 
+Process: !governed by! Gene 
+Gene: !localizes to! Position 
+Position: !influences! Cell Identity 
+Cell Identity: !determined by! Position 
+Pluripotency: !ascribed to! Plant Cells 
+Induced Pluripotency: !introduced in! Animal Studies 
+Differentiation: !reformulated as! Gradual Process 
+Patterns: !emphasized in! Plant Regeneration 
+Tools: !instruct! Future Understanding

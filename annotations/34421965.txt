@@ -1,0 +1,8 @@
+Chloroplasts are crucial organelles for the generation of fatty acids and starch required for plant development. Nascent polypeptide-associated complex (NAC) proteins have been implicated in development as transcription factors. However, their chaperone roles in chloroplasts and their relationship with pollen development in plants remain to be elucidated. Here, we demonstrated that Osj10gBTF3, a NAC protein, regulates pollen and chloroplast development in rice by coordinating with a Hsp90 family chaperone OsHSP82 to mediate chloroplast import. Knockout of Osj10gBTF3 affects pollen and chloroplast development and significantly reduces the accumulation of fertility-related chloroplast protein OsPPR676. Both Osj10gBTF3 and OsHSP82 interact with OsPPR676. Interestingly, the interaction between OsHSP82 and OsPPR676 is only found in the cytoplasm, while the interaction between Osj10gBTF3 and OsPPR676 also occurs inside the chloroplast. The chloroplast stroma chaperone OsCpn60 can also be co-precipitated with Osj10gBTF3, but not with OsHSP82. Further investigation indicates that Osj10gBTF3 enters the chloroplast stroma possibly through the inner chloroplast membrane channel protein Tic110 and then recruits OsCpn60 for the folding or assembly of OsPPR676. Our results reveal a chaperone role of Osj10gBTF3 in chloroplast import different from Hsp90 and provide a link between chloroplast transport and pollen development in rice.
+
+Osj10gBTF3: !interacts with! OsPPR676
+Osj10gBTF3: !coordinates with! OsHSP82
+OsHSP82: !interacts with! OsPPR676
+Osj10gBTF3: !enters! chloroplast stroma
+Osj10gBTF3: !recruits! OsCpn60
+Tic110: !facilitates! Osj10gBTF3 entry

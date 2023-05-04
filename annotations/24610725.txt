@@ -1,0 +1,11 @@
+In flowering plants, pollen germinates on the stigma and pollen tubes grow through the style to fertilize the ovules. Enzymatic production of reactive oxygen species (ROS) has been suggested to be involved in pollen tube tip growth. Here, we characterized the function and regulation of the NADPH oxidases RbohH and RbohJ (Respiratory burst oxidase homolog H and J) in pollen tubes in Arabidopsis thaliana. In the rbohH and rbohJ single mutants, pollen tube tip growth was comparable to that of the wild type; however, tip growth was severely impaired in the double mutant. In vivo imaging showed that ROS accumulation in the pollen tube was impaired in the double mutant. Both RbohH and RbohJ, which contain Ca(2+) binding EF-hand motifs, possessed Ca(2+)-induced ROS-producing activity and localized at the plasma membrane of the pollen tube tip. Point mutations in the EF-hand motifs impaired Ca(2+)-induced ROS production and complementation of the double mutant phenotype. We also showed that a protein phosphatase inhibitor enhanced the Ca(2+)-induced ROS-producing activity of RbohH and RbohJ, suggesting their synergistic activation by protein phosphorylation and Ca(2+). Our results suggest that ROS production by RbohH and RbohJ is essential for proper pollen tube tip growth, and furthermore, that Ca(2+)-induced ROS positive feedback regulation is conserved in the polarized cell growth to shape the long tubular cell.
+
+RbohH: !produces! ROS
+RbohJ: !produces! ROS
+RbohH: !binds! Ca(2+)
+RbohJ: !binds! Ca(2+)
+RbohH: !enhanced by! protein phosphorylation
+RbohJ: !enhanced by! protein phosphorylation
+RbohH: !enhanced by! Ca(2+)
+RbohJ: !enhanced by! Ca(2+)
+ROS: !essential for! pollen tube tip growth

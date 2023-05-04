@@ -1,0 +1,8 @@
+Arabidopsis RESISTANCE TO POWDERY MILDEW 8.2 (RPW8.2) is specifically induced by the powdery mildew (PM) fungus (Golovinomyces cichoracearum) in the infected epidermal cells to activate immunity. However, the mechanism of RPW8.2-induction is not well understood. Here, we identify a G. cichoracearum effector that interacts with RPW8.2, named Gc-RPW8.2 interacting protein 1 (GcR8IP1), by a yeast two-hybrid screen of an Arabidopsis cDNA library. GcR8IP1 is physically associated with RPW8.2 with its REALLY INTERESTING NEW GENE finger domain that is essential and sufficient for the association. GcR8IP1 was secreted and translocated into the nucleus of host cell infected with PM. Association of GcR8IP1 with RPW8.2 led to an increase in RPW8.2 in the nucleus. In turn, the nucleus-localized RPW8.2 promoted the activity of the RPW8.2 promoter, resulting in transcriptional self-amplification of RPW8.2 to boost immunity at infection sites. Additionally, ectopic expression or host-induced gene silencing of GcR8IP1 supported its role as a virulence factor in PM. Altogether, our results reveal a mechanism of RPW8.2-dependent defense strengthening via altered partitioning of RPW8.2 and transcriptional self-amplification triggered by a PM fungal effector, which exemplifies an atypical form of effector-triggered immunity.
+
+GcR8IP1: !interacts with! RPW8.2 
+RPW8.2: !localizes to! nucleus 
+GcR8IP1: !enhances! RPW8.2 activity 
+RPW8.2: !promotes! RPW8.2 promoter activity 
+GcR8IP1: !synthesizes! virulence factor 
+PM fungus: !induces! RPW8.2

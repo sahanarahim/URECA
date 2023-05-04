@@ -1,0 +1,12 @@
+Chlorophyll accumulation and chloroplast development are regulated at multiple levels during plant development. The paralogous LLM-domain B-GATA transcription factors GNC and GNL contribute to chlorophyll biosynthesis and chloroplast formation in light-grown <i>Arabidopsis thaliana</i> seedlings. Whereas there is already ample knowledge about the transcriptional regulation of <i>GNC</i> and <i>GNL</i>, the identity of their downstream targets is largely unclear. Here, we identified genes controlling greening directly downstream of the GATAs by integrating data from RNA-sequencing and microarray data sets. We found that genes encoding subunits of the Mg-chelatase complex and 3,8-divinyl protochlorophyllide a 8-vinyl reductase (DVR) likely function directly downstream of the GATAs and that <i>DVR</i> expression is limiting in the pale-green <i>gnc gnl</i> mutants. The GATAs also regulate the nucleus-encoded <i>SIGMA</i> (<i>SIG</i>) factor genes, which control transcription in the chloroplast and suppress the greening defects of <i>sig</i> mutants. Furthermore, <i>GNC</i> and <i>GNL</i> act, at the gene expression level, in an additive manner with the <i>GOLDEN2-LIKE1</i> (<i>GLK1</i>) and <i>GLK2</i> transcription factor genes, which are also important for proper chlorophyll accumulation. We thus reveal that chlorophyll biosynthesis genes are directly controlled by LLM-domain B-GATAs and demonstrate that these transcription factors play an indirect role in the control of greening through regulating <i>SIGMA</i> factor genes.
+
+GNC: !regulates! Mg-chelatase complex
+GNL: !regulates! Mg-chelatase complex
+GNC: !regulates! DVR
+GNL: !regulates! DVR
+GNC: !regulates! SIGMA factor genes
+GNL: !regulates! SIGMA factor genes
+GNC: !additively regulates! GLK1
+GNL: !additively regulates! GLK1
+GNC: !additively regulates! GLK2
+GNL: !additively regulates! GLK2

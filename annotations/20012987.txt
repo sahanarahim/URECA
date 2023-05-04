@@ -1,0 +1,10 @@
+Many interactions between organisms are based on the emission and perception of volatiles. The principle of using volatile metabolites as communication signals for chemo-attractant or repellent for species-specific interactions or mediators for cell-to-cell recognition does not stop at an apparently unsuitable or inappropriate environment. These infochemicals do not only diffuse through the atmosphere to process their actions aboveground, but belowground volatile interactions are similarly complex. This review summarizes various eucaryotes (e.g., plant (roots), invertebrates, fungi) and procaryotes (e.g., rhizobacteria) which are involved in these volatile-mediated interactions. The soil volatiles cannot be neglected anymore, but have to be considered in the future as valuable infochemicals to understand the entire integrity of the ecosystems.
+
+plant: !emits! volatile metabolites 
+invertebrates: !emits! volatile metabolites 
+fungi: !emits! volatile metabolites 
+rhizobacteria: !emits! volatile metabolites 
+volatile metabolites: !mediates! species-specific interactions 
+volatile metabolites: !mediates! cell-to-cell recognition 
+volatile metabolites: !diffuses! through atmosphere 
+volatile metabolites: !diffuses! through soil

@@ -1,0 +1,9 @@
+Organelle gene expression is characterized by nucleus-encoded trans-acting factors that control posttranscriptional steps in a gene-specific manner. As a typical example, in Chlamydomonas reinhardtii, expression of the chloroplast petA gene encoding cytochrome f, a major subunit of the cytochrome b(6)f complex, depends on MCA1 and TCA1, required for the accumulation and translation of the petA mRNA. Here, we show that these two proteins associate in high molecular mass complexes that also contain the petA mRNA. We demonstrate that MCA1 is degraded upon interaction with unassembled cytochrome f that transiently accumulates during the biogenesis of the cytochrome b(6)f complex. Strikingly, this interaction relies on the very same residues that form the repressor motif involved in the Control by Epistasy of cytochrome f Synthesis (CES), a negative feedback mechanism that downregulates cytochrome f synthesis when its assembly within the cytochrome b(6)f complex is compromised. Based on these new findings, we present a revised picture for the CES regulation of petA mRNA translation that involves proteolysis of the translation enhancer MCA1, triggered by its interaction with unassembled cytochrome f.
+
+MCA1: !associates with! TCA1 
+MCA1: !interacts with! unassembled cytochrome f 
+MCA1: !degrades upon interaction with! unassembled cytochrome f 
+MCA1: !relies on! repressor motif 
+repressor motif: !involved in! Control by Epistasy of cytochrome f Synthesis 
+Control by Epistasy of cytochrome f Synthesis: !downregulates! cytochrome f synthesis 
+MCA1: !triggers proteolysis of! translation enhancer

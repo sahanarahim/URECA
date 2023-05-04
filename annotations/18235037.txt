@@ -1,0 +1,6 @@
+Transcriptional profiling of embryogenic callus produced from Medicago truncatula mesophyll protoplasts indicated up-regulation of ethylene biosynthesis and ethylene response genes. Using inhibitors of ethylene biosynthesis and perception, it was shown that ethylene was necessary for somatic embryogenesis (SE) in this model legume. We chose several genes involved in ethylene biosynthesis and response for subsequent molecular analyses. One of these genes is a gene encoding a transcription factor that belongs to the AP2/ERF superfamily and ERF subfamily of transcription factors. We demonstrate that this gene, designated M. truncatula SOMATIC EMBRYO RELATED FACTOR1 (MtSERF1), is induced by ethylene and is expressed in embryogenic calli. MtSERF1 is strongly expressed in the globular somatic embryo and there is high expression in a small group of cells in the developing shoot meristem of the heart-stage embryo. RNA interference knockdown of this gene causes strong inhibition of SE. We also provide evidence that MtSERF1 is expressed in zygotic embryos. MtSERF1 appears to be essential for SE and may enable a connection between stress and development.
+
+ethylene: !induces! MtSERF1
+MtSERF1: !localizes to! embryogenic calli
+MtSERF1: !enhances! SE
+RNA interference: !inhibits! SE

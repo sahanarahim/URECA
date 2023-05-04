@@ -1,0 +1,12 @@
+Introns located close to the 5' end of a gene or in the 5' untranslated region often exert positive effects on gene expression. This effect, known as intron-mediated enhancement (IME), has been observed in diverse eukaryotic organisms, including plants. The sequences involved in IME seem to be spread across the intron and function in an additive manner. The IMEter algorithm was developed to predict plant introns that may enhance gene expression. We have identified several plant members of the BTL class of E3s, which may have orthologs across eukaryotes, that contain a 5'UTR intron. The RING finger E3 ligases are key enzymes of the ubiquitination system that mediate the transfer of ubiquitin to substrates. In this study, we retrieved BTL sequences from several angiosperm species and found that 5'UTR introns showing a strong IMEter score were predicted, suggesting that they may be conserved by lineage. Promoter-GUS fusion lines were used to confirm the IME effect of these 5'UTR introns on gene expression. IMEter scores of BTLs were compared with the 5'UTR introns of two gene families MHX and polyubiquitin genes. Analysis performed in two Arabidopsis BTL E3 ligases genes indicated that the 5'UTR introns were essential for gene expression in all the tissues tested. Comparison of the average 5'UTR intron size on three gene families in ten angiosperm species suggests that a prevalent size for a 5'UTR intron is in the range of 600 nucleotides, and that the overall IMEter score within a gene family is preserved across several angiosperms. Our results indicated that gene expression dependent on a 5'UTR intron is an efficient regulatory mechanism in BTL E3 ligases that has been preserved throughout plant evolution.
+
+Intron: !enhances! Gene Expression
+IMEter algorithm: !predicts! Plant Introns
+BTL class of E3s: !contains! 5'UTR Intron
+RING finger E3 ligases: !mediate! Ubiquitination
+5'UTR introns: !show! Strong IMEter Score
+Promoter-GUS fusion lines: !confirm! IME Effect
+MHX and polyubiquitin genes: !compared with! BTLs
+Arabidopsis BTL E3 ligases: !essential for! Gene Expression
+5'UTR intron size: !prevalent in! Ten Angiosperm Species
+Gene expression: !dependent on! 5'UTR Intron

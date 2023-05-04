@@ -1,0 +1,10 @@
+Metabolite profiles provide a top-down overview of the balance between the reactions in a pathway. We compared Calvin-Benson cycle (CBC) intermediate profiles in different conditions in Arabidopsis (Arabidopsis thaliana) and rice (Oryza sativa) to learn which features of CBC regulation differ and which are shared between these model eudicot and monocot C3 species. Principal component analysis revealed that CBC intermediate profiles follow different trajectories in Arabidopsis and rice as irradiance increases. The balance between subprocesses or reactions differed, with 3-phosphoglycerate reduction being favoured in Arabidopsis and ribulose 1,5-bisphosphate regeneration in rice, and sedoheptulose-1,7-bisphosphatase being favoured in Arabidopsis compared with fructose-1,6-bisphosphatase in rice. Photosynthesis rates rose in parallel with ribulose 1,5-bisphosphate levels in Arabidopsis, but not in rice. Nevertheless, some responses were shared between Arabidopsis and rice. Fructose 1,6-bisphosphate and sedoheptulose-1,7-bisphosphate were high or peaked at very low irradiance in both species. Incomplete activation of fructose-1,6-bisphosphatase and sedoheptulose-1,7-bisphosphatase may prevent wasteful futile cycles in low irradiance. End-product synthesis is inhibited and high levels of CBC intermediates are maintained in low light or in low CO2 in both species. This may improve photosynthetic efficiency in fluctuating irradiance, and facilitate rapid CBC flux to support photorespiration and energy dissipation in low CO2.
+
+Gene: !affects! Process
+Gene: !synthesizes! I
+Gene: !enhances! 3-phosphoglycerate reduction
+Gene: !represses! Fructose-1,6-bisphosphatase
+Gene: !enhances! Ribulose 1,5-bisphosphate regeneration
+Gene: !represses! Sedoheptulose-1,7-bisphosphatase
+Gene: !inhibits! End-product synthesis
+Gene: !maintains! CBC intermediates

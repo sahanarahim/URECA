@@ -1,0 +1,8 @@
+ROOT INITIATION DEFECTIVE 1 (RID1) is an Arabidopsis DEAH/RHA RNA helicase. It functions in hypocotyl de-differentiation, de novo meristem formation, and cell specification of the mature female gametophyte (FG). However, it is unclear how RID1 regulates FG development. In this study, we observed that mutations to RID1 disrupted the developmental synchrony and retarded the progression of FG development. RID1 exhibited RNA helicase activity, with a preference for unwinding double-stranded RNA in the 3' to 5' direction. Furthermore, we found that RID1 interacts with GAMETOPHYTIC FACTOR 1 (GFA1), which is an integral protein of the spliceosome component U5 small nuclear ribonucleoprotein (snRNP) particle. Substitution of specific RID1 amino acids (Y266F and T267I) inhibited the interaction with GFA1. In addition, the mutated RID1 could not complement the seed-abortion phenotype of the rid1 mutant. The rid1 and gfa1 mutants exhibited similar abnormalities in pre-mRNA splicing and down-regulated expression of some genes involved in FG development. Our results suggest that an interaction between RID1 and the U5 snRNP complex regulates essential pre-mRNA splicing of the genes required for FG development. This study provides new information regarding the mechanism underlying the FG developmental process.
+
+RID1: !affects! FG development
+RID1: !unwinds! double-stranded RNA
+RID1: !interacts with! GFA1
+GFA1: !is an integral protein of! U5 snRNP particle
+RID1: !inhibits interaction with! GFA1
+rid1: !disrupts pre-mRNA splicing of! genes required for FG development

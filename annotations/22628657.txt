@@ -1,0 +1,9 @@
+['22628657', 'Plants use day-length information to coordinate flowering time with the  appropriate season to maximize reproduction. In Arabidopsis, the long  day-specific expression of CONSTANS (CO) protein is crucial for flowering  induction. Although light signaling regulates CO protein stability, the mechanism  by which CO is stabilized in the long-day afternoon has remained elusive. Here,  we demonstrate that FLAVIN-BINDING, KELCH REPEAT, F-BOX 1 (FKF1) protein  stabilizes CO protein in the afternoon in long days. FKF1 interacts with CO  through its LOV domain, and blue light enhances this interaction. In addition,  FKF1 simultaneously removes CYCLING DOF FACTOR 1 (CDF1), which represses CO and  FLOWERING LOCUS T (FT) transcription. Together with CO transcriptional  regulation, FKF1 protein controls robust FT mRNA induction through multiple  feedforward mechanisms that accurately control flowering timing.', '2012 May 25', 'Science', '10.1126/science.1219644', 'Imaizumi']
+
+FKF1: !stabilizes! CO 
+FKF1: !interacts with! CO 
+Blue Light: !enhances! FKF1-CO interaction 
+FKF1: !removes! CDF1 
+CDF1: !represses! CO 
+CDF1: !represses! FT 
+FKF1: !controls! FT mRNA induction

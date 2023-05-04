@@ -1,0 +1,9 @@
+['18941053', 'Seed germination is antagonistically controlled by the phytohormones gibberellic  acid (GA) and abscisic acid (ABA). GA promotes seed germination by enhancing the  proteasome-mediated destruction of RGL2 (for RGA-LIKE2), a key DELLA factor  repressing germination. By contrast, ABA blocks germination by inducing ABI5 (for  ABA-INSENSITIVE5), a basic domain/leucine zipper transcription factor repressing  germination. Decreased GA synthesis leads to an increase in endogenous ABA levels  through a stabilized RGL2, a process that may involve XERICO, a RING-H2 zinc  finger factor promoting ABA synthesis. In turn, increased endogenous ABA  synthesis is necessary to elevate not only ABI5 RNA and protein levels but also,  critically, those of RGL2. Increased ABI5 protein is ultimately responsible for  preventing seed germination when GA levels are reduced. However, overexpression  of ABI5 was not sufficient to repress germination, as ABI5 activity requires  phosphorylation. The endogenous ABI5 phosphorylation and inhibition of  germination could be recapitulated by the addition of a SnRK2 protein kinase to  the ABI5 overexpression line. In sleepy1 mutant seeds, RGL2 overaccumulates;  germination of these seeds can occur under conditions that produce low ABI5  expression. These data support the notion that ABI5 acts as the final common  repressor of germination in response to changes in ABA and GA levels.', '2008 Oct', 'Plant Cell', '10.1105/tpc.108.061515', 'Lopez-Molina']
+
+GA: !enhances! RGL2 destruction 
+ABA: !induces! ABI5 
+XERICO: !promotes! ABA synthesis 
+ABI5: !represses! germination 
+SnRK2: !phosphorylates! ABI5 
+RGL2: !stabilizes! ABA levels 
+sleepy1: !overaccumulates! RGL2

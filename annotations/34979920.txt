@@ -1,0 +1,15 @@
+Eucalyptus is a highly diverse genus of the Myrtaceae family and widely planted in the world for timber and pulp production. Tissue culture induced callus has become a common tool for Eucalyptus breeding, however, our knowledge about the genes related to the callus maturation and shoot regeneration is still poor. We set up an experiment to monitor the callus induction and callus development of two Eucalyptus species - E. camaldulensis (high embryogenic potential) and E. grandis x urophylla (low embryogenic potential). Then, we performed transcriptome sequencing for primary callus, mature callus, shoot regeneration stage callus and senescence callus. We identified 707 upregulated and 694 downregulated genes during the maturation process of the two Eucalyptus species and most of them were involved in the signaling pathways like plant hormone and MAPK. Next, we identified 135 and 142 genes that might play important roles during the callus development of E. camaldulensis and E. grandis x urophylla, respectively. Further, we found 15 DEGs shared by these two Eucalyptus species during the callus development, including Eucgr.D00640 (stem-specific protein TSJT1), Eucgr.B00171 (BTB/POZ and TAZ domain-containing protein 1), Eucgr.C00948 (zinc finger CCCH domain-containing protein 20), Eucgr.K01667 (stomatal closure-related actinbinding protein 3), Eucgr.C00663 (glutaredoxin-C10) and Eucgr.C00419 (UPF0481 protein At3g47200). Interestingly, the expression patterns of these genes displayed "N" shape in the samples. Further, we found 51 genes that were dysregulated during the callus development of E. camaldulensis but without changes in E. grandis x urophylla, such as Eucgr.B02127 (GRF1-interacting factor 1), Eucgr.C00947 (transcription factor MYB36), Eucgr.B02752 (laccase-7), Eucgr.B03985 (transcription factor MYB108), Eucgr.D00536 (GDSL esterase/lipase At5g45920) and Eucgr.B02347 (scarecrow-like protein 34). These 51 genes might be associated with the high propagation ability of Eucalyptus and 22 might be induced after the dedifferentiation. Last, we performed WGCNA to identify the co-expressed genes during the callus development of Eucalyptus and qRT-PCR experiment to validate the gene expression patterns. This is the first time to globally study the gene profiles during the callus development of Eucalyptus. The results will improve our understanding of gene regulation and molecular mechanisms in the callus maturation and shoot regeneration.
+
+Eucgr.D00640: !enhances! Callus maturation
+Eucgr.B00171: !enhances! Callus maturation
+Eucgr.C00948: !enhances! Callus maturation
+Eucgr.K01667: !enhances! Callus maturation
+Eucgr.C00663: !enhances! Callus maturation
+Eucgr.C00419: !enhances! Callus maturation
+Eucgr.B02127: !enhances! Callus maturation of E. camaldulensis
+Eucgr.C00947: !enhances! Callus maturation of E. camaldulensis
+Eucgr.B02752: !enhances! Callus maturation of E. camaldulensis
+Eucgr.B03985: !enhances! Callus maturation of E. camaldulensis
+Eucgr.D00536: !enhances! Callus maturation of E. camaldulensis
+Eucgr.B02347: !enhances! Callus maturation of E. camaldulensis
+Signaling pathways: !affects!

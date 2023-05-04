@@ -1,0 +1,8 @@
+The role of calcium-mediated signaling has been extensively studied in plant responses to abiotic stress signals. Calcineurin B-like proteins (CBLs) and CBL-interacting protein kinases (CIPKs) constitute a complex signaling network acting in diverse plant stress responses. Osmotic stress imposed by soil salinity and drought is a major abiotic stress that impedes plant growth and development and involves calcium-signaling processes. In this study, we report the functional analysis of CIPK21, an Arabidopsis (Arabidopsis thaliana) CBL-interacting protein kinase, ubiquitously expressed in plant tissues and up-regulated under multiple abiotic stress conditions. The growth of a loss-of-function mutant of CIPK21, cipk21, was hypersensitive to high salt and osmotic stress conditions. The calcium sensors CBL2 and CBL3 were found to physically interact with CIPK21 and target this kinase to the tonoplast. Moreover, preferential localization of CIPK21 to the tonoplast was detected under salt stress condition when coexpressed with CBL2 or CBL3. These findings suggest that CIPK21 mediates responses to salt stress condition in Arabidopsis, at least in part, by regulating ion and water homeostasis across the vacuolar membranes.
+
+CBL2: !interacts with! CIPK21
+CBL3: !interacts with! CIPK21
+CIPK21: !localizes to! tonoplast
+CBL2: !targets! CIPK21
+CBL3: !targets! CIPK21
+CIPK21: !mediates responses to! salt stress

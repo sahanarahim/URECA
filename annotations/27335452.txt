@@ -1,0 +1,8 @@
+MicroRNAs originate from primary transcripts (pri-miRNAs) containing hairpin structures. Plant pri-miRNAs have highly variable structures and little is known about the information encoded in their secondary structures. Arabidopsis miR156 is an ambient temperature-responsive miRNA and plays an important role in regulating flowering time. To identify the structural determinants for miR156 processing, we analyzed the effects of mutations introduced in the upper stem of pri-miR156a on its temperature-dependent processing and flowering time. The levels of pri-miR156a and mature miR156 were opposite at different temperatures. Mutations in the upper stem, especially the region closer to the miR156a/miR156a* duplex, reduced miR156 processing at 23 °C and 16 °C and caused a less severe phenotype compared with the un-mutated construct. Mutation in the second stem near the first cleavage site of pri-miR156a affected miR156 processing at 23 °C, but not at 16 °C. This was also seen in pri-miR172a, another ambient temperature-responsive miRNA. Replacement of the upper stem of pri-miR156a with that of pri-miR172a severely affected miR156 processing and flowering time. These results suggested that the upper stem of pri-miR156a is important for miR156 processing at different temperatures. In particular, the second stem adjacent to the first cleavage site plays a role in the regulation of ambient temperature-responsive flowering.
+
+pri-miR156a: !affects! miR156 processing
+mutation: !reduces! miR156 processing
+mutation: !affects! flowering time
+second stem: !regulates! ambient temperature-responsive flowering
+upper stem: !important for! miR156 processing
+pri-miR172a: !replaces! upper stem of pri-miR156a

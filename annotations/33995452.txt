@@ -1,0 +1,8 @@
+Large regions of nearly identical repeats, such as the 45S ribosomal RNA (rRNA) genes of Nucleolus Organizer Regions (NORs), can account for major gaps in sequenced genomes. To assemble these regions, ultra-long sequencing reads that span multiple repeats have the potential to reveal sets of repeats that collectively have sufficient sequence variation to unambiguously define that interval and recognize overlapping reads. Because individual repetitive loci typically represent a small proportion of the genome, methods to enrich for the regions of interest are desirable. Here we describe a simple method that achieves greater than tenfold enrichment of <i>Arabidopsis thaliana</i> 45S rRNA gene sequences among ultra-long Oxford Nanopore Technology sequencing reads. This method employs agarose-embedded genomic DNA that is subjected to restriction endonucleases digestion using a cocktail of enzymes predicted to be non-cutters of rRNA genes. Most of the genome is digested into small fragments that diffuse out of the agar plugs, whereas rRNA gene arrays are retained. In principle, the approach can also be adapted for sequencing other repetitive loci for which gaps exist in a reference genome.
+
+Large regions of repeats: !account for! major gaps in sequenced genomes
+Ultra-long sequencing reads: !reveal sets of repeats! that define an interval
+Agarose-embedded genomic DNA: !subjected to! restriction endonucleases digestion
+Cocktail of enzymes: !predicted to be! non-cutters of rRNA genes
+Most of the genome: !diffuses out of! agar plugs
+rRNA gene arrays: !retained by! agar plugs

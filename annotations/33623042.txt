@@ -1,0 +1,8 @@
+Indirect climate effects on tree fecundity that come through variation in size and growth (climate-condition interactions) are not currently part of models used to predict future forests. Trends in species abundances predicted from meta-analyses and species distribution models will be misleading if they depend on the conditions of individuals. Here we find from a synthesis of tree species in North America that climate-condition interactions dominate responses through two pathways, i) effects of growth that depend on climate, and ii) effects of climate that depend on tree size. Because tree fecundity first increases and then declines with size, climate change that stimulates growth promotes a shift of small trees to more fecund sizes, but the opposite can be true for large sizes. Change the depresses growth also affects fecundity. We find a biogeographic divide, with these interactions reducing fecundity in the West and increasing it in the East. Continental-scale responses of these forests are thus driven largely by indirect effects, recommending management for climate change that considers multiple demographic rates.
+
+climate: !affects! growth 
+growth: !affects! fecundity 
+size: !affects! fecundity 
+climate: !affects! size 
+West: !reduces! fecundity 
+East: !increases! fecundity

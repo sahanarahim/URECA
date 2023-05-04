@@ -1,0 +1,11 @@
+Cell polarity is a fundamental feature of all multicellular organisms. PIN auxin transporters are important cell polarity markers that play crucial roles in a plethora of developmental processes in plants. Here, to identify components involved in cell polarity establishment and maintenance in plants, we performed a forward genetic screening of <i>PIN2</i>:<i>PIN1</i>-<i>HA</i>;<i>pin2</i> Arabidopsis (<i>Arabidopsis thaliana</i>) plants, which ectopically express predominantly basally localized PIN1 in root epidermal cells, leading to agravitropic root growth. We identified the <i>regulator of PIN polarity 12</i> (<i>repp12</i>) mutation, which restored gravitropic root growth and caused a switch in PIN1-HA polarity from the basal to apical side of root epidermal cells. Next Generation Sequencing and complementation experiments established the causative mutation of <i>repp12</i> as a single amino acid exchange in Aminophospholipid ATPase3 (ALA3), a phospholipid flippase predicted to function in vesicle formation. <i>repp12</i> and <i>ala3</i> T-DNA mutants show defects in many auxin-regulated processes, asymmetric auxin distribution, and PIN trafficking. Analysis of quintuple and sextuple mutants confirmed the crucial roles of ALA proteins in regulating plant development as well as PIN trafficking and polarity. Genetic and physical interaction studies revealed that ALA3 functions together with the ADP ribosylation factor GTPase exchange factors GNOM and BIG3 in regulating PIN polarity, trafficking, and auxin-mediated development.
+
+PIN2: !affects! Cell Polarity 
+PIN1: !localizes to! Root Epidermal Cells 
+repp12: !restores! Gravitropic Root Growth 
+ALA3: !causes! repp12 Mutation 
+ALA3: !regulates! PIN Trafficking 
+GNOM: !interacts with! ALA3 
+BIG3: !interacts with! ALA3 
+ALA3: !enhances! Auxin-Regulated Processes 
+ALA3: !represses! Asymmetric Auxin Distribution

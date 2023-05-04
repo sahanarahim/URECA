@@ -1,0 +1,10 @@
+['21883552', 'RNA silencing is an important antiviral mechanism in diverse eukaryotic  organisms. In Arabidopsis DICER-LIKE 4 (DCL4) is the primary antiviral Dicer,  required for the production of viral small RNAs from positive-strand RNA viruses.  Here, we showed that DCL4 and its interacting partner dsRNA-binding protein 4  (DRB4) participate in the antiviral response to Turnip yellow mosaic virus  (TYMV), and that both proteins are required for TYMV-derived small RNA  production. In addition, our results indicate that DRB4 has a negative effect on  viral coat protein accumulation. Upon infection DRB4 expression was induced and  DRB4 protein was recruited from the nucleus to the cytoplasm, where replication  and translation of viral RNA occur. DRB4 was associated with viral RNA in vivo  and directly interacted in vitro with a TYMV RNA translational enhancer, raising  the possibility that DRB4 might repress viral RNA translation. In plants the role  of RNA silencing in viral RNA degradation is well established, but its potential  function in the regulation of viral protein levels has not yet been explored. We  observed that severe infection symptoms are not necessarily correlated with  enhanced viral RNA levels, but might be caused by elevated accumulation of viral  proteins. Our findings suggest that the control of viral protein as well as RNA  levels might be important for mounting an efficient antiviral response.', '2012 Jan', 'Plant J', '10.1111/j.1365-313X.2011.04765.x', 'Chua']
+
+DCL4: !produces! viral small RNAs 
+DRB4: !interacts with! DCL4 
+DRB4: !induces! antiviral response 
+DRB4: !recruits from! nucleus 
+DRB4: !associates with! viral RNA 
+DRB4: !interacts with! TYMV RNA enhancer 
+DRB4: !represses! viral RNA translation 
+RNA silencing: !controls! viral protein levels

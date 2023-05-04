@@ -1,0 +1,10 @@
+The Mediator complex controls transcription of most eukaryotic genes with individual subunits required for the control of particular gene regulons in response to various perturbations. In this study, we reveal the roles of the plant Mediator subunits MED16, MED14, and MED2 in regulating transcription in response to the phytohormone abscisic acid (ABA) and we determine which <i>cis</i> elements are under their control. Using synthetic promoter reporters we established an effective system for testing relationships between subunits and specific <i>cis-</i>acting motifs in protoplasts. Our results demonstrate that MED16, MED14, and MED2 are required for the full transcriptional activation by ABA of promoters containing both the ABRE (ABA-responsive element) and DRE (drought-responsive element). Using synthetic promoter motif concatamers, we showed that ABA-responsive activation of the ABRE but not the DRE motif was dependent on these three Mediator subunits. Furthermore, the three subunits were required for the control of water loss from leaves but played no role in ABA-dependent growth inhibition, highlighting specificity in their functions. Our results identify new roles for three Mediator subunits, provide a direct demonstration of their function and highlight that our experimental approach can be utilized to identify the function of subunits of plant transcriptional regulators.
+
+MED16: !controls! ABRE motif
+MED14: !controls! ABRE motif
+MED2: !controls! ABRE motif
+ABRE motif: !controlled by! MED16, MED14, MED2
+DRE motif: !not controlled by! MED16, MED14, MED2
+ABA: !activates! ABRE motif
+water loss: !controlled by! MED16, MED14, MED2
+growth inhibition: !not controlled by! MED16, MED14, MED2

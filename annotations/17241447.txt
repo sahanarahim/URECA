@@ -1,0 +1,7 @@
+Animal CHIP proteins are chaperone-dependent E3 ubiquitin ligases that physically interact with Hsp70, Hsp90 and proteasome, promoting degradation of a selective group of non-native or damaged proteins in animal cells. The plant CHIP-like protein, AtCHIP, also plays important roles in protein turnover metabolism. AtCHIP interacts with a proteolytic subunit, ClpP4, of the chloroplast Clp protease in vivo, and ubiquitylates ClpP4 in vitro. The steady-state level of ClpP4 is reduced in AtCHIP-overexpressing plants under high-intensity light conditions, suggesting that AtCHIP targets ClpP4 for degradation and thereby regulates the Clp proteolytic activity in chloroplasts under certain stress conditions. Overexpression of ClpP4 in Arabidopsis leads to chlorotic phenotypes in transgenic plants, and chloroplast structures in the chlorotic tissues of ClpP4-overexpressing plants are abnormal and largely devoid of thylakoid membranes, suggesting that ClpP4 plays a critical role in chloroplast structure and function. As AtCHIP is a cytosolic protein that has been shown to play an important role in regulating an essential chloroplast protease, this research provides new insights into the regulatory networks controlling protein turnover catabolism in chloroplasts.
+
+AtCHIP: !interacts with! ClpP4
+AtCHIP: !ubiquitylates! ClpP4
+AtCHIP: !regulates! Clp proteolytic activity
+ClpP4: !reduces! steady-state level in AtCHIP-overexpressing plants
+ClpP4: !plays critical role in! chloroplast structure and function

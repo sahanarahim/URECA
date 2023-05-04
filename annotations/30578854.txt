@@ -1,0 +1,7 @@
+Histone H2B monoubiquitination (H2Bub1) plays important roles in several physiological and developmental processes, but its roles in the regulation of plant stress responses remain elusive. Here, we report that H2Bub1 is crucially involved in abscisic acid (ABA) signaling and drought response in rice. We found that rice HISTONE MONOUBIQUITINATION2 (OsHUB2), an E3 ligase for H2Bub1, interacted with OsbZIP46, a key transcription factor regulating ABA signaling and drought response in rice. Genetic analyses suggest that OsHUB2, upregulated by drought and ABA, positively modulates ABA sensitivity and drought resistance. The H2Bub1 levels were increased in the target genes of OsbZIP46 under the drought stress and ABA treatments, which were positively correlated with their increased expression levels. Interestingly, MODD, a reported suppressor of ABA signaling and drought resistance by mediating OsbZIP46 deactivation and degradation, could reduce the H2Bub1 levels in the target genes of OsbZIP46 by recruiting a putative deubiquitinase OsOTLD1. Suppression of OsOTLD1 in vivo resulted in increased H2Bub1 levels and expression of OsbZIP46 target genes. Collectively, these findings established an elaborate mechanism of histone monoubiquitination in the fine-turning of ABA signaling and drought response by balancing H2Bub1 deposition and removal.
+
+OsHUB2: !interacts with! OsbZIP46
+OsHUB2: !modulates! ABA sensitivity and drought resistance
+MODD: !recruits! OsOTLD1
+MODD: !reduces! H2Bub1 levels
+OsOTLD1: !suppressed in vivo! increases H2Bub1 levels

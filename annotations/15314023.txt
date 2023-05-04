@@ -1,0 +1,8 @@
+['15314023', 'In the Arabidopsis root meristem, ground tissue stem cell daughters perform an  asymmetric division to form endodermis and cortex. The putative transcription  factors SCARECROW (SCR) and SHORTROOT (SHR) regulate this radial patterning  event, and the mixed cell fate in scr mutants suggests an atypical role of the  SCR gene in asymmetric cell division. Here we use a newly developed site-specific  gene activation/deletion system in which induced clones are positively marked  with green fluorescent protein (GFP). Using this system, we show that SCR acts  cell-autonomously to control asymmetric cell division within the ground tissue.  We provide evidence that SCR gene expression is under autoregulatory control,  that SCR limits SHR movement, and that transient SCR action is sufficient to  separate endodermis and cortex fates by asymmetric cell division.', '2004 Aug 15', 'Genes Dev', '10.1101/gad.305504', 'Scheres']
+
+SCR: !regulates! radial patterning 
+SCR: !autoregulates! gene expression 
+SCR: !limits! SHR movement 
+SCR: !separates! endodermis and cortex fates 
+SHR: !regulates! radial patterning 
+GFP: !marks! induced clones

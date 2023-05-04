@@ -1,0 +1,7 @@
+The chloroplast genome of land plants contains only a single gene for a splicing factor, Maturase K (MatK). To better understand the regulation of matK gene expression, we quantitatively investigated the expression of matK across tobacco (Nicotiana tabacum) development at the transcriptional, posttranscriptional, and protein levels. We observed striking discrepancies of MatK protein and matK messenger RNA levels in young tissue, suggestive of translational regulation or altered protein stability. We furthermore found increased matK messenger RNA stability in mature tissue, while other chloroplast RNAs tested showed little changes. Finally, we quantitatively measured MatK-intron interactions and found selective changes in the interaction of MatK with specific introns during plant development. This is evidence for a direct role of MatK in the regulation of chloroplast gene expression via splicing. We furthermore modeled a simplified matK gene expression network mathematically. The model reflects our experimental data and suggests future experimental perturbations to pinpoint regulatory checkpoints.
+
+MatK: !regulates! chloroplast gene expression
+MatK: !interacts with! introns
+MatK: !synthesizes! protein
+MatK: !enhances! mRNA stability
+MatK: !represses! mRNA levels

@@ -1,0 +1,9 @@
+Unmanned aerial vehicle (UAV) technology is an emerging powerful approach for high-throughput plant phenotyping field-grown crops. Switchgrass (<i>Panicum virgatum</i> L.) is a lignocellulosic bioenergy crop for which studies on yield, sustainability, and biofuel traits are performed. In this study, we exploited UAV-based imagery (LiDAR and multispectral approaches) to measure plant height, perimeter, and biomass yield in field-grown switchgrass in order to make predictions on bioenergy traits. Manual ground truth measurements validated the automated UAV results. We found UAV-based plant height and perimeter measurements were highly correlated and consistent with the manual measurements (<i>r</i> = 0.93, <i>p</i> < 0.001). Furthermore, we found that phenotyping parameters can significantly improve the natural saturation of the spectral index of the optical image for detecting high-density plantings. Combining plant canopy height (CH) and canopy perimeter (CP) parameters with spectral index (SI), we developed a robust and standardized biomass yield model [biomass = (<i>m</i> × SI) × CP × CH] where the <i>m</i> is an SI-sensitive coefficient linearly varying with the plant phenological changing stage. The biomass yield estimates obtained from this model were strongly correlated with manual measurements (<i>r</i> = 0.90, <i>p</i> < 0.001). Taking together, our results provide insights into the capacity of UAV-based remote sensing for switchgrass high-throughput phenotyping in the field, which will be useful for breeding and cultivar development.
+
+UAV: !measures! Plant Height 
+UAV: !measures! Perimeter 
+UAV: !measures! Biomass Yield 
+CH: !combined with! CP 
+CP: !combined with! CH 
+SI: !combined with! CP & CH 
+Biomass Yield: !correlated with! Manual Measurements

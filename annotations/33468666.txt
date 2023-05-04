@@ -1,0 +1,13 @@
+Global cropland expansion over the last century caused widespread habitat loss and degradation. Establishment of protected areas aims to counteract the loss of habitats and to slow species extinctions. However, many protected areas also include high levels of habitat disturbance and conversion for uses such as cropland. Understanding where and why this occurs may realign conservation priorities and inform protected area policy in light of competing priorities such as food security. Here, we use our global synthesis cropland dataset to quantify cropland in protected areas globally and assess their relationship to conservation aims and socio-environmental context. We estimate that cropland occupies 1.4 million km<sup>2</sup> or 6% of global protected area. Cropland occurs across all protected area management types, with 22% occurring in strictly protected areas. Cropland inside protected areas is more prevalent in countries with higher population density, lower income inequality, and with higher agricultural suitability of protected lands. While this phenomenon is dominant in midnorthern latitudes, areas of cropland in protected areas of the tropics and subtropics may present greater trade-offs due to higher levels of both biodiversity and food insecurity. Although area-based targets are prominent in biodiversity goal-setting, our results show that they can mask persistent anthropogenic land uses detrimental to native ecosystem conservation. To ensure the long-term efficacy of protected areas, post-2020 goal setting must link aims for biodiversity and human health and improve monitoring of conservation outcomes in cropland-impacted protected areas.
+
+Protected areas: !include! Cropland 
+Cropland: !occurs in! Strictly Protected Areas 
+Population Density: !correlates with! Cropland in Protected Areas 
+Income Inequality: !correlates with! Cropland in Protected Areas 
+Agricultural Suitability: !correlates with! Cropland in Protected Areas 
+Latitudes: !influence! Cropland in Protected Areas 
+Biodiversity: !presents trade-offs with! Cropland in Protected Areas 
+Food Security: !presents trade-offs with! Cropland in Protected Areas 
+Area-Based Targets: !mask! Anthropogenic Land Uses 
+Post-2020 Goal Setting: !links! Biodiversity & Human Health 
+Monitoring: !improves! Conservation Outcomes in Cropland-Impacted Protected Areas

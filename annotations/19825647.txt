@@ -1,0 +1,14 @@
+Development of ChIP-chip and ChIP-seq technologies has allowed genome-wide high-resolution profiling of chromatin-associated marks and binding sites for epigenetic regulators. However, signals for directing epigenetic modifiers to their target sites are not understood. In this paper, we tested the hypothesis that genome location can affect the involvement of epigenetic regulators using Chromatin Charting (CC) Lines, which have an identical transgene construct inserted at different locations in the Arabidopsis genome. Four CC lines that showed evidence for epigenetic silencing of the luciferase reporter gene were transformed with RNAi vectors individually targeting epigenetic regulators LHP1, MOM1, CMT3, DRD1, DRM2, SUVH2, CLF, and HD1. Involvement of a particular epigenetic regulator in silencing the transgene locus in a CC line was determined by significant alterations in luciferase expression after suppression of the regulator's expression. Our results suggest that the targeting of epigenetic regulators can be influenced by genome location as well as sequence context. In addition, the relative importance of an epigenetic regulator can be influenced by tissue identity. We also report a novel approach to predict interactions between epigenetic regulators through clustering analysis of the regulators using alterations in gene expression of putative downstream targets, including endogenous loci and transgenes, in epigenetic mutants or RNAi lines. Our data support the existence of a complex and dynamic network of epigenetic regulators that serves to coordinate and control global gene expression in higher plants.
+
+LHP1: !affects! silencing of transgene locus
+MOM1: !affects! silencing of transgene locus
+CMT3: !affects! silencing of transgene locus
+DRD1: !affects! silencing of transgene locus
+DRM2: !affects! silencing of transgene locus
+SUVH2: !affects! silencing of transgene locus
+CLF: !affects! silencing of transgene locus
+HD1: !affects! silencing of transgene locus
+Genome location: !affects! involvement of epigenetic regulators
+Sequence context: !affects! targeting of epigenetic regulators
+Tissue identity: !influences! relative importance of epigenetic regulator
+Clustering analysis: !predicts! interactions between epigenetic regulators

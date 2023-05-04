@@ -1,0 +1,9 @@
+Plastids are maintained in cells by proliferating prior to cell division and being partitioned to each daughter cell during cell division. It is unclear, however, whether cells without plastids are generated when plastid division is suppressed. The crumpled leaf (crl) mutant of Arabidopsis thaliana is a plastid division mutant that displays severe abnormalities in plastid division and plant development. We show that the crl mutant contains cells lacking detectable plastids; this situation probably results from an unequal partitioning of plastids to each daughter cell. Our results suggest that crl has a partial defect in plastid expansion, which is suggested to be important in the partitioning of plastids to daughter cells when plastid division is suppressed. The absence of cells without detectable plastids in the accumulation and replication of chloroplasts 6 (arc6) mutant, another plastid division mutant of A. thaliana having no significant defects in plant morphology, suggests that the generation of cells without detectable plastids is one of the causes of the developmental abnormalities seen in crl plants. We also demonstrate that plastids with trace or undetectable amounts of chlorophyll are generated from enlarged plastids by a non-binary fission mode of plastid replication in both crl and arc6.
+
+crl: !generates cells without! plastids
+crl: !has partial defect in! plastid expansion
+arc6: !accumulates and replicates! chloroplasts 6
+crl: !causes developmental abnormalities! in plants
+plastids: !partitioned to! daughter cells
+plastids: !replicated by! non-binary fission mode
+plastids: !generated from! enlarged plastids

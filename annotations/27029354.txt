@@ -1,0 +1,8 @@
+SNF1 RELATED PROTEIN KINASE 1 (SnRK1) is proposed to be a central integrator of the plant stress and energy starvation signalling pathways. We observed that the Arabidopsis SnRK1.1 dominant negative mutant (SnRK1.1 (K48M) ) had lower tolerance to submergence than the wild type, suggesting that SnRK1.1-dependent phosphorylation of target proteins is important in signalling pathways triggered by submergence. We conducted quantitative phosphoproteomics and found that the phosphorylation levels of 57 proteins increased and the levels of 27 proteins decreased in Col-0 within 0.5-3h of submergence. Among the 57 proteins with increased phosphorylation in Col-0, 38 did not show increased phosphorylation levels in SnRK1.1 (K48M) under submergence. These proteins are involved mainly in sugar and protein synthesis. In particular, the phosphorylation of MPK6, which is involved in regulating ROS responses under abiotic stresses, was disrupted in the SnRK1.1 (K48M) mutant. In addition, PTP1, a negative regulator of MPK6 activity that directly dephosphorylates MPK6, was also regulated by SnRK1.1. We also showed that energy conservation was disrupted in SnRK1.1 (K48M) , mpk6, and PTP1 (S7AS8A) under submergence. These results reveal insights into the function of SnRK1 and the downstream signalling factors related to submergence.
+
+SnRK1.1: !integrates! Plant Stress Signalling Pathways
+SnRK1.1: !regulates! Phosphorylation of Proteins
+MPK6: !regulated by! SnRK1.1
+PTP1: !regulated by! SnRK1.1
+MPK6: !inhibited by! PTP1
+SnRK1.1: !disrupts! Energy Conservation

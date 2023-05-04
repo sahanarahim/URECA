@@ -1,0 +1,9 @@
+In eukaryotes, autophagy maintains cellular homeostasis by recycling cytoplasmic components. The autophagy-related proteins (ATGs) ATG1 and ATG13 form a protein kinase complex that regulates autophagosome formation; however, mechanisms regulating ATG1 and ATG13 remain poorly understood. Here, we show that, under different nutrient conditions, the RING-type E3 ligases SEVEN IN ABSENTIA OF ARABIDOPSIS THALIANA1 (SINAT1), SINAT2, and SINAT6 control ATG1 and ATG13 stability and autophagy dynamics by modulating ATG13 ubiquitylation in Arabidopsis (<i>Arabidopsis thaliana</i>). During prolonged starvation and recovery, ATG1 and ATG13 were degraded through the 26S proteasome pathway. TUMOR NECROSIS FACTOR RECEPTOR ASSOCIATED FACTOR1a (TRAF1a) and TRAF1b interacted in planta with ATG13a and ATG13b and required SINAT1 and SINAT2 to ubiquitylate and degrade ATG13s in vivo. Moreover, lysines K607 and K609 of ATG13a protein contributed to K48-linked ubiquitylation and destabilization, and suppression of autophagy. Under starvation conditions, SINAT6 competitively interacted with ATG13 and induced autophagosome biogenesis. Furthermore, under starvation conditions, ATG1 promoted TRAF1a protein stability in vivo, suggesting feedback regulation of autophagy. Consistent with ATGs functioning in autophagy, the <i>atg1a atg1b atg1c</i> triple knockout mutants exhibited premature leaf senescence, hypersensitivity to nutrient starvation, and reduction in TRAF1a stability. Therefore, these findings demonstrate that SINAT family proteins facilitate ATG13 ubiquitylation and stability and thus regulate autophagy.
+
+ATG1: !interacts with! ATG13
+SINAT1: !modulates! ATG13 ubiquitylation
+TRAF1a: !interacts in planta with! ATG13a/b
+K607/K609: !contribute to! K48-linked ubiquitylation
+SINAT6: !competitively interacts with! ATG13
+ATG1: !promotes! TRAF1a stability
+atg1a/b/c triple knockout mutants: !exhibit! premature leaf senescence

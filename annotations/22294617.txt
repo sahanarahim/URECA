@@ -1,0 +1,12 @@
+To identify genes that confer nonhost resistance to biotrophic fungal pathogens, we did a forward-genetics screen using Medicago truncatula Tnt1 retrotransposon insertion lines. From this screen, we identified an inhibitor of rust germ tube differentation1 (irg1) mutant that failed to promote preinfection structure differentiation of two rust pathogens, Phakopsora pachyrhizi and Puccinia emaculata, and one anthracnose pathogen, Colletotrichum trifolii, on the abaxial leaf surface. Cytological and chemical analyses revealed that the inhibition of rust preinfection structures in irg1 mutants is due to complete loss of the abaxial epicuticular wax crystals and reduced surface hydrophobicity. The composition of waxes on abaxial leaf surface of irg1 mutants had >90% reduction of C30 primary alcohols and a preferential increase of C29 and C31 alkanes compared with the wild type. IRG1 encodes a Cys(2)His(2) zinc finger transcription factor, PALM1, which also controls dissected leaf morphology in M. truncatula. Transcriptome analysis of irg1/palm1 mutants revealed downregulation of eceriferum4, an enzyme implicated in primary alcohol biosynthesis, and MYB96, a major transcription factor that regulates wax biosynthesis. Our results demonstrate that PALM1 plays a role in regulating epicuticular wax metabolism and transport and that epicuticular wax influences spore differentiation of host and nonhost fungal pathogens.
+
+IRG1: !encodes! PALM1
+PALM1: !controls! Dissected leaf morphology
+ECERIFERUM4: !downregulated in! irg1/palm1 mutants
+MYB96: !downregulated in! irg1/palm1 mutants
+irg1 mutants: !lack! Abaxial epicuticular wax crystals
+irg1 mutants: !reduce! Surface hydrophobicity
+irg1 mutants: !have reduced! C30 primary alcohols
+irg1 mutants: !have increased! C29 and C31 alkanes
+PALM1: !regulates! Epicuticular wax metabolism and transport
+Epicuticular wax: !influences! Spore differentiation of host and nonhost fungal pathogens

@@ -1,0 +1,10 @@
+In plants, microRNA - target interactions (MTIs) require high complementarity, a feature from which bioinformatic programs have predicted numerous and diverse targets for any given miRNA, promoting the idea of complex miRNA networks. Opposing this is a hypothesis of constrained miRNA specificity, in which functional MTIs are restricted to the few targets whose required expression output is compatible with the expression of the miRNA. To explore these opposing views, the bioinformatic pipeline TRUEE (Targets Ranked Using Experimental Evidence) was applied to strongly conserved miRNAs to identity their high evidence (HE) targets across species. For each miRNA family, HE targets predominantly consisted of homologues from one conserved target gene family (primary family). These primary families corresponded to the known canonical miRNA target families, validating the approach. Very few additional HE target families were identified (secondary family), and if so, they were likely functionally related to the primary family. Many primary target families contained highly conserved nucleotide sequences flanking their miRNA binding-sites that were enriched in HE homologues across species. A number of these flanking sequences are predicted to form conserved RNA secondary structures that preferentially base-pair with the miRNA binding-site, implying that these sites are highly structured. Our findings support a target landscape view that is dominated by the conserved primary target families, with a minority of either secondary target families or non-conserved targets. This is consistent with the constrained hypothesis of functional miRNA specificity, which potentially in part is being facilitated by features beyond complementarity.
+
+microRNA: !targets! target 
+TRUEE: !identifies! high evidence targets 
+miRNA family: !consists of! homologues 
+primary family: !corresponds to! canonical miRNA target families 
+secondary family: !likely related to! primary family 
+nucleotide sequences: !flank! miRNA binding-sites 
+RNA secondary structures: !base-pair with! miRNA binding-site 
+primary target families: !dominate! target landscape

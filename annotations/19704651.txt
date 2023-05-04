@@ -1,0 +1,9 @@
+Determining the proper time to flower is important to ensure the reproductive success of plants. The model plant Arabidopsis is able to measure day-length and promotes flowering in long day (LD) conditions. One of the most prominent mechanisms in photoperiodic flowering is the clock-regulated gene expression of CONSTANS (CO) and the stabilization and activation of CO protein by light (regarded as external coincidence). We recently demonstrated that timing of the blue-light dependent formation of FLAVIN-BINDING, KELCH REPEAT, F-BOX 1 (FKF1) and GIGANTEA (GI) protein complex is crucial for regulating the timing of CO gene expression. The expression of FKF1 and GI is clock regulated, and their expression patterns have the same phase in LD (regarded as internal coincidence) but not in short day (SD) conditions, where floral induction is greatly delayed. Hence, timing of the FKF1-GI complex formation is regulated by the coincidence of both external and internal cues. Here, we propose a molecular mechanism for CO regulation by FKF1-GI complex formation.
+
+CO: !regulated by! FKF1-GI complex
+FKF1: !forms! FKF1-GI complex
+GI: !forms! FKF1-GI complex
+FKF1: !regulated by! clock
+GI: !regulated by! clock
+FKF1: !coincides with! GI in LD
+FKF1: !delayed from! GI in SD

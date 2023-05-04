@@ -1,0 +1,11 @@
+The immutans (im) variegation mutant of Arabidopsis (Arabidopsis thaliana) is an ideal model to gain insight into factors that control chloroplast biogenesis. im defines the gene for PTOX, a plastoquinol terminal oxidase that participates in the control of thylakoid redox. Here, we report that the im defect can be suppressed during the late stages of plant development by gigantea (gi2), which defines the gene for GI, a central component of the circadian clock that plays a poorly understood role in diverse plant developmental processes. imgi2 mutants are late flowering and display other well-known phenotypes associated with gi2, such as starch accumulation and resistance to oxidative stress. We show that the restoration of chloroplast biogenesis in imgi2 is caused by a development-specific derepression of cytokinin signaling that involves cross talk with signaling pathways mediated by gibberellin (GA) and SPINDLY (SPY), a GA response inhibitor. Suppression of the plastid defect in imgi2 is likely caused by a relaxation of excitation pressures in developing plastids by factors contributed by gi2, including enhanced rates of photosynthesis and increased resistance to oxidative stress. Interestingly, the suppression phenotype of imgi can be mimicked by crossing im with the starch accumulation mutant, starch excess1 (sex1), perhaps because sex1 utilizes pathways similar to gi. We conclude that our studies provide a direct genetic linkage between GI and chloroplast biogenesis, and we construct a model of interactions between signaling pathways mediated by gi, GA, SPY, cytokinins, and sex1 that are required for chloroplast biogenesis.
+
+im: !defines! PTOX 
+gi2: !defines! GI 
+gi2: !suppresses! im 
+gi2: !enhances! photosynthesis 
+gi2: !increases! resistance to oxidative stress 
+GA: !mediates! signaling pathways 
+SPY: !mediates! signaling pathways 
+cytokinins: !derepresses! in imgi2 
+sex1: !mimics! suppression phenotype of im

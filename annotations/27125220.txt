@@ -1,0 +1,10 @@
+Flavonoid synthesis is predominantly regulated at the transcriptional level through the MYB-basic helix-loop-helix (bHLH)-WD40 (MBW) (MYB: transcription factor of the myeloblastosis protein family, WD40: tanscription factor with a short structural motif of 40 amino acids which terminates in an aspartic acid-tryptophan dipeptide) complex, and responds to both environmental and developmental stimuli. Although the developmental regulation of flavonoid accumulation in Arabidopsis thaliana has been examined in great detail, the response of the flavonoid synthesis pathway to abiotic stress (particularly low temperature) remains unclear. A screen of a Dissociation element (Ds) transposon-induced mutation collection identified two lines which exhibited an altered profile of phenylpropanoid accumulation following exposure to low-temperature stress. One of the mutated genes (BRASSINOSTEROID ENHANCED EXPRESSION1 (BEE1)) encoded a brassinosteroid enhanced expression transcription factor, while the other (G2-LIKE FLAVONOID REGULATOR (GFR)) encoded a G2-like flavonoid regulator. Phenylpropanoid-targeted analysis was performed using high-performance LC-MS, and gene expression analysis using quantitative reverse transcription-PCR. In both mutants, the accumulation of quercetins and scopolin was reduced under low-temperature growing conditions, whereas that of anthocyanin was increased. BEE1 and GFR were both shown to negatively regulate anthocyanin accumulation by inhibiting anthocyanin synthesis genes via the suppression of the bHLH (TRANSPARENT TESTA8 (TT8) and GLABROUS3 (GL3)) and/or the MYB (PRODUCTION OF ANTHOCYANIN PIGMENTS2 (PAP2)) components of the MBW complex. Our results provide new insight into the regulatory control of phenylpropanoid metabolism at low temperatures, and reveal that BEE1 and GFR act as important components of the signal transduction chain.
+
+MYB: !regulates! Flavonoid synthesis
+bHLH: !regulates! Flavonoid synthesis
+WD40: !regulates! Flavonoid synthesis
+BEE1: !inhibits! Anthocyanin synthesis
+GFR: !inhibits! Anthocyanin synthesis
+TT8: !suppressed by! BEE1/GFR
+GL3: !suppressed by! BEE1/GFR
+PAP2: !suppressed by! BEE1/GFR

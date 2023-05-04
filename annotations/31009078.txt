@@ -1,0 +1,8 @@
+BRI1-EMS-SUPPRESSOR 1 (BES1) functions as a key regulator in the brassinosteroid (BR) pathway that promotes plant growth. However, whether BES1 is involved in photoperiodic flowering is unknown. Here we report that BES1 acts as a positive regulator of photoperiodic flowering, but it cannot directly bind FLOWERING LOCUS T (FT) promoter. BR ENHANCED EXPRESSION 1 (BEE1) is the direct target of BES1 and acts downstream of BES1. BEE1 is also a positive regulator of photoperiodic flowering. BEE1 binds directly to the FT chromatin to activate the transcription of FT and promote flowering initiation. More importantly, BEE1 promotes flowering in a blue light photoreceptor CRYPTOCHROME 2 (CRY2)  partially dependent manner, as it physically interacts with CRY2 under the blue light. Furthermore, BEE1 is regulated by both BRs and blue light. The transcription of BEE1 is induced by BRs, and the BEE1 protein is stabilized under the blue light. Our findings indicate that BEE1 is the integrator of BES1 and CRY2 mediating flowering, and BES1-BEE1-FT is a new signaling pathway in regulating photoperiodic flowering.
+
+BES1: !regulates! BEE1
+BEE1: !binds to! FT
+BEE1: !interacts with! CRY2
+BEE1: !enhances! flowering
+BRs: !induce! BEE1
+Blue light: !stabilizes! BEE1

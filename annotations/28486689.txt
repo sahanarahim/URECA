@@ -1,0 +1,11 @@
+The existence of Metabolic Gene Clusters (MGCs) in plant genomes has recently raised increased interest. Thus far, MGCs were commonly identified for pathways of specialized metabolism, mostly those associated with terpene type products. For efficient identification of novel MGCs, computational approaches are essential. Here, we present PhytoClust; a tool for the detection of candidate MGCs in plant genomes. The algorithm employs a collection of enzyme families related to plant specialized metabolism, translated into hidden Markov models, to mine given genome sequences for physically co-localized metabolic enzymes. Our tool accurately identifies previously characterized plant MGCs. An exhaustive search of 31 plant genomes detected 1232 and 5531 putative gene cluster types and candidates, respectively. Clustering analysis of putative MGCs types by species reflected plant taxonomy. Furthermore, enrichment analysis revealed taxa- and species-specific enrichment of certain enzyme families in MGCs. When operating through our web-interface, PhytoClust users can mine a genome either based on a list of known cluster types or by defining new cluster rules. Moreover, for selected plant species, the output can be complemented by co-expression analysis. Altogether, we envisage PhytoClust to enhance novel MGCs discovery which will in turn impact the exploration of plant metabolism.
+
+PhytoClust: !detects! MGCs 
+MGCs: !associated with! specialized metabolism 
+PhytoClust: !employs! hidden Markov models 
+hidden Markov models: !mine! genome sequences 
+PhytoClust: !accurately identifies! previously characterized plant MGCs 
+31 plant genomes: !detected! 1232 and 5531 putative gene cluster types and candidates 
+clustering analysis: !reflected! plant taxonomy 
+enrichment analysis: !revealed! taxa- and species-specific enrichment of certain enzyme families in MGCs 
+PhytoClust: !enhances! novel MGCs discovery

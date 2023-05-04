@@ -1,0 +1,13 @@
+['22623516', 'Strigolactones (SLs) are carotenoid-derived plant hormones that regulate shoot  branching, secondary growth, root development, and responses to soil phosphate.  In Arabidopsis (Arabidopsis thaliana), SL biosynthesis requires the sequential  action of two carotenoid cleavage dioxygenases, MORE AXILLARY GROWTH3 (MAX3) and  MAX4, followed by a cytochrome P450, MAX1. In rice (Oryza sativa), the  plastid-localized protein DWARF27 (OsD27) is also necessary for SL biosynthesis,  but the equivalent gene in Arabidopsis has not been identified. Here, we use  phylogenetic analysis of D27-like sequences from photosynthetic organisms to  identify AtD27, the likely Arabidopsis ortholog of OsD27. Using reverse genetics,  we show that AtD27 is required for the inhibition of secondary bud outgrowth and  that exogenous application of the synthetic SL GR24 can rescue the increased  branching phenotype of an Atd27 mutant. Furthermore, we use grafting to  demonstrate that AtD27 operates on a nonmobile precursor upstream of MAX1 in the  SL biosynthesis pathway. Consistent with the plastid localization of OsD27, we  also show that AtD27 possesses a functional plastid transit peptide. We  demonstrate that AtD27 transcripts are subject to both local feedback and  auxin-dependent signals, albeit to a lesser extent than MAX3 and MAX4, suggesting  that early steps in SL biosynthesis are coregulated at the transcriptional level.  By identifying an additional component of the canonical SL biosynthesis pathway  in Arabidopsis, we provide a new tool to investigate the regulation of shoot  branching and other SL-dependent developmental processes.', '2012 Jul', 'Plant Physiol', '10.1104/pp.112.196253', 'Beveridge']
+
+MAX3: !synthesizes! Strigolactones 
+MAX4: !synthesizes! Strigolactones 
+MAX1: !synthesizes! Strigolactones 
+OsD27: !synthesizes! Strigolactones 
+AtD27: !synthesizes! Strigolactones 
+AtD27: !localizes to! Plastid 
+AtD27: !represses! Secondary bud outgrowth 
+GR24: !rescues! Increased branching phenotype 
+AtD27: !operates on! Nonmobile precursor 
+AtD27: !subject to! Local feedback 
+AtD27: !subject to! Auxin-dependent signals

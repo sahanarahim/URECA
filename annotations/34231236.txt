@@ -1,0 +1,9 @@
+Genotype-by-environment interaction (GEI) is one of the major factors affecting the prediction accuracy of genomic selection (GS) models. Standard models have low power to model complex GEI, and they fail to predict phenotypes in unobserved environments. Here, we developed a novel prediction model that account for GEI, named 3GS, that combines genotype plus genotype × environment (GGE) analysis with GS. The model calculates the principal components (PCs) of the environmental phenotypes using GGE analysis and predict the performance of these PCs using standard GS models before converting the GEBVs of these PCs (pcGEBVs) back to the original phenotypes. We demonstrated three advantages of the new model. First, 3GS showed significantly higher prediction accuracy primarily for deviated environments that have low to negative correlations to other environments. Second, 3GS can predict new genotypes in unobserved environments with high accuracy. Third, the computational complexity of 3GS increases linearly with increasing the number of environments and the population size, unlike the standard models that exhibit exponential increase, making it hundreds of times faster than the standard models for large data sets. 3GS can improve prediction accuracy with minimal resources in modern breeding programmes in which massive populations get multi-environment phenotypes with high-throughput techniques.
+
+Genotype: !interacts with! Environment 
+3GS Model: !accounts for! GEI 
+3GS Model: !predicts! Performance of PCs 
+3GS Model: !converts! pcGEBVs to original phenotypes 
+3GS Model: !shows higher! Prediction accuracy 
+3GS Model: !predicts! New genotypes in unobserved environments 
+3GS Model: !increases linearly! With population size

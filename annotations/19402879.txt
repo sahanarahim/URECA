@@ -1,0 +1,11 @@
+* Zinc finger proteins are a superfamily involved in many aspects of plant growth and development. However, CCCH-type zinc finger proteins involved in plant stress tolerance are poorly understood. * A cDNA clone designated Gossypium hirsutum zinc finger protein 1 (GhZFP1), which encodes a novel CCCH-type zinc finger protein, was isolated from a salt-induced cotton (G. hirsutum) cDNA library using differential hybridization screening and further studied in transgenic tobacco Nicotiana tabacum cv. NC89. Using yeast two-hybrid screening (Y2H), proteins GZIRD21A (GhZFP1 interacting and responsive to dehydration protein 21A) and GZIPR5 (GhZFP1 interacting and pathogenesis-related protein 5), which interacted with GhZFP1, were isolated. * GhZFP1 contains two typical zinc finger motifs (Cx8Cx5Cx3H and Cx5Cx4Cx3H), a putative nuclear export sequence (NES) and a potential nuclear localization signal (NLS). Transient expression analysis using a GhZFP1::GFP fusion gene in onion epidermal cells indicated a nuclear localization for GhZFP1. RNA blot analysis showed that the GhZFP1 transcript was induced by salt (NaCl), drought and salicylic acid (SA). The regions in GhZFP1 that interact with GZIRD21A and GZIPR5 were identified using truncation mutations. * Overexpression of GhZFP1 in transgenic tobacco enhanced tolerance to salt stress and resistance to Rhizoctonia solani. Therefore, it appears that GhZFP1 might be involved as an important regulator in plant responses to abiotic and biotic stresses.
+
+GhZFP1: !encodes! CCCH-type zinc finger protein
+GZIRD21A: !interacts with! GhZFP1
+GZIPR5: !interacts with! GhZFP1
+GhZFP1: !localizes to! nucleus
+NaCl: !induces! GhZFP1 transcript
+drought: !induces! GhZFP1 transcript
+SA: !induces! GhZFP1 transcript
+GhZFP1: !enhances! tolerance to salt stress
+GhZFP1: !enhances! resistance to Rhizoctonia solani

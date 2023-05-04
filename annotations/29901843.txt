@@ -1,0 +1,12 @@
+Premature leaf senescence in rice is one of the most common factors affecting the plant's development and yield. Although methyltransferases are involved in diverse biological functions, their roles in rice leaf senescence have not been previously reported. In this study, we identified the premature leaf senescence 3 (pls3) mutant in rice, which led to early leaf senescence and early heading date. Further investigations revealed that premature leaf senescence was triggered by the accumulation of reactive oxygen species. Using physiological analysis, we found that chlorophyll content was reduced in the pls3 mutant leaves, while hydrogen peroxide (H<sub>2</sub> O<sub>2</sub> ) and malondialdehyde levels were elevated. Consistent with these findings, the pls3 mutant exhibited hypersensitivity to exogenous hydrogen peroxide. The expression of other senescence-associated genes such as Osh36 and RCCR1 was increased in the pls3 mutant. Positional cloning indicated the pls3 phenotype was the result of a mutation in OsMTS1, which encodes an O-methyltransferase in the melatonin biosynthetic pathway. Functional complementation of OsMTS1 in pls3 completely restored the wild-type phenotype. We found leaf melatonin content to be dramatically reduced in pls3, and that exogenous application of melatonin recovered the pls3 mutant's leaf senescence phenotype to levels comparable to that of wild-type rice. Moreover, overexpression of OsMTS1 in the wild-type plant increased the grain yield by 15.9%. Our results demonstrate that disruption of OsMTS1, which codes for a methyltransferase, can trigger leaf senescence as a result of decreased melatonin production.
+
+pls3: !triggers! premature leaf senescence
+OsMTS1: !encodes! O-methyltransferase
+OsMTS1: !causes! decreased melatonin production
+pls3: !exhibits! hypersensitivity to H<sub>2</sub> O<sub>2</sub> 
+Osh36: !increases in! pls3 mutant
+RCCR1: !increases in! pls3 mutant
+OsMTS1: !complements! pls3 phenotype
+melatonin: !reduced in! pls3
+melatonin: !recovers! pls3 phenotype
+OsMTS1: !overexpression increases! grain yield

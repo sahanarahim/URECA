@@ -1,0 +1,13 @@
+COP1 is a critical repressor of plant photomorphogenesis in darkness. However, COP1 plays distinct roles in the photoreceptor UVR8 pathway in Arabidopsis thaliana. COP1 interacts with ultraviolet B (UV-B)-activated UVR8 monomers and promotes their retention and accumulation in the nucleus. Moreover, COP1 has a function in UV-B signaling, which involves the binding of its WD40 domain to UVR8 and HY5 via conserved Val-Pro (VP) motifs of these proteins. UV-B-activated UVR8 interacts with COP1 via both the core domain and the VP motif, leading to the displacement of HY5 from COP1 and HY5 stabilization. However, it remains unclear whether the function of COP1 in UV-B signaling is solely dependent on its VP motif binding capacity and whether UV-B regulates the subcellular localization of COP1. Based on published structures of the COP1 WD40 domain, we generated a COP1 variant with a single amino acid substitution, COP1<sup>C509S</sup> , which cannot bind to VP motifs but retains the ability to interact with the UVR8 core domain. UV-B only marginally increased nuclear YFP-COP1 levels and significantly promoted YFP-COP1 accumulation in the cytosol, but did not exert the same effects on YFP-COP1<sup>C509S</sup> . Thus, the full UVR8-COP1 interaction is important for COP1 accumulation in the cytosol. Notably, UV-B signaling including activation of HY5 transcription was obviously inhibited in the Arabidopsis lines expressing YFP-COP1<sup>C509S</sup> , which cannot bind VP motifs. We conclude that the full binding of UVR8 to COP1 leads to the predominant accumulation of COP1 in the cytosol and that COP1 has an additional function in UV-B signaling besides VP binding-mediated protein destabilization.
+
+COP1: !represses! photomorphogenesis
+COP1: !interacts with! UVR8
+COP1: !binds to! VP motifs
+COP1: !displaces! HY5
+COP1: !accumulates in! nucleus
+COP1: !accumulates in! cytosol
+UVR8: !activates! COP1
+UVR8: !binds to! COP1
+UV-B: !regulates! COP1 localization
+UV-B: !activates! HY5 transcription
+COP1<sup>C509S</sup>: !inhibits! UV-B signaling

@@ -1,0 +1,9 @@
+Phytochromes are red (R)/far-red (FR) photoreceptors that are central to the regulation of plant growth and development. Although it is well known that photoactivated phytochromes are translocated into the nucleus where they interact with a variety of nuclear proteins and ultimately regulate genome-wide transcription, the mechanisms by which these photoreceptors function are not completely understood. In an effort to enhance our understanding of phytochrome-mediated light signaling networks, we attempted to identify novel proteins interacting with phytochrome B (phyB). Using affinity purification in Arabidopsis phyB overexpressor, coupled with mass spectrometry analysis, 16 proteins that interact with phyB in vivo were identified. Interactions between phyB and six putative phyB-interacting proteins were confirmed by bimolecular fluorescence complementation (BiFC) analysis. Involvement of these proteins in phyB-mediated signaling pathways was also revealed by physiological analysis of the mutants defective in each phyB-interacting protein. We further characterized the athb23 mutant impaired in the homeobox protein 23 (ATHB23) gene. The athb23 mutant displayed altered hypocotyl growth under R light, as well as defects in phyB-dependent seed germination and phyB-mediated cotyledon expansion. Taken together, these results suggest that the ATHB23 transcription factor is a novel component of the phyB-mediated R light signaling pathway.
+
+phyB: !interacts with! 16 proteins 
+phyB: !confirms interaction with! 6 proteins 
+phyB: !regulates! genome-wide transcription 
+ATHB23: !interacts with! phyB 
+ATHB23: !affects! hypocotyl growth 
+ATHB23: !enhances! seed germination 
+ATHB23: !promotes! cotyledon expansion

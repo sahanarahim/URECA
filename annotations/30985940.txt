@@ -1,0 +1,9 @@
+Salinity is among the major factors limiting crop production worldwide. Despite having moderate salt-tolerance, cotton (Gossypium spp.) suffers severe yield losses to salinity stresses, largely due to being grown on saline-alkali and dry lands. To identify genetic determinants conferring salinity tolerance in cotton, we deployed a functional genomic screen using a cotton cDNA library in a virus-induced gene silencing (VIGS) vector. We have revealed that silencing of GhDsPTP3a, which encodes a protein phosphatase, increases cotton tolerance to salt stress. Yeast two-hybrid screens indicated that GhDsPTP3a interacts with GhANN8b, an annexin protein, which plays a positive role in regulating cotton response to salinity stress. Salt stress induces GhANN8b phosphorylation, which is subsequently dephosphorylated by GhDsPTP3a. Ectopic expression of GhDsPTP3a and GhANN8b oppositely regulates plant salt tolerance and calcium influx. In addition, we have revealed that silencing of GhDsPTP3a or GhANN8b exerts opposing roles in regulating GhSOS1 transcript levels, and ectopic expression of GhANN8b elevates Na<sup>+</sup> efflux in Arabidopsis under salinity stress. Our study demonstrates that a cotton phosphatase GhDsPTP3a and an annexin protein GhANN8b interact and reversely modulate Ca<sup>2+</sup> and Na<sup>+</sup> fluxes in cotton salinity responses.
+
+GhDsPTP3a: !interacts with! GhANN8b
+GhDsPTP3a: !dephosphorylates! GhANN8b
+GhANN8b: !regulates! cotton response to salinity stress
+GhANN8b: !phosphorylated by! GhDsPTP3a
+GhDsPTP3a: !enhances! cotton tolerance to salt stress
+GhDsPTP3a: !represses! GhSOS1 transcript levels
+GhANN8b: !elevates! Na<sup>+</sup> efflux in Arabidopsis under salinity stress

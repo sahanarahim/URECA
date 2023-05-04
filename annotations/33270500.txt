@@ -1,0 +1,7 @@
+Circadian clock operates autonomously in each cell and drives the approximately 24-h rhythm in individual tissues and organs. It is known that the evening complex (EC) components and GI are required for ambient temperature perception and thermomorphogenesis in higher plants. Our previous study found that <i>PRR9</i> and <i>7</i> are required for the lengthened period of the circadian rhythm in roots, and they are responsible for the temperature overcompensation in shoots. However, the molecular mechanism of the circadian clock, especially in different tissues, in response to temperature oscillations remains largely unknown. Here, we studied the transcript levels of EC genes and <i>GI</i> of the <i>prr7 prr9</i> mutant shoots and roots in response to 22°C or 28°C, respectively. The results showed that <i>PRR9</i>, <i>7</i> in roots inhibited the transcripts accumulation of <i>ELF3, ELF4</i>, and <i>LUX</i> at 28°C. In addition, loss-of-function of both <i>PRR9</i> and <i>7</i> caused an increase in <i>GI</i> expression at 22°C, but warm temperature of 28°C limited the negative effect of <i>PRR9</i>, <i>7</i> on <i>GI</i> in roots. Our findings proposed a temperature-dependent molecular basis for root-specific circadian clock and indicated the critical role for <i>PRR9</i>, <i>7</i> in negatively regulating <i>ELF3, ELF4, LUX</i>, and <i>GI</i> in the circadian gating of thermoresponse.
+
+PRR9: !inhibits! ELF3, ELF4, LUX
+7: !inhibits! ELF3, ELF4, LUX
+PRR9: !increases! GI
+7: !increases! GI
+28°C: !limits! PRR9, 7 effect on GI

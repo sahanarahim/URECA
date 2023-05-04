@@ -1,0 +1,12 @@
+The wild species field cress (<i>Lepidium campestre</i>) has the potential to become a novel cover and oilseed crop for the Nordic climate. Its seed oil is however currently unsuitable for most food, feed, and industrial applications, due to the high contents of polyunsaturated fatty acids (PUFAs) and erucic acid (C22:1). As the biosynthesis of these undesirable fatty acids is controlled by a few well-known major dominant genes, knockout of these genes using CRISPR/Cas9 would thus be more effective in improving the seed oil quality. In order to increase the level of the desirable oleic acid (C18:1), and reduce the contents of PUFAs and C22:1, we targeted three important genes <i>FATTY ACID ELONGASE1</i> (<i>FAE1</i>), <i>FATTY ACID DESATURASE2</i> (<i>FAD2</i>), and <i>REDUCED OLEATE DESATURASE1 (ROD1</i>) using a protoplast-based CRISPR/Cas9 gene knockout system. By knocking out <i>FAE1</i>, we obtained a mutated line with almost no C22:1, but an increase in C18:1 to 30% compared with 13% in the wild type. Knocking out <i>ROD1</i> resulted in an increase of C18:1 to 23%, and a moderate, but significant, reduction of PUFAs. Knockout of <i>FAD2</i>, in combination with heterozygous <i>FAE1fae1</i> genotype, resulted in mutated lines with up to 66% C18:1, very low contents of PUFAs, and a significant reduction of C22:1. Our results clearly show the potential of CRISPR/Cas9 for rapid trait improvement of field cress which would speed up its domestication process. The mutated lines produced in this study can be used for further breeding to develop field cress into a viable crop.
+
+FAE1: !affects! C22:1
+FAD2: !affects! PUFAs
+ROD1: !affects! C18:1
+CRISPR/Cas9: !knocks out! FAE1
+CRISPR/Cas9: !knocks out! FAD2
+CRISPR/Cas9: !knocks out! ROD1
+FAE1: !increases! C18:1
+ROD1: !increases! C18:1
+FAD2: !reduces! PUFAs
+FAE1fae1: !reduces! C22:1

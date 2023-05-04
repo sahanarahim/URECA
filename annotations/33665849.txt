@@ -1,0 +1,10 @@
+Cryptochromes photoreceptors, CRY1 and CRY2 in Arabidopsis, mediate blue light responses in plants and metazoa. The signalling interactions underlying photomorphogenesis of cryptochromes action have been extensively studied in experiment, expecting a systematical analysis of the dynamic mechanisms of photosensory signalling network from a global view. In this study, we developed a signalling network model to quantitatively investigate the different response modes and cooperation modulations on photomorphogenesis for CRY1 and CRY2 under blue light. The model shows that the different modes of time-dependent and fluence-rate-dependent phosphorylations for CRY1 and CRY2 are originated from their different phosphorylation rates and degradation rates. Our study indicates that, due to the strong association between blue-light inhibitor of cryptochromes (BIC) and CRY2, BIC negatively modulates CRY2 phosphorylation, which was confirmed by our experiment. The experiment also validated the model prediction that the time-dependent BIC-CRY1 and the fluence-rate-dependent BIC-CRY2 are both bell-shaped under blue light. Importantly, the model proposes that the COP1-SPA abundance can strongly inhibit the phosphorylation response of CRY2, resulting in the positive regulation of CRY2 phosphorylation by CRY1 through COP1-SPA. The model also predicts that the CRY1-HY5 axis, rather than CRY2-HY5 pathway, plays a dominant role in blue-light-dependent photomorphogenesis.
+
+CRY1: !mediates! blue light responses
+CRY2: !mediates! blue light responses
+CRY1: !phosphorylated at! different rates
+CRY2: !phosphorylated at! different rates
+BIC: !inhibits! CRY2 phosphorylation
+COP1-SPA: !inhibits! CRY2 phosphorylation
+CRY1: !positively regulates! CRY2 phosphorylation
+CRY1-HY5: !dominates! blue-light-dependent photomorphogenesis

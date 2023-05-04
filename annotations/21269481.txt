@@ -1,0 +1,7 @@
+The identification of genes or quantitative trait loci that are expressed in response to different environmental factors such as temperature and light, through functional mapping, critically relies on precise modeling of the covariance structure. Previous work used separable parametric covariance structures, such as a Kronecker product of autoregressive one [AR(1)] matrices, that do not account for interaction effects of different environmental factors. We implement a more robust nonparametric covariance estimator to model these interactions within the framework of functional mapping of reaction norms to two signals. Our results from Monte Carlo simulations show that this estimator can be useful in modeling interactions that exist between two environmental signals. The interactions are simulated using nonseparable covariance models with spatio-temporal structural forms that mimic interaction effects. The nonparametric covariance estimator has an advantage over separable parametric covariance estimators in the detection of QTL location, thus extending the breadth of use of functional mapping in practical settings.
+
+Gene: !affects! Environmental factors 
+Environmental factors: !interact with! Gene 
+Gene: !localizes to! QTL location 
+Covariance estimator: !models! Interactions 
+Nonparametric covariance estimator: !detects! QTL location

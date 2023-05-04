@@ -1,0 +1,10 @@
+Chloroplasts import thousands of nucleus-encoded preproteins synthesized in the cytosol through the TOC and TIC translocons on the outer and inner envelope membranes, respectively. Preprotein translocation across the inner membrane requires ATP; however, the import motor has remained unclear. Here, we report that a 2-MD heteromeric AAA-ATPase complex associates with the TIC complex and functions as the import motor, directly interacting with various translocating preproteins. This 2-MD complex consists of a protein encoded by the previously enigmatic chloroplast gene <i>ycf2</i> and five related nuclear-encoded FtsH-like proteins, namely, FtsHi1, FtsHi2, FtsHi4, FtsHi5, and FtsH12. These components are each essential for plant viability and retain the AAA-type ATPase domain, but only FtsH12 contains the zinc binding active site generally conserved among FtsH-type metalloproteases. Furthermore, even the FtsH12 zinc binding site is dispensable for its essential function. Phylogenetic analyses suggest that all AAA-type members of the Ycf2/FtsHi complex including Ycf2 evolved from the chloroplast-encoded membrane-bound AAA-protease FtsH of the ancestral endosymbiont. The Ycf2/FtsHi complex also contains an NAD-malate dehydrogenase, a proposed key enzyme for ATP production in chloroplasts in darkness or in nonphotosynthetic plastids. These findings advance our understanding of this ATP-driven protein translocation system that is unique to the green lineage of photosynthetic eukaryotes.
+
+ycf2: !interacts with! FtsHi1
+ycf2: !interacts with! FtsHi2
+ycf2: !interacts with! FtsHi4
+ycf2: !interacts with! FtsHi5
+ycf2: !interacts with! FtsH12
+FtsH12: !contains! zinc binding active site
+Ycf2/FtsHi complex: !contains! NAD-malate dehydrogenase
+Ycf2/FtsHi complex: !functions as! import motor

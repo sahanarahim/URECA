@@ -1,0 +1,6 @@
+Lateral roots (LRs), which form in the plant postembryonically, determine the architecture of the root system. While negative regulatory factors that inhibit LR formation and are counteracted by auxin exist in the pericycle, these factors have not been characterised. Here, we report that SHI-RELATED SEQUENCE5 (SRS5) is an intrinsic negative regulator of LR formation and that auxin signalling abolishes this inhibitory effect of SRS5. Whereas LR primordia (LRPs) and LRs were fewer and less dense in SRS5ox and Pro35S:SRS5-GFP plants than in the wild-type, they were more abundant and denser in the srs5-2 loss-of-function mutant. SRS5 inhibited LR formation by directly downregulating the expression of LATERAL ORGAN BOUNDARIES-DOMAIN 16 (LBD16) and LBD29. Auxin repressed SRS5 expression. Auxin-mediated repression of SRS5 expression was not observed in the arf7-1 arf19-1 double mutant, likely because ARF7 and ARF19 bind to the promoter of SRS5 and inhibit its expression in response to auxin. Taken together, our data reveal that SRS5 negatively regulates LR formation by repressing the expression of LBD16 and LBD29 and that auxin releases this inhibitory effect through ARF7 and ARF19.
+
+SRS5: !represses! LBD16/LBD29
+Auxin: !represses! SRS5
+ARF7/ARF19: !binds to! SRS5 promoter
+ARF7/ARF19: !inhibits! SRS5 expression

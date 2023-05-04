@@ -1,0 +1,10 @@
+Polycomb group (PcG) and trithorax group (trxG) proteins have been shown to act antagonistically to epigenetically regulate gene expression in eukaryotes. The trxG proteins counteract PcG-mediated floral repression in Arabidopsis, but their roles in other developmental processes are poorly understood. We investigated the interactions between the trxG genes, ARABIDOPSIS HOMOLOG OF TRITHORAX1 (ATX1) and ULTRAPETALA1 (ULT1), and the PcG gene EMBRYONIC FLOWER 1 (EMF1) during early development. Unexpectedly, we found that mutations in the trxG genes failed to rescue the early-flowering phenotype of emf1 mutants. Instead, emf1 atx1 ult1 seedlings showed a novel swollen root phenotype and massive deregulation of gene expression. Greater ectopic expression of seed master regulatory genes in emf1 atx1 ult1 triple than in emf1 single mutants indicates that PcG and trxG factors together repress seed gene expression after germination. Furthermore, we found that the widespread gene derepression is associated with reduced levels of H3K27me3, an epigenetic repressive mark of gene expression, and with globally altered chromatin organization. EMF1, ATX1, and ULT1 are able to bind the chromatin of seed genes and ULT1 can physically interact with ATX1 and EMF1, suggesting that the trxG and EMF1 proteins directly associate at target gene loci for EMF1-mediated gene silencing. Thus, while ATX1, ULT1, and EMF1 interact antagonistically to regulate flowering, they work together to maintain chromatin integrity and prevent precocious seed gene expression after germination.
+
+EMF1: !represses! flowering
+ATX1: !interacts with! EMF1
+ULT1: !interacts with! EMF1
+EMF1: !interacts with! ATX1
+ATX1: !interacts with! ULT1
+EMF1: !represses! seed gene expression
+ATX1: !enhances! H3K27me3
+ULT1: !binds to! chromatin of seed genes

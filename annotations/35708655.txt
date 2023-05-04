@@ -1,0 +1,9 @@
+Arabidopsis (Arabidopsis thaliana) FLOWERING LOCUS C (FLC) acts as a key flowering regulator by repressing the expression of the floral integrator FLOWERING LOCUS T (FT). Prolonged exposure to cold (vernalization) induces flowering by reducing FLC expression. The long noncoding RNAs (lncRNAs) COOLAIR and COLDAIR, which are transcribed from the 3' end and the first intron of FLC, respectively, are important for FLC repression under vernalization. However, the molecular mechanism of how COOLAIR and COLDAIR are transcriptionally activated remains elusive. In this study, we found that the group-III WRKY transcription factor WRKY63 can directly activate FLC. wrky63 mutant plants display an early flowering phenotype and are insensitive to vernalization. Interestingly, we found that WRKY63 can activate the expression of COOLAIR and COLDAIR by binding to their promoters.WRKY63 therefore acts as a dual regulator that activates FLC directly under non-vernalization conditions but represses FLC indirectly during vernalization through inducing COOLAIR and COLDAIR. Furthermore, genome-wide occupancy profile analyses indicated that the binding of WRKY63 to vernalization-induced genes increases after vernalization. In addition, WRKY63 binding is associated with decreased levels of the repressive marker Histone H3 Lysine 27 trimethylation (H3K27me3). Collectively, our results indicate that WRKY63 is an important flowering regulator involved in vernalization-induced transcriptional regulation.
+
+FLC: !represses! FT
+COOLAIR/COLDAIR: !transcribed from! FLC
+WRKY63: !activates! FLC
+WRKY63: !activates! COOLAIR/COLDAIR
+WRKY63: !represses! FLC (indirectly)
+WRKY63: !binds to! vernalization-induced genes
+WRKY63: !associated with! decreased H3K27me3

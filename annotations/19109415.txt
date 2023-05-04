@@ -1,0 +1,8 @@
+Plants uniquely contain large numbers of protein kinases, and for the vast majority of the 1,429 kinases predicted in the rice (Oryza sativa) genome, little is known of their functions. Genetic approaches often fail to produce observable phenotypes; thus, new strategies are needed to delineate kinase function. We previously developed a cost-effective high-throughput yeast two-hybrid system. Using this system, we have generated a protein interaction map of 116 representative rice kinases and 254 of their interacting proteins. Overall, the resulting interaction map supports a large number of known or predicted kinase-protein interactions from both plants and animals and reveals many new functional insights. Notably, we found a potential widespread role for E3 ubiquitin ligases in pathogen defense signaling mediated by receptor-like kinases, particularly by the kinases that may have evolved from recently expanded kinase subfamilies in rice. We anticipate that the data provided here will serve as a foundation for targeted functional studies in rice and other plants. The application of yeast two-hybrid and TAPtag analyses for large-scale plant protein interaction studies is also discussed.
+
+kinase: !interacts with! protein
+rice kinase: !interacts with! 254 proteins
+E3 ubiquitin ligases: !potentially involved in! pathogen defense signaling
+receptor-like kinases: !potentially regulated by! E3 ubiquitin ligases
+yeast two-hybrid system: !used to! generate protein interaction map
+TAPtag analyses: !applied for! large-scale plant protein interaction studies

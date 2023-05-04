@@ -1,0 +1,7 @@
+RNA interference (RNAi) is widely used to specifically silence the expression of any gene to study its function and to identify and validate therapeutic targets. Despite the popularity of this technology, recent studies have shown that RNAi may also silence non-targeted genes. Here we demonstrate the utility of a quick, efficient and robust approach to directly validate the specificity of RNAi as an alternative to indirect validation of RNAi through gene expression profiling. Our approach involves reversing (complementing) the RNAi-induced phenotype by introducing a synthetic version of the target gene that is designed to escape silencing. This synthetic gene complementation approach can also be used for mutational analysis of the target gene, or to provide a functional version of a defective protein after silencing the defective gene by RNAi. Using this approach we demonstrate that the loss of systemic acquired resistance, a form of innate immunity in plants, is indeed due to the silencing of salicylic acid-binding protein 2 rather than to off-target effects.
+
+RNAi: !silences! gene
+synthetic gene: !complements! RNAi-induced phenotype
+RNAi: !silences! defective gene
+defective protein: !replaced by! functional version
+salicylic acid-binding protein 2: !causes! loss of systemic acquired resistance

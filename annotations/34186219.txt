@@ -1,0 +1,7 @@
+Grain size is one of the most important factors that control rice yield, as it is associated with grain weight (GW). To date, dozens of rice genes that regulate grain size have been isolated; however, the regulatory mechanism underlying GW control is not fully understood. Here, the quantitative trait locus qGL5 for grain length (GL) and GW was identified in recombinant inbred lines of 9311 and Nipponbare (NPB) and fine mapped to a candidate gene, OsAUX3. Sequence variations between 9311 and NPB in the OsAUX3 promoter and loss of function of OsAUX3 led to higher GL and GW. RNA sequencing, gene expression quantification, dual-luciferase reporter assays, chromatin immunoprecipitation-quantitative PCR, and yeast one-hybrid assays demonstrated that OsARF6 is an upstream transcription factor regulating the expression of OsAUX3. OsARF6 binds directly to the auxin response elements of the OsAUX3 promoter, covering a single-nucleotide polymorphism site between 9311 and NPB/Dongjin/Hwayoung, and thereby controls GL by altering longitudinal expansion and auxin distribution/content in glume cells. Furthermore, we showed that miR167a positively regulate GL and GW by directing OsARF6 mRNA silencing. Taken together, our study reveals that a novel miR167a-OsARF6-OsAUX3 module regulates GL and GW in rice, providing a potential target for the improvement of rice yield.
+
+OsARF6: !regulates! OsAUX3
+miR167a: !regulates! OsARF6
+OsARF6: !binds to! OsAUX3 promoter
+OsARF6: !controls! GL
+miR167a: !positively regulates! GL and GW

@@ -1,0 +1,14 @@
+Noscapine is a benzylisoquinoline alkaloid produced in opium poppy (Papaver somniferum) and other members of the Papaveraceae. It has been used as a cough suppressant and more recently was shown to possess anticancer activity. However, the biosynthesis of noscapine in opium poppy has not been established. A proposed pathway leading from (S)-reticuline to noscapine includes (S)-scoulerine, (S)-canadine, and (S)-N-methylcanadine as intermediates. Stem cDNA libraries and latex extracts of eight opium poppy cultivars displaying different alkaloid profiles were subjected to massively parallel pyrosequencing and liquid chromatography-tandem mass spectrometry, respectively. Comparative transcript and metabolite profiling revealed the occurrence of three cDNAs encoding O-methyltransferases designated as SOMT1, SOMT2, and SOMT3 that correlated with the accumulation of noscapine in the eight cultivars. SOMT transcripts were detected in all opium poppy organs but were most abundant in aerial organs, where noscapine primarily accumulates. SOMT2 and SOMT3 showed strict substrate specificity and regiospecificity as 9-O-methyltransferases targeting (S)-scoulerine. In contrast, SOMT1 was able to sequentially 9- and 2-O-methylate (S)-scoulerine, yielding (S)-tetrahydropalmatine. SOMT1 also sequentially 3'- and 7-O-methylated both (S)-norreticuline and (S)-reticuline with relatively high substrate affinity, yielding (S)-tetrahydropapaverine and (S)-laudanosine, respectively. The metabolic functions of SOMT1, SOMT2, and SOMT3 were investigated in planta using virus-induced gene silencing. Reduction of SOMT1 or SOMT2 transcript levels resulted in a significant decrease in noscapine accumulation. Reduced SOMT1 transcript levels also caused a decrease in papaverine accumulation, confirming the selective roles for these enzymes in the biosynthesis of both alkaloids in opium poppy.
+
+SOMT1: !methylates! (S)-scoulerine
+SOMT2: !methylates! (S)-scoulerine
+SOMT3: !methylates! (S)-scoulerine
+SOMT1: !methylates! (S)-reticuline
+SOMT1: !methylates! (S)-norreticuline
+SOMT1: !localizes to! aerial organs
+SOMT2: !localizes to! aerial organs
+SOMT3: !localizes to! aerial organs
+SOMT1: !enhances! noscapine accumulation
+SOMT2: !enhances! noscapine accumulation
+SOMT3: !enhances! noscapine accumulation
+SOMT1: !enhances! papaverine accumulation

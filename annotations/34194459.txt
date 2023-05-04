@@ -1,0 +1,8 @@
+Epigenetic marks such as covalent histone modification and DNA methylation are crucial for mitotically and meiotically inherited cellular memory-based plant immunity. However, the roles of individual players in the epigenetic regulation of plant immunity are not fully understood. Here we reveal the functions of two <i>Arabidopsis thaliana</i> homologs of human lysine-specific demethylase1-like1, LDL1 and LDL2, in the maintenance of methyl groups at lysine 4 of histone H3 and in plant immunity to <i>Pseudomonas syringae</i> infection. The growth of virulent <i>P. syringae</i> strains was reduced in <i>ldl1</i> and <i>ldl2</i> single mutants compared to wild-type plants. Local and systemic disease resistance responses, which coincided with the rapid, robust transcription of defense-related genes, were more stably expressed in <i>ldl1 ldl2</i> double mutants than in the single mutants. At the nucleosome level, mono-methylated histone H3K4 accumulated in <i>ldl1 ldl2</i> plants genome-wide and in the mainly promoter regions of the defense-related genes examined in this study. Furthermore, <i>in silico</i> comparative analysis of RNA-sequencing and chromatin immunoprecipitation data suggested that several WRKY transcription factors, <i>e.g</i>., WRKY22/40/70, might be partly responsible for the enhanced immunity of <i>ldl1 ldl2</i>. These findings suggest that LDL1 and LDL2 control the transcriptional sensitivity of a group of defense-related genes to establish a primed defense response in <i>Arabidopsis</i>.
+
+LDL1: !affects! H3K4 methylation
+LDL2: !affects! H3K4 methylation
+LDL1/LDL2: !enhances! Plant immunity
+LDL1/LDL2: !represses! Virulent P. syringae growth
+WRKY22/40/70: !interacts with! LDL1/LDL2
+WRKY22/40/70: !enhances! Plant immunity

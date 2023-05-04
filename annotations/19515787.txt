@@ -1,0 +1,8 @@
+Measuring the dynamics of plant growth is fundamental to the understanding of plant development processes. This paper describes a high-throughput, automatic method to trace Arabidopsis (Arabidopsis thaliana) seedling roots grown on agarose plates. From the trace, additional software can quantify length, curvature, and stimulus response parameters such as onset of gravitropism. The method combines a particle-filtering algorithm with a graph-based method to trace the center line of a root. This top-down approach is robust to a variety of noise effects and is reasonably flexible across different image sets. The resulting tool requires minimal interaction from the user and is able to process long time-lapse sequences with user interaction only required on the first frame. The tool is described first, followed by its use on two sample data sets, one measuring root length and the other additionally analyzing the gravitropic response and curvature. The tool, RootTrace, is open source; both the program and source code will be available online.
+
+Gene: !affects! Plant growth 
+Gene: !traces! Arabidopsis seedling roots 
+Gene: !quantifies! Length, curvature, stimulus response parameters 
+Gene: !combines! Particle-filtering algorithm and graph-based method 
+Gene: !processes! Long time-lapse sequences 
+Gene: !analyzes! Gravitropic response and curvature

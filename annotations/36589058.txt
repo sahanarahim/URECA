@@ -1,0 +1,11 @@
+The estimation of yield parameters based on early data is helpful for agricultural policymakers and food security. Developments in unmanned aerial vehicle (UAV) platforms and sensor technology help to estimate yields efficiency. Previous studies have been based on less cultivars (<10) and ideal experimental environments, it is not available in practical production. Therefore, the objective of this study was to estimate the yield parameters of soybean (Glycine max (L.) Merr.) under lodging conditions using RGB information. In this study, 17 time point data throughout the soybean growing season in Nanchang, Jiangxi Province, China, were collected, and the vegetation index, texture information, canopy cover, and crop height were obtained by UAV-image processing. After that, partial least squares regression (PLSR), logistic regression (Logistic), random forest regression (RFR), support vector machine regression (SVM), and deep learning neural network (DNN) were used to estimate the yield parameters. The results can be summarized as follows: (1) The most suitable time point to estimate the yield was flowering stage (48 days), which was when most of the soybean cultivars flowered. (2) The multiple data fusion improved the accuracy of estimating the yield parameters, and the texture information has a high potential to contribute to the estimation of yields, and (3) The DNN model showed the best accuracy of training (R<sup>2</sup>=0.66 rRMSE=32.62%) and validation (R<sup>2</sup>=0.50, rRMSE=43.71%) datasets. In conclusion, these results provide insights into both best estimate period selection and early yield estimation under lodging condition when using remote sensing.
+
+UAV-image processing: !obtains! vegetation index, texture information, canopy cover, and crop height
+PLSR: !estimates! yield parameters
+Logistic: !estimates! yield parameters
+RFR: !estimates! yield parameters
+SVM: !estimates! yield parameters
+DNN: !estimates! yield parameters
+Texture information: !contributes to! estimation of yields
+Multiple data fusion: !improves accuracy of! estimating yield parameters
+Best estimate period: !selected at! flowering stage

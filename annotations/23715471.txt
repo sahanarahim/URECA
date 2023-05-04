@@ -1,0 +1,8 @@
+Chloroplast division is initiated by assembly of a mid-chloroplast FtsZ (Z) ring comprising two cytoskeletal proteins, FtsZ1 and FtsZ2. The division-site regulators ACCUMULATION AND REPLICATION OF CHLOROPLASTS3 (ARC3), MinD1, and MinE1 restrict division to the mid-plastid, but their roles are poorly understood. Using genetic analyses in Arabidopsis thaliana, we show that ARC3 mediates division-site placement by inhibiting Z-ring assembly, and MinD1 and MinE1 function through ARC3. ftsZ1 null mutants exhibited some mid-plastid FtsZ2 rings and constrictions, whereas neither constrictions nor FtsZ1 rings were observed in mutants lacking FtsZ2, suggesting FtsZ2 is the primary determinant of Z-ring assembly in vivo. arc3 ftsZ1 double mutants exhibited multiple parallel but no mid-plastid FtsZ2 rings, resembling the Z-ring phenotype in arc3 single mutants and showing that ARC3 affects positioning of FtsZ2 rings as well as Z rings. ARC3 overexpression in the wild type and ftsZ1 inhibited Z-ring and FtsZ2-ring assembly, respectively. Consistent with its effects in vivo, ARC3 interacted with FtsZ2 in two-hybrid assays and inhibited FtsZ2 assembly in a heterologous system. Our studies are consistent with a model wherein ARC3 directly inhibits Z-ring assembly in vivo primarily through interaction with FtsZ2 in heteropolymers and suggest that ARC3 activity is spatially regulated by MinD1 and MinE1 to permit Z-ring assembly at the mid-plastid.
+
+FtsZ1: !assembles! FtsZ2
+ARC3: !inhibits! FtsZ-ring assembly
+MinD1/E1: !regulates! ARC3
+FtsZ2: !determines! Z-ring assembly
+ARC3: !interacts with! FtsZ2
+MinD1/E1: !affects! ARC3 activity

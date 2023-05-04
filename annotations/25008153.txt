@@ -1,0 +1,7 @@
+Peroxisomes are organelles that catabolize fatty acids and compartmentalize other oxidative metabolic processes in eukaryotes. Using a forward-genetic screen designed to recover severe peroxisome-defective mutants, we isolated a viable allele of the peroxisome biogenesis gene PEX13 with striking peroxisomal defects. The pex13-4 mutant requires an exogenous source of fixed carbon for pre-photosynthetic development and is resistant to the protoauxin indole-3-butyric acid. Delivery of peroxisome-targeted matrix proteins depends on the PEX5 receptor docking with PEX13 at the peroxisomal membrane, and we found severely reduced import of matrix proteins and less organelle-associated PEX5 in pex13-4 seedlings. Moreover, pex13-4 physiological and molecular defects were partially ameliorated when PEX5 was overexpressed, suggesting that PEX5 docking is partially compromised in this mutant and can be improved by increasing PEX5 levels. Because previously described Arabidopsis pex13 alleles either are lethal or confer only subtle defects, the pex13-4 mutant provides valuable insight into plant peroxisome receptor docking and matrix protein import.
+
+PEX13: !docks with! PEX5
+PEX13: !mediates import of! matrix proteins
+pex13-4 mutant: !lacks! PEX5 docking
+pex13-4 mutant: !resists! indole-3-butyric acid
+PEX5: !overexpression ameliorates! pex13-4 defects

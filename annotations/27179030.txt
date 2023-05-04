@@ -1,0 +1,9 @@
+Small RNA (sRNA) Sequencing technology has revealed that microRNAs (miRNAs) are capable of exhibiting frequent variations from their canonical sequences, generating multiple variants: the isoforms of miRNAs (isomiRs). However, integrated tool to precisely detect and systematically annotate isomiRs from sRNA sequencing data is still in great demand. Here, we present an online tool, DeAnnIso (Detection and Annotation of IsomiRs from sRNA sequencing data). DeAnnIso can detect all the isomiRs in an uploaded sample, and can extract the differentially expressing isomiRs from paired or multiple samples. Once the isomiRs detection is accomplished, detailed annotation information, including isomiRs expression, isomiRs classification, SNPs in miRNAs and tissue specific isomiR expression are provided to users. Furthermore, DeAnnIso provides a comprehensive module of target analysis and enrichment analysis for the selected isomiRs. Taken together, DeAnnIso is convenient for users to screen for isomiRs of their interest and useful for further functional studies. The server is implemented in PHP + Perl + R and available to all users for free at: http://mcg.ustc.edu.cn/bsc/deanniso/ and http://mcg2.ustc.edu.cn/bsc/deanniso/.
+
+Small RNA (sRNA): !generates! multiple variants 
+DeAnnIso: !detects! isomiRs 
+DeAnnIso: !extracts! differentially expressing isomiRs 
+DeAnnIso: !annotates! isomiRs expression 
+DeAnnIso: !classifies! isomiRs 
+DeAnnIso: !analyzes! SNPs in miRNAs 
+DeAnnIso: !enriches! tissue specific isomiR expression

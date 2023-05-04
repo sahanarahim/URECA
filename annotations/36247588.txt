@@ -1,0 +1,9 @@
+Despite the importance of non-structural carbohydrates (NSC) for growth and survival in woody plants, we know little about whole-tree NSC storage. Here, <i>Catalpa bungei</i> trees fertilized using different schedules, including water and fertilizer integration, hole application, and no fertilization, were used to measure the spatial variations of sugar, starch, and NSC concentrations in the leaf, branch, stem, bark, and root. By calculating the volume of whole-tree NSC pools and the contribution of distinct organs, we were also able to compare the storage under various fertilization regimes. We found that the spatial distribution patterns of each organ undergoing different fertilization regimes were remarkably similar. Height-related increases in the sugar and NSC concentrations of the leaf and bark were observed. The concentrations of sugar and NSC in the branch did not appear to vary longitudinally or horizontally. The sugar and NSC concentrations in the stem fluctuated with height, first falling and then rising. The coarse root contained larger amounts of NSC components in comparison to fine root. Contrary to no fertilization, fertilization enhanced the distribution ratio of the leaf, branch, and stem NSC pools while decreasing the distribution ratio of the root NSC pool. Particularly, the addition of fertilizer and water significantly increased the biomass of the organs, enhancing the carbon sink of each organ and whole-tree in comparison to other fertilization regimes. Our main goal was to strengthen the empirical groundwork for comprehending the functional significance of NSC allocation and stock variations at the organ-level of <i>C. bungei</i> trees.
+
+leaf: !stores! NSC
+branch: !stores! NSC
+stem: !stores! NSC
+bark: !stores! NSC
+root: !stores! NSC
+fertilization: !enhances! NSC storage
+fertilization: !increases! biomass

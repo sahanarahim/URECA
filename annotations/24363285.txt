@@ -1,0 +1,8 @@
+The Plant Genome DataBase Japan (PGDBj, http://pgdbj.jp/?ln=en) is a portal website that aims to integrate plant genome-related information from databases (DBs) and the literature. The PGDBj is comprised of three component DBs and a cross-search engine, which provides a seamless search over the contents of the DBs. The three DBs are as follows. (i) The Ortholog DB, providing gene cluster information based on the amino acid sequence similarity. Over 500,000 amino acid sequences of 20 Viridiplantae species were subjected to reciprocal BLAST searches and clustered. Sequences from plant genome DBs (e.g. TAIR10 and RAP-DB) were also included in the cluster with a direct link to the original DB. (ii) The Plant Resource DB, integrating the SABRE DB, which provides cDNA and genome sequence resources accumulated and maintained in the RIKEN BioResource Center and National BioResource Projects. (iii) The DNA Marker DB, providing manually or automatically curated information of DNA markers, quantitative trait loci and related linkage maps, from the literature and external DBs. As the PGDBj targets various plant species, including model plants, algae, and crops important as food, fodder and biofuel, researchers in the field of basic biology as well as a wide range of agronomic fields are encouraged to perform searches using DNA sequences, gene names, traits and phenotypes of interest. The PGDBj will return the search results from the component DBs and various types of linked external DBs.
+
+Gene: !affects! Process
+Gene: !localizes to! DBs
+Gene: !interacts with! Amino Acid Sequences
+Gene: !enhances! Reciprocal BLAST Searches
+Gene: !represses! Traits and Phenotypes
+Gene: !synthesizes! Linked External DBs

@@ -1,0 +1,15 @@
+Strigolactones (SLs) are a class of phytohormones that regulate plant shoot branching and adventitious root development. However, little is known regarding the role of SLs in controlling the behavior of the smallest unit of the organism, the single cell. Here, taking advantage of a classic single-cell model offered by the cotton (Gossypium hirsutum) fiber cell, we show that SLs, whose biosynthesis is fine-tuned by gibberellins (GAs), positively regulate cell elongation and cell wall thickness by promoting the biosynthesis of very long-chain fatty acids (VLCFAs) and cellulose, respectively. Furthermore, we identified two layers of transcription factors (TFs) involved in the hierarchical regulation of this GA-SL crosstalk. The top-layer TF GROWTH-REGULATING FACTOR 4 (GhGRF4) directly activates expression of the SL biosynthetic gene DWARF27 (D27) to increase SL accumulation in fiber cells and GAs induce GhGRF4 expression. SLs induce the expression of four second-layer TF genes (GhNAC100-2, GhBLH51, GhGT2, and GhB9SHZ1), which transmit SL signals downstream to two ketoacyl-CoA synthase genes (KCS) and three cellulose synthase (CesA) genes by directly activating their transcription. Finally, the KCS and CesA enzymes catalyze the biosynthesis of VLCFAs and cellulose, respectively, to regulate development of high-grade cotton fibers. In addition to providing a theoretical basis for cotton fiber improvement, our results shed light on SL signaling in plant development at the single-cell level.
+
+GAs: !induce! GhGRF4
+GhGRF4: !activates! D27
+D27: !synthesizes! SLs
+SLs: !induce! GhNAC100-2
+SLs: !induce! GhBLH51
+SLs: !induce! GhGT2
+SLs: !induce! GhB9SHZ1
+GhNAC100-2: !activates! KCS
+GhBLH51: !activates! KCS
+GhGT2: !activates! CesA
+GhB9SHZ1: !activates! CesA
+KCS: !synthesizes! VLCFAs
+CesA: !synthesizes! Cellulose

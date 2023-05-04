@@ -1,0 +1,10 @@
+Self-incompatibility (SI) in higher plants is an important mechanism to prevent inbreeding and involves specific rejection of incompatible ("self") pollen. In field poppy (Papaver rhoeas), S proteins encoded by the stigma component of the S-locus interact with incompatible pollen, resulting in cessation of tip growth. This "self" interaction triggers a Ca(2+)-dependent signaling network, involving programmed cell death (PCD). We previously identified p56, a mitogen-activated protein kinase (MAPK) that is activated during the SI response in incompatible pollen. Here, we show that p56 cross-reacts with AtMPK3, but not with AtMPK4 or salicylic acid-induced protein kinase antibodies. We provide good evidence that a MAPK is involved in initiation of SI-induced PCD in incompatible pollen. SI rapidly reduces pollen viability and the MAPK cascade inhibitor U0126, which prevents the SI-induced activation of p56 in incompatible pollen, "rescues" incompatible pollen, while its negative analog, U0124, does not. This strongly implicates the involvement of a MAPK in SI-mediated loss of pollen viability and cell death. SI also stimulates caspase-3-like (DEVDase) activity and later DNA fragmentation. Both these markers of PCD are significantly reduced by pretreatment with U0126, implicating the involvement of a MAPK in signaling during early PCD. As p56 appears to be the only MAPK activated by SI, our studies imply that p56 could be the MAPK involved in mediating SI-induced PCD.
+
+S-locus: !interacts with! incompatible pollen
+Ca2+: !triggers! signaling network
+p56: !cross-reacts with! AtMPK3
+U0126: !rescues! incompatible pollen
+U0124: !does not rescue! incompatible pollen
+p56: !implicated in! SI-induced PCD
+SI: !stimulates! caspase-3-like activity
+U0126: !reduces! DNA fragmentation

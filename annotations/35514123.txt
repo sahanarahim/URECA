@@ -1,0 +1,8 @@
+Tomato has undergone extensive selections during domestication. Recent progress has shown that genomic structural variants (SVs) have contributed to gene expression dynamics during tomato domestication, resulting in changes of important traits. Here, we performed comprehensive analyses of small RNAs (sRNAs) from nine representative tomato accessions. We demonstrate that SVs substantially contribute to the dynamic expression of the three major classes of plant sRNAs: microRNAs (miRNAs), phased secondary short interfering RNAs (phasiRNAs), and 24-nucleotide heterochromatic siRNAs (hc-siRNAs). Changes in the abundance of phasiRNAs and 24-nucleotide hc-siRNAs likely contribute to the alteration of mRNA gene expression in cis during tomato domestication, particularly for genes associated with biotic and abiotic stress tolerance. We also observe that miRNA expression dynamics are associated with imprecise processing, alternative miRNA-miRNA* selections, and SVs. SVs mainly affect the expression of less-conserved miRNAs that do not have established regulatory functions or low abundant members in highly expressed miRNA families. Our data highlight different selection pressures on miRNAs compared to phasiRNAs and 24-nucleotide hc-siRNAs. Our findings provide insights into plant sRNA evolution as well as SV-based gene regulation during crop domestication. Furthermore, our dataset provides a rich resource for mining the sRNA regulatory network in tomato.
+
+SV: !affects! phasiRNA expression 
+SV: !affects! 24-nucleotide hc-siRNA expression 
+SV: !affects! miRNA expression 
+miRNA: !associated with! imprecise processing 
+miRNA: !associated with! alternative miRNA-miRNA* selections 
+miRNA: !associated with! SVs

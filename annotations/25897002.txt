@@ -1,0 +1,8 @@
+Polycomb group (PcG) proteins play important roles in regulating developmental phase transitions in plants; however, little is known about the role of the PcG machinery in regulating the transition from juvenile to adult phase. Here, we show that Arabidopsis (Arabidopsis thaliana) B lymphoma Moloney murine leukemia virus insertion region1 homolog (BMI1) POLYCOMB REPRESSIVE COMPLEX1 (PRC1) components participate in the repression of microRNA156 (miR156). Loss of AtBMI1 function leads to the up-regulation of the primary transcript of MIR156A and MIR156C at the time the levels of miR156 should decline, resulting in an extended juvenile phase and delayed flowering. Conversely, the PRC1 component EMBRYONIC FLOWER (EMF1) participates in the regulation of SQUAMOSA PROMOTER-BINDING PROTEIN-LIKE and MIR172 genes. Accordingly, plants impaired in EMF1 function displayed misexpression of these genes early in development, which contributes to a CONSTANS-independent up-regulation of FLOWERING LOCUS T (FT) leading to the earliest flowering phenotype described in Arabidopsis. Our findings show how the different regulatory roles of two functional PRC1 variants coordinate the acquisition of flowering competence and help to reach the threshold of FT necessary to flower. Furthermore, we show how two central regulatory mechanisms, such as PcG and microRNA, assemble to achieve a developmental outcome.
+
+AtBMI1: !represses! miR156 
+EMF1: !regulates! SQUAMOSA PROMOTER-BINDING PROTEIN-LIKE 
+EMF1: !regulates! MIR172 
+MIR172: !up-regulates! FLOWERING LOCUS T 
+PcG: !coordinates! flowering competence 
+microRNA: !assembles! developmental outcome

@@ -1,0 +1,7 @@
+The immune pathway responsible for perception of the Xanthomonas perforans effector XopJ4 was identified in the plant Nicotiana benthamiana. This pathogen causes significant yield loss in commercial tomato cultivation. Genetic mapping and viral-induced gene silencing were used to identify immune signaling components of the XopJ4 perception pathway in N. benthamiana. Transient complementation assays were performed to determine the functionality of gene variants and co-immunoprecipitation assays were used to gain insight into the molecular mechanism of the pathway. Two N. benthamiana ethyl methanesulfonate (EMS) mutants deficient for XopJ4 perception were identified as having loss-of-function mutations in the gene encoding the nucleotide binding, leucine-rich repeat (NLR) protein NbZAR1. Silencing of a receptor-like cytoplasmic kinase family XII gene, subsequently named XOPJ4 IMMUNITY 2 (JIM2), blocks perception of XopJ4. This study demonstrates the feasibility of conducting mutant screens in N. benthamiana to investigate the genetic basis of the plant immune system and other processes. The identification of NbZAR1 and JIM2 as mediating XopJ4 perception in N. benthamiana supports the model of ZAR1 being involved in the perception of many different pathogen effector proteins with specificity dictated by associated receptor-like cytoplasmic kinases.
+
+NbZAR1: !mediates! XopJ4 perception
+JIM2: !mediates! XopJ4 perception
+NbZAR1: !associated with! JIM2
+XopJ4: !perceived by! NbZAR1
+XopJ4: !perceived by! JIM2

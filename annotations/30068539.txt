@@ -1,0 +1,9 @@
+Agricultural crops are exposed to a range of daylengths, which act as important environmental cues for the control of developmental processes such as flowering. To explore the additional effects of daylength on plant function, we investigated the transcriptome of Arabidopsis (<i>Arabidopsis thaliana</i>) plants grown under short days (SD) and transferred to long days (LD). Compared with that under SD, the LD transcriptome was enriched in genes involved in jasmonic acid-dependent systemic resistance. Many of these genes exhibited impaired expression induction under LD in the <i>phytochrome A</i> (<i>phyA</i>), <i>cryptochrome 1</i> (<i>cry1</i>), and <i>cry2</i> triple photoreceptor mutant. Compared with that under SD, LD enhanced plant resistance to the necrotrophic fungus <i>Botrytis cinerea</i> This response was reduced in the <i>phyA cry1 cry2</i> triple mutant, in the <i>constitutive photomorphogenic1</i> (<i>cop1</i>) mutant, in the <i>myc2</i> mutant, and in mutants impaired in DELLA function. Plants grown under SD had an increased nuclear abundance of COP1 and decreased DELLA abundance, the latter of which was dependent on COP1. We conclude that growth under LD enhances plant defense by reducing COP1 activity and enhancing DELLA abundance and <i>MYC2</i> expression.
+
+daylength: !affects! transcriptome
+transcriptome: !enriched in! genes involved in jasmonic acid-dependent systemic resistance
+LD: !enhances! plant resistance to Botrytis cinerea
+LD: !reduces! COP1 activity
+COP1: !regulates! DELLA abundance
+DELLA: !dependent on! COP1
+LD: !enhances! MYC2 expression

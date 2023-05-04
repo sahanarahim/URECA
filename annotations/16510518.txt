@@ -1,0 +1,8 @@
+Upon salt-stress treatment, Arabidopsis mobilizes a complex set of pathways that includes alterations in the regulation of gene expression and metabolic adjustments that attempt to establish a new energetic and developmental equilibrium. The responses share common elements with reactions to many other stresses, such as challenges by osmotic fluctuations, pathogens, mechanical interference, or cold stress. Also, hormones, such as ABA, ethylene, and jasmonic acid, play important roles in salt-stress signalling and adaptation. Publicly available and our own transcript profiling data are used here to dissect gene regulation under salt stress in A. thaliana Col-0. Applying the clustering method "fuzzy k-means clustering" on 1500 strongly regulated genes, the salt-stress response could be categorized into distinct segments. Fewer than 25% of the regulated genes are salt stress-specific, while the majority also responded to other stresses and/or hormone treatments. Significantly, roots and shoots showed differences in hormone responsiveness, and early and late responses correlated with different signalling events. A network begins to emerge, revealing the basis of cross-talk between high salinity and other stresses.
+
+Gene: !affects! Regulation 
+Salt-stress: !mobilizes! Pathways 
+Hormones: !play role in! Salt-stress Signalling 
+Clustering Method: !categorizes! Salt-stress Response 
+Roots/Shoots: !show differences in! Hormone Responsiveness 
+Early/Late Responses: !correlate with! Different Signalling Events

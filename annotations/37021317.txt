@@ -1,0 +1,9 @@
+Verticillium wilt (VW) is often referred to as the cancer of cotton and it has a detrimental effect on cotton yield and quality. Since the root system is the first to be infested, it is feasible to detect VW by root analysis in the early stages of the disease. In recent years, with the update of computing equipment and the emergence of large-scale high-quality data sets, deep learning has achieved remarkable results in computer vision tasks. However, in some specific areas, such as cotton root MRI image task processing, it will bring some challenges. For example, the data imbalance problem (there is a serious imbalance between the cotton root and the background in the segmentation task) makes it difficult for existing algorithms to segment the target. In this paper, we proposed two new methods to solve these problems. The effectiveness of the algorithms was verified by experimental results. The results showed that the new segmentation model improved the Dice and mIoU by 46% and 44% compared with the original model. And this model could segment MRI images of rapeseed root cross-sections well with good robustness and scalability. The new classification model improved the accuracy by 34.9% over the original model. The recall score and F1 score increased by 59% and 42%, respectively. The results of this paper indicate that MRI and deep learning have the potential for non-destructive early detection of VW diseases in cotton.
+
+VW: !affects! Cotton yield and quality
+Root system: !infested by! VW
+Computer vision tasks: !achieved by! Deep learning
+Data imbalance problem: !causes difficulty for! Existing algorithms
+Segmentation model: !improves! Dice and mIoU
+Classification model: !improves! Accuracy, recall score and F1 score
+MRI: !has potential for! Non-destructive early detection of VW diseases in cotton

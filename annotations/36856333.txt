@@ -1,0 +1,17 @@
+Although most xyloglucans (XyGs) biosynthesis enzymes have been identified, the molecular mechanism that defines XyG branching patterns is unclear. Four out of five XyG xylosyltransferases (XXT1, XXT2, XXT4, and XXT5) are known to add the xylosyl residue from UDP-xylose onto a glucan backbone chain; however, the function of XXT3 has yet to be demonstrated. Single xxt3 and triple xxt3xxt4xxt5 mutant Arabidopsis (Arabidopsis thaliana) plants were generated using CRISPR-Cas9 technology to determine the specific function of XXT3. Combined biochemical, bioinformatic, and morphological data conclusively established for the first time that XXT3, together with XXT4 and XXT5, adds xylosyl residue specifically at the third glucose in the glucan chain to synthesize XXXG-type XyGs. We propose that the specificity of XXT3, XXT4, and XXT5 is directed toward the prior synthesis of the acceptor substrate by the other two enzymes, XXT1 and XXT2. We also conclude that XXT5 plays a dominant role in the synthesis of XXXG-type XyGs, while XXT3 and XXT4 complementarily contribute their activities in a tissue-specific manner. The newly generated xxt3xxt4xxt5 mutant produces only XXGG-type XyGs, which further helps to understand the impact of structurally deficient polysaccharides on plant cell wall organization, growth, and development.
+
+XXT1: !synthesizes! Glucan backbone chain
+XXT2: !synthesizes! Glucan backbone chain
+XXT3: !adds! Xylosyl residue
+XXT4: !adds! Xylosyl residue
+XXT5: !adds! Xylosyl residue
+XXT3: !localizes to! Third glucose in glucan chain
+XXT4: !localizes to! Third glucose in glucan chain
+XXT5: !localizes to! Third glucose in glucan chain
+XXT3: !interacts with! XXT4 and XXT5
+XXT4: !interacts with! XXT3 and XXT5
+XXT5: !interacts with! XXT3 and XXT4
+XXT5: !enhances! Synthesis of XXXG-type XyGs
+XXT3: !complements! XXT4 and XXT5
+XXT4: !complements! XXT3 and XXT5
+XXT3: !represses! Production of XXGG-type XyGs

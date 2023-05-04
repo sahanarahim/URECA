@@ -1,0 +1,18 @@
+Plants have developed sophisticated systems to monitor and rapidly acclimate to environmental fluctuations. Light is an essential source of environmental information throughout the plant's life cycle. The model plant Arabidopsis thaliana possesses five phytochromes (phyA-phyE) with important roles in germination, seedling establishment, shade avoidance, and flowering. However, our understanding of the phytochrome signaling network is incomplete, and little is known about the individual roles of phytochromes and how they function cooperatively to mediate light responses. Here, we used a bottom-up approach to study the phytochrome network. We added each of the five phytochromes to a phytochrome-less background to study their individual roles and then added the phytochromes by pairs to study their interactions. By analyzing the 16 resulting genotypes, we revealed unique roles for each phytochrome and identified novel phytochrome interactions that regulate germination and the onset of flowering. Furthermore, we found that ambient temperature has both phytochrome-dependent and -independent effects, suggesting that multiple pathways integrate temperature and light signaling. Surprisingly, none of the phytochromes alone conferred a photoperiodic response. Although phyE and phyB were the strongest repressors of flowering, both phyB and phyC were needed to confer a flowering response to photoperiod. Thus, a specific combination of phytochromes is required to detect changes in photoperiod, whereas single phytochromes are sufficient to respond to light quality, indicating how phytochromes signal different light cues.
+
+phyA: !affects! Germination 
+phyA: !enhances! Seedling establishment 
+phyA: !represses! Flowering 
+phyB: !affects! Germination 
+phyB: !enhances! Shade avoidance 
+phyB: !interacts with! phyC 
+phyB: !represses! Flowering 
+phyC: !affects! Germination 
+phyC: !interacts with! phyB 
+phyC: !represses! Flowering 
+phyD: !affects! Germination 
+phyD: !enhances! Flowering 
+phyE: !affects! Germination 
+phyE: !represses! Flowering 
+temperature: !affects! Light signaling 
+temperature: !interacts with! Phytochromes

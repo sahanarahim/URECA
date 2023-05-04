@@ -1,0 +1,8 @@
+Tetrapyrroles play fundamental roles in crucial processes including photosynthesis, respiration, and catalysis. In plants, 5-aminolevulinic acid (ALA) is the common precursor of tetrapyrroles. ALA is synthesized from activated glutamate by the enzymes glutamyl-tRNA reductase (GluTR) and glutamate-1-semialdehyde aminotransferase (GSAAT). ALA synthesis is recognized as the rate-limiting step in this pathway. We aimed to explore the contribution of GSAAT to the control of ALA synthesis and the formation of a protein complex with GluTR. In Arabidopsis thaliana, two genes encode GSAAT isoforms: GSA1 and GSA2. A comparison of two GSA knockout mutants with the wild-type revealed the correlation of reduced GSAAT activity and ALA-synthesizing capacity in leaves with lower chlorophyll content. Growth and green pigmentation were more severely impaired in gsa2 than in gsa1, indicating the predominant role of GSAAT2 in ALA synthesis. Interestingly, GluTR accumulated to higher levels in gsa2 than in the wild-type and was mainly associated with the plastid membrane. We propose that the GSAAT content modulates the amount of soluble GluTR available for ALA synthesis. Several different biochemical approaches revealed the GSAAT-GluTR interaction through the assistance of GluTR-binding protein (GBP). A modeled structure of the tripartite protein complex indicated that GBP mediates the stable association of GluTR and GSAAT for adequate ALA synthesis.
+
+GluTR: !synthesizes! ALA 
+GSAAT: !synthesizes! ALA 
+GSA1: !localizes to! plastid membrane 
+GSA2: !localizes to! plastid membrane 
+GSAAT: !interacts with! GluTR 
+GBP: !mediates! GSAAT-GluTR interaction

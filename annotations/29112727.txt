@@ -1,0 +1,10 @@
+Anabaena sp. PCC 7120 (A. 7120) is a heterocyst-forming multicellular cyanobacterium that performs nitrogen fixation. This cyanobacterium has been extensively studied as a model for multicellularity in prokaryotic cells. We have been interested in photosynthetic production of nitrogenous compounds using A. 7120. However, the lack of efficient gene repression tools has limited its usefulness. We originally developed an artificial endogenous gene repression method in this cyanobacterium using small antisense RNA. However, the narrow dynamic range of repression of this method needs to be improved. Recently, clustered regularly interspaced short palindromic repeat (CRISPR) interference (CRISPRi) technology was developed and was successfully applied in some unicellular cyanobacteria. The technology requires expression of nuclease-deficient CRISPR-associated protein 9 (dCas9) and a single guide RNA (sgRNA) that is complementary to a target sequence, to repress expression of the target gene. In this study, we employed CRISPRi technology for photosynthetic production of ammonium through repression of glnA, the only gene encoding glutamine synthetase that is essential for nitrogen assimilation in A. 7120. By strictly regulating dCas9 expression using the TetR gene induction system, we succeeded in fine-tuning the GlnA protein in addition to the level of glnA transcripts. Expression of sgRNA by the heterocyst-specific nifB promoter led to efficient repression of GlnA in heterocysts, as well as in vegetative cells. Finally, we showed that ammonium is excreted into the medium only when inducers of expression of dCas9 were added. In conclusion, CRISPRi enables temporal control of desired products and will be a useful tool for basic science.
+
+dCas9: !expresses! TetR gene
+sgRNA: !complementary to! target sequence
+GlnA: !repressed by! CRISPRi
+dCas9: !induces! GlnA protein
+nifB promoter: !expresses! sgRNA
+GlnA: !repressed in! heterocysts
+GlnA: !repressed in! vegetative cells
+inducers: !add! ammonium to medium

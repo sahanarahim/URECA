@@ -1,0 +1,10 @@
+Rice (<i>Oryza sativa</i> L.) is a widely cultivated food crop around the world, especially in Asia. However, rice seedlings often suffer from cold stress, which affects their growth and yield. Here, RNA-seq analysis and Meta-QTLs mapping were performed to understand the molecular mechanisms underlying cold tolerance in the roots of 14-day-old seedlings of rice (RPY geng, cold-tolerant genotype). A total of 4779 of the differentially expressed genes (DEGs) were identified, including 2457 up-regulated and 2322 down-regulated DEGs. The GO, COG, KEEG, and Mapman enrichment results of DEGs revealed that DEGs are mainly involved in carbohydrate transport and metabolism, signal transduction mechanisms (plant hormone signal transduction), biosynthesis, transport and catabolism of secondary metabolites (phenylpropanoid biosynthesis), defense mechanisms, and large enzyme families mechanisms. Notably, the AP2/ERF-ERF, NAC, WRKY, MYB, C2H2, and bHLH transcription factors participated in rice's cold-stress response and tolerance. On the other hand, we mapped the identified DEGs to 44 published cold-stress-related genes and 41 cold-tolerant Meta-QTLs regions. Of them, 12 DEGs were the published cold-stress-related genes and 418 DEGs fell into the cold-tolerant Meta-QTLs regions. In this study, the identified DEGs and the putative molecular regulatory network can provide insights for understanding the mechanism of cold stress tolerance in rice. In addition, DEGs in KEGG term-enriched terms or cold-tolerant Meta-QTLs will help to secure key candidate genes for further functional studies on the molecular mechanism of cold stress response in rice.
+
+AP2/ERF-ERF: !participates in! cold-stress response
+NAC: !participates in! cold-stress response
+WRKY: !participates in! cold-stress response
+MYB: !participates in! cold-stress response
+C2H2: !participates in! cold-stress response
+bHLH: !participates in! cold-stress response
+DEGs: !map to! cold-tolerant Meta-QTLs regions
+DEGs: !enrich! GO, COG, KEEG, and Mapman terms

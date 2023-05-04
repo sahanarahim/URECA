@@ -1,0 +1,6 @@
+A low-cost portable wild phenotyping system is useful for breeders to obtain detailed phenotypic characterization to identify promising wild species. However, compared with the larger, faster, and more advanced in-laboratory phenotyping systems developed in recent years, the progress for smaller phenotyping systems, which provide fast deployment and potential for wide usage in rural and wild areas, is quite limited. In this study, we developed a portable whole-plant on-device phenotyping smartphone application running on Android that can measure up to 45 traits, including 15 plant traits, 25 leaf traits and 5 stem traits, based on images. To avoid the influence of outdoor environments, we trained a DeepLabV3+ model for segmentation. In addition, an angle calibration algorithm was also designed to reduce the error introduced by the different imaging angles. The average execution time for the analysis of a 20-million-pixel image is within 2,500 ms. The application is a portable on-device fast phenotyping platform providing methods for real-time trait measurement, which will facilitate maize phenotyping in field and benefit crop breeding in future.
+
+DeepLabV3+ model: !segments! Images
+Angle calibration algorithm: !reduces! Error
+Application: !measures! 45 Traits 
+Application: !facilitates! Maize Phenotyping

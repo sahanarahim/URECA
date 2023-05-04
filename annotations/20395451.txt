@@ -1,0 +1,9 @@
+ABF2 is a basic leucine zipper protein that regulates abscisic acid (ABA)-dependent stress-responsive gene expression. We carried out yeast two-hybrid screens to isolate genes encoding ABF2-interacting proteins in Arabidopsis (Arabidopsis thaliana). Analysis of the resulting positive clones revealed that two of them encode an AP2 domain protein, which is the same as AtERF48/DREB2C. This protein, which will be referred to as DREB2C, could bind C-repeat/dehydration response element in vitro and possesses transcriptional activity. To determine its function, we generated DREB2C overexpression lines and investigated their phenotypes. The transgenic plants were ABA hypersensitive during germination and seedling establishment stages, whereas primary root elongation of seedlings was ABA insensitive, suggesting developmental stage dependence of DREB2C function. The DREB2C overexpression lines also displayed altered stress response; whereas the plants were dehydration sensitive, they were freezing and heat tolerant. We further show that other AP2 domain proteins, DREB1A and DREB2A, interact with ABF2 and that other ABF family members, ABF3 and ABF4, interact with DREB2C. Previously, others demonstrated that ABF and DREB family members cooperate to activate the transcription of an ABA-responsive gene. Our result implies that the cooperation of the two classes of transcription factors may involve physical interaction.
+
+ABF2: !interacts with! DREB2C
+DREB2C: !affects! ABA-dependent stress-responsive gene expression
+DREB2C: !enhances! ABA hypersensitivity during germination and seedling establishment stages
+DREB2C: !enhances! dehydration sensitivity
+DREB2C: !enhances! freezing and heat tolerance
+DREB2C: !interacts with! ABF3 and ABF4
+ABF2: !interacts with! DREB1A and DREB2A

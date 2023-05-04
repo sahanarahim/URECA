@@ -1,0 +1,16 @@
+The article presents an optimization of the key parameters for the identification of SNPs in sugarcane using a GBS protocol based on two Illumina NextSeq and NovaSeq platforms. Sugarcane (Saccharum sp.), a world-wide known feedstock for sugar production, bioethanol, and energy, has an extremely complex genome, being highly polyploid and aneuploid. A double-digestion restriction site-associated DNA sequencing protocol (ddRADseq) was tested in four commercial sugarcane hybrids and one high-fibre biotype for the detection of single nucleotide polymorphisms (SNPs). In this work we tested two Illumina sequencing platforms, read size (70 vs. 150 bp), different sequencing coverage per individual (medium and high coverage), and single-reads versus paired-end reads. We also explored different variant calling strategies (with and without reference genome) and filtering schemes [combining two minor allele frequencies (MAFs) with three depth of coverage thresholds]. For the discovery of a large number of novel SNPs in sugarcane, we recommend longer size and paired-end reads, medium sequencing coverage per individual and Illumina platform NovaSeq6000 for a cost-effective approach, and filter parameters of lower MAF and higher depth coverages thresholds. Although the de novo analysis retrieved more SNPs, the reference-based method allows downstream characterization of variants. For the two best performing matrices, the number of SNPs per chromosome correlated positively with chromosome length, demonstrating the presence of variants throughout the genome. Multivariate comparisons, with both matrices, showed closer relationships among commercial hybrids than with the high-fibre biotype. Functional analysis of the SNPs demonstrated that more than half of them landed within regulatory regions, whereas the other half affected coding, intergenic and intronic regions. Allelic distances values were lower than 0.07 when analysing two replicated genotypes, confirming the protocol robustness.
+
+Platform: !affects! SNP detection
+Read size: !affects! SNP detection
+Sequencing coverage: !affects! SNP detection
+Single-reads: !affects! SNP detection
+Paired-end reads: !affects! SNP detection
+Variant calling strategies: !affects! SNP detection
+Filtering schemes: !affects! SNP detection
+MAFs: !combines with! Depth of coverage thresholds
+Chromosome length: !correlates with! Number of SNPs
+Regulatory regions: !contain! Half of SNPs
+Coding regions: !contain! Half of SNPs
+Intergenic regions: !contain! Half of SNPs
+Intronic regions: !contain! Half of SNPs
+Allelic distances: !confirm! Protocol robustness

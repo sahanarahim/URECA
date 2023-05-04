@@ -1,0 +1,7 @@
+MicroRNAs (miRNAs) are a kind of short noncoding RNA (20-24 nt), playing versatile roles in plant growth and development. Strawberry generates leaves and flowers with unique features. However, few miRNAs have been functionally characterised in strawberry, especially for their developmental regulation. Here, we identified one ethyl methanesulfonate (EMS) mutant, deeply serrated (des), in the woodland strawberry Fragaria vesca that has wrinkled leaves with deeper serrations, serrated petals and deformed carpels. The causative mutation occurs in the 19<sup>th</sup> nucleotide of the FvemiR164a mature sequence. Overexpressing FveMIR164A rescued the phenotypes of des/fvemir164a except the petal serrations. Furthermore, we identified two allelic mutants of FveCUC2a, one target of FvemiR164a, which developed leaves with smooth margins and fused leaflets. Phenotypes of the double mutant fvemir164a fvecuc2a indicated that the two genes act linearly in leaf and carpel development, but synergistically in the development of other floral organs and inflorescence architecture. This work demonstrates the conserved and novel roles of the miR164-CUC2 module in leaf and flower development in different plant species, and reveals that the 19<sup>th</sup> nucleotide of FvemiR164a is important for its processing.
+
+miRNA: !regulates! FveCUC2a 
+FvemiR164A: !rescues! des/fvemir164a 
+FvemiR164A: !acts linearly with! FveCUC2a 
+FvemiR164A: !synergistically interacts with! FveCUC2a 
+19th nucleotide of FvemiR164A: !important for! processing

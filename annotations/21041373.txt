@@ -1,0 +1,11 @@
+['21041373', 'The Arabidopsis HCC1 gene is a homologue of the copper chaperone SCO1 from the  yeast Saccharomyces cerevisiae. SCO1 (synthesis of cytochrome c oxidase 1)  encodes a mitochondrial protein that is essential for the correct assembly of  complex IV in the respiratory chain. GUS analyses showed HCC1 promoter activity  in vascular tissue, guard cells, hydathodes, trichome support cells, and embryos.  HCC1 function was studied in two hcc1 T-DNA insertion lines, hcc1-1 and hcc1-2.  Gametophyte development was not affected by the disruption of HCC1, but  homozygous hcc1-1 and hcc1-2 embryos became arrested at various developmental  stages, mostly at the heart stage. Both the wild-type HCC1 gene and the modified  gene coding for the C-terminally SNAP-tagged HCC1 were able to complement the  embryo-lethal phenotype of the hcc1-1 line. Localization of the SNAP-tagged HCC1  in transgenic lines identified HCC1 as a mitochondrial protein. To determine if  HCC1 is a functional homologue to Sco1p, the respiratory-deficient yeast sco1  mutant was transformed with chimeric constructs containing different combinations  of HCC1 and SCO1 sequences. One of the resulting chimeric proteins restored  respiration in the yeast mutant. This protein had the N-terminal mitochondrial  targeting signal and the single transmembrane domain derived from Sco1p and the  C-terminal half (including the copper-binding motif) derived from HCC1. Growth of  the complemented yeast mutant was enhanced by the addition of copper to the  medium. The data demonstrate that HCC1 is essential for embryo development in  Arabidopsis, possibly due to its role in cytochrome c oxidase assembly.', '2011 Jan', 'J Exp Bot', '10.1093/jxb/erq269', 'Rodel']
+
+HCC1: !synthesizes! cytochrome c oxidase 1 
+HCC1: !localizes to! mitochondria 
+HCC1: !affects! gametophyte development 
+HCC1: !enhances! growth of complemented yeast mutant 
+SNAP-tagged HCC1: !localizes to! mitochondria 
+SCO1: !synthesis of! cytochrome c oxidase 1 
+SCO1: !contains! N-terminal mitochondrial targeting signal 
+SCO1: !contains! single transmembrane domain 
+C-terminal half of HCC1: !contains! copper-binding motif

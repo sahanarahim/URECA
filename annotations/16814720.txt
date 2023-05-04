@@ -1,0 +1,10 @@
+['16814720', 'Potassium is an essential mineral element for plant growth and development.  Although it is known that plants absorb and transport K+ through membrane  transporters, it remains unclear how these transporters are regulated. Here we  show that the protein kinase CIPK23, encoded by the LKS1 gene, regulates K+  uptake under low-K+ conditions. Lesion of LKS1 significantly reduced K+ uptake  and caused leaf chlorosis and growth inhibition, whereas overexpression of LKS1  significantly enhanced K+ uptake and tolerance to low K+. We demonstrate that  CIPK23 directly phosphorylates the K+ transporter AKT1 and further find that  CIPK23 is activated by the binding of two calcineurin B-like proteins, CBL1 and  CBL9. We propose a model in which the CBL1/9-CIPK23 pathway ensures activation of  AKT1 and enhanced K+ uptake under low-K+ conditions.', '2006 Jun 30', 'Cell', '10.1016/j.cell.2006.06.011', 'Wu']
+
+LKS1: !encodes! CIPK23 
+CIPK23: !regulates! K+ uptake 
+Lesion of LKS1: !reduces! K+ uptake 
+Overexpression of LKS1: !enhances! K+ uptake 
+CIPK23: !phosphorylates! AKT1 
+CBL1/9: !binds to! CIPK23 
+CBL1/9-CIPK23 pathway: !activates! AKT1 
+AKT1: !enhances! K+ uptake

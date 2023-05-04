@@ -1,0 +1,9 @@
+The open-bud (<i>ob</i>) mutants in cotton display abnormal flower buds with the stigma and upper anthers exposed before blooming. This characteristic is potentially useful for the efficient production of hybrid seeds. The recessive inheritance pattern of the <i>ob</i> phenotype in allotetraploid cotton is determined by duplicated recessive loci (<i>ob1ob1ob2ob2</i>). In this study, <i>ob1,</i> which is a MIXTA-like MYB gene on chromosome D13 (<i>MML10_Dt</i>), was identified by map-based cloning. In <i>Gossypium barbadense</i> (Gb) acc. 3-79, a single nucleotide polymorphism (SNP) (G/A) at the splice site of the first intron and an 8-bp deletion in the third exon of <i>MML10_Dt</i> were found, which are the causative mutations at the <i>ob1</i> loci. A 1783-bp deletion that leads to the loss of the third exon and accounts for the causal variation at the <i>ob2</i> loci was found in <i>MML10_At</i> of <i>Gossypium hirsutum</i> (Gh) acc. TM-1. The <i>ob</i> phenotype results from the combination of these two loss-of-function loci. Genotyping assays showed that the <i>ob1</i> and <i>ob2</i> loci appeared after the formation of allotetraploid cotton and were specific for Gb and Gh, respectively. All Gb lines and most Gh cultivars carry the single corresponding mutant alleles. Genome-wide transcriptome analysis showed that some of the MYB genes and genes related to cell wall biogenesis, trichome differentiation, cytokinin signal transduction, and cell division were repressed in the <i>ob</i> mutants, which may lead to suppression of petal growth. These findings should be of value for breeding superior <i>ob</i> lines in cotton.
+
+MML10_Dt: !causes! ob1 
+MML10_At: !causes! ob2 
+ob1: !specific to! Gb 
+ob2: !specific to! Gh 
+ob: !results from! ob1 & ob2 
+MYB genes: !repressed in! ob mutants 
+genes related to cell wall biogenesis, trichome differentiation, cytokinin signal transduction, and cell division: !repressed in! ob mutants

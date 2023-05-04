@@ -1,0 +1,6 @@
+It is not yet known whether dephosphorylation of proteins catalyzed by phosphatases occurs in the apoplastic space. In this study, we found that tobacco (Nicotiana tabacum) purple acid phosphatase could dephosphorylate the phosphoryl residues of three apoplastic proteins, two of which were identified as alpha-xylosidase and beta-glucosidase. The dephosphorylation and phosphorylation of recombinant alpha-xylosidase resulted in a decrease and an increase in its activity, respectively, when xyloglucan heptasaccharide was used as a substrate. Attempted overexpression of the tobacco purple acid phosphatase NtPAP12 in tobacco cells not only decreased the activity levels of the glycosidases but also increased levels of xyloglucan oligosaccharides and cello-oligosaccharides in the apoplast during the exponential phase. We suggest that purple acid phosphatase controls the activity of alpha-xylosidase and beta-glucosidase, which are responsible for the degradation of xyloglucan oligosaccharides and cello-oligosaccharides in the cell walls.
+
+NtPAP12: !controls! alpha-xylosidase
+NtPAP12: !controls! beta-glucosidase
+alpha-xylosidase: !degrades! xyloglucan oligosaccharides
+beta-glucosidase: !degrades! cello-oligosaccharides

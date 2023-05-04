@@ -1,0 +1,11 @@
+['29967285', 'Chloroplasts replicate by binary fission, a process driven by ring-like dynamic  division machinery at mid-chloroplast. In Arabidopsis thaliana, the first  molecular assembly of this machinery, the Z-ring, forms via the association of  FtsZ1 and FtsZ2 heteropolymers with the inner envelope membrane through the  membrane-tethering protein ACCUMULATION AND REPLICATION OF CHLOROPLASTS6 (ARC6).  Spatial control of Z-ring assembly ensures the correct placement of the division  machinery and, therefore, symmetric chloroplast division. The plant-specific  protein MULTIPLE CHLOROPLAST DIVISION SITE1 (MCD1) plays a role in Z-ring  positioning and chloroplast division site placement, but its mechanism of action  is unknown. Here, we provide evidence that MCD1 is a bitopic inner membrane  protein whose C terminus faces the chloroplast stroma. Interaction analysis  showed that MCD1 and ARC6 directly interact in the stroma and that MCD1 binds to  FtsZ2 in an ARC6-dependent manner. These results are consistent with the in vivo  observation that ARC6 influences the localization of MCD1 to membrane-tethered  FtsZ filaments. Additionally, we found that MCD1 is required for the regulation  of Z-ring positioning by ARC3 and MinE1, two components of the chloroplast Min  (minicell) system, which negatively regulates Z-ring placement. Together, our  findings indicate that MCD1 is part of the chloroplast Min system that recognizes  membrane-tethered FtsZ filaments during chloroplast division-ring positioning.', '2018 Aug', 'Plant Cell', '10.1105/tpc.18.00189', 'ORCID:']
+
+FtsZ1: !associates with! FtsZ2 
+FtsZ2: !tethers to! inner envelope membrane 
+ARC6: !mediates! FtsZ2 tethering 
+MCD1: !localizes to! FtsZ2 
+MCD1: !interacts with! ARC6 
+MCD1: !binds to! FtsZ2 
+ARC3: !regulates! Z-ring positioning 
+MinE1: !regulates! Z-ring positioning 
+MCD1: !required for! regulation of Z-ring positioning

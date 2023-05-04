@@ -1,0 +1,7 @@
+The rolB (for rooting locus of Agrobacterium rhizogenes) oncogene has previously been identified as a key player in the formation of hairy roots during the plant-A. rhizogenes interaction. In this study, using single-cell assays based on confocal microscopy, we demonstrated reduced levels of reactive oxygen species (ROS) in rolB-expressing Rubia cordifolia, Panax ginseng, and Arabidopsis (Arabidopsis thaliana) cells. The expression of rolB was sufficient to inhibit excessive elevations of ROS induced by paraquat, menadione, and light stress and prevent cell death induced by chronic oxidative stress. In rolB-expressing cells, we detected the enhanced expression of antioxidant genes encoding cytosolic ascorbate peroxidase, catalase, and superoxide dismutase. We conclude that, similar to pathogenic determinants in other pathogenic bacteria, rolB suppresses ROS and plays a role not only in cell differentiation but also in ROS metabolism.
+
+rolB: !inhibits! ROS 
+rolB: !enhances! expression of antioxidant genes 
+rolB: !prevents! cell death induced by oxidative stress 
+paraquat/menadione/light stress: !induces! ROS 
+cytosolic ascorbate peroxidase/catalase/superoxide dismutase: !encodes! antioxidant genes

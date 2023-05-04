@@ -1,0 +1,14 @@
+Maintaining stable, high yields under fluctuating environmental conditions is a long-standing goal of crop improvement but is challenging due to internal trade-off mechanisms, which are poorly understood. Here, we identify ARGONAUTE2 (AGO2) as a candidate target for achieving this goal in rice (<i>Oryza sativa</i>). Overexpressing <i>AGO2</i> led to a simultaneous increase in salt tolerance and grain length. These benefits were achieved via the activation of <i>BIG GRAIN3</i> (<i>BG3</i>), encoding a purine permease potentially involved in cytokinin transport. AGO2 can become enriched on the <i>BG3</i> locus and alter its histone methylation level, thus promoting <i>BG3</i> expression. Cytokinin levels decreased in shoots but increased in roots of <i>AGO2</i>-overexpressing plants. While <i>bg3</i> knockout mutants were hypersensitive to salt stress, plants overexpressing <i>BG3</i> showed strong salt tolerance and large grains. The knockout of <i>BG3</i> significantly reduced grain length and salt tolerance in <i>AGO2</i>-overexpressing plants. Both genes were transcriptionally suppressed by salt treatment. Salt treatment markedly increased cytokinin levels in roots but decreased them in shoots, resulting in a hormone distribution pattern similar to that in <i>AGO2</i>-overexpressing plants. These findings highlight the critical roles of the spatial distribution of cytokinins in both stress responses and grain development. Therefore, optimizing cytokinin distribution represents a promising strategy for improving both grain yield and stress tolerance in rice.
+
+AGO2: !activates! BG3
+BG3: !promotes! AGO2
+AGO2: !alters! histone methylation
+BG3: !encodes! purine permease
+AGO2: !increases! salt tolerance
+BG3: !increases! grain length
+AGO2: !decreases! cytokinin levels in shoots
+BG3: !increases! cytokinin levels in roots
+AGO2: !suppresses! BG3 transcription
+BG3: !suppresses! AGO2 transcription
+BG3: !reduces! grain length and salt tolerance in AGO2-overexpressing plants
+AGO2: !distributes! cytokinins spatially

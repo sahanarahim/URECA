@@ -1,0 +1,8 @@
+Sirtuins, a family of proteins with homology to the yeast silent information regulator 2 (Sir2), are NAD+-dependent histone deacetylases and play crucial roles in energy sensing and regulation in yeast and animal cells. Plants are autotrophic organisms and display distinct features of carbon and energy metabolism. It remains largely unexplored whether and how plant cells sense energy/redox status to control carbon metabolic flux under various growth conditions. In this work, we show that the rice nuclear sirtuin OsSRT1 not only functions as an epigenetic regulator to repress glycolytic genes expression and glycolysis in seedlings, but also inhibits transcriptional activity of glyceraldehyde-3-phosphatedehydrogenase (GAPDH) that is enriched on glycolytic genes promoters and stimulates their expression. We show that OsSRT1 reduces GAPDH lysine acetylation and nuclear accumulation that are enhanced by oxidative stress. Mass spectrometry identified six acetylated lysines regulated by OsSRT1. OsSRT1-dependent lysine deacetylation of OsGAPDH1 represses transcriptional activity of the protein. The results indicate that OsSRT1 represses glycolysis by both regulating epigenetic modification of histone and inhibiting the moonlighting function of GAPDH as a transcriptional activator of glycolytic genes in rice.
+
+OsSRT1: !represses! glycolytic genes expression
+OsSRT1: !reduces! GAPDH lysine acetylation
+OsSRT1: !inhibits! transcriptional activity of GAPDH
+OsSRT1: !stimulates! glycolytic genes expression
+OsGAPDH1: !regulated by! OsSRT1
+OsGAPDH1: !represses! transcriptional activity

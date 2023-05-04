@@ -1,0 +1,7 @@
+Transcriptional activator-like effectors (TALEs) are proteins secreted by Xanthomonas bacteria when they infect plants. TALEs contain a modular DNA binding domain that can be easily engineered to bind any sequence of interest, and have been used to provide user-selected DNA-binding modules to generate chimeric nucleases and transcriptional activators in mammalian cells and plants. Here we report the use of TALEs to generate chimeric sequence-specific transcriptional repressors. The dHax3 TALE was used as a scaffold to provide a DNA-binding module fused to the EAR-repression domain (SRDX) to generate a chimeric repressor that targets the RD29A promoter. The dHax3.SRDX protein efficiently repressed the transcription of the RD29A::LUC transgene and endogenous RD29A gene in Arabidopsis. Genome wide expression profiling showed that the chimeric repressor also inhibited the expression of several other genes that contain the designer TALE-target sequence in their promoters. Our data suggest that TALEs can be used to generate chimeric repressors to specifically repress the transcription of genes of interest in plants. This sequence-specific transcriptional repression by direct on promoter effector technology is a powerful tool for functional genomics studies and biotechnological applications.
+
+TALEs: !provide! DNA-binding modules 
+dHax3 TALE: !fused to! EAR-repression domain 
+dHax3.SRDX protein: !represses! RD29A promoter 
+dHax3.SRDX protein: !inhibits! expression of other genes 
+TALEs: !generate! chimeric repressors

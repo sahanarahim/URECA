@@ -1,0 +1,9 @@
+['26265777', 'ALBINO3 (ALB3) is a well-known component of a thylakoid protein-targeting complex  that interacts with the chloroplast signal recognition particle (cpSRP) and the  cpSRP receptor, chloroplast filamentous temperature-sensitive Y (cpFtsY). Its  protein-inserting function has been established mainly for light-harvesting  complex proteins, which first interact with the unique chloroplast cpSRP43  component and then are delivered to the ALB3 integrase by a GTP-dependent  cpSRP-cpFtsY interaction. In Arabidopsis (Arabidopsis thaliana), a subsequently  discovered ALB3 homolog, ALB4, has been proposed to be involved not in  light-harvesting complex protein targeting, but instead in the stabilization of  the ATP synthase complex. Here, however, we show that ALB3 and ALB4 share  significant functional overlap, and that both proteins are required for the  efficient insertion of cytochrome f and potentially other subunits of  pigment-bearing protein complexes. Genetic and physical interactions between ALB4  and ALB3, and physical interactions between ALB4 and cpSRP, suggest that the two  ALB proteins may engage similar sets of interactors for their specific functions.  We propose that ALB4 optimizes the insertion of thylakoid proteins by  participating in the ALB3-cpSRP pathway for certain substrates (e.g. cytochrome f  and the Rieske protein). Although ALB4 has clearly diverged from ALB3 in relation  to the partner-recruiting C-terminal domain, our analysis suggests that one  putative cpSRP-binding motif has not been entirely lost.', '2015 Oct', 'Plant Physiol', '10.1104/pp.15.00376', 'Jarvis']
+
+ALB3: !interacts with! cpSRP
+ALB3: !interacts with! cpFtsY
+ALB4: !interacts with! ALB3
+ALB4: !interacts with! cpSRP
+ALB3/4: !inserts! light-harvesting complex proteins
+ALB3/4: !stabilizes! ATP synthase complex
+ALB4: !optimizes! thylakoid protein insertion

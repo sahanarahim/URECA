@@ -1,0 +1,8 @@
+Due to evolutionary divergence, sorghum race populations exhibit significant genetic and morphological variation. A <i>k-mer</i>-based sorghum race sequence comparison identified the conserved <i>k-mer</i>s of all 272 accessions from sorghum and the race-specific genetic signatures identified the gene variability in 10,321 genes (PAVs). To understand sorghum race structure, diversity and domestication, a deep learning-based variant calling approach was employed in a set of genotypic data derived from a diverse panel of 272 sorghum accessions. The data resulted in 1.7 million high-quality genome-wide SNPs and identified selective signature (both positive and negative) regions through a genome-wide scan with different (iHS and XP-EHH) statistical methods. We discovered 2,370 genes associated with selection signatures including 179 selective sweep regions distributed over 10 chromosomes. Co-localization of these regions undergoing selective pressure with previously reported QTLs and genes revealed that the signatures of selection could be related to the domestication of important agronomic traits such as biomass and plant height. The developed <i>k-mer</i> signatures will be useful in the future to identify the sorghum race and for trait and SNP markers for assisting in plant breeding programs.
+
+Gene: !affects! Morphological Variation
+Gene: !localizes to! Chromosomes
+Gene: !interacts with! QTLs
+Gene: !enhances! Agronomic Traits
+Gene: !represses! Selective Pressure
+Gene: !synthesizes! SNP Markers

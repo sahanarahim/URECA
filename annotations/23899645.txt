@@ -1,0 +1,16 @@
+Many naturally occurring Arabidopsis (Arabidopsis thaliana) are very late flowering, unless flowering is promoted by a prolonged period of cold (e.g. winter) known as vernalization. In these winter-annual strains, flowering prior to winter is blocked by the synergistic interaction of FRIGIDA (FRI) and FLOWERING LOCUS C (FLC). FLC acts as a strong floral inhibitor, and FRI is required for high levels of FLC expression. Vernalization, in turn, leads to an epigenetic down-regulation of FLC expression. Most rapid-cycling Arabidopsis carry loss-of-function mutations in FRI, leading to low levels of FLC and rapid flowering in the absence of vernalization. Recent work has shown that FRI acts as a scaffolding protein for the assembly of a FRI complex (FRI-C) that includes both general transcription and chromatin-modifying factors, as well as FRI-specific components such as FRI-LIKE1, FRI ESSENTIAL1 (FES1), SUPPRESSOR OF FRI4 (SUF4), and FLC EXPRESSOR (FLX). Here, we show that FLX-LIKE4 (FLX4) is a novel component of the FRI-C and is essential for the activation of FLC by FRI. Both FLX and FLX4 contain leucine zipper domains that facilitate interaction with FRI. In addition, FLX and FLX4 interact with each other and show synergistic transcription activation activity. Interestingly, we show that FLX, FLX4, FES1, and SUF4 are required for basal levels of FLC expression in the absence of FRI. Thus, components of the FRI-C play a role in the regulation of FLC expression in both FRI-containing winter annuals, as well as fri-null rapid-cycling strains.
+
+FRI: !interacts with! FLX
+FLX: !interacts with! FLX4
+FRI: !synthesizes! FLC
+FRI: !interacts with! FRI-LIKE1
+FRI: !interacts with! FES1
+FRI: !interacts with! SUF4
+FLX: !interacts with! FES1
+FLX: !interacts with! SUF4
+FLX4: !interacts with! FES1
+FLX4: !interacts with! SUF4
+FLX: !interacts with! FLX4
+FRI: !represses! FLC
+FLX: !enhances! FLC
+FLX4: !enhances! FLC

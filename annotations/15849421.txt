@@ -1,0 +1,11 @@
+['15849421', 'Isopropylmalate dehydrogenase (IPMDH) is an enzyme in the leucine biosynthetic  pathway. We isolated three IPMDH ORF sequences from Arabidopsis thaliana, and  genes corresponding to these ORF sequences were designated AtIMD1, AtIMD2, and  AtIMD3. Deduced amino acid sequences of the three genes contain a putative  transit-peptide for plastidic localization. AtIMD1, AtIMD2, and AtIMD3 were able  to complement a leu2 mutant of yeast, suggesting that these genes encode  functional IPMDH. RT-PCR analysis revealed different tissue specificity of  transcript accumulation for the three genes.', '2005 Apr', 'Biosci Biotechnol Biochem', '10.1271/bbb.69.806', 'Fujiwara']
+
+AtIMD1: !localizes to! plastid
+AtIMD2: !localizes to! plastid
+AtIMD3: !localizes to! plastid
+AtIMD1: !complements! leu2 mutant of yeast
+AtIMD2: !complements! leu2 mutant of yeast
+AtIMD3: !complements! leu2 mutant of yeast
+AtIMD1: !accumulates in! specific tissues
+AtIMD2: !accumulates in! specific tissues
+AtIMD3: !accumulates in! specific tissues

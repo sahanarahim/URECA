@@ -1,0 +1,10 @@
+Development of inflorescence architecture is controlled by genetic regulatory networks. <i>TERMINAL FLOWER1</i> (<i>TFL1</i>), <i>APETALA1</i> (<i>AP1</i>), <i>LEAFY</i> (<i>LFY</i>) and <i>FRUITFULL</i> (<i>FUL</i>) are core regulators for inflorescence development. To understand the regulation of compound inflorescence development, we characterized mutants of corresponding orthologous genes, <i>MtTFL1</i>, <i>MtAP1</i>, <i>SINGLE LEAFLET1</i> (<i>SGL1</i>) and <i>MtFULc</i>, in <i>Medicago truncatula</i>, and analyzed expression patterns of these genes. Results indicate that <i>MtTFL1</i>, <i>MtFULc</i>, <i>MtAP1</i> and <i>SGL1</i> play specific roles in identity determination of primary inflorescence meristems, secondary inflorescence meristems, floral meristems and common primordia, respectively. Double mutation of <i>MtTFL1</i> and <i>MtFULc</i> transforms compound inflorescences to simple flowers, whereas single mutation of <i>MtTFL1</i> changes the inflorescence branching pattern from monopodial to sympodial. Double mutant <i>mtap1sgl1</i> completely loses floral meristem identity. We conclude that inflorescence architecture in <i>M. truncatula</i> is controlled by spatiotemporal expression of <i>MtTFL1</i>, <i>MtFULc</i>, <i>MtAP1</i> and <i>SGL1</i> through reciprocal repression. Although this regulatory network shares similarity with the pea model, it has specificity in regulating inflorescence architecture in <i>M</i><i>truncatula</i> This study establishes <i>M. truncatula</i> as an excellent genetic model for understanding compound inflorescence development in related legume crops.
+
+MtTFL1: !affects! Primary inflorescence meristems
+MtFULc: !affects! Secondary inflorescence meristems
+MtAP1: !affects! Floral meristems
+SGL1: !affects! Common primordia
+MtTFL1: !represses! MtFULc
+MtFULc: !represses! MtAP1
+MtAP1: !represses! SGL1
+SGL1: !represses! MtTFL1

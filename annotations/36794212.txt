@@ -1,0 +1,13 @@
+The partial dehydration of grapes after harvest is a traditional practice in several winegrowing regions that leads to the production of high quality wines. Postharvest dehydration (also known as withering) has a significant impact on the overall metabolism and physiology of the berry, yielding a final product that is richer in sugars, solutes, and aroma compounds. These changes are, at least in part, the result of a stress response, which is controlled at transcriptional level, and are highly dependent on the grape water loss kinetics and the environmental parameters of the facility where grapes are stored to wither. However, it is difficult to separate the effects driven by each single environmental factor from those of the dehydration rate, especially discerning the effect of temperature that greatly affects the water loss kinetics. To define the temperature influence on grape physiology and composition during postharvest dehydration, the withering of the red-skin grape cultivar Corvina (<i>Vitis vinifera</i>) was studied in two conditioned rooms set at distinct temperatures and at varying relative humidity to maintain an equal grape water loss rate. The effect of temperature was also studied by withering the grapes in two unconditioned facilities located in geographic areas with divergent climates. Technological, LC-MS and GC-MS analyses revealed higher levels of organic acids, flavonols, terpenes and cis- and trans-resveratrol in the grapes withered at lower temperature conditions, whereas higher concentrations of oligomeric stilbenes were found in the grapes stored at higher temperatures. Lower expression of the malate dehydrogenase and laccase, while higher expression of the phenylalanine ammonia-lyase, stilbene synthase and terpene synthase genes were detected in the grapes withered at lower temperatures. Our findings provide insights into the importance of the temperature in postharvest withering and its effect on the metabolism of the grapes and on the quality of the derived wines.
+
+gene: !enhances! stilbene synthase
+gene: !represses! malate dehydrogenase
+gene: !synthesizes! terpene synthase
+gene: !represses! laccase
+gene: !enhances! phenylalanine ammonia-lyase
+gene: !affects! metabolism
+gene: !affects! physiology
+gene: !affects! composition
+temperature: !affects! water loss kinetics
+temperature: !affects! grape physiology
+temperature: !affects! grape composition

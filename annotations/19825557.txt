@@ -1,0 +1,11 @@
+The lesion-mimic Arabidopsis mutant, syp121 syp122, constitutively expresses the salicylic acid (SA) signaling pathway and has low penetration resistance to powdery mildew fungi. Genetic analyses of the lesion-mimic phenotype have expanded our understanding of programmed cell death (PCD) in plants. Inactivation of SA signaling genes in syp121 syp122 only partially rescues the lesion-mimic phenotype, indicating that additional defenses contribute to the PCD. Whole genome transcriptome analysis confirmed that SA-induced transcripts, as well as numerous other known pathogen-response transcripts, are up-regulated after inactivation of the syntaxin genes. A suppressor mutant analysis of syp121 syp122 revealed that FMO1, ALD1, and PAD4 are important for lesion development. Mutant alleles of EDS1, NDR1, RAR1, and SGT1b also partially rescued the lesion-mimic phenotype, suggesting that mutating syntaxin genes stimulates TIR-NB-LRR and CC-NB-LRR-type resistances. The syntaxin double knockout potentiated a powdery mildew-induced HR-like response. This required functional PAD4 but not functional SA signaling. However, SA signaling potentiated the PAD4-dependent HR-like response. Analyses of quadruple mutants suggest that EDS5 and SID2 confer separate SA-independent signaling functions, and that FMO1 and ALD1 mediate SA-independent signals that are NPR1-dependent. These studies highlight the contribution of multiple pathways to defense and point to the complexity of their interactions.
+
+syp121 syp122: !constitutively expresses! SA signaling pathway
+SA signaling genes: !inactivated in! syp121 syp122
+FMO1, ALD1, PAD4: !important for! lesion development
+EDS1, NDR1, RAR1, SGT1b: !partially rescue! lesion-mimic phenotype
+syntaxin double knockout: !potentiates! powdery mildew-induced HR-like response
+PAD4: !required for! HR-like response
+SA signaling: !potentiates! PAD4-dependent HR-like response
+EDS5, SID2: !confer separate! SA-independent signaling functions
+FMO1, ALD1: !mediate SA-independent! signals that are NPR1-dependent

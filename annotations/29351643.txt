@@ -1,0 +1,8 @@
+Cotton fibres are single-celled trichomes arising from the epidermal cells of the seed coat and may be either long (lint) or very short (fuzz). The dominant fuzzless N1 of Gossypium hirsutum is a defective allele of the At-subgenome homoeolog of MYB25-like, but the genetic components underlying the recessive fuzzless trait from G. barbadense (Gb) are unknown. We have identified five genetic loci, including a major contributing locus containing MYB25-like_Dt, associated with Gb fuzzless seeds based on genotyping of fuzzy and fuzzless near isogenic lines (NILs) from an interspecies cross (G. barbadense × G. hirsutum). At 3 d post-anthesis when fuzz fibres are initiating, expression of MYB25-like_Dt was significantly lower in fuzzless NILs than in fuzzy seeded NILs, while higher MYB25-like_Dt expression was associated with more seed fuzz across different cotton genotypes. Phenotypic and genotypic analysis of MYB25-like homoeoalleles in cottons showing different fibre phenotypes and their crossing progeny indicated that both MYB25-like_At and MYB25-like_Dt are associated with lint development, and that fuzz development is mainly determined by the expression level of MYB25-like_Dt at ~3 d post-anthesis. Expression of Gb fuzzless seeds depends on genetic background and interactions amongst the multiple loci identified. MYB25-like_Dt is one of the best candidates for N2.
+
+MYB25-like_Dt: !affects! Fuzz development
+MYB25-like_At: !affects! Lint development
+MYB25-like_Dt: !enhances! Seed fuzz
+MYB25-like_Dt: !represses! Fuzzless NILs
+Gb fuzzless seeds: !depend on! Genetic background
+Multiple loci: !interact with! Each other

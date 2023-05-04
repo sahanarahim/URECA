@@ -1,0 +1,7 @@
+<i>Erysiphe necator</i> is an economically important biotrophic fungal pathogen responsible for powdery mildew disease on grapevine. Currently, genome sequences are available for only a few <i>E. necator</i> isolates from the United States. Based on the combination of Nanopore and Illumina sequencing technologies, we present here the complete genome assembly for an isolate of <i>E. necator</i>, NAFU1, identified in China. We acquired a total of 15.93 Gb of raw reads. These reads were processed into a 61.12-Mb genome assembly containing 73 contigs with an N<sub>50</sub> of 2.06 Mb and a maximum length of 6.05 Mb. Combining the results of three gene-prediction modules (i.e., an evidence-based gene modeler [EVidenceModeler], an ab initio gene modeler, and a homology-based gene modeler), we predicted 7,235 protein-coding genes in the assembled genome of <i>E. necator</i> NAFU1. This information will facilitate studies of genome evolution and pathogenicity mechanisms of <i>E. necator</i> and other powdery mildew species through comparative genome sequence analysis and other molecular genetic tools.[Formula: see text] Copyright © 2021 The Author(s). This is an open access article distributed under the CC BY-NC-ND 4.0 International license.
+
+E. necator: !has! 61.12-Mb genome assembly
+E. necator: !contains! 73 contigs
+E. necator: !predicts! 7,235 protein-coding genes
+Nanopore/Illumina sequencing: !produces! 15.93 Gb of raw reads
+EVidenceModeler/ab initio/homology-based gene modeler: !combines to! predict genes

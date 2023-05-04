@@ -1,0 +1,13 @@
+RNA-seq was used to analyze the transcriptional changes in sugar beet (Beta vulgaris L.) triggered by alkaline solution to elucidate the molecular mechanism underlying alkaline tolerance in sugar beet. Several differentially expressed genes related to stress tolerance were identified. Our results provide a valuable resource for the breeding of new germplasms with high alkaline tolerance. Alkalinity is a highly stressful environmental factor that limits plant growth and production. Sugar beet own the ability to acclimate to various abiotic stresses, especially salt and alkaline stress. Although substantial previous studies on response of sugar beet to saline stress has been conducted, the expressions of alkali-responsive genes in sugar beet have not been comprehensively investigated. In this study, we conducted transcriptome analysis of leaves in sugar beet seedlings treated with alkaline solutions for 0 day (control, C), 3 days (short-term alkaline treatment, ST) and 7 days (long-term alkaline treatment, LT). The clean reads were obtained and assembled into 25,507 unigenes. Among them, 975 and 383 differentially expressed genes (DEGs) were identified in the comparison groups ST_vs_C and LT_vs_C, respectively. Gene ontology (GO) analysis revealed that oxidation-reduction process and lipid metabolic process were the most enriched GO term among the DEGs in ST_vs_C and LT_vs_C, respectively. According to Kyoto Encyclopedia of Genes and Genomes pathway, carbon fixation in photosynthetic organisms pathway were significantly enriched under alkaline stress. Besides, expression level of genes encoding D-3-phosphoglycerate dehydrogenase 1, glutamyl-tRNA reductase 1, fatty acid hydroperoxide lyase, ethylene-insensitive protein 2, metal tolerance protein 11 and magnesium-chelatase subunit ChlI, etc., were significantly altered under alkaline stress. Additionally, among the DEGs, 136 were non-annotated genes and 24 occurred with differential alternative splicing. Our results provide a valuable resource on alkali-responsive genes and should benefit the improvement of alkaline stress tolerance in sugar beet.
+
+RNA-seq: !analyzes! Transcriptional Changes 
+Alkaline Solution: !triggers! Transcriptional Changes 
+Oxidation-Reduction Process: !enriched in! DEGs 
+Lipid Metabolic Process: !enriched in! DEGs 
+Carbon Fixation Pathway: !enriched in! DEGs 
+D-3-Phosphoglycerate Dehydrogenase 1: !altered under! Alkaline Stress 
+Glutamyl-tRNA Reductase 1: !altered under! Alkaline Stress 
+Fatty Acid Hydroperoxide Lyase: !altered under! Alkaline Stress 
+Ethylene-Insensitive Protein 2: !altered under! Alkaline Stress 
+Metal Tolerance Protein 11: !altered under! Alkaline Stress 
+Magnesium-Chelatase Subunit ChlI: !altered under! Alkaline Stress

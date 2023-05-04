@@ -1,0 +1,8 @@
+In Arabidopsis thaliana, chloroplasts move towards the periclinal cell walls upon exposure to low blue light intensities and to anticlinal walls under high light. The regulation of these chloroplast movements involves members of both the phototropin and phytochrome families of photoreceptors. Examination of fluence-rate response dependencies in phot1 and phot2 mutants revealed that although both photoreceptors are capable of inducing chloroplast accumulation under low-light conditions, the signals from these photoreceptors appear to be antagonistic. Chloroplast movements in wild-type plants were intermediate between those of the single phot mutants, consistent with each operating through separate signalling cascades. Mutants in phot2 showed transient chloroplast avoidance responses upon exposure to intense blue light, and slow but sustained chloroplast avoidance under intense white light, indicating that in the absence of phot2, phot1 is capable of generating both a low and a high-light response signal. Mutations in phytochrome B (phyB) caused an enhanced avoidance response at intermediate and high light intensities. Examination of phyB, phot1phyB, and phot2phyB mutants indicated that this enhancement is caused by PhyB inhibition of the high-light avoidance response in wild-type plants. In addition, our results suggest that the inhibition by PhyB is not exclusive to either of the phot1 or phot2 signalling pathways.
+
+phot1: !induces! chloroplast accumulation
+phot2: !antagonizes! phot1
+phyB: !inhibits! high-light avoidance response
+phot1: !generates! low-light response signal
+phot2: !generates! high-light response signal
+phyB: !inhibits! phot1 and phot2

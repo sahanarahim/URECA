@@ -1,0 +1,12 @@
+Phosphorus (P) is the second most important nutrient after nitrogen (N) and can greatly diminish plant productivity if P supply is not adequate. Plants respond to soil P availability by adjusting root biomass to maintain uptake and productivity due to P use. In spite of our vast knowledge on P effects on plant growth, how to functionally model enhanced root biomass allocation in low P environments is not fully explored. We develop a dynamic plant model based on the principle of optimal carbon (C) and P allocation to investigate growth and functional response to contrasting levels of soil P availability. By describing plant growth as a balance of growth and respiration processes, we optimize C and P allocation in order to maximize leaf productivity and drive plant response. We compare our model to a field trial and a set of hydroponic experiments which describe plant response at varying P availabilities. The model is able to reproduce long-term plant functional response to different P levels like change in root-shoot ratio (RSR), total biomass and organ P concentration. But it is not capable of fully describing the time evolution of organ P uptake and cycling within the plant. Most notable is the underestimation of organ P uptake during the vegetative growth stage which is due to the model's leaf productivity formalism. In spite of the model's parsimonious nature, which optimizes for and predicts whole plant response through leaf productivity alone, the optimal growth hypothesis can provide a reasonable framework for modelling plant response to environmental change that can be used in more physically driven vegetation models.
+
+P: !affects! Plant productivity 
+Root biomass: !adjusts to! P availability 
+C: !allocates with! P 
+Leaf productivity: !maximizes! Plant response 
+Field trial: !compares to! Model 
+Hydroponic experiments: !describes! Plant response 
+RSR: !changes with! P levels 
+Total biomass: !responds to! P levels 
+Organ P concentration: !varies with! P levels 
+Organ P uptake: !underestimated by! Model

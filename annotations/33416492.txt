@@ -1,0 +1,6 @@
+Extant protein-coding sequences span a huge range of ages, from those that emerged only recently to those present in the last universal common ancestor. Because evolution has had less time to act on young sequences, there might be 'phylostratigraphy' trends in any properties that evolve slowly with age. A long-term reduction in hydrophobicity and hydrophobic clustering was found in previous, taxonomically restricted studies. Here we perform integrated phylostratigraphy across 435 fully sequenced species, using sensitive HMM methods to detect protein domain homology. We find that the reduction in hydrophobic clustering is universal across lineages. However, only young animal domains have a tendency to have higher structural disorder. Among ancient domains, trends in amino acid composition reflect the order of recruitment into the genetic code, suggesting that the composition of the contemporary descendants of ancient sequences reflects amino acid availability during the earliest stages of life, when these sequences first emerged.
+
+gene: !affects! Hydrophobicity
+gene: !affects! Structural disorder
+gene: !reflects! Amino acid availability
+gene: !synthesizes! Protein domain homology

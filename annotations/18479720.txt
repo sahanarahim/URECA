@@ -1,0 +1,8 @@
+['18479720', 'Telomeres are nucleoprotein structures ensuring the stability of eukaryotic  chromosome ends. Two protein families, TRFL (TFL-Like) and SMH  (Single-Myb-Histone), containing a specific telobox motif in their Myb domain,  have been identified as potential candidates involved in a functional  nucleoprotein structure analogous to human "shelterin" at plant telomeres. We  analyze the DNA-protein interaction of the full-length and truncated variants of  AtTRB1, a SMH-family member with a typical structure: N-terminal Myb domain,  central H1/5 domain and C-terminal coiled-coil. We show that preferential  interaction of AtTRB1 with double-stranded telomeric DNA is mediated by the Myb  domain, while the H1/5 domain is involved in non-specific DNA-protein interaction  and in the multimerization of AtTRB1.', '2008 Jun', 'Phytochemistry', '10.1016/j.phytochem.2008.04.001', 'Fajkus']
+
+TRFL: !contains! telobox motif 
+SMH: !contains! telobox motif 
+AtTRB1: !interacts with! double-stranded telomeric DNA 
+Myb domain: !mediates! preferential interaction 
+H1/5 domain: !involved in! non-specific DNA-protein interaction 
+H1/5 domain: !involved in! multimerization of AtTRB1

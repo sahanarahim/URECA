@@ -1,0 +1,9 @@
+GLABRA1 (GL1) is an R2R3 MYB transcription factor that regulates trichome formation in Arabidopsis by interacting with the bHLH transcription factor GLABRA3 (GL3) or ENHANCER OF GL3 (EGL3). The conserved [D/E]L×2 [R/K]×3L×6L×3R amino acid signature in the R3 domain of MYB proteins has been shown to be required for the interaction of MYBs with R/B-like bHLH transcription factors. By using genetic and molecular analyses, we show that the glabrous phenotype in the nph4-1 mutant is caused by a single nucleotide mutation in the GL1 gene, generating a Ser to Phe substitution (S92F) in the conserved [D/E]L×2[R/K]×3L×6L×3R amino acid signature of GL1. Activation of the integrated GL2p:GUS reporter gene in protoplasts by cotransfection of GL1 and GL3 or EGL3 was abolished by this GL1-S92F substitution. However, GL1-S92F interacted successfully with GL3 or EGL3 in protoplast transfection assays. Unlike VPGL1GL3, the fusion protein VPGL1-S92FGL3 failed to activate the integrated GL2p:GUS reporter gene in transfected protoplasts. These results suggested that the S92 in the conserved [D/E]L×2 [R/K]×3L×6L×3R amino acid signature of GL1 is not essential for the interaction of GL1 and GL3, but may play a role in the binding of GL1 to the promoters of its target genes.
+
+GL1: !interacts with! GL3 
+GL1: !interacts with! EGL3 
+GL1-S92F: !abolishes activation of! GL2p:GUS reporter gene 
+GL1-S92F: !interacts with! GL3 
+GL1-S92F: !interacts with! EGL3 
+VPGL1GL3: !activates! GL2p:GUS reporter gene 
+VPGL1-S92FGL3: !fails to activate! GL2p:GUS reporter gene

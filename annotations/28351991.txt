@@ -1,0 +1,11 @@
+Transcript elongation factors (TEFs) are a heterogeneous group of proteins that control the efficiency of transcript elongation of subsets of genes by RNA polymerase II (RNAPII) in the chromatin context. Using reciprocal tagging in combination with affinity purification and mass spectrometry, we demonstrate that in <i>Arabidopsis thaliana</i>, the TEFs SPT4/SPT5, SPT6, FACT, PAF1-C, and TFIIS copurified with each other and with elongating RNAPII, while P-TEFb was not among the interactors. Additionally, NAP1 histone chaperones, ATP-dependent chromatin remodeling factors, and some histone-modifying enzymes including Elongator were repeatedly found associated with TEFs. Analysis of double mutant plants defective in different combinations of TEFs revealed genetic interactions between genes encoding subunits of PAF1-C, FACT, and TFIIS, resulting in synergistic/epistatic effects on plant growth/development. Analysis of subnuclear localization, gene expression, and chromatin association did not provide evidence for an involvement of the TEFs in transcription by RNAPI (or RNAPIII). Proteomics analyses also revealed multiple interactions between the transcript elongation complex and factors involved in mRNA splicing and polyadenylation, including an association of PAF1-C with the polyadenylation factor CstF. Therefore, the RNAPII transcript elongation complex represents a platform for interactions among different TEFs, as well as for coordinating ongoing transcription with mRNA processing.
+
+SPT4/SPT5: !interacts with! SPT6
+FACT: !interacts with! PAF1-C
+PAF1-C: !interacts with! TFIIS
+NAP1: !interacts with! TEFs
+ATP-dependent chromatin remodeling factors: !interacts with! TEFs
+histone-modifying enzymes: !interacts with! TEFs
+PAF1-C: !synergistically affects! FACT
+TFIIS: !epistatically affects! plant growth/development
+PAF1-C: !interacts with! CstF

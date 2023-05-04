@@ -1,0 +1,8 @@
+['15466488', 'Higher plants undergo a transition from a juvenile to an adult phase of  vegetative development prior to flowering. Screens for mutants that undergo this  transition precociously produced alleles of two genes required for  posttranscriptional gene silencing (PTGS)--SUPPRESSOR OF GENE SILENCING3 (SGS3)  and SUPPRESSOR OF GENE SILENCING2(SGS2)/SILENCING DEFECTIVE1 (SDE1)/RNA-DEPENDENT  POLYMERASE6 (RDR6). Loss-of-function mutations in these genes have a phenotype  similar to that of mutations in the Argonaute gene ZIPPY (ZIP). Epistasis  analysis suggests that ZIP, SGS3, SGS2/SDE1/RDR6, and the putative miRNA export  receptor, HASTY (HST), operate in the same pathway(s). Microarray analysis  revealed a small number of genes whose mRNA is increased in ZIP, SGS3, and  SGS2/SDE1/RDR6 mutants, as well as genes that are up-regulated in SGS3 and  SGS2/SDE1/RDR6 mutants, but not in ZIP mutants. One of these latter genes  (At5g18040) is silenced posttranscriptionally in trans by the sRNA255 family of  endogenous, noncoding, small interfering RNAs (siRNAs). The increase in At5g18040  mRNA in SGS3 and SGS2/SDE1/RDR6 mutants is attributable to the absence of  sRNA255-like siRNAs in these mutants. These results demonstrate a role for  endogenous siRNAs in the regulation of gene expression, and suggest that PTGS  plays a central role in the temporal control of shoot development in plants.', '2004 Oct 1', 'Genes Dev', '10.1101/gad.1231804', 'Poethig']
+
+ZIP: !interacts with! SGS3 
+SGS3: !interacts with! SGS2/SDE1/RDR6 
+SGS2/SDE1/RDR6: !interacts with! HST 
+HST: !regulates! siRNA255 
+siRNA255: !silences! At5g18040 
+At5g18040: !represses! shoot development

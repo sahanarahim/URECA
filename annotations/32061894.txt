@@ -1,0 +1,15 @@
+PHOTOPERIODIC CONTROL OF HYPOCOTYL 1 (PCH1) and PCH1-LIKE (PCHL) were shown to directly bind to phytochrome B (phyB) and suppress phyB thermal reversion, resulting in plants with dramatically enhanced light sensitivity. Here, we show that PCH1 and PCHL also positively regulate various light responses, including seed germination, hypocotyl gravitropism, and chlorophyll biosynthesis, by physically interacting with PHYTOCHROME INTERACTING FACTOR 1 (PIF1) and CONSTITUTIVE PHOTOMORPHOGENIC 1 (COP1). PCH1 and PCHL interact with PIF1 both in the dark and light, and regulate PIF1 abundance. Moreover, PCH1 and PCHL facilitate the physical interaction between phyB and PIF1 in vivo to promote the light-induced degradation of PIF1. PCH1 and PCHL also inhibit the DNA-binding ability of PIF1 to negatively regulate the expressions of PIF1 target genes. In addition, PCH1 and PCHL interact with COP1 and undergo degradation through the 26S proteasome pathway in the dark. Consistently, pch1 suppresses cop1 phenotype in darkness. Collectively, our study reveals a novel mechanism by which PCH1 and PCHL regulate diverse light responses not only by stabilizing phyB Pfr form but also by directly interacting with PIF1 and COP1, providing a molecular understanding of the control of hypocotyl growth by these proteins.
+
+PCH1: !interacts with! PIF1 
+PCH1: !interacts with! COP1 
+PCHL: !interacts with! PIF1 
+PCHL: !interacts with! COP1 
+phyB: !suppressed by! PCH1 
+phyB: !suppressed by! PCHL 
+PIF1: !regulated by! PCH1 
+PIF1: !regulated by! PCHL 
+PIF1: !facilitated by! phyB 
+PIF1: !degraded by! light 
+COP1: !inhibited by! PCH1 
+COP1: !inhibited by! PCHL 
+COP1: !degraded by! dark

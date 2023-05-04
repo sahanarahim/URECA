@@ -1,0 +1,9 @@
+Whole-genome genotyping methods are important for breeding. However, it has been challenging to develop a robust method for simultaneous foreground and background genotyping that can easily be adapted to different genes and species. In our study, we accidently discovered that in adapter ligation-mediated PCR, the amplification by primer-template mismatched annealing (PTMA) along the genome could generate thousands of stable PCR products. Based on this observation, we consequently developed a novel method for simultaneous foreground and background integrated genotyping by sequencing (FBI-seq) using one specific primer, in which foreground genotyping is performed by primer-template perfect annealing (PTPA), while background genotyping employs PTMA. Unlike DNA arrays, multiple PCR, or genome target enrichments, FBI-seq requires little preliminary work for primer design and synthesis, and it is easily adaptable to different foreground genes and species. FBI-seq therefore provides a prolific, robust, and accurate method for simultaneous foreground and background genotyping to facilitate breeding in the post-genomics era.
+
+Primer-template mismatched annealing: !generates! PCR products
+Adapter ligation-mediated PCR: !amplifies! Primer-template mismatched annealing
+Primer-template perfect annealing: !performs! Foreground genotyping
+Primer-template mismatched annealing: !performs! Background genotyping
+DNA arrays: !requires! Preliminary work for primer design and synthesis
+FBI-seq: !requires! Little preliminary work for primer design and synthesis
+FBI-seq: !adaptable to! Different foreground genes and species

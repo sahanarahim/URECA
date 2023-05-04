@@ -1,0 +1,8 @@
+As the focus for CRISPR/Cas-edited plants moves from proof-of-concept to real-world applications, precise gene manipulation will increasingly require concurrent multiplex editing for polygenic traits. A common approach for editing across multiple sites is to design one guide RNA (gRNA) per target; however, this complicates construct assembly and increases the possibility of off-target mutations. In this study, we utilized one gRNA to target MYB186, a known positive trichome regulator, as well as its paralogs MYB138 and MYB38 at a consensus site for mutagenesis in hybrid poplar (Populus tremula × P. alba INRA 717-1B4). Unexpected duplications of MYB186 and MYB138 resulted in eight alleles for the three targeted genes in the hybrid poplar. Deep sequencing and polymerase chain reaction analyses confirmed editing across all eight targets in nearly all of the resultant glabrous mutants, ranging from small indels to large genomic dropouts, with no off-target activity detected at four potential sites. This highlights the effectiveness of a single gRNA targeting conserved exonic regions for multiplex editing. Additionally, cuticular wax and whole-leaf analyses showed a complete absence of triterpenes in the trichomeless mutants, hinting at a previously undescribed role for the nonglandular trichomes of poplar.
+
+MYB186: !affects! Trichome regulation
+MYB138/MYB38: !targeted by! gRNA
+gRNA: !targets! MYB186/MYB138/MYB38
+gRNA: !edits! 8 alleles
+Deep sequencing/PCR: !confirms! Editing
+Cuticular wax/whole-leaf analyses: !show! Absence of triterpenes

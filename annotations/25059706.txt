@@ -1,0 +1,12 @@
+Phytyl diphosphate (PDP) is the prenyl precursor for tocopherol biosynthesis. Based on recent genetic evidence, PDP is supplied to the tocopherol biosynthetic pathway primarily by chlorophyll degradation and sequential phytol phosphorylation. Three enzymes of Arabidopsis (Arabidopsis thaliana) are known to be capable of removing the phytol chain from chlorophyll in vitro: chlorophyllase1 (CLH1), CLH2, and pheophytin pheophorbide hydrolase (PPH), which specifically hydrolyzes pheophytin. While PPH, but not chlorophyllases, is required for in vivo chlorophyll breakdown during Arabidopsis leaf senescence, little is known about the involvement of these phytol-releasing enzymes in tocopherol biosynthesis. To explore the origin of PDP for tocopherol synthesis, seed tocopherol concentrations were determined in Arabidopsis lines engineered for seed-specific overexpression of PPH and in single and multiple mutants in the three genes encoding known dephytylating enzymes. Except for modestly increasing tocopherol content observed in the PPH overexpressor, none of the remaining lines exhibited significantly reduced tocopherol concentrations, suggesting that the known chlorophyll-derived phytol-releasing enzymes do not play major roles in tocopherol biosynthesis. Tocopherol content of seeds from double mutants in NONYELLOWING1 (NYE1) and NYE2, regulators of chlorophyll degradation, had modest reduction compared with wild-type seeds, although mature seeds of the double mutant retained significantly higher chlorophyll levels. These findings suggest that NYEs may play limited roles in regulating an unknown tocopherol biosynthesis-related phytol hydrolase. Meanwhile, seeds of wild-type over-expressing NYE1 had lower tocopherol levels, suggesting that phytol derived from NYE1-dependent chlorophyll degradation probably doesn't enter tocopherol biosynthesis. Potential routes of chlorophyll degradation are discussed in relation to tocopherol biosynthesis.
+
+CLH1: !localizes to! chlorophyll
+CLH2: !localizes to! chlorophyll
+PPH: !localizes to! chlorophyll
+NYE1: !regulates! chlorophyll degradation
+NYE2: !regulates! chlorophyll degradation
+chlorophyll: !degrades to! phytol
+phytol: !supplies! PDP
+PDP: !supplies! tocopherol biosynthesis
+NYE1: !enhances! chlorophyll degradation
+NYE2: !represses! chlorophyll degradation

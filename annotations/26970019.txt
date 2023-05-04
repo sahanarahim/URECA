@@ -1,0 +1,8 @@
+In multicellular organisms, controlling the timing and extent of asymmetric cell divisions (ACDs) is crucial for correct patterning. During post-embryonic root development in Arabidopsis thaliana, ground tissue (GT) maturation involves an additional ACD of the endodermis, which generates two different tissues: the endodermis (inner) and the middle cortex (outer). It has been reported that the abscisic acid (ABA) and gibberellin (GA) pathways are involved in middle cortex (MC) formation. However, the molecular mechanisms underlying the interaction between ABA and GA during GT maturation remain largely unknown. Through transcriptome analyses, we identified a previously uncharacterized C2H2-type zinc finger gene, whose expression is regulated by GA and ABA, thus named GAZ (GA- AND ABA-RESPONSIVE ZINC FINGER). Seedlings ectopically overexpressing GAZ (GAZ-OX) were sensitive to ABA and GA during MC formation, whereas GAZ-SRDX and RNAi seedlings displayed opposite phenotypes. In addition, our results indicated that GAZ was involved in the transcriptional regulation of ABA and GA homeostasis. In agreement with previous studies that ABA and GA coordinate to control the timing of MC formation, we also confirmed the unique interplay between ABA and GA and identified factors and regulatory networks bridging the two hormone pathways during GT maturation of the Arabidopsis root.
+
+ABA: !regulates! GAZ 
+GAZ: !regulates! ABA 
+GAZ: !overexpressing in! GAZ-OX 
+GAZ: !repressed in! GAZ-SRDX 
+GAZ: !involved in! transcriptional regulation of ABA and GA homeostasis 
+ABA: !coordinates with! GA

@@ -1,0 +1,9 @@
+Since auxin may elicit numerous developmental responses by the use of a combination of auxin response factors (ARFs) and their Aux/IAA repressors, it is important to determine the interaction between the two protein families in a quantitative manner. We transiently expressed the C-terminal protein-protein interaction domains (CTDs) of Arabidopsis ARFs, MP/ARF5 and NPH4/ARF7, and MSG2/IAA19, fused to fluorescent proteins in HeLa cells, and determined their molecular interactions with fluorescence cross-correlation spectroscopy (FCCS). Almost complete association was found between MSG2 and MP-CTD and between MSG2 and NPH4-CTD. Approximately 20% association was found for MSG2 homodimers, NPH4-CTD homodimers and MP-CTD/NPH4-CTD heterodimers. Homotypic binding of MP-CTD may be weaker than that of MSG2. MSG2 was localized in cytoplasmic compartments in HeLa cells, whereas it was localized in the nuclei in plant cells. The fact that the heterotypic interaction between MSG2 and ARF-CTDs is stronger than each of the homotypic interactions appears to be the molecular basis for tight control of the transcriptional activity of ARFs by auxin. These results also show that FCCS is useful to examine protein-protein interactions especially for transcriptional regulators.
+
+MP-CTD: !interacts with! MSG2
+NPH4-CTD: !interacts with! MSG2
+MSG2: !localizes to! cytoplasmic compartments (HeLa cells)
+MSG2: !localizes to! nuclei (plant cells)
+MSG2: !interacts with! MP-CTD
+MSG2: !interacts with! NPH4-CTD
+MP-CTD: !interacts with! NPH4-CTD

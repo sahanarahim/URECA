@@ -1,0 +1,25 @@
+Plant cells have multiple plasma membrane (PM)-localized calcium ATPases (ACAs) pumping calcium ions out of the cytosol. Although the involvement of some of these ACAs in plant growth and immunity has been reported, their individual and combined functions have not been fully examined. Here, we analysed the effects of single and combined mutations of four ACA genes, ACA8, ACA10, ACA12, and ACA13, in a number of processes. We found that these four genes had both overlapping and differential involvements in vegetative growth, inflorescence growth, seeds setting, disease resistance and stomatal movement. Disruption of any of these four genes reduces seed setting, indicating their contribution to the overall fitness of the plants. While ACA10 and ACA8 play major roles in vegetative growth and immunity, ACA13 and ACA12 are also involved in these processes especially when the function of ACA10 and/or ACA8 is compromised. The loss of ACA13 and ACA10 function in combination with a reduction in function of ACA8 leads to seedling death at bolting, revealing the essential role of their collective function in plant growth. Taken together, this study indicates a highly tuned calcium system involving these PM-localized calcium pumps in plant growth and environmental responses.
+
+ACA8: !affects! Vegetative growth
+ACA10: !affects! Vegetative growth
+ACA12: !affects! Vegetative growth
+ACA13: !affects! Vegetative growth
+ACA8: !affects! Immunity
+ACA10: !affects! Immunity
+ACA12: !affects! Immunity
+ACA13: !affects! Immunity
+ACA8: !affects! Seeds setting
+ACA10: !affects! Seeds setting
+ACA12: !affects! Seeds setting
+ACA13: !affects! Seeds setting
+ACA8: !affects! Disease resistance
+ACA10: !affects! Disease resistance
+ACA12: !affects! Disease resistance
+ACA13: !affects! Disease resistance
+ACA8: !affects! Stomatal movement
+ACA10: !affects! Stomatal movement
+ACA12: !affects! Stomatal movement
+ACA13: !affects! Stomatal movement
+ACA10: !enhances! ACA8 function
+ACA13: !enhances! ACA8 function
+ACA10: !interacts

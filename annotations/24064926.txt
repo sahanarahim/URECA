@@ -1,0 +1,13 @@
+In plants, numerous developmental processes are controlled by cytokinin (CK) levels and their ratios to levels of other hormones. While molecular mechanisms underlying the regulatory roles of CKs have been intensely researched, proteomic and metabolomic responses to CK deficiency are unknown. Transgenic Arabidopsis seedlings carrying inducible barley cytokinin oxidase/dehydrogenase (CaMV35S>GR>HvCKX2) and agrobacterial isopentenyl transferase (CaMV35S>GR>ipt) constructs were profiled to elucidate proteome- and metabolome-wide responses to down- and up-regulation of CK levels, respectively. Proteome profiling identified >1100 proteins, 155 of which responded to HvCKX2 and/or ipt activation, mostly involved in growth, development, and/or hormone and light signalling. The metabolome profiling covered 79 metabolites, 33 of which responded to HvCKX2 and/or ipt activation, mostly amino acids, carbohydrates, and organic acids. Comparison of the data sets obtained from activated CaMV35S>GR>HvCKX2 and CaMV35S>GR>ipt plants revealed unexpectedly extensive overlaps. Integration of the proteomic and metabolomic data sets revealed: (i) novel components of molecular circuits involved in CK action (e.g. ribosomal proteins); (ii) previously unrecognized links to redox regulation and stress hormone signalling networks; and (iii) CK content markers. The striking overlaps in profiles observed in CK-deficient and CK-overproducing seedlings might explain surprising previously reported similarities between plants with down- and up-regulated CK levels.
+
+HvCKX2: !affects! Proteome
+ipt: !affects! Proteome
+HvCKX2: !affects! Metabolome
+ipt: !affects! Metabolome
+Proteome: !interacts with! Metabolome
+CK: !regulates! Growth
+CK: !regulates! Development
+CK: !regulates! Hormone Signalling
+CK: !regulates! Light Signalling
+CK: !regulates! Redox Regulation
+CK: !regulates! Stress Hormone Signalling

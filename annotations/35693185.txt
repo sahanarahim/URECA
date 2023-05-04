@@ -1,0 +1,16 @@
+Research on crop sexuality is important for establishing systems for germplasm innovation and cultivating improved varieties. In this study, androecious persimmon trees were treated with various concentrations of ethrel (100, 500, and 1,000 mg/L) and zeatin (1, 5, and 10 mg/L) to investigate the morphological, physiological, and molecular characteristics of persimmon. Ethrel at 1,000 mg/L and zeatin at 10 mg/L both significantly reduced the stamen length and pollen grain diameter in androecious trees. Ethrel treatment also led to reduced stamen development with degenerated cellular contents; zeatin treatment promoted the development of arrested pistils <i>via</i> maintaining relatively normal mitochondrial morphology. Both treatments altered carbohydrate, amino acid, and endogenous phytohormone contents, as well as genes associated with hormone production and floral organ development. Thereafter, we explored the combined effects of four chemicals, including ethrel and zeatin, as well as zebularine and 5-azacytidine, both of which are DNA methylation inhibitors, on androecious persimmon flower development. Morphological comparisons showed that stamen length, pollen viability, and pollen grain diameter were significantly inhibited after combined treatment. Large numbers of genes involving in carbohydrate metabolic, mitogen-activated protein kinase (MAPK) signaling, and ribosome pathways, and metabolites including uridine monophosphate (UMP) and cyclamic acid were identified in response to the treatment, indicating complex regulatory mechanisms. An association analysis of transcriptomic and metabolomic data indicated that ribosomal genes have distinct effects on UMP and cyclamic acid metabolites, explaining how male floral buds of androecious persimmon trees respond to these exogenous chemicals. These findings extend the knowledge concerning sexual differentiation in persimmon; they also provide a theoretical basis for molecular breeding, high-yield cultivation, and quality improvement in persimmon.
+
+ethrel: !reduces! stamen length 
+ethrel: !degenerates! cellular contents 
+zeatin: !promotes! pistil development 
+zeatin: !maintains! mitochondrial morphology 
+carbohydrates: !altered by! ethrel/zeatin 
+amino acids: !altered by! ethrel/zeatin 
+phytohormones: !altered by! ethrel/zeatin 
+genes: !affected by! ethrel/zeatin 
+zebularine/5-azacytidine: !inhibit! stamen length 
+MAPK signaling: !involved in! zebularine/5-azacytidine 
+ribosome pathways: !involved in! zebularine/5-azacytidine 
+metabolites: !identified in! response to treatment 
+UMP: !affected by! ribosomal genes 
+cyclamic acid: !affected by! ribosomal genes

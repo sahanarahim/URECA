@@ -1,0 +1,10 @@
+Both genetic and epigenetic information must be transferred from mother to daughter cells during cell division. The mechanisms through which information about chromatin states and epigenetic marks like histone 3 lysine 27 trimethylation (H3K27me3) are transferred have been characterized in animals; these processes are less well understood in plants. Here, based on characterization of a dwarf rice (Oryza sativa) mutant (dwarf-related wd40 protein 1, drw1) deficient for yeast CTF4 (CHROMOSOME TRANSMISSION FIDELITY PROTEIN 4), we discovered that CTF4 orthologs in plants use common cellular machinery yet accomplish divergent functional outcomes. Specifically, drw1 exhibited no flowering-related phenotypes (as in the putatively orthologous Arabidopsis thaliana eol1 mutant), but displayed cell cycle arrest and DNA damage responses. Mechanistically, we demonstrate that DRW1 sustains normal cell cycle progression by modulating the expression of cell cycle inhibitors KIP-RELATED PROTEIN 1 (KRP1) and KRP5, and show that these effects are mediated by DRW1 binding their promoters and increasing H3K27me3 levels. Thus, although CTF4 orthologs ENHANCER OF LHP1 1 (EOL1) in Arabidopsis and DRW1 in rice are both expressed uniquely in dividing cells, commonly interact with several Polycomb complex subunits, and promote H3K27me3 deposition, we now know that their regulatory functions diverged substantially during plant evolution. Moreover, our work experimentally illustrates specific targets of CTF4/EOL1/DRW1, their protein-proteininteraction partners, and their chromatin/epigenetic effects in plants.
+
+CTF4: !interacts with! Polycomb complex subunits
+CTF4: !enhances! H3K27me3 deposition
+EOL1: !interacts with! Polycomb complex subunits
+EOL1: !enhances! H3K27me3 deposition
+DRW1: !interacts with! Polycomb complex subunits
+DRW1: !enhances! H3K27me3 deposition
+DRW1: !represses! KRP1 expression
+DRW1: !represses! KRP5 expression

@@ -1,0 +1,8 @@
+* In the mycorrhizal association, changes in the metabolic activities expressed by the plant and fungal partners could result from modulations in the quantity and nature of nutrients available at the plant-fungus interface. This hypothesis was tested for the nitrite reductase gene in the association Hebeloma cylindrosporumxPinus pinaster. * Transcripts from plant and fungal nitrite reductases and a fungal ammonium transporter were quantified in control uninoculated roots, extraradical mycelia and mycorrhizas formed by either wild-type or nitrate reductase deficient fungal strains. * The fungal genes were downregulated in mycorrhizas compared with extraradical hyphae. The plant nitrite reductase was induced only transiently by NO(3)(-) in the association with a wild-type strain, but permanently expressed at a high level in mycorrhizas formed by the deficient mutant. * These results suggest that reduced nitrogen compounds transferred from the fungus to the root cortical cells repress the plant nitrite reductase, thus highlighting a plant gene regulation by the nutrients available in the Hartig net.
+
+plant: !expresses! nitrite reductase gene
+fungus: !downregulates! nitrite reductase gene
+NO3-: !induces! plant nitrite reductase
+fungal strain: !represses! plant nitrite reductase
+fungus: !transfers! reduced nitrogen compounds
+Hartig net: !regulates! plant gene

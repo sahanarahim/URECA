@@ -1,0 +1,7 @@
+The RPW8 locus from Arabidopsis thaliana Ms-0 includes two functional paralogous genes (RPW8.1 and RPW8.2) and confers broad-spectrum resistance via the salicylic acid-dependent signaling pathway to the biotrophic fungal pathogens Golovinomyces spp. that cause powdery mildew diseases on multiple plant species. To identify proteins involved in regulation of the RPW8 protein function, a yeast two-hybrid screen was performed using RPW8.2 as bait. The 14-3-3 isoform lambda (designated GF14lambda) was identified as a potential RPW8.2 interactor. The RPW8.2-GF14lambda interaction was specific and engaged the C-terminal domain of RPW8.2, which was confirmed by pulldown assays. The physiological impact of the interaction was revealed by knocking down GF14lambda by T-DNA insertion, which compromised basal and RPW8-mediated resistance to powdery mildew. In addition, over-expression of GF14lambda resulted in hypersensitive response-like cell death and enhanced resistance to powdery mildew via the salicylic acid-dependent signaling pathway. The results from this study suggest that GF14lambda may positively regulate the RPW8.2 resistance function and play a role in enhancing basal resistance in Arabidopsis.
+
+RPW8.2: !interacts with! GF14lambda
+GF14lambda: !enhances! RPW8.2 resistance
+RPW8.2: !enhances! resistance to powdery mildew
+GF14lambda: !knocked down by! T-DNA insertion
+GF14lambda: !over-expressed! hypersensitive response-like cell death

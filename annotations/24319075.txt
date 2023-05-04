@@ -1,0 +1,11 @@
+The plant cuticle is a chemically heterogeneous lipophilic layer composed of a cutin polymer matrix and waxes which covers the aerial parts of plants. This layer plays an essential role in the survival of plants by protecting them from desiccation and (a)biotic stresses. Knowledge on the gene networks and mechanisms regulating the synthesis of cuticle components during organ expansion or stress response remains limited however. Here, using five loss-of-function mutants for histone monoubiquitination, we report on the role of two RING E3 ligases, namely HISTONE MONOUBIQUITINATION 1 and 2 (HUB1 and HUB2), in the selective transcriptional activation of four cuticle biosynthesis genes in Arabidopsis thaliana. Microscopy observations showed that in hub1-6 and hub2-2 mutants irregular epidermal cells and disorganized cuticle layers were present in rosette leaves. Water loss measurements on excised rosettes demonstrated that cuticular permeability was significantly increased in the mutants. Chemical analysis of cuticle components revealed that the wax composition was changed and that cutin 16:0 dicarboxylic acid was significantly reduced in all hub mutants. Analysis of transcript levels of selected genes indicated that LACS2, ATT1 and HOTHEAD involved in cutin biosynthesis and CER1 involved in wax biosynthesis were down-regulated in the hub mutants, while the expression of LACERATA, CER3, CER6 and CER10 remained unchanged. Chromatin immunoprecipitation assays further showed that hub mutants are impaired in dynamic changes of histone H2B monoubiquitination at several loci of down-regulated genes. Taken together, these data establish that the regulation of cuticle composition involves chromatin remodeling by H2B monoubiquitination.
+
+HUB1: !regulates! LACS2
+HUB1: !regulates! ATT1
+HUB1: !regulates! HOTHEAD
+HUB1: !regulates! CER1
+HUB2: !regulates! LACS2
+HUB2: !regulates! ATT1
+HUB2: !regulates! HOTHEAD
+HUB2: !regulates! CER1
+H2B monoubiquitination: !dynamically changes! loci of down-regulated genes

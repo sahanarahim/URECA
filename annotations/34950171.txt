@@ -1,0 +1,8 @@
+Plant breeding programs evaluate varieties in series of field trials across years and locations, referred to as multi-environment trials (METs). These are an essential part of variety evaluation with the key aim of the statistical analysis of these datasets to accurately estimate the variety by environment (VE) effects. It has previously been thought that the number of varieties in common between environments, referred to as "variety connectivity," was a key driver of the reliability of genetic variance parameter estimation and that this in turn affected the reliability of predictions of VE effects. In this paper we have provided the link between the objectives of this work and those in model-based experimental design. We propose the use of the <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>D</mi></mrow> </math> -optimality criterion as a diagnostic to capture the information available for the residual maximum likelihood (REML) estimation of the genetic variance parameters. We demonstrate the methods for a dataset with pedigree information as well as evaluating the performance of the diagnostic using two simulation studies. This measure is shown to provide a superior diagnostic to the traditional connectivity type measure in the sense of better forecasting the uncertainty of genetic variance parameter estimates.
+
+Plant breeding programs: !evaluate! varieties 
+METs: !aim to! estimate VE effects 
+Variety connectivity: !affects! reliability of genetic variance parameter estimation 
+D-optimality criterion: !captures! information for REML estimation 
+Pedigree information: !evaluates! performance of diagnostic 
+Simulation studies: !forecast! uncertainty of genetic variance parameter estimates

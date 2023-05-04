@@ -1,0 +1,9 @@
+Grain legume improvement is currently impeded by a lack of genomic resources. The paucity of genome information for faba bean can be attributed to the intrinsic difficulties of assembling/annotating its giant (~13 Gb) genome. In order to address this challenge, RNA-sequencing analysis was performed on faba bean (cv. Wizard) leaves. Read alignment to the faba bean reference transcriptome identified 16 300 high quality unigenes. In addition, Illumina paired-end sequencing was used to establish a baseline for genomic information assembly. Genomic reads were assembled de novo into contigs with a size range of 50-5000 bp. Over 85% of sequences did not align to known genes, of which ~10% could be aligned to known repetitive genetic elements. Over 26 000 of the reference transcriptome unigenes could be aligned to DNA-sequencing (DNA-seq) reads with high confidence. Moreover, this comparison identified 56 668 potential splice points in all identified unigenes. Sequence length data were extended at 461 putative loci through alignment of DNA-seq contigs to full-length, publicly available linkage marker sequences. Reads also yielded coverages of 3466× and 650× for the chloroplast and mitochondrial genomes, respectively. Inter- and intraspecies organelle genome comparisons established core legume organelle gene sets, and revealed polymorphic regions of faba bean organelle genomes.
+
+RNA-seq: !identifies! 16 300 unigenes
+Illumina paired-end sequencing: !assembles! de novo contigs
+Reference transcriptome unigenes: !aligns to! DNA-seq reads
+DNA-seq reads: !reveals! 56 668 splice points
+Linkage marker sequences: !extends! sequence length data
+DNA-seq contigs: !compares to! organelle genomes
+Organelle genomes: !establishes! core legume gene sets

@@ -1,0 +1,9 @@
+The functional trait approach has, as a central tenet, that plant traits are functional and shape individual performance, but this has rarely been tested in the field. Here, we tested the individual-based trait approach in a hyperdiverse Amazonian tropical rainforest and evaluated intraspecific variation in trait values, plant strategies at the individual level, and whether traits are functional and predict individual performance. We evaluated > 1300 tree saplings belonging to > 383 species, measured 25 traits related to growth and defense, and evaluated the effects of environmental conditions, plant size, and traits on stem growth. A total of 44% of the trait variation was observed within species, indicating a strong potential for acclimation. Individuals showed two strategy spectra, related to tissue toughness and organ size vs leaf display. In this nutrient- and light-limited forest, traits measured at the individual level were surprisingly poor predictors of individual growth performance because of convergence of traits and growth rates. Functional trait approaches based on individuals or species are conceptually fundamentally different: the species-based approach focuses on the potential and the individual-based approach on the realized traits and growth rates. Counterintuitively, the individual approach leads to a poor prediction of individual performance, although it provides a more realistic view on community dynamics.
+
+plant: !has! traits 
+traits: !predict! individual performance 
+environment: !affects! trait values 
+size: !influences! stem growth 
+toughness: !relates to! organ size 
+leaf display: !correlates with! strategy spectra 
+traits: !converge! growth rates

@@ -1,0 +1,17 @@
+Geminivirus Rep-interacting kinase 1 (GRIK1) and GRIK2 constitute a small protein kinase family in Arabidopsis (Arabidopsis thaliana). An earlier study showed that a truncated version of GRIK1 binds to the geminivirus replication protein AL1. We show here both full-length GRIK1 and GRIK2 interact with AL1 in yeast two-hybrid studies. Using specific antibodies, we showed that both Arabidopsis kinases are elevated in infected leaves. Immunoblot analysis of healthy plants revealed that GRIK1 and GRIK2 are highest in young leaf and floral tissues and low or undetectable in mature tissues. Immunohistochemical staining showed that the kinases accumulate in the shoot apical meristem, leaf primordium, and emerging petiole. Unlike the protein patterns, GRIK1 and GRIK2 transcript levels only show a small increase during infection and do not change significantly during development. Treating healthy seedlings and infected leaves with the proteasome inhibitor MG132 resulted in higher GRIK1 and GRIK2 protein levels, whereas treatment with the translation inhibitor cycloheximide reduced both kinases, demonstrating that their accumulation is modulated by posttranscriptional processes. Phylogenetic comparisons indicated that GRIK1, GRIK2, and related kinases from Medicago truncatula and rice (Oryza sativa) are most similar to the yeast kinases PAK1, TOS3, and ELM1 and the mammalian kinase CaMKK, which activate the yeast kinase SNF1 and its mammalian homolog AMPK, respectively. Complementation studies using a PAK1/TOS3/ELM1 triple mutant showed that GRIK1 and GRIK2 can functionally replace the yeast kinases, suggesting that the Arabidopsis kinases mediate one or more processes during early plant development and geminivirus infection by activating SNF1-related kinases.
+
+GRIK1: !interacts with! AL1
+GRIK2: !interacts with! AL1
+GRIK1: !elevated in! infected leaves
+GRIK2: !elevated in! infected leaves
+GRIK1: !highest in! young leaf and floral tissues
+GRIK2: !highest in! young leaf and floral tissues
+GRIK1: !accumulates in! shoot apical meristem, leaf primordium, emerging petiole
+GRIK2: !accumulates in! shoot apical meristem, leaf primordium, emerging petiole
+GRIK1: !modulated by! posttranscriptional processes
+GRIK2: !modulated by! posttranscriptional processes
+GRIK1: !similar to! PAK1, TOS3, ELM1
+GRIK2: !similar to! PAK1, TOS3, ELM1
+GRIK1: !can functionally replace! yeast kinases
+GRIK2: !can functionally replace! yeast kinases
+GRIK1: !mediates! processes during early plant development

@@ -1,0 +1,12 @@
+In eukaryotes, the spindle assembly checkpoint (SAC) ensures the fidelity of chromosome segregation through monitoring the bipolar attachment of microtubules to kinetochores. Recently, the SAC components Mitotic Arrest Deficient 1 and 2 (MAD1 and MAD2) were found to associate with the nuclear pore complex (NPC) during interphase and to require certain nucleoporins, such as Tpr in animal cells, to properly localize to kinetochores. In plants, the SAC components MAD2, BUR1, BUB3 and Mps1 have been identified, but their connection to the nuclear pore has not been explored. Here, we show that AtMAD1 and AtMAD2 are associated with the nuclear envelope during interphase, requiring the Arabidopsis homolog of Tpr, NUA. Both NUA and AtMAD2 loss-of-function mutants have a shorter primary root and a smaller root meristem, and this defect can be partially rescued by sucrose. Mild AtMAD2 over-expressors exhibit a longer primary root, and an extended root meristem. In BY-2 cells, AtMAD2 is associated with kinetochores during prophase and prometaphase, but not metaphase, anaphase and telophase. Protein-interaction assays demonstrate binding of AtMAD2 to AtMAD1 and AtMAD1 to NUA. Together, these data suggest that NUA scaffolds AtMAD1 and AtMAD2 at the nuclear pore to form a functional complex and that both NUA and AtMAD2 suppress premature exit from cell division at the Arabidopsis root meristem.
+
+NUA: !scaffolds! AtMAD1 
+AtMAD1: !binds to! NUA 
+AtMAD2: !binds to! AtMAD1 
+AtMAD2: !suppresses! premature exit from cell division 
+NUA: !localizes to! nuclear pore 
+AtMAD1: !localizes to! nuclear pore 
+AtMAD2: !localizes to! nuclear pore 
+AtMAD2: !localizes to! kinetochores 
+AtMAD2: !enhances! primary root length 
+AtMAD2: !enhances! root meristem size

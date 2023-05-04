@@ -1,0 +1,16 @@
+How plants balance growth and stress adaptation is a long-standing topic in plant biology. Abscisic acid (ABA) induces the expression of the stress-responsive Asparagine Rich Protein (NRP), which promotes the vacuolar degradation of PP6 phosphatase FyPP3, releasing ABI5 transcription factor to initiate transcription. Whether NRP is required for growth remains unknown. We generated an nrp1 nrp2 double mutant, which had a dwarf phenotype that can be rescued by inhibiting auxin transport. Insufficient auxin in the transition zone and over-accumulation of auxin at the root tip was responsible for the short elongation zone and short-root phenotype of nrp1 nrp2. The auxin efflux carrier PIN2 over-accumulated in nrp1 nrp2 and became de-polarized at the plasma membrane, leading to slower root basipetal auxin transport. Knock-out of PIN2 suppressed the dwarf phenotype of nrp1 nrp2. Furthermore, ABA can induce NRP-dependent vacuolar degradation of PIN2 to inhibit primary root elongation. FyPP3 also is required for NRP-mediated PIN2 turnover. In summary, in growth condition, NRP promotes PIN2 vacuolar degradation to help maintain PIN2 protein concentration and polarity, facilitating the establishment of the elongation zone and primary root elongation. When stressed, ABA employs this pathway to inhibit root elongation for stress adaptation.
+
+ABA: !induces! NRP
+NRP: !promotes! FyPP3
+NRP: !required for! growth
+nrp1 nrp2: !causes! dwarf phenotype
+auxin transport: !rescues! nrp1 nrp2
+PIN2: !over-accumulates in! nrp1 nrp2
+PIN2: !de-polarizes at! plasma membrane
+PIN2: !suppresses! dwarf phenotype of nrp1 nrp2
+ABA: !induces! NRP-dependent PIN2 turnover
+FyPP3: !required for! NRP-mediated PIN2 turnover
+NRP: !promotes! PIN2 vacuolar degradation
+PIN2: !maintains! concentration and polarity
+PIN2: !facilitates! elongation zone
+ABA: !employs! pathway to inhibit root elongation

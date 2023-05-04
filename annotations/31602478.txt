@@ -1,0 +1,8 @@
+MicroRNAs (miRNAs) are small non-coding RNA molecules that function as diverse endogenous gene regulators at the post-transcriptional level. In the past two decades, as research effort on miRNA identification, function and evolution has soared, so has the demand for miRNA databases. However, the current plant miRNA databases suffer from several typical drawbacks, including a lack of entries for many important species, uneven annotation standards across different species, abundant questionable entries, and limited annotation. To address these issues, we developed a knowledge-based database called Plant miRNA Encyclopedia (PmiREN, http://www.pmiren.com/), which was based on uniform processing of sequenced small RNA libraries using miRDeep-P2, followed by manual curation using newly updated plant miRNA identification criteria, and comprehensive annotation. PmiREN currently contains 16,422 high confidence novel miRNA loci in 88 plant species and 3,966 retrieved from miRBase. For every miRNA entry, information on precursor sequence, precursor secondary structure, expression pattern, clusters and synteny in the genome, potential targets supported by Parallel Analysis of RNA Ends (PARE) sequencing, and references is attached whenever possible. PmiREN is hierarchically accessible and has eight built-in search engines. We believe PmiREN is useful for plant miRNA cataloguing and data mining, therefore a resource for data-driven miRNA research in plants.
+
+MicroRNAs: !regulate! gene
+miRNA databases: !suffer from! drawbacks
+PmiREN: !contains! 16,422 miRNA loci
+PmiREN: !provides! information on precursor sequence
+PmiREN: !has! 8 search engines
+PmiREN: !is useful for! plant miRNA cataloguing

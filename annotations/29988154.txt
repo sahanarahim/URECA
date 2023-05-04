@@ -1,0 +1,9 @@
+Vascular cambium proliferation in plants is crucial for the generation of vascular tissues and for mechanical strength. Phytohormones and mobile peptides are key regulators of vascular cambial activity during secondary growth; however, the signalling cross-talk underlying their coordinated action is largely unknown. Here, we reveal that BIN2-LIKE 1 (BIL1), a glycogen synthase kinase 3, integrates the PHLOEM INTERCALATED WITH XYLEM/tracheary element differentiation inhibitory factor (TDIF) RECEPTOR (PXY/TDR) module into MONOPTEROS/AUXIN RESPONSE FACTOR 5 (MP/ARF5) transcription factor action during secondary growth. BIL1-mediated phosphorylation of MP/ARF5 enhances its negative effect on vascular cambial activity, which upregulates the negative regulators of cytokinin signalling ARABIDOPSIS RESPONSE REGULATOR 7 (ARR7) and ARR15. PXY/TDR inhibits BIL1 activity, which attenuates the effect of MP/ARF5 on ARR7 and ARR15 expression, thus increasing vascular cambial activity. Together, these results suggest that BIL1 is a key mediator that links peptide signalling with auxin-cytokinin signalling for the maintenance of cambial activity.
+
+BIL1: !integrates! PXY/TDR
+BIL1: !mediates! MP/ARF5
+MP/ARF5: !represses! vascular cambial activity
+PXY/TDR: !inhibits! BIL1
+BIL1: !enhances! MP/ARF5
+MP/ARF5: !upregulates! ARR7 and ARR15
+PXY/TDR: !attenuates! MP/ARF5

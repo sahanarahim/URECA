@@ -1,0 +1,8 @@
+In eukaryotes, histone acetylation is a major modification on histone N-terminal tails that is tightly connected to transcriptional activation. HDA6 is a histone deacetylase involved in the transcriptional regulation of genes and transposable elements (TEs) in Arabidopsis thaliana. HDA6 has been shown to participate in several complexes in plants, including a conserved SIN3 complex. Here, we uncover a novel protein complex containing HDA6, several Harbinger transposon-derived proteins (HHP1, SANT1, SANT2, SANT3, and SANT4), and MBD domain-containing proteins (MBD1, MBD2, and MBD4). We show that mutations of all four SANT genes in the sant-null mutant cause increased expression of the flowering repressors FLC, MAF4, and MAF5, resulting in a late flowering phenotype. Transcriptome deep sequencing reveals that while the SANT proteins and HDA6 regulate the expression of largely overlapping sets of genes, TE silencing is unaffected in sant-null mutants. Our global histone H3 acetylation profiling shows that SANT proteins and HDA6 modulate gene expression through deacetylation. Collectively, our findings suggest that Harbinger transposon-derived SANT domain-containing proteins are required for histone deacetylation and flowering time control in plants.
+
+HDA6: !participates in! SIN3 complex
+HDA6: !interacts with! Harbinger transposon-derived proteins
+Harbinger transposon-derived proteins: !interact with! HDA6
+Harbinger transposon-derived proteins: !regulate! gene expression
+Harbinger transposon-derived proteins: !control! flowering time
+HDA6: !modulates! gene expression

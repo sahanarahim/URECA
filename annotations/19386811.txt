@@ -1,0 +1,10 @@
+Arabidopsis (Arabidopsis thaliana) immutans (im) has green and white sectoring due to the action of a nuclear recessive gene, IMMUTANS. The green sectors contain normal-appearing chloroplasts, whereas the white sectors contain abnormal chloroplasts that lack colored carotenoids due to a defect in phytoene desaturase activity. Previous biochemical and molecular characterizations of the green leaf sectors revealed alterations suggestive of a source-sink relationship between the green and white sectors of im. In this study, we use an Affymetrix ATH1 oligoarray to further explore the nature of sink metabolism in im white tissues. We show that lack of colored carotenoids in the im white tissues elicits a differential response from a large number of genes involved in various cellular processes and stress responses. Gene expression patterns correlate with the repression of photosynthesis and photosynthesis-related processes in im white tissues, with an induction of Suc catabolism and transport, and with mitochondrial electron transport and fermentation. These results suggest that energy is derived via aerobic and anaerobic metabolism of imported sugar in im white tissues for growth and development. We also show that oxidative stress responses are largely induced in im white tissues; however, im green sectors develop additional energy-dissipating mechanisms that perhaps allow for the formation of green sectors. Furthermore, a comparison of the transcriptomes of im white and norflurazon-treated white leaf tissues reveals global as well as tissue-specific responses to photooxidation. We conclude that the differences in the mechanism of phytoene desaturase inhibition play an important role in differentiating these two white tissues.
+
+Gene: !affects! Process
+Gene: !represses! Photosynthesis
+Gene: !induces! Suc Catabolism
+Gene: !induces! Transport
+Gene: !induces! Mitochondrial Electron Transport
+Gene: !induces! Fermentation
+Gene: !induces! Oxidative Stress Responses
+Gene: !differentiates! Im White Tissues

@@ -1,0 +1,9 @@
+Fruit set is inhibited by adverse temperatures, with consequences on yield. We isolated a tomato mutant producing fruits under non-permissive hot temperatures and identified the causal gene as SlHB15A, belonging to class III homeodomain leucine-zipper transcription factors. SlHB15A loss-of-function mutants display aberrant ovule development that mimics transcriptional changes occurring in fertilized ovules and leads to parthenocarpic fruit set under optimal and non-permissive temperatures, in field and greenhouse conditions. Under cold growing conditions, SlHB15A is subjected to conditional haploinsufficiency and recessive dosage sensitivity controlled by microRNA 166 (miR166). Knockdown of SlHB15A alleles by miR166 leads to a continuum of aberrant ovules correlating with parthenocarpic fruit set. Consistent with this, plants harboring an Slhb15a-miRNA166-resistant allele developed normal ovules and were unable to set parthenocarpic fruit under cold conditions. DNA affinity purification sequencing and RNA-sequencing analyses revealed that SlHB15A is a bifunctional transcription factor expressed in the ovule integument. SlHB15A binds to the promoters of auxin-related genes to repress auxin signaling and to the promoters of ethylene-related genes to activate their expression. A survey of tomato genetic biodiversity identified pat and pat-1, two historical parthenocarpic mutants, as alleles of SlHB15A. Taken together, our findings demonstrate the role of SlHB15A as a sentinel to prevent fruit set in the absence of fertilization and provide a mean to enhance fruiting under extreme temperatures.
+
+SlHB15A: !inhibits! Fruit set 
+SlHB15A: !controlled by! miR166 
+SlHB15A: !binds to! auxin-related genes 
+auxin-related genes: !repressed by! SlHB15A 
+SlHB15A: !binds to! ethylene-related genes 
+ethylene-related genes: !activated by! SlHB15A 
+pat and pat-1: !alleles of! SlHB15A

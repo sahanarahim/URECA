@@ -1,0 +1,10 @@
+One pathway leading to the bioactive auxin, indole-3-acetic acid (IAA), is known as the tryptamine pathway, which is suggested to proceed in the sequence: tryptophan (Trp), tryptamine, N-hydroxytryptamine, indole-3-acetaldoxime, indole-3-acetaldehyde (IAAld), IAA. Recently, this pathway has been characterized by the YUCCA genes in Arabidopsis (Arabidopsis thaliana) and their homologs in other species. YUCCA is thought to be responsible for the conversion of tryptamine to N-hydroxytryptamine. Here we complement the genetic findings with a compound-based approach in pea (Pisum sativum), detecting potential precursors by gas chromatography/tandem-mass spectrometry. In addition, we have synthesized deuterated forms of many of the intermediates involved, and have used them to quantify the endogenous compounds, and to investigate their metabolic fates. Trp, tryptamine, IAAld, indole-3-ethanol, and IAA were detected as endogenous constituents, whereas indole-3-acetaldoxime and one of its products, indole-3-acetonitrile, were not detected. Metabolism experiments indicated that the tryptamine pathway to IAA in pea roots proceeds in the sequence: Trp, tryptamine, IAAld, IAA, with indole-3-ethanol as a side-branch product of IAAld. N-hydroxytryptamine was not detected, but we cannot exclude that it is an intermediate between tryptamine and IAAld, nor can we rule out the possibility of a Trp-independent pathway operating in pea roots.
+
+Tryptophan: !synthesizes! Tryptamine 
+YUCCA: !converts! Tryptamine 
+Tryptamine: !converts to! N-hydroxytryptamine 
+N-hydroxytryptamine: !converts to! Indole-3-acetaldoxime 
+Indole-3-acetaldoxime: !converts to! Indole-3-acetaldehyde 
+Indole-3-acetaldehyde: !converts to! IAA 
+Indole-3-acetaldehyde: !produces! Indole-3-ethanol 
+IAA: !produces! Indole-3-acetonitrile

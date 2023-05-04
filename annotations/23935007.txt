@@ -1,0 +1,6 @@
+Soil salinity is one of the most serious agricultural problems that significantly reduce crop yields in the arid and semi-arid regions. It influences various phases of plant growth and developmental processes, such as seed germination, leaf and stem growth, and reproductive propagation. Salt stress delays the onset of flowering in many plant species. We have previously reported that the Arabidopsis BROTHER OF FT AND TFL1 (BFT) acts as a floral repressor under salt stress. However, the molecular mechanisms underlying the BFT function in the salt regulation of flowering induction is unknown. In this work, we found that BFT delays flowering under high salinity by competing with FLOWERING LOCUS T (FT) for binding to the FD transcription factor. The flowering time of FD-deficient fd-2 mutant was insensitive to high salinity. BFT interacts with FD in the nucleus via the C-terminal domain of FD, which is also required for the interaction of FD with FT, and interferes with the FT-FD interaction. These observations indicate that BFT constitutes a distinct salt stress signaling pathway that modulates the function of the FT-FD module and possibly provides an adaptation strategy that fine-tunes photoperiodic flowering under high salinity.
+
+BFT: !competes with! FT 
+BFT: !interacts with! FD 
+FD: !binds to! FT 
+FD: !interacts with! BFT

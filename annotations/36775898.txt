@@ -1,0 +1,10 @@
+With climate change, longer periods without precipitation but also heavy rains will become more frequent. Thus, understanding and predicting the implications of drought-waterlogging-redrying cycles for plants is essential. We examined the effects of such events on wheat (Triticum aestivum). We measured the impacts of subsequent water treatments (drought-waterlogging-redrying) on plant shoot and root biomass, photosynthesis and transpiration, as well as on primary metabolites and transcripts of leaves. Drought and drought followed by waterlogging severely reduced shoot and root biomass. Chlorophyll fluorescence parameters and the CO<sub>2</sub> assimilation rate per unit leaf area were not affected by the treatments but, after the redrying phase, plants grown under the stress treatments showed a higher transpiration rate per unit leaf area and a lower instantaneous water use efficiency. Many organic acids of the citrate cycle were less concentrated in leaves of stressed plants, while most amino acids were more concentrated. Transcript analysis of genes involved in signaling and metabolism revealed different expression patterns. While some genes responded only to drought or drought followed by waterlogging, several genes were induced upon both treatments and some were still upregulated at the end of the redrying phase. We provide insights into how wheat responds to changes in water regimes, with some of the changes probably allowing the plants to cope with these stressors, at least to a certain degree. This article is protected by copyright. All rights reserved.
+
+drought: !reduces! shoot/root biomass
+waterlogging: !reduces! shoot/root biomass
+redrying: !increases! transpiration rate
+drought: !alters! citrate cycle metabolites
+waterlogging: !alters! citrate cycle metabolites
+drought: !induces! gene expression
+waterlogging: !induces! gene expression
+redrying: !induces! gene expression

@@ -1,0 +1,9 @@
+The dimorphic fungus Ustilago maydis switches from budding to hyphal growth on the plant surface. In response to hydrophobicity and hydroxy fatty acids, U. maydis develops infection structures called appressoria. Here, we report that, unlike in Saccharomyces cerevisiae and other fungi where Sho1 (synthetic high osmolarity sensitive) and Msb2 (multicopy suppressor of a budding defect) regulate stress responses and pseudohyphal growth, Sho1 and Msb2-like proteins play a key role during appressorium differentiation in U. maydis. Sho1 was identified through a two-hybrid screen as an interaction partner of the mitogen-activated protein (MAP) kinase Kpp6. Epistasis analysis revealed that sho1 and msb2 act upstream of the MAP kinases kpp2 and kpp6. Furthermore, Sho1 was shown to destabilize Kpp6 through direct interaction with the unique N-terminal domain in Kpp6, indicating a role of Sho1 in fine-tuning Kpp6 activity. Morphological differentiation in response to a hydrophobic surface was strongly attenuated in sho1 msb2 mutants, while hydroxy fatty acid-induced differentiation was unaffected. These data suggest that Sho1 and the transmembrane mucin Msb2 are involved in plant surface sensing in U. maydis.
+
+Sho1: !interacts with! Kpp6
+Msb2: !interacts with! Kpp6
+Sho1: !destabilizes! Kpp6
+Sho1: !regulates! stress responses
+Msb2: !regulates! pseudohyphal growth
+Sho1: !attenuates! hydrophobic surface differentiation
+Msb2: !unaffected by! hydroxy fatty acid-induced differentiation

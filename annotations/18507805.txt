@@ -1,0 +1,8 @@
+To investigate the contribution of different parts of the root system to total sap flow and leaf xylem abscisic acid (ABA) concentration ([X-ABA](leaf)), individual sunflower (Helianthus annuus L.) shoots were grafted onto the root systems of two plants grown in separate pots and sap flow through each hypocotyl measured below the graft union. During deficit irrigation (DI), both pots received the same irrigation volumes, while during partial root zone drying (PRD) one pot ('wet') was watered and another ('dry') was not. During PRD, once soil water content (theta) decreased below a threshold, the fraction of sap flow from drying roots declined. As theta declined, root xylem ABA concentration increased in both irrigation treatments, and [X-ABA](leaf) increased in DI plants, but [X-ABA](leaf) of PRD plants actually decreased within a certain theta range. A simple model that weighted ABA contributions of wet and dry root systems to [X-ABA](leaf) according to the sap flow from each, better predicted [X-ABA](leaf) of PRD plants than either [X-ABA](dry), [X-ABA](wet) or their mean. Model simulations revealed that [X-ABA](leaf) during PRD exceeded that of DI with moderate soil drying, but continued soil drying (such that sap flow from roots in drying soil ceased) resulted in the opposite effect.
+
+gene: !affects! sap flow
+gene: !localizes to! root xylem ABA concentration
+gene: !interacts with! soil water content (theta)
+gene: !enhances! [X-ABA](leaf) of DI plants
+gene: !represses! [X-ABA](leaf) of PRD plants
+gene: !synthesizes! model simulations

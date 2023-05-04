@@ -1,0 +1,8 @@
+The frame of corn harvester is prone to vibration bending and torsional deformation due to the vibration caused by field road bumps and fluctuations. It poses a serious challenge to the reliability of machinery. Therefore it is critical to explore the vibration mechanism, and to identify the vibration states under different working conditions. To address the above problem, a vibration state identification method is proposed in this paper. An improved empirical mode decomposition (EMD) algorithm was used to decrease noise for signals of high noise and non-stationary vibration in the field. The support vector machine (SVM) model was used for identification of frame vibration states under different working conditions. The results showed that: (1) an improved EMD algorithm could effectively reduce noise interference and restore the effective information of the original signal. (2) based on improved EMD - SVM method identify the vibration states of the frame with the accuracy of 99.21%. (3) The corn ears in grain tank were not sensitive to low order vibration, but had an absorption effect on high order vibration. The proposed method has the potential to be applied for accurately identifying vibration state and improving frame safety.
+
+EMD: !decreases noise for! signals 
+SVM: !identifies! frame vibration states 
+Vibration: !poses a challenge to! machinery reliability 
+Improved EMD: !restores! effective information 
+SVM: !has accuracy of! 99.21% 
+Corn ears: !absorb! high order vibration

@@ -1,0 +1,12 @@
+Wounding initiates a strong and largely jasmonate-dependent remodelling of the transcriptome in the leaf blades of Arabidopsis (Arabidopsis thaliana). How much control do jasmonates exert on wound-induced protein repatterning in leaves? Replicated shotgun proteomic analyses of 2.5-mm-wide leaf strips adjacent to wounds revealed 106 differentially regulated proteins. Many of these gene products have not emerged as being wound regulated in transcriptomic studies. From experiments using the jasmonic acid (JA)-deficient allene oxide synthase mutant we estimated that approximately 95% of wound-stimulated changes in protein levels were deregulated in the absence of JA. The levels of two tonoplast proteins already implicated in defense response regulation, TWO-PORE CHANNEL1 and the calcium-V-ATPase ACA4 increased on wounding, but their transcripts were not wound inducible. The data suggest new roles for jasmonate in controlling the levels of calcium-regulated pumps and transporters, proteins involved in targeted proteolysis, a putative bacterial virulence factor target, a light-dependent catalyst, and a key redox-controlled enzyme in glutathione synthesis. Extending the latter observation we found that wounding increased the proportion of oxidized glutathione in leaves, but only in plants able to synthesize JA. The oxidizing conditions generated through JA signaling near wounds help to define the cellular environment in which proteome remodelling occurs.
+
+jasmonate: !controls! wound-induced protein repatterning
+TWO-PORE CHANNEL1: !increases on! wounding
+ACA4: !increases on! wounding
+jasmonate: !regulates! calcium-regulated pumps and transporters
+jasmonate: !regulates! proteins involved in targeted proteolysis
+jasmonate: !regulates! bacterial virulence factor target
+jasmonate: !regulates! light-dependent catalyst
+jasmonate: !regulates! redox-controlled enzyme in glutathione synthesis
+wounding: !increases! proportion of oxidized glutathione in leaves
+jasmonate: !synthesizes! JA

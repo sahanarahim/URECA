@@ -1,0 +1,15 @@
+Soybean grain yield has steadily increased during the last century because of enhanced cultivars and better agronomic practices. Increases in the total biomass, shorter cultivars, late maturity, and extended seed-filling period are frequently reported as main contributors for better soybean performance. However, there are still processes associated with crop physiology to be improved. From the theoretical standpoint, yield is the product of efficiency of light interception (<i>Ei</i>), radiation use efficiency (<i>RUE</i>), and harvest index (<i>HI</i>). The relative contribution of these three parameters on the final grain yield (<i>GY</i>), their interrelation with other phenological-physiological traits, and their environmental stability have not been well established for soybean. In this study, we determined the additive-genetic relationship among 14 physiological and phenological traits including photosynthesis (<i>A</i>) and intrinsic water use efficiency (<i>iWUE</i>) in a panel of 383 soybean recombinant inbred lines (RILs) through direct (path analyses) and indirect learning methods [least absolute shrinkage and selection operator (LASSO) algorithm]. We evaluated the stability of <i>Ei</i>, <i>RUE</i>, and <i>HI</i> through the slope from the Finley and Wilkinson joint regression and the genetic correlation between traits evaluated in different environments. Results indicate that both supervised and unsupervised methods effectively establish the main relationships underlying changes in <i>Ei</i>, <i>RUE</i>, <i>HI</i>, and <i>GY</i>. Variations in the average growth rate of canopy coverage for the first 40 days after planting (<i>AGR40</i>) explain most of the changes in <i>Ei</i>. <i>RUE</i> is primarily influenced by phenological traits of reproductive length (<i>RL</i>) and seed-filling (<i>SFL</i>) as well as <i>iWUE</i>, light extinction coefficient (<i>K</i>), and <i>A</i>. <i>HI</i> showed a strong relationship with <i>A</i>, <i>AGR40</i>, <i>SFL</i>, and <i>RL</i>. According to the path analysis, an increase in one standard unit of <i>HI</i> promotes changes in 0.5 standard units of <i>GY</i>, while changes in the same standard unit of <i>RUE</i> and <i>Ei</i> produce increases on <i>GY</i> of 0.20 and 0.19 standard units, respectively. <i>RUE</i>, <i>Ei</i>, and <i>HI</i> exhibited better environmental stability than <i>GY</i>, although changes associated with year and location showed a moderate effect in <i>Ei</i> and <i>RUE</i>, respectively. This study brings insight into a group of traits involving <i>A</i>, <i>iWUE</i>, and <i>RL</i> to be prioritized during the breeding process for high-yielding cultivars.
+
+AGR40: !influences! Ei
+RL: !influences! RUE
+SFL: !influences! RUE
+K: !influences! RUE
+A: !influences! RUE, HI
+iWUE: !influences! RUE
+HI: !influences! GY
+Ei: !influences! GY
+RUE: !influences! GY
+GY: !affected by! Ei, RUE, HI
+Ei: !exhibits! environmental stability
+RUE: !exhibits! environmental stability
+HI: !exhibits! environmental stability

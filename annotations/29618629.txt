@@ -1,0 +1,9 @@
+['29618629', 'The rhythms of steady-state mRNA expression pervade nearly all circadian systems.  However, the mechanisms behind the rhythmic transcriptional synthesis and its  correlation with circadian expression remain fully unexplored, particularly in  plants. Here, we discovered a multifunctional protein complex that orchestrates  the rhythms of transcriptional activity in Arabidopsis thaliana The expression of  the circadian oscillator genes TIMING OF CAB EXPRESSION1/PSEUDO-RESPONSE  REGULATOR1 and PSEUDO-RESPONSE REGULATOR5 initially relies on the modular  function of the clock-related factor REVEILLE8: its MYB domain provides the DNA  binding specificity, while its LCL domain recruits the clock components, NIGHT  LIGHT-INDUCIBLE AND CLOCK-REGULATED proteins (LNKs), to target promoters. LNKs,  in turn, specifically interact with RNA Polymerase II and the transcript  elongation FACT complex to rhythmically co-occupy the target loci. The functional  interaction of these components is central for chromatin status, transcript  initiation, and elongation as well as for proper rhythms in nascent RNAs. Thus,  our findings explain how genome readout of environmental information ultimately  results in rhythmic changes of gene expression.', '2018 Apr', 'Plant Cell', '10.1105/tpc.18.00052', 'ORCID:']
+
+REVEILLE8: !binds to! DNA 
+REVEILLE8: !recruits! LNKs 
+LNKs: !interact with! RNA Polymerase II 
+LNKs: !interact with! FACT complex 
+FACT complex: !influences! chromatin status 
+FACT complex: !influences! transcript initiation 
+FACT complex: !influences! transcript elongation

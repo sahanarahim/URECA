@@ -1,0 +1,11 @@
+['19122102', 'It has previously been shown that SECONDARY WALL-ASSOCIATED NAC DOMAIN PROTEIN1  (SND1) is a key transcription factor regulating secondary cell wall formation,  including the biosynthesis of cellulose, xylan, and lignin. In this study, we  show that two closely related SND1-regulated MYB transcription factors, MYB58 and  MYB63, are transcriptional regulators specifically activating lignin biosynthetic  genes during secondary wall formation in Arabidopsis thaliana. MYB58 and MYB63  are phylogenetically distinct from previously characterized MYBs shown to be  associated with secondary wall formation or phenylpropanoid metabolism.  Expression studies showed that MYB58 and MYB63 are specifically expressed in  fibers and vessels undergoing secondary wall thickening. Dominant repression of  their functions led to a reduction in secondary wall thickening and lignin  content. Overexpression of MYB58 and MYB63 resulted in specific activation of  lignin biosynthetic genes and concomitant ectopic deposition of lignin in cells  that are normally unlignified. MYB58 was able to activate directly the expression  of lignin biosynthetic genes and a secondary wall-associated laccase (LAC4) gene.  Furthermore, the expression of MYB58 and MYB63 was shown to be regulated by the  SND1 close homologs NST1, NST2, VND6, and VND7 and their downstream target MYB46.  Together, our results indicate that MYB58 and MYB63 are specific transcriptional  activators of lignin biosynthesis in the SND1-mediated transcriptional network  regulating secondary wall formation.', '2009 Jan', 'Plant Cell', '10.1105/tpc.108.063321', 'Ye']
+
+SND1: !regulates! secondary cell wall formation 
+MYB58/63: !regulated by! SND1 
+MYB58/63: !activate! lignin biosynthetic genes 
+MYB58/63: !express in! fibers and vessels 
+MYB58/63: !repress! secondary wall thickening 
+MYB58/63: !overexpress! ectopic deposition of lignin 
+MYB58: !activates! lignin biosynthetic genes 
+NST1/2, VND6/7: !regulate! MYB58/63 
+MYB46: !downstream target of! NST1/2, VND6/7

@@ -1,0 +1,6 @@
+The chemical complexity of metabolomes goes hand in hand with their functional diversity. Small molecules have many essential roles, many of which are executed by binding and modulating the function of a protein partner. The complex and dynamic protein-metabolite interaction (PMI) network underlies most if not all biological processes, but remains under-characterized. Herein, we highlight how co-fractionation mass spectrometry (CF-MS), a well-established approach to map protein assemblies, can be used for proteome and metabolome identification of the PMIs. We will review recent CF-MS studies, discuss the main advantages and limitations, summarize the available CF-MS guidelines, and outline future challenges and opportunities.
+
+protein: !binds! metabolite 
+metabolite: !modulates! protein 
+CF-MS: !identifies! PMIs 
+CF-MS: !maps! protein assemblies

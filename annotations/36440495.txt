@@ -1,0 +1,12 @@
+Phytochrome B (PhyB), a red-light receptor, plays important roles in diverse biological processes in plants; however, its function in NH<sub>4</sub> <sup>+</sup> uptake and stress responses of plants is unclear. Here, we observed that mutation in indeterminate domain 10 (IDD10), which encodes a key transcription factor in NH<sub>4</sub> <sup>+</sup> signaling, led to NH<sub>4</sub> <sup>+</sup> -sensitive root growth in light but not in the dark. Genetic combinations of idd10 and phy mutants demonstrated that phyB, but not phyA or phyC, suppressed NH<sub>4</sub> <sup>+</sup> -sensitive root growth of idd10. PhyB mutants and PhyB overexpressors (PhyB OXs) accumulated more and less NH<sub>4</sub> <sup>+</sup> , respectively, compared with wild-type plants. Real time quantitative polymerase chain reaction (RT-qPCR) revealed that PhyB negatively regulated NH<sub>4</sub> <sup>+</sup> -mediated induction of Ammonium transporter 1;2 (AMT1;2). AMT1 RNAi plants with suppressed AMT1;1, AMT1;2, and AMT1;3 expression exhibited shorter primary roots under NH<sub>4</sub> <sup>+</sup> conditions. This suggested that NH<sub>4</sub> <sup>+</sup> uptake might be positively associated with root growth. Further, PhyB interacted with and inhibited IDD10 and brassinazole-resistant 1 (BZR1). IDD10 interacted with BZR1 to activate AMT1;2. NH<sub>4</sub> <sup>+</sup> uptake is known to promote resistance of rice (Oryza sativa) to sheath blight (ShB) and saline-alkaline stress. Inoculation of Rhizoctonia solani demonstrated that PhyB and IDD10 negatively regulated and AMT1 and BZR1 positively regulated resistance of rice to ShB. In addition, PhyB negatively regulated and IDD10 and AMT1 positively regulated resistance of rice to saline-alkaline stress. This suggested that PhyB-IDD10-AMT1;2 signaling regulates the saline-alkaline response, whereas the PhyB-BZR1-AMT1;2 pathway modulates ShB resistance. Collectively, these data prove that mutation in the PhyB gene enhances the resistance of rice to ShB and saline-alkaline stress by increasing NH<sub>4</sub> <sup>+</sup> uptake.
+
+PhyB: !suppresses! NH<sub>4</sub> <sup>+</sup>-sensitive root growth 
+PhyB: !negatively regulates! NH<sub>4</sub> <sup>+</sup>-mediated induction of AMT1;2 
+PhyB: !interacts with and inhibits! IDD10 
+PhyB: !interacts with and inhibits! BZR1 
+IDD10: !interacts with! BZR1 
+IDD10: !activates! AMT1;2 
+AMT1: !promotes! resistance to ShB 
+AMT1: !promotes! resistance to saline-alkaline stress 
+BZR1: !activates! AMT1;2 
+BZR1: !modulates! ShB resistance

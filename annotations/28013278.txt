@@ -1,0 +1,18 @@
+ThaleMine (https://apps.araport.org/thalemine/) is a comprehensive data warehouse that integrates a wide array of genomic information of the model plant Arabidopsis thaliana. The data collection currently includes the latest structural and functional annotation from the Araport11 update, the Col-0 genome sequence, RNA-seq and array expression, co-expression, protein interactions, homologs, pathways, publications, alleles, germplasm and phenotypes. The data are collected from a wide variety of public resources. Users can browse gene-specific data through Gene Report pages, identify and create gene lists based on experiments or indexed keywords, and run GO enrichment analysis to investigate the biological significance of selected gene sets. Developed by the Arabidopsis Information Portal project (Araport, https://www.araport.org/), ThaleMine uses the InterMine software framework, which builds well-structured data, and provides powerful data query and analysis functionality. The warehoused data can be accessed by users via graphical interfaces, as well as programmatically via web-services. Here we describe recent developments in ThaleMine including new features and extensions, and discuss future improvements. InterMine has been broadly adopted by the model organism research community including nematode, rat, mouse, zebrafish, budding yeast, the modENCODE project, as well as being used for human data. ThaleMine is the first InterMine developed for a plant model. As additional new plant InterMines are developed by the legume and other plant research communities, the potential of cross-organism integrative data analysis will be further enabled.
+
+Gene: !affects! Process 
+Gene: !localizes to! X 
+Gene: !interacts with! Y 
+Gene: !enhances! Z 
+Gene: !represses! U 
+Gene: !synthesizes! I 
+Gene: !browses! Data 
+Gene: !identifies! Gene Lists 
+Gene: !runs! GO Enrichment Analysis 
+Gene: !accesses! Graphical Interfaces 
+Gene: !programmatically accesses! Web-Services 
+ThaleMine: !integrates! Genomic Information 
+ThaleMine: !collects! Data 
+ThaleMine: !uses! InterMine Software Framework 
+InterMine: !broadly adopted! Model Organism Research Community 
+InterMine: !enables! Cross-Organism Integrative Data Analysis

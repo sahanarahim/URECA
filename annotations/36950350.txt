@@ -1,0 +1,11 @@
+LTR-retrotransposons (LTR-RTs) are a large group of transposable elements that replicate through an RNA intermediate and alter genome structure. The activities of LTR-RTs in plant genomes provide helpful information about genome evolution and gene function. LTR-RTs near or within genes can directly alter gene function. This work introduces PlantLTRdb, an intact LTR-RT database for 195 plant species. Using homology- and <i>de novo</i> structure-based methods, a total of 150.18 Gbp representing 3,079,469 pseudomolecules/scaffolds were analyzed to identify, characterize, annotate LTR-RTs, estimate insertion ages, detect LTR-RT-gene chimeras, and determine nearby genes. Accordingly, 520,194 intact LTR-RTs were discovered, including 29,462 autonomous and 490,732 nonautonomous LTR-RTs. The autonomous LTR-RTs included 10,286 <i>Gypsy</i> and 19,176 <i>Copia</i>, while the nonautonomous were divided into 224,906 <i>Gypsy</i>, 218,414 <i>Copia</i>, 1,768 BARE-2, 3,147 TR-GAG and 4,2497 unknown. Analysis of the identified LTR-RTs located within genes showed that a total of 36,236 LTR-RTs were LTR-RT-gene chimeras and 11,619 LTR-RTs were within pseudo-genes. In addition, 50,026 genes are within 1 kbp of LTR-RTs, and 250,587 had a distance of 1 to 10 kbp from LTR-RTs. PlantLTRdb allows researchers to search, visualize, BLAST and analyze plant LTR-RTs. PlantLTRdb can contribute to the understanding of structural variations, genome organization, functional genomics, and the development of LTR-RT target markers for molecular plant breeding. PlantLTRdb is available at https://bioinformatics.um6p.ma/PlantLTRdb.
+
+LTR-RTs: !alter! genome structure
+LTR-RTs: !directly affect! gene function
+LTR-RTs: !locate near or within! genes
+LTR-RTs: !divide into! autonomous and nonautonomous
+LTR-RTs: !include! Gypsy, Copia, BARE-2, TR-GAG, unknown
+LTR-RTs: !are chimeras with! 36,236 genes
+LTR-RTs: !are within! 11,619 pseudo-genes
+LTR-RTs: !are within 1 kbp of! 50,026 genes
+LTR-RTs: !are within 1-10 kbp of! 250,587 genes

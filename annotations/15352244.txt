@@ -1,0 +1,12 @@
+['15352244', 'Proteomics was used to search for putative thioredoxin (TRX) targets in leaves of  the model plant, Arabidopsis thaliana. About forty different proteins have been  found to be reduced by TRX, after TRX itself has been specifically reduced by its  NADPH-dependent reductase. Twenty-one of the identified proteins were already  known or recently proposed to be TRX-dependent and nineteen of the proteins were  new potential targets. The identified proteins are involved in a wide variety of  processes, including the Calvin cycle, metabolism, photosynthesis, folding,  defense against oxidative stress and amino acid synthesis. Two proteins from the  glycine cleavage complex were also identified as putative TRX targets, and a new  role can be postulated in leaves for TRX in defense against herbivores and/or  pathogens.', '2004 Sep', 'Proteomics', '10.1002/pmic.200400805', 'Decottignies']
+
+TRX: !reduces! Proteins 
+NADPH-dependent reductase: !reduces! TRX 
+Calvin cycle: !involves! Proteins 
+Metabolism: !involves! Proteins 
+Photosynthesis: !involves! Proteins 
+Folding: !involves! Proteins 
+Oxidative stress: !involves! Proteins 
+Amino acid synthesis: !involves! Proteins 
+Glycine cleavage complex: !involves! Proteins 
+Herbivores/Pathogens: !defended against by! TRX

@@ -1,0 +1,10 @@
+Petunia mutants (Petunia hybrida) with blue flowers defined a novel vacuolar proton pump consisting of two interacting P-ATPases, PH1 and PH5, that hyper-acidify the vacuoles of petal cells. PH5 is similar to plasma membrane H(+) P3A -ATPase, whereas PH1 is the only known eukaryoticP3B -ATPase. As there were no indications that this tonoplast pump is widespread in plants, we investigated the distribution and evolution of PH1 and PH5. We combined database mining and phylogenetic and synteny analyses of PH1- and PH5-like proteins from all kingdoms with functional analyses (mutant complementation and intracellular localization) of homologs from diverse angiosperms. We identified functional PH1 and PH5 homologs in divergent angiosperms. PH5 homologs evolved from plasma membrane P3A -ATPases, acquiring an N-terminal tonoplast-sorting sequence and new cellular function before angiosperms appeared. PH1 is widespread among seed plants and related proteins are found in some groups of bacteria and fungi and in one moss, but is absent in most algae, suggesting that its evolution involved several cases of gene loss and possibly horizontal transfer events. The distribution of PH1 and PH5 in the plant kingdom suggests that vacuolar acidification by P-ATPases appeared in gymnosperms before flowers. This implies that, next to flower color determination, vacuolar hyper-acidification is required for yet unknown processes.
+
+PH1: !synthesizes! vacuolar proton pump
+PH5: !interacts with! PH1
+PH1: !evolved from! seed plants
+PH5: !evolved from! plasma membrane P3A -ATPases
+PH1: !distributed in! divergent angiosperms
+PH5: !acquired! N-terminal tonoplast-sorting sequence
+PH1: !absent in! most algae
+PH5: !required for! flower color determination

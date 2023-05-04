@@ -1,0 +1,12 @@
+Crop Wild Relatives (CWR) are a valuable source of genetic diversity that can be transferred to commercial crops, so their conservation will become a priority in the face of climate change. Bizarrely, <i>in situ</i> conserved CWR populations and the traits one might wish to preserve in them are themselves vulnerable to climate change. In this study, we used a quantitative machine learning predictive approach to project the resistance of CWR populations of lentils to a common disease, lentil rust, caused by fungus <i>Uromyces viciae-fabae</i>. Resistance is measured through a proxy quantitative value, DSr (Disease Severity relative), quite complex and expensive to get. Therefore, machine learning is a convenient tool to predict this magnitude using a well-curated georeferenced calibration set. Previous works have provided a binary outcome (resistant <i>vs.</i> non-resistant), but that approach is not fine enough to answer three practical questions: which variables are key to predict rust resistance, which CWR populations are resistant to rust under current environmental conditions, and which of them are likely to keep this trait under different climate change scenarios. We first predict rust resistance in present time for crop wild relatives that grow up inside protected areas. Then, we use the same models under future climate IPCC (Intergovernmental Panel on Climate Change) scenarios to predict future DSr values. Populations that are rust-resistant by now and under future conditions are optimal candidates for further evaluation and <i>in situ</i> conservation of this valuable trait. We have found that rust-resistance variation as a result of climate change is not uniform across the geographic scope of the study (the Mediterranean basin), and that candidate populations share some interesting common environmental conditions.
+
+CWR: !contain! genetic diversity 
+CWR: !vulnerable to! climate change 
+machine learning: !used to predict! rust resistance 
+DSr: !measures! rust resistance 
+variables: !key to predict! rust resistance 
+CWR populations: !resistant to! rust 
+CWR populations: !likely to keep! trait under climate change 
+CWR populations: !optimal candidates for! further evaluation 
+climate change: !not uniform across! geographic scope 
+candidate populations: !share! common environmental conditions

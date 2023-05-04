@@ -1,0 +1,7 @@
+To optimize shoot growth and structure of cereals, we need to understand the genetic components controlling initiation and elongation. While measuring total shoot growth at high throughput using 2D imaging has progressed, recovering the 3D shoot structure of small grain cereals at a large scale is still challenging. Here, we present a method for measuring defined individual leaves of cereals, such as wheat and barley, using few images. Plant shoot modelling over time was used to measure the initiation and elongation of leaves in a bi-parental barley mapping population under low and high soil salinity. We detected quantitative trait loci (QTL) related to shoot growth per se, using both simple 2D total shoot measurements and our approach of measuring individual leaves. In addition, we detected QTL specific to leaf elongation and not to total shoot size. Of particular importance was the detection of a QTL on chromosome 3H specific to the early responses of leaf elongation to salt stress, a locus that could not be detected without the computer vision tools developed in this study.
+
+Gene: !affects! Shoot growth 
+Gene: !localizes to! Chromosome 3H 
+Gene: !enhances! Leaf elongation 
+Gene: !represses! Total shoot size 
+Gene: !synthesizes! QTLs

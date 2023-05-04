@@ -1,0 +1,7 @@
+In plants, two spatially separated pathways provide the precursors for isoprenoid biosynthesis. We generated transgenic Arabidopsis (Arabidopsis thaliana) lines with modulated levels of expression of each individual gene involved in the cytosolic/peroxisomal mevalonate and plastidial methylerythritol phosphate pathways. By assessing the correlation of transgene expression levels with isoprenoid marker metabolites (gene-to-metabolite correlation), we determined the relative importance of transcriptional control at each individual step of isoprenoid precursor biosynthesis. The accumulation patterns of metabolic intermediates (metabolite-to-gene correlation) were then used to infer flux bottlenecks in the sterol pathway. The extent of metabolic cross talk, the exchange of isoprenoid intermediates between compartmentalized pathways, was assessed by a combination of gene-to-metabolite and metabolite-to-metabolite correlation analyses. This strategy allowed the selection of genes to be modulated by metabolic engineering, and we demonstrate that the overexpression of predictable combinations of genes can be used to significantly enhance flux toward specific end products of the sterol pathway. Transgenic plants accumulating increased amounts of sterols are characterized by significantly elevated biomass, which can be a desirable trait in crop and biofuel plants.
+
+Gene: !affects! Metabolite 
+Metabolite: !correlates with! Gene 
+Gene: !enhances! Flux 
+Flux: !increases! Biomass 
+Gene: !overexpresses! End product

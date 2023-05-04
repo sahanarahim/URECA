@@ -1,0 +1,12 @@
+Chlorophyll f (Chl f) permits some cyanobacteria to expand the spectral range for photosynthesis by absorbing far-red light. We used reverse genetics and heterologous expression to identify the enzyme for Chl f synthesis. Null mutants of "super-rogue" psbA4 genes, divergent paralogs of psbA genes encoding the D1 core subunit of photosystem II, abolished Chl f synthesis in two cyanobacteria that grow in far-red light. Heterologous expression of the psbA4 gene, which we rename chlF, enables Chl f biosynthesis in Synechococcus sp. PCC 7002. Because the reaction requires light, Chl f synthase is probably a photo-oxidoreductase that employs catalytically useful Chl a molecules, tyrosine YZ, and plastoquinone (as does photosystem II) but lacks a Mn4Ca1O5 cluster. Introduction of Chl f biosynthesis into crop plants could expand their ability to use solar energy.
+
+psbA4: !encodes! Chl f synthase 
+Chl f synthase: !requires! light 
+Chl f synthase: !employs! Chl a molecules 
+Chl f synthase: !employs! tyrosine YZ 
+Chl f synthase: !employs! plastoquinone 
+Chl f synthase: !lacks! Mn4Ca1O5 cluster 
+Cyanobacteria: !synthesize! Chl f 
+Null mutants of psbA4: !abolish! Chl f synthesis 
+Synechococcus sp. PCC 7002: !enable! Chl f biosynthesis 
+Crop plants: !could expand! ability to use solar energy

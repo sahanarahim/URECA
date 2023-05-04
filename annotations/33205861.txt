@@ -1,0 +1,11 @@
+In plants, recognition of small secreted peptides, such as damage/danger-associated molecular patterns (DAMPs), regulates diverse processes, including stress and immune responses. Here, we identified an SGPS (Ser-Gly-Pro-Ser) motif-containing peptide, Nicotiana tabacum NtPROPPI, and its two homologs in Nicotiana benthamiana, NbPROPPI1 and NbPROPPI2. Phytophthora parasitica infection and salicylic acid (SA) treatment induced NbPROPPI1/2 expression. Moreover, SignalP predicted that the 89-amino acid NtPROPPI includes a 24-amino acid N-terminal signal peptide and NbPROPPI1/2-GFP fusion proteins were mainly localized to the periplasm. Transient expression of NbPROPPI1/2 inhibited P. parasitica colonization, and NbPROPPI1/2 knockdown rendered plants more susceptible to P. parasitica. An eight-amino-acid segment in the NbPROPPI1 C-terminus was essential for its immune function and a synthetic 20-residue peptide, NbPPI1, derived from the C-terminus of NbPROPPI1 provoked significant immune responses in N. benthamiana. These responses led to enhanced accumulation of reactive oxygen species, activation of mitogen-activated protein kinases, and up-regulation of the defense genes Flg22-induced receptor-like kinase (FRK) and WRKY DNA-binding protein 33 (WRKY33). The NbPPI1-induced defense responses require Brassinosteroid insensitive 1-associated receptor kinase 1 (BAK1). These results suggest that NbPPI1 functions as a DAMP in N. benthamiana; this novel DAMP provides a potentially useful target for improving plant resistance to Pytophthora pathogens.
+
+NtPROPPI: !contains! SGPS motif
+NbPROPPI1/2: !induced by! P. parasitica infection/SA treatment
+NbPROPPI1/2: !localized to! periplasm
+NbPROPPI1/2: !inhibits! P. parasitica colonization
+NbPPI1: !derived from! NbPROPPI1 C-terminus
+NbPPI1: !provokes! immune responses
+NbPPI1: !enhances! ROS accumulation/MAPK activation/FRK/WRKY33 up-regulation
+NbPPI1: !requires! BAK1
+NbPPI1: !functions as! DAMP

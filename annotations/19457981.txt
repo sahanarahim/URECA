@@ -1,0 +1,8 @@
+CBF transcription factors play central roles in the control of freezing tolerance in plants. The isolation of two additional CBF genes, EguCBF1c and EguCBF1d, from E. gunnii, one of the cold-hardiest Eucalyptus species, is described. While the EguCBF1D protein sequence is very similar to the previously characterized EguCBF1A and EguCBF1B sequences, EguCBF1C is more distinctive, in particular in the AP2-DBD (AP2-DNA binding domain). The expression analysis of the four genes by RT-qPCR reveals that none of them is specific to one stress but they are all preferentially induced by cold, except for the EguCBF1c gene which is more responsive to salt. The calculation of the transcript copy number enables the quantification of constitutive CBF gene expression. This basal level, significant for the four genes, greatly influences the final EguCBF1 transcript level in the cold. A cold shock at 4 degrees C, as well as a progressive freezing which mimics a natural frost episode, trigger a fast and strong response of the EguCBF1 genes, while growth at acclimating temperatures results in a lower but more durable induction. The differential expression of the four EguCBF1 genes under these cold regimes suggests that there is a complementary regulation. The high accumulation of the CBF transcript, observed in response to the different types of cold conditions, might be a key for the winter survival of this evergreen broad-leaved tree.
+
+EguCBF1A: !induces! Cold
+EguCBF1B: !induces! Cold
+EguCBF1C: !induces! Salt
+EguCBF1D: !induces! Cold
+Cold: !triggers! EguCBF1 genes
+Acclimating temperatures: !induces! Lower but more durable EguCBF1 transcript level

@@ -1,0 +1,16 @@
+The family of maize Kip-related proteins (KRPs) has been studied and a nomenclature based on the relationship to rice KRP genes is proposed. Expression studies of KRP genes indicate that all are expressed at 24 h of seed germination but expression is differential in the different tissues of maize plantlets. Recombinant KRP1;1 and KRP4;2 proteins, members of different KRP classes, were used to study association to and inhibitory activity on different maize cyclin D (CycD)-cyclin-dependent kinase (CDK) complexes. Kinase activity in CycD2;2-CDK, CycD4;2-CDK, and CycD5;3-CDK complexes was inhibited by both KRPs; however, only KRP1;1 inhibited activity in the CycD6;1-CDK complex, not KRP4;2. Whereas KRP1;1 associated with either CycD2;2 or CycD6;1, and to cyclin-dependent kinase A (CDKA) recombinant proteins, forming ternary complexes, KRP4;2 bound CDKA and CycD2;2 but did not bind CycD6;1, establishing a differential association capacity. All CycD-CDK complexes included here phosphorylated both the retinoblastoma-related (RBR) protein and the two KRPs; interestingly, while KRP4;2 phosphorylated by the CycD2;2-CDK complex increased its inhibitory capacity, when phosphorylated by the CycD6;1-CDK complex the inhibitory capacity was reduced or eliminated. Evidence suggests that the phosphorylated residues in KRP4;2 may be different for every kinase, and this would influence its performance as a cyclin-CDK inhibitor.
+
+KRP1;1: !inhibits! CycD2;2-CDK
+KRP1;1: !inhibits! CycD4;2-CDK
+KRP1;1: !inhibits! CycD5;3-CDK
+KRP1;1: !inhibits! CycD6;1-CDK
+KRP1;1: !associates with! CycD2;2
+KRP1;1: !associates with! CycD6;1
+KRP1;1: !associates with! CDKA
+KRP4;2: !inhibits! CycD2;2-CDK
+KRP4;2: !inhibits! CycD4;2-CDK
+KRP4;2: !inhibits! CycD5;3-CDK
+KRP4;2: !associates with! CDKA
+KRP4;2: !associates with! CycD2;2
+RBR: !phosphorylated by! CycD2;2-CDK
+RBR

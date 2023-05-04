@@ -1,0 +1,16 @@
+Clarifying the response of community and dominance species to climate change is crucial for disentangling the mechanism of the ecosystem evolution and predicting the prospective dynamics of communities under the global climate scenario. We examined how precipitation changes affect community structure and aboveground biomass (AGB) according to manipulated precipitation experiments in the desert steppe of Inner Mongolia, China. Bayesian model and structural equation models (SEM) were used to test variation and causal relationship among precipitation, plant diversity, functional attributes, and AGB. The results showed that the responses of species richness, evenness, and plant community weighted means traits to precipitation changes in amount and year were significant. The SEM demonstrated that precipitation change in amount and year has a direct effect on richness, evenness, and community-weighted mean (CWM) for height, leaf area (LA), specific leaf area (SLA), leaf dry matter content (LDMC), leaf nitrogen content (LNC), and leaf carbon content (LCC) and AGB; there into CWM for height and LDMC had a direct positive effect on AGB; LA had a direct negative effect on AGB. Three dominant species showed diverse adaptation and resource utilization strategies in response to precipitation changes. <i>A. polyrhizum</i> showed an increase in height under the precipitation treatments that promoted AGB, whereas the AGB of <i>P. harmala</i> and <i>S. glareosa</i> was boosted through alterations in height and LA. Our results highlight the asynchronism of variation in community composition and structure, leaf functional traits in precipitation-AGB relationship. We proposed that altered AGB resulted from the direct and indirect effects of plant functional traits (plant height, LA, LDMC) rather than species diversity, plant functional traits are likely candidate traits, given that they are mechanistically linked to precipitation changes and affected aboveground biomass in a desert steppe.
+
+precipitation: !affects! species richness
+precipitation: !affects! evenness
+precipitation: !affects! CWM for height
+precipitation: !affects! LA
+precipitation: !affects! SLA
+precipitation: !affects! LDMC
+precipitation: !affects! LNC
+precipitation: !affects! LCC
+precipitation: !affects! AGB
+CWM for height: !enhances! AGB
+LA: !represses! AGB
+A. polyrhizum: !increases! height
+P. harmala: !boosts! AGB through alterations in height and LA
+S. glareosa: !boosts! AGB through alterations in height and LA

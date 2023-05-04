@@ -1,0 +1,7 @@
+The biosynthesis of the main auxin in plants (indole-3-acetic acid [IAA]) has been elucidated recently and is thought to involve the sequential conversion of Trp to indole-3-pyruvic acid to IAA However, the pathway leading to a less well studied auxin, phenylacetic acid (PAA), remains unclear. Here, we present evidence from metabolism experiments that PAA is synthesized from the amino acid Phe, via phenylpyruvate. In pea (Pisum sativum), the reverse reaction, phenylpyruvate to Phe, is also demonstrated. However, despite similarities between the pathways leading to IAA and PAA, evidence from mutants in pea and maize (Zea mays) indicate that IAA biosynthetic enzymes are not the main enzymes for PAA biosynthesis. Instead, we identified a putative aromatic aminotransferase (PsArAT) from pea that may function in the PAA synthesis pathway.
+
+Phe: !synthesizes! PAA
+PsArAT: !synthesizes! PAA
+Trp: !converts to! indole-3-pyruvic acid
+indole-3-pyruvic acid: !converts to! IAA
+IAA biosynthetic enzymes: !not involved in! PAA biosynthesis

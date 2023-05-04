@@ -1,0 +1,8 @@
+Small GTPases play critical roles in the regulation of plant growth and development. However, the mechanism of action of small GTPases in plant response to virus infection remains largely unknown. Here, the gene encoding a Rho-type GTPase, NtRHO1, was identified as one of the genes up-regulated after tobacco mosaic virus (TMV) infection. Subcellular localization of NtRHO1 showed that it was located in the cytoplasm, plasma membrane, and nucleus. Transient overexpression of NtRHO1 in Nicotiana benthamiana accelerated TMV reproduction and led to the production of reactive oxygen species. By contrast, silencing of NtRHO1 reduced the sensitivity of N. benthamiana to TMV-GFP. Further exploration revealed a direct interaction between NtRHO1 and NtWRKY50, a positive regulator of the N. benthamiana response to virus infection. Yeast one-hybrid and electrophoretic mobility shift assays showed that this regulation was related to the capacity of NtWRKY50 to bind to the WK-box of the PR1 promoter, which was weakened by the interaction between NtRHO1 and NtWRKY50. Thus, our results indicate that the small GTPase NtRHO1 plays a negative role in tobacco response to TMV infection by interacting with transcription factor NtWRKY50, resulting in reduced plant immunity.
+
+NtRHO1: !localizes to! cytoplasm, plasma membrane, nucleus
+NtRHO1: !enhances! TMV reproduction
+NtRHO1: !represses! N. benthamiana response to virus infection
+NtRHO1: !interacts with! NtWRKY50
+NtWRKY50: !binds to! WK-box of PR1 promoter
+NtRHO1: !weakens! NtWRKY50 binding

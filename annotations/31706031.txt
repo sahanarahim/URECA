@@ -1,0 +1,9 @@
+Suppression mechanisms mediated by transcriptional repressors commonly exist in diverse phytohormone signaling pathways. In Arabidopsis thaliana, JASMONATE-ZIM DOMAIN (JAZ) proteins are transcriptional repressors that function as negative regulators of diverse JA responses. Novel Interactor of JAZ (NINJA) is an adaptor protein connecting JAZs with the co-repressor, TOPLESS (TPL), to mediate gene repression in JA-dependent root growth inhibition and defense pathways. However, whether NINJA or other adaptor proteins are employed in other JA-responsive biological processes remains to be elucidated. In the present study, we demonstrate that a previously uncharacterized protein, ECAP (EAR motif-Containing Adaptor Protein), directly interacts with JAZ6 and JAZ8 and enhances their transcriptional repression activities. We provide evidence that ECAP is a novel adaptor protein for JAZ6/8 recruitment of the transcriptional co-repressor, TOPLESS-RELATED 2 (TPR2), into a transcriptional repressor complex that represses the WD-repeat/bHLH/MYB complex, an important transcriptional activator in the JA-dependent anthocyanin biosynthesis pathway. Our findings, together with previous reports, reveal that specific adaptor proteins play a critical role in distinct JA responses by pairing different JAZs (which possess overlapping but also specific functions) with the general co-repressors, TPL and TPRs.
+
+JAZ: !interacts with! NINJA
+JAZ: !interacts with! ECAP
+ECAP: !enhances! JAZ
+JAZ: !recruits! TPL
+JAZ: !recruits! TPR2
+TPL: !mediates! gene repression
+TPR2: !represses! WD-repeat/bHLH/MYB complex

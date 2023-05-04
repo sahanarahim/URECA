@@ -1,0 +1,8 @@
+Protein-protein interactions (PPIs) are essential to almost all cellular processes. To better understand the relationships of proteins in Arabidopsis (Arabidopsis thaliana), we have developed a genome-wide protein interaction network (AraPPINet) that is inferred from both three-dimensional structures and functional evidence and that encompasses 316,747 high-confidence interactions among 12,574 proteins. AraPPINet exhibited high predictive power for discovering protein interactions at a 50% true positive rate and for discriminating positive interactions from similar protein pairs at a 70% true positive rate. Experimental evaluation of a set of predicted PPIs demonstrated the ability of AraPPINet to identify novel protein interactions involved in a specific process at an approximately 100-fold greater accuracy than random protein-protein pairs in a test case of abscisic acid (ABA) signaling. Genetic analysis of an experimentally validated, predicted interaction between ARR1 and PYL1 uncovered cross talk between ABA and cytokinin signaling in the control of root growth. Therefore, we demonstrate the power of AraPPINet (http://netbio.sjtu.edu.cn/arappinet/) as a resource for discovering gene function in converging signaling pathways and complex traits in plants.
+
+Protein-protein interactions: !essential to! cellular processes 
+AraPPINet: !predicts! protein interactions 
+AraPPINet: !discriminates! positive interactions 
+Experimental evaluation: !demonstrates ability of! AraPPINet 
+Genetic analysis: !uncovers cross talk between! ABA and cytokinin signaling 
+AraPPINet: !discovers gene function in! converging signaling pathways

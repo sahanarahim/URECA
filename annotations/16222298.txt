@@ -1,0 +1,9 @@
+['16222298', 'Leaves of flowering plants are determinate organs produced by pluripotent  structures termed shoot apical meristems. Once specified, leaves differentiate an  adaxial (upper) side specialized for light capture, and an abaxial (lower) side  specialized for gas exchange. A functional relationship between meristem activity  and the differentiation of adaxial leaf fate has been recognized for over fifty  years, but the molecular basis of this interaction is unclear. In Arabidopsis  thaliana, activity of the class I KNOX (KNOTTED1-like homeobox) genes  SHOOTMERISTEMLESS (STM) and BREVIPEDICELLUS (BP) is required for meristem  function but excluded from leaves, whereas members of the HD-Zip III (class III  homeodomain leucine zipper) protein family function to promote both meristem  activity and adaxial leaf fate. Here we show that the zinc-finger protein SERRATE  acts in a microRNA (miRNA) gene-silencing pathway to regulate expression of the  HD-Zip III gene PHABULOSA (PHB) while also limiting the competence of shoot  tissue to respond to KNOX expression. Thus, SERRATE acts to coordinately regulate  meristem activity and leaf axial patterning.', '2005 Oct 13', 'Nature', '10.1038/nature04052', 'Tsiantis']
+
+STM: !excludes from! Leaves
+BP: !excludes from! Leaves
+SERRATE: !regulates expression of! PHB
+SERRATE: !limits competence of! Shoot tissue
+STM/BP: !required for! Meristem function
+HD-Zip III: !promotes! Meristem activity and adaxial leaf fate
+SERRATE: !coordinately regulates! Meristem activity and leaf axial patterning

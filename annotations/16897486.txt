@@ -1,0 +1,8 @@
+We developed a novel system for gene activation in plastids that uses the CRE/loxP site-specific recombination system to create a translatable reading frame by excision of a blocking sequence. To test the system, we introduced an inactive gfp* gene into the tobacco plastid genome downstream of the selectable spectinomcyin resistance (aadA) marker gene. The aadA gene is the blocking sequence, and is flanked by directly oriented loxP sites for excision by the CRE. In the non-activated state, gfp* is transcribed from the aadA promoter, but the mRNA is not translated due to the lack of an AUG translation initiation codon. Green Fluorescent Protein (GFP) expression is activated by excision of the aadA coding segment to link up the gfp* coding region with the translation initiation codon of aadA. Tobacco plants that carry the inactive gfp* gene do not contain detectable levels of GFP. However, activation of gfp* resulted in GFP accumulation, proving the utility of CRE-induced protein expression in tobacco chloroplasts. The gene activation system described here will be useful to probe plastid gene function and for the production of recombinant proteins in chloroplasts.
+
+gene: !activates! GFP
+CRE: !excise! aadA
+aadA: !blocks! gfp*
+loxP: !flank! aadA
+gfp*: !transcribed from! aadA promoter
+gfp*: !not translated due to! lack of AUG

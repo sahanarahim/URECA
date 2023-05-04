@@ -1,0 +1,8 @@
+['36243013', 'Plants have evolved signaling mechanisms that guide growth away from adverse  environments that can cause yield losses. Root halotropism is a sodium-specific  negative tropism that is crucial for surviving and thriving under high salinity.  Although root halotropism was discovered some years ago, the underlying molecular  and cellular mechanisms remain unknown. Here, we show that abscisic acid  (ABA)-mediated root twisting determines halotropism in Arabidopsis. An  ABA-activated SnRK2 protein kinase (SnRK2.6) phosphorylates the  microtubule-associated protein SP2L at Ser406, which induces a change in the  anisotropic cell expansion at the root transition zone and is required for root  twisting during halotropism. Salt stress triggers SP2L-mediated cortical  microtubule reorientation, which guides cellulose microfibril patterns. Our  findings thus outline the molecular mechanism of root halotropism and indicate  that anisotropic cell expansion through microtubule reorientation and microfibril  deposition has a central role in mediating tropic responses.', '2022 Oct 24', 'Dev Cell', '10.1016/j.devcel.2022.09.012', 'Zhao']
+
+ABA: !activates! SnRK2.6 
+SnRK2.6: !phosphorylates! SP2L 
+SP2L: !induces! anisotropic cell expansion 
+Salt stress: !triggers! SP2L-mediated cortical microtubule reorientation 
+Microtubule reorientation: !guides! cellulose microfibril patterns 
+Cellulose microfibril patterns: !mediates! tropic responses

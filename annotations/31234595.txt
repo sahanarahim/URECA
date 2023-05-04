@@ -1,0 +1,12 @@
+Gene expression profiles are powerful tools for investigating mechanisms of plant stress tolerance. <i>Betula platyphylla</i> (birch) is a widely distributed tree, but its drought-tolerance mechanism has been little studied. Using RNA-Seq, we identified 2917 birch genes involved in its response to drought stress. These drought-responsive genes include the late embryogenesis abundant (LEA) family, heat shock protein (HSP) family, water shortage-related and ROS-scavenging proteins, and many transcription factors (TFs). Among the drought-induced TFs, the ethylene responsive factor (ERF) and myeloblastosis oncogene (MYB) families were the most abundant. BpERF2 and BpMYB102, which were strongly induced by drought and had high transcription levels, were selected to study their regulatory networks. BpERF2 and BpMYB102 both played roles in enhancing drought tolerance in birch. Chromatin immunoprecipitation combined with qRT-PCR indicated that BpERF2 regulated genes such as those in the <i>LEA</i> and <i>HSP</i> families, while BpMYB102 regulated genes such as <i>Pathogenesis-related Protein 1</i> (<i>PRP1</i>) and <i>4-Coumarate:Coenzyme A Ligase 10</i> (<i>4CL10</i>). Multiple genes were regulated by both BpERF2 and BpMYB102. We further characterized the function of some of these genes, and the genes that encode Root Primordium Defective 1 (RPD1), PRP1, 4CL10, LEA1, SOD5, and HSPs were found to be involved in drought tolerance. Therefore, our results suggest that BpERF2 and BpMYB102 serve as transcription factors that regulate a series of drought-tolerance genes in <i>B. platyphylla</i> to improve drought tolerance.
+
+BpERF2: !regulates! LEA and HSP families
+BpMYB102: !regulates! PRP1 and 4CL10
+BpERF2: !enhances! drought tolerance
+BpMYB102: !enhances! drought tolerance
+RPD1: !regulated by! BpERF2 and BpMYB102
+PRP1: !regulated by! BpERF2 and BpMYB102
+4CL10: !regulated by! BpERF2 and BpMYB102
+LEA1: !regulated by! BpERF2 and BpMYB102
+SOD5: !regulated by! BpERF2 and BpMYB102
+HSPs: !regulated by! BpERF2 and BpMYB102

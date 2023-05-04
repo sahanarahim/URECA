@@ -1,0 +1,11 @@
+Arginine decarboxylase (ADC)-mediated putrescine biosynthesis plays an important role in plant stress responses, but the transcriptional regulation of ADC in response to abiotic stress is not well understood. We isolated a NAM, ATAF1/2, and CUC (NAC) domain-containing transcription factor, PtrNAC72, from trifoliate orange (Poncirus trifoliata) by yeast one-hybrid screening. PtrNAC72, localized to the nucleus, binds specifically to the promoter of PtADC and acts as a transcriptional repressor. PtrNAC72 expression was induced by cold, drought, and abscisic acid. ADC messenger RNA abundance and putrescine levels were decreased in transgenic tobacco (Nicotiana nudicaulis) plants overexpressing PtrNAC72 but increased, compared with the wild type, in an Arabidopsis (Arabidopsis thaliana) transfer DNA insertion mutant, nac72 While transgenic tobacco lines overexpressing PtrNAC72 were more sensitive to drought, plants of the Arabidopsis nac72 mutant exhibited enhanced drought tolerance, consistent with the accumulation of reactive oxygen species in the tested genotypes. In addition, exogenous application of putrescine to the overexpression lines restored drought tolerance, while treatment with d-arginine, an ADC inhibitor, compromised the drought tolerance of nac72 Taken together, these results demonstrate that PtrNAC72 is a repressor of putrescine biosynthesis and may negatively regulate the drought stress response, at least in part, via the modulation of putrescine-associated reactive oxygen species homeostasis.
+
+PtrNAC72: !binds to! PtADC
+PtrNAC72: !represses! PtADC
+PtrNAC72: !induces by! cold, drought, abscisic acid
+ADC mRNA: !decreases in! transgenic tobacco plants overexpressing PtrNAC72
+ADC mRNA: !increases in! Arabidopsis nac72 mutant
+drought tolerance: !decreases in! transgenic tobacco lines overexpressing PtrNAC72
+drought tolerance: !enhances in! Arabidopsis nac72 mutant
+putrescine: !restores! drought tolerance in overexpression lines
+d-arginine: !compromises! drought tolerance of nac72

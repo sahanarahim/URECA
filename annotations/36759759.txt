@@ -1,0 +1,17 @@
+Burdock is a biennial herb of Asteraceae found in Northern Europe, Eurasia, Siberia, and China. Its mature dry fruits, called Niu Bang Zi, are recorded in various traditional Chinese medicine books. With the development of sequencing technology, the mitochondrial, chloroplast, and nuclear genomes, transcriptome, and sequence-related amplified polymorphism (SRAP) fingerprints of burdock have all been reported. To make better use of this data for further research and analysis, a burdock database was constructed. This burdock multi-omics database contains two burdock genome datasets, two transcriptome datasets, eight burdock chloroplast genomes, one burdock mitochondrial genome, one A. tomentosum chloroplast genome, one A. tomentosum mitochondrial genome, 26 phenotypes of burdock varieties, burdock rhizosphere-associated microorganisms, and chemical constituents of burdock fruit, pericarp, and kernel at different growth stages (using UPLC-Q-TOF-MS). The wild and cultivation distribution of burdock in China was summarized, and the main active components and pharmacological effects of burdock currently reported were concluded. The database contains ten central functional modules: Home, Genome, Transcriptome, Jbrowse, Search, Tools, SRAP fingerprints, Associated microorganisms, Chemical, and Publications. Among these, the "Tools" module can be used to perform sequence homology alignment (Blast), multiple sequence alignment analysis (Muscle), homologous protein prediction (Genewise), primer design (Primer), large-scale genome analysis (Lastz), and GO and KEGG enrichment analyses (GO Enrichment and KEGG Enrichment). The database URL is http://210.22.121.250:41352/ . This burdock database integrates molecular and chemical data to provide a comprehensive information and analysis platform for interested researchers and can be of immense help to the cultivation, breeding, and molecular pharmacognosy research of burdock.
+
+Burdock: !contains! two genome datasets
+Burdock: !contains! two transcriptome datasets
+Burdock: !contains! eight chloroplast genomes
+Burdock: !contains! one mitochondrial genome
+Burdock: !contains! 26 phenotypes of varieties
+Burdock: !contains! rhizosphere-associated microorganisms
+Burdock: !contains! chemical constituents
+Burdock: !summarizes! wild and cultivation distribution in China
+Burdock: !concludes! main active components and pharmacological effects
+Burdock: !provides! sequence homology alignment
+Burdock: !provides! multiple sequence alignment analysis
+Burdock: !provides! homologous protein prediction
+Burdock: !provides! primer design
+Burdock: !provides! large-scale genome analysis
+Burdock: !provides! GO and KEGG enrichment analyses

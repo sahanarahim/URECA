@@ -1,0 +1,8 @@
+['34791475', 'Precursor messenger RNA (Pre-mRNA) splicing is a crucial step in gene expression  whereby the spliceosome produces constitutively and alternatively spliced  transcripts. These transcripts not only diversify the transcriptome, but also  play essential roles in plant development and responses to environmental changes.  Much evidence indicates that regulation at the pre-mRNA splicing step is  important for flowering time control; however, the components and detailed  mechanism underlying this process remain largely unknown. Here, we identified the  splicing factor RNA BINDING PROTEIN 45d (RBP45d), a member of the RBP45/47 family  in Arabidopsis thaliana. Using sequence comparison and biochemical analysis, we  determined that RBP45d is a component of the U1 small nuclear ribonucleoprotein  (U1 snRNP) with functions distinct from other family members. RBP45d associates  with the U1 snRNP by interacting with pre-mRNA-processing factor 39a (PRP39a) and  directly regulates alternative splicing (AS) for a specific set of genes. Plants  with loss of RBP45d and PRP39a function exhibited defects in temperature-induced  flowering, potentially due to the misregulation of temperature-sensitive AS of  FLOWERING LOCUS M as well as the accumulation of the flowering repressor  FLOWERING LOCUS C. Taken together, RBP45d is a U1 snRNP component in plants that  functions with PRP39a in temperature-mediated flowering.', '2022 Feb 3', 'Plant Cell', '10.1093/plcell/koab273', 'ORCID:']
+
+RBP45d: !interacts with! PRP39a 
+RBP45d: !regulates! AS 
+PRP39a: !associates with! U1 snRNP 
+RBP45d: !affects! temperature-induced flowering 
+FLOWERING LOCUS M: !misregulated by! RBP45d 
+FLOWERING LOCUS C: !accumulated by! loss of RBP45d function

@@ -1,0 +1,14 @@
+['32699027', 'Lignin, a critical phenolic polymer in secondary cell walls of plant cells,  enables strength in fibers and water transportation in xylem vessel elements.  Secreted enzymes, namely laccases (LACs) and peroxidases (PRXs), facilitate  lignin polymerization by oxidizing lignin monomers (monolignols). Previous work  in Arabidopsis (Arabidopsis thaliana) demonstrated that AtLAC4 and AtPRX64  localized to discrete lignified cell wall domains in fibers, although the spatial  distributions of other enzymes in these large gene families are unknown. Here, we  show that characteristic sets of putative lignin-associated LACs and PRXs  localize to precise regions during stem development, with LACs and PRXs  co-occurring in cell wall domains. AtLAC4, AtLAC17, and AtPRX72 localized to the  thick secondary cell wall of xylem vessel elements and fibers, whereas AtLAC4,  AtPRX64, and AtPRX71 localized to fiber cell corners. Interestingly, AtLAC4 had a  transient cell corner localization early in fiber development that disappeared in  the mature stem. In contrast with these secondary cell wall localizations,  AtLAC10, AtPRX42, AtPRX52, and AtPRX71 were found in nonlignified tissues.  Despite ubiquitous PRX occurrence in cell walls, PRX oxidative activity was  restricted to lignifying regions during development, which suggested regulated  production of apoplastic hydrogen peroxide. Relative amounts of apoplastic  reactive oxygen species differed between lignified cell types, which could  modulate PRX activity. Together, these results indicate that precise localization  of oxidative enzymes and differential distribution of oxidative substrates, such  as hydrogen peroxide, provide mechanisms to control spatiotemporal deposition of  lignin during development.', '2020 Oct', 'Plant Physiol', '10.1104/pp.20.00473', 'ORCID:']
+
+AtLAC4: !localizes to! xylem vessel elements and fibers 
+AtLAC17: !localizes to! thick secondary cell wall of xylem vessel elements and fibers 
+AtPRX72: !localizes to! thick secondary cell wall of xylem vessel elements and fibers 
+AtLAC4: !localizes to! fiber cell corners 
+AtPRX64: !localizes to! fiber cell corners 
+AtPRX71: !localizes to! fiber cell corners 
+AtLAC10: !localizes to! nonlignified tissues 
+AtPRX42: !localizes to! nonlignified tissues 
+AtPRX52: !localizes to! nonlignified tissues 
+AtPRX71: !localizes to! nonlignified tissues 
+PRX: !restricted to! lignifying regions 
+apoplastic reactive oxygen species: !differ between! lignified cell types

@@ -1,0 +1,7 @@
+A two-dimensional multiscale gas exchange model was developed to evaluate the effect of ambient conditions, fruit size, and maturity on intracellular O(2) and CO(2) concentrations in pear fruit via computational analysis. The model consists of interconnected submodels that describe the gas exchange at the macroscopic scale of the fruit and the microscopic scale of the cells. The multiscale model resulted in a comprehensive description of gas exchange at different scales. The macroscale model was used to describe the gas exchange of the fruit under controlled atmosphere conditions while corresponding intracellular concentrations of microstructure tissue were computed from the microscale. Ripening of the fruit increased the risk of physiological disorders, since increased respiration resulted in anoxia in the fruit centre even under typical storage conditions.
+
+Fruit: !exchanges! Gas
+Model: !describes! Gas exchange
+Model: !consists of! Submodels
+Ripening: !increases! Respiration
+Respiration: !results in! Anoxia

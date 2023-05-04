@@ -1,0 +1,9 @@
+Root system traits are important in view of current challenges such as sustainable crop production with reduced fertilizer input or in resource-limited environments. We present a novel approach for recovering root architectural parameters based on image-analysis techniques. It is based on a graph representation of the segmented and skeletonized image of the root system, where individual roots are tracked in a fully automated way. Using a dynamic root architecture model for deciding whether a specific path in the graph is likely to represent a root helps to distinguish root overlaps from branches and favors the analysis of root development over a sequence of images. After the root tracking step, global traits such as topological characteristics as well as root architectural parameters are computed. Analysis of neutron radiographic root system images of lupine (Lupinus albus) grown in mesocosms filled with sandy soil results in a set of root architectural parameters. They are used to simulate the dynamic development of the root system and to compute the corresponding root length densities in the mesocosm. The graph representation of the root system provides global information about connectivity inside the graph. The underlying root growth model helps to determine which path inside the graph is most likely for a given root. This facilitates the systematic investigation of root architectural traits, in particular with respect to the parameterization of dynamic root architecture models.
+
+Gene: !affects! Root system traits 
+Root system traits: !influence! Sustainable crop production 
+Image-analysis techniques: !used to! Recover root architectural parameters 
+Graph representation: !tracks! Individual roots 
+Dynamic root architecture model: !distinguishes! Root overlaps from branches 
+Neutron radiographic root system images: !analyzed to! Compute root architectural parameters 
+Graph representation: !provides! Global information about connectivity

@@ -1,0 +1,16 @@
+Apomixis (asexual seed production) is characterized by meiotically unreduced egg cell production (apomeiosis) followed by its parthenogenetic development into offspring that are genetic clones of the mother plant. Fertilization (i.e. pseudogamy) of the central cell is important for the production of a functional endosperm with a balanced 2:1 maternal:paternal genome ratio. Here, we present the APOLLO (for apomixis-linked locus) gene, an Aspartate Glutamate Aspartate Aspartate histidine exonuclease whose transcripts are down-regulated in sexual ovules entering meiosis while being up-regulated in apomeiotic ovules at the same stage of development in plants of the genus Boechera. APOLLO has both "apoalleles," which are characterized by a set of linked apomixis-specific polymorphisms, and "sexalleles." All apomictic Boechera spp. accessions proved to be heterozygous for the APOLLO gene (having at least one apoallele and one sexallele), while all sexual genotypes were homozygous for sexalleles. Apoalleles contained a 20-nucleotide polymorphism present in the 5' untranslated region that contains specific transcription factor-binding sites for ARABIDOPSIS THALIANA HOMEOBOX PROTEIN5, LIM1 (for LINEAGE ABNORMAL11, INSULIN1, MECHANOSENSORY PROTEIN3), SORLIP1AT (for SEQUENCES OVERREPRESENTED IN LIGHT-INDUCED PROMOTERS IN ARABIDOPSIS THALIANA1), SORLIP2AT, and POLYA SIGNAL1. In the same region, sexalleles contain transcription factor-binding sites for DNA BINDING WITH ONE FINGER2, DNA BINDING WITH ONE FINGER3, and PROLAMIN BOX-BINDING FACTOR. Our results suggest that the expression of a single deregulated allele could induce the cascade of events leading to asexual female gamete formation in an apomictic plant.
+
+APOLLO: !down-regulates! meiosis 
+APOLLO: !up-regulates! apomeiosis 
+Apoalleles: !contain! transcription factor-binding sites 
+Sexalleles: !contain! transcription factor-binding sites 
+Apoalleles: !heterozygous in! apomictic Boechera spp. 
+Sexalleles: !homozygous in! sexual genotypes 
+ARABIOPSIS THALIANA HOMEOBOX PROTEIN5: !binds to! Apoalleles 
+LIM1: !binds to! Apoalleles 
+SORLIP1AT: !binds to! Apoalleles 
+SORLIP2AT: !binds to! Apoalleles 
+POLYA SIGNAL1: !binds to! Apoalleles 
+DNA BINDING WITH ONE FINGER2: !binds to! Sexalleles 
+DNA BINDING WITH ONE FINGER3: !binds to! Sexalleles 
+PROLAMIN BOX-BINDING FACTOR: !bind

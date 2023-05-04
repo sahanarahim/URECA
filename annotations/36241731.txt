@@ -1,0 +1,7 @@
+Rapid production of H<sub>2</sub>O<sub>2</sub> is a hallmark of plant responses to diverse pathogens and plays a crucial role in signalling downstream of various receptors that perceive immunogenic patterns. However, mechanisms by which plants sense H<sub>2</sub>O<sub>2</sub> to regulate immunity remain poorly understood. We show that endogenous H<sub>2</sub>O<sub>2</sub> generated upon immune activation is sensed by the thiol peroxidase PRXIIB via oxidation at Cys51, and this is essential for stomatal immunity against Pseudomonas syringae. We further show that in immune-stimulated cells, PRXIIB conjugates via Cys51 with the type 2C protein phosphatase ABA insensitive 2 (ABI2), subsequently transducing H<sub>2</sub>O<sub>2</sub> signal to ABI2. This oxidation dramatically sensitizes H<sub>2</sub>O<sub>2</sub>-mediated inhibition of the ABI2 phosphatase activity in vitro and is required for stomatal immunity in plants. Together, our results illustrate a redox relay, with PRXIIB as a sensor for H<sub>2</sub>O<sub>2</sub> and ABI2 as a target protein, that mediates reactive oxygen species signalling during plant immunity.
+
+PRXIIB: !senses! H<sub>2</sub>O<sub>2</sub>
+ABI2: !is targeted by! PRXIIB
+PRXIIB: !conjugates with! ABI2
+H<sub>2</sub>O<sub>2</sub>: !inhibits! ABI2 activity
+ABI2: !mediates! ROS signalling

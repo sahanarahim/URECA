@@ -1,0 +1,7 @@
+Chrysanthemum (Chrysanthemum morifolium) is well known as a photoperiod-sensitive flowering plant. However, it has also evolved into a temperature-sensitive ecotype. Low temperature can promote the floral transition of the temperature-sensitive ecotype, but little is known about the underlying molecular mechanisms. Here, we identified MADS AFFECTING FLOWERING 2 (CmMAF2), a putative MADS-box gene, which induces floral transition in response to low temperatures independent of day length conditions in this ecotype. CmMAF2 was shown to bind to the promoter of the GA biosynthesis gene CmGA20ox1 and to directly regulate the biosynthesis of bioactive GA<sub>1</sub> and GA<sub>4</sub> . The elevated bioactive GA levels activated LEAFY (CmLFY) expression, ultimately initiating floral transition. In addition, CmMAF2 expression in response to low temperatures was directly activated by CmC3H1, a CCCH-type zinc-finger protein upstream. In summary, our results reveal that the CmC3H1-CmMAF2 module regulates flowering time in response to low temperatures by regulating GA biosynthesis in the temperature-sensitive chrysanthemum ecotype.
+
+CmC3H1: !activates! CmMAF2
+CmMAF2: !binds to! CmGA20ox1
+CmMAF2: !regulates! GA biosynthesis
+GA biosynthesis: !activates! CmLFY
+CmLFY: !initiates! floral transition

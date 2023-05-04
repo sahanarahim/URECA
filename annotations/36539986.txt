@@ -1,0 +1,7 @@
+The phosphatidylinositol-specific phospholipase Cs (PI-PLCs) catalyze the hydrolysis of phosphatidylinositols, which play crucial roles in signaling transduction during plant development and stress response. However, the regulation of PI-PLC is still poorly understood. A previous study showed that a rice PI-PLC, OsPLC1, was essential to rice salt tolerance. Here, we identified a 14-3-3 protein, OsGF14b, as an interaction partner of OsPLC1. Similar to OsPLC1, OsGF14b also positively regulates rice salt tolerance, and their interaction can be promoted by NaCl stress. OsGF14b also positively regulated the hydrolysis activity of OsPLC1, and is essential to NaCl-induced activation of rice PI-PLCs. We further discovered that OsPLC1 was degraded via ubiquitin-proteasome pathway, and OsGF14b could inhibit the ubiquitination of OsPLC1 to protect OsPLC1 from degradation. Under salt stress, the OsPLC1 protein level in osgf14b was lower than the corresponding value of WT, whereas overexpression of OsGF14b results in a significant increase of OsPLC1 stability. Taken together, we propose that OsGF14b can interact with OsPLC1 and promote its activity and stability, thereby improving rice salt tolerance. This study provides novel insights into the important roles of 14-3-3 proteins in regulating protein stability and function in response to salt stress.
+
+OsPLC1: !interacts with! OsGF14b
+OsGF14b: !promotes! OsPLC1 activity
+OsGF14b: !inhibits! OsPLC1 ubiquitination
+OsGF14b: !stabilizes! OsPLC1
+OsGF14b: !enhances! Rice salt tolerance

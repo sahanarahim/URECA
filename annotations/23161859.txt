@@ -1,0 +1,10 @@
+Chloroplasts change their position to adapt cellular activities to fluctuating environmental light conditions. Phototropins (phot1 and phot2 in Arabidopsis) are plant-specific blue light photoreceptors that perceive changes in light intensity and direction, and mediate actin-based chloroplast photorelocation movements. Both phot1 and phot2 regulate the chloroplast accumulation response, while phot2 is mostly responsible for the regulation of the avoidance response. Although it has been widely accepted that distinct intracellular localizations of phototropins are implicated in the specificity, the mechanism underlying the phot2-specific avoidance response has remained elusive. In this study, we examined the relationship of the phot2 localization pattern to the chloroplast photorelocation movement. First, the fusion of a nuclear localization signal with phot2, which effectively reduced the amount of phot2 in the cytoplasm, retained the activity for both the accumulation and avoidance responses, indicating that membrane-localized phot2 but not cytoplasmic phot2 is functional to mediate the responses. Importantly, some fractions of phot2, and of phot1 to a lesser extent, were localized on the chloroplast outer membrane. Moreover, the deletion of the C-terminal region of phot2, which was previously shown to be defective in blue light-induced Golgi localization and avoidance response, affected the localization pattern on the chloroplast outer membrane. Taken together, these results suggest that dynamic phot2 trafficking from the plasma membrane to the Golgi apparatus and the chloroplast outer membrane might be involved in the avoidance response.
+
+phot1: !regulates! chloroplast accumulation response
+phot2: !regulates! chloroplast accumulation response
+phot2: !mediates! actin-based chloroplast photorelocation movements
+nuclear localization signal: !fused with! phot2
+cytoplasmic phot2: !not functional to mediate responses!
+phot2: !localized on! chloroplast outer membrane
+C-terminal region of phot2: !deletion affects! localization pattern on chloroplast outer membrane
+dynamic phot2 trafficking: !involved in! avoidance response

@@ -1,0 +1,10 @@
+Summary Plants often respond to pathogen or insect attack by inducing the synthesis of toxic compounds such as phytoalexins and glucosinolates (GS). The Arabidopsis mutant pad2-1 has reduced levels of the phytoalexin camalexin and is known for its increased susceptibility to fungal and bacterial pathogens. We found that pad2-1 is also more susceptible to the generalist insect Spodoptera littoralis but not to the specialist Pieris brassicae. The PAD2 gene encodes a gamma-glutamylcysteine synthetase that is involved in glutathione (GSH) synthesis, and consequently the pad2-1 mutant contains about 20% of the GSH found in wild-type plants. Lower GSH levels of pad2-1 were correlated with reduced accumulation of the two major indole and aliphatic GSs of Arabidopsis, indolyl-3-methyl-GS and 4-methylsulfinylbutyl-GS, in response to insect feeding. This effect was specific to GSH, was not complemented by treatment of pad2-1 with the strong reducing agent dithiothreitol, and was not observed with the ascorbate-deficient mutant vtc1-1. In contrast to the jasmonate-insensitive mutant coi1-1, expression of insect-regulated and GS biosynthesis genes was not affected in pad2-1. Our data suggest a crucial role for GSH in GS biosynthesis and insect resistance.
+
+PAD2: !synthesizes! GSH
+pad2-1: !contains! reduced GSH
+GSH: !correlates with! reduced GSs
+pad2-1: !is more susceptible to! S. littoralis
+dithiothreitol: !does not complement! pad2-1
+vtc1-1: !does not show! GSH effect
+coi1-1: !does not affect! insect-regulated genes
+GSH: !plays a crucial role in! GS biosynthesis and insect resistance

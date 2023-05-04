@@ -1,0 +1,11 @@
+In rice, light is known to inhibit the growth of coleoptiles and seminal roots of seedlings through phytochrome. Here we investigated the light-induced growth inhibition of seminal roots and compared the results with those recently determined for coleoptiles. Although three rice phytochromes, phyA, phyB and phyC functioned in a similar manner in coleoptile and seminal root, the Bunsen-Roscoe law of reciprocity was not observed in the growth inhibition of seminal root. We also found coiling of the seminal root at the root tip which appeared to be associated with the photoinhibition of seminal root growth. This could be a new light-induced phenomenon in certain cultivars of rice.
+
+phyA: !affects! coleoptiles
+phyB: !affects! coleoptiles
+phyC: !affects! coleoptiles
+light: !inhibits! growth of coleoptiles
+light: !inhibits! growth of seminal roots
+phyA: !affects! seminal roots
+phyB: !affects! seminal roots
+phyC: !affects! seminal roots
+coiling: !associated with! photoinhibition of seminal root growth

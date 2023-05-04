@@ -1,0 +1,9 @@
+Reactive oxygen species are increasingly perceived as players in plant development and plant hormone signalling pathways. One of these species, superoxide, is produced in the apoplast by respiratory burst oxidase homologues (rbohs), a family of proteins that is conserved throughout the plant kingdom. Because of the availability of mutants, the focus of research into plant rbohs has been on Arabidopsis thaliana, mainly on AtrbohD and AtrbohF. This study investigates: (i) a different member of the Atrboh family, AtrbohB, and (ii) several rbohs from the close relative of A. thaliana, Lepidium sativum ('cress'). Five cress rbohs (Lesarbohs) were sequenced and it was found that their expression patterns were similar to their Arabidopsis orthologues throughout the life cycle. Cress plants in which LesarbohB expression was knocked down showed a strong seedling root phenotype that resembles phenotypes associated with defective auxin-related genes. These transgenic plants further displayed altered expression of auxin marker genes including those encoding the auxin responsive proteins 14 and 5 (IAA14 and IAA5), and LBD16 (LATERAL ORGAN BOUNDARIES DOMAIN16), an auxin-responsive protein implicated in lateral root initiation. It is speculated that ROS produced by rbohs play a role in root development via auxin signalling.
+
+rbohs: !produce! Reactive oxygen species 
+AtrbohB: !localizes to! Arabidopsis thaliana 
+LesarbohB: !localizes to! Lepidium sativum 
+LesarbohB: !knocked down! seedling root phenotype 
+seedling root phenotype: !resembles! phenotypes associated with defective auxin-related genes 
+auxin marker genes: !altered expression! transgenic plants 
+rbohs: !play role in! root development via auxin signalling

@@ -1,0 +1,9 @@
+MicroRNAs is one class of small non-coding RNAs that play important roles in plant growth and development. Though miRNAs and their target genes have been widely studied in many plant species, their functional roles in floral bud break and dormancy release in woody perennials is still unclear. In this study, we applied transcriptome and small RNA sequencing together to systematically explore the transcriptional and post-transcriptional regulation of floral bud break in <i>P. mume</i>. Through expression profiling, we identified a few candidate genes and miRNAs during different developmental stage transitions. In total, we characterized 1,553 DEGs associated with endodormancy release and 2,084 DEGs associated with bud flush. Additionally, we identified 48 known miRNAs and 53 novel miRNAs targeting genes enriched in biological processes such as floral organ morphogenesis and hormone signaling transudation. We further validated the regulatory relationship between differentially expressed miRNAs and their target genes combining computational prediction, degradome sequencing, and expression pattern analysis. Finally, we integrated weighted gene co-expression analysis and constructed miRNA-mRNA regulatory networks mediating floral bud flushing competency. In general, our study revealed the miRNA-mediated networks in modulating floral bud break in <i>P. mume</i>. The findings will contribute to the comprehensive understanding of miRNA-mediated regulatory mechanism governing floral bud break and dormancy cycling in wood perennials.
+
+miRNA: !targets! gene
+gene: !associated with! endodormancy release
+gene: !associated with! bud flush
+miRNA: !predicted by! computational prediction
+miRNA: !validated by! degradome sequencing
+miRNA: !modulates! floral bud break
+miRNA: !regulates! hormone signaling transudation

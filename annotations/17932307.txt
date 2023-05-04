@@ -1,0 +1,7 @@
+We developed novel plasmids and T-DNA binary vectors that incorporate a modified and more useful form of the superpromoter. The superpromoter consists of a trimer of the octopine synthase transcriptional activating element affixed to the mannopine synthase2' (mas2') transcriptional activating element plus minimal promoter. We tested a superpromoter-beta-glucuronidaseA fusion gene in stably transformed tobacco (Nicotiana tabacum) and maize (Zea mays) plants and in transiently transformed maize Black Mexican Sweet protoplasts. In both tobacco and maize, superpromoter activity was much greater in roots than in leaves. In tobacco, superpromoter activity was greater in mature leaves than in young leaves, whereas in maize activity differed little among the tested aerial portions of the plant. When compared with other commonly used promoters (cauliflower mosaic virus 35S, mas2', and maize ubiquitin), superpromoter activity was approximately equivalent to those of the other promoters in both maize Black Mexican Sweet suspension cells and in stably transformed maize plants. The addition of a maize ubiquitin intron downstream of the superpromoter did not enhance activity in stably transformed maize.
+
+superpromoter: !affects! Activity 
+tobacco/maize: !localizes to! Roots 
+tobacco/maize: !enhances! Mature leaves 
+35S/mas2'/ubiquitin: !equivalent to! Superpromoter 
+intron: !does not enhance! Activity

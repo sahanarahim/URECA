@@ -1,0 +1,8 @@
+Our results show that AtNRT2.1 expression has a positive effect on the NH(4)(+) ion influx, mediated by the HATS, as also occurs with AtAMT1.1 expression on the NO(3)(-) ion influx. AtNRT2.1 expression plays a key role in the regulation of AtAMT1.1 expression and in the NH(4)(+) ion influx, differentiating the nitrogen source, and particularly, the lack of it. Nitrogen starvation produces a compensatory effect by AtAMT1.1 when there is an absence of the AtNRT2.1 gene. Our results also show that, in the atnrt2 mutant lacking both AtNRT2.1 and AtNRT2.2, gene functions present different kinetic parameters on the NH(4)(+) ion influx mediated by the HATS, according to the source and availability of nitrogen. Finally, the absence of AMT1.1 also produces changes in the kinetic parameters of the NO(3)(-) influx, showing different V(max) values depending on the source of nitrogen available.
+
+AtNRT2.1: !affects! NH(4)(+) ion influx
+AtAMT1.1: !affects! NO(3)(-) ion influx
+AtNRT2.1: !regulates! AtAMT1.1
+Nitrogen starvation: !compensates for! AtNRT2.1 absence
+atnrt2 mutant: !produces changes in! NH(4)(+) ion influx
+AMT1.1 absence: !produces changes in! NO(3)(-) influx

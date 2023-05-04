@@ -1,0 +1,9 @@
+Cultivated grapevine (Vitis) is a highly valued horticultural crop, and cold stress affects its growth and productivity. Wild Amur grape (Vitis amurensis) PAT1 (Phytochrome A signal transduction 1, VaPAT1) is induced by low temperature, and ectopic expression of VaPAT1 enhances cold tolerance in Arabidopsis (Arabidopsis thaliana). However, little is known about the molecular mechanism of VaPAT1 during the cold stress response in grapevine. Here, we confirmed the overexpression of VaPAT1 in transformed grape calli enhanced cold tolerance. Yeast two-hybrid and bimolecular fluorescence complementation assays highlighted an interaction between VaPAT1 with INDETERMINATE-DOMAIN 3 (VaIDD3). A role of VaIDD3 in cold tolerance was also indicated. Transcriptome analysis revealed VaPAT1 and VaIDD3 overexpression and cold treatment coordinately modulate the expression of stress-related genes including lipoxygenase 3 (LOX3), a gene encoding a key jasmonate biosynthesis enzyme. Co-expression network analysis indicated LOX3 might be a downstream target of VaPAT1. Both electrophoretic mobility shift and dual luciferase reporter assays showed the VaPAT1-IDD3 complex binds to the IDD-box (AGACAAA) in the VaLOX3 promoter to activate its expression. Overexpression of both VaPAT1 and VaIDD3 increased the transcription of VaLOX3 and JA levels in transgenic grape calli. Conversely, VaPAT1-SRDX (dominant repression) and CRISPR/Cas9-mediated mutagenesis of PAT1-ED causing the loss of the C-terminus in grape calli dramatically prohibited the accumulation of VaLOX3 and JA levels during cold treatment. Together, these findings point to a pivotal role of VaPAT1 in the cold stress response in grape by regulating JA biosynthesis.
+
+VaPAT1: !induces! VaIDD3
+VaPAT1: !interacts with! VaIDD3
+VaPAT1: !activates! VaLOX3
+VaIDD3: !enhances! Cold tolerance
+VaPAT1: !regulates! JA biosynthesis
+VaPAT1: !binds to! IDD-box
+VaPAT1: !promotes! VaLOX3 expression

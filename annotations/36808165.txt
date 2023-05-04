@@ -1,0 +1,8 @@
+Carnation (Dianthus caryophyllus L.) is a respiratory climacteric flower, comprising one of the most important cut flowers that is extremely sensitive to plant hormone ethylene. Ethylene signaling core transcription factor DcEIL3-1 plays a key role in ethylene induced petal senescence in carnation. However, how the dose of DcEIL3-1 is regulated in the carnation petal senescence process is still not clear. Here, we screened out two EBF (EIN3 Binding F-box) genes, DcEBF1 and DcEBF2, which showed quick elevation by ethylene treatment according to the ethylene induced carnation petal senescence transcriptome. Silencing of DcEBF1 and DcEBF2 accelerated, whereas overexpression of DcEBF1 and DcEBF2 delayed, ethylene induced petal senescence in carnation by influencing DcEIL3-1 downstream target genes but not DcEIL3-1 itself. Furthermore, DcEBF1 and DcEBF2 interact with DcEIL3-1 to degrade DcEIL3-1 via an ubiquitination pathway in vitro and in vivo. Finally, DcEIL3-1 binds to the promoter regions of DcEBF1 and DcEBF2 to activate their expression. In conclusion, the present study reveals the mutual regulation between DcEBF1/2 and DcEIL3-1 during ethylene induced petal senescence in carnation, which not only expands our understanding about ethylene signal regulation network in the carnation petal senescence process, but also provides potential targets with respect to breeding a cultivar of long-lived cut carnation.
+
+DcEIL3-1: !binds to! DcEBF1/2
+DcEIL3-1: !interacts with! DcEBF1/2
+DcEIL3-1: !activates! DcEBF1/2
+DcEBF1/2: !degrade! DcEIL3-1
+DcEBF1/2: !accelerate! petal senescence
+DcEBF1/2: !delay! petal senescence

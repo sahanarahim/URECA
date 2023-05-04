@@ -1,0 +1,8 @@
+Recent advances in the sequencing and assembly of plant genomes have allowed the generation of genomes with increasing contiguity and sequence accuracy. Chromosome level genome assemblies using sequence contigs generated from long read sequencing have involved the use of proximity analysis (Hi-C) or traditional genetic maps to guide the placement of sequence contigs within chromosomes. The development of highly accurate long reads by repeated sequencing of circularized DNA (HiFi; PacBio) has greatly increased the size of contigs. We now report the use of HiFiasm to assemble the genome of Macadamia jansenii, a genome that has been used as a model to test sequencing and assembly. This achieved almost complete chromosome level assembly from the sequence data alone without the need for higher level chromosome map information. Eight of the 14 chromosomes were represented by a single large contig (six with telomere repeats at both ends) and the other six assembled from two to four main contigs. The small number of chromosome breaks appears to be the result of highly repetitive regions including ribosomal genes that cannot be assembled by these approaches. De novo assembly of near complete chromosome level plant genomes now appears possible using these sequencing and assembly tools. Further targeted strategies might allow these remaining gaps to be closed.
+
+Hi-C: !guides! placement of sequence contigs
+HiFi: !increases! size of contigs
+HiFiasm: !assembles! Macadamia jansenii genome
+chromosome map: !omitted! from assembly
+de novo assembly: !possible! with sequencing and assembly tools
+targeted strategies: !may close! remaining gaps

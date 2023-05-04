@@ -1,0 +1,11 @@
+Physiological and genetic studies of leaf growth often focus on short-term responses, leaving a gap to whole-plant models that predict biomass accumulation, transpiration and yield at crop scale. To bridge this gap, we developed a model that combines an existing model of leaf 6 expansion in response to short-term environmental variations with a model coordinating the development of all leaves of a plant. The latter was based on: (1) rates of leaf initiation, appearance and end of elongation measured in field experiments; and (2) the hypothesis of an independence of the growth between leaves. The resulting whole-plant leaf model was integrated into the generic crop model APSIM which provided dynamic feedback of environmental conditions to the leaf model and allowed simulation of crop growth at canopy level. The model was tested in 12 field situations with contrasting temperature, evaporative demand and soil water status. In observed and simulated data, high evaporative demand reduced leaf area at the whole-plant level, and short water deficits affected only leaves developing during the stress, either visible or still hidden in the whorl. The model adequately simulated whole-plant profiles of leaf area with a single set of parameters that applied to the same hybrid in all experiments. It was also suitable to predict biomass accumulation and yield of a similar hybrid grown in different conditions. This model extends to field conditions existing knowledge of the environmental controls of leaf elongation, and can be used to simulate how their genetic controls flow through to yield.
+
+leaf: !expands in response to! environmental variations 
+model: !coordinates development of! all leaves 
+field experiments: !measure rates of! leaf initiation, appearance and end of elongation 
+hypothesis: !assumes independence of! growth between leaves 
+APSIM: !provides dynamic feedback of! environmental conditions 
+evaporative demand: !reduces leaf area at! whole-plant level 
+water deficits: !affects only leaves developing during! stress 
+parameters: !apply to same hybrid in! all experiments 
+environmental controls: !flow through to! yield

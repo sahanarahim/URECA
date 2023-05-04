@@ -1,0 +1,8 @@
+Plant epidermal cells express unique molecular machinery that juxtapose the assembly of intracellular lipid components and the unique extracellular cuticular lipids that are unidirectionally secreted to plant surfaces. In maize (<i>Zea mays</i>), mutations at the <i>glossy2 (gl2)</i> locus affect the deposition of extracellular cuticular lipids. Sequence-based genome scanning identified a new <i>Gl2</i> homolog in the maize genome, namely <i>Gl2-like</i> Both the <i>Gl2-like</i> and <i>Gl2</i> genes are members of the BAHD superfamily of acyltransferases, with close sequence similarity to the Arabidopsis (<i>Arabidopsis thaliana</i>) <i>CER2</i> gene. Transgenic experiments demonstrated that <i>Gl2-like</i> and <i>Gl2</i> functionally complement the Arabidopsis <i>cer2</i> mutation, with differential influences on the cuticular lipids and the lipidome of the plant, particularly affecting the longer alkyl chain acyl lipids, especially at the 32-carbon chain length. Site-directed mutagenesis of the putative BAHD catalytic HXXXDX-motif indicated that <i>Gl2-like</i> requires this catalytic capability to fully complement the <i>cer2</i> function, but <i>Gl2</i> can accomplish complementation without the need for this catalytic motif. These findings demonstrate that <i>Gl2</i> and <i>Gl2-like</i> overlap in their cuticular lipid function, but have evolutionarily diverged to acquire nonoverlapping functions.
+
+gl2: !affects! deposition of extracellular cuticular lipids
+Gl2-like: !affects! deposition of extracellular cuticular lipids
+Gl2-like: !complements! cer2 mutation
+Gl2: !complements! cer2 mutation
+Gl2-like: !requires! catalytic capability
+Gl2: !does not require! catalytic capability

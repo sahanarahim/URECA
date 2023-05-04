@@ -1,0 +1,9 @@
+['25070638', 'RidA (for Reactive Intermediate Deaminase A) proteins are ubiquitous, yet their  function in eukaryotes is unclear. It is known that deleting Salmonella enterica  ridA causes Ser sensitivity and that S. enterica RidA and its homologs from other  organisms hydrolyze the enamine/imine intermediates that Thr dehydratase forms  from Ser or Thr. In S. enterica, the Ser-derived enamine/imine inactivates a  branched-chain aminotransferase; RidA prevents this damage. Arabidopsis thaliana  and maize (Zea mays) have a RidA homolog that is predicted to be plastidial.  Expression of either homolog complemented the Ser sensitivity of the S. enterica  ridA mutant. The purified proteins hydrolyzed the enamines/imines formed by Thr  dehydratase from Ser or Thr and protected the Arabidopsis plastidial  branched-chain aminotransferase BCAT3 from inactivation by the Ser-derived  enamine/imine. In vitro chloroplast import assays and in vivo localization of  green fluorescent protein fusions showed that Arabidopsis RidA and Thr  dehydratase are chloroplast targeted. Disrupting Arabidopsis RidA reduced root  growth and raised the root and shoot levels of the branched-chain amino acid  biosynthesis intermediate 2-oxobutanoate; Ser treatment exacerbated these effects  in roots. Supplying Ile reversed the root growth defect. These results indicate  that plastidial RidA proteins can preempt damage to BCAT3 and Ile biosynthesis by  hydrolyzing the Ser-derived enamine/imine product of Thr dehydratase.', '2014 Jul', 'Plant Cell', '10.1105/tpc.114.126854', 'Hanson']
+
+RidA: !hydrolyzes! enamine/imine intermediates 
+RidA: !protects! branched-chain aminotransferase 
+RidA: !localizes to! chloroplast 
+RidA: !enhances! root growth 
+RidA: !represses! 2-oxobutanoate levels 
+Thr dehydratase: !forms! enamine/imine intermediates 
+Thr dehydratase: !localizes to! chloroplast

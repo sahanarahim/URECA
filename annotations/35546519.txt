@@ -1,0 +1,9 @@
+The Arabidopsis ubiquitin ligases PUB46, PUB47 and PUB48 are encoded by paralogus genes. Single gene <i>pub46</i> and <i>pub48</i> mutants display increased drought sensitivity compared to wild type (WT) suggesting that each has specific biological activity. The high sequence homology between PUB46 and PUB48 activity suggested that they may also share some aspects of their activity. Unfortunately, the close proximity of the <i>PUB46</i> and <i>PUB48</i> gene loci precludes obtaining a double mutant required to study if they are partially redundant by crossing the available single mutants. We thus applied microRNA technology to reduce the activity of all three gene products of the <i>PUB46-48</i> subfamily by constructing an artificial microRNA (aMIR) targeted to this subfamily. Expressing aMIR46-48 in WT plants resulted in increased drought-sensitivity, a phenotype resembling that of each of the single <i>pub46</i> and <i>pub48</i> mutants, and enhanced sensitivity to methyl viologen, similar to that observed for the <i>pub46</i> mutant. The WT plants expressing aMIR46-48 plants also revealed reduced inhibition by ABA at seed germination, a phenotype not evident in the single mutants. Expressing aMIR46-48 in <i>pub46</i> and <i>pub48</i> mutants further enhanced the drought sensitivity of each parental single mutant and of WT expressing aMIR46-48. These results suggest that the biological activities of PUB46 and PUB48 in abiotic stress response are partially redundant.
+
+PUB46: !affects! drought sensitivity
+PUB48: !affects! drought sensitivity
+PUB46: !shares! activity with PUB48
+aMIR46-48: !enhances! drought sensitivity
+aMIR46-48: !enhances! sensitivity to methyl viologen
+aMIR46-48: !reduces! inhibition by ABA at seed germination
+PUB46: !partially redundant with! PUB48

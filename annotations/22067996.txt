@@ -1,0 +1,6 @@
+We recently established an immunohistochemical method for the detection of blue light (BL)-induced and phototropin-mediated phosphorylation of plasma-membrane H+-ATPase in stomatal guard cells of Arabidopsis thaliana. This technique makes it possible to detect the phosphorylation/activation status of guard-cell H+-ATPase in the epidermis of a single rosette leaf, without the need to prepare guard-cell protoplasts (GCPs) from a large number of plants. Moreover, it can detect guard-cell responses under more natural and stress-free conditions compared to using GCPs. Taking advantage of these properties, we examined the effect of abscisic acid (ABA) on BL-induced phosphorylation of guard-cell H+-ATPase by using ABA-insensitive mutants. This revealed inhibition of BL-induced phosphorylation of guard-cell H+-ATPase via the early ABA-signaling components PYR/PYL/RCAR-PP2Cs-SnRK2s, which are known to be early ABA-signaling components for a wide range of ABA responses in plants.
+
+Gene: !affects! Process
+PYR/PYL/RCAR-PP2Cs-SnRK2s: !inhibits! BL-induced phosphorylation of guard-cell H+-ATPase 
+BL: !induces! phosphorylation of guard-cell H+-ATPase 
+ABA: !inhibits! BL-induced phosphorylation of guard-cell H+-ATPase

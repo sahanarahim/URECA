@@ -1,0 +1,9 @@
+The plant-specific VQ gene family participates in diverse physiological processes but little information is available on their role in leaf senescence. Here, we show that the VQ motif-containing proteins, Arabidopsis SIGMA FACTOR BINDING PROTEIN1 (SIB1) and SIB2 are negative regulators of abscisic acid (ABA)-mediated leaf senescence. Loss of SIB1 and SIB2 function resulted in increased sensitivity of ABA-induced leaf senescence. In contrast, overexpression of SIB1 significantly delayed this process. Moreover, biochemical studies revealed that SIBs interact with WRKY75 transcription factor. Loss of WRKY75 function decreased sensitivity to ABA-induced leaf senescence, while overexpression of WRKY75 significantly accelerated this process. Chromatin immunoprecipitation assays revealed that WRKY75 directly binds to the promoters of GOLDEN 2-LIKE1(GLK1) and GLK2, to repress their expression. SIBs repress the transcriptional function of WRKY75 and negatively regulate ABA-induced leaf senescence in a WRKY75-dependent manner. In contrast, WRKY75 positively modulates ABA-mediated leaf senescence in a GLK-dependent manner. In addition, SIBs inhibit WRKY75 function in ABA-mediated seed germination. These results demonstrate that SIBs can form a complex with WRKY75 to regulate ABA-mediated leaf senescence and seed germination.
+
+SIB1: !interacts with! WRKY75
+SIB2: !interacts with! WRKY75
+WRKY75: !binds to! GLK1
+WRKY75: !binds to! GLK2
+SIBs: !repress! WRKY75
+WRKY75: !positively modulates! ABA-mediated leaf senescence
+SIBs: !inhibit! WRKY75 function in ABA-mediated seed germination

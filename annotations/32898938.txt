@@ -1,0 +1,10 @@
+In plants, autophagy is involved in responses to viral infection. However, the role of host factors in mediating autophagy to suppress viruses is poorly understood. A previously uncharacterized plant protein, NbP3IP, was shown to interact with p3, an RNA-silencing suppressor protein encoded by Rice stripe virus (RSV), a negative-strand RNA virus. The potential roles of NbP3IP in RSV infection were examined. NbP3IP degraded p3 through the autophagy pathway, thereby affecting the silencing suppression activity of p3. Transgenic overexpression of NbP3IP conferred resistance to RSV infection in Nicotiana benthamiana. RSV infection was promoted in ATG5- or ATG7-silenced plants and was inhibited in GAPC-silenced plants where autophagy was activated, confirming the role of autophagy in suppressing RSV infection. NbP3IP interacted with NbATG8f, indicating a potential selective autophagosomal cargo receptor role for P3IP. Additionally, the rice NbP3IP homolog (OsP3IP) also mediated p3 degradation and interacted with OsATG8b and p3. Through identification of the involvement of P3IP in the autophagy-mediated degradation of RSV p3, we reveal a new mechanism to antagonize the infection of RSV, and thereby provide the first evidence that autophagy can play an antiviral role against negative-strand RNA viruses.
+
+NbP3IP: !interacts with! p3 
+NbP3IP: !degrades! p3 
+NbP3IP: !interacts with! NbATG8f 
+OsP3IP: !interacts with! OsATG8b 
+OsP3IP: !interacts with! p3 
+ATG5: !promotes! RSV infection 
+ATG7: !promotes! RSV infection 
+GAPC: !inhibits! RSV infection

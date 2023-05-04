@@ -1,0 +1,9 @@
+Evolutionary reconstruction algorithms produce models of the evolutionary history of proteins or species. Such algorithms are highly sensitive to their inputs: the sequences used and their alignments. Here, we asked whether the variance introduced by selecting different input sequences could be used to better identify accurate evolutionary models. We subsampled from available ortholog sequences and measured the distribution of observed relationships between paralogs produced across hundreds of models inferred from the subsamples. We observed two important phenomena. First, the reproducibility of an all-sequence, single-alignment reconstruction, measured by comparing topologies inferred from 90% subsamples, directly correlates with the accuracy of that single-alignment reconstruction, producing a measurable value for something that has been traditionally unknowable. Second, topologies that are most consistent with the observations made in the ensemble are more accurate and we present a meta algorithm that exploits this property to improve model accuracy.
+
+Gene: !affects! Evolutionary reconstruction algorithms 
+Evolutionary reconstruction algorithms: !produce models of! Protein/species evolutionary history 
+Input sequences: !introduce variance to! Algorithms 
+Subsampled ortholog sequences: !measured! Distribution of observed relationships between paralogs 
+Single-alignment reconstruction: !correlates with! Accuracy 
+Topologies: !compared! Across hundreds of models 
+Meta algorithm: !exploits! Consistent topologies to improve model accuracy

@@ -1,0 +1,9 @@
+The RNA genome of citrus tristeza virus (CTV), one of the most damaging viral pathogens of citrus, contains 12 open reading frames resulting in production of at least 19 proteins. Previous studies on the intraviral interactome of CTV revealed self-interaction of the viral RNA-dependent RNA polymerase, the major coat protein (CP), p20, p23, and p33 proteins, while heterologous interactions between the CTV proteins have not been characterized. In this work, we examined interactions between the p33 protein, a nonconserved protein of CTV, which performs multiple functions in the virus infection cycle and is needed for virus ability to infect the extended host range, with other CTV proteins shown to mediate virus interactions with its plant hosts. Using yeast two-hybrid, bimolecular fluorescence complementation, and coimmunoprecipitation assays, we demonstrated that p33 interacts with three viral proteins, i.e., CP, p20, and p23, in vivo and in planta. Coexpression of p33, which is an integral membrane protein, resulted in a shift in the localization of the p20 and p23 proteins toward the subcellular crude-membrane fraction. Upon CTV infection, the four proteins colocalized in the CTV replication factories. In addition, three of them, CP, p20, and p23, were found in the p33-formed membranous structures. Using bioinformatic analyses and mutagenesis, we found that the N-terminus of p33 is involved in the interactions with all three protein partners. A potential role of these interactions in virus ability to infect the extended host range is discussed.
+
+p33: !interacts with! CP
+p33: !interacts with! p20
+p33: !interacts with! p23
+CP: !localizes to! p33-formed membranous structures
+p20: !localizes to! p33-formed membranous structures
+p23: !localizes to! p33-formed membranous structures
+N-terminus of p33: !involved in! interactions with all three protein partners

@@ -1,0 +1,11 @@
+*Hydraulic redistribution (HR) of water via roots from moist to drier portions of the soil occurs in many ecosystems, potentially influencing both water use and carbon assimilation. *By measuring soil water content, sap flow and eddy covariance, we investigated the temporal variability of HR in a loblolly pine (Pinus taeda) plantation during months of normal and below-normal precipitation, and examined its effects on tree transpiration, ecosystem water use and carbon exchange. *The occurrence of HR was explained by courses of reverse flow through roots. As the drought progressed, HR maintained soil moisture above 0.15 cm(3) cm(-3) and increased transpiration by 30-50%. HR accounted for 15-25% of measured total site water depletion seasonally, peaking at 1.05 mm d(-1). The understory species depended on water redistributed by the deep-rooted overstory pine trees for their early summer water supply. Modeling carbon flux showed that in the absence of HR, gross ecosystem productivity and net ecosystem exchange could be reduced by 750 and 400 g C m(-2) yr(-1), respectively. *Hydraulic redistribution mitigated the effects of soil drying on understory and stand evapotranspiration and had important implications for net primary productivity by maintaining this whole ecosystem as a carbon sink.
+
+root: !redistributes! water
+drought: !increases! HR
+HR: !maintains! soil moisture
+HR: !increases! transpiration
+HR: !accounts for! 15-25% of total site water depletion
+understory species: !depend on! HR
+HR: !reduces! gross ecosystem productivity
+HR: !reduces! net ecosystem exchange
+HR: !maintains! ecosystem as carbon sink

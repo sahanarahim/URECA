@@ -1,0 +1,12 @@
+Proteinase inhibitor II proteins (PIN2) are serine proteinase inhibitors found in the Solanaceae. Here, we assign functions in seed development to two Solanum americanum genes, SaPIN2a and SaPIN2b, encoding proteinase inhibitor II. Their mRNAs and proteins have been previously localized to the reproductive tissues, including the inner cell layers of ovules in senescent flowers at the beginning of fruit development, suggestive of their endogenous roles in reproductive development. We have employed RNA interference (RNAi)-induced post-transcriptional gene silencing (PTGS) to further investigate the role of SaPIN2a and SaPIN2b during seed development. A SaPIN2a-derived construct that shared 83% nucleotide homology to SaPIN2b was used in PTGS to silence both genes. Northern blot analyses confirmed that the PIN2-RNAi transgenic plants contain small interfering RNAs (siRNAs) and exhibit reduced levels of SaPIN2a and SaPIN2b mRNAs at various stages of floral development. A reduction in seed set due to seed abortion was observed in PIN2-RNAi transgenic lines. Cytological and molecular analyses of these lines showed the lack of SaPIN2a and SaPIN2b mRNAs and proteins at the inner cell layers of the ovules in senescent flowers. Aborted seeds in transgenic fruits had an abnormal endothelium. The anomalous expansion of the endothelium prevented proper development of the endosperm and embryo, leading to seed abortion. Our observations indicate that SaPIN2a and SaPIN2b are essential for seed development and suggest that the endothelium may protect the embryo sac, allowing proper formation of the endosperm and embryo, as a result of its ability to produce proteinase inhibitors.
+
+SaPIN2a: !affects! Seed development
+SaPIN2b: !affects! Seed development
+SaPIN2a: !localizes to! Reproductive tissues
+SaPIN2b: !localizes to! Reproductive tissues
+SaPIN2a: !interacts with! SaPIN2b
+SaPIN2b: !interacts with! SaPIN2a
+SaPIN2a: !represses! Abnormal endothelium expansion
+SaPIN2b: !represses! Abnormal endothelium expansion
+Endothelium: !protects! Embryo sac
+Proteinase inhibitors: !synthesized by! Endothelium

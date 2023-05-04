@@ -1,0 +1,9 @@
+The control of chlorophyll (Chl) synthesis in angiosperms depends on the light-operating enzyme protochlorophyllide oxidoreductase (POR). The interruption of Chl synthesis during darkness requires suppression of the synthesis of 5-aminolevulinic acid (ALA), the first precursor molecule specific for Chl synthesis. The inactivation of glutamyl-tRNA reductase (GluTR), the first enzyme in tetrapyrrole biosynthesis, accomplished the decreased ALA synthesis by the membrane-bound protein FLUORESCENT (FLU) and prevents overaccumulation of protochlorophyllide (Pchlide) in the dark. We set out to elucidate the molecular mechanism of FLU-mediated inhibition of ALA synthesis, and explored the role of each of the three structural domains of mature FLU, the transmembrane, coiled-coil and tetratricopeptide repeat (TPR) domains, in this process. Efforts to rescue the FLU knock-out mutant with truncated FLU peptides revealed that, on its own, the TPR domain is insufficient to inactivate GluTR, although tight binding of the TPR domain to GluTR was detected. A truncated FLU peptide consisting of transmembrane and TPR domains also failed to inactivate GluTR in the dark. Similarly, suppression of ALA synthesis could not be achieved by combining the coiled-coil and TPR domains. Interaction studies revealed that binding of GluTR and POR to FLU is essential for inhibiting ALA synthesis. These results imply that all three FLU domains are required for the repression of ALA synthesis, in order to avoid the overaccumulation of Pchlide in the dark. Only complete FLU ensures the formation of a membrane-bound ternary complex consisting at least of FLU, GluTR and POR to repress ALA synthesis.
+
+FLU: !binds! GluTR
+FLU: !binds! POR
+FLU: !inactivates! GluTR
+FLU: !represses! ALA synthesis
+TPR domain: !binds! GluTR
+Transmembrane domain: !combines with! TPR domain
+Coiled-coil domain: !combines with! TPR domain

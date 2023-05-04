@@ -1,0 +1,16 @@
+SimpleSearch provides access to a database containing information about T-DNA insertion lines of the GABI-Kat collection of Arabidopsis thaliana mutants. These mutants are an important tool for reverse genetics, and GABI-Kat is the second largest collection of such T-DNA insertion mutants. Insertion sites were deduced from flanking sequence tags (FSTs), and the database contains information about mutant plant lines as well as insertion alleles. Here, we describe improvements within the interface (available at http://www.gabi-kat.de/db/genehits.php) and with regard to the database content that have been realized in the last five years. These improvements include the integration of the Araport11 genome sequence annotation data containing the recently updated A. thaliana structural gene descriptions, an updated visualization component that displays groups of insertions with very similar insertion positions, mapped confirmation sequences, and primers. The visualization component provides a quick way to identify insertions of interest, and access to improved data about the exact structure of confirmed insertion alleles. In addition, the database content has been extended by incorporating additional insertion alleles that were detected during the confirmation process, as well as by adding new FSTs that have been produced during continued efforts to complement gaps in FST availability. Finally, the current database content regarding predicted and confirmed insertion alleles as well as primer sequences has been made available as downloadable flat files.
+
+Gene: !affects! Process 
+Gene: !localizes to! X 
+Gene: !interacts with! Y 
+Gene: !enhances! Z 
+Gene: !represses! U 
+Gene: !synthesizes! I 
+T-DNA: !inserts into! Arabidopsis thaliana mutants 
+Database: !contains information about! Mutant plant lines 
+Database: !contains information about! Insertion alleles 
+Interface: !improved by! Integration of Araport11 genome sequence annotation data 
+Interface: !improved by! Updated visualization component 
+Database: !extended by! Additional insertion alleles 
+Database: !extended by! New FSTs 
+Database: !made available as! Downloadable flat files

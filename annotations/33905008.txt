@@ -1,0 +1,16 @@
+Gene co-expression network analysis of the heat-responsive core transcriptome in two contrasting Brassica rapa accessions reveals the main metabolic pathways, key modules and hub genes, are involved in long-term heat stress. Brassica rapa is a widely cultivated and economically important vegetable in Asia. High temperature is a common stress that severely impacts leaf head formation in B. rapa, resulting in reduced quality and production. The purpose of this study was thus to identify candidate heat tolerance genes by comparative transcriptome analysis of two contrasting B. rapa accessions in response to long-term heat stress. Two B. rapa accessions, '268' and '334', which showed significant differences in heat tolerance, were used for RNA sequencing analysis. We identified a total of 11,055 and 8921 differentially expressed genes (DEGs) in '268' and '334', respectively. Functional enrichment analyses of all of the identified DEGs, together with the genes identified from weighted gene co-expression network analyses (WGCNA), revealed that the autophagy pathway, glutathione metabolism, and ribosome biogenesis in eukaryotes were significantly up-regulated, whereas photosynthesis was down-regulated, in the heat resistance of B. rapa '268'. Furthermore, when B. rapa '334' was subjected to long-term high-temperature stress, heat stress caused significant changes in the expression of certain functional genes linked to protein processing in the endoplasmic reticulum and plant hormone signal transduction pathways. Autophagy-related genes might have been induced by persistent heat stress and remained high during recovery. Several hub genes like HSP17.6, HSP17.6B, HSP70-8, CLPB1, PAP1, PYR1, ADC2, and GSTF11 were discussed in this study, which may be potential candidates for further analyses of the response to long-term heat stress. These results should help elucidate the molecular mechanisms of heat stress adaptation in B. rapa.
+
+Autophagy: !up-regulated! Heat resistance
+Glutathione metabolism: !up-regulated! Heat resistance
+Ribosome biogenesis: !up-regulated! Heat resistance
+Photosynthesis: !down-regulated! Heat resistance
+Protein processing: !changed expression! Heat stress
+Plant hormone signal transduction: !changed expression! Heat stress
+HSP17.6: !hub gene! Heat tolerance
+HSP17.6B: !hub gene! Heat tolerance
+HSP70-8: !hub gene! Heat tolerance
+CLPB1: !hub gene! Heat tolerance
+PAP1: !hub gene! Heat tolerance
+PYR1: !hub gene! Heat tolerance
+ADC2: !hub gene! Heat tolerance
+GSTF11: !hub gene! Heat tolerance

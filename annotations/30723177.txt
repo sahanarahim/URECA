@@ -1,0 +1,9 @@
+During plant growth and development, ethylene and abscisic acid (ABA) play important roles and exert synergistic or antagonistic effects on various biological processes, but the detailed mechanism underlying the interaction of the two phytohormones, especially in the regulation of the accumulation of reactive oxygen species (ROS), is largely unclear. Here, we report that ethylene inhibits but ABA promotes the accumulation of ROS in Arabidopsis (<i>Arabidopsis thaliana</i>) seedlings. Furthermore, changes in the biosynthesis of ascorbic acid (AsA) act as a key factor in integrating the interaction of ethylene and ABA in the regulation of ROS levels. We found that ethylene and ABA antagonistically regulate AsA biosynthesis via ETHYLENE-INSENSITIVE3 (EIN3) and ABA INSENSITIVE4 (ABI4), which are key factors in the ethylene and ABA signaling pathways, respectively. In addition, <i>ABI4</i> is transcriptionally repressed by EIN3 in ethylene-regulated AsA biosynthesis. Via transcriptome analysis and molecular and genetic experiments, we identified <i>VITAMIN C DEFECTIVE2</i>as the direct target of ABI4 in the regulation of AsA biosynthesis and ROS accumulation. Thus, the EIN3-ABI4- <i>VITAMIN C DEFECTIVE2</i> transcriptional cascade involves a mechanism by which ethylene and ABA antagonistically regulate AsA biosynthesis and ROS accumulation in response to complex environmental stimuli.
+
+ethylene: !inhibits! ROS accumulation
+ABA: !promotes! ROS accumulation
+EIN3: !represses! ABI4
+ABI4: !transcriptionally represses! VITAMIN C DEFECTIVE2
+EIN3: !regulates! AsA biosynthesis
+ABI4: !regulates! AsA biosynthesis
+VITAMIN C DEFECTIVE2: !direct target of! ABI4

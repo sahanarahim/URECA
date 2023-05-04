@@ -1,0 +1,7 @@
+['26460543', 'Reprogramming of cell identities during development frequently requires changes  in the chromatin state that need to be restricted to the correct cell  populations. Here we identify an auxin hormone-regulated chromatin state switch  that directs reprogramming from transit amplifying to primordium founder cell  fate in Arabidopsis inflorescences. Upon auxin sensing, the MONOPTEROS  transcription factor recruits SWI/SNF chromatin remodeling ATPases to increase  accessibility of the DNA for induction of key regulators of flower primordium  initiation. In the absence of the hormonal cue, auxin sensitive Aux/IAA proteins  bound to MONOPTEROS block recruitment of the SWI/SNF chromatin remodeling ATPases  in addition to recruiting a co-repressor/histone deacetylase complex. This simple  and elegant hormone-mediated chromatin state switch is ideally suited for  iterative flower primordium initiation and orchestrates additional  auxin-regulated cell fate transitions. Our findings establish a new paradigm for  nuclear response to auxin. They also provide an explanation for how this small  molecule can direct diverse plant responses.', '2015 Oct 13', 'Elife', '10.7554/eLife.09269', 'Wagner']
+
+MONOPTEROS: !recruits! SWI/SNF
+Aux/IAA: !blocks recruitment of! SWI/SNF
+Aux/IAA: !recruits! co-repressor/histone deacetylase complex
+auxin: !mediates! chromatin state switch
+auxin: !directs! diverse plant responses

@@ -1,0 +1,11 @@
+Cryptochromes are photolyase-like, blue-light (BL) photoreceptors found in various organisms. Arabidopsis (<i>Arabidopsis thaliana</i>) cryptochromes (CRYs; CRY1, and CRY2) mediate many light responses including photoperiodic floral initiation. Cryptochromes interact with COP1 and SPA1, causing the stabilization of CONSTANS (CO) and promotion of <i>FLOWERING LOCUS T</i> (<i>FT</i>) transcription and flowering. The AP2-like transcriptional factor TOE1 negatively regulates <i>FT</i> expression and flowering by indirectly inhibiting CO transcriptional activation activity and directly binding to <i>FT</i> Here, we demonstrate that CRY1 and CRY2 physically interact with TOE1 and TOE2 in a BL-dependent manner in flowering regulation. Genetic studies showed that mutation of <i>TOE1</i> and <i>TOE2</i> partially suppresses the late-flowering phenotype of <i>cry1 cry2</i> mutant plants. BL-triggered interactions of CRY2 with TOE1 and TOE2 promote the dissociation of TOE1 and TOE2 from CO, resulting in alleviation of their inhibition of CO transcriptional activity and enhanced transcription of <i>FT</i> Furthermore, we show that CRY2 represses TOE1 binding to the regulatory element within the <i>Block E</i> enhancer of <i>FT</i> These results reveal that TOE1 and TOE2 act as downstream components of CRY2, thus partially mediating CRY2 regulation of photoperiodic flowering through modulation of CO activity and <i>FT</i> transcription.
+
+CRY1: !interacts with! COP1
+CRY1: !interacts with! SPA1
+CRY2: !interacts with! TOE1
+CRY2: !interacts with! TOE2
+TOE1: !inhibits! CO
+TOE1: !binds to! FT
+TOE2: !inhibits! CO
+TOE2: !binds to! FT
+CRY2: !represses! TOE1

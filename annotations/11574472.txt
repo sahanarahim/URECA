@@ -1,0 +1,8 @@
+['11574472', 'The Arabidopsis EDS1 and PAD4 genes encode lipase-like proteins that function in  resistance (R) gene-mediated and basal plant disease resistance. Phenotypic  analysis of eds1 and pad4 null mutants shows that EDS1 and PAD4 are required for  resistance conditioned by the same spectrum of R genes but fulfil distinct roles  within the defence pathway. EDS1 is essential for elaboration of the plant  hypersensitive response, whereas EDS1 and PAD4 are both required for accumulation  of the plant defence-potentiating molecule, salicylic acid. EDS1 is necessary for  pathogen-induced PAD4 mRNA accumulation, whereas mutations in PAD4 or depletion  of salicylic acid only partially compromise EDS1 expression. Yeast two-hybrid  analysis reveals that EDS1 can dimerize and interact with PAD4. However, EDS1  dimerization is mediated by different domains to those involved in EDS1-PAD4  association. Co-immunoprecipitation experiments show that EDS1 and PAD4 proteins  interact in healthy and pathogen-challenged plant cells. We propose two functions  for EDS1. The first is required early in plant defence, independently of PAD4.  The second recruits PAD4 in the amplification of defences, possibly by direct  EDS1-PAD4 association.', '2001 Oct 1', 'EMBO J', '10.1093/emboj/20.19.5400', 'Parker']
+
+EDS1: !interacts with! PAD4
+EDS1: !elaborates! Hypersensitive Response
+EDS1: !recruits! PAD4
+PAD4: !required for! Resistance conditioned by R genes
+PAD4: !accumulates! Salicylic Acid
+EDS1: !mediates! PAD4 mRNA accumulation

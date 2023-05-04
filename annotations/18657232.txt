@@ -1,0 +1,12 @@
+['18657232', 'Delta(3),Delta(2)-enoyl CoA isomerase (ECI) is an enzyme that participates in the  degradation of unsaturated fatty acids through the beta-oxidation cycle. Three  genes encoding Delta(3),Delta(2)-enoyl CoA isomerases and named AtECI1, AtECI2  and AtECI3 have been identified in Arabidopsis thaliana. When expressed  heterologously in Saccharomyces cerevisiae, all three ECI proteins were targeted  to the peroxisomes and enabled the yeast Deltaeci1 mutant to degrade  10Z-heptadecenoic acid, demonstrating Delta(3),Delta(2)-enoyl CoA isomerase  activity in vivo. Fusion proteins between yellow fluorescent protein and AtECI1  or AtECI2 were targeted to the peroxisomes in onion epidermal cells and  Arabidopsis root cells, but a similar fusion protein with AtECI3 remained in the  cytosol for both tissues. AtECI3 targeting to peroxisomes in S. cerevisiae was  dependent on yeast PEX5, while expression of Arabidopsis PEX5 in yeast failed to  target AtECI3 to peroxisomes. AtECI2 and AtECI3 are tandem duplicated genes and  show a high level of amino acid conservation, except at the C-terminus; AtECI2  ends with the well conserved peroxisome targeting signal 1 (PTS1) terminal  tripeptide PKL, while AtECI3 possesses a divergent HNL terminal tripeptide.  Evolutionary analysis of ECI genes in plants revealed several independent  duplication events, with duplications occurring in rice and Medicago truncatula,  generating homologues with divergent C-termini and no recognizable PTS1. All  plant ECI genes analyzed, including AtECI3, are under negative purifying  selection, implying functionality of the cytosolic AtECI3. Analysis of the  mammalian and fungal genomes failed to identify cytosolic variants of the  Delta(3),Delta(2)-enoyl CoA isomerase, indicating that evolution of cytosolic  Delta(3),Delta(2)-enoyl CoA isomerases is restricted to the plant kingdom.', '2008 Dec', 'Plant J', '10.1111/j.1365-313X.2008.03635.x', 'Poirier']
+
+AtECI1: !localizes to! peroxisomes 
+AtECI2: !localizes to! peroxisomes 
+AtECI3: !localizes to! cytosol 
+AtECI3: !dependent on! PEX5 
+AtECI2: !divergent from! AtECI3 
+AtECI2: !ends with! PTS1 
+AtECI3: !ends with! HNL 
+ECI genes: !duplicated in! rice, Medicago truncatula 
+ECI genes: !under negative purifying selection! 
+Mammalian/fungal genomes: !lack! cytosolic variants of Delta(3),Delta(2)-enoyl CoA isomerase

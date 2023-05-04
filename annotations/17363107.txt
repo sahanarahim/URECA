@@ -1,0 +1,12 @@
+Four UDP-dependent glucosyltransferase (UGT) genes, UGT706C1, UGT706D1, UGT707A3, and UGT709A4 were cloned from rice, expressed in Escherichia coli, and purified to homogeneity. In order to find out whether these enzymes could use flavonoids as glucose acceptors, apigenin, daidzein, genistein, kaempferol, luteolin, naringenin, and quercetin were used as potential glucose acceptors. UGT706C1 and UGT707A3 could use kaempferol and quercetin as glucose acceptors and the major glycosylation position was the hydroxyl group of carbon 3 based on the comparison of HPLC retention times, UV spectra, and NMR spectra with those of corresponding authentic flavonoid 3-O-glucosides. On the other hand, UGT709A4 only used the isoflavonoids genistein and daidzein and transferred glucose onto 7-hydroxyl group. In addition, UGT706D1 used a broad range of flavonoids including flavone, flavanone, flavonol, and isoflavone, and produced at least two products with glycosylation at different hydroxyl groups. Based on their substrate preferences and the flavonoids present in rice, the in vivo function of UGT706C1, UGT706D1, and UGT707A3 is most likely the biosynthesis of kaempferol and quercetin glucosides.
+
+UGT706C1: !uses! kaempferol 
+UGT706C1: !uses! quercetin 
+UGT707A3: !uses! kaempferol 
+UGT707A3: !uses! quercetin 
+UGT709A4: !uses! genistein 
+UGT709A4: !uses! daidzein 
+UGT706D1: !uses! flavone 
+UGT706D1: !uses! flavanone 
+UGT706D1: !uses! flavonol 
+UGT706D1: !uses! isoflavone

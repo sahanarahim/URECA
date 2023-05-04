@@ -1,0 +1,7 @@
+The duration of the DNA synthesis stage (S phase) of the cell cycle is fundamental in our understanding of cell cycle kinetics, cell proliferation, and DNA replication timing programs. Most S-phase duration estimates that exist for plants are based on indirect measurements. We present a method for directly estimating S-phase duration by pulse-labeling root tips or actively dividing suspension cells with the halogenated thymidine analog 5-ethynl-2'-deoxyuridine (EdU) and analyzing the time course of replication with bivariate flow cytometry. The transition between G<sub>1</sub> and G<sub>2</sub> DNA contents can be followed by measuring the mean DNA content of EdU-labeled S-phase nuclei as a function of time after the labeling pulse. We applied this technique to intact root tips of maize (Zea mays L.), rice (Oryza sativa L.), barley (Hordeum vulgare L.), and wheat (Triticum aestivum L.), and to actively dividing cell cultures of Arabidopsis (Arabidopsis thaliana (L.) Heynh.) and rice. Estimates of S-phase duration in root tips were remarkably consistent, varying only by ~3-fold, although the genome sizes of the species analyzed varied >40-fold.
+
+EdU: !pulse-labels! root tips 
+EdU: !measures! DNA content 
+DNA content: !varies! with time 
+S-phase duration: !estimated! by bivariate flow cytometry 
+S-phase duration: !consistent! across species

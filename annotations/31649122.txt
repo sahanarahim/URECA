@@ -1,0 +1,9 @@
+Age and wounding are two major determinants for regeneration. In plants, the root regeneration is triggered by wound-induced auxin biosynthesis. As plants age, the root regenerative capacity gradually decreases. How wounding leads to the auxin burst and how age and wound signals collaboratively regulate root regenerative capacity are poorly understood. Here, we show that the increased levels of three closely-related miR156-targeted Arabidopsis (<i>Arabidopsis thaliana</i>) SQUAMOSA PROMOTER BINDING PROTEIN-LIKE (SPL) transcription factors, SPL2, SPL10, and SPL11, suppress root regeneration with age by inhibiting wound-induced auxin biosynthesis. Mechanistically, we find that a subset of APETALA2/ETHYLENE RESPONSE FACTOR (AP2/ERF) transcription factors including ABSCISIC ACID REPRESSOR1 and ERF109 is rapidly induced by wounding and serves as a proxy for wound signal to induce auxin biosynthesis. In older plants, SPL2/10/11 directly bind to the promoters of <i>AP2</i>/<i>ERFs</i> and attenuates their induction, thereby dampening auxin accumulation at the wound. Our results thus identify AP2/ERFs as a hub for integration of age and wound signal for root regeneration.
+
+miR156: !targets! SPL2/10/11 
+SPL2/10/11: !inhibits! root regeneration 
+wounding: !induces! AP2/ERFs 
+AP2/ERFs: !integrates! age and wound signal 
+SPL2/10/11: !binds to! AP2/ERF promoters 
+AP2/ERFs: !serves as proxy for! wound signal 
+wounding: !induces! auxin biosynthesis

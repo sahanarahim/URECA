@@ -1,0 +1,11 @@
+A reporter system for the assay of reactive oxygen species (ROS) was developed in Chlamydomonas reinhardtii, a plant model organism well suited for the application of inhibitors and generators of various types of ROS. This system employs various HSP70A promoter segments fused to a Renilla reniformis luciferase gene as a reporter. Transformants with the complete HSP70A promoter were inducible by both hydrogen peroxide and singlet oxygen. Constructs that lacked upstream heat-shock elements (HSEs) were inducible by hydrogen peroxide, indicating that this induction does not require such HSEs. Rather, downstream elements located between positions -81 to -149 with respect to the translation start site appear to be involved. In contrast, upstream sequences are essential for the response to singlet oxygen. Thus, activation by singlet oxygen appears to require promoter elements that are different from those used by hydrogen peroxide. ROS generated endogenously by treatment of the alga with metronidazole, protoporphyrin IX, dinoterb or high light intensities were detected by this reporter system, and distinguished as production of hydrogen peroxide (metronidazole) and singlet oxygen (protoporphyrin IX, dinoterb, high light). This system thus makes it possible to test whether, under varying environmental conditions including the application of abiotic stress, hydrogen peroxide or singlet oxygen or both are produced.
+
+HSP70A promoter: !induces! Hydrogen Peroxide 
+HSP70A promoter: !induces! Singlet Oxygen 
+HSEs: !involved in! Hydrogen Peroxide induction 
+Downstream elements: !involved in! Hydrogen Peroxide induction 
+Upstream sequences: !essential for! Singlet Oxygen induction 
+Metronidazole: !generates! Hydrogen Peroxide 
+Protoporphyrin IX: !generates! Singlet Oxygen 
+Dinoterb: !generates! Singlet Oxygen 
+High Light Intensities: !generates! Singlet Oxygen

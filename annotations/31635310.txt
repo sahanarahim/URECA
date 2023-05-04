@@ -1,0 +1,11 @@
+Melatonin has long been recognized as a positive signaling molecule and potent antioxidant in plants, which alleviates damage caused by adverse conditions such as salt, cold, and heat stress. In this study, we found a paradoxical role for melatonin in abiotic stress responses. Suppression of the serotonin <i>N</i>-acetyltransferase 2 (<i>snat2</i>) gene encoding the penultimate enzyme in melatonin biosynthesis led to simultaneous decreases in both melatonin and brassinosteroid (BR) levels, causing a semi-dwarf with erect leaf phenotype, typical of BR deficiency. Here, we further characterized <i>snat2</i> rice in terms of grain morphology and abiotic stress tolerance, to determine whether <i>snat2</i> rice exhibited characteristics similar to those of BR-deficient rice. As expected, the <i>snat2</i> rice exhibited tolerance to multiple stress conditions including cadmium, salt, cold, and heat, as evidenced by decreased malondialdehyde (MDA) levels and increased chlorophyll levels, in contrast with <i>SNAT2</i> overexpression lines, which were less tolerant to stress than wild type plants. In addition, the length and width of grain from <i>snat2</i> plants were reduced relative to the wild type, which is reminiscent of BR deficiency in rice. Other melatonin-deficient mutant rice lines with suppressed BR synthesis (i.e., <i>comt</i> and <i>t5h</i>) also showed tolerance to salt and heat stress, whereas melatonin-deficient rice seedlings without decreased BR levels (i.e., <i>tdc</i>) failed to exhibit increased stress tolerance, suggesting that stress tolerance was increased not by melatonin deficiency alone, but by a melatonin deficiency-mediated decrease in BR.
+
+snat2: !suppresses! melatonin
+snat2: !decreases! BR levels
+snat2: !causes! semi-dwarf phenotype
+snat2: !increases! stress tolerance
+snat2: !reduces! grain size
+comt/t5h: !decrease! BR synthesis
+comt/t5h: !increase! stress tolerance
+tdc: !deficient in! melatonin
+tdc: !does not increase! stress tolerance

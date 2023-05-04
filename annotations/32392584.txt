@@ -1,0 +1,9 @@
+In plants, nitrogen remobilization from source to sink organs is an important process regulated by complex transcriptional regulatory networks. However, the relationship between nitrogen remobilization and leaf senescence and the molecular regulatory network that controls them are unknown in maize. Here, using 15N labeling and a transcriptome approach, a dynamic analysis of the nitrogen remobilization process was conducted in two elite maize inbred lines (PH4CV and PH6WC) with contrasting leaf senescence. PH4CV showed higher nitrogen remobilization efficiency (NRE) than PH6WC, mainly in the middle and lower leaves from 15 d to 35 d after silking. The co-expression network analysis revealed that ethylene and cytokinin metabolism-related genes triggered the onset of nitrogen remobilization, while abscisic acid and jasmonic acid biosynthesis-related genes controlled the progression of nitrogen remobilization. By integrating genetic analysis, functional annotation, and gene expression, two candidate genes underlying a major quantitative trait locus of NRE were identified, namely an early senescence acting gene (ZmASR6) and an ATP-dependent Clp protease gene (GRMZM2G172230). Hormone-coupled transcription factors and downstream target genes reveal a gene regulatory network for the nitrogen remobilization process after silking in maize. These results uncovered a sophisticated regulatory mechanism for nitrogen remobilization, and further provided characterization of valuable genes for genetic improvement of nitrogen use efficiency in maize.
+
+ethylene: !triggers! nitrogen remobilization
+cytokinin: !triggers! nitrogen remobilization
+abscisic acid: !controls! nitrogen remobilization
+jasmonic acid: !controls! nitrogen remobilization
+ZmASR6: !underlies! major quantitative trait locus of NRE
+GRMZM2G172230: !underlies! major quantitative trait locus of NRE
+hormone-coupled transcription factors: !regulate! downstream target genes

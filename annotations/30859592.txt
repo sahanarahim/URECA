@@ -1,0 +1,8 @@
+['30859592', 'After germination, seedlings undergo growth arrest in response to unfavourable  conditions, a critical adaptation enabling plants to survive harsh environments.  The plant hormone abscisic acid (ABA) plays a key role in this arrest. To arrest  growth, ABA-dependent transcription factors change gene expression patterns in a  flexible and reversible manner. Although the control of gene expression has  important roles in growth arrest, the epigenetic mechanisms in the response to  ABA are not fully understood. Here, we show that the histone demethylases  JUMONJI-C domain-containing protein 30 (JMJ30) and JMJ32 control ABA-mediated  growth arrest in Arabidopsis thaliana. During the postgermination stage (2-3 days  after germination), the ABA-dependent transcription factor ABA-insensitive3  (ABI3) activates the expression of JMJ30 in response to ABA. JMJ30 then removes a  repressive histone mark, H3 lysine 27 trimethylation (H3K27me3), from the  SNF1-related protein kinase 2.8 (SnRK2.8) promoter, and hence activates SnRK2.8  expression. SnRK2.8 encodes a kinase that activates ABI3 and is responsible for  JMJ30- and JMJ32-mediated growth arrest. A feed-forward loop involving the ABI3  transcription factor, JMJ histone demethylases, and the SnRK2.8 kinase fine-tunes  ABA-dependent growth arrest in the postgermination phase. Our findings highlight  the importance of the histone demethylases in mediating adaptation of plants to  the environment.', '2019 Jul', 'Plant Cell Environ', '10.1111/pce.13547', 'ORCID:']
+
+ABA: !activates! ABI3 
+ABI3: !activates! JMJ30 
+JMJ30: !removes! H3K27me3 
+H3K27me3: !represses! SnRK2.8 
+SnRK2.8: !activates! ABI3 
+ABI3: !mediates! growth arrest

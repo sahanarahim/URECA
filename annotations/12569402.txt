@@ -1,0 +1,15 @@
+['12569402', 'The cyclin-dependent kinase (CDK) plays a crucial role in regulating the cell  cycle of eukaryotic organisms including plants. From previous studies, it is  known that ICK1, the first plant CDK inhibitor identified in Arabidopsis plants,  interacts with Arath;CycD3;1 (CycD3) and Arath;CDKA;1 (Cdc2a). Overexpression of  ICK1 has major effects on cell division, plant growth, and morphology. In this  study, approaches were taken to determine the effects on transgenic 35S::ICK1  Arabidopsis plants of introducing another gene that could potentially modulate  the activity of ICK1. F1 plants were obtained by crossing 35S::ICK1 plants with  wild type (Wt) and transgenic plants expressing 35::GUS, 35S::CycD3, 35S::CycD2,  or 35S::antiICK1 ( antiICK1 refers to antisense- ICK1). The major effects on  plant growth and morphology observed in the 35S::ICK1 plants were partially  reversed in the F1 plants from the crosses [35S::ICK1 x 35S::CycD2] and  [35S::ICK1 x 35S::CycD3], and completely restored in the F1 plants from the cross  [35S::ICK1 x 35S::antiICK1]. This observation was further supported by the  results of ploidy analysis and structural characterization. Overexpression of  CycD2 and CycD3 had the opposite effect on leaf cell size to the overexpression  of ICK1. In addition, in ICK1-overexpressing plants, the CycD2 and CycD3  transcript levels increased, indicating a possible feedback regulation. The  present results demonstrate that the interactions between ICK1 and D-type cyclins  previously observed by the yeast two-hybrid and in vitro techniques are  biologically relevant. These results illustrate the possibility of modifying  plant growth and architecture dynamically by adjusting the levels of positive and  negative cell-cycle regulators.', '2003 Feb', 'Planta', '10.1007/s00425-002-0935-x', 'Fowke']
+
+ICK1: !interacts with! CycD3 
+ICK1: !interacts with! Cdc2a 
+ICK1: !affects! plant growth 
+ICK1: !affects! morphology 
+35S::ICK1: !crossed with! Wt 
+35S::ICK1: !crossed with! 35::GUS 
+35S::ICK1: !crossed with! 35S::CycD3 
+35S::ICK1: !crossed with! 35S::CycD2 
+35S::ICK1: !crossed with! 35S::antiICK1 
+CycD2: !opposes! ICK1 
+CycD3: !opposes! ICK1 
+CycD2: !increases in! ICK1-overexpressing plants 
+CycD3: !increases in! ICK1-overexpressing plants

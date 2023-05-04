@@ -1,0 +1,9 @@
+Reactive oxygen species (ROS) accumulate at the tip of growing pollen tubes. In Arabidopsis, NADPH oxidases RbohH and RbohJ are localized at the plasma membrane of pollen tube tip and produce ROS in a Ca(2+)-dependent manner. The ROS produced by Rbohs and Ca(2+) presumably play a critical role in the positive feedback regulation that maintains the tip growth. Ultrastructural cytochemical analysis revealed ROS accumulation in the apoplast/cell wall of the pollen grains on the stigmatic papillae in the wild type, but not in the rbohH rbohJ double mutant, suggesting that apoplastic ROS derived from RbohH and RbohJ are involved in pollen tube elongation into the stigmatic papillae by affecting the cell wall metabolism.
+
+RbohH: !produces! ROS
+RbohJ: !produces! ROS
+Ca(2+): !activates! RbohH & RbohJ
+ROS: !regulates! tip growth
+RbohH & RbohJ: !accumulate at! plasma membrane
+ROS: !accumulates in! apoplast/cell wall
+RbohH & RbohJ: !involved in! pollen tube elongation

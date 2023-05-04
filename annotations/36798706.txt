@@ -1,0 +1,9 @@
+Stigma exsertion rate (SER) is an index of outcrossing ability in rice and is a key trait of male sterile lines (MSLs) in hybrid rice. In this study, it was found that the maintainer lines carrying <i>gs3</i> and <i>gs3</i>/<i>gw8</i> showed higher SER. Single-segment substitution lines (SSSLs) carrying <i>gs3</i>, <i>gw5</i>, <i>GW7</i> or <i>gw8</i> genes for grain shape and gene pyramiding lines were used to reveal the relationship between grain shape and SER. The results showed that the grain shape regulatory genes had pleiotropic effects on SER. The SERs were affected by grain shapes including grain length, grain width and the ratio of length to width (RLW) not only in low SER background, but also in high SER background. The coefficients of determination (R<sup>2</sup>) between grain length and SER, grain width and SER, and grain RLW and SER were 0.78, 0.72, and 0.91 respectively. The grain RLW was the most important parameter affecting SER, and a larger grain RLW was beneficial to stigma exsertion. The pyramiding line PL-<i>gs3</i>/<i>GW7</i>/<i>gw8</i> showed the largest grain RLW and the highest SER, which will be a fine breeding resource. Further research showed that the grain shape regulatory genes had pleiotropic effects on stigma shape, although the R<sup>2</sup> values between grain shape and stigma shape, and stigma shape and SER were lower. Our results demonstrate that grain shape is a factor affecting SER in rice, in part by affecting stigma shape. This finding will be helpful for breeding MSLs with high SER in hybrid rice.
+
+gs3: !affects! SER
+gw8: !affects! SER
+grain length: !affects! SER
+grain width: !affects! SER
+RLW: !affects! SER
+grain shape: !affects! SER
+stigma shape: !affects! SER

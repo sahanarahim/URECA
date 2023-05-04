@@ -1,0 +1,8 @@
+Circular RNAs (circRNAs) are covalently closed RNA molecules. Recent studies have shown that circRNAs can arise from the transcripts of transposons. Given the prevalence of transposons in the maize genome and dramatic genomic variation driven by transposons, we hypothesize that transposons in maize may be involved in the formation of circRNAs and further modulate phenotypic variation. We performed circRNA-Seq on B73 seedling leaves and uncovered 2804 high-confidence maize circRNAs, which show distinct genomic features. Comprehensive analyses demonstrated that sequences related to LINE1-like elements (LLEs) and their Reverse Complementary Pairs (LLERCPs) are significantly enriched in the flanking regions of circRNAs. Interestingly, as the number of LLERCPs increase, the accumulation of circRNAs varies, whereas that of linear transcripts decreases. Furthermore, genes with LLERCP-mediated circRNAs are enriched among loci that are associated with phenotypic variation. These results suggest that circRNAs are likely to be involved in the modulation of phenotypic variation by LLERCPs. Further, we showed that the presence/absence variation of LLERCPs was associated with expression variation of circRNA-circ1690 and was related to ear height, potentially through the interplay between circRNAs and functional linear transcripts. Our first study of maize circRNAs uncovers a potential new way for transposons to modulate transcriptomic and phenotypic variations.
+
+transposons: !form! circRNAs 
+LLEs/LLERCPs: !enrich! flanking regions of circRNAs 
+LLERCPs: !vary! accumulation of circRNAs 
+genes: !associated with! phenotypic variation 
+LLERCPs: !associated with! expression variation of circRNA-circ1690 
+expression variation: !related to! ear height

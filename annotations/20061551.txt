@@ -1,0 +1,9 @@
+Heat shock protein 70s (Hsp70s) are encoded by a multigene family and are located in different cellular compartments. They have broad-ranging functions, including involvement in protein trafficking, prevention of protein aggregation, and assistance in protein folding. Hsp70s work together with their cochaperones, J domain proteins and nucleotide exchange factors (e.g., GrpEs), in a functional cycle of substrate binding and release accompanied by ATP hydrolysis. We have taken advantage of the gene targeting capability of the moss Physcomitrella patens to investigate the functions of chloroplast Hsp70s. We identified four Hsp70 genes and two GrpE cochaperone homolog genes (CGE) in moss that encode chloroplast proteins. Disruption of one of the Hsp70 genes, that for Hsp70-2, caused lethality, and protein import into heat-shocked chloroplasts isolated from temperature-sensitive hsp70-2 mutants was appreciably impaired. Whereas the double cge null mutant was not viable, we recovered a cge1 null/cge2 knock down mutant in which Hsp70-2 was upregulated. Chloroplasts isolated from this mutant demonstrated a defect in protein import. In addition, two different precursors staged as early import intermediates could be immunoprecipitated with an Hsp70-2-specific antibody. This immunoprecipitate also contained Hsp93 and Tic40, indicating that it represents a precursor still in the Toc/Tic translocon. Together, these data indicate that a stromal Hsp70 system plays a crucial role in protein import into chloroplasts.
+
+Hsp70s: !encode! Heat shock protein 70s 
+Hsp70s: !work with! cochaperones 
+J domain proteins: !cochaperone of! Hsp70s 
+GrpEs: !cochaperone of! Hsp70s 
+Hsp70-2: !impairs! protein import 
+CGE1/CGE2: !affects! Hsp70-2 
+Hsp70-2: !interacts with! Hsp93 and Tic40

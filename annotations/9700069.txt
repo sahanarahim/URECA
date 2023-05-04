@@ -1,0 +1,9 @@
+['9700069', 'The nucleotide sequences of cDNAs encoding two isoforms of Arabidopsis glutamate  decarboxylase, designated GAD1 (57.1 kDa) and GAD2 (56.1 kDa) and sharing 82%  identical amino acid sequences, were determined. The recombinant proteins bound  [35S] calmodulin (CaM) in the presence of calcium, and a region of 30-32 amino  acids from the C-terminal of each isoform was sufficient for CaM binding when  fused to glutathione S-transferase. Full-length GAD1 and GAD2 were expressed in  Sf9 insect cells infected with recombinant baculovirus vectors. Recombinant  proteins were partially purified by CaM affinity chromatography and were found to  exhibit glutamate decarboxylase activity, which was dependent on the presence of  Ca2+/CaM at pH 7.3. Southern hybridizations with GAD gene-specific probes suggest  that Arabidopsis possesses one gene related to GAD1 and one to GAD2. Northern  hybridization and western blot analysis revealed that GAD1 was expressed only in  roots and GAD2 in roots, leaves, inflorescence stems and flowers. Our study  provides the first evidence for the occurrence of multiple functional  Ca2+/CaM-regulated GAD gene products in a single plant, suggesting that  regulation of Arabidopsis GAD activity involves modulation of isoform-specific  gene expression and stimulation of the catalytic activity of GAD by calcium  signalling via CaM.', '1998 Aug', 'Plant Mol Biol', '10.1023/a:1006047623263', 'Fromm']
+
+GAD1: !binds! CaM 
+GAD2: !binds! CaM 
+GAD1: !expressed in! roots 
+GAD2: !expressed in! roots, leaves, inflorescence stems and flowers 
+GAD1: !regulated by! isoform-specific gene expression 
+GAD2: !regulated by! isoform-specific gene expression 
+GAD1/2: !stimulated by! calcium signalling via CaM

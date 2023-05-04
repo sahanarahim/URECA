@@ -1,0 +1,10 @@
+['11575719', 'thi1 has been recently isolated from Arabidopsis thaliana and is probably  involved in both thiamine biosynthesis and as protection of organellar DNA from  damage. Studies of thiamine biosynthesis in plants suggests a plastid location  for the pathway, which is in agreement with the predicted THI1 N-terminal  chloroplastic transit peptide (TP). On the other hand, thiamine is synthesized in  mitochondria in yeast cells. Interestingly, A. thaliana thi1 cDNA complements a  yeast strain disrupted for the homologous gene. Analysis of THI1 amino acid  sequence revealed the presence of a putative amphiphilic alpha-helix, which is  typical for mitochondrial presequences, located downstream of the chloroplast  transit peptide. To define the putative role of the two predicted targeting  sequences in tandem, we produced two chimeric genes encompassing the  chloroplastic THI1 TP and either 4 or 27 (including the putative mitochondrial  presequence) N-terminal residues of the mature THI1, both linked to the reporter  (gusA) gene. Analysis of GUS distribution in subcellular fractions of transgenic  plants revealed that in the construct retaining only 4 residues of mature THI1,  GUS was found in the chloroplastic fraction. Extension of the THI1 transit  peptide to 27 residues of the mature protein allowed import and processing of GUS  into both mitochondria and chloroplasts. Direct analysis by immunogold-labeling  with an anti-THI1 polyclonal antibody identified THI1 in both organelles in  Arabidopsis. We also provide evidence that the precursors of both organellar  isoforms are encoded by a single nuclear transcript. Thus, THI1 is targeted  simultaneously to mitochondria and chloroplasts by a post transcriptional  mechanism.', '2001 Aug', 'Plant Mol Biol', '10.1023/a:1011628510711', 'Silva-Filho']
+
+thi1: !synthesizes! thiamine 
+thi1: !localizes to! plastid 
+thi1: !complements! yeast strain 
+thi1: !contains! alpha-helix 
+thi1: !enhances! GUS distribution 
+thi1: !imports and processes! GUS 
+thi1: !identified in! mitochondria and chloroplasts 
+thi1: !encoded by! single nuclear transcript

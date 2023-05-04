@@ -1,0 +1,11 @@
+Radish is an economically important vegetable crop. During the past several years, large-scale genomics and genetics resources have been accumulated for this species. To store, query, analyze and integrate these radish resources efficiently, we have developed RadishBase (http://bioinfo.bti.cornell.edu/radish), a genomics and genetics database of radish. Currently the database contains radish mitochondrial genome sequences, expressed sequence tag (EST) and unigene sequences and annotations, biochemical pathways, EST-derived single nucleotide polymorphism (SNP) and simple sequence repeat (SSR) markers, and genetic maps. RadishBase is designed to enable users easily to retrieve and visualize biologically important information through a set of efficient query interfaces and analysis tools, including the BLAST search and unigene annotation query interfaces, and tools to classify unigenes functionally, to identify enriched gene ontology (GO) terms and to visualize genetic maps. A database containing radish pathways predicted from unigene sequences is also included in RadishBase. The tools and interfaces in RadishBase allow efficient mining of recently released and continually expanding large-scale radish genomics and genetics data sets, including the radish genome sequences and RNA-seq data sets.
+
+RadishBase: !stores! radish mitochondrial genome sequences
+RadishBase: !queries! expressed sequence tag (EST) and unigene sequences and annotations
+RadishBase: !analyzes! biochemical pathways, EST-derived single nucleotide polymorphism (SNP) and simple sequence repeat (SSR) markers, and genetic maps
+RadishBase: !enables! BLAST search and unigene annotation query interfaces
+RadishBase: !classifies! unigenes functionally
+RadishBase: !identifies! enriched gene ontology (GO) terms
+RadishBase: !visualizes! genetic maps
+RadishBase: !contains! radish pathways predicted from unigene sequences
+RadishBase: !mines! radish genome sequences and RNA-seq data sets

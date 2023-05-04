@@ -1,0 +1,7 @@
+Abscisic acid (ABA) regulates abiotic stress and developmental responses including regulation of seed dormancy to prevent seeds from germinating under unfavorable environmental conditions. ABA HYPERSENSITIVE GERMINATION1 (AHG1) encoding a type 2C protein phosphatase (PP2C) is a central negative regulator of ABA response in germination; however, the molecular function and regulation of AHG1 remain elusive. Here we report that AHG1 interacts with DELAY OF GERMINATION1 (DOG1), which is a pivotal positive regulator in seed dormancy. DOG1 acts upstream of AHG1 and impairs the PP2C activity of AHG1 in vitro. Furthermore, DOG1 has the ability to bind heme. Binding of DOG1 to AHG1 and heme are independent processes, but both are essential for DOG1 function in vivo. Our study demonstrates that AHG1 and DOG1 constitute an important regulatory system for seed dormancy and germination by integrating multiple environmental signals, in parallel with the PYL/RCAR ABA receptor-mediated regulatory system.
+
+AHG1: !interacts with! DOG1
+DOG1: !acts upstream of! AHG1
+DOG1: !impairs activity of! AHG1
+DOG1: !binds to! heme
+AHG1: !regulated by! DOG1 and heme

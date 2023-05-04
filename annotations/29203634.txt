@@ -1,0 +1,9 @@
+The phenylpropanoid pathway is a major global carbon sink and is important for plant fitness and the engineering of bioenergy feedstocks. In <i>Arabidopsis thaliana</i>, disruption of two subunits of the transcriptional regulatory Mediator complex, MED5a and MED5b, results in an increase in phenylpropanoid accumulation. By contrast, the semidominant <i>MED5b</i> mutation <i>reduced epidermal fluorescence4-3</i> (<i>ref4-3</i>) results in dwarfism and constitutively repressed phenylpropanoid accumulation. Here, we report the results of a forward genetic screen for suppressors of <i>ref4-3.</i> We identified 13 independent lines that restore growth and/or phenylpropanoid accumulation in the <i>ref4-3</i> background. Two of the suppressors restore growth without restoring soluble phenylpropanoid accumulation, indicating that the growth and metabolic phenotypes of the <i>ref4-3</i> mutant can be genetically disentangled. Whole-genome sequencing revealed that all but one of the suppressors carry mutations in <i>MED5b</i> or other Mediator subunits. RNA-seq analysis showed that the <i>ref4-3</i> mutation causes widespread changes in gene expression, including the upregulation of negative regulators of the phenylpropanoid pathway, and that the suppressors reverse many of these changes. Together, our data highlight the interdependence of individual Mediator subunits and provide greater insight into the transcriptional regulation of phenylpropanoid biosynthesis by the Mediator complex.
+
+MED5a: !affects! phenylpropanoid accumulation
+MED5b: !affects! phenylpropanoid accumulation
+ref4-3: !represses! phenylpropanoid accumulation
+suppressors: !restore! growth and/or phenylpropanoid accumulation
+MED5b: !interacts with! other Mediator subunits
+ref4-3: !upregulates! negative regulators of the phenylpropanoid pathway
+suppressors: !reverse! many of these changes

@@ -1,0 +1,14 @@
+Diverse morphological, cellular and physiological changes occur during seed maturation in <i>Bixa orellana</i> when the seed tissues form specialized cell glands that produce reddish latex with high bixin amounts. Transcriptomic profiling during seed development in three <i>B. orellana</i> accessions (P12, N4 and N5) with contrasting morphologic characteristics showed enrichment in pathways of triterpenes, sesquiterpenes, and cuticular wax biosynthesis. WGCNA allows groups of all identified genes in six modules the module turquoise, the largest and highly correlated with the bixin content. The high number of genes in this module suggests a diversification of regulatory mechanisms for bixin accumulation with the genes belonging to isoprene, triterpenes and carotene pathways, being more highly correlated with the bixin content. Analysis of key genes of the mevalonate (MVA) and the 2C-methyl-D-erythritol-4-phosphate (MEP) pathways revealed specific activities of orthologs of <i>BoHMGR</i>, <i>BoFFP</i>, <i>BoDXS</i>, and <i>BoHDR.</i> This suggests that isoprenoid production is necessary for compounds included in the reddish latex of developing seeds. The carotenoid-related genes <i>BoPSY2</i>, <i>BoPDS1</i> and <i>BoZDS</i> displayed a high correlation with bixin production, consistent with the requirement for carotene precursors for apocarotenoid biosynthesis. The <i>BoCCD</i> gene member (<i>BoCCD4-4</i>) and some <i>BoALDH</i> (<i>ALDH2B7.2</i> and <i>ALDH3I1</i>) and <i>BoMET</i> (<i>BoSABATH1</i> and <i>BoSABATH8</i>) gene members were highly correlated to bixin in the final seed development stage. This suggested a contributing role for several genes in apocarotenoid production. The results revealed high genetic complexity in the biosynthesis of reddish latex and bixin in specialized seed cell glands in different accessions of <i>B. orellana</i> suggesting gene expression coordination between both metabolite biosynthesis processes.
+
+BoHMGR: !synthesizes! isoprenoid
+BoFFP: !synthesizes! isoprenoid
+BoDXS: !synthesizes! isoprenoid
+BoHDR: !synthesizes! isoprenoid
+BoPSY2: !enhances! bixin production
+BoPDS1: !enhances! bixin production
+BoZDS: !enhances! bixin production
+BoCCD4-4: !enhances! bixin production
+ALDH2B7.2: !enhances! bixin production
+ALDH3I1: !enhances! bixin production
+BoSABATH1: !enhances! bixin production
+BoSABATH8: !enhances! bixin production

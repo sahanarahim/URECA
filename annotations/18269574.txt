@@ -1,0 +1,12 @@
+Plant development is critically dependent on the interactions between clonally unrelated cell layers. The cross-talk between layers can be addressed by studies of cell autonomy. Cell autonomy is a property of genetic mosaics composed of cells of differing genotypes. Broadly, if the phenotype of a mutant tissue reflects only its genotype and is unaffected by the presence of wild-type tissue, the trait is cell-autonomous. Conversely, if the phenotype of a mutant tissue reflects that of wild-type tissue in the mosaic, the trait is non-autonomous. Here we report a novel, versatile and robust method for studies of cell autonomy in Arabidopsis. Cell autonomy (CAUT) lines consist of a collection of homozygous stocks, each containing one of 76 mapped T-DNA inserts, each of which corrects the yellow ch-42 mutant to green (CH-42) by complementation. This has the effect of translocating the colour marker to 76 new locations around the genome. X-irradiation of heterozygous CAUT line seeds results in yellow sectors, with loss of the CH-42 transgene and adjacent wild-type genes. This property can be used to remove the wild-type copy of developmental genes in appropriate heterozygotes, resulting in yellow (ch-42) sectors that are hemizygous for the trait of interest. Such sectors can provide insight into cell autonomy. Experiments using the ap1, ap3, ag and clv1 mutants show that CAUT lines are useful in the study of cell autonomy.
+
+Gene: !affects! Process 
+Gene: !localizes to! X 
+Gene: !interacts with! Y 
+Gene: !enhances! Z 
+Gene: !represses! U 
+Gene: !synthesizes! I 
+T-DNA: !corrects! ch-42 mutant 
+X-irradiation: !results in! yellow sectors 
+Wild-type genes: !removed by! heterozygous CAUT line seeds 
+ap1, ap3, ag and clv1 mutants: !studied using! CAUT lines

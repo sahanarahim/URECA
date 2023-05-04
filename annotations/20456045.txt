@@ -1,0 +1,7 @@
+*Significant progress has been made in the identification of the genetic factors controlling leaf shape. However, no integrated solution for the quantification and categorization of leaf form has been developed. In particular, the analysis of local changes in margin growth, which define many of the differences in shape, remains problematical. *Here, we report on a software package (LEAFPROCESSOR) which provides a semi-automatic and landmark-free method for the analysis of a range of leaf-shape parameters, combining both single metrics and principal component analysis. In particular, we explore the use of bending energy as a tool for the analysis of global and local leaf perimeter deformation. *As a test case for the implementation of the LEAFPROCESSOR program, we show that this integrated analysis leads to deeper insights into the morphogenic changes underpinning a series of previously identified Arabidopsis leaf-shape mutants. Our analysis reveals that many of these mutants which, at first sight, show similar leaf morphology, can be distinguished via our shape analysis. *The LEAFPROCESSOR program provides a novel integrated tool for the analysis of leaf shape.
+
+Gene: !affects! Leaf shape 
+Software package: !analyzes! Leaf shape 
+Bending energy: !measures! Global and local leaf perimeter deformation 
+Mutants: !distinguished by! Shape analysis 
+LEAFPROCESSOR: !provides! Novel integrated tool for the analysis of leaf shape

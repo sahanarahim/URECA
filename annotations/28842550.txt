@@ -1,0 +1,15 @@
+Photosynthetically derived sugar provides carbon skeletons for lipid biosynthesis. We used mutants of Arabidopsis (<i>Arabidopsis thaliana</i>) and the expression of oleogenic factors to investigate relationships among sugar availability, lipid synthesis, and the accumulation of triacylglycerol (TAG) in leaf tissue. The <i>adg1</i> mutation disables the small subunit of ADP-glucose pyrophosphorylase, the first step in starch synthesis, and the <i>suc2</i> mutation disables a sucrose/proton symporter that facilitates sucrose loading from leaves into phloem. The <i>adg1suc2</i> double mutant increases glucose plus sucrose content in leaves 80-fold relative to the wild type, total fatty acid (FA) content 1.8-fold to 8.3% dry weight, and TAG more than 10-fold to 1.2% dry weight. The WRINKLED1 transcription factor also accumulates to higher levels in these leaves, and the rate of FA synthesis increases by 58%. Adding <i>tt4</i>, which disables chalcone synthase, had little effect, but adding the <i>tgd1</i> mutation, which disables an importer of lipids into plastids to create <i>adg1suc2tt4tgd1</i>, increased total leaf FA to 13.5% dry weight and TAG to 3.8% dry weight, demonstrating a synergistic effect upon combining these mutations. Combining <i>adg1suc2</i> with the <i>sdp1</i> mutation, deficient in the predominant TAG lipase, had little effect on total FA content but increased the TAG accumulation by 66% to 2% dry weight. Expression of the <i>WRINKLED1</i> transcription factor, along with <i>DIACYLGLYCEROL ACYLTRANSFERASE1</i> and the <i>OLEOSIN1</i> oil body-associated protein, in the <i>adg1suc2</i> mutant doubled leaf FA content and increased TAG content to 2.3% dry weight, a level 4.6-fold higher than that resulting from expression of the same factors in the wild type.
+
+adg1: !disables! ADP-glucose pyrophosphorylase
+suc2: !disables! sucrose/proton symporter
+adg1suc2: !increases! glucose plus sucrose content
+adg1suc2: !increases! total fatty acid content
+adg1suc2: !increases! TAG content
+WRINKLED1: !accumulates to higher levels! in adg1suc2 leaves
+tt4: !has little effect! on FA synthesis
+tgd1: !synergistically increases! total leaf FA
+sdp1: !has little effect! on total FA content
+sdp1: !increases! TAG accumulation
+WRINKLED1: !doubles! leaf FA content
+DIACYLGLYCEROL ACYLTRANSFERASE1: !increases! TAG content
+OLEOSIN1: !increases! TAG content

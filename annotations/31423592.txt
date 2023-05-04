@@ -1,0 +1,12 @@
+Element content and expression of genes of interest on single cell types, such as stomata, provide valuable insights into their specific physiology, improving our understanding of leaf gas exchange regulation. We investigated how far differences in stomatal conductance (g<sub>s</sub> ) can be ascribed to changes in guard cells functioning in amphistomateous leaves. g<sub>s</sub> was measured during the day on both leaf sides, on well-watered and drought-stressed trees (two Populus euramericana Moench and two Populus nigra L. genotypes). In parallel, guard cells were dissected for element content and gene expressions analyses. Both were strongly arranged according to genotype, and drought had the lowest impact overall. Normalizing the data by genotype highlighted a structure on the basis of leaf sides and time of day both for element content and gene expression. Guard cells magnesium, phosphorus, and chlorine were the most abundant on the abaxial side in the morning, where g<sub>s</sub> was at the highest. In contrast, genes encoding H<sup>+</sup> -ATPase and aquaporins were usually more abundant in the afternoon, whereas genes encoding Ca<sup>2+</sup> -vacuolar antiporters, K<sup>+</sup> channels, and ABA-related genes were in general more abundant on the adaxial side. Our work highlights the unique physiology of each leaf side and their analogous rhythmicity through the day.
+
+H+-ATPase: !synthesizes! H+
+Aquaporins: !synthesizes! Water
+Ca2+-vacuolar antiporters: !synthesizes! Ca2+
+K+ channels: !synthesizes! K+
+ABA-related genes: !synthesizes! ABA
+Magnesium: !localizes to! Abaxial side
+Phosphorus: !localizes to! Abaxial side
+Chlorine: !localizes to! Abaxial side
+g<sub>s</sub>: !enhances! Abaxial side
+Drought: !represses! Element content and gene expression

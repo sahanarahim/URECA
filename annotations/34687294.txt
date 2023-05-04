@@ -1,0 +1,14 @@
+This article describes a methodology for detailed mapping of the lignification capacity of plant cell walls that we have called "REPRISAL" for REPorter Ratiometrics Integrating Segmentation for Analyzing Lignification. REPRISAL consists of the combination of three separate approaches. In the first approach, H*, G*, and S* monolignol chemical reporters, corresponding to p-coumaryl alcohol, coniferyl alcohol, and sinapyl alcohol, are used to label the growing lignin polymer in a fluorescent triple labeling strategy based on the sequential use of three main bioorthogonal chemical reactions. In the second step, an automatic parametric and/or artificial intelligence segmentation algorithm is developed that assigns fluorescent image pixels to three distinct cell wall zones corresponding to cell corners, compound middle lamella and secondary cell walls. The last step corresponds to the exploitation of a ratiometric approach enabling statistical analyses of differences in monolignol reporter distribution (ratiometric method [RM] 1) and proportions (RM 2) within the different cell wall zones. We first describe the use of this methodology to map developmentally related changes in the lignification capacity of wild-type Arabidopsis (Arabidopsis thaliana) interfascicular fiber cells. We then apply REPRISAL to analyze the Arabidopsis peroxidase (PRX) mutant prx64 and provide further evidence for the implication of the AtPRX64 protein in floral stem lignification. In addition, we also demonstrate the general applicability of REPRISAL by using it to map lignification capacity in poplar (Populus tremula × Populus alba), flax (Linum usitatissimum), and maize (Zea mays). Finally, we show that the methodology can be used to map the incorporation of a fucose reporter into noncellulosic cell wall polymers.
+
+H*: !labels! lignin polymer 
+G*: !labels! lignin polymer 
+S*: !labels! lignin polymer 
+REPRISAL: !combines! three approaches 
+segmentation algorithm: !assigns! fluorescent image pixels 
+RM 1: !enables! statistical analyses of monolignol reporter distribution 
+RM 2: !enables! statistical analyses of monolignol proportions 
+AtPRX64 protein: !implicated in! floral stem lignification 
+poplar: !mapped for! lignification capacity 
+flax: !mapped for! lignification capacity 
+maize: !mapped for! lignification capacity 
+fucose reporter: !incorporated into! noncellulosic cell wall polymers

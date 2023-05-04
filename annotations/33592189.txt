@@ -1,0 +1,10 @@
+In plants, the cortical endoplasmic reticulum (ER) network is connected to the plasma membrane (PM) through the ER-PM contact sites (EPCSs), whose structures are maintained by EPCS resident proteins and the cytoskeleton.<sup>1-7</sup> Strong co-alignment between EPCSs and the cytoskeleton is observed in plants,<sup>1</sup><sup>,</sup><sup>8</sup> but little is known of how the cytoskeleton is maintained and regulated at the EPCS. Here, we have used a yeast-two-hybrid screen and subsequent in vivo interaction studies in plants by fluorescence resonance energy transfer (FRET)-fluorescence lifetime imaging microscopy (FLIM) analysis to identify two microtubule binding proteins, KLCR1 (kinesin-light-chain-related protein 1) and IQD2 (IQ67-domain 2), that interact with the actin binding protein NET3C and form a component of plant EPCS that mediates the link between the actin and microtubule networks. The NET3C-KLCR1-IQD2 module, acting as an actin-microtubule bridging complex, has a direct influence on ER morphology and EPCS structure. Their loss-of-function mutants, net3a/NET3C RNAi, klcr1, or iqd2, exhibit defects in pavement cell morphology, which we suggest is linked to the disorganization of both actin filaments and microtubules. In conclusion, our results reveal a novel cytoskeletal-associated complex, which is essential for the maintenance and organization of cytoskeletal structure and ER morphology at the EPCS and for normal plant cell morphogenesis.
+
+NET3C: !interacts with! KLCR1
+KLCR1: !interacts with! IQD2
+NET3C-KLCR1-IQD2: !maintains! EPCS structure
+EPCS: !connects to! PM
+NET3C-KLCR1-IQD2: !mediates link between! actin & microtubule networks
+NET3C-KLCR1-IQD2: !influences! ER morphology
+net3a/NET3C RNAi, klcr1, iqd2: !exhibit defects in! pavement cell morphology
+actin filaments & microtubules: !disorganized by! net3a/NET3C RNAi, klcr1, iqd2

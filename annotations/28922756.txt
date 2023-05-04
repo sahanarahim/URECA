@@ -1,0 +1,13 @@
+The JASON (JAS) protein plays an important role in maintaining an organelle band across the equator of male meiotic cells during the second division, with its loss leading to unreduced pollen in Arabidopsis. In roots cells, JAS localizes to the Golgi, tonoplast and plasma membrane. Here we explore the mechanism underlying the localization of JAS. Overall, our data show that leaky ribosom scanning and alternative translation initiation sites (TISs) likely leads to the formation of two forms of JAS: a long version with an N-terminal Golgi localization signal and a short version with a different N-terminal signal targeting the protein to the plasma membrane. The ratio of the long and short forms of JAS is developmentally regulated, with both being produced in roots but the short form being predominant and functional during meiosis. This regulation of TISs in meiocytes ensures that the short version of JAS is formed during meiosis to ensure separation of chromosome groups and the production of reduced pollen. We hypothesize that increased occurrence of unreduced pollen under stress conditions may be a consequence of altered usage of JAS TISs during stress.
+
+JAS: !localizes to! Golgi 
+JAS: !localizes to! tonoplast 
+JAS: !localizes to! plasma membrane 
+JAS: !synthesizes! long version 
+JAS: !synthesizes! short version 
+long version: !contains! N-terminal Golgi localization signal 
+short version: !contains! different N-terminal signal 
+long version: !regulated by! development 
+short version: !predominant and functional during! meiosis 
+TISs: !ensures! formation of short version of JAS 
+TISs: !altered usage of! under stress conditions

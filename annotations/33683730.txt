@@ -1,0 +1,8 @@
+The root economics space is a useful framework for plant ecology but is rarely considered for crop ecophysiology. In order to understand root trait integration in winter wheat, we combined functional phenomics with trait economic theory, utilizing genetic variation, high-throughput phenotyping, and multivariate analyses. We phenotyped a diversity panel of 276 genotypes for root respiration and architectural traits using a novel high-throughput method for CO<sub>2</sub> flux and the open-source software RhizoVision Explorer to analyze scanned images. We uncovered substantial variation in specific root respiration (SRR) and specific root length (SRL), which were primary indicators of root metabolic and structural costs. Multiple linear regression analysis indicated that lateral root tips had the greatest SRR, and the residuals from this model were used as a new trait. Specific root respiration was negatively correlated with plant mass. Network analysis, using a Gaussian graphical model, identified root weight, SRL, diameter, and SRR as hub traits. Univariate and multivariate genetic analyses identified genetic regions associated with SRR, SRL, and root branching frequency, and proposed gene candidates. Combining functional phenomics and root economics is a promising approach to improving our understanding of crop ecophysiology. We identified root traits and genomic regions that could be harnessed to breed more efficient crops for sustainable agroecosystems.
+
+SRR: !correlated with! Plant Mass
+SRL: !greatest at! Lateral Root Tips
+Root Weight: !hub trait of! Network Analysis
+SRL: !associated with! Genetic Regions
+SRR: !associated with! Genetic Regions
+Root Branching Frequency: !associated with! Genetic Regions

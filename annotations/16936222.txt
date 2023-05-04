@@ -1,0 +1,12 @@
+This study aims to explore and model the changes in growth unit (GU) branching patterns during tree ontogeny. The question was addressed in apple trees cv. "Fuji", by analysing the relative impact of GU length and within-tree position. The development of two 6-year-old trees was recorded over 6 years. The fate of axillary buds along each GU was represented as a sequence of symbols corresponding to five types of lateral growth: latent buds, short, medium, long, and floral lateral GUs. Based on an exploratory analysis of data and a priori hypotheses, a hidden semi-Markov chain was estimated from all of these GU sequences. This model was composed of six transient states representing successive branching zones along the GUs. The accuracy of this global model was a posteriori assessed by fitting the characteristic distributions computed from model parameters to the corresponding empirical characteristic distributions extracted from the observed sequences. The observed sequences were then grouped hierarchically according to the GU length, year of growth, and branching order. Comparing model parameters between these sub-groups revealed similarities between GUs. These similarities were based on particular branching zones whose composition and relative position within the GUs remained invariant across the subgroups: the latent zones, floral zone, and short-lateral zone. The probability of occurrence of the floral zone varied with the year, showing the alternate fruiting of "Fuji". It is shown that, during tree ontogeny, as GU length decreases, branching patterns tend to progressively simplify due to the disappearance of the most central zones and a progressive reduction in the length of the floral zone.
+
+Gene: !affects! GU length 
+Gene: !affects! Within-tree position 
+Gene: !affects! Latent buds 
+Gene: !affects! Short lateral GUs 
+Gene: !affects! Medium lateral GUs 
+Gene: !affects! Long lateral GUs 
+Gene: !affects! Floral lateral GUs 
+Gene: !affects! Occurrence of floral zone 
+Gene: !affects! Alternate fruiting of "Fuji" 
+Gene: !causes! Simplification of branching patterns

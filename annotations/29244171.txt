@@ -1,0 +1,9 @@
+Photomorphogenesis is an important process in which seedlings emerge from soil and begin autotrophic growth. Mechanisms of photomorphogenesis include light signal perception, signal transduction, and the modulation of expression of light-responsive genes, ultimately leading to cellular and developmental changes. Phytochrome-interacting factors (PIFs) play negative regulatory roles in photomorphogenesis. Light-induced activation of phytochromes triggers rapid phosphorylation and degradation of PIFs, but the kinases responsible for the phosphorylation of PIFs are largely unknown. Here, we show that Arabidopsis MPK6 is a kinase involved in phosphorylating PIF3 and regulating red light-induced cotyledon opening, a crucial process during seedling photomorphogenesis. MPK6 was activated by red light, and the cotyledon opening angle in red light was reduced in mpk6 seedlings. MKK10, a MAPKK whose function is currently unclear, appears to act as a kinase upstream of MPK6 in regulating cotyledon opening. Activation of MPK6 by MKK10 led to the phosphorylation of PIF3 and accelerated its turnover in transgenic seedlings. Accordingly, the overexpression of PIF3 suppressed MKK10-induced cotyledon opening. MKK10 and MPK6 function downstream of phyB in regulating seedling cotyledon opening in red light. Therefore, the MKK10-MPK6 cascade appears to mediate the regulation of red-light-controlled seedling photomorphogenesis via a mechanism that might involve the phosphorylation of PIF3.
+
+Phytochrome: !activates! MKK10
+MKK10: !activates! MPK6
+MPK6: !phosphorylates! PIF3
+PIF3: !suppresses! cotyledon opening
+MKK10: !regulates! cotyledon opening
+MPK6: !regulates! cotyledon opening
+phyB: !activates! MKK10

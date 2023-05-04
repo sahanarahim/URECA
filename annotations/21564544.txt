@@ -1,0 +1,13 @@
+Floral initiation is a major step in the life cycle of plants, which is influenced by photoperiod, temperature, and phytohormones, such as gibberellins (GAs). It is known that GAs promote floral initiation under short-day light conditions (SDs) by regulating the floral meristem-identity gene LEAFY (LFY) and the flowering-time gene SUPPRESSOR OF OVEREXPRESSION OF CO 1 (SOC1). We have defined the role of the auxin signaling component INDOLE-3-ACETIC ACID 7 (IAA7)/AUXIN RESISTANT 2 (AXR2) in the regulation of flowering time in Arabidopsis thaliana. We demonstrate that the gain-of-function mutant of IAA7/AXR2, axr2-1, flowers late under SDs. The exogenous application of GAs rescued the late flowering phenotype of axr2-1 plants. The expression of the GA20 oxidase (GA20ox) genes, GA20ox1 and GA20ox2, was reduced in axr2-1 plants, and the levels of both LFY and SOC1 transcripts were reduced in axr2-1 mutants under SDs. Furthermore, the overexpression of SOC1 or LFY in axr2-1 mutants rescued the late flowering phenotype under SDs. Our results suggest that IAA7/AXR2 might act to inhibit the timing of floral transition under SDs, at least in part, by negatively regulating the expressions of the GA20ox1 and GA20ox2 genes.
+
+photoperiod: !influences! floral initiation
+GAs: !promote! floral initiation
+LFY: !regulated by! GAs
+SOC1: !regulated by! GAs
+IAA7/AXR2: !inhibits! timing of floral transition
+GA20ox1: !repressed by! IAA7/AXR2
+GA20ox2: !repressed by! IAA7/AXR2
+LFY: !repressed by! IAA7/AXR2
+SOC1: !repressed by! IAA7/AXR2
+SOC1: !overexpression rescues! late flowering phenotype
+LFY: !overexpression rescues! late flowering phenotype

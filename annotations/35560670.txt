@@ -1,0 +1,8 @@
+Self-incompatibility in the Brassicaceae family is governed by SRK and SCR, which are two highly polymorphic genes located at the S-locus. Previously, the Arabidopsis lyrata SRK and SCR genes were introduced into Arabidopsis thaliana to generate self-incompatible lines. However, there are no reports showing that Brassica SRK and SCR genes confer self-incompatibility in A. thaliana. Doing so would further advance the mechanistic understanding of self-incompatibility in Brassicaceae. Therefore, we attempted to generate A. thaliana transformants showing the self-recognition activity of Brassica rapa by introducing BrSCR along with a chimeric BrSRK (BrSRK chimera, in which the kinase domain of BrSRK was replaced with that of AlSKR-b). We found that the BrSRK chimera and BrSCR of B. rapa S-9 and S-46 haplotypes, but not those of S-29, S-44, and S-60 haplotypes, conferred self-recognition activity in A. thaliana. Analyses of A. thaliana transformants expressing mutant variants of the BrSRK-9 chimera and BrSCR-9 revealed that mutations at the amino acid residues involved in BrSRK9-BrSCR9 interaction caused defects in the self-incompatibility response. The method developed in this study for generating self-incompatible A. thaliana transformants showing B. rapa self-recognition activity will be useful for analysis of self-recognition mechanisms in Brassicaceae.
+
+SRK: !governs! Self-incompatibility 
+SCR: !governs! Self-incompatibility 
+BrSRK: !interacts with! BrSCR 
+BrSRK: !confers! Self-recognition activity 
+BrSCR: !confers! Self-recognition activity 
+Mutations: !cause defects in! Self-incompatibility response

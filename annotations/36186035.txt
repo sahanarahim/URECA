@@ -1,0 +1,7 @@
+Deep neural networks can be used to diagnose and detect plant diseases, helping to avoid the plant health-related crop production losses ranging from 20 to 50% annually. However, the data collection and annotation required to achieve high accuracies can be expensive and sometimes very difficult to obtain in specific use-cases. To this end, this work proposes a synthetic data generation pipeline based on generative adversarial networks (GANs), allowing users to artificially generate images to augment their small datasets through its web interface. The image-generation pipeline is tested on a home-collected dataset of whitefly pests, <i>Bemisia tabaci</i>, on different crop types. The data augmentation is shown to improve the performance of lightweight object detection models when the dataset size is increased from 140 to 560 images, seeing a jump in recall at 0.50 IoU from 54.4 to 93.2%, and an increase in the average IoU from 34.6 to 70.9%, without the use of GANs. When GANs are used to increase the number of source object masks and further diversify the dataset, there is an additional 1.4 and 2.6% increase in recall and average IoU, respectively. The authenticity of the generated data is also validated by human reviewers, who reviewed the GANs generated data and scored an average of 56% in distinguishing fake from real insects for low-resolutions sets, and 67% for high-resolution sets.
+
+GANs: !generate! Images 
+GANs: !augment! Datasets 
+Dataset Size: !increases! Performance 
+GANs: !diversify! Dataset 
+Human Reviewers: !distinguish! Fake/Real Insects

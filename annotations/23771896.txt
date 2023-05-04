@@ -1,0 +1,10 @@
+Seed development is important for agriculture productivity. We demonstrate that brassinosteroid (BR) plays crucial roles in determining the size, mass, and shape of Arabidopsis (Arabidopsis thaliana) seeds. The seeds of the BR-deficient mutant de-etiolated2 (det2) are smaller and less elongated than those of wild-type plants due to a decreased seed cavity, reduced endosperm volume, and integument cell length. The det2 mutant also showed delay in embryo development, with reduction in both the size and number of embryo cells. Pollination of det2 flowers with wild-type pollen yielded seeds of normal size but still shortened shape, indicating that the BR produced by the zygotic embryo and endosperm is sufficient for increasing seed volume but not for seed elongation, which apparently requires BR produced from maternal tissues. BR activates expression of SHORT HYPOCOTYL UNDER BLUE1, MINISEED3, and HAIKU2, which are known positive regulators of seed size, but represses APETALA2 and AUXIN RESPONSE FACTOR2, which are negative regulators of seed size. These genes are bound in vivo by the BR-activated transcription factor BRASSINAZOLE-RESISTANT1 (BZR1), and they are known to influence specific processes of integument, endosperm, and embryo development. Our results demonstrate that BR regulates seed size and seed shape by transcriptionally modulating specific seed developmental pathways.
+
+brassinosteroid: !activates! SHORT HYPOCOTYL UNDER BLUE1
+brassinosteroid: !activates! MINISEED3
+brassinosteroid: !activates! HAIKU2
+brassinosteroid: !represses! APETALA2
+brassinosteroid: !represses! AUXIN RESPONSE FACTOR2
+BRASSINAZOLE-RESISTANT1: !binds! SHORT HYPOCOTYL UNDER BLUE1
+BRASSINAZOLE-RESISTANT1: !binds! MINISEED3
+BRASSINAZOLE-RESISTANT1: !binds! HAIKU2

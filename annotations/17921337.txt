@@ -1,0 +1,12 @@
+Site-specific integration is an attractive method for the improvement of current transformation technologies aimed at the production of stable transgenic plants. Here, we present a Cre-based targeting strategy in Arabidopsis (Arabidopsis thaliana) using recombinase-mediated cassette exchange (RMCE) of transferred DNA (T-DNA) delivered by Agrobacterium tumefaciens. The rationale for effective RMCE is the precise exchange of a genomic and a replacement cassette both flanked by two heterospecific lox sites that are incompatible with each other to prevent unwanted cassette deletion. We designed a strategy in which the coding region of a loxP/lox5171-flanked bialaphos resistance (bar) gene is exchanged for a loxP/lox5171-flanked T-DNA replacement cassette containing the neomycin phosphotransferase (nptII) coding region via loxP/loxP and lox5171/lox5171 directed recombination. The bar gene is driven by the strong 35S promoter, which is located outside the target cassette. This placement ensures preferential selection of RMCE events and not random integration events by expression of nptII from this same promoter. Using root transformation, during which Cre was provided on a cotransformed T-DNA, 50 kanamycin-resistant calli were selected. Forty-four percent contained a correctly exchanged cassette based on PCR analysis, indicating the stringency of the selection system. This was confirmed for the offspring of five analyzed events by Southern-blot analysis. In four of the five analyzed RMCE events, there were no additional T-DNA insertions or they easily segregated, resulting in high-efficiency single-copy RMCE events. Our approach enables simple and efficient selection of targeting events using the advantages of Agrobacterium-mediated transformation.
+
+Cre: !mediates! RMCE 
+T-DNA: !delivered by! Agrobacterium tumefaciens 
+loxP/lox5171: !flank! bialaphos resistance gene 
+loxP/lox5171: !flank! T-DNA replacement cassette 
+35S promoter: !drives! bar gene 
+nptII: !expressed from! 35S promoter 
+root transformation: !provides! Cre 
+PCR analysis: !confirms! stringency of selection system 
+Southern-blot analysis: !confirms! RMCE events 
+Agrobacterium-mediated transformation: !enables! simple and efficient selection

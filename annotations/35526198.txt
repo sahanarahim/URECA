@@ -1,0 +1,17 @@
+Water deficit often hastens flowering of pulses partially because droughted plants are hotter. Separating temperature-independent and temperature-dependent effects of drought is important to understand, model, and manipulate phenology. We define a new trait, drought effect on phenology (DEP), as the difference in flowering time between irrigated and rainfed crops, and use FST genome scanning to probe for genomic regions under selection for this trait in chickpea (Cicer arietinum). Owing to the negligible variation in daylength in our dataset, variation in phenology with sowing date was attributed to temperature and water; hence, genomic regions overlapping for early- and late-sown crops would associate with temperature-independent effects and non-overlapping genomic regions would associate with temperature-dependent effects. Thermal-time to flowering was shortened with increasing water stress, as quantified with carbon isotope composition. Genomic regions on chromosomes 4-8 were under selection for DEP. An overlapping region for early and late sowing on chromosome 8 revealed a temperature-independent effect with four candidate genes: BAM1, BAM2, HSL2, and ANT. The non-overlapping regions included six candidate genes: EMF1, EMF2, BRC1/TCP18, BZR1, NPGR1, and ERF1. Modelling showed that DEP reduces the likelihood of drought and heat stress at the expense of increased likelihood of cold stress. Accounting for DEP would improve genetic and phenotypic models of phenology.
+
+BAM1: !affects! DEP
+BAM2: !affects! DEP
+HSL2: !affects! DEP
+ANT: !affects! DEP
+EMF1: !affects! DEP
+EMF2: !affects! DEP
+BRC1/TCP18: !affects! DEP
+BZR1: !affects! DEP
+NPGR1: !affects! DEP
+ERF1: !affects! DEP
+Water deficit: !hastens! flowering
+Temperature: !affects! phenology
+Sowing date: !affects! phenology
+Carbon isotope composition: !quantifies! water stress
+Chromosomes 4-8: !under selection for! DEP

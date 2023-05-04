@@ -1,0 +1,10 @@
+Accurate and timely estimation of cotton yield over large areas is essential for precision agriculture, facilitating the operation of commodity markets and guiding agronomic management practices. Remote sensing (RS) and crop models are effective means to predict cotton yield in the field. The satellite vegetation indices (VIs) can describe crop yield variations over large areas but can't take the exact environmental impact into consideration. Climate variables (CVs), the result of the influence of spatial heterogeneity in large regions, can provide environmental information for better estimation of cotton yield. In this study, the most important VIs and CVs for estimating county-level cotton yield across Xinjiang Province were screened out. We found that the VIs of canopy structure and chlorophyll contents, and the CVs of moisture, were the most significant factors for cotton growth. For yield estimation, we utilized four approaches: least absolute shrinkage and selection operator regression (LASSO), support vector regression (SVR), random forest regression (RFR) and long short-term memory (LSTM). Due to its ability to capture temporal features over the long term, LSTM performed best, with an R<sup>2</sup> of 0.76, root mean square error (RMSE) of 150 kg/ha and relative RMSE (rRMSE) of 8.67%; moreover, an additional 10% of the variance could be explained by adding CVs to the VIs. For the within-season yield estimation using LSTM, predictions made 2 months before harvest were the most accurate (R<sup>2</sup> = 0.65, RMSE = 220 kg/ha, rRMSE = 15.97%). Our study demonstrated the feasibility of yield estimation and early prediction at the county level over large cotton cultivation areas by integrating satellite and environmental data.
+
+VIs: !describe! Crop Yield Variations 
+CVs: !provide! Environmental Information 
+LASSO: !utilized for! Yield Estimation 
+SVR: !utilized for! Yield Estimation 
+RFR: !utilized for! Yield Estimation 
+LSTM: !utilized for! Yield Estimation 
+CVs: !additional 10% variance explained by adding to VIs! 
+LSTM: !most accurate 2 months before harvest!

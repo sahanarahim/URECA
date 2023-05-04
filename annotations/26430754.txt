@@ -1,0 +1,7 @@
+Appropriate timing of flowering is critical for propagation and reproductive success in plants. Therefore, flowering time is coordinately regulated by endogenous developmental programs and external signals, such as changes in photoperiod and temperature. Flowering is delayed by a transient shift to cold temperatures that frequently occurs during early spring in the temperate zones. It is known that the delayed flowering by short-term cold stress is mediated primarily by the floral repressor FLOWERING LOCUS C (FLC). However, how the FLC-mediated cold signals are integrated into flowering genetic pathways is not fully understood. We have recently reported that the INDUCER OF CBF EXPRESSION 1 (ICE1), which is a master regulator of cold responses, FLC, and the floral integrator SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1 (SOC1) constitute an elaborated feedforward-feedback loop that integrates photoperiod and cold temperature signals to regulate seasonal flowering in Arabidopsis. Cold temperatures promote the binding of ICE1 to FLC promoter to induce its expression, resulting in delayed flowering. However, under floral inductive conditions, SOC1 induces flowering by blocking the ICE1 activity. We propose that the ICE1-FLC-SOC1 signaling network fine-tunes the timing of photoperiodic flowering during changing seasons.
+
+ICE1: !induces! FLC 
+FLC: !represses! flowering 
+SOC1: !blocks! ICE1 
+ICE1: !integrates! photoperiod and cold temperature signals 
+SOC1: !induces! flowering

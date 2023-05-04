@@ -1,0 +1,10 @@
+Despite intense research on light responses in plants, the consequences of a simple shift from light to darkness remain poorly characterized. We have examined the transcriptome of Arabidopsis thaliana seedling leaves upon a shift from constant light to darkness for between 1 and 8 h, while excluding most effects associated with circadian oscillation. Expression clustering and gene ontology analyses identified about 790 responsive genes implicated in diverse cellular processes. Compared to the better-studied long-term dark adaptation response, the early response to darkness is partially overlapping yet clearly distinct, encompassing early transient, early sustained, and late response clusters. The repressor of photomorphogenesis, COP1 (constitutive photomorphogenic 1), is not a chief regulator of the early response to darkness, in contrast to its well-established role during long-term dark adaptation and etiolation. Only part of the early dark response can be understood as the opposite of the response following a dark-to-light transition and as a response to sugar deprivation. Bioinformatic comparisons with published microarray datasets further suggest that abscisic acid (ABA) signaling plays a prominent role in the early response to darkness, although this effect is not mediated by an increase in the ABA level. The potential basis for the co-regulation by darkness and ABA is discussed in light of sugar and redox signaling.
+
+Gene: !affects! Process
+Gene: !localizes to! X
+Gene: !interacts with! Y
+Gene: !enhances! Z
+Gene: !represses! U
+Gene: !synthesizes! I
+COP1: !regulates! Long-term dark adaptation
+ABA: !signals! Early response to darkness

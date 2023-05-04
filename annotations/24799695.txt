@@ -1,0 +1,7 @@
+The functional significance of noncoding transcripts is currently a major question in biology. We have been studying the function of a set of antisense transcripts called COOLAIR that encompass the whole transcription unit of the Arabidopsis floral repressor FLOWERING LOCUS C (FLC). Alternative polyadenylation of COOLAIR transcripts correlates with different FLC sense expression states. Suppressor mutagenesis aimed at understanding the importance of this sense-antisense transcriptional circuitry has identified a role for Arabidopsis cyclin-dependent kinase C (CDKC;2) in FLC repression. CDKC;2 functions in an Arabidopsis positive transcription elongation factor b (P-TEFb) complex and influences global RNA polymerase II (Pol II) Ser(2) phosphorylation levels. CDKC;2 activity directly promotes COOLAIR transcription but does not affect an FLC transgene missing the COOLAIR promoter. In the endogenous gene context, however, the reduction of COOLAIR transcription by cdkc;2 disrupts a COOLAIR-mediated repression mechanism that increases FLC expression. This disruption then feeds back to indirectly increase COOLAIR expression. This tight interconnection between sense and antisense transcription, together with differential promoter sensitivity to P-TEFb, is central to quantitative regulation of this important floral repressor gene.
+
+FLC: !regulated by! COOLAIR
+COOLAIR: !regulated by! CDKC;2
+CDKC;2: !promotes! COOLAIR
+CDKC;2: !disrupts! FLC repression
+COOLAIR: !feeds back to! increase expression

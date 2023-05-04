@@ -1,0 +1,9 @@
+Flowering plants sense various environmental and endogenous signals to trigger the floral transition and start the reproductive growth cycle. CONSTANS (CO) is a master transcription factor in the photoperiod floral pathway that integrates upstream signals and activates the florigen gene FLOWERING LOCUS T (FT). Here, we performed comprehensive structural and biochemical analyses to study the molecular mechanism underlying the regulation of FT by CO in Arabidopsis thaliana. We show that the four previously characterized cis-elements in the FT promoter proximal region, CORE1, CORE2, P1, and P2, are all direct CO binding sites. Structural analysis of CO in complex with NUCLEAR FACTOR-YB/YC (NF-YB/YC) and the CORE2 or CORE1 elements revealed the molecular basis for the specific recognition of the shared TGTG motifs. Biochemical analysis suggested that CO might form a homomultimeric assembly via its N-terminal B-Box domain and simultaneously occupy multiple cis-elements within the FT promoter. We suggest that this multivalent binding gives the CO-NF-Y complex high affinity and specificity for FT promoter binding. Overall, our data provide a detailed molecular model for the regulation of FT by the master transcription factor complex CO-NF-Y during the floral transition.
+
+CONSTANS: !activates! FLOWERING LOCUS T
+CONSTANS: !binds to! CORE1
+CONSTANS: !binds to! CORE2
+CONSTANS: !binds to! P1
+CONSTANS: !binds to! P2
+NUCLEAR FACTOR-YB/YC: !interacts with! CONSTANS
+TGTG motifs: !recognized by! CONSTANS

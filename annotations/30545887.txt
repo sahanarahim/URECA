@@ -1,0 +1,6 @@
+The parasitic plant <i>Striga hermonthica</i> has been causing devastating damage to the crop production in Africa. Because <i>Striga</i> requires host-generated strigolactones to germinate, the identification of selective and potent strigolactone agonists could help control these noxious weeds. We developed a selective agonist, sphynolactone-7, a hybrid molecule originated from chemical screening, that contains two functional modules derived from a synthetic scaffold and a core component of strigolactones. Cooperative action of these modules in the activation of a high-affinity strigolactone receptor ShHTL7 allows sphynolactone-7 to provoke <i>Striga</i> germination with potency in the femtomolar range. We demonstrate that sphynolactone-7 is effective for reducing <i>Striga</i> parasitism without impinging on host strigolactone-related processes.
+
+sphynolactone-7: !activates! ShHTL7 
+ShHTL7: !binds to! sphynolactone-7 
+sphynolactone-7: !reduces! Striga parasitism 
+sphynolactone-7: !contains! two functional modules

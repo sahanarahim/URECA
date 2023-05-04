@@ -1,0 +1,8 @@
+Nitrate is an important nitrogen source used by plants. Despite of the considerable variation in the amount of soil nitrate, plants keep cytosolic nitrate at a homeostatic controlled level. Here we describe a set of homeostatic controller motifs and their interaction that can maintain robust cytosolic nitrate homeostasis at fluctuating external nitrate concentrations and nitrate assimilation levels. The controller motifs are divided into two functional classes termed as inflow and outflow controllers. In the presence of high amounts of environmental nitrate, the function of outflow controllers is associated to efflux mechanisms removing excess of nitrate from the cytosol that is taken up by low-affinity transporter systems (LATS). Inflow controllers on the other hand maintain homeostasis in the presence of a high demand of nitrate by the cell relative to the amount of available environmental nitrate. This is achieved by either remobilizing nitrate from a vacuolar store, or by taking up nitrate by means of high-affinity transporter systems (HATS). By combining inflow and outflow controllers we demonstrate how nitrate uptake, assimilation, storage and efflux are integrated to a regulatory network that maintains cytosolic nitrate homeostasis at changing environmental conditions.
+
+LATS: !transports! nitrate 
+HATS: !transports! nitrate 
+inflow controllers: !maintain homeostasis! in presence of high demand 
+outflow controllers: !remove excess! nitrate from cytosol 
+vacuolar store: !remobilizes! nitrate 
+regulatory network: !integrates! uptake, assimilation, storage and efflux

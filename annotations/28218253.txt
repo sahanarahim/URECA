@@ -1,0 +1,10 @@
+The terrestrial vegetation emits large amounts of volatile organic compounds (VOC) into the atmosphere, which on oxidation produce secondary organic aerosol (SOA). By acting as cloud condensation nuclei (CCN), SOA influences cloud formation and climate. In a warming climate, changes in environmental factors can cause stresses to plants, inducing changes of the emitted VOC. These can modify particle size and composition. Here we report how induced emissions eventually affect CCN activity of SOA, a key parameter in cloud formation. For boreal forest tree species, insect infestation by aphids causes additional VOC emissions which modifies SOA composition thus hygroscopicity and CCN activity. Moderate heat increases the total amount of constitutive VOC, which has a minor effect on hygroscopicity, but affects CCN activity by increasing the particles' size. The coupling of plant stresses, VOC composition and CCN activity points to an important impact of induced plant emissions on cloud formation and climate.
+
+plant: !emits! VOC
+VOC: !produces! SOA
+SOA: !influences! cloud formation
+insect infestation: !induces! additional VOC emissions
+VOC: !modifies! SOA composition
+heat: !increases! total amount of constitutive VOC
+VOC: !affects! CCN activity
+plant stresses: !couples with! VOC composition and CCN activity

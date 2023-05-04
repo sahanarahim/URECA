@@ -1,0 +1,8 @@
+An Arabidopsis thaliana mutant defective in chloroplast protein import was isolated and the mutant locus, cia5, identified by map-based cloning. CIA5 is a 21-kD integral membrane protein in the chloroplast inner envelope membrane with four predicted transmembrane domains, similar to another potential chloroplast inner membrane protein-conducting channel, At Tic20, and the mitochondrial inner membrane counterparts Tim17, Tim22, and Tim23. cia5 null mutants were albino and accumulated unprocessed precursor proteins. cia5 mutant chloroplasts were normal in targeting and binding of precursors to the chloroplast surface but were defective in protein translocation across the inner envelope membrane. Expression levels of CIA5 were comparable to those of major translocon components, such as At Tic110 and At Toc75, except during germination, at which stage At Tic20 was expressed at its highest level. A double mutant of cia5 At tic20-I had the same phenotype as the At tic20-I single mutant, suggesting that CIA5 and At Tic20 function similarly in chloroplast biogenesis, with At Tic20 functioning earlier in development. We renamed CIA5 as Arabidopsis Tic21 (At Tic21) and propose that it functions as part of the inner membrane protein-conducting channel and may be more important for later stages of leaf development.
+
+cia5: !affects! chloroplast protein import 
+cia5: !localizes to! chloroplast inner envelope membrane 
+At Tic20: !interacts with! cia5 
+At Tic20: !enhances! chloroplast biogenesis 
+At Tic21: !represses! unprocessed precursor proteins 
+At Tic21: !synthesizes! inner membrane protein-conducting channel

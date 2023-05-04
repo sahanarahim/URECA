@@ -1,0 +1,7 @@
+Fusarium graminearum is a ubiquitous pathogen of cereal crops, including wheat, barley, and maize. Diseases caused by F. graminearum are of particular concern because harvested grains frequently are contaminated with harmful mycotoxins such as deoxynivalenol (DON). In this study, we explored the role of Ras GTPases in pathogenesis. The genome of F. graminearum contains two putative Ras GTPase-encoding genes. The two genes (RAS1 and RAS2) showed different patterns of expression under different conditions of nutrient availability and in various mutant backgrounds. RAS2 was dispensable for survival but, when disrupted, caused a variety of morphological defects, including slower growth on solid media, delayed spore germination, and significant reductions in virulence on wheat heads and maize silks. Intracellular cAMP levels were not affected by deletion of RAS2 and exogenous treatment of the ras2 mutant with cAMP did not affect phenotypic abnormalities, thus indicating that RAS2 plays a minor or no role in cAMP signaling. However, phosphorylation of the mitogen-activated protein (MAP) kinase Gpmk1 and expression of a secreted lipase (FGL1) required for infection were reduced significantly in the ras2 mutant. Based on these observations, we hypothesize that RAS2 regulates growth and virulence in F. graminearum by regulating the Gpmk1 MAP kinase pathway.
+
+RAS1: !regulates! RAS2
+RAS2: !affects! growth
+RAS2: !affects! virulence
+RAS2: !regulates! Gpmk1 MAP kinase pathway
+Gpmk1 MAP kinase pathway: !regulates! FGL1 expression

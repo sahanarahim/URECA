@@ -1,0 +1,8 @@
+The DELLA protein RGA-LIKE2 (RGL2) is a key transcriptional repressor of gibberellic acid (GA) signaling that regulates seed germination. We identified GATA12, a gene encoding a GATA-type zinc finger transcription factor, as one of the downstream targets of RGL2 in Arabidopsis thaliana. Our data show that freshly harvested (unstratified) seeds of GATA12 antisense suppression lines have reduced dormancy compared with the wild-type, while ectopic expression lines show enhanced seed dormancy. We show that GATA12 expression is negatively regulated by GA, and its transcript levels decline dramatically under dormancy-breaking conditions such as dry storage and cold stratification of seeds. GATA12 promoter has several GAMYB- and DOF-associated motifs that are known to be GA- and RGL2-responsive, respectively. Chromatin immunoprecipitation assay showed that a protein complex containing RGL2 can bind to GATA12 promoter and thereby regulate its expression. RGL2 lacks a DNA binding domain and requires a transcription factor to induce GATA12 expression. Our data show that this RGL2-containing protein complex includes DNA BINDING1 ZINC FINGER6 (DOF6), which is a known negative regulator of germination in freshly harvested seeds. We further show that this novel RGL2-DOF6 complex is required for activating GATA12 expression, thus revealing a molecular mechanism to enforce primary seed dormancy.
+
+RGL2: !represses! GATA12
+GA: !inhibits! GATA12
+GAMYB: !binds to! GATA12 promoter
+DOF6: !binds to! GATA12 promoter
+RGL2: !interacts with! DOF6
+RGL2-DOF6 complex: !activates! GATA12 expression

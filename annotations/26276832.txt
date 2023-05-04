@@ -1,0 +1,7 @@
+PHYTOCHROME-INTERACTING FACTOR1 (PIF1) is a basic helix-loop-helix transcription factor that inhibits light-dependent seed germination in Arabidopsis thaliana. However, it remains unclear whether PIF1 requires other factors to regulate its direct targets. Here, we demonstrate that LEUNIG_HOMOLOG (LUH), a Groucho family transcriptional corepressor, binds to PIF1 and coregulates its targets. Not only are the transcriptional profiles of the luh and pif1 mutants remarkably similar, more than 80% of the seeds of both genotypes germinate in the dark. We show by chromatin immunoprecipitation that LUH binds a subset of PIF1 targets in a partially PIF1-dependent manner. Unexpectedly, we found LUH binds and coregulates not only PIF1-activated targets but also PIF1-repressed targets. Together, our results indicate LUH functions with PIF1 as a transcriptional coregulator to inhibit seed germination.
+
+PIF1: !binds to! LUH
+LUH: !coregulates! PIF1 targets
+LUH: !binds! PIF1-activated targets
+LUH: !binds! PIF1-repressed targets
+LUH: !coregulates! PIF1-repressed targets

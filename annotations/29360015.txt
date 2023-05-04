@@ -1,0 +1,7 @@
+The hypersensitive response and pathogenicity (hrp) genes of Xanthomonas oryzae pv. oryzae, the causal agent of bacterial leaf blight of rice, encode components of the type III secretion system and are essential for virulence. Expression of hrp genes is regulated by two key hrp regulators, HrpG and HrpX; HrpG regulates hrpX and hrpA, and HrpX regulates the other hrp genes on hrpB-hrpF operons. We previously reported the sugar-dependent quantitative regulation of HrpX; the regulator highly accumulates in the presence of xylose, followed by high hrp gene expression. Here, we found that, in a mutant lacking the LacI-type transcriptional regulator XylR, HrpX accumulation and hrp gene expression were high even in the medium without xylose, reaching the similar levels present in the wild type incubated in the xylose-containing medium. XylR also negatively regulated one of two xylose isomerase genes (xylA2 but not xylA1) by binding to the motif sequence in the upstream region of the gene. Xylose isomerase is an essential enzyme in xylose metabolism and interconverts between xylose and xylulose. Our results suggest that, in the presence of xylose, inactivation of XylR leads to greater xylan and xylose utilization and, simultaneously, to higher accumulation of HrpX, followed by higher hrp gene expression in the bacterium.
+
+HrpG: !regulates! HrpX
+HrpX: !regulates! hrpB-hrpF operons
+XylR: !inactivates! XylA2
+Xylose: !induces! HrpX accumulation
+Xylose isomerase: !interconverts! xylose and xylulose

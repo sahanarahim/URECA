@@ -1,0 +1,10 @@
+['29078398', 'Plant development is characterized by repeated initiation of meristems, regions  of dividing cells that give rise to new organs. During lateral root (LR)  formation, new LR meristems are specified to support the outgrowth of LRs along a  new axis. The determination of the sequential events required to form this new  growth axis has been hampered by redundant activities of key transcription  factors. Here, we characterize the effects of three PLETHORA (PLT) transcription  factors, PLT3, PLT5, and PLT7, during LR outgrowth. In plt3plt5plt7 triple  mutants, the morphology of lateral root primordia (LRP), the auxin response  gradient, and the expression of meristem/tissue identity markers are impaired  from the "symmetry-breaking" periclinal cell divisions during the transition  between stage I and stage II, wherein cells first acquire different identities in  the proximodistal and radial axes. Particularly, PLT1, PLT2, and PLT4 genes that  are typically expressed later than PLT3, PLT5, and PLT7 during LR outgrowth are  not induced in the mutant primordia, rendering "PLT-null" LRP. Reintroduction of  any PLT clade member in the mutant primordia completely restores layer identities  at stage II and rescues mutant defects in meristem and tissue establishment.  Therefore, all PLT genes can activate the formative cell divisions that lead to  de novo meristem establishment and tissue patterning associated with a new growth  axis.', '2017 Oct 31', 'Proc Natl Acad Sci U S A', '10.1073/pnas.1714410114', 'ORCID:']
+
+PLT3: !affects! LR outgrowth 
+PLT5: !affects! LR outgrowth 
+PLT7: !affects! LR outgrowth 
+PLT1: !not induced in! plt3plt5plt7 triple mutants 
+PLT2: !not induced in! plt3plt5plt7 triple mutants 
+PLT4: !not induced in! plt3plt5plt7 triple mutants 
+PLT clade member: !reintroduced to! plt3plt5plt7 triple mutants 
+PLT clade member: !restores! layer identities

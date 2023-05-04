@@ -1,0 +1,16 @@
+In plants, MAP65 preferentially cross-links the anti-parallel microtubules (MTs) and plays an important role for cytokinesis. However, the functions of MAP65 isoforms in rice (<i>Oryza sativa.</i> L) are largely unknown. Here, we identified two MAP65-3 homologs in rice, OsMAP65-3.1 and OsMAP65-3.2. We found that both OsMAP65-3.1 and OsMAP65-3.2 were similar in dimerization and location to AtMAP65-3, and the expression of either rice genes driven by the <i>AtMAP65-3</i> promoter suppressed the cytokinesis failure and growth defect of <i>atmap65-3</i>. However, <i>OsMAP65-3.1</i> with native promoter also recovered the <i>atmap65-3</i>, but <i>OsMAP65-3.2</i> with its own promoter had no effects. <i>OsMAP65-3.1</i> but not <i>OsMAP65-3.2</i> was actively expressed in tissues enriched with dividing cells. R1R2R3-Myb (MYB3R) transcription factors directly bound to the <i>OsMAP65-3.1</i> promoter but not that of <i>OsMAP65-3.2</i>. Furthermore, <i>osmap65-3.2</i> had no obvious phenotype, while either <i>osmap65-3.1</i> or <i>osmap65-3.1(+/-)</i> was lethal. The eminent MTs around the daughter nuclei and cytokinesis defects were frequently observed in <i>OsMAP65-3.1</i>-defective plants. Taken together, our findings suggest that <i>OsMAP65-3.1</i>, rather than <i>OsMAP65-3.2</i>, plays essential roles in rice cytokinesis resulting from their differential expression which were passably directly regulated by OsMYB3Rs.
+
+OsMAP65-3.1: !affects! Cytokinesis
+OsMAP65-3.2: !affects! Cytokinesis
+OsMAP65-3.1: !localizes to! Anti-parallel microtubules
+OsMAP65-3.2: !localizes to! Anti-parallel microtubules
+OsMAP65-3.1: !interacts with! AtMAP65-3
+OsMAP65-3.2: !interacts with! AtMAP65-3
+OsMAP65-3.1: !enhances! Growth
+OsMAP65-3.2: !enhances! Growth
+OsMAP65-3.1: !represses! Cytokinesis failure
+OsMAP65-3.2: !represses! Cytokinesis failure
+OsMAP65-3.1: !synthesizes! Daughter nuclei
+OsMAP65-3.2: !synthesizes! Daughter nuclei
+OsMYB3Rs: !regulates! OsMAP65-3.1 expression
+OsMYB3Rs: !regulates! OsMAP65-3.2

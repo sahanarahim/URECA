@@ -1,0 +1,8 @@
+Polyketides are a class of biologically active heteropolymers produced by assembly line-like multiprotein complexes of modular polyketide synthases (PKS). The polyketide product is encoded in the order of the PKS proteins in the assembly line, suggesting that polyketide diversity derives from combinatorial rearrangement of these PKS complexes. Remarkably, the order of PKS genes on the chromosome follows the order of PKS proteins in the assembly line: This fact is commonly referred to as "collinearity". Here we propose an evolutionary origin for collinearity and demonstrate the mechanism by using a computational model of PKS evolution in a population. Assuming continuous evolutionary pressure for novel polyketides, and that new polyketide pathways are formed by horizontal transfer/recombination of PKS-encoding DNA, we demonstrate the existence of a broad range of parameters for which collinearity emerges spontaneously. Collinearity confers no fitness advantage in our model; it is established and maintained through a "secondary selection" mechanism, as a trait which increases the probability of forming long, novel PKS complexes through recombination. Consequently, collinearity hitchhikes on the successful genotypes which periodically sweep through the evolving population. In addition to computer simulation of a simplified model of PKS evolution, we provide a mathematical framework describing the secondary selection mechanism, which generalizes beyond the context of the present model.
+
+PKS: !encodes! Polyketide
+PKS: !arranged in order of! Assembly Line
+PKS: !follows order of! Chromosome
+PKS: !formed by! Horizontal Transfer/Recombination
+PKS: !increases probability of! Forming Long, Novel PKS Complexes
+PKS: !hitchhikes on! Successful Genotypes

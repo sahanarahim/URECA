@@ -1,0 +1,9 @@
+PDZ domain-containing proteases, also known as HtrA family proteases, play important roles in bacterial cells by modulating disease pathogenesis and cell-envelope stress responses. These proteases have diverse functions through proteolysis- and nonproteolysis-dependent modes. Here, we report that the genome of the causative agent of rice bacterial blight, Xanthomonas oryzae pv. oryzae, encodes seven PDZ domain-containing proteins. Systematic inactivation of their encoding genes revealed that PXO_01122 and PXO_04290 (prc) are involved in virulence. prc encodes a putative HtrA family protease that localizes in the bacterial periplasm. Mutation of prc also resulted in susceptibility to multiple environmental stresses, including H2O2, sodium dodecylsulfate, and osmolarity stresses. Comparative subproteomic analyses showed that the amounts of 34 periplasmic proteins were lower in the prc mutant than in wild-type. These proteins were associated with proteolysis, biosynthesis of macromolecules, carbohydrate or energy metabolism, signal transduction, and protein translocation or folding. We provide in vivo and in vitro evidence demonstrating that Prc stabilizes and directly binds to one of these proteins, DppP, a dipeptidyl peptidase contributing to full virulence. Taken together, our results suggest that Prc contributes to bacterial virulence by acting as a periplasmic modulator of cell-envelope stress responses.
+
+PXO_01122: !affects! Virulence 
+PXO_04290 (prc): !affects! Virulence 
+prc: !localizes to! Periplasm 
+prc: !enhances! Environmental Stress Resistance 
+prc: !interacts with! DppP 
+DppP: !enhances! Virulence 
+Prc: !stabilizes! DppP

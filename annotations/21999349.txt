@@ -1,0 +1,8 @@
+Tolerance to boron (B) is still not completely understood. We tested here the hypothesis that Thellungiella halophila, an Arabidopsis thaliana-related 'extremophile' plant, with abundance of B in its natural environment, is tolerant to B, and examined the potential mechanisms of this tolerance. With 1-10 mm B applied ([B](ext)) to Thellungiella and Arabidopsis grown in hydroponics, the steady-state accumulated B concentration ([B](int)) in the root was below [B](ext), and was similar in both, suggesting both extrude B actively. Whether grown in soil or hydroponically, the shoot [B](int) was higher in Arabidopsis than in Thellungiella, suggesting more effective net B exclusion by Thellungiella root. Arabidopsis exhibited toxicity symptoms including reduced shoot fresh weight (FW), but Thellungiella was not affected, even at similar levels of shoot-accumulated [B](int) (about 10 to 40 mm B in 'shoot water'), suggesting additional B tolerance mechanism in Thellungiella shoot. At [B](ext) = 5 mm, the summed shoot concentration of the potentially B-binding polyhydroxyl metabolites (malic acid, fructose, glucose, sucrose and citric acid) in Arabidopsis was below [B](int) , but in Thellungiella it was over twofold higher than [B](int) , and therefore likely to allow appreciable 1:2 boron-metabolite complexation in the shoot. This, we suggest, is an important component of Thellungiella B tolerance mechanism.
+
+Thellungiella: !excludes! B 
+Thellungiella: !tolerates! B 
+Thellungiella: !binds! B-metabolite complexes 
+B: !affects! shoot FW 
+B: !accumulates in! root 
+B: !accumulates in! shoot

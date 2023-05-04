@@ -1,0 +1,9 @@
+['10572032', 'We are using trichome (hair) morphogenesis as a model to study how plant cell  shape is controlled. During a screen for new mutations that affect trichome  branch initiation in Arabidopsis, we identified seven new mutants that show a  reduction in trichome branch number from three branches to two. These mutations  were named furca, after the Latin word for two-pronged fork. These seven  recessive mutations were placed into four complementation groups that define four  new genes: FURCA1, FURCA2, FURCA3 and FURCA4. The trichome branch number  phenotype indicates that the FURCA genes encode positive regulators of trichome  branch initiation. Analysis of double mutants suggests that primary and secondary  branch initiation events are not genetically distinct, but rely on the levels of  partially redundant groups of regulators of trichome branch initiation. Based on  the analysis of both epistatic and additive genetic interactions between the  FURCA genes and other genes that control trichome branch number, we propose a  model that explains how these genes interact to control trichome branch  initiation. This model successfully predicts the phenotypes of all the single and  double mutants examined and suggests points of control of the trichome branch  pathway.', '1999 Dec', 'Development', '10.1242/dev.126.24.5547', 'Oppenheimer']
+
+FURCA1: !regulates! trichome branch initiation
+FURCA2: !regulates! trichome branch initiation
+FURCA3: !regulates! trichome branch initiation
+FURCA4: !regulates! trichome branch initiation
+FURCA genes: !control! trichome branch number
+FURCA genes: !partially redundant with! other regulators of trichome branch initiation
+FURCA genes: !interact with! other genes to control trichome branch pathway

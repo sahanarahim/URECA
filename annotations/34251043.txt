@@ -1,0 +1,10 @@
+The Arabidopsis COP1/SPA complex acts as a cullin4-based E3 ubiquitin ligase to suppress photomorphogenesis in darkness. It is a tetrameric complex of two COP1 and two SPA proteins. Both COP1 and SPA are essential for the activity of this complex, and they both contain a C-terminal WD-repeat domain responsible for substrate recruitment and binding of DDB1. Here, we used a WD domain swap-approach to address the cooperativity of COP1 and SPA proteins. We found that expression of a chimeric COP1 carrying the WD-repeat domain of SPA1 mostly complemented the cop1-4-mutant phenotype in darkness, indicating that the WD repeat of SPA1 can replace the WD repeat of COP1. In the light, SPA1-WD partially substituted for COP1-WD. In contrast, expression of a chimeric SPA1 protein carrying the WD repeat of COP1 did not rescue the spa-mutant phenotype. Together, our findings demonstrate that a SPA1-type WD repeat is essential for COP1/SPA activity, while a COP1-type WD is in part dispensible. Moreover, a complex with four SPA1-WDs is more active than a complex with only two SPA1-WDs. A homology model of SPA1-WD based on the crystal structure of COP1-WD uncovered two insertions and several amino acid substitutions at the predicted substrate-binding pocket of SPA1-WD.
+
+COP1/SPA: !acts as! E3 ubiquitin ligase
+COP1/SPA: !suppresses! photomorphogenesis
+COP1/SPA: !is a tetrameric complex of! two COP1 and two SPA proteins
+COP1/SPA: !requires! both COP1 and SPA
+COP1/SPA: !contains! C-terminal WD-repeat domain
+COP1/SPA: !binds! DDB1
+COP1/SPA: !requires! SPA1-type WD repeat
+COP1/SPA: !is more active with! four SPA1-WDs

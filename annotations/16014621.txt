@@ -1,0 +1,9 @@
+['16014621', 'Bacteria and plastids divide symmetrically through binary fission by accurately  placing the division site at midpoint, a process initiated by FtsZ  polymerization, which forms a Z-ring. In Escherichia coli precise Z-ring  placement at midcell depends on controlled oscillatory behavior of MinD and MinE:  In the presence of ATP MinD interacts with the FtsZ inhibitor MinC and migrates  to the membrane where the MinD-MinC complex recruits MinE, followed by  MinD-mediated ATP hydrolysis and membrane release. Although correct Z-ring  placement during Arabidopsis plastid division depends on the precise localization  of the bacterial homologs AtMinD1 and AtMinE1, the underlying mechanism of this  process remains unknown. Here we have shown that AtMinD1 is a Ca2+-dependent  ATPase and through mutation analysis demonstrated the physiological importance of  this activity where loss of ATP hydrolysis results in protein mislocalization  within plastids. The observed mislocalization is not due to disrupted AtMinD1  dimerization, however; the active site AtMinD1(K72A) mutant is unable to interact  with the topological specificity factor AtMinE1. We have shown that AtMinE1, but  not E. coli MinE, stimulates AtMinD1-mediated ATP hydrolysis, but in contrast to  prokaryotes stimulation occurs in the absence of membrane lipids. Although  AtMinD1 appears highly evolutionarily conserved, we found that important  biochemical and cell biological properties have diverged. We propose that correct  intraplastidic AtMinD1 localization is dependent on AtMinE1-stimulated,  Ca2+-dependent AtMinD1 ATP hydrolysis, ultimately ensuring precise Z-ring  placement and symmetric plastid division.', '2005 Sep 9', 'J Biol Chem', '10.1074/jbc.M505126200', 'Moller']
+
+FtsZ: !initiates! Division
+MinD: !interacts with! MinC
+MinD: !migrates to! Membrane
+AtMinD1: !localizes to! Plastids
+AtMinD1: !hydrolyzes! ATP
+AtMinE1: !stimulates! AtMinD1
+AtMinD1: !depends on! AtMinE1

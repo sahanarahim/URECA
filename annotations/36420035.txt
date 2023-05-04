@@ -1,0 +1,11 @@
+<i>Angelica sinensis</i> is a medicinal plant widely used to treat multiple diseases in Asia and Europe, which contains numerous active components with therapeutic value. The interaction between root and rhizosphere microorganisms is crucial for the growth and quality formation of medicinal plants. But the micro-plant-metabolite regulation patterns for <i>A. sinensis</i> remain largely undetermined. Here, we collected roots and rhizosphere soils from <i>A. sinensis</i> in seedling stage (M) and picking stage (G), respectively cultivated for one year and two years, generated metabolite for roots, microbiota data for rhizospheres, and conducted a comprehensive analysis. Changes in metabolic and microbial communities of <i>A.sinensis</i> over growth were distinct. The composition of rhizosphere microbes in G was dominated by proteobacteria, which had a strong correlation with the synthesis of organic acids, while in M was dominated by Actinobacteria, which had a strong correlation with the synthesis of phthalide and other organoheterocyclic compounds, flavonoids, amines, and fatty acid. Additionally, co-occurrence network analysis identified that <i>Arthrobacter </i>was found to be strongly correlated with the accumulation of senkyunolide A and n-butylidenephthalide. <i>JGI 0001001.H03 </i>was found to be strongly correlated with the accumulation of chlorogenic acid. Based on rhizosphere microorganisms, this study investigated the correlation between root metabolism and rhizosphere microbiota of <i>A. sinensis</i> at different growth stages in traditional geoherb region, which could provide references for exploring the quality formation mechanism of <i>A. sinensis</i> in the future.
+
+microbe: !dominates! rhizosphere
+microbe: !correlates with! organic acid synthesis
+microbe: !correlates with! phthalide synthesis
+microbe: !correlates with! flavonoid synthesis
+microbe: !correlates with! amine synthesis
+microbe: !correlates with! fatty acid synthesis
+microbe: !correlates with! senkyunolide A accumulation
+microbe: !correlates with! n-butylidenephthalide accumulation
+gene: !correlates with! chlorogenic acid accumulation

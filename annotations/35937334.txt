@@ -1,0 +1,10 @@
+Affected by various environmental factors, citrus will frequently suffer from diseases during the growth process, which has brought huge obstacles to the development of agriculture. This paper proposes a new method for identifying and classifying citrus diseases. Firstly, this paper designs an image enhancement method based on the MSRCR algorithm and homomorphic filtering algorithm optimized by Laplacian (HFLF-MS) to highlight the disease characteristics of citrus. Secondly, we designed a new neural network DS-MENet based on the DenseNet-121 backbone structure. In DS-MENet, the regular convolution in Dense Block is replaced with depthwise separable convolution, which reduces the network parameters. The ReMish activation function is used to alleviate the neuron death problem caused by the ReLU function and improve the robustness of the model. To further enhance the attention to citrus disease information and the ability to extract feature information, a multi-channel fusion backbone enhancement method (MCF) was designed in this work to process Dense Block. We use the 10-fold cross-validation method to conduct experiments. The average classification accuracy of DS-MENet on the dataset after adding noise can reach 95.02%. This shows that the method has good performance and has certain feasibility for the classification of citrus diseases in real life.
+
+MSRCR algorithm: !enhances! Disease characteristics 
+Homomorphic filtering algorithm: !optimizes! MSRCR algorithm 
+Laplacian: !optimizes! Homomorphic filtering algorithm 
+DS-MENet: !designed based on! DenseNet-121 backbone structure 
+ReMish activation function: !alleviates! Neuron death problem 
+MCF: !enhances! Attention to citrus disease information 
+10-fold cross-validation method: !conducts! Experiments 
+DS-MENet: !reaches! 95.02% average classification accuracy

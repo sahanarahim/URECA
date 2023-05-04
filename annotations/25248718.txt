@@ -1,0 +1,15 @@
+Maize (Zea mays) is an important C4 plant due to its widespread use as a cereal and energy crop. A second-generation genome-scale metabolic model for the maize leaf was created to capture C4 carbon fixation and investigate nitrogen (N) assimilation by modeling the interactions between the bundle sheath and mesophyll cells. The model contains gene-protein-reaction relationships, elemental and charge-balanced reactions, and incorporates experimental evidence pertaining to the biomass composition, compartmentalization, and flux constraints. Condition-specific biomass descriptions were introduced that account for amino acids, fatty acids, soluble sugars, proteins, chlorophyll, lignocellulose, and nucleic acids as experimentally measured biomass constituents. Compartmentalization of the model is based on proteomic/transcriptomic data and literature evidence. With the incorporation of information from the MetaCrop and MaizeCyc databases, this updated model spans 5,824 genes, 8,525 reactions, and 9,153 metabolites, an increase of approximately 4 times the size of the earlier iRS1563 model. Transcriptomic and proteomic data have also been used to introduce regulatory constraints in the model to simulate an N-limited condition and mutants deficient in glutamine synthetase, gln1-3 and gln1-4. Model-predicted results achieved 90% accuracy when comparing the wild type grown under an N-complete condition with the wild type grown under an N-deficient condition.
+
+Gene: !affects! Process 
+Gene: !synthesizes! Metabolites 
+Gene: !localizes to! Compartment 
+Gene: !interacts with! Proteins 
+Gene: !enhances! Biomass 
+Gene: !represses! Mutants 
+Gene: !synthesizes! Amino Acids 
+Gene: !synthesizes! Fatty Acids 
+Gene: !synthesizes! Soluble Sugars 
+Gene: !synthesizes! Proteins 
+Gene: !synthesizes! Chlorophyll 
+Gene: !synthesizes! Lignocellulose 
+Gene: !synthesizes! Nucleic Acids

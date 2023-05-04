@@ -1,0 +1,12 @@
+<i>M. micrantha</i> has caused huge ecological damage and economic losses worldwide due to its rapid growth and serious invasion. However, the underlying molecular mechanisms of its rapid growth and environmental adaption remain unclear. Here, we performed transcriptome and small RNA sequencing with five tissues of <i>M. micrantha</i> to dissect miRNA-mediated regulation in <i>M. micrantha</i>. WGCNA and GO enrichment analysis of transcriptome identified the gene association patterns and potential key regulatory genes for plant growth in each tissue. The genes highly correlated with leaf and stem tissues were mainly involved in the chlorophyll synthesis, response to auxin, the CAM pathway and other photosynthesis-related processes, which promoted the fast growth of <i>M. micrantha</i>. Importantly, we identified 350 conserved and 192 novel miRNAs, many of which displayed differential expression patterns among tissues. PsRNA target prediction analysis uncovered target genes of both conserved and novel miRNAs, including <i>GRFs</i> and <i>TCPs</i>, which were essential for plant growth and development. Further analysis revealed that miRNAs contributed to the regulation of tissue-specific gene expression in <i>M. micrantha</i>, such as mmi-miR396 and mmi-miR319. Taken together, our study uncovered the miRNA-mRNA regulatory networks and the potential vital roles of miRNAs in modulating the rapid growth of <i>M. micrantha</i>.
+
+miRNA: !regulates! mRNA 
+miRNA: !differentially expresses! tissue 
+GRF: !regulated by! miRNA 
+TCP: !regulated by! miRNA 
+chlorophyll synthesis: !promotes! fast growth 
+auxin response: !promotes! fast growth 
+CAM pathway: !promotes! fast growth 
+photosynthesis-related processes: !promotes! fast growth 
+mmi-miR396: !regulates! tissue-specific gene expression 
+mmi-miR319: !regulates! tissue-specific gene expression

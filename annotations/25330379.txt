@@ -1,0 +1,10 @@
+['25330379', 'Meiotic crossovers (COs) shape genetic diversity by mixing homologous chromosomes  at each generation. CO distribution is a highly regulated process. CO assurance  forces the occurrence of at least one obligatory CO per chromosome pair, CO  homeostasis smoothes out the number of COs when faced with variation in precursor  number and CO interference keeps multiple COs away from each other along a  chromosome. In several organisms, it has been shown that cytoskeleton forces are  transduced to the meiotic nucleus via KASH- and SUN-domain proteins, to promote  chromosome synapsis and recombination. Here we show that the Arabidopsis kinesin  AtPSS1 plays a major role in chromosome synapsis and regulation of CO  distribution. In Atpss1 meiotic cells, chromosome axes and DNA double strand  breaks (DSBs) appear to form normally but only a variable portion of the genome  synapses and is competent for CO formation. Some chromosomes fail to form the  obligatory CO, while there is an increased CO density in competent regions.  However, the total number of COs per cell is unaffected. We further show that the  kinesin motor domain of AtPSS1 is required for its meiotic function, and that  AtPSS1 interacts directly with WIP1 and WIP2, two KASH-domain proteins. Finally,  meiocytes missing AtPSS1 and/or SUN proteins show similar meiotic defects  suggesting that AtPSS1 and SUNs act in the same pathway. This suggests that  forces produced by the AtPSS1 kinesin and transduced by WIPs/SUNs, are required  to authorize complete synapsis and regulate maturation of recombination  intermediates into COs. We suggest that a form of homeostasis applies, which  maintains the total number of COs per cell even if only a part of the genome is  competent for CO formation.', '2014 Oct', 'PLoS Genet', '10.1371/journal.pgen.1004674', 'Mercier']
+
+AtPSS1: !interacts with! WIP1 
+AtPSS1: !interacts with! WIP2 
+AtPSS1: !transduces forces to! meiotic nucleus 
+AtPSS1: !regulates! CO distribution 
+WIP1/2: !transduce forces from! AtPSS1 
+SUN proteins: !act in same pathway as! AtPSS1 
+COs: !shape! genetic diversity 
+COs: !regulated by! AtPSS1

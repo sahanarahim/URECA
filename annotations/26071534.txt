@@ -1,0 +1,9 @@
+In the last decade cheaper and faster sequencing methods have resulted in an enormous increase in genomic data. High throughput genotyping, genotyping by sequencing and genomic breeding are becoming a standard in plant breeding. As a result, the collection of phenotypic data is increasingly becoming a limiting factor in plant breeding. Genetic studies on root traits are being hampered by the complexity of these traits and the inaccessibility of the rhizosphere. With an increasing interest in phenotyping, breeders and scientists try to overcome these limitations, resulting in impressive developments in automated phenotyping platforms. Recently, many such platforms have been thoroughly described, yet their efficiency to increase genetic gain often remains undiscussed. This efficiency depends on the heritability of the phenotyped traits as well as the correlation of these traits with agronomically relevant breeding targets. This review provides an overview of the latest developments in root phenotyping and describes the environmental and genetic factors influencing root phenotype and heritability. It also intends to give direction to future phenotyping and breeding strategies for optimizing root system functioning. A quantitative framework to determine the efficiency of phenotyping platforms for genetic gain is described. By increasing heritability, managing effects caused by interactions between genotype and environment and by quantifying the genetic relation between traits phenotyped in platforms and ultimate breeding targets, phenotyping platforms can be utilized to their maximum potential.
+
+genotype: !affects! root phenotype
+environment: !affects! root phenotype
+phenotyping platform: !increases! genetic gain
+heritability: !influences! efficiency of phenotyping platforms
+genotype: !interacts with! environment
+traits: !correlate with! breeding targets
+platforms: !utilized to! maximum potential

@@ -1,0 +1,11 @@
+The CRISPR/Cas nuclease is becoming a major tool for targeted mutagenesis in eukaryotes by inducing double-strand breaks (DSBs) at pre-selected genomic sites that are repaired by non-homologous end joining (NHEJ) in an error-prone way. In plants, it could be demonstrated that the Cas9 nuclease is able to induce heritable mutations in Arabidopsis thaliana and rice. Gene targeting (GT) by homologous recombination (HR) can also be induced by DSBs. Using a natural nuclease and marker genes, we previously developed an in planta GT strategy in which both a targeting vector and targeting locus are activated simultaneously via DSB induction during plant development. Here, we demonstrate that this strategy can be used for natural genes by CRISPR/Cas-mediated DSB induction. We were able to integrate a resistance cassette into the ADH1 locus of A. thaliana via HR. Heritable events were identified using a PCR-based genotyping approach, characterised by Southern blotting and confirmed on the sequence level. A major concern is the specificity of the CRISPR/Cas nucleases. Off-target effects might be avoided using two adjacent sgRNA target sequences to guide the Cas9 nickase to each of the two DNA strands, resulting in the formation of a DSB. By amplicon deep sequencing, we demonstrate that this Cas9 paired nickase strategy has a mutagenic potential comparable with that of the nuclease, while the resulting mutations are mostly deletions. We also demonstrate the stable inheritance of such mutations in A. thaliana.
+
+CRISPR/Cas: !induces! DSBs 
+DSBs: !repair by! NHEJ 
+CRISPR/Cas: !induces! GT 
+GT: !mediated by! HR 
+CRISPR/Cas: !integrates! resistance cassette 
+PCR-based genotyping: !confirms! integration 
+sgRNA target sequences: !guide! Cas9 nickase 
+Cas9 paired nickase: !has! mutagenic potential 
+mutations: !inherited! stably

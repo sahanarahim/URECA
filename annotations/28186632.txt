@@ -1,0 +1,8 @@
+The secondary xylem of conifers is composed mainly of tracheids that differ anatomically and chemically from angiosperm xylem cells. There is currently no high-spatial-resolution data available profiling gene expression during wood formation for any coniferous species, which limits insight into tracheid development. RNA-sequencing data from replicated, high-spatial-resolution section series throughout the cambial and woody tissues of Picea abies were used to generate the NorWood.conGenIE.org web resource, which facilitates exploration of the associated gene expression profiles and co-expression networks. Integration within PlantGenIE.org enabled a comparative regulomics analysis, revealing divergent co-expression networks between P. abies and the two angiosperm species Arabidopsis thaliana and Populus tremula for the secondary cell wall (SCW) master regulator NAC Class IIB transcription factors. The SCW cellulose synthase genes (CesAs) were located in the neighbourhoods of the NAC factors in A. thaliana and P. tremula, but not in P. abies. The NorWood co-expression network enabled identification of potential SCW CesA regulators in P. abies. The NorWood web resource represents a powerful community tool for generating evo-devo insights into the divergence of wood formation between angiosperms and gymnosperms and for advancing understanding of the regulation of wood development in P. abies.
+
+NAC Class IIB: !regulates! SCW
+A. thaliana/P. tremula: !contain! CesAs neighbourhoods
+P. abies: !lacks! CesAs neighbourhoods
+NorWood: !facilitates exploration of! gene expression profiles
+NorWood: !enables identification of! potential SCW CesA regulators
+NorWood: !advances understanding of! wood development in P. abies

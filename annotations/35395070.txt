@@ -1,0 +1,11 @@
+Auxins regulate many aspects of plant growth and development. In pea, three of the five TIR1/AFB members (PsTIR1a, PsTIR1b, and PsAFB2) have been implicated in auxin-related responses during fruit/seed development; however, the roles of PsAFB4 and PsAFB6 in these processes are unknown. Using yeast two-hybrid assays, we found that all five pea TIR1/AFB receptor proteins interacted with the pea AUX/IAAs PsIAA6 and/or PsIAA7 in an auxin-dependent manner, a requirement for functional auxin receptors. All five auxin receptors are expressed in young ovaries (pericarps) and rapidly developing seeds, with overlapping and unique developmental and hormone-regulated gene expression patterns. Pericarp PsAFB6 expression was suppressed by seeds and increased in response to deseeding, and exogenous hormone treatments suggest that seed-derived auxin and deseeding-induced ethylene are involved in these responses, respectively. Ethylene-induced elevation of pericarp PsAFB6 expression was associated with 4-Cl-IAA-specific reduction in ethylene responsiveness. In developing seeds, expression of PsTAR2 and PsYUC10 auxin biosynthesis genes was associated with high auxin levels in seed coat and cotyledon tissues, and PsAFB2 dominated the seed tissue transcript pool. Overall, auxin receptors had overlapping and unique developmental and hormone-regulated gene expression patterns during fruit/seed development, suggesting mediation of diverse responses to auxin, with PsAFB6 linking auxin and ethylene signaling.
+
+PsTIR1a: !interacts with! PsIAA6 
+PsTIR1b: !interacts with! PsIAA7 
+PsAFB2: !interacts with! PsIAA6 
+PsAFB4: !interacts with! PsIAA7 
+PsAFB6: !interacts with! PsIAA6 
+PsAFB6: !enhances! ethylene responsiveness 
+PsTAR2: !synthesizes! auxin 
+PsYUC10: !synthesizes! auxin 
+PsAFB2: !dominates! seed tissue transcript pool

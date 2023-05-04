@@ -1,0 +1,14 @@
+Catharanthus roseus produces a large array of terpenoid indole alkaloids (TIAs) that are an important source of natural or semisynthetic anticancer drugs. The biosynthesis of TIAs is tissue specific and induced by certain phytohormones and fungal elicitors, indicating the involvement of a complex transcriptional control network. However, the transcriptional regulation of the TIA pathway is poorly understood. Here, we describe a C. roseus WRKY transcription factor, CrWRKY1, that is preferentially expressed in roots and induced by the phytohormones jasmonate, gibberellic acid, and ethylene. The overexpression of CrWRKY1 in C. roseus hairy roots up-regulated several key TIA pathway genes, especially Tryptophan Decarboxylase (TDC), as well as the transcriptional repressors ZCT1 (for zinc-finger C. roseus transcription factor 1), ZCT2, and ZCT3. However, CrWRKY1 overexpression repressed the transcriptional activators ORCA2, ORCA3, and CrMYC2. Overexpression of a dominant-repressive form of CrWRKY1, created by fusing the SRDX repressor domain to CrWRKY1, resulted in the down-regulation of TDC and ZCTs but the up-regulation of ORCA3 and CrMYC2. CrWRKY1 bound to the W box elements of the TDC promoter in electrophoretic mobility shift, yeast one-hybrid, and C. roseus protoplast assays. Up-regulation of TDC increased TDC activity, tryptamine concentration, and resistance to 4-methyl tryptophan inhibition of CrWRKY1 hairy roots. Compared with control roots, CrWRKY1 hairy roots accumulated up to 3-fold higher levels of serpentine. The preferential expression of CrWRKY1 in roots and its interaction with transcription factors including ORCA3, CrMYC2, and ZCTs may play a key role in determining the root-specific accumulation of serpentine in C. roseus plants.
+
+CrWRKY1: !enhances! TDC 
+CrWRKY1: !represses! ORCA2 
+CrWRKY1: !represses! ORCA3 
+CrWRKY1: !represses! CrMYC2 
+CrWRKY1: !binds to! W box elements 
+CrWRKY1: !localizes to! roots 
+CrWRKY1: !induced by! jasmonate 
+CrWRKY1: !induced by! gibberellic acid 
+CrWRKY1: !induced by! ethylene 
+TDC: !increases! tryptamine concentration 
+ZCTs: !repressed by! CrWRKY1 
+ORCA3: !up-regulated by! CrWRKY1

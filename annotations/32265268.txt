@@ -1,0 +1,9 @@
+Abiotic and biotic factors cause plant wounding and trigger complex short- and long-term responses at the local and systemic levels. These responses are under the control of complex signaling pathways, which are still poorly understood. Here, we show that the rapid activation of clade-A mitogen-activated protein kinases (MAPKs) MPK3 and MPK6 by wounding depends on the upstream MAPK kinases MKK4 and MKK5 but is independent of jasmonic acid (JA) signaling. In addition, this fast module does not control wound-triggered JA accumulation in Arabidopsis (<i>Arabidopsis thaliana</i>), unlike its orthologs in tobacco. We also demonstrate that a second MAPK module, composed of MKK3 and the clade-C MAPKs MPK1/2/7, is activated by wounding in a MKK4/5-independent manner. We provide evidence that the activation of this MKK3-MPK1/2/7 module occurs mainly through wound-induced JA production via the transcriptional regulation of upstream clade-III MAP3Ks, particularly MAP3K14. We show that <i>mkk3</i> mutant plants are more susceptible to herbivory from larvae of the generalist lepidopteran herbivore <i>Spodoptera littoralis</i>, indicating that the MKK3-MPK1/2/7 module is involved in counteracting insect feeding.
+
+MKK4/5: !activate! MPK3/6 
+MKK3: !activate! MPK1/2/7 
+Wounding: !induces! JA production 
+MAP3K14: !transcriptionally regulates! MKK3 
+MKK3: !activates! MPK1/2/7 
+MPK1/2/7: !counteracts! insect feeding 
+mkk3 mutant plants: !more susceptible to! herbivory

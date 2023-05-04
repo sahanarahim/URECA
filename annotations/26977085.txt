@@ -1,0 +1,13 @@
+The WD40 proteins ANTHOCYANIN11 (AN11) from petunia (Petunia hybrida) and TRANSPARENT TESTA GLABRA1 (TTG1) from Arabidopsis thaliana and associated basic helix-loop-helix (bHLH) and MYB transcription factors activate a variety of differentiation processes. In petunia petals, AN11 and the bHLH protein AN1 activate, together with the MYB protein AN2, anthocyanin biosynthesis and, together with the MYB protein PH4, distinct genes, such as PH1 and PH5, that acidify the vacuole. To understand how AN1 and AN11 activate anthocyanin biosynthetic and PH genes independently, we isolated PH3. We found that PH3 is a target gene of the AN11-AN1-PH4 complex and encodes a WRKY protein that can bind to AN11 and is required, in a feed-forward loop, together with AN11-AN1-PH4 for transcription of PH5. PH3 is highly similar to TTG2, which regulates hair development, tannin accumulation, and mucilage production in Arabidopsis. Like PH3, TTG2 can bind to petunia AN11 and the Arabidopsis homolog TTG1, complement ph3 in petunia, and reactivate the PH3 target gene PH5. Our findings show that the specificity of WD40-bHLH-MYB complexes is in part determined by interacting proteins, such as PH3 and TTG2, and reveal an unanticipated similarity in the regulatory circuitry that controls petunia vacuolar acidification and Arabidopsis hair development.
+
+AN11: !activates! Anthocyanin biosynthesis
+AN11: !activates! PH genes
+AN1: !activates! Anthocyanin biosynthesis
+AN1: !activates! PH genes
+PH4: !activates! Anthocyanin biosynthesis
+PH4: !activates! PH genes
+PH3: !binds to! AN11
+PH3: !binds to! TTG1
+TTG2: !complements! PH3
+TTG2: !binds to! AN11
+TTG2: !binds to! TTG1

@@ -1,0 +1,9 @@
+ARGONAUTE1 (AGO1) mediates posttranscriptional silencing by microRNAs (miRNAs) and short interfering RNAS (siRNAs). AGO1-catalyzed RNA cleavage (slicing) represses miRNA targets, but current models also highlight the roles of slicing in formation of siRNAs and siRNA-AGO1 complexes. miRNA-guided slicing is required for biogenesis of phased, trans-acting siRNAs (tasiRNAs), whose cleaved precursor fragments are converted to double-stranded RNA by RNA-dependent RNA polymerase 6 (RDR6). In addition, unwinding of duplex siRNA bound to AGO1 requires passenger strand cleavage in vitro. In this study, we analyze how mutation of four metal ion-coordinating residues of Arabidopsis thaliana AGO1 affects slicer activity in vitro and siRNA function in vivo. We show that while all four residues are required for slicer activity, they do not contribute equally to catalysis. Moreover, passenger strand cleavage is required for assembly of active AGO1-siRNA complexes in vivo, and many AGO1-bound siRNAs are trimmed in the absence of slicer activity. Remarkably, seedlings defective in AGO1 slicer activity produce abundant siRNAs from tasiRNA loci in vivo. These siRNAs depend on RDR6 and SUPPRESSOR OF GENE SILENCING3, but unlike wild-type tasiRNAs, they are unphased. These results demonstrate that slicing is solely required for phase definition of tasiRNAs, and they strongly support recruitment of RDR6 by AGO1 rather than by cleavage fragments.
+
+AGO1: !mediates! miRNA/siRNA silencing
+AGO1: !catalyzes! RNA cleavage
+RDR6: !converts! precursor fragments to double-stranded RNA
+AGO1: !requires! metal ion-coordinating residues
+AGO1: !assembles! active AGO1-siRNA complexes
+RDR6: !recruited by! AGO1
+AGO1: !required for! phase definition of tasiRNAs

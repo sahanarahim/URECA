@@ -1,0 +1,10 @@
+Anterograde vesicle transport from the endoplasmic reticulum to the Golgi apparatus is the start of protein transport through the secretory pathway, in which the transport is mediated by coat protein complex II (COPII)-coated vesicles. Therefore, most proteins synthesized on the endoplasmic reticulum are loaded as cargo into COPII vesicles. The COPII is composed of the small GTPase Sar1 and two types of protein complexes (Sec23/24 and Sec13/31). Of these five COPII components, Sec24 is thought to recognize cargo that is incorporated into COPII vesicles by directly interacting with the cargo. The Arabidopsis genome encodes three types of Sec24 homologs (AtSec24A, AtSec24B, and AtSec24C). The subcellular dynamics and function of AtSec24A have been characterized. The intracellular distributions and functions of other AtSec24 proteins are not known, and the functional differences among the three AtSec24s remain unclear. Here, we found that all three AtSec24s were expressed in similar parts of the plant body and showed the same subcellular localization pattern. AtSec24B knockout plant, but not AtSec24C knockdown plant, showed mild male sterility with reduction of pollen germination. Significant decrease of AtSec24B and AtSec24C expression affected male and female gametogenesis in Arabidopsis thaliana. Our results suggested that the redundant function of AtSec24B and AtSec24C is crucial for the development of plant reproductive cells. We propose that the COPII transport is involved in male and female gametogenesis in planta.
+
+Sar1: !composes! COPII
+Sec23/24: !composes! COPII
+Sec13/31: !composes! COPII
+AtSec24A: !localizes to! plant body
+AtSec24B: !represses! pollen germination
+AtSec24C: !represses! male and female gametogenesis
+COPII: !mediates! protein transport
+COPII: !involved in! male and female gametogenesis

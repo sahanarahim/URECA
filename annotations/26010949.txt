@@ -1,0 +1,9 @@
+Multi-scale investigation from gene transcript level to metabolic activity is important to uncover plant response to environment perturbation. Here we integrated a genome-scale constraint-based metabolic model with transcriptome data to explore Arabidopsis thaliana response to both elevated and low CO2 conditions. The four condition-specific models from low to high CO2 concentrations show differences in active reaction sets, enriched pathways for increased/decreased fluxes, and putative post-transcriptional regulation, which indicates that condition-specific models are necessary to reflect physiological metabolic states. The simulated CO2 fixation flux at different CO2 concentrations is consistent with the measured Assimilation-CO2intercellular curve. Interestingly, we found that reactions in primary metabolism are affected most significantly by CO2 perturbation, whereas secondary metabolic reactions are not influenced a lot. The changes predicted in key pathways are consistent with existing knowledge. Another interesting point is that Arabidopsis is required to make stronger adjustment on metabolism to adapt to the more severe low CO2 stress than elevated CO2 . The challenges of identifying post-transcriptional regulation could also be addressed by the integrative model. In conclusion, this innovative application of multi-scale modeling in plants demonstrates potential to uncover the mechanisms of metabolic response to different conditions.
+
+CO2: !affects! Primary Metabolism
+CO2: !not affects! Secondary Metabolism
+Reactions: !influenced by! CO2 Perturbation
+Pathways: !enriched for! Increased/Decreased Fluxes
+Model: !integrates! Genome-Scale Constraint-Based Metabolic Model
+Model: !simulates! CO2 Fixation Flux
+Arabidopsis: !requires stronger adjustment on! Metabolism

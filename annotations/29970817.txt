@@ -1,0 +1,11 @@
+Drought stress hinders plant growth and development, and abscisic acid (ABA) stimulates plants to respond to drought. Here, to increase plant tolerance to drought, we designed three synthetic promoters (Ap, Dp, ANDp) to determine transcription activity and drought stress resistance in plants resulting from combinations of (1) synthetic promoters and (2) the functional genes <i>CARK1</i> (cytosolic ABA receptor kinase 1) and <i>RCAR11</i> (regulatory components of ABA receptor 11). Transient expression of <i>eGFP</i> and the dual-luciferase assay demonstrated that the basal transcriptional activities of Ap and ANDp were present at low levels under normal conditions, while the synthetic promoters were apparently induced upon either treatment of exogenous ABA or co-transformation with effector DREB2A (dehydration-responsive element binding protein 2A). Analysis of the transgenic plants (Ap:<i>CARK1</i>, Dp:<i>CARK1</i>, ANDp:<i>CARK1</i>, and Dp:<i>RCAR11</i>-Ap:<i>CARK1</i>) showed that the synthetic promoters Ap, Dp, and ANDp increased the expression of exogenous genes in transgenic plants upon treatment of ABA or d-mannitol. ANDp:<i>CARK1</i> and Dp:<i>RCAR11</i>-Ap:<i>CARK1</i> transgenic plants were sensitive to ABA and d-mannitol during cotyledon greening and root growth. A drought tolerance assay revealed that ANDp:<i>CARK1</i> and Dp:<i>RCAR11</i>-Ap:<i>CARK1</i> exhibited a higher survival rate than others upon drought stress. These results indicate that the combinations ANDp:<i>CARK1</i> and Dp:<i>RCAR11</i>-Ap:<i>CARK1</i> can be used to generate drought stress resistance in plants.
+
+Ap: !enhances! CARK1
+Dp: !enhances! CARK1
+ANDp: !enhances! CARK1
+Dp: !enhances! RCAR11
+Ap: !enhances! CARK1
+ANDp: !increases expression of! exogenous genes
+Dp: !increases expression of! exogenous genes
+ANDp: !increases! drought tolerance
+Dp: !increases! drought tolerance

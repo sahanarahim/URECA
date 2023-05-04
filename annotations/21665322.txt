@@ -1,0 +1,8 @@
+Reactive oxygen species (ROS), including hydrogen peroxide (H(2)O(2)), are among the important second messengers in abscisic acid (ABA) signaling in guard cells. In this study, to investigate specific roles of H(2)O(2) in ABA signaling in guard cells, we examined the effects of mutations in the guard cell-expressed catalase (CAT) genes, CAT1 and CAT3, and of the CAT inhibitor 3-aminotriazole (AT) on stomatal movement. The cat3 and cat1 cat3 mutations significantly reduced CAT activities, leading to higher basal level of H(2)O(2) in guard cells, when assessed by 2',7'-dichlorodihydrofluorescein, whereas they did not affect stomatal aperture size under non-stressed condition. In addition, AT-treatment at concentrations that abolish CAT activities, showed trivial affect on stomatal aperture size, while basal H(2)O(2) level increased extensively. In contrast, cat mutations and AT-treatment potentiated ABA-induced stomatal closure. Inducible ROS production triggered by ABA was observed in these mutants and wild type as well as in AT-treated guard cells. These results suggest that ABA-inducible cytosolic H(2)O(2) elevation functions in ABA-induced stomatal closure, while constitutive increase of H(2)O(2) do not cause stomatal closure.
+
+cat3: !affects! CAT activity
+cat1: !affects! CAT activity
+AT: !inhibits! CAT activity
+CAT: !synthesizes! H(2)O(2)
+ABA: !induces! ROS production
+ABA: !induces! stomatal closure

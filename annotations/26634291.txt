@@ -1,0 +1,8 @@
+Recently, the liverwort Marchantia polymorpha has received increasing attention as a basal plant model for multicellular studies. Its ease of handling, well-characterized plastome and proven protocols for biolistic plastid transformation qualify M. polymorpha as an attractive platform to study the evolution of chloroplasts during the transition from water to land. In addition, chloroplasts of M. polymorpha provide a convenient test-bed for the characterization of genetic elements involved in plastid gene expression due to the absence of mechanisms for RNA editing. While reporter genes have proven valuable to the qualitative and quantitative study of gene expression in chloroplasts, expression of green fluorescent protein (GFP) in chloroplasts of M. polymorpha has proven problematic. We report the design of a codon-optimized gfp varian, mturq2cp, which allowed successful expression of a cyan fluorescent protein under control of the tobacco psbA promoter from the chloroplast genome of M. polymorpha. We demonstrate the utility of mturq2cp in (i) early screening for transplastomic events following biolistic transformation of M. polymorpha spores; (ii) visualization of stromules as elements of plastid structure in Marchantia; and (iii) quantitative microscopy for the analysis of promoter activity.
+
+gene: !synthesizes! GFP 
+GFP: !expresses in! chloroplasts of M. polymorpha 
+M. polymorpha: !provides platform for! plastid gene expression 
+biolistic transformation: !allows screening for! transplastomic events 
+mturq2cp: !visualizes! stromules 
+promoter activity: !quantifies! microscopy

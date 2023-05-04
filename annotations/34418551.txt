@@ -1,0 +1,10 @@
+Poly(ADP-ribosyl)ation (PARylation) is a posttranslational modification reversibly catalyzed by poly(ADP-ribose) polymerases (PARPs) and poly(ADP-ribose) glycohydrolases (PARGs) and plays a key role in multiple cellular processes. The molecular mechanisms by which PARylation regulates innate immunity remain largely unknown in eukaryotes. Here we show that Arabidopsis UBC13A and UBC13B, the major drivers of lysine 63 (K63)-linked polyubiquitination, directly interact with PARPs/PARGs. Activation of pathogen-associated molecular pattern (PAMP)-triggered immunity promotes these interactions and enhances PARylation of UBC13. Both parp1 parp2 and ubc13a ubc13b mutants are compromised in immune responses with increased accumulation of total pathogenesis-related (PR) proteins but decreased accumulation of secreted PR proteins. Protein disulfide-isomerases (PDIs), essential components of endoplasmic reticulum quality control (ERQC) that ensure proper folding and maturation of proteins destined for secretion, complex with PARPs/PARGs and are PARylated upon PAMP perception. Significantly, PARylation of UBC13 regulates K63-linked ubiquitination of PDIs, which may further promote their disulfide isomerase activities for correct protein folding and subsequent secretion. Taken together, these results indicate that plant immunity is coordinately regulated by PARylation and K63-linked ubiquitination.
+
+UBC13A: !interacts with! PARPs/PARGs
+UBC13B: !interacts with! PARPs/PARGs
+PAMP: !promotes! UBC13 interaction with PARPs/PARGs
+parp1 parp2: !compromises! immune responses
+ubc13a ubc13b: !compromises! immune responses
+PDIs: !complexes with! PARPs/PARGs
+PDIs: !PARylated by! PAMP perception
+UBC13: !regulates! K63-linked ubiquitination of PDIs

@@ -1,0 +1,14 @@
+The circadian system plays an essential role in plant cells, and numerous physiological events are generally modulated by circadian clock genes. To further improve postharvest handling of fresh produce, it is vital to understanding the behavior of clock gene expression and its underlying interactions with changes in quality. In this study, the effect of temperature and controlled atmosphere storage on the expression of clock genes (GmLCL1, GmPRR7, GmGI, GmTOC1, and GmLUX), postharvest quality characteristics and their related genes in soybean sprouts were investigated. By fitting the obtained gene expression level using the qPCR method with the cosine curve equation, it was successfully found that the circadian rhythm existed under constant dark storage conditions of soybean sprouts. A significant rhythm in clock gene expression was observed in control soybean sprouts. In contrast, low temperature storage diminished the cyclic expression of GmLCL1, GmPRR7, and GmTOC1, which also affected GmGI and GmLUX expression. Additionally, high CO<sub>2</sub> concentrations during storage disturbed the circadian clock by affecting the phase and amplitude of each gene; for low O<sub>2</sub> concentrations, it was only affected by amplitude. Interestingly, low temperature, low O<sub>2</sub>, and high CO<sub>2</sub> maintained postharvest quality, including reduced respiration, weight loss and browning incidence. The expression behaviors of postharvest quality attribute-related genes (GmFUM1, GmCS, Gm2-OGDH, GmPPO1, GmPAL) were also influenced by the storage treatments. Overall, the findings first suggest a possible link between clock disruption and postharvest quality maintenance of soybean sprouts.
+
+GmLCL1: !affects! GmGI 
+GmPRR7: !affects! GmLUX 
+GmTOC1: !affects! GmGI 
+low temperature: !diminishes! GmLCL1 expression 
+low temperature: !diminishes! GmPRR7 expression 
+low temperature: !diminishes! GmTOC1 expression 
+high CO<sub>2</sub>: !disturbs! circadian clock 
+low O<sub>2</sub>: !affects! amplitude of clock genes 
+low temperature: !maintains! postharvest quality 
+low O<sub>2</sub>: !maintains! postharvest quality 
+high CO<sub>2</sub>: !maintains! postharvest quality 
+storage treatments: !influence! postharvest quality attribute-related genes

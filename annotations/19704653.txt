@@ -1,0 +1,12 @@
+Light plays pivotal roles as an important environmental signal in plant growth and development. In Arabidopsis, phototropin 1 (phot1) and 2 (phot2) are the photoreceptors that mediate phototropism, chloroplast relocation, stomatal opening and leaf flattening, in response to blue light. However, little is known about how phototropins transduce the signals after the light is perceived. Changes induced by blue light in terms of intracellular localization patterns of phot2 in Arabidopsis were examined. Phot2 distributed uniformly in the plasma membrane under dark conditions. Upon irradiation with blue light, some of the phot2 associated with the Golgi apparatus. It was also shown that the kinase domain, but not the photosensory domain, is required for a plasma membrane and Golgi localization. Furthermore a kinase fragment, lacking the photosensory domain, constitutively triggered physiological responses in planta. Thus, the plasma membrane and the Golgi apparatus appear to be the most likely sites for the initial step of phot2 signal transduction. The Golgi apparatus facilitates vesicle trafficking and delivery of membrane proteins to the required locations in the cell. Therefore, this study implicates the regulation of vesicle trafficking by the Golgi apparatus as a mechanism by which phot2 elicits its cellular responses.
+
+phot1: !mediates! phototropism
+phot2: !mediates! chloroplast relocation
+phot2: !mediates! stomatal opening
+phot2: !mediates! leaf flattening
+phot2: !distributes uniformly in! plasma membrane
+blue light: !induces! changes in phot2 localization
+kinase domain: !required for! plasma membrane and Golgi localization
+kinase fragment: !constitutively triggers! physiological responses
+Golgi apparatus: !facilitates! vesicle trafficking
+Golgi apparatus: !regulates! vesicle trafficking

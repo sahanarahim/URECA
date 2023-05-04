@@ -1,0 +1,8 @@
+An Arabidopsis protein, AtEML, was isolated based on its interaction with the histone acetyltransferase AtGCN5 in a yeast two-hybrid screen. RNA blot and RT-PCR analysis showed that AtEML is expressed in flowers, leaves, stems and siliques. The promoter region of AtEML has several cis-acting elements associated with response to biotic and abiotic stress conditions, and the accumulation of the AtEML transcript was found to be regulated by cold and salt treatments. In vitro and in vivo protein-protein interaction assays indicated that AtEML interacts with AtGCN5 through the N-terminal region. Furthermore, AtEML was shown to activate expression of the lacZ reporter gene in yeast through recruitment of AtGCN5. Such recruitment was accompanied by an increase in histone H3 acetylation at the promoter driving lacZ expression, as determined by chromatin immunoprecipitation. A higher level of AtEML gene expression was detected in the Arabidopsis gcn5 knockout mutant as compared to wild type Arabidopsis, indicating that AtEML expression is regulated by AtGCN5. These results suggest that AtEML may be a transcription factor that co-ordinates the expression of target stress regulated genes through involvement in recruiting AtGCN5 to their promoters.
+
+AtEML: !interacts with! AtGCN5
+AtEML: !activates! lacZ reporter gene
+AtEML: !regulates! target stress regulated genes
+AtGCN5: !recruits! AtEML
+AtGCN5: !increases! histone H3 acetylation
+AtGCN5: !regulates! AtEML expression

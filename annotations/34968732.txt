@@ -1,0 +1,9 @@
+Despite continuous improvements, it is difficult to efficiently amplify large sequences from complex templates using current PCR methods. Here, we developed a suppression thermo-interlaced (STI) PCR method for the efficient and specific amplification of long DNA sequences from genomes and synthetic DNA pools. This method uses site-specific primers containing a common 5' tag to generate a stem-loop structure, thereby repressing the amplification of smaller non-specific products through PCR suppression (PS). However, large target products are less affected by PS and show enhanced amplification when the competitive amplification of non-specific products is suppressed. Furthermore, this method uses nested thermo-interlaced cycling with varied temperatures to optimize strand extension of long sequences with an uneven GC distribution. The combination of these two factors in STI PCR produces a multiplier effect, markedly increasing specificity and amplification capacity. We also developed a webtool, calGC, for analyzing the GC distribution of target DNA sequences and selecting suitable thermo-cycling programs for STI PCR. Using this method, we stably amplified very long genomic fragments (up to 38 kb) from plants and human and greatly increased the length of de novo DNA synthesis, which has many applications such as cloning, expression, and targeted genomic sequencing. Our method greatly extends PCR capacity and has great potential for use in biological fields.
+
+PCR: !suppresses! non-specific products
+PS: !represses! amplification
+STI PCR: !enhances! amplification
+GC distribution: !optimizes! strand extension
+calGC: !analyzes! GC distribution
+STI PCR: !multiplies! specificity and amplification capacity
+38 kb genomic fragments: !amplified stably! from plants and human

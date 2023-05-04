@@ -1,0 +1,7 @@
+In multicellular organisms, the balance between cell division and differentiation determines organ size, and represents a central unknown in developmental biology. In Arabidopsis roots, this balance is mediated between cytokinin and auxin through a regulatory circuit converging on the IAA3/SHORT HYPOCOTYL 2 (SHY2) gene. Here, we show that crosstalk between brassinosteroids (BRs) and auxin occurs in the vascular transition zone to promote root meristem development. We found that BR increases root meristem size by up-regulating expression of the PINFORMED 7 (PIN7) gene and down-regulating expression of the SHY2 gene. In addition, BES1 could directly bind to the promoter regions of both PIN7 and SHY2, indicating that PIN7 and SHY2 mediate the BR-induced growth of the root meristem by serving as direct targets of BES1. Moreover, the PIN7 overexpression and loss-of-function SHY2 mutant were sensitive to the effects of BR and could partially suppress the short-root phenotypes associated with deficient BR signaling. Interestingly, BRs could inhibit the accumulation of SHY2 protein in response to cytokinin. Taken together, these findings suggest that a complex equilibrium model exists in which regulatory interactions among BRs, auxin, and cytokinin regulate optimal root growth.
+
+BR: !up-regulates! PIN7
+BR: !down-regulates! SHY2
+BES1: !binds to! PIN7
+BES1: !binds to! SHY2
+BR: !inhibits! SHY2 accumulation

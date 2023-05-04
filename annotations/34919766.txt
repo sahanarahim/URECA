@@ -1,0 +1,14 @@
+RNA-directed DNA methylation (RdDM) helps to defend plants against invasive nucleic acids. In the canonical form of RdDM, 24-nt small interfering RNAs (siRNAs) are produced by DICER-LIKE 3 (DCL3). The siRNAs are loaded onto ARGONAUTE (AGO) proteins leading ultimately to de novo DNA methylation. Here, we introduce the Arabidopsis thaliana prors1 (LUC) transgenic system, in which 24-nt siRNAs are generated to silence the promoter-LUC construct. A forward genetic screen performed with this system identified, besides known components of RdDM (NRPD2A, RDR2, AGO4 and AGO6), the RNA-binding protein RBP45D. RBP45D is involved in CHH (where H is A, C or T) DNA methylation, and maintains siRNA production originating from the LUC transgene. RBP45D is localized to the nucleus, where it is associated with small nuclear RNAs (snRNAs) and small nucleolar RNAs (snoRNAs). RNA-Seq analysis showed that in CRISPR/Cas-mediated rbp-ko lines FLOWERING LOCUS C (FLC) mRNA levels are upregulated and several loci differentially spliced, among them FLM. In consequence, loss of RBP45D delays flowering, presumably mediated by the release of FLC levels and/or alternative splicing of FLM. Moreover, because levels and processing of transcripts of known RdDM genes are not altered in rbp-ko lines, RBP45D should have a more direct function in transgene silencing, probably independent of the canonical RdDM pathway. We suggest that RBP45D facilitates siRNA production by stabilizing either the precursor RNA or the slicer protein. Alternatively, RBP45D could be involved in chromatin modifications, participate in retention of Pol IV transcripts and/or in Pol V-dependent lncRNA retention in chromatin to enable their scaffold function.
+
+DCL3: !produces! siRNAs 
+AGO: !loads! siRNAs 
+RBP45D: !involves in! CHH DNA methylation 
+RBP45D: !maintains! siRNA production 
+RBP45D: !localizes to! nucleus 
+RBP45D: !associated with! snRNAs & snoRNAs 
+CRISPR/Cas-mediated rbp-ko lines: !upregulates! FLC mRNA levels 
+CRISPR/Cas-mediated rbp-ko lines: !differentially splices! FLM 
+RBP45D: !facilitates! siRNA production 
+RBP45D: !stabilizes! precursor RNA or slicer protein 
+RBP45D: !participates in! Pol IV transcripts retention 
+RBP45D: !in! Pol V-dependent lncRNA retention

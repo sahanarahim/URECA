@@ -1,0 +1,10 @@
+Chloroplast gene expression is controlled by numerous nuclear-encoded RNA-binding proteins. Among these, pentatricopeptide repeat (PPR) proteins are known to be key players in post-transcriptional regulation in chloroplasts. However, the functions of many PPR proteins remain unknown. In this study, we characterized the function of a chloroplast-localized P-class PPR protein PpPPR_21 in Physcomitrella patens. Knockout (KO) mutants of PpPPR_21 exhibited reduced protonemata growth and lower photosynthetic activity. Immunoblot analysis and blue-native gel analysis showed a remarkable reduction of the photosystem II (PSII) reaction center protein and poor formation of the PSII supercomplexes in the KO mutants. To assess whether PpPPR_21 is involved in chloroplast gene expression, chloroplast genome-wide microarray analysis and Northern blot hybridization were performed. These analyses indicated that the psbI-ycf12 transcript encoding the low molecular weight subunits of PSII did not accumulate in the KO mutants while other psb transcripts accumulated at similar levels in wild-type and KO mutants. A complemented PpPPR_21KO moss transformed with the cognate full-length PpPPR_21cDNA rescued the level of accumulation of psbI-ycf12 transcript. RNA-binding experiments showed that the recombinant PpPPR_21 bound efficiently to the 5' untranslated and translated regions of psbImRNA. The present study suggests that PpPPR_21 may be essential for the accumulation of a stable psbI-ycf12mRNA.
+
+PpPPR_21: !localizes to! chloroplast 
+PpPPR_21: !affects! protonemata growth 
+PpPPR_21: !affects! photosynthetic activity 
+PpPPR_21: !affects! PSII reaction center protein 
+PpPPR_21: !affects! PSII supercomplex formation 
+PpPPR_21: !affects! psbI-ycf12 transcript accumulation 
+PpPPR_21: !interacts with! psbImRNA 
+PpPPR_21: !enhances! psbI-ycf12mRNA stability

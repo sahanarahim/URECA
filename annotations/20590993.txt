@@ -1,0 +1,8 @@
+Previous studies have shown that DWARF10 (D10) is a rice ortholog of MAX4/RMS1/DAD1, encoding a carotenoid cleavage dioxygenase and functioning in strigolactones/strigolactone-derivatives (SL) biosynthesis. Here we use D10- RNA interference (RNAi) transgenic plants similar to d10 mutant in phenotypes to investigate the interactions among D10, auxin and cytokinin in regulating rice shoot branching. Auxin levels in node 1 of both decapitated D10-RNAi and wild type plants decreased significantly, showing that decapitation does reduce endogenous auxin concentration, but decapitation has no clear effects on auxin levels in node 2 of the same plants. This implies that node 1 may be the location where a possible interaction between auxin and D10 gene would be detected. D10 expression in node 1 is inhibited by decapitation, and this inhibition can be restored by exogenous auxin application, indicating that D10 may play an important role in auxin regulation of SL. The decreased expression of most OsPINs in shoot nodes of D10-RNAi plants may cause a reduced auxin transport capacity. Furthermore, effects of auxin treatment of decapitated plants on the expression of cytokinin biosynthetic genes suggest that D10 promotes cytokinin biosynthesis by reducing auxin levels. Besides, in D10-RNAi plants, decreased storage cytokinin levels in the shoot node may partly account for the increased active cytokinin contents, resulting in more tillering phenotypes.
+
+D10: !affects! SL biosynthesis
+D10: !interacts with! auxin
+auxin: !regulates! D10 expression
+D10: !represses! OsPINs expression
+D10: !promotes! cytokinin biosynthesis
+auxin: !reduces! storage cytokinin levels

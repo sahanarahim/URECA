@@ -1,0 +1,8 @@
+Root architecture plays important roles in plant water and nutrient acquisition. However, accurate modeling of the root system that provides a realistic representation of roots in the soil is limited by a lack of appropriate tools for the non-destructive and precise measurement of the root system architecture in situ. Here we describe a root growth system in which the roots grow in a solid gel matrix that was used to reconstruct 3D root architecture in situ and dynamically simulate its changes under various nutrient conditions with a high degree of precision. A 3D laser scanner combined with a transparent gel-based growth system was used to capture 3D images of roots. The root system skeleton was extracted using a skeleton extraction method based on the Hough transformation, and mesh modeling using Ball-B spline was employed. We successfully used this system to reconstruct rice and soybean root architectures and determine their changes under various phosphorus (P) supply conditions. Our results showed that the 3D root architecture parameters that were dynamically calculated based on the skeletonization and simulation of root systems were significantly correlated with the biomass and P content of rice and soybean based on both the simulation system and previous reports. Therefore, this approach provides a novel technique for the study of crop root growth and its adaptive changes to various environmental conditions.
+
+root: !grows in! gel matrix
+3D laser scanner: !captures! 3D images of roots
+Hough transformation: !extracts! root system skeleton
+Ball-B spline: !models! mesh
+system: !simulates! changes under various nutrient conditions
+root architecture parameters: !correlated with! biomass and P content

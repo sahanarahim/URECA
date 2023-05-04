@@ -1,0 +1,10 @@
+Detection of cis-regulatory elements, such as transcription factor binding sites (TFBS), through utilization of ortholog conservation is possible only if genomic data from closely related organisms are available. An alternative approach is the detection of TFBS based on their overrepresentation in promoters of co-regulated genes. However, this approach usually suffers from a high rate of false-positive prediction. Here, we have conducted a case study using promoters of genes known to be strongly induced by the phytohormone abscisic acid (ABA) in the model plant Physcomitrella patens, a moss. Putative TFBS were detected using three de novo motif detection tools in a strict consensus approach. The resulting motifs were validated using data from microarray expression profiling and were able to predict ABA-induced genes with high specificity (90.48%) at mediocre sensitivity (33.33%). In addition, 27 genes predicted to contain ABA-responsive TFBS were validated using real-time PCR. Here, a total of 37% of the genes could be shown to be induced upon ABA treatment, while 70% were found to be regulated by ABA. We conclude that the consensus approach for motif detection using co-regulation information can be used to identify genes that are regulated under a given stimulus. In terms of evolution, we find that the ABA response has apparently been conserved since the first land plants on the level of families involved in transcriptional regulation.
+
+TFBS: !detected using! consensus approach
+TFBS: !validated using! microarray expression profiling
+TFBS: !predict! ABA-induced genes
+27 genes: !predicted to contain! ABA-responsive TFBS
+27 genes: !validated using! real-time PCR
+37% of genes: !induced upon! ABA treatment
+70% of genes: !regulated by! ABA
+ABA response: !conserved since! first land plants

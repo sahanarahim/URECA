@@ -1,0 +1,12 @@
+The relationships between transcription and methylation were revealed in Arabidopsis thaliana NB-LRR-encoding genes in wild type (Col-0) and different mutants. Plant nucleotide-binding, leucine-rich repeat (NB-LRR) proteins constitute a large family that plays predominant roles in disease resistance. However, the regulation of NB-LRR-encoding genes at the transcriptional level is still poorly understood. Recently, DNA cytosine methylation in eukaryotes has been described as serving an important function in regulating gene expression. Here, we analysed the DNA methylation patterns of NB-LRR-encoding genes in Arabidopsis thaliana in samples from a wild type (Col-0) and ago4, met1, cmt3, drm1/2, and ddm1 mutants. Our results revealed that the vast majority of the NB-LRR-encoding genes in Col-0 were methylated, and the DNA methylation occurred predominantly in the CG sequence context. Moreover, DNA methylation was widely distributed in both the promoters and the bodies of most NB-LRR-encoding genes. Our results also showed that the loss of AGO4, MET1, CMT3, DRM1/2 or DDM1 functions generally led to decreased cytosine methylation in the NB-LRR-encoding genes. Analysis of the available transcriptome data from the wild type and the met1, cmt3, drm1/2 and ddm1 mutants revealed that differences in the transcription levels between the wild type and mutants were statistically significant for 63 of the NB-LRR-encoding genes. Of these genes, 38 were significantly upregulated, and the other 25 were significantly downregulated. Some NB-LRR-encoding genes with differential expression levels, which were revealed by the mRNA-Seq data, were confirmed to be significantly upregulated or downregulated in the mutants compared to the wild type by using quantitative RT-PCR. These data suggest that some Arabidopsis NB-LRR-encoding genes are likely to be regulated by altered DNA methylation patterns.
+
+NB-LRR: !methylated in! Col-0
+AGO4: !decreases methylation of! NB-LRR
+MET1: !decreases methylation of! NB-LRR
+CMT3: !decreases methylation of! NB-LRR
+DRM1/2: !decreases methylation of! NB-LRR
+DDM1: !decreases methylation of! NB-LRR
+NB-LRR: !differentially expressed in! mutants
+NB-LRR: !upregulated in! mutants
+NB-LRR: !downregulated in! mutants
+NB-LRR: !confirmed by! qRT-PCR

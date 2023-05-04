@@ -1,0 +1,12 @@
+Both herbivory and jasmonic acid (JA) activate the biosynthesis of defensive metabolites in maize, but the mechanism underlying this remains unclear. We generated maize mutants in which ZmMYC2a and ZmMYC2b, two transcription factor genes important in JA signaling, were individually or both knocked out. Genetic and biochemical analyses were used to elucidate the functions of ZmMYC2 proteins in the maize response to simulated herbivory and JA. Compared with the wild-type (WT) maize, the double mutant myc2ab was highly susceptible to insects, and the levels of benzoxazinoids and volatile terpenes, and the levels of their biosynthesis gene transcripts, were much lower in the mutants than in the WT maize after simulated insect feeding or JA treatment. Moreover, ZmMYC2a and ZmMYC2b played a redundant role in maize resistance to insects and JA signaling. Transcriptome and Cleavage Under Targets and Tagmentation-Sequencing (CUT&Tag-Seq) analysis indicated that ZmMYC2s physically targeted 60% of the JA-responsive genes, even though only 33% of these genes were transcriptionally ZmMYC2-dependent. Importantly, CUT&Tag-Seq and dual luciferase assays revealed that ZmMYC2s transactivate the benzoxazinoid and volatile terpene biosynthesis genes IGPS1/3, BX10/11/12/14, and TPS10/2/3/4/5/8 by directly binding to their promoters. Furthermore, several transcription factors physically targeted by ZmMYC2s were identified, and these are likely to function in the regulation of benzoxazinoid biosynthesis. This work reveals the transcriptional regulatory landscapes of both JA signaling and ZmMYC2s in maize and provides comprehensive mechanistic insight into how JA signaling modulates defenses in maize responses to herbivory through ZmMYC2s.
+
+ZmMYC2a: !activates! IGPS1/3
+ZmMYC2a: !activates! BX10/11/12/14
+ZmMYC2a: !activates! TPS10/2/3/4/5/8
+ZmMYC2b: !activates! IGPS1/3
+ZmMYC2b: !activates! BX10/11/12/14
+ZmMYC2b: !activates! TPS10/2/3/4/5/8
+herbivory: !activates! ZmMYC2a
+herbivory: !activates! ZmMYC2b
+JA: !activates! ZmMYC2a
+JA: !activates! ZmMYC2b

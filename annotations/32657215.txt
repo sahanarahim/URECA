@@ -1,0 +1,11 @@
+Plant extracellular vesicles (EVs) are cell-secreted membrane structures enclosing cytosolic components, including pathogenesis-related proteins, tiny RNAs, and microRNAs et al. Their roles are shown to be involved in plant-microbe interactions. Albeit several marker proteins were developed for EVs labeling for <i>Arabidopsis thaliana</i> and other plant species, we lack similar knowledge on EVs isolated from model plant <i>Nicotiana benthamiana</i>, which serves as an excellent host for plant pathogen studies. Here, we transiently expressed two arabidopsis EV markers AtPEN1 and AtTET8 and one ESCRT protein VPS4 in <i>Nicotiana benthamiana</i> leaves and tested for their ability in EV labeling. We found that GFP tagged AtPEN1 expression in <i>Nicotiana benthamiana</i> leaves is more stable than other proteins tested, and GFP-AtPEN1 accumulated in <i>Nicotiana benthamiana</i> EVs. Furthermore, we showed that EVs isolated from <i>Nicotiana benthamiana</i> leaf apoplast have typical EV density and vesicle-like morphology. Our finding demonstrates that GFP-AtPEN1 can be used as an excellent marker protein to label <i>Nicotiana benthamiana</i> EVs.
+
+AtPEN1: !expresses! GFP 
+AtPEN1: !accumulates in! Nicotiana benthamiana EVs 
+AtTET8: !expresses! GFP 
+VPS4: !expresses! GFP 
+GFP: !tags! AtPEN1 
+GFP: !tags! AtTET8 
+GFP: !tags! VPS4 
+Nicotiana benthamiana EVs: !have! typical EV density 
+Nicotiana benthamiana EVs: !have! vesicle-like morphology

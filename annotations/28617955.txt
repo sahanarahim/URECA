@@ -1,0 +1,8 @@
+While Brachypodium distachyon (Brachypodium) is an emerging model for grasses, no expression atlas or gene coexpression network is available. Such tools are of high importance to provide insights into the function of Brachypodium genes. We present a detailed Brachypodium expression atlas, capturing gene expression in its major organs at different developmental stages. The data were integrated into a large-scale coexpression database ( www.gene2function.de), enabling identification of duplicated pathways and conserved processes across 10 plant species, thus allowing genome-wide inference of gene function. We highlight the importance of the atlas and the platform through the identification of duplicated cell wall modules, and show that a lignin biosynthesis module is conserved across angiosperms. We identified and functionally characterised a putative ferulate 5-hydroxylase gene through overexpression of it in Brachypodium, which resulted in an increase in lignin syringyl units and reduced lignin content of mature stems, and led to improved saccharification of the stem biomass. Our Brachypodium expression atlas thus provides a powerful resource to reveal functionally related genes, which may advance our understanding of important biological processes in grasses.
+
+Gene: !affects! Process
+Gene: !localizes to! Organ
+Gene: !interacts with! Pathway
+Gene: !enhances! Lignin biosynthesis
+Gene: !represses! Lignin content
+Gene: !synthesizes! Ferulate 5-hydroxylase

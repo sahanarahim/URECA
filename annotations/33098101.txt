@@ -1,0 +1,7 @@
+Tolerance of hypoxia is essential for most plants, but the underlying mechanisms are largely unknown. Here we show that adaptation to submergence induced hypoxia in Arabidopsis involves up-regulation of RAP2.2 through interactive action of WRKY33 and WRKY12. WRKY33- or WRKY12-overexpressing plants showed enhanced resistance to hypoxia. Y2H, BiFC, Co-IP and pull-down experiments confirmed the interaction of WRKY33 with WRKY12. Genetic experiments showed that RAP2.2 acts downstream of WRKY33/WRKY12. WRKY33 and WRKY12 can bind to and activate RAP2.2 individually. Genetic and molecular experiments demonstrate that the two WRKYs can synergistically enhance activation towards RAP2.2 to increase hypoxia tolerance. WRKY33 expression is increased in RAP2.2-overexpressing plants, indicating a feedback regulation by RAP2.2 during submergence process, which was corroborated by EMSA, ChIP, dual-LUC and genetic experiments. Our results show that a regulatory cascade module involving WRKY33, WRKY12 and RAP2.2 plays a key role in submergence induced hypoxia response of Arabidopsis and illuminate functions of WRKYs in hypoxia tolerance.
+
+WRKY33: !interacts with! WRKY12
+WRKY33: !activates! RAP2.2
+WRKY12: !activates! RAP2.2
+RAP2.2: !feeds back to! WRKY33
+WRKY33/WRKY12: !synergistically enhance! RAP2.2 activation

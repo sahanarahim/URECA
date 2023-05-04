@@ -1,0 +1,12 @@
+The Arabidopsis (Arabidopsis thaliana) orthologs of Brca2, a protein whose mutations are involved in breast cancer in humans, were previously shown to be essential at meiosis. In an attempt to better understand the Brca2-interacting properties, we examined four partners of the two isoforms of Brca2 identified in Arabidopsis (AtRad51, AtDmc1, and two AtDss1 isoforms). The two Brca2 and the two Dss1 isoforms are named AtBrca2(IV), AtBrca2(V), AtDss1(I), and AtDss1(V) after their chromosomal localization. We first show that both AtBrca2 proteins can interact with either AtRad51 or AtDmc1 in vitro, and that the N-terminal region of AtBrca2 is responsible for these interactions. More specifically, the BRC motifs (so called because iterated in the Brca2 protein) in Brca2 are involved in these interactions: BRC motif number 2 (BRC2) alone can interact with AtDmc1, whereas BRC motif number 4 (BRC4) recognizes AtRad51. The human Rad51 and Dmc1 proteins themselves can interact with either the complete (HsRad51) or a shorter version of AtBrca2 (HsRad51 or HsDmc1) that comprises all four BRC motifs. We also identified two Arabidopsis isoforms of Dss1, another known partner of Brca2 in other organisms. Although all four Brca2 and Dss1 proteins are much conserved, AtBrca2(IV) interacts with only one of these AtDss1 proteins, whereas AtBrca2(V) interacts with both of them. Finally, we show for the first time that an AtBrca2 protein could bind two different partners at the same time: AtRad51 and AtDss1(I), or AtDmc1 and AtDss1(I).
+
+AtBrca2(IV): !interacts with! AtDss1 
+AtBrca2(V): !interacts with! AtDss1(I) & AtDss1(V) 
+AtRad51: !interacts with! AtBrca2(IV) & AtBrca2(V) 
+AtDmc1: !interacts with! AtBrca2(IV) & AtBrca2(V) 
+HsRad51: !interacts with! HsBrca2 
+HsDmc1: !interacts with! HsBrca2 
+BRC2: !interacts with! AtDmc1 
+BRC4: !interacts with! AtRad51 
+AtBrca2(IV): !binds! AtRad51 & AtDss1(I) 
+AtBrca2(V): !binds! AtRad51 & AtDmc1 & AtDss1(I)

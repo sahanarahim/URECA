@@ -1,0 +1,10 @@
+It is clear that 2-oxoglutarate-dependent dioxygenases have critical functions in salicylic acid (SA) metabolism in plants, yet their role in SA biosynthesis is poorly understood. Here, we report that two dioxygenase-encoding genes, SLENDER AND CRINKLY LEAF1 (SLC1) and SLC2, play essential roles in shoot development and SA production in rice. Overexpression of SLC1 (SLC1-OE) or SLC2 (SLC2-OE) in rice produced infertile plants with slender and crinkly leaves. Disruption of SLC1 or SLC2 led to dwarf plants, while simultaneous down-regulation of SLC1 and SLC2 resulted in a severe defect in early leaf development. Enhanced SA levels in SLC1-OE plants and decreased SA levels in slc1 and slc2 mutants were observed. Accordingly, these lines all showed altered expression of a set of SA-related genes. We demonstrated that SLC1 interacts with homeobox1 (OSH1), and that either the knotted1-like homeobox (KNOX1) or glutamate, leucine, and lysine (ELK) domain of OSH1 is sufficient for accomplishing this interaction. Collectively, our data reveal the importance of SLC1 and SLC2 in rice shoot development.
+
+SLC1: !affects! shoot development
+SLC2: !affects! shoot development
+SLC1: !enhances! SA production
+SLC2: !enhances! SA production
+SLC1: !interacts with! OSH1
+OSH1: !interacts with! SLC1
+KNOX1: !interacts with! OSH1
+ELK: !interacts with! OSH1

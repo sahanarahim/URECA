@@ -1,0 +1,10 @@
+Nonsense-mediated mRNA decay (NMD) is an essential quality control system that degrades aberrant transcripts containing premature termination codons and regulates the expression of several normal transcripts. Targets for NMD are selected during translational termination. If termination is slow, the UPF1 NMD factor binds the eRF3 protein of the termination complex and then recruits UPF2 and UPF3. Consequently, the UPF1-2-3 NMD complex induces SMG7-mediated degradation of the target mRNA. It is unknown how formation of the NMD complex and transcript degradation are linked in plants. Previously we have shown that the N- and C-terminal domains of UPF1 act redundantly and that the N-terminal domain is phosphorylated. To clarify the role of UPF1 phosphorylation in plant NMD, we generated UPF1 mutants and analyzed their phosphorylation status and the NMD competency of the mutants. We show that although several residues in the N-terminal domain of UPF1 are phosphorylated, only three phosphorylated amino acids, S3, S13 and T29, play a role in NMD. Moreover, we found that the C-terminal domain consists of redundant S/TQ-rich segments and that S1076 is involved in NMD. All NMD-relevant phosphorylation sites were in the S/TQ context. Co-localization and fluorescence resonance energy transfer-fluorescence lifetime imaging assays suggest that N-terminal and probably also C-terminal phosphorylated S/TQ residues are the binding platform for SMG7. Our data support the hypothesis that phosphorylation of UPF1 connects NMD complex formation and the SMG7-mediated target transcript degradation steps of NMD. SMG7 binds the phosphorylated S/TQ sites of the UPF1 component of the NMD complex, and then it induces the degradation of the NMD target.
+
+UPF1: !binds! eRF3
+UPF1: !recruits! UPF2 and UPF3
+UPF1: !phosphorylated at! S3, S13, T29
+UPF1: !consists of! N-terminal and C-terminal domains
+UPF1: !phosphorylation of! S/TQ sites 
+UPF1: !connects! NMD complex formation and SMG7-mediated target transcript degradation
+SMG7: !binds! phosphorylated S/TQ sites of UPF1
+SMG7: !induces! degradation of NMD target

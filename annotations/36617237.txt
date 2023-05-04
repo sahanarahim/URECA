@@ -1,0 +1,8 @@
+The brassinosteroid (BR) hormone and its plasma membrane receptor BR INSENSITIVE1 (BRI1) is one of the best-studied receptor-ligand pairs for understanding the interplay between receptor endocytosis and signaling in plants. BR signaling is mainly determined by the plasma membrane pool of BRI1, whereas BRI1 endocytosis ensures signal attenuation. Since BRs are ubiquitously distributed in the plant, the tools available to study BRI1 function without interference from endogenous BRs are limited. Here, we designed a BR-binding-deficient Arabidopsis (Arabidopsis thaliana) mutant based on protein sequence-structure analysis and homology modeling of members of BRI1 family. This tool allowed us to re-examine the BRI1 endocytosis and signal attenuation model. We showed that despite impaired phosphorylation and ubiquitination, BR-binding-deficient BRI1 internalizes similarly to the wild-type form. Our data indicate that BRI1 internalization relies on different endocytic machinery. In addition, the BR-binding-deficient mutant provides opportunities to study non-canonical ligand-independent BRI1 functions.
+
+BR: !binds to! BRI1
+BRI1: !internalizes! BR 
+BRI1: !phosphorylates! BR 
+BRI1: !ubiquitinates! BR 
+BR-binding-deficient BRI1: !internalizes! similarly to wild-type BRI1 
+BR-binding-deficient BRI1: !provides opportunities to study! non-canonical ligand-independent BRI1 functions

@@ -1,0 +1,8 @@
+Plants rely on ribulose bisphosphate carboxylase/oxygenase (Rubisco) for carbon fixation. Higher plant Rubisco possesses an L(8)S(8) structure, with the large subunit (LS) encoded in the chloroplast by rbcL and the small subunit encoded by the nuclear RBCS gene family. Because its components accumulate stoichiometrically but are encoded in two genetic compartments, rbcL and RBCS expression must be tightly coordinated. Although this coordination has been observed, the underlying mechanisms have not been defined. Here, we use tobacco to understand how LS translation is related to its assembly status. To do so, two transgenic lines deficient in LS biogenesis were created: a chloroplast transformant expressing a truncated and unstable LS polypeptide, and a line where a homolog of the maize Rubisco-specific chaperone, BSD2, was repressed by RNAi. We found that in both lines, LS translation is no longer regulated by the availability of small subunit (SS), indicating that LS translation is not activated by the presence of its assembly partner but, rather, undergoes an autoregulation of translation. Pulse labeling experiments indicate that LS is synthesized but not accumulated in the transgenic lines, suggesting that accumulation of a repressor motif is required for LS assembly-dependent translational regulation.
+
+rbcL: !encodes! Large subunit 
+RBCS: !encodes! Small subunit 
+rbcL: !coordinated with! RBCS expression 
+BSD2: !represses! LS translation 
+LS: !synthesized by! rbcL 
+LS: !accumulated by! BSD2

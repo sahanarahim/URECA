@@ -1,0 +1,11 @@
+Germination of lettuce (Lactuca sativa) 'Grand Rapids' seeds is regulated by phytochrome. The action of phytochrome includes alterations in the levels of gibberellin (GA) and abscisic acid (ABA). To determine the molecular mechanism of phytochrome regulation of ABA metabolism, we isolated four lettuce cDNAs encoding 9-cis-epoxycarotenoid dioxygenase (biosynthesis; LsNCED1-LsNCED4) and four cDNAs for ABA 8'-hydroxylase (catabolism; LsABA8ox1-LsABA8ox4). Measurements of ABA and its catabolites showed that a decrease in ABA level coincided with a slight increase in the level of the ABA catabolite phaseic acid after red light treatment. Quantitative reverse transcription-polymerase chain reaction analysis indicated that ABA levels are controlled by phytochrome through down-regulation of LsNCED2 and LsNCED4 expression and up-regulation of LsABA8ox4 expression in lettuce seeds. Furthermore, the expression levels of LsNCED4 decreased after GA(1) treatment, whereas the levels of expression of the other two genes were unaffected. The LsNCED4 expression was also down-regulated by red light in lettuce seeds in which GA biosynthesis was suppressed by AMO-1618, a specific GA biosynthesis inhibitor. These results indicate that phytochrome regulation of ABA metabolism is mediated by both GA-dependent and -independent mechanisms. Spatial analysis showed that after red light treatment, the ABA decrease on the hypocotyl side was greater than that on the cotyledon side of lettuce seeds. Moreover, phytochrome-regulated expression of ABA and GA biosynthesis genes was observed on the hypocotyl side, rather than the cotyledon side, suggesting that this regulation occurs near the photoperceptive site.
+
+phytochrome: !regulates! ABA metabolism
+LsNCED2/4: !down-regulated by! phytochrome
+LsABA8ox4: !up-regulated by! phytochrome
+GA: !affects! LsNCED4 expression
+AMO-1618: !inhibits! GA biosynthesis
+red light: !decreases! ABA level
+red light: !increases! ABA catabolite phaseic acid
+red light: !regulates! expression of ABA/GA biosynthesis genes
+hypocotyl side: !greater decrease in! ABA level

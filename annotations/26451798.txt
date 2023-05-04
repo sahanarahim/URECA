@@ -1,0 +1,8 @@
+Cell fate in the root epidermis of Arabidopsis thaliana is determined in a position-dependent manner. SCRAMBLED (SCM), an atypical leucine-rich repeat receptor-like kinase, mediates this positional regulation via its effect on WEREWOLF (WER) expression, and subsequently, its downstream transcription factor, GLABRA2 (GL2), which are required for nonhair cell development. Previously, TORNADO1 (TRN1), a plant-specific protein with a leucine-rich repeat ribonuclease inhibitor-like domain, was shown to be required for proper epidermal patterning in Arabidopsis roots. In this work, we analyzed the possible involvement of TRN1 in the known root epidermal gene network. We discovered that the trn1 mutant caused the ectopic expression of WER and the randomized expression of GL2 and EGL3. This suggests that TRN1 regulates the position-dependent cell fate determination by affecting WER expression in Arabidopsis root epidermis. Additionally, the distinct phenotypes of the aerial parts of the trn1-t and scm-2 mutant suggest that TRN1 and SCM might have different functions in the development of aerial parts.
+
+SCM: !mediates! WER expression
+TRN1: !regulates! WER expression
+WER: !affects! GL2 expression
+TRN1: !affects! GL2 expression
+TRN1: !affects! EGL3 expression
+SCM: !has different functions in! aerial parts

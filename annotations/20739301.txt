@@ -1,0 +1,11 @@
+Phytochrome regulates various physiological and developmental processes throughout the life cycle of plants. Among the members of the phytochrome family, phytochrome A (phyA) exclusively mediates the far-red light high irradiance response (FR-HIR), which is elicited by continuous far-red light. In FR-HIR, nuclear accumulation of phyA, which precedes physiological responses, is proposed to be required for the response. In contrast to FR, red light induces rapid degradation of phyA to suppress undesirable long-term photomorphogenic responses of phyA. In the present study, we compared biological activities between phyA derivatives to which either a nuclear localization (NLS) or export (NES) signal sequence was attached. Those derivatives were expressed under the control of the PHYA promoter in the Arabidopsis phyA mutant. Detailed microscopic observation revealed that the phyA-green fluorescent protein (GFP) without a signal sequence is localized exclusively in the cytoplasm in darkness. Rapid nuclear entry was observed after exposure to both red and far-red light. Interestingly, both phyA-GFP-NLS and phyA-GFP-NES were rapidly degraded under continuous red light. Furthermore, a proteasome inhibitor delayed degradation equally under these two conditions. Therefore, similar mechanisms for phyA degradation may exist in the cytoplasm and nucleus. As expected from previous reports, phyA-GFP-NLS, but not phyA-GFP-NES, mediated different aspects of FR-HIR, such as inhibition of hypocotyl elongation and rapid induction of gene expression, confirming that phyA nuclear localization is required for FR-HIR. In addition, a detailed time course analysis of phyA-GFP and phyA-GFP-NLS responses revealed that they were almost indistinguishable, raising the question of the physiological relevance of phyA cytoplasmic retention in darkness.
+
+phyA: !regulates! physiological and developmental processes
+phyA: !mediates! FR-HIR
+phyA: !localizes to! nucleus
+phyA: !degrades in! red light
+phyA: !requires nuclear localization for! FR-HIR
+phyA-GFP: !localizes to! cytoplasm
+phyA-GFP-NLS: !mediates! FR-HIR
+phyA-GFP-NES: !degrades in! red light
+proteasome inhibitor: !delays degradation of! phyA-GFP-NLS and phyA-GFP-NES

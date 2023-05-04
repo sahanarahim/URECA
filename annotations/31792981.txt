@@ -1,0 +1,18 @@
+The molecular mechanisms controlling underwater elongation are based extensively on studies on internode elongation in the monocot rice (Oryza sativa) and petiole elongation in Rumex rosette species. Here, we characterize underwater growth in the dicot Nasturtium officinale (watercress), a wild species of the Brassicaceae family, in which submergence enhances stem elongation and suppresses petiole growth. We used a genome-wide transcriptome analysis to identify the molecular mechanisms underlying the observed antithetical growth responses. Though submergence caused a substantial reconfiguration of the petiole and stem transcriptome, only little qualitative differences were observed between both tissues. A core submergence response included hormonal regulation and metabolic readjustment for energy conservation, whereas tissue-specific responses were associated with defense, photosynthesis, and cell wall polysaccharides. Transcriptomic and physiological characterization suggested that the established ethylene, abscisic acid (ABA), and GA growth regulatory module for underwater elongation could not fully explain underwater growth in watercress. Petiole growth suppression is likely attributed to a cell cycle arrest. Underwater stem elongation is driven by an early decline in ABA and is not primarily mediated by ethylene or GA. An enhanced stem elongation observed in the night period was not linked to hypoxia and suggests an involvement of circadian regulation.
+
+submergence: !enhances! stem elongation 
+submergence: !suppresses! petiole growth 
+hormonal regulation: !mediates! submergence response 
+metabolic readjustment: !mediates! submergence response 
+defense: !mediates! tissue-specific response 
+photosynthesis: !mediates! tissue-specific response 
+cell wall polysaccharides: !mediates! tissue-specific response 
+ethylene: !mediates! underwater elongation 
+ABA: !mediates! underwater elongation 
+GA: !mediates! underwater elongation 
+ABA: !declines! early in underwater stem elongation 
+ethylene: !not primarily mediates! underwater stem elongation 
+GA: !not primarily mediates! underwater stem elongation 
+cell cycle arrest: !mediates! petiole growth suppression 
+hypoxia: !not linked to! enhanced stem elongation 
+circadian regulation: !involves! enhanced stem elongation

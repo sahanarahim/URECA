@@ -1,0 +1,9 @@
+Genetic markers are essential when developing or working with genetically variable populations. Indel Group in Genomes (IGG) markers are primer pairs that amplify single-locus sequences that differ in size for two or more alleles. They are attractive for their ease of use for rapid genotyping and their codominant nature. Here, we describe a heuristic algorithm that uses a k-mer-based approach to search two or more genome sequences to locate polymorphic regions suitable for designing candidate IGG marker primers. As input to the IGG pipeline software, the user provides genome sequences and the desired amplicon sizes and size differences. Primer sequences flanking polymorphic insertions/deletions are produced as output. IGG marker files for three sets of genomes, Solanum lycopersicum/Solanum pennellii, Arabidopsis (Arabidopsis thaliana) Columbia-0/Landsberg erecta-0 accessions, and S. lycopersicum/S. pennellii/Solanum tuberosum (three-way polymorphic) are included.
+
+Genome sequences: !input to! IGG pipeline software
+IGG markers: !amplify! single-locus sequences
+k-mer-based approach: !searches! two or more genome sequences
+Polymorphic regions: !located by! k-mer-based approach
+Primer sequences: !flank! polymorphic insertions/deletions
+User: !provides! genome sequences and desired amplicon sizes and size differences
+IGG marker files: !included for! three sets of genomes

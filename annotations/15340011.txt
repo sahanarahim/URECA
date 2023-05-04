@@ -1,0 +1,7 @@
+['15340011', 'The stable, recessive Arabidopsis variegated 3 (var3) mutant exhibits a  variegated phenotype due to somatic areas lacking or containing developmentally  retarded chloroplasts and greatly reduced numbers of palisade cells. The VAR3  gene, isolated by transposon tagging, encodes the 85.9 kDa VAR3 protein  containing novel repeats and zinc fingers described as protein interaction  domains. VAR3 interacts specifically in yeast and in vitro with NCED4, a putative  polyene chain or carotenoid dioxygenase, and both VAR3 and NCED4 accumulate in  the chloroplast stroma. Metabolic profiling demonstrates that pigment profiles  are qualitatively similar in wild type and var3, although var3 accumulates lower  levels of chlorophylls and carotenoids. These results indicate that VAR3 is a  part of a protein complex required for normal chloroplast and palisade cell  development.', '2004 Sep 15', 'J Cell Sci', '10.1242/jcs.01360', 'Mundy']
+
+VAR3: !interacts with! NCED4
+VAR3: !accumulates in! chloroplast stroma
+NCED4: !accumulates in! chloroplast stroma
+VAR3: !affects! chloroplast and palisade cell development
+VAR3: !influences! pigment profiles

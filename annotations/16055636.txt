@@ -1,0 +1,12 @@
+SWITCH/SUCROSE NONFERMENTING (SWI/SNF) chromatin-remodeling complexes mediate ATP-dependent alterations of DNA-histone contacts. The minimal functional core of conserved SWI/SNF complexes consists of a SWI2/SNF2 ATPase, SNF5, SWP73, and a pair of SWI3 subunits. Because of early duplication of the SWI3 gene family in plants, Arabidopsis thaliana encodes four SWI3-like proteins that show remarkable functional diversification. Whereas ATSWI3A and ATSWI3B form homodimers and heterodimers and interact with BSH/SNF5, ATSWI3C, and the flowering regulator FCA, ATSWI3D can only bind ATSWI3B in yeast two-hybrid assays. Mutations of ATSWI3A and ATSWI3B arrest embryo development at the globular stage. By a possible imprinting effect, the atswi3b mutations result in death for approximately half of both macrospores and microspores. Mutations in ATSWI3C cause semidwarf stature, inhibition of root elongation, leaf curling, aberrant stamen development, and reduced fertility. Plants carrying atswi3d mutations display severe dwarfism, alterations in the number and development of flower organs, and complete male and female sterility. These data indicate that, by possible contribution to the combinatorial assembly of different SWI/SNF complexes, the ATSWI3 proteins perform nonredundant regulatory functions that affect embryogenesis and both the vegetative and reproductive phases of plant development.
+
+SWI2/SNF2 ATPase: !interacts with! SNF5
+SWP73: !interacts with! SWI2/SNF2 ATPase
+ATSWI3A: !interacts with! ATSWI3B
+ATSWI3B: !interacts with! BSH/SNF5
+ATSWI3C: !interacts with! FCA
+ATSWI3D: !interacts with! ATSWI3B
+ATSWI3A: !affects! Embryo development
+ATSWI3B: !affects! Macrospores and microspores
+ATSWI3C: !affects! Stature, root elongation, leaf curling, stamen development, fertility
+ATSWI3D: !affects! Dwarfism, flower organs, male and female sterility

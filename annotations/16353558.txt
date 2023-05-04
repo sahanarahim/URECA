@@ -1,0 +1,8 @@
+Diarrheagenic Escherichia coli were able to bind to plant surfaces, including alfalfa sprouts and open seed coats, and tomato and Arabidopsis thaliana seedlings incubated in water. The characteristics of the binding differed with the bacterial strain examined. Laboratory K12 strains of E. coli failed to show significant binding to any of the plant surfaces examined, suggesting that some of the genes present and expressed in pathogenic strains and absent or unexpressed in K12 strains may be required for binding to plants. When a plasmid carrying the mlrA gene (a positive regulator of curli biosynthesis) or a plasmid carrying the operons that encode the synthesis of curli (csgA-G) was introduced into K12 strains, the bacteria acquired the ability to bind to sprouts. CsgA mutants of an avian pathogenic E. coli and an O157:H7 strain showed no reduction in their ability to bind to sprouts. Thus, the production of curli appears to be sufficient to allow K12 strains to bind, but curli are not necessary for the binding of pathogenic strains, suggesting that pathogenic strains may have more than one mechanism for binding to plant surfaces.
+
+mlrA: !regulates! curli biosynthesis
+csgA-G: !synthesizes! curli
+K12 strains: !lack! binding to plants
+K12 strains: !acquire! binding to sprouts with mlrA or csgA-G
+curli: !allow! K12 strains to bind
+pathogenic strains: !bind! to plants without curli

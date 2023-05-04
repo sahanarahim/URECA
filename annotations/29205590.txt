@@ -1,0 +1,8 @@
+Characterization of OVATE family proteins (OFPs) has revealed that they exert functions by interacting with different types of transcription factor. However, the molecular bases of these processes are poorly understood. Here, we report that OsOFP19 negatively modulates brassinosteroid (BR) response and integrates it with the cell division pattern to affect plant architecture, including grain shape, through interaction with both DWARF AND LOW-TILLERING (DLT) and Oryza sativa homeobox1 (OSH1). Overexpression of OsOFP19 caused a semi-dwarf stature with thicker leaves and stronger culms and roots, which result from an increase in cell layers in the sub-epidermal tissue. Further studies revealed that OsOFP19 interacts with OSH1, and that this interaction mutually enhances the transcriptional activity of these proteins and leads to a transition from anticlinal to periclinal cell division. Furthermore, DLT interacts with both OsOFP19 and OSH1 and acts as an antagonist in the two interactions. Therefore, OsOFP19, OSH1 and DLT form a functional complex which plays a pivotal role in modulating BR signaling and determining the cell division pattern during plant growth and development.
+
+OsOFP19: !interacts with! OSH1
+OsOFP19: !interacts with! DLT
+OSH1: !interacts with! OsOFP19
+OSH1: !interacts with! DLT
+DLT: !interacts with! OsOFP19
+DLT: !interacts with! OSH1

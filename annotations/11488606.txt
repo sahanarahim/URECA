@@ -1,0 +1,10 @@
+['11488606', 'A cDNA clone (Atakn1) from Arabidopsis thaliana encoding APS-kinase (EC 2.7.1.25)  was investigated for structural and catalytic properties of the gene product.  Recombinant his10-AtAkn1 formed PAPS at a Vmax of 7.35 U x mg(-1). The Km for APS  was 0.14 microM and for ATP 147 microM. APS caused a severe substrate inhibition  (K(i) 4.5 microM). The type of inhibition is uncompetitive with respect to MgATP.  High ionic strength and reducing thiols stabilized the enzyme activity. Plant  APS-kinase is regulated in vitro by the redox charge with thioredoxin as  essential activator. Mutagenesis of a serine in S182C and S182F presumed to be  involved in the transfer of the phosphoryl group had no effect upon catalytic  activity. Using a yeast two-hybrid system with AtAkn1 as bait, an interacting  clone was detected from a cDNA library of A. thaliana cv. Columbia that codes for  an APS-kinase iso-form (Atakn2). Complementation of APS-kinase-deficient  Saccharomyces cerevisiae met14 showed that AtAkn2 is functionally active as  APS-kinase. It was immunologically related to AtAkn1 and presumably represents a  plastidal iso-form of the plant APS-kinase gene family.', '2001 Aug 15', 'Arch Biochem Biophys', '10.1006/abbi.2001.2453', 'Schwenn']
+
+AtAkn1: !forms! PAPS 
+AtAkn1: !inhibited by! APS 
+AtAkn1: !stabilized by! High ionic strength and reducing thiols 
+AtAkn1: !activated by! Thioredoxin 
+AtAkn1: !mutagenesis of! Serine in S182C and S182F 
+AtAkn1: !interacts with! AtAkn2 
+AtAkn2: !complements! APS-kinase-deficient Saccharomyces cerevisiae met14 
+AtAkn2: !immunologically related to! AtAkn1

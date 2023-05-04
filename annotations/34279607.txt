@@ -1,0 +1,10 @@
+Intron splicing is an essential event in post-transcriptional RNA processing in plant mitochondria, which requires the participation of diverse nuclear-encoded splicing factors. However, it is presently unclear how these proteins cooperatively take part in the splicing of specific introns. In this study, we characterized a nuclear-encoded mitochondrial P-type pentatricopeptide repeat (PPR) protein named EMP603. This protein is essential for splicing of intron 2 in the Nad1 gene and interacts with the mitochondria-localized DEAD-box RNA helicase PMH2-5140, the RAD52-like proteins ODB1-0814 and ODB1-5061, and the CRM domain-containing protein Zm-mCSF1. Further study revealed that the N-terminal region of EMP603 interacts with the DEAD-box of PMH2-5140, the CRM domain of Zm-mCSF1, and OBD1-5061, but not with OBD1-0814, whereas the PPR domain of EMP603 can interact with ODB1-0814, ODB1-5061, and PMH2-5140, but not with Zm-mCSF1. Defects in EMP603 severely disrupt the assembly and activity of mitochondrial complex I, leading to impaired mitochondrial function, and delayed seed development. The interactions revealed between EMP603 and PMH2-5140, ODB1-0814, ODB1-5061, and Zm-mCSF1 indicate a possible involvement of a dynamic 'spliceosome-like' complex in intron splicing, and may accelerate the elucidation of the intron splicing mechanism in plant mitochondria.
+
+EMP603: !interacts with! PMH2-5140
+EMP603: !interacts with! ODB1-0814
+EMP603: !interacts with! ODB1-5061
+EMP603: !interacts with! Zm-mCSF1
+PMH2-5140: !interacts with! EMP603
+ODB1-0814: !interacts with! EMP603
+ODB1-5061: !interacts with! EMP603
+Zm-mCSF1: !interacts with! EMP603

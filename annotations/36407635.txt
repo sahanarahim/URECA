@@ -1,0 +1,6 @@
+Plastome sequence data is most often extracted from plant whole genome sequencing data and need to be assembled and annotated separately from the nuclear genome sequence. In projects comprising multiple genomes, it is labour intense to individually process the plastomes as it requires many steps and software. This study developed <i>Plastaumatic</i> - an automated pipeline for both assembly and annotation of plastomes, with the scope of the researcher being able to load whole genome sequence data with minimal manual input, and therefore a faster runtime. The main structure of the current automated pipeline includes trimming of adaptor and low-quality sequences using <i>fastp</i>, <i>de novo</i> plastome assembly using <i>NOVOPlasty</i>, standardization and quality checking of the assembled genomes through a custom script utilizing <i>BLAST+</i> and <i>SAMtools</i>, annotation of the assembled genomes using <i>AnnoPlast</i>, and finally generating the required files for NCBI GenBank submissions. The pipeline is demonstrated with 12 potato accessions and three soybean accessions.
+
+Plastome: !assembled by! NOVOPlasty
+Plastome: !standardized and quality checked by! custom script utilizing BLAST+ and SAMtools
+Plastome: !annotated by! AnnoPlast
+Plastome: !generated files for NCBI GenBank submissions by! pipeline

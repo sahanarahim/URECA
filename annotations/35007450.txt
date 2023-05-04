@@ -1,0 +1,9 @@
+WD40 repeat proteins, the homologs of yeast MSI1, are conserved in plants, participating in protein complexes and playing fundamental functions in plant development. Although several MSI1-like proteins have been cloned and characterized in plants, the roles of MSI1-like proteins in the biennial ornamental plant, <i>Dendrobium nobile</i> Lindl, are still unclear. Here, we report the cloning of the <i>DnMSI1</i> gene from <i>Dendrobium nobile</i> Lindl with RACE technology. We found that <i>DnMSI1</i> expression was induced by GA<sub>3</sub> and TDZ but inhibited by ABA, PP333, and drought and salt stress. Furthermore, <i>DnMSI1</i> over-expression in <i>Arabidopsis</i> resulted in decreased tolerance to NaCl stress. These results suggest that DnMSI1 plays negative regulation roles in regulating salinity-stress resistance in <i>Dendrobium nobile</i> Lindl.
+
+GA3: !induces! DnMSI1
+TDZ: !induces! DnMSI1
+ABA: !inhibits! DnMSI1
+PP333: !inhibits! DnMSI1
+drought stress: !inhibits! DnMSI1
+salt stress: !inhibits! DnMSI1
+DnMSI1: !regulates! salinity-stress resistance

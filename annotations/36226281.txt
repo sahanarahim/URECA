@@ -1,0 +1,17 @@
+Plant cell wall is a complex and changeable structure, which is very important for plant growth and development. It is clear that cell wall polysaccharide synthases have critical functions in rice growth and abiotic stress, yet their role in plant response to pathogen invasion is poorly understood. Here, we describe a <i>dwarf and narrowed leaf in Hejiang 19</i> (<i>dnl19</i>) mutant in rice, which shows multiple growth defects such as reduced plant height, enlarged lamina joint angle, curled leaf morphology, and a decrease in panicle length and seed setting. MutMap analysis, genetic complementation and gene knockout mutant show that <i>cellulose synthase-like D4</i> (<i>OsCSLD4</i>) is the causal gene for <i>DNL19</i>. Loss function of <i>OsCSLD4</i> leads to a constitutive activation of defense response in rice. After inoculation with rice blast and bacterial blight, <i>dnl19</i> displays an enhanced disease resistance. Widely targeted metabolomics analysis reveals that disruption of <i>OsCSLD4</i> in <i>dnl19</i> resulted in significant increase of L-valine, L-asparagine, L-histidine, L-alanine, gentisic acid, but significant decrease of L-aspartic acid, malic acid, 6-phosphogluconic acid, glucose 6-phosphate, galactose 1-phosphate, gluconic acid, D-aspartic acid. Collectively, our data reveals the importance of <i>OsCSLD4</i> in balancing the trade-off between rice growth and defense.
+
+OsCSLD4: !causes! DNL19
+OsCSLD4: !activates! defense response
+OsCSLD4: !enhances! disease resistance
+L-valine: !increases! in OsCSLD4 disruption
+L-asparagine: !increases! in OsCSLD4 disruption
+L-histidine: !increases! in OsCSLD4 disruption
+L-alanine: !increases! in OsCSLD4 disruption
+gentisic acid: !increases! in OsCSLD4 disruption
+L-aspartic acid: !decreases! in OsCSLD4 disruption
+malic acid: !decreases! in OsCSLD4 disruption
+6-phosphogluconic acid: !decreases! in OsCSLD4 disruption
+glucose 6-phosphate: !decreases! in OsCSLD4 disruption
+galactose 1-phosphate: !decreases! in OsCSLD4 disruption
+gluconic acid: !decreases! in OsCSLD4 disruption
+D-aspartic acid: !decreases! in OsCSLD4 disruption

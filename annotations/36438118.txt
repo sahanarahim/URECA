@@ -1,0 +1,7 @@
+Accurate simultaneous semantic and instance segmentation of a plant 3D point cloud is critical for automatic plant phenotyping. Classically, each organ of the plant is detected based on the local geometry of the point cloud, but the consistency of the global structure of the plant is rarely assessed. We propose a two-level, graph-based approach for the automatic, fast and accurate segmentation of a plant into each of its organs with structural guarantees. We compute local geometric and spectral features on a neighbourhood graph of the points to distinguish between linear organs (main stem, branches, petioles) and two-dimensional ones (leaf blades) and even 3-dimensional ones (apices). Then a quotient graph connecting each detected macroscopic organ to its neighbors is used both to refine the labelling of the organs and to check the overall consistency of the segmentation. A refinement loop allows to correct segmentation defects. The method is assessed on both synthetic and real 3D point-cloud data sets of <i>Chenopodium album</i> (wild spinach) and <i>Solanum lycopersicum</i> (tomato plant).
+
+graph: !computes! local geometric and spectral features 
+neighbourhood graph: !distinguishes between! linear organs and two-dimensional ones 
+quotient graph: !connects! each detected macroscopic organ to its neighbors 
+refinement loop: !corrects! segmentation defects 
+point cloud: !assesses! consistency of the segmentation

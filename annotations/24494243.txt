@@ -1,0 +1,8 @@
+Peroxisomal matrix protein transport relies on 2 cytosolic receptors, PEX5 and PEX7, which import peroxisomal targeting signal type 1 (PTS1) and PTS2-containing proteins, respectively. To better understand the transport mechanism of PEX7, we isolated PEX7 complexes using proteomics. We identified PEX5 as well as PTS1- and PTS2-containing proteins within the complex, thereby confirming the interaction between PEX5 and PEX7 during cargo transport that had been previously characterized by biochemical approaches. In addition, a chaperone T-complex and 2 small Rab GTPases were identified. We recently reported that the RabE1c is involved in the degradation of the PEX7 when abnormal PEX7 is accumulated on the peroxisomal membrane. This study expands our knowledge on the transport machinery via PEX7 by identifying both known and novel PEX7-interacting proteins and thus is helpful for further investigation of the regulation of the peroxisomal protein receptor during its translocation.
+
+PEX5: !interacts with! PEX7
+PEX7: !imports! PTS1- and PTS2-containing proteins
+PEX5: !interacts with! PTS1- and PTS2-containing proteins
+T-complex: !identified in! PEX7 complex
+Rab GTPases: !identified in! PEX7 complex
+RabE1c: !involved in! degradation of PEX7

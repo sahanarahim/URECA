@@ -1,0 +1,7 @@
+The phytohormone abscisic acid (ABA) is important for the plant growth and development, in which it plays a key role in the responses to drought stress. Among the core components of ABA signaling, SnRK2s interact with a range of proteins, including Raf-like MAP3Ks. In this study, we isolated the pepper MEKK subfamily member CaMEKK23 that interacts with CaSnRK2.6. CaMEKK23 has kinase activity and is specifically trans-phosphorylated by CaSnRK2.6. Compared with control plants, CaMEKK23-silenced pepper were found to be sensitive to drought stress and insensitive to ABA, whereas overexpression of CaMEKK23 in both pepper and Arabidopsis plants induced the opposite phenotypes. These altered phenotypes were established to be dependent on the kinase activity of CaMEKK23, which was also shown to interact with CaPP2Cs, functioning upstream of CaSnRK2.6. In addition to inhibiting the kinase activity of CaMEKK23, these CaPP2Cs were found to have inhibitory effects on CaSnRK2.6. Using CaMEKK23-, CaAITP1/CaMEKK23-, CaSnRK2.6-, and CaAITP1/CaSnRK2.6-silenced pepper, we revealed that CaMEKK23 and CaSnRK2.6 function downstream of CaAITP1. Collectively, our findings indicate that CaMEKK23 plays a positive regulatory role in the ABA-mediated drought stress responses in pepper plants, and that its phosphorylation status is modulated by CaSnRK2.6 and CaPP2Cs, functioning as core components of ABA signaling.
+
+CaMEKK23: !interacts with! CaSnRK2.6
+CaMEKK23: !modulated by! CaSnRK2.6
+CaMEKK23: !modulated by! CaPP2Cs
+CaAITP1: !regulates! CaMEKK23
+CaAITP1: !regulates! CaSnRK2.6

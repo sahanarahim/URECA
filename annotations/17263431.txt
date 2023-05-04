@@ -1,0 +1,9 @@
+['17263431', 'At1g78500, one of the oxidosqualene cyclase (OSC) homologues from Arabidopsis  thaliana, was expressed in a lanosterol synthase-deficient yeast strain and the  products were analyzed. In addition to the known triterpenes, this OSC was found  to produce two new triterpenes, the structures of which were determined by NMR  and MS analyses. The new triterpenes are C-ring-seco-beta-amyrin (1) and  C-ring-seco-alpha-amyrin (2) and named beta-seco-amyrin and alpha-seco-amyrin,  respectively. beta-seco-Amyrin is produced from the oleanyl cation through bond  cleavage between C8 and C14, and alpha-seco-amyrin is produced from the ursanyl  cation in the same manner. Together with Grob fragmentation catalyzed by another  OSC (marneral synthase) from A. thaliana, the formation of seco-amyrins by this  OSC revealed that OSCs not only catalyze carbon-carbon bond formations and  Wagner-Meerwein rearrangements but also cleave preformed ring systems in cationic  intermediates. Based on this information, direct production of other natural  seco-triterpenes by OSCs is proposed.', '2007 Feb 7', 'J Am Chem Soc', '10.1021/ja066873w', 'Ebizuka']
+
+At1g78500: !produces! beta-seco-amyrin 
+At1g78500: !produces! alpha-seco-amyrin 
+beta-seco-amyrin: !produced from! oleanyl cation 
+alpha-seco-amyrin: !produced from! ursanyl cation 
+OSC: !catalyzes! carbon-carbon bond formations 
+OSC: !catalyzes! Wagner-Meerwein rearrangements 
+OSC: !cleaves! preformed ring systems

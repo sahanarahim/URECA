@@ -1,0 +1,10 @@
+In Cichorium intybus, inulin metabolism is mediated by fructan-active enzymes (FAZYs): sucrose:sucrose 1-fructosyltransferase (1-SST), fructan:fructan 1-fructosyltransferase (1-FFT), and fructan 1-exohydrolases 1, 2a and 2b (1-FEH1, -2a and -2b), respectively. While these enzymes have been rigorously characterized, the transcriptional network orchestrating their development- and stress-related expression has remained largely unknown. Here, the possible role of R2R3-MYB transcription factors in FAZY regulation was explored via bioinformatic identification of R2R3-MYBs (using an RNA sequencing (RNAseq) database), studies of co-expression of these factors with target genes, in vivo transient transactivation assays of FAZY target promoters (dual luciferase assay), and a yeast one-hybrid assay investigating the specificity of the binding of these factors to cis-elements. The chicory MYB transcription factor CiMYB17 specifically activated promoters of 1-SST and 1-FFT by binding to the consensus DNA-motif DTTHGGT. Unexpectedly, CiMYB17 also activated promoters of fructan exohydrolase genes. The stimulatory effect on promoter activities of sucrose transporter and cell wall invertase genes points to a general role in regulating the source-sink relationship. Co-induction of CiMYB17 with 1-SST and 1-FFT (and, less consistently, with 1-FEH1/2) in nitrogen-starved or abscisic acid (ABA)-treated chicory seedlings and in salt-stressed chicory hairy roots supports a role in stress-induced fructan metabolism, including de novo fructan synthesis and trimming of pre-existing fructans, whereas the reduced expression of CiMYB17 in developing taproots excludes a role in fructan accumulation under normal growth conditions.
+
+CiMYB17: !activates! 1-SST and 1-FFT
+CiMYB17: !activates! 1-FEH1/2
+CiMYB17: !activates! sucrose transporter and cell wall invertase genes
+CiMYB17: !co-induces with! 1-SST and 1-FFT
+CiMYB17: !co-induces with! 1-FEH1/2
+CiMYB17: !regulates! source-sink relationship
+CiMYB17: !regulates! stress-induced fructan metabolism
+CiMYB17: !excludes role in! fructan accumulation under normal growth conditions

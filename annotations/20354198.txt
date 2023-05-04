@@ -1,0 +1,12 @@
+Higher plants monitor their ambient light signals through red/far-red absorbing phytochromes and blue/UV-A light absorbing cryptochromes. Subsequent signaling cascades alter gene expression and initiate morphogenic responses. We previously isolated SHORT HYPOCOTYL UNDER BLUE1 (SHB1), a putative transcriptional coactivator in light signaling. SHB1 is homologous to the SYG1 protein family and contains an N-terminal SPX domain and a C-terminal EXS domain. Overaccumulation of the SPX domain caused a long hypocotyl phenotype similar to that of shb1-D under red, far-red, or blue light. By contrast, overaccumulation of the C-terminal EXS domain led to a short hypocotyl phenotype similar to that of shb1 under blue light. The N-terminal SPX domain was associated with a smaller protein complex than the native protein complex associated with endogenous SHB1. By contrast, the EXS domain was associated with a slightly smaller protein complex than the native protein complex, but it largely displaced endogenous SHB1 from its native protein complex. In addition, all six missense mutations that we identified from a suppressor screen were clustered within or close to the SPX domain, and these mutations impaired the assembly of the SHB1-containing protein complex. We propose that both SPX and EXS domains likely anchor SHB1 to a protein complex, and the SPX domain is critical for SHB1 signaling.
+
+phytochromes: !monitor! ambient light signals 
+cryptochromes: !monitor! ambient light signals 
+SHB1: !contains! SPX domain 
+SHB1: !contains! EXS domain 
+SPX domain: !causes! long hypocotyl phenotype 
+EXS domain: !causes! short hypocotyl phenotype 
+SPX domain: !associated with! smaller protein complex 
+EXS domain: !associated with! slightly smaller protein complex 
+missense mutations: !clustered within! SPX domain 
+mutations: !impair! assembly of SHB1-containing protein complex

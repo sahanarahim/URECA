@@ -1,0 +1,9 @@
+['10358052', 'A UV response that involves the Ras proteins and AP-1 transcription factors has  recently been described in mammals and yeast. To test whether an equivalent  response exists in plants, we monitored the expression of Arabidopsis histidinol  dehydrogenase gene (HDH), a homologue of the yeast HIS4 gene, which is strongly  induced by UV light and is a target of the transcriptional activator Gcn4. We  show that HDH mRNA levels increase specifically in response to UV-B light. Only  small increases were detected upon exposure to other wavelengths. To isolate  plant genes involved in this UV response, a gcn4 mutant was transfected with an  Arabidopsis thaliana cDNA library. A new type of nucleotide diphosphate kinase  (NDPK Ia) with a significant homology to the human tumor suppressor protein Nm23  rescued the gcn4 phenotype. NDPK Ia specifically binds to the HIS4 promoter in  vitro and induces HIS4 transcription in yeast. In Arabidopsis, the NDPK Ia  protein is located in the nucleus and cytosol. Expression studies in seedlings  revealed that the level of NDPK Ia mRNA, like that of HDH, increases in response  to UV-B light. It appears that NDPK Ia and HDH are components of a novel  UV-responsive pathway in A. thaliana.', '1999 Jun 11', 'J Biol Chem', '10.1074/jbc.274.24.17017', 'Frohnmeyer']
+
+Ras proteins: !interact with! AP-1 transcription factors
+Gcn4: !induces! HDH mRNA
+NDPK Ia: !rescues! gcn4 phenotype
+NDPK Ia: !binds to! HIS4 promoter
+NDPK Ia: !located in! nucleus and cytosol
+NDPK Ia: !increases in response to! UV-B light
+HDH: !increases in response to! UV-B light

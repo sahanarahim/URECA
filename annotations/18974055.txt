@@ -1,0 +1,12 @@
+['18974055', 'The NAD(P)H dehydrogenase (NDH) complex functions in photosystem I cyclic  electron transfer in higher plant chloroplasts and is crucial for plant responses  to environmental stress. Chloroplast NDH complex is a close relative to  cyanobacterial NDH-1L complex, and all fifteen subunits so far identified in  NDH-1L have homologs in the chloroplast NDH complex. Here we report on the  identification of two nuclear-encoded proteins NDH48 and NDH45 in higher plant  chloroplasts and show their intimate association with the NDH complex. These two  membrane proteins are shown to interact with each other and with the NDH complex  enriched in stroma thylakoids. Moreover, the deficiency of either the NDH45  protein or the NDH48 protein in respective mutant plants leads to severe defects  in both the accumulation and the function of the NDH complex. The NDH48 and NDH45  proteins are not components of the hydrophilic connecting domain of the NDH  complex but are strongly attached to the hydrophobic membrane domain. We conclude  that NDH48 and NDH45 are novel nuclear-encoded subunits of the chloroplast NDH  complex and crucial both for the stable structure and function of the NDH  complex.', '2009 Jan 9', 'J Biol Chem', '10.1074/jbc.M805404200', 'Aro']
+
+NDH48: !interacts with! NDH45 
+NDH45: !interacts with! NDH48 
+NDH48: !interacts with! NDH complex 
+NDH45: !interacts with! NDH complex 
+NDH48: !deficiency of! mutant plants 
+NDH45: !deficiency of! mutant plants 
+NDH48: !attached to! hydrophobic membrane domain 
+NDH45: !attached to! hydrophobic membrane domain 
+NDH48: !crucial for! stable structure and function of NDH complex 
+NDH45: !crucial for! stable structure and function of NDH complex

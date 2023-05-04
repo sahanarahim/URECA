@@ -1,0 +1,10 @@
+In natural environments, plants are exposed to diverse microbiota that they interact with in complex ways. While plant-pathogen interactions have been intensely studied to understand defense mechanisms in plants, many microbes and microbial communities can have substantial beneficial effects on their plant host. Such beneficial effects include improved acquisition of nutrients, accelerated growth, resilience against pathogens, and improved resistance against abiotic stress conditions such as heat, drought, and salinity. However, the beneficial effects of bacterial strains or consortia on their host are often cultivar and species specific, posing an obstacle to their general application. Remarkably, many of the signals that trigger plant immune responses are molecularly highly similar and often identical in pathogenic and beneficial microbes. Thus, it is unclear what determines the outcome of a particular microbe-host interaction and which factors enable plants to distinguish beneficials from pathogens. To unravel the complex network of genetic, microbial, and metabolic interactions, including the signaling events mediating microbe-host interactions, comprehensive quantitative systems biology approaches will be needed.
+
+microbe: !interacts with! plant
+microbe: !enhances! nutrient acquisition
+microbe: !accelerates! growth
+microbe: !increases! resilience
+microbe: !improves! resistance
+microbe: !triggers! immune responses
+signal: !determines! outcome
+signal: !enables! distinction

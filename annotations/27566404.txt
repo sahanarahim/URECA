@@ -1,0 +1,10 @@
+Receptor-like kinase FERONIA (FER) plays a crucial role in plant response to small molecule hormones [e.g., auxin and abscisic acid (ABA)] and peptide signals [e.g., rapid alkalinization factor (RALF)]. It remains unknown how FER integrates these different signaling events in the control of cell growth and stress responses. Under stress conditions, increased levels of ABA will inhibit cell elongation in the roots. In our previous work, we have shown that FER, through activation of the guanine nucleotide exchange factor 1 (GEF1)/4/10-Rho of Plant 11 (ROP11) pathway, enhances the activity of the phosphatase ABA Insensitive 2 (ABI2), a negative regulator of ABA signaling, thereby inhibiting ABA response. In this study, we found that both RALF and ABA activated FER by increasing the phosphorylation level of FER. The FER loss-of-function mutant displayed strong hypersensitivity to both ABA and abiotic stresses such as salt and cold conditions, indicating that FER plays a key role in ABA and stress responses. We further showed that ABI2 directly interacted with and dephosphorylated FER, leading to inhibition of FER activity. Several other ABI2-like phosphatases also function in this pathway, and ABA-dependent FER activation required PYRABACTIN RESISTANCE (PYR)/PYR1-LIKE (PYL)/REGULATORY COMPONENTS OF ABA RECEPTORS (RCAR)-A-type protein phosphatase type 2C (PP2CA) modules. Furthermore, suppression of RALF1 gene expression, similar to disruption of the FER gene, rendered plants hypersensitive to ABA. These results formulated a mechanism for ABA activation of FER and for cross-talk between ABA and peptide hormone RALF in the control of plant growth and responses to stress signals.
+
+FER: !activates! GEF1/4/10-Rho of Plant 11 (ROP11)
+FER: !enhances! ABA Insensitive 2 (ABI2)
+ABA: !activates! FER
+RALF: !activates! FER
+FER: !interacts with! ABI2
+ABI2: !dephosphorylates! FER
+PYRABACTIN RESISTANCE (PYR)/PYR1-LIKE (PYL)/REGULATORY COMPONENTS OF ABA RECEPTORS (RCAR): !modulates! ABA-dependent FER activation
+RALF1: !suppresses! FER activity

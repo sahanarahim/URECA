@@ -1,0 +1,10 @@
+['29681137', 'A hierarchy of transcriptional regulators controlling lateral root formation in  Arabidopsis thaliana has been identified, including the AUXIN RESPONSE FACTOR 7  (ARF7)/ARF19-LATERAL ORGAN BOUNDARIES DOMAIN 16 (LBD16)/LBD18 transcriptional  network; however, their feedback regulation mechanisms are not known. Here we  show that LBD18 controls ARF activity using the dual mode of a positive feedback  loop. We showed that ARF7 and ARF19 directly bind AuxRE in the LBD18 promoter. A  variety of molecular and biochemical experiments demonstrated that LBD18 binds a  specific DNA motif in the ARF19 promoter to regulate its expression in vivo as  well as in vitro. LBD18 interacts with ARFs including ARF7 and ARF19 via the Phox  and Bem1 domain of ARF to enhance the transcriptional activity of ARF7 on AuxRE,  and competes with auxin/indole-3-acetic acid (IAA) repressors for ARF binding,  overriding the negative feedback loop exerted by Aux/IAA repressors. Taken  together, these results show that LBD18 and ARFs form a double positive feedback  loop, and that LBD18 uses the dual mode of a positive feedback loop by binding  directly to the ARF19 promoter and through the protein-protein interactions with  ARF7 and ARF19. This novel mechanism of feedback loops may constitute a robust  feedback mechanism that ensures continued lateral root growth in response to  auxin in Arabidopsis.', '2018 Jul', 'Plant J', '10.1111/tpj.13945', 'Kim']
+
+ARF7: !interacts with! LBD18 
+ARF19: !interacts with! LBD18 
+LBD18: !binds! AuxRE 
+LBD18: !binds! ARF19 promoter 
+LBD18: !interacts with! ARF7 
+ARF7: !enhances! transcriptional activity of ARF7 on AuxRE 
+Aux/IAA repressors: !compete with! ARF binding 
+LBD18: !forms! double positive feedback loop

@@ -1,0 +1,14 @@
+FtsH protease is important in chloroplast biogenesis and thylakoid maintenance. Although bacteria contain only one essential FTSH gene, multiple genes exist in cyanobacteria and higher plants. However, the functional significance of FTSH multiplication in plants is unclear. We hypothesized that some FTSH genes may be redundant. To test this hypothesis, we generated double mutant combinations among the different FTSH genes in Arabidopsis thaliana. A double mutant of ftsh1 and ftsh8 showed no obvious phenotypic alterations, and disruption of either FTSH1 or FTSH5 enhanced the phenotype of the ftsh2 mutant. Unexpectedly, new phenotypes were recovered from crosses between ftsh2 and ftsh8 and between ftsh5 and ftsh1, including albinism, heterotrophy, disruption of flowering, and severely reduced male fertility. These results suggest that the duplicated genes, FTSH1 and FTSH5 (subunit type A) and FTSH2 and FTSH8 (subunit type B), are redundant. Furthermore, they reveal that the presence of two types of subunits is essential for complex formation, photosystem II repair, and chloroplast biogenesis.
+
+FtsH1: !interacts with! FtsH5
+FtsH2: !interacts with! FtsH8
+FtsH1: !enhances! FtsH2 mutant phenotype
+FtsH5: !enhances! FtsH2 mutant phenotype
+FtsH2: !synthesizes! albinism
+FtsH8: !synthesizes! albinism
+FtsH2: !synthesizes! heterotrophy
+FtsH8: !synthesizes! heterotrophy
+FtsH2: !synthesizes! disruption of flowering
+FtsH8: !synthesizes! disruption of flowering
+FtsH2: !synthesizes! reduced male fertility
+FtsH8: !synthesizes! reduced male fertility

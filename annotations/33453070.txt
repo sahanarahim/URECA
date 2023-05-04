@@ -1,0 +1,8 @@
+Pre-mRNA splicing is an essential step for the regulation of gene expression. In order to specifically capture splicing variants in plants for genome-wide association studies (GWAS), we developed a software tool to quantify and visualise Variations of Splicing in Population (VaSP). VaSP can quantify splicing variants from short-read RNA-seq datasets and discover genotype-specific splicing (GSS) events, which can be used to prioritise causal pre-mRNA splicing events in GWAS. We applied our method to an RNA-seq dataset with 328 samples from 82 genotypes from a rice diversity panel exposed to optimal and saline growing conditions. In total, 764 significant GSS events were identified in salt stress conditions. GSS events were used as markers for a GWAS with the shoot Na<sup>+</sup> accumulation, which identified six GSS events in five genes significantly associated with the shoot Na<sup>+</sup> content. Two of these genes, OsNUC1 and OsRAD23 emerged as top candidate genes with splice variants that exhibited significant divergence between the variants for shoot growth under salt stress conditions. VaSP is a versatile tool for alternative splicing analysis in plants and a powerful tool for prioritising candidate causal pre-mRNA splicing and corresponding genomic variations in GWAS.
+
+VaSP: !quantifies! Splicing Variants 
+VaSP: !discovers! Genotype-Specific Splicing Events 
+GSS Events: !used as markers for! GWAS 
+GWAS: !identifies! GSS Events 
+OsNUC1/OsRAD23: !emerge as top candidate genes with! Splice Variants 
+Splice Variants: !exhibit significant divergence between! Shoot Growth Under Salt Stress Conditions

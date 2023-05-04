@@ -1,0 +1,7 @@
+Legumes acquire fixed nitrogen (N) from the soil and through endosymbiotic association with diazotrophic bacteria. However, establishing and maintaining N2-fixing nodules are expensive for the host plant, relative to taking up N from the soil. Therefore, plants suppress symbiosis when N is plentiful and enhance symbiosis when N is sparse. Here, we show that the nitrate transporter MtNRT2.1 is required for optimal nodule establishment in Medicago truncatula under low-nitrate conditions and the repression of nodulation under high-nitrate conditions. The NIN-like protein (NLP) MtNLP1 is required for MtNRT2.1 expression and regulation of nitrate uptake/transport under low- and high-nitrate conditions. Under low nitrate, the gene encoding the C-terminally encoded peptide (CEP) MtCEP1 was more highly expressed, and the exogenous application of MtCEP1 systemically promoted MtNRT2.1 expression in a compact root architecture 2 (MtCRA2)-dependent manner. The enhancement of nodulation by MtCEP1 and nitrate uptake were both impaired in the Mtnrt2.1 mutant under low nitrate. Our study demonstrates that nitrate uptake by MtNRT2.1 differentially affects nodulation at low- and high-nitrate conditions through the actions of MtCEP1 and MtNLP1.
+
+MtNRT2.1: !regulates! nodulation 
+MtNLP1: !regulates! MtNRT2.1 
+MtCEP1: !promotes! MtNRT2.1 
+MtCRA2: !mediates! MtCEP1 
+Mtnrt2.1: !impairs! MtCEP1

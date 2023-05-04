@@ -1,0 +1,8 @@
+Color changes often accompany the onset of ripening, leading to brightly colored fruits that serve as attractants to seed-dispersing organisms. In many fruits, including tomato (Solanum lycopersicum) and pepper (Capsicum annuum), there is a sharp decrease in chlorophyll content and a concomitant increase in the synthesis of carotenoids as a result of the conversion of chloroplasts into chromoplasts. The green-flesh (gf) and chlorophyll retainer (cl) mutations of tomato and pepper, respectively, are inhibited in their ability to degrade chlorophyll during ripening, leading to the production of ripe fruits characterized by both chlorophyll and carotenoid accumulation and are thus brown in color. Using a positional cloning approach, we have identified a point mutation at the gf locus that causes an amino acid substitution in an invariant residue of a tomato homolog of the STAY-GREEN (SGR) protein of rice (Oryza sativa). Similarly, the cl mutation also carries an amino acid substitution at an invariant residue in a pepper homolog of SGR. Both GF and CL expression are highly induced at the onset of fruit ripening, coincident with the ripening-associated decline in chlorophyll. Phylogenetic analysis indicates that there are two distinct groups of SGR proteins in plants. The SGR subfamily is required for chlorophyll degradation and operates through an unknown mechanism. A second subfamily, which we have termed SGR-like, has an as-yet undefined function.
+
+gene: !affects! chlorophyll degradation
+gene: !synthesizes! carotenoids
+gene: !localizes to! tomato and pepper
+gene: !interacts with! SGR protein
+gene: !enhances! ripening-associated decline in chlorophyll
+gene: !represses! green-flesh and chlorophyll retainer mutations

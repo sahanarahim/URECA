@@ -1,0 +1,13 @@
+Rapid nondestructive testing of peanut seed vigor is of great significance in current research. Before seeds are sown, effective screening of high-quality seeds for planting is crucial to improve the quality of crop yield, and seed vitality is one of the important indicators to evaluate seed quality, which can represent the potential ability of seeds to germinate quickly and whole and grow into normal seedlings or plants. Meanwhile, the advantage of nondestructive testing technology is that the seeds themselves will not be damaged. In this study, hyperspectral technology and superoxide dismutase activity were used to detect peanut seed vigor. To investigate peanut seed vigor and predict superoxide dismutase activity, spectral characteristics of peanut seeds in the wavelength range of 400-1000 nm were analyzed. The spectral data are processed by a variety of hot spot algorithms. Spectral data were preprocessed with Savitzky-Golay (SG), multivariate scatter correction (MSC), and median filtering (MF), which can effectively to reduce the effects of baseline drift and tilt. CatBoost and Gradient Boosted Decision Tree were used for feature band extraction, the top five weights of the characteristic bands of peanut seed vigor classification are 425.48nm, 930.8nm, 965.32nm, 984.0nm, and 994.7nm. XGBoost, LightGBM, Support Vector Machine and Random Forest were used for modeling of seed vitality classification. XGBoost and partial least squares regression were used to establish superoxide dismutase activity value regression model. The results indicated that MF-CatBoost-LightGBM was the best model for peanut seed vigor classification, and the accuracy result was 90.83%. MSC-CatBoost-PLSR was the optimal regression model of superoxide dismutase activity value. The results show that the R<sup>2</sup> was 0.9787 and the RMSE value was 0.0566. The results suggested that hyperspectral technology could correlate the external manifestation of effective peanut seed vigor.
+
+Hyperspectral technology: !correlates! external manifestation of effective peanut seed vigor
+Savitzky-Golay: !reduces! effects of baseline drift and tilt
+Multivariate scatter correction: !reduces! effects of baseline drift and tilt
+Median filtering: !reduces! effects of baseline drift and tilt
+CatBoost: !used for! feature band extraction
+Gradient Boosted Decision Tree: !used for! feature band extraction
+XGBoost: !used for! modeling of seed vitality classification
+LightGBM: !used for! modeling of seed vitality classification
+Support Vector Machine: !used for! modeling of seed vitality classification
+Random Forest: !used for! modeling of seed vitality classification
+Partial least squares regression: !used for! superoxide dismutase activity value regression model

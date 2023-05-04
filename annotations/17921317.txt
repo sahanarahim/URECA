@@ -1,0 +1,14 @@
+['17921317', 'Many biochemical approaches show functions of calcium-dependent protein kinases  (CDPKs) in abscisic acid (ABA) signal transduction, but molecular genetic  evidence linking defined CDPK genes with ABA-regulated biological functions at  the whole-plant level has been lacking. Here, we report that ABA stimulated two  homologous CDPKs in Arabidopsis thaliana, CPK4 and CPK11. Loss-of-function  mutations of CPK4 and CPK11 resulted in pleiotropic ABA-insensitive phenotypes in  seed germination, seedling growth, and stomatal movement and led to salt  insensitivity in seed germination and decreased tolerance of seedlings to salt  stress. Double mutants of the two CDPK genes had stronger ABA- and  salt-responsive phenotypes than the single mutants. CPK4- or CPK11-overexpressing  plants generally showed inverse ABA-related phenotypes relative to those of the  loss-of-function mutants. Expression levels of many ABA-responsive genes were  altered in the loss-of-function mutants and overexpression lines. The CPK4 and  CPK11 kinases both phosphorylated two ABA-responsive transcription factors, ABF1  and ABF4, in vitro, suggesting that the two kinases may regulate ABA signaling  through these transcription factors. These data provide in planta genetic  evidence for the involvement of CDPK/calcium in ABA signaling at the whole-plant  level and show that CPK4 and CPK11 are two important positive regulators in  CDPK/calcium-mediated ABA signaling pathways.', '2007 Oct', 'Plant Cell', '10.1105/tpc.107.050666', 'Zhang']
+
+CPK4: !stimulated by! ABA 
+CPK11: !stimulated by! ABA 
+CPK4: !phosphorylates! ABF1 
+CPK4: !phosphorylates! ABF4 
+CPK11: !phosphorylates! ABF1 
+CPK11: !phosphorylates! ABF4 
+CPK4: !regulates! ABA signaling 
+CPK11: !regulates! ABA signaling 
+CPK4: !causes! ABA-insensitive phenotypes 
+CPK11: !causes! ABA-insensitive phenotypes 
+CPK4: !overexpression leads to! inverse ABA-related phenotypes 
+CPK11: !overexpression leads to! inverse ABA-related phenotypes

@@ -1,0 +1,11 @@
+Predicting plant growth is a fundamental challenge that can be employed to analyze plants and further make decisions to have healthy plants with high yields. Deep learning has recently been showing its potential to address this challenge in recent years, however, there are still two issues. First, image-based plant growth prediction is currently taken either from time series or image generation viewpoints, resulting in a flexible learning framework and clear predictions, respectively. Second, deep learning-based algorithms are notorious to require a large-scale dataset to obtain a competing performance but collecting enough data is time-consuming and expensive. To address the issues, we consider the plant growth prediction from both viewpoints with two new time-series data augmentation algorithms. To be more specific, we raise a new framework with a length-changeable time-series processing unit to generate images flexibly. A generative adversarial loss is utilized to optimize our model to obtain high-quality images. Furthermore, we first recognize three key points to perform time-series data augmentation and then put forward T-Mixup and T-Copy-Paste. T-Mixup fuses images from a different time pixel-wise while T-Copy-Paste makes new time-series images with a different background by reusing individual leaves extracted from the existing dataset. We perform our method in a public dataset and achieve superior results, such as the generated RGB images and instance masks securing an average PSNR of 27.53 and 27.62, respectively, compared to the previously best 26.55 and 26.92.
+
+Deep Learning: !addresses! Plant Growth Prediction 
+Time Series: !generates! Flexible Learning Framework 
+Image Generation: !results in! Clear Predictions 
+Data Augmentation Algorithms: !raises! New Framework 
+Length-Changeable Time-Series Processing Unit: !generates! Images Flexibly 
+Generative Adversarial Loss: !optimizes! Model 
+T-Mixup: !fuses! Images from Different Time Pixel-Wise 
+T-Copy-Paste: !makes! New Time-Series Images with Different Background 
+Public Dataset: !achieves! Superior Results

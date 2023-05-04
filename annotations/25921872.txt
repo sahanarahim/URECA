@@ -1,0 +1,10 @@
+Plastid ClpT1 and ClpT2 are plant-specific proteins that associate with the ClpPR protease. However, their physiological significance and structures are not understood. Arabidopsis thaliana loss-of-function single clpt1 and clpt2 mutants showed no visible phenotypes, whereas clpt1 clpt2 double mutants showed delayed development, reduced plant growth, and virescent, serrated leaves but were viable and produced seed. The clpt1 and clpt1 clpt2 mutants showed partial destabilization of the ClpPR complex, whereas clpt2 null mutants showed only marginal destabilization. Comparative proteomics of clpt1 clpt2 plants showed a proteostasis phenotype similar to viable mutants in ClpPR core subunits, indicating reduced Clp protease capacity. In vivo and in vitro assays showed that ClpT1 and ClpT2 can independently interact with the single ClpP ring and ClpPR core, but not with the single ClpR ring. We determined ClpT1 and ClpT2 structures (2.4- and 2.0-Å resolution) and detailed the similarities to the N-domains of bacterial ClpA/C chaperones. The ClpT structures suggested a conserved MYFF motif for interaction with the ClpPR core near the interface between the P- and R-rings. In vivo complementation showed that ClpT function and ClpPR core stabilization require the MYFF motif. Several models are presented that may explain how ClpT1,2 contribute to ClpPR protease activity.
+
+ClpT1: !associates with! ClpPR protease
+ClpT1: !interacts with! ClpP ring
+ClpT1: !interacts with! ClpPR core
+ClpT2: !associates with! ClpPR protease
+ClpT2: !interacts with! ClpP ring
+ClpT2: !interacts with! ClpPR core
+ClpT1/2: !require! MYFF motif
+ClpT1/2: !stabilize! ClpPR core

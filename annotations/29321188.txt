@@ -1,0 +1,9 @@
+Plants in dense vegetation compete for resources and detect competitors through reflection of far-red (FR) light from surrounding plants. This reflection causes a reduced red (R):FR ratio, which is sensed through phytochromes. Low R:FR induces shade avoidance responses of the shoot and also changes the root system architecture, although this has received little attention so far. Here, we investigate the molecular mechanisms through which light detection in the shoot regulates root development in <i>Arabidopsis thaliana</i> We do so using a combination of microscopy, gene expression, and mutant study approaches in a setup that allows root imaging without exposing the roots to light treatment. We show that low R:FR perception in the shoot decreases the lateral root (LR) density by inhibiting LR emergence. This decrease in LR emergence upon shoot FR enrichment is regulated by phytochrome-dependent accumulation of the transcription factor ELONGATED HYPOCOTYL5 (HY5) in the LR primordia. HY5 regulates LR emergence by decreasing the plasma membrane abundance of PIN-FORMED3 and LIKE-AUX1 3 auxin transporters. Accordingly, FR enrichment reduces the auxin signal in the overlaying cortex cells, and this reduces LR outgrowth. This shoot-to-root communication can help plants coordinate resource partitioning under competition for light in high density fields.
+
+phytochrome: !senses! Low R:FR 
+Low R:FR: !induces! Shade avoidance responses 
+Shade avoidance responses: !regulates! Root development 
+HY5: !accumulates! In LR primordia 
+HY5: !decreases! PIN-FORMED3 and LIKE-AUX1 3 auxin transporters 
+FR enrichment: !reduces! Auxin signal in cortex cells 
+Auxin signal: !reduces! LR outgrowth

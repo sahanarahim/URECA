@@ -1,0 +1,11 @@
+Reproductive success of plants greatly depends on the proper timing of the floral transition, which is precisely controlled by a complex genetic network. <i>FLOWERING LOCUS C</i> (<i>FLC</i>), a central floral repressor, is transcriptionally activated by the FRIGIDA (FRI) activator complex including FLC EXPRESSOR (FLX) and FLX-LIKE 4 (FLX4). C-TERMINAL DOMAIN PHOSPHATASE-LIKE 3 (CPL3) forms a protein complex with FLX and FLX4 to mediate the dephosphorylation of FLX4, thereby promoting <i>FLC</i> expression to repress flowering in both winter and summer annuals. Here, we show that CPL2 acts redundantly with CPL3 to mediate <i>FLC</i> activation and flowering time. Similar to CPL3, CPL2 inhibits the floral transition, and is required for basal <i>FLC</i> expression in summer annuals and <i>FLC</i> activation in winter annuals. CPL2 directly interacts with FLX which further bridges the interaction between CPL2 and FLX4. Our results suggest that CPL2 and CPL3 function redundantly in regulating <i>FLC</i> expression to prevent precocious flowering.
+
+FLC: !represses! Flowering
+FRI: !activates! FLC
+FLX: !interacts with! FLX4
+FLX: !interacts with! CPL3
+FLX4: !dephosphorylated by! CPL3
+CPL2: !redundantly functions with! CPL3
+CPL2: !interacts with! FLX
+CPL2: !inhibits! Floral transition
+CPL2: !required for! Basal FLC expression

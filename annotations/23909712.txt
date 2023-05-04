@@ -1,0 +1,7 @@
+Circadian clocks confer advantages by restricting biological processes to certain times of day through the control of specific phased outputs. Control of temperature signalling is an important function of the plant oscillator, but the architecture of the gene network controlling cold signalling by the clock is not well understood. Here we use a model ensemble fitted to time-series data and a corrected Akaike Information Criterion (AICc) analysis to extend a dynamic model to include the control of the key cold-regulated transcription factors C-REPEAT BINDING FACTORs 1-3 (CBF1, CBF2, CBF3). AICc was combined with in silico analysis of genetic perturbations in the model ensemble, and selected a model that predicted mutant phenotypes and connections between evening-phased circadian clock components and CBF3 transcriptional control, but these connections were not shared by CBF1 and CBF2. In addition, our model predicted the correct gating of CBF transcription by cold only when the cold signal originated from the clock mechanism itself, suggesting that the clock has an important role in temperature signal transduction. Our data shows that model selection could be a useful method for the expansion of gene network models.
+
+Clock: !controls! Temperature Signalling
+AICc: !combined with! In Silico Analysis
+Model Ensemble: !fitted to! Time-Series Data
+CBF1/2/3: !controlled by! Evening-Phased Clock Components
+Cold Signal: !originates from! Clock Mechanism

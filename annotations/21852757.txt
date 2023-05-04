@@ -1,0 +1,8 @@
+Two component high affinity nitrate transport system, NAR2/NRT2, has been defined in several plant species. In Arabidopsis, AtNAR2.1 has a role in the targeting of AtNRT2.1 to the plasma membrane. The gene knock out mutant atnar2.1 lacks inducible high-affinity transport system (IHATS) activity, it also shows the same inhibition of lateral root (LR) initiation on the newly developed primary roots as the atnrt2.1 mutant in response to low nitrate supply. In rice, OsNAR2.1 interacts with OsNRT2.1, OsNRT2.2 and OsNRT2.3a to provide nitrate uptake over high and low concentration ranges. In rice roots OsNAR2.1 and its partner NRT2s show some expression differences in both tissue specificity and abundance. It can be predicted that NAR2 plays multiple roles in addition to being an IHATS component in plants.
+
+AtNAR2.1: !affects! AtNRT2.1
+AtNAR2.1: !inhibits! LR initiation
+OsNAR2.1: !interacts with! OsNRT2.1
+OsNAR2.1: !interacts with! OsNRT2.2
+OsNAR2.1: !interacts with! OsNRT2.3a
+OsNAR2.1: !shows expression differences! tissue specificity

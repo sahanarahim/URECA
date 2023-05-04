@@ -1,0 +1,14 @@
+Closing gaps in our current knowledge about biological pathways is a fundamental challenge. The development of novel computational methods along with high-throughput experimental data carries the promise to help in the challenge. We present an algorithm called MORPH (for module-guided ranking of candidate pathway genes) for revealing unknown genes in biological pathways. The method receives as input a set of known genes from the target pathway, a collection of expression profiles, and interaction and metabolic networks. Using machine learning techniques, MORPH selects the best combination of data and analysis method and outputs a ranking of candidate genes predicted to belong to the target pathway. We tested MORPH on 230 known pathways in Arabidopsis thaliana and 93 known pathways in tomato (Solanum lycopersicum) and obtained high-quality cross-validation results. In the photosynthesis light reactions, homogalacturonan biosynthesis, and chlorophyll biosynthetic pathways of Arabidopsis, genes ranked highly by MORPH were recently verified to be associated with these pathways. MORPH candidates ranked for the carotenoid pathway from Arabidopsis and tomato are derived from pathways that compete for common precursors or from pathways that are coregulated with or regulate the carotenoid biosynthetic pathway.
+
+Gene: !affects! Process 
+Gene: !localizes to! X 
+Gene: !interacts with! Y 
+Gene: !enhances! Z 
+Gene: !represses! U 
+Gene: !synthesizes! I 
+Process: !revealed by! MORPH 
+MORPH: !uses! Machine Learning Techniques 
+Pathway: !contains! Known Genes 
+Pathway: !predicts! Candidate Genes 
+Candidate Genes: !verified by! Recent Experiments 
+Competing Pathways: !share! Common Precursors

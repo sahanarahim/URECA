@@ -1,0 +1,8 @@
+Interest in the structure and function of physical biological networks has spurred the development of a number of theoretical models that predict optimal network structures across a broad array of taxonomic groups, from mammals to plants. In many cases, direct tests of predicted network structure are impossible given the lack of suitable empirical methods to quantify physical network geometry with sufficient scope and resolution. There is a long history of empirical methods to quantify the network structure of plants, from roots, to xylem networks in shoots and within leaves. However, with few exceptions, current methods emphasize the analysis of portions of, rather than entire networks. Here, we introduce the Leaf Extraction and Analysis Framework Graphical User Interface (LEAF GUI), a user-assisted software tool that facilitates improved empirical understanding of leaf network structure. LEAF GUI takes images of leaves where veins have been enhanced relative to the background, and following a series of interactive thresholding and cleaning steps, returns a suite of statistics and information on the structure of leaf venation networks and areoles. Metrics include the dimensions, position, and connectivity of all network veins, and the dimensions, shape, and position of the areoles they surround. Available for free download, the LEAF GUI software promises to facilitate improved understanding of the adaptive and ecological significance of leaf vein network structure.
+
+Gene: !affects! Network Structure 
+Network Structure: !quantified by! LEAF GUI 
+LEAF GUI: !returns! Suite of Statistics 
+Statistics: !describe! Dimensions, Position, Connectivity of Veins 
+Veins: !surround! Areoles 
+Areoles: !described by! Dimensions, Shape, Position

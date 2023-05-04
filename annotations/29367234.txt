@@ -1,0 +1,8 @@
+The unfolded protein response (UPR) is a eukaryotic transcriptional regulatory network that is activated upon the accumulation of malformed proteins in the endoplasmic reticulum (ER). In Arabidopsis (<i>Arabidopsis thaliana</i>), three bZIP transcription factors modulate the UPR: bZIP17, bZIP28, and bZIP60. Although bZIP28 and bZIP60 have been relatively well studied, the physiological and transcriptional roles of bZIP17 remain largely unknown. Here, we generated a double knockout mutant of bZIP17 and bZIP28 to elucidate the function of bZIP17. The mutant plant exhibited multiple developmental defects, including markedly reduced root elongation and constantly overinduced bZIP60 activity, indicating the essential roles of bZIP17 and bZIP28 in plant development and UPR modulation. Extended analysis of the transcriptomes of three double knockout mutants of <i>bZIP17</i>, <i>bZIP28</i>, and <i>bZIP60</i> revealed that bZIP28 and bZIP60 are the major activators of the canonical induced UPR. By contrast, bZIP17 functions with bZIP28 to mediate the noninducible expression of multiple genes involved in cell growth, particularly to sustain their expression under stress conditions. Our study reveals pivotal roles of bZIP17 in the plant UPR and vegetative development, with functional redundancy to bZIP28.
+
+bZIP17: !modulates! UPR
+bZIP17: !redundant with! bZIP28
+bZIP17: !mediates! noninducible expression
+bZIP28: !activates! canonical induced UPR
+bZIP60: !activates! canonical induced UPR
+bZIP17: !essential for! plant development

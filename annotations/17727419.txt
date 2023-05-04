@@ -1,0 +1,9 @@
+Plants constantly adapt their leaf orientation in response to fluctuations in the environment, to maintain radiation use efficiency in the face of varying intensity and incidence direction of sunlight. Various methods exist for measuring structural canopy parameters such as leaf angle distribution. However, direct methods tend to be labour-intensive, while indirect methods usually give statistical information on stand level rather than on individual leaves. We present an area-based, binocular stereo system composed of commercially available components that allows three-dimensional reconstruction of small- to medium-sized canopies on the level of single leaves under field conditions. Spatial orientation of single leaves is computed with automated processes using modern, well-established stereo matching and segmentation techniques, which were adapted for the properties of plant canopies, providing high spatial and temporal resolution (angle measurements with an accuracy of approx. +/-5 degrees and a maximum sampling rate of three frames per second). The applicability of our approach is demonstrated in three case studies: (1) the dihedral leaflet angle of an individual soybean was tracked to monitor nocturnal and daytime leaf movement showing different frequencies and amplitudes; (2) drought stress was diagnosed in soybean by quantifying changes in the zenith leaflet angle distribution; and (3) the diurnal course of the zenith leaf angle distribution of a closed soybean canopy was measured.
+
+Environment: !affects! Leaf Orientation 
+Leaf Angle Distribution: !measured by! Direct/Indirect Methods 
+Binocular Stereo System: !comprises of! Commercially Available Components 
+Stereo Matching/Segmentation Techniques: !adapted for! Plant Canopies 
+Soybean: !monitored for! Nocturnal/Daytime Leaf Movement 
+Drought Stress: !diagnosed in! Soybean 
+Zenith Leaf Angle Distribution: !measured for! Closed Soybean Canopy

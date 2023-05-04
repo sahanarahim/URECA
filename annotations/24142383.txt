@@ -1,0 +1,7 @@
+Engulfment and Motility (ELMO) proteins are involved in the regulation of small GTPase activity in eukaryotic organisms, but little is known about ELMO proteins in plants. We isolated the barley ELMO Domain Containing Protein, HvELMOD_C, in a yeast two hybrid screen for proteins interacting with HvMAGAP1 (Microtubule Associated ROP-GTPase Activating Protein 1). HvMAGAP1 is considered as an antagonist of barley RACB, a member of the RHO of plant (ROP) family GTPases, which functions as a susceptibility factor in the interaction of barley with the barley powdery mildew fungus Blumeria graminis f.sp. hordei. HvELMOD_C interacts with the central RHO-GAP domain of HvMAGAP1. Cytoplasmic HvELMOD_C translocates to microtubules on co-expression of HvMAGAP1 but not on co-expression of HvMAGAP1-R185G, a mutant of the catalytically active arginine R185 in the RHO-GAP domain. HvELMOD_C, when simultaneously expressed with HvMAGAP1, abolished the resistance-inducing effect of HvMAGAP1 to B. graminis f.sp. hordei. Therefore, HvELMOD_C might function as a new modulator of HvMAGAP1 and thus ROP activity in barley.
+
+HvELMOD_C: !interacts with! HvMAGAP1 
+HvELMOD_C: !localizes to! microtubules 
+HvELMOD_C: !represses! resistance-inducing effect of HvMAGAP1 
+HvMAGAP1: !activates! ROP activity 
+HvMAGAP1: !interacts with! HvELMOD_C

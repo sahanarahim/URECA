@@ -1,0 +1,18 @@
+The lace plant (Aponogeton madagascariensis) is an aquatic monocot that develops leaves with uniquely formed perforations through the use of a developmentally regulated process called programmed cell death (PCD). The process of perforation formation in lace plant leaves is subdivided into several developmental stages: pre-perforation, window, perforation formation, perforation expansion and mature. The first three emerging "imperforate leaves" do not form perforations, while all subsequent leaves form perforations via developmentally regulated PCD. PCD is active in cells called "PCD cells" that do not retain the antioxidant anthocyanin in spaces called areoles framed by the leaf veins of window stage leaves. Cells near the veins called "NPCD cells" retain a red pigmentation from anthocyanin and do not undergo PCD. While the cellular changes that occur during PCD are well studied, the gene expression patterns underlying these changes and driving PCD during leaf morphogenesis are mostly unknown. We sought to characterize differentially expressed genes (DEGs) that mediate lace plant leaf remodelling and PCD. This was achieved performing gene expression analysis using transcriptomics and comparing DEGs among different stages of leaf development, and between NPCD and PCD cells isolated by laser capture microdissection. Transcriptomes were sequenced from imperforate, pre-perforation, window, and mature leaf stages, as well as PCD and NPCD cells isolated from window stage leaves. Differential expression analysis of the data revealed distinct gene expression profiles: pre-perforation and window stage leaves were characterized by higher expression of genes involved in anthocyanin biosynthesis, plant proteases, expansins, and autophagy-related genes. Mature and imperforate leaves upregulated genes associated with chlorophyll development, photosynthesis, and negative regulators of PCD. PCD cells were found to have a higher expression of genes involved with ethylene biosynthesis, brassinosteroid biosynthesis, and hydrolase activity whereas NPCD cells possessed higher expression of auxin transport, auxin signalling, aspartyl proteases, cysteine protease, Bag5, and anthocyanin biosynthesis enzymes. RNA sequencing was used to generate a de novo transcriptome for A. madagascariensis leaves and revealed numerous DEGs potentially involved in PCD and leaf remodelling. The data generated from this investigation will be useful for future experiments on lace plant leaf development and PCD in planta.
+
+PCD cells: !express! genes involved in ethylene biosynthesis
+PCD cells: !express! genes involved in brassinosteroid biosynthesis
+PCD cells: !express! genes involved in hydrolase activity
+NPCD cells: !express! genes involved in auxin transport
+NPCD cells: !express! genes involved in auxin signalling
+NPCD cells: !express! genes involved in aspartyl proteases
+NPCD cells: !express! genes involved in cysteine protease
+NPCD cells: !express! Bag5
+NPCD cells: !express! anthocyanin biosynthesis enzymes
+pre-perforation leaves: !express! genes involved in anthocyanin biosynthesis
+pre-perforation leaves: !express! plant proteases
+pre-perforation leaves: !express! expansins
+pre-perforation leaves: !express! autophagy-related genes
+mature leaves: !express! genes associated with chlorophyll development
+mature leaves: !express! genes associated with photosynthesis
+mature leaves: !express! negative regulators of PCD

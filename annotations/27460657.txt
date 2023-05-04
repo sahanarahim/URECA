@@ -1,0 +1,7 @@
+The sexine layer of pollen grain is mainly composed of sporopollenins. The sporophytic secretory tapetum is required for the biosynthesis of sporopollenin. Although several enzymes involved in sporopollenin biosynthesis have been reported, the regulatory mechanism of these enzymes in tapetal layer remains elusive. ABORTED MICROSPORES (AMS) and MALE STERILE 188/MYB103/MYB80 (MS188/MYB103/MYB80) are two tapetal cell-specific transcription factors required for pollen wall formation. AMS functions upstream of MS188. Here we report that AMS and MS188 target the CYP703A2 gene, which is involved in sporopollenin biosynthesis. We found that AMS and MS188 were localized in tapetum while CYP703A2 was localized in both tapetum and locule. Chromatin immunoprecipitation (ChIP) showed that MS188 directly bound to the promoter of CYP703A2 and luciferase-inducible assay showed that MS188 activated the expression of CYP703A2. Yeast two-hybrid and electrophoretic mobility shift assays (EMSAs) further demonstrated that MS188 complexed with AMS. The expression of CYP703A2 could be partially restored by the elevated levels of MS188 in the ams mutant. Therefore, our data reveal that MS188 coordinates with AMS to activate CYP703A2 in sporopollenin biosynthesis of plant tapetum.
+
+AMS: !targets! MS188
+MS188: !binds to! CYP703A2
+AMS: !interacts with! MS188
+MS188: !activates! CYP703A2
+AMS: !regulates! CYP703A2

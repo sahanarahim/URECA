@@ -1,0 +1,11 @@
+<i>Cryptomeria fortunei</i> Hooibrenk is an important fast-growing coniferous timber species that is widely used in landscaping. Recently, research on timber quality has gained substantial attention in the field of tree breeding. Wood is the secondary xylem formed by the continuous inward division and differentiation of the vascular cambium; therefore, the development of the vascular cambium is particularly important for wood quality. In this study, we analyzed the transcriptomes of the cambial zone in <i>C. fortunei</i> during different developmental stages using Illumina HiSeq sequencing, focusing on general transcriptome and microRNA (miRNA) data. We performed functional annotation of the differentially expressed genes (DEGs) in the different stages identified by transcriptome sequencing and generated 15 miRNA libraries yielding 4.73 Gb of clean reads. The most common length of the filtered miRNAs was 21nt, accounting for 33.1% of the total filtered reads. We annotated a total of 32 known miRNA families. Some miRNAs played roles in hormone signal transduction (miR159, miR160, and miR166), growth and development (miR166 and miR396), and the coercion response (miR394 and miR395), and degradome sequencing showed potential cleavage sites between miRNAs and target genes. Differential expression of miRNAs and target genes and functional validation of the obtained transcriptome and miRNA data provide a theoretical basis for further elucidating the molecular mechanisms of cellular growth and differentiation, as well as wood formation in the vascular cambium, which will help improve the wood quality of <i>C. fortunei</i>.
+
+miR159: !affects! hormone signal transduction
+miR160: !affects! hormone signal transduction
+miR166: !affects! hormone signal transduction, !enhances! growth and development
+miR396: !enhances! growth and development
+miR394: !enhances! coercion response
+miR395: !enhances! coercion response
+DEGs: !localizes to! cambial zone
+DEGs: !interacts with! miRNAs
+miRNAs: !represses! target genes

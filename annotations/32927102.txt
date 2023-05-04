@@ -1,0 +1,8 @@
+The 5-methylcytosine DNA glycosylase/lyase REPRESSOR OF SILENCING 1 (ROS1)-mediated active DNA demethylation is critical for shaping the genomic DNA methylation landscape in Arabidopsis. Whether and how the stability of ROS1 may be regulated by post-translational modifications is unknown. Using a methylation-sensitive PCR (CHOP-PCR)-based forward genetic screen for Arabidopsis DNA hyper-methylation mutants, we identified the SUMO E3 ligase SIZ1 as a critical regulator of active DNA demethylation. Dysfunction of SIZ1 leads to hyper-methylation at approximately 1000 genomic regions. SIZ1 physically interacts with ROS1 and mediates the SUMOylation of ROS1. The SUMOylation of ROS1 is reduced in siz1 mutant plants. Compared with that in wild-type plants, the protein level of ROS1 is significantly decreased, whereas there is an increased level of ROS1 transcripts in siz1 mutant plants. Our results suggest that SIZ1-mediated SUMOylation of ROS1 promotes its stability and positively regulates active DNA demethylation.
+
+ROS1: !represses! silencing
+SIZ1: !regulates! ROS1
+SIZ1: !interacts with! ROS1
+SIZ1: !mediates! SUMOylation of ROS1
+SUMOylation of ROS1: !promotes! stability
+SUMOylation of ROS1: !positively regulates! active DNA demethylation

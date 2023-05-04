@@ -1,0 +1,8 @@
+Anthocyanin and proanthocyanidin (PA) are important secondary metabolites and beneficial to human health. Their biosynthesis is induced by jasmonate (JA) treatment and regulated by MYB transcription factors (TFs). However, which and how MYB TFs regulate this process is largely unknown in apple. In this study, MdMYB9 and MdMYB11 which were induced by methyl jasmonate (MeJA) were functionally characterized. Overexpression of MdMYB9 or MdMYB11 promoted not only anthocyanin but also PA accumulation in apple calluses, and the accumulation was further enhanced by MeJA. Subsequently, yeast two-hybrid, pull-down and bimolecular fluorescence complementation assays showed that both MYB proteins interact with MdbHLH3. Moreover, Jasmonate ZIM-domain (MdJAZ) proteins interact with MdbHLH3. Furthermore, chromatin immunoprecipitation-quantitative PCR and yeast one-hybrid assays demonstrated that both MdMYB9 and MdMYB11 bind to the promoters of ANS, ANR and LAR, whereas MdbHLH3 is recruited to the promoters of MdMYB9 and MdMYB11 and regulates their transcription. In addition, transient expression assays indicated that overexpression of MdJAZ2 inhibits the recruitment of MdbHLH3 to the promoters of MdMYB9 and MdMYB11. Our findings provide new insight into the mechanism of how MeJA regulates anthocyanin and PA accumulation in apple.
+
+MdMYB9: !interacts with! MdbHLH3
+MdMYB11: !interacts with! MdbHLH3
+MdJAZ: !interacts with! MdbHLH3
+MdbHLH3: !regulates! MdMYB9
+MdbHLH3: !regulates! MdMYB11
+MdJAZ2: !inhibits! MdbHLH3

@@ -1,0 +1,8 @@
+Plants use the regulation of their circadian clock to adapt to daily environmental challenges, particularly water scarcity. During drought, plants accelerate flowering through a process called drought escape (DE) response, which is promoted by the circadian clock component GIGANTEA (GI). GI up-regulates the flowering inducer gene FLOWERING LOCUS T (FT). Phytohormone Abscisic acid (ABA) is also required for drought escape, and both GIGANTEA and Abscisic acid are interdependent in the transition. Recent research has revealed a new mechanism by which GIGANTEA and the protein ENHANCED EM LEVEL form a heterodimer complex that turns on ABA biosynthesis during drought stress by regulating the transcription of 9-CIS-EPOXYCAROTENOID DIOXYGENASE 3 (NCED3). This highlights the close connection between the circadian clock and ABA regulation and reveals a new adaptive strategy for plants to cope with drought and initiates the DE response.
+
+GI: !up-regulates! FT
+GI: !interacts with! ENHANCED EM LEVEL
+ENHANCED EM LEVEL: !forms heterodimer complex with! GI
+GI: !regulates transcription of! NCED3
+ABA: !required for! Drought Escape Response
+GI: !interdependent with! ABA

@@ -1,0 +1,10 @@
+The circadian clock regulates many aspects of leaf gas supply and biochemical demand for CO<sub>2</sub> , and is hypothesized to improve plant performance. Yet the extent to which the clock may regulate the efficiency of photosystem II (PSII) and photoprotective mechanisms such as heat dissipation is less explored. Based on measurements of chlorophyll a fluorescence, we estimated the maximum efficiency of PSII in light (Fv'/Fm') and heat dissipation by nonphotochemical quenching (NPQ). We further dissected total NPQ into its main components, qE (pH-dependent quenching), qT (state-transition quenching), and qI (quenching related to photoinhibition), in clock mutant genotypes of Arabidopsis thaliana, the cognate wild-type genotypes, and a panel of recombinant inbred lines expressing quantitative variation in clock period. Compared with mutants with altered clock function, we observed that wild-type genotypes with clock period lengths of approximately 24 hr had both higher levels of Fv'/Fm', indicative of improved PSII function, and reduced NPQ, suggestive of lower stress on PSII light harvesting complexes. In the recombinant inbred lines, genetic variances were significant for Fv'/Fm' and all 3 components of NPQ, with qE explaining the greatest proportion of NPQ. Bivariate tests of association and structural equation models of hierarchical trait relationships showed that quantitative clock variation was empirically associated with Fv'/Fm' and NPQ, with qE mediating the relationship with gas exchange. The results demonstrate significant segregating variation for all photoprotective components, and suggest the adaptive significance of the clock may partly derive from its regulation of the light reactions of photosynthesis and of photoprotective mechanisms.
+
+clock: !regulates! PSII
+clock: !regulates! photoprotective mechanisms
+Fv'/Fm': !improved by! clock
+NPQ: !reduced by! clock
+qE: !explains! NPQ
+clock: !associated with! Fv'/Fm'
+clock: !associated with! NPQ
+qE: !mediates! gas exchange

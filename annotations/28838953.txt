@@ -1,0 +1,9 @@
+The commercially important essential oils of peppermint (<i>Mentha</i> × <i>piperita</i>) and its relatives in the mint family (Lamiaceae) are accumulated in specialized anatomical structures called glandular trichomes (GTs). A genome-scale stoichiometric model of secretory phase metabolism in peppermint GTs was constructed based on current biochemical and physiological knowledge. Fluxes through the network were predicted based on metabolomic and transcriptomic data. Using simulated reaction deletions, this model predicted that two processes, the regeneration of ATP and ferredoxin (in its reduced form), exert substantial control over flux toward monoterpenes. Follow-up biochemical assays with isolated GTs indicated that oxidative phosphorylation and ethanolic fermentation were active and that cooperation to provide ATP depended on the concentration of the carbon source. We also report that GTs with high flux toward monoterpenes express, at very high levels, genes coding for a unique pair of ferredoxin and ferredoxin-NADP<sup>+</sup> reductase isoforms. This study provides, to our knowledge, the first evidence of how bioenergetic processes determine flux through monoterpene biosynthesis in GTs.
+
+ATP: !regenerates! Ferredoxin 
+Ferredoxin: !reduces! NADP+ 
+Oxidative Phosphorylation: !provides! ATP 
+Ethanolic Fermentation: !provides! ATP 
+Carbon Source: !influences! Cooperation 
+Gene: !expresses! Ferredoxin 
+Gene: !expresses! Ferredoxin-NADP+ Reductase

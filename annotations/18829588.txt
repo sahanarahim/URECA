@@ -1,0 +1,10 @@
+MicroRNAs (miRNAs) are 21 nt RNAs that regulate many biological processes in plants by mediating translational inhibition or cleavage of target transcripts. Arabidopsis mutants defective in miRNA biogenesis have overlapping and highly pleiotropic phenotypes including serrated leaves and ABA hypersensitivity. Recent evidence indicates that miRNA genes are transcribed by RNA polymerase II (Pol II). Since Pol II transcripts are capped, we hypothesized that CBP (cap-binding protein) 20 and 80 may bind to capped primary miRNA (pri-miRNA) transcripts and play a role in their processing. Here, we show that cbp20 and cbp80 mutants have reduced miRNA levels and increased pri-miRNA levels. Co-immunoprecipitation experiments revealed that pri-miRNAs 159, 166, 168 and 172 could be associated with CBP20 and CBP80. We found that CBP20 and CBP80 are stabilized by ABA by a post-translational mechanism, and these proteins are needed for ABA induction of miR159 during seed germination. The lack of miR159 accumulation in ABA-treated seeds of cbp20/80 mutants leads to increased MYB33 and MYB101 transcript levels, and presumably higher levels of these positive regulators result in ABA hypersensitivity. Genetic and molecular analyses show that CBP20 and 80 have overlapping function in the same developmental pathway as SE and HYL1. Our results identify new components in miRNA biogenesis.
+
+CBP20: !binds to! pri-miRNAs
+CBP80: !binds to! pri-miRNAs
+ABA: !stabilizes! CBP20/80
+CBP20/80: !regulate! miRNA biogenesis
+miRNA: !inhibits! target transcripts
+miRNA: !regulates! biological processes
+MYB33/101: !regulated by! miR159
+SE/HYL1: !function in! same pathway as CBP20/80

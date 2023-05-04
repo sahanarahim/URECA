@@ -1,0 +1,9 @@
+As the prevalence of diabetes continues to increase, the number of individuals living with diabetes complications will reach an unprecedented magnitude. Continuous use of some synthetic agents to reduce blood glucose levels causes severe side effects, and thus, the demand for nontoxic, affordable drugs persists. Naturally occurring compounds, such as iminosugars derived from the mulberry (Morus spp.), have been shown to reduce blood glucose levels. In mulberry, 1-deoxynojirimycin (DNJ) is the predominant iminosugar. However, the mechanism underlying DNJ biosynthesis is not completely understood. Here, we showed that DNJ in mulberry is derived from sugar and catalyzed through 2-amino-2-deoxy-D-mannitol (ADM) dehydrogenase MnGutB1. Combining both targeted and nontargeted metabolite profiling methods, DNJ and its precursors ADM and nojirimycin (NJ) were quantified in mulberry samples from different tissues. Purified His-tagged MnGutB1 oxidized the hexose derivative ADM to form the 6-oxo compound DNJ. The mutant MnGutB1 D283N lost this remarkable capability. Furthermore, in contrast to virus-induced gene silencing of MnGutB1 in mulberry leaves that disrupted the biosynthesis of DNJ, overexpression of MnGutB1 in hairy roots and light-induced upregulation of MnGutB1 enhanced DNJ accumulation. Our results demonstrated that hexose derivative ADM, rather than lysine derivatives, is the precursor in DNJ biosynthesis, and it is catalyzed by MnGutB1 to form the 6-oxo compound. These results represent a breakthrough in producing DNJ and its analogs for medical use by metabolic engineering or synthetic biology.
+
+MnGutB1: !catalyzes! ADM to DNJ 
+MnGutB1: !oxidizes! ADM 
+MnGutB1: !mutant! D283N 
+Mulberry: !produces! DNJ 
+Mulberry: !contains! ADM and NJ 
+Virus-induced gene silencing: !disrupts! DNJ biosynthesis 
+Overexpression of MnGutB1: !enhances! DNJ accumulation

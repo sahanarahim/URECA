@@ -1,0 +1,7 @@
+Plant cells face unique challenges to efficiently export cargo from the endoplasmic reticulum (ER) to mobile Golgi stacks. Coat protein complex II (COPII) components, which include two heterodimers of Secretory23/24 (Sec23/24) and Sec13/31, facilitate selective cargo export from the ER; however, little is known about the mechanisms that regulate their recruitment to the ER membrane, especially in plants. Here, we report a protein transport mutant of Arabidopsis thaliana, named maigo5 (mag5), which abnormally accumulates precursor forms of storage proteins in seeds. mag5-1 has a deletion in the putative ortholog of the Saccharomyces cerevisiae and Homo sapiens Sec16, which encodes a critical component of ER exit sites (ERESs). mag mutants developed abnormal structures (MAG bodies) within the ER and exhibited compromised ER export. A functional MAG5/SEC16A-green fluorescent protein fusion localized at Golgi-associated cup-shaped ERESs and cycled on and off these sites at a slower rate than the COPII coat. MAG5/SEC16A interacted with SEC13 and SEC31; however, in the absence of MAG5/SEC16A, recruitment of the COPII coat to ERESs was accelerated. Our results identify a key component of ER export in plants by demonstrating that MAG5/SEC16A is required for protein export at ERESs that are associated with mobile Golgi stacks, where it regulates COPII coat turnover.
+
+Sec23/24: !interacts with! Sec13/31
+Sec16A: !localizes to! ERESs
+Sec16A: !interacts with! Sec13/31
+Sec16A: !regulates! COPII coat turnover
+MAG5/SEC16A: !enhances! protein export

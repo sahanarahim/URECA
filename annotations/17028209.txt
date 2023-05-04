@@ -1,0 +1,8 @@
+['17028209', 'Three genes, BE1, BE2, and BE3, which potentially encode isoforms of starch  branching enzymes, have been found in the genome of Arabidopsis thaliana.  Although no impact on starch structure was observed in null be1 mutants,  modifications in amylopectin structure analogous to those of other branching  enzyme II mutants were detected in be2 and be3. No impact on starch content was  found in any of the single mutant lines. Moreover, three double mutant  combinations were produced (be1 be2, be1 be3, and be2 be3), and the impact of the  mutations on starch content and structure was analyzed. Our results suggest that  BE1 has no apparent function for the synthesis of starch in the leaves, as both  be1 be2 and be1 be3 double mutants display the same phenotype as be2 and be3  separately. However, starch synthesis was abolished in be2 be3, while high levels  of alpha-maltose were assayed in the cytosol. This result indicates that the  functions of both BE2 and BE3, which belong to class II starch branching enzymes,  are largely redundant in Arabidopsis. Moreover, we demonstrate that maltose  accumulation depends on the presence of an active ADP-glucose pyrophosphorylase  and that the cytosolic transglucosidase DISPROPORTIONATING ENZYME2, required for  maltose metabolization, is specific for beta-maltose.', '2006 Oct', 'Plant Cell', '10.1105/tpc.105.037671', "D'Hulst"]
+
+BE1: !has no apparent function! Starch synthesis 
+BE2: !belongs to! Class II starch branching enzymes 
+BE3: !belongs to! Class II starch branching enzymes 
+BE2: !redundant with! BE3 
+Maltose accumulation: !depends on! ADP-glucose pyrophosphorylase 
+DISPROPORTATING ENZYME2: !specific for! beta-maltose

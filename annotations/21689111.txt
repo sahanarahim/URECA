@@ -1,0 +1,8 @@
+Efficient water transport from the soil to the leaves is essential for plant function, while building and maintaining the water transport structure in the xylem require a major proportion of the assimilated carbon of the tree. Xylem transport also faces additional challenges as water in the xylem is under tension and therefore cavitation cannot be completely avoided. We constructed a model that calculates the xylem structure that maximizes carbon-use efficiency while simultaneously taking into account pit structure in increasing the resistance to water transport and constricting the spreading of embolisms. The optimal xylem structure predicted by the model was found to correspond well to the generally observed trends: xylem conduits grew in size from the apex towards the base while simultaneously decreasing in number, and vulnerability to cavitation increased with conduit size. These trends were caused primarily by the axial water potential gradient in the xylem. The pits have to be less porous near the apex where water potential is lower to restrict the spreading of embolisms, while whole-plant carbon-use efficiency demands that conduit size decreases and conduit number increases simultaneously. The model predictions remained qualitatively the same regardless of the exact optimality criterion used for defining carbon-use efficiency.
+
+xylem: !maximizes! Carbon-use efficiency
+axial water potential gradient: !causes! Xylem trends
+pits: !less porous near! Apex
+conduits: !grow in size from! Apex to base
+conduits: !decrease in number from! Apex to base
+vulnerability to cavitation: !increases with! Conduit size

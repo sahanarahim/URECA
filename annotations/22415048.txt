@@ -1,0 +1,7 @@
+The cellular reduction-oxidation (redox) hub processes information from metabolism and the environment and so regulates plant growth and defense through integration with the hormone signaling network. One key pathway of redox control involves interactions with ABSCISIC ACID (ABA). Accumulating evidence suggests that the ABA-INSENSITIVE-4 (ABI4) transcription factor plays a key role in transmitting information concerning the abundance of ascorbate and hence the ability of cells to buffer oxidative challenges. ABI4 is required for the ascorbate-dependent control of growth, a process that involves enhancement of salicylic acid (SA) signaling and inhibition of jasmonic acid (JA) signaling pathways. Low redox buffering capacity reinforces SA- JA- interactions through the mediation of ABA and ABI4 to fine-tune plant growth and defense in relation to metabolic cues and environmental challenges. Moreover, ABI4-mediated pathways of sugar sensitivity are also responsive to the abundance of ascorbate, providing evidence of overlap between redox and sugar signaling pathways.
+
+ABA: !interacts with! ABI4
+ABI4: !enhances! SA signaling
+ABI4: !represses! JA signaling
+ABI4: !mediates! redox buffering capacity
+ABI4: !mediates! sugar sensitivity

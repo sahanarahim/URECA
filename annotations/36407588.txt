@@ -1,0 +1,11 @@
+A YOLOX convolutional neural network-based weeding robot was designed for weed removal in corn seedling fields, while verifying the feasibility of a blue light laser as a non-contact weeding tool. The robot includes a tracked mobile platform module, a weed identification module, and a robotic arm laser emitter module. Five-degree-of-freedom robotic arm designed according to the actual weeding operation requirements to achieve precise alignment of the laser. When the robot is in operation, it uses the texture and shape of the plants to differentiate between weeds and corn seedlings. The robot then uses monocular ranging to calculate the coordinates of the weeds using the triangle similarity principle, and it controls the end actuator of the robotic arm to emit the laser to kill the weeds. At a driving speed of 0.2 m·s<sup>-1</sup> on flat ground, the weed robot's average detection rate for corn seedlings and weeds was 92.45% and 88.94%, respectively. The average weed dry weight prevention efficacy was 85%, and the average seedling injury rate was 4.68%. The results show that the robot can accurately detect weeds in corn fields, and the robotic arm can precisely align the weed position and the blue light laser is effective in removing weeds.
+
+Robot: !identifies! weeds 
+Robot: !calculates coordinates of! weeds 
+Robot: !controls end actuator of! robotic arm 
+Robot: !emits laser to! kill weeds 
+Robot: !has average detection rate of! 92.45% for corn seedlings 
+Robot: !has average detection rate of! 88.94% for weeds 
+Robot: !has average weed dry weight prevention efficacy of! 85% 
+Robot: !has average seedling injury rate of! 4.68% 
+Blue light laser: !is effective in! removing weeds

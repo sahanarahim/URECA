@@ -1,0 +1,9 @@
+Induction of the abscisic acid (ABA) signalling network is associated with various stress conditions, including cold, high salinity and drought. As core ABA signalling components, group A type 2C protein phosphatases (PP2Cs) interact with and inhibit snf1-related protein kinase2s. Here, we isolated and characterised the pepper mitogen-activated protein kinase kinase kinase CaADIK1, which interacts with the group A PP2C CaADIP1. CaADIK1 transcripts were induced by abiotic stresses, and CaADIK1 localised in the nucleus and cytoplasm. We verified that CaADIP1 inhibits the autokinase activity of CaADIK1; moreover, the kinase activity of CaADIK1 is enhanced by drought stress. We performed genetic analysis using CaADIK1-silenced pepper and CaADIK1-overexpressing (OX) Arabidopsis plants. CaADIK1-silenced pepper plants showed drought-sensitive phenotypes, whereas CaADIK1-OX Arabidopsis plants showed ABA-sensitive and drought-tolerant phenotypes. In CaADIK1<sup>K32N</sup> -OX Arabidopsis plants mutated at the ATP-binding site, the ABA-insensitive and drought-sensitive phenotypes were restored. Taken together, our findings show that CaADIK1 positively regulates the ABA-dependent drought stress response and is inhibited by CaADIP1.
+
+CaADIK1: !interacts with! CaADIP1
+CaADIP1: !inhibits! CaADIK1
+CaADIK1: !localizes to! nucleus and cytoplasm
+CaADIK1: !enhances! kinase activity
+CaADIK1-silenced pepper: !shows! drought-sensitive phenotypes
+CaADIK1-OX Arabidopsis: !shows! ABA-sensitive and drought-tolerant phenotypes
+CaADIK1<sup>K32N</sup>-OX Arabidopsis: !restores! ABA-insensitive and drought-sensitive phenotypes

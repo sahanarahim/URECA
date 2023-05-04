@@ -1,0 +1,11 @@
+Due to the lack of cell migration, plant organogenesis relies on coordinated cell proliferation, cell growth, and differentiation. A flower possesses a complex structure, with sepals and petals constituting the perianth, and stamens and pistils where male and female gametophytes differentiate. While advances have been made in our understanding of gene regulatory networks controlling flower development, relatively little is known of how cell-cell coordination influences floral organ specification. The Arabidopsis ERECTA (ER)-family receptor kinases, ER, ER-LIKE1 (ERL1), and ERL2, regulate inflorescence architecture, organ shape, and epidermal stomatal patterning. Here it is reported that ER-family genes together regulate floral meristem organization and floral organ identity. The stem cell marker CLAVATA3 exhibits misplaced expression in the floral meristems of the er erl1 erl2 mutant. Strikingly, homeotic conversion of sepals to carpels was observed in er erl1 erl2 flowers. Consistently, ectopic expression of AGAMOUS, which determines carpel identity, was detected in er erl1 erl2 flower primordia. Among the known downstream components of ER-family receptor kinases in stomatal patterning, YODA (YDA) is also required for proper floral patterning. YDA and the ER-family show complex, synergistic genetic interactions: er erl1 erl2 yda quadruple mutant plants become extremely small, callus-like masses. While a constitutively active YDA fully rescues stomatal clustering in er erl1 erl2, it only partially rescues er erl1 erl2 flower defects. The study suggests that ER-family signalling is crucial for ensuring proper expression domains of floral meristem and floral organ identity determinants, and further implies the existence of a non-canonical downstream pathway.
+
+ER: !regulates! inflorescence architecture
+ER: !regulates! organ shape
+ER: !regulates! epidermal stomatal patterning
+ER: !regulates! floral meristem organization
+ER: !regulates! floral organ identity
+CLAVATA3: !misplaced expression in! er erl1 erl2 mutant
+AGAMOUS: !ectopic expression in! er erl1 erl2 flower primordia
+YDA: !required for! proper floral patterning
+YDA: !synergistic genetic interactions with! ER-family

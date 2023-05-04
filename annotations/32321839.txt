@@ -1,0 +1,9 @@
+Seed dormancy is a natural phenomenon in plants. It ensures that seeds complete the grain-filling stage before germination and prevents germination in unsuitable ecological conditions. In this study, we determined the previously unknown function of the rice (<i>Oryza sativa</i>) gene <i>GERMIN-LIKE PROTEIN 2-1</i> (<i>OsGLP2-1</i>) in seed dormancy. Using artificial microRNA and CRISPR/CAS9 approaches, suppression of <i>OsGLP2-1</i> expression in rice resulted in the release of dormancy in immature seeds. Conversely, overexpression of <i>OsGLP2-1</i> driven by the <i>OsGLP2-1</i> native promoter led to greater seed dormancy. Seed scutellum-specific expression of <i>OsGLP2-1</i> was increased by exogenous abscisic acid, but decreased with gibberellic acid treatment. We provide evidence that <i>OsGLP2-1</i> is antagonistically controlled at the transcriptional level by <i>ABA INSENSITIVE5</i> and GAMYB transcription factors. We conclude that <i>OsGLP2-1</i> acts as a buffer, maintaining appropriate equilibrium for the regulation of primary dormancy during seed development in rice.
+
+OsGLP2-1: !affects! Seed dormancy 
+OsGLP2-1: !localizes to! Seed scutellum 
+ABA INSENSITIVE5: !interacts with! OsGLP2-1 
+GAMYB: !interacts with! OsGLP2-1 
+ABA: !enhances! OsGLP2-1 expression 
+Gibberellic acid: !represses! OsGLP2-1 expression 
+OsGLP2-1: !synthesizes! Buffer for regulation of primary dormancy

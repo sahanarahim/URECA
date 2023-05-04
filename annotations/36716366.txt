@@ -1,0 +1,8 @@
+Colonies of the arboreal turtle ant create networks of trails that link nests and food sources on the graph formed by branches and vines in the canopy of the tropical forest. Ants put down a volatile pheromone on the edges as they traverse them. At each vertex, the next edge to traverse is chosen using a decision rule based on the current pheromone level. There is a bidirectional flow of ants around the network. In a previous field study, it was observed that the trail networks approximately minimize the number of vertices, thus solving a variant of the popular shortest path problem without any central control and with minimal computational resources. We propose a biologically plausible model, based on a variant of the reinforced random walk on a graph, which explains this observation and suggests surprising algorithms for the shortest path problem and its variants. Through simulations and analysis, we show that when the rate of flow of ants does not change, the dynamics converges to the path with the minimum number of vertices, as observed in the field. The dynamics converges to the shortest path when the rate of flow increases with time, so the colony can solve the shortest path problem merely by increasing the flow rate. We also show that to guarantee convergence to the shortest path, bidirectional flow and a decision rule dividing the flow in proportion to the pheromone level are necessary, but convergence to approximately short paths is possible with other decision rules.
+
+Ants: !traverse! Edges 
+Ants: !choose next edge! Decision Rule 
+Decision Rule: !based on! Pheromone Level 
+Flow of Ants: !increases with! Time 
+Flow of Ants: !dividing in proportion to! Pheromone Level 
+Dynamics: !converges to! Shortest Path

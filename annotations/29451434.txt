@@ -1,0 +1,9 @@
+The ELICITIN RESPONSE protein (ELR) from Solanum microdontum can recognize INF1 elicitin of Phytophthora infestans and trigger defense responses. ELR is a receptor-like protein (RLP) that lacks a cytoplasmic signaling domain and is anticipated to require interaction with a signaling-competent receptor-like kinase. SUPPRESSOR OF BIR1-1 (SOBIR1) has been proposed as a general interactor for RLPs involved in immunity and, as such, is a potential interactor for ELR. Here, we investigate whether SOBIR1 is required for response to INF1 and resistance to P. infestans and whether it associates with ELR. Our results show that virus-induced gene silencing of SOBIR1 in Nicotiana benthamiana leads to loss of INF1-triggered cell death and increased susceptibility to P. infestans. Using genetic complementation, we found that the kinase activity of SOBIR1 is required for INF1-triggered cell death. Coimmunoprecipitation experiments showed that ELR constitutively associates with potato SOBIR1 in planta, forming a bipartite receptor complex. Upon INF1 elicitation, this ELR-SOBIR1 complex recruits SERK3 (SOMATIC EMBRYOGENESIS RECEPTOR KINASE 3) leading to downstream signaling activation. Overall, our study shows that SOBIR1 is required for basal resistance to P. infestans and for INF1-triggered cell death and functions as an adaptor kinase for ELR.
+
+ELR: !interacts with! SOBIR1
+SOBIR1: !is required for! INF1-triggered cell death
+SOBIR1: !is required for! resistance to P. infestans
+SOBIR1: !has kinase activity! required for INF1-triggered cell death
+ELR: !forms bipartite receptor complex with! SOBIR1
+ELR-SOBIR1 complex: !recruits! SERK3
+SOBIR1: !functions as adaptor kinase for! ELR

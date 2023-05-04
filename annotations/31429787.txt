@@ -1,0 +1,11 @@
+['31429787', 'BACKGROUND: Circadian rhythms modulate growth and development in all organisms  through interlocking transcriptional-translational feedback loops. The  transcriptional loop involves chromatin modifications of central circadian  oscillators in mammals and plants. However, the molecular basis for rhythmic  epigenetic modifications and circadian regulation is poorly understood. RESULTS:  Here we report a feedback relationship between diurnal regulation of circadian  clock genes and histone modifications in Arabidopsis. On one hand, the circadian  oscillators CCA1 and LHY regulate diurnal expression of genes coding for the  eraser (JMJ14) directly and writer (SDG2) indirectly for H3K4me3 modification,  leading to rhythmic H3K4me3 changes in target genes. On the other hand,  expression of circadian oscillator genes including CCA1 and LHY is associated  with H3K4me3 levels and decreased in the sdg2 mutant but increased in the jmj14  mutant. At the genome-wide level, diurnal rhythms of H3K4me3 and another histone  mark H3K9ac are associated with diurnal regulation of 20-30% of the expressed  genes. While the majority (86%) of H3K4me3 and H3K9ac target genes overlap, only  13% of morning-phased and 22% of evening-phased genes had both H3K4me3 and H3K9ac  peaks, suggesting specific roles of different histone modifications in diurnal  gene expression. CONCLUSIONS: Circadian clock genes promote diurnal regulation of  SDG2 and JMJ14 expression, which in turn regulate rhythmic histone modification  dynamics for the clock and its output genes. This reciprocal regulatory module  between chromatin modifiers and circadian clock oscillators orchestrates diurnal  gene expression that governs plant growth and development.', '2019 Aug 20', 'Genome Biol', '10.1186/s13059-019-1777-1', 'ORCID:']
+
+CCA1: !regulates! JMJ14 
+LHY: !regulates! JMJ14 
+SDG2: !regulates! H3K4me3 
+CCA1: !associated with! H3K4me3 
+LHY: !associated with! H3K4me3 
+sdg2: !decreases! CCA1 
+jmj14: !increases! CCA1 
+H3K4me3: !associated with! diurnal gene expression 
+H3K9ac: !associated with! diurnal gene expression

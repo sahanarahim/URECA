@@ -1,0 +1,12 @@
+The germination and polar growth of pollen are prerequisite for double fertilization in plants. The actin cytoskeleton and its binding proteins play pivotal roles in pollen germination and pollen tube growth. Two homologs of the actin-bundling protein fimbrin, AtFIM4 and AtFIM5, are highly expressed in pollen in Arabidopsis and can form distinct actin architectures in vitro, but how they co-operatively regulate pollen germination and pollen tube growth in vivo is largely unknown. In this study, we explored their functions during pollen germination and polar growth. Histochemical analysis demonstrated that AtFIM4 was expressed only after pollen grain hydration and, in the early stage of pollen tube growth, the expression level of AtFIM4 was low, indicating that it functions mainly during polarized tube growth, whereas AtFIM5 had high expression levels in both pollen grains and pollen tubes. Atfim4/atfim5 double mutant plants had fertility defects including reduced silique length and seed number, which were caused by severe defects in pollen germination and pollen tube growth. When the atfim4/atfim5 double mutant was complemented with the AtFIM5 protein, the polar growth of pollen tubes was fully rescued; however, AtFIM4 could only partially restore these defects. Fluorescence labeling showed that loss of function of both AtFIM4 and AtFIM5 decreased the extent of actin filament bundling throughout pollen tubes. Collectively, our results revealed that AtFIM4 acts co-ordinately with AtFIM5 to organize and maintain normal actin architecture in pollen grains and pollen tubes to fulfill double fertilization in plants.
+
+AtFIM4: !affects! Pollen germination and polar growth
+AtFIM5: !affects! Pollen germination and polar growth
+AtFIM4: !localizes to! Early stage of pollen tube growth
+AtFIM5: !localizes to! Pollen grains and tubes
+AtFIM4: !interacts with! AtFIM5
+AtFIM5: !interacts with! AtFIM4
+AtFIM4/AtFIM5: !represses! Fertility defects
+AtFIM5: !enhances! Polar growth of pollen tubes
+AtFIM4: !partially restores! Defects
+AtFIM4/AtFIM5: !decreases! Actin filament bundling

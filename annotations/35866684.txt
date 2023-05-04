@@ -1,0 +1,8 @@
+Identifying trait-associated genes is critical for rice (Oryza sativa) improvement, which usually relies on map-based cloning, quantitative trait locus analysis, or genome-wide association studies. Here we show that trait-associated genes tend to form modules within rice gene co-expression networks, a feature that can be exploited to discover additional trait-associated genes using reverse genetics. We constructed a rice gene co-expression network based on the graphical Gaussian model using 8,456 RNA-seq transcriptomes, which assembled into 1,286 gene co-expression modules functioning in diverse pathways. A number of the modules were enriched with genes associated with agronomic traits, such as grain size, grain number, tiller number, grain quality, leaf angle, stem strength, and anthocyanin content, and these modules are considered to be trait-associated gene modules. These trait-associated gene modules can be used to dissect the genetic basis of rice agronomic traits and to facilitate the identification of trait genes. As an example, we identified a candidate gene, OCTOPUS-LIKE 1 (OsOPL1), a homolog of the Arabidopsis (Arabidopsis thaliana) OCTOPUS gene, from a grain size module and verified it as a regulator of grain size via functional studies. Thus, our network represents a valuable resource for studying trait-associated genes in rice.
+
+Gene: !affects! Trait
+Gene: !localizes to! Module
+Gene: !interacts with! Co-expression network
+Gene: !enhances! Rice improvement
+Gene: !represses! Graphical Gaussian model
+Gene: !synthesizes! OsOPL1

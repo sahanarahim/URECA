@@ -1,0 +1,13 @@
+Stomatal conductance (g<sub>s</sub> ) and mesophyll conductance (g<sub>m</sub> ) represent major constraints to photosynthetic rate (A), and these traits are expected to coordinate with leaf hydraulic conductance (K<sub>leaf</sub> ) across species, under both steady-state and dynamic conditions. However, empirical information about their coordination is scarce. In this study, K<sub>leaf</sub> , gas exchange, stomatal kinetics, and leaf anatomy in 10 species including ferns, gymnosperms, and angiosperms were investigated to elucidate the correlation of H<sub>2</sub> O and CO<sub>2</sub> diffusion inside leaves under varying light conditions. Gas exchange, K<sub>leaf</sub> , and anatomical traits varied widely across species. Under light-saturated conditions, the A, g<sub>s</sub> , g<sub>m</sub> , and K<sub>leaf</sub> were strongly correlated across species. However, the response patterns of A, g<sub>s</sub> , g<sub>m</sub> , and K<sub>leaf</sub> to varying light intensities were highly species dependent. Moreover, stomatal opening upon light exposure of dark-adapted leaves in the studied ferns and gymnosperms was generally faster than in the angiosperms; however, stomatal closing in light-adapted leaves after darkening was faster in angiosperms. The present results show that there is a large variability in the coordination of leaf hydraulic and gas exchange parameters across terrestrial plant species, as well as in their responses to changing light.
+
+A: !correlates with! g<sub>s</sub> 
+A: !correlates with! g<sub>m</sub> 
+A: !correlates with! K<sub>leaf</sub> 
+g<sub>s</sub>: !varies with! species
+g<sub>m</sub>: !varies with! species
+K<sub>leaf</sub>: !varies with! species
+g<sub>s</sub>: !responds to! light intensity
+g<sub>m</sub>: !responds to! light intensity
+K<sub>leaf</sub>: !responds to! light intensity
+ferns/gymnosperms: !open faster than! angiosperms
+angiosperms: !close faster than! ferns/gymnosperms

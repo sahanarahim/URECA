@@ -1,0 +1,12 @@
+Arabidopsis (Arabidopsis thaliana) cyclic nucleotide-gated ion channels (CNGCs) form a large family consisting of 20 members and have been implicated in Ca(2+) signaling related to various physiological processes, such as pathogen defense, development, and thermotolerance. The null mutant of AtCNGC2, defense, no death (dnd1), exhibits autoimmune phenotypes, while it is impaired in mounting the hypersensitive response, which is a hallmark of effector-triggered (i.e. RESISTANCE-gene mediated) resistance. It has been suggested that AtCNGC2 is involved in defense responses and likely other aspects of physiology through its role as a Ca(2+)-conducting channel. However, the downstream signaling components and its relation with AtCNGC4, which is the closest paralog of AtCNGC2, remain elusive. Despite the fact that cngc4 mutants display almost identical phenotypes to those seen in cngc2 mutants, not much is known about their relationship. Here, we report the identification and characterization of the Arabidopsis mutant repressor of defense no death1 (rdd1), obtained from a suppressor screen of a transfer DNA insertion knockout mutant of AtCNGC2 in order to identify downstream components of dnd1-mediated signal transduction. rdd1 suppressed the majority of dnd1-mediated phenotypes except Ca(2+) hypersensitivity. In addition, rdd1 also suppressed the dnd1-mediated late-flowering phenotype that was discovered in this study. Our genetic analysis conducted to elucidate the relationship between AtCNGC2 and AtCNGC4 indicates that RDD1 is also involved in AtCNGC4-mediated signal transduction. Lastly, bimolecular fluorescence complementation analysis suggests that AtCNGC2 and AtCNGC4 are likely part of the same channel complex.
+
+AtCNGC2: !implicated in! Ca(2+) signaling
+AtCNGC2: !interacts with! AtCNGC4
+AtCNGC2: !regulated by! RDD1
+AtCNGC2: !part of! channel complex
+AtCNGC4: !implicated in! Ca(2+) signaling
+AtCNGC4: !regulated by! RDD1
+AtCNGC4: !interacts with! AtCNGC2
+AtCNGC4: !part of! channel complex
+RDD1: !regulates! AtCNGC2
+RDD1: !regulates! AtCNGC4

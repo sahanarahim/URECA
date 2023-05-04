@@ -1,0 +1,11 @@
+Single-cell bisulfite sequencing (scBS-seq) was developed to assess DNA methylation heterogeneity in human and mouse. However, the reads are under-represented in regions with high DNA methylation, because these regions are usually fragmented into long segments and are seldom sequenced on the Illumina platform. To reduce the read distribution bias and maximize the use of these long segments, we developed bisulfite-converted randomly integrated fragments sequencing (BRIF-seq), a method with high rates of read mapping and genome coverage. Single microspore of maize, which has a highly methylated and repetitive genome, was used to perform BRIF-seq. High coverage of the haploid genome was obtained to evaluate the methylation states of CG, CHG, and CHH (H = A, C, or T). Compared with scBS-seq, BRIF-seq produced reads that were distributed more evenly across the genome, including regions with high DNA methylation. Surprisingly, the methylation rates among the four microspores within one tetrad were similar, but differed significantly among tetrads, suggesting that non-simultaneous methylation reprogramming could occur among tetrads. Similar levels of heterogeneity, which often occur in low-copy regions, were detected in different genetic backgrounds. These results suggest that BRIF-seq can be applied for single-cell methylome analysis of any species with diverse genetic backgrounds.
+
+scBS-seq: !assesses! DNA methylation
+BRIF-seq: !maximizes! use of long segments
+microspore: !used to perform! BRIF-seq
+CG, CHG, CHH: !evaluates! methylation states
+BRIF-seq: !produces reads! distributed evenly
+methylation rates: !similar among! microspores
+methylation rates: !differ significantly among! tetrads
+heterogeneity: !detected in! different genetic backgrounds
+BRIF-seq: !applied for! single-cell methylome analysis

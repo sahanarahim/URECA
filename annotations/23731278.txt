@@ -1,0 +1,8 @@
+Photoperiodic flowering is a major factor determining crop performance and is controlled by interactions between environmental signals and the circadian clock. We proposed Hvlux1, an ortholog of the Arabidopsis circadian gene LUX ARRHYTHMO, as a candidate underlying the early maturity 10 (eam10) locus in barley (Hordeum vulgare L.). The link between eam10 and Hvlux1 was discovered using high-throughput sequencing of enriched libraries and segregation analysis. We conducted functional, phylogenetic, and diversity studies of eam10 and HvLUX1 to understand the genetic control of photoperiod response in barley and to characterize the evolution of LUX-like genes within barley and across monocots and eudicots. We demonstrate that eam10 causes circadian defects and interacts with the photoperiod response gene Ppd-H1 to accelerate flowering under long and short days. The results of phylogenetic and diversity analyses indicate that HvLUX1 was under purifying selection, duplicated at the base of the grass clade, and diverged independently of LUX-like genes in other plant lineages. Taken together, these findings contribute to improved understanding of the barley circadian clock, its interaction with the photoperiod pathway, and evolution of circadian systems in barley and across monocots and eudicots.
+
+eam10: !interacts with! Ppd-H1
+Hvlux1: !underlies! eam10
+Hvlux1: !causes! circadian defects
+Hvlux1: !was under! purifying selection
+Hvlux1: !duplicated at! base of grass clade
+Hvlux1: !diverged independently of! LUX-like genes

@@ -1,0 +1,16 @@
+Over the last two decades, many carotenogenic genes have been cloned and used to generate metabolically engineered plants producing higher levels of carotenoids. However, comparatively little is known about the regulation of endogenous carotenogenic genes in higher plants, and this restricts our ability to predict how engineered plants will perform in terms of carotenoid content and composition. During petal development in the Great Yellow Gentian (Gentiana lutea), carotenoid accumulation, the formation of chromoplasts and the upregulation of several carotenogenic genes are temporally coordinated. We investigated the regulatory mechanisms responsible for this coordinated expression by isolating five G. lutea carotenogenic gene (GlPDS, GlZDS, GlLYCB, GlBCH and GlLYCE) promoters by inverse polymerase chain reaction (PCR). Each promoter was sufficient for developmentally regulated expression of the gusA reporter gene following transient expression in tomato (Solanum lycopersicum cv. Micro-Tom). Interestingly, the GlLYCB and GlBCH promoters drove high levels of gusA expression in chromoplast-containing mature green fruits, but low levels in chloroplast-containing immature green fruits, indicating a strict correlation between promoter activity, tomato fruit development and chromoplast differentiation. As well as core promoter elements such as TATA and CAAT boxes, all five promoters together with previously characterized GlZEP promoter contained three common cis-regulatory motifs involved in the response to methyl jasmonate (CGTCA) and ethylene (ATCTA), and required for endosperm expression (Skn-1_motif, GTCAT). These shared common cis-acting elements may represent binding sites for transcription factors responsible for co-regulation. Our data provide insight into the regulatory basis of the coordinated upregulation of carotenogenic gene expression during flower development in G. lutea.
+
+GlPDS: !regulates! gusA
+GlZDS: !regulates! gusA
+GlLYCB: !regulates! gusA
+GlBCH: !regulates! gusA
+GlLYCE: !regulates! gusA
+TATA box: !binds to! GlPDS
+CAAT box: !binds to! GlPDS
+CGTCA: !binds to! GlPDS
+ATCTA: !binds to! GlPDS
+Skn-1_motif: !binds to! GlPDS
+GTCAT: !binds to! GlPDS
+chromoplast: !induces! GlLYCB
+chloroplast: !inhibits! GlLYCB
+transcription factor: !binds to! GlPDS

@@ -1,0 +1,14 @@
+The avirulence gene ACE1 from the rice blast fungus Magnaporthe grisea encodes a polyketide synthase (PKS) fused to a nonribosomal peptide synthetase (NRPS) probably involved in the biosynthesis of a secondary metabolite recognized by Pi33 resistant rice (Oryza sativa) cultivars. Analysis of the M. grisea genome revealed that ACE1 is located in a cluster of 15 genes, of which 14 are potentially involved in secondary metabolism as they encode enzymes such as a second PKS-NRPS (SYN2), two enoyl reductases (RAP1 and RAP2) and a putative Zn(II)(2)Cys(6) transcription factor (BC2). These 15 genes are specifically expressed during penetration into the host plant, defining an infection-specific gene cluster. A pORF3-GFP transcriptional fusion showed that the highly expressed ORF3 gene from the ACE1 cluster is only expressed in appressoria, as is ACE1. Phenotypic analysis of deletion or disruption mutants of SYN2 and RAP2 showed that they are not required for avirulence in Pi33 rice cultivars, unlike ACE1. Inactivation of other genes was unsuccessful because targeted gene replacement and disruption were inefficient at this locus. Overall, the ACE1 gene cluster displays an infection-specific expression pattern restricted to the penetration stage which is probably controlled at the transcriptional level and reflects regulatory networks specific to early stages of infection.
+
+ACE1: !encodes! PKS-NRPS 
+SYN2: !encodes! PKS-NRPS 
+RAP1: !encodes! enoyl reductase 
+RAP2: !encodes! enoyl reductase 
+BC2: !encodes! Zn(II)(2)Cys(6) transcription factor 
+ACE1: !localizes to! infection-specific gene cluster 
+ORF3: !localizes to! infection-specific gene cluster 
+ACE1: !expressed in! appressoria 
+ORF3: !expressed in! appressoria 
+SYN2: !not required for! avirulence 
+RAP2: !not required for! avirulence 
+ACE1: !required for! avirulence

@@ -1,0 +1,11 @@
+['14523248', 'Dynamin-related proteins are high molecular weight GTP binding proteins and have  been implicated in various biological processes. Here, we report the functional  characterization of two dynamin homologs in Arabidopsis, Arabidopsis dynamin-like  1C (ADL1C) and Arabidopsis dynamin-like 1E (ADL1E). ADL1C and ADL1E show a high  degree of amino acid sequence similarity with members of the dynamin family.  However, both proteins lack the C-terminal Pro-rich domain and the pleckstrin  homology domain. Expression of the dominant-negative mutant ADL1C[K48E] in  protoplasts obtained from leaf cells caused abnormal mitochondrial elongation.  Also, a T-DNA insertion mutation at the ADL1E gene caused abnormal mitochondrial  elongation that was rescued by the transient expression of ADL1C and ADL1E in  protoplasts. In immunohistochemistry and in vivo targeting experiments in  Arabidopsis protoplasts, ADL1C and ADL1E appeared as numerous speckles and the  two proteins colocalized. These speckles were partially colocalized with  F1-ATPase-gamma:RFP, a mitochondrial marker, and ADL2b localized at the tip of  mitochondria. These results suggest that ADL1C and ADL1E may play a critical role  in mitochondrial fission in plant cells.', '2003 Oct', 'Plant Cell', '10.1105/tpc.015222', 'Hwang']
+
+ADL1C: !affects! mitochondrial elongation 
+ADL1E: !affects! mitochondrial elongation 
+ADL1C: !localizes to! speckles 
+ADL1E: !localizes to! speckles 
+ADL1C: !interacts with! ADL1E 
+ADL1E: !interacts with! ADL1C 
+ADL1C: !colocalizes with! F1-ATPase-gamma:RFP 
+ADL1E: !colocalizes with! F1-ATPase-gamma:RFP 
+ADL2b: !localizes to! tip of mitochondria

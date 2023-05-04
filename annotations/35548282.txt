@@ -1,0 +1,7 @@
+Brassinosteroid-Insensitive 1-Associated Receptor Kinase 1 (BAK1) is a versatile kinase involved in many different plant developmental responses. Previously, we showed that BAK1 interacts with open stomata 1 (OST1), a cytoplasmic kinase, to promote abscisic acid (ABA)-induced stomatal closure. ABA is a plant hormone that primarily regulates stress responses and is recognized by the PYRABACTIN RESISTANCE1 (PYR1)/PYR1-LIKE (PYL)/REGULATORY COMPONENT OF ABA RECEPTORS (RCAR), which activates ABA signaling. Here, we demonstrated that BAK1 interacts with PYR1 and phosphorylates PYR1 in response to ABA in plants. We identified T137 and S142 of PYR1 as the phosphosites targeted by BAK1. Using phosphomimetic (PYR1DD) and phospho-dead (PYR1AA) PYR1 compared with wild-type PYR1, we showed that transgenic plants overexpressing a phosphomimetic PYR1 exhibited hypersensitivity to the inhibition of ABA-induced root growth and seed germination and increased ABA-induced stomatal closure and ABA-inducible gene expression. As underlying reasons for these phenomena, we further demonstrated that phosphorylated PYR1 existed in a monomeric form, in which ABA binding was increased, and the degree of complex formation with ABI1 was also increased. These results suggest that BAK1 positively modulates ABA signaling through interaction with PYR1, in addition to OST1.
+
+BAK1: !interacts with! OST1
+BAK1: !interacts with! PYR1
+PYR1: !phosphorylated by! BAK1
+PYR1: !binds to! ABA
+PYR1: !forms complex with! ABI1

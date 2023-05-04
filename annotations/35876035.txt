@@ -1,0 +1,10 @@
+NGATHA-Like 1 (NGAL1) transcription factor has been identified as a gene regulated through AUG-stop-mediated boron (B)-dependent translation stall; however, its function in B response remains unknown. Here, we show that NGAL1 plays an important role in the maintenance of B transport under both low- and high-B conditions in Arabidopsis thaliana. NGAL1 mRNA is accumulated predominantly in shoots in response to B stress. Independent ngal1 mutants carrying transferred DNA (T-DNA) and Ds-transposon insertions exhibit reduced B concentrations in aerial tissues and produce shortened and reduced number of siliques when B supply is limited. Furthermore, the expression of B transporter genes including nodulin 26-like intrinsic protein 6; 1 (NIP6;1), NIP5;1, NIP7;1 and borate exporter 1 (BOR1) is significantly decreased in ngal1 mutants under low-B condition, suggesting that NGAL1 is required for the transcript accumulation of B transporter genes to facilitate B transport and distribution under B limitation. Under high-B condition, ngal1 mutants exhibit reduced growth and increased B concentration in their shoots. The accumulation of BOR4 mRNA, a B transporter required for B efflux to soil, is significantly reduced in roots of ngal1 plants under high-B condition, suggesting that NGAL1 is involved in the upregulation of BOR4 in response to excess B. Together, our results indicate that NGAL1 is involved in the transcriptional regulation of B transporter genes to facilitate B transport and distribution under both low- and high-B conditions.
+
+NGAL1: !regulates! B transporter genes
+NGAL1: !accumulates in! shoots
+NGAL1: !upregulates! BOR4
+NIP6;1: !regulated by! NGAL1
+NIP5;1: !regulated by! NGAL1
+NIP7;1: !regulated by! NGAL1
+BOR1: !regulated by! NGAL1
+BOR4: !regulated by! NGAL1

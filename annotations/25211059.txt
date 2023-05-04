@@ -1,0 +1,8 @@
+The morphology of roots and root systems influences the efficiency by which plants acquire nutrients and water, anchor themselves and provide stability to the surrounding soil. Plant genotype and the biotic and abiotic environment significantly influence root morphology, growth and ultimately crop yield. The challenge for researchers interested in phenotyping root systems is, therefore, not just to measure roots and link their phenotype to the plant genotype, but also to understand how the growth of roots is influenced by their environment. This review discusses progress in quantifying root system parameters (e.g. in terms of size, shape and dynamics) using imaging and image analysis technologies and also discusses their potential for providing a better understanding of root:soil interactions. Significant progress has been made in image acquisition techniques, however trade-offs exist between sample throughput, sample size, image resolution and information gained. All of these factors impact on downstream image analysis processes. While there have been significant advances in computation power, limitations still exist in statistical processes involved in image analysis. Utilizing and combining different imaging systems, integrating measurements and image analysis where possible, and amalgamating data will allow researchers to gain a better understanding of root:soil interactions.
+
+genotype: !influences! root morphology
+environment: !influences! root morphology
+image acquisition: !impacts! image analysis
+computation power: !limits! statistical processes
+imaging systems: !utilize! measurements
+data: !amalgamate! data

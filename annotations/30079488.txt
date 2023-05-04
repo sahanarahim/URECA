@@ -1,0 +1,13 @@
+Characterizing the natural diversity of gene expression across environments is an important step in understanding how genotype-by-environment interactions shape phenotypes. Here, we analyzed the impact of water deficit onto gene expression levels in tomato at the genome-wide scale. We sequenced the transcriptome of growing leaves and fruit pericarps at cell expansion stage in a cherry and a large fruited accession and their F<sub>1</sub> hybrid grown under two watering regimes. Gene expression levels were steadily affected by the genotype and the watering regime. Whereas phenotypes showed mostly additive inheritance, ~80% of the genes displayed non-additive inheritance. By comparing allele-specific expression (ASE) in the F<sub>1</sub> hybrid to the allelic expression in both parental lines, respectively, 3005 genes in leaf and 2857 genes in fruit deviated from 1:1 ratio independently of the watering regime. Among these genes, ~55% were controlled by cis factors, ~25% by trans factors and ~20% by a combination of both types of factors. A total of 328 genes in leaf and 113 in fruit exhibited significant ASE-by-watering regime interaction, among which ~80% presented trans-by-watering regime interaction, suggesting a response to water deficit mediated through a majority of trans-acting loci in tomato. We cross-validated the expression levels of 274 transcripts in fruit and leaves of 124 recombinant inbred lines (RILs) and identified 163 expression quantitative trait loci (eQTLs) mostly confirming the divergences identified by ASE. Combining phenotypic and expression data, we observed a complex network of variation between genes encoding enzymes involved in the sugar metabolism.
+
+Gene: !affects! Expression levels 
+Genotype: !influences! Expression levels 
+Watering regime: !influences! Expression levels 
+Genotype: !influences! Phenotypes 
+Allele-specific expression: !deviates from! 1:1 ratio 
+Cis factors: !controls! ~55% of genes 
+Trans factors: !controls! ~25% of genes 
+Combination of both: !controls! ~20% of genes 
+ASE: !interacts with! Watering regime 
+Expression levels: !correlates with! Phenotypic data 
+Enzymes: !involved in! Sugar metabolism

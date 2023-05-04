@@ -1,0 +1,8 @@
+The ubiquitin/26S proteasome pathway plays a central role in the degradation of short-lived regulatory proteins to control many cellular events. The Arabidopsis genome contains two genes, AtRPT2a and AtRPT2b, which encode paralog molecules of the RPT2 subunit of 19S proteasome. We demonstrated that mutation of the AtRPT2a gene causes a specific phenotype of enlarged leaves due to increased cell size in correlation with expanded endoreduplication. This phenotype was also observed in the knockout mutant of AtRPT5a, which encodes one of the paralogs of the RPT5 subunit. Taken together, this suggests that a cell size-specific proteasome consisting of AtRPT2a and AtRPT5a is involved in controlling cell size during leaf development.
+
+AtRPT2a: !affects! Cell size
+AtRPT2b: !encodes! RPT2 subunit
+AtRPT2a: !causes! Enlarged leaves
+AtRPT5a: !encodes! RPT5 subunit
+AtRPT5a: !knockout mutant of! AtRPT2a
+AtRPT2a/AtRPT5a: !controls! Cell size

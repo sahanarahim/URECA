@@ -1,0 +1,12 @@
+The phytochrome B (phyB) photoreceptor plays a major role that inputs light signals to regulate seed dormancy and germination. PHYTOCHROME-INTERACTING FACTOR1 (PIF1) is a key transcription factor repressing phyB-mediated seed germination, while REVEILLE1 (RVE1) factor functions as a curial regulator in controlling both seed dormancy and germination. However, the relationship between the PIF1- and RVE1-modulated signaling pathways remains mostly unknown. Here, we find that PIF1 physically interacts with RVE1. Genetic analysis indicates that RVE1 inhibition on seed germination requires PIF1; reciprocally, the repressive effect of PIF1 is partially dependent on RVE1. Strikingly, PIF1 and RVE1 directly bind to the promoter and activate the expression of each other. Furthermore, PIF1 and RVE1 coordinately regulate the transcription of many downstream genes involved in abscisic acid and gibberellin pathways. Moreover, PIF1 enhances the DNA-binding ability and transcriptional repression activity of RVE1 in regulating GIBBERELLIN 3-OXIDASE2, and RVE1 promotes PIF1's DNA-binding ability in modulating ABSCISIC ACID-INSENSITIVE3 expression. Thus, this study demonstrates that PIF1 and RVE1 form a transcriptional feedback loop that coordinately inhibits seed germination, providing a mechanistic understanding of how phyB-mediated light signal is transduced to the seeds.
+
+phyB: !inputs! light signals
+PIF1: !represses! phyB-mediated seed germination
+PIF1: !interacts with! RVE1
+RVE1: !regulates! seed dormancy and germination
+PIF1: !requires! RVE1
+RVE1: !requires! PIF1
+PIF1: !activates! RVE1 expression
+RVE1: !activates! PIF1 expression
+PIF1: !enhances! RVE1 activity
+RVE1: !promotes! PIF1 activity

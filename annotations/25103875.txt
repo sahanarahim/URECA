@@ -1,0 +1,9 @@
+A partner protein, NAR2, is essential for high-affinity nitrate transport of the NRT2 protein in plants. However, the NAR2 motifs that interact with NRT2s for their plasma membrane (PM) localization and nitrate transporter activity have not been functionally characterized. In this study, OsNAR2.1 mutations with different carbon (C)-terminal deletions and nine different point mutations in the conserved regions of NAR2 homologs in plants were generated to explore the essential motifs involved in the interaction with OsNRT2.3a. Screening using the membrane yeast two-hybrid system and Xenopus oocytes for nitrogen-15 ((15)N) uptake demonstrated that either R100G or D109N point mutations impaired the OsNAR2.1 interaction with OsNRT2.3a. Western blotting and visualization using green fluorescent protein fused to either the N- or C-terminus of OsNAR2.1 indicated that OsNAR2.1 is expressed in both the PM and cytoplasm. The split-yellow fluorescent protein (YFP)/BiFC analyses indicated that OsNRT2.3a was targeted to the PM in the presence of OsNAR2.1, while either R100G or D109N mutation resulted in the loss of OsNRT2.3a-YFP signal in the PM. Based on these results, arginine 100 and aspartic acid 109 of the OsNAR2.1 protein are key amino acids in the interaction with OsNRT2.3a, and their interaction occurs in the PM but not cytoplasm.
+
+NAR2: !interacts with! NRT2 
+OsNAR2.1: !interacts with! OsNRT2.3a 
+R100G/D109N: !impairs! OsNAR2.1-OsNRT2.3a interaction 
+OsNAR2.1: !localizes to! PM/cytoplasm 
+OsNRT2.3a: !targeted to! PM by OsNAR2.1 
+R100G/D109N: !results in! loss of OsNRT2.3a-YFP signal in PM 
+R100G/D109N: !key amino acids in! OsNAR2.1-OsNRT2.3a interaction

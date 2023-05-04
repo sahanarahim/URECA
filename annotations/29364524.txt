@@ -1,0 +1,8 @@
+Plants modify their development to adapt to their environment, protecting themselves from detrimental conditions such as chilling stress by triggering a variety of signaling pathways; however, little is known about how plants coordinate developmental patterns and stress responses at the molecular level. Here, we demonstrate that interacting transcription factors OsMADS57 and OsTB1 directly target the defense gene OsWRKY94 and the organogenesis gene D14 to trade off the functions controlling/moderating rice tolerance to cold. Overexpression of OsMADS57 maintains rice tiller growth under chilling stress. OsMADS57 binds directly to the promoter of OsWRKY94, activating its transcription for the cold stress response, while suppressing its activity under normal temperatures. In addition, OsWRKY94 was directly targeted and suppressed by OsTB1 under both normal and chilling temperatures. However, D14 transcription was directly promoted by OsMADS57 for suppressing tillering under the chilling treatment, whereas D14 was repressed for enhancing tillering under normal condition.We demonstrated that OsMADS57 and OsTB1 conversely affect rice chilling tolerance via targeting OsWRKY94. Our findings highlight a molecular genetic mechanism coordinating organogenesis and chilling tolerance in rice, which supports and extends recent work suggesting that chilling stress environments influence organ differentiation.
+
+OsMADS57: !activates! OsWRKY94
+OsTB1: !represses! OsWRKY94
+OsMADS57: !promotes! D14
+OsTB1: !represses! D14
+OsMADS57: !suppresses! tillering
+D14: !enhances! tillering

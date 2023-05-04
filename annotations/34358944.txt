@@ -1,0 +1,8 @@
+AtCYP38, a thylakoid lumen localized immunophilin, is found to be essential for photosystem II assembly and maintenance, but how AtCYP38 functions in chloroplast remains unknown. Based on previous functional studies and its crystal structure, we hypothesize that AtCYP38 should function via binding its targets or cofactors in the thylakoid lumen. To identify potential interacting proteins of AtCYP38, we first adopted ATTED-II and STRING web-tools, and found 12 proteins functionally related to AtCYP38. We then screened a yeast two-hybrid library including an Arabidopsis genome wide cDNA with different domain of AtCYP38, and five thylakoid lumen-localized targets were identified. In order to specifically search interacting proteins of AtCYP38 in the thylakoid lumen, we generated a yeast two-hybrid mini library including the thylakoid lumenal proteins and lumenal fractions of thylakoid membrane proteins, and we obtained six thylakoid membrane proteins and nine thylakoid lumenal proteins as interacting proteins of AtCYP38. The interactions between AtCYP38 and several potential targets were further confirmed via pull-down and co-immunoprecipitation assays. Together, a couple of new potential candidate interacting proteins of AtCYP38 were identified, and the results will lay a foundation for unveiling the regulatory mechanisms in photosynthesis by AtCYP38.
+
+AtCYP38: !binds! targets/cofactors
+ATTED-II/STRING: !identifies! 12 proteins
+Yeast two-hybrid library: !identifies! 5 thylakoid lumen-localized targets
+Yeast two-hybrid mini library: !identifies! 6 thylakoid membrane proteins & 9 thylakoid lumenal proteins
+AtCYP38: !interacts with! potential targets
+Pull-down/co-immunoprecipitation assays: !confirm! interactions

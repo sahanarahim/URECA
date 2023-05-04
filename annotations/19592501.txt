@@ -1,0 +1,14 @@
+In maize (Zea mays), abscisic acid (ABA)-induced H(2)O(2) production activates a 46 kDa mitogen-activated protein kinase (p46MAPK), and the activation of p46MAPK also regulates the production of H(2)O(2). However, the mechanism for the regulation of H(2)O(2) production by MAPK in ABA signalling remains to be elucidated. In this study, four reactive oxygen species (ROS)-producing NADPH oxidase (rboh) genes (ZmrbohA-D) were isolated and characterized in maize leaves. ABA treatment induced a biphasic response (phase I and phase II) in the expression of ZmrbohA-D and the activity of NADPH oxidase. Phase II induced by ABA was blocked by pretreatments with two MAPK kinase (MPKKK) inhibitors and two H(2)O(2) scavengers, but phase I was not affected by these inhibitors or scavengers. Treatment with H(2)O(2) alone also only induced phase II, and the induction was arrested by the MAPKK inhibitors. Furthermore, the ABA-activated p46MAPK was partially purified. Using primers corresponding to the sequences of internal tryptic peptides, the p46MAPK gene was cloned. Analysis of the tryptic peptides and the p46MAPK sequence indicate it is the known ZmMPK5. Treatments with ABA and H(2)O(2) led to a significant increase in the activity of ZmMPK5, although ABA treatment only induced a slight increase in the expression of ZmMPK5. The data indicate that H(2)O(2)-activated ZmMPK5 is involved in the activation of phase II in ABA signalling, but not in phase I. The results suggest that there is a positive feedback loop involving NADPH oxidase, H(2)O(2), and ZmMPK5 in ABA signalling.
+
+ABA: !induces! H2O2
+H2O2: !activates! p46MAPK
+p46MAPK: !regulates! H2O2
+ABA: !induces! ZmrbohA-D
+ZmrbohA-D: !produce! ROS
+MPKKK inhibitors: !block! phase II
+H2O2 scavengers: !block! phase II
+H2O2: !induces! phase II
+MPKKK inhibitors: !arrest! phase II induction
+ABA: !increases! ZmMPK5 activity
+ZmMPK5: !involved in! phase II ABA signalling
+NADPH oxidase: !positive feedback loop with! H2O2 & ZmMPK5

@@ -1,0 +1,6 @@
+Nitrogen is an important macronutrient in plants and its deficiency induces rapid leaf senescence. Two genes, ORE1 and NITROGEN LIMITATION ADAPTATION (NLA), have been implicated in regulating the senescence process but their relationship is unclear<sup>1,2</sup>. Here, we show that nla and pho2 (also known as ubc24) plants develop rapid leaf senescence under nitrogen-starvation condition, whereas ore1 and nla/ore1 and pho2 (ubc24)/ore1 plants stay green. These results suggest that ORE1 acts downstream of NLA and PHO2 (UBC24). NLA interacts with ORE1 in the nucleus and regulates its stability through polyubiquitination using PHO2 (UBC24) as the E2 conjugase. Our findings identified ORE1 as a downstream target of NLA/PHO2 (UBC24) and showed that post-translational regulation of ORE1 levels determines leaf senescence during nitrogen deficiency.
+
+NLA: !interacts with! ORE1
+NLA: !regulates! ORE1
+PHO2 (UBC24): !conjugates! NLA
+PHO2 (UBC24): !regulates! ORE1

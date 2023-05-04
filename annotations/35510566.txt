@@ -1,0 +1,11 @@
+Leaf senescence is controlled by a complex regulatory network in which robustness is ensured by the activity of transcription factors and epigenetic regulators. However, how these coordinate the process of leaf senescence remains poorly understood. We found that WHIRLY1 interacts with Histone Deacetylase (HDA)15, a Reduced Potassium Dependence3 (RPD3)/HDA1-type HDA, by using green fluorescent protein-nanotrap-mass spectrum assays. The development-dependent interaction between WHIRLY1 and HDA15 was further confirmed by bimolecular fluorescence complementation assays and co-immunoprecipitation assays in Arabidopsis. Multi-omics genome-wide transcriptome and H3K9 acetylome enrichment analysis showed that HDA15 delays leaf senescence and flowering by repressing the expression of the positive regulators of leaf senescence and flowering, such as LOX2 and LARP1C, and reducing H3K9ac levels at these loci; WHIRLY1 and HDA15 co-target to the region near the transcription start site of a subset of nutrient recycling-related genes (e.g., Glutathione S-transferases 10, non-coding RNA, and photosystem II protein D1 synthesizer attenuator PDIL1-2), as well as WRKY53 and ELF4, and co-repress their expression by removing H3K9 acetylation. Our study revealed a key transcription regulatory node of nutrient recycling and senescence-associated genes involved in leaf senescence and flowering via the recruitment of HDA15 by the single-stranded DNA/RNA-binding protein WHIRLY1.
+
+WHIRLY1: !interacts with! HDA15
+HDA15: !represses! LOX2
+HDA15: !represses! LARP1C
+WHIRLY1: !co-targets to! Glutathione S-transferases 10
+WHIRLY1: !co-targets to! non-coding RNA
+WHIRLY1: !co-targets to! photosystem II protein D1 synthesizer attenuator PDIL1-2
+WHIRLY1: !co-targets to! WRKY53
+WHIRLY1: !co-targets to! ELF4
+WHIRLY1: !co-represses! expression

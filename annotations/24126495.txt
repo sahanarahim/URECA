@@ -1,0 +1,17 @@
+['24126495', 'Seedling development including hypocotyl elongation is a critical phase in the  plant life cycle. Light regulation of hypocotyl elongation is primarily mediated  through the blue light photoreceptor cryptochrome and red/far-red light  photoreceptor phytochrome signaling pathways, comprising regulators including  COP1, HY5, and phytochrome-interacting factors (PIFs). The novel phytohormones,  strigolactones, also participate in regulating hypocotyl growth. However, how  strigolactone coordinates with light and photoreceptors in the regulation of  hypocotyl elongation is largely unclear. Here, we demonstrate that strigolactone  inhibition of hypocotyl elongation is dependent on cryptochrome and phytochrome  signaling pathways. The photoreceptor mutants cry1 cry2, phyA, and phyB are  hyposensitive to strigolactone analog GR24 under the respective monochromatic  light conditions, while cop1 and pif1 pif3 pif4 pif5 (pifq) quadruple mutants are  hypersensitive to GR24 in darkness. Genetic studies indicate that the enhanced  responsiveness of cop1 to GR24 is dependent on HY5 and MAX2, while that of pifq  is independent of HY5. Further studies demonstrate that GR24 constitutively  up-regulates HY5 expression in the dark and light, whereas GR24-promoted HY5  protein accumulation is light- and cryptochrome and phytochrome  photoreceptor-dependent. These results suggest that the light dependency of  strigolactone regulation of hypocotyl elongation is likely mediated through  MAX2-dependent promotion of HY5 expression, light-dependent accumulation of HY5,  and PIF-regulated components.', '2014 Mar', 'Mol Plant', '10.1093/mp/sst093', 'Yang']
+
+cryptochrome: !mediates! Light regulation 
+phytochrome: !mediates! Light regulation 
+COP1: !mediates! Light regulation 
+HY5: !mediates! Light regulation 
+PIFs: !mediates! Light regulation 
+strigolactone: !coordinates with! Light and photoreceptors 
+cry1 cry2: !hyposensitive to! Strigolactone 
+phyA: !hyposensitive to! Strigolactone 
+phyB: !hyposensitive to! Strigolactone 
+cop1: !hypersensitive to! Strigolactone 
+pif1 pif3 pif4 pif5: !hypersensitive to! Strigolactone 
+GR24: !up-regulates! HY5 
+MAX2: !dependent on! GR24 
+HY5: !dependent on! MAX2 
+PIFs: !regulated by! GR24

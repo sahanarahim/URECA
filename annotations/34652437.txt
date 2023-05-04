@@ -1,0 +1,8 @@
+Reactive oxygen species (ROS) signalling has a multitude of roles in cellular processes throughout biology. We hypothesized that red algal fertilization may offer an interesting model to study ROS-mediated signalling, as the stages of fertilization are complex and unique. We detected the localization of ROS production microscopically and monitored the expression of three homologues of NADPH oxidase in reproductive cells during fertilization. ROS were instantaneously produced by spermatia (sperm) when they attached to female trichogynes, diffused across the cell membrane in the form of H2O2, and triggered ROS generation in the carpogonium (egg) as well as carpogonial branch cells which are not in direct contact with spermatia. The expression of NADPH oxidase homologues, RESPIRATORY BURST OXIDASE HOMOLOGUES (BmRBOHs), began to be up-regulated in the female plant upon gamete binding, peaking during the fertilization process and descending back to their original level after fertilization. Pre-treatment with diphenylene iodonium or caffeine blocked gene expression as well as H2O2 production. Post-fertilization development was also inhibited when the redox state of the plants was perturbed with H2O2 at any time before or after the fertilization. Our results suggest that H2O2 acts as an auto-propagating signalling molecule, possibly through Ca2+ channel activation, and regulates gene expression in fertilization as well as post-fertilization development in red algae.
+
+spermatia: !produces! H2O2 
+H2O2: !diffuses to! carpogonium 
+H2O2: !triggers! ROS generation 
+NADPH oxidase homologues: !up-regulated by! gamete binding 
+diphenylene iodonium/caffeine: !blocks! gene expression 
+H2O2: !regulates! gene expression

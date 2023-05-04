@@ -1,0 +1,9 @@
+Root-knot nematodes (RKNs) are among the most damaging pests of agricultural crops. Meloidogyne is an extremely polyphagous genus of nematodes that can infect thousands of plant species. A few genes for resistance (R-genes) to RKN suitable for use in crop breeding have been identified, but virulent strains and species of RKN have emerged that render these R-genes ineffective. Secretion of RKN effectors targeting plant functions mediates the reprogramming of root cells into specialized feeding cells, the giant cells, essential for RKN development and reproduction. Conserved targets among plant species define the more relevant strategies for controlling nematode infection. The EFFECTOR18 (EFF18) protein from M. incognita interacts with the spliceosomal small nuclear ribonucleoprotein D1 (SmD1) in Arabidopsis (Arabidopsis thaliana), disrupting its function in alternative splicing regulation and modulating the giant cell transcriptome. We show here that EFF18 is a conserved RKN-specific effector that targets this conserved spliceosomal SmD1 protein in Solanaceae. This interaction modulates alternative splicing events produced by tomato (Solanum lycopersicum) in response to M. incognita infection. The alteration of SmD1 expression by virus-induced gene silencing in Solanaceae affects giant cell formation and nematode development. Thus, our work defines a promising conserved SmD1 target gene to develop broad resistance for the control of Meloidogyne spp. in plants.
+
+RKN: !secretes! effectors 
+effectors: !target! plant functions 
+SmD1: !interacts with! EFF18 
+EFF18: !disrupts! SmD1 function 
+SmD1: !modulates! giant cell transcriptome 
+SmD1: !affects! giant cell formation 
+SmD1: !controls! Meloidogyne spp.

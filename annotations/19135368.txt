@@ -1,0 +1,10 @@
+['19135368', 'Chloroplasts evolved from a cyanobacterial endosymbiont, and chloroplast division  requires the formation of an FtsZ division ring, which is descended from the  cytokinetic machinery of cyanobacteria. As in bacteria, the positioning of the  chloroplast FtsZ ring is regulated by the proteins MinD and MinE. However,  chloroplast division also involves mechanisms invented by the eukaryotic host  cell. Here we show that a plant-specific protein MULTIPLE CHLOROPLAST DIVISION  SITE 1 (MCD1) regulates FtsZ ring positioning in Arabidopsis thaliana  chloroplasts. Our analyses show that both MCD1 and MinD are required for  chloroplast division, localizing at the division sites and punctate structures  dispersed on the inner envelope. MinD overexpression inhibited FtsZ ring  formation whereas MCD1 overexpression did not. Localization studies suggest that  MCD1 is required for MinD localization to regulate FtsZ ring formation.  Furthermore, the interaction between MCD1 and MinD in yeast two-hybrid assays  suggests that MCD1 recruits MinD by direct interaction. These results point out  differences in the MinD localization mechanism between chloroplasts and bacterial  model systems and suggest that the plant cell evolved a component to modulate the  cyanobacteria-derived Min system so as to regulate chloroplast FtsZ ring  positioning.', '2009 Jan 27', 'Curr Biol', '10.1016/j.cub.2008.12.018', 'Miyagishima']
+
+MinD: !regulates! FtsZ ring 
+MCD1: !regulates! FtsZ ring 
+MinD: !localizes to! division sites 
+MCD1: !localizes to! division sites 
+MinD: !inhibited by! overexpression 
+MCD1: !not inhibited by! overexpression 
+MCD1: !required for! MinD localization 
+MCD1: !interacts with! MinD

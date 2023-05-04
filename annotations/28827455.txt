@@ -1,0 +1,7 @@
+Identifying transcription factor (TFs) cooperation controlling target gene expression is still an arduous challenge. The accuracy of current methods at genome scale significantly drops with the increase in number of genes, which limits their applicability to more complex genomes, like animals and plants. Here, we developed an algorithm, TransDetect, able to predict TF combinations controlling the expression level of a given gene. TransDetect was used to identify novel TF modules regulating the expression of Arabidopsis (<i>Arabidopsis thaliana</i>) phosphate transporter <i>PHO1;H3</i> comprising MYB15, MYB84, bHLH35, and ICE1. These TFs were confirmed to interact between themselves and with the <i>PHO1;H3</i> promoter. Phenotypic and genetic analyses of TF mutants enable the organization of these four TFs and <i>PHO1;H3</i> in a new gene regulatory network controlling phosphate accumulation in zinc-dependent manner. This demonstrates the potential of TransDetect to extract directionality in nondynamic transcriptomes and to provide a blueprint to identify gene regulatory network involved in a given biological process.
+
+MYB15: !interacts with! MYB84
+MYB84: !interacts with! bHLH35
+bHLH35: !interacts with! ICE1
+ICE1: !interacts with! PHO1;H3
+PHO1;H3: !controlled by! MYB15, MYB84, bHLH35, and ICE1

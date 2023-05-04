@@ -1,0 +1,12 @@
+Plant growth and development are coordinated by multiple environmental and endogenous signals. Brassinosteroid (BR) and ethylene (ET) have overlapping functions in a wide range of developmental processes. However, the relationship between the BR and ET signalling pathways has remained unclear. Here, we show that BR and ET interdependently promote apical hook development and cell elongation through a direct interaction between BR-activated BRASSINOZALE-RESISTANT1 (BZR1) and ET-activated ETHYLENE INSENSITIVE3 (EIN3). Genetic analysis showed that BR signalling is required for ET promotion of apical hook development in the dark and cell elongation under light, and ET quantitatively enhances BR-potentiated growth. BZR1 interacts with EIN3 to co-operatively increase the expression of HOOKLESS1 and PACLOBUTRAZOL RESISTANCE FACTORs (PREs). Furthermore, we found that BR promotion of hook development requires gibberellin (GA), and GA restores the hookless phenotype of BR-deficient materials by activating EIN3/EIL1. Our findings shed light on the molecular mechanism underlying the regulation of plant development by BR, ET and GA signals through the direct interaction of master transcriptional regulators.
+
+BR: !interacts with! ET 
+ET: !interacts with! BR 
+BR: !enhances! ET 
+ET: !enhances! BR 
+BR: !activates! BZR1 
+ET: !activates! EIN3 
+BZR1: !interacts with! EIN3 
+EIN3: !interacts with! BZR1 
+BR: !requires! GA 
+GA: !restores! hookless phenotype

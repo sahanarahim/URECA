@@ -1,0 +1,14 @@
+['19682289', 'Working in tandem, two photosystems in the chloroplast thylakoid membranes  produce a linear electron flow from H(2)O to NADP(+). Final electron transfer  from ferredoxin to NADP(+) is accomplished by a flavoenzyme ferredoxin:NADP(+)  oxidoreductase (FNR). Here we describe TROL (thylakoid rhodanese-like protein), a  nuclear-encoded component of thylakoid membranes that is required for tethering  of FNR and sustaining efficient linear electron flow (LEF) in vascular plants.  TROL consists of two distinct modules; a centrally positioned rhodanese-like  domain and a C-terminal hydrophobic FNR binding region. Analysis of Arabidopsis  mutant lines indicates that, in the absence of TROL, relative electron transport  rates at high-light intensities are severely lowered accompanied with significant  increase in non-photochemical quenching (NPQ). Thus, TROL might represent a  missing thylakoid membrane docking site for a complex between FNR, ferredoxin and  NADP(+). Such association might be necessary for maintaining photosynthetic redox  poise and enhancement of the NPQ.', '2009 Dec', 'Plant J', '10.1111/j.1365-313X.2009.03999.x', 'Fulgosi']
+
+H2O: !produces! Electron Flow 
+Photosystems: !produce! Electron Flow 
+Ferredoxin: !transfers! Electron Flow 
+FNR: !catalyzes! Electron Flow 
+TROL: !tethers! FNR 
+TROL: !maintains! LEF 
+Mutant Lines: !decrease! Relative Electron Transport Rates 
+Mutant Lines: !increase! Non-Photochemical Quenching 
+TROL: !represents! Docking Site 
+FNR, Ferredoxin, NADP+: !associate! at TROL 
+Association: !maintains! Photosynthetic Redox Poise 
+Association: !enhances! NPQ

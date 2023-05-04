@@ -1,0 +1,9 @@
+Xanthomonas campestris pv vesicatoria type III effector protein, AvrBsT, triggers hypersensitive cell death in pepper (Capsicum annuum). Here, we have identified the pepper SGT1 (for suppressor of the G2 allele of skp1) as a host interactor of AvrBsT and also the pepper PIK1 (for receptor-like cytoplasmic kinase1). PIK1 specifically phosphorylates SGT1 and AvrBsT in vitro. AvrBsT specifically binds to the CHORD-containing protein and SGT1 domain of SGT1, resulting in the inhibition of PIK1-mediated SGT1 phosphorylation and subsequent nuclear transport of the SGT1-PIK1 complex. Liquid chromatography-tandem mass spectrometry of the proteolytic peptides of SGT1 identified the residues serine-98 and serine-279 of SGT1 as the major PIK1-mediated phosphorylation sites. Site-directed mutagenesis of SGT1 revealed that the identified SGT1 phosphorylation sites are responsible for the activation of AvrBsT-triggered cell death in planta. SGT1 forms a heterotrimeric complex with both AvrBsT and PIK1 exclusively in the cytoplasm. Agrobacterium tumefaciens-mediated coexpression of SGT1 and PIK1 with avrBsT promotes avrBsT-triggered cell death in Nicotiana benthamiana, dependent on PIK1. Virus-induced silencing of SGT1 and/or PIK1 compromises avrBsT-triggered cell death, hydrogen peroxide production, defense gene induction, and salicylic acid accumulation, leading to the enhanced bacterial pathogen growth in pepper. Together, these results suggest that SGT1 interacts with PIK1 and the bacterial effector protein AvrBsT and promotes the hypersensitive cell death associated with PIK1-mediated phosphorylation in plants.
+
+AvrBsT: !binds to! SGT1 
+SGT1: !phosphorylated by! PIK1 
+PIK1: !interacts with! AvrBsT 
+AvrBsT: !inhibits! PIK1-mediated SGT1 phosphorylation 
+SGT1: !forms complex with! AvrBsT and PIK1 
+AvrBsT: !triggers! cell death 
+SGT1: !promotes! AvrBsT-triggered cell death

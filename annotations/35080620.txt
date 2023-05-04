@@ -1,0 +1,12 @@
+Stomata play important roles in gas and water exchange in leaves. The morphological features of stomata and pavement cells are highly plastic and are regulated during development. However, it is very laborious and time-consuming to collect accurate quantitative data from the leaf surface by manual phenotyping. Here, we introduce LeafNet, a tool that automatically localizes stomata, segments pavement cells (to prepare them for quantification), and reports multiple morphological parameters for a variety of leaf epidermal images, especially bright-field microscopy images. LeafNet employs a hierarchical strategy to identify stomata using a deep convolutional network and then segments pavement cells on stomata-masked images using a region merging method. LeafNet achieved promising performance on test images for quantifying different phenotypes of individual stomata and pavement cells compared with six currently available tools, including StomataCounter, Cellpose, PlantSeg, and PaCeQuant. LeafNet shows great flexibility, and we improved its ability to analyze bright-field images from a broad range of species as well as confocal images using transfer learning. Large-scale images of leaves can be efficiently processed in batch mode and interactively inspected with a graphic user interface or a web server (https://leafnet.whu.edu.cn/). The functionalities of LeafNet could easily be extended and will enhance the efficiency and productivity of leaf phenotyping for many plant biologists.
+
+Stomata: !play important roles in! gas and water exchange
+LeafNet: !localizes! stomata 
+LeafNet: !segments! pavement cells
+LeafNet: !reports multiple morphological parameters for! leaf epidermal images
+LeafNet: !employs a hierarchical strategy to identify! stomata
+LeafNet: !achieved promising performance on test images for quantifying! different phenotypes of individual stomata and pavement cells
+LeafNet: !shows great flexibility!
+LeafNet: !improved its ability to analyze! bright-field images
+LeafNet: !efficiently processes! large-scale images of leaves
+LeafNet: !interactively inspects with! graphic user interface or web server

@@ -1,0 +1,10 @@
+Signal crosstalk between jasmonate and ethylene is crucial for a proper maintenance of defense responses and development. Although previous studies reported that both jasmonate and ethylene also function as modulators of stomatal movements, the signal crosstalk mechanism in stomatal guard cells remains unclear. Here, we show that the ethylene signaling inhibits jasmonate signaling as well as abscisic acid (ABA) signaling in guard cells of Arabidopsis thaliana and reveal the signaling crosstalk mechanism. Both an ethylene precursor 1-aminocyclopropane-1-carboxylic acid (ACC) and an ethylene-releasing compound ethephon induced transient stomatal closure, and also inhibited methyl jasmonate (MeJA)-induced stomatal closure as well as ABA-induced stomatal closure. The ethylene inhibition of MeJA-induced stomatal closure was abolished in the ethylene-insensitive mutant etr1-1, whereas MeJA-induced stomatal closure was impaired in the ethylene-overproducing mutant eto1-1. Pretreatment with ACC inhibited MeJA-induced reactive oxygen species (ROS) production as well as ABA-induced ROS production in guard cells but did not suppress ABA activation of OPEN STOMATA 1 (OST1) kinase in guard cell-enriched epidermal peels. The whole-cell patch-clamp analysis revealed that ACC attenuated MeJA and ABA activation of S-type anion channels in guard cell protoplasts. However, MeJA and ABA inhibitions of Kin channels were not affected by ACC pretreatment. These results suggest that ethylene signaling inhibits MeJA signaling and ABA signaling by targeting S-type anion channels and ROS but not OST1 kinase and K+ channels in Arabidopsis guard cells.
+
+jasmonate: !inhibited by! ethylene
+ethylene: !inhibits! MeJA-induced stomatal closure
+ACC: !attenuates! MeJA- and ABA-induced ROS production
+ACC: !attenuates! MeJA- and ABA-activation of S-type anion channels
+MeJA: !inhibited by! ACC pretreatment
+ABA: !inhibited by! ACC pretreatment
+OST1 kinase: !not suppressed by! ACC pretreatment
+K+ channels: !not affected by! ACC pretreatment

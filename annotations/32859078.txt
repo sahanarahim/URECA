@@ -1,0 +1,8 @@
+Glycine- and proline-rich proteins (GPRPs) comprise a small conserved family that is widely distributed in the plant kingdom. GPRPs are relatively short peptides (<200 amino acids) that contain three typical domains, including an N-terminal XYPP-repeat domain, a middle hydrophobic domain rich in alanine, and a C-terminal HGK-repeat domain. These proteins have been proposed to play fundamental roles in plant growth and environmental adaptation, but their functions remain unknown. In this study, we selected an <i>Arabidopsis</i> GPRP (AtGPRP3) to profile the physiological role of GPRPs. Transcripts of <i>AtGPRP3</i> could be detected in the whole <i>Arabidopsis</i> plant, but greater amounts were found in the rosette, followed by the cauline. The AtGPRP3::GFP fusion protein was mainly localized in the nucleus. The overexpression and knockout of <i>AtGPRP3</i>, respectively, retarded and accelerated the growth of <i>Arabidopsis</i> seedlings, while the increase in the growth rate of <i>atgprp3</i> plants was offset by the complementary expression of <i>AtGPRP3</i>. CAT2 and CAT3, but not CAT1, interacted with AtGPRP3 in the nuclei of <i>Arabidopsis</i> protoplasts. The knockout of <i>CAT2</i> by CRISPR-Cas9 retarded the growth of the <i>Arabidopsis</i> seedlings. Together, our data suggest that AtGPRP3 negatively regulates plant growth, potentially through CAT2 and CAT3.
+
+AtGPRP3: !localizes to! nucleus 
+AtGPRP3: !represses! plant growth 
+AtGPRP3: !interacts with! CAT2 
+AtGPRP3: !interacts with! CAT3 
+CAT2: !enhances! plant growth 
+CAT2: !interacts with! AtGPRP3

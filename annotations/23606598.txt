@@ -1,0 +1,8 @@
+A complex phenotype such as seed germination is the result of several genetic and environmental cues and requires the concerted action of many genes. The use of well-structured recombinant inbred lines in combination with "omics" analysis can help to disentangle the genetic basis of such quantitative traits. This so-called genetical genomics approach can effectively capture both genetic and epistatic interactions. However, to understand how the environment interacts with genomic-encoded information, a better understanding of the perception and processing of environmental signals is needed. In a classical genetical genomics setup, this requires replication of the whole experiment in different environmental conditions. A novel generalized setup overcomes this limitation and includes environmental perturbation within a single experimental design. We developed a dedicated quantitative trait loci mapping procedure to implement this approach and used existing phenotypical data to demonstrate its power. In addition, we studied the genetic regulation of primary metabolism in dry and imbibed Arabidopsis (Arabidopsis thaliana) seeds. In the metabolome, many changes were observed that were under both environmental and genetic controls and their interaction. This concept offers unique reduction of experimental load with minimal compromise of statistical power and is of great potential in the field of systems genetics, which requires a broad understanding of both plasticity and dynamic regulation.
+
+Gene: !affects! Phenotype 
+Environment: !affects! Phenotype 
+Gene: !interacts with! Environment 
+Gene: !enhances! Primary Metabolism 
+Gene: !represses! Primary Metabolism 
+Gene: !synthesizes! Trait Loci Mapping

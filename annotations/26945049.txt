@@ -1,0 +1,8 @@
+The molecular mechanisms underlying photoperiod or temperature control of flowering time have been recently elucidated, but how plants regulate flowering time in response to other external factors, such as water availability, remains poorly understood. Using a large-scale Hybrid Transcription Factor approach, we identified a bZIP transcriptional factor, O. sativa ABA responsive element binding factor 1 (OsABF1), which acts as a suppressor of floral transition in a photoperiod-independent manner. Simultaneous knockdown of both OsABF1 and its closest homologous gene, OsbZIP40, in rice (Oryza sativa) by RNA interference results in a significantly earlier flowering phenotype. Molecular and genetic analyses demonstrate that a drought regime enhances expression of the OsABF1 gene, which indirectly suppresses expression of the Early heading date 1 (Ehd1) gene that encodes a key activator of rice flowering. Furthermore, we identified a drought-inducible gene named OsWRKY104 that is under the direct regulation of OsABF1 Overexpression of OsWRKY104 can suppress Ehd1 expression and confers a later flowering phenotype in rice. Together, these findings reveal a novel pathway by which rice modulates heading date in response to the change of ambient water availability.
+
+OsABF1: !suppresses! floral transition
+OsABF1: !enhances! OsWRKY104
+OsbZIP40: !interacts with! OsABF1
+OsWRKY104: !represses! Ehd1
+Ehd1: !activates! rice flowering
+drought: !induces! OsABF1

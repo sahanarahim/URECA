@@ -1,0 +1,9 @@
+Nonhost plants effectively block a vast number of nonadapted fungal pathogens at the preinvasive stage. On the host plants, adapted fungal pathogens such as <i>Colletotrichum</i> species invade into plant epidermal cell by penetration peg developed from melanized appressorium, followed by invasive hyphal extension. I reported nonadapted <i>Colletotrichum</i> fungi that showed an increased rate of melanized appressorium-mediated entry (MAE) into the <i>pen2</i> mutant of nonhost <i>Arabidopsis thaliana</i> (hereafter <i>Arabidopsis</i>). It was also found that other MAE-type nonadapted <i>Colletotrichum</i> fungi with no penetration into the <i>pen2</i> mutant invaded <i>Arabidopsis</i> in the presence of additional mutations such as <i>edr1</i>, <i>gsh1</i>, <i>eds5</i>, <i>cas</i>, and <i>chup1</i> in the <i>pen2</i> background. Thus, many immune components contribute to the preinvasive nonhost resistance (NHR) of <i>Arabidopsis</i> against <i>Colletotrichum</i> MAE, and PEN2-related defense takes priority over other defense pathways. Here, I show that among the above nonadapted fungi, <i>Colletotrichum nymphaeae</i> PL1-1-b exhibited relatively lower incompatibility with the nonhost <i>Arabidopsis</i> with increased MAE in each single mutant of <i>edr1</i>, <i>gsh1</i>, <i>eds5</i>, and <i>cas</i>, although other nonadapted fungi almost never invaded these single mutants. Based on the relationships between <i>Colletotrichum</i> MAE and the <i>Arabidopsis</i> immune-related components, <i>Colletotrichum-Arabidopsis</i> incompatibility and multilayered immunity in the preinvasive NHR of <i>Arabidopsis</i> are discussed in this study.
+
+pen2: !affects! NHR
+edr1: !interacts with! Colletotrichum MAE
+gsh1: !interacts with! Colletotrichum MAE
+eds5: !interacts with! Colletotrichum MAE
+cas: !interacts with! Colletotrichum MAE
+chup1: !interacts with! Colletotrichum MAE
+Colletotrichum nymphaeae PL1-1-b: !incompatible with! Arabidopsis

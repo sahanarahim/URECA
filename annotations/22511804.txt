@@ -1,0 +1,10 @@
+To investigate the involvement of Rhizobium etli cbb(3) oxidase in the response of Phaseolus vulgaris to drought, common bean plants were inoculated with the R. etli strain, CFNX713, overexpressing this oxidase in bacteroids (cbb(3)(+)) and subjected to drought conditions. The negative effect of drought on plant and nodule dryweight, nitrogen content, and nodule functionality was more pronounced in plants inoculated with the wild-type (WT) strain than in those inoculated with the cbb(3)(+) strain. Regardless of the plant treatment, bacteroids produced by the cbb(3)(+) strain showed higher respiratory capacity than those produced by the WT strain. Inoculation of plants with the cbb(3)(+) strain alleviated the negative effect of a moderate drought on the respiratory capacity of bacteroids and the energy charge of the nodules. Expression of the FixP and FixO components of the cbb(3) oxidase was higher in bacteroids of the cbb(3)(+) strain than in those of the WT strain under all experimental conditions. The decline in sucrose synthase activity and the decrease in dicarboxylic acids provoked by moderate drought stress were more pronounced in nodules from plants inoculated with the WT strain than in those inoculated with the cbb(3)(+) strain. Taken together, these results suggest that inoculation of plants with a R. etli strain having enhanced expression of cbb(3) oxidase in bacteroids reduces the sensitivity of P. vulgaris-R. etli symbiosis to drought and can modulate carbon metabolism in nodules.
+
+drought: !affects! plant/nodule dryweight
+drought: !affects! nitrogen content
+drought: !affects! nodule functionality
+cbb(3)(+): !enhances! respiratory capacity
+cbb(3)(+): !alleviates! negative effect of drought
+FixP/FixO: !expresses higher in! cbb(3)(+) strain
+WT strain: !causes more pronounced decline in! sucrose synthase activity
+WT strain: !causes more decrease in! dicarboxylic acids

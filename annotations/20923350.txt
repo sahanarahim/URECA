@@ -1,0 +1,10 @@
+To identify host factors that play critical roles in processes, including cell-to-cell movement of plant-adapted rhabdoviruses, we constructed and validated a high-resolution Nicotiana benthamiana yeast two-hybrid library. The library was screened with the putative movement protein (sc4), nucleocapsid (N), and matrix (M) proteins of Sonchus yellow net virus (SYNV). This resulted in identification of 31 potential host factors. Steady-state localization studies using autofluorescent protein fusions to full-length clones of interactors were conducted in transgenic N. benthamiana marker lines. Bimolecular fluorescence complementation assays were used to validate two-hybrid interactions. The sc4 interactor, sc4i21, localized to microtubules. The N interactor, Ni67, localized to punctuate loci on the endoplasmic reticulum. These two proteins are 84% identical homologues of the Arabidopsis phloem-associated transcription activator AtVOZ1, and contain functional nuclear localization signals. Sc4i17 is a microtubule-associated motor protein. The M interactor, Mi7, is a nuclear-localized transcription factor. Combined with a binary interaction map for SYNV proteins, our data support a model in which the SYNV nucleocapsids are exported from the nucleus and moved cell-to-cell by transcription activators tethered in the cytoplasm.
+
+sc4: !interacts with! sc4i21
+sc4i21: !localizes to! microtubules
+N: !interacts with! Ni67
+Ni67: !localizes to! endoplasmic reticulum
+sc4i17: !interacts with! sc4
+sc4i17: !localizes to! microtubules
+M: !interacts with! Mi7
+Mi7: !localizes to! nucleus

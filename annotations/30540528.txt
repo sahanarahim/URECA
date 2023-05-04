@@ -1,0 +1,10 @@
+The phytohormone brassinosteroid (BR) not only plays key roles in regulating plant growth and development but is also involved in modulating the plant defense system in response to pathogens. We previously found that BR application made rice plants more susceptible to the devastating pathogen rice black-streaked dwarf virus (RBSDV), but the mechanism of BR-mediated susceptibility remains unclear. We now show that both BR-deficient and -insensitive mutants are resistant to RBSDV infection. High-throughput sequencing showed that the defense hormone salicylic acid and jasmonic acid pathways were activated in the RBSDV-infected BR mutant. Meanwhile, a number of class III peroxidases (OsPrx) were significantly changed and basal reactive oxygen species (ROS) accumulated in BR mutants. Treatment with exogenous hormones and other chemicals demonstrated that the BR pathway could suppress the levels of OsPrx and the ROS burst by directly binding the promoters of <i>OsPrx</i> genes. Together, our findings indicate that BR-mediated susceptibility is at least partly caused by inhibition of the action of defense hormones, preventing the accumulation of the peroxidase-mediated oxidative burst.
+
+brassinosteroid: !affects! rice black-streaked dwarf virus susceptibility
+brassinosteroid: !inhibits! defense hormone action
+salicylic acid: !activates! defense hormone pathway
+jasmonic acid: !activates! defense hormone pathway
+class III peroxidases: !accumulates! in BR mutants
+reactive oxygen species: !accumulates! in BR mutants
+exogenous hormones: !suppresses! OsPrx levels
+chemicals: !suppresses! ROS burst

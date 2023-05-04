@@ -1,0 +1,9 @@
+Although hydraulic redistribution of soil water (HR) by roots is a widespread phenomenon, the processes governing spatial and temporal patterns of HR are not well understood. We incorporated soil/plant biophysical properties into a simple model based on Darcy's law to predict seasonal trajectories of HR. We investigated the spatial and temporal variability of HR across multiple years in two old-growth coniferous forest ecosystems with contrasting species and moisture regimes by measurement of soil water content (theta) and water potential (Psi) throughout the upper soil profile, root distribution and conductivity, and relevant climate variables. Large HR variability within sites (0-0.5 mm d(-1)) was attributed to spatial patterns of roots, soil moisture and depletion. HR accounted for 3-9% of estimated total site water depletion seasonally, peaking at 0.16 mm d(-1) (ponderosa pine; Pinus ponderosa) or 0.30 mm d(-1) (Douglas-fir; Pseudotsuga menziesii), then declining as modeled pathway conductance dropped with increasing root cavitation. While HR can vary tremendously within a site, among years and among ecosystems, this variability can be explained by natural variability in Psi gradients and seasonal courses of root conductivity.
+
+root: !affects! HR
+soil/plant biophysical properties: !incorporated into! model
+theta/Psi: !measured! across multiple years
+root distribution/conductivity: !influences! HR variability
+climate variables: !influences! HR variability
+Psi gradients: !explain! HR variability
+root conductivity: !explain! HR variability

@@ -1,0 +1,10 @@
+The Arabidopsis (Arabidopsis thaliana) compact inflorescence (cif) genotype causes altered adult vegetative development and a reduction in elongation of inflorescence internodes resulting in formation of floral clusters. The cif trait requires both a recessive mutation, cif1, and the activity of a naturally occurring dominant allele of an unlinked gene, CIF2(D). We show here that the pseudoverticillata mutation is allelic with cif1 and that the product of the CIF1 gene is ACA10, a member of the large family of P-type Ca(2+)-ATPases found in higher plants. T-DNA insertion mutations in ACA10, but not in the two other Arabidopsis plasma membrane Ca(2+)-ATPase-encoding genes, ACA8 and ACA9, cause a cif phenotype when combined with the dominant CIF2(D) modifier allele. Therefore, ACA10 has a unique function in regulating adult phase growth and inflorescence development. The wild-type ACA8 and ACA10 mRNAs are present at similar levels, and the two promoter-beta-glucuronidase fusion transgenes show very similar expression patterns. Moreover, transformation of the cif mutant with an extra copy of the ACA8 gene, which causes overexpression of the ACA8 transcript, can complement the cif phenotype. This suggests that these two Ca(2+) pump genes have distinct but related activities and that their differential functions can be altered by relatively small changes in their patterns or levels of expression. The correspondence between cif1 and mutations in ACA10 establishes a genetic link between calcium transport, vegetative phase change, and inflorescence architecture.
+
+cif1: !allelic with! pseudoverticillata
+CIF2(D): !requires! cif1
+ACA10: !encoded by! CIF1
+ACA8/ACA9: !not encoded by! CIF1
+ACA10: !uniquely regulates! adult phase growth and inflorescence development
+ACA8/ACA10: !similar levels of! mRNA
+ACA8: !overexpression of! transcript
+cif1: !genetically linked to! calcium transport, vegetative phase change, and inflorescence architecture

@@ -1,0 +1,18 @@
+Application of the widely used Farquhar model of photosynthesis in interpretation of gas exchange data assumes that photosynthetic properties are homogeneous throughout the leaf. Previous studies showed that heterogeneity in stomatal conductance (g(s)) across a leaf could affect the shape of the measured leaf photosynthetic CO(2) uptake rate (A) versus intercellular CO(2) concentration (C(i)) response curve and, in turn, estimation of the critical biochemical parameters of this model. These are the maximum rates of carboxylation (V(c,max)), whole-chain electron transport (J(max)), and triose-P utilization (V(TPU)). The effects of spatial variation in V(c,max,) J(max), and V(TPU) on estimation of leaf averages of these parameters from A-C(i) curves measured on a whole leaf have not been investigated. A mathematical model incorporating defined degrees of spatial variability in V(c,max) and J(max) was constructed. One hundred and ten theoretical leaves were simulated, each with the same average V(c,max) and J(max), but different coefficients of variation of the mean (CV(VJ)) and varying correlation between V(c,max) and J(max) (Omega). Additionally, the interaction of variation in V(c,max) and J(max) with heterogeneity in V(TPU), g(s), and light gradients within the leaf was also investigated. Transition from V(c,max)- to J(max)-limited photosynthesis in the A-C(i) curve was smooth in the most heterogeneous leaves, in contrast to a distinct inflection in the absence of heterogeneity. Spatial variability had little effect on the accuracy of estimation of V(c,max) and J(max) from A-C(i) curves when the two varied in concert (Omega = 1.0), but resulted in underestimation of both parameters when they varied independently (up to 12.5% in V(c,max) and 17.7% in J(max) at CV(VJ) = 50%; Omega = 0.3). Heterogeneity in V(TPU) also significantly affected parameter estimates, but effects of heterogeneity in g(s) or light gradients were comparatively small. If V(c,max) and J(max) derived from such heterogeneous leaves are used in models to project leaf photosynthesis, actual A is overestimated by up to 12% at the transition between V(c,max)- and J(max)-limited photosynthesis. This could have implications for both crop production and Earth system models, including projections of the effects of atmospheric change.
+
+Vcmax: !varies with! Jmax
+Vcmax: !correlated with! Omega
+Vcmax: !underestimated by! CVVJ
+Vcmax: !affected by! VTPU
+Vcmax: !overestimates! A
+Jmax: !varies with! Vcmax
+Jmax: !correlated with! Omega
+Jmax: !underestimated by! CVVJ
+Jmax: !affected by! VTPU
+Jmax: !overestimates! A
+VTPU: !affects! Vcmax
+VTPU: !affects! Jmax
+gs: !affects! Vcmax
+gs: !affects! Jmax
+Light: !affects! Vcmax
+Light: !affects! Jmax

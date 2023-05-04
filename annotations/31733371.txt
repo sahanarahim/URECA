@@ -1,0 +1,8 @@
+Two signal molecules, salicylic acid (SA) and N-hydroxypipecolic acid (NHP), play critical roles in plant immunity. The biosynthetic genes of both compounds are positively regulated by master immune-regulating transcription factors SARD1 and CBP60g. However, the relationship between the SA and NHP pathways is unclear. CALMODULIN-BINDING TRANSCRIPTION FACTOR 1 (CAMTA1), CAMTA2, and CAMTA3 are known redundant negative regulators of plant immunity, but the underlying mechanism also remains largely unknown. In this study, through chromatin immunoprecipitation and electrophoretic mobility shift assays, we uncovered that CBP60g is a direct target of CAMTA3, which also negatively regulates the expression of SARD1, presumably via an indirect effect. The autoimmunity of camta3-1 is suppressed by sard1 cbp60g double mutant as well as ald1 and fmo1, two single mutants defective in NHP biosynthesis. Interestingly, a suppressor screen conducted in the camta1/2/3 triple mutant background yielded various mutants blocking biosynthesis or signaling of either SA or NHP, leading to nearly complete suppression of the extreme autoimmunity of camta1/2/3, suggesting that the SA and NHP pathways can mutually amplify each other. Together, these results reveal that CAMTAs repress the biosynthesis of SA and NHP by modulating the expression of SARD1 and CBP60g, and that the SA and NHP pathways are coordinated to optimize plant immune response.
+
+SARD1: !positively regulated by! CBP60g
+CBP60g: !direct target of! CAMTA3
+CAMTA3: !negatively regulates! SARD1
+SA/NHP pathways: !mutually amplify! each other
+CAMTAs: !repress biosynthesis of! SA/NHP
+SARD1/CBP60g: !modulate expression of! CAMTAs

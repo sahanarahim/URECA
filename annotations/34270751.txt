@@ -1,0 +1,9 @@
+['34270751', 'In the INO80 chromatin remodeling complex, all of the accessory subunits are  assembled on the following three domains of INO80: N-terminal domain (NTD), HSA  domain, and ATPase domain. Although the ATPase and HSA domains and their  interacting accessory subunits are known to be responsible for chromatin  remodeling, it is largely unknown how the accessory subunits that interact with  the INO80 NTD regulate chromatin status. Here, we identify both conserved and  nonconserved accessory subunits that interact with the three domains in the INO80  complex in Arabidopsis thaliana. While the accessory subunits that interact with  all the three INO80 domains can mediate transcriptional repression, the INO80 NTD  and the accessory subunits interact with it can contribute to transcriptional  activation even when the ATPase domain is absent, suggesting that INO80 has an  ATPase-independent role. A subclass of the COMPASS histone H3K4 methyltransferase  complexes interact with the INO80 NTD in the INO80 complex and function together  with the other accessory subunits that interact with the INO80 NTD, thereby  facilitating H3K4 trimethylation and transcriptional activation. This study  suggests that the opposite effects of the INO80 complex on transcription are  required for the balance between vegetative growth and flowering under diverse  environmental conditions.', '2021 Oct 11', 'Plant Cell', '10.1093/plcell/koab187', 'ORCID:']
+
+INO80: !interacts with! accessory subunits 
+accessory subunits: !mediate! transcriptional repression 
+INO80 NTD: !interacts with! accessory subunits 
+INO80 NTD: !contributes to! transcriptional activation 
+COMPASS histone H3K4 methyltransferase complexes: !interact with! INO80 NTD 
+INO80 complex: !facilitates! H3K4 trimethylation 
+INO80 complex: !balances! vegetative growth and flowering

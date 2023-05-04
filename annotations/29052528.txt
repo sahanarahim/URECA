@@ -1,0 +1,13 @@
+Phoma macdonaldii has been reported as the causal agent of black stem disease (BS) and premature ripening (PR) on sunflower. PR is considered as the most widespread and detrimental disease on sunflower in France. While genetic variability and QTL mapping for partial resistance of sunflower to stem, collar and roots attacks have been reported on plantlets in controlled conditions, this work aims to describe the genetic variability in a subset of a sunflower lines, and for the first time to map QTL involved in PR resistance evaluated in field conditions using controlled inoculation. An efficient and reliable method for inoculation used in field experiments induced stem base necrosis on up to 98% of all plants. A significant genetic variability for PR resistance in the field was detected among the 20 inbred lines of the core collection tested across the two years. For QTL mapping, the PR resistance evaluation was performed on two recombinant inbred lines (RIL) populations derived from the crosses XRQxPSC8 and FUxPAZ2 in two different years. QTL analyses were based on a newly developed consensus genetic map comprising 1007 non-redundant molecular markers. In each of the two RIL populations, different QTL involved in PR partial sunflower resistance were detected. The most significant QTL were detected 49 days post infection (DPI) on LG10 (LOD 7.7) and on LG7 (LOD 12.1) in the XRQxPSC8 and FUxPAZ2 RIL population, respectively. In addition, different QTL were detected on both populations for PR resistance measured between 14 and 35 DPI. In parallel, the incidence of natural attack of P. macdonaldii resulting in BS disease was recorded, showing that in these populations, the genetic of resistance to both diseases is not governed by the same factors. This work provides the first insights on the genetic architecture of sunflower PR resistance in the field. Moreover, the separate studies of symptoms on different organs and in time series allowed the identification of a succession of genetic components involved in the sunflower resistance to PR and BS diseases caused by Phoma macdonaldii along the development of the {plant * pathogen} interaction.
+
+plant: !resists! PR
+plant: !resists! BS
+plant: !has genetic variability for! PR resistance
+plant: !has genetic variability for! BS resistance
+plant: !has QTL for! PR resistance
+plant: !has QTL for! BS resistance
+RIL population: !has QTL for! PR resistance
+RIL population: !has QTL for! BS resistance
+XRQxPSC8 RIL population: !has QTL on LG10 for! PR resistance
+FUxPAZ2 RIL population: !has QTL on LG7 for! PR resistance
+plant: !interacts with! P. macdonaldii

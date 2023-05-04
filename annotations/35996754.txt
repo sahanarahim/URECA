@@ -1,0 +1,8 @@
+Bulked segregant analysis (BSA) is a rapid, cost-effective method for mapping mutations and quantitative trait loci (QTLs) in animals and plants based on high-throughput sequencing. However, the algorithms currently used for BSA have not been systematically evaluated and are complex and fallible to operate. We developed a BSA method driven by deep learning, DeepBSA, for QTL mapping and functional gene cloning. DeepBSA is compatible with a variable number of bulked pools and performed well with various simulated and real datasets in both animals and plants. DeepBSA outperformed all other algorithms when comparing absolute bias and signal-to-noise ratio. Moreover, we applied DeepBSA to an F<sub>2</sub> segregating maize population of 7160 individuals and uncovered five candidate QTLs, including three well-known plant-height genes. Finally, we developed a user-friendly graphical user interface for DeepBSA, by integrating five widely used BSA algorithms and our two newly developed algorithms, that is easy to operate and can quickly map QTLs and functional genes. The DeepBSA software is freely available to non-commercial users at http://zeasystemsbio.hzau.edu.cn/tools.html and https://github.com/lizhao007/DeepBSA.
+
+Gene: !affects! QTLs 
+Gene: !localizes to! Maize population 
+Gene: !interacts with! DeepBSA 
+Gene: !enhances! Signal-to-noise ratio 
+Gene: !represses! Plant height 
+Gene: !synthesizes! User-friendly GUI

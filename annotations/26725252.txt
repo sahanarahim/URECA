@@ -1,0 +1,8 @@
+Mechanistic models can help resolve controversy over the responses of mast seeding plants to future environmental change. We evaluate drivers of mast seeding by: developing and validating a new mechanistic resource-based model of mast seeding using four 40-yr Chionochloa (snow tussock) datasets; and comparing the performance of competing empirically-based statistical models, that aim to approximate the mechanisms underlying mast seeding, in explaining simulated and observed data. Our mechanistic model explained 90-99% of the variation in Chionochloa flowering, with higher rates of stored resource mobilisation and lower probability of climatic induction of flowering occurring at lower fertility sites. Inter-annual variation in floral induction and the degree to which seeding is resource-limited explained shifts in the relative performance of different empirical models fitted to data simulated from the mechanistic model. Empirical models explicitly capturing the interaction between the floral induction cue and internal resource state underlying the resource-limited induction mechanism had > 8.7× the statistical support of alternatives when fitted to Chionochloa datasets. We find support for resource-limited floral induction with multiple empirical models consistent with this same mechanism. As both resource acquisition and flowering cues are climate sensitive, we expect climate change to impact upon patterns of mast seeding.
+
+Gene: !affects! Process
+Resource: !mobilizes! Gene
+Climatic cue: !induces! Flowering
+Gene: !interacts with! Resource
+Empirical model: !captures! Interaction
+Climate change: !impacts! Mast seeding

@@ -1,0 +1,8 @@
+Screening large populations for carriers of known or de novo rare single nucleotide polymorphisms (SNPs) is required both in Targeting induced local lesions in genomes (TILLING) experiments in plants and in screening of human populations. We previously suggested an approach that combines the mathematical field of compressed sensing with next-generation sequencing to allow such large-scale screening. Based on pooled measurements, this method identifies multiple carriers of heterozygous or homozygous rare alleles while using only a small fraction of resources. Its rigorous mathematical foundations allow scalable and robust detection, and provide error correction and resilience to experimental noise. Here we present a large-scale experimental demonstration of our computational approach, in which we targeted a TILLING population of 1024 Sorghum bicolor lines to detect carriers of de novo SNPs whose frequency was less than 0.1%, using only 48 pools. Subsequent validation confirmed that all detected lines were indeed carriers of the predicted mutations. This novel approach provides a highly cost-effective and robust tool for biologists and breeders to allow identification of novel alleles and subsequent functional analysis.
+
+SNP: !detected by! Compressed Sensing 
+Compressed Sensing: !used in! TILLING experiments 
+TILLING: !applied to! Sorghum bicolor lines 
+Sorghum bicolor lines: !screened for! carriers of rare alleles 
+carriers of rare alleles: !identified by! 48 pools 
+48 pools: !confirmed by! validation

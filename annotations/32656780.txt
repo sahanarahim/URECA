@@ -1,0 +1,8 @@
+Lateral roots (LRs) are the main component of the root system architecture in Arabidopsis. The plasticity of LR development has an important role in improving plant survival in response to the external environment. Previous studies have revealed a number of genetic pathways that control plant growth in response to environmental stimuli. Here, we find that the xyloglucan endotransglucosylase 19 (XTH19) and XTH23 genes are involved in LR development under salt stress. The density of LRs was decreased in the xth23 single mutant, which was also more sensitive to salt than the wild type, and the xth19xth23 double mutant exhibited additive downregulated LR initiation and salt sensitivity compared with the single mutant. On the contrary, constitutive overexpression of XTH19 or XTH23 caused increased LR densities. Furthermore, XTH19 and XTH23 were induced by salt via the key brassinosteroid signaling pathway transcription factor BES1. In addition, we found that 35S::BES1 increased salt tolerance and the phenotype of xth19xth23 & 35S::BES1 was partially complementary to the wild-type level. In vivo and in vitro assays demonstrated that BES1 acts directly upstream of XTH19 and XTH23 to control their expression. Overall, our results revealed that XTH19 and XTH23 are involved in LR development via the BES1-dependent pathway, and contribute to LR adaptation to salt.
+
+XTH19: !interacts with! XTH23
+XTH19: !enhances! LR development
+XTH23: !enhances! LR development
+BES1: !induces! XTH19
+BES1: !induces! XTH23
+BES1: !enhances! salt tolerance

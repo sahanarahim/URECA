@@ -1,0 +1,9 @@
+Calcium is an important plant immune signal that is essential for activating host resistance, but how RNA viruses manipulate calcium signals to promote their infections remains largely unknown. Here, we demonstrated that tobacco mosaic virus (TMV) coat protein (CP)-interacting protein L (IP-L) associates with calmodulin-like protein 30 (NbCML30) in the cytoplasm and nucleus, and can suppress its expression at the nucleic acid and protein levels. NbCML30, which lacks the EF-hand conserved domain and cannot bind to Ca<sup>2+</sup> , was located in the cytoplasm and nucleus and was downregulated by TMV infection. NbCML30 silencing promoted TMV infection, while its overexpression inhibited TMV infection by activating Ca<sup>2+</sup> -dependent oxidative stress in plants. NbCML30-mediated resistance to TMV mainly depends on IP-L regulation as the facilitation of TMV infection by silencing NbCML30 was canceled by co-silencing NbCML30 and IP-L. Overall, these findings indicate that in the absence of any reported silencing suppressor activity, TMV CP manipulates IP-L to inhibit NbCML30, influencing its Ca<sup>2+</sup> -dependent role in the oxidative stress response. These results lay a theoretical foundation that will enable us to engineer tobacco (Nicotiana spp.) with improved TMV resistance in the future.
+
+TMV CP: !interacts with! IP-L
+IP-L: !regulates! NbCML30
+NbCML30: !binds to! Ca<sup>2+</sup> 
+NbCML30: !activates! oxidative stress
+TMV CP: !inhibits! NbCML30
+NbCML30: !mediates! TMV resistance
+IP-L: !cancels! TMV infection

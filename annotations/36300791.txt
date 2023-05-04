@@ -1,0 +1,7 @@
+Plant pathogens secrete effector proteins to support host colonization through a wide range of molecular mechanisms, while plant immune systems evolved receptors to recognize effectors or their activities to mount immune responses to halt pathogens. Importantly, plants do not act as single organisms, but rather as holobionts that actively shape their microbiota as a determinant of health. The soil-borne fungal pathogen Verticillium dahliae was recently demonstrated to exploit the VdAve1 effector to manipulate the host microbiota to promote vascular wilt disease in the absence of the corresponding immune receptor Ve1. We identify a multiallelic V. dahliae gene displaying c. 65% sequence similarity to VdAve1, named VdAve1-like (VdAve1L), which shows extreme sequence variation, including alleles that encode dysfunctional proteins, indicative of selection pressure to overcome host recognition. We show that the orphan cell surface receptor Ve2, encoded at the Ve locus, does not recognize VdAve1L. Additionally, we demonstrate that the full-length variant VdAve1L2 possesses antimicrobial activity, like VdAve1, yet with a divergent activity spectrum, that is exploited by V. dahliae to mediate tomato colonization through the direct suppression of antagonistic Actinobacteria in the host microbiota. Our findings open up strategies for more targeted biocontrol against microbial plant pathogens.
+
+VdAve1: !affects! Host colonization
+Ve1: !recognizes! VdAve1
+VdAve1L: !evades! Ve1
+Ve2: !does not recognize! VdAve1L
+VdAve1L2: !suppresses! Actinobacteria

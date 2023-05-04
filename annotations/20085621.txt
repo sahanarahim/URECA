@@ -1,0 +1,9 @@
+*The endophytic fungus Piriformospora indica colonizes the roots of the model plant Arabidopsis thaliana and promotes its growth and seed production. The fungus can be cultivated in axenic culture without a host, and therefore this is an excellent system to investigate plant-fungus symbiosis. *The growth of etr1, ein2 and ein3/eil1 mutant plants was not promoted or even inhibited by the fungus; the plants produced less seeds and the roots were more colonized compared with the wild-type. This correlates with a mild activation of defence responses. The overexpression of ETHYLENE RESPONSE FACTOR1 constitutively activated defence responses, strongly reduced root colonization and abolished the benefits for the plants. *Piriformospora indica-mediated stimulation of growth and seed yield was not affected by jasmonic acid, and jasmonic acid-responsive promoter beta-glucuronidase gene constructs did not respond to the fungus in Arabidopsis roots. *We propose that ethylene signalling components and ethylene-targeted transcription factors are required to balance beneficial and nonbeneficial traits in the symbiosis. The results show that the restriction of fungal growth by ethylene signalling components is required for the beneficial interaction between the two symbionts.
+
+gene: !affects! defence responses
+etr1: !inhibits! fungus growth
+ein2: !inhibits! fungus growth
+ein3/eil1: !inhibits! fungus growth
+ETHYLENE RESPONSE FACTOR1: !restricts! fungal growth
+jasmonic acid: !does not affect! fungus-mediated stimulation
+beta-glucuronidase gene: !does not respond to! fungus

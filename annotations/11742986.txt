@@ -1,0 +1,13 @@
+['11742986', 'The 26S proteasome plays a major role in eukaryotic protein breakdown, especially  for ubiquitin-tagged proteins. Substrate specificity is conferred by the  regulatory particle (RP), which can dissociate into stable lid and base  subcomplexes. To help define the molecular organization of the RP, we tested all  possible paired interactions among subunits from Saccharomyces cerevisiae by  yeast two-hybrid analysis. Within the base, a Rpt4/5/3/6 interaction cluster was  evident. Within the lid, a structural cluster formed around Rpn5/11/9/8.  Interactions were detected among synonymous subunits (Csn4/5/7/6) from the  evolutionarily related COP9 signalosome (CSN) from Arabidopsis, implying a  similar quaternary arrangement. No paired interactions were detected between lid,  base or core particle subcomplexes, suggesting that stable contacts between them  require prior assembly. Mutational analysis defined the ATPase, coiled-coil, PCI  and MPN domains as important for RP assembly. A single residue in the vWA domain  of Rpn10 is essential for amino acid analog resistance, for degrading a ubiquitin  fusion degradation substrate and for stabilizing lid-base association.  Comprehensive subunit interaction maps for the 26S proteasome and CSN support the  ancestral relationship of these two complexes.', '2001 Dec 17', 'EMBO J', '10.1093/emboj/20.24.7096', 'Vierstra']
+
+Rpt4/5/3/6: !interacts with! Rpn5/11/9/8
+Csn4/5/7/6: !interacts with! Csn4/5/7/6
+Lid: !requires! Base
+Core particle: !requires! Lid/Base
+ATPase: !essential for! RP assembly
+Coiled-coil: !essential for! RP assembly
+PCI: !essential for! RP assembly
+MPN: !essential for! RP assembly
+vWA domain: !essential for! Amino acid analog resistance
+vWA domain: !essential for! Ubiquitin fusion degradation substrate
+vWA domain: !essential for! Stabilizing lid-base association

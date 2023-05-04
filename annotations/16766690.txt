@@ -1,0 +1,8 @@
+Cereal seed development depends on the intimate interaction of filial and maternal tissues, ensuring nourishment of the new generation. The gene jekyll, which was identified in barley (Hordeum vulgare), is preferentially expressed in the nurse tissues. JEKYLL shares partial similarity with the scorpion Cn4 toxin and is toxic when ectopically expressed in Escherichia coli and tobacco (Nicotiana tabacum). In barley, jekyll is upregulated in cells destined for autolysis. The gene generates a gradient of expression in the nucellar projection, which mediates the maternal-filial interaction during seed filling. Downregulation of jekyll by the RNA interference technique in barley decelerates autolysis and cell differentiation within the nurse tissues. Flower development and seed filling are thereby extended, and the nucellar projection no longer functions as the main transport route for assimilates. A slowing down in the proliferation of endosperm nuclei and a severely impaired ability to accumulate starch in the endosperm leads to the formation of irregular and small-sized seeds at maturity. Overall, JEKYLL plays a decisive role in the differentiation of the nucellar projection and drives the programmed cell death necessary for its proper function. We further suggest that cell autolysis during the differentiation of the nucellar projection allows the optimal provision of basic nutrients for biosynthesis in endosperm and embryo.
+
+jekyll: !upregulates! Autolysis 
+jekyll: !mediates! Maternal-filial interaction 
+RNA interference: !downregulates! Autolysis 
+RNA interference: !slows down! Endosperm nuclei proliferation 
+RNA interference: !impairs! Starch accumulation 
+JEKYLL: !drives! Programmed cell death

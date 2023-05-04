@@ -1,0 +1,10 @@
+Growth extent and direction determine cell and whole-organ architecture. How they are spatio-temporally modulated to control size and shape is not well known. Here we tackled this question by studying the effect of brassinosteroid (BR) signalling on the structure of the root meristem. Quantification of the three-dimensional geometry of thousands of individual meristematic cells across different tissue types showed that the modulation of BR signalling yields distinct changes in growth rate and anisotropy, which affects the time that cells spend in the meristem and has a strong impact on the final root form. By contrast, the hormone effect on cell volume was minor, establishing cell volume as invariant to the effect of BR. Thus, BR has the highest effect on cell shape and growth anisotropy, regulating the overall longitudinal and radial growth of the meristem, while maintaining a coherent distribution of cell sizes. Moving from single-cell quantification to the whole organ, we developed a computational model of radial growth. The simulation demonstrates how differential BR-regulated growth between the inner and outer tissues shapes the meristem and thus explains the non-intuitive outcomes of tissue-specific perturbation of BR signalling. The combined experimental data and simulation suggest that the inner and outer tissues have distinct but coordinated roles in growth regulation.
+
+Gene: !affects! Growth rate 
+Gene: !affects! Anisotropy 
+Gene: !affects! Time spent in meristem 
+Gene: !affects! Final root form 
+Gene: !maintains! Cell size distribution 
+Gene: !shapes! Meristem 
+Gene: !regulates! Longitudinal growth 
+Gene: !regulates! Radial growth

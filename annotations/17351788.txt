@@ -1,0 +1,8 @@
+The complexity of hormonal responses and their functional overlap support the presence of an intensive cross-talk between hormone signalling pathways. A detailed analysis of responses induced by ethylene and gibberellin (GA) in a GA-insensitive mutant (gai), an ethylene-resistant mutant (etr1-3), the gai etr1-3 double-mutant, and in wild-type Arabidopsis thaliana plants, revealed multiple interactions between ethylene and GA signal transduction pathways. Ethylene insensitive mutants and wild-type plants treated with 1-methylcyclopropene (1-MCP), an ethylene perception inhibitor, displayed a stronger responsiveness of genes differentially regulated by GA. In addition, microarray-analysis showed that the GA-response in an ethylene-insensitive background is different from that in the wild-type, confirming the importance of ethylene in a plant's response towards GA. In this paper, we present a number of genes with an altered response-pattern as a direct consequence of cross-talk between ethylene and GA.
+
+ethylene: !affects! GA response
+GA: !affects! ethylene response
+gai: !displays! stronger GA responsiveness
+1-MCP: !inhibits! ethylene perception
+microarray-analysis: !confirms! importance of ethylene
+GA-response: !differs between! wild-type and ethylene-insensitive background

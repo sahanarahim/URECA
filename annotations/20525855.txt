@@ -1,0 +1,17 @@
+We examined the expression of Nicotiana attenuata (Na) and Nicotiana obtusifolia (No) herbivore-induced genes in synthetic autopolyploids (NaT and NoT) and five independent allopolyploid Nicotiana x obtusiata (Nxo) lines to understand how the expression of genes regulating complex polygenetic defense traits is altered in the early stages of allopolyploid hybridization. In Na, applying Manduca sexta oral secretions (OS) to wounds rapidly increased the transcript accumulation of wound-induced protein kinase (WIPK), lipoxygenase 3 (LOX3), nonexpressor of pathogenesis-related 1 (NPR1), and jasmonate-resistant 4 (JAR4) genes; these were correlated with increases in accumulation of jasmonic acid (JA), jasmonate-isoleucine, and trypsin protease inhibitors (TPIs). In No, OS elicitation reduced NPR1 transcripts and increased the level of salicylic acid (SA) that appeared to antagonize JA and JA-mediated defenses. OS elicited Nxo lines, accumulated high levels of the uniparental transcript of WIPK, LOX3, JAR4, and TPI, but low levels of both parental NPR1 transcripts that in turn were correlated with an increase in SA and a decrease in JA levels, suggesting SA/JA antagonism in the allopolyploid crosses. Methyl jasmonate treatment of Nxo lines elicited transcripts of both parental LOX3, JAR4, and TPIs, demonstrating that the uniparental pattern observed after OS elicitation was not due to gene inactivation. TPIs were induced at different levels among Nxo lines; some lines expressed high levels comparable to Na, others low levels similar to No, suggesting that synthetic neoallopolyploids rapidly readjust the expression of their parental defensive genes to generate diverse antiherbivore responses. Changes in the expression of key genes and posttranscriptional events likely facilitate adaptive radiations during allopolyploid speciation events.
+
+Na: !induces! WIPK
+Na: !induces! LOX3
+Na: !induces! NPR1
+Na: !induces! JAR4
+No: !reduces! NPR1
+Nxo: !accumulates! WIPK
+Nxo: !accumulates! LOX3
+Nxo: !accumulates! JAR4
+Nxo: !accumulates! TPI
+OS: !correlates with! JA
+OS: !correlates with! SA
+SA: !antagonizes! JA
+Methyl jasmonate: !elicits! LOX3
+Methyl jasmonate: !elicits! JAR4
+Methyl jasmonate: !elicits! TPI

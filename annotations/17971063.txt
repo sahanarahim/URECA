@@ -1,0 +1,8 @@
+Common empirical models of stomatal conductivity often incorporate a sensitivity of stomata to the rate of leaf photosynthesis. Such a sensitivity has been predicted on theoretical terms by Cowan and Farquhar, who postulated that stomata should adjust dynamically to maximize photosynthesis for a given water loss. In this study, we implemented the Cowan and Farquhar hypothesis of optimal stomatal conductivity into a canopy gas exchange model, and predicted the diurnal and daily variability of transpiration for a savanna site in the wet-dry tropics of northern Australia. The predicted transpiration dynamics were then compared with observations at the site using the eddy covariance technique. The observations were also used to evaluate two alternative approaches: constant conductivity and a tuned empirical model. The model based on the optimal water-use hypothesis performed better than the one based on constant stomatal conductivity, and at least as well as the tuned empirical model. This suggests that the optimal water-use hypothesis is useful for modelling canopy gas exchange, and that it can reduce the need for model parameterization.
+
+Cowan and Farquhar: !postulated! optimal stomatal conductivity
+model: !implemented! Cowan and Farquhar hypothesis
+model: !predicted! diurnal and daily variability of transpiration
+eddy covariance technique: !used to evaluate! model
+constant conductivity: !compared with! tuned empirical model
+optimal water-use hypothesis: !performed better than! constant stomatal conductivity

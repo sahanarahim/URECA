@@ -1,0 +1,8 @@
+Stomatal responses to leaf temperature (T(l)) and to the mole fractions of water vapour in the ambient air (w(a)) and the leaf intercellular air spaces (w(i)) were determined in darkness to remove the potential effects of changes in photosynthesis and intercellular CO(2) concentration. Both the steady-state and kinetic responses of stomatal conductance (g(s)) to w(a) in darkness were found to be indistinguishable from those in the light. g(s) showed a steep response to the difference (Deltaw) between w(a) and w(i) when w(a) was varied. The response was much less steep when w(i) was varied. Although stomatal apertures responded steeply to T(l) when Deltaw was held constant at 17 mmol mol(-1), the response was much less steep when Deltaw was held constant at about zero. Similar results were obtained in the light for Deltaw = 15 mmol mol(-1) and Deltaw approximately 0 mmol mol(-1). These results are discussed in the context of mechanisms for the stomatal response to humidity.
+
+gene: !affects! stomatal conductance 
+T(l): !influences! g(s) 
+w(a): !influences! g(s) 
+w(i): !influences! g(s) 
+Deltaw: !influences! g(s) 
+Deltaw: !differs between! w(a) and w(i)

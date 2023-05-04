@@ -1,0 +1,8 @@
+The lettuce midrib rot pathogen Pseudomonas cichorii SF1-54 produces seven bioactive compounds with biosurfactant properties. Two compounds exhibited necrosis-inducing activity on chicory leaves. The structure of the two phytotoxic compounds, named cichopeptin A and B, was tentatively characterized. They are related cyclic lipopeptides composed of an unsaturated C12-fatty acid chain linked to the N-terminus of a 22-amino acid peptide moiety. Cichopeptin B differs from cichopeptin A only in the last C-terminal amino acid residue, which is probably Val instead of Leu/Ile. Based on peptide sequence similarity, cichopeptins are new cyclic lipopeptides related to corpeptin, produced by the tomato pathogen Pseudomonas corrugata. Production of cichopeptin is stimulated by glycine betaine but not by choline, an upstream precursor of glycine betaine. Furthermore, a gene cluster encoding cichopeptin synthethases, cipABCDEF, is responsible for cichopeptin biosynthesis. A cipA-deletion mutant exhibited significantly less virulence and rotten midribs than the parental strain upon spray inoculation on lettuce. However, the parental and mutant strains multiplied in lettuce leaves at a similar rate. These results demonstrate that cichopeptins contribute to virulence of P. cichorii SF1-54 on lettuce.
+
+cipABCDEF: !synthesizes! cichopeptin 
+cichopeptin: !induces! necrosis 
+glycine betaine: !stimulates! cichopeptin production 
+choline: !does not stimulate! cichopeptin production 
+cipA-deletion mutant: !exhibits less virulence! than parental strain 
+parental strain: !multiplies at similar rate! as cipA-deletion mutant

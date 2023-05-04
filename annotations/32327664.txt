@@ -1,0 +1,8 @@
+Branching/tillering is an important parameter of plant architecture and is tightly regulated by both internal factors (such as plant hormones) and external factors (such as light conditions). How the various signaling pathways converge to coordinately regulate branching is not well understood. Here, we report that in Arabidopsis, FHY3 and FAR1, two homologous transcription factors essential for phytochrome A-mediated light signaling, and SMXL6/SMXL7/SMXL8, three key repressors of the strigolactone (SL) signaling pathway, directly interact with SPL9 and SPL15 and suppress their transcriptional activation of BRC1, a key repressor of branching, thus promoting branching. In addition, FHY3 and FAR1 also directly up-regulate the expression of SMXL6 and SMXL7 to promote branching. Simulated shade treatment reduces the accumulation of FHY3 protein, leading to increased expression of BRC1 and reduced branching. Our results establish an integrated model of light and SL coordinately regulating BRC1 expression and branching through converging at the BRC1 promoter.
+
+FHY3/FAR1: !interact with! SMXL6/SMXL7/SMXL8 
+FHY3/FAR1: !repress! SPL9/SPL15 
+FHY3/FAR1: !up-regulate! SMXL6/SMXL7 
+Simulated shade: !reduces accumulation of! FHY3 protein 
+FHY3 protein: !increases expression of! BRC1 
+BRC1: !represses! branching

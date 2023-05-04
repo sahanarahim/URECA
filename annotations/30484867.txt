@@ -1,0 +1,7 @@
+During male gametogenesis in Arabidopsis, the haploid microspore undergoes an asymmetric division to produce a vegetative and a generative cell, the latter of which continues to divide symmetrically to form two sperms. This simple system couples cell cycle with cell fate specification. Here we addressed the role of DNA replication in male gametogenesis using a mutant bicellular pollen 1 (bice1), which produces bicellular, rather than tricellular, pollen grains as in the wild-type plant at anthesis. The mutation prolonged DNA synthesis of the generative cell, which resulted in c. 40% of pollen grains arrested at the two-nucleate stage. The extended S phase did not impact the cell fate of the generative cell as shown by cell-specific markers. BICE1 encodes a plant homolog of human D123 protein that is required for G1 progression, but the underlying mechanism is unknown. Here we showed that BICE1 interacts with MCM4 and MCM7 of the pre-replication complex. Consistently, double mutations in BICE1 and MCM4, or MCM7, also led to bicellular pollen and condensed chromosomes. These suggest that BICE1 plays a role in modulating DNA replication via interaction with MCM4 and MCM7.
+
+bice1: !prolongs! DNA synthesis
+bice1: !interacts with! MCM4
+bice1: !interacts with! MCM7
+MCM4: !interacts with! BICE1
+MCM7: !interacts with! BICE1

@@ -1,0 +1,8 @@
+Subgroup 4 of R2R3-MYB transcription factors consists of four members, MYB3, MYB4, MYB7, and MYB32, which possess the conserved EAR repression motif (pdLHLD/LLxiG/S) in their C termini. Here, we show that MYB3 is a newly identified repressor in Arabidopsis (<i>Arabidopsis thaliana</i>) phenylpropanoid biosynthesis. However, the repression mechanism of MYB3 is completely different from MYB4, MYB7, and MYB32. Yeast two-hybrid screening using MYB3 as a bait isolates NIGHT LIGHT-INDUCIBLE AND CLOCK-REGULATED1 (LNK1) and LNK2, members of a small family of four LNK proteins. The repression activity of MYB3 to cinnamate 4-hydroxylase (<i>C4H</i>) gene expression is directly regulated by corepressors LNK1 and LNK2, which could facilitate binding of MYB3 with <i>C4H</i> promoter. The two conserved Asp residues in both region 1 and 2 domain of LNKs are essential to mediate protein-protein interaction. Importantly, the Extra N-terminal Tail domain plays a negative role in LNK-MYB3 transcription complex-dependent repression of the <i>C4H</i> gene. We conclude that LNK1 and LNK2 act as transcriptional corepressors necessary for expression of the phenylpropanoids biosynthesis gene <i>C4H</i> through recruitment to its promoter via interaction with MYB3.
+
+MYB3: !represses! C4H
+LNK1: !interacts with! MYB3
+LNK2: !interacts with! MYB3
+LNK1/2: !facilitate binding of! MYB3
+Asp residues: !essential for! LNK-MYB3 interaction
+Extra N-terminal Tail domain: !negatively affects! LNK-MYB3 transcription complex

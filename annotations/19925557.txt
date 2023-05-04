@@ -1,0 +1,6 @@
+*Stem mechanical properties are critically linked to foliage deployment and growth strategy, yet variation in stem mechanics across species and habitats is poorly understood. *Here, we compared 32 plant species growing across four sites of contrasting rainfall and soil nutrient availability in Australia. *The modulus of elasticity (MOE) and modulus of rupture (MOR) were tightly correlated with dry sapwood density within sites, but species from low-rainfall environments had higher wood density for a given MOE and MOR compared with species growing in high-rainfall environments. The ratio of MOE to MOR was slightly lower for species at low-rainfall sites, suggesting that wood was stronger for a given elasticity. Most species had thick bark, but the mechanical contribution of bark to stem MOE was small. *Our results suggest that arid-adapted species would need to deploy more dry mass to support stems. Our results also highlight the importance of understanding how the biomechanics-wood density relationship evolves under different environmental conditions to better understand plant growth across diverse habitats.
+
+rainfall: !affects! wood density 
+wood density: !affects! MOE and MOR 
+bark: !contributes to! stem MOE 
+environment: !influences! biomechanics-wood density relationship

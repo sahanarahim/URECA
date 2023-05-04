@@ -1,0 +1,10 @@
+In the ovules of most sexually reproducing plants, one hypodermal cell differentiates into a megaspore mother cell (MMC), which gives rise to the female germline. <i>Trans</i>-acting small interfering RNAs known as tasiR-ARFs have been suggested to act non-cell-autonomously to prevent the formation of multiple MMCs by repressing <i>AUXIN RESPONSE FACTOR3</i> (<i>ARF3</i>) expression in Arabidopsis (<i>Arabidopsis thaliana</i>), but the underlying mechanisms are unknown. Here, we examined tasiR-ARF-related intercellular regulatory mechanisms. Expression analysis revealed that components of the tasiR-ARF biogenesis pathway are restricted to distinct ovule cell types, thus limiting tasiR-ARF production to the nucellar epidermis. We also provide data suggesting tasiR-ARF movement along the mediolateral axis into the hypodermal cells and basipetally into the chalaza. Furthermore, we used cell type-specific promoters to express <i>ARF3m</i>, which is resistant to tasiR-ARF regulation, in different ovule cell layers. <i>ARF3m</i> expression in hypodermal cells surrounding the MMC, but not in epidermal cells, led to a multiple-MMC phenotype, suggesting that tasiR-ARFs repress <i>ARF3</i> in these hypodermal cells to suppress ectopic MMC fate. RNA sequencing analyses in plants with hypodermally expressed <i>ARF3m</i> showed that <i>ARF3</i> potentially regulates MMC specification through phytohormone pathways. Our findings uncover intricate spatial restriction of tasiR-ARF biogenesis, which together with tasiR-ARF mobility enables cell-cell communication in MMC differentiation.
+
+tasiR-ARF: !represses! ARF3 
+tasiR-ARF: !produced in! nucellar epidermis 
+tasiR-ARF: !moves along! mediolateral axis 
+tasiR-ARF: !moves into! hypodermal cells 
+tasiR-ARF: !moves basipetally into! chalaza 
+ARF3m: !expressed in! hypodermal cells 
+ARF3m: !leads to! multiple-MMC phenotype 
+ARF3: !regulates! MMC specification

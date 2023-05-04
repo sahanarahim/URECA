@@ -1,0 +1,8 @@
+Root hair (RH) is essential for plant nutrient acquisition and the plant-environment communication. Here we report that transcription factors MYB30 and ETHYLENE INSENSITIVE3 (EIN3) modulate RH growth/elongation in Arabidopsis in an antagonistic way. The MYB30 loss-of-function mutant displays enhanced RH length, whereas the RH elongation in MYB30-overexpressing plants is highly repressed. MYB30 physically interacts with EIN3, a master transcription factor in ethylene signaling. MYB30 directly binds the promoter region of ROOT HAIR DEFECTIVE SIX-LIKE4 (RSL4) and represses its transcription. RSL4 loss-of-function suppresses the enhanced RH growth in myb30 mutant plants. Ethylene enhances MYB30-EIN3 complex formation, and reduces the association between MYB30 and RSL4 promotor via the action of EIN3. MYB30 and EIN3 antagonistically regulate the expression of RSL4 and a subset of core RH genes in a genome-wide way. Taken together, our work revealed a novel transcriptional network that modulates RH growth in plants.
+
+MYB30: !interacts with! EIN3
+EIN3: !enhances! MYB30-EIN3 complex formation
+MYB30: !represses! RSL4 transcription
+RSL4: !suppresses! enhanced RH growth in myb30 mutant plants
+Ethylene: !reduces! association between MYB30 and RSL4 promotor
+MYB30: !antagonistically regulates! expression of RSL4 and core RH genes

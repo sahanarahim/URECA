@@ -1,0 +1,6 @@
+['22325778', 'Plants and bacteria assimilate sulfur into cysteine. Cysteine biosynthesis  involves a bienzyme complex, the cysteine synthase complex (CSC), which consists  of serine-acetyl-transferase (SAT) and O-acetyl-serine-(thiol)-lyase (OAS-TL)  enzymes. The activity of OAS-TL is reduced by formation of the CSC. Although this  reduction is an inherent part of the self-regulation cycle of cysteine  biosynthesis, there has until now been no explanation as to how OAS-TL loses  activity in plants. Complexation of SAT and OAS-TL involves binding of the  C-terminal tail of SAT in one of the active sites of the homodimeric OAS-TL. We  here explore the flexibility of the unoccupied active site in Arabidopsis  thaliana cytosolic and mitochondrial OAS-TLs. Our results reveal two gates in the  OAS-TL active site that define its accessibility. The observed dynamics of the  gates show allosteric closure of the unoccupied active site of OAS-TL in the CSC,  which can hinder substrate binding, abolishing its turnover to cysteine.', '2012 Feb 8', 'Structure', '10.1016/j.str.2011.11.019', 'Wade']
+
+SAT: !binds to! OAS-TL 
+OAS-TL: !allosterically closes! unoccupied active site 
+CSC: !reduces! OAS-TL activity 
+CSC: !hinders! substrate binding

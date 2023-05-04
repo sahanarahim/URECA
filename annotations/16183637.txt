@@ -1,0 +1,10 @@
+MAPK phosphatases (MKPs) are negative regulators of MAPKs. Previously, we identified NtMKP1 as a novel calmodulin (CaM)-binding protein (Yamakawa, H., Katou, S., Seo, S., Mitsuhara, I., Kamada, H., and Ohashi, Y. (2004) J. Biol. Chem. 279, 928-936). In this study, we characterized the interaction of NtMKP1 with substrate MAPKs and CaM. NtMKP1 (produced by in vitro transcription/translation) inactivated salicylic acid-induced protein kinase (SIPK) through dephosphorylation of the TEY motif of SIPK. CaM bound but unexpectedly did not activate the phosphatase activity of NtMKP1. NtMKP1 has four characteristic domains, viz. a dual-specificity phosphatase catalytic domain, a gelsolin homology domain, a CaM-binding domain, and C-terminal domain. Deletion analysis revealed that the N-terminal non-catalytic region of NtMKP1 bound SIPK and was essential for inactivating SIPK, whereas the CaM-binding and C-terminal domains were dispensable. Moreover, the phosphatase activity of NtMKP1 was increased strongly by the binding of SIPK, but weakly by another MAPK, wound-induced protein kinase. Swapping and site-directed mutagenesis of SIPK and wound-induced protein kinase revealed that the strong activation of NtMKP1 phosphatase activity by SIPK partially depended on the putative common docking domain of SIPK. On the other hand, conversion of Lys(41) and Arg(43) of NtMKP1 to Ala (K41A/R43A) abolished the interaction with SIPK. Expression of constitutively active MAPK kinase in Nicotiana benthamiana induced activation of SIPK and cell death. Simultaneous expression of either NtMKP1 or NtMKP1 L443R, which was unable to bind CaM, compromised the constitutively active MAPK kinase-induced responses, whereas that of NtMKP1 K41A/R43A did not. These results indicate that the regulation of NtMKP1 activity by SIPK binding, but not by CaM binding, is important for the function of NtMKP1.
+
+NtMKP1: !inactivates! SIPK
+CaM: !binds! NtMKP1
+SIPK: !activates! NtMKP1
+NtMKP1: !interacts with! SIPK
+NtMKP1: !binds! SIPK
+MAPK kinase: !induces! SIPK activation
+NtMKP1: !compromises! MAPK kinase-induced responses
+SIPK: !partially depends on! common docking domain

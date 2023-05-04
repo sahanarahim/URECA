@@ -1,0 +1,8 @@
+['11836427', 'The TOM1 gene of Arabidopsis thaliana encodes a putative multipass transmembrane  protein which is necessary for the efficient multiplication of tobamoviruses. We  have previously shown that mutations severely destructive to the TOM1 gene reduce  tobamovirus multiplication to low levels but do not impair it completely. In this  report, we subjected one of the tom1 mutants (tom1-1) to another round of  mutagenesis and isolated a new mutant which did not permit a detectable level of  tobamovirus multiplication. In addition to tom1-1, this mutant carried a mutation  referred to as tom3-1. Positional cloning showed that TOM3 was one of two  TOM1-like genes in Arabidopsis. Based on the similarity between the amino acid  sequences of TOM1 and TOM3, together with the results of a Sos recruitment assay  suggesting that both TOM1 and TOM3 bind tobamovirus-encoded replication proteins,  we propose that TOM1 and TOM3 play parallel and essential roles in the  replication of tobamoviruses.', '2002 Mar', 'J Virol', '10.1128/jvi.76.5.2491-2497.2002', 'Ishikawa']
+
+TOM1: !encodes! protein 
+tom1-1: !reduces! tobamovirus multiplication 
+tom3-1: !carried by! tom1-1 
+TOM3: !similar to! TOM1 
+TOM1/TOM3: !binds! tobamovirus-encoded replication proteins 
+TOM1/TOM3: !play essential roles in! tobamovirus replication

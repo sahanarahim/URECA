@@ -1,0 +1,12 @@
+The ErbB-3 BINDING PROTEIN 1 (EBP1) drives growth, but the mechanism of how it acts in plants is little understood. Here, we show that EBP1 expression and protein abundance in Arabidopsis (<i>Arabidopsis thaliana</i>) are predominantly confined to meristematic cells and are induced by sucrose and partially dependent on TARGET OF RAPAMYCIN (TOR) kinase activity. Consistent with being downstream of TOR, silencing of EBP1 restrains, while overexpression promotes, root growth, mostly under sucrose-limiting conditions. Inducible overexpression of RETINOBLASTOMA RELATED (RBR), a sugar-dependent transcriptional repressor of cell proliferation, depletes meristematic activity and causes precocious differentiation, which is attenuated by EBP1. To understand the molecular mechanism, we searched for EBP1- and RBR-interacting proteins by affinity purification and mass spectrometry. In line with the double-stranded RNA-binding activity of EBP1 in human (<i>Homo sapiens</i>) cells, the overwhelming majority of EBP1 interactors are part of ribonucleoprotein complexes regulating many aspects of protein synthesis, including ribosome biogenesis and mRNA translation. We confirmed that EBP1 associates with ribosomes and that EBP1 silencing hinders ribosomal RNA processing. We revealed that RBR also interacts with a set of EBP1-associated nucleolar proteins as well as factors that function in protein translation. This suggests EBP1 and RBR act antagonistically on common processes that determine the capacity for translation to tune meristematic activity in relation to available resources.
+
+EBP1: !expresses in! meristematic cells
+EBP1: !induces by! sucrose
+EBP1: !dependent on! TOR kinase activity
+EBP1: !promotes! root growth
+RBR: !depletes! meristematic activity
+RBR: !causes! precocious differentiation
+EBP1: !interacts with! ribosome biogenesis factors
+EBP1: !associates with! ribosomes
+RBR: !interacts with! EBP1-associated nucleolar proteins
+RBR: !interacts with! translation factors

@@ -1,0 +1,17 @@
+['20571114', 'Suberin is a protective hydrophobic barrier consisting of phenolics, glycerol,  and a variety of fatty acid derivatives, including C18:0-C22:0 primary fatty  alcohols. An eight-member gene family encoding alcohol-forming fatty  acyl-coenzyme A reductases (FARs) has been identified in Arabidopsis (Arabidopsis  thaliana). Promoter-driven expression of the beta-glucuronidase reporter gene  indicated that three of these genes, FAR1(At5g22500), FAR4(At3g44540), and  FAR5(At3g44550), are expressed in root endodermal cells. The three genes were  transcriptionally induced by wounding and salt stress. These patterns of gene  expression coincide with known sites of suberin deposition. We then characterized  a set of mutants with T-DNA insertions in FAR1, FAR4, or FAR5 and found that the  suberin compositions of roots and seed coats were modified in each far mutant.  Specifically, C18:0-OH was reduced in far5-1, C20:0-OH was reduced in far4-1, and  C22:0-OH was reduced in far1-1. We also analyzed the composition of polymer-bound  lipids of leaves before and after wounding and found that the basal levels of  C18:0-C22:0 primary alcohols in wild-type leaves were increased by wounding. In  contrast, C18:0-OH and C22:0-OH were not increased by wounding in far5-1 and  far1-1 mutants, respectively. Heterologous expression of FAR1, FAR4, and FAR5 in  yeast confirmed that they are indeed active alcohol-forming FARs with distinct,  but overlapping, chain length specificities ranging from C18:0 to C24:0.  Altogether, these results indicate that Arabidopsis FAR1, FAR4, and FAR5 generate  the fatty alcohols found in root, seed coat, and wound-induced leaf tissue.', '2010 Aug', 'Plant Physiol', '10.1104/pp.110.158238', 'Rowland']
+
+FAR1: !synthesizes! C22:0-OH 
+FAR4: !synthesizes! C20:0-OH 
+FAR5: !synthesizes! C18:0-OH 
+FAR1: !localizes to! root endodermal cells 
+FAR4: !localizes to! root endodermal cells 
+FAR5: !localizes to! root endodermal cells 
+FAR1: !enhances! suberin deposition 
+FAR4: !enhances! suberin deposition 
+FAR5: !enhances! suberin deposition 
+FAR1: !represses! C22:0-OH 
+FAR4: !represses! C20:0-OH 
+FAR5: !represses! C18:0-OH 
+FAR1: !affects! wound-induced leaf tissue 
+FAR4: !affects! wound-induced leaf tissue 
+FAR5: !affects! wound-induced leaf tissue

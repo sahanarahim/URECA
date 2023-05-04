@@ -1,0 +1,8 @@
+Tiling arrays of high-density oligonucleotide probes spanning the entire genome are powerful tools for the discovery of new genes. However, it is difficult to determine the structure of the spliced product of a structurally unknown gene from noisy array signals only. Here we introduce a statistical method that estimates the precise splicing points and the exon/intron structure of a structurally unknown gene by maximizing the odds or the ratio of posterior probabilities of the structure under the observation of array signal intensities and nucleic acid sequences. Our method more accurately predicted the gene structures than the simple threshold-based method, and more correctly estimated the expression values of structurally unknown genes than the window-based method. It was observed that the Markov model contributed to the precision of splice points, and that the statistical significance of expression (P-value) represented the reliability of the estimated gene structure and expression value well. We have implemented the method as a program ARTADE (ARabidopsis Tiling Array-based Detection of Exons) and applied it to the Arabidopsis thaliana whole-genome array data analysis. The database of the predicted results and the ARTADE program are available at http://omicspace.riken.jp/ARTADE/.
+
+Gene: !affects! Expression 
+Gene: !structured by! Statistical Method 
+Gene: !predicted by! ARTADE Program 
+Statistical Method: !maximizes! Odds 
+Statistical Method: !contributes to! Precision of Splice Points 
+Expression: !represented by! P-Value

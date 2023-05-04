@@ -1,0 +1,8 @@
+['15799997', 'To clarify the processes involved in plant immunity, we have isolated and  characterized a single recessive Arabidopsis mutant, cad1 (constitutively  activated cell death 1), which shows a phenotype that mimics the lesions seen in  the hypersensitive response (HR). This mutant shows spontaneously activated  expression of pathogenesis-related (PR) genes, and leading to a 32-fold increase  in salicylic acid (SA). Inoculation of cad1 mutant plants with Pseudomonas  syringae pv tomato DC3000 shows that the cad1 mutation results in the restriction  of bacterial growth. Cloning of CAD1 reveals that this gene encodes a protein  containing a domain with significant homology to the MACPF (membrane attack  complex and perforin) domain of complement components and perforin proteins that  are involved in innate immunity in animals. Furthermore, cell death is suppressed  in transgenic cad1 plants expressing nahG, which encodes an SA-degrading enzyme.  We therefore conclude that the CAD1 protein negatively controls the SA-mediated  pathway of programmed cell death in plant immunity.', '2005 Jun', 'Plant Cell Physiol', '10.1093/pcp/pci095', 'Yamaguchi']
+
+cad1: !mimics! HR 
+cad1: !induces! PR genes 
+cad1: !increases! SA 
+cad1: !restricts! bacterial growth 
+CAD1: !homologous to! MACPF domain 
+CAD1: !negatively controls! SA-mediated pathway

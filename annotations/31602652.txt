@@ -1,0 +1,8 @@
+The glaucophyte Cyanophora paradoxa represents the most basal member of the kingdom Archaeplastida, but the function and expression of most of its genes are unknown. This information is needed to uncover how functional gene modules, that is groups of genes performing a given function, evolved in the plant kingdom. We have generated a gene expression atlas capturing responses of Cyanophora to various abiotic stresses. The data were included in the CoNekT-Plants database, enabling comparative transcriptomic analyses across two algae and six land plants. We demonstrate how the database can be used to study gene expression, co-expression networks and gene function in Cyanophora, and how conserved transcriptional programs can be identified. We identified gene modules involved in phycobilisome biosynthesis, response to high light and cell division. While we observed no correlation between the number of differentially expressed genes and the impact on growth of Cyanophora, we found that the response to stress involves a conserved, kingdom-wide transcriptional reprogramming, which is activated upon most stresses in algae and land plants. The Cyanophora stress gene expression atlas and the tools found in the https://conekt.plant.tools/ database thus provide a useful resource to reveal functionally related genes and stress responses in the plant kingdom.
+
+Gene: !affects! Process
+Gene: !synthesizes! Phycobilisome
+Gene: !responds to! High Light
+Gene: !regulates! Cell Division
+Gene: !represses! Transcriptional Reprogramming
+Gene: !localizes to! CoNekT-Plants Database

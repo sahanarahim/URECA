@@ -1,0 +1,7 @@
+Iron is an essential nutrient for all organisms but toxic when present in excess. Consequently, plants carefully regulate their iron uptake, dependent on the FRO2 ferric reductase and the IRT1 transporter, to control its homeostasis. Arabidopsis IRT2 gene, whose expression is induced in root epidermis upon iron deprivation, was shown to encode a functional iron/zinc transporter in yeast, and proposed to function in iron acquisition from the soil. In this study, we demonstrate that, unlike its close homolog IRT1, IRT2 is not involved in iron absorption from the soil since overexpression of IRT2 does not rescue the iron uptake defect of irt1-1 mutant and since a null irt2 mutant shows no chlorosis in low iron. Consistently, an IRT2-green fluorescent fusion protein, transiently expressed in culture cells, localizes to intracellular vesicles. However, IRT2 appears strictly co-regulated with FRO2 and IRT1, supporting the view that IRT2 is an integral component of the root response to iron deficiency in root epidermal cells. We propose a model where IRT2 likely prevents toxicity from IRT1-dependent iron fluxes in epidermal cells, through compartmentalization.
+
+FRO2: !regulates! Iron uptake
+IRT1: !regulates! Iron uptake
+IRT2: !co-regulated with! FRO2, IRT1
+IRT2: !localizes to! Intracellular vesicles
+IRT2: !prevents toxicity from! IRT1-dependent iron fluxes

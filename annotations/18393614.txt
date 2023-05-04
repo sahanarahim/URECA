@@ -1,0 +1,9 @@
+To analyze whether metabolite import into Pectobacterium atrosepticum cells affects bacterial virulence, we investigated the function of a carrier which exhibits significant structural homology to characterized carboxylic-acid transport proteins. The corresponding gene, ECA3984, previously annotated as coding for a Na(+)/sulphate carrier, in fact encodes a highly specific citrate transporter (Cit1) which is energized by the proton-motive force. Expression of the cit1 gene is stimulated by the presence of citrate in the growth medium and is substantial during growth of P. atrosepticum on potato tuber tissue. Infection of tuber tissue with P. atrosepticum leads to reduced citrate levels. P. atrosepticum insertion mutants, lacking the functional Cit1 protein, did not grow in medium containing citrate as the sole carbon source, showed a substantially reduced ability to macerate potato tuber tissue, and did not provoke reduced citrate levels in the plant tissue upon infection. We propose that citrate uptake into P. atrosepticum is critical for full bacterial virulence.
+
+Gene: ECA3984 !encodes! Cit1
+Cit1: !transports! citrate
+Gene: ECA3984 !stimulated by! citrate
+Cit1: !energized by! proton-motive force
+P. atrosepticum !infects! tuber tissue
+P. atrosepticum !lacks! functional Cit1 protein
+Cit1: !critical for! full bacterial virulence

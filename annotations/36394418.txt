@@ -1,0 +1,10 @@
+Twenty-four nucleotide long microRNAs (lmiRNAs) direct DNA methylation at target genes and regulate their transcription. The evolutionary origin of lmiRNAs and the range of lmiRNA-mediated regulation remain obscure. Here, we reannotated lmiRNAs and their targets in rice by applying stringent criteria. We found that the majority of lmiRNAs are derived from Miniature Inverted-repeat Transposable Elements (MITEs) and most sites targeted by MITE-derived lmiRNAs reside within MITEs, suggesting co-evolution of lmiRNAs and their targets through MITE amplification. lmiRNAs undergo dynamically changes under stress conditions and the genes targeted by lmiRNAs show an enrichment for stress-responsive genes, suggesting that lmiRNAs are widely involved in plant responses to stresses. We constructed the evolutionary histories of lmiRNAs and their targets. Nearly half of lmiRNAs emerged before or when the AA genome was diverged, while the emergence of lmiRNA targets coincided with or followed the emergence of lmiRNAs. Furthermore, we found that the sequences of a lmiRNA target site underwent variations, coincident with the divergence of rice accessions and the distribution of rice accessions in different geographical locations and climatic conditions. Our findings highlight MITEs as an important origin of lmiRNAs and suggest that the evolution of lmiRNA-target regulatory modules may contribute to rice adaptation to environmental changes.
+
+lmiRNA: !derived from! MITEs 
+MITEs: !targeted by! lmiRNAs 
+lmiRNAs: !dynamically change under! stress conditions 
+lmiRNAs: !enrich for! stress-responsive genes 
+lmiRNAs: !emerged before or when! AA genome diverged 
+lmiRNA targets: !coincided with or followed! emergence of lmiRNAs 
+lmiRNA target sites: !underwent variations! with divergence of rice accessions 
+rice accessions: !distributed in! different geographical locations and climatic conditions

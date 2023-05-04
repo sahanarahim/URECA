@@ -1,0 +1,11 @@
+['26516022', 'Poly(ADP-ribosyl)ation is a reversible post-translational modification of  proteins, characterized by the addition of poly(ADP-ribose) (PAR) to proteins by  poly(ADP-ribose) polymerase (PARP), and removal of PAR by poly(ADP-ribose)  glycohydrolase (PARG). Three PARPs and two PARGs have been found in Arabidopsis,  but their respective roles are not fully understood. In this study, the functions  of each PARP and PARG in DNA repair were analyzed based on their mutant  phenotypes under genotoxic stresses. Double or triple mutant analysis revealed  that PARP1 and PARP2, but not PARP3, play a similar but not critical role in DNA  repair in Arabidopsis seedlings. PARG1 and PARG2 play an essential and a minor  role, respectively under the same conditions. Mutation of PARG1 results in  increased DNA damage level and enhanced cell death in plants after bleomycin  treatment. PARG1 expression is induced primarily in root and shoot meristems by  bleomycin and induction of PARG1 is dependent on ATM and ATR kinases. PARG1 also  antagonistically modulates the DNA repair process by preventing the  over-induction of DNA repair genes. Our study determined the contribution of each  PARP and PARG member in DNA repair and indicated that PARG1 plays a critical role  in this process.', '2015 Oct 30', 'Sci Rep', '10.1038/srep15892', 'Ge']
+
+PARP1: !affects! DNA repair
+PARP2: !affects! DNA repair
+PARP3: !does not affect! DNA repair
+PARG1: !affects! DNA repair
+PARG2: !affects! DNA repair
+PARG1: !induces! expression
+ATM: !induces! PARG1 expression
+ATR: !induces! PARG1 expression
+PARG1: !antagonizes! DNA repair genes

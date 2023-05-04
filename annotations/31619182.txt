@@ -1,0 +1,8 @@
+Polycomb repressive complex 2 (PRC2) is an epigenetic transcriptional repression system, whose catalytic subunit (ENHANCER OF ZESTE HOMOLOG 2, EZH2 in animals) is responsible for trimethylating histone H3 at lysine 27 (H3K27me3). In mammals, gain-of-function mutations as well as overexpression of EZH2 have been associated with several tumors, therefore making this subunit a suitable target for the development of selective inhibitors. Indeed, highly specific small-molecule inhibitors of EZH2 have been reported. In plants, mutations in some PRC2 components lead to embryonic lethality, but no trial with any inhibitor has ever been reported. We show here that the 1,5-bis (3-bromo-4-methoxyphenyl)penta-1,4-dien-3-one compound (RDS 3434), previously reported as an EZH2 inhibitor in human leukemia cells, is active on the Arabidopsis catalytic subunit of PRC2, since treatment with the drug reduces the total amount of H3K27me3 in a dose-dependent fashion. Consistently, we show that the expression level of two PRC2 targets is significantly increased following treatment with the RDS 3434 compound. Finally, we show that impairment of H3K27 trimethylation in Arabidopsis seeds and seedlings affects both seed germination and root growth. Our results provide a useful tool for the plant community in investigating how PRC2 affects transcriptional control in plant development.
+
+EZH2: !enhances! H3K27me3
+RDS 3434: !inhibits! EZH2
+EZH2: !represses! PRC2 targets
+RDS 3434: !increases! PRC2 targets
+H3K27me3: !affects! seed germination
+H3K27me3: !affects! root growth

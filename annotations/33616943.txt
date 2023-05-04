@@ -1,0 +1,8 @@
+Floral pigmentation patterning is important for pollinator attraction as well as aesthetic appeal. Patterning of anthocyanin accumulation is frequently associated with variation in activity of the Myb, bHLH and WDR transcription factor complex (MBW) that regulates anthocyanin biosynthesis. Investigation of two classic mutants in Antirrhinum majus, mutabilis and incolorata I, showed they affect a gene encoding a bHLH protein belonging to subclade bHLH-2. The previously characterised gene, Delila, which encodes a bHLH-1 protein, has a bicoloured mutant phenotype, with residual lobe-specific pigmentation conferred by Incolorata I. Both Incolorata I and Delila induce expression of the anthocyanin biosynthetic gene DFR. Rosea 1 (Myb) and WDR1 proteins compete for interaction with Delila, but interact positively to promote Incolorata I activity. Delila positively regulates Incolorata I and WDR1 expression. Hierarchical regulation can explain the bicoloured patterning of delila mutants, through effects on both regulatory gene expression and the activity of promoters of biosynthetic genes like DFR that mediate MBW regulation. bHLH-1 and bHLH-2 proteins contribute to establishing patterns of pigment distribution in A. majus flowers in two ways: through functional redundancy in regulating anthocyanin biosynthetic gene expression, and through differences between the proteins in their ability to regulate genes encoding transcription factors.
+
+Myb: !interacts with! Delila
+Delila: !regulates! Incolorata I
+Delila: !regulates! WDR1
+Incolorata I: !enhances! DFR expression
+Rosea 1: !competes for interaction with! Delila
+WDR1: !interacts positively with! Incolorata I

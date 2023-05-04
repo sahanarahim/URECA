@@ -1,0 +1,12 @@
+['18192441', 'The 70-kD heat shock proteins (Hsp70s) have been shown to be important for  protein folding, protein translocation, and stress responses in almost all  organisms and in almost all subcellular compartments. However, the function of  plastid stromal Hsp70s in higher plants is still uncertain. Genomic surveys have  revealed that there are two putative stromal Hsp70s in Arabidopsis thaliana,  denoted cpHsc70-1 (At4g24280) and cpHsc70-2 (At5g49910). In this study, we show  that cpHsc70-1 and cpHsc70-2 could indeed be imported into the chloroplast  stroma. Their corresponding T-DNA insertion knockout mutants were isolated and  designated as Deltacphsc70-1 and Deltacphsc70-2. No visible phenotype was  observed in the Deltacphsc70-2 mutant under normal growth conditions. In  contrast, Deltacphsc70-1 mutant plants exhibited variegated cotyledons, malformed  leaves, growth retardation, and impaired root growth, even though the protein  level of cpHsc70-2 was up-regulated in the Deltacphsc70-1 mutant. After heat  shock treatment of germinating seeds, root growth from Deltacphsc70-1 seeds was  further impaired, indicating that cpHsc70-1 is important for thermotolerance of  germinating seeds. No Deltacphsc70-1 Deltacphsc70-2 double mutant could be  obtained, suggesting that the Deltacphsc70 double knockout was lethal. Genotype  analyses of F(1) seedlings from various crosses indicated that double-knockout  mutation was lethal to the female gametes and reduced the transmission efficiency  of the male gametes. These results indicate that cpHsc70s are essential for plant  development and the two cpHsc70s most likely have redundant but also distinct  functions.', '2008 Mar', 'Plant Physiol', '10.1104/pp.107.114496', 'Li']
+
+cpHsc70-1: !affects! Plant development 
+cpHsc70-2: !affects! Plant development 
+cpHsc70-1: !enhances! Thermotolerance of germinating seeds 
+cpHsc70-2: !upregulates! In Deltacphsc70-1 mutant plants 
+cpHsc70-1: !localizes to! Chloroplast stroma 
+cpHsc70-2: !localizes to! Chloroplast stroma 
+cpHsc70-1: !interacts with! cpHsc70-2 
+cpHsc70-2: !interacts with! cpHsc70-1 
+cpHsc70-1: !reduces transmission efficiency of! Male gametes 
+cpHsc70-2: !reduces transmission efficiency of! Male gametes

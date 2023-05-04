@@ -1,0 +1,8 @@
+Transposable elements (TEs) are an important source for generating small interfering RNAs (siRNAs) in plants and animals. Although TE-siRNA-induced silencing of TEs by RNA-directed DNA methylation (RdDM) in the maintenance of genome integrity has been intensively studied, it is unknown whether this type of silencing occurs in suppressing endogenous non-TE genes during host-pathogen interactions. Here we show that a TE-siRNA, TE-siR815, causes opposite functions for the two alleles, WRKY45-1 and WRKY45-2, of the WRKY45 transcription factor in rice resistance to Xanthomonas oryzae pv. oryzae, which causes the most devastating bacterial disease in rice worldwide. Expression of WRKY45-1, but not WRKY45-2, generated TE-siR815, which in turn repressed ST1, an important component in WRKY45-mediated resistance, by RdDM. Suppression of ST1 abolished WRKY45-mediated resistance leading to pathogen susceptibility. These results suggest that TE-siR815 contributes to the natural variation of the WRKY45 locus and TE-siR815-induced suppression of ST1 results in the negative role of WRKY45-1 but positive role of WRKY45-2 in regulating disease resistance.
+
+TE-siRNA: !induces! RdDM 
+RdDM: !represses! ST1 
+WRKY45-1: !generates! TE-siRNA 
+WRKY45-2: !lacks! TE-siRNA 
+WRKY45-1: !suppresses! ST1 
+WRKY45-2: !enhances! ST1

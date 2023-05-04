@@ -1,0 +1,10 @@
+['31874860', 'The metabolic intermediate acetyl-CoA links anabolic and catabolic processes and  coordinates metabolism with cellular signaling by influencing protein  acetylation. In this study we demonstrate that in Arabidopsis (Arabidopsis  thaliana), two distinctly localized acetate-activating enzymes, ACETYL-COA  SYNTHETASE (ACS) in plastids and ACETATE NON-UTILIZING1 (ACN1) in peroxisomes,  function redundantly to prevent the accumulation of excess acetate. In contrast  to the near wild-type morphological and metabolic phenotypes of acs or acn1  mutants, the acs acn1 double mutant is delayed in growth and sterile, which is  associated with hyperaccumulation of cellular acetate and decreased accumulation  of acetyl-CoA-derived intermediates of central metabolism. Using multiple mutant  stocks and stable isotope-assisted metabolic analyses, we demonstrate the twin  metabolic origins of acetate from the oxidation of ethanol and the nonoxidative  decarboxylation of pyruvate, with acetaldehyde being the common intermediate  precursor of acetate. Conversion from pyruvate to acetate is activated under  hypoxic conditions, and ACS recovers carbon that would otherwise be lost from the  plant as ethanol. Plastid-localized ACS metabolizes cellular acetate and  contributes to the de novo biosynthesis of fatty acids and Leu;  peroxisome-localized ACN1 enables the incorporation of acetate into organic acids  and amino acids. Thus, the activation of acetate in distinct subcellular  compartments provides plants with the metabolic flexibility to maintain  physiological levels of acetate and a metabolic mechanism for the recovery of  carbon that would otherwise be lost as ethanol, for example following hypoxia.', '2020 Mar', 'Plant Physiol', '10.1104/pp.19.01162', 'ORCID:']
+
+ACS: !synthesizes! acetyl-CoA 
+ACN1: !synthesizes! acetate 
+Ethanol: !oxidizes to! acetate 
+Pyruvate: !decarboxylates to! acetate 
+Acetaldehyde: !converts to! acetate 
+ACS: !metabolizes! cellular acetate 
+ACS: !contributes to! de novo biosynthesis of fatty acids and Leu 
+ACN1: !incorporates! acetate into organic acids and amino acids

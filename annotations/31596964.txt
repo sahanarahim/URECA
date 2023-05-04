@@ -1,0 +1,8 @@
+Wood (secondary xylem) formation in tree species is dependent on auxin-mediated vascular cambium activity in stems. However, the complex regulatory networks underlying xylem formation remain elusive. Xylem development in Populus was characterized based on microscopic observations of stem sections in transgenic plants. Transcriptomic, quantitative real-time PCR, chromatin immunoprecipitation PCR, and electrophoretic mobility shift assay analyses were conducted to identify target genes involved in xylem development. Yeast two-hybrid, pull-down, bimolecular fluorescence complementation, and co-immunoprecipitation assays were used to validate protein-protein interactions. PaC3H17 and its target PaMYB199 were found to be predominantly expressed in the vascular cambium and developing secondary xylem in Populus stems and play opposite roles in controlling cambial cell proliferation and secondary cell wall thickening through an overlapping pathway. Further, PaC3H17 interacts with PaMYB199 to form a complex, attenuating PaMYB199-driven suppression of its xylem targets. Exogenous auxin application enhances the dual control of the PaC3H17-PaMYB199 module during cambium division, thereby promoting secondary cell wall deposition. Dual regulation of xylem formation by an auxin-mediated PaC3H17-PaMYB199 module represents a novel regulatory mechanism in Populus, increasing our understanding of the regulatory networks involved in wood formation.
+
+PaC3H17: !interacts with! PaMYB199
+PaC3H17: !enhances! PaMYB199-driven suppression
+PaC3H17: !represses! xylem targets
+PaMYB199: !opposes! PaC3H17
+PaMYB199: !suppresses! xylem targets
+auxin: !enhances! PaC3H17-PaMYB199 module

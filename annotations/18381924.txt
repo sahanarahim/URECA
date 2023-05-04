@@ -1,0 +1,10 @@
+['18381924', 'Stem cells in shoot and floral meristems of Arabidopsis thaliana secrete the  signaling peptide CLAVATA3 (CLV3) that restricts stem cell proliferation and  promotes differentiation. The CLV3 signaling pathway is proposed to comprise the  receptor kinase CLV1 and the receptor-like protein CLV2. We show here that the  novel receptor kinase CORYNE (CRN) and CLV2 act together, and in parallel with  CLV1, to perceive the CLV3 signal. Mutations in CRN cause stem cell  proliferation, similar to clv1, clv2, and clv3 mutants. CRN has additional  functions during plant development, including floral organ development, that are  shared with CLV2. The CRN protein lacks a distinct extracellular domain, and we  propose that CRN and CLV2 interact via their transmembrane domains to establish a  functional receptor.', '2008 Apr', 'Plant Cell', '10.1105/tpc.107.057547', 'Simon']
+
+CLV3: !signals! CLV1 
+CLV3: !signals! CLV2 
+CLV3: !signals! CRN 
+CLV1: !perceives! CLV3 
+CLV2: !perceives! CLV3 
+CRN: !perceives! CLV3 
+CRN: !shares functions with! CLV2 
+CRN: !interacts with! CLV2

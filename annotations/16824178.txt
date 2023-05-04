@@ -1,0 +1,7 @@
+['16824178', 'Cell expansion, and its coordination with cell division, plays a critical role in  the growth and development of plant organs. However, the genes controlling cell  expansion during organogenesis are largely unknown. Here, we demonstrate that a  novel Arabidopsis gene, ARGOS-LIKE (ARL), which has some sequence homology to the  ARGOS gene, is involved in this process. Reduced expression or overexpression of  ARL in Arabidopsis results in smaller or larger cotyledons and leaves as well as  other lateral organs, respectively. Anatomical examination of cotyledons and  leaves in ARL transgenic plants demonstrates that the alteration in size can be  attributed to changes in cell size rather than cell number, indicating that ARL  plays a role in cell expansion-dependent organ growth. ARL is upregulated by  brassinosteroid (BR) and this induction is impaired in the BR-insensitive mutant  bri1, but not in the BR-deficient mutant det2. Ectopic expression of ARL in  bri1-119 partially restores cell growth in cotyledons and leaves. Our results  suggest that ARL acts downstream of BRI1 and partially mediates BR-related cell  expansion signals during organ growth.', '2006 Jul', 'Plant J', '10.1111/j.1365-313X.2006.02750.x', 'Chua']
+
+ARL: !affects! Cell expansion 
+BR: !induces! ARL 
+BRI1: !regulates! ARL 
+det2: !does not affect! ARL 
+bri1-119: !partially restores! Cell growth

@@ -1,0 +1,6 @@
+During evolution, pathogens have developed sophisticated strategies to suppress plant defense responses and promote successful colonization of their hosts. In their attempt to quell host resistance, Gram-negative phytopathogenic bacteria inject type III effectors (T3Es) into plant cells, where they typically target plant components essential for the establishment of defense responses. We have recently shown that the XopD T3E from the strain B100 of Xanthomonas campestris pathovar campestris (XopDXccB100) is able to target AtMYB30, a positive regulator of Arabidopsis defense responses. This protein interaction leads to inhibition of AtMYB30 transcriptional activity and promotion of bacterial virulence. Here, we describe the identification of the complete protein sequence of XopDXccB100, which presents an N-terminal extension of 40 amino acids with respect to the protein annotated in public databases. The implications of this finding are discussed.
+
+XopD: !targets! AtMYB30
+AtMYB30: !regulates! defense responses
+XopD: !inhibits! AtMYB30 transcriptional activity
+XopD: !promotes! bacterial virulence

@@ -1,0 +1,16 @@
+Ribulose 1,5-bisphosphate carboxylase/oxygenase (RuBisCO) is composed of small subunits (SSs) encoded by rbcS on the nuclear genome and large subunits (LSs) encoded by rbcL on the chloroplast genome, and it is localized in the chloroplast stroma. Constitutive knockdown of the rbcS gene reportedly causes a reduction in LS quantity and the level of translation in tobacco and the unicellular green alga Chlamydomonas. Constitutively knockdown of the rbcS gene also causes a reduction in photosynthesis, which influences the expression of photosynthetic genes, including the rbcL gene. Here, to investigate the influence of the knockdown of the rbcS gene on the expression of the rbcL gene under normal photosynthetic conditions, we generated transgenic tobacco plants in which the amount of endogenous rbcS mRNA can be reduced by inducible expression of antisense rbcS mRNA with dexamethasone (DEX) treatment at later stages of growth. In already expanded leaves, after DEX treatment, the level of photosynthesis, RuBisCO quantity and the chloroplast ultrastructure were normal, but the amount of rbcS mRNA was reduced. An in vivo pulse labeling experiment and polysome analysis showed that LSs were translated at the same rate as in wild-type leaves. On the other hand, in newly emerging leaves, the rbcS mRNA quantity, the level of photosynthesis and the quantity of RuBisCO were reduced, and chloroplasts failed to develop. In these leaves, the level of LS translation was inhibited, as previously described. These results suggest that LS translation is regulated in an SS-independent manner in expanded leaves under normal photosynthetic conditions.
+
+rbcS: !encodes! SSs 
+rbcL: !encodes! LSs 
+rbcS: !localizes to! nuclear genome 
+rbcL: !localizes to! chloroplast genome 
+rbcS: !represses! photosynthesis 
+rbcS: !influences! rbcL expression 
+DEX: !reduces! rbcS mRNA 
+photosynthesis: !normalizes! RuBisCO quantity 
+chloroplast ultrastructure: !normalizes! after DEX treatment 
+LSs: !translated at same rate! in wild-type leaves 
+rbcS: !reduces! photosynthesis and RuBisCO quantity 
+chloroplasts: !fail to develop! in newly emerging leaves 
+LS translation: !inhibited! in newly emerging leaves 
+LS translation: !regulated in SS-independent manner! in expanded leaves

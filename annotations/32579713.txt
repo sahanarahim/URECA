@@ -1,0 +1,8 @@
+The floral transition of the maize (Zea mays ssp. mays) shoot apical meristem determines leaf number and flowering time, which are key traits influencing local adaptation and yield potential. dlf1 (delayed flowering1) encodes a basic leucine zipper protein that interacts with the florigen ZCN8 to mediate floral induction in the shoot apex. However, the mechanism of how dlf1 promotes floral transition remains largely unknown. We demonstrate that dlf1 underlies qLB7-1, a quantitative trait locus controlling leaf number and flowering time that was identified in a BC<sub>2</sub> S<sub>3</sub> population derived from a cross between maize and its wild ancestor, teosinte (Zea mays ssp. parviglumis). Transcriptome sequencing and chromatin immunoprecipitation sequencing demonstrated that DLF1 binds the core promoter of two AP1/FUL subfamily MADS-box genes, ZmMADS4 and ZmMADS67, to activate their expression. Knocking out ZmMADS4 and ZmMADS67 both increased leaf number and delayed flowering, indicating that they promote the floral transition. Nucleotide diversity analysis revealed that dlf1 and ZmMADS67 were targeted by selection, suggesting that they may have played important roles in maize flowering time adaptation. We show that dlf1 promotes maize floral transition by directly activating ZmMADS4 and ZmMADS67 in the shoot apex, providing novel insights into the mechanism of maize floral transition.
+
+dlf1: !interacts with! florigen ZCN8 
+dlf1: !underlies! qLB7-1 
+dlf1: !binds! core promoter of ZmMADS4 and ZmMADS67 
+dlf1: !activates! expression of ZmMADS4 and ZmMADS67 
+ZmMADS4 and ZmMADS67: !promote! floral transition 
+dlf1: !targeted by! selection

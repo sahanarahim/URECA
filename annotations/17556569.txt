@@ -1,0 +1,6 @@
+Shipley et al. (Reports, 3 November 2006, p. 812) developed a quantitative method for predicting the relative abundance of species from measured traits. We show that the method can have high explanatory power even when all trait and abundance data are randomly and independently generated, because of a mathematical dependence between the observations and predictions. We also suggest a potential solution to this problem.
+
+Gene: !affects! Trait
+Gene: !predicts! Abundance
+Trait: !depends on! Gene
+Abundance: !correlates with! Gene

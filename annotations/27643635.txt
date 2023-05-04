@@ -1,0 +1,10 @@
+Aggressive fungal pathogens such as Botrytis and Verticillium spp. cause severe crop losses worldwide. We recently discovered that Botrytis cinerea delivers small RNAs (Bc-sRNAs) into plant cells to silence host immunity genes. Such sRNA effectors are mostly produced by Botrytis cinerea Dicer-like protein 1 (Bc-DCL1) and Bc-DCL2. Here we show that expressing sRNAs that target Bc-DCL1 and Bc-DCL2 in Arabidopsis and tomato silences Bc-DCL genes and attenuates fungal pathogenicity and growth, exemplifying bidirectional cross-kingdom RNAi and sRNA trafficking between plants and fungi. This strategy can be adapted to simultaneously control multiple fungal diseases. We also show that Botrytis can take up external sRNAs and double-stranded RNAs (dsRNAs). Applying sRNAs or dsRNAs that target Botrytis DCL1 and DCL2 genes on the surface of fruits, vegetables and flowers significantly inhibits grey mould disease. Such pathogen gene-targeting RNAs represent a new generation of environmentally friendly fungicides.
+
+Bc-DCL1: !produces! Bc-sRNAs 
+Bc-DCL2: !produces! Bc-sRNAs 
+Bc-DCL1: !silenced by! sRNAs 
+Bc-DCL2: !silenced by! sRNAs 
+Botrytis: !takes up! external sRNAs 
+Botrytis: !takes up! dsRNAs 
+sRNAs: !inhibit! Botrytis DCL1 
+dsRNAs: !inhibit! Botrytis DCL2

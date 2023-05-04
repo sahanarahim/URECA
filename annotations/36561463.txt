@@ -1,0 +1,12 @@
+<i>Prunus mume</i> (Rosaceae, Prunoideae) serves as an excellent ornamental woody plant with a large-temperature-range cultivation scope. Its flower buds require a certain low temperature to achieve flowering circulation. Thus, it is important to delve into the processes of flower bud differentiation and dormancy, which affected its continuous flowering. These processes are generally considered as regulation by the MADS-box homologs, <i>SHORT VEGETATIVE PHASE</i> (<i>SVP</i>), and <i>DORMANCY-ASSOCIATED MADS-BOX</i> (<i>DAM</i>). However, a precise model on their interdependence and specific function, when acting as a complex in the flower development of <i>P. mume</i>, is needed. Therefore, this study highlighted the integral roles of <i>PmDAMs</i> and <i>PmSVPs</i> in flower organ development and dormancy cycle. The segregation of <i>PmDAMs</i> and <i>PmSVPs</i> in a different cluster suggested distinct functions and neofunctionalization. The expression pattern and yeast two-hybrid assays jointly revealed that eight genes were involved in the floral organ development stages, with <i>PmDAM1</i> and <i>PmDAM5</i> specifically related to prolificated flower formation. <i>PmSVP1</i>-<i>2</i> mingled in the protein complex in bud dormancy stages with <i>PmDAMs</i>. Finally, we proposed the hypothesis that PmSVP1 and PmSVP2 could combine with PmDAM1 to have an effect on flower organogenesis and interact with PmDAM5 and PmDAM6 to regulate flower bud dormancy. These findings could help expand the current molecular mechanism based on MADS-box genes during flower bud development and dormancy.
+
+PmDAMs: !affects! Flower organ development
+PmSVPs: !affects! Flower organ development
+PmDAM1: !related to! Prolificated flower formation
+PmDAM5: !related to! Prolificated flower formation
+PmSVP1: !interacts with! PmDAMs
+PmSVP2: !interacts with! PmDAMs
+PmSVP1: !combines with! PmDAM1
+PmSVP2: !combines with! PmDAM1
+PmDAM5: !interacts with! PmSVP1-2
+PmDAM6: !interacts with! PmSVP1-2

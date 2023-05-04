@@ -1,0 +1,12 @@
+UDP-glucose: glycoprotein glucosyltransferase (UGGT) is a key player in the quality control mechanism (ER-QC) that newly synthesized glycoproteins undergo in the ER. It has been shown that the UGGT Arabidopsis orthologue is involved in ER-QC; however, its role in plant physiology remains unclear. Here, we show that two mutant alleles in the At1g71220 locus have none or reduced UGGT activity. In wild type plants, the AtUGGT transcript levels increased upon activation of the unfolded protein response (UPR). Interestingly, mutants in AtUGGT exhibited an endogenous up-regulation of genes that are UPR targets. In addition, mutants in AtUGGT showed a 30% reduction in the incorporation of UDP-Glucose into the ER suggesting that this enzyme drives the uptake of this substrate for the CNX/CRT cycle. Plants deficient in UGGT exhibited a delayed growth rate of the primary root and rosette as well as an alteration in the number of leaves. These mutants are more sensitive to pathogen attack as well as heat, salt, and UPR-inducing stressors. Additionally, the plants showed impairment in the establishment of systemic acquired resistance (SAR). These results show that a lack of UGGT activity alters plant vegetative development and impairs the response to several abiotic and biotic stresses. Moreover, our results uncover an unexpected role of UGGT in the incorporation of UDP-Glucose into the ER lumen in Arabidopsis thaliana.
+
+UGGT: !affects! ER-QC
+AtUGGT: !localizes to! ER
+AtUGGT: !enhances! UPR targets
+AtUGGT: !synthesizes! UDP-Glucose
+AtUGGT: !represses! Primary root growth
+AtUGGT: !represses! Rosette growth
+AtUGGT: !represses! Leaf number
+AtUGGT: !represses! Pathogen attack
+AtUGGT: !represses! Heat, salt, and UPR-inducing stressors
+AtUGGT: !represses! SAR

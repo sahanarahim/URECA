@@ -1,0 +1,10 @@
+The gibberellins (GAs) are phytohormones that play fundamental roles in almost every aspect of plant growth and development. Although GA biosynthetic and signaling pathways are well understood, the mechanisms that control GA homeostasis remain largely unclear in plants. Here, we demonstrate that the homeobox transcription factor (TF) HB40 of the HD-Zip family regulates GA content at two additive control levels in Arabidopsis thaliana. We show that HB40 expression is induced by GA and in turn reduces the levels of endogenous bioactive GAs by simultaneously reducing GA biosynthesis and increasing GA deactivation. Consistently, HB40 overexpression leads to typical GA-deficiency traits, such as small rosettes, reduced plant height, delayed flowering, and male sterility. By contrast, a loss-of-function hb40 mutation enhances GA-controlled growth. Genome-wide RNA sequencing combined with molecular-genetic analyses revealed that HB40 directly activates the transcription of JUNGBRUNNEN1 (JUB1), a key TF that represses growth by suppressing GA biosynthesis and signaling. HB40 also activates genes encoding GA 2-oxidases (GA2oxs), which are major GA-catabolic enzymes. The effect of HB40 on plant growth is ultimately mediated through the induction of nuclear growth-repressing DELLA proteins. Collectively, our results reveal the important role of the HB40-JUB1 regulatory network in controlling GA homeostasis during plant growth.
+
+GA: !induces! HB40
+HB40: !reduces! GA biosynthesis
+HB40: !increases! GA deactivation
+HB40: !activates! JUB1
+HB40: !activates! GA2oxs
+JUB1: !represses! GA biosynthesis
+JUB1: !represses! GA signaling
+DELLA proteins: !mediated by! HB40

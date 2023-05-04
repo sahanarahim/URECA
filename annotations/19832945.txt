@@ -1,0 +1,11 @@
+The three closely related Arabidopsis basic leucine zipper (bZIP) transcription factors TGA2, TGA5 and TGA6 are required for the establishment of the salicylic acid (SA)-dependent plant defense response systemic acquired resistance, which is effective against biotrophic pathogens. Here we show that the same transcription factors are essential for the activation of jasmonic acid (JA)- and ethylene (ET)-dependent defense mechanisms that counteract necrotrophic pathogens: the tga256 triple mutant is impaired in JA/ET-induced PDF1.2 and b-CHI expression, which correlates with a higher susceptibility against the necrotroph Botrytis cinerea. JA/ET induction of the trans-activators ERF1 and ORA59, which act upstream of PDF1.2, was slightly increased (ERF1) or unaffected (ORA59). PDF1.2 expression can be restored in the tga256 mutant by increased expression of ORA59, as observed in the tga256 jin1 quadruple mutant, which lacks the transcription factor JIN1/AtMYC2 that functions as a negative regulator of the JA/ET-dependent anti-fungal defense program. Whereas JA/ET-induced PDF1.2 expression is strongly suppressed by SA in wild-type plants, no negative effect of SA on PDF1.2 expression was observed in the tga256 jin1 quadruple mutant. These results imply that the antagonistic effects of TGA factors and JIN1/AtMYC2 on the JA/ET pathway are necessary to evoke the SA-mediated suppression of JA/ET-induced defense responses.
+
+TGA2: !affects! SA-dependent defense response
+TGA5: !affects! SA-dependent defense response
+TGA6: !affects! SA-dependent defense response
+TGA256: !impairs! JA/ET-induced PDF1.2 expression
+JIN1/AtMYC2: !regulates! JA/ET pathway
+ERF1: !increases! JA/ET induction
+ORA59: !unaffected by! JA/ET induction
+ORA59: !restores! PDF1.2 expression in tga256 mutant
+SA: !suppresses! JA/ET-induced defense responses

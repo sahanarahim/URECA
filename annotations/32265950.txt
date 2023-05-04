@@ -1,0 +1,14 @@
+With its large proportion of endemic taxa, complex geological past, and location at the confluence of the highly diverse Malesian and Australian floristic regions, Papuasia - the floristic region comprising the Bismarck Archipelago, New Guinea, and the Solomon Islands - represents an ideal natural experiment in plant biogeography. However, scattered knowledge of its flora and limited representation in herbaria have hindered our understanding of the drivers of its diversity. Focusing on the woody angiosperm genus <i>Schefflera</i> (Araliaceae), we ask whether its morphologically defined infrageneric groupings are monophyletic, when these lineages diverged, and where (within Papuasia or elsewhere) they diversified. To address these questions, we use a high-throughput sequencing approach (Hyb-Seq) which combines target capture (with an angiosperm-wide bait kit targeting 353 single-copy nuclear loci) and genome shotgun sequencing (which allows retrieval of regions in high-copy number, e.g., organellar DNA) of historical herbarium collections. To reconstruct the evolutionary history of the genus we reconstruct molecular phylogenies with Bayesian inference, maximum likelihood, and pseudo-coalescent approaches, and co-estimate divergence times and ancestral areas in a Bayesian framework. We find strong support for most infrageneric morphological groupings, as currently circumscribed, and we show the efficacy of the Angiosperms-353 probe kit in resolving both deep and shallow phylogenetic relationships. We infer a sequence of colonization to explain the present-day distribution of <i>Schefflera</i> in Papuasia: from the Sunda Shelf, <i>Schefflera</i> arrived to the Woodlark plate (present-day eastern New Guinea) in the late Oligocene (when most of New Guinea was submerged) and, subsequently (throughout the Miocene), it migrated westwards (to the Maoke and Bird's Head Plates and thereon) and further diversified, in agreement with previous reconstructions.
+
+Gene: !affects! Process
+Process: !driven by! Gene
+Gene: !localizes to! Sunda Shelf
+Sunda Shelf: !hosts! Gene
+Gene: !interacts with! Angiosperms-353 probe kit
+Angiosperms-353 probe kit: !resolves! Gene
+Gene: !enhances! Divergence times
+Divergence times: !estimated by! Gene
+Gene: !represses! Shallow phylogenetic relationships
+Shallow phylogenetic relationships: !resolved by! Gene
+Gene: !synthesizes! Ancestral areas
+Ancestral areas: !co-estimated by! Gene

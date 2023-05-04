@@ -1,0 +1,9 @@
+Plant RNA viruses form organized membrane-bound replication complexes to replicate their genomes. This process requires virus- and host-encoded proteins and leads to the production of double-stranded RNA (dsRNA) replication intermediates. Here, we describe the use of Arabidopsis thaliana expressing GFP-tagged dsRNA-binding protein (B2:GFP) to pull down dsRNA and associated proteins in planta upon infection with Tobacco rattle virus (TRV). Mass spectrometry analysis of the dsRNA-B2:GFP-bound proteins from infected plants revealed the presence of viral proteins and numerous host proteins. Among a selection of nine host candidate proteins, eight showed relocalization upon infection, and seven of these colocalized with B2-labeled TRV replication complexes. Infection of A. thaliana T-DNA mutant lines for eight such factors revealed that genetic knockout of dsRNA-BINDING PROTEIN 2 (DRB2) leads to increased TRV accumulation and DRB2 overexpression caused a decrease in the accumulation of four different plant RNA viruses, indicating that DRB2 has a potent and wide-ranging antiviral activity. We propose B2:GFP-mediated pull down of dsRNA to be a versatile method to explore virus replication complex proteomes and to discover key host virus replication factors. Given the universality of dsRNA, development of this tool holds great potential to investigate RNA viruses in other host organisms.
+
+B2:GFP: !pulls down! dsRNA
+dsRNA: !binds to! B2:GFP
+TRV: !infects! A. thaliana
+Mass spectrometry: !reveals! viral & host proteins
+DRB2: !relocalizes upon infection! 
+DRB2: !has antiviral activity!
+B2:GFP: !explores! virus replication complex proteomes

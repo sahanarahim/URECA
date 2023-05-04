@@ -1,0 +1,7 @@
+More than half of the world's population uses rice as a source of carbon intake every day. Improving grain quality is thus essential to rice consumers. The three main properties that determine rice eating and cooking quality--amylose content, gel consistency, and gelatinization temperature--correlate with one another, but the underlying mechanism of these properties remains unclear. Through an association analysis approach, we found that genes related to starch synthesis cooperate with each other to form a fine regulating network that controls the eating and cooking quality and defines the correlation among these three properties. Genetic transformation results verified the association findings and also suggested the possibility of developing elite cultivars through modification with selected major and/or minor starch synthesis-related genes.
+
+gene: !affects! starch synthesis
+starch synthesis: !controls! eating and cooking quality
+eating and cooking quality: !correlates with! amylose content, gel consistency, and gelatinization temperature
+genetic transformation: !verifies! association findings
+selected genes: !develop! elite cultivars

@@ -1,0 +1,10 @@
+In Arabidopsis thaliana, the process of abscission, or the shedding of unwanted organs, is mediated by two genes, HAESA (HAE) and HAESA-LIKE 2 (HSL2), encoding receptor-like protein kinases (RLKs). The double loss-of-function mutant hae-3 hsl2-3 is completely deficient in floral abscission, but, interestingly, the hae-3 hsl2-9 mutant displays a less severe defect. This mutant was chosen for an ethyl methanesulfonate (EMS) screen to isolate enhancer and suppressor mutants, and two such suppressors are the focus of this study. Pooled DNA from the F<sub>2</sub> generation of a parental backcross was analyzed by genome sequencing to reveal candidate genes, two of which complement the suppressor phenotype. These genes, EMS-MUTAGENIZED BRI1 SUPPRESSOR 3 (EBS3) and EBS4, both encode mannosyltransferases involved in endoplasmic reticulum (ER)-associated degradation (ERAD) of proteins. Further analysis of these suppressor lines revealed that suppressor mutations are acting solely on the partially functional hsl2-9 mutant receptor to modify the abscission phenotype. Expressing a hsl2-9-yellow fluorescent protein (YFP) transgene in ebs3 mutants yields a higher fluorescent signal than in EBS3/ebs3, suggesting that these mutants restore abscission by disrupting ERAD to allow accumulation of the hsl2-9 receptor, which probably escapes degradation to be trafficked to the plasma membrane to regain signaling.
+
+HAESA: !mediates! abscission
+HAESA-LIKE 2: !mediates! abscission
+EMS-MUTAGENIZED BRI1 SUPPRESSOR 3: !complements! suppressor phenotype
+EMS-MUTAGENIZED BRI1 SUPPRESSOR 4: !complements! suppressor phenotype
+hsl2-9: !modifies! abscission phenotype
+EBS3: !disrupts! ERAD
+EBS4: !disrupts! ERAD
+hsl2-9: !accumulates! in plasma membrane

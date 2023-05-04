@@ -1,0 +1,9 @@
+['27725774', 'Polyamines represent a potential source of 4-aminobutyrate (GABA) in plants  exposed to abiotic stress. Terminal catabolism of putrescine in Arabidopsis  thaliana involves amine oxidase and the production of 4-aminobutanal, which is a  substrate for NAD(+)-dependent aminoaldehyde dehydrogenase (AMADH). Here, two  AMADH homologs were chosen (AtALDH10A8 and AtALDH10A9) as candidates for encoding  4-aminobutanal dehydrogenase activity for GABA synthesis. The two genes were  cloned and soluble recombinant proteins were produced in Escherichia coli. The pH  optima for activity and catalytic efficiency of recombinant AtALDH10A8 with  3-aminopropanal as substrate was 10.5 and 8.5, respectively, whereas the optima  for AtALDH10A9 were approximately 9.5. Maximal activity and catalytic efficiency  were obtained with NAD(+) and 3-aminopropanal, followed by 4-aminobutanal;  negligible activity was obtained with betaine aldehyde. NAD(+) reduction was  accompanied by the production of GABA and beta-alanine, respectively, with  4-aminobutanal and 3-aminopropanal as substrates. Transient co-expression systems  using Arabidopsis cell suspension protoplasts or onion epidermal cells and  several organelle markers revealed that AtALDH10A9 was peroxisomal, but  AtALDH10A8 was cytosolic, although the N-terminal 140 amino acid sequence of  AtALDH10A8 localized to the plastid. Root growth of single loss-of-function  mutants was more sensitive to salinity than wild-type plants, and this was  accompanied by reduced GABA accumulation.', '2016 Oct 11', 'Sci Rep', '10.1038/srep35115', 'Shelp']
+
+AtALDH10A8: !localizes to! plastid 
+AtALDH10A9: !localizes to! peroxisome 
+AtALDH10A8: !synthesizes! GABA 
+AtALDH10A9: !synthesizes! GABA 
+AtALDH10A8: !enhances! root growth 
+AtALDH10A9: !enhances! root growth 
+GABA: !represses! salinity sensitivity

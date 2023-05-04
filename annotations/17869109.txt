@@ -1,0 +1,8 @@
+Plants employ post-transcriptional gene silencing (PTGS) as an antiviral defense response. In this mechanism, viral-derived small RNAs are incorporated into the RNA-induced silencing complex (RISC) to guide degradation of the corresponding viral RNAs. ARGONAUTE1 (AGO1) is a key component of RISC: it carries the RNA slicer activity. As a counter-defense, viruses have evolved various proteins that suppress PTGS. Recently, we showed that the Polerovirus P0 protein carries an F box motif required to form an SCF-like complex, which is also essential for P0's silencing suppressor function. Here, we investigate the molecular mechanism by which P0 impairs PTGS. First we show that P0's expression does not affect the biogenesis of primary siRNAs in an inverted repeat-PTGS assay, but it does affect their activity. Moreover, P0's expression in transformed Arabidopsis plants leads to various developmental abnormalities reminiscent of mutants affected in miRNA pathways, which is accompanied by enhanced levels of several miRNA-target transcripts, suggesting that P0 acts at the level of RISC. Interestingly, ectopic expression of P0 triggered AGO1 protein decay in planta. Finally, we provide evidence that P0 physically interacts with AGO1. Based on these results, we propose that P0 hijacks the host SCF machinery to modulate gene silencing by destabilizing AGO1.
+
+AGO1: !carries! RNA slicer activity 
+P0: !interacts with! AGO1 
+P0: !suppresses! PTGS 
+P0: !forms! SCF-like complex 
+P0: !triggers! AGO1 protein decay 
+P0: !hijacks! host SCF machinery

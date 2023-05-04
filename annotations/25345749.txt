@@ -1,0 +1,8 @@
+Arabidopsis plants subjected to a daily dehydration stress and watered recovery cycle display physiological and transcriptional stress memory. Previously stressed plants have stomatal apertures that remain partially closed during a watered recovery period, facilitating reduced transpiration during a subsequent dehydration stress. Guard cells (GCs) display transcriptional memory that is similar to that in leaf tissues for some genes, but display GC-specific transcriptional memory for other genes. The rate-limiting abscisic acid (ABA) biosynthetic genes NINE-CIS-EPOXYCAROTENOID DIOXYGENASE 3 (NCED3) and ALDEHYDE OXIDASE 3 (AAO3) are expressed at much higher levels in GCs, particularly during the watered recovery interval, relative to their low levels in leaves. A genetic analysis using mutants in the ABA signaling pathway indicated that GC stomatal memory is ABA-dependent, and that ABA-dependent SNF1-RELATED PROTEIN KINASE 2.2 (SnRK2.2), SnRK2.3 and SnRK2.6 have distinguishable roles in the process. SnRK2.6 is more important for overall stomatal control, while SnRK2.2 and SnRK2.3 are more important for implementing GC stress memory in the subsequent dehydration response. Collectively, our results support a model of altered ABA production in GCs that maintains a partially closed stomatal aperture during an overnight watered recovery period.
+
+NCED3: !synthesizes! ABA
+AAO3: !synthesizes! ABA
+ABA: !affects! GC stomatal memory
+SnRK2.2: !enhances! GC stress memory
+SnRK2.3: !enhances! GC stress memory
+SnRK2.6: !enhances! overall stomatal control

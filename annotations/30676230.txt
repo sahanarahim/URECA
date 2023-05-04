@@ -1,0 +1,10 @@
+In <i>Arabidopsis</i>, recognition of the AvrPphB effector protease from <i>Pseudomonas syringae</i> is mediated by the disease resistance (R) protein RPS5, which is activated by AvrPphB-induced cleavage of the <i>Arabidopsis</i> protein kinase PBS1. The recognition specificity of RPS5 can be altered by substituting the AvrPphB cleavage site within PBS1 with cleavage sequences for other proteases, including proteases from viruses. AvrPphB also activates defense responses in soybean (<i>Glycine max</i>), suggesting that soybean may contain an R protein analogous to RPS5. It was unknown, however, whether this response is mediated by cleavage of a soybean PBS1-like protein. Here, we show that soybean contains three <i>PBS1</i> orthologs and that their products are cleaved by AvrPphB. Further, transient expression of soybean PBS1 derivatives containing a five-alanine insertion at their AvrPphB cleavage sites activated cell death in soybean protoplasts, demonstrating that soybean likely contains an AvrPphB-specific resistance protein that is activated by a conformational change in soybean PBS1 proteins. Significantly, we show that a soybean PBS1 decoy protein modified to contain a cleavage site for the soybean mosaic virus (SMV) NIa protease triggers cell death in soybean protoplasts when cleaved by this protease, indicating that the PBS1 decoy approach will work in soybean, using endogenous <i>PBS1</i> genes. Lastly, we show that activation of the AvrPphB-dependent cell death response effectively inhibits systemic spread of SMV in soybean. These data also indicate that decoy engineering may be feasible in other crop plant species that recognize AvrPphB protease activity.
+
+RPS5: !recognizes! AvrPphB
+PBS1: !activated by! AvrPphB
+soybean: !contains! PBS1 orthologs
+AvrPphB: !cleaves! soybean PBS1
+soybean PBS1: !activates! cell death
+soybean PBS1 decoy: !triggers! cell death
+SMV NIa protease: !cleaves! soybean PBS1 decoy
+AvrPphB-dependent cell death response: !inhibits! SMV spread

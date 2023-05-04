@@ -1,0 +1,7 @@
+Although many genes that regulate floral development have been identified in Arabidopsis thaliana, relatively few are known in the grasses. In normal maize (Zea mays), each spikelet produces an upper and lower floral meristem, which initiate floral organs in a defined phyllotaxy before being consumed in the production of an ovule. The bearded-ear (bde) mutation affects floral development differently in the upper and lower meristem. The upper floral meristem initiates extra floral organs that are often mosaic or fused, while the lower floral meristem initiates additional floral meristems. We cloned bde by positional cloning and found that it encodes zea agamous3 (zag3), a MADS box transcription factor in the conserved AGAMOUS-LIKE6 clade. Mutants in the maize homolog of AGAMOUS, zag1, have a subset of bde floral defects. bde zag1 double mutants have a severe ear phenotype, not observed in either single mutant, in which floral meristems are converted to branch-like meristems, indicating that bde and zag1 redundantly promote floral meristem identity. In addition, BDE and ZAG1 physically interact. We propose a model in which BDE functions in at least three distinct complexes to regulate floral development in the maize ear.
+
+bde: !affects! floral development 
+zag3: !encodes! bde 
+zag1: !homolog of! AGAMOUS 
+bde: !redundantly promotes! floral meristem identity 
+BDE: !interacts with! ZAG1

@@ -1,0 +1,8 @@
+The membrane protein ETHYLENE INSENSITIVE2 (EIN2), which is supposed to act between the soluble serine/threonine kinase CTR1 and the EIN3/EIL family of transcription factors, is a central and most critical element of the ethylene signaling pathway in Arabidopsis. In a recent study, we have identified that EIN2 interacts tightly with all members of the Arabidopsis ethylene receptor family - proteins that mark the starting point of the signaling pathway. Our studies show consistently that the kinase domain of the receptors is essential for the formation of the EIN2-receptor complex. Furthermore, mutational analysis demonstrates that phosphorylation is a key mechanism in controlling the interaction of EIN2 and the ethylene receptors. Interaction studies in the presence of the ethylene agonist cyanide revealed a causal link between hormone binding and complex formation. In the presence of the plant hormone agonist the auto-kinase activity of the receptors is inhibited and the non-phosphorylated kinase domain of the receptors binds tightly to the carboxyl-terminal domain of EIN2. In the absence of cyanide inhibition of the auto-kinase activity is relieved and complex formation with the phosphorylated kinase domain of the receptors is reduced. Our data suggest a novel model on the integration of EIN2 in the ethylene signaling pathway.
+
+EIN2: !interacts with! ethylene receptor family 
+ethylene receptor family: !binds to! EIN2 
+cyanide: !inhibits! auto-kinase activity 
+auto-kinase activity: !inhibited by! cyanide 
+non-phosphorylated kinase domain: !binds tightly to! carboxyl-terminal domain of EIN2 
+phosphorylation: !controls! interaction of EIN2 and ethylene receptors

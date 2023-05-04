@@ -1,0 +1,7 @@
+Biological timekeeping is essential for proper growth and development. Organisms such as the model plant Arabidopsis use the circadian clock to coordinate biological processes with the environment so that changes in conditions are anticipated and processes favorably phased. Despite the identification of numerous clock genes, knowledge of their molecular connectivity and influence on output programs remains limited. We recently showed LUX encodes a sequence-specific DNA-binding protein that directly regulates expression of the morning clock gene PRR9. We also showed that LUX interacts with the evening-phased proteins ELF3 and ELF4 to form a complex called the Evening Complex (EC). The EC binds the PIF4 and PIF5 promoters to control hypocotyl growth as a clock output. Here we provide evidence that LUX also recruits ELF3 to the PRR9 promoter. As with the PIF4 and PIF5 promoters, both LUX and its close homolog NOX are required for recruitment. Hence the entire EC likely functions together as part of the core clock oscillator to optimize plant fitness.
+
+LUX: !regulates! PRR9
+LUX: !interacts with! ELF3
+ELF3: !binds! PIF4/PIF5 promoters
+NOX: !recruits! ELF3 to PRR9 promoter
+EC: !controls! hypocotyl growth

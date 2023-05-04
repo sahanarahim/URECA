@@ -1,0 +1,9 @@
+This study used k-mer embeddings as effective feature to identify DNA N6-Methyladenine sites in plant genomes and obtained improved performance without substantial effort in feature extraction, combination and selection. Identification of DNA N6-methyladenine sites has been a very active topic of computational biology due to the unavailability of suitable methods to identify them accurately, especially in plants. Substantial results were obtained with a great effort put in extracting, heuristic searching, or fusing a diverse types of features, not to mention a feature selection step. In this study, we regarded DNA sequences as textual information and employed natural language processing techniques to decipher hidden biological meanings from those sequences. In other words, we considered DNA, the human life book, as a book corpus for training DNA language models. K-mer embeddings then were generated from these language models to be used in machine learning prediction models. Skip-gram neural networks were the base of the language models and ensemble tree-based algorithms were the machine learning algorithms for prediction models. We trained the prediction model on Rosaceae genome dataset and performed a comprehensive test on 3 plant genome datasets. Our proposed method shows promising performance with AUC performance approaching an ideal value on Rosaceae dataset (0.99), a high score on Rice dataset (0.95) and improved performance on Rice dataset while enjoying an elegant, yet efficient feature extraction process.
+
+DNA: !encoded by! gene
+gene: !synthesizes! DNA
+k-mer embeddings: !generated from! language models
+language models: !based on! skip-gram neural networks
+prediction models: !based on! ensemble tree-based algorithms
+Rosaceae dataset: !used to train! prediction model
+3 plant genome datasets: !tested with! proposed method

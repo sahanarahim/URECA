@@ -1,0 +1,8 @@
+Expression of amylosucrase in potato resulted in larger starch granules with rough surfaces and novel physico-chemical properties, including improved freeze-thaw stability, higher end viscosity, and better enzymatic digestibility. Starch is a very important carbohydrate in many food and non-food applications. In planta modification of starch by genetic engineering has significant economic and environmental benefits as it makes the chemical or physical post-harvest modification obsolete. An amylosucrase from Neisseria polysaccharea fused to a starch-binding domain (SBD) was introduced in two potato genetic backgrounds to synthesize starch granules with altered composition, and thereby to broaden starch applications. Expression of SBD-amylosucrase fusion protein in the amylose-containing potato resulted in starch granules with a rough surface, a twofold increase in median granule size, and altered physico-chemical properties including improved freeze-thaw stability, higher end viscosity, and better enzymatic digestibility. These effects are possibly a result of the physical interaction between amylosucrase and starch granules. The modified larger starches not only have great benefit to the potato starch industry by reducing losses during starch isolation, but also have an advantage in many food applications such as frozen food due to its extremely high freeze-thaw stability.
+
+gene: !synthesizes! starch
+starch: !has! improved freeze-thaw stability
+starch: !has! higher end viscosity
+starch: !has! better enzymatic digestibility
+amylosucrase: !interacts with! starch granules
+SBD-amylosucrase fusion protein: !enhances! potato starch industry

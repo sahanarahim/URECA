@@ -1,0 +1,6 @@
+Flowering time is an important agronomic trait that determines the distribution and adaptation of plants. The accurate prediction of flowering time in elite germplasm is critical for maize breeding. However, the molecular mechanisms underlying the photoperiod response remain elusive in maize. Here we cloned the flowering time-controlling gene, ZmNF-YC2, by map-based cloning and confirmed that ZmNF-YC2 is the nuclear transcription factor Y subunit C-2 protein and a positive regulator of flowering time in maize under long-day conditions. Our results show that ZmNF-YC2 promotes the expression of ZmNF-YA3. ZmNF-YA3 negatively regulates the transcription of ZmAP2. ZmAP2 suppresses the expression of ZMM4 to delay flowering time. We then developed a gene regulatory model of flowering time in maize using ZmNF-YC2, ZmNF-YA3, ZmAP2, ZMM4, and other key genes. The cascading regulation by ZmNF-YC2 of maize flowering time has not been reported in other species.
+
+ZmNF-YC2: !promotes! ZmNF-YA3
+ZmNF-YA3: !negatively regulates! ZmAP2
+ZmAP2: !suppresses! ZMM4
+ZMM4: !delays! flowering time

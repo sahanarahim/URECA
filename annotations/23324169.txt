@@ -1,0 +1,10 @@
+A specialized orchid database, named Orchidstra (URL: http://orchidstra.abrc.sinica.edu.tw), has been constructed to collect, annotate and share genomic information for orchid functional genomics studies. The Orchidaceae is a large family of Angiosperms that exhibits extraordinary biodiversity in terms of both the number of species and their distribution worldwide. Orchids exhibit many unique biological features; however, investigation of these traits is currently constrained due to the limited availability of genomic information. Transcriptome information for five orchid species and one commercial hybrid has been included in the Orchidstra database. Altogether, these comprise >380,000 non-redundant orchid transcript sequences, of which >110,000 are protein-coding genes. Sequences from the transcriptome shotgun assembly (TSA) were obtained either from output reads from next-generation sequencing technologies assembled into contigs, or from conventional cDNA library approaches. An annotation pipeline using Gene Ontology, KEGG and Pfam was built to assign gene descriptions and functional annotation to protein-coding genes. Deep sequencing of small RNA was also performed for Phalaenopsis aphrodite to search for microRNAs (miRNAs), extending the information archived for this species to miRNA annotation, precursors and putative target genes. The P. aphrodite transcriptome information was further used to design probes for an oligonucleotide microarray, and expression profiling analysis was carried out. The intensities of hybridized probes derived from microarray assays of various tissues were incorporated into the database as part of the functional evidence. In the future, the content of the Orchidstra database will be expanded with transcriptome data and genomic information from more orchid species.
+
+Gene: !affects! Process 
+Gene: !synthesizes! Protein-coding genes 
+Gene: !annotates! Gene Ontology 
+Gene: !annotates! KEGG 
+Gene: !annotates! Pfam 
+Gene: !searches for! miRNAs 
+Gene: !designs! Probes 
+Gene: !profiles! Expression

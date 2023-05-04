@@ -1,0 +1,8 @@
+Lateral organs formed by the shoot apical meristem (SAM) are separated from surrounding stem cells by regions of low growth called boundaries. Arabidopsis (<i>Arabidopsis thaliana</i>) <i>BLADE-ON-PETIOLE1</i> (<i>BOP1</i>) and <i>BOP2</i> represent a class of genes important for boundary patterning in land plants. Members of this family lack a DNA-binding domain and interact with TGACG-motif binding (TGA) basic Leu zipper (bZIP) transcription factors for recruitment to DNA. Here, we show that clade I bZIP transcription factors TGA1 and TGA4, previously associated with plant defense, are essential cofactors in BOP-dependent regulation of development. <i>TGA1</i> and <i>TGA4</i> are expressed at organ boundaries and function in the same genetic pathways as <i>BOP1</i> and <i>BOP2</i> required for SAM maintenance, flowering, and inflorescence architecture. Further, we show that clade I TGAs interact constitutively with BOP1 and BOP2, contributing to activation of <i>ARABIDOPSIS THALIANA HOMEOBOX GENE1</i>, which is needed for boundary establishment. These studies expand the functional repertoire of clade I TGA factors in development and defense.
+
+BOP1: !interacts with! TGA1
+BOP2: !interacts with! TGA4
+TGA1: !essential cofactor in! BOP-dependent regulation
+TGA4: !essential cofactor in! BOP-dependent regulation
+BOP1: !activates! ATH1
+BOP2: !activates! ATH1

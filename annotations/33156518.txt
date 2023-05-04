@@ -1,0 +1,10 @@
+The unfoldase CDC48 (Cell Division Cycle 48) is highly conserved in eukaryotes, serving as an AAA + ATPase to extract ubiquitinated proteins from large protein complexes and membranes. Although its biochemical properties have been studied extensively in yeast and animal systems, the biological roles and regulations of the plant CDC48s have been explored only recently. Here we describe the identification of a novel E3 ligase from the SNIPER (snc1-influencing plant E3 ligase reverse genetic) screen, which contributes to plant defense regulation by targeting CDC48A for degradation. SNIPER7 encodes an F-box protein and its overexpression leads to autoimmunity. We identified CDC48s as interactors of SNIPER7 through immunoprecipitation followed by mass spectrometry proteomic analysis. SNIPER7 overexpression lines phenocopy the autoimmune mutant Atcdc48a-4. Furthermore, CDC48A protein levels are reduced or stabilized when SNIPER7 is overexpressed or inhibited, respectively, suggesting that CDC48A is the ubiquitination substrate of SCF<sup>SNIPER7</sup> . Taken together, this study reveals a new mechanism where a SCF<sup>SNIPER7</sup> complex regulates CDC48 unfoldase levels and modulates immune output.
+
+CDC48: !extracts! ubiquitinated proteins 
+SNIPER7: !targets! CDC48A 
+SNIPER7: !interacts with! CDC48s 
+SNIPER7: !overexpression leads to! autoimmunity 
+Atcdc48a-4: !phenocopies! SNIPER7 overexpression lines 
+SNIPER7: !reduces! CDC48A protein levels 
+SCF<sup>SNIPER7</sup>: !regulates! CDC48 unfoldase levels 
+SCF<sup>SNIPER7</sup>: !modulates! immune output

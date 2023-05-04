@@ -1,0 +1,10 @@
+Through sos3 (salt overly sensitive 3) suppressor screening, two allelic suppressor mutants that are weak alleles of the strong sos3 suppressor sos3hkt1-1 were recovered. Molecular characterization identified T-DNA insertions in the distal promoter region of the Arabidopsis thaliana HKT1 (AtHKT1, At4g10310) in these two weak sos3 suppressors, which results in physical separation of a tandem repeat from the proximal region of the AtHKT1 promoter. The tandem repeat is approximately 3.9 kb upstream of the ATG start codon and functions as an enhancer element to promote reporter gene expression. A putative small RNA target region about 2.6 kb upstream of the ATG start codon is heavily methylated. CHG and CHH methylation but not CG methylation is significantly reduced in the small RNA biogenesis mutant rdr2, indicating that non-CG methylation in this region is mediated by small RNAs. Analysis of AtHKT1 expression in rdr2 suggests that non-CG methylation in the putative small RNA target region represses AtHKT1 expression in shoots. The DNA methylation-deficient mutant met1-3 has nearly complete loss of total cytosine methylation in the putative small RNA target region and is hypersensitive to salt stress. The putative small RNA target region and the tandem repeat are essential for maintaining AtHKT1 expression patterns crucial for salt tolerance.
+
+AtHKT1: !enhanced by! tandem repeat 
+tandem repeat: !separated from! proximal region of AtHKT1 promoter 
+putative small RNA target region: !repressed by! non-CG methylation 
+non-CG methylation: !mediated by! small RNAs 
+small RNAs: !targeted by! putative small RNA target region 
+AtHKT1 expression: !repressed by! non-CG methylation 
+met1-3: !lacks! total cytosine methylation 
+AtHKT1 expression: !maintained by! putative small RNA target region and tandem repeat

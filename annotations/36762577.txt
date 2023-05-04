@@ -1,0 +1,7 @@
+Physical contact between genes distant on chromosomes is a potentially important way for genes to coordinate their expressions. To investigate the potential importance of distant contacts, we performed high-throughput chromatin conformation capture (Hi-C) experiments on leaf nuclei isolated from Brassica rapa and Brassica oleracea. We then combined our results with published Hi-C data from Arabidopsis thaliana. We found that distant genes come into physical contact and do so preferentially between the proximal promoter of one gene and the downstream region of another gene. Genes with higher numbers of conserved noncoding sequences (CNSs) nearby were more likely to have contact with distant genes. With more CNSs came higher numbers of transcription factor binding sites and more histone modifications associated with the activity. In addition, for the genes we studied, distant contacting genes with CNSs were more likely to be transcriptionally coordinated. These observations suggest that CNSs may enrich active histone modifications and recruit transcription factors, correlating with distant contacts to ensure coordinated expression. This study advances our knowledge of gene contacts and provides insights into the relationship between CNSs and distant gene contacts in plants.
+
+Gene: !contacts! Gene 
+Gene: !enriched by! CNSs 
+CNSs: !associated with! Histone modifications 
+Histone modifications: !recruit! Transcription factors 
+Transcription factors: !coordinate! Expression

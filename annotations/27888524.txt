@@ -1,0 +1,12 @@
+Calnexin (CNX) and calreticulin (CRT) are homologous lectin chaperones in the endoplasmic reticulum (ER) that facilitate glycoprotein folding and retain folding intermediates to prevent their transit via the secretary pathway. The Arabidopsis genome has two CNX (CNX1 and CNX2) and three CRT (CRT1, CRT2 and CRT3) homologs. Despite growing evidence of the biological roles of CNXs and CRTs, little is understood about their function in Arabidopsis growth and development under normal conditions. Here, we report that the deletion of CNX1, but not of CNX2, in the crt1 crt2 crt3 triple mutation background had an adverse effect on pollen viability and pollen tube growth, leading to a significant reduction in fertility. The cnx1 crt1 crt2 crt3 quadruple mutation also conferred severe defects in growth and development, including a shortened primary root, increased root hair length and density, and reduced plant height. Disruption of all five members of the CNX/CRT family was revealed to be lethal. Finally, the abnormal phenotype of the cnx1 crt1 crt2 crt3 quadruple mutants was completely rescued by either the CNX1 or CNX2 cDNA under the control of the CNX1 promoter, suggesting functional redundancy between CNX1 and CNX2. Taken together, these results provide genetic evidence that CNX and CRT play essential and overlapping roles during vegetative growth and male gametophyte development in Arabidopsis.
+
+CNX1: !affects! Pollen viability
+CNX1: !affects! Pollen tube growth
+CRT1: !interacts with! CNX1
+CRT2: !interacts with! CNX1
+CRT3: !interacts with! CNX1
+CNX1: !reduces! Fertility
+CNX1: !affects! Primary root length
+CNX1: !enhances! Root hair length and density
+CNX1: !reduces! Plant height
+CNX1/CNX2: !rescues! cnx1 crt1 crt2 crt3 quadruple mutants

@@ -1,0 +1,9 @@
+Plant architecture is the result of repetitions that occur through growth and branching processes. During plant ontogeny, changes in the morphological characteristics of plant entities are interpreted as the indirect translation of different physiological states of the meristems. Thus connected entities can exhibit either similar or very contrasted characteristics. We propose a statistical model to reveal and characterize homogeneous zones and transitions between zones within tree-structured data: the hidden Markov tree (HMT) model. This model leads to a clustering of the entities into classes sharing the same 'hidden state'. The application of the HMT model to two plant sets (apple trees and bush willows), measured at annual shoot scale, highlights ordered states defined by different morphological characteristics. The model provides a synthetic overview of state locations, pointing out homogeneous zones or ruptures. It also illustrates where within branching structures, and when during plant ontogeny, morphological changes occur. However, the labelling exhibits some patterns that cannot be described by the model parameters. Some of these limitations are addressed by two alternative HMT families.
+
+Plant architecture: !results from! repetitions 
+Changes in morphological characteristics: !interpreted as! physiological states 
+HMT model: !clusters entities into! classes 
+Apple trees/bush willows: !highlights ordered states defined by! different morphological characteristics 
+HMT model: !points out! homogeneous zones or ruptures 
+Morphological changes: !occur within! branching structures 
+HMT families: !address some limitations of! HMT model

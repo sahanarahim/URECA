@@ -1,0 +1,9 @@
+XopN is a virulence factor from Xanthomonas campestris pathovar vesicatoria (Xcv) that is translocated into tomato (Solanum lycopersicum) leaf cells by the pathogen's type III secretion system. Xcv DeltaxopN mutants are impaired in growth and have reduced ability to elicit disease symptoms in susceptible tomato leaves. We show that XopN action in planta reduced pathogen-associated molecular pattern (PAMP)-induced gene expression and callose deposition in host tissue, indicating that XopN suppresses PAMP-triggered immune responses during Xcv infection. XopN is predicted to have irregular, alpha-helical repeats, suggesting multiple protein-protein interactions in planta. Consistent with this prediction, XopN interacted with the cytosolic domain of a Tomato Atypical Receptor-Like Kinase1 (TARK1) and four Tomato Fourteen-Three-Three isoforms (TFT1, TFT3, TFT5, and TFT6) in yeast. XopN/TARK1 and XopN/TFT1 interactions were confirmed in planta by bimolecular fluorescence complementation and pull-down analysis. Xcv DeltaxopN virulence defects were partially suppressed in transgenic tomato leaves with reduced TARK1 mRNA levels, indicating that TARK1 plays an important role in the outcome of Xcv-tomato interactions. These data provide the basis for a model in which XopN binds to TARK1 to interfere with TARK1-dependent signaling events triggered in response to Xcv infection.
+
+XopN: !suppresses! PAMP-triggered immune responses
+XopN: !interacts with! TARK1
+XopN: !interacts with! TFT1
+XopN: !interacts with! TFT3
+XopN: !interacts with! TFT5
+XopN: !interacts with! TFT6
+TARK1: !plays role in! Xcv-tomato interactions

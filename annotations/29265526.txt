@@ -1,0 +1,7 @@
+The domestication of diverse grain crops from wild grasses was a result of artificial selection for a suite of overlapping traits producing changes referred to in aggregate as 'domestication syndrome'. Parallel phenotypic change can be accomplished by either selection on orthologous genes or selection on non-orthologous genes with parallel phenotypic effects. To determine how often artificial selection for domestication traits in the grasses targeted orthologous genes, we employed resequencing data from wild and domesticated accessions of Zea (maize) and Sorghum (sorghum). Many 'classic' domestication genes identified through quantitative trait locus mapping in populations resulting from wild/domesticated crosses indeed show signatures of parallel selection in both maize and sorghum. However, the overall number of genes showing signatures of parallel selection in both species is not significantly different from that expected by chance. This suggests that while a small number of genes will extremely large phenotypic effects have been targeted repeatedly by artificial selection during domestication, the optimization part of domestication targeted small and largely non-overlapping subsets of all possible genes which could produce equivalent phenotypic alterations.
+
+selection: !targets! orthologous genes
+selection: !targets! non-orthologous genes
+domestication: !produces! changes in aggregate
+classic domestication genes: !show! signatures of parallel selection
+number of genes: !not significantly different from! expected by chance

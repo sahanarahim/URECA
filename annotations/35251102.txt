@@ -1,0 +1,9 @@
+We observed differences in <i>lhc</i> classification in Chromista. We proposed a classification of the <i>lhcf</i> family with two groups specific to haptophytes, one specific to diatoms, and one specific to seaweeds. Identification and characterization of the Fucoxanthin and Chlorophyll <i>a/c</i>-binding Protein (FCP) of the haptophyte microalgae <i>Tisochrysis lutea</i> were performed by similarity analysis. The FCP family contains 52 <i>lhc</i> genes in <i>T. lutea</i>. FCP pigment binding site candidates were characterized on Lhcf protein monomers of <i>T. lutea</i>, which possesses at least nine chlorophylls and five fucoxanthin molecules, on average, per monomer. The expression of <i>T. lutea lhc</i> genes was assessed during turbidostat and chemostat experiments, one with constant light (CL) and changing nitrogen phases, the second with a 12 h:12 h sinusoidal photoperiod and changing nitrogen phases. RNA-seq analysis revealed a dynamic decrease in the expression of <i>lhc</i> genes with nitrogen depletion. We observed that <i>T. lutea lhcx2</i> was only expressed at night, suggesting that its role is to protect \cells from return of light after prolonged darkness exposure.
+
+lhc: !classifies! Chromista 
+lhcf: !classifies into! two groups (haptophytes, diatoms, seaweeds) 
+FCP: !contains! 52 lhc genes 
+Lhcf protein monomers: !characterize! FCP pigment binding site candidates 
+T. lutea lhc: !expresses! during turbidostat and chemostat experiments 
+RNA-seq analysis: !reveals! dynamic decrease in expression of lhc genes with nitrogen depletion 
+T. lutea lhcx2: !expressed only at night! to protect cells from return of light

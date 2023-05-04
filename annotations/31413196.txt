@@ -1,0 +1,9 @@
+Organisms need to balance sufficient uptake of iron (Fe) with possible toxicity. In plant roots, a regulon of uptake genes is transcriptionally activated under Fe deficiency, but it is unknown how this response is inactivated when Fe becomes available. Here we describe the function of 2 partially redundant E3 ubiquitin ligases, BRUTUS-LIKE1 (BTSL1) and BTSL2, in <i>Arabidopsis thaliana</i> and provide evidence that they target the transcription factor FIT, a key regulator of Fe uptake, for degradation. The <i>btsl</i> double mutant failed to effectively down-regulate the transcription of genes controlled by FIT, and accumulated toxic levels of Fe in roots and leaves. The C-terminal domains of BTSL1 and BTSL2 exhibited E3 ligase activity, and interacted with FIT but not its dimeric partner bHLH39. The BTSL proteins were able to poly-ubiquitinate FIT in vitro and promote FIT degradation in vivo. Thus, posttranslational control of FIT is critical to prevent excess Fe uptake.
+
+BTSL1: !interacts with! FIT
+BTSL2: !interacts with! FIT
+BTSL1: !ubiquitinates! FIT
+BTSL2: !ubiquitinates! FIT
+FIT: !represses! Fe uptake
+BTSL1: !enhances! FIT degradation
+BTSL2: !enhances! FIT degradation

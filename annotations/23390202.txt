@@ -1,0 +1,12 @@
+Lateral root (LR) formation in vascular plants is regulated by auxin. The mechanisms of LR formation are not fully understood. Here, we have identified a novel recessive mutation in Arabidopsis thaliana, named fewer roots (fwr), that drastically reduces the number of LRs. Expression analyses of DR5::GUS, an auxin response reporter, and pLBD16::GUS, an LR initiation marker, suggested that FWR is necessary for the establishment of an auxin response maximum in LR initiation sites. We further identified that the fwr phenotypes are caused by a missense mutation in the GNOM gene, encoding an Arf-GEF (ADP ribosylation factor-GDP/GTP exchange factor), which regulates the recycling of PINs, the auxin efflux carriers. The fwr roots showed enhanced sensitivity to brefeldin A in a root growth inhibition assay, indicating that the fwr mutation reduces the Arf-GEF activity of GNOM. However, the other developmental processes except for LR formation appeared to be unaffected in the fwr mutant, indicating that fwr is a weaker allele of gnom compared with the other gnom alleles with pleiotropic phenotypes. The localization of PIN1-green fluorescent protein (GFP) appeared to be unaffected in the fwr roots but the levels of endogenous IAA were actually higher in the fwr roots than in the wild type. These results indicate that LR initiation is one of the most sensitive processes among GNOM-dependent developmental processes, strongly suggesting that GNOM is required for the establishment of the auxin response maximum for LR initiation, probably through the regulation of local and global auxin distribution in the root.
+
+auxin: !regulates! LR formation 
+FWR mutation: !reduces! number of LRs 
+DR5::GUS: !suggests! FWR is necessary for auxin response maximum in LR initiation sites 
+FWR mutation: !caused by! missense mutation in GNOM gene 
+GNOM gene: !encodes! Arf-GEF 
+Arf-GEF: !regulates! recycling of PINs 
+FWR mutation: !reduces! Arf-GEF activity of GNOM 
+PIN1-GFP: !appears unaffected! in fwr roots 
+Endogenous IAA: !higher! in fwr roots 
+GNOM: !required! for establishment of auxin response maximum for LR initiation

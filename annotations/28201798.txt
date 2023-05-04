@@ -1,0 +1,10 @@
+To reveal the logic of size regulation in multicellular organisms, we have used Arabidopsis thaliana as a model organism and its leaves as a model organ. We discovered the existence of a compensatory system, whereby a decrease in leaf cell number often triggers unusual cell enlargement. However, despite the large number of compensation-exhibiting mutants analyzed to date, we have only a limited understanding of the detailed molecular mechanisms triggering the decrease in cell number and subsequent compensated cell enlargement (CCE). CCE in fugu5, the vacuolar type H+-pyrophosphatase loss-of-function mutant, is specific to cotyledons and completely suppressed when sucrose (Suc) is supplied or cytosolic pyrophosphate (PPi) is specifically removed. In addition, several lines of evidence suggest that excess cytosolic PPi in fugu5 impairs gluconeogenesis from triacylglycerol (TAG) to Suc. Here, detailed cellular phenotyping revealed that the loss-of-function mutants icl-2, mls-2 and pck1-2 triggered CCE in cotyledons. All double mutant combinations between fugu5-1 and the above three mutants exhibited compensation, but did not display a further increase in cell size. Importantly, similar phenotypes were observed in icl-2 mls-2, icl-2 pck1-2 and mls-2 pck1-2. Quantification of TAG breakdown and Suc contents further supported our findings. Taken together, we demonstrate that de novo Suc synthesis from TAG is fundamentally important for proper resumption of post-germinative cotyledon development. Moreover, provided that icl-2, mls-2 and pck1-2 are only compromised in Suc biosynthesis de novo from TAG, our findings clearly indicate that lowered Suc production in fugu5, rather than excess cytosolic PPi, is the direct trigger of CCE.
+
+fugu5: !triggers! CCE
+Suc: !suppresses! CCE
+fugu5: !impairs! gluconeogenesis
+icl-2, mls-2, pck1-2: !trigger! CCE
+double mutants: !exhibit! compensation
+TAG: !breaks down to! Suc
+Suc: !fundamentally important for! post-germinative cotyledon development
+lowered Suc production: !direct trigger of! CCE

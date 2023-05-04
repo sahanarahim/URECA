@@ -1,0 +1,8 @@
+We recently identified a new target of microRNA398 (miR398), a conserved miRNA in plants. In Arabidopsis, miR398 targets the mRNAs of two copper/zinc superoxide dismutases (Cu/Zn SODs) by triggering their cleavage or repressing their translation. We analysed the transcriptomes of mutants impaired in miR398 production, revealing that the mRNAs encoding the chaperone (CCS1), essential for copper delivering to the Cu/Zn SODs of Arabidopsis and to generate the mature proteins, were undiscovered targets of miR398. It is likely that CCS1 was not identified by previous bioinformatic predictions because of the number of mismatches between the mRNA and its target. Since CCS1 has four mismatches and one GU wobble, it would have been excluded by the majority of prediction algorithms. miR398 directs the post-transcriptional regulation of CCS1 mRNAs by cleavage and ARGONAUTE10 (AGO10)-mediated translational repression. Indeed, CCS1 protein accumulate in zwille (ago10) mutants while both miR398 and CCS1 mRNAs levels remain identical to the Landsberg erecta WT plants. Moreover, since AGO10 is a negative regulator of AGO1, the CCS1 protein is more abundant in a double ago1-27 ago10-3 Col mutant compared to the single hypomorphic ago1-27 mutant, as previously shown for CSD2.
+
+miR398: !targets! Cu/Zn SODs
+miR398: !targets! CCS1
+CCS1: !synthesized by! miR398
+AGO10: !mediates! translational repression of CCS1
+AGO10: !inhibits! AGO1
+AGO1: !inhibited by! AGO10

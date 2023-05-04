@@ -1,0 +1,11 @@
+Plant disease resistance (R) proteins recognize potential pathogens expressing corresponding avirulence (Avr) proteins through 'gene-for-gene' interactions. RPM1 is an Arabidopsis R-protein that triggers a robust defense response upon recognizing the Pseudomonas syringae effector AvrRpm1. Avr-proteins of phytopathogenic bacteria include type III effector proteins that are often capable of enhancing virulence when not recognized by an R-protein. In rpm1 plants, AvrRpm1 suppresses basal defenses induced by microbe-associated molecular patterns. Here, we show that expression of AvrRpm1 in rpm1 plants induced PR-1, a classical defense marker, and symptoms including chlorosis and necrosis. PR-1 expression and symptoms were reduced in plants with mutations in defense signaling genes (pad4, sid2, npr1, rar1, and ndr1) and were strongly reduced in rpm1 rps2 plants, indicating that AvrRpm1 elicits defense signaling through the Arabidopsis R-protein, RPS2. Bacteria expressing AvrRpm1 grew more on rpm1 rps2 than on rpm1 plants. Thus, independent of its classical 'gene-for-gene' activation of RPM1, AvrRpm1 also induces functionally relevant defenses that are dependent on RPS2. Finally, AvrRpm1 suppressed host defenses and promoted the growth of type III secretion mutant bacteria equally well in rps2 and RPS2 plants, indicating that virulence activity of over-expressed AvrRpm1 predominates over defenses induced by weak activation of RPS2.
+
+RPM1: !recognizes! AvrRpm1 
+AvrRpm1: !suppresses! basal defenses 
+AvrRpm1: !induces! PR-1 
+pad4, sid2, npr1, rar1, and ndr1: !reduce! PR-1 expression 
+rpm1 rps2: !strongly reduce! PR-1 expression 
+AvrRpm1: !promotes growth of! bacteria 
+AvrRpm1: !suppresses! host defenses 
+RPS2: !activates! RPM1 
+RPS2: !weakly activates! AvrRpm1

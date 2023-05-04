@@ -1,0 +1,8 @@
+Drought is a major abiotic stress that limits plant growth and development. Adaptive mechanisms have evolved to mitigate drought stress, including the capacity to adjust water loss rate and to modify the morphology and structure of the epidermis. Here, we show that the expression of CmNF-YB8, encoding a nuclear factor Y (NF-Y) B-type subunit, is lower under drought conditions in chrysanthemum (Chrysanthemum morifolium). Transgenic chrysanthemum lines in which transcript levels of CmNF-YB8 were reduced by RNA interference (CmNF-YB8-RNAi) exhibited enhanced drought resistance relative to control lines, whereas lines overexpressing CmNF-YB8 (CmNF-YB8-OX) were less tolerant to drought. Compared to wild type (WT), CmNF-YB8-RNAi plants showed reduced stomatal opening and a thicker epidermal cuticle that correlated with their water loss rate. We also identified genes involved in stomatal adjustment (CBL-interacting protein kinase 6, CmCIPK6) and cuticle biosynthesis (CmSHN3) that are more highly expressed in CmNF-YB8-RNAi lines than in WT, CmCIPK6 being a direct downstream target of CmNF-YB8. Virus-induced gene silencing of CmCIPK6 or CmSHN3 in the CmNF-YB8-RNAi background abolished the effects of CmNF-YB8-RNAi on stomatal closure and cuticle deposition, respectively. CmNF-YB8 thus regulates CmCIPK6 and CmSHN3 expression to alter stomatal movement and cuticle thickness in the leaf epidermis, thereby affecting drought resistance.
+
+CmNF-YB8: !regulates! CmCIPK6 
+CmNF-YB8: !regulates! CmSHN3 
+CmCIPK6: !affects! stomatal closure 
+CmSHN3: !affects! cuticle thickness 
+stomatal closure: !influences! water loss rate 
+cuticle thickness: !influences! water loss rate

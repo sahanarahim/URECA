@@ -1,0 +1,17 @@
+One layer of the innate immune system allows plants to recognize pathogen-associated molecular patterns (PAMPS), activating a defense response known as PAMP-triggered immunity (PTI). Maintaining an active immune response, however, comes at the cost of plant growth and development; accordingly, optimization of the balance between defense and development is critical to plant fitness. The TEOSINTE BRANCHED1/CYCLOIDEA/PROLIFERATING CELL FACTOR (TCP) transcription factor family consists of well-characterized transcriptional regulators of plant development and morphogenesis. The three closely related class I TCP transcription factors TCP8, TCP14, and TCP15 have also been implicated in the regulation of effector-triggered immunity, but there has been no previous characterization of PTI-related phenotypes. To identify TCP targets involved in PTI, we screened a PAMP-induced gene promoter library in a yeast one-hybrid assay and identified interactions of these three TCPs with the <i>EF-Tu RECEPTOR</i> (<i>EFR</i>) promoter. The direct interactions between TCP8 and <i>EFR</i> were confirmed to require an intact TCP binding site in planta. A <i>tcp8 tcp14 tcp15</i> triple mutant was impaired in <i>EFR</i>-dependent PTI and exhibited reduced levels of PATHOGENESIS-RELATED PROTEIN 2 and induction of <i>EFR</i> expression after elicitation with elf18 but also increased production of reactive oxygen species relative to Col-0. Our data support an increasingly complex role for TCPs at the nexus of plant development and defense.
+
+TCP8: !interacts with! EFR
+TCP14: !interacts with! EFR
+TCP15: !interacts with! EFR
+TCP8: !regulates! PTI
+TCP14: !regulates! PTI
+TCP15: !regulates! PTI
+TCP8: !affects! PR2
+TCP14: !affects! PR2
+TCP15: !affects! PR2
+TCP8: !enhances! EFR expression
+TCP14: !enhances! EFR expression
+TCP15: !enhances! EFR expression
+TCP8: !increases! ROS
+TCP14: !increases! ROS
+TCP15: !increases! ROS

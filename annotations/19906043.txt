@@ -1,0 +1,12 @@
+['19906043', "Uridine 5'-diphosphate (UDP)-glucose is transported into the lumen of the  endoplasmic reticulum (ER), and the Arabidopsis nucleotide sugar transporter  AtUTr1 has been proposed to play a role in this process; however, different lines  of evidence suggest that another transporter(s) may also be involved. Here we  show that AtUTr3 is involved in the transport of UDP-glucose and is located at  the ER but also at the Golgi. Insertional mutants in AtUTr3 showed no obvious  phenotype. Biochemical analysis in both AtUTr1 and AtUTr3 mutants indicates that  uptake of UDP-glucose into the ER is mostly driven by these two transporters.  Interestingly, the expression of AtUTr3 is induced by stimuli that trigger the  unfolded protein response (UPR), a phenomenon also observed for AtUTr1,  suggesting that both AtUTr1 and AtUTr3 are involved in supplying UDP-glucose into  the ER lumen when misfolded proteins are accumulated. Disruption of both AtUTr1  and AtUTr3 causes lethality. Genetic analysis showed that the atutr1 atutr3  combination was not transmitted by pollen and was poorly transmitted by the  ovules. Cell biology analysis indicates that knocking out both genes leads to  abnormalities in both male and female germ line development. These results show  that the nucleotide sugar transporters AtUTr1 and AtUTr3 are required for the  incorporation of UDP-glucose into the ER, are essential for pollen development  and are needed for embryo sac progress in Arabidopsis thaliana.", '2010 Feb 1', 'Plant J', '10.1111/j.1365-313X.2009.04066.x', 'Orellana']
+
+AtUTr1: !transports! UDP-glucose 
+AtUTr3: !transports! UDP-glucose 
+AtUTr1: !localizes to! ER 
+AtUTr3: !localizes to! ER & Golgi 
+AtUTr1: !enhances! UPR 
+AtUTr3: !enhances! UPR 
+AtUTr1: !essential for! pollen development 
+AtUTr3: !essential for! pollen development 
+AtUTr1: !needed for! embryo sac progress 
+AtUTr3: !needed for! embryo sac progress

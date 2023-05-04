@@ -1,0 +1,7 @@
+Monitoring pH is one of the challenges in understanding diverse physiological regulations as well as ionic balance, especially in highly acidic environments such as the apoplast and the vacuole. To circumvent the poor efficiency of pH measurements below pH 5, we designed three genetically encoded sensors composed of two fluorescent proteins in tandem. We selected fluorescent protein pairs of low but sufficiently different pKa so that each protein could differentially sense the imposed pH. The generated tandems, named Acidin2, Acidin3, and Acidin4, were produced in Escherichia coli and extensively characterized. Altogether, these generated tandems cover a pH range of 3-8. The Acidins were targeted either for release in the apoplast (Apo) or for anchoring at the outer face of the plasma membrane (PM-Apo), with the fluorescent part exposed in the apoplast. Apoplastic Acidins in stably transformed Arabidopsis thaliana primary roots responded immediately and reversibly to pH changes, directly reporting physiological conditions related to cell elongation. In addition, membrane-anchored Acidins reveal a gradual acidification from the surface through the anticlinal wall of pavement cells, a process controlled at least partially by H+-ATPase activity.
+
+Gene: !produces! Acidin2, Acidin3, and Acidin4 
+Gene: !targets! Apoplast 
+Gene: !anchors to! Plasma membrane 
+Gene: !responds to! pH changes 
+Gene: !controlled by! H+-ATPase activity

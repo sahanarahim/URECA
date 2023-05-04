@@ -1,0 +1,9 @@
+Using data from genome-wide molecular markers, genomic selection procedures have proved useful for estimating breeding values and phenotypic prediction. The link between an individual genotype and phenotype has been modelled using a number of parametric methods to estimate individual breeding value. It has been observed that parametric methods perform satisfactorily only when the system under study has additive genetic architecture. To capture non-additive (dominance and epistasis) effects, nonparametric approaches have also been developed; however, they typically fall short of capturing additive effects. The idea behind this study is to select the most appropriate model from each parametric and nonparametric category and build an integrated model that can incorporate the best features of both models. It was observed from the results of the current study that GBLUP performed admirably under additive architecture, while SVM's performance in non-additive architecture was found to be encouraging. A robust model for genomic prediction has been developed in light of these findings, which can handle both additive and epistatic effects simultaneously by minimizing their error variance. The developed integrated model has been assessed using standard evaluation measures like predictive ability and error variance.
+
+Genotype: !affects! Phenotype
+Parametric methods: !perform satisfactorily! Under additive genetic architecture
+Nonparametric approaches: !fall short of! Capturing additive effects
+GBLUP: !performs admirably! Under additive architecture
+SVM: !encouraging performance! In non-additive architecture
+Integrated model: !minimizes! Error variance
+Integrated model: !handles! Additive and epistatic effects

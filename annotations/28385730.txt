@@ -1,0 +1,9 @@
+The transcription factors LEAFY (LFY) and APETALA1 (AP1), together with the AP1 paralog CAULIFLOWER (CAL), control the onset of flower development in a partially redundant manner. This redundancy is thought to be mediated, at least in part, through the regulation of a shared set of target genes. However, whether these genes are independently or cooperatively regulated by LFY and AP1/CAL is currently unknown. To better understand the regulatory relationship between LFY and AP1/CAL and to obtain deeper insights into the control of floral initiation, we monitored the activity of LFY in the absence of AP1/CAL function. We found that the regulation of several known LFY target genes is unaffected by AP1/CAL perturbation, while others appear to require AP1/CAL activity. Furthermore, we obtained evidence that LFY and AP1/CAL control the expression of some genes in an antagonistic manner. Notably, these include key regulators of floral initiation such as <i>TERMINAL FLOWER1</i> (<i>TFL1</i>), which had been previously reported to be directly repressed by both LFY and AP1. We show here that <i>TFL1</i> expression is suppressed by AP1 but promoted by LFY. We further demonstrate that LFY has an inhibitory effect on flower formation in the absence of AP1/CAL activity. We propose that LFY and AP1/CAL act as part of an incoherent feed-forward loop, a network motif where two interconnected pathways or transcription factors act in opposite directions on a target gene, to control the establishment of a stable developmental program for the formation of flowers.
+
+LFY: !controls! AP1/CAL
+LFY: !regulates! target genes
+AP1/CAL: !regulates! target genes
+LFY: !antagonizes! AP1/CAL
+LFY: !promotes! TFL1
+AP1: !represses! TFL1
+LFY: !inhibits! flower formation

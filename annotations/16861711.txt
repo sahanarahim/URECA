@@ -1,0 +1,10 @@
+The phytochrome family of red/far-red photoreceptors is involved in the regulation of a wide range of developmental responses in plants. The Arabidopsis genome contains five phytochromes (phyA-E), among which phyA and phyB play the most important roles. Phytochromes localize to the cytosol in the dark and accumulate in the nucleus under light conditions, inducing specific phytochrome-mediated responses. Light-regulated nuclear accumulation of the phytochrome photoreceptors is therefore considered a key regulatory step of these pathways. In fact, one of the most severe phyA signaling mutants, fhy1 (far red elongated hypocotyl 1), is strongly affected in nuclear accumulation of phyA. The fhy1 fhl (fhy1 like) double mutant, lacking both FHY1 and its only close homolog FHL, is virtually blind to far-red light like phyA null seedlings. Here we show that FHL accounts for residual amounts of phyA in the nucleus in a fhy1 background and that nuclear accumulation of phyA is completely inhibited in an fhy1 FHL RNAi knock-down line. Moreover, we demonstrate that FHL and phyA interact with each other in a light-dependent manner and that they co-localize in light-induced nuclear speckles. We also identify a phyA-binding site at the C-terminus of FHY1 and FHL, and show that the N-terminal 406 amino acids of phyA are sufficient for the interaction with FHY1/FHL.
+
+phytochromes: !localize to! cytosol/nucleus
+phyA/B: !play important roles in! regulation of developmental responses
+fhy1: !inhibits! nuclear accumulation of phyA
+FHL: !accounts for! residual amounts of phyA in fhy1 background
+FHL/phyA: !interact with! each other
+FHL/phyA: !co-localize in! light-induced nuclear speckles
+FHY1/FHL: !bind to! C-terminus of phyA
+phyA: !binds to! N-terminal 406 amino acids of FHY1/FHL

@@ -1,0 +1,8 @@
+Ash dieback, a forest epidemic caused by the invasive fungus Hymenoscyphus fraxineus, threatens ash trees throughout Europe. Within Fraxinus excelsior populations, a small proportion of genotypes show a low susceptibility to the pathogen. We compared the metabolomes from a cohort of low-susceptibility ash genotypes with a cohort of high-susceptibility ash genotypes. This revealed two significantly different chemotypes. A total of 64 candidate metabolites associated with reduced or increased susceptibility in the chemical families secoiridoids, coumarins, flavonoids, phenylethanoids, and lignans. Increased levels of two coumarins, fraxetin and esculetin, were strongly associated with reduced susceptibility to ash dieback. Both coumarins inhibited the growth of H. fraxineus in vitro when supplied at physiological concentrations, thereby validating their role as markers for low susceptibility to ash dieback. Similarly, fungal growth inhibition was observed when the methanolic bark extract of low-susceptibility ash genotypes was supplied. Our findings indicate the presence of constitutive chemical defense barriers against ash dieback in ash.
+
+gene: !synthesizes! metabolite 
+metabolite: !inhibits! H. fraxineus 
+genotype: !associated with! low susceptibility 
+coumarins: !associated with! reduced susceptibility 
+fraxetin/esculetin: !inhibit! H. fraxineus 
+methanolic bark extract: !inhibits! H. fraxineus

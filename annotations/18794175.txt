@@ -1,0 +1,15 @@
+We identified the molecular structures, including the stereochemistry, of all carotenoids in Thermosynechococcus elongatus strain BP-1. The major carotenoid was beta-carotene, and its hydroxyl derivatives of (3R)-beta-cryptoxanthin, (3R,3'R)-zeaxanthin, (2R,3R,3'R)-caloxanthin and (2R,3R,2'R,3'R)-nostoxanthin were also identified. The myxol glycosides were identified as (3R,2'S)-myxol 2'-fucoside and (2R,3R,2'S)-2-hydroxymyxol 2'-fucoside. 2-Hydroxymyxol 2'-fucoside is a novel carotenoid, and similar carotenoids of 4-hydroxymyxol glycosides were previously named aphanizophyll. Ketocarotenoids, such as echinenone and 4-ketomyxol, which are unique carotenoids in cyanobacteria, were absent, and genes coding for both beta-carotene ketolases, crtO and crtW, were absent in the genome. From a homology search, the Tlr1917 amino acid sequence was found to be 41% identical to 2,2'- beta-hydroxylase (CrtG) from Brevundimonas sp. SD212, which produces nostoxanthin from zeaxanthin. In the crtG disruptant mutant, 2-hydroxymyxol 2'-fucoside, caloxanthin and nostoxanthin were absent, and the levels of both myxol 2'-fucoside and zeaxanthin were higher. Therefore, the gene has a CrtG function for both myxol to 2-hydroxymyxol and zeaxanthin to nostoxanthin. This is the first functional identification of CrtG in cyanobacteria. We also investigated the distribution of crtG-like genes, and 2-hydroxymyxol and/or nostoxanthin, in cyanobacteria. Based on the identification of the carotenoids and the completion of the entire nucleotide sequence of the genome in T. elongatus, we propose a biosynthetic pathway of the carotenoids and the corresponding genes and enzymes.
+
+Gene: !synthesizes! beta-carotene 
+Gene: !synthesizes! (3R)-beta-cryptoxanthin 
+Gene: !synthesizes! (3R,3'R)-zeaxanthin 
+Gene: !synthesizes! (2R,3R,3'R)-caloxanthin 
+Gene: !synthesizes! (2R,3R,2'R,3'R)-nostoxanthin 
+Gene: !synthesizes! (3R,2'S)-myxol 2'-fucoside 
+Gene: !synthesizes! (2R,3R,2'S)-2-hydroxymyxol 2'-fucoside 
+Gene: !synthesizes! echinenone 
+Gene: !synthesizes! 4-ketomyxol 
+Gene: !synthesizes! nostoxanthin 
+Gene: !represses! crtO 
+Gene: !represses! crtW 
+Gene: !enhances! (2R,3R,2'S)-

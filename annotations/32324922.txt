@@ -1,0 +1,10 @@
+['32324922', 'Histones are highly basic proteins involved in packaging DNA into chromatin, and  histone modifications are fundamental in epigenetic regulation in eukaryotes.  Among the numerous chromatin modifiers identified in Arabidopsis (Arabidopsis  thaliana), MORF-RELATED GENE (MRG)1 and MRG2 have redundant functions in reading  histone H3 lysine 36 trimethylation (H3K36me3). Here, we show that MRG2 binds  histone chaperones belonging to the NUCLEOSOME ASSEMBLY PROTEIN 1 (NAP1) family,  including NAP1-RELATED PROTEIN (NRP)1 and NRP2. Characterization of the  loss-of-function mutants mrg1 mrg2, nrp1 nrp2 and mrg1 mrg2 nrp1 nrp2 revealed  that MRG1/MRG2 and NRP1/NRP2 regulate flowering time through fine-tuning  transcription of floral genes by distinct molecular mechanisms. In particular,  the physical interaction between NRP1/NRP2 and MRG1/MRG2 inhibited the binding of  MRG1/MRG2 to the transcription factor CONSTANS (CO), leading to a transcriptional  repression of FLOWERING LOCUS T (FT) through impeded H4K5 acetylation (H4K5ac)  within the FT chromatin. By contrast, NRP1/NRP2 and MRG1/MRG2 act together,  likely in a multiprotein complex manner, in promoting the transcription of  FLOWERING LOCUS C (FLC) via an increase of both H4K5ac and H3K9ac in the FLC  chromatin. Because the expression pattern of FLC represents the major category of  differentially expressed genes identified by genome-wide RNA-sequencing analysis  in the mrg1 mrg2, nrp1 nrp2 and mrg1 mrg2 nrp1 nrp2 mutants, it is reasonable to  speculate that the NRP1/NRP2-MRG1/MRG2 complex may be involved in transcriptional  activation of genes beyond FLC and flowering time control.', '2020 Aug', 'Plant J', '10.1111/tpj.14780', 'Dong']
+
+MRG1/MRG2: !binds! Histone Chaperones 
+NRP1/NRP2: !regulates! Flowering Time 
+MRG1/MRG2: !inhibits binding of! CO 
+MRG1/MRG2: !represses! FT 
+NRP1/NRP2: !promotes! FLC 
+NRP1/NRP2: !increases! H4K5ac 
+NRP1/NRP2: !increases! H3K9ac 
+NRP1/NRP2-MRG1/MRG2: !involved in! Transcriptional Activation

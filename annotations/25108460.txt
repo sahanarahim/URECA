@@ -1,0 +1,13 @@
+The interaction between a protein and DNA is involved in almost all cellular functions, and is vitally important in cellular processes. Two complementary approaches are used to detect the interactions between a transcription factor (TF) and DNA, i.e. the TF-centered or protein-DNA approach, and the gene-centered or DNA-protein approach. The yeast one-hybrid (Y1H) is a powerful and widely used system to identify DNA-protein interactions. However, a powerful method to study protein-DNA interactions like Y1H is lacking. Here, we developed a protein-DNA method based on the Y1H system to identify the motifs recognized by a defined TF, termed TF-centered Y1H. In this system, a random short DNA sequence insertion library was generated as the prey DNA sequences to interact with a defined TF as the bait. Using this system, novel interactions were detected between DNA motifs and the AtbZIP53 protein from Arabidopsis. We identified six motifs that were specifically bound by AtbZIP53, including five known motifs (DOF, G-box, I-box, BS1 and MY3) and a novel motif BRS1 [basic leucine zipper (bZIP) Recognized Site 1]. The different subfamily bZIP members also recognize these six motifs, further confirming the reliability of the TF-centered Y1H results. Taken together, these results demonstrated that TF-centered Y1H could identify quickly the motifs bound by a defined TF, representing a reliable and efficient approach with the advantages of Y1H. Therefore, this TF-centered Y1H may have a wide application in protein-DNA interaction studies.
+
+TF: !interacts with! DNA
+Y1H: !identifies! protein-DNA interactions
+AtbZIP53: !binds to! six motifs
+DOF: !recognized by! AtbZIP53
+G-box: !recognized by! AtbZIP53
+I-box: !recognized by! AtbZIP53
+BS1: !recognized by! AtbZIP53
+MY3: !recognized by! AtbZIP53
+BRS1: !recognized by! AtbZIP53
+subfamily bZIP: !recognizes! six motifs
+TF-centered Y1H: !identifies! motifs bound by TF

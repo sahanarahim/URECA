@@ -1,0 +1,7 @@
+Germination timing is a fundamental life-history trait, as seedling establishment predicates realized fitness in the wild. Light and temperature are two important cues by which seeds sense the proper season of germination. Using Arabidopsis thaliana, we provide evidence that phytochrome-mediated germination pathways simultaneously respond to light and temperature cues in ways that affect germination. Phytochrome mutant seeds were sown on agar plates and allowed to germinate in lit, growth chambers across a range of temperatures (7 degrees C to 28 degrees C). phyA had an important role in promoting germination at warmer temperatures, phyE was important to germination at colder temperatures and phyB was important to germination across a range of temperatures. Different phytochromes were required for germination at different temperatures, indicating a restriction or even a potential specialization of individual phytochrome activity as a function of temperature. This temperature-dependent activity of particular phytochromes reveals a potentially novel role for phytochrome pathways in regulating the seasonal timing of germination.
+
+phyA: !affects! Germination at warmer temperatures
+phyE: !affects! Germination at colder temperatures
+phyB: !affects! Germination across a range of temperatures
+Light: !cues! Germination timing
+Temperature: !cues! Germination timing

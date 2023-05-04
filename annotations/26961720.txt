@@ -1,0 +1,9 @@
+Abscisic acid (ABA) plays crucial roles in plant growth and development, as well as in response to various environmental stresses. To date, many regulatory genes involved in the ABA response network have been identified; however, their roles have remained to be fully elucidated. In this study, we identified AtYY1, an Arabidopsis homolog of the mammalian C2H2 zinc-finger transcription factor Yin Yang 1 (YY1), as a novel negative regulator of the ABA response. AtYY1 is a dual-function transcription factor with both repression and activation domains. The expression of AtYY1 was induced by ABA and stress conditions including high salt and dehydration. The yy1 mutant was more sensitive to ABA and NaCl than the wild-type, while overexpressing AtYY1 plants were less sensitive. AtYY1 loss also enhanced ABA-induced stomatal closing and drought resistance. Moreover, AtYY1 can bind the ABA REPRESSOR1 (ABR1) promoter and directly upregulate ABR1 expression, as well as negatively regulate ABA- and salt-responsive gene expression. Additional analysis indicated that ABA INSENSITIVE4 (ABI4) might positively regulate AtYY1 expression and that ABR1 can antagonize this regulation. Our findings provide direct evidence that AtYY1 is a novel negative regulator of the ABA response network and that the ABI4-AtYY1-ABR1 regulatory pathway may fine-tune ABA-responsive gene expression in Arabidopsis.
+
+ABA: !induces! AtYY1
+AtYY1: !regulates! ABA response
+AtYY1: !binds! ABR1 promoter
+AtYY1: !upregulates! ABR1 expression
+AtYY1: !negatively regulates! ABA- and salt-responsive gene expression
+ABI4: !positively regulates! AtYY1 expression
+ABR1: !antagonizes! ABI4 regulation

@@ -1,0 +1,10 @@
+AvrPto and AvrPtoB are type III effector proteins expressed by Pseudomonas syringae pv. tomato strain DC3000, a pathogen of both tomato and Arabidopsis spp. Each effector physically interacts with the tomato Pto kinase and elicits a hypersensitive response when expressed in tomato leaves containing Pto. An avrPto deletion mutant of DC3000 previously was shown to retain avirulence activity on Pto-expressing tomato plants. We developed an avrPtoB deletion mutant of DC3000 and found that it also retains Pto-specific avirulence on tomato. These observations suggested that avrPto and avrPtoB both contribute to avirulence. To test this hypothesis, we developed an deltaavrPtodeltaavrPtoB double mutant in DC3000. This double mutant was able to cause disease on a Pto-expressing tomato line. Thus, avrPto and avrPtoB are the only avirulence genes in DC3000 that elicit Pto-mediated defense responses in tomato. When inoculated onto susceptible tomato leaves and compared with wild-type DC3000, the mutants DC3000deltaavrPto and DC3000deltaavrPtoB each caused slightly less severe disease symptoms, although their growth rate was unaffected. However, DC3000deltaavr PtodeltaavrPtoB caused even less severe disease symptoms than the single mutants and grew more slowly than them on susceptible leaves. Our results indicate that AvrPto and AvrPtoB have phenotypically redundant avirulence activity on Pto-expressing tomato and additive virulence activities on susceptible tomato plants.
+
+AvrPto: !interacts with! Pto kinase 
+AvrPtoB: !interacts with! Pto kinase 
+AvrPto: !enhances! Avirulence 
+AvrPtoB: !enhances! Avirulence 
+AvrPto: !represses! Disease symptoms 
+AvrPtoB: !represses! Disease symptoms 
+AvrPto: !synthesizes! Virulence activity 
+AvrPtoB: !synthesizes! Virulence activity

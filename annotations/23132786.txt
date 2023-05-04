@@ -1,0 +1,12 @@
+The Arabidopsis (Arabidopsis thaliana) genome is the most well-annotated plant genome. However, transcriptome sequencing in Arabidopsis continues to suggest the presence of polyadenylated (polyA) transcripts originating from presumed intergenic regions. It is not clear whether these transcripts represent novel noncoding or protein-coding genes. To understand the nature of intergenic polyA transcription, we first assessed its abundance using multiple messenger RNA sequencing data sets. We found 6,545 intergenic transcribed fragments (ITFs) occupying 3.6% of Arabidopsis intergenic space. In contrast to transcribed fragments that map to protein-coding and RNA genes, most ITFs are significantly shorter, are expressed at significantly lower levels, and tend to be more data set specific. A surprisingly large number of ITFs (32.1%) may be protein coding based on evidence of translation. However, our results indicate that these "translated" ITFs tend to be close to and are likely associated with known genes. To investigate if ITFs are under selection and are functional, we assessed ITF conservation through cross-species as well as within-species comparisons. Our analysis reveals that 237 ITFs, including 49 with translation evidence, are under strong selective constraint and relatively distant from annotated features. These ITFs are likely parts of novel genes. However, the selective pressure imposed on most ITFs is similar to that of randomly selected, untranscribed intergenic sequences. Our findings indicate that despite the prevalence of ITFs, apart from the possibility of genomic contamination, many may be background or noisy transcripts derived from "junk" DNA, whose production may be inherent to the process of transcription and which, on rare occasions, may act as catalysts for the creation of novel genes.
+
+Gene: !affects! Process 
+ITFs: !occupy! Intergenic space 
+ITFs: !are expressed at! Lower levels 
+ITFs: !tend to be! Data set specific 
+ITFs: !may be! Protein coding 
+ITFs: !are likely associated with! Known genes 
+ITFs: !are under! Selective constraint 
+ITFs: !are distant from! Annotated features 
+ITFs: !are likely parts of! Novel genes 
+ITFs: !have similar pressure to! Untranscribed intergenic sequences

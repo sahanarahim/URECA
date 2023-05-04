@@ -1,0 +1,8 @@
+We previously reported the characterization of walls are thin1 (wat1), an Arabidopsis mutant that exhibits two developmental phenotypes in stems: (1) a severe decrease in fiber secondary cell wall thickness and (2) a reduction in stem height. Auxin concentration and transport were also significantly reduced in the stem base of wat1 plants. In the original study, these characteristics were observed in plants grown under short day conditions (9 h light /15 h dark). Herein, we provide evidence for partial phenotypic complementation of both wat1 developmental phenotypes when grown under a continuous light regime. Interestingly, when auxin concentration and basipetal transport were measured in these plants, neither was restored to wild type levels. These results suggest that free auxin concentration is not responsible for the partial light-regulated complementation of wat1-mediated phenotypes.
+
+gene: wat1 !affects! developmental phenotypes 
+developmental phenotypes: !reduced by! wat1 
+auxin concentration: !reduced by! wat1 
+auxin transport: !reduced by! wat1 
+light regime: !partially complements! wat1-mediated phenotypes 
+auxin concentration: !not restored to! wild type levels

@@ -1,0 +1,7 @@
+Disulfide bonds play essential roles in the folding of secretory and plasma membrane proteins in the endoplasmic reticulum (ER). In eukaryotes, protein disulfide isomerase (PDI) is an enzyme catalyzing the disulfide bond formation and isomerization in substrates. The Arabidopsis (Arabidopsis thaliana) genome encodes diverse PDIs including structurally distinct subgroups PDI-L and PDI-M/S. It remains unclear how these AtPDIs function to catalyze the correct disulfide formation. We found that one Arabidopsis ER oxidoreductin-1 (Ero1), AtERO1, can interact with multiple PDIs. PDI-L members AtPDI2/5/6 mainly serve as an isomerase, while PDI-M/S members AtPDI9/10/11 are more efficient in accepting oxidizing equivalents from AtERO1 and catalyzing disulfide bond formation. Accordingly, the pdi9/10/11 triple mutant exhibited much stronger inhibition than pdi1/2/5/6 quadruple mutant under dithiothreitol treatment, which caused disruption of disulfide bonds in plant proteins. Furthermore, AtPDI2/5 work synergistically with PDI-M/S members in relaying disulfide bonds from AtERO1 to substrates. Our findings reveal the distinct but overlapping roles played by two structurally different AtPDI subgroups in oxidative protein folding in the ER.
+
+AtERO1: !interacts with! AtPDI2/5/6
+AtERO1: !interacts with! AtPDI9/10/11
+AtPDI2/5/6: !serve as! isomerase
+AtPDI9/10/11: !catalyze! disulfide bond formation
+AtPDI2/5/6: !synergize with! PDI-M/S members

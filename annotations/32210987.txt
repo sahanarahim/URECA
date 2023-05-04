@@ -1,0 +1,8 @@
+FES1A is a heat shock protein 70 binding protein. Mutation of <i>FES1A</i> leads to a defect in thermotolerance of <i>Arabidopsis</i>; however, independent <i>fes1a</i> mutants exhibit a range in the extent of thermosensitivity. Here, we found that <i>BRF2</i>, a gene adjacent to <i>FES1A</i> and encoding a component of transcription factor IIIB, affects the thermosensitivity of <i>fes1a</i> mutants. Knockout of <i>BRF2</i> suppressed <i>fes1a</i> thermosensitivity, while overexpression of <i>BRF2</i> increased thermosensitivity of <i>fes1a.</i> BRF2 in <i>fes1a</i> mutants regulates the transcriptional strength of RNA Polymerase II and accumulation of heat shock proteins and eventually affects the thermotolerance of <i>fes1a</i>. There is a cross-talking between RNA Pol III and Pol II. The cross-talking is initiated by <i>BRF</i>, magnified by the mutation of <i>FES1A,</i> and finally has an effect on thermotolerance.
+
+FES1A: !affects! thermotolerance
+BRF2: !affects! thermotolerance of FES1A mutants
+BRF2: !regulates! transcriptional strength of RNA Polymerase II
+BRF2: !magnifies! mutation of FES1A
+RNA Pol III: !cross-talks with! Pol II
+BRF: !initiates! cross-talking

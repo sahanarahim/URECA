@@ -1,0 +1,9 @@
+Many clone-based physical maps have been built with the FingerPrinted Contig (FPC) software, which is written in C and runs locally for fast and flexible analysis. If the maps were viewable only from FPC, they would not be as useful to the whole community since FPC must be installed on the user machine and the database downloaded. Hence, we have created a set of Web tools so users can easily view the FPC data and perform salient queries with standard browsers. This set includes the following four programs: WebFPC, a view of the contigs; WebChrom, the location of the contigs and genetic markers along the chromosome; WebBSS, locating user-supplied sequence on the map; and WebFCmp, comparing fingerprints. For additional FPC support, we have developed an FPC module for BioPerl and an FPC browser using the Generic Model Organism Project (GMOD) genome browser (GBrowse), where the FPC BioPerl module generates the data files for input into GBrowse. This provides an alternative to the WebChrom/WebFPC view. These tools are available to download along with documentation. The tools have been implemented for both the rice (Oryza sativa) and maize (Zea mays) FPC maps, which both contain the locations of clones, markers, genetic markers, and sequenced clone (along with links to sites that contain additional information).
+
+FPC: !generates! data files 
+BioPerl: !implements! FPC 
+GMOD: !hosts! FPC browser 
+WebFPC: !views! contigs 
+WebChrom: !locates! contigs and markers 
+WebBSS: !locates! user-supplied sequence 
+WebFCmp: !compares! fingerprints

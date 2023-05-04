@@ -1,0 +1,11 @@
+Virus-induced gene silencing (VIGS) is a useful tool for functional characterization of genes in plants. Unfortunately, the efficiency of infection by Tobacco rattle virus (TRV) is relatively low for some non-Solanaceae plants, which are economically important, such as rose (Rosa sp.). Here, to generate an easy traceable TRV vector, a green fluorescent protein (GFP) gene was tagged to the 3' terminus of the coat protein gene in the original TRV2 vector, and the silencing efficiency of the modified TRV-GFP vector was tested in several plants, including Nicotiana benthamiana, Arabidopsis thaliana, rose, strawberry (Fragaria ananassa), and chrysanthemum (Dendranthema grandiflorum). The results showed that the efficiency of infection by TRV-GFP was equal to that of the original TRV vector in each tested plant. Spread of the modified TRV virus was easy to monitor by using fluorescent microscopy and a hand-held UV lamp. When TRV-GFP was used to silence the endogenous phytoene desaturase (PDS) gene in rose cuttings and seedlings, the typical photobleached phenotype was observed in 75-80% plants which were identified as GFP positive by UV lamp. In addition, the abundance of GFP protein, which represented the concentration of TRV virus, was proved to correlate negatively with the level of the PDS gene, suggesting that GFP could be used as an indicator of the degree of silencing of a target gene. Taken together, this work provides a visualizable and efficient tool to predict positive gene silencing plants, which is valuable for research into gene function in plants, especially for non-Solanaceae plants.
+
+TRV-GFP: !infects! Nicotiana benthamiana
+TRV-GFP: !infects! Arabidopsis thaliana
+TRV-GFP: !infects! rose
+TRV-GFP: !infects! strawberry
+TRV-GFP: !infects! chrysanthemum
+TRV-GFP: !monitors! spread of virus
+PDS gene: !silenced by! TRV-GFP
+GFP protein: !correlates with! concentration of TRV virus
+GFP protein: !indicates! degree of silencing of target gene

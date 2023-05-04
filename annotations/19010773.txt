@@ -1,0 +1,5 @@
+The GTPases atToc33 and atToc159 are pre-protein receptor components of the translocon complex at the outer chloroplast membrane in Arabidopsis. Despite their participation in the same complex in vivo, evidence for their interaction is still lacking. Here, a split-ubiquitin system is engineered for use in plants, and the in vivo interaction of the Toc GTPases in Arabidopsis and tobacco protoplasts is shown. Using the same method, the self-interaction of the peroxisomal membrane protein atPex11e is demonstrated. The finding suggests a more general suitability of the split-ubiquitin system as a plant in vivo interaction assay.
+
+atToc33: !interacts with! atToc159
+atToc159: !interacts with! atToc33
+atPex11e: !self-interacts!

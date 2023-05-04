@@ -1,0 +1,10 @@
+['15918885', "Expression of the genes of plastidial psbB operon (psbB-psbT-psbH-petB-petD)  involves multiple processing events and formation of several mono-, di- and  multi-cistronic transcripts which are further regulated by differential stability  and expression. Here we describe the identification of the HCF107 gene that is  involved in the 5'-end processing/stability and/or translation of the psbH gene  and in the translation of the psbB gene. HCF107 is an RNA-TPR-containing protein  with 11 RTPRs that are tandemly arranged. A single mutation in the third RTPR  that changes a conserved alanine residue to a threonine affects both  5'-end-processed psbH transcript accumulation as well as psbB translation,  resulting in disruption of PSII and seedling lethal plants. The protein is  localized to the plastid membranes and is present as part of a multi-subunit  complex in the range of 60-190 and 600-800 kDa. HCF107 thus represents a new  member of the growing helical repeat family of proteins that seem to play a  gene-specific role in regulating plastidial gene expression and biogenesis.", '2005 Jun', 'Plant J', '10.1111/j.1365-313X.2005.02409.x', 'Westhoff']
+
+psbB-psbT-psbH-petB-petD: !involves! multiple processing events 
+HCF107: !affects! 5'-end processing/stability and/or translation of psbH gene 
+HCF107: !affects! psbB translation 
+HCF107: !contains! 11 RTPRs 
+Mutation: !changes! conserved alanine residue to threonine 
+HCF107: !localizes to! plastid membranes 
+HCF107: !forms part of! multi-subunit complex 
+HCF107: !regulates! plastidial gene expression and biogenesis

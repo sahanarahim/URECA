@@ -1,0 +1,8 @@
+Crosstalk between posttranslational modifications, such as ubiquitination and phosphorylation, play key roles in controlling the duration and intensity of signaling events to ensure cellular homeostasis. However, the molecular mechanisms underlying the regulation of negative feedback loops remain poorly understood. Here, we uncover a pathway in <i>Arabidopsis thaliana</i> by which a negative feedback loop involving the E3 ubiquitin ligase PUB22 that dampens the immune response is triggered by MITOGEN-ACTIVATED PROTEIN KINASE3 (MPK3), best known for its function in the activation of signaling. PUB22's stability is controlled by MPK3-mediated phosphorylation of residues localized in and adjacent to the E2 docking domain. We show that phosphorylation is critical for stabilization by inhibiting PUB22 oligomerization and, thus, autoubiquitination. The activity switch allows PUB22 to dampen the immune response. This regulatory mechanism also suggests that autoubiquitination, which is inherent to most single unit E3s in vitro, can function as a self-regulatory mechanism in vivo.
+
+MPK3: !phosphorylates! PUB22 
+PUB22: !stabilizes! MPK3 
+MPK3: !activates! signaling 
+PUB22: !dampens! immune response 
+MPK3: !inhibits! PUB22 oligomerization 
+PUB22: !functions as! self-regulatory mechanism

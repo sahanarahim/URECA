@@ -1,0 +1,10 @@
+['18667726', 'The Arabidopsis (Arabidopsis thaliana) SOMATIC EMBRYOGENESIS RECEPTOR KINASE  (SERK) genes belong to a small family of five plant receptor kinases that are  involved in at least five different signaling pathways. One member of this  family, BRASSINOSTEROID INSENSITIVE1 (BRI1)-ASSOCIATED KINASE1 (BAK1), also known  as SERK3, is the coreceptor of the brassinolide (BR)-perceiving receptor BRI1, a  function that is BR dependent and partially redundant with SERK1. BAK1 (SERK3)  alone controls plant innate immunity, is also the coreceptor of the flagellin  receptor FLS2, and, together with SERK4, can mediate cell death control, all  three in a BR-independent fashion. SERK1 and SERK2 are essential for male  microsporogenesis, again independent from BR. SERK5 does not appear to have any  function under the conditions tested. Here, we show that the different SERK  members are only redundant in pairs, whereas higher order mutant combinations  only show additive phenotypes. Surprisingly, SERK members that are redundant  within one are not redundant in another pathway. We also show that this evolution  of functional pairs occurred by a change in protein function and not by  differences in spatial expression. We propose that, in plants, closely related  receptor kinases have a minimal homo- or heterodimeric configuration to achieve  specificity.', '2008 Sep', 'Plant Physiol', '10.1104/pp.108.123216', 'de']
+
+SERK: !involves in! innate immunity
+SERK: !mediates! cell death control
+SERK: !essential for! male microsporogenesis
+BAK1 (SERK3): !coreceptor of! BRI1
+BAK1 (SERK3): !coreceptor of! FLS2
+SERK1: !redundant with! SERK2
+SERK4: !redundant with! SERK3
+SERK5: !no function! under tested conditions

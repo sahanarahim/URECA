@@ -1,0 +1,7 @@
+Ostreococcus tauri is a picoalga that contains a small and compact genome, which resembles that of higher plants in the multiplicity of enzymes involved in starch synthesis (ADP-glucose pyrophosphorylase, ADPGlc PPase; granule bound starch synthase, GBSS; starch synthases, SSI, SSII, SSIII; and starch branching enzyme, SBE, between others), except starch synthase IV (SSIV). Although its genome is fully sequenced, there are still many genes and proteins to which no function was assigned. Here, we identify the OT_ostta06g01880 gene that encodes CBM20CP, a plastidial protein which contains a central carbohydrate binding domain of the CBM20 family, and a coiled coil domain at the C-terminus that lacks catalytic activity. We demonstrate that CBM20CP has the ability to bind starch, amylose and amylopectin with different affinities. Furthermore, this protein interacts with OsttaSSIII-B, increasing its binding to starch granules, its catalytic efficiency and promoting granule growth. The results allow us to postulate a functional role for CBM20CP in starch metabolism in green algae. KEY MESSAGE: CBM20CP, a plastidial protein that has a modular structure but lacks catalytic activity, regulates the synthesis of starch in Ostreococcus tauri.
+
+OT_ostta06g01880: !encodes! CBM20CP
+CBM20CP: !binds! starch, amylose, amylopectin
+CBM20CP: !interacts with! OsttaSSIII-B
+OsttaSSIII-B: !enhanced by! CBM20CP
+CBM20CP: !regulates! starch synthesis

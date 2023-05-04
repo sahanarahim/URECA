@@ -1,0 +1,12 @@
+Ethylene plays an important role in regulating fruit ripening by triggering dynamic changes in expression of ripening-associated genes, but the functions of many of these genes are still unknown. Here, a methionine sulfoxide reductase gene (AdMsrB1) was identified by transcriptomics-based analysis as the gene most responsive to ethylene treatment in ripening kiwifruit. The AdMsrB1 protein exhibits a stereospecific activity toward the oxidative stress-induced R enantiomer of methionine sulfoxide (MetSO), reducing it to methionine (Met). Stable overexpression of AdMsrB1 in kiwifruit significantly increased the content of free Met and 1-aminocyclopropane-1-carboxylic acid (ACC), the immediate precursor of ethylene, and increased ethylene production. Dual-luciferase assays indicated that the AdMsrB1 promoter was not directly upregulated by ethylene treatment but was modulated by two ethylene-inducible NAM/ATAF/CUC transcription factors (AdNAC2 and AdNAC72) that bind directly to the AdMsrB1 promoter. Overexpression of AdNAC72 in kiwifruit not only enhanced AdMsrB1 expression, but also increased free Met and ACC content and ethylene production rates. This finding establishes an unexpected regulatory loop that enhances ethylene production and the concentration of its biosynthetic intermediates.
+
+Ethylene: !triggers! AdMsrB1
+AdMsrB1: !reduces! MetSO
+AdMsrB1: !increases! Met
+AdMsrB1: !increases! ACC
+AdMsrB1: !increases! ethylene
+AdNAC2/AdNAC72: !binds to! AdMsrB1 promoter
+AdNAC2/AdNAC72: !enhances! AdMsrB1 expression
+AdNAC2/AdNAC72: !increases! Met
+AdNAC2/AdNAC72: !increases! ACC
+AdNAC2/AdNAC72: !increases! ethylene

@@ -1,0 +1,16 @@
+The effects of the expression of yeast-derived apoplastic (AI) and cytosolic (CI) invertases (EC 3.2.1.26) on biomass and structural carbohydrate accumulation in tobacco (Nicotiana tabacum L. cv. Xanthi) were evaluated. Transgenic tobacco plants expressing AI or CI under the control of either a tandem repeat of the Cauliflower Mosaic Virus 35S promoter (2X35S), or a promoter that drives xylem-localized expression (Petroselinum crispum 4-coumarate:CoA ligase promoter; 4CL) were generated. Yeast-derived invertase transcript levels, invertase protein, enzyme activity, growth parameters as well as both structural and soluble carbohydrates of stem tissue of all transformed lines were quantified. Transgenic tobacco lines expressing invertase under the control of 4CL displayed severe growth retardation with both yeast-derived isogenes. Similarly, several transformed lines expressing either AI or CI regulated by the 2X35S promoter were also shorter than wild-type (WT) plants. Despite the decreases in height, some transformed lines had significant increases in biomass. One line (2X35S::AI-1) had a biomass/height increase of 88% and an increase in stem diameter of over 40%, while a second line (2X35S::CI-5) had a biomass/height increase of 21%. A separate line (2X35S::AI-2) had a 36% increase in cellulose content, while two others (4CL::AI-2 and 4CL::AI-3) displayed significant decreases in cellulose content. The observed phenotypes can be in part explained by the levels of foreign invertase present, subcellular localization and the carbohydrate status of the tissues.
+
+AI: !expresses under! 2X35S promoter
+CI: !expresses under! 2X35S promoter
+AI: !expresses under! 4CL promoter
+CI: !expresses under! 4CL promoter
+AI: !causes! growth retardation
+CI: !causes! growth retardation
+2X35S::AI-1: !increases! biomass/height
+2X35S::CI-5: !increases! biomass/height
+2X35S::AI-2: !increases! cellulose content
+4CL::AI-2: !decreases! cellulose content
+4CL::AI-3: !decreases! cellulose content
+foreign invertase: !affects! phenotype
+subcellular localization: !affects! phenotype
+carbohydrate status: !affects! phenotype

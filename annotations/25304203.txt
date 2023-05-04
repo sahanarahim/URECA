@@ -1,0 +1,9 @@
+Trichome patterning in Arabidopsis thaliana is regulated by a regulatory feedback loop of the trichome promoting factors TRANSPARENT TESTA GLABRA1 (TTG1), GLABRA3 (GL3)/ENHANCER OF GL3 (EGL3), and GL1 and a group of homologous R3MYB proteins that act as their inhibitors. Together, they regulate the temporal and spatial expression of GL2 and TTG2, which are considered to control trichome cell differentiation. In this work, we show that TTG2 is a specific activator of TRY (but not CPC or GL2). The WRKY protein TTG2 binds to W-boxes in a minimal promoter fragment of TRY, and these W-boxes are essential for rescue of the try mutant phenotype. We further show that TTG2 alone is not able to activate TRY expression, but rather drastically enhances the activation by TTG1 and GL3. As TTG2 physically interacts with TTG1 and because TTG2 can associate with GL3 through its interaction with TTG1, we propose that TTG2 enhances the activity of TTG1 and GL3 by forming a protein complex.
+
+TTG1: !regulates! GL2
+GL3/EGL3: !regulates! GL2
+GL1: !inhibits! R3MYB proteins
+R3MYB proteins: !inhibit! GL1
+TTG2: !activates! TRY
+TTG2: !enhances! TTG1
+TTG2: !interacts with! GL3

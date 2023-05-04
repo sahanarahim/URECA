@@ -1,0 +1,16 @@
+In addition to the exclusively granule-bound starch synthase GBSSI, starch granules also bind significant proportions of other starch biosynthetic enzymes, particularly starch synthases (SS) SSI and SSIIa, and starch branching enzyme (BE) BEIIb. Whether this association is a functional aspect of starch biosynthesis, or results from non-specific entrapment during amylopectin crystallization, is not known. This study utilized genetic, immunological, and proteomic approaches to investigate comprehensively the proteome and phosphoproteome of Zea mays endosperm starch granules. SSIII, BEI, BEIIa, and starch phosphorylase were identified as internal granule-associated proteins in maize endosperm, along with the previously identified proteins GBSS, SSI, SSIIa, and BEIIb. Genetic analyses revealed three instances in which granule association of one protein is affected by the absence of another biosynthetic enzyme. First, eliminating SSIIa caused reduced granule association of SSI and BEIIb, without affecting GBSS abundance. Second, eliminating SSIII caused the appearance of two distinct electrophoretic mobility forms of BEIIb, whereas only a single migration form of BEIIb was observed in wild type or any other mutant granules examined. Third, eliminating BEIIb caused significant increases in the abundance of BEI, BEIIa, SSIII, and starch phosphorylase in the granule, without affecting SSI or SSIIa. Analysis of the granule phosphoproteome with a phosphorylation-specific dye indicated that GBSS, BEIIb, and starch phosphorylase are all phosphorylated as they occur in the granule. These results suggest the possibility that starch metabolic enzymes located in granules are regulated by post-translational modification and/or protein-protein interactions.
+
+GBSSI: !localizes to! starch granules
+SSI: !localizes to! starch granules
+SSIIa: !localizes to! starch granules
+BEIIb: !localizes to! starch granules
+SSIII: !localizes to! starch granules
+BEI: !localizes to! starch granules
+BEIIa: !localizes to! starch granules
+starch phosphorylase: !localizes to! starch granules
+SSIIa: !affects! SSI & BEIIb
+SSIII: !affects! BEIIb
+BEIIb: !affects! BEI, BEIIa, SSIII & starch phosphorylase
+GBSS: !phosphorylated in! starch granules
+BEIIb: !phosphorylated in! starch granules
+starch phosphorylase: !phosphorylated in! starch granules

@@ -1,0 +1,11 @@
+Phosphoethanolamine methyltransferase (PEAMT), a kind of S-adenosylmethionine-dependent methyltransferases, plays an essential role in many biological processes of plants, such as cell metabolism, stress response, and signal transduction. It is the key rate-limiting enzyme that catalyzes the three-step methylation of ethanolamine-phosphate (P-EA) to phosphocholine (P-Cho). To understand the unique function of PEAMT in soybean (<i>Glycine max</i>) lipid synthesis, we cloned two phosphoethanolamine methyltransferase genes <i>GmPEAMT1</i> and <i>GmPEAMT2</i>, and performed functional identification. Both GmPEAMT1 and GmPEAMT2 contain two methyltransferase domains. GmPEAMT1 has the closest relationship with MtPEAMT2, and GmPEAMT2 has the closest relationship with CcPEAMT. GmPEAMT1 and GmPEAMT2 are located in the nucleus and endoplasmic reticulum. There are many light response elements and plant hormone response elements in the promoters of <i>GmPEAMT1</i> and <i>GmPEAMT2</i>, indicating that they may be involved in plant stress response. The yeast <i>cho2 opi3</i> mutant, co-expressing <i>Arabidopsis thaliana</i> phospholipid methyltransferase (PLMT) and GmPEAMT1 or GmPEAMT2, can restore normal growth, indicating that GmPEAMTs can catalyze the methylation of phosphoethanolamine to phosphate monomethylethanolamine. The heterologous expression of <i>GmPEAMT1</i> and <i>GmPEAMT2</i> can partially restore the short root phenotype of the <i>Arabidopsis thaliana peamt1</i> mutant, suggesting GmPEAMTs have similar but different functions to AtPEAMT1.
+
+GmPEAMT1: !localizes to! nucleus 
+GmPEAMT2: !localizes to! endoplasmic reticulum 
+GmPEAMT1: !interacts with! MtPEAMT2 
+GmPEAMT2: !interacts with! CcPEAMT 
+GmPEAMT1/2: !contain! two methyltransferase domains 
+GmPEAMT1/2: !enhances! light response elements 
+GmPEAMT1/2: !enhances! plant hormone response elements 
+GmPEAMT1/2: !restores! yeast cho2 opi3 mutant growth 
+GmPEAMT1/2: !partially restores! Arabidopsis thaliana peamt1 mutant phenotype

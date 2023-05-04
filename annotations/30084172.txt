@@ -1,0 +1,8 @@
+Efficient host control predicts the extirpation of ineffective symbionts, but they are nonetheless widespread in nature. We tested three hypotheses for the maintenance of symbiotic variation in rhizobia that associate with a native legume: partner mismatch between host and symbiont, such that symbiont effectiveness varies with host genotype; resource satiation, whereby extrinsic sources of nutrients relax host control; and variation in host control among host genotypes. We inoculated Acmispon strigosus from six populations with three Bradyrhizobium strains that vary in symbiotic effectiveness on sympatric hosts. We measured proxies of host and symbiont fitness in single- and co-inoculations under fertilization treatments of zero added nitrogen (N) and near-growth-saturating N. We examined two components of host control: 'host investment' into nodule size during single- and co-inoculations, and 'host sanctions' against less effective strains during co-inoculations. The Bradyrhizobium strains displayed conserved growth effects on hosts, and host control did not decline under experimental fertilization. Host sanctions were robust in all hosts, but host lines from different populations varied significantly in measures of host investment in both single- and co-inoculation experiments. Variation in host investment could promote variation in symbiotic effectiveness and prevent the extinction of ineffective Bradyrhizobium from natural populations.
+
+host: !controls! symbiont 
+host: !invest in! nodule size 
+host: !sanctions! ineffective strains 
+host: !varies in investment! among populations 
+symbiont: !varies in effectiveness! with host genotype 
+symbiont: !relaxed control! under extrinsic nutrient sources

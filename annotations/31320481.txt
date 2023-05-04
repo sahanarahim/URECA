@@ -1,0 +1,9 @@
+Groucho/Thymidine uptake 1 (Gro/Tup1) family proteins are evolutionarily conserved transcriptional coregulators in eukaryotic cells. Despite their prominent function in transcriptional repression, little is known about their role in transcriptional activation and the underlying mechanism. Here, we report that the plant Gro/Tup1 family protein LEUNIG_HOMOLOG (LUH) activates MYELOCYTOMATOSIS2 (MYC2)-directed transcription of <i>JAZ2</i> and <i>LOX2</i> via the Mediator complex coactivator and the histone acetyltransferase HAC1. We show that the Mediator subunit MED25 physically recruits LUH to MYC2 target promoters that then links MYC2 with HAC1-dependent acetylation of Lys-9 of histone H3 (H3K9ac) to activate <i>JAZ2</i> and <i>LOX2</i> Moreover, LUH promotes hormone-dependent enhancement of protein interactions between MYC2 and its coactivators MED25 and HAC1. Our results demonstrate that LUH interacts with MED25 and HAC1 through its distinct domains, thus imposing a selective advantage by acting as a scaffold for MYC2 activation. Therefore, the function of LUH in regulating jasmonate signaling is distinct from the function of TOPLESS, another member of the Gro/Tup1 family that represses MYC2-dependent gene expression in the resting stage.
+
+LUH: !activates! MYC2 
+LUH: !interacts with! MED25 
+LUH: !interacts with! HAC1 
+MYC2: !links to! HAC1 
+HAC1: !acetylates! H3K9ac 
+LUH: !promotes! hormone-dependent enhancement of protein interactions between MYC2 and its coactivators 
+TOPLESS: !represses! MYC2-dependent gene expression

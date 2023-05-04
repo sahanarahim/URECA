@@ -1,0 +1,18 @@
+The identification of protein complexes is important for the understanding of protein structure and function and the regulation of cellular processes. We used blue-native PAGE and tandem mass spectrometry to identify protein complexes systematically, and built a web database, the protein co-migration database (PCoM-DB, http://pcomdb.lowtem.hokudai.ac.jp/proteins/top), to provide prediction tools for protein complexes. PCoM-DB provides migration profiles for any given protein of interest, and allows users to compare them with migration profiles of other proteins, showing the oligomeric states of proteins and thus identifying potential interaction partners. The initial version of PCoM-DB (launched in January 2013) included protein complex data for Synechocystis whole cells and Arabidopsis thaliana thylakoid membranes. Here we report PCoM-DB version 2.0, which includes new data sets and analytical tools. Additional data are included from whole cells of the pelagic marine picocyanobacterium Prochlorococcus marinus, the thermophilic cyanobacterium Thermosynechococcus elongatus, the unicellular green alga Chlamydomonas reinhardtii and the bryophyte Physcomitrella patens. The Arabidopsis protein data now include data for intact mitochondria, intact chloroplasts, chloroplast stroma and chloroplast envelopes. The new tools comprise a multiple-protein search form and a heat map viewer for protein migration profiles. Users can compare migration profiles of a protein of interest among different organelles or compare migration profiles among different proteins within the same sample. For Arabidopsis proteins, users can compare migration profiles of a protein of interest with putative homologous proteins from non-Arabidopsis organisms. The updated PCoM-DB will help researchers find novel protein complexes and estimate their evolutionary changes in the green lineage.
+
+Blue-native PAGE: !identifies! Protein Complexes 
+Tandem Mass Spectrometry: !identifies! Protein Complexes 
+PCoM-DB: !provides! Prediction Tools 
+Synechocystis Whole Cells: !includes! Protein Complex Data 
+Arabidopsis Thaliana Thylakoid Membranes: !includes! Protein Complex Data 
+Prochlorococcus Marinus: !includes! Protein Complex Data 
+Thermosynechococcus Elongatus: !includes! Protein Complex Data 
+Chlamydomonas Reinhardtii: !includes! Protein Complex Data 
+Physcomitrella Patens: !includes! Protein Complex Data 
+Intact Mitochondria: !includes! Protein Data 
+Intact Chloroplasts: !includes! Protein Data 
+Chloroplast Stroma: !includes! Protein Data 
+Chloroplast Envelopes: !includes! Protein Data 
+Multiple-Protein Search Form: !provides! Analytical Tools 
+Heat Map Viewer: !provides! Analytical Tools 
+Protein of Interest: !compares with! Putative Homologous Proteins

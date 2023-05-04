@@ -1,0 +1,6 @@
+We now have unprecedented capability to generate large data sets on the myriad genes and molecular players that regulate plant development. Networks of interactions between systems components can be derived from that data in various ways and can be used to develop mathematical models of various degrees of sophistication. Here, we discuss why, in many cases, it is productive to focus on small networks. We provide a brief and accessible introduction to relevant mathematical and computational approaches to model regulatory networks and discuss examples of small network models that have helped generate new insights into plant biology (where small is beautiful), such as in circadian rhythms, hormone signaling, and tissue patterning. We conclude by outlining some of the key technical and modeling challenges for the future.
+
+Gene: !affects! Plant Development 
+Circadian Rhythms: !regulated by! Gene 
+Hormone Signaling: !controlled by! Gene 
+Tissue Patterning: !influenced by! Gene

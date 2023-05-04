@@ -1,0 +1,26 @@
+The composition of the ionome is closely linked to a plant's nutritional status. Under certain deficiencies, cross-talk induces unavoidable accumulation of some nutrients, which upsets the balance and modifies the ionomic composition of plant tissues. Rapeseed plants (Brassica napus L.) grown under controlled conditions were subject to individual nutrient deficiencies (N, K, P, Ca, S, Mg, Fe, Cu, Zn, Mn, Mo, or B) and analyzed by inductively high-resolution coupled plasma mass spectrometry to determine the impact of deprivation on the plant ionome. Eighteen situations of increased uptake under mineral nutrient deficiency were identified, some of which have already been described (K and Na, S and Mo, Fe, Zn and Cu). Additionally, as Mo uptake was strongly increased under S, Fe, Cu, Zn, Mn, or B deprivation, the mechanisms underlying the accumulation of Mo in these deficient plants were investigated. The results suggest that it could be the consequence of multiple metabolic disturbances, namely: (i) a direct disturbance of Mo metabolism leading to an up-regulation of Mo transporters such as MOT1, as found under Zn or Cu deficiency, which are nutrients required for synthesis of the Mo cofactor; and (ii) a disturbance of S metabolism leading to an up-regulation of root SO<sub>4</sub><sup>2-</sup> transporters, causing an indirect increase in the uptake of Mo in S, Fe, Mn, and B deficient plants.
+
+N: !affects! ionome
+K: !affects! ionome
+P: !affects! ionome
+Ca: !affects! ionome
+S: !affects! ionome
+Mg: !affects! ionome
+Fe: !affects! ionome
+Cu: !affects! ionome
+Zn: !affects! ionome
+Mn: !affects! ionome
+Mo: !affects! ionome
+B: !affects! ionome
+K: !increases uptake of! Na
+S: !increases uptake of! Mo
+Fe: !increases uptake of! Mo
+Cu: !increases uptake of! Mo
+Zn: !increases uptake of! Mo
+Mn: !increases uptake of! Mo
+B: !increases uptake of! Mo
+Mo: !localizes to! root SO<sub>4</sub><sup>2-</sup> transporters
+Mo: !interacts with! MOT1
+Mo: !enhances! Zn or Cu deficiency
+Mo: !represses! S metabolism
+Mo: !

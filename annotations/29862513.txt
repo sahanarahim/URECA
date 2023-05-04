@@ -1,0 +1,8 @@
+Rainfall variability is a major determinant of soil moisture, but its influence on vegetation structure has been challenging to generalize. This presents a major source of uncertainty in predicting vegetation responses to potentially widespread shifts in rainfall frequency and intensity. In savannas, where trees and grasses coexist, conflicting lines of evidence have suggested, variously, that tree cover can either increase or decrease in response to less frequent, more intense rainfall. Here, we use remote sensing products and continent-wide soil maps for sub-Saharan Africa to analyze how soil texture and fire mediate the response of savanna tree cover to rainfall climatology. Tree cover increased with mean wet-season rainfall and decreased with fire frequency, consistent with previous analyses. However, responses to rainfall intensity varied: tree cover dramatically decreased with rainfall intensity on clayey soils, at high rainfall, and with rainfall spread over longer wet seasons; conversely, on sandy soils, at low rainfall, and with shorter wet seasons, tree cover instead increased with rainfall intensity. Tree cover responses to rainfall climatology depend on soil texture, accounting for substantial variation in tree cover across African savannas. Differences in underlying soils may lead to divergent responses of savannas to global change.
+
+rainfall: !affects! tree cover
+soil texture: !mediates! response of tree cover to rainfall climatology
+fire frequency: !decreases! tree cover
+mean wet-season rainfall: !increases! tree cover
+rainfall intensity: !decreases! tree cover on clayey soils
+rainfall intensity: !increases! tree cover on sandy soils

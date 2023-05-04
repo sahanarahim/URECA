@@ -1,0 +1,10 @@
+Galactolipids monogalactosyl diacylglycerol (MGDG) and digalactosyl diacylglycerol (DGDG) constitute c. 50% and c. 30% of chloroplast membrane lipids, respectively. They are important for photosynthesis and stress tolerance. Mutations in DGD1, the major DGDG-synthesizing enzyme, severely reduce DGDG content and induce jasmonic acid (JA) overproduction, resulting in stunted growth. However, how DGDG reduction leads to JA overproduction is unknown. We introduced an inducible microRNA (ami-MGD1) into an Arabidopsis dgd1 mutant to reduce MGDG synthesis, thereby further diminishing galactolipid content, but partially restoring the MGDG : DGDG ratio. Galactolipid and Chl contents, expression of JA-biosynthesis and JA-responsive genes, photosystem II (PSII) maximum quantum efficiency, and chloroplast shape were investigated. Expression of JA-biosynthesis and JA-responsive genes were reduced in amiR-MGD1-transformed dgd1 plants. Stunted growth caused by JA overproduction was also partially rescued, but Chl reduction and PSII impairment remained similar to the original dgd1 mutant. Altered chloroplast shape, which is another defect observed in dgd1 but is not caused by JA overproduction, was also partially rescued. Our results reveal that an increased MGDG : DGDG ratio is the primary cause of JA overproduction. The ratio is also important for determining chloroplast shapes, whereas reduced Chl and photosynthesis are most likely a direct consequence of insufficient DGDG.
+
+DGD1: !synthesizes! DGDG 
+MGDG: !synthesizes! DGD1 
+DGDG: !affects! JA overproduction 
+MGDG: !affects! JA overproduction 
+MGDG: !affects! chloroplast shape 
+DGDG: !affects! chloroplast shape 
+Chl: !reduced by! insufficient DGDG 
+PSII: !impaired by! insufficient DGDG

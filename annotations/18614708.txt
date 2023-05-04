@@ -1,0 +1,14 @@
+ADP-glucose (Glc) pyrophosphorylase (ADP-Glc PPase) catalyzes the first committed step in starch biosynthesis. Higher plant ADP-Glc PPase is a heterotetramer (alpha(2)beta(2)) consisting of two small and two large subunits. There is increasing evidence that suggests that catalytic and regulatory properties of the enzyme from higher plants result from the synergy of both types of subunits. In Arabidopsis (Arabidopsis thaliana), two genes encode small subunits (APS1 and APS2) and four large subunits (APL1-APL4). Here, we show that in Arabidopsis, APL1 and APL2, besides their regulatory role, have catalytic activity. Heterotetramers formed by combinations of a noncatalytic APS1 and the four large subunits showed that APL1 and APL2 exhibited ADP-Glc PPase activity with distinctive sensitivities to the allosteric activator (3-phosphoglycerate). Mutation of the Glc-1-P binding site of Arabidopsis and potato (Solanum tuberosum) isoforms confirmed these observations. To determine the relevance of these activities in planta, a T-DNA mutant of APS1 (aps1) was characterized. aps1 is starchless, lacks ADP-Glc PPase activity, APS1 mRNA, and APS1 protein, and is late flowering in long days. Transgenic lines of the aps1 mutant, expressing an inactivated form of APS1, recovered the wild-type phenotype, indicating that APL1 and APL2 have catalytic activity and may contribute to ADP-Glc synthesis in planta.
+
+ADP-Glc PPase: !consists of! alpha(2)beta(2)
+APL1: !has catalytic activity! ADP-Glc PPase
+APL2: !has catalytic activity! ADP-Glc PPase
+APS1: !encodes small subunits! ADP-Glc PPase
+APS2: !encodes small subunits! ADP-Glc PPase
+APL1: !interacts with! APS1
+APL2: !interacts with! APS1
+aps1: !lacks! ADP-Glc PPase activity
+aps1: !lacks! APS1 mRNA
+aps1: !lacks! APS1 protein
+aps1: !is late flowering! long days
+Transgenic lines: !express! inactivated form of APS1

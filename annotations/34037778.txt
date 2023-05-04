@@ -1,0 +1,7 @@
+Pentatricopeptide repeat (PPR) proteins are helical repeat-proteins that bind RNA in a modular fashion with a sequence-specificity that can be manipulated by the use of an amino acid code. As such, PPR repeats are promising scaffolds for the design of RNA binding proteins for synthetic biology applications. However, the in vivo functional capabilities of artificial PPR proteins built from consensus PPR motifs are just starting to be explored. Here, we report in vivo functions of an artificial PPR protein, dPPRrbcL, made of consensus PPR motifs that were designed to bind a sequence near the 5' end of rbcL transcripts in Arabidopsis chloroplasts. We used a functional complementation assay to demonstrate that this protein bound its intended RNA target with specificity in vivo and that it substituted for a natural PPR protein by stabilizing processed rbcL mRNA. We targeted a second protein of analogous design to the petL 5' UTR, where it substituted for the native stabilizing PPR protein PGR3, albeit inefficiently. These results showed that artificial PPR proteins can be engineered to functionally mimic the class of native PPR proteins that serve as physical barriers against exoribonucleases.
+
+PPR proteins: !bind! RNA 
+dPPRrbcL: !stabilizes! rbcL mRNA 
+dPPRrbcL: !substitutes for! natural PPR protein 
+petL 5' UTR: !targeted by! second protein 
+second protein: !substitutes for! native stabilizing PPR protein PGR3

@@ -1,0 +1,8 @@
+During meiosis, recombination-mediated pairing and synapsis of homologous chromosomes begin with programmed DNA double-strand breaks (DSBs). In yeast and mice, DSBs form in a tethered loop-axis complex, in which DSB sites are located within chromatin loops and tethered to the proteinaceous axial element (AE) by DSB-forming factors. In plants, the molecular connection between DSB sites and chromosome axes is poorly understood. By integrating genetic analysis, immunostaining technology, and protein-protein interaction studies, the putative factors linking DSB formation to chromosome axis were explored in maize meiosis. Here, we report that the AE protein ZmASY1 directly interacts with the DSB-forming protein ZmPRD3 in maize (Zea mays) and mediates DSB formation, synaptonemal complex assembly, and homologous recombination. ZmPRD3 also interacts with ZmPRD1, which plays a central role in organizing the DSB-forming complex. These results suggest that ZmASY1 and ZmPRD3 may work as a key module linking DSB sites to chromosome axes during DSB formation in maize. This mechanism is similar to that described in yeast and recently Arabidopsis involving the homologs Mer2/ZmPRD3 and HOP1/ZmASY1, thus indicating that the process of tethering DSBs in chromatin loops to the chromosome axes may be evolutionarily conserved in diverse taxa.
+
+ZmPRD3: !interacts with! ZmASY1
+ZmPRD3: !interacts with! ZmPRD1
+ZmASY1: !mediates! DSB formation
+ZmASY1: !mediates! synaptonemal complex assembly
+ZmASY1: !mediates! homologous recombination
+Mer2/ZmPRD3: !similar to! HOP1/ZmASY1

@@ -1,0 +1,9 @@
+Magnaporthe oryzae is the causal agent of rice blast disease, the most devastating disease of cultivated rice (Oryza sativa) and a continuing threat to global food security. To cause disease, the fungus elaborates a specialized infection cell called an appressorium, which breaches the cuticle of the rice leaf, allowing the fungus entry to plant tissue. Here, we show that the exocyst complex localizes to the tips of growing hyphae during vegetative growth, ahead of the Spitzenkörper, and is required for polarized exocytosis. However, during infection-related development, the exocyst specifically assembles in the appressorium at the point of plant infection. The exocyst components Sec3, Sec5, Sec6, Sec8, and Sec15, and exocyst complex proteins Exo70 and Exo84 localize specifically in a ring formation at the appressorium pore. Targeted gene deletion, or conditional mutation, of genes encoding exocyst components leads to impaired plant infection. We demonstrate that organization of the exocyst complex at the appressorium pore is a septin-dependent process, which also requires regulated synthesis of reactive oxygen species by the NoxR-dependent Nox2 NADPH oxidase complex. We conclude that septin-mediated assembly of the exocyst is necessary for appressorium repolarization and host cell invasion.
+
+exocyst: !localizes to! tips of growing hyphae 
+exocyst: !assembles in! appressorium 
+Sec3/Sec5/Sec6/Sec8/Sec15/Exo70/Exo84: !localize in! ring formation 
+targeted gene deletion: !impairs! plant infection 
+septin: !mediates assembly of! exocyst 
+NoxR-dependent Nox2 NADPH oxidase complex: !synthesizes! reactive oxygen species 
+septin: !required for! appressorium repolarization

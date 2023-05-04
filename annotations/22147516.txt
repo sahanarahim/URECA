@@ -1,0 +1,12 @@
+['22147516', 'Leaf epidermal peels of Arabidopsis (Arabidopsis thaliana) mutants lacking either  phototropins 1 and 2 (phot1 and phot2) or cryptochromes 1 and 2 (cry1 and cry2)  exposed to a background of red light show severely impaired stomatal opening  responses to blue light. Since phot and cry are UV-A/blue light photoreceptors,  they may be involved in the perception of the blue light-specific signal that  induces the aperture of the stomatal pores. In leaf epidermal peels, the blue  light-specific effect saturates at low irradiances; therefore, it is considered  to operate mainly under the low irradiance of dawn, dusk, or deep canopies.  Conversely, we show that both phot1 phot2 and cry1 cry2 have reduced stomatal  conductance, transpiration, and photosynthesis, particularly under the high  irradiance of full sunlight at midday. These mutants show compromised responses  of stomatal conductance to irradiance. However, the effects of phot and cry on  photosynthesis were largely nonstomatic. While the stomatal conductance phenotype  of phot1 phot2 was blue light specific, cry1 cry2 showed reduced stomatal  conductance not only in response to blue light, but also in response to red  light. The levels of abscisic acid were elevated in cry1 cry2. We conclude that  considering their effects at high irradiances cry and phot are critical for the  control of transpiration and photosynthesis rates in the field. The effects of  cry on stomatal conductance are largely indirect and involve the control of  abscisic acid levels.', '2012 Mar', 'Plant Physiol', '10.1104/pp.111.187237', 'Casal']
+
+phot1: !affects! stomatal opening 
+phot2: !affects! stomatal opening 
+cry1: !affects! stomatal conductance 
+cry2: !affects! stomatal conductance 
+phot1: !affects! transpiration 
+phot2: !affects! transpiration 
+cry1: !affects! photosynthesis 
+cry2: !affects! photosynthesis 
+cry1: !controls! abscisic acid levels 
+cry2: !controls! abscisic acid levels

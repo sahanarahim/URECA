@@ -1,0 +1,9 @@
+Rice (Oryza sativa) has unique floral patterns that contribute to grain yield. However, the molecular mechanism underlying the specification of floral organ identities in rice, particularly the interaction among floral homeotic genes, remains poorly understood. Here, we show that the floral homeotic gene OsMADS16 (also called SUPERWOMAN1, SPW1, a B-class gene) acts together with the rice C-class genes OsMADS3 and OsMADS58 in specifying floral organ patterning. OsMADS16 and the two C-class genes have an overlapping expression pattern in the third whorl founder cells. Compared with the single mutants, both spw1-1 osmads3-4 and spw1-1 osmads58 double mutants exhibit additional whorls of glume-like organs within the flower, particularly an extra whorl of six glume-like structures formed at the position of the wild-type stamens. These ectopic glume-like structures were shown to have palea identity through cellular observation and in situ hybridization analysis using marker genes. Our results suggest that B- and C-class genes play a key role in suppressing indeterminate growth within the floral meristem, particularly whorl-3 primordia. We also hypothesize that, in contrast to previous assumptions, the specialized spikelet organ in rice, the palea, is the counterpart of the sepal in eudicots, and the lemma is homologous to the bract.
+
+OsMADS16: !interacts with! OsMADS3 
+OsMADS16: !interacts with! OsMADS58 
+OsMADS16: !suppresses! indeterminate growth 
+OsMADS3: !interacts with! OsMADS16 
+OsMADS58: !interacts with! OsMADS16 
+palea: !homologous to! sepal 
+lemma: !homologous to! bract

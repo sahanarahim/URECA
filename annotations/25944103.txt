@@ -1,0 +1,11 @@
+Plants produce an array of metabolites (including lignin monomers and soluble UV-protective metabolites) from phenylalanine through the phenylpropanoid biosynthetic pathway. A subset of plants, including many related to Arabidopsis thaliana, synthesizes glucosinolates, nitrogen- and sulfur-containing secondary metabolites that serve as components of a plant defense system that deters herbivores and pathogens. Here, we report that the Arabidopsis thaliana reduced epidermal fluorescence5 (ref5-1) mutant, identified in a screen for plants with defects in soluble phenylpropanoid accumulation, has a missense mutation in CYP83B1 and displays defects in glucosinolate biosynthesis and in phenylpropanoid accumulation. CYP79B2 and CYP79B3 are responsible for the production of the CYP83B1 substrate indole-3-acetaldoxime (IAOx), and we found that the phenylpropanoid content of cyp79b2 cyp79b3 and ref5-1 cyp79b2 cyp79b3 plants is increased compared with the wild type. These data suggest that levels of IAOx or a subsequent metabolite negatively influence phenylpropanoid accumulation in ref5 and more importantly that this crosstalk is relevant in the wild type. Additional biochemical and genetic evidence indicates that this inhibition impacts the early steps of the phenylpropanoid biosynthetic pathway and restoration of phenylpropanoid accumulation in a ref5-1 med5a/b triple mutant suggests that the function of the Mediator complex is required for the crosstalk.
+
+CYP83B1: !affects! glucosinolate biosynthesis
+CYP79B2/CYP79B3: !produce! IAOx
+ref5-1: !has mutation in! CYP83B1
+ref5-1: !displays defects in! glucosinolate biosynthesis
+ref5-1: !displays defects in! phenylpropanoid accumulation
+cyp79b2 cyp79b3: !increases! phenylpropanoid content
+IAOx/subsequent metabolite: !negatively influences! phenylpropanoid accumulation
+ref5-1 med5a/b triple mutant: !restores! phenylpropanoid accumulation
+Mediator complex: !required for! crosstalk

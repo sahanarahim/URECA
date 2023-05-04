@@ -1,0 +1,8 @@
+Immunity in tomato (Solanum lycopersicum) to Pseudomonas syringae bacteria expressing the effector proteins AvrPto and AvrPtoB requires both Pto kinase and the NBARC-LRR (for nucleotide binding domain shared by Apaf-1, certain R gene products, and CED-4 fused to C-terminal leucine-rich repeats) protein Prf. Pto plays a direct role in effector recognition within the host cytoplasm, but the role of Prf is unknown. We show that Pto and Prf are coincident in the signal transduction pathway that controls ligand-independent signaling. Pto and Prf associate in a coregulatory interaction that requires Pto kinase activity and N-myristoylation for signaling. Pto interacts with a unique Prf N-terminal domain outside of the NBARC-LRR domain and resides in a high molecular weight recognition complex dependent on the presence of Prf. In this complex, both Pto and Prf contribute to specific recognition of AvrPtoB. The data suggest that the role of Pto is confined to the regulation of Prf and that the bacterial effectors have evolved to target this coregulatory molecular switch.
+
+Pto: !interacts with! Prf 
+Prf: !interacts with! Pto 
+Pto: !requires! kinase activity 
+Pto: !requires! N-myristoylation 
+Pto: !resides in! recognition complex 
+Prf: !contributes to! specific recognition of AvrPtoB

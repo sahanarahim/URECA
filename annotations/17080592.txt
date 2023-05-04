@@ -1,0 +1,8 @@
+We proposed the hydraulic limitation hypothesis (HLH) as a mechanism to explain universal patterns in tree height, and tree and stand biomass growth: height growth slows down as trees grow taller, maximum height is lower for trees of the same species on resource-poor sites and annual wood production declines after canopy closure for even-aged forests. Our review of 51 studies that measured one or more of the components necessary for testing the hypothesis showed that taller trees differ physiologically from shorter, younger trees. Stomatal conductance to water vapour (g(s)), photosynthesis (A) and leaf-specific hydraulic conductance (K L) are often, but not always, lower in taller trees. Additionally, leaf mass per area is often greater in taller trees, and leaf area:sapwood area ratio changes with tree height. We conclude that hydraulic limitation of gas exchange with increasing tree size is common, but not universal. Where hydraulic limitations to A do occur, no evidence supports the original expectation that hydraulic limitation of carbon assimilation is sufficient to explain observed declines in wood production. Any limit to height or height growth does not appear to be related to the so-called age-related decline in wood production of forests after canopy closure. Future work on this problem should explicitly link leaf or canopy gas exchange with tree and stand growth, and consider a more fundamental assumption: whether tree biomass growth is limited by carbon availability.
+
+gene: !affects! Stomatal conductance
+gene: !affects! Photosynthesis
+gene: !affects! Leaf-specific hydraulic conductance
+gene: !affects! Leaf mass per area
+gene: !affects! Leaf area:sapwood area ratio
+gene: !limits! Tree height growth

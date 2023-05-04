@@ -1,0 +1,9 @@
+P0 protein of some polerovirus members can target ARGONAUTE1 (AGO1) to suppress RNA silencing. Although P0 harbors an F-box-like motif reported to be essential for interaction with S phase kinase-associated protein 1 (SKP1) and RNA silencing suppression, it is the autophagy pathway that was shown to contribute to AGO1 degradation. Therefore, the role of P0-SKP1 interaction in silencing suppression remains unclear. We conducted global mutagenesis and comparative functional analysis of P0 encoded by Brassica yellows virus (BrYV) (P0<sup>Br</sup> ). We found that several residues within P0<sup>Br</sup> are required for local and systemic silencing suppression activities. Remarkably, the F-box-like motif mutant of P0<sup>Br</sup> , which failed to interact with SKP1, is destabilized in vivo. Both the 26S proteasome system and autophagy pathway play a role in destabilization of the mutant protein. Furthermore, silencing of a Nicotiana benthamiana SKP1 ortholog leads to the destabilization of P0<sup>Br</sup> . Genetic analyses indicated that the P0<sup>Br</sup> -SKP1 interaction is not directly required for silencing suppression activity of P0<sup>Br</sup> , but it facilitates stability of P0<sup>Br</sup> to ensure efficient RNA silencing suppression. Consistent with these findings, efficient systemic infection of BrYV requires P0<sup>Br</sup> . Our results reveal a novel strategy used by BrYV for facilitating viral suppressors of RNA silencing stability against degradation by plant cells.
+
+P0: !targets! AGO1 
+P0: !interacts with! SKP1 
+P0: !destabilized by! Autophagy pathway 
+P0: !destabilized by! 26S proteasome system 
+SKP1: !silencing of! Destabilizes P0 
+P0: !facilitates stability of! SKP1 
+P0: !required for! Systemic infection

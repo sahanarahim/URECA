@@ -1,0 +1,10 @@
+Suppression of innate immunity is essential for rhizobial infection and colonization in compatible interactions with leguminous plants. In Medicago nad1 mutant plants, innate immunity is excessively activated, resulting in necrotic cell death after rhizobia are released from infection threads into symbiotic cells, suggesting that innate immunity plays a critical role in regulating bacteroid persistence. In this study, we identified three respiratory burst oxidase homologs (Rboh) and one calcium-dependent protein kinase (CDPK) as key factors for the activation of immunity in Medicago nodules using genetic and biochemical methods. Knock-out of either MtRbohB or MtRbohD in nad1-1 mutant plants produced effective nodules with intact symbiotic cells, while knock-out of MtRbohC decreased brown pigment deposition, leading to less necrosis in nad1-1 mutant nodules. MtCDPK5 directly phosphorylated MtRbohB, MtRbohC and MtRbohD, which triggered immune responses in plants. Knock-out of MtCDPK5 in nad1-1 mutant plants partially restored nitrogen-fixing nodules. Overexpression of the constitutively activated variant MtCDPK5<sup>VK</sup> under the control of the NAD1 promoter elicited strong immune responses, resulting in ineffective nodules in wild-type plants. Our data provide direct evidence that host plants utilize innate immunity to regulate rhizobial colonization in symbiotic cells in Medicago truncatula.
+
+MtRbohB: !interacts with! MtCDPK5 
+MtRbohC: !interacts with! MtCDPK5 
+MtRbohD: !interacts with! MtCDPK5 
+MtCDPK5: !phosphorylates! MtRbohB 
+MtCDPK5: !phosphorylates! MtRbohC 
+MtCDPK5: !phosphorylates! MtRbohD 
+MtCDPK5: !enhances! innate immunity 
+MtCDPK5<sup>VK</sup>: !elicits! strong immune responses

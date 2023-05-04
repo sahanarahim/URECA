@@ -1,0 +1,11 @@
+Effective evaluation of physiological and biochemical indexes and drought degree of tea plant is an important technology to determine the drought resistance ability of tea plants. At present, the traditional detection method of tea drought stress is mainly based on physiological and biochemical detection, which is not only destructive to tea plants, but also time-consuming and laborious. In this study, through simulating drought treatment of tea plant, hyperspectral camera was used to obtain spectral data of tea leaves, and three machine learning models, namely, support vector machine (SVM), random forest (RF), and partial least-squares (PLS) regression, were used to model malondialdehyde (MDA), electrolyte leakage (EL), maximum efficiency of photosystem II (<i>Fv/Fm</i>), soluble saccharide (SS), and drought damage degree (DDD) of tea leaves. The results showed that the competitive adaptive reweighted sampling (CARS)-PLS model of MDA had the best effect among the four physiological and biochemical indexes (Rcal = 0.96, Rp = 0.92, RPD = 3.51). Uninformative variable elimination (UVE)-SVM model was the best in DDD (Rcal = 0.97, Rp = 0.95, RPD = 4.28). Therefore, through the establishment of machine learning model using hyperspectral imaging technology, we can monitor the drought degree of tea seedlings under drought stress. This method is not only non-destructive, but also fast and accurate, which is expected to be widely used in tea garden water regime monitoring.
+
+Hyperspectral camera: !obtains! Spectral data 
+Machine learning models: !model! MDA 
+Machine learning models: !model! EL 
+Machine learning models: !model! Fv/Fm 
+Machine learning models: !model! SS 
+Machine learning models: !model! DDD 
+CARS-PLS model: !best effect on! MDA 
+UVE-SVM model: !best effect on! DDD 
+Hyperspectral imaging technology: !monitors! Drought degree

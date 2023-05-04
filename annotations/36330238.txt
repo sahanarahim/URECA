@@ -1,0 +1,11 @@
+Fusarium head blight (FHB) is an economically important disease affecting wheat and thus poses a major threat to wheat production. Several studies have evaluated the effectiveness of image analysis methods to predict FHB using disease-infected grains; however, few have looked at the final application, considering the relationship between cost and benefit, resolution, and accuracy. The conventional screening of FHB resistance of large-scale samples is still dependent on low-throughput visual inspections. This study aims to compare the performance of two cost-benefit seed image analysis methods, the free software "SmartGrain" and the fully automated commercially available instrument "Cgrain Value™" by assessing 16 seed morphological traits of winter wheat to predict FHB. The analysis was carried out on a seed set of FHB which was visually assessed as to the severity. The dataset is composed of 432 winter wheat genotypes that were greenhouse-inoculated. The predictions from each method, in addition to the predictions combined from the results of both methods, were compared with the disease visual scores. The results showed that Cgrain Value™ had a higher prediction accuracy of <i>R</i> <sup>2</sup> = 0.52 compared with SmartGrain for which <i>R</i> <sup>2</sup> = 0.30 for all morphological traits. However, the results combined from both methods showed the greatest prediction performance of <i>R</i> <sup>2</sup> = 0.58. Additionally, a subpart of the morphological traits, namely, width, length, thickness, and color features, showed a higher correlation with the visual scores compared with the other traits. Overall, both methods were related to the visual scores. This study shows that these affordable imaging methods could be effective to predict FHB in seeds and enable us to distinguish minor differences in seed morphology, which could lead to a precise performance selection of disease-free seeds/grains.
+
+SmartGrain: !predicts! FHB
+Cgrain Value™: !predicts! FHB
+width: !correlates with! visual scores
+length: !correlates with! visual scores
+thickness: !correlates with! visual scores
+color features: !correlates with! visual scores
+SmartGrain: !has R2 of! 0.30
+Cgrain Value™: !has R2 of! 0.52
+combined methods: !has R2 of! 0.58

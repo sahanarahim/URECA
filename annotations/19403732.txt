@@ -1,0 +1,9 @@
+Phytochrome A (phyA) is the primary photoreceptor for sensing extremely low amounts of light and for mediating various far-red light-induced responses in higher plants. Translocation from the cytosol to the nucleus is an essential step in phyA signal transduction. EID1 (for EMPFINDLICHER IM DUNKELROTEN LICHT1) is an F-box protein that functions as a negative regulator in far-red light signaling downstream of the phyA in Arabidopsis (Arabidopsis thaliana). To identify factors involved in EID1-dependent light signal transduction, pools of ethylmethylsulfonate-treated eid1-3 seeds were screened for seedlings that suppress the hypersensitive phenotype of the mutant. The phenotype of the suppressor mutant presented here is caused by a missense mutation in the PHYA gene that leads to an amino acid transition in its histidine kinase-related domain. The novel phyA-402 allele alters the spectral sensitivity and the persistence of far-red light-induced high-irradiance responses. The strong eid1-3 suppressor phenotype of phyA-402 contrasts with the moderate phenotype observed when phyA-402 is introgressed into the wild-type background, which indicates that the mutation mainly alters functions in an EID1-dependent signaling cascade. The mutation specifically inhibits nuclear accumulation of the photoreceptor molecule upon red light irradiation, even though it still interacts with FHY1 (for far-red long hypocotyl 1) and FHL (for FHY1-like protein), two factors that are essential for nuclear accumulation of phyA. Degradation of the mutated phyA is unaltered even under light conditions that inhibit its nuclear accumulation, indicating that phyA degradation may occur mostly in the cytoplasm.
+
+phyA: !translocates to! nucleus 
+EID1: !regulates! phyA 
+phyA-402: !alters! spectral sensitivity 
+phyA-402: !inhibits! nuclear accumulation 
+FHY1: !interacts with! phyA 
+FHL: !interacts with! phyA 
+phyA: !degrades in! cytoplasm

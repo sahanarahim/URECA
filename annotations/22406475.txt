@@ -1,0 +1,8 @@
+['22406475', 'Plants respond to low-nutrient conditions through metabolic and morphology  changes that increase their ability to survive and grow. The transcription factor  RAP2.11 was identified as a component in the response to low potassium through  regulation of the high-affinity K(+) uptake transporter AtHAK5 and other  components of the low-potassium signal transduction pathway. RAP2.11 was  identified through the activation tagging of Arabidopsis lines that contained a  luciferase marker driven by the AtHAK5 promoter that is normally only induced by  low potassium. This factor bound to a GCC-box of the AtHAK5 promoter in vitro and  in vivo. Transcript profiling revealed that a large number of genes were  up-regulated in roots by RAP2.11 overexpression. Many regulated genes were  identified to be in functional categories that are important in low-K(+)  signaling. These categories included ethylene signaling, reactive oxygen species  production, and calcium signaling. Promoter regions of the up-regulated genes  were enriched in the GCCGGC motif also contained in the AtHAK5 promoter. These  results suggest that RAP2.11 regulates AtHAK5 expression under low-K(+)  conditions and also contributes to a coordinated response to low-potassium  conditions through the regulation of other genes in the low-K(+) signaling  cascade.', '2012 Sep', 'Mol Plant', '10.1093/mp/sss003', 'Schachtman']
+
+RAP2.11: !regulates! AtHAK5 
+RAP2.11: !binds to! GCC-box 
+RAP2.11: !up-regulates! ethylene signaling 
+RAP2.11: !up-regulates! reactive oxygen species production 
+RAP2.11: !up-regulates! calcium signaling 
+GCCGGC motif: !contained in! AtHAK5 promoter

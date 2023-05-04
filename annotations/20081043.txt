@@ -1,0 +1,10 @@
+The actin cytoskeleton is a key target for signaling networks and plays a central role in translating signals into cellular responses in eukaryotic cells. Self-incompatibility (SI) is an important mechanism responsible for preventing self-fertilization. The SI system of Papaver rhoeas pollen involves a Ca(2+)-dependent signaling network, including massive actin depolymerization as one of the earliest cellular responses, followed by the formation of large actin foci. However, no analysis of these structures, which appear to be aggregates of filamentous (F-)actin based on phalloidin staining, has been carried out to date. Here, we characterize and quantify the formation of F-actin foci in incompatible Papaver pollen tubes over time. The F-actin foci increase in size over time, and we provide evidence that their formation requires actin polymerization. Once formed, these SI-induced structures are unusually stable, being resistant to treatments with latrunculin B. Furthermore, their formation is associated with changes in the intracellular localization of two actin-binding proteins, cyclase-associated protein and actin-depolymerizing factor. Two other regulators of actin dynamics, profilin and fimbrin, do not associate with the F-actin foci. This study provides, to our knowledge, the first insights into the actin-binding proteins and mechanisms involved in the formation of these intriguing structures, which appear to be actively formed during the SI response.
+
+Ca2+: !triggers! Actin depolymerization 
+Actin depolymerization: !leads to! F-actin foci formation 
+F-actin foci: !require! Actin polymerization 
+F-actin foci: !resistant to! Latrunculin B 
+Cyclase-associated protein: !localizes to! F-actin foci 
+Actin-depolymerizing factor: !localizes to! F-actin foci 
+Profilin: !does not associate with! F-actin foci 
+Fimbrin: !does not associate with! F-actin foci

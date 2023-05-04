@@ -1,0 +1,11 @@
+Rhizobium etli CFN42 is unable to use nitrate for respiration and lacks nitrate reductase activity as well as the nap or nar genes encoding respiratory nitrate reductase. However, genes encoding proteins closely related to denitrification enzymes, the norCBQD gene cluster and a novel nirKnirVnnrRnnrU operon are located on pCFN42f. In this study, we carried out a genetic and functional characterization of the reductases encoded by the R. etli nirK and norCB genes. By gene fusion expression analysis in free-living conditions, we determined that R. etli regulates its response to nitric oxide through NnrR via the microaerobic expression mediated by FixKf. Interestingly, expression of the norC and nirK genes displays a different level of dependence for NnrR. A null mutation in nnrR causes a drastic drop in the expression of norC, while nirK still exhibits significant expression. A thorough analysis of the nirK regulatory region revealed that this gene is under both positive and negative regulation. Functional analysis carried out in this work demonstrated that reduction of nitrite and nitric oxide in R. etli requires the reductase activities encoded by the norCBQD and nirK genes. Levels of nitrosylleghemoglobin complexes in bean plants exposed to nitrate are increased in a norC mutant but decreased in a nirK mutant. The nitrate-induced decline in nitrogenase-specific activity observed in both the wild type and the norC mutant was not detected in the nirK mutant. This data indicate that bacterial nitrite reductase is an important contributor to the formation of NO in bean nodules in response to nitrate.
+
+NnrR: !regulates! nitric oxide response
+FixKf: !mediates! microaerobic expression
+norC: !regulated by! NnrR
+nirK: !regulated by! NnrR and FixKf
+norCBQD: !encodes! reductase activity
+nirKnirVnnrRnnrU: !encodes! reductase activity
+norC: !increases! nitrosylleghemoglobin complexes
+nirK: !decreases! nitrosylleghemoglobin complexes
+nitrate: !induces! nitrogenase-specific activity decline

@@ -1,0 +1,8 @@
+['30538233', 'In flowering plants, the switch from floral stem cell maintenance to gynoecium  (female structure) formation is a critical developmental transition for  reproductive success. In Arabidopsis thaliana, AGAMOUS (AG) terminates floral  stem cell activities to trigger this transition. Although CRABS CLAW (CRC) is a  direct target of AG, previous research has not identified any common targets.  Here, we identify an auxin synthesis gene, YUCCA4 (YUC4) as a common direct  target. Ectopic YUC4 expression partially rescues the indeterminate phenotype and  cell wall defects that are caused by the crc mutation. The feed-forward YUC4  activation by AG and CRC directs a precise change in chromatin state for the  shift from floral stem cell maintenance to gynoecium formation. We also showed  that two auxin-related direct CRC targets, YUC4 and TORNADO2, cooperatively  contribute to the termination of floral stem cell maintenance. This finding  provides new insight into the CRC-mediated auxin homeostasis regulation for  proper gynoecium formation.', '2018 Dec 11', 'Nat Commun', '10.1038/s41467-018-07763-0', 'Ito']
+
+AGAMOUS: !directly targets! CRABS CLAW 
+CRABS CLAW: !directly targets! YUCCA4 
+YUCCA4: !partially rescues! indeterminate phenotype 
+YUCCA4: !activates! TORNADO2 
+AGAMOUS: !directly targets! YUCCA4 
+CRABS CLAW: !directly targets! TORNADO2

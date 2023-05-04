@@ -1,0 +1,8 @@
+We reveal that transcription factors TOE1 and TOE2 directly inhibit the transcription of EIN3. Ethylene triggers leaf abscission and senescence during plant aging. Previous studies have shown that the transcription of ETHYLENE INSENSITIVE 3 (EIN3), which encodes a key transcription factor in ethylene signaling, is gradually upregulated during plant aging. However, it is still unknown how plants transmit their age information to achieve transcriptional control of EIN3. Here, we report that the EAR-like motif-containing transcription factors TARGET OF EAT 1 (TOE1) and its homolog TOE2 directly associated with the EIN3 promoter. The transcription of EIN3 is further enhanced in mutants of toe1 toe2 during plant aging. TOE1/TOE2 are tightly controlled by canonical microRNA 172 (miR172)-mediated plant aging signaling, which result in a decline in TOE1/TOE2 expression during aging. These results illustrate that during plant aging, the reduced expressions of TOE1/TOE2 trigger an upregulation of EIN3. Next, we took advantage of EIN3-regulated de novo root regeneration (DNRR) as an age-controlled phenotype to dissect the biological function of this regulatory circuit. The DNRR rates in toe1 toe2 are more severely decreased with plant aging; however, the simultaneous loss of ein3 and eil1 (toe1 toe2 ein3 eil1 quadruple mutants) almost completely rescued the DNRR defects. Taken together, our findings show that the plant age-regulated TOE transcription factors precisely integrate plant age information and developmental programs through direct protein-DNA interactions.
+
+TOE1: !inhibits! EIN3
+TOE2: !inhibits! EIN3
+miR172: !regulates! TOE1/TOE2
+TOE1/TOE2: !upregulates! EIN3
+EIN3: !enhances! DNRR
+TOE1/TOE2: !decreases! DNRR

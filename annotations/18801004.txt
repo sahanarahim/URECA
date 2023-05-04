@@ -1,0 +1,8 @@
+* The transcriptome of an organism is its set of gene transcripts (mRNAs) at a defined spatial and temporal locus. Because gene expression is affected markedly by environmental and developmental perturbations, it is widely assumed that transcriptome divergence among taxa represents adaptive phenotypic selection. This assumption has been challenged by neutral theories which propose that stochastic processes drive transcriptome evolution. * To test for evidence of neutral transcriptome evolution in plants, we quantified 18 494 gene transcripts in nonsenescent leaves of 14 taxa of Brassicaceae using robust cross-species transcriptomics which includes a two-step physical and in silico-based normalization procedure based on DNA similarity among taxa. * Transcriptome divergence correlates positively with evolutionary distance between taxa and with variation in gene expression among samples. Results are similar for pseudogenes and chloroplast genes evolving at different rates. Remarkably, variation in transcript abundance among root-cell samples correlates positively with transcriptome divergence among root tissues and among taxa. * Because neutral processes affect transcriptome evolution in plants, many differences in gene expression among or within taxa may be nonfunctional, reflecting ancestral plasticity and founder effects. Appropriate null models are required when comparing transcriptomes in space and time.
+
+transcriptome: !diverges with! evolutionary distance 
+transcriptome: !correlates with! gene expression 
+pseudogenes: !evolve at! different rates 
+chloroplast genes: !evolve at! different rates 
+root-cell samples: !correlate with! transcriptome divergence 
+differences in gene expression: !reflect! ancestral plasticity

@@ -1,0 +1,8 @@
+['16467846', 'Characterization of AtMLH3, the Arabidopsis homologue of the prokaryotic MutL  mismatch repair gene, reveals that it is expressed in reproductive tissue where  it is required for normal levels of meiotic crossovers (COs). Immunocytological  studies in an Atmlh3 mutant indicate that chromosome pairing and synapsis proceed  with normal distribution of the early recombination pathway proteins.  Localization of the MutS homologue AtMSH4 occurs, suggesting that double Holliday  junctions (dHjs) are formed, but the MutL homologue AtMLH1, which forms a  heterocomplex with AtMLH3, fails to localize normally. Loss of AtMLH3 results in  an approximately 60% reduction in COs and is accompanied by a substantial delay  of approximately 25 h in prophase I progression. Analysis of the chiasma  distribution in Atmlh3 suggests that dHj resolution can occur, but in contrast to  wild type where most or all dHjs are directed to form COs the outcome is biased  in favour of a non-CO outcome by a ratio of around 2 to 1. The data are  compatible with a model whereby the MutL complex imposes a dHj conformation that  ensures CO formation.', '2006 Mar 22', 'EMBO J', '10.1038/sj.emboj.7600992', 'Franklin']
+
+AtMLH3: !affects! Meiotic crossovers 
+AtMLH3: !localizes to! Reproductive tissue 
+AtMSH4: !interacts with! AtMLH3 
+AtMLH1: !interacts with! AtMLH3 
+AtMLH3: !represses! Prophase I progression 
+AtMLH3: !enhances! dHj resolution

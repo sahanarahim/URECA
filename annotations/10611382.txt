@@ -1,0 +1,11 @@
+['10611382', 'The Arabidopsis bas1-D mutation suppresses the long hypocotyl phenotype caused by  mutations in the photoreceptor phytochrome B (phyB). The adult phenotype of  bas1-D phyB-4 double mutants mimics that of brassinosteroid biosynthetic and  response mutants. bas1-D phyB-4 has reduced levels of brassinosteroids and  accumulates 26-hydroxybrassinolide in feeding experiments. The basis for the  mutant phenotype is the enhanced expression of a cytochrome P450 (CYP72B1).  bas1-D suppresses a phyB-null allele, but not a phyA-null mutation, and partially  suppresses a cryptochrome-null mutation. Seedlings with reduced BAS1 expression  are hyperresponsive to brassinosteroids in a light-dependent manner and display  reduced sensitivity to light under a variety of conditions. Thus, BAS1 represents  one of the control points between multiple photoreceptor systems and  brassinosteroid signal transduction.', '1999 Dec 21', 'Proc Natl Acad Sci U S A', '10.1073/pnas.96.26.15316', 'Chory']
+
+phyB: !causes! long hypocotyl phenotype
+bas1-D: !suppresses! phyB-4 phenotype
+bas1-D: !reduces! brassinosteroid levels
+CYP72B1: !enhanced by! bas1-D
+phyB: !suppressed by! bas1-D
+phyA: !not suppressed by! bas1-D
+cryptochrome: !partially suppressed by! bas1-D
+BAS1: !controls! photoreceptor systems
+BAS1: !transduces! brassinosteroid signal

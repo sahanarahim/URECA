@@ -1,0 +1,9 @@
+Hypocotyl elongation is dramatically influenced by environmental factors and phytohormones. Indole-3-acetic acid (IAA) plays a prominent role in hypocotyl elongation, whereas abscisic acid (ABA) is regarded as an inhibitor through repressing IAA synthesis and signalling. However, the regulatory role of ABA in local IAA deactivation remains largely uncharacterized. In this study, we confirmed the antagonistic interplay of ABA and IAA during the hypocotyl elongation of tomato (Solanum lycopersicum) seedlings. We identified an IAA oxidase enzyme DIOXYGENASE FOR AUXIN OXIDATION2 (SlDAO2), and its expression was induced by both external and internal ABA signals in tomato hypocotyls. Moreover, the overexpression of SlDAO2 led to a reduced sensitivity to IAA, and the knockout of SlDAO2 alleviated the inhibitory effect of ABA on hypocotyl elongation. Furthermore, an ABA-responsive regulatory SlAREB1/SlABI3-1/SlABI5 cascade was identified to act upstream of SlDAO2 and to precisely control its expression. SlAREB1 directly bound to the ABRE present in the SlDAO2 promoter to activate SlDAO2 expression, and SlABI3-1 enhanced while SlABI5 inhibited the activation ability of SlAREB1 by directly interacting with SlAREB1. Our findings revealed that ABA might induce local IAA oxidation and deactivation via SlDAO2 to modulate IAA homoeostasis and thereby repress hypocotyl elongation in tomato.
+
+ABA: !induces! SlDAO2
+SlAREB1: !binds to! ABRE
+SlABI3-1: !enhances! SlAREB1
+SlABI5: !inhibits! SlAREB1
+SlDAO2: !oxidizes! IAA
+ABA: !represses! IAA synthesis
+ABA: !represses! hypocotyl elongation

@@ -1,0 +1,15 @@
+['20493581', 'The genome of Arabidopsis thaliana contains seven Hsp90 family genes. Three  organellar and two cytosolic AtHsp90 isoforms were characterized by functionally  expressing them in a temperature-sensitive Hsp90 mutant and a conditional  Hsp90-null mutant of Saccharomyces cerevisiae. The cytosolic AtHsp90-1 and  AtHsp90-2 showed function similar to that of yeast in chaperoning roles; they  could support the growth of yeast mutants at both permissive and non-permissive  temperature. Neither the full-length nor mature forms of chloroplast-located  AtHsp90-5, mitochondria-located AtHsp90-6 and endoplasmic reticulum (ER)-located  AtHsp90-7 could complement the yeast Hsp90 proteins. The cytosolic AtHsp90s could  stabilize the biomembrane of the temperature-sensitive Hsp90 mutant strains under  stress conditions, while the organellar AtHsp90s could not protect the  biomembrane of the temperature-sensitive Hsp90 mutant strains. Yeast two-hybrid  results showed that either pre-protein or mature forms of organellar AtHsp90s  could interact with cofactors cpHsp70, Hsp70, Hsp70t-2, Cyp40, p23 and a  substrate protein of NOS, while cytosolic AtHsp90s could not interact with them.  These results suggest that organellar and cytosolic AtHsp90s possibly work  through different molecular mechanisms in forming chaperone complexes and  performing their functional roles.', '2010 Sep 15', 'J Plant Physiol', '10.1016/j.jplph.2010.03.016', 'Li']
+
+AtHsp90-1: !supports! growth of yeast mutants 
+AtHsp90-2: !supports! growth of yeast mutants 
+AtHsp90-5: !interacts with! cpHsp70 
+AtHsp90-6: !interacts with! Hsp70 
+AtHsp90-7: !interacts with! Hsp70t-2 
+AtHsp90-5: !interacts with! Cyp40 
+AtHsp90-6: !interacts with! p23 
+AtHsp90-7: !interacts with! NOS substrate protein 
+AtHsp90-1: !stabilizes! biomembrane 
+AtHsp90-2: !stabilizes! biomembrane 
+AtHsp90-5: !cannot stabilize! biomembrane 
+AtHsp90-6: !cannot stabilize! biomembrane 
+AtHsp90-7: !cannot stabilize! biomembrane

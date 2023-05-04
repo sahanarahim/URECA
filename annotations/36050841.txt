@@ -1,0 +1,9 @@
+Heat stress transcription factors (HSFs) and microRNAs (miRNAs) regulate different stress and developmental networks in plants. Regulatory feedback mechanisms are at the basis of these networks. Here, we report that plants improve their heat stress tolerance through HSF-mediated transcriptional regulation of MIR169 and post-transcriptional regulation of Nuclear Factor-YA (NF-YA) transcription factors. We show that HSFs recognize tomato (Solanum lycopersicum) and Arabidopsis MIR169 promoters using yeast one-hybrid/chromatin immunoprecipitation-quantitative PCR. Silencing tomato HSFs using virus-induced gene silencing (VIGS) reduced Sly-MIR169 levels and enhanced Sly-NF-YA9/A10 target expression. Further, Sly-NF-YA9/A10 VIGS knockdown tomato plants and Arabidopsis plants overexpressing At-MIR169d or At-nf-ya2 mutants showed a link with increased heat tolerance. In contrast, Arabidopsis plants overexpressing At-NF-YA2 and those expressing a non-cleavable At-NF-YA2 form (miR169d-resistant At-NF-YA2) as well as plants in which At-miR169d regulation is inhibited (miR169d mimic plants) were more sensitive to heat stress, highlighting NF-YA as a negative regulator of heat tolerance. Furthermore, post-transcriptional cleavage of NF-YA by elevated miR169 levels resulted in alleviation of the repression of the heat stress effector HSFA7 in tomato and Arabidopsis, revealing a retroactive control of HSFs by the miR169:NF-YA node. Hence, a regulatory feedback loop involving HSFs, miR169s and NF-YAs plays a critical role in the regulation of the heat stress response in tomato and Arabidopsis plants.
+
+HSF: !regulates! MIR169 
+MIR169: !cleaves! NF-YA 
+NF-YA: !represses! HSFA7 
+HSF: !recognizes! MIR169 promoter 
+VIGS: !silences! HSF 
+VIGS: !knockdown! NF-YA 
+miR169d: !inhibits! NF-YA

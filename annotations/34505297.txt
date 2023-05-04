@@ -1,0 +1,11 @@
+Plant-soil feedbacks refer to effects on plants that are mediated by soil modifications caused by the previous plant generation. Maize conditions the surrounding soil by secretion of root exudates including benzoxazinoids (BXs), a class of bioactive secondary metabolites. Previous work found that a BX-conditioned soil microbiota enhances insect resistance while reducing biomass in the next generation of maize plants. Whether these BX-mediated and microbially driven feedbacks are conserved across different soils and response species is unknown. We found the BX-feedbacks on maize growth and insect resistance conserved between two arable soils, but absent in a more fertile grassland soil, suggesting a soil-type dependence of BX feedbacks. We demonstrated that wheat also responded to BX-feedbacks. While the negative growth response to BX-conditioning was conserved in both cereals, insect resistance showed opposite patterns, with an increase in maize and a decrease in wheat. Wheat pathogen resistance was not affected. Finally and consistent with maize, we found the BX-feedbacks to be cultivar-specific. Taken together, BX-feedbacks affected cereal growth and resistance in a soil and genotype-dependent manner. Cultivar-specificity of BX-feedbacks is a key finding, as it hides the potential to optimize crops that avoid negative plant-soil feedbacks in rotations.
+
+BXs: !condition! Soil
+Soil: !enhances! Insect resistance
+Soil: !reduces! Maize biomass
+BX-feedbacks: !conserved between! Two arable soils
+BX-feedbacks: !absent in! Fertile grassland soil
+BX-feedbacks: !affect! Wheat growth
+BX-feedbacks: !increase! Maize insect resistance
+BX-feedbacks: !decrease! Wheat insect resistance
+BX-feedbacks: !cultivar-specific!

@@ -1,0 +1,8 @@
+Although several large-scale single-cell RNA sequencing (scRNAseq) studies addressing the root of Arabidopsis (Arabidopsis thaliana) have been published, there is still need for a de novo reference map for both root and especially above-ground cell types. As the plants' transcriptome substantially changes throughout the day, shaped by the circadian clock, we performed scRNAseq on both Arabidopsis root and above-ground tissues at defined times of the day. For the root scRNAseq analysis, we used tissue-specific reporter lines grown on plates and harvested at the end of the day (ED). In addition, we submitted above-ground tissues from plants grown on soil at ED and end of the night to scRNAseq, which allowed us to identify common cell types/markers between root and shoot and uncover transcriptome changes to above-ground tissues depending on the time of the day. The dataset was also exploited beyond the traditional scRNAseq analysis to investigate non-annotated and di-cistronic transcripts. We experimentally confirmed the predicted presence of some of these transcripts and also addressed the potential function of a previously unidentified marker gene for dividing cells. In summary, this work provides insights into the spatial control of gene expression from nearly 70,000 cells of Arabidopsis for below- and whole above-ground tissue at single-cell resolution at defined time points.
+
+Gene: !affects! Process 
+Gene: !localizes to! Tissue 
+Gene: !interacts with! Transcriptome 
+Gene: !enhances! Cell Types/Markers 
+Gene: !represses! Non-Annotated Transcripts 
+Gene: !synthesizes! Di-Cistronic Transcripts

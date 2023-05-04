@@ -1,0 +1,11 @@
+A model of kiwifruit berry development is presented, building on the model of Fishman and Génard used for peach fruit. That model has been extended to incorporate a number of important features of kiwifruit growth. First, the kiwifruit berry is attached to the stem through a pedicel/receptacle complex which contributes significantly to the hydraulic resistance between the stem and the fruit, and this resistance changes considerably during the season. Second, much of the carbohydrate in kiwifruit berries is stored as starch until the fruit matures late in the season, when the starch hydrolyses to soluble sugars. This starch storage has a major effect on the osmotic potential of the fruit, so an existing model of kiwifruit starch dynamics was included in the model. Using previously published approaches, we also included elasticity and extended the modelling period to cover both the cell division and cell expansion phases of growth. The resulting model showed close simulation of field observations of fresh weight, dry matter, starch, and soluble solids in kiwifruit. Comparison with continuous measurements of fruit diameter confirmed that elasticity was needed to adequately simulate observed diurnal variation in fruit size. Sensitivity analyses suggested that the model is particularly sensitive to variation in inputs relating to water (stem water potential and the humidity of the air), and to parameters controlling cell expansion (cell wall extensibility). Some limitations in the model structure were identified, suggesting that a revised model including current apoplastic/symplastic concepts needs to be developed.
+
+Stem: !contributes to! Hydraulic resistance
+Starch: !stores! Carbohydrate
+Model: !simulates! Fresh weight
+Model: !simulates! Dry matter
+Model: !simulates! Starch
+Model: !simulates! Soluble solids
+Model: !simulates! Diurnal variation in fruit size
+Water: !affects! Model inputs
+Cell wall extensibility: !controls! Cell expansion

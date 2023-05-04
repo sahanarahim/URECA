@@ -1,0 +1,13 @@
+The Arabidopsis (Arabidopsis thaliana) phytoalexin-deficient mutant pad2-1 displays enhanced susceptibility to a broad range of pathogens and herbivorous insects that correlates with deficiencies in the production of camalexin, indole glucosinolates, and salicylic acid (SA). The pad2-1 mutation is localized in the GLUTAMATE-CYSTEINE LIGASE (GCL) gene encoding the first enzyme of glutathione biosynthesis. While pad2-1 glutathione deficiency is not caused by a decrease in GCL transcripts, analysis of GCL protein level revealed that pad2-1 plants contained only 48% of the wild-type protein amount. In contrast to the wild type, the oxidized form of GCL was dominant in pad2-1, suggesting a distinct redox environment. This finding was corroborated by the expression of GRX1-roGFP2, showing that the cytosolic glutathione redox potential was significantly less negative in pad2-1. Analysis of oxidative stress-related gene expression showed a higher transcript accumulation in pad2-1 of GLUTATHIONE REDUCTASE, GLUTATHIONE-S-TRANSFERASE, and RESPIRATORY BURST OXIDASE HOMOLOG D in response to the oomycete Phytophthora brassicae. Interestingly, oligogalacturonide elicitation in pad2-1 revealed a lower plasma membrane depolarization that was found to act upstream of an impaired hydrogen peroxide production. This impaired hydrogen peroxide production was also observed during pathogen infection and correlated with a reduced hypersensitive response in pad2-1. In addition, a lack of pathogen-triggered expression of the ISOCHORISMATE SYNTHASE1 gene, coding for the SA-biosynthetic enzyme isochorismate synthase, was identified as the cause of the SA deficiency in pad2-1. Together, our results indicate that the pad2-1 mutation is related to a decrease in GCL protein and that the resulting glutathione deficiency negatively affects important processes of disease resistance.
+
+GCL: !encodes! enzyme 
+enzyme: !synthesizes! glutathione 
+pad2-1 mutation: !localizes to! GCL 
+pad2-1 plants: !contain! 48% of wild-type protein amount 
+GRX1-roGFP2: !shows! less negative cytosolic glutathione redox potential in pad2-1 
+GLUTATHIONE REDUCTASE, GLUTATHIONE-S-TRANSFERASE, RESPIRATORY BURST OXIDASE HOMOLOG D: !accumulate! higher transcripts in pad2-1 
+oomycete Phytophthora brassicae: !elicit! lower plasma membrane depolarization in pad2-1 
+impaired hydrogen peroxide production: !observed! during pathogen infection 
+reduced hypersensitive response: !observed! in pad2-1 
+ISOCHORISMATE SYNTHASE1 gene: !codes for! SA-biosynthetic enzyme isochorismate synthase 
+SA deficiency: !caused by! lack of pathogen-triggered expression of ISOCH

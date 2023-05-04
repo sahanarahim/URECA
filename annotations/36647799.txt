@@ -1,0 +1,10 @@
+Plants can sense temperature changes and adjust their development and morphology accordingly in a process called thermomorphogenesis. This phenotypic plasticity implies complex mechanisms regulating gene expression reprogramming in response to environmental alteration. Histone variants often associate with specific chromatin states; yet, how their deposition/eviction modulates transcriptional changes induced by environmental cues remains elusive. In Arabidopsis thaliana, temperature elevation-induced transcriptional activation at thermo-responsive genes entails the chromatin eviction of a histone variant H2A.Z by INO80, which is recruited to these loci via interacting with a key thermomorphogenesis regulator PIF4. Here, we show that both INO80 and the deposition chaperones of another histone variant H3.3 associate with ELF7, a critical component of the transcription elongator PAF1 complex. H3.3 promotes thermomorphogenesis and the high temperature-enhanced RNA Pol II transcription at PIF4 targets, and it is broadly required for the H2A.Z removal-induced gene activation. Reciprocally, INO80 and ELF7 regulate H3.3 deposition, and are necessary for the high temperature-induced H3.3 enrichment at PIF4 targets. Our findings demonstrate close coordination between H2A.Z eviction and H3.3 deposition in gene activation induced by high temperature, and pinpoint the importance of histone variants dynamics in transcriptional regulation.
+
+PIF4: !interacts with! INO80
+INO80: !evicts! H2A.Z
+ELF7: !associates with! INO80
+ELF7: !associates with! H3.3
+H3.3: !promotes! thermomorphogenesis
+H3.3: !enhances! RNA Pol II transcription
+INO80: !regulates! H3.3 deposition
+ELF7: !regulates! H3.3 deposition

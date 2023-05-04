@@ -1,0 +1,9 @@
+The activation of an immune response in tomato (Solanum lycopersicum) against Pseudomonas syringae relies on the recognition of E3 ligase-deficient forms of AvrPtoB by the host protein kinase, Fen. To investigate the mechanisms by which Fen-mediated immunity is regulated, we characterize in this study a Fen-interacting protein, Fni3, and its cofactor, S. lycoperiscum Uev (Suv). Fni3 encodes a homolog of the Ubc13-type ubiquitin-conjugating enzyme that catalyzes exclusively Lys-63-linked ubiquitination, whereas Suv is a ubiquitin-conjugating enzyme variant. The C-terminal region of Fen was necessary for interaction with Fni3, and this interaction was required for cell death triggered by overexpression of Fen in Nicotiana benthamiana leaves. Fni3 was shown to be an active E2 enzyme, but Suv displayed no ubiquitin-conjugating activity; Fni3 and Suv together directed Lys-63-linked ubiquitination. Decreased expression of Fni3, another tomato Ubc13 homolog, Sl-Ubc13-2, or Suv in N. benthamiana leaves diminished cell death associated with Fen-mediated immunity and cell death elicited by several other resistance (R) proteins and their cognate effectors. We also discovered that coexpression of Fen and other R proteins/effectors with a Fni3 mutant that is compromised for ubiquitin-conjugating activity diminished the cell death. These results suggest that Fni3/Sl-Ubc13-2 and Suv regulate the immune response mediated by Fen and other R proteins through Lys-63-linked ubiquitination.
+
+Fen: !interacts with! Fni3
+Fni3: !catalyzes! Lys-63-linked ubiquitination
+Fni3: !cofactor is! Suv
+Suv: !cofactor of! Fni3
+Fni3/Sl-Ubc13-2: !regulates! Fen-mediated immunity
+Fni3/Sl-Ubc13-2: !regulates! cell death elicited by R proteins/effectors
+Fni3 mutant: !diminishes! cell death associated with Fen-mediated immunity

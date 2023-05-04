@@ -1,0 +1,12 @@
+A protocol is described for production of micrograms of DNA from single copies of flow-sorted plant chromosomes. Of 183 single copies of wheat chromosome 3B, 118 (64%) were successfully amplified. Sequencing DNA amplification products using an Illumina HiSeq 2000 system to 10× coverage and merging sequences from three separate amplifications resulted in 60% coverage of the chromosome 3B reference, entirely covering 30% of its genes. The merged sequences permitted de novo assembly of 19% of chromosome 3B genes, with 10% of genes contained in a single contig, and 39% of genes covered for at least 80% of their length. The chromosome-derived sequences allowed identification of missing genic sequences in the chromosome 3B reference and short sequences similar to 3B in survey sequences of other wheat chromosomes. These observations indicate that single-chromosome sequencing is suitable to identify genic sequences on particular chromosomes, to develop chromosome-specific DNA markers, to verify assignment of DNA sequence contigs to individual pseudomolecules, and to validate whole-genome assemblies. The protocol expands the potential of chromosome genomics, which may now be applied to any plant species from which chromosome samples suitable for flow cytometry can be prepared, and opens new avenues for studies on chromosome structural heterozygosity and haplotype phasing in plants.
+
+Gene: !affects! Process 
+Chromosome: !amplified! 64% 
+Sequencing: !covered! 60% of chromosome 3B reference 
+Assembly: !assembled! 19% of chromosome 3B genes 
+Contig: !contained! 10% of genes 
+Reference: !identified! missing genic sequences 
+Survey Sequences: !similar to! 3B 
+Markers: !developed! chromosome-specific DNA markers 
+Pseudomolecules: !verified! assignment of DNA sequence contigs 
+Assemblies: !validated! whole-genome assemblies

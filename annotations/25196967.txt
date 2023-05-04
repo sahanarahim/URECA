@@ -1,0 +1,8 @@
+We used bomb-radiocarbon and raw minirhizotron lifetimes of fine roots (< 0.5 mm in diameter) in the organic layer of Norway spruce (Picea abies) forests in southern Sweden to test if different models are able to reconcile the apparently contradicting turnover time estimates from both techniques. We present a framework based on survival functions that is able to jointly model bomb-radiocarbon and minirhizotron data. At the same time we integrate prior knowledge about biases of both techniques--the classification of dead roots in minirhizotrons and the use of carbon reserves to grow new roots. Two-pool models, either in parallel or in serial setting, were able to reconcile the bomb-radiocarbon and minirhizotron data. These models yielded a mean residence time of 3.80 ± 0.16 yr (mean ± SD). On average 60 ± 2% of fine roots turned over within 0.75 ± 0.10 yr, while the rest was turning over within 8.4 ± 0.2 yr. Bomb-radiocarbon and minirhizotron data alone give a biased estimate of fine-root turnover. The two-pool models allow a mechanistic interpretation for the coexistence of fast- and slow-cycling roots--suberization and branching for the serial-two-pool model and branching due to ectomycorrhizal fungi-root interactions for the parallel-two-pool model.
+
+bomb-radiocarbon: !estimates! fine root turnover
+minirhizotron: !estimates! fine root turnover
+two-pool models: !reconcile! bomb-radiocarbon and minirhizotron data
+two-pool models: !interpret! coexistence of fast- and slow-cycling roots
+suberization: !enhances! serial-two-pool model
+ectomycorrhizal fungi-root interactions: !enhances! parallel-two-pool model

@@ -1,0 +1,10 @@
+Ovules are female reproductive organs of angiosperms, containing sporophytic integuments and gametophytic embryo sacs. After fertilization, embryo sacs develop into embryos and endosperm whereas integuments into seed coat. Ovule development is regulated by transcription factors (TF) whose expression is often controlled by microRNAs. Mutations of Arabidopsis DICER-LIKE 1 (DCL1), a microRNA processing protein, caused defective ovule development and reduced female fertility. However, it was not clear whether other microRNA processing proteins participate in this process and how defective ovule development influenced female fertility. We report that mutations of <i>HUA ENHANCER1</i> (<i>HEN1</i>) and <i>HYPONASTIC LEAVES 1</i> (<i>HYL1</i>) interfered with integument growth. The sporophytic defect caused abnormal embryo sac development and inability of mutant ovules to attract pollen tubes, leading to reduced female fertility. We show that the role of <i>HEN1</i> in integument growth is cell-autonomous. Although <i>AUXIN RESPONSE FACTOR 6</i> (<i>ARF6</i>) and <i>ARF8</i> were ectopically expressed in mutant ovules, consistent with the reduction of microRNA167 in <i>hen1</i>, introducing <i>arf6</i>;<i>arf8</i> did not suppress ovule defects of <i>hen1</i>, suggesting the involvement of more microRNAs in this process. Results presented indicate that the microRNA processing machinery is critical for ovule development and seed production through multiple microRNAs and their targets.
+
+DCL1: !affects! Ovule development
+HEN1: !affects! Integument growth
+HYL1: !affects! Integument growth
+ARF6: !localizes to! Mutant ovules
+ARF8: !localizes to! Mutant ovules
+microRNA167: !represses! ARF6/ARF8
+microRNA processing machinery: !enhances! Ovule development
+microRNAs: !interacts with! Targets

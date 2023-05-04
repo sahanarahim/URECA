@@ -1,0 +1,10 @@
+Light signaling and phytohormones both influence plant growth, development, and stress responses; however, cross talk between these two signaling pathways in response to cold remains underexplored. Here, we report that far-red light (FR) and red light (R) perceived by phytochrome A (phyA) and phyB positively and negatively regulated cold tolerance, respectively, in tomato (Solanum lycopersicum), which were associated with the regulation of levels of phytohormones such as abscisic acid (ABA) and jasmonic acid (JA) and transcript levels of ABA- and JA-related genes and the C-REPEAT BINDING FACTOR (CBF) stress signaling pathway genes. A reduction in the R/FR ratio did not alter cold tolerance, ABA and JA accumulation, and transcript levels of ABA- and JA-related genes and the CBF pathway genes in phyA mutant plants; however, those were significantly increased in wild-type and phyB plants with the reduction in the R/FR ratio. Even though low R/FR treatments did not confer cold tolerance in ABA-deficient (notabilis [not]) and JA-deficient (prosystemin-mediated responses2 [spr2]) mutants, it up-regulated ABA accumulation and signaling in the spr2 mutant, with no effect on JA levels and signaling in the not mutant. Foliar application of ABA and JA further confirmed that JA functioned downstream of ABA to activate the CBF pathway in light quality-mediated cold tolerance. It is concluded that phyA and phyB function antagonistically to regulate cold tolerance that essentially involves FR light-induced activation of phyA to induce ABA signaling and, subsequently, JA signaling, leading to an activation of the CBF pathway and a cold response in tomato plants.
+
+phyA: !regulates! cold tolerance 
+phyB: !regulates! cold tolerance 
+FR light: !activates! phyA 
+R light: !inhibits! cold tolerance 
+ABA: !induces! JA signaling 
+JA: !activates! CBF pathway 
+ABA: !up-regulates! ABA signaling 
+JA: !up-regulates! CBF pathway

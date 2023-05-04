@@ -1,0 +1,13 @@
+There is an urgent need to increase global crop production. Identifying and combining specific genes controlling distinct biological processes holds the potential to enhance crop yields. Transcriptomics is a powerful tool to gain insights into the complex gene regulatory networks that underlie such traits, but relies on the availability of a high-quality reference sequence and accurate gene models. Previously, we identified a grain weight QTL on wheat chromosome 5A (5A QTL) which acts during early grain development to increase grain length through cell expansion in the pericarp. In this study, we performed RNA-sequencing on near isogenic lines (NILs) segregating for the 5A QTL and used the latest gene models to identify differentially regulated genes and pathways that potentially influence pericarp cell size and grain weight in wheat. We sampled grains at 4 and 8 days post anthesis and found that genes associated with metabolism, biosynthesis, proteolysis and the defence response are upregulated during this stage of grain development in both NILs. We identified a specific set of 112 transcripts differentially expressed (DE) between 5A NILs at either time point, including eight potential candidates for the causal 5A gene and its downstream targets. The 112 DE transcripts had functional annotations including non-coding RNA, transposon-associated, cell-cycle control, ubiquitin-related, heat-shock, transcription and histone-related. Many of the genes identified belong to families that have been previously associated with seed/grain development in other species. Notably, we identified DE transcripts at almost all steps of the pathway associated with ubiquitin-mediated protein degradation. In the promoters of a subset of DE transcripts we identified enrichment of binding sites associated with C2H2, MYB/SANT, YABBY, AT-HOOK and Trihelix transcription factor families. In this study, we identified DE transcripts with a diverse range of predicted biological functions, reflecting the complex nature of the pathways that control early grain development. Few of these are the direct orthologues of grain size genes in other species and none have been previously characterised in wheat. Further functional characterisation of these candidates and how they interact will provide novel insights into the control of grain size in cereals.
+
+Gene: !affects! Metabolism
+Gene: !affects! Biosynthesis
+Gene: !affects! Proteolysis
+Gene: !affects! Defence Response
+Gene: !enhances! Cell Expansion
+Gene: !controls! Grain Length
+Gene: !binds to! C2H2
+Gene: !binds to! MYB/SANT
+Gene: !binds to! YABBY
+Gene: !binds to! AT-HOOK
+Gene: !binds to! Trihelix

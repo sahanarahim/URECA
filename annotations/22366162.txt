@@ -1,0 +1,7 @@
+During leaf senescence, plants degrade chlorophyll to colorless linear tetrapyrroles that are stored in the vacuole of senescing cells. The early steps of chlorophyll breakdown occur in plastids. To date, five chlorophyll catabolic enzymes (CCEs), NONYELLOW COLORING1 (NYC1), NYC1-LIKE, pheophytinase, pheophorbide a oxygenase (PAO), and red chlorophyll catabolite reductase, have been identified; these enzymes catalyze the stepwise degradation of chlorophyll to a fluorescent intermediate, pFCC, which is then exported from the plastid. In addition, STAY-GREEN (SGR), Mendel's green cotyledon gene encoding a chloroplast protein, is required for the initiation of chlorophyll breakdown in plastids. Senescence-induced SGR binds to light-harvesting complex II (LHCII), but its exact role remains elusive. Here, we show that all five CCEs also specifically interact with LHCII. In addition, SGR and CCEs interact directly or indirectly with each other at LHCII, and SGR is essential for recruiting CCEs in senescing chloroplasts. PAO, which had been attributed to the inner envelope, is found to localize in the thylakoid membrane. These data indicate a predominant role for the SGR-CCE-LHCII protein interaction in the breakdown of LHCII-located chlorophyll, likely to allow metabolic channeling of phototoxic chlorophyll breakdown intermediates upstream of nontoxic pFCC.
+
+SGR: !interacts with! LHCII
+CCEs: !interact with! LHCII
+SGR: !recruits! CCEs
+PAO: !localizes to! thylakoid membrane
+SGR: !interacts with! CCEs

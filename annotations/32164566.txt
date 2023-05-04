@@ -1,0 +1,15 @@
+To understand the gene expression networks controlling flower color formation in alfalfa, flowers anthocyanins were identified using two materials with contrasting flower colors, namely Defu and Zhongtian No. 3, and transcriptome analyses of PacBio full-length sequencing combined with RNA sequencing were performed, across four flower developmental stages. Malvidin and petunidin glycoside derivatives were the major anthocyanins in the flowers of Defu, which were lacking in the flowers of Zhongtian No. 3. The two transcriptomic datasets provided a comprehensive and systems-level view on the dynamic gene expression networks underpinning alfalfa flower color formation. By weighted gene coexpression network analyses, we identified candidate genes and hub genes from the modules closely related to floral developmental stages. PAL, 4CL, CHS, CHR, F3'H, DFR, and UFGT were enriched in the important modules. Additionally, PAL6, PAL9, 4CL18, CHS2, 4 and 8 were identified as hub genes. Thus, a hypothesis explaining the lack of purple color in the flower of Zhongtian No. 3 was proposed. These analyses identified a large number of potential key regulators controlling flower color pigmentation, thereby providing new insights into the molecular networks underlying alfalfa flower development.
+
+PAL: !enhances! Anthocyanins
+4CL: !enhances! Anthocyanins
+CHS: !enhances! Anthocyanins
+CHR: !enhances! Anthocyanins
+F3'H: !enhances! Anthocyanins
+DFR: !enhances! Anthocyanins
+UFGT: !enhances! Anthocyanins
+PAL6: !acts as! Hub gene
+PAL9: !acts as! Hub gene
+4CL18: !acts as! Hub gene
+CHS2: !acts as! Hub gene
+4: !acts as! Hub gene
+8: !acts as! Hub gene

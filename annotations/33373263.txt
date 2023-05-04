@@ -1,0 +1,10 @@
+Phytopathogens use secreted effector proteins to suppress host immunity and promote pathogen virulence, and there is increasing evidence that the host-pathogen interactome comprises a complex network. To identify novel interactors of the <i>Pseudomonas syringae</i> effector HopZ1a, we performed a yeast two-hybrid screen that identified a previously uncharacterized <i>Arabidopsis</i> protein that we designate HopZ1a interactor 1 (ZIN1). Additional analyses in yeast and in planta revealed that ZIN1 also interacts with several other <i>P. syringae</i> effectors. We show that an <i>Arabidopsis</i> loss-of-function <i>zin1</i> mutant is less susceptible to infection by certain strains of <i>P. syringae</i>, while overexpression of <i>ZIN1</i> results in enhanced susceptibility. Functionally, ZIN1 exhibits topoisomerase-like activity in vitro. Transcriptional profiling of wild-type and <i>zin1 Arabidopsis</i> plants inoculated with <i>P. syringae</i> indicated that while ZIN1 regulates a wide range of pathogen-responsive biological processes, the list of genes more highly expressed in <i>zin1</i> versus wild-type plants is particularly enriched for ribosomal protein genes. Altogether, these data illuminate ZIN1 as a potential susceptibility hub that interacts with multiple effectors to influence the outcome of plant-microbe interactions.[Formula: see text] Copyright © 2021 The Author(s). This is an open access article distributed under the CC BY-NC-ND 4.0 International license.
+
+HopZ1a: !interacts with! ZIN1
+ZIN1: !interacts with! HopZ1a
+ZIN1: !interacts with! other P. syringae effectors
+zin1 mutant: !less susceptible to! certain strains of P. syringae
+ZIN1 overexpression: !enhances! susceptibility
+ZIN1: !exhibits! topoisomerase-like activity
+ZIN1: !regulates! pathogen-responsive biological processes
+ZIN1: !enriches! ribosomal protein genes

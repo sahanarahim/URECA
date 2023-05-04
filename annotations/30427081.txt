@@ -1,0 +1,11 @@
+Casuarina equisetifolia (C. equisetifolia), a conifer-like angiosperm with resistance to typhoon and stress tolerance, is mainly cultivated in the coastal areas of Australasia. C. equisetifolia, making it a valuable model to study secondary growth associated genes and stress-tolerance traits. However, the genome sequence is unavailable and therefore wood-associated growth rate and stress resistance at the molecular level is largely unexplored. We therefore constructed a high-quality draft genome sequence of C. equisetifolia by a combination of Illumina second-generation sequencing reads and Pacific Biosciences single-molecule real-time (SMRT) long reads to advance the investigation of this species. Here, we report the genome assembly, which contains approximately 300 megabases (Mb) and scaffold size of N50 is 1.06 Mb. Additionally, gene annotation, assisted by a combination of prediction and RNA-seq data, generated 29 827 annotated protein-coding genes and 1983 non-coding genes, respectively. Furthermore, we found that the total number of repetitive sequences account for one-third of the genome assembly. Here we also construct the genome-wide map of DNA modification, such as two novel forms N<sup>6</sup> -adenine (6mA) and N4-methylcytosine (4mC) at the level of single-nucleotide resolution using single-molecule real-time (SMRT) sequencing. Interestingly, we found that 17% of 6mA modification genes and 15% of 4mC modification genes also included alternative splicing events. Finally, we investigated cellulose, hemicellulose, and lignin-related genes, which were associated with secondary growth and contained different DNA modifications. The high-quality genome sequence and annotation of C. equisetifolia in this study provide a valuable resource to strengthen our understanding of the diverse traits of trees.
+
+C. equisetifolia: !has! 300 Mb genome
+C. equisetifolia: !contains! 29,827 protein-coding genes
+C. equisetifolia: !contains! 1983 non-coding genes
+C. equisetifolia: !contains! one-third of repetitive sequences
+C. equisetifolia: !has! 6mA modification genes
+C. equisetifolia: !has! 4mC modification genes
+6mA modification genes: !include! alternative splicing events
+4mC modification genes: !include! alternative splicing events
+C. equisetifolia: !contains! cellulose, hemicellulose, and lignin-related genes

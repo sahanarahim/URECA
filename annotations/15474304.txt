@@ -1,0 +1,7 @@
+['15474304', 'Translation termination is mediated in all eukaryotes by the two release factors  eRF1 and eRF3. Most organisms have a single eRF1 gene, however, three isogenes of  eRF1 are found in Arabidopsis thaliana. They have no introns in the coding region  which may indicate that some are pseudogenes. However, each was expressed and  able to rescue a temperature sensitive eRF1-mutant of Saccharomyces cerevisiae  indicating functional redundancy in A. thaliana. While normally a highly accurate  process, translation termination can be directed to fail by sequence elements  within an messenger RNA (mRNA). Interestingly, a well-characterised readthrough  element follows the stop codon in one of these three isogenes (designated  eRF1-1). This element was shown to be capable of inducing readthrough in an in  vitro assay using a dual luciferase reporter, but surprisingly readthrough could  not be detected using the complete gene context. The results highlight the  diversity and duplication of genes within plant genomes, but also emphasize the  conservation of the translation process across kingdoms.', '2004 Oct 27', 'Gene', '10.1016/j.gene.2004.06.053', 'Brown']
+
+eRF1: !mediates! Translation termination 
+eRF1: !has three isogenes in! A. thaliana 
+eRF1-1: !contains! Readthrough element 
+Readthrough element: !induces! Readthrough in vitro 
+Readthrough element: !cannot be detected using! Complete gene context

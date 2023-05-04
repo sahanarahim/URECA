@@ -1,0 +1,9 @@
+Patterns of tropical forest functional diversity express processes of ecological assembly at multiple geographic scales and aid in predicting ecological responses to environmental change. Tree canopy chemistry underpins forest functional diversity, but the interactive role of phylogeny and environment in determining the chemical traits of tropical trees is poorly known. Collecting and analyzing foliage in 2,420 canopy tree species across 19 forests in the western Amazon, we discovered (i) systematic, community-scale shifts in average canopy chemical traits along gradients of elevation and soil fertility; (ii) strong phylogenetic partitioning of structural and defense chemicals within communities independent of variation in environmental conditions; and (iii) strong environmental control on foliar phosphorus and calcium, the two rock-derived elements limiting CO2 uptake in tropical forests. These findings indicate that the chemical diversity of western Amazonian forests occurs in a regionally nested mosaic driven by long-term chemical trait adjustment of communities to large-scale environmental filters, particularly soils and climate, and is supported by phylogenetic divergence of traits essential to foliar survival under varying environmental conditions. Geographically nested patterns of forest canopy chemical traits will play a role in determining the response and functional rearrangement of western Amazonian ecosystems to changing land use and climate.
+
+environment: !affects! canopy chemistry
+phylogeny: !partitions! structural and defense chemicals
+soil fertility: !influences! average canopy chemical traits
+elevation: !influences! average canopy chemical traits
+phosphorus: !controlled by! environment
+calcium: !controlled by! environment
+climate: !filters! chemical trait adjustment

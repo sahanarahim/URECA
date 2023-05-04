@@ -1,0 +1,12 @@
+The hormone auxin is known to inhibit root elongation and to promote initiation of lateral roots. Here we report complex effects of auxin on lateral root initiation in roots showing reduced cell elongation after auxin treatment. In Arabidopsis thaliana, the promotion of lateral root initiation by indole-3-acetic acid (IAA) was reduced as the IAA concentration was increased in the nanomolar range, and IAA became inhibitory at 25 nM. Detection of this unexpected inhibitory effect required evaluation of root portions that had newly formed during treatment, separately from root portions that existed prior to treatment. Lateral root initiation was also reduced in the iaaM-OX Arabidopsis line, which has an endogenously increased IAA level. The ethylene signaling mutants ein2-5 and etr1-3, the auxin transport mutants aux1-7 and eir1/pin2, and the auxin perception/response mutant tir1-1 were resistant to the inhibitory effect of IAA on lateral root initiation, consistent with a requirement for intact ethylene signaling, auxin transport and auxin perception/response for this effect. The pericycle cell length was less dramatically reduced than cortical cell length, suggesting that a reduction in the pericycle cell number relative to the cortex could occur with the increase of the IAA level. Expression of the DR5:GUS auxin reporter was also less effectively induced, and the AXR3 auxin repressor protein was less effectively eliminated in such root portions, suggesting that decreased auxin responsiveness may accompany the inhibition. Our study highlights a connection between auxin-regulated inhibition of parent root elongation and a decrease in lateral root initiation. This may be required to regulate the spacing of lateral roots and optimize root architecture to environmental demands.
+
+auxin: !inhibits! root elongation 
+auxin: !promotes! lateral root initiation 
+IAA: !reduces! lateral root initiation 
+iaaM-OX: !has increased! IAA level 
+ethylene signaling: !resists! inhibitory effect of IAA 
+auxin transport: !resists! inhibitory effect of IAA 
+auxin perception/response: !resists! inhibitory effect of IAA 
+pericycle cell length: !less dramatically reduced! than cortical cell length 
+DR5:GUS auxin reporter: !less effectively induced! 
+AXR3 auxin repressor protein: !less effectively eliminated!

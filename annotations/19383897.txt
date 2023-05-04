@@ -1,0 +1,8 @@
+['19383897', "Xylem vessel elements are hollow cellular units that assemble end-to-end to form  a continuous vessel throughout the plant body; the xylem vessel is strengthened  by the xylem elements' reinforced secondary cell walls (SCWs). This work aims to  unravel the contribution of unknown actors in xylem vessel differentiation using  the model in vitro cell culture system of Zinnia elegans differentiating cell  cultures and the model in vivo system of Arabidopsis thaliana plants. Tracheary  Element Differentiation-Related6 (TED6) and TED7 were selected based on an RNA  interference (RNAi) screen in the Zinnia system. RNAi reduction of TED6 and 7  delayed tracheary element (TE) differentiation and co-overexpression of TED6 and  7 increased TE differentiation in cultured Zinnia cells. Arabidopsis TED6 and 7  were expressed preferentially in differentiating vessel elements in seedlings.  Aberrant SCW formation of root vessel elements was induced by transient RNAi of  At TED7 alone and enhanced by inhibition of both TED6 and 7. Protein-protein  interactions were demonstrated between TED6 and a subunit of the SCW-related  cellulose synthase complex. Our strategy has succeeded in finding two novel  components in SCW formation and has opened the door for in-depth analysis of  their molecular functions.", '2009 Apr', 'Plant Cell', '10.1105/tpc.108.059154', 'Demura']
+
+TED6: !affects! TE differentiation 
+TED7: !affects! TE differentiation 
+TED6: !localizes to! Arabidopsis vessel elements 
+TED7: !localizes to! Arabidopsis vessel elements 
+TED6: !interacts with! SCW-related cellulose synthase complex 
+TED7: !represses! SCW formation

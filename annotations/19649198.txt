@@ -1,0 +1,12 @@
+The WOX family of transcription factors and polar auxin transport (PAT) are both essential for embryonic patterning and thus normal embryo development in angiosperms. Recent analysis by us of WOX-related genes in Picea and Pinus suggests that they play fundamental roles during embryo development also in conifers. It has been proposed that there is a connection between the spatial separation of WOX2 and WOX8, and PAT in the formation of the apical-basal axis in Arabidopsis embryos and that both are involved in the regulation of the auxin efflux carrier PIN1. Auxin also seems to play a crucial role in apical-basal axis formation in conifer embryos based on studies using the polar auxin inhibitor NPA. We recently analyzed the expression of a PIN1-like gene in NPA-treated and untreated precotyledonary somatic spruce embryos and could see a significant upregulation of the PIN1-like gene in the NPA-treated embryos.2 Here we show that PaWOX2 is also significantly upregulated in the same embryos. Taken together, this suggests that PAT is involved in regulating both PIN1 and WOX2 expression in conifers and strengthens the evidence for the proposed connection between WOX and PIN genes in seed plants.
+
+WOX: !affects! embryo development
+PAT: !affects! embryo development
+WOX2: !localizes to! apical-basal axis
+WOX8: !localizes to! apical-basal axis
+WOX2: !interacts with! PAT
+PIN1: !interacts with! PAT
+NPA: !inhibits! PAT
+PIN1: !enhances! auxin efflux
+PaWOX2: !enhances! auxin efflux
+WOX2: !represses! PIN1

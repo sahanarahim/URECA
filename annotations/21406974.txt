@@ -1,0 +1,11 @@
+Plant growth and development is influenced by mutual interactions among plant hormones. The five classical plant hormones are auxins, cytokinins, gibberellins, abscisic acid and ethylene. They are small diffusible molecules that easily penetrate between cells. In addition, newer classes of plant hormones have been identified such as brassinosteroids, jasmonic acid, salicylic acid and various small proteins or peptides. These hormones also play important roles in the regulation of plant growth and development. This review begins with a brief summary of the current findings on plant hormones. Based on this knowledge, a conceptual model about interactions among plant hormones is built so as to link and develop an understanding of the diverse functions of different plant hormones as a whole in plants.
+
+auxins: !interact with! cytokinins
+cytokinins: !interact with! auxins
+gibberellins: !interact with! abscisic acid
+abscisic acid: !interact with! gibberellins
+ethylene: !interact with! brassinosteroids
+brassinosteroids: !interact with! ethylene
+jasmonic acid: !interact with! salicylic acid
+salicylic acid: !interact with! jasmonic acid
+small proteins/peptides: !interact with! plant hormones

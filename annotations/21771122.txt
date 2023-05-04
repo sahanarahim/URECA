@@ -1,0 +1,10 @@
+Elaboration of a compound leaf shape depends on extended morphogenetic activity in developing leaves. In tomato (Solanum lycopersicum), the CIN-TCP transcription factor LANCEOLATE (LA) promotes leaf differentiation. LA is negatively regulated by miR319 during the early stages of leaf development, and decreased sensitivity of LA mRNA to miR319 recognition in the semi-dominant mutant La leads to prematurely increased LA expression, precocious leaf differentiation and a simpler and smaller leaf. Increased levels or responses of the plant hormone gibberellin (GA) in tomato leaves also led to a simplified leaf form. Here, we show that LA activity is mediated in part by GA. Expression of the SlGA20 oxidase1 (SlGA20ox1) gene, which encodes an enzyme in the GA biosynthesis pathway, is increased in gain-of-function La mutants and reduced in plants that over-express miR319. Conversely, the transcript levels of the GA deactivation gene SlGA2 oxidase4 (SlGA2ox4) are increased in plants over-expressing miR319. The miR319 over-expression phenotype is suppressed by exogenous GA application and by a mutation in the PROCERA (PRO) gene, which encodes an inhibitor of the GA response. SlGA2ox4 is expressed in initiating leaflets during early leaf development. Its expression expands as a result of miR319 over-expression, and its over-expression leads to increased leaf complexity. These results suggest that LA activity is partly mediated by positive regulation of the GA response, probably by regulation of GA levels.
+
+miR319: !regulates! LA 
+GA: !regulated by! LA 
+SlGA20ox1: !upregulated by! La 
+SlGA2ox4: !upregulated by! miR319 
+GA: !suppresses! miR319 phenotype 
+PRO: !inhibits! GA response 
+SlGA2ox4: !expressed in! initiating leaflets 
+SlGA2ox4: !over-expression leads to! increased leaf complexity

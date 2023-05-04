@@ -1,0 +1,16 @@
+Hemp seeds are rich in metabolites such as protein, lipids and flavonoids, which are beneficial to health and can be used as a nutritional supplement. Few studies have focused on the metabolites of different hemp seed varieties. In the current study, using widely targeted metabolomics based on UHPLC-QQQ-MS/MS, we compared the metabolomes of seeds from seven hemp varieties with different uses. A total of 1,001 metabolites, including 201 flavonoids, 86 alkaloids, and 149 phenolic acids, were identified. Flavonoids, organic acids, alkaloids, lipids, and fatty acids with high nutritional value are important to investigate the differences between hemp accessions. By using weighted gene co-expression network analysis (WGCNA), six modules of closely related metabolites were identified. And, we identified the metabolite characteristics and hub metabolites of each variety. Then, we experimentally determined antioxidant activity of seven varieties and demonstrated that alkaloids, flavonoids, phenolic acids, terpenes, and free fatty acids are responsible for the antioxidant activity of hemp seeds. Our research provides useful information for further investigation of the chemical composition of hemp seeds.
+
+Hemp: !contains! Metabolites 
+Metabolites: !include! Flavonoids 
+Metabolites: !include! Alkaloids 
+Metabolites: !include! Phenolic Acids 
+Metabolites: !include! Lipids 
+Metabolites: !include! Fatty Acids 
+WGCNA: !identifies! Modules 
+Modules: !contain! Metabolites 
+Metabolites: !determine! Antioxidant Activity 
+Alkaloids: !contribute to! Antioxidant Activity 
+Flavonoids: !contribute to! Antioxidant Activity 
+Phenolic Acids: !contribute to! Antioxidant Activity 
+Terpenes: !contribute to! Antioxidant Activity 
+Free Fatty Acids: !contribute to! Antioxidant Activity

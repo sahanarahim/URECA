@@ -1,0 +1,9 @@
+['18346190', 'Aerial architecture in higher plants is established post-embryonically by the  inception of new meristems in the axils of leaves. These axillary meristems  develop into side shoots or flowers. In Arabidopsis, the NAC domain transcription  factors CUP SHAPED COTYLEDON1 (CUC1), CUC2 and CUC3 function redundantly in  initiating the shoot apical meristem and establishing organ boundaries.  Transcripts of CUC1 and CUC2 are targeted for degradation by miR164. In this  study, we show that cuc3-2 mutants are impaired in axillary meristem initiation.  Overexpression of miR164 in the cuc3-2 mutant caused an almost complete block of  axillary meristem formation. Conversely, mir164 mutants and plants harbouring  miR164-resistant alleles of CUC1 or CUC2 developed accessory buds in leaf axils.  Collectively, these experiments reveal that, in addition to CUC3, redundant  functions of CUC1 and CUC2 as well as miR164 regulation are required for the  establishment of axillary meristems. Studies on LAS transcript accumulation in  mir164 triple mutants and cuc3-2 plants overexpressing miR164 suggest that  regulation of axillary meristem formation by miR164 is mediated through CUC1 and  CUC2, which in turn regulate LAS.', '2008 Jul', 'Plant J', '10.1111/j.1365-313X.2008.03483.x', 'Theres']
+
+CUC1: !regulated by! miR164
+CUC2: !regulated by! miR164
+CUC3: !regulates! LAS
+miR164: !regulates! CUC1
+miR164: !regulates! CUC2
+CUC1: !regulates! LAS
+CUC2: !regulates! LAS

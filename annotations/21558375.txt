@@ -1,0 +1,11 @@
+Land plants are anchored to their substratum from which essential inorganic nutrients are taken up. These functions are carried out by a system of rhizoids in early diverging groups of land plants, such as mosses, liverworts and hornworts. Physcomitrella patens RHD SIX-LIKE1 (PpRSL1) and PpRSL2 transcription factors are necessary for rhizoid development in mosses. Similar proteins, AtRHD6 and AtRSL1, control the development of root hairs in Arabidopsis thaliana. Auxin positively regulates root hair development independently of AtRHD6 and AtRSL1 in A. thaliana but the regulatory interactions between auxin and PpRSL1 and PpRSL2 are unknown. We show here that co-expression of PpRSL1 and PpRSL2 is sufficient for the development of the rhizoid system in the moss P. patens; constitutive expression of PpRSL1 and PpRSL2 converts developing leafy shoot axes (gametophores) into rhizoids. During wild-type development, PpRSL1 and PpRSL2 are expressed in the specialized cells that develop rhizoids, indicating that cell-specific expression of PpRSL1 and PpRSL2 is sufficient to promote rhizoid differentiation during wild-type P. patens development. In contrast to A. thaliana, auxin promotes rhizoid development by positively regulating PpRSL1 and PpRSL2 activity in P. patens. This indicates that even though the same genes control the development of root hairs and rhizoids, the regulation of this transcriptional network by auxin is different in these two species. This suggests that auxin might have controlled the development of the first land plant soil anchoring systems that evolved 465 million years ago by regulating the expression of RSL genes and that this regulatory network has changed since mosses and angiosperms last shared a common ancestor.
+
+PpRSL1: !controls! rhizoid development 
+PpRSL2: !controls! rhizoid development 
+AtRHD6: !controls! root hair development 
+AtRSL1: !controls! root hair development 
+auxin: !regulates! PpRSL1 
+auxin: !regulates! PpRSL2 
+PpRSL1: !expressed in! specialized cells 
+PpRSL2: !expressed in! specialized cells 
+auxin: !promotes! rhizoid development

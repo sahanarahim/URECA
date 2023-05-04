@@ -1,0 +1,5 @@
+Detecting early signs of plant diseases and pests is important to preclude their progress and minimize the damages caused by them. Many methods are developed to catch signs of diseases and pests from plant images with deep learning techniques, however, detecting early signs is still challenging because of the lack of datasets to train subtle changes in plants. To solve these challenges, we built an automatic data acquisition system for the accumulation of a large dataset of plant images and trained an ensemble model to detect targeted plant diseases and pests. After obtaining 13,393 plant image data, our ensemble model shows a decent detection performance with an average of AUPRC 0.81. Also, this data acquisition and the detection process can be applied to other plant anomalies with the collection of additional data.
+
+Data Acquisition System: !accumulates! Plant Images 
+Ensemble Model: !detects! Plant Diseases/Pests 
+Data Acquisition System: !applies to! Other Plant Anomalies

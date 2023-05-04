@@ -1,0 +1,8 @@
+Iron (Fe) homeostasis is crucial for plant growth and development. A network of basic helix-loop-helix (bHLH) transcription factors positively regulates Fe uptake during iron deficiency. However, their up-regulation or overexpression leads to Fe overload and reactive oxygen species generation, thereby damaging the plants. Here, we found that two BTB/TAZ proteins, MdBT1 and MdBT2, interact with the MbHLH104 protein in apple. In addition, the function of MdBT2 was characterized as a regulator of MdbHLH104 degradation via ubiquitination and the 26S proteasome pathway, thereby controlling the activity of plasma membrane H<sup>+</sup>-ATPases and the acquisition of iron. Furthermore, MdBT2 interacted with MdCUL3 proteins, which were required for the MdBT2-mediated ubiquitination modification of MdbHLH104 and its degradation. In sum, our findings demonstrate that MdBT proteins interact with MdCUL3 to bridge the formation of the MdBTs<sup>MdCUL3</sup> complex, which negatively modulates the degradation of the MdbHLH104 protein in response to changes in Fe status to maintain iron homeostasis in plants.
+
+MdBT1: !interacts with! MbHLH104
+MdBT2: !interacts with! MbHLH104
+MdBT2: !degrades! MbHLH104
+MdBT2: !interacts with! MdCUL3
+MdBTs: !bridges formation of! MdBTs<sup>MdCUL3</sup> complex
+MdBTs<sup>MdCUL3</sup> complex: !negatively modulates! degradation of MbHLH104

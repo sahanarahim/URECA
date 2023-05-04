@@ -1,0 +1,9 @@
+['20663849', 'The Arabidopsis genome encodes one potential isopropylmalate isomerase (IPMI)  large subunit and three potential IPMI small subunits, which in bacteria and  archaea form heterodimers to catalyze the isomerization of 2-isopropylmalate to  3-isopropylmalate in leucine biosynthesis. We demonstrate here that AtLeuC  physically interacts with AtLeuD proteins to form functional IPMIs. The IPMIs are  localized to chloroplast stroma. Tissue-specific expression analysis revealed  that the patterns of AtLeuD1 and AtLeuD2 expression are similar, but distinct  from that of AtLeuD3. This result indicates functional redundancy of AtLeuD1 and  AtLeuD2, and functional specification of AtLeuD3. Reverse genetics and metabolite  profiling showed that AtLeuD1 and AtLeuD2 function redundantly in aliphatic  glucosinolate biosynthesis, but AtLeuD3 is not likely to be involved in this  pathway. The lethal phenotype of the atleud3 mutant suggests functional  specification of AtLeuD3 in leucine biosynthesis. A defect in female gametophyte  development was found to contribute to the mutant lethality, suggesting the  important role of AtLeuD3 in female gametophyte development.', '2010 Sep', 'Plant Cell Physiol', '10.1093/pcp/pcq113', 'Chen']
+
+AtLeuC: !interacts with! AtLeuD 
+AtLeuC: !localizes to! chloroplast stroma 
+AtLeuD1: !enhances! aliphatic glucosinolate biosynthesis 
+AtLeuD2: !enhances! aliphatic glucosinolate biosynthesis 
+AtLeuD3: !represses! aliphatic glucosinolate biosynthesis 
+AtLeuD3: !synthesizes! leucine biosynthesis 
+AtLeuD3: !enhances! female gametophyte development

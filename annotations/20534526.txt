@@ -1,0 +1,8 @@
+Carotenoids are key for plants to optimize carbon fixing using the energy of sunlight. They contribute to light harvesting but also channel energy away from chlorophylls to protect the photosynthetic apparatus from excess light. Phytochrome-mediated light signals are major cues regulating carotenoid biosynthesis in plants, but we still lack fundamental knowledge on the components of this signaling pathway. Here we show that phytochrome-interacting factor 1 (PIF1) and other transcription factors of the phytochrome-interacting factor (PIF) family down-regulate the accumulation of carotenoids by specifically repressing the gene encoding phytoene synthase (PSY), the main rate-determining enzyme of the pathway. Both in vitro and in vivo evidence demonstrate that PIF1 directly binds to the promoter of the PSY gene, and that this binding results in repression of PSY expression. Light-triggered degradation of PIFs after interaction with photoactivated phytochromes during deetiolation results in a rapid derepression of PSY gene expression and a burst in the production of carotenoids in coordination with chlorophyll biosynthesis and chloroplast development for an optimal transition to photosynthetic metabolism. Our results also suggest a role for PIF1 and other PIFs in transducing light signals to regulate PSY gene expression and carotenoid accumulation during daily cycles of light and dark in mature plants.
+
+phytochrome: !interacts with! PIF1 
+PIF1: !represses! PSY gene 
+PSY gene: !synthesizes! carotenoids 
+light: !triggers degradation of! PIFs 
+PIFs: !derepresses! PSY gene 
+PSY gene: !enhances! carotenoid production

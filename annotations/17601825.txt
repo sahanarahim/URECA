@@ -1,0 +1,9 @@
+To elucidate the molecular mechanism of photosystem II (PSII) assembly, we characterized the low psii accumulation2 (lpa2) mutant of Arabidopsis thaliana, which is defective in the accumulation of PSII supercomplexes. The levels and processing patterns of the RNAs encoding the PSII subunits are unaltered in the mutant. In vivo protein-labeling experiments showed that the synthesis of CP43 (for chlorophyll a binding protein) was greatly reduced, but CP47, D1, and D2 were synthesized at normal rates in the lpa2-1 mutant. The newly synthesized CP43 was rapidly degraded in lpa2-1, and the turnover rates of D1 and D2 were higher in lpa2-1 than in wild-type plants. The newly synthesized PSII proteins were assembled into PSII complexes, but the assembly of PSII was less efficient in the mutant than in wild-type plants. LPA2 encodes an intrinsic thylakoid membrane protein, which is not an integral subunit of PSII. Yeast two-hybrid assays indicated that LPA2 interacts with the PSII core protein CP43 but not with the PSII reaction center proteins D1 and D2. Moreover, direct interactions of LPA2 with Albino3 (Alb3), which is involved in thylakoid membrane biogenesis and cell division, were also detected. Thus, the results suggest that LPA2, which appears to form a complex with Alb3, is involved in assisting CP43 assembly within PSII.
+
+LPA2: !interacts with! CP43 
+LPA2: !interacts with! Alb3 
+CP43: !synthesized at! reduced rate 
+CP43: !degraded at! increased rate 
+D1/D2: !synthesized at! normal rate 
+D1/D2: !degraded at! increased rate 
+PSII: !assembled at! less efficient rate

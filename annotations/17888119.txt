@@ -1,0 +1,9 @@
+The model of Farquhar, von Caemmerer and Berry is the standard in relating photosynthetic carbon assimilation and concentration of intercellular CO(2). The techniques used in collecting the data from which its parameters are estimated have been the object of extensive optimization, but the statistical aspects of estimation have not received the same attention. The model segments assimilation into three regions, each modeled by a distinct function. Three parameters of the model, namely the maximum rate of Rubisco carboxylation (V(c max)), the rate of electron transport (J), and nonphotorespiratory CO(2) evolution (R(d)), are customarily estimated from gas exchange data through separate fitting of the component functions corresponding to the first two segments. This disjunct approach is problematic in requiring preliminary arbitrary subsetting of data into sets believed to correspond to each region. It is shown how multiple segments can be estimated simultaneously, using the entire data set, without predetermination of transitions by the investigator. Investigation of the number of parameters that can be estimated in the two-segment model suggests that, under some conditions, it is possible to estimate four or even five parameters, but that only V(c max), J, and R(d), have good statistical properties. Practical difficulties and their solutions are reviewed, and software programs are provided.
+
+Vcmax: !estimated from! gas exchange data 
+J: !estimated from! gas exchange data 
+Rd: !estimated from! gas exchange data 
+model: !relates to! photosynthetic carbon assimilation 
+data: !used to! estimate parameters 
+investigator: !determines! subsetting of data 
+two-segment model: !can estimate! four or five parameters

@@ -1,0 +1,8 @@
+Functional-structural plant models simulate the development of plant structure, taking into account plant physiology and environmental factors. The L-PEACH model is based on the development of peach trees. It demonstrates the usefulness of L-systems in constructing functional-structural models. L-PEACH uses L-systems both to simulate the development of tree structure and to solve differential equations for carbohydrate flow and allocation. New L-system-based algorithms are devised for simulating the behavior of dynamically changing structures made of hundreds of interacting, time-varying, nonlinear components. L-PEACH incorporates a carbon-allocation model driven by source-sink interactions between tree components. Storage and mobilization of carbohydrates during the annual life cycle of a tree are taken into account. Carbohydrate production in the leaves is simulated based on the availability of water and light. Apices, internodes, leaves and fruit grow according to the resulting local carbohydrate supply. L-PEACH outputs an animated three-dimensional visual representation of the growing tree and user-specified statistics that characterize selected stages of plant development. The model is applied to simulate a tree's response to fruit thinning and changes in water stress. L-PEACH may be used to assist in horticultural decision-making processes after being calibrated to specific trees.
+
+L-systems: !simulate! Development of tree structure
+Carbohydrate flow: !allocated by! L-systems
+Source-sink interactions: !drive! Carbon-allocation model
+Water/light: !affect! Carbohydrate production in leaves
+Apices/internodes/leaves/fruit: !grow according to! Local carbohydrate supply
+Fruit thinning/water stress: !simulated by! L-PEACH

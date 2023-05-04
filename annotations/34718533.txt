@@ -1,0 +1,9 @@
+We compared how stomatal morphology and physiology control intrinsic leaf water use efficiency (iWUE) in two C3 and six C4 grasses grown at ambient (400 µmol mol-1) or glacial CO2 (180 µmol mol-1) and high (1000 µmol m-2 s-1) or low light intensity (200 µmol m-2 s-1). C4 grasses tended to have higher iWUE and CO2 assimilation rates, and lower stomatal conductance (gs), operational stomatal aperture (aop), and guard cell K+ influx rate relative to C3 grasses, while stomatal size (SS) and stomatal density (SD) did not vary according to the photosynthetic type. Overall, iWUE and gs depended most on aop and density of open stomata. In turn, aop correlated with K+ influx, stomatal opening speed on transition to high light, and SS. Species with higher SD had smaller and faster-opening stomata. Although C4 grasses operated with lower gs and aop at ambient CO2, they showed a greater potential to open stomata relative to maximal stomatal conductance (gmax), indicating heightened stomatal sensitivity and control. We uncovered promising links between aop, gs, iWUE, and K+ influx among C4 grasses, and differential K+ influx responses of C4 guard cells to low light, revealing molecular targets for improving iWUE in C4 crops.
+
+iWUE: !depends on! aop 
+aop: !correlates with! K+ influx 
+K+ influx: !controls! stomatal opening speed 
+stomatal opening speed: !varies with! SS 
+SD: !affects! SS 
+C4 grasses: !have higher! potential to open stomata 
+C4 guard cells: !respond differently to! low light

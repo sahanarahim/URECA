@@ -1,0 +1,7 @@
+In rice, the class I small heat shock protein (sHSP-CI) genes were found to be selectively induced by L-azetidine-2-carboxylic acid (AZC) on chromosome 3 but not chromosome 1. Here it is shown that a novel cis-responsive element contributed to the differential regulation. By serial deletion and computational analysis, a 9 bp putative AZC-responsive element (AZRE), GTCCTGGAC, located between nucleotides -186 and -178 relative to the transcription initiation site of Oshsp17.3 was revealed. Deletion of this putative AZRE from the promoter abolished its ability to be induced by AZC. Moreover, electrophoretic mobility shift assay (EMSA) revealed that the AZRE interacted specifically with nuclear proteins from AZC-treated rice seedlings. Two AZRE-protein complexes were detected by EMSA, one of which could be competed out by a canonical heat shock element (HSE). Deletion of the AZRE also affected the HS response. Furthermore, transient co-expression of the heat shock factor OsHsfA4b with the AZRE in the promoter of Oshsp17.3 was effective. The requirement for the putative AZRE for AZC and HS responses in transgenic Arabidopsis was also shown. Thus, AZRE represents an alternative form of heat HSE, and its interaction with canonical HSEs through heat shock factors may be required to respond to HS and AZC.
+
+Oshsp17.3: !contains! AZRE 
+AZRE: !interacts with! nuclear proteins 
+AZRE: !competes with! HSE 
+HSE: !interacts with! OsHsfA4b 
+OsHsfA4b: !enhances! AZC and HS responses

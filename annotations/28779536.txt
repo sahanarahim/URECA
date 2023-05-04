@@ -1,0 +1,11 @@
+The identification of mutations in targeted genes has been significantly simplified by the advent of TILLING (Targeting Induced Local Lesions In Genomes), speeding up the functional genomic analysis of animals and plants. Next-generation sequencing (NGS) is gradually replacing classical TILLING for mutation detection, as it allows the analysis of a large number of amplicons in short durations. The NGS approach was used to identify mutations in a population of Solanum lycopersicum (tomato) that was doubly mutagenized by ethylmethane sulphonate (EMS). Twenty-five genes belonging to carotenoids and folate metabolism were PCR-amplified and screened to identify potentially beneficial alleles. To augment efficiency, the 600-bp amplicons were directly sequenced in a non-overlapping manner in Illumina MiSeq, obviating the need for a fragmentation step before library preparation. A comparison of the different pooling depths revealed that heterozygous mutations could be identified up to 128-fold pooling. An evaluation of six different software programs (camba, crisp, gatk unified genotyper, lofreq, snver and vipr) revealed that no software program was robust enough to predict mutations with high fidelity. Among these, crisp and camba predicted mutations with lower false discovery rates. The false positives were largely eliminated by considering only mutations commonly predicted by two different software programs. The screening of 23.47 Mb of tomato genome yielded 75 predicted mutations, 64 of which were confirmed by Sanger sequencing with an average mutation density of 1/367 Kb. Our results indicate that NGS combined with multiple variant detection tools can reduce false positives and significantly speed up the mutation discovery rate.
+
+TILLING: !simplifies! Identification of Mutations 
+NGS: !replaces! TILLING 
+EMS: !doubly mutagenizes! Solanum lycopersicum 
+Carotenoids/Folate Metabolism Genes: !screened! for Potentially Beneficial Alleles 
+Illumina MiSeq: !sequences! 600-bp Amplicons 
+Pooling Depths: !identify! Heterozygous Mutations 
+Software Programs: !predict! Mutations 
+Sanger Sequencing: !confirms! Predicted Mutations 
+NGS/Variant Detection Tools: !reduce! False Positives

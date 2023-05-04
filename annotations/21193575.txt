@@ -1,0 +1,8 @@
+['21193575', 'WRKY proteins are transcription factors involved in many plant processes  including plant responses to pathogens. Here, the cross activity of TaWRKY78 from  the monocot wheat and AtWRKY20 from the dicot Arabidopsis on the cognate  promoters of the orthologous PR4-type genes wPR4e and AtHEL of wheat and  Arabidopsis, respectively, was investigated. In vitro analysis showed the ability  of TaWRKY78 to bind a -17/+80 region of the wPR4e promoter, containing one  cis-acting W-box. Moreover, transient expression analysis performed on both  TaWRKY78 and AtWRKY20 showed their ability to recognize the cognate cis-acting  elements present in the wPR4e and AtHEL promoters, respectively. Finally, this  paper provides evidence that both transcription factors are able to  cross-regulate the orthologous PR4 genes with an efficiency slightly lower than  that exerted on the cognate promoters. The observation that orthologous genes are  subjected to similar transcriptional control by orthologous transcription factors  demonstrates that the terminal stages of signal transduction pathways leading to  defence are conserved and suggests a fundamental role of PR4 genes in plant  defence. Moreover, these results corroborate the hypothesis that gene orthology  imply similar gene function and that diversification between monocot and dicot  has most likely occurred after the specialization of WRKY function.', '2011 Mar', 'J Exp Bot', '10.1093/jxb/erq396', 'Caruso']
+
+TaWRKY78: !binds! wPR4e promoter 
+AtWRKY20: !binds! AtHEL promoter 
+TaWRKY78: !cross-regulates! wPR4 genes 
+AtWRKY20: !cross-regulates! AtHEL genes 
+PR4 genes: !fundamental role in! plant defence 
+Gene orthology: !implies similar! gene function

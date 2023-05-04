@@ -1,0 +1,9 @@
+Cold stress is a major environmental stress that severely affects plant growth and crop productivity. Arabidopsis (<i>Arabidopsis thaliana</i>) HIGH EXPRESSION OF OSMOTICALLY RESPONSIVE GENE15 (HOS15) is a substrate receptor of the CULLIN4-based CLR4 ubiquitin E3 ligase complex, which epigenetically regulates cold tolerance by degrading HISTONE DEACETYLASE2C (HD2C) to switch from repressive to permissive chromatin structure in response to cold stress. In this study, we characterized a HOS15-binding protein, POWERDRESS (PWR), and analyzed its function in the cold stress response. PWR loss-of-function plants (<i>pwr</i>) showed lower expression of cold-regulated (<i>COR</i>) genes and sensitivity to freezing. PWR interacts with HD2C through HOS15, and cold-induced HD2C degradation by HOS15 is diminished in the <i>pwr</i> mutant. The association of HOS15 and HD2C to promoters of cold-responsive <i>COR</i> genes was dependent on PWR. Consistent with these observations, the high acetylation levels of histone H3 by cold-induced and HOS15-mediated HD2C degradation were significantly reduced in <i>pwr</i> under cold stress. PWR also interacts with C-repeat element-binding factor transcription factors to modulate their cold-induced binding to the promoter of <i>COR</i> genes. Collectively, our data signify that the PWR-HOS15-HD2C histone-modifying complex regulates the expression of <i>COR</i> genes and the freezing tolerance of plants.
+
+HOS15: !interacts with! PWR
+PWR: !interacts with! HD2C
+HD2C: !degraded by! HOS15
+HOS15: !associates with! COR gene promoters
+PWR: !modulates! C-repeat element-binding factor transcription factors
+HD2C: !degradation! !enhanced by! HOS15
+HOS15: !mediates! histone H3 acetylation

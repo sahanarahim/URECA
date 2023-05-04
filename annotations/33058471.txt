@@ -1,0 +1,8 @@
+Synthetic gene activators consisting of nuclease-dead Cas9 (dCas9) for single-guide RNA (sgRNA)-directed promoter binding and a transcriptional activation domain (TAD) represent new tools for gene activation from endogenous genomic locus in basic and applied plant research. However, multiplex gene coactivation by dCas9-TADs has not been demonstrated in whole plants. There is also room to optimize the performance of these tools. Here, we report that our previously developed gene activator, dCas9-TV, could simultaneously upregulate OsGW7 and OsER1 in rice by up to 3,738 fold, with one sgRNA targeting to each promoter. The gene coactivation could persist to at least the fourth generation. Astonishingly, the polycistronic tRNA-sgRNA expression under the maize ubiquitin promoter, a Pol II promoter, could cause enormous activation of these genes by up to >40,000-fold in rice. Moreover, the yeast GCN4 coiled coil-mediated dCas9-TV dimerization appeared to be promising for enhancing gene activation. Finally, we successfully introduced a self-amplification loop for dCas9-TV expression in Arabidopsis to promote the transcriptional upregulation of AtFLS2, a previously characterized dCas9-TV-refractory gene with considerable basal expression. Collectively, this work illustrates the robustness of dCas9-TV in multigene coactivation and provides broadly useful strategies for boosting transcriptional activation efficacy of dCas9-TADs in plants.
+
+dCas9-TV: !upregulates! OsGW7 
+dCas9-TV: !upregulates! OsER1 
+tRNA-sgRNA: !activates! OsGW7 
+tRNA-sgRNA: !activates! OsER1 
+GCN4 coiled coil: !enhances! dCas9-TV 
+self-amplification loop: !promotes! AtFLS2

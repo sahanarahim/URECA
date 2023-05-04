@@ -1,0 +1,11 @@
+Hsp100 chaperones disaggregate the aggregated proteins and are vital for maintenance of protein homeostasis. The level of Hsp100 synthesised in the cells has a bearing on the survival of plants under heat stress. The Hsp100 transcription machinery is activated within minutes of the onset of heat stress. The heat shock factor HsfA6a plays a major role in the transcriptional regulation of the Hsp101 gene in rice plants. Through yeast-2-hybrid library screening, we identified small heat shock proteins (sHSPs), Hsp70 and ubiquitin as HsfA6a interacting proteins (HIPs). The bimolecular fluorescence complementation assays showed the physical interaction of HsfA6a with Hsp16.9A-CI and Hsp18.0-CII in the cytosolic region and with cHsp70-1 in the nucleus. With the Hsp101 promoter: reporter gene assays, using yeast cells and rice protoplasts, we show that CI-sHsps and CII-sHsps are negative regulators and Hsp70 positive regulator of the HsfA6a activity in modulation of Hsp101 transcription. We also noted that the HsfA6a interactors, Hsp70 and CI-sHsps and CII-sHsps, physically interact with each other. We noted that HsfA6a binds with the CI-sHsp and Hsp70 promoters, implying that HsfA6a has a role in transcriptional regulation of its interacting proteins. Furthermore, we noted that the mutation of the ubiquitin/sumoylation acceptor site lysine 10 to alanine (K10A) of HsfA6a enhanced its DNA binding potential on the Hsp101 promoter, implying that these modifiers are possibly involved in modulation of HsfA6a activity. Our work shows that Hsp70, CI-sHsps and CII-sHsp, and ubiquitin proteins coordinate with HsfA6a in mediating the Hsp101 transcription process in rice.
+
+HsfA6a: !activates! Hsp101
+HsfA6a: !interacts with! Hsp70
+HsfA6a: !interacts with! CI-sHsps
+HsfA6a: !interacts with! CII-sHsps
+HsfA6a: !interacts with! ubiquitin
+Hsp70: !positively regulates! HsfA6a
+CI-sHsps: !negatively regulate! HsfA6a
+CII-sHsps: !negatively regulate! HsfA6a
+ubiquitin: !modulates! HsfA6a

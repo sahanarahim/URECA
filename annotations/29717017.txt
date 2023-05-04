@@ -1,0 +1,11 @@
+Salt-induced developmental plasticity in a plant root system strongly depends on auxin signaling. However, the molecular events underlying this process are poorly understood. <i>MicroRNA390</i> (<i>miR390</i>), <i>trans-actin small interfering RNA</i>s (<i>tasiRNA</i>s), and <i>AUXIN RESPONSE FACTORs</i> (<i>ARFs</i>) form a regulatory module involved in controlling lateral root (LR) growth. Here, we found that <i>miR390</i> expression was strongly induced by exposure to salt during LR formation in poplar (<i>Populus</i> spp.) plants. <i>miR390</i> overexpression stimulated LR development and increased salt tolerance, whereas <i>miR390</i> knockdown caused by a short tandem target mimic repressed LR growth and compromised salt resistance. <i>ARF3.1</i>, <i>ARF3.2</i>, and <i>ARF4</i> expression was inhibited significantly by the presence of salt, and transcript abundance was decreased dramatically in the <i>miR390</i>-overexpressing line but increased in the <i>miR390</i>-knockdown line. Constitutive expression of <i>ARF4m</i> harboring mutated <i>trans-acting small interfering ARF</i>-binding sites removed the salt resistance of the <i>miR390</i> overexpressors. <i>miR390</i> positively regulated auxin signaling in LRs subjected to salt, but <i>ARF4</i> inhibited auxin signaling. Salinity stabilized the poplar Aux/IAA repressor INDOLE-3-ACETIC ACID17.1, and overexpression of an auxin/salt-resistant form of this repressor suppressed LR growth in <i>miR390</i>-overexpressing and <i>ARF4</i>-RNA interfering lines in the presence of salt. Thus, the <i>miR390/TAS3/ARFs</i> module is a key regulator, via modulating the auxin pathway, of LR growth in poplar subjected to salt stress.
+
+miR390: !enhances! LR growth
+miR390: !increases! salt tolerance
+miR390: !positively regulates! auxin signaling
+ARF3.1: !inhibited by! salt
+ARF3.2: !inhibited by! salt
+ARF4: !inhibited by! salt
+ARF4: !inhibits! auxin signaling
+INDOLE-3-ACETIC ACID17.1: !stabilized by! salinity
+INDOLE-3-ACETIC ACID17.1: !suppresses! LR growth

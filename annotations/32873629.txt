@@ -1,0 +1,9 @@
+In plants, iron uptake from the soil is tightly regulated to ensure optimal growth and development. Iron absorption in Arabidopsis root epidermal cells requires the IRT1 transporter that also allows the entry of certain non-iron metals, such as Zn, Mn, and Co. Recent work demonstrated that IRT1 endocytosis and degradation are controlled by IRT1 non-iron metal substrates in a ubiquitin-dependent manner. To better understand how metal uptake is regulated, we identified IRT1-interacting proteins in Arabidopsis roots by mass spectrometry and established an interactome of IRT1. Interestingly, the AHA2 proton pump and the FRO2 reductase, both of which work in concert with IRT1 in the acidification-reduction-transport strategy of iron uptake, were part of this interactome. We confirmed that IRT1, FRO2, and AHA2 associate through co-immunopurification and split-ubiquitin analyses, and uncovered that they form tripartite direct interactions. We characterized the dynamics of the iron uptake complex and showed that FRO2 and AHA2 ubiquitination is independent of the non-iron metal substrates transported by IRT1. In addition, FRO2 and AHA2 are not largely endocytosed in response to non-iron metal excess, unlike IRT1. Indeed, we provide evidence that the phosphorylation of IRT1 in response to high levels of non-iron metals likely triggers dissociation of the complex. Overall, we propose that a dedicated iron-acquisition protein complex exists at the cell surface of Arabidopsis root epidermal cells to optimize iron uptake.
+
+IRT1: !interacts with! AHA2
+IRT1: !interacts with! FRO2
+FRO2: !interacts with! AHA2
+IRT1: !ubiquitinated by! non-iron metals
+FRO2: !ubiquitinated by! AHA2
+AHA2: !ubiquitinated by! FRO2
+IRT1: !dissociates from! complex

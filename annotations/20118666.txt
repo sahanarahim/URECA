@@ -1,0 +1,9 @@
+A basic systems model for vesicle trafficking in Arabidopsis pollen tubes was constructed. The model was composed of transcriptome data and differential equations. The transcriptome data revealed some genes controlling vesicle trafficking in the pollen tubes, and the differential equations connected the molecular functions of the gene products. The computed pollen tube growth reasonably agreed with biological samples. Here, I expand the computational prediction into exocytic vesicles during pollen germination, which can be used to examine the accuracy of the systems model with biological samples. The computational analysis of the model predicts that the number of exocytic vesicles changes in an over 10-fold range before the vesicle trafficking system reaches the equilibrium that makes the pollen tube grow logarithmically. SYP125 (syntaxin of plants 125) is highly localized in the pollen tube tip in both the biological sample and systems model. The computational analysis predicts that SYP125 would highly localize in exocytic vesicles temporally before the pollen tube grows logarithmically. These kinetic predictions guide future research directions.
+
+SYP125: !localizes to! Pollen tube tip 
+SYP125: !highly localizes in! Exocytic vesicles 
+Gene products: !connects! Molecular functions 
+Differential equations: !connects! Transcriptome data 
+Systems model: !agrees with! Biological samples 
+Vesicle trafficking system: !reaches! Equilibrium 
+Number of exocytic vesicles: !changes in! 10-fold range

@@ -1,0 +1,11 @@
+Adventitious root branching is vital to plant growth and regeneration, but the regulation of this process remains unclear. We therefore investigated how ginsenosides regulate adventitious root branching in Panax ginseng. Cell proliferation and adventitious root branching were decreased in the presence of ginsenoside Rb1 and a high concentration of ginsenoside Re, but increased when treating with a low concentration of Re. Moreover, the exogenous application of a synthetic dodeca-amino acid peptide that has a CLAVATA3/EMBRYO SURROUNDING REGION-related (CLE) motif corresponding to PgCLE45 retarded root growth in both ginseng and Arabidopsis. The root Re levels and the expression of the DDS, CYP716A47, and CYP716A53 genes that encode enzymes involved in ginsenoside synthesis were decreased in the presence of PgCLE45. The expression profiles of PgWOX and PgCLE genes were determined to further investigate the CLE-WOX signaling pathway. The levels of PgWOX11 transcripts showed an inverse pattern to PgCLE45 transcripts. Using yeast one-hybrid assay, EMSA, and ChIP assay, we showed that PgWOX11 bound to the PgCLE45 promoter, which contained the HD motif. Transient expression assay showed that PgWOX11 induced the expression of PgCLE45 in adventitious roots, while PgCLE45 suppressed the expression of PgWOX11. These results suggest that there is a negative feedback regulation between PgCLE45 and PgWOX11. Taken together, these data show that ginsenosides regulate adventitious root branching via a novel PgCLE45-PgWOX11 regulatory loop, providing a potential mechanism for the regulation of adventitious root branching.
+
+PgCLE45: !represses! PgWOX11
+PgWOX11: !induces! PgCLE45
+ginsenoside Rb1: !decreases! adventitious root branching
+ginsenoside Re: !increases! adventitious root branching (low concentration)
+ginsenoside Re: !decreases! adventitious root branching (high concentration)
+DDS, CYP716A47, CYP716A53 genes: !synthesize! ginsenosides
+PgCLE45: !binds to! PgWOX11 promoter
+PgCLE45: !inhibits! root growth (ginseng and Arabidopsis)
+PgWOX11: !binds to! PgCLE45 promoter

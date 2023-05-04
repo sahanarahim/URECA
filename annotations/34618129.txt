@@ -1,0 +1,9 @@
+Together with auxin transport, auxin metabolism is a key determinant of auxin signaling output by plant cells. Enzymatic machinery involved in auxin metabolism is subject to regulation based on numerous inputs, including the concentration of auxin itself. Therefore, experiments characterizing altered auxin availability and subsequent changes in auxin metabolism could elucidate the function and regulatory role of individual elements in the auxin metabolic machinery. Here, we studied auxin metabolism in auxin-dependent tobacco BY-2 cells. We revealed that the concentration of N-(2-oxindole-3-acetyl)-l-aspartic acid (oxIAA-Asp), the most abundant auxin metabolite produced in the control culture, dramatically decreased in auxin-starved BY-2 cells. Analysis of the transcriptome and proteome in auxin-starved cells uncovered significant downregulation of all tobacco (Nicotiana tabacum) homologs of Arabidopsis (Arabidopsis thaliana) DIOXYGENASE FOR AUXIN OXIDATION 1 (DAO1), at both transcript and protein levels. Auxin metabolism profiling in BY-2 mutants carrying either siRNA-silenced or CRISPR-Cas9-mutated NtDAO1, as well as in dao1-1 Arabidopsis plants, showed not only the expected lower levels of oxIAA, but also significantly lower abundance of oxIAA-Asp. Finally, ability of DAO1 to oxidize IAA-Asp was confirmed by an enzyme assay in AtDAO1-producing bacterial culture. Our results thus represent direct evidence of DAO1 activity on IAA amino acid conjugates.
+
+auxin: !affects! auxin metabolism 
+auxin: !regulates! enzymatic machinery 
+NtDAO1: !downregulates! oxIAA-Asp 
+NtDAO1: !oxidizes! IAA-Asp 
+siRNA: !silences! NtDAO1 
+CRISPR-Cas9: !mutates! NtDAO1 
+dao1-1: !decreases! oxIAA-Asp

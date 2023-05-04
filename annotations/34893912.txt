@@ -1,0 +1,10 @@
+Efficient foraging by plant roots relies on the ability to sense multiple physical and chemical cues in soil and to reorient growth accordingly (tropism). Root tropisms range from sensing gravity (gravitropism), light (phototropism), water (hydrotropism), touch (thigmotropism), and more. Electrotropism, also known as galvanotropism, is the phenomenon of aligning growth with external electric fields and currents. Although root electrotropism has been observed in a few species since the end of the 19th century, its molecular and physical mechanisms remain elusive, limiting its comparison with the more well-defined sensing pathways in plants. Here, we provide a quantitative and molecular characterization of root electrotropism in the model system Arabidopsis (Arabidopsis thaliana), showing that it does not depend on an asymmetric distribution of the plant hormone auxin, but instead requires the biosynthesis of a second hormone, cytokinin. We also show that the dose-response kinetics of the early steps of root electrotropism follows a power law analogous to the one observed in some physiological reactions in animals. Future studies involving more extensive molecular and quantitative characterization of root electrotropism would represent a step toward a better understanding of signal integration in plants and would also serve as an independent outgroup for comparative analysis of electroreception in animals and fungi.
+
+root: !senses! gravity 
+root: !senses! light 
+root: !senses! water 
+root: !senses! touch 
+root: !senses! electric fields 
+auxin: !not involved in! root electrotropism 
+cytokinin: !required for! root electrotropism 
+root electrotropism: !follows! power law

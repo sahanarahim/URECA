@@ -1,0 +1,7 @@
+Phytohormones signal and combine to maintain the physiological equilibrium in the plant. Pathogens enhance host susceptibility by modulating the hormonal balance of the plant cell. Unlike other plant hormones, the detailed role of cytokinin in plant immunity remains to be fully elucidated. Here, extensive data mining, including of pathogenicity factors, host regulatory proteins, enzymes of hormone biosynthesis, and signaling components, established an integrated signaling network of 105 nodes and 163 edges. Dynamic modeling and system analysis identified multiple cytokinin-mediated regulatory interactions in plant disease networks. This includes specific synergism between cytokinin and salicylic acid pathways and previously undiscovered aspects of antagonism between cytokinin and auxin in plant immunity. Predicted interactions and hormonal effects on plant immunity are confirmed in subsequent experiments with Pseudomonas syringae pv tomato DC3000 and Arabidopsis thaliana. Our dynamic simulation is instrumental in predicting system effects of individual components in complex hormone disease networks and synergism or antagonism between pathways.
+
+Pathogen: !modulates! Hormonal balance
+Cytokinin: !synergizes with! Salicylic acid pathway
+Cytokinin: !antagonizes! Auxin pathway
+Pseudomonas syringae pv tomato DC3000: !confirms! Predicted interactions
+Arabidopsis thaliana: !confirms! Predicted hormonal effects

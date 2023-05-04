@@ -1,0 +1,9 @@
+The century-old maize (Zea mays) salmon silks mutation has been linked to the absence of maysin. Maysin is a C-glycosyl flavone that, when present in silks, confers natural resistance to the maize earworm (Helicoverpa zea), which is one of the most damaging pests of maize in America. Previous genetic analyses predicted Pericarp Color1 (P1; R2R3-MYB transcription factor) to be epistatic to the sm mutation. Subsequent studies identified two loci as being capable of conferring salmon silks phenotypes, salmon silks1 (sm1) and sm2 Benefitting from available sm1 and sm2 mapping information and from knowledge of the genes regulated by P1, we describe here the molecular identification of the Sm1 and Sm2 gene products. Sm2 encodes a rhamnosyl transferase (UGT91L1) that uses isoorientin and UDP-rhamnose as substrates and converts them to rhamnosylisoorientin. Sm1 encodes a multidomain UDP-rhamnose synthase (RHS1) that converts UDP-glucose into UDP-l-rhamnose. Here, we demonstrate that RHS1 shows unexpected substrate plasticity in converting the glucose moiety in rhamnosylisoorientin to 4-keto-6-deoxy glucose, resulting in maysin. Both Sm1 and Sm2 are direct targets of P1, as demonstrated by chromatin immunoprecipitation experiments. The molecular characterization of Sm1 and Sm2 described here completes the maysin biosynthetic pathway, providing powerful tools for engineering tolerance to maize earworm in maize and other plants.
+
+P1: !regulates! Sm1 
+P1: !regulates! Sm2 
+Sm2: !encodes! UGT91L1 
+Sm1: !encodes! RHS1 
+RHS1: !converts! UDP-glucose 
+UGT91L1: !converts! Isoorientin 
+RHS1: !converts! 4-keto-6-deoxy glucose

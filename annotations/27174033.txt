@@ -1,0 +1,12 @@
+The genome of the hemibiotrophic anthracnose fungus, Colletotrichum higginsianum, encodes a large repertoire of candidate-secreted effectors containing LysM domains, but the role of such proteins in the pathogenicity of any Colletotrichum species is unknown. Here, we characterized the function of two effectors, ChELP1 and ChELP2, which are transcriptionally activated during the initial intracellular biotrophic phase of infection. Using immunocytochemistry, we found that ChELP2 is concentrated on the surface of bulbous biotrophic hyphae at the interface with living host cells but is absent from filamentous necrotrophic hyphae. We show that recombinant ChELP1 and ChELP2 bind chitin and chitin oligomers in vitro with high affinity and specificity and that both proteins suppress the chitin-triggered activation of two immune-related plant mitogen-activated protein kinases in the host Arabidopsis. Using RNAi-mediated gene silencing, we found that ChELP1 and ChELP2 are essential for fungal virulence and appressorium-mediated penetration of both Arabidopsis epidermal cells and cellophane membranes in vitro. The findings suggest a dual role for these LysM proteins as effectors for suppressing chitin-triggered immunity and as proteins required for appressorium function.
+
+ChELP1: !synthesizes! Chitin
+ChELP2: !localizes to! Biotrophic Hyphae
+ChELP1: !interacts with! Chitin Oligomers
+ChELP2: !interacts with! Chitin Oligomers
+ChELP1: !represses! Plant Mitogen-Activated Protein Kinases
+ChELP2: !represses! Plant Mitogen-Activated Protein Kinases
+ChELP1: !enhances! Fungal Virulence
+ChELP2: !enhances! Fungal Virulence
+ChELP1: !enhances! Appressorium-Mediated Penetration
+ChELP2: !enhances! Appressorium-Mediated Penetration

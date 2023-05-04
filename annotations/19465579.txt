@@ -1,0 +1,11 @@
+Fruit ripening is a developmental process that is associated with increased susceptibility to the necrotrophic pathogen Botrytis cinerea. Histochemical observations demonstrate that unripe tomato (Solanum lycopersicum) fruit activate pathogen defense responses, but these responses are attenuated in ripe fruit infected by B. cinerea. Tomato fruit ripening is regulated independently and cooperatively by ethylene and transcription factors, including NON-RIPENING (NOR) and RIPENING-INHIBITOR (RIN). Mutations in NOR or RIN or interference with ethylene perception prevent fruit from ripening and, thereby, would be expected to influence susceptibility. We show, however, that the susceptibility of ripe fruit is dependent on NOR but not on RIN and only partially on ethylene perception, leading to the conclusion that not all of the pathways and events that constitute ripening render fruit susceptible. Additionally, on unripe fruit, B. cinerea induces the expression of genes also expressed as uninfected fruit ripen. Among the ripening-associated genes induced by B. cinerea are LePG (for polygalacturonase) and LeExp1 (for expansin), which encode cell wall-modifying proteins and have been shown to facilitate susceptibility. LePG and LeExp1 are induced only in susceptible rin fruit and not in resistant nor fruit. Thus, to infect fruit, B. cinerea relies on some of the processes and events that occur during ripening, and the fungus induces these pathways in unripe fruit, suggesting that the pathogen itself can initiate the induction of susceptibility by exploiting endogenous developmental programs. These results demonstrate the developmental plasticity of plant responses to the fungus and indicate how known regulators of fruit ripening participate in regulating ripening-associated pathogen susceptibility.
+
+ethylene: !regulates! fruit ripening
+NOR: !regulates! susceptibility of ripe fruit
+RIN: !does not regulate! susceptibility of ripe fruit
+ethylene perception: !partially regulates! susceptibility of ripe fruit
+B. cinerea: !induces expression of! LePG and LeExp1
+LePG and LeExp1: !facilitate! susceptibility
+rin fruit: !induce expression of! LePG and LeExp1
+nor fruit: !do not induce expression of! LePG and LeExp1
+B. cinerea: !exploits! endogenous developmental programs

@@ -1,0 +1,10 @@
+Receptor-like proteins (RLPs) and receptor-like kinases (RLKs) are cell-surface receptors that are essential for detecting invading pathogens and subsequent activation of plant defense responses. RLPs lack a cytoplasmic kinase domain to trigger downstream signaling leading to host resistance. The RLK SOBIR1 constitutively interacts with the tomato RLP Cf-4, thereby providing Cf-4 with a kinase domain. SOBIR1 is required for Cf-4-mediated resistance to strains of the fungal tomato pathogen Cladosporium fulvum that secrete the effector Avr4. Upon perception of this effector by the Cf-4/SOBIR1 complex, the central regulatory RLK SOMATIC EMBRYOGENESIS RECEPTOR KINASE 3a (SERK3a) is recruited to the complex and defense signaling is triggered. SOBIR1 is also required for RLP-mediated resistance to bacterial, fungal ,and oomycete pathogens, and we hypothesized that SOBIR1 is targeted by effectors of such pathogens to suppress host defense responses. In this study, we show that Pseudomonas syringae pv. tomato DC3000 effector AvrPto interacts with Arabidopsis SOBIR1 and its orthologs of tomato and Nicotiana benthamiana, independent of SOBIR1 kinase activity. Interestingly, AvrPto suppresses Arabidopsis SOBIR1-induced cell death in N. benthamiana. Furthermore, AvrPto compromises Avr4-triggered cell death in Cf-4-transgenic N. benthamiana, without affecting Cf-4/SOBIR1/SERK3a complex formation. Our study shows that the RLP coreceptor SOBIR1 is targeted by a bacterial effector, which results in compromised defense responses.
+
+RLPs: !interact with! RLKs 
+Cf-4: !interacts with! SOBIR1 
+SOBIR1: !required for! Cf-4-mediated resistance 
+SERK3a: !recruited to! Cf-4/SOBIR1 complex 
+SOBIR1: !required for! RLP-mediated resistance 
+AvrPto: !interacts with! SOBIR1 
+AvrPto: !suppresses! SOBIR1-induced cell death 
+AvrPto: !compromises! Avr4-triggered cell death

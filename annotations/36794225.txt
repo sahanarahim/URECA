@@ -1,0 +1,9 @@
+Ultraviolet-B (UV-B) promotes anthocyanin accumulation and improves fruit quality in plants. To explore the underlying network of MYB transcription factors that regulates UV-B-induced anthocyanin biosynthesis in blueberry (<i>Vaccinium corymbosum</i>), we analyzed the response of <i>MYB</i> transcription factor genes to UV-B treatment. Transcriptome sequencing analysis revealed that <i>VcMYBA2</i> and <i>VcMYB114</i> expression were upregulated and were positively correlated with the expression of anthocyanin structural genes under UV-B radiation according to weighted gene co-expression network analysis (WGCNA) data. The VcUVR8-VcCOP1-VcHY5 pathway perceives UV-B signals and promotes the expression of anthocyanin structural genes by upregulating <i>VcMYBA2</i> and <i>VcMYB114</i> or by regulating the VcBBXs-VcMYB pathway, ultimately promoting anthocyanin accumulation. By contrast, <i>VcMYB4a</i> and <i>VcUSP1</i> were downregulated under UV-B treatment, and <i>VcMYB4a</i> expression was negatively correlated with that of anthocyanin biosynthesis genes in response to UV-B. Analysis of <i>VcMYB4a</i>-overexpressing and wild-type blueberry calli exposed to UV-B radiation revealed that <i>VcMYB4a</i> represses UV-B-induced anthocyanin accumulation. Yeast one-hybrid and dual luciferase assays showed that the universal stress protein VcUSP1 directly bound to the promoter of <i>VcMYB4a</i>. These results suggest that the VcUSP1-VcMYB4a pathway negatively regulates UV-B-induced anthocyanin biosynthesis and provide insight into UV-B-induced anthocyanin biosynthesis.
+
+VcUVR8: !promotes! VcMYBA2
+VcCOP1: !promotes! VcMYB114
+VcBBXs: !regulates! VcMYB
+VcMYBA2: !enhances! anthocyanin structural genes
+VcMYB114: !enhances! anthocyanin structural genes
+VcMYB4a: !represses! UV-B-induced anthocyanin accumulation
+VcUSP1: !directly binds to! VcMYB4a

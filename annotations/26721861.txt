@@ -1,0 +1,9 @@
+In multicellular organisms, Polycomb Repressive Complex 1 (PRC1) and PRC2 repress target genes through histone modification and chromatin compaction. Arabidopsis thaliana mutants strongly compromised in the pathway cannot develop differentiated organs. LIKE HETEROCHROMATIN PROTEIN1 (LHP1) is so far the only known plant PRC1 component that directly binds to H3K27me3, the histone modification set by PRC2, and also associates genome-wide with trimethylation of lysine 27 of histone H3 (H3K27me3). Surprisingly, lhp1 mutants show relatively mild phenotypic alterations. To explain this paradox, we screened for genetic enhancers of lhp1 mutants to identify novel components repressing target genes together with, or in parallel to, LHP1. Two enhancing mutations were mapped to TELOMERE REPEAT BINDING PROTEIN1 (TRB1) and its paralog TRB3. We show that TRB1 binds to thousands of genomic sites containing telobox or related cis-elements with a significant increase of sites and strength of binding in the lhp1 background. Furthermore, in combination with lhp1, but not alone, trb1 mutants show increased transcription of LHP1 targets, such as floral meristem identity genes, which are more likely to be bound by TRB1 in the lhp1 background. By contrast, expression of a subset of LHP1-independent TRB1 target genes, many involved in primary metabolism, is decreased in the absence of TRB1 alone. Thus, TRB1 is a bivalent transcriptional modulator that maintains downregulation of Polycomb Group (PcG) target genes in lhp1 mutants, while it sustains high expression of targets that are regulated independently of PcG.
+
+PRC1/PRC2: !repress! target genes
+LHP1: !binds to! H3K27me3
+LHP1: !associates with! trimethylation of lysine 27 of histone H3
+TRB1/TRB3: !enhance! lhp1 mutants
+TRB1: !binds to! telobox or related cis-elements
+TRB1: !increases! transcription of LHP1 targets
+TRB1: !decreases! expression of LHP1-independent TRB1 targets

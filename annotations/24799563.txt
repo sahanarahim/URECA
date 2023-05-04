@@ -1,0 +1,7 @@
+The hypothesis that aquaporins and carbonic anhydrase (CA) are involved in the regulation of stomatal (g s) and mesophyll (g m) conductance to CO2 was tested in a short-term water-stress and recovery experiment in 5-year-old olive plants (Olea europaea) growing outdoors. The evolution of leaf gas exchange, chlorophyll fluorescence, and plant water status, and a quantitative analysis of photosynthesis limitations, were followed during water stress and recovery. These variables were correlated with gene expression of the aquaporins OePIP1.1 and OePIP2.1, and stromal CA. At mild stress and at the beginning of the recovery period, stomatal limitations prevailed, while the decline in g m accounted for up to 60% of photosynthesis limitations under severe water stress. However, g m was restored to control values shortly after rewatering, facilitating the recovery of the photosynthetic rate. CA was downregulated during water stress and upregulated after recovery. The use of structural equation modelling allowed us to conclude that both OePIP1.1 and OePIP2.1 expression could explain most of the variations observed for g s and g m. CA expression also had a small but significant effect on g m in olive under water-stress conditions.
+
+OePIP1.1: !explains! g s & g m
+OePIP2.1: !explains! g s & g m
+CA: !downregulates! water stress
+CA: !upregulates! recovery
+CA: !affects! g m

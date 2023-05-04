@@ -1,0 +1,9 @@
+Rice (<i>Oryza sativa</i> L.) is a semiaquatic plant that forms adventitious root primordia at the stem nodes as part of normal development. Upon flooding, roots emerge, preceded by local death of epidermal cells above the root primordia. Cell death is strictly confined to cells above root primordia and is induced by ethylene and H<sub>2</sub>O<sub>2</sub>. These pro-death signals regulate expression of the transcription factor genes <i>ANT-like, OsARF2, OsARF3</i> and <i>Hox9</i> which have a proposed function in cell type specification, boundary formation, or organ polarity. It is hypothesized that local induction of cell death is dependent on epidermal cell identity as defined at the molecular level.
+
+ethylene: !induces! OsARF2
+H<sub>2</sub>O<sub>2</sub>: !induces! OsARF2
+OsARF2: !affects! cell death
+OsARF3: !affects! cell death
+Hox9: !affects! cell death
+ANT-like: !affects! cell death
+epidermal cell identity: !regulates! expression of transcription factor genes

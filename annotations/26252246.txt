@@ -1,0 +1,10 @@
+['26252246', 'The development of lateral roots (LR) is known to be severely inhibited by salt  or osmotic stress. However, the molecular mechanisms underlying LR development in  osmotic/salt stress conditions are poorly understood. Here we show that the gene  encoding the WRKY transcription factor WRKY46 (WRKY46) is expressed throughout  lateral root primordia (LRP) during early LR development and that expression is  subsequently restricted to the stele of the mature LR. In osmotic/salt stress  conditions, lack of WRKY46 (in loss-of-function wrky46 mutants) significantly  reduces, while overexpression of WRKY46 enhances, LR development. We also show  that exogenous auxin largely restores LR development in wrky46 mutants, and that  the auxin transport inhibitor 2,3,5-triiodobenzoic acid (TIBA) inhibits LR  development in both wild-type (WT; Col-0) and in a line overexpressing WRKY46  (OV46). Subsequent analysis of abscisic acid (ABA)-related mutants indicated that  WRKY46 expression is down-regulated by ABA signaling, and up-regulated by an  ABA-independent signal induced by osmotic/salt stress. Next, we show that  expression of the DR5:GUS auxin response reporter is reduced in roots of wrky46  mutants, and that both wrky46 mutants and OV46 display altered root levels of  free indole-3-acetic acid (IAA) and IAA conjugates. Subsequent RT-qPCR and  ChIP-qPCR experiments indicated that WRKY46 directly regulates the expression of  ABI4 and of genes regulating auxin conjugation. Finally, analysis of wrky46 abi4  double mutant plants confirms that ABI4 acts downstream of WRKY46. In summary,  our results demonstrate that WRKY46 contributes to the feedforward inhibition of  osmotic/salt stress-dependent LR inhibition via regulation of ABA signaling and  auxin homeostasis.', '2015 Oct', 'Plant J', '10.1111/tpj.12958', 'Zheng']
+
+WRKY46: !expresses in! LRP 
+WRKY46: !regulates! ABI4 
+wrky46: !inhibits! LR development 
+OV46: !enhances! LR development 
+TIBA: !inhibits! LR development 
+ABA: !down-regulates! WRKY46 
+WRKY46: !directly regulates! ABI4 expression 
+WRKY46: !regulates! auxin homeostasis

@@ -1,0 +1,14 @@
+Recent advances in technologies for observing high-resolution genomic activities, such as whole-genome tiling arrays and high-throughput sequencers, provide detailed information for understanding genome functions. However, the functions of 50% of known Arabidopsis thaliana genes remain unknown or are annotated only on the basis of static analyses such as protein motifs or similarities. In this paper, we describe dynamic structure-based dynamic expression (DSDE) analysis, which sequentially predicts both structural and functional features of transcripts. We show that DSDE analysis inferred gene functions 12% more precisely than static structure-based dynamic expression (SSDE) analysis or conventional co-expression analysis based on previously determined gene structures of A. thaliana. This result suggests that more precise structural information than the fixed conventional annotated structures is crucial for co-expression analysis in systems biology of transcriptional regulation and dynamics. Our DSDE method, ARabidopsis Tiling-Array-based Detection of Exons version 2 and over-representation analysis (ARTADE2-ORA), precisely predicts each gene structure by combining two statistical analyses: a probe-wise co-expression analysis of multiple transcriptome measurements and a Markov model analysis of genome sequences. ARTADE2-ORA successfully identified the true functions of about 90% of functionally annotated genes, inferred the functions of 98% of functionally unknown genes and predicted 1,489 new gene structures and functions. We developed a database ARTADE2DB that integrates not only the information predicted by ARTADE2-ORA but also annotations and other functional information, such as phenotypes and literature citations, and is expected to contribute to the study of the functional genomics of A. thaliana. URL: http://artade.org.
+
+Gene: !affects! Process
+Gene: !localizes to! X
+Gene: !interacts with! Y
+Gene: !enhances! Z
+Gene: !represses! U
+Gene: !synthesizes! I
+Gene: !predicts! Structural Features
+Gene: !predicts! Functional Features
+Gene: !identifies! True Functions
+Gene: !infers! Unknown Functions
+Gene: !predicts! New Structures
+Gene: !integrates! Annotations

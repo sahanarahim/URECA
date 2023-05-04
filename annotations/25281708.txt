@@ -1,0 +1,8 @@
+PROTEIN PHOSPHATASE 2A (PP2A) is a major group of serine/threonine protein phosphatases in eukaryotes. It is composed of three subunits: scaffolding subunit A, regulatory subunit B, and catalytic subunit C. Assembly of the PP2A holoenzyme in Arabidopsis (Arabidopsis thaliana) depends on Arabidopsis PHOSPHOTYROSYL PHOSPHATASE ACTIVATOR (AtPTPA). Reduced expression of AtPTPA leads to severe defects in plant development, altered responses to abscisic acid, ethylene, and sodium chloride, and decreased PP2A activity. In particular, AtPTPA deficiency leads to decreased methylation in PP2A-C subunits (PP2Ac). Complete loss of PP2Ac methylation in the suppressor of brassinosteroid insensitive1 mutant leads to 30% reduction of PP2A activity, suggesting that PP2A with a methylated C subunit is more active than PP2A with an unmethylated C subunit. Like AtPTPA, PP2A-A subunits are also required for PP2Ac methylation. The interaction between AtPTPA and PP2Ac is A subunit dependent. In addition, AtPTPA deficiency leads to reduced interactions of B subunits with C subunits, resulting in reduced functional PP2A holoenzyme formation. Thus, AtPTPA is a critical factor for committing the subunit A/subunit C dimer toward PP2A heterotrimer formation.
+
+AtPTPA: !affects! PP2A activity
+AtPTPA: !localizes to! PP2Ac
+AtPTPA: !interacts with! PP2Ac
+AtPTPA: !enhances! PP2Ac methylation
+AtPTPA: !represses! PP2A holoenzyme formation
+PP2Ac: !synthesizes! PP2A holoenzyme

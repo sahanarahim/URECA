@@ -1,0 +1,8 @@
+As a widely consumed fruit worldwide, it is extremely important to prevent and control disease in apple trees. In this research, we designed convolutional neural networks (CNNs) for five diseases that affect apple tree leaves based on the AlexNet model. First, the coarse-grained features of the disease are extracted in the model using dilated convolution, which helps to maintain a large receptive field while reducing the number of parameters. The parallel convolution module is added to extract leaf disease features at multiple scales. Subsequently, the series 3 × 3 convolutions shortcut connection allows the model to deal with additional nonlinearities. Further, the attention mechanism is added to all aggregated output modules to better fit channel features and reduce the impact of a complex background on the model performance. Finally, the two fully connected layers are replaced by global pooling to reduce the number of model parameters, to ensure that the features are not lost. The final recognition accuracy of the model is 97.36%, and the size of the model is 5.87 MB. In comparison with five other models, our model design is reasonable and has good robustness; further, the results show that the proposed model is lightweight and can identify apple leaf diseases with high accuracy.
+
+CNN: !extracts! Coarse-grained features 
+Dilated convolution: !maintains! Receptive field 
+Parallel convolution module: !extracts! Leaf disease features 
+3x3 convolutions shortcut connection: !deals with! Nonlinearities 
+Attention mechanism: !fits! Channel features 
+Global pooling: !reduces! Model parameters

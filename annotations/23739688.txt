@@ -1,0 +1,6 @@
+The paralogous and functionally redundant GATA transcription factors GNC (for GATA, NITRATE-INDUCIBLE, CARBON-METABOLISM INVOLVED) and GNL/CGA1 (for GNC-LIKE/CYTOKININ-RESPONSIVE GATA FACTOR1) from Arabidopsis (Arabidopsis thaliana) promote greening and repress flowering downstream from the phytohormone gibberellin. The target genes of GNC and GNL with regard to flowering time control have not been identified as yet. Here, we show by genetic and molecular analysis that the two GATA factors act upstream from the flowering time regulator SUPPRESSOR OF OVEREXPRESSION OF CONSTANS1 (SOC1) to directly repress SOC1 expression and thereby repress flowering. Interestingly, this analysis inversely also reveals that the MADS box transcription factor SOC1 directly represses GNC and GNL expression to control cold tolerance and greening, two further physiological processes that are under the control of SOC1. In summary, these findings support the case of a cross-repressive interaction between the GATA factors GNC and GNL and the MADS box transcription factor SOC1 in flowering time control on the one side and greening and cold tolerance on the other that may be governed by the various signaling inputs that are integrated at the level of SOC1 expression.
+
+GNC: !represses! SOC1
+GNL: !represses! SOC1
+SOC1: !represses! GNC
+SOC1: !represses! GNL

@@ -1,0 +1,7 @@
+['24891605', 'Although a plethora of nuclear envelope (NE) transmembrane proteins (NETs) have  been identified in opisthokonts, plant NETs are largely unknown. The only known  NET homologues in plants are Sad1/UNC-84 (SUN) proteins, which bind  Klarsicht/ANC-1/Syne-1 homology (KASH) proteins. Therefore, de novo  identification of plant NETs is necessary. Based on similarities between  opisthokont KASH proteins and the only known plant KASH proteins, WPP  domain-interacting proteins, we used a computational method to identify the KASH  subset of plant NETs. Ten potential plant KASH protein families were identified,  and five candidates from four of these families were verified for their NE  localization, depending on SUN domain interaction. Of those, Arabidopsis thaliana  SINE1 is involved in actin-dependent nuclear positioning in guard cells, whereas  its paralogue SINE2 contributes to innate immunity against an oomycete pathogen.  This study dramatically expands our knowledge of plant KASH proteins and suggests  that plants and opisthokonts have recruited different KASH proteins to perform NE  regulatory functions.', '2014 Jun 9', 'J Cell Biol', '10.1083/jcb.201401138', 'Meier']
+
+SUN proteins: !bind! KASH proteins 
+KASH proteins: !localize to! nuclear envelope 
+SINE1: !involves in! actin-dependent nuclear positioning 
+SINE2: !contributes to! innate immunity 
+plant KASH proteins: !dramatically expand! knowledge

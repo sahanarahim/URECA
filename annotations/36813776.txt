@@ -1,0 +1,11 @@
+Functional characterization of the cancer clones can shed light on the evolutionary mechanisms driving cancer's proliferation and relapse mechanisms. Single-cell RNA sequencing data provide grounds for understanding the functional state of cancer as a whole; however, much research remains to identify and reconstruct clonal relationships toward characterizing the changes in functions of individual clones. We present PhylEx that integrates bulk genomics data with co-occurrences of mutations from single-cell RNA sequencing data to reconstruct high-fidelity clonal trees. We evaluate PhylEx on synthetic and well-characterized high-grade serous ovarian cancer cell line datasets. PhylEx outperforms the state-of-the-art methods both when comparing capacity for clonal tree reconstruction and for identifying clones. We analyze high-grade serous ovarian cancer and breast cancer data to show that PhylEx exploits clonal expression profiles beyond what is possible with expression-based clustering methods and clear the way for accurate inference of clonal trees and robust phylo-phenotypic analysis of cancer.
+
+Gene: !affects! Process 
+Gene: !synthesizes! RNA 
+Data: !provides grounds for! understanding cancer 
+Mutations: !co-occur with! single-cell RNA sequencing data 
+PhylEx: !integrates! bulk genomics data 
+PhylEx: !outperforms! state-of-the-art methods 
+Clones: !reconstructs! clonal trees 
+Clones: !identifies! clones 
+Expression Profiles: !exploits! PhylEx

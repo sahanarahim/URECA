@@ -1,0 +1,9 @@
+Plant phototropism is an adaptive response to changes in light direction, quantity, and quality that results in optimization of photosynthetic light harvesting, as well as water and nutrient acquisition. Though several components of the phototropic signal response pathway have been identified in recent years, including the blue light (BL) receptors phototropin1 (phot1) and phot2, much remains unknown. Here, we show that the phot1-interacting protein NONPHOTOTROPIC HYPOCOTYL3 (NPH3) functions as a substrate adapter in a CULLIN3-based E3 ubiquitin ligase, CRL3(NPH3). Under low-intensity BL, CRL3(NPH3) mediates the mono/multiubiquitination of phot1, likely marking it for clathrin-dependent internalization from the plasma membrane. In high-intensity BL, phot1 is both mono/multi- and polyubiquitinated by CRL3(NPH3), with the latter event targeting phot1 for 26S proteasome-mediated degradation. Polyubiquitination and subsequent degradation of phot1 under high-intensity BL likely represent means of receptor desensitization, while mono/multiubiquitination-stimulated internalization of phot1 may be coupled to BL-induced relocalization of hormone (auxin) transporters.
+
+phot1: !interacts with! NPH3
+NPH3: !functions as! substrate adapter
+CRL3(NPH3): !mediates! mono/multiubiquitination of phot1
+CRL3(NPH3): !mediates! polyubiquitination of phot1
+polyubiquitination: !targets! phot1 for 26S proteasome-mediated degradation
+mono/multiubiquitination: !stimulates! internalization of phot1
+internalization: !coupled to! BL-induced relocalization of hormone transporters

@@ -1,0 +1,9 @@
+Seeds derive from ovules upon fertilization and therefore the total number of ovules determines the final seed yield, a fundamental trait in crop plants. Among the factors that co-ordinate the process of ovule formation, the transcription factors CUP-SHAPED COTYLEDON 1 (CUC1) and CUC2 and the hormone cytokinin (CK) have a particularly prominent role. Indeed, the absence of both CUC1 and CUC2 causes a severe reduction in ovule number, a phenotype that can be rescued by CK treatment. In this study, we combined CK quantification with an integrative genome-wide target identification approach to select Arabidopsis genes regulated by CUCs that are also involved in CK metabolism. We focused our attention on the functional characterization of UDP-GLUCOSYL TRANSFERASE 85A3 (UGT85A3) and UGT73C1, which are up-regulated in the absence of CUC1 and CUC2 and encode enzymes able to catalyse CK inactivation by O-glucosylation. Our results demonstrate a role for these UGTs as a link between CUCs and CK homeostasis, and highlight the importance of CUCs and CKs in the determination of seed yield.
+
+CUC1: !affects! Ovule formation
+CUC2: !affects! Ovule formation
+CK: !rescues! CUC1/CUC2 phenotype
+UGT85A3: !up-regulated by! CUC1/CUC2
+UGT73C1: !up-regulated by! CUC1/CUC2
+UGT85A3/UGT73C1: !catalyse! CK inactivation
+CUCs/CK: !determine! Seed yield

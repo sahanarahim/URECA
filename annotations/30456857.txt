@@ -1,0 +1,13 @@
+Hypocotyl elongation is an early event in plant growth and development and is sensitive to fluctuations in light, temperature, water potential and nutrients. Most research on hypocotyl elongation has focused on the regulatory mechanism of a single environment factor. However, information about combined effects of multi-environment factors remains unavailable, and overlapping sites of the environmental factors signaling pathways in the regulation of hypocotyl elongation remain unclear. To identify how cross-talks among light intensity, temperature and water potential regulate hypocotyl elongation in Brassica rapa L. ssp. chinesis, a comprehensive isobaric tag for relative and absolute quantitation-based proteomic approach was adopted. In total, 7259 proteins were quantified, and 378 differentially expressed proteins (DEPs) were responsive to all three environmental factors. The DEPs were involved in a variety of biochemical processes, including signal transduction, cytoskeletal organization, carbohydrate metabolism, cell wall organization, protein modification and transport. The DEPs did not function in isolation, but acted in a large and complex interaction network to affect hypocotyl elongation. Among the DEPs, phyB was outstanding for its significant fold change in quantity and complex interaction networks with other proteins. In addition, changes of sensitivity to environmental factors in phyB-9 suggested a key role in the regulation of hypocotyl elongation. Overall, the data presented in this study show a profile of proteins interaction network in response to light intensity, temperature and water potential and provides molecular basis of hypocotyl elongation in B. rapa.
+
+phyB: !regulates! hypocotyl elongation
+light intensity: !affects! phyB
+temperature: !affects! phyB
+water potential: !affects! phyB
+signal transduction: !involves! DEPs
+cytoskeletal organization: !involves! DEPs
+carbohydrate metabolism: !involves! DEPs
+cell wall organization: !involves! DEPs
+protein modification: !involves! DEPs
+transport: !involves! DEPs
+DEPs: !interact with! phyB

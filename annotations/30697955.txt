@@ -1,0 +1,7 @@
+Apomixis is an asexual reproduction way of plants that can produce clonal offspring through seeds. In this study, we introduced apomixis into rice (Oryza sativa) by mutating OsSPO11-1, OsREC8, OsOSD1, and OsMATL through a CRISPR/Cas9 system. The quadruple mutant showed a transformation from meiosis to mitosis and produced clonal diploid gametes. With mutated Osmatl, which gives rise to haploid induction in plants, the quadruple mutant is expected to be able to be produced apomictic diploid offspring. We named this quadruple mutant as AOP (Apomictic Offspring Producer) for its ability to produce apomictic offspring.
+
+OsSPO11-1: !mutates! OsREC8
+OsREC8: !mutates! OsOSD1
+OsOSD1: !mutates! OsMATL
+OsMATL: !mutates! AOP
+AOP: !produces! apomictic diploid offspring

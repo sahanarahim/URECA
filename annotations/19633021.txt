@@ -1,0 +1,6 @@
+MicroRNAs (miRNAs) are 20-24 nucleotide endogenous regulatory molecules conserved in higher eukaryotes. In Arabidopsis, miRNAs are produced through step-wise cleavages of primary miRNA precursors (pri-miRNAs) by DICER-LIKE1 (DCL1). This cleavage step is also supported by a double-stranded RNA-binding protein, HYPONASTIC LEAVES1 (HYL1). In many cases, mature miRNA is predominantly incorporated into an endonuclease, ARGONAUTE1 (AGO1), which degrades miRNA-targeted mRNAs. Here, we examined and revealed whole genome transcriptomes in ago1-25 and hyl1-2 mutants using tiling arrays. The data in this paper are valuable for understanding the relationship between the miRNA pathway and its effect on transcriptomes.
+
+DCL1: !produces! miRNAs 
+HYL1: !supports! DCL1 
+AGO1: !incorporates! miRNA 
+miRNA: !targets! mRNAs

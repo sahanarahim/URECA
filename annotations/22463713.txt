@@ -1,0 +1,8 @@
+We formulate a dynamic evolutionary optimization problem to predict the optimal pattern by which carbon (C) and nitrogen (N) are co-allocated to fine-root, leaf, and wood production, with the objective of maximizing height growth rate, year by year, in an even-aged stand. Height growth is maximized with respect to two adaptive traits, leaf N concentration and the ratio of fine-root mass to sapwood cross-sectional area. Constraints on the optimization include pipe-model structure, the C cost of N acquisition, and agreement between the C and N balances. The latter is determined by two models of height growth rate, one derived from the C balance and the other from the N balance; agreement is defined by identical growth rates. Predicted time-courses of maximized height growth rate accord with general observations. Across an N gradient, higher N availability leads to greater N utilization and net primary productivity, larger trees, and greater stocks of leaf and live wood biomass, with declining gains as a result of saturation effects at high N availability. Fine-root biomass is greatest at intermediate N availability. Predicted leaf and fine-root stocks agree with data from coniferous stands across Finland. Optimal C-allocation patterns agree with published observations and model analyses.
+
+Gene: !affects! Height growth rate
+Gene: !localizes to! Leaf N concentration
+Gene: !interacts with! C cost of N acquisition
+Gene: !enhances! Net primary productivity
+Gene: !represses! Saturation effects
+Gene: !synthesizes! Optimal C-allocation patterns

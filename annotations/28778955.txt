@@ -1,0 +1,7 @@
+Histone deacetylases (HDACs) play important roles in regulating gene expression. In yeast and animals, HDACs act as components of multiprotein complexes that modulate transcription during various biological processes. However, little is known about the interacting proteins of plant HDACs. To identify the plant HDAC complexes and interacting proteins, we developed an optimized workflow using immunopurification coupled to mass spectrometry-based proteomics in <i>Arabidopsis thaliana</i> We found that the histone deacetylase HDA6 can interact with the histone methyltransferases SUVH4, SUVH5, and SUVH6 (SUVH4/5/6). Domain analysis revealed that the C-terminal regions of HDA6 and SUVH5 are important for their interaction. Furthermore, HDA6 interacts with SUVH4/5/6 and coregulates a subset of transposons through histone H3K9 methylation and H3 deacetylation. In addition, two phosphorylated serine residues, S427 and S429, were unambiguously identified in the C-terminal region of HDA6. Phosphomimetics (amino acid substitutions that mimic a phosphorylated protein) of HDA6 resulted in increased enzymatic activity, whereas the mutation of S427 to alanine in HDA6 abolished its interaction with SUVH5 and SUVH6, suggesting that the phosphorylation of HDA6 is important for its activity and function.
+
+HDAC: !interacts with! SUVH4/5/6 
+HDA6: !regulates! transposons 
+HDA6: !phosphorylated at! S427 and S429 
+Phosphomimetics: !increase! HDA6 activity 
+Mutation of S427: !abolishes! HDA6 interaction with SUVH5/6

@@ -1,0 +1,22 @@
+Mucilage secretory cells (MSC) form an intriguing cell layer important for seed germination. In Arabidopsis thaliana, several master transcription factors (TFs) and "actor" proteins have already been identified as key players for seed coat differentiation including epidermal cell formation, mucilage production and extrusion. The regulation of the genes coding for MSC cell wall "actor" proteins by TFs needs to be better established. Here, the expression and the regulation of 3 known actors (PRX36, PMEI6, SBT1.7) and 2 additional putative actors (PRX56, DIR12) have been analyzed in T-DNA mutants affected in master TFs (ap2, egl3/gl3, gl2, myb5, tt8, ttg1, ttg2 and luh1/mum1). Genes with somehow similar function are differentially regulated and conversely, genes with different functions are regulated in similar manner.
+
+ap2: !regulates! PRX36
+ap2: !regulates! PMEI6
+ap2: !regulates! SBT1.7
+ap2: !regulates! PRX56
+ap2: !regulates! DIR12
+egl3/gl3: !regulates! PRX36
+egl3/gl3: !regulates! PMEI6
+egl3/gl3: !regulates! SBT1.7
+egl3/gl3: !regulates! PRX56
+egl3/gl3: !regulates! DIR12
+gl2: !regulates! PRX36
+gl2: !regulates! PMEI6
+gl2: !regulates! SBT1.7
+gl2: !regulates! PRX56
+gl2: !regulates! DIR12
+myb5: !regulates! PRX36
+myb5: !regulates! PMEI6
+myb5: !regulates! SBT1.7
+myb5: !regulates! PRX56
+myb5: !regulates! DIR12

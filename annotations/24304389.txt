@@ -1,0 +1,10 @@
+To control defense and cell-death signaling, plants contain an abundance of pathogen recognition receptors such as leucine-rich repeat (LRR) proteins. Here we show that pepper (Capsicum annuum) LRR1 interacts with the pepper pathogenesis-related (PR) protein 4b, PR4b, in yeast and in planta. PR4b is synthesized in the endoplasmic reticulum, interacts with LRR1 in the plasma membrane, and is secreted to the apoplast via the plasma membrane. Binding of PR4b to LRR1 requires the chitin-binding domain of PR4b. Purified PR4b protein inhibits spore germination and mycelial growth of plant fungal pathogens. Transient expression of PR4b triggers hypersensitive cell death. This cell death is compromised by co-expression of LRR1 as a negative regulator in Nicotiana benthamiana leaves. LRR1/PR4b silencing in pepper and PR4b over-expression in Arabidopsis thaliana demonstrated that LRR1 and PR4b are necessary for defense responses to Pseudomonas syringae pv. tomato and Hyaloperonospora arabidopsidis (Hpa) infection. The mutant of the PR4b Arabidopsis ortholog, pr4, showed enhanced susceptibility to Hpa infection. Together, our results suggest that PR4b functions as a positive modulator of plant cell death and defense responses. However, the activity of PR4b is suppressed by interaction with LRR1.
+
+LRR1: !interacts with! PR4b
+PR4b: !synthesizes in! endoplasmic reticulum
+PR4b: !binds to! LRR1
+PR4b: !inhibits! spore germination
+PR4b: !triggers! hypersensitive cell death
+LRR1: !represses! PR4b activity
+PR4b: !enhances! defense responses
+LRR1: !localizes to! plasma membrane

@@ -1,0 +1,11 @@
+Polycomb group proteins play essential roles in the epigenetic control of gene expression in plants and animals. Although some components of Polycomb repressive complex 1 (PRC1)-like complexes have recently been reported in the model plant Arabidopsis, how they contribute to gene repression remains largely unknown. Here we show that a putative PRC1 RING-finger protein, AtRING1A, plays a hitherto unknown role in mediating the transition from vegetative to reproductive development in Arabidopsis. Loss of function of AtRING1A results in the late-flowering phenotype, which is attributed to derepression of two floral repressors, MADS AFFECTING FLOWERING 4/5 (MAF4/5), which in turn downregulate two floral pathway integrators, FLOWERING LOCUS T and SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1. Levels of the H3K27me3 repressive mark at MAF4 and MAF5 loci, which is deposited by CURLY LEAF (CLF)-containing PRC2-like complexes and bound by LIKE HETEROCHROMATIN PROTEIN 1 (LHP1), are affected by AtRING1A, which interacts with both CLF and LHP1. Levels of the H3K4me3 activation mark correlate inversely with H3K27me3 levels at MAF4 and MAF5 loci. Our results suggest that AtRING1A suppresses the expression of MAF4 and MAF5 through affecting H3K27me3 levels at these loci to regulate the floral transition in Arabidopsis.
+
+AtRING1A: !affects! H3K27me3 levels 
+AtRING1A: !interacts with! CLF 
+AtRING1A: !interacts with! LHP1 
+MAF4/5: !derepressed by! AtRING1A 
+FLOWERING LOCUS T: !downregulated by! MAF4/5 
+SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1: !downregulated by! MAF4/5 
+H3K27me3: !deposited by! CLF-containing PRC2-like complexes 
+H3K27me3: !bound by! LHP1 
+H3K4me3: !inversely correlated with! H3K27me3 levels

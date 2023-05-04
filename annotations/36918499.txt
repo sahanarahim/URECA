@@ -1,0 +1,8 @@
+An environmentally responsive root system is crucial for plant growth and crop yield, especially in suboptimal soil conditions. This responsiveness enables the plant to exploit regions of high nutrient density while simultaneously minimizing abiotic stress. Despite the vital importance of root systems in regulating plant growth, significant gaps of knowledge exist in the mechanisms that regulate their architecture. Auxin defines both the frequency of lateral root (LR) initiation and the rate of LR outgrowth. Here, we describe a search for proteins that regulate root system architecture (RSA) by interacting directly with a key auxin transporter, PIN1. The native separation of Arabidopsis plasma membrane protein complexes identified several PIN1 co-purifying proteins. Among them, AZG1 was subsequently confirmed as a PIN1 interactor. Here, we show that, in Arabidopsis, AZG1 is a cytokinin (CK) import protein that co-localizes with and stabilizes PIN1, linking auxin and CK transport streams. AZG1 expression in LR primordia is sensitive to NaCl, and the frequency of LRs is AZG1-dependent under salt stress. This report therefore identifies a potential point for auxin:cytokinin crosstalk, which shapes RSA in response to NaCl.
+
+PIN1: !interacts with! AZG1
+AZG1: !stabilizes! PIN1
+AZG1: !imports! CK
+CK: !links to! auxin transport streams
+NaCl: !affects! AZG1 expression in LR primordia
+AZG1: !regulates! frequency of LRs under salt stress

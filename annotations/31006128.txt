@@ -1,0 +1,10 @@
+Increasing drought caused by the ongoing climate change, and forest management by thinning that aims at mitigating its impact, may modify the current relationships between forest functions and drought intensity and preclude our ability to forecast future ecosystem responses. We used 15 yr of data from an experimental rainfall exclusion (-27% of rainfall) combined with thinning (-30% stand basal area) to investigate differences in the drought-function relationships for each component of above-ground net primary productivity (ANPP) and stand transpiration in a Mediterranean Quercus ilex stand. Rainfall exclusion reduced stand ANPP by 10%, mainly because of lowered leaf and acorn production, whereas wood production remained unaffected. These responses were consistent with the temporal sensitivity to drought among tree organs but revealed an increased allocation to wood. Thinning increased wood and acorn production and reduced the sensitivity of standing wood biomass change to drought. Rainfall exclusion and thinning lowered the intercept of the transpiration-drought relationship as a result of the structural constraints exerted by lower leaf and sapwood area. The results suggest that historical drought-function relationships can be used to infer future drought impacts on stand ANPP but not on water fluxes. Thinning can mitigate drought effects and reduce forest sensitivity to drought.
+
+drought: !affects! ANPP
+thinning: !mitigates! drought effects
+rainfall exclusion: !lowers! stand ANPP
+leaf production: !reduced by! drought
+wood production: !unaffected by! drought
+acorn production: !increased by! thinning
+wood biomass: !less sensitive to! drought
+transpiration: !lower intercept of! drought-function relationship

@@ -1,0 +1,13 @@
+Salt stress has become one of the main limiting factors affecting the normal growth and development of tomatoes as well as fruit quality and yields. To further reveal the regulatory relationships between tomato hormones under salt stress, the interaction between hormones and TF and the genome-wide gene interaction network were analyzed and constructed. After salt treatment, the levels of ABA, SA, and JA were significantly increased, the levels of GA were decreased, and IAA and tZ showed a trend of first increasing and then decreasing. The expression patterns of hormone biosynthesis and signal transduction related genes were analyzed based on RNA-seq analysis, the co-expression network of hormones and genome-wide co-expression networks were constructed using weighted gene co-expression network analysis (WGCNA). The expression patterns of specific transcription factors under salt stress were also systematically analyzed and identified 20 hormone-related candidate genes associated with salt stress. In conclusion, we first revealed the relationship between hormones and genes in tomatoes under salt stress based on hormone and transcriptome expression profiles and constructed a gene regulatory network. A transcriptional regulation model of tomato consisted of six types of hormones was also proposed. Our study provided valuable insights into the molecular mechanisms regulating salt tolerance in tomatoes.
+
+ABA: !increases! under salt stress
+SA: !increases! under salt stress
+JA: !increases! under salt stress
+GA: !decreases! under salt stress
+IAA: !increases then decreases! under salt stress
+tZ: !increases then decreases! under salt stress
+hormones: !regulate! genes
+TF: !interacts with! hormones
+RNA-seq: !analyzes! expression patterns
+WGCNA: !constructs! co-expression networks
+candidate genes: !associated with! salt stress

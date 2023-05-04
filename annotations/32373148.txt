@@ -1,0 +1,8 @@
+<i>Agrobacterium tumefaciens</i> is the causal agent of crown gall disease in nature; in the laboratory the bacterium is widely used for plant genetic modification. The bacterium delivers a single-stranded transferred DNA (T-DNA) and a group of crucial virulence proteins into host cells. A putative T-complex is formed inside host cells that is composed of T-DNA and virulence proteins VirD2 and VirE2, which protect the foreign DNA from degradation and guide its way into the host nucleus. However, little is known about how the T-complex is assembled inside host cells. We combined the split-GFP and split-sfCherry labeling systems to study the interaction of <i>Agrobacterium</i>-delivered VirE2 and VirE3 in host cells. Our results indicated that VirE2 co-localized with VirE3 on the cytoplasmic side of the host cellular membrane upon the delivery. We identified and characterized two tandem domains at the VirE3 C-terminus that interacted with VirE2 <i>in vitro</i>. Deletion of these two domains abolished the VirE2 accumulation on the host plasma membrane and affected the transformation. Furthermore, the two VirE2-interacting domains of VirE3 exhibited different affinities with VirE2. Collectively, this study demonstrates that the anchorage protein VirE3 uses the two tandem VirE2-interacting domains to facilitate VirE2 protection for T-DNA at the cytoplasmic side of the host cell entrance.
+
+VirE2: !interacts with! VirE3 
+VirE3: !anchors! VirE2 
+VirE3: !uses! two tandem domains 
+two domains: !interact with! VirE2 
+deletion of domains: !abolishes! VirE2 accumulation 
+domains: !exhibit! different affinities with VirE2

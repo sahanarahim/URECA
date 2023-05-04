@@ -1,0 +1,11 @@
+Arabidopsis HSI2 (HIGH-LEVEL EXPRESSION OF SUGAR-INDUCIBLE GENE 2) which carries a EAR (ERF-associated amphiphilic repression) motif acts as a repressor of seed maturation genes and lipid biosynthesis, whereas MEDIATOR (MED) is a conserved multiprotein complex linking DNA-bound transcription factors to RNA polymerase II transcription machinery. How HSI2 executes its repressive function through MED is hitherto unknown. Here, we show that HSI2 and its homolog, HSI2-lik (HSL1), are able to form homo- and heterocomplexes. Both factors bind to the TRAP240 domain of MED13, a subunit of the MED CDK8 module. Mutant alleles of the med13 mutant show elevated seed maturation gene expression and increased lipid accumulation in cotyledons; in contrast, HSI2- or MED13-overexpressing plants display the opposite phenotypes. The overexpression phenotypes of HSI2 and MED13 are abolished in med13 and hsi2 hsl1, respectively, indicating that HSI2 and MED13 together are required for these functions. The HSI2 C-terminal region interacts with HDA6, whose overexpression also reduces seed maturation gene expression and lipid accumulation. Moreover, HSI2, MED13 and HDA6 bind to the proximal promoter and 5'-coding regions of seed maturation genes. Taken together, our results suggest that HSI2 recruits MED13 and HDA6 to suppress directly a subset of seed maturation genes post-germination.
+
+HSI2: !represses! seed maturation genes
+HSI2: !interacts with! MED13
+MED13: !interacts with! HSI2
+HSI2: !interacts with! HSL1
+MED13: !interacts with! TRAP240
+MED13: !enhances! lipid biosynthesis
+HSI2: !interacts with! HDA6
+HSI2: !binds to! proximal promoter
+HSI2: !binds to! 5'-coding regions

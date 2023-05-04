@@ -1,0 +1,9 @@
+To ensure high crop yields in a sustainable manner, a comprehensive understanding of the control of nutrient acquisition is required. In particular, the signalling networks controlling the coordinated utilization of the two most highly demanded mineral nutrients, nitrogen and phosphorus, are of utmost importance. Here, we reveal a mechanism by which nitrate activates both phosphate and nitrate utilization in rice (Oryza sativa L.). We show that the nitrate sensor NRT1.1B interacts with a phosphate signalling repressor SPX4. Nitrate perception strengthens the NRT1.1B-SPX4 interaction and promotes the ubiquitination and degradation of SPX4 by recruiting NRT1.1B interacting protein 1 (NBIP1), an E3 ubiquitin ligase. This in turn allows the key transcription factor of phosphate signalling, PHR2, to translocate to the nucleus and initiate the transcription of phosphorus utilization genes. Interestingly, the central transcription factor of nitrate signalling, NLP3, is also under the control of SPX4. Thus, nitrate-triggered degradation of SPX4 activates both phosphate- and nitrate-responsive genes, implementing the coordinated utilization of nitrogen and phosphorus.
+
+NRT1.1B: !interacts with! SPX4
+Nitrate: !strengthens! NRT1.1B-SPX4 interaction
+NBIP1: !recruits! SPX4
+SPX4: !ubiquitinated and degraded by! NBIP1
+PHR2: !translocates to nucleus due to! SPX4 degradation
+PHR2: !initiates transcription of! phosphorus utilization genes
+SPX4: !controls! NLP3

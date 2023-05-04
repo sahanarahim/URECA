@@ -1,0 +1,9 @@
+['18425591', 'The detailed expression patterns of transcripts of two Arabidopsis arginase  genes, ARGAH1 and ARGAH2, have not been previously described, and phylogenetic  analysis suggests that they diverged independently of duplication events in other  lineages. Therefore, we used beta-glucuronidase reporter fusions and quantitative  reverse-transcriptase PCR to analyze tissue-specific expression of ARGAH1 and  ARGAH2 during Arabidopsis development, and in response to the availability of  nutrients and exposure to methyl jasmonate (MeJA). We demonstrated  tissue-specific transcript expression and enzyme activity in pollen for ARGAH1,  but not ARGAH2. Conversely, we demonstrated MeJA-inducibility of ARGAH2, but not  ARGAH1. In addition, we used microarrays to identify genes for which transcript  abundance following MeJA treatment differed in wild type and ARGAH2 mutants.  These ARGAH2 and MeJA responsive genes included a putative pathogenesis-related  protein pathogenesis response-1 (At2g14610), and a gene of unknown function  (At5g03090). Interestingly, these genes had opposite responses to the loss of  ARGAH2, suggesting multiple downstream effects of arginase activity, following  MeJA treatment. These results, and the variety and complexity of expression  patterns of ARGAH1 and ARGAH2 transcript expression and their related reporter  gene fusions that we observed point to multiple functions of arginase genes in  Arabidopsis, some of which have resulted through a sub-functionalization not  shared by all angiosperms.', '2008 Jul', 'Plant Mol Biol', '10.1007/s11103-008-9336-2', 'Deyholos']
+
+ARGAH1: !localizes to! pollen 
+ARGAH2: !localizes to! pollen 
+ARGAH1: !enhances! pathogenesis-related protein pathogenesis response-1 (At2g14610) 
+ARGAH2: !enhances! gene of unknown function (At5g03090) 
+ARGAH1: !represses! MeJA-inducibility 
+ARGAH2: !represses! MeJA-inducibility 
+MeJA: !induces! ARGAH2

@@ -1,0 +1,13 @@
+The phytohormone abscisic acid (ABA) regulates plant growth, development and responses to biotic and abiotic stresses. The core ABA signaling pathway consists of three major components: ABA receptor (PYR1/PYLs), type 2C Protein Phosphatase (PP2C) and SNF1-related protein kinase 2 (SnRK2). Nevertheless, the complexity of ABA signaling remains to be explored. To uncover new components of ABA signal transduction pathways, we performed a yeast two-hybrid screen for SnRK2-interacting proteins. We found that Type One Protein Phosphatase 1 (TOPP1) and its regulatory protein, At Inhibitor-2 (AtI-2), physically interact with SnRK2s and also with PYLs. TOPP1 inhibited the kinase activity of SnRK2.6, and this inhibition could be enhanced by AtI-2. Transactivation assays showed that TOPP1 and AtI-2 negatively regulated the SnRK2.2/3/6-mediated activation of the ABA responsive reporter gene RD29B, supporting a negative role of TOPP1 and AtI-2 in ABA signaling. Consistent with these findings, topp1 and ati-2 mutant plants displayed hypersensitivities to ABA and salt treatments, and transcriptome analysis of TOPP1 and AtI-2 knockout plants revealed an increased expression of multiple ABA-responsive genes in the mutants. Taken together, our results uncover TOPP1 and AtI-2 as negative regulators of ABA signaling.
+
+PYR1/PYLs: !interacts with! SnRK2
+SnRK2: !interacts with! TOPP1
+TOPP1: !inhibits! SnRK2.6
+AtI-2: !enhances! TOPP1 inhibition of SnRK2.6
+TOPP1: !represses! SnRK2.2/3/6-mediated activation of RD29B
+AtI-2: !represses! SnRK2.2/3/6-mediated activation of RD29B
+TOPP1: !regulates! AtI-2
+topp1 mutant plants: !hypersensitive to! ABA and salt treatments
+ati-2 mutant plants: !hypersensitive to! ABA and salt treatments
+TOPP1 knockout plants: !increased expression of! multiple ABA-responsive genes
+AtI-2 knockout plants: !increased expression of! multiple ABA-responsive genes

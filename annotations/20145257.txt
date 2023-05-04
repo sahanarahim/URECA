@@ -1,0 +1,11 @@
+Very-long-chain fatty acids (VLCFAs) are essential for many aspects of plant development and necessary for the synthesis of seed storage triacylglycerols, epicuticular waxes, and sphingolipids. Identification of the acetyl-CoA carboxylase PASTICCINO3 and the 3-hydroxy acyl-CoA dehydratase PASTICCINO2 revealed that VLCFAs are important for cell proliferation and tissue patterning. Here, we show that the immunophilin PASTICCINO1 (PAS1) is also required for VLCFA synthesis. Impairment of PAS1 function results in reduction of VLCFA levels that particularly affects the composition of sphingolipids, known to be important for cell polarity in animals. Moreover, PAS1 associates with several enzymes of the VLCFA elongase complex in the endoplasmic reticulum. The pas1 mutants are deficient in lateral root formation and are characterized by an abnormal patterning of the embryo apex, which leads to defective cotyledon organogenesis. Our data indicate that in both tissues, defective organogenesis is associated with the mistargeting of the auxin efflux carrier PIN FORMED1 in specific cells, resulting in local alteration of polar auxin distribution. Furthermore, we show that exogenous VLCFAs rescue lateral root organogenesis and polar auxin distribution, indicating their direct involvement in these processes. Based on these data, we propose that PAS1 acts as a molecular scaffold for the fatty acid elongase complex in the endoplasmic reticulum and that the resulting VLCFAs are required for polar auxin transport and tissue patterning during plant development.
+
+VLCFAs: !synthesized by! PASTICCINO3
+VLCFAs: !synthesized by! PASTICCINO2
+PAS1: !synthesizes! VLCFAs
+PAS1: !associates with! VLCFA elongase complex
+pas1 mutants: !deficient in! lateral root formation
+pas1 mutants: !characterized by! abnormal embryo apex patterning
+PIN FORMED1: !mistargeted in! pas1 mutants
+VLCFAs: !rescue! lateral root organogenesis
+VLCFAs: !rescue! polar auxin distribution

@@ -1,0 +1,11 @@
+CONSTITUTIVELY PHOTOMORPHOGENIC 1 (COP1) mediates various cellular and physiological processes in plants by targeting a large number of substrates for ubiquitination and degradation. In this study, we reveal that a substitution of Pro for Leu at amino acid position 409 in WRKY32 largely suppresses the short hypocotyls and expanded cotyledon phenotypes of cop1-6. WRKY32<sup>P409L</sup> promotes hypocotyl growth and inhibits the opening of cotyledons in Arabidopsis. Loss of WRKY32 function mutant seedlings display elongated hypocotyls, whereas overexpression of WRKY32 leads to shortened hypocotyls. WRKY32 directly associates with the promoter regions of HY5 to activate its transcription. COP1 interacts with and targets WRKY32 for ubiquitination and degradation in darkness. WRKY32<sup>P409L</sup> exhibits enhanced DNA binding ability and affects the expression of more genes compared with WRKY32 in Arabidopsis. Our results not only reveal the basic role for WRKY32 in promoting photomorphogenesis, but also provide insights into manipulating plant growth by engineering key components of light signaling.
+
+COP1: !targets! substrates
+WRKY32: !suppresses! cop1-6
+WRKY32: !promotes! hypocotyl growth
+WRKY32: !inhibits! cotyledon opening
+WRKY32: !activates! HY5 transcription
+COP1: !interacts with! WRKY32
+WRKY32: !ubiquitinated by! COP1
+WRKY32<sup>P409L</sup>: !enhances! DNA binding
+WRKY32: !affects! gene expression

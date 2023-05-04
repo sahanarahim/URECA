@@ -1,0 +1,9 @@
+Phenotypic variation in plants is attributed to genotype (G), environment (E), and genotype-by-environment interaction (GEI). Although the main effects of G and E are typically larger and easier to model, the GEI interaction effects are important and a critical factor when considering such issues as to why some genotypes perform consistently well across a range of environments. In plant breeding, a major challenge is limited information, including a single genotype is tested in only a small subset of all possible test environments. The two-way table of phenotype responses will therefore commonly contain missing data. In this paper, we propose a new model of GEI effects that only requires an input of a two-way table of phenotype observations, with genotypes as rows and environments as columns that do not assume the completeness of data. Our analysis can deal with this scenario as it utilizes a novel biclustering algorithm that can handle missing values, resulting in an output of homogeneous cells with no interactions between G and E. In other words, we identify subsets of genotypes and environments where phenotype can be modeled simply. Based on this, we fit no-interaction models to predict phenotypes of a given crop and draw insights into how a particular cultivar will perform in the unused test environments. Our new methodology is validated on data from different plant species and phenotypes and shows superior performance compared to well-studied statistical approaches.
+
+G: !attributes to! Phenotypic variation
+G: !tests in! Environment
+G: !predicts! Phenotypes
+GEI: !interacts with! G & E
+GEI: !models! No-interaction models
+Algorithm: !handles! Missing values
+Algorithm: !identifies! Homogeneous cells

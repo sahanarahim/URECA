@@ -1,0 +1,6 @@
+['11577192', 'AtSR1 is a protein kinase of Arabidopsis thaliana, which belongs to the  SNF1-related protein kinase subfamily 3. We previously showed accumulation of its  transcripts to be responsive to light. In this study, we examined the interaction  between AtSR1 and six calcineurin B like proteins of Arabidopsis and found that  AtSR1 prominently interacts with one of them, AtCBL2, by yeast two-hybrid assay.  Interaction between AtSR1 and AtCBL2 could also be directly confirmed in vitro by  pull down assay. RNA blot and reverse transcription-polymerase chain reaction  analyses showed that transcripts of AtCBL2, and also of AtCBL1, another CBL,  increased upon illumination of leaves. The physiological meaning of the  interaction of AtSR1and AtCBL2 is not clear, but they presumably function in  signal transduction of light.', '2001 Sep', 'Plant Cell Physiol', '10.1093/pcp/pce126', 'Sano']
+
+AtSR1: !interacts with! AtCBL2 
+AtSR1: !responds to! light 
+AtCBL2: !increases upon! illumination 
+AtCBL1: !increases upon! illumination

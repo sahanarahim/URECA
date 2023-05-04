@@ -1,0 +1,6 @@
+Functional-structural plant models that include detailed mechanistic representation of underlying physiological processes can be expensive to construct and the resulting models can also be extremely complicated. On the other hand, purely empirical models are not able to simulate plant adaptability and response to different conditions. In this paper, we present an intermediate approach to modelling plant function that can simulate plant response without requiring detailed knowledge of underlying physiology. Plant function is modelled using a 'canonical' modelling approach, which uses compartment models with flux functions of a standard mathematical form, while plant structure is modelled using L-systems. Two modelling examples are used to demonstrate that canonical modelling can be used in conjunction with L-systems to create functional-structural plant models where function is represented either in an accurate and descriptive way, or in a more mechanistic and explanatory way. We conclude that canonical modelling provides a useful, flexible and relatively simple approach to modelling plant function at an intermediate level of abstraction.
+
+Gene: !affects! Process 
+Process: !modelled by! Canonical modelling 
+Canonical modelling: !in conjunction with! L-systems 
+L-systems: !represent! Plant structure

@@ -1,0 +1,14 @@
+Understanding stomatal and biochemical components that limit photosynthesis under different conditions is important for both the targeted improvement of photosynthesis and the elucidation of how stomata and biochemistry affect plant performance in an ecological context. Limitation analyses have not yet been extensively applied to conditions of photosynthetic induction after an increase in irradiance. Moreover, few studies have systematically assessed how well various limitation analyses actually work. Here we build on two general ways of estimating limitations, one that sequentially removes the effect of a limitation (elimination) and one that uses a tangent plane approximation (differential), by including the ternary effect and boundary layer conductance so that they are consistent with gas exchange data. We apply them to the analysis of temporal and time-integrated limitations during photosynthetic induction, calculating limitations either independent of the time course (one-step) or make use of the entire time course (stepwise). We show that the stepwise differential method is the best method to use when time steps are small enough. We further show that the differential method predicts limitations near exact when the internal CO<sub>2</sub> concentration stays constant. This last insight has important implications for the general use of limitation analyses beyond photosynthetic induction.
+
+Gene: !affects! Photosynthesis 
+Stomata: !limits! Photosynthesis 
+Biochemistry: !limits! Photosynthesis 
+Irradiance: !increases! Photosynthetic induction 
+Elimination: !estimates! Limitations 
+Differential: !uses! Tangent plane approximation 
+Ternary effect: !included in! Differential 
+Boundary layer conductance: !included in! Differential 
+One-step: !calculates! Limitations 
+Stepwise: !calculates! Limitations 
+Stepwise differential: !best for! Small time steps 
+Internal CO<sub>2</sub>: !stays constant! Predicts limitations

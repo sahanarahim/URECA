@@ -1,0 +1,13 @@
+Deuterium enrichment of bulk water was measured and modeled in snowgum (Eucalyptus pauciflora Sieber ex Sprengel) leaves grown under contrasting air and soil humidity in arid and wet conditions in a glasshouse. A map of the enrichment was constructed with a resolution of 4 mm by using a newly designed cryodistillation method. There was progressively increasing enrichment in both longitudinal (along the leaf midrib) and transversal (perpendicular to the midrib) directions, most pronounced in the arid-grown leaf. The whole-leaf average of the enrichment was well below the value estimated by the Craig-Gordon model. The discrepancy between model and measurements persisted when the estimates were carried out separately for the leaf base and tip, which differed in temperature and stomatal conductance. The discrepancy was proportional to the transpiration rate, indicating the significance of diffusion-advection interplay (Péclet effect) of deuterium-containing water molecules in small veins close to the evaporating sites in the leaf. Combined Craig-Gordon and desert-river models, with or without the Péclet number, P, were used for predicting the leaf longitudinal enrichment. The predictions without P overestimated the measured values of deltadeuterium. Fixed P value partially improved the coincidence. We suggest that P should vary along the leaf length l to reconcile the modeled data with observations of longitudinal enrichment. Local values of P, P(l), integrating the upstream fraction of water used or the leaf area, substantially improved the model predictions.
+
+Gene: !affects! Process
+Process: !influenced by! Gene
+Gene: !localizes to! Leaf
+Leaf: !contains! Gene
+Gene: !interacts with! Water molecules
+Water molecules: !interact with! Gene
+Gene: !enhances! Diffusion-advection interplay
+Diffusion-advection interplay: !enhanced by! Gene
+Gene: !represses! Craig-Gordon model
+Craig-Gordon model: !repressed by! Gene
+Gene: !synthesizes! Péclet number

@@ -1,0 +1,8 @@
+Cavitation of xylem elements diminishes the water transport capacity of plants, and quantifying xylem vulnerability to cavitation is important to understanding plant function. Current approaches to analyzing hydraulic conductivity (K) data to infer vulnerability to cavitation suffer from problems such as the use of potentially unrealistic vulnerability curves, difficulty interpreting parameters in these curves, a statistical framework that ignores sampling design, and an overly simplistic view of uncertainty. This study illustrates how two common curves (exponential-sigmoid and Weibull) can be reparameterized in terms of meaningful parameters: maximum conductivity (k(sat)), water potential (-P) at which percentage loss of conductivity (PLC) =X% (P(X)), and the slope of the PLC curve at P(X) (S(X)), a 'sensitivity' index. We provide a hierarchical Bayesian method for fitting the reparameterized curves to K(H) data. We illustrate the method using data for roots and stems of two populations of Juniperus scopulorum and test for differences in k(sat), P(X), and S(X) between different groups. Two important results emerge from this study. First, the Weibull model is preferred because it produces biologically realistic estimates of PLC near P = 0 MPa. Second, stochastic embolisms contribute an important source of uncertainty that should be included in such analyses.
+
+Gene: !affects! Cavitation of xylem elements 
+Gene: !represents! Maximum conductivity (k(sat)) 
+Gene: !represents! Water potential (-P) at which percentage loss of conductivity (PLC) =X% (P(X)) 
+Gene: !represents! Slope of the PLC curve at P(X) (S(X)) 
+Gene: !uses! Hierarchical Bayesian method 
+Gene: !tests for! Differences in k(sat), P(X), and S(X) between different groups

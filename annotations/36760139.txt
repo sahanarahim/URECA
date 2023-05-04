@@ -1,0 +1,8 @@
+A photochemical model of photosynthetic electron transport (PET) is needed to integrate photophysics, photochemistry, and biochemistry to determine redox conditions of electron carriers and enzymes for plant stress assessment and mechanistically link sun-induced chlorophyll fluorescence to carbon assimilation for remotely sensing photosynthesis. Towards this goal, we derived photochemical equations governing the states and redox reactions of complexes and electron carriers along the PET chain. These equations allow the redox conditions of the mobile plastoquinone pool and the cytochrome b<sub>6</sub> f complex (Cyt) to be inferred with typical fluorometry. The equations agreed well with fluorometry measurements from diverse C<sub>3</sub> /C<sub>4</sub> species across environments in the relationship between the PET rate and fraction of open photosystem II reaction centres. We found the oxidation of plastoquinol by Cyt is the bottleneck of PET, and genetically improving the oxidation of plastoquinol by Cyt may enhance the efficiency of PET and photosynthesis across species. Redox reactions and photochemical and biochemical interactions are highly redundant in their complex controls of PET. Although individual reaction rate constants cannot be resolved, they appear in parameter groups which can be collectively inferred with fluorometry measurements for broad applications. The new photochemical model developed enables advances in different fronts of photosynthesis research.
+
+plastoquinone: !oxidized by! Cyt
+Cyt: !bottleneck of! PET
+PET: !linked to! carbon assimilation
+plastoquinol: !genetically improved! efficiency of PET
+redox reactions: !control! PET
+parameter groups: !inferred with! fluorometry measurements

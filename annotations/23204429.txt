@@ -1,0 +1,9 @@
+MicroRNAs (miRNAs) are produced from double-stranded precursors, from which a short duplex is excised. The strand of the duplex that remains more abundant is usually the active form, the miRNA, while steady-state levels of the other strand, the miRNA*, are generally lower. The executive engines of miRNA-directed gene silencing are RNA-induced silencing complexes (RISCs). During RISC maturation, the miRNA/miRNA* duplex associates with the catalytic subunit, an ARGONAUTE (AGO) protein. Subsequently, the guide strand, which directs gene silencing, is retained, while the passenger strand is degraded. Under certain circumstances, the miRNA*s can be retained as guide strands. miR170 and miR171 are prototypical miRNAs in Arabidopsis (Arabidopsis thaliana) with well-defined targets. We found that the corresponding star molecules, the sequence-identical miR170* and miR171a*, have several features of active miRNAs, such as sequence conservation and AGO1 association. We confirmed that active AGO1-miR171a* complexes are common in Arabidopsis and that they trigger silencing of SU(VAR)3-9 HOMOLOG8, a new miR171a* target that was acquired very recently in the Arabidopsis lineage. Our study demonstrates that each miR171a strand can be loaded onto RISC with separate regulatory outcomes.
+
+miRNA: !produces! miRNA*
+miRNA/miRNA*: !associates with! AGO protein
+miRNA*: !retained as! guide strand
+miR170/miR171: !have! well-defined targets
+AGO1-miR171a*: !common in! Arabidopsis
+miR171a*: !silences! SU(VAR)3-9 HOMOLOG8
+miR171a: !loaded onto! RISC

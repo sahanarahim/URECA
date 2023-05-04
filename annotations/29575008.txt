@@ -1,0 +1,9 @@
+Climate change can alter species interactions essential for maintaining biodiversity and ecosystem function, such as pollination. Understanding the interactive effects of multiple abiotic conditions on floral traits and pollinator visitation are important to anticipate the implications of climate change on pollinator services. Floral visual and olfactory traits were measured from individuals of four forb species subjected to drought or normal water availability, and elevated or ambient concentrations of CO<sub>2</sub> in a factorial design. Pollinator visitation rates and community composition were observed in single-species and multi-species forb assemblages. Drought decreased floral visual traits and pollinator visitation rates but increased volatile organic compound (VOC) emissions, whereas elevated CO<sub>2</sub> positively affected floral visual traits, VOC emissions and pollinator visitation rates. There was little evidence of interactive effects of drought and CO<sub>2</sub> on floral traits and pollinator visitation. Interestingly, the effects of climate treatments on pollinator visitation depended on whether plants were in single- or multi-species assemblages. Components of climate change altered floral traits and pollinator visitation, but effects were modulated by plant community context. Investigating the response of floral traits, including VOCs, and context-dependency of pollinator attraction provides additional insights and may aid in understanding the overall effects of climate change on plant-pollinator interactions.
+
+drought: !decreases! floral visual traits 
+drought: !decreases! pollinator visitation rates 
+drought: !increases! VOC emissions 
+CO2: !positively affects! floral visual traits 
+CO2: !positively affects! VOC emissions 
+CO2: !positively affects! pollinator visitation rates 
+plant community context: !modulates! effects of climate treatments on pollinator visitation

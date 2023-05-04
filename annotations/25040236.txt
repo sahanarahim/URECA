@@ -1,0 +1,8 @@
+Increasing evidence suggests that long non-coding RNAs (lncRNAs) play significant roles in plants. However, little is known about lncRNAs in Panax ginseng C. A. Meyer, an economically significant medicinal plant species. A total of 3,688 mRNA-like non-coding RNAs (mlncRNAs), a class of lncRNAs, were identified in P. ginseng. Approximately 40% of the identified mlncRNAs were processed into small RNAs, implying their regulatory roles via small RNA-mediated mechanisms. Eleven miRNA-generating mlncRNAs also produced siRNAs, suggesting the coordinated production of miRNAs and siRNAs in P. ginseng. The mlncRNA-derived small RNAs might be 21-, 22-, or 24-nt phased and could be generated from both or only one strand of mlncRNAs, or from super long hairpin structures. A full-length mlncRNA, termed MAR (multiple-function-associated mlncRNA), was cloned. It generated the most abundant siRNAs. The MAR siRNAs were predominantly 24-nt and some of them were distributed in a phased pattern. A total of 228 targets were predicted for 71 MAR siRNAs. Degradome sequencing validated 68 predicted targets involved in diverse metabolic pathways, suggesting the significance of MAR in P. ginseng. Consistently, MAR was detected in all tissues analyzed and responded to methyl jasmonate (MeJA) treatment. It sheds light on the function of mlncRNAs in plants.
+
+mlncRNA: !produces! small RNAs 
+mlncRNA: !generates! miRNAs 
+mlncRNA: !generates! siRNAs 
+MAR: !generates! siRNAs 
+MAR: !targets! metabolic pathways 
+MAR: !responds to! MeJA treatment

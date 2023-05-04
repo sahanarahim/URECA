@@ -1,0 +1,9 @@
+Ethylene is one of the most important hormones for plant developmental processes and stress responses. However, the phosphorylation regulation in the ethylene signaling pathway is largely unknown. Here we report the phosphorylation of cap binding protein 20 (CBP20) at Ser245 is regulated by ethylene, and the phosphorylation is involved in root growth. The constitutive phosphorylation mimic form of CBP20 (CBP20S245E or CBP20S245D), while not the constitutive de-phosphorylation form of CBP20 (CBP20S245A) is able to rescue the root ethylene responsive phenotype of cbp20. By genome wide study with ethylene regulated gene expression and microRNA (miRNA) expression in the roots and shoots of both Col-0 and cbp20, we found miR319b is up regulated in roots while not in shoots, and its target MYB33 is specifically down regulated in roots with ethylene treatment. We described both the phenotypic and molecular consequences of transgenic over-expression of miR319b. Increased levels of miR319b (miR319bOE) leads to enhanced ethylene responsive root phenotype and reduction of MYB33 transcription level in roots; over expression of MYB33, which carrying mutated miR319b target site (mMYB33) in miR319bOE is able to recover both the root phenotype and the expression level of MYB33. Taken together, we proposed that ethylene regulated phosphorylation of CBP20 is involved in the root growth and one pathway is through the regulation of miR319b and its target MYB33 in roots.
+
+ethylene: !regulates! phosphorylation of CBP20
+CBP20: !involved in! root growth
+miR319b: !upregulated by! ethylene
+miR319b: !targets! MYB33
+MYB33: !downregulated by! ethylene
+miR319bOE: !enhances! ethylene responsive root phenotype
+mMYB33: !recovers! root phenotype and expression level of MYB33

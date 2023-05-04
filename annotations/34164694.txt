@@ -1,0 +1,9 @@
+The core plant circadian oscillator is composed of multiple interlocked transcriptional-translational feedback loops, which synchronize endogenous diel physiological rhythms to the cyclic changes of environmental cues. PSEUDO-RESPONSE REGULATORS (PRRs) have been identified as negative components in the circadian clock, though their underlying molecular mechanisms remain largely unknown. Here, we found that a subfamily of zinc finger transcription factors, B-box (BBX)-containing proteins, have a critical role in fine-tuning circadian rhythm. We demonstrated that overexpressing Arabidopsis thaliana BBX19 and BBX18 significantly lengthened the circadian period, while the null mutation of BBX19 accelerated the circadian speed. Moreover, BBX19 and BBX18, which are expressed during the day, physically interacted with PRR9, PRR7, and PRR5 in the nucleus in precise temporal ordering from dawn to dusk, consistent with the respective protein accumulation pattern of PRRs. Our transcriptomic and genetic analysis indicated that BBX19 and PRR9, PRR7, and PRR5 cooperatively inhibited the expression of morning-phased clock genes. PRR proteins affected BBX19 recruitment to the CCA1, LHY, and RVE8 promoters. Collectively, our findings show that BBX19 interacts with PRRs to orchestrate circadian rhythms, and suggest the indispensable role of transcriptional regulators in fine-tuning the circadian clock.
+
+BBX19: !interacts with! PRR9
+BBX19: !interacts with! PRR7
+BBX19: !interacts with! PRR5
+BBX19: !inhibits! CCA1
+BBX19: !inhibits! LHY
+BBX19: !inhibits! RVE8
+PRR9: !affects! BBX19 recruitment

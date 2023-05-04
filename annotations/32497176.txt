@@ -1,0 +1,10 @@
+Shoot architecture is a key component of the interactions between plants and their environment. We present a novel model of grass, which fully integrates shoot morphogenesis and the metabolism of carbon (C) and nitrogen (N) at organ scale, within a three-dimensional representation of plant architecture. Plant morphogenesis is seen as a self-regulated system driven by two main mechanisms. First, the rate of organ extension and the establishment of architectural traits are regulated by concentrations of C and N metabolites in the growth zones and the temperature. Second, the timing of extension is regulated by rules coordinating successive phytomers instead of a thermal time schedule. Local concentrations are calculated from a model of C and N metabolism at organ scale. The three-dimensional representation allows the accurate calculation of light and temperature distribution within the architecture. The model was calibrated for wheat (Triticum aestivum) and evaluated for early vegetative stages. This approach allowed the simulation of realistic patterns of leaf dimensions, extension dynamics, and organ mass and composition. The model simulated, as emergent properties, plant and agronomic traits. Metabolic activities of growing leaves were investigated in relation to whole-plant functioning and environmental conditions. The current model is an important step towards a better understanding of the plasticity of plant phenotype in different environments.
+
+C: !regulates! Organ extension 
+N: !regulates! Organ extension 
+Temperature: !regulates! Organ extension 
+C metabolites: !calculated from! Model of C and N metabolism 
+Light: !accurately calculated by! 3D representation 
+Wheat: !calibrated for! Model 
+Model: !simulates! Leaf dimensions, extension dynamics, organ mass and composition 
+Metabolic activities: !investigated in relation to! Whole-plant functioning and environmental conditions

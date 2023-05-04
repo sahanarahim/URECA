@@ -1,0 +1,7 @@
+RNA polymerases IV and V (Pol IV and Pol V) are required for the generation of noncoding RNAs in RNA-directed DNA methylation (RdDM). Their subunit compositions resemble that of Pol II. The mechanism and accessory factors involved in their assembly remain largely unknown. In this study, we identified mutant alleles of <i>MINIYO</i> (<i>IYO</i>), <i>QUATRE-QUART2</i> (<i>QQT2</i>), and <i>NUCLEAR RNA POLYMERASE B11/D11/E11</i> (<i>NRPB/D/E11</i>) that cause defects in RdDM in <i>Arabidopsis thaliana</i> We found that Pol IV-dependent small interfering RNAs and Pol V-dependent transcripts were greatly reduced in the mutants. NRPE1, the largest subunit of Pol V, failed to associate with other Pol V subunits in the <i>iyo</i> and <i>qqt2</i> mutants, suggesting the involvement of IYO and QQT2 in Pol V assembly. In addition, we found that IYO and QQT2 were mutually dependent for their association with the NRPE3 subassembly prior to the assembly of Pol V holoenzyme. Finally, we show that IYO and QQT2 are similarly required for the assembly of Pol II and Pol IV. Our findings reveal IYO and QQT2 as cofactors for the assembly of Pol II, Pol IV, and Pol V and provide mechanistic insights into how RNA polymerases are assembled in plants.
+
+IYO: !assembles! Pol II, Pol IV, and Pol V
+QQT2: !assembles! Pol II, Pol IV, and Pol V
+IYO: !interacts with! QQT2
+NRPE1: !associates with! other Pol V subunits
+IYO: !mutually dependent on! QQT2

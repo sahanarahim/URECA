@@ -1,0 +1,9 @@
+Most eukaryotic organisms, except some animal clades, have mitochondrial alternative electron transport enzymes that allow respiration to bypass the energy coupling in oxidative phosphorylation. The energy bypass enzymes in plants include the external type II NAD(P)H dehydrogenases (DHs) of the NDB family, which are characterized by an EF-hand domain for Ca(2+) binding. Here we investigate these plant enzymes by combining molecular modeling with evolutionary analysis. Molecular modeling of the Arabidopsis thaliana AtNDB1 with the yeast ScNDI1 as template revealed distinct similarities in the core catalytic parts, and highlighted the interaction between the pyridine nucleotide and residues correlating with NAD(P)H substrate specificity. The EF-hand domain of AtNDB1 has no counterpart in ScNDI1, and was instead modeled with Ca(2+) -binding signal transducer proteins. Combined models displayed a proximity of the AtNDB1 EF-hand domain to the substrate entrance side of the catalytic part. Evolutionary analysis of the eukaryotic NDB-type proteins revealed ancient and recent reversions between the motif observed in proteins specific for NADH (acidic type) and NADPH (non-acidic type), and that the clade of enzymes with acidic motifs in angiosperms derives from non-acidic-motif NDB-type proteins present in basal plants, fungi and protists. The results suggest that Ca(2+) -dependent external NADPH oxidation is an ancient process, indicating that it has a fundamental importance for eukaryotic cellular redox metabolism. In contrast, the external NADH DHs in plants are products of a recent expansion, mirroring the expansion of the alternative oxidase family.
+
+AtNDB1: !interacts with! yeast ScNDI1 
+AtNDB1: !binds to! Ca(2+) 
+NAD(P)H: !binds to! AtNDB1 
+NADH: !reverts to! NADPH 
+NADPH: !reverts to! NADH 
+angiosperms: !derives from! basal plants, fungi and protists 
+Ca(2+): !dependent on! external NADPH oxidation

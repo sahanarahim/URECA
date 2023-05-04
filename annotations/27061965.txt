@@ -1,0 +1,9 @@
+MicroRNAs (miRNAs) are important regulatory molecules in eukaryotic organisms. Existing methods for the identification of mature miRNA sequences in plants rely extensively on the search for stem-loop structures, leading to high false negative rates. Here, we describe a probabilistic method for ranking putative plant miRNAs using a naïve Bayes classifier and its publicly available implementation. We use a number of properties to construct the classifier, including sequence length, number of observations, existence of detectable predicted miRNA* sequences, the distribution of nearby reads and mapping multiplicity. We apply the method to small RNA sequence data from soybean, peach, Arabidopsis and rice and provide experimental validation of several predictions in soybean. The approach performs well overall and strongly enriches for known miRNAs over other types of sequences. By utilizing a Bayesian approach to rank putative miRNAs, our method is able to score miRNAs that would be eliminated by other methods, such as those that have low counts or lack detectable miRNA* sequences. As a result, we are able to detect several soybean miRNA candidates, including some that are 24 nucleotides long, a class that is almost universally eliminated by other methods.
+
+MicroRNAs (miRNAs): !regulate! eukaryotic organisms 
+Naïve Bayes classifier: !identifies! putative plant miRNAs 
+Sequence length, number of observations, existence of detectable predicted miRNA* sequences, distribution of nearby reads and mapping multiplicity: !construct! classifier 
+Small RNA sequence data from soybean, peach, Arabidopsis and rice: !apply! method 
+Experimental validation: !validates! predictions in soybean 
+Bayesian approach: !scores! miRNAs eliminated by other methods 
+24 nucleotides long miRNAs: !detects! soybean miRNA candidates

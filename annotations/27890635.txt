@@ -1,0 +1,7 @@
+Upon exposure to light, developing seedlings undergo photomorphogenesis, as illustrated by inhibition of hypocotyl elongation, cotyledon opening, and leaf greening. During hypocotyl photomorphogenesis, light signals are sensed by multiple photoreceptors, among which the red/far-red light-sensing phytochromes have been extensively studied. However, it is not fully understood how the phytochromes modulate hypocotyl growth. Here, we demonstrated that HIGH EXPRESSION OF OSMOTICALLY RESPONSIVE GENES 1 (HOS1), which is known to either act as E3 ubiquitin ligase or affect chromatin organization, inhibits the transcriptional activation activity of PHYTOCHROME INTERACTING FACTOR 4 (PIF4), a key transcription factor that promotes hypocotyl growth. Consistent with the negative regulatory role of HOS1 in hypocotyl growth, HOS1-defective mutants exhibited elongated hypocotyls in the light. Notably, phyB induces HOS1 activity in inhibiting PIF4 function. Taken together, these observations provide a molecular basis for the phyB-mediated suppression of hypocotyl growth in Arabidopsis.
+
+phyB: !induces! HOS1 
+HOS1: !inhibits! PIF4 
+PIF4: !promotes! hypocotyl growth 
+HOS1: !acts as! E3 ubiquitin ligase 
+HOS1: !affects! chromatin organization

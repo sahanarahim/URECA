@@ -1,0 +1,10 @@
+['17287251', 'G2/M phase-specific gene transcription in tobacco cells is mediated by R1R2R3-Myb  transcriptional activators, NtmybA1 and NtmybA2, which bind to mitosis-specific  activator (MSA) elements. We show here that two structurally related genes,  MYB3R1 and MYB3R4, which encode homologs of NtmybA1 and NtmybA2, play a partially  redundant role in positively regulating cytokinesis in Arabidopsis thaliana. The  myb3r1 myb3r4 double mutant often fails to complete cytokinesis, resulting in  multinucleate cells with gapped walls and cell wall stubs in diverse tissues.  These defects correlate with the selective reduction of transcript levels of  several G2/M phase-specific genes, which include B2-type cyclin (CYCB2), CDC20.1  and KNOLLE (KN). These genes contain MSA-like motifs in their promoters and were  activated by MYB3R4 in transient expression assays in tobacco cells. The KN gene  encodes a cytokinesis-specific syntaxin that is essential for cell plate  formation. The cytokinesis defects of myb3r1 myb3r4 double mutants were partially  rescued by KN gene expression from heterologous promoters. In addition, a kn  heterozygous mutation enhanced cytokinesis defects resulting from heterozygous or  homozygous mutations in the MYB3R1 and MYB3R4 genes. Our results suggest that a  pair of structurally related R1R2R3-Myb transcription factors may positively  regulate cytokinesis mainly through transcriptional activation of the KN gene.', '2007 Mar', 'Development', '10.1242/dev.02801', 'Ito']
+
+R1R2R3-Myb: !mediates! G2/M phase-specific gene transcription 
+NtmybA1/NtmybA2: !binds to! mitosis-specific activator elements 
+MYB3R1/MYB3R4: !plays a role in! positively regulating cytokinesis 
+CYCB2/CDC20.1/KN: !contain! MSA-like motifs 
+MYB3R4: !activates! G2/M phase-specific genes 
+KN: !encodes! cytokinesis-specific syntaxin 
+KN: !essential for! cell plate formation 
+MYB3R1/MYB3R4: !regulate! cytokinesis through KN gene expression

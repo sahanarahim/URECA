@@ -1,0 +1,8 @@
+The appropriate timing of flowering is critical for plant reproductive success. Although the FLOWERING LOCUS T (FT)-FD module plays crucial roles in the photoperiodic flowering pathway, the underlying mechanisms and signaling pathways involved still remain elusive. Here, we demonstrate that class II TCP transcription factors (TFs) integrate into the FT-FD complex to control floral initiation in Arabidopsis (<i>Arabidopsis thaliana</i>). Class II CINCINNATA (CIN) TCP TFs function as transcriptional activators by directly binding to the promoters of downstream floral meristem identity genes, such as <i>APETALA1</i> (<i>AP1</i>). In addition, these TCPs directly interact with FD, a basic Leu zipper TF that plays a critical role in photoperiodic flowering, which further activates <i>AP1</i> expression. Genetic analyses indicated that class II CIN TCP TFs function synergistically with FT and FD, to positively regulate flowering in an <i>AP1</i>-dependent manner. Thus, our results provide compelling evidence that class II CIN TCP TFs act directly at the <i>AP1</i> promoter to enhance its transcription, thus further elucidating the molecular mechanisms underlying the regulation of photoperiodic flowering in Arabidopsis.
+
+FT: !interacts with! FD
+FD: !activates! AP1
+CIN: !binds to! AP1 promoter
+CIN: !interacts with! FD
+FT: !synergizes with! FD
+CIN: !enhances! AP1 transcription

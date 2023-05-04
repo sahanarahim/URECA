@@ -1,0 +1,8 @@
+The pathogen-host interactions database (PHI-base) is available at www.phi-base.org. PHI-base contains expertly curated molecular and biological information on genes proven to affect the outcome of pathogen-host interactions reported in peer reviewed research articles. PHI-base also curates literature describing specific gene alterations that did not affect the disease interaction phenotype, in order to provide complete datasets for comparative purposes. Viruses are not included, due to their extensive coverage in other databases. In this article, we describe the increased data content of PHI-base, plus new database features and further integration with complementary databases. The release of PHI-base version 4.8 (September 2019) contains 3454 manually curated references, and provides information on 6780 genes from 268 pathogens, tested on 210 hosts in 13,801 interactions. Prokaryotic and eukaryotic pathogens are represented in almost equal numbers. Host species consist of approximately 60% plants (split 50:50 between cereal and non-cereal plants), and 40% other species of medical and/or environmental importance. The information available on pathogen effectors has risen by more than a third, and the entries for pathogens that infect crop species of global importance has dramatically increased in this release. We also briefly describe the future direction of the PHI-base project, and some existing problems with the PHI-base curation process.
+
+Gene: !affects! Outcome of pathogen-host interactions 
+Gene: !localizes to! Pathogens 
+Gene: !interacts with! Hosts 
+Gene: !enhances! Data content 
+Gene: !represses! Viruses 
+Gene: !synthesizes! Prokaryotic and eukaryotic pathogens

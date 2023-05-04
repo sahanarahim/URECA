@@ -1,0 +1,7 @@
+Detecting plant diseases in the earliest stages, when remedial intervention is most effective, is critical if damage crop quality and farm productivity is to be contained. In this paper, we propose an improved vision-based method of detecting strawberry diseases using a deep neural network (DNN) capable of being incorporated into an automated robot system. In the proposed approach, a backbone feature extractor named PlantNet, pre-trained on the PlantCLEF plant dataset from the LifeCLEF 2017 challenge, is installed in a two-stage cascade disease detection model. PlantNet captures plant domain knowledge so well that it outperforms a pre-trained backbone using an ImageNet-type public dataset by at least 3.2% in mean Average Precision (mAP). The cascade detector also improves accuracy by up to 5.25% mAP. The results indicate that PlantNet is one way to overcome the lack-of-annotated-data problem by applying plant domain knowledge, and that the human-like cascade detection strategy effectively improves the accuracy of automated disease detection methods when applied to strawberry plants.
+
+PlantNet: !captures! Plant domain knowledge 
+PlantNet: !outperforms! Pre-trained backbone 
+Cascade detector: !improves! Accuracy 
+PlantNet: !overcomes! Lack-of-annotated-data problem 
+Cascade detection strategy: !effectively improves! Accuracy of automated disease detection methods

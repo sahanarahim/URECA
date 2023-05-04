@@ -1,0 +1,14 @@
+Plant pathogenic fungi represent the largest group of disease-causing agents on crop plants, and are a constant and major threat to agriculture worldwide. Recent studies have shown that engineered production of RNA interference (RNAi)-inducing dsRNA in host plants can trigger specific fungal gene silencing and confer resistance to fungal pathogens<sup>1-7</sup>. Although these findings illustrate efficient uptake of host RNAi triggers by pathogenic fungi, it is unknown whether or not such an uptake mechanism has been evolved for a natural biological function in fungus-host interactions. Here, we show that in response to infection with Verticillium dahliae (a vascular fungal pathogen responsible for devastating wilt diseases in many crops) cotton plants increase production of microRNA 166 (miR166) and miR159 and export both to the fungal hyphae for specific silencing. We found that two V. dahliae genes encoding a Ca<sup>2+</sup>-dependent cysteine protease (Clp-1) and an isotrichodermin C-15 hydroxylase (HiC-15), and targeted by miR166 and miR159, respectively, are both essential for fungal virulence. Notably, V. dahliae strains expressing either Clp-1 or HiC-15 rendered resistant to the respective miRNA exhibited drastically enhanced virulence in cotton plants. Together, our findings identify a novel defence strategy of host plants by exporting specific miRNAs to induce cross-kingdom gene silencing in pathogenic fungi and confer disease resistance.
+
+miR166: !targets! Clp-1 
+miR159: !targets! HiC-15 
+V. dahliae: !expresses! Clp-1 
+V. dahliae: !expresses! HiC-15 
+cotton plants: !increase production of! miR166 
+cotton plants: !increase production of! miR159 
+cotton plants: !export! miR166 
+cotton plants: !export! miR159 
+Clp-1: !essential for! fungal virulence 
+HiC-15: !essential for! fungal virulence 
+V. dahliae strains: !rendered resistant to! miRNA 
+V. dahliae strains: !exhibit enhanced virulence in! cotton plants

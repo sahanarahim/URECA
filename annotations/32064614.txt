@@ -1,0 +1,7 @@
+Root hairs (RHs) develop from specialized epidermal trichoblast cells, whereas epidermal cells that lack RHs are known as atrichoblasts. The mechanism controlling RH cell fate is only partially understood. RH cell fate is regulated by a transcription factor complex that promotes the expression of the homeodomain protein GLABRA 2 (GL2), which blocks RH development by inhibiting ROOT HAIR DEFECTIVE 6 (RHD6). Suppression of GL2 expression activates RHD6, a series of downstream TFs including ROOT HAIR DEFECTIVE 6 LIKE-4 (RSL4) and their target genes, and causes epidermal cells to develop into RHs. Brassinosteroids (BRs) influence RH cell fate. In the absence of BRs, phosphorylated BIN2 (a Type-II GSK3-like kinase) inhibits a protein complex that regulates GL2 expression. Perturbation of the arabinogalactan peptide (AGP21) in Arabidopsis thaliana triggers aberrant RH development, similar to that observed in plants with defective BR signaling. We reveal that an O-glycosylated AGP21 peptide, which is positively regulated by BZR1, a transcription factor activated by BR signaling, affects RH cell fate by altering GL2 expression in a BIN2-dependent manner. Changes in cell surface AGP disrupts BR responses and inhibits the downstream effect of BIN2 on the RH repressor GL2 in root epidermis.
+
+GL2: !inhibits! RHD6
+BIN2: !inhibits! GL2
+BRs: !regulates! BIN2
+AGP21: !alters! GL2
+BZR1: !activates! AGP21

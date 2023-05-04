@@ -1,0 +1,8 @@
+['10364413', 'We have investigated the stomatal and phototropic responses to blue light of a  number of single and double mutants at various loci that encode proteins involved  in blue-light responses in Arabidopsis. The stomatal responses of light-grown  mutant plants (cry1, cry2, nph1, nph3, nph4, cry1cry2, and nph1cry1) did not  differ significantly from those of their wild-type counterparts. Second positive  phototropic responses of etiolated mutant seedlings, cry1, cry2, cry1cry2, and  npq1-2, were also similar to those of their wild-type counterparts. Although npq1  and single and double cry1cry2 mutants showed somewhat reduced amplitude for  first positive phototropism, threshold, peak, and saturation fluence values for  first positive phototropic responses of etiolated seedlings did not differ from  those of wild-type seedlings. Similar to the cry1cry2 double mutants and to  npq1-2, a phyAphyB mutant showed reduced curvature but no change in the position  or shape of the fluence-response curve. By contrast, the phototropism mutant  nph1-5 failed to show phototropic curvature under any of the irradiation  conditions used in the present study. We conclude that the chromoproteins cry1,  cry2, nph1, and the blue-light photoreceptor for the stomatal response are  genetically separable. Moreover, these photoreceptors appear to activate separate  signal transduction pathways.', '1999 Jun', 'Plant Physiol', '10.1104/pp.120.2.605', 'Briggs']
+
+cry1: !affects! stomatal response
+cry2: !affects! stomatal response
+nph1: !affects! stomatal response
+npq1: !reduces! amplitude of phototropism
+phyAphyB: !reduces! curvature of phototropism
+nph1-5: !fails to show! phototropic curvature

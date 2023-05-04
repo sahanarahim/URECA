@@ -1,0 +1,8 @@
+An Arabidopsis mutant line named hy1-101 was isolated because it shows stunted root growth on medium containing low concentrations of jasmonic acid (JA). Subsequent investigation indicated that even in the absence of JA, hy1-101 plants exhibit shorter roots and express higher levels of a group of JA-inducible defense genes. Here, we show that the hy1-101 mutant has increased production of JA and its jasmonate-related phenotype is suppressed by the coi1-1 mutation that interrupts JA signaling. Gene cloning and genetic complementation analyses revealed that the hy1-101 mutant contains a mutation in the HY1 gene, which encodes a heme oxygenase essential for phytochrome chromophore biosynthesis. These results support a hypothesis that phytochrome chromophore deficiency leads to overproduction of JA and activates COI1-dependent JA responses. Indeed, we show that, like hy1-101, independent alleles of the phytochrome chromophore-deficient mutants, including hy1-100 and hy2 (CS68), also show elevated JA levels and constant expression of JA-inducible defense genes. We further provide evidence showing that, on the other hand, JA inhibits the expression of a group of light-inducible and photosynthesis-related genes. Together, these data imply that the JA-signaled defense pathway and phytochrome chromophore-mediated light signaling might have antagonistic effects on each other.
+
+hy1-101: !produces! JA 
+hy1-101: !expresses! JA-inducible defense genes 
+coi1-1: !suppresses! hy1-101 phenotype 
+HY1 gene: !encodes! heme oxygenase 
+phytochrome chromophore-deficient mutants: !elevate! JA levels 
+JA: !inhibits! light-inducible and photosynthesis-related genes

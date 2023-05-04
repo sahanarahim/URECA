@@ -1,0 +1,12 @@
+High-throughput phenotyping systems are powerful, dramatically changing our ability to document, measure, and detect biological phenomena. Here, we describe a cost-effective combination of a custom-built imaging platform and deep-learning-based computer vision pipeline. A minimal version of the maize (Zea mays) ear scanner was built with low-cost and readily available parts. The scanner rotates a maize ear while a digital camera captures a video of the surface of the ear, which is then digitally flattened into a two-dimensional projection. Segregating GFP and anthocyanin kernel phenotypes are clearly distinguishable in ear projections and can be manually annotated and analyzed using image analysis software. Increased throughput was attained by designing and implementing an automated kernel counting system using transfer learning and a deep learning object detection model. The computer vision model was able to rapidly assess over 390 000 kernels, identifying male-specific transmission defects across a wide range of GFP-marked mutant alleles. This includes a previously undescribed defect putatively associated with mutation of Zm00001d002824, a gene predicted to encode a vacuolar processing enzyme. Thus, by using this system, the quantification of transmission data and other ear and kernel phenotypes can be accelerated and scaled to generate large datasets for robust analyses.
+
+Zm00001d002824: !encodes! Vacuolar processing enzyme
+GFP-marked mutant alleles: !associated with! Defect
+Custom-built imaging platform: !combined with! Deep-learning-based computer vision pipeline
+Maize ear scanner: !built with! Low-cost and readily available parts
+Digital camera: !captures! Video of maize ear surface
+Two-dimensional projection: !digitally flattened from! Video
+GFP and anthocyanin kernel phenotypes: !distinguishable in! Ear projections
+Image analysis software: !manually annotates and analyzes! Phenotypes
+Transfer learning and deep learning object detection model: !implemented for! Automated kernel counting system
+Computer vision model: !able to rapidly assess! Over 390 000 kernels

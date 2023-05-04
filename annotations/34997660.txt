@@ -1,0 +1,11 @@
+Many rice microRNAs have been identified as fine-tuning factors in the regulation of agronomic traits and immunity. Among them, Osa-miR535 targets SQUAMOSA promoter binding protein-like 14 (OsSPL14) to positively regulate tillers but negatively regulate yield and immunity. Here, we uncovered that Osa-miR535 targets another SPL gene, OsSPL4, to suppress rice immunity against Magnaporthe oryzae. Overexpression of Osa-miR535 significantly decreased the accumulation of the fusion protein SPL4<sub>TBS</sub> -YFP that contains the target site of Osa-miR535 in OsSPL4. Consistently, Osa-miR535 mediated the cleavage of OsSPL4 mRNA between the 10th and 11th base pair of the predicted binding site at the 3' untranslated region. Transgenic rice lines overexpressing OsSPL4 (OXSPL4) displayed enhanced blast disease resistance accompanied by enhanced immune responses, including increased expression of defense-relative genes and up-accumulated H<sub>2</sub> O<sub>2</sub> . By contrast, the knockout mutant osspl4 exhibited susceptibility. Moreover, OsSPL4 binds to the promoter of GH3.2, an indole-3-acetic acid-amido synthetase, and promotes its expression. Together, these data indicate that Os-miR535 targets OsSPL4 and OsSPL4-GH3.2, which may parallel the OsSPL14-WRKY45 module in rice blast disease resistance.
+
+Osa-miR535: !targets! OsSPL14 
+OsSPL14: !regulates! tillers 
+Osa-miR535: !targets! OsSPL4 
+OsSPL4: !suppresses! rice immunity 
+Osa-miR535: !mediates! cleavage of OsSPL4 mRNA 
+OXSPL4: !enhances! blast disease resistance 
+osspl4: !exhibits! susceptibility 
+OsSPL4: !binds to! GH3.2 promoter 
+GH3.2: !promotes! expression

@@ -1,0 +1,8 @@
+Boundary formation is crucial for organ development in multicellular eukaryotes. In higher plants, boundaries that separate the organ primordia from their surroundings have relatively low rates of cell proliferation. This cellular feature is regulated by the actions of certain boundary-specifying genes, whose ectopic expression in organs can cause inhibition of organ growth. Here, we show that the Arabidopsis thaliana ASYMMETRIC LEAVES1 and 2 (AS1 and AS2) and JAGGED (JAG) genes function in the sepal and petal primordia to repress boundary-specifying genes for normal development of the organs. Loss-of-function as1 jag and as2 jag double mutants produced extremely tiny sepals and petals. Analysis of a cell-cycle marker HISTONE4 revealed that cell division in sepal primordia of the double mutant was inhibited. Moreover, these abnormal sepals and petals exhibited ectopic overexpression of the boundary-specifying genes PETAL LOSS (PTL) and CUP-SHAPED COTYLEDON1 [corrected] and 2 (CUC1 and CUC2). Loss of PTL or CUC1 and CUC2 functions in the as1 jag background could partially rescue the tiny sepal and petal phenotypes, supporting the model that the tiny sepal/petal phenotypes are caused, at least in part, by ectopic expression of boundary-specifying genes. Together, our data reveal a previously unrecognized fundamental regulation by which AS1, AS2, and JAG act to define sepal and petal from their boundaries.
+
+AS1: !represses! boundary-specifying genes
+AS2: !represses! boundary-specifying genes
+JAG: !represses! boundary-specifying genes
+PTL: !repressed by! AS1, AS2, JAG
+CUC1: !repressed by! AS1, AS2, JAG
+CUC2: !repressed by! AS1, AS2, JAG

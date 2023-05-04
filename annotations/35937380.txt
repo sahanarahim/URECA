@@ -1,0 +1,8 @@
+Lignocellulose is a major component of plant litter and plays a dominant role in regulating the process of litter decomposition, but we lack a global perspective on plant litter initial lignocellulose concentration. Here, we quantitatively assessed the global patterns and drivers of litter initial concentrations of lignin, cellulose, and hemicellulose using a dataset consisting of 6,021 observations collected from 795 independent publications. We found that (1) globally, the median concentrations of leaf litter lignin, cellulose, and hemicellulose were 20.3, 22.4, and 15.0% of litter mass, respectively; and (2) litter initial concentrations of lignin, cellulose, and hemicellulose were regulated by phylogeny, plant functional type, climate, and soil properties, with mycorrhizal association and lifeform the dominant predictors. These results clearly highlighted the importance of mycorrhizal association and lifeform in controlling litter initial lignocellulose concentration at the global scale, which will help us to better understand and predict the role of lignocellulose in global litter decomposition models.
+
+phylogeny: !affects! lignin, cellulose, hemicellulose
+plant functional type: !affects! lignin, cellulose, hemicellulose
+climate: !affects! lignin, cellulose, hemicellulose
+soil properties: !affects! lignin, cellulose, hemicellulose
+mycorrhizal association: !affects! lignin, cellulose, hemicellulose
+lifeform: !affects! lignin, cellulose, hemicellulose

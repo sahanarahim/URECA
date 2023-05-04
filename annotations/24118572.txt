@@ -1,0 +1,14 @@
+In Arabidopsis thaliana, MAIGO 2 (MAG2) is involved in protein transport between the endoplasmic reticulum (ER) and the Golgi apparatus via its association with the ER-localized t-SNARE components SYP81/AtUfe1 and SEC20. To characterize the molecular machinery of MAG2-mediated protein transport, we explored MAG2-interacting proteins using transgenic A. thaliana plants expressing TAP-tagged MAG2. We identified three proteins, which were designated as MAG2-INTERACTING PROTEIN 1-3 [MIP1 (At2g32900), MIP2 (At5g24350) and MIP3 (At2g42700)]. Both MIP1 and MAG2 localized to the ER membrane. All of the mag2, mip1, mip2 and mip3 mutants exhibited a defect in storage protein maturation, and developed abnormal storage protein body (MAG body) structures in the ER of seed cells. These observations suggest that MIPs are closely associated with MAG2 and function in protein transport between the ER and Golgi apparatus. MIP1 and MIP2 contain a Zeste-White 10 (ZW10) domain and a Sec39 domain, respectively, but have low sequence identities (21% and 23%) with respective human orthologs. These results suggest that the plant MAG2-MIP1-MIP2 complex is a counterpart of the triple-subunit tethering complexes in yeast (Tip20p-Dsl1p-Sec39p) and humans (RINT1-ZW10-NAG). Surprisingly, the plant complex also contained a fourth member (MIP3) with a Sec1 domain. There have been no previous reports showing that a Sec1-containing protein is a subunit of ER-localized tethering complexes. Our results suggest that MAG2 and the three MIP proteins form a unique complex on the ER that is responsible for efficient transport of seed storage proteins.
+
+MAG2: !associates with! SYP81/AtUfe1
+MAG2: !associates with! SEC20
+MAG2: !localizes to! ER
+MIP1: !localizes to! ER
+MIP2: !contains! ZW10 domain
+MIP2: !contains! Sec39 domain
+MIP3: !contains! Sec1 domain
+MAG2: !interacts with! MIP1
+MAG2: !interacts with! MIP2
+MAG2: !interacts with! MIP3
+MAG2-MIP1-MIP2: !forms! complex
+MAG2-MIP1-MIP2-MIP3: !forms! complex

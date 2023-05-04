@@ -1,0 +1,11 @@
+['24134885', 'Two members of the eight-member CALMODULIN-BINDING PROTEIN60 (CBP60) gene family,  CBP60g and SYSTEMIC ACQUIRED RESISTANCE DEFICIENT1 (SARD1), encode positive  regulators of plant immunity that promote the production of salicylic acid (SA)  and affect the expression of SA-dependent and SA-independent defense genes. Here,  we investigated the other six family members in Arabidopsis (Arabidopsis  thaliana). Only cbp60a mutations affected growth of the bacterial pathogen  Pseudomonas syringae pv maculicola ES4326. In contrast to cbp60g and sard1  mutations, cbp60a mutations reduced pathogen growth, indicating that CBP60a is a  negative regulator of immunity. Bacterial growth was increased by cbp60g only in  the presence of CBP60a, while the increase in growth due to sard1 was independent  of CBP60a, suggesting that the primary function of CBP60g may be to counter the  repressive effect of CBP60a. In the absence of pathogen, levels of SA as well as  of several SA-dependent and SA-independent pathogen-inducible genes were higher  in cbp60a plants than in the wild type, suggesting that the enhanced resistance  of cbp60a plants may result from the activation of immune responses prior to  pathogen attack. CBP60a bound calmodulin, and the calmodulin-binding domain was  defined at the C-terminal end of the protein. Transgenes encoding mutant versions  of CBP60a lacking the ability to bind calmodulin failed to complement null cbp60a  mutations, indicating that calmodulin-binding ability is required for the  immunity-repressing function of CBP60a. Regulation at the CBP60 node involves  negative regulation by CBP60a as well as positive regulation by CBP60g and SARD1,  providing multiple levels of control over the activation of immune responses.', '2013 Dec', 'Plant Physiol', '10.1104/pp.113.227108', 'Glazebrook']
+
+CBP60g: !promotes! SA production 
+SARD1: !promotes! SA production 
+CBP60a: !reduces! pathogen growth 
+CBP60g: !counteracts! CBP60a repression 
+CBP60a: !binds! calmodulin 
+calmodulin: !binds! CBP60a 
+CBP60a: !represses! immunity 
+CBP60g: !enhances! immunity 
+SARD1: !enhances! immunity

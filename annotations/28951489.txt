@@ -1,0 +1,13 @@
+['28951489', 'In plants, phosphoglycerate kinase (PGK) converts 1,3-bisphosphoglycerate into  3-phosphoglycerate in glycolysis but also participates in the reverse reaction in  gluconeogenesis and the Calvin-Benson cycle. In the databases, we found three  genes that encode putative PGKs. Arabidopsis (Arabidopsis thaliana) PGK1 was  localized exclusively in the chloroplasts of photosynthetic tissues, while PGK2  was expressed in the chloroplast/plastid of photosynthetic and nonphotosynthetic  cells. PGK3 was expressed ubiquitously in the cytosol of all studied cell types.  Measurements of carbohydrate content and photosynthetic activities in PGK mutants  and silenced lines corroborated that PGK1 was the photosynthetic isoform, while  PGK2 and PGK3 were the plastidial and cytosolic glycolytic isoforms,  respectively. The pgk1.1 knockdown mutant displayed reduced growth, lower  photosynthetic capacity, and starch content. The pgk3.2 knockout mutant was  characterized by reduced growth but higher starch levels than the wild type. The  pgk1.1 pgk3.2 double mutant was bigger than pgk3.2 and displayed an intermediate  phenotype between the two single mutants in all measured biochemical and  physiological parameters. Expression studies in PGK mutants showed that PGK1 and  PGK3 were down-regulated in pgk3.2 and pgk1.1, respectively. These results  indicate that the down-regulation of photosynthetic activity could be a plant  strategy when glycolysis is impaired to achieve metabolic adjustment and optimize  growth. The double mutants of PGK3 and the triose-phosphate transporter (pgk3.2  tpt3) displayed a drastic growth phenotype, but they were viable. This implies  that other enzymes or nonspecific chloroplast transporters could provide  3-phosphoglycerate to the cytosol. Our results highlight both the complexity and  the plasticity of the plant primary metabolic network.', '2018 Feb', 'Plant Physiol', '10.1104/pp.17.01227', 'ORCID:']
+
+PGK1: !localizes to! chloroplasts 
+PGK2: !localizes to! chloroplast/plastid 
+PGK3: !localizes to! cytosol 
+PGK1: !enhances! photosynthetic capacity 
+PGK2: !enhances! glycolysis 
+PGK3: !enhances! glycolysis 
+PGK1: !represses! growth 
+PGK3: !represses! growth 
+PGK1: !down-regulated in! pgk3.2 
+PGK3: !down-regulated in! pgk1.1 
+PGK3: !interacts with! triose-phosphate transporter

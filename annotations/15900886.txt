@@ -1,0 +1,13 @@
+The experiment was carried out in a research field near Murcia, Spain, over a 3-week period between September 26 and October 16, 2000. Sixteen trees were used in the experiment, eight of which were placed under a rectangular shading net, while the other eight were maintained in the open air. Trees were irrigated once per day and, after October 5th, water was witheld from eight trees (four shaded and four unprotected for 5 days). The leaf stomatal conductance and the photosynthesis rates were higher in the shaded trees than in the exposed plants, probably because the leaf water potential was lower in the unshaded plants. This higher leaf conductance partially compensated for the effect of low radiation on transpiration, and the reduction of daily sap flow registered in shaded trees was only around 10-20%. The net also affected trunk diameter changes, with the shaded trees showing lower values of maximum daily shrinkage. Soil water deficit and high radiation had a similar effect on plant water parameters, lowering leaf water potential, leaf stomatal conductance, and the photosynthesis rate. The effects of both conditions were accumulative and so the exposed water-stressed plants showed the lowest values of total hydraulic resistance and water use efficiency, while the shaded well-irrigated trees registered the highest values for both parameters. For this reason, we think that net shading could be extended to apricot culture in many areas in which irrigation water is scarce and insolation is high.
+
+Net: !affects! Leaf stomatal conductance 
+Net: !affects! Photosynthesis rate 
+Net: !affects! Trunk diameter changes 
+Soil water deficit: !affects! Leaf water potential 
+Soil water deficit: !affects! Leaf stomatal conductance 
+Soil water deficit: !affects! Photosynthesis rate 
+High radiation: !affects! Leaf water potential 
+High radiation: !affects! Leaf stomatal conductance 
+High radiation: !affects! Photosynthesis rate 
+Water stress: !lowers! Total hydraulic resistance 
+Water stress: !lowers! Water use efficiency

@@ -1,0 +1,8 @@
+We recently identified a defense-related tomato (Solanum lycopersicum) NAC (NAM, ATAF1,2, CUC2) transcription factor, NAC1, that is subjected to ubiquitin-proteasome system-dependent degradation in plant cells. In this study, we identified a tomato ubiquitin ligase (termed SEVEN IN ABSENTIA3; SINA3) that ubiquitinates NAC1, promoting its degradation. We conducted coimmunoprecipitation and bimolecular fluorescence complementation to determine that SINA3 specifically interacts with the NAC1 transcription factor in the nucleus. Moreover, we found that SINA3 ubiquitinates NAC1 in vitro and promotes NAC1 degradation via polyubiquitination in vivo, indicating that SINA3 is a ubiquitin ligase that ubiquitinates NAC1, promoting its degradation. Our real-time PCR analysis indicated that, in contrast to our previous finding that NAC1 mRNA abundance increases upon Pseudomonas infection, the SINA3 mRNA abundance decreases in response to Pseudomonas infection. Moreover, using Agrobacterium-mediated transient expression, we found that overexpression of SINA3 interferes with the hypersensitive response cell death triggered by multiple plant resistance proteins. These results suggest that SINA3 ubiquitinates a defense-related NAC transcription factor for degradation and plays a negative role in defense signaling.
+
+NAC1: !ubiquitinated by! SINA3
+SINA3: !interacts with! NAC1
+SINA3: !ubiquitinates! NAC1
+SINA3: !promotes degradation of! NAC1
+Pseudomonas infection: !decreases abundance of! SINA3
+Overexpression of SINA3: !interferes with! hypersensitive response cell death

@@ -1,0 +1,11 @@
+Geminiviruses are small DNA viruses that use plant replication machinery to amplify their genomes. Microarray analysis of the Arabidopsis (Arabidopsis thaliana) transcriptome in response to cabbage leaf curl virus (CaLCuV) infection uncovered 5,365 genes (false discovery rate <0.005) differentially expressed in infected rosette leaves at 12 d postinoculation. Data mining revealed that CaLCuV triggers a pathogen response via the salicylic acid pathway and induces expression of genes involved in programmed cell death, genotoxic stress, and DNA repair. CaLCuV also altered expression of cell cycle-associated genes, preferentially activating genes expressed during S and G2 and inhibiting genes active in G1 and M. A limited set of core cell cycle genes associated with cell cycle reentry, late G1, S, and early G2 had increased RNA levels, while core cell cycle genes linked to early G1 and late G2 had reduced transcripts. Fluorescence-activated cell sorting of nuclei from infected leaves revealed a depletion of the 4C population and an increase in 8C, 16C, and 32C nuclei. Infectivity studies of transgenic Arabidopsis showed that overexpression of CYCD3;1 or E2FB, both of which promote the mitotic cell cycle, strongly impaired CaLCuV infection. In contrast, overexpression of E2FA or E2FC, which can facilitate the endocycle, had no apparent effect. These results showed that geminiviruses and RNA viruses interface with the host pathogen response via a common mechanism, and that geminiviruses modulate plant cell cycle status by differentially impacting the CYCD/retinoblastoma-related protein/E2F regulatory network and facilitating progression into the endocycle.
+
+CaLCuV: !triggers! Pathogen response
+CaLCuV: !induces expression of! Genes involved in programmed cell death, genotoxic stress, and DNA repair
+CaLCuV: !alters expression of! Cell cycle-associated genes
+CaLCuV: !depletes! 4C population
+CaLCuV: !increases! 8C, 16C, and 32C nuclei
+CYCD3;1: !impairs! CaLCuV infection
+E2FB: !impairs! CaLCuV infection
+E2FA: !has no effect on! CaLCuV infection
+E2FC: !has no effect on! CaLCuV infection

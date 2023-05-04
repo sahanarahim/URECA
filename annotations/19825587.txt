@@ -1,0 +1,10 @@
+The wide-spread use of microarray technologies to study plant transcriptomes has led to important discoveries and to an accumulation of profiling data covering a wide range of different tissues, developmental stages, perturbations, and genotypes. Querying a large number of microarray experiments can provide insights that cannot be gained by analyzing single experiments. However, such a meta-analysis poses significant challenges with respect to data comparability and normalization, systematic sample annotation, and analysis tools. Genevestigator addresses these issues using a large curated expression database and a set of specifically developed analysis tools that are accessible over the internet. This combination has already proven to be useful in the area of plant research based on a large set of Arabidopsis data (Grennan, 2006). Here, we present the release of the Genevestigator rice and barley gene expression databases that contain quality-controlled and well annotated microarray experiments using ontologies. The databases currently comprise experiments from pathology, plant nutrition, abiotic stress, hormone treatment, genotype, and spatial or temporal analysis, but are expected to cover a broad variety of research areas as more experimental data become available. The transcriptome meta-analysis of the model species rice and barley is expected to deliver results that can be used for functional genomics and biotechnological applications in cereals.
+
+Gene: !affects! Process 
+Microarray: !provides insights! Plant Research 
+Genevestigator: !curates! Expression Database 
+Genevestigator: !develops! Analysis Tools 
+Arabidopsis: !contains! Genevestigator Database 
+Rice/Barley: !contains! Genevestigator Database 
+Pathology/Nutrition/Stress/Hormone/Genotype/Spatial/Temporal: !comprises! Experiments 
+Functional Genomics/Biotechnological Applications: !expected to deliver! Results

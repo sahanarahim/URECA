@@ -1,0 +1,8 @@
+Phytophthora spp. encode large sets of effector proteins and distinct populations of small RNAs (sRNAs). Recent evidence has suggested that pathogen-derived sRNAs can modulate the expression of plant defense genes. Here, we studied the sRNA classes and functions associated with Phytophthora infestans Argonaute (Ago) proteins. sRNAs were co-immunoprecipitated with three PiAgo proteins and deep sequenced. Twenty- to twenty-two-nucleotide (nt) sRNAs were identified as the main interaction partners of PiAgo1 and high enrichment of 24-26-nt sRNAs was seen in the PiAgo4-bound sample. The frequencies and sizes of transposable element (TE)-derived sRNAs in the different PiAgo libraries suggested diversified roles of the PiAgo proteins in the control of different TE classes. We further provide evidence for the involvement of PiAgo1 in the P. infestans microRNA (miRNA) pathway. Protein-coding genes are probably regulated by the shared action of PiAgo1 and PiAgo5, as demonstrated by analysis of differential expression. An abundance of sRNAs from genes encoding host cell death-inducing Crinkler (CRN) effectors was bound to PiAgo1, implicating this protein in the regulation of the expanded CRN gene family. The data suggest that PiAgo1 plays an essential role in gene regulation and that at least two RNA silencing pathways regulate TEs in the plant-pathogenic oomycete P. infestans.
+
+PiAgo1: !interacts with! 20-22nt sRNAs 
+PiAgo4: !interacts with! 24-26nt sRNAs 
+PiAgo1: !regulates! TEs 
+PiAgo1: !involved in! miRNA pathway 
+PiAgo1/5: !regulate! Protein-coding genes 
+PiAgo1: !binds to! CRN effectors

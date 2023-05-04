@@ -1,0 +1,12 @@
+The wide application of high-throughput transcriptomics using microarrays has generated a plethora of technical platforms, data repositories, and sophisticated statistical analysis methods, leaving the individual scientist with the problem of choosing the appropriate approach to address a biological question. Several software applications that provide a rich environment for microarray analysis and data storage are available (e.g. GeneSpring, EMMA2), but these are mostly commercial or require an advanced informatics infrastructure. There is a need for a noncommercial, easy-to-use graphical application that aids the lab researcher to find the proper method to analyze microarray data, without this requiring expert understanding of the complex underlying statistics, or programming skills. We have developed Robin, a Java-based graphical wizard application that harnesses the advanced statistical analysis functions of the R/BioConductor project. Robin implements streamlined workflows that guide the user through all steps of two-color, single-color, or Affymetrix microarray analysis. It provides functions for thorough quality assessment of the data and automatically generates warnings to notify the user of potential outliers, low-quality chips, or low statistical power. The results are generated in a standard format that allows ready use with both specialized analysis tools like MapMan and PageMan and generic spreadsheet applications. To further improve user friendliness, Robin includes both integrated help and comprehensive external documentation. To demonstrate the statistical power and ease of use of the workflows in Robin, we present a case study in which we apply Robin to analyze a two-color microarray experiment comparing gene expression in tomato (Solanum lycopersicum) leaves, flowers, and roots.
+
+GeneSpring: !provides! rich environment 
+EMMA2: !requires! advanced informatics infrastructure 
+Robin: !harnesses! R/BioConductor project 
+Robin: !guides! user through microarray analysis 
+Robin: !generates! warnings for potential outliers 
+Robin: !generates! results in standard format 
+MapMan: !allows! ready use with specialized analysis tools 
+PageMan: !allows! ready use with specialized analysis tools 
+Robin: !includes! integrated help and documentation 
+Tomato: !compared! gene expression in leaves, flowers, and roots

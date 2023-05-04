@@ -1,0 +1,20 @@
+Orchids are very important flowering plants that spend long juvenile phases before flowering. Along with aesthetic importance, they are rich sources of medicinal components. However, their long reproductive cycle is the major hurdle to study the medicinal efficacy. <i>Arundina graminifolia</i> is a rare orchid that grows fast, unlike other orchids, and this characteristic makes it an ideal plant to study the medicinal enrichment of orchids. Therefore, this study presents the identification of important medicinal components in various parts of <i>A. graminifolia</i>. Transcriptome analysis was performed for five stages (FD1-FD5) of flower development and four tissue types (mature flower, silique, root, and leaf) to ascertain genetic regulators of flavonoids and bibenzyls. Most of the genes showed the highest expression in roots as compared with other tissues. Weighted gene coexpression network analysis (WGCNA) was performed to identify the coexpression modules and the candidate genes involving biosynthesis pathways of these chemicals. MEyellow module contained the highly coexpressed genes. Moreover, the concentrations of phenylpropanoid, bibenzyls, and flavone were ascertained through high-performance liquid chromatography-tandem mass spectrometry (HPLC-MS/MS). Phenylpropanoid and bibenzyl were comparatively high in the leaf, while flavone showed a high concentration in the stem. The selected candidate genes [bibenzyl biosynthesis (BIBSY212), CYP84A1, CYP73A4, 4CLL7, UGT88B1, UGT73C3, anthocyanin synthase (ANS), phenylalanine ammonia-lyase (PAL), flavanone synthase FLS, and CHS8] were validated through quantitative real-time PCR (qRT-PCR). Most of these genes showed high expression in leaf and root as compared with other tissue. Therefore, the presence of bibenzyls and flavonoids in different parts of <i>A. graminifolia</i> and their molecular regulators can provide a quick source to decipher the medicinal efficacy of orchids.
+
+Gene: !affects! Process
+Tissue: !contains! Phenylpropanoid
+Tissue: !contains! Bibenzyls
+Tissue: !contains! Flavone
+Gene: !localizes to! Root
+Gene: !localizes to! Leaf
+Gene: !synthesizes! Phenylpropanoid
+Gene: !synthesizes! Bibenzyls
+Gene: !synthesizes! Flavone
+Gene: !interacts with! CYP84A1
+Gene: !interacts with! CYP73A4
+Gene: !interacts with! 4CLL7
+Gene: !interacts with! UGT88B1
+Gene: !interacts with! UGT73C3
+Gene: !interacts with! ANS
+Gene: !interacts with! PAL
+Gene: !interacts with! FLS
+Gene: !interacts with! CHS8

@@ -1,0 +1,9 @@
+Waterlogging causes germination failure in pea (Pisum sativum L.). Three genotypes (BARI Motorshuti-3, Natore local-2 [NL-2], and Kaspa) contrasting in ability to germinate in waterlogged soil were exposed to different durations of waterlogging. Whole genome RNAseq was employed to capture differentially expressing genes. The ability to germinate in waterlogged soil was associated with testa colour and testa membrane integrity as confirmed by electrical conductivity measurements. Genotypes Kaspa and NL-2 displayed different mechanisms of tolerance. In Kaspa, an energy conserving strategy was indicated by a strong upregulation of tyrosine protein kinsase and down regulation of linoleate 9S-lipoxygenase 5, a fat metabolism gene. In contrast, a faster energy utilization strategy was suggested in NL-2 by the marked upregulation of a subtilase family protein and peroxisomal adenine nucleotide carrier 2, a fat metabolizing gene. Waterlogging susceptibility in germinating seeds of genotype BARI Motorshuti-3 was linked to upregulation of a kunitz-type trypsin/protease inhibitor that blocks protein metabolism and may lead to excessive lipid metabolism and the membrane leakage associated with waterlogging damage. Pathway analyses based on gene ontologies showed seed storage protein metabolism as upregulated in tolerant genotypes and downregulated in the sensitive genotype. Understanding the tolerance mechanism provides a platform to breed for adaptation to waterlogging stress at germination in pea.
+
+Kaspa: !conserves energy by! upregulating tyrosine protein kinase
+Kaspa: !downregulates! linoleate 9S-lipoxygenase 5
+NL-2: !utilizes energy faster by! upregulating subtilase family protein
+NL-2: !upregulates! peroxisomal adenine nucleotide carrier 2
+BARI Motorshuti-3: !upregulates! kunitz-type trypsin/protease inhibitor
+Tolerant genotypes: !upregulate! seed storage protein metabolism
+Sensitive genotype: !downregulate! seed storage protein metabolism

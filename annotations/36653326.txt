@@ -1,0 +1,7 @@
+Ethylene biosynthesis in apple (Malus domestica) fruit can be suppressed by calcium ions (Ca2+) during storage; however, the underlying mechanisms are unclear. In this study, we identified the apple transcription factor MCM1-AGAMOUS-DEFICIENS-SRF5 (MdMADS5), which functions as a transcriptional activator of the ethylene biosynthesis-related gene 1-AMINOCYCLOPROPANE-1-CARBOXYLIC ACID SYNTHASE1 (MdACS1), a partner of the calcium sensor CALCIUM-DEPENDENT PROTEIN KINASES7 (MdCDPK7). Ca2+ promoted the MdCDPK7-mediated phosphorylation of MdMADS5, which resulted in the degradation of MdMADS5 via the 26S proteasome pathway. MdCDPK7 also phosphorylated 1-AMINOCYCLOPROPANE-1-CARBOXYLIC ACID OXIDASE1 (MdACO1), the key enzyme in ethylene biosynthesis, leading to MdACO1 degradation and inhibition of ethylene biosynthesis. Our results reveal that Ca2+/MdCDPK7-MdMADS5 and Ca2+/MdCDPK7-MdACO1 are involved in Ca2+-suppressed ethylene biosynthesis, which delays apple fruit ripening. These findings provide insights into fruit ripening, which may lead to the development of strategies for extending the shelf life of fruit.
+
+MdMADS5: !activates! MdACS1
+MdCDPK7: !phosphorylates! MdMADS5
+MdCDPK7: !phosphorylates! MdACO1
+Ca2+: !promotes! MdCDPK7-mediated phosphorylation of MdMADS5
+Ca2+: !inhibits! ethylene biosynthesis

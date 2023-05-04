@@ -1,0 +1,8 @@
+['15155891', 'A genetic screen of a population of Arabidopsis thaliana lines exhibiting  enhanced somatic homologous recombination yielded a mutant affected in expression  of a gene encoding a caltractin-like protein (centrin). The hyperrecombinogenic  phenotype could be reproduced using RNA interference (RNAi) technology. Both the  original mutant and the RNAi plants exhibited a moderate UV-C sensitivity as well  as a reduced efficiency of in vitro repair of UV-damaged DNA. Transcription  profiling of the mutant showed that expression of components of the nucleotide  excision repair (NER) pathway and of factors involved in other DNA repair  processes were significantly changed. Our data suggest an indirect involvement of  centrin in recombinational DNA repair via the modulation of the NER pathway.  These findings thus point to a novel interconnection between an early step of NER  and homologous recombination, which may play a critical role in plant DNA repair.', '2004 Jun', 'Plant Cell', '10.1105/tpc.021378', 'Hohn']
+
+centrin: !affects! expression 
+RNAi: !reproduces! hyperrecombinogenic phenotype 
+UV-C: !sensitizes! mutant and RNAi plants 
+NER pathway: !modulated by! centrin 
+NER pathway: !interconnects with! homologous recombination 
+DNA repair: !enhanced by! interconnection

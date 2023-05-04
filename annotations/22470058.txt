@@ -1,0 +1,8 @@
+['22470058', 'The structure-function relationship of proteinaceous filaments in sieve elements  has long been a source of investigation in order to understand their role in the  biology of the phloem. Two phloem filament proteins AtSEOR1 (At3g01680.1) and  AtSEOR2 (At3g01670.1) in Arabidopsis have been identified that are required for  filament formation. Immunolocalization experiments using a phloem  filament-specific monoclonal antibody in the respective T-DNA insertion mutants  provided an initial indication that both proteins are necessary to form phloem  filaments. To investigate the relationship between these two proteins further,  green fluorescent protein (GFP)-AtSEO fusion proteins were expressed in Columbia  wild-type and T-DNA insertion mutants. Analysis of these mutants by confocal  microscopy confirmed that phloem filaments could only be detected in the presence  of both proteins, indicating that despite significant sequence homology the  proteins are not functionally redundant. Individual phloem filament protein  subunits of AtSEOR1 and AtSEOR2 were capable of forming homodimers, but not  heterodimers in a yeast two-hybrid system. The absence of phloem filaments in  phloem sieve elements did not result in gross alterations of plant phenotype or  affect basal resistance to green peach aphid (Myzus persicae).', '2012 Jun', 'Plant Cell Physiol', '10.1093/pcp/pcs046', 'Thompson']
+
+AtSEOR1: !forms homodimers with! AtSEOR1 
+AtSEOR2: !forms homodimers with! AtSEOR2 
+AtSEOR1: !required for! filament formation 
+AtSEOR2: !required for! filament formation 
+AtSEOR1: !interacts with! AtSEOR2 
+AtSEOR2: !interacts with! AtSEOR1

@@ -1,0 +1,9 @@
+In an Arabidopsis thaliana forward genetic screen aimed at identifying mutants with altered structures of their hemicellulose xyloglucan (axy mutants) using oligosaccharide mass profiling, two nonallelic mutants (axy4-1 and axy4-2) that have a 20 to 35% reduction in xyloglucan O-acetylation were identified. Mapping of the mutation in axy4-1 identified AXY4, a type II transmembrane protein with a Trichome Birefringence-Like domain and a domain of unknown function (DUF231). Loss of AXY4 transcript results in a complete lack of O-acetyl substituents on xyloglucan in several tissues, except seeds. Seed xyloglucan is instead O-acetylated by the paralog AXY4like, as demonstrated by the analysis of the corresponding T-DNA insertional lines. Wall fractionation analysis of axy4 knockout mutants indicated that only a fraction containing xyloglucan is non-O-acetylated. Hence, AXY4/AXY4L is required for the O-acetylation of xyloglucan, and we propose that these proteins represent xyloglucan-specific O-acetyltransferases, although their donor and acceptor substrates have yet to be identified. An Arabidopsis ecotype, Ty-0, has reduced xyloglucan O-acetylation due to mutations in AXY4, demonstrating that O-acetylation of xyloglucan does not impact the plant's fitness in its natural environment. The relationship of AXY4 with another previously identified group of Arabidopsis proteins involved in general wall O-acetylation, reduced wall acetylation, is discussed.
+
+AXY4: !acetylates! xyloglucan
+AXY4L: !acetylates! xyloglucan
+AXY4: !localizes to! several tissues
+AXY4L: !localizes to! seeds
+AXY4: !interacts with! AXY4L
+AXY4: !represses! wall acetylation
+AXY4L: !enhances! wall acetylation

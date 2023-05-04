@@ -1,0 +1,6 @@
+Signal transduction through MAPK cascades is essential for eukaryotic cell response to various extracellular stimuli, such as the induction of innate immune responses. Arabidopsis thaliana relies in particular on three of its 20 MAPKs, MPK3,-4,-6, for a proper immune response. Recently we showed that one MPK4-substrate, MKS1, is required for basal resistance against the virulent Pseudomonas syringae and the oomycete Hyaloperonospora arabidopsidis. Overexpression of MKS1 (35S-MKS1) led to increased resistance to the same pathogens but also to an increased susceptibility towards the fungi Botrytis cinerea. MKS1 interacts with the transcription factor WRKY33, which in turn controls the regulation of PAD3 and CYP71A13, two genes, required for proper resistance to B. cinerea. Therefore, we tested if the increased susceptibility towards B. cinerea from 35S-MKS1 was due to deregulation of WRKY33 targets. PAD3 and CYP71A13 expression is similar in 35S-MKS1 and WT after B. cinerea treatment suggesting another mechanism controls 35S-MKS1 susceptibility.
+
+MPK4: !substrates! MKS1
+MKS1: !interacts with! WRKY33
+WRKY33: !controls! PAD3
+WRKY33: !controls! CYP71A13

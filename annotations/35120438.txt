@@ -1,0 +1,16 @@
+For translational genomics, a roadmap is needed to know the molecular similarities or differences between species, such as model species and crop species. This knowledge is invaluable for the selection of target genes and pathways to alter downstream in response to the same stimuli. Here, the transcriptomic responses to six treatments including hormones (abscisic acid - ABA and salicylic acid - SA); treatments that cause oxidative stress (3-amino-1,2,4-triazole - 3AT, methyl viologen - MV); inhibit respiration (antimycin A - AA) or induce genetic damage (ultraviolet radiation -UV) were analysed and compared between Arabidopsis (Arabidopsis thaliana), barley (Hordeum vulgare) and rice (Oryza sativa). Common and opposite responses were identified between species, with the number of differentially expressed genes (DEGs) varying greatly between treatments and species. At least 70% of DEGs overlapped with at least one other treatment within a species, indicating overlapping response networks. Remarkably, 15 to 34% of orthologous DEGs showed opposite responses between species, indicating diversity in responses, despite orthology. Orthologous DEGs with common responses to multiple treatments across the three species were correlated with experimental data showing the functional importance of these genes in biotic/abiotic stress responses. The mitochondrial dysfunction response was revealed to be highly conserved in all three species in terms of responsive genes and regulation via the mitochondrial dysfunction element. The orthologous DEGs that showed a common response between species indicate conserved transcriptomic responses of these pathways between species. However, many genes, including prominent salt-stress responsive genes, were oppositely responsive in multiple-stresses, highlighting fundamental differences in the responses and regulation of these genes between species. This work provides a resource for translation of knowledge or functions between species.
+
+ABA: !induces! transcriptomic responses 
+SA: !induces! transcriptomic responses 
+3AT: !induces! transcriptomic responses 
+MV: !induces! transcriptomic responses 
+AA: !inhibits! respiration 
+UV: !induces! genetic damage 
+Arabidopsis: !responds to! treatments 
+Barley: !responds to! treatments 
+Rice: !responds to! treatments 
+DEGs: !vary between! treatments and species 
+Orthologous DEGs: !show opposite responses between! species 
+Orthologous DEGs: !show common responses between! species 
+Mitochondrial dysfunction element: !regulates! response 
+Prominent salt-stress responsive genes: !oppositely respond in! multiple-stresses

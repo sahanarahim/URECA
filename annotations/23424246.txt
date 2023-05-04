@@ -1,0 +1,12 @@
+MicroRNAs (miRNAs) play key regulatory roles in numerous developmental and physiological processes in animals and plants. The elaborate mechanism of miRNA biogenesis involves transcription and multiple processing steps. Here, we report the identification of a pair of evolutionarily conserved NOT2_3_5 domain-containing-proteins, NOT2a and NOT2b (previously known as At-Negative on TATA less2 [NOT2] and VIRE2-INTERACTING PROTEIN2, respectively), as components involved in Arabidopsis thaliana miRNA biogenesis. NOT2 was identified by its interaction with the Piwi/Ago/Zwille domain of DICER-LIKE1 (DCL1), an interaction that is conserved between rice (Oryza sativa) and Arabidopsis thaliana. Inactivation of both NOT2 genes in Arabidopsis caused severe defects in male gametophytes, and weak lines show pleiotropic defects reminiscent of miRNA pathway mutants. Impairment of NOT2s decreases the accumulation of primary miRNAs and mature miRNAs and affects DCL1 but not HYPONASTIC LEAVES1 (HYL1) localization in vivo. In addition, NOT2b protein interacts with polymerase II and other miRNA processing factors, including two cap binding proteins, CBP80/ABH1, CBP20, and SERRATE (SE). Finally, we found that the mRNA levels of some protein coding genes were also affected. Therefore, these results suggest that NOT2 proteins act as general factors to promote the transcription of protein coding as well as miRNA genes and facilitate efficient DCL1 recruitment in miRNA biogenesis.
+
+NOT2a: !interacts with! DCL1 
+NOT2b: !interacts with! DCL1 
+NOT2s: !affects! male gametophytes 
+NOT2s: !decreases! primary miRNAs 
+NOT2s: !decreases! mature miRNAs 
+NOT2b: !interacts with! polymerase II 
+NOT2b: !interacts with! CBP80/ABH1 
+NOT2b: !interacts with! CBP20 
+NOT2b: !interacts with! SERRATE 
+NOT2s: !affects! mRNA levels

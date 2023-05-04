@@ -1,0 +1,10 @@
+Large-scale RNA profiling revealed that high irradiance differentially regulated 577 out of 1,439 non-redundant genes of the Antarctic marine diatom Chaetoceros neogracile, represented on a custom cDNA chip, during 6 h of treatment. Among genes that were up- or down-regulated more than twofold within 30 min of treatment (310/1,439), about half displayed an acclimatory response during 6 h under high light. Expression of the remaining non-acclimatory genes also rapidly returned to initial levels within 30 min following a shift to low irradiance. High light altered expression of most of the photosynthesis genes (48/70), in contrast to genes in other functional categories. In addition, opposite response patterns were provoked in genes encoding fucoxanthin chlorophyll a/c binding protein (FCP), the main component of the diatom light-harvesting complex; high irradiance caused a decrease in expression of most FCP genes, but drove the rapid and specific up-regulation of ten others. C. neogracile responded very promptly to a change in light intensity by rapidly adjusting the transcript levels of FCP genes up-regulated by high light, and these dynamic adjustments coincided well with diatoxanthin (Dtx) levels formed by the xanthophyll cycle under the same conditions. The observation that the non-photochemical quenching (NPQ) capacity of this polar diatom was highly dependent on Dtx, which could bind to FCP and trigger NPQ, suggests that the up-regulated FCP gene products may participate in a photoprotective process as Dtx-binding proteins.
+
+Gene: !affects! Expression 
+High Light: !regulates! 577 genes 
+High Light: !alters expression of! Photosynthesis genes 
+FCP gene: !down-regulated by! High light 
+FCP gene: !up-regulated by! High light 
+Dtx: !binds to! FCP 
+NPQ: !dependent on! Dtx 
+FCP gene product: !participates in! Photoprotective process

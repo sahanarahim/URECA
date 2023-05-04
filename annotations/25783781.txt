@@ -1,0 +1,10 @@
+Plants adapt phenotypically to different conditions of light and nutrient supply, supposedly in order to achieve colimitation of these resources. Their key variable of adjustment is the ratio of leaf area to root length, which relies on plant biomass allocation and organ morphology. We recorded phenotypic differences in leaf and root mass fractions (LMF, RMF), specific leaf area (SLA) and specific root length (SRL) of 12 herbaceous species grown in factorial combinations of high/low irradiance and fertilization treatments. Leaf area and root length ratios, and their components, were influenced by nonadditive effects between light and nutrient supply, and differences in the strength of plant responses were partly explained by Ellenberg's species values representing ecological optima. Changes in allocation were critical in plant responses to nutrient availability, as the RMF contribution to changes in root length was 2.5× that of the SRL. Contrastingly, morphological adjustments (SLA rather than LMF) made up the bulk of plant response to light availability. Our results suggest largely predictable differences in responses of species and groups of species to environmental change. Nevertheless, they stress the critical need to account for adjustments in below-ground mass allocation to understand the assembly and responses of communities in changing environments.
+
+light: !affects! LMF
+nutrient supply: !affects! RMF
+light: !influences! SLA
+nutrient supply: !influences! SRL
+LMF: !contributes to! root length
+RMF: !contributes to! root length
+SLA: !contributes to! leaf area
+SRL: !contributes to! root length

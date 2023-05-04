@@ -1,0 +1,9 @@
+['19675148', 'Basic helix-loop-helix (bHLH) proteins constitute a large family of  transcriptional regulators in plants. Although they have been shown to play  important roles in a wide variety of developmental processes, relatively few have  been functionally characterized. Here, we describe the map-based cloning of the  Lotus japonicus ROOTHAIRLESS1 (LjRHL1) locus. Deleterious mutations in this locus  prevent root hair development, which also aborts root hair-dependent colonization  of the host root by nitrogen-fixing bacteria. We show that the LjRHL1 gene  encodes a presumed bHLH transcription factor that functions in a nonredundant  manner to control root hair development in L. japonicus. Homology search and  cross-species complementation experiments defined three members of the  Arabidopsis (Arabidopsis thaliana) bHLH protein family, At2g24260, At4g30980, and  At5g58010, as functionally equivalent to LjRHL1. Curiously, At2g24260 and  At4g30980 mRNA species accumulate independently from the known positive  regulators of root hair cell fate, while all three genes act in a partially  redundant manner to regulate root hair development in Arabidopsis.', '2009 Nov', 'Plant Physiol', '10.1104/pp.109.143867', 'Szczyglowski']
+
+LjRHL1: !controls! root hair development 
+At2g24260: !equivalent to! LjRHL1 
+At4g30980: !equivalent to! LjRHL1 
+At5g58010: !equivalent to! LjRHL1 
+At2g24260: !accumulates independently from! positive regulators of root hair cell fate 
+At4g30980: !accumulates independently from! positive regulators of root hair cell fate 
+At2g24260: !acts in a partially redundant manner with! At4g30980 and At5g58010

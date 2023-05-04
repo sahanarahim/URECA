@@ -1,0 +1,10 @@
+The T7 bacteriophage RNA polymerase (RNAP) performs all steps of transcription, including promoter recognition, initiation, and elongation as a single-polypeptide enzyme. Arabidopsis thaliana possesses three nuclear-encoded T7 phage-type RNAPs that localize to mitochondria (RpoTm), plastids (RpoTp), or presumably both organelles (RpoTmp). Their specific functions are as yet unresolved. We have established an in vitro transcription system to examine the abilities of the three Arabidopsis phage-type RNAPs to synthesize RNA and to recognize organellar promoters. All three RpoT genes were shown to encode transcriptionally active RNAPs. RpoTmp displayed no significant promoter specificity, whereas RpoTm and RpoTp were able to accurately initiate transcription from overlapping subsets of mitochondrial and plastidial promoters without the aid of protein cofactors. Our study strongly suggests RpoTm to be the enzyme that transcribes most, if not all, mitochondrial genes in Arabidopsis. Intrinsic promoter specificity, a feature that RpoTm and RpoTp share with the T7 RNAP, appears to have been conserved over the long period of evolution of nuclear-encoded mitochondrial and plastidial RNAPs. Selective promoter recognition by the Arabidopsis phage-type RNAPs in vitro implies that auxiliary factors are required for efficient initiation of transcription in vivo.
+
+RpoTm: !localizes to! mitochondria 
+RpoTp: !localizes to! plastids 
+RpoTmp: !localizes to! both organelles 
+RpoTm: !recognizes! mitochondrial promoters 
+RpoTp: !recognizes! plastidial promoters 
+RpoTm: !enhances! transcription of most mitochondrial genes 
+RpoTp: !enhances! transcription of some plastidial genes 
+RpoTm/RpoTp: !require! auxiliary factors for efficient initiation in vivo

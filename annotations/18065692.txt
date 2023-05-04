@@ -1,0 +1,10 @@
+Many flowering plants possess systems of self-incompatibility (SI) to prevent inbreeding. In Brassica, SI recognition is controlled by the multiallelic gene complex (S-haplotypes) at the S-locus, which encodes both the male determinant S-locus protein 11 (SP11/SCR) and the female determinant S-receptor kinase (SRK). Upon self-pollination, the S-haplotype-specific interaction between the pollen-borne SP11 and the cognate stigmatic SRK receptor induces SI signaling in the stigmatic papilla cell and results in rejection of the self-pollen. Our genetic analysis of a self-compatible mutant revealed the involvement of a cytoplasmic protein kinase, M-locus protein kinase (MLPK), in the SI signaling, but its exact physiological function remains unknown. In this study, we identified two different MLPK transcripts, MLPKf1 and MLPKf2, which are produced using alternative transcriptional initiation sites and encode two isoforms that differ only at the N termini. While MLPKf1 and MLPKf2 exhibited distinct expression profiles, both were expressed in papilla cells. MLPKf1 localizes to the plasma membrane through its N-terminal myristoylation motif, while MLPKf2 localizes to the plasma membrane through its N-terminal hydrophobic region. Although both MLPKf1 and MLPKf2 could independently complement the mlpk/mlpk mutation, their mutant forms that lack the plasma membrane localization motifs failed to complement the mutation. Furthermore, a bimolecular fluorescence complementation assay revealed direct interactions between SRK and the MLPK isoforms in planta. These results suggest that MLPK isoforms localize to the papilla cell membrane and interact directly with SRK to transduce SI signaling.
+
+S-haplotypes: !encodes! SP11/SCR 
+S-haplotypes: !encodes! SRK
+MLPK: !synthesizes! MLPKf1 
+MLPK: !synthesizes! MLPKf2
+MLPKf1: !localizes to! plasma membrane
+MLPKf2: !localizes to! plasma membrane
+SRK: !interacts with! MLPKf1
+SRK: !interacts with! MLPKf2

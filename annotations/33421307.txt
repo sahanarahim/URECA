@@ -1,0 +1,9 @@
+Fleshy fruit ripening is typically regulated by ethylene in climacteric fruits and abscisic acid (ABA) in non-climacteric fruits. Common fig (Ficus carica) shows a dual-ripening mechanism, which is not fully understood. Here, we detected separate peaks of ethylene and ABA in fig fruits at the onset- and on-ripening stages, in conjunction with a sharp rise in glucose and fructose contents. In a newly-designed split-fruit system, exogenous ethylene failed to rescue fluridone-inhibited fruit ripening, whereas exogenous ABA rescued 2-amino-ethoxy-vinyl glycine (AVG)-inhibited fruit ripening. Transcriptome analysis revealed changes in the expression of genes key to both ABA and ethylene biosynthesis and perception during fig fruit ripening. At the de-greening stage, downregulation of FcACO2 or FcPYL8 retarded ripening, but downregulation of FcETR1/2 did not; unexpectedly, downregulation of FcAAO3 promoted ripening, but it inhibited ripening only before the de-greening stage. Furthermore, we detected an increase in ethylene emissions in the FcAAO3-RNAi ripening fruit and a decrease in ABA levels in the FcACO2-RNAi unripening fruit. Importantly, FcPYL8 can bind to ABA, suggesting that it functions as an ABA receptor. Our findings support the hypothesis that ethylene regulates the fig fruit ripening in an ABA-dependent manner. We propose a model for the role of the ABA-ethylene interaction in climacteric/non-climacteric processes.
+
+ethylene: !regulates! fig fruit ripening
+ABA: !regulates! fig fruit ripening
+FcACO2: !represses! ripening
+FcPYL8: !binds to! ABA
+FcETR1/2: !does not affect! ripening
+FcAAO3: !promotes! ripening
+ABA: !interacts with! ethylene

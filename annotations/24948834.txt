@@ -1,0 +1,11 @@
+In angiosperms, the conversion of an egg cell into a zygote involves two sequential gametic processes: plasmogamy, the fusion of the plasma membranes of male and female gametes, and karyogamy, the fusion of the gametic nuclei. In this study, the nuclei and nuclear membranes of rice (Oryza sativa) gametes were fluorescently labeled using histones 2B-green fluorescent protein/red fluorescent protein and Sad1/UNC-84-domain protein2-green fluorescent protein, respectively, which were heterologously expressed. These gametes were fused in vitro to produce zygotes, and the nuclei and nuclear membranes in the zygotes were observed during karyogamy. The results indicated that the sperm nucleus migrates adjacent to the egg nucleus 5 to 10 min after plasmogamy via an actin cytoskelton, and the egg chromatin then appears to move unidirectionally into the sperm nucleus through a possible nuclear connection. The enlargement of the sperm nucleus accompanies this possible chromatin remodeling. Then, 30 to 70 min after fusion, the sperm chromatin begins to decondense with the completion of karyogamy. Based on these observations, the development of early rice zygotes from plasmogamy to karyogamy was divided into eight stages, and using reverse transcription PCR analyses, paternal and de novo synthesized transcripts were separately detected in zygotes at early and late karyogamy stages, respectively.
+
+gametes: !fuse! zygotes
+histones 2B-green fluorescent protein/red fluorescent protein: !label! rice gametes
+Sad1/UNC-84-domain protein2-green fluorescent protein: !label! rice gametes
+sperm nucleus: !migrates adjacent to! egg nucleus
+egg chromatin: !moves unidirectionally into! sperm nucleus
+enlargement of sperm nucleus: !accompanies! possible chromatin remodeling
+sperm chromatin: !decondenses! with completion of karyogamy
+paternal transcripts: !detected in! zygotes at early karyogamy stages
+de novo synthesized transcripts: !detected in! zygotes at late karyogamy stages

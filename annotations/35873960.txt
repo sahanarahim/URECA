@@ -1,0 +1,8 @@
+Halophytic <i>Hordeum brevisubulatum</i> is a perennial grass which has evolved many distinctive salt-adaptive mechanisms. Our previous studies indicated it could thrive under salt stress through maintaining better K<sup>+</sup> and Na<sup>+</sup> homeostasis. Stress-responsive HbCIPK2 can phosphorylate K<sup>+</sup> channel HbVGKC1 and Na<sup>+</sup> transporter HbSOS1L to prevent Na<sup>+</sup> accumulation and K<sup>+</sup> reduction, hence pathway was not detected in glycophytic plants. In this study, we cloned the inducible promoter of <i>HbCIPK2</i> by genome-walking, and identified a novel transcriptional regulator HbERF6 through yeast one-hybrid screening. HbERF6 functioned as a transcription factor which can bind to the GCC-box of the <i>HbCIPK2</i> promoter to activate its expression. <i>HbERF6</i> transgenic lines in <i>Arabidopsis</i> improved salt tolerance compared with wild type, and especially induced <i>AtCIPK24</i> (<i>SOS2</i>) expression, resulting in K<sup>+</sup>/Na<sup>+</sup> homeostasis to enhance salt tolerance. All the results confirmed the inducible function of HbERF6 for CIPK genes during salt tolerance. This regulatory network that integrates transcriptional regulation and post-translation modification will unravel a novel salt stress-responsive mechanism, highlighting the value and utilization of the halophytic resource.
+
+HbCIPK2: !phosphorylates! HbVGKC1
+HbCIPK2: !phosphorylates! HbSOS1L
+HbERF6: !binds to! GCC-box of HbCIPK2 promoter
+HbERF6: !activates! HbCIPK2 expression
+HbERF6: !induces! AtCIPK24 expression
+HbERF6: !enhances! salt tolerance

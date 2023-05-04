@@ -1,0 +1,8 @@
+['12486004', 'To analyze relationships between RNA signals, DNA methylation and chromatin  modifications, we performed a genetic screen to recover Arabidopsis mutants  defective in RNA-directed transcriptional silencing and methylation of a nopaline  synthase promoter-neomycinphosphotransferase II (NOSpro- NPTII) target gene.  Mutants were identified by screening for recovery of kanamycin resistance in the  presence of an unlinked silencing complex encoding NOSpro double-stranded RNA.  One mutant, rts1 (RNA-mediated transcriptional silencing), displayed moderate  recovery of NPTII gene expression and partial loss of methylation in the target  NOSpro, predominantly at symmetrical C(N)Gs. The RTS1 gene was isolated by  positional cloning and found to encode a putative histone deacetylase, HDA6. The  more substantial decrease in methylation of symmetrical compared with  asymmetrical cytosines in rts1 mutants suggests that HDA6 is dispensable for  RNA-directed de novo methylation, which results in intermediate methylation of  cytosines in all sequence contexts, but is necessary for reinforcing primarily  C(N)G methylation induced by RNA. Because CG methylation in centromeric and rDNA  repeats was not reduced in rts1 mutants, HDA6 might be specialized for the RNA-  directed pathway of genome modification.', '2002 Dec 16', 'EMBO J', '10.1093/emboj/cdf663', 'Matzke']
+
+RNA: !directs! methylation 
+mutants: !identified by! screening 
+RTS1 gene: !encodes! HDA6 
+HDA6: !dispensable for! de novo methylation 
+HDA6: !necessary for! reinforcing C(N)G methylation 
+HDA6: !specialized for! RNA-directed pathway

@@ -1,0 +1,10 @@
+['22407295', 'Eukaryotic mRNA decapping proteins are essential for normal turnover of mRNA.  Yet, the mechanism of bulk mRNA turnover during stress responses and its  importance to stress tolerance are poorly understood. Here, we showed that  dehydration stress activated MPK6 to phosphorylate serine 237 of Arabidopsis DCP1  and phospho-DCP1 preferentially associated with DCP5 to promote mRNA decapping in  vivo. This process was essential for stress adaption as dcp5-1 and DCP1-S237A  plants were hypersensitive to stress compared with wild-type (WT) plants.  Microarray analysis revealed that dehydration-induced expression of many stress  responsive genes was compromised in dcp5-1, whereas a subset of transcripts was  over-represented in this mutant. Further analysis revealed that this subset of  transcripts was likely the direct targets of stress-triggered mRNA decapping in  WT. Our results suggest that mRNA decapping through MPK6-DCP1-DCP5 pathway serves  as a rapid response to dehydration stress in Arabidopsis.', '2012 Apr 18', 'EMBO J', '10.1038/emboj.2012.56', 'Chua']
+
+MPK6: !phosphorylates! DCP1 
+DCP1: !associates with! DCP5 
+DCP5: !promotes! mRNA decapping 
+mRNA decapping: !essential for! stress adaptation 
+dehydration stress: !activates! MPK6 
+dcp5-1: !hypersensitive to! stress 
+microarray analysis: !reveals! dehydration-induced expression of many stress responsive genes 
+WT: !direct targets of! stress-triggered mRNA decapping

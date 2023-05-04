@@ -1,0 +1,8 @@
+Sweet orange (Citrus sinensis) is one of the most important fruits world-wide. Because it is a woody plant with a long growth cycle, genetic studies of sweet orange are lagging behind those of other species. In this analysis, we employed ortholog identification and domain combination methods to predict the protein-protein interaction (PPI) network for sweet orange. The K-nearest neighbors (KNN) classification method was used to verify and filter the network. The final predicted PPI network, CitrusNet, contained 8,195 proteins with 124,491 interactions. The quality of CitrusNet was evaluated using gene ontology (GO) and Mapman annotations, which confirmed the reliability of the network. In addition, we calculated the expression difference of interacting genes (EDI) in CitrusNet using RNA-seq data from four sweet orange tissues, and also analyzed the EDI distribution and variation in different sub-networks. Gene expression in CitrusNet has significant modular features. Target of rapamycin (TOR) protein served as the central node of the hormone-signaling sub-network. All evidence supported the idea that TOR can integrate various hormone signals and affect plant growth. CitrusNet provides valuable resources for the study of biological functions in sweet orange.
+
+Sweet orange: !contains! 8,195 proteins
+KNN classification: !used to verify! CitrusNet
+CitrusNet: !evaluated using! GO and Mapman annotations
+RNA-seq data: !used to calculate! expression difference of interacting genes
+TOR protein: !serves as! central node of hormone-signaling sub-network
+TOR: !integrates! various hormone signals

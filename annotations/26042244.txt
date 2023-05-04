@@ -1,0 +1,10 @@
+The photoreceptors phytochromes monitor the red/far-red part of the spectrum, exist in the biologically active Pfr (far-red absorbing) or inactive Pr (red absorbing) forms, and function as red/far-red light-regulated molecular switches to modulate plant development and growth. Phytochromes are synthesized in the cytoplasm, and light induces translocation of the Pfr conformer into the nucleus. Nuclear import of phytochromes is a highly regulated process and is fine-tuned by the quality and quantity of light. It appears that phytochrome A (phyA) and phytochrome B (phyB) do not possess active endogenous nuclear import signals (NLSs), thus light-induced translocation of these photoreceptors into the nucleus requires direct protein–protein interactions with their NLS-containing signaling partners. Sub-cellular partitioning of the various phytochrome species is mediated by different molecular machineries. Translocation of phyA into the nucleus is promoted by FAR-RED ELONGATED HYPOCOTYL 1 (FHY1) and FHY1-LIKE (FHL), but the identity of nuclear transport facilitators mediating the import of phyB-E into the nucleus remains elusive. Phytochromes localized in the nucleus are associated with specific protein complexes, termed photobodies. The size and distribution of these structures are regulated by the intensity and duration of irradiation, and circumstantial evidence indicates that they are involved in fine-tuning phytochrome signaling.
+
+phyA: !translocates to! nucleus
+phyA: !mediated by! FHY1/FHL
+phyB-E: !translocates to! nucleus
+phyB-E: !mediated by! unknown
+phytochromes: !localized in! nucleus
+phytochromes: !associated with! photobodies
+light: !induces! translocation
+light: !regulates! size/distribution of photobodies

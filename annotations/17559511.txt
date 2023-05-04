@@ -1,0 +1,11 @@
+The model pathogen Pseudomonas syringae pv. tomato DC3000 causes bacterial speck in tomato and Arabidopsis, but Nicotiana benthamiana, an important model plant, is considered to be a non-host. Strain DC3000 injects approximately 28 effector proteins into plant cells via the type III secretion system (T3SS). These proteins were individually delivered into N. benthamiana leaf cells via T3SS-proficient Pseudomonas fluorescens, and eight, including HopQ1-1, showed some capacity to cause cell death in this test. Four gene clusters encoding 13 effectors were deleted from DC3000: cluster II (hopH1, hopC1), IV (hopD1, hopQ1-1, hopR1), IX (hopAA1-2, hopV1, hopAO1, hopG1), and native plasmid pDC3000A (hopAM1-2, hopX1, hopO1-1, hopT1-1). DC3000 mutants deleted for cluster IV or just hopQ1-1 acquired the ability to grow to high levels and produce bacterial speck lesions in N. benthamiana. HopQ1-1 showed other hallmarks of an avirulence determinant in N. benthamiana: expression in the tobacco wildfire pathogen P. syringae pv. tabaci 11528 rendered this strain avirulent in N. benthamiana, and elicitation of the hypersensitive response in N. benthamiana by HopQ1-1 was dependent on SGT1. DC3000 polymutants involving other effector gene clusters in a hopQ1-1-deficient background revealed that clusters II and IX contributed to the severity of lesion symptoms in N. benthamiana, as well as in Arabidopsis and tomato. The results support the hypothesis that the host ranges of P. syringae pathovars are limited by the complex interactions of effector repertoires with plant anti-effector surveillance systems, and they demonstrate that N. benthamiana can be a useful model host for DC3000.
+
+HopQ1-1: !causes cell death in! N. benthamiana
+HopQ1-1: !renders P. syringae avirulent in! N. benthamiana
+HopQ1-1: !dependent on! SGT1
+Cluster II: !contributes to severity of lesion symptoms in! N. benthamiana
+Cluster II: !contributes to severity of lesion symptoms in! Arabidopsis
+Cluster II: !contributes to severity of lesion symptoms in! Tomato
+Cluster IX: !contributes to severity of lesion symptoms in! N. benthamiana
+Cluster IX: !contributes to severity of lesion symptoms in! Arabidopsis
+Cluster IX: !contributes to severity of lesion symptoms in! Tomato

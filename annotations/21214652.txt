@@ -1,0 +1,10 @@
+Brassinosteroids (BRs) are important regulators for plant growth and development. BRs signal to control the activities of the BES1 and BZR1 family transcription factors. The transcriptional network through which BES1 and BZR regulate large number of target genes is mostly unknown. By combining chromatin immunoprecipitation coupled with Arabidopsis tiling arrays (ChIP-chip) and gene expression studies, we have identified 1609 putative BES1 target genes, 404 of which are regulated by BRs and/or in gain-of-function bes1-D mutant. BES1 targets contribute to BR responses and interactions with other hormonal or light signaling pathways. Computational modeling of gene expression data using Algorithm for the Reconstruction of Accurate Cellular Networks (ARACNe) reveals that BES1-targeted transcriptional factors form a gene regulatory network (GRN). Mutants of many genes in the network displayed defects in BR responses. Moreover, we found that BES1 functions to inhibit chloroplast development by repressing the expression of GLK1 and GLK2 transcription factors, confirming a hypothesis generated from the GRN. Our results thus provide a global view of BR regulated gene expression and a GRN that guides future studies in understanding BR-regulated plant growth.
+
+BES1: !regulates! BZR1
+BRs: !signal to control! BES1
+BES1: !regulates! target genes
+target genes: !contribute to! BR responses
+ARACNe: !reveals! GRN
+GRN: !displays defects in! BR responses
+BES1: !inhibits! chloroplast development
+BES1: !represses! GLK1/GLK2

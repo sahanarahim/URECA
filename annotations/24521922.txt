@@ -1,0 +1,9 @@
+Gibberellin (GA) hormone signaling occurs through proteolytic and non-proteolytic mechanisms. GA binding to the GA receptor GID1 (GA-INSENSITIVE DWARF1) enables GID1 to bind negative regulators of GA responses called DELLA proteins. In proteolytic GA signaling, the SLEEPY1 (SLY1) F-box protein targets DELLA proteins in the GID1-GA-DELLA complex for destruction through the ubiquitin-proteasome pathway. Non-proteolytic GA signaling in sly1 mutants where GA cannot target DELLA proteins for destruction, requires GA and GID1 gene function. Based on comparison of gid1 multiple mutants to sly1 gid1 mutants, GID1a is the primary GA receptor stimulating stem elongation in proteolytic and non-proteolytic signaling, and stimulating fertility in proteolytic GA signaling. GID1b plays the primary role in fertility, and a secondary role in elongation during non-proteolytic GA signaling. The stronger role of GID1b in non-proteolytic GA signaling may result from the fact that GID1b has higher affinity for DELLA protein than GID1a and GID1c.
+
+GID1: !binds! DELLA proteins
+SLEEPY1: !targets! DELLA proteins
+GA: !stimulates! stem elongation
+GA: !stimulates! fertility
+GID1a: !plays primary role in! proteolytic and non-proteolytic signaling
+GID1b: !plays primary role in! fertility
+GID1b: !plays secondary role in! elongation

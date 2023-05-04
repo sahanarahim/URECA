@@ -1,0 +1,12 @@
+Fern phytochrome3/neochrome1 (phy3/neo1) is a chimeric photoreceptor composed of a phytochrome-chromophore binding domain and an almost full-length phototropin. phy3 thus contains two different light-sensing modules; a red/far-red light receptor phytochrome and a blue light receptor phototropin. phy3 induces both red light- and blue light-dependent phototropism in phototropin-deficient Arabidopsis thaliana (phot1 phot2) seedlings. The red-light response is dependent on the phytochrome module of phy3, and the blue-light response is dependent on the phototropin module. We recently showed that both the phototropin-sensing module and the phytochrome-sensing module mediate the blue light-dependent phototropic response. Particularly under low-light conditions, these two light-sensing modules cooperate to induce the blue light-dependent phototropic response. This intramolecular co-action of two independent light-sensing modules in phy3 enhances light sensitivity, and perhaps allowed ferns to adapt to the low-light canopy conditions present in angiosperm forests.
+
+phy3/neo1: !contains! phytochrome-chromophore binding domain 
+phy3/neo1: !contains! phototropin 
+phy3: !induces! red light-dependent phototropism 
+phy3: !induces! blue light-dependent phototropism 
+red light response: !dependent on! phytochrome module 
+blue light response: !dependent on! phototropin module 
+phototropin-sensing module: !mediates! blue light-dependent phototropic response 
+phytochrome-sensing module: !mediates! blue light-dependent phototropic response 
+two light-sensing modules: !cooperate to! induce blue light-dependent phototropic response 
+intramolecular co-action: !enhances! light sensitivity

@@ -1,0 +1,8 @@
+We have developed a novel multiplex quantitative DNA-based target amplification method suitable for sensitive, specific and quantitative detection on microarray. This new method named NASBA Implemented Microarray Analysis (NAIMA) was applied to GMO detection in food and feed, but its application can be extended to all fields of biology requiring simultaneous detection of low copy number DNA targets. In a first step, the use of tailed primers allows the multiplex synthesis of template DNAs in a primer extension reaction. A second step of the procedure consists of transcription-based amplification using universal primers. The cRNA product is further on directly ligated to fluorescent dyes labelled 3DNA dendrimers allowing signal amplification and hybridized without further purification on an oligonucleotide probe-based microarray for multiplex detection. Two triplex systems have been applied to test maize samples containing several transgenic lines, and NAIMA has shown to be sensitive down to two target copies and to provide quantitative data on the transgenic contents in a range of 0.1-25%. Performances of NAIMA are comparable to singleplex quantitative real-time PCR. In addition, NAIMA amplification is faster since 20 min are sufficient to achieve full amplification.
+
+Primers: !synthesize! Template DNAs 
+Template DNAs: !amplify with! Universal Primers 
+Universal Primers: !transcribe! cRNA Product 
+cRNA Product: !ligate to! Fluorescent Dyes 
+Fluorescent Dyes: !hybridize on! Oligonucleotide Probe-Based Microarray 
+Microarray: !detects! Transgenic Lines

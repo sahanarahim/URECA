@@ -1,0 +1,10 @@
+RNA quality control (RQC) eliminates aberrant RNAs based on their atypical structure, whereas posttranscriptional gene silencing (PTGS) eliminates both aberrant and functional RNAs through the sequence-specific action of short interfering RNAs (siRNAs). The Arabidopsis thaliana mutant smd1b was identified in a genetic screen for PTGS deficiency, revealing the involvement of SmD1, a component of the Smith (Sm) complex, in PTGS. The smd1a and smd1b single mutants are viable, but the smd1a smd1b double mutant is embryo-lethal, indicating that SmD1 function is essential. SmD1b resides in nucleoli and nucleoplasmic speckles, colocalizing with the splicing-related factor SR34. Consistent with this, the smd1b mutant exhibits intron retention at certain endogenous mRNAs. SmD1 binds to RNAs transcribed from silenced transgenes but not nonsilenced ones, indicating a direct role in PTGS. Yet, mutations in the RQC factors UPFRAMESHIFT3, EXORIBONUCLEASE2 (XRN2), XRN3, and XRN4 restore PTGS in smd1b, indicating that SmD1 is not essential for but rather facilitates PTGS. Moreover, the smd1b mtr4 double mutant is embryo-lethal, suggesting that SmD1 is essential for mRNA TRANSPORT REGULATOR4-dependent RQC. These results indicate that SmD1 interplays with splicing, RQC, and PTGS. We propose that SmD1 facilitates PTGS by protecting transgene-derived aberrant RNAs from degradation by RQC in the nucleus, allowing sufficient amounts to enter cytoplasmic siRNA bodies to activate PTGS.
+
+SmD1: !facilitates! PTGS
+SmD1: !interplays with! splicing
+SmD1: !interplays with! RQC
+SmD1: !protects! transgene-derived aberrant RNAs
+RQC: !eliminates! aberrant RNAs
+PTGS: !eliminates! both aberrant and functional RNAs
+siRNAs: !act on! RNAs
+MTR4: !dependent on! SmD1

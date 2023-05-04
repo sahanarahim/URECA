@@ -1,0 +1,8 @@
+We developed an approach that integrates different network-based methods to analyze the correlation network arising from large-scale gene expression data. By studying grapevine (Vitis vinifera) and tomato (Solanum lycopersicum) gene expression atlases and a grapevine berry transcriptomic data set during the transition from immature to mature growth, we identified a category named "fight-club hubs" characterized by a marked negative correlation with the expression profiles of neighboring genes in the network. A special subset named "switch genes" was identified, with the additional property of many significant negative correlations outside their own group in the network. Switch genes are involved in multiple processes and include transcription factors that may be considered master regulators of the previously reported transcriptome remodeling that marks the developmental shift from immature to mature growth. All switch genes, expressed at low levels in vegetative/green tissues, showed a significant increase in mature/woody organs, suggesting a potential regulatory role during the developmental transition. Finally, our analysis of tomato gene expression data sets showed that wild-type switch genes are downregulated in ripening-deficient mutants. The identification of known master regulators of tomato fruit maturation suggests our method is suitable for the detection of key regulators of organ development in different fleshy fruit crops.
+
+gene: !affects! Process
+gene: !localizes to! Network
+gene: !interacts with! Neighbors
+gene: !enhances! Expression
+gene: !represses! Expression
+gene: !synthesizes! Master Regulators

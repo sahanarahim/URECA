@@ -1,0 +1,9 @@
+['8953766', 'Genetic studies using Arabidopsis offer a promising approach to investigate the  mechanisms of light signal transduction during seedling development. Several  mutants, called det/cop, have been isolated based on their  deetiolated/constitutive photomorphogenic phenotypes in the dark. This study  examines the specificity of the det/cop mutations with respect to their effects  on genes regulated by other signal transduction pathways. Steady state mRNA  levels of a number of differently regulated gene sets were compared between  mutants and the wild type. We found that det2, cop2, cop3, and cop4 mutants  displayed a gene expression pattern similar to that of the wild type. By  contrast, det1, cop1, and cop9 mutations exhibited pleiotropic effects. In  addition to light-responsive genes, genes normally inducible by plant pathogens,  hypoxia, and developmental programs were inappropriately expressed in these  mutants. Our data provide evidence that DET1, COP1, and COP9 most likely act as  negative regulators of several sets of genes, not just those involved in  light-regulated seedling development.', '1996 Nov', 'Plant Cell', '10.1105/tpc.8.11.1951', 'Chua']
+
+Genes: !affects! Process 
+det2, cop2, cop3, cop4: !similar to! Wild type 
+det1, cop1, cop9: !pleiotropic effects on! Light-responsive genes 
+det1, cop1, cop9: !inappropriately express! Plant pathogen genes 
+det1, cop1, cop9: !inappropriately express! Hypoxia genes 
+det1, cop1, cop9: !inappropriately express! Developmental program genes 
+det1, cop1, cop9: !negative regulators of! Several sets of genes

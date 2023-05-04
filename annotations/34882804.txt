@@ -1,0 +1,9 @@
+Long-chain acyl-CoA synthetases (LACS) play diverse and fundamentally important roles in lipid metabolism. While their functions have been well established in bacteria, yeast and plants, the mechanisms by which LACS isozymes regulate lipid metabolism in unicellular oil-producing microalgae, including the diatom Phaeodactylum tricornutum, remain largely unknown. In P. tricornutum, a family of five genes (ptACSL1-ptACSL5) encodes LACS activities. We generated single lacs knockout/knockdown mutants using multiplexed CRISPR/Cas9 method, and determined their substrate specificities towards different fatty acids (FAs) and subcellular localisations. ptACSL3 is localised in the mitochondria and its disruption led to compromised growth and reduced triacylglycerol (TAG) content when cells were bubbled with air. The ptACSL3 mutants showed altered FA profiles in two galactoglycerolipids and phosphatidylcholine (PC) with significantly reduced distribution of 16:0 and 16:1. ptACSL5 is localised in the peroxisome and its knockdown resulted in reduced growth rate and altered molecular species of PC and TAG, indicating a role in controlling the composition of acyl-CoAs for lipid synthesis. Our work demonstrates the potential of generating gene knockout mutants with the mutation of large fragment deletion using multiplexed CRISPR/Cas9 and provides insight into the functions of LACS isozymes in lipid metabolism in the oleaginous microalgae.
+
+ptACSL3: !localizes to! mitochondria 
+ptACSL3: !affects! growth 
+ptACSL3: !affects! triacylglycerol content 
+ptACSL3: !affects! fatty acid profiles 
+ptACSL5: !localizes to! peroxisome 
+ptACSL5: !affects! growth rate 
+ptACSL5: !affects! molecular species of phosphatidylcholine and triacylglycerol

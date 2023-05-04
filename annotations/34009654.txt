@@ -1,0 +1,11 @@
+Leaf width (LW) is an important component of plant architecture that extensively affects both light capture during photosynthesis and grain yield, particularly under dense planting conditions. However, the genetic and molecular mechanisms regulating LW remain largely elusive in maize (Zea mays L.). In this study, qLW4a, a major quantitative trait locus controlling LW, was identified in a population constructed with maize inbred lines PH6WC, with wide leaves, and Lin387, with narrow leaves. Map-based cloning revealed that ZmNL4, a kelch-repeat superfamily gene, emerged to be the candidate for qLW4a, and a single-base deletion in the conserved SMC_prok_B domain of ZmNL4 in Lin387 caused a frame shift, leading to premature termination. Consistently, the knockout of ZmNL4 by CRISPR/Cas9 editing significantly reduced the LW, which was attributed to a reduction in the cell number instead of cell size, indicating a role of ZmNL4 in regulating cell division. Transcriptomic comparison of ZmNL4 knockout lines with the wild type B73-329 revealed that ZmNL4 might participate in cell wall biogenesis, asymmetric cell division, metabolic processes, transmembrane transport and response to external stimulus, etc. These results provide insights into the genetic and molecular mechanisms of ZmNL4 in controlling LW and could potentially contribute to optimizing plant architecture for maize breeding.
+
+qLW4a: !controls! Leaf width 
+ZmNL4: !is candidate for! qLW4a 
+ZmNL4: !reduces! Leaf width 
+ZmNL4: !regulates! Cell division 
+ZmNL4: !participates in! Cell wall biogenesis 
+ZmNL4: !participates in! Asymmetric cell division 
+ZmNL4: !participates in! Metabolic processes 
+ZmNL4: !participates in! Transmembrane transport 
+ZmNL4: !participates in! Response to external stimulus

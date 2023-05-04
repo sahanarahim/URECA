@@ -1,0 +1,8 @@
+Identifying the transcription factors that mediate responses to abiotic stress is of fundamental importance in plant biology, not least because of their potential utility in crop improvement. The recently duplicated genes RAP2.4B and RAP2.4 encode transcription factors belonging to the abiotic stress-associated DREB A-6 clade in Arabidopsis thaliana. Both proteins localise exclusively to nuclei and show similar DRE-element-binding characteristics. Expression analysis of stressed and non-stressed plants revealed partially overlapping expression patterns. Both genes were highly expressed in stems and roots and were differentially induced in response to cold, dehydration and osmotic stress. RAP2.4B, however, was uniquely expressed at a high level in dry seeds and was induced by heat stress, while RAP2.4 was uniquely induced at a high level by salt stress. Microarray-based transcriptional profiling of double knockout and overexpression lines revealed altered expression of genes associated with adaptation to drought stress. Most strikingly, six aquaporin genes, five of which are members of a recently identified co-expression network, were downregulated in the double knockout line and correspondingly upregulated in the overexpression line, suggesting that these DREBs play a role in the regulation of water homeostasis.
+
+RAP2.4B: !localizes to! nuclei
+RAP2.4B: !induced by! cold, dehydration, osmotic stress, heat stress
+RAP2.4: !localizes to! nuclei
+RAP2.4: !induced by! cold, dehydration, osmotic stress, salt stress
+RAP2.4B/RAP2.4: !regulate! aquaporin genes
+aquaporin genes: !regulated by! RAP2.4B/RAP2.4

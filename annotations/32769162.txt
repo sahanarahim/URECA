@@ -1,0 +1,11 @@
+Sequence-indexed insertional libraries in maize (<i>Zea mays</i>) are fundamental resources for functional genetics studies. Here, we constructed a <i>Mutator</i> (<i>Mu</i>) insertional library in the B73 inbred background designated <i>BonnMu</i> A total of 1,152 <i>Mu</i>-tagged F<sub>2</sub>-families were sequenced using the <i>Mu</i>-seq approach. We detected 225,936 genomic <i>Mu</i> insertion sites and 41,086 high quality germinal <i>Mu</i> insertions covering 16,392 of the annotated maize genes (37% of the B73v4 genome). On average, each F<sub>2</sub>-family of the <i>BonnMu</i> libraries captured 37 germinal <i>Mu</i> insertions in genes of the Filtered Gene Set (FGS). All <i>BonnMu</i> insertions and phenotypic seedling photographs of <i>Mu-</i>tagged F<sub>2</sub>-families can be accessed via MaizeGDB.org Downstream examination of 137,410 somatic and germinal insertion sites revealed that 50% of the tagged genes have a single hotspot, targeted by <i>Mu</i> By comparing our <i>BonnMu</i> (B73) data to the <i>UniformMu</i> (W22) library, we identified conserved insertion hotspots between different genetic backgrounds. Finally, the vast majority of <i>BonnMu</i> and <i>UniformMu</i> transposons was inserted near the transcription start site of genes. Remarkably, 75% of all <i>BonnMu</i> insertions were in closer proximity to the transcription start site (distance: 542 bp) than to the start codon (distance: 704 bp), which corresponds to open chromatin, especially in the 5' region of genes. Our European sequence-indexed library of <i>Mu</i> insertions provides an important resource for functional genetics studies of maize.
+
+Sequence-indexed insertional libraries: !construct! <i>BonnMu</i> 
+<i>Mu</i>-tagged F<sub>2</sub>-families: !sequence! <i>Mu</i>-seq approach 
+Genomic <i>Mu</i> insertion sites: !detect! 225,936 
+Germinal <i>Mu</i> insertions: !cover! 16,392 maize genes 
+F<sub>2</sub>-families: !capture! 37 germinal <i>Mu</i> insertions 
+<i>Mu</i>: !target! 50% of tagged genes 
+<i>BonnMu</i> and <i>UniformMu</i>: !compare! conserved insertion hotspots 
+Transposons: !insert! near transcription start site 
+<i>BonnMu</i> insertions: !closer to! transcription start site (542 bp) than start codon (704 bp)

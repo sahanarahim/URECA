@@ -1,0 +1,10 @@
+In Arabidopsis, the plasma membrane transporter PUT3 is important to maintain the cellular homeostasis of polyamines and plays a role in stabilizing mRNAs of some heat-inducible genes. The plasma membrane Na<sup>+</sup> /H<sup>+</sup> transporter SOS1 and the protein kinase SOS2 are two salt-tolerance determinants crucial for maintaining intracellular Na<sup>+</sup> and K<sup>+</sup> homeostasis. Here, we report that PUT3 genetically and physically interacts with SOS1 and SOS2, and these interactions modulate PUT3 transport activity. Overexpression of PUT3 (PUT3OE) results in hypersensitivity of the transgenic plants to polyamine and paraquat. The hypersensitivity of PUT3OE is inhibited by the sos1 and sos2 mutations, which indicates that SOS1 and SOS2 are required for PUT3 transport activity. A protein interaction assay revealed that PUT3 physically interacts with SOS1 and SOS2 in yeast and plant cells. SOS2 phosphorylates PUT3 both in vitro and in vivo. SOS1 and SOS2 synergistically activate the polyamine transport activity of PUT3, and PUT3 also modulates SOS1 activity by activating SOS2 in yeast cells. Overall, our findings suggest that both plasma-membrane proteins PUT3 and SOS1 could form a complex with the protein kinase SOS2 in response to stress conditions and modulate the transport activity of each other through protein interactions and phosphorylation.
+
+PUT3: !interacts with! SOS1
+PUT3: !interacts with! SOS2
+SOS1: !interacts with! PUT3
+SOS2: !interacts with! PUT3
+SOS2: !phosphorylates! PUT3
+SOS1: !activates! PUT3
+SOS2: !activates! PUT3
+PUT3: !modulates! SOS1

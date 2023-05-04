@@ -1,0 +1,10 @@
+The transition between seed and seedling phases of development is coordinated by an interaction between the closely related ABSCISIC ACID-INSENSITIVE3 (ABI3), FUSCA3 (FUS3), and LEAFY COTYLEDON2 (LEC2; AFL) and VIVIPAROUS1/ABI3-LIKE (VAL) clades of the B3 transcription factor family that respectively activate and repress the seed maturation program. In the val1 val2 double mutant, derepression of the LEC1, LEC1-LIKE (L1L), and AFL (LAFL) network is associated with misexpression of embryonic characteristics resulting in arrested seedling development. We show that while the frequency of the embryonic fate in val1 val2 seedlings depends on the developmental timing of seed rescue, VAL proteins repress LAFL genes during germination, but not during seed development. Quantitative analysis of LAFL mutants that suppress the val1 val2 seedling phenotype revealed distinct roles of LAFL genes in promoting activation of the LAFL network. LEC2 and FUS3 are both essential for coordinate activation of the network, whereas effects of LEC1, L1L, and ABI3 are additive. Suppression of the val1 val2 seedling phenotype by the B3 domain-deficient abi3-12 mutation indicates that ABI3 activation of the LAFL network requires the B3 DNA-binding domain. In the VAL-deficient background, coordinate regulation of the LAFL network is observed over a wide range of genetic and developmental conditions. Our findings highlight distinct functional roles and interactions of LAFL network genes that are uncovered in the absence of VAL repressors.
+
+ABI3: !interacts with! FUS3
+FUS3: !interacts with! LEC2
+LEC2: !interacts with! AFL
+VAL: !represses! LAFL
+LEC1: !enhances! LAFL
+L1L: !enhances! LAFL
+ABI3: !enhances! LAFL
+ABI3: !requires! B3 domain

@@ -1,0 +1,11 @@
+Co-suppressed MIPS2 transgenic lines allow bypass of the embryo lethal phenotype of the previously published triple knock-out and demonstrate the effects of MIPS on later stages of development. Regulation of inositol production is of interest broadly for its effects on plant growth and development. The enzyme L-myo-inositol 1-phosphate synthase (MIPS, also known as IPS) isomerizes D-glucose-6-P to D-inositol 3-P, and this is the rate-limiting step in inositol production. In Arabidopsis thaliana, the MIPS enzyme is encoded by three different genes, (AtMIPS1, AtMIPS2 and AtMIPS3), each of which has been shown to produce proteins with biochemically similar properties but differential expression patterns. Here, we report phenotypic and biochemical effects of MIPS co-suppression. We show that some plants engineered to overexpress MIPS2 in fact show reduced expression of AtMIPS1, AtMIPS2 and AtMIPS3, and show altered vegetative phenotype, reduced size and root length, and delayed flowering. Additionally, these plants show reduced inositol, increased glucose levels, and alteration of other metabolites. Our results suggest that the three AtMIPS genes work together to impact the overall synthesis of myo-inositol and overall inositol homeostasis.
+
+AtMIPS1: !synthesizes! MIPS
+AtMIPS2: !synthesizes! MIPS
+AtMIPS3: !synthesizes! MIPS
+AtMIPS1: !interacts with! AtMIPS2
+AtMIPS1: !interacts with! AtMIPS3
+AtMIPS2: !interacts with! AtMIPS3
+MIPS: !affects! Plant growth and development
+MIPS: !enhances! Inositol production
+MIPS: !represses! Vegetative phenotype

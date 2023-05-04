@@ -1,0 +1,11 @@
+The bZIP transcription factor ELONGATED HYPOCOTYL5 (HY5) represents a major hub in the light-signaling cascade both under visible and UV-B light. The mode of transcriptional regulation of <i>HY5</i>, especially under UV-B light, is not well characterized. B-BOX (BBX) transcription factors regulate <i>HY5</i> transcription and also posttranscriptionally modulate HY5 to control photomorphogenesis under white light. Here, we identify BBX31 as a key signaling intermediate in visible and UV-B light signal transduction in Arabidopsis (<i>Arabidopsis thaliana</i>). <i>BBX31</i> expression is induced by UV-B radiation in a fluence-dependent manner. HY5 directly binds to the promoter of <i>BBX31</i> and regulates its transcript levels. Loss- and gain-of-function mutants of <i>BBX31</i> indicate that it acts as a negative regulator of photomorphogenesis under white light but is a positive regulator of UV-B signaling. Genetic interaction studies suggest that <i>BBX31</i> regulates photomorphogenesis independent of <i>HY5</i> We found no evidence for a direct BBX31-HY5 interaction, and they primarily regulate different sets of genes in white light. Under high doses of UV-B radiation, BBX31 promotes the accumulation of UV-protective flavonoids and phenolic compounds. It enhances tolerance to UV-B radiation by regulating genes involved in photoprotection and DNA repair in a HY5-dependent manner. Under UV-B radiation, overexpression of <i>BBX31</i> enhances <i>HY5</i> transcriptional levels in a UV RESISTANCE LOCUS8-dependent manner, suggesting that BBX31 might regulate <i>HY5</i> transcription.
+
+HY5: !regulates! BBX31
+BBX31: !regulates! HY5
+HY5: !binds to! BBX31 promoter
+BBX31: !acts as! negative regulator of photomorphogenesis under white light
+BBX31: !acts as! positive regulator of UV-B signaling
+BBX31: !interacts with! HY5 independent of regulation
+BBX31: !enhances! tolerance to UV-B radiation
+BBX31: !promotes! accumulation of UV-protective flavonoids and phenolic compounds
+UV RESISTANCE LOCUS8: !enhances! HY5 transcriptional levels in a UV-B dependent manner

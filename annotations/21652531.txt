@@ -1,0 +1,10 @@
+Brassica juncea is promising for metal phytoremediation, but little is known about the functional role of most metal transporters in this plant. The functional characterization of two B. juncea cation-efflux family proteins BjCET3 and BjCET4 is reported here. The two proteins are closely related to each other in amino acid sequence, and are members of Group III of the cation-efflux transporters. Heterologous expression of BjCET3 and BjCET4 in yeast confirmed their functions in exporting Zn, and possibly Cd, Co, and Ni. Yeast transformed with BjCET4 showed higher metal resistance than did BjCET3 transformed. The two BjCET-GFP fusion proteins were localized to the plasma membrane in the roots when expressed in tobacco, and significantly enhanced the plants' Cd tolerance ability. Under Cd stress, tobacco plants transformed with BjCET3 accumulated significant amounts of Cd in shoots, while maintaining similar shoot biomass production with vector-control subjects. Transformed BjCET4 tobacco plants showed significantly enhanced shoot biomass production with markedly decreased shoot Cd content. The two transporter genes have a lower basal transcript expression in B. juncea seedling tissues when grown in normal conditions than under metal-stress, however, their transcripts levels could be substantially increased by Zn, Cd, NaCl or PEG, suggesting that BjCET3 and BjCET4 may play roles in several stress conditions, roles which appear to be different from those of previous characterized cation-efflux transporters, for example, AtMTP1, BjCET2, and BjMTP1.
+
+BjCET3: !exports! Zn
+BjCET4: !exports! Zn
+BjCET4: !enhances metal resistance! Yeast
+BjCET3/4: !localizes to! Plasma membrane
+BjCET3/4: !enhances! Cd tolerance
+BjCET3: !accumulates! Cd
+BjCET4: !decreases! Cd accumulation
+BjCET3/4: !responds to! Zn, Cd, NaCl, PEG

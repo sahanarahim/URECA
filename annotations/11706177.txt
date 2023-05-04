@@ -1,0 +1,7 @@
+['11706177', 'A major response of eukaryotic cells to the presence of unfolded proteins in the  lumen of the endoplasmic reticulum (ER) is to activate genes that encode  ER-located molecular chaperones, such as the binding protein. This response,  called the unfolded protein response, requires the transduction of a signal from  the ER to the nucleus. In yeast (Saccharomyces cerevisiae) and mammalian cells,  an ER-located transmembrane receptor protein kinase/ribonuclease called Ire1,  with a sensor domain in the lumen of the ER, is the first component of this  pathway. Here, we report the cloning and derived amino acid sequences of AtIre1-1  and AtIre1-2, two Arabidopsis homologs of Ire1. The two proteins are located in  the perinuclear ER (based on heterologous expression of fusions with green  fluorescent protein). The expression patterns of the two genes (using  beta-glucuronidase fusions) are nearly nonoverlapping. We also demonstrate  functional complementation of the sensor domains of the two proteins in yeast and  show that the Ire1-2 protein is capable of autotransphosphorylation. These and  other findings are discussed in relation to the involvement of these genes in  unfolded protein response signaling in plants.', '2001 Nov', 'Plant Physiol', '6917', 'Chrispeels']
+
+AtIre1-1: !localizes to! perinuclear ER 
+AtIre1-2: !localizes to! perinuclear ER 
+AtIre1-1: !enhances! beta-glucuronidase fusion expression 
+AtIre1-2: !enhances! beta-glucuronidase fusion expression 
+AtIre1-2: !autotransphosphorylates! itself

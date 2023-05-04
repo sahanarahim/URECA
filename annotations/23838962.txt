@@ -1,0 +1,8 @@
+Classical flux balance analysis predicts steady-state flux distributions that maximize a given objective function. A recent study, Schuetz et al., (1) demonstrated that competing objectives constrain the metabolic fluxes in E. coli. For plants, with multiple cell types, fulfilling different functions, the objectives remain elusive and, therefore, hinder the prediction of actual fluxes, particularly for changing environments. In our study, we presented a novel approach to predict flux capacities for a large collection of metabolic pathways under eight different temperature and light conditions. (2) By integrating time-series transcriptomics data to constrain the flux boundaries of the metabolic model, we captured the time- and condition-specific state of the network. Although based on a single time-series experiment, the comparison of these capacities to a novel null model for transcript distribution allowed us to define a measure for differential behavior that accounts for the underlying network structure and the complex interplay of metabolic pathways.
+
+Gene: !affects! Metabolic fluxes 
+Gene: !localizes to! Cell types 
+Gene: !interacts with! Network structure 
+Gene: !enhances! Flux capacities 
+Gene: !represses! Null model 
+Gene: !synthesizes! Differential behavior

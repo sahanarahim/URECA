@@ -1,0 +1,11 @@
+Epidermal cell differentiation is a paramount and conserved process among plants. In Arabidopsis, a ternary complex formed by MYB, bHLH transcription factors and TTG1 modulates unicellular trichome morphogenesis. The formation of multicellular glandular trichomes of the xerophytic shrub Cistus creticus that accumulate labdane-type diterpenes, has attained much attention renowned for its medicinal properties. Here, we show that C. creticus TTG1 (CcTTG1) interacts with the SQUAMOSA PROMOTER BINDING PROTEIN-LIKE (SPLA/B) proteins, putative homologs of AtSPL4/5 that in turn interact with AtTTG1. These interactions occur between proteins from evolutionarily distant species supporting the conserved function of TTG1-SPL complex. Overexpression of AtSPL4 and AtSPL5 decreased the expression of GLABRA2 (AtGL2), the major regulator of trichome morphogenesis, resulting in trichome reduction on the adaxial surface of cauline leaves, thereby illuminating the significance of TTG1-SPLs interactions in trichome formation control. AtGL2 and AtSPL4 have opposite expression patterns during early stages of leaf development. We postulate an antagonistic effect between SPLs and the heterogeneous MYB-bHLH factors binding to TTG1. Hence, the SPLs potentially rearrange the complex, attenuating its transcriptional activity to control trichome distribution.
+
+MYB: !interacts with! TTG1
+bHLH: !interacts with! TTG1
+TTG1: !interacts with! CcTTG1
+SPLA/B: !interacts with! CcTTG1
+AtSPL4/5: !interacts with! AtTTG1
+AtSPL4/5: !represses! AtGL2
+AtGL2: !opposes! AtSPL4
+MYB-bHLH: !binds to! TTG1
+SPLs: !rearrange! complex

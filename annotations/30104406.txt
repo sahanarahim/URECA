@@ -1,0 +1,9 @@
+['30104406', 'In eukaryotes, heterochromatin regions are typically subjected to transcriptional  silencing. DNA methylation has an important role in such silencing and has been  studied extensively. However, little is known about how methylated  heterochromatin regions are subjected to silencing. We conducted a genetic screen  and identified an epcr (enhancer of polycomb-related) mutant that releases  heterochromatin silencing in Arabidopsis thaliana We demonstrated that EPCR1  functions redundantly with its paralog EPCR2 and interacts with PWWP  domain-containing proteins (PWWPs), AT-rich interaction domain-containing  proteins (ARIDs), and telomere repeat binding proteins (TRBs), thus forming  multiple functionally redundant protein complexes named PEAT  (PWWPs-EPCRs-ARIDs-TRBs). The PEAT complexes mediate histone deacetylation and  heterochromatin condensation and thereby facilitate heterochromatin silencing. In  heterochromatin regions, the production of small interfering RNAs (siRNAs) and  DNA methylation is repressed by the PEAT complexes. The study reveals how histone  deacetylation, heterochromatin condensation, siRNA production, and DNA  methylation interplay with each other and thereby maintain heterochromatin  silencing.', '2018 Oct 1', 'EMBO J', '10.15252/embj.201798770', 'ORCID:']
+
+EPCR1: !interacts with! PWWPs 
+EPCR2: !interacts with! PWWPs 
+PWWPs: !interact with! EPCR1, EPCR2 
+ARIDs: !interact with! EPCR1, EPCR2 
+TRBs: !interact with! EPCR1, EPCR2 
+PEAT: !mediates! histone deacetylation, heterochromatin condensation 
+PEAT: !represses! siRNA production, DNA methylation

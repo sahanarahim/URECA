@@ -1,0 +1,9 @@
+Ecological network theory predicts that in mutualistic systems specialists tend to interact with a subset of species with which generalists interact (i.e. nestedness). Approaching plant-arbuscular mycorrhizal fungi (AMF) association using network analyses will allow the generality of this pattern to be expanded to the ubiquitous plant-AMF mutualism. Based on certain plant-AMF specificity recently suggested, networks are expected to be nested as a result of their mutualistic nature, and modular, with certain species interacting more tightly than others. Network analyses were used to test for nestedness and modularity and to compare the different contribution of plant and AMF to the overall nestedness. Plant-AMF networks share general network properties with other mutualisms. Plant species with few AMFs in their roots tend to associate with those AMFs recorded in most plant species. AMFs present in a few plant species occur in plant species sheltering most AMF (i.e. nestedness). This plant-AMF network presents weakly interlinked subsets of species, strongly connected internally (i.e. modularity). Both plants and AMF show a nested structure, although AMFs have lower nestedness than plants. The plant-AMF interaction pattern is interpreted in the context of how plant-AMF associations can be underlying mechanisms shaping plant community assemblages.
+
+Plant: !interacts with! AMF
+AMF: !interacts with! Plant
+Plant: !shelters! Most AMF
+AMF: !occurs in! Few plant species
+Plant: !tends to associate with! AMFs recorded in most plant species
+AMF: !present in! Few plant species
+Plant: !has lower nestedness than! AMF

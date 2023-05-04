@@ -1,0 +1,12 @@
+Plants accumulate the lipids phosphatidic acid (PA), diacylglycerol (DAG), and triacylglycerol (TAG) during cold stress, but how plants balance the levels of these lipids to mediate cold responses remains unknown. The enzymes ACYL-COENZYME A:DIACYLGLYCEROL ACYLTRANSFERASE (DGAT) and DIACYLGLYCEROL KINASE (DGK) catalyze the conversion of DAG to TAG and PA, respectively. Here, we show that DGAT1, DGK2, DGK3, and DGK5 contribute to the response to cold in Arabidopsis (<i>Arabidopsis thaliana</i>). With or without cold acclimation, the <i>dgat1</i> mutants exhibited higher sensitivity upon freezing exposure compared with the wild type. Under cold conditions, the <i>dgat1</i> mutants showed reduced expression of <i>C-REPEAT/DRE BINDING FACTOR2</i> and its regulons, which are essential for the acquisition of cold tolerance. Lipid profiling revealed that freezing significantly increased the levels of PA and DAG while decreasing TAG in the rosettes of <i>dgat1</i> mutant plants. During freezing stress, the accumulation of PA in <i>dgat1</i> plants stimulated NADPH oxidase activity and enhanced RbohD-dependent hydrogen peroxide production compared with the wild type. Moreover, the cold-inducible transcripts of <i>DGK2</i>, <i>DGK3</i>, and <i>DGK5</i> were significantly more up-regulated in the <i>dgat1</i> mutants than in the wild type during cold stress. Consistent with this observation, <i>dgk2</i>, <i>dgk3</i>, and <i>dgk5</i> knockout mutants showed improved tolerance and attenuated PA production in response to freezing temperatures. Our findings demonstrate that the conversion of DAG to TAG by <i>DGAT1</i> is critical for plant freezing tolerance, acting by balancing TAG and PA production in Arabidopsis.
+
+DGAT1: !affects! Cold tolerance 
+DGAT1: !balances! TAG and PA production 
+DGK2: !interacts with! DGAT1 
+DGK3: !interacts with! DGAT1 
+DGK5: !interacts with! DGAT1 
+C-REPEAT/DRE BINDING FACTOR2: !represses! DGAT1 
+NADPH oxidase: !enhances! RbohD-dependent hydrogen peroxide production 
+DGK2: !upregulates! Cold-inducible transcripts 
+DGK3: !upregulates! Cold-inducible transcripts 
+DGK5: !upregulates! Cold-inducible transcripts

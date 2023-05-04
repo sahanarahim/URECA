@@ -1,0 +1,14 @@
+Tree peony (<i>Paeonia suffruticosa</i>) is a well-known Chinese ornamental plant with showy flower color. However, the color fading problem during vase time seriously blocks its development in the cut flower market. In this study, we found that exogenous glucose supply improved the color quality of <i>P. suffruticosa</i> 'Tai Yang' cut flowers with increased total soluble sugar and anthocyanin contents of petals. Besides, the promotion effect of glucose was better than the osmotic control of 3-<i>O</i>-methylglucose (3OMG) treatment and the glucose analog mannose treatment. The structural genes, including <i>PsF3H</i>, <i>PsF3'H</i>, <i>PsDFR</i>, <i>PsAOMT</i>, and <i>PsUF5GT</i>, were remarkably upregulated under glucose treatment. Meanwhile, the regulatory genes, including <i>PsbHLH1</i>, <i>PsbHLH3</i>, <i>PsMYB2</i>, <i>PsWD40-1</i>, and <i>PsWD40-2</i>, also showed a strong response to glucose treatment. Among these five regulatory genes, <i>PsMYB2</i> showed less response to 3OMG treatment but was highly expressed under glucose and mannose treatments, indicating that <i>PsMYB2</i> may have an important role in the glucose signal pathway. Ectopic overexpression of <i>PsMYB2</i> in <i>Nicotiana tabacum</i> resulted in a strong pigmentation in petals and stamens of tobacco flowers accompanied with multiple anthocyanin biosynthetic genes upregulated. More importantly, the overexpression of <i>PsMYB2</i> enhanced the ability of glucose-induced anthocyanin accumulation in <i>Arabidopsis thaliana</i> seedlings since <i>PsMYB2</i>-overexpressing <i>Arabidopsis</i> showed higher expression levels of <i>AtPAL1</i>, <i>AtCHS</i>, <i>AtF3H</i>, <i>AtF3'H</i>, <i>AtDFR</i>, and <i>AtLDOX</i> than those of wild type under glucose treatment. In summary, we suggested that glucose supply promoted petal coloration of <i>P. suffruticosa</i> 'Tai Yang' cut flower through the signal pathway, and <i>PsMYB2</i> was a key component in this process. Our research made a further understanding of the mechanism that glucose-induced anthocyanin biosynthesis of <i>P. suffruticosa</i> cut flowers during postharvest development, laying a foundation for color retention technology development of cut flowers.
+
+PsF3H: !synthesizes! anthocyanin
+PsF3'H: !synthesizes! anthocyanin
+PsDFR: !synthesizes! anthocyanin
+PsAOMT: !synthesizes! anthocyanin
+PsUF5GT: !synthesizes! anthocyanin
+PsbHLH1: !regulates! PsF3H
+PsbHLH3: !regulates! PsF3'H
+PsMYB2: !regulates! PsDFR
+PsWD40-1: !regulates! PsAOMT
+PsWD40-2: !regulates! PsUF5GT
+glucose: !enhances! PsMYB2
+PsMYB2: !enhances! anthocyanin biosynthesis

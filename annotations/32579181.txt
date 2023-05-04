@@ -1,0 +1,7 @@
+Plants have the ability to regenerate whole plant body parts, including shoots and roots, in vitro from callus derived from a variety of tissues. However, the underlying mechanisms for this de novo organogenesis, which is based on the totipotency of callus cells, are poorly understood. Here, we report that a microRNA (miRNA)-mediated posttranscriptional regulation plays an important role in de novo shoot regeneration. We found that mutations in HUA ENHANCER 1 (HEN1), a gene encoding a small RNA methyltransferase, cause cytokinin-related defects in de novo shoot regeneration. A hen1 mutation caused a large reduction in the miRNA319 (miR319) level and a subsequent increase in its known target (TCP3 and TCP4) transcript levels. TCP transcription factors redundantly inhibited shoot regeneration and directly activated the expression of a negative regulator of cytokinin response ARABIDOPSIS THALIANA RESPONSE REGULATOR 16 (ARR16). A tcp4 mutation at least partly rescued the shoot-regeneration defect and derepression of ARR16 in hen1. These findings demonstrate that the miR319-TCP3/4-ARR16 axis controls de novo shoot regeneration by modulating cytokinin responses.
+
+HEN1: !regulates! miR319 
+miR319: !targets! TCP3/4 
+TCP3/4: !inhibits! shoot regeneration 
+TCP3/4: !activates! ARR16 
+ARR16: !represses! cytokinin response

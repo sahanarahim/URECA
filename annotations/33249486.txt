@@ -1,0 +1,10 @@
+Photosynthetic carbon assimilation rates are highly dependent on environmental factors such as light availability and on metabolic limitations such as the demand for carbon by sink organs. The relative effects of light and sink demand on photosynthesis in perennial plants such as trees remain poorly characterized. The aim of the present study was therefore to characterize the relationships between light and fruit load on a range of leaf traits including photosynthesis, non-structural carbohydrate content, leaf structure, and nitrogen-related variables in fruiting ('ON') and non-fruiting ('OFF') 'Golden Delicious' apple trees. We show that crop status (at the tree scale) exerts a greater influence over leaf traits than the local light environment or the local fruit load. High rates of photosynthesis were observed in the ON trees. This was correlated with a high leaf nitrogen content. In contrast, little spatial variability in photosynthesis rates was observed in the OFF trees. The lack of variation in photosynthesis rates was associated with high leaf non-structural carbohydrate content at the tree level. Taken together, these results suggest that low carbon demand leads to feedback limitation on photosynthesis resulting in a low level of within-tree variability. These findings provide new insights into carbon and nitrogen allocations within trees, which are heavily dependent on carbon demand.
+
+light: !affects! Photosynthesis
+sink demand: !affects! Photosynthesis
+crop status: !exerts greater influence than! light environment/fruit load
+ON trees: !high rates of! Photosynthesis
+ON trees: !correlated with! high leaf nitrogen content
+OFF trees: !little spatial variability in! Photosynthesis
+OFF trees: !associated with! high leaf non-structural carbohydrate content
+carbon demand: !leads to feedback limitation on! Photosynthesis

@@ -1,0 +1,8 @@
+Cell wall is the first physical barrier to aluminum (Al) toxicity. Modification of cell wall properties to change its binding capacity to Al is one of the major strategies for plant Al resistance; nevertheless, how it is regulated in rice remains largely unknown. In this study, we show that exogenous application of putrescines (Put) could significantly restore the Al resistance of art1, a rice mutant lacking the central regulator Al RESISTANCE TRANSCRIPTION FACTOR 1 (ART1), and reduce its Al accumulation particularly in the cell wall of root tips. Based on RNA-sequencing, yeast-one-hybrid and electrophoresis mobility shift assays, we identified an R2R3 MYB transcription factor OsMYB30 as the novel target in both ART1-dependent and Put-promoted Al resistance. Furthermore, transient dual-luciferase assay showed that ART1 directly inhibited the expression of OsMYB30, and in turn repressed Os4CL5-dependent 4-coumaric acid accumulation, hence reducing the Al-binding capacity of cell wall and enhancing Al resistance. Additionally, Put repressed OsMYB30 expression by eliminating Al-induced H<sub>2</sub> O<sub>2</sub> accumulation, while exogenous H<sub>2</sub> O<sub>2</sub> promoted OsMYB30 expression. We concluded that ART1 confers Put-promoted Al resistance via repression of OsMYB30-regulated modification of cell wall properties in rice.
+
+ART1: !represses! OsMYB30
+Put: !represses! OsMYB30
+OsMYB30: !regulates! 4-coumaric acid accumulation
+4-coumaric acid: !modifies! cell wall properties
+cell wall: !binds to! Al
+H<sub>2</sub> O<sub>2</sub>: !promotes! OsMYB30

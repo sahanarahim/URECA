@@ -1,0 +1,14 @@
+['29354153', 'The developmental functions of miR156-SPL regulatory network have been  extensively studied in Arabidopsis, but the downstream genes regulated by each  SPL have not been well characterized. In this study, Next Generation  Sequencing-based transcriptome analysis was performed on roots of wild type (WT)  and miR156 overexpression (miR156OE) plants. One of the SPL genes, SPL10, which  represses lateral root growth in Arabidopsis, was significantly downregulated in  miR156OE plants. A transcription factor, AGAMOUS-like MADS box protein 79  (AGL79), was also significantly downregulated in the miR156OE plants, but was  upregulated in the SPL10 overexpression (SPL10OE) Arabidopsis plants. In  addition, SPL10 was found to bind to the core consensus SPL binding sequences in  AGL79 gene. Moreover, analyses of complementation lines revealed a linear  relationship between SPL10 and AGL79 in regulating Arabidopsis plant development.  In addition, it was observed that plant phenotypes are AGL79 dose-dependent, with  higher expression causing narrow leaf shape, less number of leaves and early  flowering time, whereas relatively lower AGL79 overexpression produce plants with  more rosette leaves and more lateral branches. Our findings revealed direct  binding of SPL10 to AGL79 promoter, which further suggests a role for  miR156/SPL10 module in plant lateral root growth by directly regulating AGL79.', '2017', 'Front Plant Sci', '10.3389/fpls.2017.02226', 'Hannoufa']
+
+miR156: !regulates! SPL10 
+SPL10: !represses! lateral root growth 
+miR156OE: !downregulates! SPL10 
+AGL79: !downregulated in! miR156OE 
+SPL10OE: !upregulates! AGL79 
+SPL10: !binds to! AGL79 promoter 
+SPL10: !regulates! Arabidopsis plant development 
+AGL79: !causes! narrow leaf shape 
+AGL79: !causes! less number of leaves 
+AGL79: !causes! early flowering time 
+AGL79: !causes! more rosette leaves 
+AGL79: !causes! more lateral branches

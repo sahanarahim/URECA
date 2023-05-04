@@ -1,0 +1,8 @@
+Plant hormones play important roles as signaling molecules in the regulation of growth and development by controlling the expression of downstream genes. Since the hormone signaling system represents a complex network involving functional cross-talk through the mutual regulation of signaling and metabolism, a comprehensive and integrative analysis of plant hormone concentrations and gene expression is important for a deeper understanding of hormone actions. We have developed a database named Uniformed Viewer for Integrated Omics (UniVIO: http://univio.psc.riken.jp/), which displays hormone-metabolome (hormonome) and transcriptome data in a single formatted (uniformed) heat map. At the present time, hormonome and transcriptome data obtained from 14 organ parts of rice plants at the reproductive stage and seedling shoots of three gibberellin signaling mutants are included in the database. The hormone concentration and gene expression data can be searched by substance name, probe ID, gene locus ID or gene description. A correlation search function has been implemented to enable users to obtain information of correlated substance accumulation and gene expression. In the correlation search, calculation method, range of correlation coefficient and plant samples can be selected freely.
+
+Hormones: !regulate! Gene expression
+Gene expression: !controlled by! Hormones
+Hormone signaling: !involves! Functional cross-talk
+UniVIO: !displays! Hormonome and transcriptome data
+Substance name/probe ID/locus ID/description: !searched by! UniVIO
+Correlation search: !enables! Obtaining information of correlated substance accumulation and gene expression

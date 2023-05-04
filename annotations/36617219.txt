@@ -1,0 +1,10 @@
+In pear (Pyrus bretschneideri), pollen tube growth is critical for the double fertilization associated with seed setting, which in turn affects fruit yield. The normal deposition of callose mediates the polar growth of pollen tubes. However, the mechanism regulating callose synthesis in pollen tubes remains relatively uncharacterized. In this study, we revealed that the typical pear pollen tube lifecycle has a semi-growth duration (GD50) of 16.16 h under in vitro culture conditions. Moreover, callose plugs were deposited throughout the pollen tube lifecycle. The formation of callose plugs was inhibited by 2-deoxy-D-glucose, which also accelerated the senescence of pear pollen tubes. Additionally, PbrCalS1B.1, which encodes a plasma membrane-localized callose synthase, was expressed specifically in pollen tubes and restored the fertility of the Arabidopsis (Arabidopsis thaliana) cals5 mutant, in which callose synthesis is inhibited. However, this restoration of fertility was impaired by the transient silencing of PbrCalS1B.1, which restricts callose plug formation and shortens the pear pollen tube lifecycle. More specifically, PbrbZIP52 regulated PbrCalS1B.1 transcription by binding to promoter A-box elements to maintain the periodic formation of callose plugs and normal pollen tube growth, ultimately leading to double fertilization. This study confirmed that PbrbZIP52 positively affects pear pollen tube longevity by promoting callose synthesis. This finding may be useful for breeding high-yielding pear cultivars and stabilizing fruit setting in commercial orchards.
+
+PbrbZIP52: !promotes! PbrCalS1B.1
+PbrCalS1B.1: !synthesizes! callose
+2-deoxy-D-glucose: !inhibits! callose synthesis
+PbrCalS1B.1: !restores! fertility of cals5 mutant
+PbrbZIP52: !regulates! PbrCalS1B.1 transcription
+PbrbZIP52: !maintains! periodic formation of callose plugs
+callose plugs: !mediate! polar growth of pollen tubes
+pollen tube longevity: !enhanced by! PbrbZIP52

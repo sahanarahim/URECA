@@ -1,0 +1,9 @@
+"Lane Late" sweet orange grafted on six different citrus rootstocks and grown in the Guadalquivir valley (Seville, Spain) were picked at different ripening stages in two consecutive seasons to characterize their antioxidant activity (free radicals scavenging activity, reducing power and lipid peroxidation inhibition) and quantify their main antioxidant compounds (vitamin E and vitamin C). Linear discriminant analysis and 2-way ANOVA were applied to compare the effects induced by citrus rootstock and ripening stage. The results showed that differences in antioxidant activity and related compounds are mainly dependent on the citrus rootstock, despite ripening stage had also some particular effects. Changes observed in 2012 showed less marked differences among the citrus rootstock. Nevertheless, Cleopatra rootstock showed the highest antioxidant activity in both years, indicating that an increase in its cultivation might be a good solution to sweet orange farmers. Concerning the ripening stage, samples collected in January presented higher vitamin contents, while those collected in April showed higher antioxidant activity. This result allows deciding the harvesting period according to the desired effect.
+
+rootstock: !affects! antioxidant activity
+rootstock: !affects! vitamin content
+ripening stage: !affects! vitamin content
+ripening stage: !affects! antioxidant activity
+Cleopatra rootstock: !shows highest! antioxidant activity
+January: !shows highest! vitamin content
+April: !shows highest! antioxidant activity

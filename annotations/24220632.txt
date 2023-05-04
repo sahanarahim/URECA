@@ -1,0 +1,8 @@
+Exposure to short-term cold stress delays flowering by activating the floral repressor FLOWERING LOCUS C (FLC) in Arabidopsis thaliana. The cold signaling attenuator HIGH EXPRESSION OF OSMOTICALLY RESPONSIVE GENE1 (HOS1) negatively regulates cold responses. Notably, HOS1-deficient mutants exhibit early flowering, and FLC expression is suppressed in the mutants. However, it remains unknown how HOS1 regulates FLC expression. Here, we show that HOS1 induces FLC expression by antagonizing the actions of FVE and its interacting partner histone deacetylase 6 (HDA6) under short-term cold stress. HOS1 binds to FLC chromatin in an FVE-dependent manner, and FVE is essential for the HOS1-mediated activation of FLC transcription. HOS1 also interacts with HDA6 and inhibits the binding of HDA6 to FLC chromatin. Intermittent cold treatments induce FLC expression by activating HOS1, which attenuates the activity of HDA6 in silencing FLC chromatin, and the effects of intermittent cold are diminished in hos1 and fve mutants. These observations indicate that HOS1 acts as a chromatin remodeling factor for FLC regulation under short-term cold stress.
+
+FLC: !repressed by! HDA6
+HOS1: !activates! FLC
+HOS1: !inhibits! HDA6
+FVE: !essential for! HOS1-mediated activation of FLC
+HOS1: !binds to! FLC chromatin in an FVE-dependent manner
+HOS1: !interacts with! HDA6

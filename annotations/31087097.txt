@@ -1,0 +1,6 @@
+Interactions between biological molecules enable life. The significance of a cell-wide understanding of molecular complexes is thus obvious. In comparison to protein-protein interactions, protein-metabolite interactions remain under-studied. However, this has been gradually changing due to technological progress. Here, we focus on the interactions between ligands and receptors, the triggers of signalling events. While the number of small molecules with proven or proposed signalling roles is rapidly growing, most of their protein receptors remain unknown. Conversely, there are numerous signalling proteins with predicted ligand-binding domains for which the identities of the metabolite counterparts remain elusive. Here, we discuss the current biochemical strategies for identifying protein-metabolite interactions and how they can be used to characterize known metabolite regulators and identify novel ones.
+
+protein: !interacts with! metabolite 
+ligand: !binds to! receptor 
+metabolite: !regulates! protein 
+signalling protein: !has! ligand-binding domain

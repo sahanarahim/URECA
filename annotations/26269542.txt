@@ -1,0 +1,12 @@
+The number of sequenced genomes is rapidly increasing, but functional annotation of the genes in these genomes lags far behind. Even in Arabidopsis (Arabidopsis thaliana), only approximately 40% of enzyme- and transporter-encoding genes have credible functional annotations, and this number is even lower in nonmodel plants. Functional characterization of unknown genes is a challenge, but various databases (e.g. for protein localization and coexpression) can be mined to provide clues. If homologous microbial genes exist-and about one-half the genes encoding unknown enzymes and transporters in Arabidopsis have microbial homologs-cross-kingdom comparative genomics can powerfully complement plant-based data. Multiple lines of evidence can strengthen predictions and warrant experimental characterization. In some cases, relatively quick tests in genetically tractable microbes can determine whether a prediction merits biochemical validation, which is costly and demands specialized skills.
+
+Gene: !affects! Process
+Gene: !localizes to! X
+Gene: !interacts with! Y
+Gene: !enhances! Z
+Gene: !represses! U
+Gene: !synthesizes! I
+Gene: !has homologs in! Microbes
+Gene: !strengthened by! Multiple lines of evidence
+Gene: !tested in! Genetically tractable microbes
+Gene: !validated by! Biochemical validation

@@ -1,0 +1,8 @@
+['20409006', 'WRKY transcription factors play a central role in controlling leaf senescence in  Arabidopsis. One important member, WRKY53, is tightly regulated by various  mechanisms, and is a convergence node between senescence and pathogen responses.  Using WRKY53 in a yeast two-hybrid screen, we isolated the HECT domain E3  ubiquitin ligase UPL5. In contrast to mammals, Arabidopsis contains only seven  HECT E3 ubiquitin ligases, whose targets and functions are largely unknown. In  yeast cells, UPL5 interacts with WRKY53 via its leucine zipper domain, and this  interaction was confirmed in the cytoplasm of plant cells by a bimolecular  fluorescence complementation assay. UPL5 was able to use the WRKY53 protein as a  substrate for polyubiquitination in an in vitro system, and induction of UPL5  expression by an ethanol-inducible system in upl5 plants led to degradation of  the WRKY53 protein. Expression of both genes is regulated antagonistically in  response to hydrogen peroxide, jasmonic acid and plant development. Two T-DNA  insertion lines (upl5-1 and upl5-2) showed the same senescence phenotype as  WRKY53 over-expressers. Over-expression of WRKY53 in the upl5 background enhanced  the accelerated senescence phenotype of WRKY53 over-expressers. Therefore, we  conclude that UPL5 regulates leaf senescence in Arabidopsis through degradation  of WRKY53 and ensures that senescence is executed in the correct time frame.', '2010 Jul', 'Plant J', '10.1111/j.1365-313X.2010.04233.x', 'Zentgraf']
+
+WRKY53: !regulates! leaf senescence
+UPL5: !interacts with! WRKY53
+UPL5: !uses! WRKY53 as substrate
+WRKY53: !repressed by! UPL5
+WRKY53: !enhanced by! UPL5
+WRKY53: !regulated antagonistically by! hydrogen peroxide, jasmonic acid and plant development

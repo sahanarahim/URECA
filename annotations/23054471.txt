@@ -1,0 +1,8 @@
+The architecture of a plant's root system, established postembryonically, results from both coordinated root growth and lateral root branching. The plant hormones auxin and cytokinin are central endogenous signaling molecules that regulate lateral root organogenesis positively and negatively, respectively. Tight control and mutual balance of their antagonistic activities are particularly important during the early phases of lateral root organogenesis to ensure continuous lateral root initiation (LRI) and proper development of lateral root primordia (LRP). Here, we show that the early phases of lateral root organogenesis, including priming and initiation, take place in root zones with a repressed cytokinin response. Accordingly, ectopic overproduction of cytokinin in the root basal meristem most efficiently inhibits LRI. Enhanced cytokinin responses in pericycle cells between existing LRP might restrict LRI near existing LRP and, when compromised, ectopic LRI occurs. Furthermore, our results demonstrate that young LRP are more sensitive to perturbations in the cytokinin activity than are developmentally more advanced primordia. We hypothesize that the effect of cytokinin on the development of primordia possibly depends on the robustness and stability of the auxin gradient.
+
+auxin: !regulates! lateral root organogenesis
+cytokinin: !regulates! lateral root organogenesis
+cytokinin: !inhibits! lateral root initiation
+cytokinin: !restricts! lateral root initiation
+cytokinin: !affects! development of primordia
+auxin: !affects! development of primordia

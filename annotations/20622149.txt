@@ -1,0 +1,9 @@
+The production and distribution of plant trichomes is temporally and spatially regulated. After entering into the flowering stage, Arabidopsis thaliana plants have progressively reduced numbers of trichomes on the inflorescence stem, and the floral organs are nearly glabrous. We show here that SQUAMOSA PROMOTER BINDING PROTEIN LIKE (SPL) genes, which define an endogenous flowering pathway and are targeted by microRNA 156 (miR156), temporally control the trichome distribution during flowering. Plants overexpressing miR156 developed ectopic trichomes on the stem and floral organs. By contrast, plants with elevated levels of SPLs produced fewer trichomes. During plant development, the increase in SPL transcript levels is coordinated with the gradual loss of trichome cells on the stem. The MYB transcription factor genes TRICHOMELESS1 (TCL1) and TRIPTYCHON (TRY) are negative regulators of trichome development. We show that SPL9 directly activates TCL1 and TRY expression through binding to their promoters and that this activation is independent of GLABROUS1 (GL1). The phytohormones cytokinin and gibberellin were reported to induce trichome formation on the stem and inflorescence via the C2H2 transcription factors GIS, GIS2, and ZFP8, which promote GL1 expression. We show that the GIS-dependent pathway does not affect the regulation of TCL1 and TRY by miR156-targeted SPLs, represented by SPL9. These results demonstrate that the miR156-regulated SPLs establish a direct link between developmental programming and trichome distribution.
+
+miR156: !targets! SPLs 
+SPLs: !activate! TCL1 
+SPLs: !activate! TRY 
+TCL1: !represses! trichome formation 
+TRY: !represses! trichome formation 
+GIS: !induces! GL1 expression 
+GL1: !does not affect! TCL1/TRY regulation

@@ -1,0 +1,8 @@
+High-throughput sequencing of ribosome footprints precisely maps and quantifies <i>in vivo</i> mRNA translation. The ribosome footprint sequencing has undergone continuing development since its original report. Here we provide a detailed protocol for construction of high-quality ribosome footprint library of rice. Rice total polysomes are isolated with a modified low ionic polysome extraction buffer. After nuclease digestion, rice ribosome footprints are extracted using SDS method followed by column purification. High-quality rice ribosome footprint library with peak reads of approximately 28-nucleotide (nt) length and strong 3-nt periodicity is constructed <i>via</i> key steps including rRNA depletion, end repair, 3' adapter ligation, reverse transcription, circularization, PCR enrichment and several rounds of purification. Biological significance of rice ribosome footprint library is further revealed by the comparison of transcriptomic and translatomic responses to salt stress and the utilization for novel open reading frame (ORF) identification. This improved protocol for rice ribosome footprint library construction will facilitate the global comprehension and quantitative measurement of dynamic translation in rice.
+
+polysomes: !isolated with! modified low ionic buffer
+nuclease digestion: !extracts! ribosome footprints
+3' adapter ligation: !constructs! high-quality ribosome footprint library
+rRNA depletion: !enriches! ribosome footprint library
+transcriptomic/translatomic responses: !compared to! salt stress
+ORF identification: !utilized for! novel open reading frame

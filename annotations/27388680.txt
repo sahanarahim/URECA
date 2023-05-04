@@ -1,0 +1,9 @@
+Eukaryotic initiation factor 4A (eIF4A) is a highly conserved RNA-stimulated ATPase and helicase involved in the initiation of messenger RNA translation. Previously, we found that eIF4A interacts with cyclin-dependent kinase A (CDKA), the plant ortholog of mammalian CDK1. Here, we show that this interaction occurs only in proliferating cells where the two proteins coassociate with 5'-cap-binding protein complexes, eIF4F or the plant-specific eIFiso4F. CDKA phosphorylates eIF4A on a conserved threonine residue (threonine-164) within the RNA-binding motif 1b TPGR. In vivo, a phospho-null (APGR) variant of the Arabidopsis (Arabidopsis thaliana) eIF4A1 protein retains the ability to functionally complement a mutant (eif4a1) plant line lacking eIF4A1, whereas a phosphomimetic (EPGR) variant fails to complement. The phospho-null variant (APGR) rescues the slow growth rate of roots and rosettes, together with the ovule-abortion and late-flowering phenotypes. In vitro, wild-type recombinant eIF4A1 and its phospho-null variant both support translation in cell-free wheat germ extracts dependent upon eIF4A, but the phosphomimetic variant does not support translation and also was deficient in ATP hydrolysis and helicase activity. These observations suggest a mechanism whereby CDK phosphorylation has the potential to down-regulate eIF4A activity and thereby affect translation.
+
+eIF4A: !interacts with! CDKA 
+CDKA: !phosphorylates! eIF4A 
+eIF4A: !coassociates with! eIF4F 
+eIF4A: !coassociates with! eIFiso4F 
+eIF4A: !supports! translation 
+eIF4A: !hydrolyzes! ATP 
+eIF4A: !has helicase activity!

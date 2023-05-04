@@ -1,0 +1,10 @@
+Callose synthesis occurs at specific stages of plant cell wall development in all cell types, and in response to pathogen attack, wounding and physiological stresses. We determined the expression pattern of "upstream regulatory sequence" of 12 Arabidopsis callose synthase genes (CalS1-12) genes and demonstrated that different callose synthases are expressed specifically in different tissues during plant development. That multiple CalS genes are expressed in the same cell type suggests the possibility that CalS complex may be constituted by heteromeric subunits. Five CalS genes were induced by pathogen (Hyaloperonospora arabidopsis, previously known as Peronospora parasitica, the causal agent of downy mildew) or salicylic acid (SA), while the other seven CalS genes were not affected by these treatments. Among the genes that are induced, CalS1 and CalS12 showed the highest responses. In Arabidopsis npr1 mutant, impaired in response of pathogenesis related (PR) genes to SA, the induction of CalS1 and CalS12 genes by the SA or pathogen treatments was significantly reduced. The patterns of expression of the other three CalS genes were not changed significantly in the npr1 mutant. These results suggest that the high induction observed of CalS1 and CalS12 is Npr1 dependent while the weak induction of five CalS genes is Npr1 independent. In a T-DNA knockout mutant of CalS12, callose encasement around the haustoria on the infected leaves was reduced and the mutant was found to be more resistant to downy mildew as compared to the wild type plants.
+
+CalS1: !induces! Pathogen
+CalS12: !induces! Pathogen
+CalS1: !induces! SA
+CalS12: !induces! SA
+Npr1: !regulates! CalS1
+Npr1: !regulates! CalS12
+CalS12: !encases! Haustoria
+CalS12: !resists! Downy Mildew

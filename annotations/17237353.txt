@@ -1,0 +1,8 @@
+A central reaction of chlorophyll breakdown, porphyrin ring opening of pheophorbide a to the primary fluorescent chlorophyll catabolite (pFCC), requires pheophorbide a oxygenase (PAO) and red chlorophyll catabolite reductase (RCCR), with red chlorophyll catabolite (RCC) as a presumably PAO-bound intermediate. In subsequent steps, pFCC is converted to different fluorescent chlorophyll catabolites (FCCs) and nonfluorescent chlorophyll catabolites (NCCs). Here, we show that RCCR-deficient Arabidopsis thaliana accumulates RCC and three RCC-like pigments during senescence, as well as FCCs and NCCs. We also show that the stereospecificity of Arabidopsis RCCR is defined by a small protein domain and can be reversed by a single Phe-to-Val exchange. Exploiting this feature, we prove the in vivo participation of RCCR in chlorophyll breakdown. After complementation of RCCR mutants with RCCRs exhibiting alternative specificities, patterns of chlorophyll catabolites followed the specificity of complementing RCCRs. Light-dependent leaf cell death observed in different RCCR-deficient lines strictly correlated with the accumulation of RCCs and the release of singlet oxygen, and PAO induction preceded lesion formation. These findings suggest that RCCR absence causes leaf cell death as a result of the accumulation of photodynamic RCC. We conclude that RCCR (together with PAO) is required for the detoxification of chlorophyll catabolites and discuss the biochemical role(s) for this enzyme.
+
+PAO: !requires! RCCR
+RCCR: !defines! Stereospecificity
+Phe-to-Val exchange: !reverses! Stereospecificity
+RCCR: !participates in! Chlorophyll breakdown
+RCCR: !causes! Leaf cell death
+PAO: !induces! Lesion formation

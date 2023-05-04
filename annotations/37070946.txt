@@ -1,0 +1,12 @@
+Three-dimensional (3D) chromatin organization is highly dynamic during development and seems to play a crucial role in regulating gene expression. Self-interacting domains, commonly called topologically associating domains (TADs) or compartment domains (CDs), have been proposed as the basic structural units of chromatin organization. Surprisingly, although these units have been found in several plant species, they escaped detection in Arabidopsis (Arabidopsis thaliana). Here, we show that the Arabidopsis genome is partitioned into contiguous CDs with different epigenetic features, which are required to maintain appropriate intra-CD and long-range interactions. Consistent with this notion, the histone-modifying Polycomb group machinery is involved in 3D chromatin organization. Yet, while it is clear that Polycomb Repressive Complex 2 (PRC2)-mediated trimethylation of histone H3 on lysine 27 (H3K27me3) helps establish local and long-range chromatin interactions in plants, the implications of PRC1-mediated histone H2A monoubiquitination on lysine 121 (H2AK121ub) are unclear. We found that PRC1, together with PRC2, maintains intra-CD interactions, but it also hinders the formation of H3K4me3-enriched local chromatin loops when acting independently of PRC2. Moreover, the loss of PRC1 or PRC2 activity differentially affects long-range chromatin interactions, and these 3D changes differentially affect gene expression. Our results suggest that H2AK121ub helps prevent the formation of transposable element/H3K27me1-rich long loops and serves as a docking point for H3K27me3 incorporation.
+
+Gene: !affects! Expression
+TADs/CDs: !partition! Arabidopsis genome
+Polycomb machinery: !involved in! 3D chromatin organization
+PRC2: !mediates! H3K27me3
+PRC1: !mediates! H2AK121ub
+PRC1/PRC2: !maintain! intra-CD interactions
+PRC1: !hinders! formation of H3K4me3-enriched local chromatin loops
+PRC1/PRC2: !differentially affect! long-range chromatin interactions
+H2AK121ub: !prevents! formation of transposable element/H3K27me1-rich long loops
+H2AK121ub: !serves as! docking point for H3K27me3 incorporation

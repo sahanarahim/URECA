@@ -1,0 +1,7 @@
+We predicted 262 potential MicroRNAs (miRNAs) belonging to 70 miRNA families from the peach (Prunus persica) genome and two specific 5' and 3' miRNA rapid amplification of cDNA ends (miR-RACE) PCR reactions and sequence-directed cloning were employed to accurately validate 61 unique P. persica miRNAs (Ppe-miRNAs) sequences belonging to 61 families comprising 97 Ppe-miRNAs. Validation of the termini nucleotides in particular can define the real sequences of the Ppe-miRNAs on peach genome. Comparison between predicted and validated Ppe-miRNAs through alignment revealed that 43 unique orthologous sequences were identical, while the remaining 18 exhibited some divergences at their termini nucleotides. Quantitative real-time polymerase chain reaction (qRT-PCR) was further employed to analyze the expression of all the 61 miRNAs and 10 putative targets of 8 randomly selected Ppe-miRNAs in peach leaves, flowers and fruits at different stages of development, where both the miRNAs and the putative target genes showed tissue-specific expression.
+
+Gene: !predicts! miRNAs 
+miRNA: !validates! Ppe-miRNAs 
+Ppe-miRNAs: !aligns with! predicted miRNAs 
+Ppe-miRNAs: !analyzes expression of! qRT-PCR 
+qRT-PCR: !examines! tissue-specific expression

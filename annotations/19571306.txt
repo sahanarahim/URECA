@@ -1,0 +1,8 @@
+Metabolic profiling of elicited barrel medic (Medicago truncatula) cell cultures using high-performance liquid chromatography coupled to photodiode and mass spectrometry detection revealed the accumulation of the aurone hispidol (6-hydroxy-2-[(4-hydroxyphenyl)methylidene]-1-benzofuran-3-one) as a major response to yeast elicitor. Parallel, large-scale transcriptome profiling indicated that three peroxidases, MtPRX1, MtPRX2, and MtPRX3, were coordinately induced with the accumulation of hispidol. MtPRX1 and MtPRX2 exhibited aurone synthase activity based upon in vitro substrate specificity and product profiles of recombinant proteins expressed in Escherichia coli. Hispidol possessed significant antifungal activity relative to other M. truncatula phenylpropanoids tested but has not been reported in this species before and was not found in differentiated roots in which high levels of the peroxidase transcripts accumulated. We propose that hispidol is formed in cell cultures by metabolic spillover when the pool of its precursor, isoliquiritigenin, builds up as a result of an imbalance between the upstream and downstream segments of the phenylpropanoid pathway, reflecting the plasticity of plant secondary metabolism. The results illustrate that integration of metabolomics and transcriptomics in genetically reprogrammed plant cell cultures is a powerful approach for the discovery of novel bioactive secondary metabolites and the mechanisms underlying their generation.
+
+MtPRX1: !synthesizes! hispidol
+MtPRX2: !synthesizes! hispidol
+MtPRX3: !induces! MtPRX1 & MtPRX2
+yeast elicitor: !induces! MtPRX3
+isoliquiritigenin: !precursor of! hispidol
+phenylpropanoid pathway: !imbalance of! isoliquiritigenin

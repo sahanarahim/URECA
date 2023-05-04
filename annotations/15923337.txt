@@ -1,0 +1,9 @@
+Expression of genes in eukaryotic genomes is known to cluster, but cluster size is generally loosely defined and highly variable. We have here taken a very strict definition of cluster as sets of physically adjacent genes that are highly coexpressed and form so-called local coexpression domains. The Arabidopsis (Arabidopsis thaliana) genome was analyzed for the presence of such local coexpression domains to elucidate its functional characteristics. We used expression data sets that cover different experimental conditions, organs, tissues, and cells from the Massively Parallel Signature Sequencing repository and microarray data (Affymetrix) from a detailed root analysis. With these expression data, we identified 689 and 1,481 local coexpression domains, respectively, consisting of two to four genes with a pairwise Pearson's correlation coefficient larger than 0.7. This number is approximately 1- to 5-fold higher than the numbers expected by chance. A small (5%-10%) yet significant fraction of genes in the Arabidopsis genome is therefore organized into local coexpression domains. These local coexpression domains were distributed over the genome. Genes in such local domains were for the major part not categorized in the same functional category (GOslim). Neither tandemly duplicated genes nor shared promoter sequence nor gene distance explained the occurrence of coexpression of genes in such chromosomal domains. This indicates that other parameters in genes or gene positions are important to establish coexpression in local domains of Arabidopsis chromosomes.
+
+Gene: !clusters in! local coexpression domains
+Gene: !coexpresses with! other genes
+Gene: !distributes over! genome
+Gene: !not categorized in! same functional category
+Gene: !not explained by! tandem duplication
+Gene: !not explained by! shared promoter sequence
+Gene: !not explained by! gene distance

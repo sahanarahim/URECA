@@ -1,0 +1,8 @@
+['23300166', 'Reactive oxygen species (ROS) have been characterized as both important signaling  molecules and universal stressors that mediate many developmental and  physiological responses. So far, details of the transcriptional mechanism of  ROS-responsive genes are largely unknown. In the study reported here, we  identified seven potential ROS-responsive cis-acting elements (ROSEs) from the  promoters of genes up-regulated by ROS in Arabidopsis (Arabidopsis thaliana). We  also found that the APETALA2/ethylene-responsive element binding factor6 (ERF6)  could bind specifically to the ROSE7/GCC box. Coexpression of ERF6 enhanced  luciferase activity driven by ROSE7. The deficient mutants of ERF6 showed growth  retardation and higher sensitivity to photodamage. ERF6 interacted physically  with mitogen-activated protein kinase6 (MPK6) and also served as a substrate of  MPK6. MPK6-mediated ERF6 phosphorylation at both serine-266 and serine-269  affected the dynamic alternation of the ERF6 protein, which resulted in changes  in ROS-responsive gene transcription. These data might provide new insight into  the mechanisms that regulate ROS-responsive gene transcription via a complex of  MPK6, ERF6, and the ROSE7/GCC box under oxidative stress or a fluctuating light  environment.', '2013 Mar', 'Plant Physiol', '10.1104/pp.112.210724', 'Song']
+
+ROS: !regulates! gene transcription
+ERF6: !binds to! ROSE7/GCC box
+ERF6: !enhances! luciferase activity
+ERF6: !interacts with! MPK6
+MPK6: !phosphorylates! ERF6
+ERF6: !affects! ROS-responsive gene transcription

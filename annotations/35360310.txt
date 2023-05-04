@@ -1,0 +1,10 @@
+Nitrogen assimilation is an essential process that controls plant growth and development. Plant cells adjust the transcription of nitrogen assimilation genes through transcription factors (TFs) to acclimatize to changing nitrogen levels in nature. However, the regulatory mechanisms of these TFs under nitrogen-repleted (+N) conditions in plant lineages remain largely unknown. Here, we identified a negative domain (ND) of CmMYB1, the nitrogen-depleted (-N)-activated TF, in a unicellular red alga <i>Cyanidioschyzon merolae</i>. The ND deletion changed the localization of CmMYB1 from the cytoplasm to the nucleus, enhanced the binding efficiency of CmMYB1 to promoters of nitrate assimilation genes, and increased the transcripts of nitrate assimilation genes under +N condition. A pull-down assay using an ND-overexpressing strain combined with liquid chromatography-tandem mass spectrometry (LC-MS/MS) analysis helped us to screen and identify an unknown-function protein, the CmNDB1. Yeast two-hybrid analysis demonstrated that CmNDB1 interacts with ND. Similar to ND deletion, <i>CmNDB1</i> deletion also led to the nucleus localization of CmMYB1, enhanced the promoter-binding ratio of CmMYB1 to the promoter regions of nitrate assimilation genes, and increased transcript levels of nitrate assimilation genes under +N condition. Thus, these presented results indicated that ND and CmNDB1 negatively regulate CmMYB1 functions under the +N condition in <i>C. merolae</i>.
+
+CmMYB1: !localizes to! cytoplasm 
+ND: !affects! CmMYB1 localization 
+CmMYB1: !enhances! binding efficiency of nitrate assimilation genes 
+CmMYB1: !increases! transcripts of nitrate assimilation genes 
+CmNDB1: !interacts with! ND 
+CmNDB1: !affects! CmMYB1 localization 
+CmNDB1: !enhances! binding efficiency of nitrate assimilation genes 
+CmNDB1: !increases! transcripts of nitrate assimilation genes

@@ -1,0 +1,6 @@
+['21855796', 'The brassinosteroid (BR) signaling pathway includes two receptor-like kinases  (BRI1 and BAK1), a plasma membrane-associated kinase (BSK1), two phosphatases  (BSU1 and PP2A), a GSK3-like kinase (BIN2), and two homologous transcription  factors (BZR1 and BES1/BZR2). But the mechanisms of signal relay are not fully  understood. Here, we show that a receptor-like cytoplasmic kinase named CDG1  mediates signal transduction from BRI1 to BSU1. Transgenic experiments confirm  that CDG1 and its homolog CDL1 positively regulate BR signaling and plant growth.  Mass spectrometry analysis identified BRI1 phosphorylation sites in CDG1 and CDG1  phosphorylation sites in BSU1. Mutations of these phosphorylation sites  compromised the BR signaling functions. The results demonstrate that BRI1  phosphorylates S234 to activate CDG1 kinase, and CDG1 in turn phosphorylates S764  to activate BSU1, which inactivates BIN2 by dephosphorylating Y200 of BIN2. This  study thus demonstrates a complete phosphorylation/dephosphorylation cascade  linking a steroid-activated receptor kinase to a GSK3-like kinase in plants.', '2011 Aug 19', 'Mol Cell', '10.1016/j.molcel.2011.05.037', 'Wang']
+
+BRI1: !phosphorylates! CDG1 
+CDG1: !phosphorylates! BSU1 
+BSU1: !dephosphorylates! BIN2 
+BIN2: !phosphorylates! Y200

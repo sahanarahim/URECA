@@ -1,0 +1,9 @@
+Plant biomass allocation may be optimized to acquire and conserve resources. How trade-offs in the allocation of tropical tree seedlings depend on different stressors remains poorly understood. Here we test whether above- and below-ground traits of tropical tree seedlings could explain observed occurrence along gradients of resources (light, water) and defoliation (fire, herbivory). We grew 24 tree species occurring in five African vegetation types, varying from dry savanna to moist forest, in a glasshouse for 6 months, and measured traits associated with biomass allocation. Classification based on above-ground traits resulted in clusters representing savanna and forest species, with low and high shoot investment, respectively. Classification based on root traits resulted in four clusters representing dry savanna, humid savanna, dry forest and moist forest, characterized by a deep mean rooting depth, root starch investment, high specific root length in deeper soil layers, and high specific root length in the top soil layer, respectively. In conclusion, tree seedlings in this study show root trait syndromes, which vary along gradients of resources and defoliation: seedlings from dry areas invest in deep roots, seedlings from shaded environments optimize shoot investment, and seedlings experiencing frequent defoliation store resources in the roots.
+
+light: !affects! shoot investment 
+water: !affects! root traits 
+fire: !affects! root starch investment 
+herbivory: !affects! specific root length 
+savanna species: !invest in! deep roots 
+forest species: !invest in! shoots 
+defoliation: !causes! resource storage in roots

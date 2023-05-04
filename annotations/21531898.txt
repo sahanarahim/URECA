@@ -1,0 +1,8 @@
+Discovery of rare mutations in populations requires methods, such as TILLING (for Targeting Induced Local Lesions in Genomes), for processing and analyzing many individuals in parallel. Previous TILLING protocols employed enzymatic or physical discrimination of heteroduplexed from homoduplexed target DNA. Using mutant populations of rice (Oryza sativa) and wheat (Triticum durum), we developed a method based on Illumina sequencing of target genes amplified from multidimensionally pooled templates representing 768 individuals per experiment. Parallel processing of sequencing libraries was aided by unique tracer sequences and barcodes allowing flexibility in the number and pooling arrangement of targeted genes, species, and pooling scheme. Sequencing reads were processed and aligned to the reference to identify possible single-nucleotide changes, which were then evaluated for frequency, sequencing quality, intersection pattern in pools, and statistical relevance to produce a Bayesian score with an associated confidence threshold. Discovery was robust both in rice and wheat using either bidimensional or tridimensional pooling schemes. The method compared favorably with other molecular and computational approaches, providing high sensitivity and specificity.
+
+TILLING: !processes! individuals
+Illumina sequencing: !amplifies! target genes
+tracer sequences: !aids! parallel processing
+sequencing reads: !aligned to! reference
+single-nucleotide changes: !evaluated for! frequency
+Bayesian score: !produces! confidence threshold

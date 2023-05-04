@@ -1,0 +1,14 @@
+Alternaria blotch disease, caused by Alternaria alternata apple pathotype (AAAP), is one of the most prevalent diseases in apple production. To identify AAAP resistance-related genes and provide a theoretical basis for Alternaria blotch disease resistance breeding, we used two apple cultivars, 'Jonathan', a variety resistant to AAAP infection, and 'Starking Delicious', a variety susceptible to AAAP infection, as materials to perform transcriptome sequencing of apple leaves 72 h after AAAP infection. A Venn diagram showed that a total of 5229 DEGs of 'Jonathan' and 4326 DEGs of 'Starking Delicious' were identified. GO analysis showed that these DEGs were clustered into 25 GO terms, primarily "metabolic process" and "catalytic activity." Functional classification analyses of the DEGs indicated that "MAPK signaling pathway-plant pathway" is the most significant metabolic pathway among the top 15 KEGG pathways, followed by the "plant hormone signal transduction" pathway. There are more DEGs in 'Jonathan' that are significantly classified GO terms and KEGG pathways than in 'Starking Delicious'. Specifically, 13 DEGs were identified as involved in the GA-GID1-DELLA module, and the expression of MdGRAS53, a homologous gene of DELLA, was significantly upregulated in 'Jonathan' compared with 'Starking Delicious'. Phenotype analysis revealed that exogenous hormone GA3 suppressed apple resistance to AAAP infection and reduced the expression of MdGRAS53. The opposite result was observed for exogenous spraying of paclobutrazol (PAC), an inhibitor of gibberellin synthesis. Overexpression of MdGRAS53 in apple leaves by transient transformation decreased lesion area and the number of spores in leaves infected with AAAP, while silencing MdGRAS53 showed the opposite result. Meanwhile, SA/JA signaling pathway-related genes were upregulated significantly in MdGRAS53-overexpressed leaves and downregulated significantly in MdGRAS53-silenced leaves. The findings suggest that the GA-GID1-DELLA module is involved in apple resistance to AAAP, and MdGRAS53, a DELLA homologous gene, may play a positive role in this resistance by modulating cooperative JA- and SA-dependent pathways.
+
+AAAP: !causes! Alternaria blotch disease 
+'Jonathan': !resistant to! AAAP 
+'Starking Delicious': !susceptible to! AAAP 
+GO terms: !cluster into! "metabolic process" and "catalytic activity" 
+KEGG pathways: !most significant! "MAPK signaling pathway-plant pathway" 
+GA-GID1-DELLA module: !involve! 13 DEGs 
+MdGRAS53: !upregulated in! 'Jonathan' 
+GA3: !suppresses! apple resistance to AAAP 
+PAC: !inhibits! gibberellin synthesis 
+MdGRAS53: !overexpressed! decreases lesion area and number of spores 
+MdGRAS53: !silenced! increases lesion area and number of spores 
+JA- and SA-dependent pathways: !modulated by! MdGRAS53

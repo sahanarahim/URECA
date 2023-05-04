@@ -1,0 +1,10 @@
+Tight coordination in the photosynthetic, gas exchange and water supply capacities of leaves is a globally conserved trend across land plants. Strong selective constraints on leaf carbon gain create the opportunity to use quantitative optimization theory to understand the connected evolution of leaf photosynthesis and water relations. We developed an analytical optimization model that maximizes the long-term rate of leaf carbon gain, given the carbon costs in building and maintaining stomata, leaf hydraulics and osmotic pressure. Our model demonstrates that selection for optimal gain should drive coordination between key photosynthetic, gas exchange and water relations traits. It also provides predictions of adaptation to drought and the relative costs of key leaf functional traits. Our results show that optimization in terms of carbon gain, given the carbon costs of physiological traits, successfully unites leaf photosynthesis and water relations and provides a quantitative framework to consider leaf functional evolution and adaptation.
+
+Gene: !affects! Photosynthesis 
+Gene: !affects! Gas exchange 
+Gene: !affects! Water supply 
+Gene: !enhances! Carbon gain 
+Gene: !represses! Carbon costs 
+Gene: !synthesizes! Stomata 
+Gene: !synthesizes! Leaf hydraulics 
+Gene: !synthesizes! Osmotic pressure

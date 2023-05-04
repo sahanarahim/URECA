@@ -1,0 +1,9 @@
+Covalent modifications of histones are essential to control a wide range of processes during development and adaptation to environmental changes. With the establishment of reference epigenomes, patterns of histone modifications were correlated with transcriptionally active or silenced genes. These patterns imply the need for the precise and dynamic coordination of different histone-modifying enzymes to control transcription at a given gene. Classically, the influence of these enzymes on gene expression is examined separately and their interplays rarely established. In Arabidopsis, HISTONE MONOUBIQUITINATION2 (HUB2) mediates H2B monoubiquitination (H2Bub1), whereas SET DOMAIN GROUP8 (SDG8) catalyzes H3 lysine 36 trimethylation (H3K36me3). In this work, we crossed hub2 with sdg8 mutants to elucidate their functional relationships. Despite similar phenotypic defects, sdg8 and hub2 mutations broadly affect genome transcription and plant growth and development synergistically. Also, whereas H3K4 methylation appears largely dependent on H2Bub1, H3K36me3 and H2Bub1 modifications mutually reinforce each other at some flowering time genes. In addition, SDG8 and HUB2 jointly antagonize the increase of the H3K27me3 repressive mark. Collectively, our data provide an important insight into the interplay between histone marks and highlight their interactive complexity in regulating chromatin landscape which might be necessary to fine-tune transcription and ensure plant developmental plasticity.
+
+H2Bub1: !mediates! HISTONE MONOUBIQUITINATION2 
+SDG8: !catalyzes! H3 lysine 36 trimethylation 
+sdg8: !affects! genome transcription 
+hub2: !affects! genome transcription 
+H3K4 methylation: !dependent on! H2Bub1 
+H3K36me3: !reinforces! H2Bub1 
+SDG8: !antagonizes! H3K27me3

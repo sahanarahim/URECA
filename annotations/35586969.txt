@@ -1,0 +1,8 @@
+Ecological differentiation can drive speciation but it is unclear how the genetic architecture of habitat-dependent fitness contributes to lineage divergence. We investigated the genetic architecture of cumulative flowering, a fitness component, in second-generation hybrids between Silene dioica and Silene latifolia transplanted into the natural habitat of each species. We used reduced-representation sequencing and Bayesian sparse linear mixed models (BSLMMs) to analyze the genetic control of cumulative flowering in each habitat. Our results point to a polygenic architecture of cumulative flowering. Allelic effects were mostly beneficial or deleterious in one habitat and neutral in the other. Positive-effect alleles often were derived from the native species, whereas negative-effect alleles, at other loci, tended to originate from the non-native species. We conclude that ecological differentiation is governed and maintained by many loci with small, habitat-dependent effects consistent with conditional neutrality. This pattern may result from differences in selection targets in the two habitats and from environmentally dependent deleterious load. Our results further suggest that selection for native alleles and against non-native alleles acts as a barrier to gene flow between species.
+
+Gene: !affects! Cumulative flowering 
+Gene: !beneficial in! Native habitat 
+Gene: !deleterious in! Non-native habitat 
+Gene: !derived from! Native species 
+Gene: !against! Non-native species 
+Gene: !acts as a barrier to! Gene flow

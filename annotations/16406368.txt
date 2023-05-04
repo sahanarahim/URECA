@@ -1,0 +1,6 @@
+Taste-modifying proteins are a natural alternative to artificial sweeteners and flavor enhancers and have been used in some cultures for centuries. The taste-modifying protein, miraculin, has the unusual property of being able to modify a sour taste into a sweet taste. Here, we report the use of a plant expression system for the production of miraculin. A synthetic gene encoding miraculin was placed under the control of constitutive promoters and transferred to lettuce. Expression of this gene in transgenic lettuce resulted in the accumulation of significant amounts of miraculin protein in the leaves. The miraculin expressed in transgenic lettuce possessed sweetness-inducing activity. These results demonstrate that the production of miraculin in edible plants can be a good alternative strategy to enhance the availability of this protein.
+
+miraculin: !synthesizes in! transgenic lettuce 
+transgenic lettuce: !produces! miraculin 
+miraculin: !modifies! sour taste 
+miraculin: !induces! sweetness

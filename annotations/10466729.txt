@@ -1,0 +1,7 @@
+['10466729', 'The phytochrome photoreceptor family directs plant gene expression by switching  between biologically inactive and active conformers in response to the sequential  absorption of red and farred photons. Several intermediates that act late in the  phytochrome signalling pathway have been identified, but fewer have been  identified that act early in the pathway. We have cloned a nuclear basic  helix-loop-helix protein, PIF3, which can bind to non-photoactive  carboxy-terminal fragments of phytochromes A and B and functions in phytochrome  signalling in vivo. Here we show that full-length photoactive phytochrome B binds  PIF3 in vitro only upon light-induced conversion to its active form, and that  photoconversion back to its inactive form causes dissociation from PIF3. We  conclude that photosensory signalling by phytochrome B involves light-induced,  conformer-specific recognition of the putative transcriptional regulator PIF3,  providing a potential mechanism for direct photoregulation of gene expression.', '1999 Aug 19', 'Nature', '10.1038/23500', 'Quail']
+
+phytochrome B: !binds to! PIF3 
+PIF3: !binds to! carboxy-terminal fragments of phytochromes A and B 
+photoactive phytochrome B: !recognizes! PIF3 
+light: !induces! conversion of photoactive phytochrome B 
+conversion: !dissociates! PIF3

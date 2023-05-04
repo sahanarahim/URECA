@@ -1,0 +1,13 @@
+Two homologous plastocyanin isoforms are encoded by the genes PETE1 and PETE2 in the nuclear genome of Arabidopsis thaliana. The PETE2 transcript is expressed at considerably higher levels and the PETE2 protein is the more abundant isoform. Null mutations in the PETE genes resulted in plants, designated pete1 and pete2, with decreased plastocyanin contents. However, despite reducing plastocyanin levels by over approximately 90%, a pete2 null mutation on its own affects rates of photosynthesis and growth only slightly, whereas pete1 knockout plants, with about 60-80% of the wild-type plastocyanin level, did not show any alteration. Hence, plastocyanin concentration is not limiting for photosynthetic electron flow under optimal growth conditions, perhaps implying other possible physiological roles for the protein. Indeed, plastocyanin has been proposed previously to cooperate with cytochrome c(6A) (Cyt c(6A)) in thylakoid redox reactions, but we find no evidence for a physical interaction between the two proteins, using interaction assays in yeast. We observed homodimerization of Cyt c(6A) in yeast interaction assays, but also Cyt c(6A) homodimers failed to interact with plastocyanin. Moreover, phenotypic analysis of atc6-1 pete1 and atc6-1 pete2 double mutants, each lacking Cyt c(6A) and one of the two plastocyanin-encoding genes, failed to reveal any genetic interaction. Overexpression of either PETE1 or PETE2 in the pete1 pete2 double knockout mutant background results in essentially wild-type photosynthetic performance, excluding the possibility that the two plastocyanin isoforms could have distinct functions in thylakoid electron flow.
+
+PETE1: !encodes! plastocyanin isoform
+PETE2: !encodes! plastocyanin isoform
+pete1: !lacks! PETE1
+pete2: !lacks! PETE2
+plastocyanin: !not limiting for! photosynthetic electron flow
+Cyt c(6A): !homodimerizes! in yeast interaction assays
+Cyt c(6A): !fails to interact with! plastocyanin
+atc6-1 pete1: !lacks! Cyt c(6A) and PETE1
+atc6-1 pete2: !lacks! Cyt c(6A) and PETE2
+PETE1: !overexpression of! restores wild-type photosynthetic performance
+PETE2: !overexpression of! restores wild-type photosynthetic performance

@@ -1,0 +1,10 @@
+The biosynthesis of lignin, flavonoids, and hydroxycinnamoyl esters share the first three enzymatic steps of the phenylpropanoid pathway. The last shared step is catalyzed by 4-coumarate:CoA ligase (4CL), which generates p-coumaroyl CoA and caffeoyl CoA from their respective acids. Four isoforms of 4CL have been identified in Arabidopsis (Arabidopsis thaliana). Phylogenetic analysis reveals that 4CL1, 4CL2, and 4CL4 are more closely related to each other than to 4CL3, suggesting that the two groups may serve different biological functions. Promoter-GUS analysis shows that 4CL1 and 4CL2 are expressed in lignifying cells. In contrast, 4CL3 is expressed in a broad range of cell types, and 4CL3 has acquired a distinct role in flavonoid metabolism. Sinapoylmalate, the major hydroxycinnamoyl ester found in Arabidopsis, is greatly reduced in the 4cl1 4cl3 mutant, showing that 4CL1 and 4CL3 function redundantly in its biosynthesis. 4CL1 accounts for the majority of the total 4CL activity, and loss of 4CL1 leads to reduction in lignin content but no growth defect. The 4cl1 4cl2 and 4cl1 4cl2 4cl3 mutants are both dwarf but do not have further reduced lignin than the 4cl1 mutant, indicating that either 4CL1 or 4CL2 is required for normal plant growth. Although 4CL4 has a limited expression profile, it does make a modest contribution to lignin biosynthesis. Together, these data show that the four isoforms of 4CL in Arabidopsis have overlapping yet distinct roles in phenylpropanoid metabolism.
+
+4CL1: !affects! lignin biosynthesis
+4CL2: !affects! lignin biosynthesis
+4CL3: !affects! flavonoid metabolism
+4CL4: !affects! lignin biosynthesis
+4CL1: !required for! normal plant growth
+4CL2: !required for! normal plant growth
+4CL1: !reduces! Sinapoylmalate
+4CL3: !reduces! Sinapoylmalate

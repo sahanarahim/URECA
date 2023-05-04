@@ -1,0 +1,8 @@
+Fractional vegetation cover (FVC) is the key trait of interest for characterizing crop growth status in crop breeding and precision management. Accurate quantification of FVC among different breeding lines, cultivars, and growth environments is challenging, especially because of the large spatiotemporal variability in complex field conditions. This study presents an ensemble modeling strategy for phenotyping crop FVC from unmanned aerial vehicle (UAV)-based multispectral images by coupling the PROSAIL model with a gap probability model (PROSAIL-GP). Seven field experiments for four main crops were conducted, and canopy images were acquired using a UAV platform equipped with RGB and multispectral cameras. The PROSAIL-GP model successfully retrieved FVC in oilseed rape (Brassica napus L.) with coefficient of determination, root mean square error (RMSE), and relative RMSE (rRMSE) of 0.79, 0.09, and 18%, respectively. The robustness of the proposed method was further examined in rice (Oryza sativa L.), wheat (Triticum aestivum L.), and cotton (Gossypium hirsutum L.), and a high accuracy of FVC retrieval was obtained, with rRMSEs of 12%, 6%, and 6%, respectively. Our findings suggest that the proposed method can efficiently retrieve crop FVC from UAV images at a high spatiotemporal domain, which should be a promising tool for precision crop breeding.
+
+UAV: !acquires! canopy images
+PROSAIL-GP model: !retrieves! FVC
+FVC: !characterizes! crop growth status
+oilseed rape: !yields! coefficient of determination, RMSE, and rRMSE of 0.79, 0.09, and 18%
+rice, wheat, cotton: !yields! rRMSEs of 12%, 6%, and 6%
+PROSAIL-GP model: !promises! precision crop breeding

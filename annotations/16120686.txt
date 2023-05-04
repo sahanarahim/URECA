@@ -1,0 +1,10 @@
+The lipid composition of thylakoid membranes is conserved from cyanobacteria to angiosperms. The predominating components are monogalactosyl- and digalactosyldiacylglycerol. In cyanobacteria, thylakoid membrane biosynthesis starts with the formation of monoglucosyldiacylglycerol which is C4-epimerized to the corresponding galactolipid, whereas in plastids monogalactosyldiacylglycerol is formed at the beginning. This suggests that galactolipids have specific functions in thylakoids. We wanted to investigate whether galactolipids can be replaced by glycosyldiacylglycerols with headgroups differing in their epimeric and anomeric details as well as the attachment point of the terminal hexose in diglycosyldiacylglycerols. For this purpose putative glycosyltransferase sequences were identified in databases to be used for functional expression in various host organisms. From 18 newly identified sequences, four turned out to encode glycosyltransferases catalyzing final steps in glycolipid biosynthesis: two alpha-glucosyltransferases, one beta-galactosyltransferase and one beta-glucosyltransferase. Their functional annotation was based on detailed structural characterization of the new glycolipids formed in the transformant hosts as well as on in vitro enzymatic assays. The expression of alpha-glucosyltransferases in the cyanobacterium Synechococcus resulted in the accumulation of the new alpha-galactosyldiacylglycerol which is ascribed to epimerization of the corresponding glucolipid. The expression of the beta-glucosyltransferase led to a high proportion of new beta-glucosyl-(1-->6)-beta-galactosyldiacylglycerol almost entirely replacing the native digalactosyldiacylglycerol. These results demonstrate that modifications of the glycolipid pattern in thylakoids are possible.
+
+Gene: !synthesizes! Monoglucosyldiacylglycerol 
+Gene: !epimerizes! Monoglucosyldiacylglycerol 
+Gene: !synthesizes! Monogalactosyldiacylglycerol 
+Gene: !encodes! Alpha-glucosyltransferases 
+Gene: !encodes! Beta-galactosyltransferase 
+Gene: !encodes! Beta-glucosyltransferase 
+Gene: !accumulates! Alpha-galactosyldiacylglycerol 
+Gene: !replaces! Digalactosyldiacylglycerol

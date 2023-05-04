@@ -1,0 +1,14 @@
+MicroRNAs (miRNAs) are approximately 21 nucleotide noncoding RNAs produced by Dicer-catalyzed excision from stem-loop precursors. Many plant miRNAs play critical roles in development, nutrient homeostasis, abiotic stress responses, and pathogen responses via interactions with specific target mRNAs. miRNAs are not the only Dicer-derived small RNAs produced by plants: A substantial amount of the total small RNA abundance and an overwhelming amount of small RNA sequence diversity is contributed by distinct classes of 21- to 24-nucleotide short interfering RNAs. This fact, coupled with the rapidly increasing rate of plant small RNA discovery, demands an increased rigor in miRNA annotations. Herein, we update the specific criteria required for the annotation of plant miRNAs, including experimental and computational data, as well as refinements to standard nomenclature.
+
+Dicer: !produces! miRNAs
+miRNAs: !affects! development 
+miRNAs: !affects! nutrient homeostasis 
+miRNAs: !affects! abiotic stress responses 
+miRNAs: !affects! pathogen responses 
+miRNAs: !interacts with! target mRNAs 
+Dicer: !produces! small RNAs 
+small RNAs: !contributes to! total small RNA abundance 
+small RNAs: !contributes to! small RNA sequence diversity 
+miRNA annotations: !requires! experimental data 
+miRNA annotations: !requires! computational data 
+miRNA annotations: !requires! refinements to standard nomenclature

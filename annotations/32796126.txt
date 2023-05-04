@@ -1,0 +1,9 @@
+Circadian clocks regulate growth and development in plants and animals, but the role of circadian regulation in crop production is poorly understood. Rice (<i>Oryza sativa</i>) grain yield is largely determined by tillering, which is mediated by physiological and genetic factors. Here we report a regulatory loop that involves the circadian clock, sugar, and strigolactone (SL) pathway to regulate rice tiller-bud and panicle development. Rice <i>CIRCADIAN CLOCK ASSOCIATED1</i> (<i>OsCCA1</i>) positively regulates expression of <i>TEOSINTE BRANCHED1</i> (<i>OsTB1</i>, also known as <i>FC1</i>), <i>DWARF14</i> (<i>D14</i>), and <i>IDEAL PLANT ARCHITECTURE1</i> (<i>IPA1</i>, also known as <i>OsSPL14</i>) to repress tiller-bud outgrowth. Downregulating and overexpressing <i>OsCCA1</i> increases and reduces tiller numbers, respectively, whereas manipulating <i>PSEUDORESPONSE REGULATOR1</i> (<i>OsPPR1</i>) expression results in the opposite effects. <i>OsCCA1</i> also regulates <i>IPA1</i> expression to mediate panicle and grain development. Genetic analyses using double mutants and overexpression in the mutants show that <i>OsTB1</i>, <i>D14</i>, and <i>IPA1</i> act downstream of <i>OsCCA1</i> Sugars repress <i>OsCCA1</i> expression in roots and tiller buds to promote tiller-bud outgrowth. The circadian clock integrates sugar responses and the SL pathway to regulate tiller and panicle development, providing insights into improving plant architecture and yield in rice and other cereal crops.
+
+OsCCA1: !positively regulates! OsTB1
+OsCCA1: !positively regulates! D14
+OsCCA1: !positively regulates! IPA1
+OsCCA1: !represses! tiller-bud outgrowth
+OsCCA1: !regulates! IPA1 expression
+OsCCA1: !downregulated by! sugars
+Sugars: !repress! OsCCA1 expression

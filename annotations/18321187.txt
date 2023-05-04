@@ -1,0 +1,9 @@
+RsmA is an RNA-binding protein functioning as a global post-transcriptional regulator of various cellular processes in bacteria and has been demonstrated to be an important virulence regulator in many animal bacterial pathogens. However, its function in other phytopathogenic bacteria is unclear, except for the Erwinia carotovora RsmA, which acts as a negative virulence regulator. In this work, we investigated the function of the rsmA-like gene, named rsmA(Xcc), of the phytopathogen Xanthomonas campestris pv. campestris. Deletion of rsmA(Xcc) resulted in complete loss of virulence on the host plant Chinese radish, hypersensitive response on the nonhost plant pepper ECW-10R, and motility on the surface of an agar plate. The rsmA(Xcc) mutant displayed a significant reduction in the production of extracellular amylase, endoglucanase, and polysaccharide, but a significant increase in intracellular glycogen accumulation and an enhanced bacterial aggregation and cell adhesion. Microarray hybridization and semiquantitative reverse-transcription polymerase chain reaction analysis showed that deletion of rsmA(Xcc) led to significantly reduced expression of genes encoding the type III secretion system (T3SS), T3SS-effectors, and the bacterial aggregate dispersing enzyme endo-beta-1,4-mannanase. These results suggest that rsmA(Xcc) is involved in the control of various cellular processes, including pathogenesis of X. campestris pv. campestris.
+
+RsmA: !affects! Virulence 
+rsmA(Xcc): !represses! T3SS 
+rsmA(Xcc): !enhances! Bacterial aggregation 
+rsmA(Xcc): !represses! Expression of T3SS-effectors 
+rsmA(Xcc): !represses! Production of extracellular amylase, endoglucanase, and polysaccharide 
+rsmA(Xcc): !enhances! Intracellular glycogen accumulation 
+rsmA(Xcc): !represses! Expression of endo-beta-1,4-mannanase

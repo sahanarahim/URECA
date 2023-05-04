@@ -1,0 +1,10 @@
+Plant elicitor peptides (Peps) are damage/danger-associated molecular patterns that are perceived by the receptor-like kinases, PEPR1 and PEPR2, to enhance innate immunity and to inhibit root growth in Arabidopsis (<i>Arabidopsis thaliana</i>). Here, we show that Arabidopsis Pep1 inhibits root growth in a PEPR2-dependent manner, which is accompanied by swelling epidermal and cortex cells and root hair formation in the transition zone (TZ). These Pep1-induced changes were mimicked by exogenous auxin application and were suppressed in the auxin perception mutants <i>transport inhibitor response1</i> (<i>tir1</i>) and <i>tir1 afb1 afb2</i> Pep1-induced auxin accumulation in the TZ region preceded cell expansion in roots. Because local auxin distribution depends on PIN-type auxin transporters, we examined Pep1-PEPR-induced root growth inhibition in several <i>pin</i> mutants and found that <i>pin2</i> was highly sensitive but <i>pin3</i> was less sensitive to Pep1. The <i>pin2 pin3</i> double mutant was as sensitive to Pep1 treatment as wild-type plants. Pep1 reduced the abundance of PIN2 in the plasma membrane through activating endocytosis while increasing PIN3 expression in the TZ, leading to changes in local auxin distribution and inhibiting root growth. These results suggest that Pep-PEPR signaling undergoes crosstalk with auxin accumulation to control cell expansion and differentiation in roots during immune responses.
+
+Pep1: !inhibits! root growth
+Pep1: !induces! auxin accumulation
+PEPR2: !mediates! Pep1-induced root growth inhibition
+PIN2: !reduced by! Pep1
+PIN3: !increased by! Pep1
+TIR1: !suppresses! Pep1-induced auxin accumulation
+PIN2: !sensitive to! Pep1
+PIN3: !less sensitive to! Pep1

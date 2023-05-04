@@ -1,0 +1,12 @@
+<i>Hydrangea macrophylla</i> has a large inflorescence and rich colors, which has made it one of the most popular ornamental flowers worldwide. Thus far, the molecular mechanism of flower color formation in <i>H. macrophylla</i> flowers is unknown. By comparing the pigment content and transcriptome data of the bud period (FSF1), discoloration period (FSF2) and full-bloom stage (FSF3) of infertile blue flowers of <i>H. macrophylla</i> cv. "Forever Summer," we found that genes associated with anthocyanin production were most associated with the formation of blue infertile flowers throughout development. The anthocyanin biosynthesis pathway is the main metabolic pathway associated with flower color formation, and the carotenoid biosynthesis pathway appeared to have almost no contribution to flower color. There was no competition between the flavonoid and flavonol and anthocyanin biosynthesis pathways for their substrate. At FSF1, the key genes <i>CHS</i> and <i>CHI</i> in the flavonoid biosynthesis pathway were up-regulated, underlying the accumulation of a substrate for anthocyanin synthesis. By FSF3, the downstream genes <i>F3H</i>, <i>C3'5'H</i>, <i>CYP75B1</i>, <i>DFR</i>, and <i>ANS</i> in the anthocyanin biosynthesis pathway were almost all up-regulated, likely promoting the synthesis and accumulation of anthocyanins and inducing the color change of infertile flowers. By analyzing protein-protein interaction networks and co-expression of transcription factors as well as differentially expressed structural genes related to anthocyanin synthesis, we identified negatively regulated transcription factors such as WER-like, MYB114, and WDR68. Their site of action may be the key gene <i>DFR</i> in the anthocyanin biosynthesis pathway. The potential regulatory mechanism of flower color formation may be that WER-like, MYB114, and WDR68 inhibit or promote the synthesis of anthocyanins by negatively regulating the expression of <i>DFR</i>. These results provide an important basis for studying the infertile flower color formation mechanism in <i>H. macrophylla</i> and the development of new cultivars with other colors.
+
+CHS: !synthesizes! substrate
+CHI: !synthesizes! substrate
+F3H: !synthesizes! anthocyanin
+C3'5'H: !synthesizes! anthocyanin
+CYP75B1: !synthesizes! anthocyanin
+DFR: !synthesizes! anthocyanin
+ANS: !synthesizes! anthocyanin
+WER-like: !represses! DFR
+MYB114: !represses! DFR
+WDR68: !represses! DFR

@@ -1,0 +1,10 @@
+The pyrenoid of the unicellular green alga Chlamydomonas reinhardtii is a microcompartment situated in the centre of the cup-shaped chloroplast, containing up to 90% of cellular Rubisco. Traversed by a network of dense, knotted thylakoid tubules, the pyrenoid has been proposed to influence thylakoid biogenesis and ultrastructure. Mutants that are unable to assemble a pyrenoid matrix, due to expressing a vascular plant version of the Rubisco small subunit, exhibit severe growth and photosynthetic defects and have an ineffective carbon-concentrating mechanism (CCM). The present study set out to determine the cause of photosynthetic limitation in these pyrenoid-less lines. We tested whether electron transport and light use were compromised as a direct structural consequence of pyrenoid loss or as a metabolic effect downstream of lower CCM activity and resulting CO2 limitation. Thylakoid organization was unchanged in the mutants, including the retention of intrapyrenoid-type thylakoid tubules, and photosynthetic limitations associated with the absence of the pyrenoid were rescued by exposing cells to elevated CO2 levels. These results demonstrate that Rubisco aggregation in the pyrenoid functions as an essential element for CO2 delivery as part of the CCM, and does not play other roles in maintenance of photosynthetic membrane energetics.
+
+pyrenoid: !contains! Rubisco 
+pyrenoid: !influences! thylakoid biogenesis 
+mutants: !express! vascular plant version of Rubisco small subunit 
+mutants: !exhibit! growth and photosynthetic defects 
+pyrenoid loss: !causes! photosynthetic limitation 
+pyrenoid loss: !does not affect! thylakoid organization 
+pyrenoid loss: !rescued by! elevated CO2 levels 
+Rubisco aggregation: !essential element for! CO2 delivery

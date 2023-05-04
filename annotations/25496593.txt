@@ -1,0 +1,8 @@
+Identification of host proteins interacting with the aphidborne Potato leafroll virus (PLRV) from the genus Polerovirus, family Luteoviridae, is a critical step toward understanding how PLRV and related viruses infect plants. However, the tight spatial distribution of PLRV to phloem tissues poses challenges. A polyclonal antibody raised against purified PLRV virions was used to coimmunoprecipitate virus-host protein complexes from Nicotiana benthamiana tissue inoculated with an infectious PLRV cDNA clone using Agrobacterium tumefaciens. A. tumefaciens-mediated delivery of PLRV enabled infection and production of assembled, insect-transmissible virus in most leaf cells, overcoming the dynamic range constraint posed by a systemically infected host. Isolated protein complexes were characterized using high-resolution mass spectrometry and consisted of host proteins interacting directly or indirectly with virions, as well as the nonincorporated readthrough protein (RTP) and three phosphorylated positional isomers of the RTP. A bioinformatics analysis using ClueGO and STRING showed that plant proteins in the PLRV protein interaction network regulate key biochemical processes, including carbon fixation, amino acid biosynthesis, ion transport, protein folding, and trafficking.
+
+PLRV: !interacts with! host proteins 
+host proteins: !regulate! carbon fixation 
+host proteins: !regulate! amino acid biosynthesis 
+host proteins: !regulate! ion transport 
+host proteins: !regulate! protein folding 
+host proteins: !regulate! trafficking

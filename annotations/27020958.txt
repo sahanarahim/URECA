@@ -1,0 +1,12 @@
+Plants perceive UV-B, an intrinsic component of sunlight, via a signaling pathway that is mediated by the photoreceptor UV RESISTANCE LOCUS8 (UVR8) and induces UV-B acclimation. To test whether similar UV-B perception mechanisms exist in the evolutionarily distant green alga Chlamydomonas reinhardtii, we identified Chlamydomonas orthologs of UVR8 and the key signaling factor CONSTITUTIVELY PHOTOMORPHOGENIC1 (COP1). Cr-UVR8 shares sequence and structural similarity to Arabidopsis thaliana UVR8, has conserved tryptophan residues for UV-B photoreception, monomerizes upon UV-B exposure, and interacts with Cr-COP1 in a UV-B-dependent manner. Moreover, Cr-UVR8 can interact with At-COP1 and complement the Arabidopsis uvr8 mutant, demonstrating that it is a functional UV-B photoreceptor. Chlamydomonas shows apparent UV-B acclimation in colony survival and photosynthetic efficiency assays. UV-B exposure, at low levels that induce acclimation, led to broad changes in the Chlamydomonas transcriptome, including in genes related to photosynthesis. Impaired UV-B-induced activation in the Cr-COP1 mutant hit1 indicates that UVR8-COP1 signaling induces transcriptome changes in response to UV-B. Also, hit1 mutants are impaired in UV-B acclimation. Chlamydomonas UV-B acclimation preserved the photosystem II core proteins D1 and D2 under UV-B stress, which mitigated UV-B-induced photoinhibition. These findings highlight the early evolution of UVR8 photoreceptor signaling in the green lineage to induce UV-B acclimation and protection.
+
+UVR8: !mediates! UV-B signaling pathway
+UVR8: !monomerizes upon! UV-B exposure
+UVR8: !interacts with! COP1
+UVR8: !complements! uvr8 mutant
+COP1: !interacts with! UVR8
+COP1: !induces! transcriptome changes
+COP1: !impaired in! hit1 mutants
+UV-B: !induces! acclimation
+UV-B: !leads to! broad transcriptome changes
+D1/D2: !preserved under! UV-B stress

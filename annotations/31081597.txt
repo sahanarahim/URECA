@@ -1,0 +1,6 @@
+Photoreceptor phytochrome B (phyB) mediates a variety of light responses in plants. To further elucidate the molecular mechanisms of phyB-regulated hypocotyl elongation, we performed firefly luciferase complementation imaging (LCI) screening for phyB-interacting transcription factors (TFs). LCI assays showed that phyB possibly interacts with brassinazoleresistant 1 (BZR1), BZR2, AUXIN RESPONSE FACTOR 6 (ARF6), and several WRKY DNA-binding TFs in a red light-dependent manner. Furthermore, biochemical assays demonstrated that photoexcited phyB specifically interacts with non-phosphorylated BZR1, the physiologically active form of a master TF in brassinosteroid (BR) signaling, and this interaction can be competitively interfered by phytochrome-interacting factor 4. Furthermore, we showed that phyB can directly interact with the DNA-binding domain of BZR1 and affect the enrichment of BZR1 on the chromatin of target genes. Moreover, our genetic evidence and RNA-seq analysis demonstrated that phyB negatively regulates BR signaling. Together, we revealed that photoexcited phyB directly interacts with the TF BZR1 to repress BR signaling in Arabidopsis.
+
+phyB: !interacts with! BZR1
+BZR1: !enriches! chromatin
+phyB: !represses! BR signaling
+phyB: !competitively interfered by! phytochrome-interacting factor 4

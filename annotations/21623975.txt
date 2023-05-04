@@ -1,0 +1,13 @@
+The Arabidopsis copine gene BON1 encodes a calcium-dependent phospholipid-binding protein involved in plant growth homeostasis and disease resistance. However, the biochemical and molecular mechanisms by which BON1 modulates plant growth and defense responses are not well understood. Here, we show that BON1 interacts physically with the leucine-rich-repeat receptor-like kinases BIR1 (BAK1-interacting receptor-like kinase 1) and pathogen-associated molecular pattern (PAMP) receptor regulator BAK1 in vitro and in vivo. Additionally, bon1 and bir1 mutants exhibit synergistic interaction. While a bir1 null mutant has similar growth and cell-death defects compared with bon1, a bir1 bon1 double mutant displays more severe phenotypes than does the single mutants. The bon1-1 and bir1-1 phenotypes are partially suppressed by overexpression of BIR1 and BON1, respectively. Furthermore, the bir1 phenotype is attenuated by a loss-of-function mutation in the resistance (R) gene SNC1 (Suppressor of npr1-1, constitutive 1), which mediates defense responses in bon1. Intriguingly, BON1 and BIR1 can be phosphorylated by BAK1 in vitro. Our findings suggest that BIR1 functions as a negative regulator of plant resistance and that BON1 and BIR1 might modulate both PAMP- and R protein-triggered immune responses.
+
+BON1: !interacts with! BIR1
+BIR1: !interacts with! BON1
+BON1: !interacts with! BAK1
+BIR1: !interacts with! BAK1
+bon1: !synergizes with! bir1
+bir1: !synergizes with! bon1
+bon1: !attenuates! bir1
+bir1: !attenuates! bon1
+BAK1: !phosphorylates! BON1
+BAK1: !phosphorylates! BIR1
+SNC1: !attenuates! bir1

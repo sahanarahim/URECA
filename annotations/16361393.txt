@@ -1,0 +1,10 @@
+['16361393', 'We report the identification and characterization of a low tocopherol Arabidopsis  thaliana mutant, vitamin E pathway gene5-1 (vte5-1), with seed tocopherol levels  reduced to 20% of the wild type. Map-based identification of the responsible  mutation identified a G-->A transition, resulting in the introduction of a stop  codon in At5g04490, a previously unannotated gene, which we named VTE5.  Complementation of the mutation with the wild-type transgene largely restored the  wild-type tocopherol phenotype. A knockout mutation of the Synechocystis sp PCC  6803 VTE5 homolog slr1652 reduced Synechocystis tocopherol levels by 50% or more.  Bioinformatic analysis of VTE5 and slr1652 indicated modest similarity to  dolichol kinase. Analysis of extracts from Arabidopsis and Synechocystis mutants  revealed increased accumulation of free phytol. Heterologous expression of these  genes in Escherichia coli supplemented with free phytol and in vitro assays of  recombinant protein produced phytylmonophosphate, suggesting that VTE5 and  slr1652 encode phytol kinases. The phenotype of the vte5-1 mutant is consistent  with the hypothesis that chlorophyll degradation-derived phytol serves as an  important intermediate in seed tocopherol synthesis and forces reevaluation of  the role of geranylgeranyl diphosphate reductase in tocopherol biosynthesis.', '2006 Jan', 'Plant Cell', '10.1105/tpc.105.037077', 'Last']
+
+VTE5: !encodes! phytol kinase 
+vte5-1 mutant: !reduces! tocopherol levels 
+slr1652: !encodes! phytol kinase 
+slr1652: !reduces! tocopherol levels 
+phytol: !accumulates in! mutants 
+E. coli: !supplemented with! free phytol 
+in vitro assays: !produce! phytylmonophosphate 
+geranylgeranyl diphosphate reductase: !reevaluated for! tocopherol biosynthesis

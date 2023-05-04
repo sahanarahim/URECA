@@ -1,0 +1,8 @@
+Arbuscular mycorrhizal (AM) symbiosis is a wide-spread, ancient mutualistic association between plants and fungi, and facilitates nutrient uptake into plants. Cell surface receptor-like kinases (RLKs) and receptor-like cytoplasmic kinases (RLCKs) play pivotal roles in transmembrane signaling, while few RLCKs are known to function in AM symbiosis. Here, we show that 27 out of 40 AM-induced kinases (AMKs) are transcriptionally upregulated by key AM transcription factors in Lotus japonicus. Nine AMKs are only conserved in AM-host lineages, among which the SPARK-RLK-encoding gene KINASE3 (KIN3) and the RLCK paralogues AMK8 and AMK24 are required for AM symbiosis. KIN3 expression is directly regulated by the AP2 transcription factor CTTC MOTIF-BINDING TRANSCRIPTION FACTOR1 (CBX1), which regulates the reciprocal exchange of nutrients in AM symbiosis, via the AW-box motif in the KIN3 promoter. Loss of function mutations in KIN3, AMK8 or AMK24 result in reduced mycorrhizal colonization in L. japonicus. AMK8 and AMK24 physically interact with KIN3. KIN3 and AMK24 are active kinases and AMK24 directly phosphorylates KIN3 in vitro. Moreover, CRISPR-Cas9-mediated mutagenesis of OsRLCK171, the sole homolog of AMK8 and AMK24 in rice (Oryza sativa), leads to diminished mycorrhization with stunted arbuscules. Overall, our results reveal a crucial role of the CBX1-driven RLK/RLCK complex in the evolutionarily conserved signaling pathway enabling arbuscule formation.
+
+CBX1: !regulates! KIN3
+KIN3: !required for! AM symbiosis
+AMK8: !interacts with! KIN3
+AMK24: !interacts with! KIN3
+AMK24: !phosphorylates! KIN3
+OsRLCK171: !required for! mycorrhization

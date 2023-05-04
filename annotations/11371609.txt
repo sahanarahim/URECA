@@ -1,0 +1,10 @@
+['11371609', 'UV-A/blue light acts to regulate a number of physiological processes in higher  plants. These include light-driven chloroplast movement and phototropism. The  NPH1 gene of Arabidopsis encodes an autophosphorylating protein kinase that  functions as a photoreceptor for phototropism in response to low-intensity blue  light. However, nph1 mutants have been reported to exhibit normal phototropic  curvature under high-intensity blue light, indicating the presence of an  additional phototropic receptor. A likely candidate is the nph1 homologue, npl1,  which has recently been shown to mediate the avoidance response of chloroplasts  to high-intensity blue light in Arabidopsis. Here we demonstrate that npl1, like  nph1, noncovalently binds the chromophore flavin mononucleotide (FMN) within two  specialized PAS domains, termed LOV domains. Furthermore, when expressed in  insect cells, npl1, like nph1, undergoes light-dependent autophosphorylation,  indicating that npl1 also functions as a light receptor kinase. Consistent with  this conclusion, we show that a nph1 npl1 double mutant exhibits an impaired  phototropic response under both low- and high-intensity blue light. Hence, npl1  functions as a second phototropic receptor under high fluence rate conditions and  is, in part, functionally redundant to nph1. We also demonstrate that both  chloroplast accumulation in response to low-intensity light and chloroplast  avoidance movement in response to high-intensity light are lacking in the nph1  npl1 double mutant. Our findings therefore indicate that nph1 and npl1 show  partially overlapping functions in two different responses, phototropism and  chloroplast relocation, in a fluence rate-dependent manner.', '2001 Jun 5', 'Proc Natl Acad Sci U S A', '10.1073/pnas.101137598', 'Okada']
+
+NPH1: !encodes! protein kinase 
+NPH1: !mediates! phototropism 
+NPL1: !homologous to! NPH1 
+NPL1: !binds! FMN 
+NPL1: !functions as! light receptor kinase 
+NPH1/NPL1: !regulate! chloroplast movement 
+NPH1/NPL1: !control! phototropism 
+NPH1/NPL1: !respond to! low-intensity/high-intensity blue light

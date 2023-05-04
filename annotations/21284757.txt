@@ -1,0 +1,12 @@
+Transcriptional regulation depends on the specificity of transcription factors (TFs) recognizing cis regulatory sequences in the promoters of target genes. Current knowledge about DNA-binding specificities of TFs is based mostly on low- to medium-throughput methodologies, revealing DNA motifs bound by a TF with high affinity. These strategies are time-consuming and often fail to identify DNA motifs recognized by a TF with lower affinity but retaining biological relevance. Here we report on the development of a protein-binding microarray (PBM11) containing all possible double-stranded 11-mers for the determination of DNA-binding specificities of TFs. The large number of sequences in the PBM11 allows accurate and high-throughput quantification of TF-binding sites, outperforming previous methods. We applied this tool to determine binding site specificities of two Arabidopsis TFs, MYC2 and ERF1, rendering the G-box and the GCC-box, respectively, as their highest-affinity binding sites. In addition, we identified variants of the G-box recognized by MYC2 with high and medium affinity, whereas ERF1 only recognized GCC variants with low affinity, indicating that ERF1 binding to DNA has stricter base requirements than MYC2. Analysis of transcriptomic data revealed that high- and medium-affinity binding sites have biological significance, probably representing relevant cis-acting elements in vivo. Comparison of promoter sequences with putative orthologs from closely related species demonstrated a high degree of conservation of all the identified DNA elements. The combination of PBM11, transcriptomic data and phylogenomic footprinting provides a straightforward method for the prediction of biologically active cis-elements, and thus for identification of in vivo DNA targets of TFs.
+
+TF: !recognizes! cis regulatory sequences
+TF: !binds to! DNA motifs
+PBM11: !quantifies! TF-binding sites
+MYC2: !binds to! G-box
+ERF1: !binds to! GCC-box
+MYC2: !recognizes! variants of G-box
+ERF1: !recognizes! variants of GCC-box
+TF: !has biological significance! in vivo
+Promoter sequences: !are conserved! in closely related species
+PBM11: !predicts! biologically active cis-elements

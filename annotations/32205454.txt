@@ -1,0 +1,10 @@
+Phosphatidylcholine and phosphatidylethanolamine are two major phospholipid classes in eukaryotes. Each biosynthesis pathway starts with the phosphorylation of choline (Cho) or ethanolamine (Etn) catalyzed by either choline or ethanolamine kinase (CEK). Arabidopsis contains four CEK isoforms, but their isozyme-specific roles in metabolism and development are poorly described. Here, we showed that these four CEKs have distinct substrate specificities in vitro. While CEK1 and CEK2 showed substrate preference for Cho over Etn, CEK3 and CEK4 had clear substrate specificity for Cho and Etn, respectively. In vivo, CEK1, CEK2, and CEK3 exhibited kinase activity for Cho but not Etn, although the latter two isoforms showed rather minor contributions to total Cho kinase activity in both shoots and roots. The knockout mutants of CEK2 and CEK3 both affected root growth, and these isoforms had nonoverlapping cell-type-specific expression patterns in the root meristematic zone. In-depth phenotype analysis, as well as chemical and genetic complementation, revealed that CEK3, a Cho-specific kinase, is involved in cell elongation during root development. Phylogenetic analysis of CEK orthologs in Brassicaceae species showed evolutionary divergence between Etn kinases and Cho kinases. Collectively, our results demonstrate the distinct roles of the four CEK isoforms in Cho/Etn metabolism and plant development.
+
+CEK1: !prefers! Cho 
+CEK2: !prefers! Cho 
+CEK3: !specific for! Cho 
+CEK4: !specific for! Etn 
+CEK2: !affects! root growth 
+CEK3: !affects! root growth 
+CEK3: !involved in! cell elongation 
+CEK orthologs: !evolved divergently! Brassicaceae species

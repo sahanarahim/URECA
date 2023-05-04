@@ -1,0 +1,9 @@
+Peptide-receptor signaling is an important system for intercellular communication, regulating many developmental processes. A single process can be controlled by several distinct signaling peptides. However, since peptide-receptor modules are usually studied separately, their mechanistic interactions remain largely unexplored. Two phylogenetically unrelated peptide-receptor modules, GLV6/GLV10-RGI and TOLS2/PIP2-RLK7, independently described as inhibitors of lateral root initiation, show striking similarities between their expression patterns and gain- and loss-of-function phenotypes, suggesting a common function during lateral root spacing and initiation. The GLV6/GLV10-RGI and TOLS2/PIP2-RLK7 modules trigger similar transcriptional changes, likely in part via WRKY transcription factors. Their overlapping set of response genes includes PUCHI and PLT5, both required for the effect of GLV6/10, as well as TOLS2, on lateral root initiation. Furthermore, both modules require the activity of MPK6 and can independently trigger MPK3/MPK6 phosphorylation. The GLV6/10 and TOLS2/PIP2 signaling pathways seem to converge in the activation of MPK3/MPK6, leading to the induction of a similar transcriptional response in the same target cells, thereby regulating lateral root initiation through a (partially) common mechanism. Convergence of signaling pathways downstream of phylogenetically unrelated peptide-receptor modules adds an additional, and hitherto unrecognized, level of complexity to intercellular communication networks in plants.
+
+GLV6/GLV10-RGI: !triggers! transcriptional changes
+TOLS2/PIP2-RLK7: !triggers! transcriptional changes
+WRKY transcription factors: !mediates! GLV6/GLV10-RGI and TOLS2/PIP2-RLK7
+PUCHI and PLT5: !required for! GLV6/10 effect
+MPK6: !required for! GLV6/10 and TOLS2/PIP2
+MPK3/MPK6: !activated by! GLV6/10 and TOLS2/PIP2
+MPK3/MPK6: !induces! transcriptional response

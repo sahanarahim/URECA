@@ -1,0 +1,6 @@
+This project proposes an approach to identify significant single nucleotide polymorphism (SNP) effects, both additive and dominant, on the dynamic growth of poplar in diameter and height. The annual changes in yearly phenotypes based on regular observation periods are considered to represent multiple responses. In total 156,362 candidate SNPs are studied, and the phenotypes of 64 poplar trees are recorded. To address this ultrahigh dimensionality issue, this paper adopts a two-stage approach. First, the conventional genome-wide association studies (GWAS) and the distance correlation sure independence screening (DC-SIS) methods (Li et al., 2012) were combined to reduce the model dimensions at the sample size; second, a grouped penalized regression was applied to further refine the model and choose the final sparse SNPs. The multiple response issue was also carefully addressed. The SNP effects on the dynamic diameter and height growth patterns of poplar were systematically analyzed. In addition, a series of intensive simulation studies was performed to validate the proposed approach.
+
+SNP: !affects! Dynamic growth of poplar 
+GWAS/DC-SIS: !reduce! Model dimensions 
+Grouped penalized regression: !refines! Model 
+Simulation studies: !validate! Proposed approach

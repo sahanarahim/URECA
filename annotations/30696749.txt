@@ -1,0 +1,8 @@
+The genome of rice blast fungus (<i>Magnaporthe oryzae</i>) encodes 15 glycoside hydrolase 18 family chitinases. In this study, we characterized the function of an <i>M. oryzae</i> extracellular chitinase, MoChi1, and its interaction with a host protein, OsMBL1, a jacalin-related Mannose-Binding Lectin (MBL) in rice (<i>Oryza sativa</i>). Deletion of <i>MoChi1</i> resulted in reduced aerial hyphal formation and reduced virulence in rice by activating the expression of defense-responsive genes. We confirmed MoChi1 interaction with rice OsMBL1 in vitro and in vivo. <i>OsMBL1</i> was induced by pathogen-associated molecular patterns and <i>M. oryzae</i> infection. Overexpression of <i>OsMBL1</i> led to activation of rice defense-responsive genes and a chitin-induced reactive oxygen species burst, thereby enhancing resistance to <i>M. oryzae</i> Knockdown of <i>OsMBL1</i> enhances susceptibility of rice plants to <i>M. oryzae</i> Furthermore, MoChi1 suppressed chitin-induced reactive oxygen species in rice cells and competed with OsMBL1 for chitin binding. Taken together, our study reveals a mechanism in which MoChi1 targets a host lectin to suppress rice immunity.
+
+MoChi1: !interacts with! OsMBL1
+MoChi1: !represses! defense-responsive genes
+OsMBL1: !induces! defense-responsive genes
+OsMBL1: !enhances! resistance to M. oryzae
+MoChi1: !competes with! OsMBL1 for chitin binding
+MoChi1: !suppresses! chitin-induced reactive oxygen species

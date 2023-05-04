@@ -1,0 +1,9 @@
+In cereals, several mildew resistance genes occur as large allelic series; for example, in wheat (Triticum aestivum and Triticum turgidum), 17 functional Pm3 alleles confer agronomically important race-specific resistance to powdery mildew (Blumeria graminis). The molecular basis of race specificity has been characterized in wheat, but little is known about the corresponding avirulence genes in powdery mildew. Here, we dissected the genetics of avirulence for six Pm3 alleles and found that three major Avr loci affect avirulence, with a common locus_1 involved in all AvrPm3-Pm3 interactions. We cloned the effector gene AvrPm3(a2/f2) from locus_2, which is recognized by the Pm3a and Pm3f alleles. Induction of a Pm3 allele-dependent hypersensitive response in transient assays in Nicotiana benthamiana and in wheat demonstrated specificity. Gene expression analysis of Bcg1 (encoded by locus_1) and AvrPm3 (a2/f2) revealed significant differences between isolates, indicating that in addition to protein polymorphisms, expression levels play a role in avirulence. We propose a model for race specificity involving three components: an allele-specific avirulence effector, a resistance gene allele, and a pathogen-encoded suppressor of avirulence. Thus, whereas a genetically simple allelic series controls specificity in the plant host, recognition on the pathogen side is more complex, allowing flexible evolutionary responses and adaptation to resistance genes.
+
+Pm3: !recognizes! AvrPm3(a2/f2)
+locus_1: !involved in! AvrPm3-Pm3 interactions
+locus_2: !encodes! AvrPm3(a2/f2)
+Bcg1: !expressed differently in! isolates
+AvrPm3: !expressed differently in! isolates
+effector: !specific to! Pm3 allele
+suppressor: !pathogen-encoded! avirulence

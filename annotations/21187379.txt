@@ -1,0 +1,9 @@
+['21187379', 'Plant cytokinesis deploys a transport system that centers cell plate-forming  vesicles and fuses them to form a cell plate. Here we show that the adaptin-like  protein TPLATE and clathrin light chain 2 (CLC2) are targeted to the expanding  cell plate and to the equatorial subregion of the plasma membrane referred to as  the cortical division zone (CDZ). Bimolecular fluorescence complementation and  immunodetection indicates that TPLATE interacts with clathrin. Pharmacological  tools as well as analysis of protein targeting in a mutant background affecting  cell plate formation allowed to discriminate two recruitment pathways for TPLATE  and CLC2. The cell plate recruitment pathway is dependent on phragmoplast  microtubule organization and the formation and transport of secretory vesicles.  The CDZ recruitment pathway, on the other hand, is activated at the end of  cytokinesis and independent of trans-Golgi-derived vesicle trafficking. TPLATE  and CLC2 do not accumulate at a narrow zone central of the CDZ. We have dubbed  this subdomain the cortical division site and show that it corresponds precisely  with the position where the cell plate merges with the parental wall. These data  provide evidence that the plasma membrane is subject to localized endocytosis or  membrane remodeling processes that are required for the fusion of the cell plate  with a predefined region of the plasma membrane.', '2011 Jan 11', 'Proc Natl Acad Sci U S A', '10.1073/pnas.1017890108', 'Geelen']
+
+TPLATE: !interacts with! CLC2
+TPLATE: !recruited by! Phragmoplast microtubule organization
+CLC2: !recruited by! Phragmoplast microtubule organization
+TPLATE: !recruited by! Endocytosis/membrane remodeling
+CLC2: !recruited by! Endocytosis/membrane remodeling
+TPLATE: !localizes to! Cortical division site
+CLC2: !localizes to! Cortical division site

@@ -1,0 +1,11 @@
+Over 200 published studies of more than 30 plant species have reported a role for miRNAs in regulating responses to abiotic stresses. However, data from these individual reports has not been collected into a single database. The lack of a curated database of stress-related miRNAs limits research in this field, and thus a cohesive database system should necessarily be constructed for data deposit and further application. PASmiR, a literature-curated and web-accessible database, was developed to provide detailed, searchable descriptions of miRNA molecular regulation in different plant abiotic stresses. PASmiR currently includes data from ~200 published studies, representing 1038 regulatory relationships between 682 miRNAs and 35 abiotic stresses in 33 plant species. PASmiR's interface allows users to retrieve miRNA-stress regulatory entries by keyword search using plant species, abiotic stress, and miRNA identifier. Each entry upon keyword query contains detailed regulation information for a specific miRNA, including species name, miRNA identifier, stress name, miRNA expression pattern, detection method for miRNA expression, a reference literature, and target gene(s) of the miRNA extracted from the corresponding reference or miRBase. Users can also contribute novel regulatory entries by using a web-based submission page. The PASmiR database is freely accessible from the two URLs of http://hi.ustc.edu.cn:8080/PASmiR, and http://pcsb.ahau.edu.cn:8080/PASmiR. The PASmiR database provides a solid platform for collection, standardization, and searching of miRNA-abiotic stress regulation data in plants. As such this database will be a comprehensive repository for miRNA regulatory mechanisms involved in plant response to abiotic stresses for the plant stress physiology community.
+
+miRNA: !regulates! abiotic stress
+PASmiR: !provides! detailed regulation information
+PASmiR: !contains! data from ~200 published studies
+miRNA: !expresses! in different plant abiotic stresses
+PASmiR: !allows users to retrieve! miRNA-stress regulatory entries
+PASmiR: !includes! 682 miRNAs and 35 abiotic stresses
+miRNA: !targets! gene(s)
+PASmiR: !enables! submission of novel regulatory entries
+PASmiR: !serves as! platform for collection, standardization, and searching

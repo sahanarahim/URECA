@@ -1,0 +1,12 @@
+Proteins that contain iron-sulfur (Fe-S) clusters play pivotal roles in various metabolic processes such as photosynthesis and redox metabolism. Among the proteins involved in the biosynthesis of Fe-S clusters in plants, the SUFB subunit of the SUFBCD complex appears to be unique because SUFB has been reported to be involved in chlorophyll metabolism and phytochrome-mediated signaling. To gain insights into the function of the SUFB protein, we analyzed the phenotypes of two SUFB mutants, laf6 and hmc1, and RNA interference (RNAi) lines with reduced SUFB expression. When grown in the light, the laf6 and hmc1 mutants and the SUFB RNAi lines accumulated higher levels of the chlorophyll biosynthesis intermediate Mg-protoporphyrin IX monomethylester (Mg-proto MME), consistent with the impairment of Mg-proto MME cyclase activity. Both SUFC- and SUFD-deficient RNAi lines accumulated the same intermediate, suggesting that inhibition of Fe-S cluster synthesis is the primary cause of this impairment. Dark-grown laf6 seedlings also showed an increase in protoporphyrin IX (Proto IX), Mg-proto, Mg-proto MME and 3,8-divinyl protochlorophyllide a (DV-Pchlide) levels, but this was not observed in hmc1 or the SUFB RNAi lines, nor was it complemented by SUFB overexpression. In addition, the long hypocotyl in far-red light phenotype of the laf6 mutant could not be rescued by SUFB overexpression and segregated from the pale-green SUFB-deficient phenotype, indicating it is not caused by mutation at the SUFB locus. These results demonstrate that biosynthesis of Fe-S clusters is important for chlorophyll biosynthesis, but that the laf6 phenotype is not due to a SUFB mutation.
+
+SUFB: !affects! Chlorophyll metabolism 
+SUFB: !synthesizes! Fe-S clusters 
+laf6: !accumulates! Mg-protoporphyrin IX monomethylester 
+hmc1: !accumulates! Mg-protoporphyrin IX monomethylester 
+SUFB RNAi: !accumulates! Mg-protoporphyrin IX monomethylester 
+SUFC-deficient RNAi: !accumulates! Mg-protoporphyrin IX monomethylester 
+SUFD-deficient RNAi: !accumulates! Mg-protoporphyrin IX monomethylester 
+laf6: !accumulates! Protoporphyrin IX, Mg-proto, Mg-proto MME and 3,8-divinyl protochlorophyllide a 
+hmc1: !does not accumulate! Protoporphyrin IX, Mg-proto, Mg-proto MME and 3,8-divinyl protochlorophyllide a 
+SUFB

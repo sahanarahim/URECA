@@ -1,0 +1,7 @@
+['10079219', 'The shoot apical meristem and cotyledons of higher plants are established during  embryogenesis in the apex. Redundant CUP-SHAPED COTYLEDON 1 (CUC1) and CUC2 as  well as SHOOT MERISTEMLESS (STM) of Arabidopsis are required for shoot apical  meristem formation and cotyledon separation. To elucidate how the apical region  of the embryo is established, we investigated genetic interactions among CUC1,  CUC2 and STM, as well as the expression patterns of CUC2 and STM mRNA. Expression  of these genes marked the incipient shoot apical meristem as well as the  boundaries of cotyledon primordia, consistent with their roles for shoot apical  meristem formation and cotyledon separation. Genetic and expression analyses  indicate that CUC1 and CUC2 are redundantly required for expression of STM to  form the shoot apical meristem, and that STM is required for proper spatial  expression of CUC2 to separate cotyledons. A model for pattern formation in the  apical region of the Arabidopsis embryo is presented.', '1999 Apr', 'Development', '10.1242/dev.126.8.1563', 'Tasaka']
+
+CUC1: !required for! STM expression
+CUC2: !required for! STM expression
+STM: !required for! CUC2 expression
+CUC2: !marks! shoot apical meristem
+CUC2: !marks! cotyledon primordia boundaries

@@ -1,0 +1,11 @@
+The metabolic pathways of glycerolipids are well described in cells containing chloroplasts limited by a two-membrane envelope but not in cells containing plastids limited by four membranes, including heterokonts. Fatty acids (FAs) produced in the plastid, palmitic and palmitoleic acids (16:0 and 16:1), are used in the cytosol for the synthesis of glycerolipids via various routes, requiring multiple acyl-Coenzyme A (CoA) synthetases (ACS). Here, we characterized an ACS of the Bubblegum subfamily in the photosynthetic eukaryote Microchloropsis gaditana, an oleaginous heterokont used for the production of lipids for multiple applications. Genome engineering with TALE-N allowed the generation of MgACSBG point mutations, but no knockout was obtained. Point mutations triggered an overall decrease of 16:1 in lipids, a specific increase of unsaturated 18-carbon acyls in phosphatidylcholine and decrease of 20-carbon acyls in the betaine lipid diacylglyceryl-trimethyl-homoserine. The profile of acyl-CoAs highlighted a decrease in 16:1-CoA and 18:3-CoA. Structural modeling supported that mutations affect accessibility of FA to the MgACSBG reaction site. Expression in yeast defective in acyl-CoA biosynthesis further confirmed that point mutations affect ACSBG activity. Altogether, this study supports a critical role of heterokont MgACSBG in the production of 16:1-CoA and 18:3-CoA. In M. gaditana mutants, the excess saturated and monounsaturated FAs were diverted to triacylglycerol, thus suggesting strategies to improve the oil content in this microalga.
+
+MgACSBG: !affects! FA production 
+16:1: !decreases in! lipids 
+18-carbon acyls: !increases in! phosphatidylcholine 
+20-carbon acyls: !decreases in! diacylglyceryl-trimethyl-homoserine 
+MgACSBG: !affects! accessibility of FA 
+MgACSBG: !affects! ACSBG activity 
+16:1-CoA: !decreases in! M. gaditana mutants 
+18:3-CoA: !decreases in! M. gaditana mutants 
+triacylglycerol: !increases in! M. gaditana mutants

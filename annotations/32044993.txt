@@ -1,0 +1,13 @@
+Spartina alterniflora (Spartina) is the only halophyte in the salt marsh. However, the molecular basis of its high salt tolerance remains elusive. In this study, we used Pacific Biosciences (PacBio) full-length single-molecule long-read sequencing and RNA-seq to elucidate the transcriptome dynamics of high salt tolerance in Spartina by salt gradient experiments. High-quality unigenes, transcription factors, non-coding RNA and Spartina-specific transcripts were identified. Co-expression network analysis found that protein kinase-encoding genes (SaOST1, SaCIPK10 and SaLRRs) are hub genes in the salt tolerance regulatory network. High salt stress induced the expression of transcription factors but repressed the expression of long non-coding RNAs. The Spartina transcriptome is closer to rice than Arabidopsis, and a higher proportion of transporter and transcription factor-encoding transcripts have been found in Spartina. Transcriptome analysis showed that high salt stress induced the expression of carbohydrate metabolism, especially cell-wall biosynthesis-related genes in Spartina, and repressed its expression in rice. Compared with rice, high salt stress highly induced the expression of stress response, protein modification and redox-related gene expression and greatly inhibited translation in Spartina. High salt stress also induced alternative splicing in Spartina, while differentially expressed alternative splicing events associated with photosynthesis were overrepresented in Spartina but not in rice. Finally, we built the SAPacBio website for visualizing full-length transcriptome sequences, transcription factors, ncRNAs, salt-tolerant genes and alternative splicing events in Spartina. Overall, this study suggests that the salt tolerance mechanism in Spartina is different from rice in many aspects and is far more complex than expected.
+
+SaOST1: !enhances! Salt tolerance
+SaCIPK10: !enhances! Salt tolerance
+SaLRRs: !enhances! Salt tolerance
+Transcription factors: !induced by! High salt stress
+Long non-coding RNAs: !repressed by! High salt stress
+Carbohydrate metabolism: !induced by! High salt stress
+Stress response: !induced by! High salt stress
+Protein modification: !induced by! High salt stress
+Redox-related gene expression: !induced by! High salt stress
+Translation: !inhibited by! High salt stress
+Alternative splicing: !induced by! High salt stress

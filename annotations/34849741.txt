@@ -1,0 +1,7 @@
+Leaf laminar growth and adaxial-abaxial boundary formation are fundamental outcomes of plant development. Boundary and laminar growth coordinate the further patterning and growth of the leaf, directing the differentiation of cell types within the top and bottom domains and promoting initiation of lateral organs along their adaxial or abaxial axis. Leaf adaxial-abaxial polarity specification and laminar outgrowth are regulated by two transcription factors, REVOLUTA (REV) and KANADI (KAN). ABA INSENSITIVE TO GROWTH 1 (ABIG1) encodes a HOMEODOMAIN-LEUCINE ZIPPER (HD-ZIP) class II transcription factor and is a direct target of the adaxial-abaxial regulators REV and KAN. To investigate the role of ABIG1 in leaf development and in the establishment of polarity, we examined the phenotypes of both gain-of-function and loss-of-function mutants. Through genetic interaction analysis with REV and KAN mutants, we determined that ABIG1 plays a role in leaf laminar growth as well as in adaxial-abaxial polarity establishment. Genetic and physical interaction assays showed that ABIG1 interacts with the transcriptional TOPLESS corepressor. This study provides new evidence that ABIG1, another HD-ZIP II, facilitates growth through the corepressor TOPLESS.
+
+REV: !regulates! ABIG1
+KAN: !regulates! ABIG1
+ABIG1: !interacts with! TOPLESS
+ABIG1: !enhances! laminar growth
+ABIG1: !establishes! polarity

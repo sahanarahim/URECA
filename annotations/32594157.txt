@@ -1,0 +1,14 @@
+Plant symptoms are derived from specific interactions between virus and host components. However, little is known about viral or host factors that participate in the establishment of systemic necrosis. Here, we showed that helper component proteinase (HCPro), encoded by Chilli veinal mottle virus (ChiVMV), could directly interact with catalase 1 (CAT1) and catalase 3 (CAT3) in the cytoplasm of tobacco (Nicotiana tabacum) plants to facilitate viral infection. In vitro, the activities of CAT1 and CAT3 were inhibited by the interaction between HCPro and CATs. The C-terminus of HCPro was essential for their interaction and was also required for the decrease of enzyme activities. Interestingly, the mRNA and protein level of CATs were up-regulated in tobacco plants in response to ChiVMV infection. Nicotiana tabacum plants with HCPro overexpression or CAT1 knockout were more susceptible to ChiVMV infection, which was similar to the case of H2O2-pre-treated plants, and the overexpression of CAT1 inhibited ChiVMV accumulation. Also, neither CAT1 nor CAT3 could affect the RNA silencing suppression (RSS) activity of HCPro. Our results showed that the interaction between HCPro and CATs promoted the development of plant systemic necrosis, revealing a novel role for HCPro in virus infection and pathogenicity.
+
+HCPro: !interacts with! CAT1 
+HCPro: !interacts with! CAT3 
+CAT1: !inhibited by! HCPro 
+CAT3: !inhibited by! HCPro 
+HCPro: !promotes! ChiVMV infection 
+CAT1: !up-regulated by! ChiVMV infection 
+CAT3: !up-regulated by! ChiVMV infection 
+HCPro: !enhances! plant systemic necrosis 
+CAT1: !overexpression enhances! ChiVMV accumulation 
+CAT1: !knockout enhances! ChiVMV infection 
+CAT1: !overexpression inhibits! ChiVMV accumulation 
+CAT1: !does not affect! RSS activity of HCPro

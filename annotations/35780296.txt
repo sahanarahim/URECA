@@ -1,0 +1,11 @@
+The plant hormone jasmonate (JA) regulates plant immunity and adaptive growth by orchestrating a genome-wide transcriptional program. Key regulators of JA-responsive gene expression include the master transcription factor MYC2, which is repressed by the conserved Groucho/Tup1-like corepressor TOPLESS (TPL) in the resting state. However, the mechanisms underlying TPL-mediated transcriptional repression of MYC2 activity and hormone-dependent switching between repression and de-repression remain enigmatic. Here, we report the regulation of TPL activity and JA signaling by reversible acetylation of TPL. We found that the histone acetyltransferase GCN5 could mediate TPL acetylation, which enhances its interaction with the NOVEL-INTERACTOR-OF-JAZ (NINJA) adaptor and promotes its recruitment to MYC2 target promoters, facilitating transcriptional repression. Conversely, TPL deacetylation by the histone deacetylase HDA6 weakens TPL-NINJA interaction and inhibits TPL recruitment to MYC2 target promoters, facilitating transcriptional activation. In the resting state, the opposing activities of GCN5 and HDA6 maintain TPL acetylation homeostasis, promoting transcriptional repression activity of TPL. In response to JA elicitation, HDA6 expression is transiently induced, resulted in decreased TPL acetylation and repressor activity, thereby transcriptional activation of MYC2 target genes. Thus, the GCN5-TPL-HDA6 module maintains the homeostasis of acetylated TPL, thereby determining the transcriptional state of JA-responsive genes. Our findings uncovered a mechanism by which the TPL corepressor activity in JA signaling is actively tuned in a rapid and reversible manner.
+
+GCN5: !acetylates! TPL
+HDA6: !deacetylates! TPL
+TPL: !interacts with! NINJA
+GCN5: !enhances! TPL-NINJA interaction
+HDA6: !inhibits! TPL-NINJA interaction
+GCN5: !promotes! TPL recruitment to MYC2 target promoters
+HDA6: !inhibits! TPL recruitment to MYC2 target promoters
+GCN5: !maintains! TPL acetylation homeostasis
+HDA6: !induces! decreased TPL acetylation

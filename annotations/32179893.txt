@@ -1,0 +1,9 @@
+In plant cells, environmental stressors promote changes in connectivity between the cortical endoplasmic reticulum (ER) and the plasma membrane (PM). Although this process is tightly regulated in space and time, the molecular signals and structural components mediating these changes in interorganelle communication are only starting to be characterized. In this report, we confirm the presence of a putative tethering complex containing the synaptotagmins 1 and 5 (SYT1 and SYT5) and the Ca2+- and lipid-binding protein 1 (CLB1/SYT7). This complex is enriched at ER-PM contact sites (EPCSs), has slow responses to changes in extracellular Ca2+, and displays severe cytoskeleton-dependent rearrangements in response to the trivalent lanthanum (La3+) and gadolinium (Gd3+) rare earth elements (REEs). Although REEs are generally used as non-selective cation channel blockers at the PM, here we show that the slow internalization of REEs into the cytosol underlies the activation of the Ca2+/calmodulin intracellular signaling, the accumulation of phosphatidylinositol-4-phosphate (PI4P) at the PM, and the cytoskeleton-dependent rearrangement of the SYT1/SYT5 EPCS complexes. We propose that the observed EPCS rearrangements act as a slow adaptive response to sustained stress conditions, and that this process involves the accumulation of stress-specific phosphoinositide species at the PM.
+
+SYT1: !interacts with! SYT5
+SYT5: !interacts with! SYT1
+CLB1/SYT7: !interacts with! SYT1 & SYT5
+REEs: !internalize into! cytosol
+Ca2+/calmodulin: !activated by! REEs
+PI4P: !accumulates at! PM
+Cytoskeleton: !rearranges! SYT1/SYT5 EPCS complexes

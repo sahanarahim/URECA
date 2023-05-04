@@ -1,0 +1,11 @@
+myo-Inositol-1-phosphate synthase (MIPS) catalyzes the limiting step of inositol biosynthesis and has crucial roles in plant growth and development. In response to stress, the transcription of MIPS1 is induced and the biosynthesis of inositol or inositol derivatives is promoted by unknown mechanisms. Here, we found that the light signaling protein FAR-RED ELONGATED HYPOCOTYL3 (FHY3) and its homolog FAR-RED IMPAIRED RESPONSE1 (FAR1) regulate light-induced inositol biosynthesis and oxidative stress responses by activating the transcription of MIPS1. Disruption of FHY3 and FAR1 caused light-induced cell death after dark-light transition, precocious leaf senescence, and increased sensitivity to oxidative stress. Reduction of salicylic acid (SA) accumulation by overexpression of SALICYLIC ACID 3-HYDROXYLASE largely suppressed the cell death phenotype of fhy3 far1 mutant plants, suggesting that FHY3- and FAR1-mediated cell death is dependent on SA. Furthermore, comparative analysis of chromatin immunoprecipitation sequencing and microarray results revealed that FHY3 and FAR1 directly target both MIPS1 and MIPS2. The fhy3 far1 mutant plants showed severely decreased MIPS1/2 transcript levels and reduced inositol levels. Conversely, constitutive expression of MIPS1 partially rescued the inositol contents, caused reduced transcript levels of SA-biosynthesis genes, and prevented oxidative stress in fhy3 far1. Taken together, our results indicate that the light signaling proteins FHY3 and FAR1 directly bind the promoter of MIPS1 to activate its expression and thereby promote inositol biosynthesis to prevent light-induced oxidative stress and SA-dependent cell death.
+
+FHY3: !activates! MIPS1
+FAR1: !activates! MIPS1
+MIPS1: !promotes! inositol biosynthesis
+FHY3/FAR1: !directly target! MIPS1/2
+fhy3 far1 mutant plants: !decrease! MIPS1/2 transcript levels
+fhy3 far1 mutant plants: !increase! sensitivity to oxidative stress
+fhy3 far1 mutant plants: !reduce! inositol levels
+MIPS1: !partially rescues! inositol contents
+MIPS1: !prevents! oxidative stress

@@ -1,0 +1,16 @@
+Endoplasmic reticulum (ER) stress is caused by the stress-induced accumulation of unfolded proteins in the ER. Several compounds are used to induce the unfolded protein response (UPR) in animals, with different modes of action, but which ER stress-inducing drugs induce ER stress in microalgae or land plants is unclear. In this study, we examined the effects of seven chemicals that were reported to induce ER stress in animals on the growth, UPR gene expression and fatty acid profiles of Chlamydomonas reinhardtii (Chlamydomonas) and Arabidopsis thaliana (Arabidopsis): 2-deoxyglucose, dithiothreitol (DTT), tunicamycin (TM), thapsigargin, brefeldin A (BFA), monensin (MON) and eeyarestatin I. In both model photosynthetic organisms, DTT, TM, BFA and MON treatment induced ER stress, as indicated by the induction of spliced bZIP1 and bZIP60, respectively. In Chlamydomonas, DTT, TM and BFA treatment induced the production of transcripts related to lipid biosynthesis, but MON treatment did not. In Arabidopsis, DTT, TM, BFA and MON inhibited seed germination and seedling growth with the activation of bZIP60. These findings lay the foundation for using four types of ER stress-inducing drugs in photosynthetic organisms, and they help uncover the mode of action of each compound.
+
+2-deoxyglucose: !induces! ER stress
+DTT: !induces! ER stress
+TM: !induces! ER stress
+thapsigargin: !induces! ER stress
+BFA: !induces! ER stress
+MON: !induces! ER stress
+eeyarestatin I: !induces! ER stress
+Chlamydomonas: !responds to! DTT, TM, BFA, MON
+Arabidopsis: !responds to! DTT, TM, BFA, MON
+spliced bZIP1: !induced by! DTT, TM, BFA
+spliced bZIP60: !induced by! DTT, TM, BFA, MON
+lipid biosynthesis: !induced by! DTT, TM, BFA
+seed germination: !inhibited by! DTT, TM, BFA, MON
+seedling growth: !inhibited by! DTT, TM, BFA, MON

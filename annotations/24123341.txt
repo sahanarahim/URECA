@@ -1,0 +1,9 @@
+['24123341', 'BACKGROUND: The root apical meristem of Arabidopsis is established  post-embryonically as the main source of root cells, and its activity is  maintained by complex bidirectional signaling between stem cells and mature  cells. The receptor-like kinases GASSHO1 (GSO1) and GSO2 have been shown to  regulate aerial epidermal function and seedling growth in Arabidopsis. RESULTS:  Here we show that gso1; gso2 seedlings also have root growth and patterning  defects. Analyses of mutant root morphology indicate abnormal numbers of cells in  longitudinal files and radial cell layers, as well as aberrant stem cell division  planes. gso1; gso2 double mutants misexpress markers for stem cells and  differentiated root cell types. In addition, gso1; gso2 root growth defects, but  not marker missexpression or patterning phenotypes, are rescued by growth on  media containing metabolizable sugars. CONCLUSIONS: We conclude that GSO1 and  GSO2 function together in intercellular signaling to positively regulate cell  proliferation, differentiation of root cell types, and stem cell identity. In  addition, GSO1 and GSO2 control seedling root growth by modulating sucrose  response after germination.', '2014 Feb', 'Dev Dyn', '10.1002/dvdy.24066', 'Tax']
+
+GSO1: !regulates! aerial epidermal function
+GSO2: !regulates! aerial epidermal function
+GSO1; GSO2: !control! root growth
+GSO1; GSO2: !regulate! cell proliferation
+GSO1; GSO2: !regulate! differentiation of root cell types
+GSO1; GSO2: !regulate! stem cell identity
+GSO1; GSO2: !modulate! sucrose response

@@ -1,0 +1,11 @@
+Cellulose synthesis, but not its degradation, is generally thought to be required for plant cell growth. In this work, we cloned a dinoflagellate cellulase gene, dCel1, whose activities increased significantly in G(2)/M phase, in agreement with the significant drop of cellulose content reported previously. Cellulase inhibitors not only caused a delay in cell cycle progression at both the G(1) and G(2)/M phases in the dinoflagellate Crypthecodinium cohnii, but also induced a higher level of dCel1p expression. Immunostaining results revealed that dCel1p was mainly localized at the cell wall. Accordingly, the possible role of cellulase activity in cell cycle progression was tested by treating synchronized cells with exogenous dCelp and purified antibody, in experiments analogous to overexpression and knockdown analyses, respectively. Cell cycle advancement was observed in cells treated with exogenous dCel1p, whereas the addition of purified antibody resulted in a cell cycle delay. Furthermore, delaying the G(2)/M phase independently with antimicrotubule inhibitors caused an abrupt and reversible drop in cellulase protein level. Our results provide a conceptual framework for the coordination of cell wall degradation and reconstruction with cell cycle progression in organisms with cell walls. Since cellulase activity has a direct bearing on the cell size, the coupling between cellulase expression and cell cycle progression can also be considered as a feedback mechanism that regulates cell size.
+
+dCel1: !affects! Cellulose synthesis
+dCel1: !localizes to! Cell wall
+dCel1: !enhances! Cell cycle progression
+Cellulase inhibitors: !induce! dCel1p expression
+Exogenous dCel1p: !advances! Cell cycle
+Purified antibody: !delays! Cell cycle
+Antimicrotubule inhibitors: !cause! Drop in cellulase protein level
+Cellulase activity: !coordinates with! Cell cycle progression
+Cellulase expression: !regulates! Cell size

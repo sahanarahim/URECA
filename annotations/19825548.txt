@@ -1,0 +1,7 @@
+Studies of apical dominance have benefited greatly from two-branch assays in pea and bean, in which the shoot system is trimmed back to leave only two active cotyledonary axillary branches. In these two-branch shoots, a large body of evidence shows that one actively growing branch is able to inhibit the growth of the other, prompting studies on the nature of the inhibitory signals, which are still poorly understood. Here, we describe the establishment of two-branch assays in Arabidopsis, using consecutive branches on the bolting stem. As with the classical studies in pea and bean, these consecutive branches are able to inhibit one another's growth. Not only can the upper branch inhibit the lower branch, but also the lower branch can inhibit the upper branch, illustrating the bi-directional action of the inhibitory signals. Using mutants, we show that the inhibition is partially dependent on the MAX pathway and that while the inhibition is clearly transmitted across the stem from the active to the inhibited branch, the vascular connectivity of the two branches is weak, and the MAX pathway is capable of acting unilaterally in the stem.
+
+branch: !inhibits! branch
+MAX pathway: !mediates! inhibition
+active branch: !transmits! inhibition
+vascular connectivity: !weakly connects! branches
+MAX pathway: !acts unilaterally in stem!

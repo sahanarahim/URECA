@@ -1,0 +1,16 @@
+The maize (Zea mays) genome encodes three indole-3-glycerolphosphate synthase enzymes (IGPS1, 2, and 3) catalyzing the conversion of 1-(2-carboxyphenylamino)-l-deoxyribulose-5-phosphate to indole-3-glycerolphosphate. Three further maize enzymes (BX1, benzoxazinoneless 1; TSA, tryptophan synthase alpha subunit; and IGL, indole glycerolphosphate lyase) convert indole-3-glycerolphosphate to indole, which is released as a volatile defense signaling compound and also serves as a precursor for the biosynthesis of tryptophan and defense-related benzoxazinoids. Phylogenetic analyses showed that IGPS2 is similar to enzymes found in both monocots and dicots, whereas maize IGPS1 and IGPS3 are in monocot-specific clades. Fusions of yellow fluorescent protein with maize IGPS enzymes and indole-3-glycerolphosphate lyases were all localized in chloroplasts. In bimolecular fluorescence complementation assays, IGPS1 interacted strongly with BX1 and IGL, IGPS2 interacted primarily with TSA, and IGPS3 interacted equally with all three indole-3-glycerolphosphate lyases. Whereas IGPS1 and IGPS3 expression was induced by insect feeding, IGPS2 expression was not. Transposon insertions in IGPS1 and IGPS3 reduced the abundance of both benzoxazinoids and free indole. Spodoptera exigua (beet armyworm) larvae show improved growth on igps1 mutant maize plants. Together, these results suggest that IGPS1 and IGPS3 function mainly in the biosynthesis of defensive metabolites, whereas IGPS2 may be involved in the biosynthesis of tryptophan. This metabolic channeling is similar to, though less exclusive than, that proposed for the three maize indole-3-glycerolphosphate lyases.
+
+IGPS1: !interacts with! BX1
+IGPS1: !interacts with! IGL
+IGPS2: !interacts with! TSA
+IGPS3: !interacts with! BX1
+IGPS3: !interacts with! IGL
+IGPS3: !interacts with! TSA
+IGPS1: !enhances! benzoxazinoid biosynthesis
+IGPS3: !enhances! benzoxazinoid biosynthesis
+IGPS1: !enhances! indole biosynthesis
+IGPS3: !enhances! indole biosynthesis
+IGPS2: !enhances! tryptophan biosynthesis
+IGPS1: !localizes to! chloroplasts
+IGPS2: !localizes to! chloroplasts
+IGPS3: !localizes to! chloroplasts

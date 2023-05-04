@@ -1,0 +1,6 @@
+Sugar catabolic genes are induced during nitrogen starvation in a cyanobacterium Synechocystis sp. PCC 6803, but the underlying regulatory mechanism still remains to be completely characterized. In this study, we showed by molecular genetics and transcriptome analyses that a response regulator Rre37 (encoded by sll1330), whose expression is enhanced by nitrogen depletion under the control of NtcA, activates transcript accumulation of sugar catabolic genes, such as gap1, pfkA (sll1196), glgP (slr1367) and glgX (slr1857), mainly during nitrogen starvation. Previously, we reported that a group-2 sigma factor SigE also positively regulates sugar catabolic genes in this strain. Phenotypic analyses using a single or double mutant lacking rre37 and/or sigE indicated that both SigE and Rre37 positively regulate sugar catabolic genes independently. These findings substantiated a regulatory network of sugar catabolic genes in this cyanobacterium.
+
+NtcA: !enhances! Rre37
+Rre37: !activates! sugar catabolic genes
+SigE: !positively regulates! sugar catabolic genes
+Rre37: !positively regulates! sugar catabolic genes

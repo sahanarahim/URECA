@@ -1,0 +1,10 @@
+Eukaryotic filamentous plant pathogens secrete effector proteins that modulate the host cell to facilitate infection. Computational effector candidate identification and subsequent functional characterization delivers valuable insights into plant-pathogen interactions. However, effector prediction in fungi has been challenging due to a lack of unifying sequence features such as conserved N-terminal sequence motifs. Fungal effectors are commonly predicted from secretomes based on criteria such as small size and cysteine-rich, which suffers from poor accuracy. We present EffectorP which pioneers the application of machine learning to fungal effector prediction. EffectorP improves fungal effector prediction from secretomes based on a robust signal of sequence-derived properties, achieving sensitivity and specificity of over 80%. Features that discriminate fungal effectors from secreted noneffectors are predominantly sequence length, molecular weight and protein net charge, as well as cysteine, serine and tryptophan content. We demonstrate that EffectorP is powerful when combined with in planta expression data for predicting high-priority effector candidates. EffectorP is the first prediction program for fungal effectors based on machine learning. Our findings will facilitate functional fungal effector studies and improve our understanding of effectors in plant-pathogen interactions. EffectorP is available at http://effectorp.csiro.au.
+
+Eukaryotic filamentous plant pathogens: !secrete! effector proteins 
+effector proteins: !modulate! host cell 
+fungal effectors: !predicted from! secretomes 
+machine learning: !applied to! fungal effector prediction 
+sequence length, molecular weight, protein net charge: !discriminate! fungal effectors 
+cysteine, serine, tryptophan content: !discriminate! fungal effectors 
+in planta expression data: !combined with! EffectorP 
+EffectorP: !predict! high-priority effector candidates

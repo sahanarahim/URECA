@@ -1,0 +1,8 @@
+['9159953', 'Transport of cargo proteins from the endoplasmic reticulum (ER) to the cis-Golgi  network is mediated by protein-coated vesicles. The coat, called COPII coat,  consists of proteins that are recruited from the cytosol and interact with  integral membrane proteins of the ER. In yeast, both cytosolic proteins  (Sec13/31, Sec23/24, and Sar1) and ER-associated proteins (Sec12 and others) have  been purified and characterized and it has been possible to demonstrate transport  vesicle formation in vitro. Arabidopsis thaliana homologs of Sar1 and Sec12 have  recently been identified, but little is known about the properties of the  proteins or their subcellular distribution. Here we demonstrate that AtSAR1, a  22-kD protein that binds GTP, and AtSEC12, a 43-kD GTP-exchange protein, are both  associated with the ER. However, about one-half of the cellular AtSAR1 is present  in the cytosol. When AtSAR1 is overexpressed in transgenic plants, the additional  protein is also cytosolic. When tissue-culture cells are cold-shocked (12 h at 8  degrees C), AtSAR1 levels appeared to decline and a larger proportion of the  total protein was found in the cytosol. Given the known function of AtSAR1 in  yeast, we propose that the amount of ER-associated AtSAR1 is an indication of the  intensity of the secretory process. Thus, we expect that such a cold shock will  adversely affect ER-to-Golgi transport of proteins.', '1997 May', 'Plant Physiol', '10.1104/pp.114.1.315', 'Raikhel']
+
+AtSAR1: !binds GTP! 
+AtSAR1: !localizes to! ER 
+AtSEC12: !binds GTP! 
+AtSEC12: !localizes to! ER 
+AtSAR1: !synthesizes! COPII coat 
+AtSAR1: !represses! ER-to-Golgi transport of proteins

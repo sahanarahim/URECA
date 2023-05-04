@@ -1,0 +1,8 @@
+Banana (Musa acuminata) fruit ripening under high temperatures (>24°C) undergoes green ripening due to failure of chlorophyll degradation, which greatly reduces marketability. However, the mechanism underlying high temperature-repressed chlorophyll catabolism in banana fruit is not yet well understood. Here, using quantitative proteomic analysis, 375 differentially expressed proteins were identified in normal yellow and green ripening in banana. Among these, one of the key enzymes involved in chlorophyll degradation, NON-YELLOW COLORING 1 (MaNYC1), exhibited reduced protein levels when banana fruit ripened under high temperature. Transient overexpression of MaNYC1 in banana peels resulted in chlorophyll degradation under high temperature, which weakens the green ripening phenotype. Importantly, high temperature induced MaNYC1 protein degradation via the proteasome pathway. A banana RING E3 ligase, NYC1 interacting protein 1 (MaNIP1), was found to interact with and ubiquitinate MaNYC1, leading to its proteasomal degradation. Furthermore, transient overexpression of MaNIP1 attenuated MaNYC1-induced chlorophyll degradation in banana fruits, indicating that MaNIP1 negatively regulates chlorophyll catabolism by affecting MaNYC1 degradation. Taken together, the findings establish a post-translational regulatory module of MaNIP1-MaNYC1 that mediates high temperature-induced green ripening in bananas.
+
+MaNIP1: !interacts with! MaNYC1
+MaNIP1: !ubiquitinates! MaNYC1
+MaNIP1: !negatively regulates! chlorophyll catabolism
+MaNYC1: !degraded by! proteasome pathway
+MaNYC1: !enhances! chlorophyll degradation
+MaNYC1: !repressed by! high temperature

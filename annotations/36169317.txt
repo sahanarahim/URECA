@@ -1,0 +1,7 @@
+Many eukaryotic transcripts contain upstream open reading frames (uORFs). Translated uORFs can inhibit the translation of main ORFs by imposing the need for reinitiation of translation. Translated uORFs can also lead to transcript degradation by the nonsense-mediated mRNA decay (NMD) pathway. In mammalian cells, translated uORFs were shown to target their transcripts to NMD if the uORFs were long (>23-32 amino acids), structured, or inhibit reinitiation. Reinitiation was shown to rescue uORF-containing mammalian transcripts from NMD. Much less is known about the significance of the length, structure, and reinitiation efficiency of translated uORFs for NMD targeting in plants. Although high-throughput studies suggested that uORFs do not globally reduce plant transcript abundance, it was not clear whether this was due to NMD-escape-permitting parameters of uORF recognition, length, structure, or reinitiation efficiency. We expressed in Arabidopsis reporter genes that included NDL2 5' untranslated region and various uORFs with modulation of the above parameters. We found that transcripts can escape NMD in plants even when they include efficiently translated uORFs up to 70 amino acids long, or structured uORFs, in the absence of reinitiation. These data highlight an apparent difference between the rules that govern the exposure of uORF-containing transcripts to NMD in mammalian and plant cells.
+
+uORFs: !inhibit! main ORFs
+uORFs: !target to! NMD
+uORFs: !rescued by! reinitiation
+uORF: !escape! NMD
+mammalian cells: !differ from! plant cells

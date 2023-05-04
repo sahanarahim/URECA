@@ -1,0 +1,10 @@
+In recent years, deep-learning-based fruit-detection technology has exhibited excellent performance in modern horticulture research. However, deploying deep learning algorithms in real-time field applications is still challenging, owing to the relatively low image processing capability of edge devices. Such limitations are becoming a new bottleneck and hindering the utilization of AI algorithms in modern horticulture. In this paper, we propose a lightweight fruit-detection algorithm, specifically designed for edge devices. The algorithm is based on Light-CSPNet as the backbone network, an improved feature-extraction module, a down-sampling method, and a feature-fusion module, and it ensures real-time detection on edge devices while maintaining the fruit-detection accuracy. The proposed algorithm was tested on three edge devices: NVIDIA Jetson Xavier NX, NVIDIA Jetson TX2, and NVIDIA Jetson NANO. The experimental results show that the average detection precision of the proposed algorithm for orange, tomato, and apple datasets are 0.93, 0.847, and 0.850, respectively. Deploying the algorithm, the detection speed of NVIDIA Jetson Xavier NX reaches 21.3, 24.8, and 22.2 FPS, while that of NVIDIA Jetson TX2 reaches 13.9, 14.1, and 14.5 FPS and that of NVIDIA Jetson NANO reaches 6.3, 5.0, and 8.5 FPS for the three datasets. Additionally, the proposed algorithm provides a component add/remove function to flexibly adjust the model structure, considering the trade-off between the detection accuracy and speed in practical usage.
+
+Light-CSPNet: !forms backbone of! fruit-detection algorithm 
+Improved feature-extraction module: !integrated into! Light-CSPNet 
+Down-sampling method: !integrated into! Light-CSPNet 
+Feature-fusion module: !integrated into! Light-CSPNet 
+NVIDIA Jetson Xavier NX: !runs! proposed algorithm 
+NVIDIA Jetson TX2: !runs! proposed algorithm 
+NVIDIA Jetson NANO: !runs! proposed algorithm 
+Component add/remove function: !provides flexibility to! model structure

@@ -1,0 +1,14 @@
+MtCLE12 and MtCLE13 encode CLAVATA3/EMBRYO-SURROUNDING REGION RELATED (CLE) peptides which regulate autoregulation of nodulation (AON) in Medicago through the shoot receptor, SUNN (SUPER NUMERIC NODULES). Genetics suggests RDN1 (ROOT-DETERMINED NODULATION 1) arabinosylates MtCLE12 to enable SUNN perception. The functional structures of MtCLE12 and MtCLE13 peptides, however, remain elusive. We combined genetic and chemical synthesis approaches to determine if glyco-modifications of three nodule-expressed CLE peptides are essential for AON. We also examined how root and shoot applied AON-CLEs inhibit nodulation. MtCLE12, MtCLE13 and MtCLE42 peptides were synthesized with hydroxylation, mono-arabinosylation or tri-arabinosylation (TaP) at proline 7. Only MtCLE12-TaP and MtCLE13-TaP peptides induced AON in wild-type (WT) and rdn1-1, but not in sunn-4. The application of MtCLE13-TaP to cotyledons 1 d before rhizobial inoculation completely inhibited both rhizobial infection and nodulation. By contrast, MtCLE12-TaP induced significant AON without abolishing rhizobial infection. The results indicate that key CLE domain amino acids and TaP modifications to MtCLE12 and MtCLE13 are essential for SUNN-dependent AON. We also show evidence that RDN1 does not tri-arabinosylate MtCLE13. Finally, MtCLE13-TaP can induce a strong AON response in shoots that inhibits the entire symbiotic processes in roots. We present a new model for AON in Medicago.
+
+MtCLE12: !arabinosylates! RDN1 
+MtCLE12: !induces! AON 
+MtCLE13: !arabinosylates! RDN1 
+MtCLE13: !induces! AON 
+MtCLE42: !induces! AON 
+MtCLE12-TaP: !induces! AON 
+MtCLE13-TaP: !induces! AON 
+SUNN: !perceives! MtCLE12 
+SUNN: !perceives! MtCLE13 
+AON-CLEs: !inhibit! nodulation 
+MtCLE13-TaP: !inhibits! rhizobial infection 
+MtCLE13-TaP: !inhibits! symbiotic processes

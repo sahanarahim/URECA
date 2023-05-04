@@ -1,0 +1,12 @@
+['21877139', 'The chloroplast Deg1 protein performs proteolytic cleavage of the photodamaged D1  protein of the photosystem II (PSII) reaction center, PSII extrinsic subunit PsbO  and the soluble electron carrier plastocyanin. Using biochemical, immunological  and mass spectrometry approaches we showed that the heterogeneously expressed  Deg1 protease from Arabidopsis thaliana can be responsible for the degradation of  the monomeric light-harvesting complex antenna subunits of PSII (LHCII), CP26 and  CP29, as well as PSII-associated PsbS (CP22/NPQ4) protein. The results may  indicate that cytochrome b (6) protein and two previously unknown thylakoid  proteins, Ptac16 and an 18.3-kDa protein, may be the substrates for Deg1. The  interaction of Deg1 with the PsbS protein and the minor LHCII subunits implies  its involvement in the regulation of both excess energy dissipation and state  transition adaptation processes.', '2012 Feb', 'Planta', '10.1007/s00425-011-1505-x', 'Romanowska']
+
+Deg1: !cleaves! D1 
+Deg1: !degrades! LHCII 
+Deg1: !degrades! CP26 
+Deg1: !degrades! CP29 
+Deg1: !degrades! PsbS 
+Deg1: !degrades! cytochrome b (6) 
+Deg1: !degrades! Ptac16 
+Deg1: !degrades! 18.3-kDa protein 
+Deg1: !regulates! energy dissipation 
+Deg1: !regulates! state transition adaptation

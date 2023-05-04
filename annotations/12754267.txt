@@ -1,0 +1,6 @@
+['12754267', 'The molecular characterization of two isoforms of 3-deoxy-d-manno-oct-2-ulosonate  (KDO) -8-phosphate synthase (AtkdsA1 and AtkdsA2) from Arabidopsis is reported  here. First, by isolating a full-length cDNA for AtkdsA1, it was confirmed that  the deduced primary structures of AtkdsA1 and AtkdsA2 proteins were 93%  identical. Functional expression and purification studies demonstrated the  efficient catalytic activity of the AtkdsA1 enzyme to produce KDO-8-phosphate  from phosphoenolpyruvate and d-arabinose-5-phosphate. RT-PCR and RNA-gel blot  analysis revealed different expression profiles for both genes; the AtkdsA1 gene  was predominantly expressed in the shoots, while the AtkdsA2 transcript  accumulated to a higher level in the roots, implicating differential roles of  these isoforms in planta.', '2003 Jul', 'J Exp Bot', '10.1093/jxb/erg181', 'Matoh']
+
+AtkdsA1: !synthesizes! KDO-8-phosphate 
+AtkdsA1: !expressed in! shoots
+AtkdsA2: !synthesizes! KDO-8-phosphate 
+AtkdsA2: !expressed in! roots

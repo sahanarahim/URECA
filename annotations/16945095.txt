@@ -1,0 +1,7 @@
+The relative frequencies of functional traits of plant species show notable spatial variation, which is often related to environmental factors. Pollination type (insect-, wind- or self-pollination) is a critical trait for plant reproduction and provision of ecosystem services. Here, we mapped the distribution of pollination types across Germany by combining databases on plant distribution and plant pollination types. Applying a new method, we modelled the composition of pollination types using a set of 12 environmental variables as predictors within a Bayesian framework which allows for the analysis of compositional data in the presence of spatial autocorrelation. A clear biogeographical pattern in the distribution of pollination types was revealed which was adequately captured by our model. The most striking relationship was a relative increase in insect-pollination and a corresponding decrease of selfing with increasing altitude. Further important factors were wind speed, geology and land use. We present a powerful tool to analyse the distribution patterns of plant functional types such as pollination types and their relationship with environmental parameters in a spatially explicit framework.
+
+Pollination type: !varies with! Altitude 
+Altitude: !correlates with! Insect-pollination 
+Wind speed: !influences! Pollination type 
+Geology: !affects! Pollination type 
+Land use: !impacts! Pollination type

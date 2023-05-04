@@ -1,0 +1,9 @@
+The RING-type E3 ligase, Keep on Going (KEG), is required for early seedling establishment in Arabidopsis thaliana. Post-germination, KEG negatively regulates abscisic acid (ABA) signalling by targeting Abscisic Acid Insensitive 5 (ABI5) for ubiquitination and subsequent degradation. Previous reports suggest that the role of KEG during early seedling development is not limited to regulation of ABI5 abundance. Using a yeast two-hybrid screen, this study identified Calcineurin B-like Interacting Protein Kinase (CIPK) 26 as a KEG-interacting protein. In vitro pull-down and in planta bimolecular fluorescence complementation assays confirmed the interactions between CIPK26 and KEG. In planta experiments demonstrated that CIPK26 was ubiquitinated and degraded via the 26S proteasome. It was also found that turnover of CIPK26 was increased when KEG protein levels were elevated, suggesting that the RING-type E3 ligase is involved in targeting CIPK26 for degradation. CIPK26 was found to interact with the ABA signalling components ABI1, ABI2, and ABI5. In addition, CIPK26 was capable of phosphorylating ABI5 in vitro. Consistent with a role in ABA signalling, overexpression of CIPK26 increased the sensitivity of germinating seeds to the inhibitory effects of ABA. The data presented in this report suggest that KEG mediates the proteasomal degradation of CIPK26 and that CIPK26 is part of the ABA signalling network.
+
+KEG: !regulates! ABI5
+KEG: !interacts with! CIPK26
+CIPK26: !interacts with! KEG
+CIPK26: !ubiquitinated by! KEG
+CIPK26: !interacts with! ABI1, ABI2, ABI5
+CIPK26: !phosphorylates! ABI5
+CIPK26: !increases sensitivity to! ABA

@@ -1,0 +1,10 @@
+We determined the role of Phospholipase Dalpha1 (PLDalpha1) and its lipid product phosphatidic acid (PA) in abscisic acid (ABA)-induced production of reactive oxygen species (ROS) in Arabidopsis thaliana guard cells. The pldalpha1 mutant failed to produce ROS in guard cells in response to ABA. ABA stimulated NADPH oxidase activity in wild-type guard cells but not in pldalpha1 cells, whereas PA stimulated NADPH oxidase activity in both genotypes. PA bound to recombinant Arabidopsis NADPH oxidase RbohD (respiratory burst oxidase homolog D) and RbohF. The PA binding motifs were identified, and mutation of the Arg residues 149, 150, 156, and 157 in RbohD resulted in the loss of PA binding and the loss of PA activation of RbohD. The rbohD mutant expressing non-PA-binding RbohD was compromised in ABA-mediated ROS production and stomatal closure. Furthermore, ABA-induced production of nitric oxide (NO) was impaired in pldalpha1 guard cells. Disruption of PA binding to ABI1 protein phosphatase 2C did not affect ABA-induced production of ROS or NO, but the PA-ABI1 interaction was required for stomatal closure induced by ABA, H(2)O(2), or NO. Thus, PA is as a central lipid signaling molecule that links different components in the ABA signaling network in guard cells.
+
+PLDalpha1: !synthesizes! PA 
+PA: !binds to! RbohD 
+PA: !binds to! RbohF 
+PA: !activates! NADPH oxidase 
+PA: !interacts with! ABI1 
+ABA: !induces! ROS production 
+ABA: !induces! NO production 
+ABA: !induces! stomatal closure

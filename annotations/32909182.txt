@@ -1,0 +1,11 @@
+NbWRKY22 and NbWRKY25 are required for full activation of bacteria-associated pattern- and effector-triggered immunity as well as for the response to other non-bacterial defense elicitors. Plants defend themselves against pathogens using a two-layered immune system. Pattern-triggered immunity (PTI) can be activated upon recognition of epitopes from flagellin including flg22. Pseudomonas syringae pv. tomato (Pst) delivers effector proteins into the plant cell to promote host susceptibility. However, some plants express resistance (R) proteins that recognize specific effectors leading to the activation of effector-triggered immunity (ETI). Resistant tomato lines such as Rio Grande-PtoR (RG-PtoR) recognize two Pst effectors, AvrPto and AvrPtoB, and activate ETI through the Pto/Prf protein complex. Using RNA-seq, we identified two tomato WRKY transcription factor genes, SlWRKY22 and SlWRKY25, whose expression is increased during Pst-induced ETI. Silencing of the WRKY25/22 orthologous genes in Nicotiana benthamiana led to a delay in programmed cell death normally associated with AvrPto recognition or several non-bacterial effector/R protein pairs. An increase in disease symptoms was observed in silenced plants infiltrated with Pseudomonas syringae pv. tabaci expressing AvrPto or HopQ1-1. Expression of both tomato WRKY genes is also induced upon treatment with flg22 and callose deposition and cell death suppression assays in WRKY25/22-silenced N. benthamiana plants supported their involvement in PTI. Our results reveal an important role for two WRKYs as positive regulators of plant immunity against bacterial and potentially non-bacterial pathogens.
+
+NbWRKY22: !activates! PTI
+NbWRKY25: !activates! PTI
+Pst: !triggers! ETI
+AvrPto: !recognized by! R proteins
+R proteins: !activate! ETI
+SlWRKY22: !increases expression in! ETI
+SlWRKY25: !increases expression in! ETI
+flg22: !induces expression of! SlWRKY22/25
+HopQ1-1: !induces disease symptoms in! WRKY25/22-silenced N. benthamiana

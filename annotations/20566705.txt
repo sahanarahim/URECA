@@ -1,0 +1,10 @@
+Phenylalanine ammonia-lyase (PAL) catalyzes the first step of the phenylpropanoid pathway, which produces precursors to a variety of important secondary metabolites. Arabidopsis (Arabidopsis thaliana) contains four PAL genes (PAL1-PAL4), but there has been no genetic analysis to assess the biological functions of the entire gene family. Here, we report the generation and analysis of combined mutations for the four Arabidopsis PAL genes. Contrary to a previous report, we found that three independent pal1 pal2 double mutants were fertile and generated yellow seeds due to the lack of condensed tannin pigments in the seed coat. The pal1 pal2 double mutants were also deficient in anthocyanin pigments in various plant tissues, which accumulate in wild-type plants under stress conditions. Thus, PAL1 and PAL2 have a redundant role in flavonoid biosynthesis. Furthermore, the pal1 pal2 double mutants were more sensitive to ultraviolet-B light but more tolerant to drought than wild-type plants. We have also generated two independent pal1 pal2 pal3 pal4 quadruple knockout mutants, which are stunted and sterile. The quadruple knockout mutants still contained about 10% of the wild-type PAL activity, which might result from one or more leaky pal mutant genes or from other unknown PAL genes. The quadruple mutants also accumulated substantially reduced levels of salicylic acid and displayed increased susceptibility to a virulent strain of the bacterial pathogen Pseudomonas syringae. These results provide further evidence for both distinct and overlapping roles of the Arabidopsis PAL genes in plant growth, development, and responses to environmental stresses.
+
+PAL1: !affects! Flavonoid biosynthesis
+PAL2: !affects! Flavonoid biosynthesis
+PAL1: !enhances! UV-B light tolerance
+PAL2: !enhances! Drought tolerance
+PAL1: !represses! Condensed tannin pigments
+PAL2: !represses! Anthocyanin pigments
+PAL3: !represses! Salicylic acid accumulation
+PAL4: !represses! Susceptibility to Pseudomonas syringae

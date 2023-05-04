@@ -1,0 +1,8 @@
+Biology is increasingly becoming a data-intensive science with the recent progress of the omics fields, e.g. genomics, transcriptomics, proteomics and metabolomics. The species-metabolite relationship database, KNApSAcK Core, has been widely utilized and cited in metabolomics research, and chronological analysis of that research work has helped to reveal recent trends in metabolomics research. To meet the needs of these trends, the KNApSAcK database has been extended by incorporating a secondary metabolic pathway database called Motorcycle DB. We examined the enzyme sequence diversity related to secondary metabolism by means of batch-learning self-organizing maps (BL-SOMs). Initially, we constructed a map by using a big data matrix consisting of the frequencies of all possible dipeptides in the protein sequence segments of plants and bacteria. The enzyme sequence diversity of the secondary metabolic pathways was examined by identifying clusters of segments associated with certain enzyme groups in the resulting map. The extent of diversity of 15 secondary metabolic enzyme groups is discussed. Data-intensive approaches such as BL-SOM applied to big data matrices are needed for systematizing protein sequences. Handling big data has become an inevitable part of biology.
+
+KNApSAcK Core: !utilized in! metabolomics research
+Motorcycle DB: !incorporated into! KNApSAcK
+BL-SOMs: !used to! examine enzyme sequence diversity
+dipeptides: !used to construct! map
+clusters: !associated with! certain enzyme groups
+15 secondary metabolic enzyme groups: !examined for! diversity

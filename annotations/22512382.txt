@@ -1,0 +1,7 @@
+P25, a Beet necrotic yellow vein virus (BNYVV) pathogenicity factor, interacts with a sugar beet protein with high homology to Arabidopsis thaliana kelch repeat containing F-box family proteins (FBK) of unknown function in yeast. FBK are members of the Skp1-Cullin-F-box (SCF) complex that mediate protein degradation. Here, we confirm this sugar beet FBK-P25 interaction in vivo and in vitro and provide evidence for in planta interaction and similar subcellular distribution in Nicotiana tabacum leaf cells. P25 even interacts with an FBK from A. thaliana, a BNYVV nonhost. FBK functional classification was possible by demonstrating the interaction with A. thaliana orthologs of Skp1-like (ASK) genes, a member of the SCF E3 ligase. By means of a yeast two-hybrid bridging assay, a direct effect of P25 on SCF-complex formation involving ASK1 protein was demonstrated. FBK transient Agrobacterium tumefaciens-mediated expression in N. benthamiana leaves induced a hypersensitive response. The full-length F-box protein consists of one F-box domain followed by two kelch repeats, which alone were unable to interact with P25 in yeast and did not lead to cell-death induction. The results support the idea that P25 is involved in virus pathogenicity in sugar beet and suggest suppression of resistance response.
+
+P25: !interacts with! FBK 
+FBK: !interacts with! P25 
+FBK: !interacts with! ASK1 
+ASK1: !mediates! SCF-complex formation 
+FBK: !induces! hypersensitive response

@@ -1,0 +1,9 @@
+Plants adapt to high temperature stresses through thermomorphogenesis, a process that includes stem elongation and hyponastic leaf growth. Thermomorphogenesis is gated by the circadian clock through two evening-expressed clock components, TIMING OF CAB EXPRESSION1 (TOC1) and PSEUDO-RESPONSE REGULATORS5 (PRR5). These proteins directly interact with and inhibit PHYTOCHROME INTERACTING FACTOR4 (PIF4), a basic helix-loop-helix transcription factor that promotes thermoresponsive growth. PIF4-mediated thermoresponsive growth is positively regulated by ZEITLUPE (ZTL), a central clock component, but the molecular mechanisms underlying this are poorly understood. Here, we show that ZTL regulates thermoresponsive growth through TOC1 and PRR5. Genetic analyses reveal that ZTL regulates PIF4 activity as well as PIF4 expression. In Arabidopsis thaliana, ztl mutants exhibit highly accumulated TOC1 and PRR5 and unresponsive expression of PIF4 target genes under exposure to high temperatures. Mutations in TOC1 and PRR5 restore thermoactivation of PIF4 target genes and thermoresponsive growth in ztl mutants. We also show that the molecular chaperone heat-shock protein 90 promotes thermoresponsive growth through the ZTL-TOC1/PRR5 signaling module. Further, we show that ZTL protein stability is increased at high temperatures. Taken together, our results demonstrate that ZTL-mediated degradation of TOC1 and PRR5 enhances the sensitivity of hypocotyl growth to high temperatures.
+
+TOC1: !interacts with! PRR5
+PRR5: !inhibits! PIF4
+ZTL: !regulates! TOC1
+ZTL: !regulates! PRR5
+ZTL: !regulates! PIF4
+HSP90: !promotes! ZTL-TOC1/PRR5 signaling module
+ZTL: !increases stability at! high temperatures

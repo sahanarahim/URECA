@@ -1,0 +1,8 @@
+Plant development and survival is centered on complex regulatory networks composed of genes, proteins, hormone pathways, metabolites and signaling pathways. The recent advancements in whole genome biology have furthered our understanding of the interactions between these networks. As a result, numerous cell type-specific transcriptome profiles have been generated that have elucidated complex gene regulatory networks occurring at the cellular level, many of which were masked during whole-organ analysis. Modern technologies have also allowed researchers to generate multiple whole-organ metabolite profiles; however, only a limited number have been generated at the level of individual cells. Recent advancements in the isolation of individual cell populations have made cell type-specific metabolite profiles possible, enabling the enhanced detection and quantification of metabolites that were formerly unavailable when considering the whole organ. The comparison of metabolite and transcriptome profiles from the same cells has been a valuable resource to generate predictions regarding specific metabolite activity and function. In this review, we focus on recent studies that demonstrate the value of cell type-specific transcriptional profiles and their comparison with profiles generated from whole organs. Advancements in the isolation of single-cell populations will be highlighted, and the potential application towards generating detailed metabolic profiles will be discussed.
+
+Gene: !affects! Process 
+Gene: !localizes to! Cell 
+Gene: !interacts with! Protein 
+Gene: !enhances! Metabolite 
+Gene: !represses! Hormone 
+Gene: !synthesizes! Signaling Pathway

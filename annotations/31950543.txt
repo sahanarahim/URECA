@@ -1,0 +1,17 @@
+Brassinosteroids (BRs) are a class of phytohormones that modulate several important agronomic traits in rice (Oryza sativa). GSK2 is one of the critical suppressors of BR signalling and targets transcription factors such as OsBZR1 and DLT to regulate BR responses. Here, we identified OFP3 (OVATE FAMILY PROTEIN 3) as an interactor of both GSK2 and DLT by yeast-two-hybrid screening and demonstrated that OFP3 plays a distinctly negative role in BR responses. While knockout of OFP3 promoted rice seedling growth, overexpression of OFP3 led to strong BR insensitivity, which resulted in reduced plant height, leaf angle, and grain size. Interestingly, both BR biosynthetic and signalling genes had decreased expression in the overexpression plants. OFP3 overexpression also enhanced the phenotypes of BR-deficient mutants, but largely suppressed those of BR-enhanced plants. Moreover, treatment with either BR or bikinin, a GSK3-like kinase inhibitor, induced OFP3 depletion, whereas GSK2 or brassinazole, a BR synthesis inhibitor, promoted OFP3 accumulation. Furthermore, OFP3 exhibited transcription repressor activity and was able to interact with itself as well as additional BR-related components, including OFP1, OSH1, OSH15, OsBZR1, and GF14c. Importantly, GSK2 can phosphorylate OFP3 and enhance these interactions. We propose that OFP3, as a suppressor of both BR synthesis and signalling but stabilized by GSK2, incorporates into a transcription factor complex to facilitate BR signalling control, which is critical for the proper development of various tissues.
+
+GSK2: !targets! OsBZR1 
+GSK2: !targets! DLT 
+OFP3: !interacts with! GSK2 
+OFP3: !interacts with! DLT 
+OFP3: !represses! BR responses 
+OFP3: !enhances! BR-deficient mutants 
+BR: !induces! OFP3 depletion 
+bikinin: !induces! OFP3 depletion 
+GSK2: !phosphorylates! OFP3 
+OFP3: !interacts with! OFP1 
+OFP3: !interacts with! OSH1 
+OFP3: !interacts with! OSH15 
+OFP3: !interacts with! OsBZR1 
+OFP3: !interacts with! GF14c 
+GSK2: !stabilizes! OFP3

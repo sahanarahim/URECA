@@ -1,0 +1,8 @@
+Chitin, a major component of the fungal cell wall, triggers plant innate immunity in <i>Arabidopsis via</i> a receptor complex including two major lysin motif receptor-like kinases, AtLYK5, and AtCERK1. Although AtLYK5 has been proposed to be a major chitin-binding receptor, the pseudokinase domain of AtLYK5 is required to mediate chitin-triggered immune responses in plants. In this study, 48 AtLYK5-interacting proteins were identified using immunoprecipitation and mass spectrometry assay. Among them, <i>Arabidopsis</i> CALCIUM-DEPENDENT PROTEIN KINASE 5 (AtCPK5) is a protein kinase interacting with both AtLYK5 and AtCERK1. Chitin-induced immune responses are inhibited in both <i>Arabidopsis atcpk5</i> and <i>atcpk5/6</i> mutant plants. AtLYK5 and AtLYK4 but not AtCERK1 are phosphorylated by AtCPK5 and AtCPK6 <i>in vitro</i>. Liquid chromatography-tandem mass spectrometry (LC-MS/MS) analysis and <i>in vitro</i> kinase assay identified that Ser-323 and Ser-542 of AtLYK5 are important phosphorylation residues by AtCPK5. Transgenic <i>Arabidopsis</i> expressing either AtLYK5-S323A or AtLYK5-S542A in the <i>atlyk5-2</i> mutant only partially rescue the defects in chitin-triggered MPK3/MPK6 phosphorylation. Overexpression of AtCPK5 could increase AtCERK1 protein level after chitin treatment. These data proposed a model in which AtCPK5 directly phosphorylates AtLYK5 and regulates chitin-induced defense responses in <i>Arabidopsis</i>.
+
+AtLYK5: !interacts with! AtCPK5
+AtLYK5: !phosphorylated by! AtCPK5
+AtCERK1: !interacts with! AtCPK5
+AtCERK1: !protein level enhanced by! AtCPK5
+AtLYK5: !triggers! plant innate immunity
+AtLYK5: !pseudokinase domain required to! mediate chitin-triggered immune responses

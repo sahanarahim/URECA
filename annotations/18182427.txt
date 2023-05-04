@@ -1,0 +1,9 @@
+The auxin indole-3-acetic acid (IAA), which is essential for plant growth and development, is suggested to be synthesized via several redundant pathways. In maize (Zea mays), the nitrilase ZmNIT2 is expressed in auxin-synthesizing tissues and efficiently hydrolyses indole-3-acetonitrile to IAA. Zmnit2 transposon insertion mutants were compromised in root growth in young seedlings and sensitivity to indole-3-acetonitrile, and accumulated lower quantities of IAA conjugates in kernels and root tips, suggesting a substantial contribution of ZmNIT2 to total IAA biosynthesis in maize. An additional enzymatic function, turnover of beta-cyanoalanine, is acquired when ZmNIT2 forms heteromers with the homologue ZmNIT1. In plants carrying an insertion mutation in either nitrilase gene this activity was strongly reduced. A dual role for ZmNIT2 in auxin biosynthesis and in cyanide detoxification as a heteromer with ZmNIT1 is therefore proposed.
+
+ZmNIT2: !synthesizes! IAA 
+ZmNIT2: !interacts with! ZmNIT1 
+ZmNIT2: !enhances! root growth 
+ZmNIT2: !represses! sensitivity to indole-3-acetonitrile 
+ZmNIT2: !affects! cyanide detoxification 
+ZmNIT1: !interacts with! ZmNIT2 
+ZmNIT1: !affects! cyanide detoxification

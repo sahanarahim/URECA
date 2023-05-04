@@ -1,0 +1,6 @@
+APETALA2 (AP2) is best known for its function in the outer two floral whorls, where it specifies the identities of sepals and petals by restricting the expression of AGAMOUS (AG) to the inner two whorls in Arabidopsis thaliana. Here, we describe a role of AP2 in promoting the maintenance of floral stem cell fate, not by repressing AG transcription, but by antagonizing AG activity in the center of the flower. We performed a genetic screen with ag-10 plants, which exhibit a weak floral determinacy defect, and isolated a mutant with a strong floral determinacy defect. This mutant was found to harbor another mutation in AG and was named ag-11. We performed a genetic screen in the ag-11 background to isolate mutations that suppress the floral determinacy defect. Two suppressor mutants were found to harbor mutations in AP2. While AG is known to shut down the expression of the stem cell maintenance gene WUSCHEL (WUS) to terminate floral stem cell fate, AP2 promotes the expression of WUS. AP2 does not repress the transcription of AG in the inner two whorls, but instead counteracts AG activity.
+
+AP2: !affects! AG
+AP2: !promotes! WUS
+AG: !represses! WUS
+AP2: !antagonizes! AG

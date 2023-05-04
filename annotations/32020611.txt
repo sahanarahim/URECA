@@ -1,0 +1,8 @@
+Recent studies mainly in Arabidopsis have renewed interest and discussion in some of the key issues in hydrotropism of roots, such as the site of water sensing and the involvement of auxin. We examined hydrotropism in maize (Zea mays) primary roots. We determined the site of water sensing along the root using a nonintrusive method. Kinematic analysis was conducted to investigate spatial root elongation during hydrotropic response. Indole-3-acetic acid (IAA) and other hormones were quantified using LC-MS/MS. The transcriptome was analyzed using RNA sequencing. Main results: The very tip of the root is the most sensitive to the hydrostimulant. Hydrotropic bending involves coordinated adjustment of spatial cell elongation and cell flux. IAA redistribution occurred in maize roots, preceding hydrotropic bending. The redistribution is caused by a reduction of IAA content on the side facing a hydrostimulant, resulting in a higher IAA content on the dry side. Transcriptomic analysis of the elongation zone prior to bending identified IAA response and lignin synthesis/wall cross-linking as some of the key processes occurring during the early stages of hydrotropic response. We conclude that maize roots differ from Arabidopsis in the location of hydrostimulant sensing and the involvement of IAA redistribution.
+
+root: !senses! hydrostimulant 
+root: !adjusts! spatial cell elongation 
+IAA: !redistributes! in maize roots 
+IAA: !causes! higher IAA content on dry side 
+transcriptome: !identifies! IAA response 
+transcriptome: !identifies! lignin synthesis/wall cross-linking

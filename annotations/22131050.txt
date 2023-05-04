@@ -1,0 +1,10 @@
+['22131050', 'It is poorly understood how plants control their growth by cell division,  elongation, and differentiation. We have characterized a seedling-lethal mutant  segregation distortion 3 (sd3) that showed a very dwarf phenotype when grown in  the light and, in the dark, had short hypocotyls with reduced ploidy levels. The  corresponding gene of SD3 encodes a protein with high similarity to yeast  translocase on the inner mitochondrial membrane 21 (TIM21), which is a component  of the TIM23 complex. Indeed, SD3 protein fused to GFP localized in the  mitochondria. SD3 overexpression increased cotyledon size in the light and  hypocotyl thickness in the dark. The expression of genes for several subunits of  the respiratory-chain complexes III and IV was up-regulated in SD3-overexpressing  plants. Furthermore, these plants showed high levels of ATP whereas those of sd3  were low. These results suggested that SD3 induced an increase in cell size by  raising the expression of the respiratory-chain subunit genes and hence increased  the intracellular ATP levels. We propose that intracellular ATP levels regulated  by mitochondria control plant organ size.', '2012 Mar', 'Mol Plant', '10.1093/mp/ssr088', 'Matsui']
+
+SD3: !encodes! protein 
+protein: !similar to! yeast translocase TIM21 
+SD3: !localizes to! mitochondria 
+SD3: !overexpression! increases cotyledon size 
+SD3: !overexpression! increases hypocotyl thickness 
+SD3: !overexpression! up-regulates respiratory-chain subunit genes 
+SD3: !overexpression! increases intracellular ATP levels 
+ATP: !controls! plant organ size

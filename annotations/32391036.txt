@@ -1,0 +1,9 @@
+In angiosperm trees, the gelatinous layer (G-layer) takes a great part of the fiber cell wall in the tension wood (TW). However, the mechanism underlying G-layer formation in poplar is largely unknown. In this work, we demonstrate that G-layer formation in poplar TW cells is regulated by brassinosteroid (BR) and its signaling. <i>PtiCYP85A3</i>, a key BR biosynthesis gene, was predominantly expressed in the xylem of TW, accompanied with a relatively higher castasterone (CS) accumulation, than in the xylem of opposite wood (OW). A wider expression zone of BZR1, a key transcriptional factor in BR singling pathway, was also observed in G-fiber cells on TW side than in wood fiber cells on the OW side, as indicated by immunohistochemistry assays. Transgenic poplar plants overexpressing <i>PtiCYP85A3</i> produced thicker G-layer with higher cellulose proportion, and accumulated more BZR1 protein in the xylem of TW than did the wild type (WT) plants. Expression of most TW-associated <i>CesAs</i>, which were induced by 2, 4-epibrassinolide, an active BR, and inhibited by brassinazole, a BR biosynthesis inhibitor, were also up-regulated in the xylem of TW in transgenic plants compared to that in WT plants. Further studies with dual-luciferase assays demonstrated that the promoters of <i>PtiCesAs</i> were activated by PtiMYB128, a TW specific transcription factor, which was then regulated by BZR1. All these results indicate that BR plays a crucial role in the G-layer formation of TW fiber cells by regulating the expression of <i>BZR1</i>, <i>PtiMYB128</i>, and <i>PtiCesAs</i> in poplar.
+
+PtiCYP85A3: !enhances! G-layer formation
+BR: !regulates! PtiCYP85A3
+BZR1: !localizes to! G-fiber cells
+PtiMYB128: !interacts with! BZR1
+2,4-epibrassinolide: !induces! CesAs
+brassinazole: !represses! CesAs
+PtiCesAs: !synthesizes! PtiMYB128

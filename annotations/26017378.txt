@@ -1,0 +1,14 @@
+Biphenyls and dibenzofurans are the phytoalexins of the Malinae involving apple and pear. Biosynthesis of the defence compounds includes two O-methylation reactions. cDNAs encoding the O-methyltransferase (OMT) enzymes were isolated from rowan (Sorbus aucuparia) cell cultures after treatment with an elicitor preparation from the scab-causing fungus, Venturia inaequalis. The preferred substrate for SaOMT1 was 3,5-dihydroxybiphenyl, supplied by the first pathway-specific enzyme, biphenyl synthase (BIS). 3,5-Dihydroxybiphenyl underwent a single methylation reaction in the presence of S-adenosyl-l-methionine (SAM). The second enzyme, SaOMT2, exhibited its highest affinity for noraucuparin, however the turnover rate was greater with 5-hydroxyferulic acid. Both substrates were only methylated at the meta-positioned hydroxyl group. The substrate specificities of the OMTs and the regiospecificities of their reactions were rationalized by homology modeling and substrate docking. Interaction of the substrates with SAM also took place at a position other than the sulfur group. Expression of SaOMT1, SaOMT2 and SaBIS3 was transiently induced in rowan cell cultures by the addition of the fungal elicitor. While the immediate SaOMT1 products were not detectable in elicitor-treated cell cultures, noraucuparin and noreriobofuran accumulated transiently, followed by increasing levels of the SaOMT2 products aucuparin and eriobofuran. SaOMT1, SaOMT2 and SaBIS3 were N- and C-terminally fused with the super cyan fluorescent protein and a modified yellow fluorescent protein, respectively. All the fluorescent reporter fusions were localized to the cytoplasm of Nicotiana benthamiana leaf epidermis cells. A revised biosynthetic pathway of biphenyls and dibenzofurans in the Malinae is presented.
+
+SaOMT1: !affects! 3,5-dihydroxybiphenyl
+SaOMT2: !affects! Noraucuparin
+SaBIS3: !affects! Biphenyl synthase
+SaOMT1: !synthesizes! Noraucuparin
+SaOMT2: !synthesizes! Aucuparin
+SaBIS3: !synthesizes! 3,5-dihydroxybiphenyl
+SaOMT1: !localizes to! Cytoplasm
+SaOMT2: !localizes to! Cytoplasm
+SaBIS3: !localizes to! Cytoplasm
+SaOMT1: !interacts with! SAM
+SaOMT2: !interacts with! SAM
+SaBIS3: !interacts with! SAM

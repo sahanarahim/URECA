@@ -1,0 +1,11 @@
+['18796151', 'BACKGROUND: Cell elongation in plants requires addition and re-arrangements of  cell wall components. Even if some protein families have been shown to play roles  in these events, a global picture of proteins present in cell walls of elongating  cells is still missing. A proteomic study was performed on etiolated hypocotyls  of Arabidopsis used as model of cells undergoing elongation followed by growth  arrest within a short time. RESULTS: Two developmental stages (active growth and  after growth arrest) were compared. A new strategy consisting of high performance  cation exchange chromatography and mono-dimensional electrophoresis was  established for separation of cell wall proteins. This work allowed  identification of 137 predicted secreted proteins, among which 51 had not been  identified previously. Apart from expected proteins known to be involved in cell  wall extension such as xyloglucan endotransglucosylase-hydrolases, expansins,  polygalacturonases, pectin methylesterases and peroxidases, new proteins were  identified such as proteases, proteins related to lipid metabolism and proteins  of unknown function. CONCLUSION: This work highlights the CWP dynamics that takes  place between the two developmental stages. The presence of proteins known to be  related to cell wall extension after growth arrest showed that these proteins may  play other roles in cell walls. Finally, putative regulatory mechanisms of  protein biological activity are discussed from this global view of cell wall  proteins.', '2008 Sep 16', 'BMC Plant Biol', '10.1186/1471-2229-8-94', 'Jamet']
+
+xyloglucan endotransglucosylase-hydrolases: !affects! cell wall extension 
+expansins: !affects! cell wall extension 
+polygalacturonases: !affects! cell wall extension 
+pectin methylesterases: !affects! cell wall extension 
+peroxidases: !affects! cell wall extension 
+proteases: !affects! cell wall extension 
+lipid metabolism proteins: !affects! cell wall extension 
+unknown function proteins: !affects! cell wall extension 
+cell wall proteins: !dynamically changes between! two developmental stages

@@ -1,0 +1,13 @@
+Opium poppy (Papaver somniferum) remains the sole commercial source for several pharmaceutical alkaloids including the narcotic analgesics codeine and morphine, and the semi-synthetic drugs oxycodone, buprenorphine and naltrexone. Although most of the biosynthetic genes have been identified, the post-transcriptional regulation of the morphinan alkaloid pathway has not been determined. We have used virus-induced gene silencing (VIGS) as a functional genomics tool to investigate the regulation of morphine biosynthesis via a systematic reduction in enzyme levels responsible for the final six steps in the pathway. Specific gene silencing was confirmed at the transcript level by real-time quantitative PCR (polymerase chain reaction), and at the protein level by immunoblot analysis using antibodies raised against salutaridine synthase (SalSyn), salutaridine reductase (SalR), salutaridine 7-O-acetyltransferase (SalAT), thebaine 6-O-demethylase (T6ODM), codeinone reductase (COR), and codeine O-demethylase (CODM). In some cases, silencing a specific biosynthetic gene resulted in a predictable accumulation of the substrate for the corresponding enzyme. Reduced SalSyn, SalR, T6ODM and CODM protein levels correlated with lower morphine levels and a substantial increase in the accumulation of reticuline, salutaridine, thebaine and codeine, respectively. In contrast, the silencing of genes encoding SalAT and COR resulted in the accumulation of salutaridine and reticuline, respectively, which are not the corresponding enzymatic substrates. The silencing of alkaloid biosynthetic genes using VIGS confirms the physiological function of enzymes previously characterized in vitro, provides insight into the biochemical regulation of morphine biosynthesis, and demonstrates the immense potential for metabolic engineering in opium poppy.
+
+Gene: !affects! Morphine biosynthesis
+Gene: !synthesizes! Reticuline
+Gene: !synthesizes! Salutaridine
+Gene: !synthesizes! Thebaine
+Gene: !synthesizes! Codeine
+Gene: !represses! SalSyn
+Gene: !represses! SalR
+Gene: !represses! T6ODM
+Gene: !represses! COR
+Gene: !represses! CODM
+Gene: !enhances! SalAT

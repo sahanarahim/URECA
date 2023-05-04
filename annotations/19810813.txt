@@ -1,0 +1,7 @@
+Sinorhizobium fredii HH103 secretes through the type III secretion system at least eight nodulation outer proteins (Nops), including the effector NopP. These proteins are necessary for an effective nodulation of soybean. In this work, we show that expression of the nopP gene depended on flavonoids and on the transcriptional regulators NodD1 and TtsI. Inactivation of nopP led to an increase in the symbiotic capacity of S. fredii HH103 to nodulate Williams soybean. In addition, we studied whether Nops affect the expression of the pathogenesis-related genes GmPR1, GmPR2, and GmPR3 in soybean roots and shoots. In the presence of S. fredii HH103, expression of pathogenesis-related (PR) gene PR1 was induced in soybean roots 4 days after inoculation and it increased 8 days after inoculation. The absence of Nops provoked a higher induction of PR1 in both soybean roots and shoots, suggesting that Nops function early, diminishing plant defense responses during rhizobial infection. However, the inactivation of nopP led to a decrease in PR1 expression. Therefore, the absence of NopP or that of the complete set of Nops seems to have opposite effects on the symbiotic performance and on the elicitation of soybean defense responses.
+
+NodD1: !regulates! nopP
+TtsI: !regulates! nopP
+nopP: !affects! symbiotic capacity
+Nops: !diminish! plant defense responses
+NopP: !decreases! PR1 expression

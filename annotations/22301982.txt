@@ -1,0 +1,8 @@
+In addition to the cell nucleus, plant cells also possess genomic DNA and gene expression machineries within mitochondria and plastids. In higher plants, retrograde transcriptional regulation of several nuclear genes encoding plastid-located proteins has been observed in response to changes in a wide variety of physiological properties in plastids, including organelle gene expression (OGE) and tetrapyrrole metabolism. This regulation is postulated to be accomplished by plastid-to-nucleus signaling, (1,2) although the overall signal transduction pathway(s) are not well characterized. By applying a specific differentiation system in tobacco Bright Yellow-2 (BY-2) cultured cells, (3,4) we recently reported that the regulatory system of nuclear gene expressions modulated by a plastid signal was also observed during differentiation of plastids into amyloplasts. (5) While retrograde signaling from plastids was previously speculated to consist of several independent pathways, we found inhibition of OGE and perturbation in the cellular content of one tetrapyrrole intermediate, heme, seemed to interact to regulate amyloplast differentiation. Our results thus highlight the possibility that several sources of retrograde signaling in plastids could be integrated in an intraorganellar manner.
+
+plastid: !signals to! nucleus
+OGE: !regulates! nuclear gene expression
+tetrapyrrole metabolism: !regulates! nuclear gene expression
+plastid signal: !modulates! nuclear gene expression
+heme: !interacts with! OGE
+retrograde signaling: !integrates in! intraorganellar manner

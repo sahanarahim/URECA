@@ -1,0 +1,8 @@
+OsMUS81, a rice homolog of the yeast MUS81 endonuclease gene, produced two alternative transcripts, OsMUS81alpha and OsMUS81beta. OsMus81alpha contained a Helix-hairpin-Helix (HhH) motif at the N- and C-termini, and a conserved XPF-like motif in the center, while the OsMus81beta isoform lacked the second HhH motif by alternative splicing of a cryptic intron generating a truncated protein. The two transcripts were induced after DNA-damaging treatments such as high intensity light, UV-C and gamma-radiation. The yeast two-hybrid assay detected a strong interaction between OsMus81 and OsRad54 recombinational repair proteins. These findings suggest that OsMus81 functions in maintaining genome integrity through homologous recombination.
+
+OsMUS81: !produces! OsMus81alpha, OsMus81beta
+OsMUS81alpha: !contains! HhH motif, XPF-like motif
+OsMUS81beta: !lacks! second HhH motif
+OsMUS81: !induced by! DNA-damaging treatments
+OsMUS81: !interacts with! OsRad54
+OsMUS81: !functions in! maintaining genome integrity

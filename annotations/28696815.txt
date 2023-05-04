@@ -1,0 +1,9 @@
+The Ca<sup>2+</sup> and Ca<sup>2+</sup>/calmodulin-dependent protein kinase (CCaMK) is an important effector protein of Ca<sup>2+</sup>/calmodulin-mediated signaling, and in legumes, it is a critical regulator of plant-rhizobia and mycorrhizal symbioses. CCaMK contains a kinase domain, a calmodulin-binding/autoinhibitory domain and a visinin-like domain. Previous studies revealed the presence of 2 phosphorylation sites, S343 and S344, in the calmodulin-binding domain. Mutations at these sites affected the kinase activity and downstream rhizobium and mycorrhizal symbioses, which highlighted the importance of these residues in regulating protein activity. This addendum further clarifies the regulation of CCaMK by identifying an intramolecular interaction between residue(s) in the kinase domain and phosphorylation sites S343 and S344. This interaction turns off the substrate phosphorylation capacity of CCaMK.
+
+CCaMK: !contains! kinase domain
+CCaMK: !contains! calmodulin-binding/autoinhibitory domain
+CCaMK: !contains! visinin-like domain
+S343/S344: !located in! calmodulin-binding domain
+S343/S344: !affects! kinase activity
+S343/S344: !interacts with! kinase domain
+S343/S344: !turns off! substrate phosphorylation capacity

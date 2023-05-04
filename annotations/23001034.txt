@@ -1,0 +1,7 @@
+After transcription, mRNA editing in angiosperm chloroplasts and mitochondria results in the conversion of cytidine to uridine by deamination. Analysis of Arabidopsis thaliana mutants affected in RNA editing have shown that many pentatricopeptide repeat proteins (PPRs) are required for specific cytidine deamination events. PPR proteins have been shown to be sequence-specific RNA binding proteins allowing the recognition of the C to be edited. The C-terminal DYW domain present in many editing factors has been proposed to catalyze C deamination, as it shows sequence similarities with cytidine deaminases in other organisms. However, many editing factors, such as the first to be discovered, CHLORORESPIRATORY REDUCTION4 (CRR4), lack this domain, so its importance has been unclear. Using a reverse genetic approach, we identified DYW1, an RNA editing factor acting specifically on the plastid ndhD-1 editing site recognized by CRR4. Unlike other known editing factors, DYW1 contains no identifiable PPR motifs but does contain a clear DYW domain. We were able to show interaction between CRR4 and DYW1 by bimolecular fluorescence complementation and to reconstitute a functional chimeric CRR4-DYW1 protein complementing the crr4 dyw1double mutant. We propose that CRR4 and DYW1 act together to edit the ndhD-1 site.
+
+mRNA: !edits! cytidine
+PPR proteins: !bind to! RNA
+DYW domain: !catalyzes! C deamination
+CRR4: !interacts with! DYW1
+CRR4-DYW1: !edits! ndhD-1 site

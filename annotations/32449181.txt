@@ -1,0 +1,10 @@
+In habitats with low water availability, a fundamental challenge for plants will be to maximize photosynthetic C-gain while minimizing transpirational water-loss. This trade-off between C-gain and water-loss can in part be achieved through the coordination of leaf-level photosynthetic and hydraulic traits. To test the relationship of photosynthetic C-gain and transpirational water-loss, we grew, under common growth conditions, 18 C<sub>4</sub> grasses adapted to habitats with different mean annual precipitation (MAP) and measured leaf-level structural and anatomical traits associated with mesophyll conductance (g<sub>m</sub> ) and leaf hydraulic conductance (K<sub>leaf</sub> ). The C<sub>4</sub> grasses adapted to lower MAP showed greater mesophyll surface area exposed to intercellular air spaces (S<sub>mes</sub> ) and adaxial stomatal density (SD<sub>ada</sub> ) which supported greater g<sub>m</sub> . These grasses also showed greater leaf thickness and vein-to-epidermis distance, which may lead to lower K<sub>leaf</sub> . Additionally, grasses with greater g<sub>m</sub> and lower K<sub>leaf</sub> also showed greater photosynthetic rates (A<sub>net</sub> ) and leaf-level water-use efficiency (WUE). In summary, we identify a suite of leaf-level traits that appear important for adaptation of C<sub>4</sub> grasses to habitats with low MAP and may be useful to identify C<sub>4</sub> species showing greater A<sub>net</sub> and WUE in drier conditions.
+
+S_mes: !enhances! g_m
+SD_ada: !enhances! g_m
+leaf thickness: !lowers! K_leaf
+vein-to-epidermis distance: !lowers! K_leaf
+g_m: !enhances! A_net
+K_leaf: !lowers! A_net
+g_m: !enhances! WUE
+K_leaf: !lowers! WUE

@@ -1,0 +1,7 @@
+A two-component expression system was developed to achieve tightly regulated expression of transgenes in plants. One component functioned as an expression module whereas the other functioned as a regulatory module. The expression module comprised a highly expressing TATA-dependent seed-specific promoter in which the TATA motif in the core promoter was mutated to TGTA. The regulatory module expressed a mutated general transcription factor TBPm(3) that recognized TGTA and initiated transcription. Vectors were designed using component one alone or in combination with component two, and were transformed into tobacco. The TGTA mutation in the TATA-box completely inactivated the promoter, making component one non-functional. This non-functional module became transcriptionally active in the presence of the component two that expressed TBPm(3). The reporter gene gusA was expressed from the TGTA-containing chimeric legumin promoter, in a tightly seed-specific manner, in transgenic tobacco plants in the presence of TBPm(3) that was expressed from a constitutive promoter. The results show that the TGTA and TBPm(3) combination can be used to achieve high-level tissue-specific expression of TATA-dependent promoters.
+
+TATA-box: !mutated to! TGTA
+TGTA: !recognized by! TBPm(3)
+TBPm(3): !expresses from! constitutive promoter
+TGTA-containing chimeric legumin promoter: !expresses! gusA
+TBPm(3): !activates! TGTA-containing chimeric legumin promoter

@@ -1,0 +1,8 @@
+Mitigating and adapting to climate change requires an understanding of the magnitude and nature by which climate change will influence the diversity of plants across the world's ecosystems. Experiments can causally link precipitation change to plant diversity change, however, these experiments vary in their methods and in the diversity metrics reported, making synthesis elusive. Here, we explicitly account for a number of potentially confounding variables, including spatial grain, treatment magnitude and direction and background climatic conditions, to synthesize data across 72 precipitation manipulation experiments. We find that the effects of treatments with higher magnitude of precipitation manipulation on plant diversity are strongest at the smallest spatial scale, and in drier environments. Our synthesis emphasizes that quantifying differential responses of ecosystems requires explicit consideration of spatial grain and the magnitude of experimental manipulation. Given that diversity provides essential ecosystem services, especially in dry and semi-dry areas, our finding that these dry ecosystems are particular sensitive to projected changes in precipitation has important implications for their conservation and management.
+
+precipitation: !affects! plant diversity 
+spatial grain: !influences! effects of treatments 
+treatment magnitude: !influences! plant diversity 
+background climatic conditions: !influences! plant diversity 
+drier environments: !more sensitive to! precipitation change 
+diversity: !provides! essential ecosystem services

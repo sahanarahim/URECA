@@ -1,0 +1,10 @@
+['17601823', 'We report a novel function for BLADE-ON-PETIOLE1 (BOP1) and BOP2 in regulating  Arabidopsis thaliana lateral organ cell fate and polarity, through the analysis  of loss-of-function mutants and transgenic plants that ectopically express BOP1  or BOP2. 35S:BOP1 and 35S:BOP2 plants exhibit a very short and compact stature,  hyponastic leaves, and downward-orienting siliques. We show that the LATERAL  ORGAN BOUNDARIES (LOB) domain genes ASYMMETRIC LEAVES2 (AS2) and LOB are  upregulated in 35S:BOP and downregulated in bop mutant plants. Ectopic expression  of BOP1 or BOP2 also results in repression of class I knox gene expression. We  further demonstrate a role for BOP1 and BOP2 in establishing the adaxial-abaxial  polarity axis in the leaf petiole, where they regulate PHB and FIL expression and  overlap in function with AS1 and AS2. Interestingly, during this study, we found  that KANADI1 (KAN1) and KAN2 act to promote adaxial organ identity in addition to  their well-known role in promoting abaxial organ identity. Our data indicate that  BOP1 and BOP2 act in cells adjacent to the lateral organ boundary to repress  genes that confer meristem cell fate and induce genes that promote lateral organ  fate and polarity, thereby restricting the developmental potential of the  organ-forming cells and facilitating their differentiation.', '2007 Jun', 'Plant Cell', '10.1105/tpc.107.051938', 'Fletcher']
+
+BOP1: !regulates! A. thaliana lateral organ cell fate and polarity
+BOP1: !upregulates! AS2 and LOB
+BOP1: !downregulates! class I knox gene expression
+BOP1: !regulates! PHB and FIL expression
+KAN1: !promotes! adaxial organ identity
+KAN2: !promotes! abaxial organ identity
+BOP1: !represses! genes that confer meristem cell fate
+BOP1: !induces! genes that promote lateral organ fate and polarity

@@ -1,0 +1,11 @@
+Leaf area expansion is affected by environmental conditions because of differences in cell number and/or cell size. Increases in the DNA content (ploidy) of a cell by endoreduplication are related to its size. The aim of this work was to determine how cell ploidy interacts with the regulation of cell size and with leaf area expansion. The approach used was to grow Arabidopsis thaliana plants performing increased or decreased rounds of endoreduplication under shading and water deficit. The shading and water deficit treatments reduced final leaf area and cell number; however, cell area was increased and decreased, respectively. These differences in cell size were unrelated to alterations of the endocycle, which was reduced by these treatments. The genetic modification of the extent of endoreduplication altered leaf growth responses to shading and water deficit. An increase in the extent of endoreduplication in a leaf rendered it more sensitive to the shade treatment but less sensitive to water deficit conditions. The link between the control of whole organ and individual cell expansion under different environmental conditions was demonstrated by the correlation between the plasticity of cell size and the changes in the duration of leaf expansion.
+
+environment: !affects! Leaf area expansion
+ploidy: !related to! Cell size
+shading/water deficit: !reduces! Final leaf area
+shading/water deficit: !increases/decreases! Cell area
+endocycle: !reduced by! Treatments
+genetic modification: !alters! Leaf growth responses
+increased endoreduplication: !renders more sensitive to! Shade treatment
+increased endoreduplication: !renders less sensitive to! Water deficit
+cell size plasticity: !correlates with! Changes in duration of leaf expansion

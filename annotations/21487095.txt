@@ -1,0 +1,9 @@
+In the postgenomic era, accurate prediction tools are essential for identification of the proteomes of cell organelles. Prediction methods have been developed for peroxisome-targeted proteins in animals and fungi but are missing specifically for plants. For development of a predictor for plant proteins carrying peroxisome targeting signals type 1 (PTS1), we assembled more than 2500 homologous plant sequences, mainly from EST databases. We applied a discriminative machine learning approach to derive two different prediction methods, both of which showed high prediction accuracy and recognized specific targeting-enhancing patterns in the regions upstream of the PTS1 tripeptides. Upon application of these methods to the Arabidopsis thaliana genome, 392 gene models were predicted to be peroxisome targeted. These predictions were extensively tested in vivo, resulting in a high experimental verification rate of Arabidopsis proteins previously not known to be peroxisomal. The prediction methods were able to correctly infer novel PTS1 tripeptides, which even included novel residues. Twenty-three newly predicted PTS1 tripeptides were experimentally confirmed, and a high variability of the plant PTS1 motif was discovered. These prediction methods will be instrumental in identifying low-abundance and stress-inducible peroxisomal proteins and defining the entire peroxisomal proteome of Arabidopsis and agronomically important crop plants.
+
+Prediction methods: !developed for! peroxisome-targeted proteins 
+Prediction methods: !applied to! Arabidopsis thaliana genome 
+Arabidopsis thaliana genome: !predicted! 392 gene models 
+392 gene models: !tested in vivo! with high verification rate 
+Prediction methods: !able to infer! novel PTS1 tripeptides 
+PTS1 tripeptides: !experimentally confirmed! 23 newly predicted 
+Prediction methods: !instrumental in identifying! low-abundance and stress-inducible peroxisomal proteins

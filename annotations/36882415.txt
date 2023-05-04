@@ -1,0 +1,7 @@
+Seed thermoinhibition, the repression of germination under high temperatures, prevents seedling establishment under potentially fatal conditions. Thermoinhibition is relevant for phenology and agriculture, particularly in a warming globe. The temperature sensing mechanisms and signaling pathways sustaining thermoinhibition are unknown. Here we show that thermoinhibition in Arabidopsis thaliana is not autonomously controlled by the embryo but is rather implemented by the endosperm. High temperature is sensed through endospermic phyB by accelerating its reversion from the active signaling Pfr form into the inactive Pr form, as previously described in seedlings. This leads to thermoinhibition mediated by PIFs, mainly PIF1, PIF3 and PIF5. Endospermic PIF3 represses the expression of the endospermic ABA catabolic gene CYP707A1 and promotes endospermic ABA accumulation and release towards the embryo to block its growth. Furthermore, endospermic ABA represses embryonic PIF3 accumulation that would otherwise promote embryonic growth. Hence, under high temperatures PIF3 exerts opposite growth responses in the endosperm and embryo.
+
+phyB: !reverts to! Pr form
+PIFs: !mediates! thermoinhibition
+PIF3: !represses! CYP707A1
+PIF3: !promotes! endospermic ABA
+ABA: !represses! embryonic PIF3

@@ -1,0 +1,7 @@
+['18165329', 'Seed coat development in Arabidopsis thaliana involves a complex pathway where  cells of the outer integument differentiate into a highly specialized cell type  after fertilization. One aspect of this developmental process involves the  secretion of a large amount of pectinaceous mucilage into the apoplast. When the  mature seed coat is exposed to water, this mucilage expands to break the primary  cell wall and encapsulate the seed. The mucilage-modified2 (mum2) mutant is  characterized by a failure to extrude mucilage on hydration, although mucilage is  produced as normal during development. The defect in mum2 appears to reside in  the mucilage itself, as mucilage fails to expand even when the barrier of the  primary cell wall is removed. We have cloned the MUM2 gene and expressed  recombinant MUM2 protein, which has beta-galactosidase activity. Biochemical  analysis of the mum2 mucilage reveals alterations in pectins that are consistent  with a defect in beta-galactosidase activity, and we have demonstrated that MUM2  is localized to the cell wall. We propose that MUM2 is involved in modifying  mucilage to allow it to expand upon hydration, establishing a link between the  galactosyl side-chain structure of pectin and its physical properties.', '2007 Dec', 'Plant Cell', '10.1105/tpc.107.050609', 'Haughn']
+
+MUM2: !affects! Mucilage expansion
+MUM2: !localizes to! Cell wall
+MUM2: !synthesizes! Beta-galactosidase activity
+Pectin: !modified by! MUM2
+Pectin: !altered in! mum2 mutant

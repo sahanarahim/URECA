@@ -1,0 +1,6 @@
+In many plants, photomorphogenesis is the default developmental program after seed germination, and provides the key features that allow adaptation to light. This program is actively repressed if germination occurs in the absence of light, through a mechanism dependent on the E3 ubiquitin ligase activity that is encoded in Arabidopsis by COP1 (CONSTITUTIVE PHOTOMORPHOGENIC 1), which induces proteolytic degradation of transcription factors necessary for light-regulated development, such as HY5 (LONG HYPOCOTYL 5) and HYH (LONG HYPOCOTYL 5 HOMOLOG), and stabilization of transcription factors that promote skotomorphogenesis, such as PIF3 (PHYTOCHROME INTERACTING FACTOR 3). Seedlings deficient in gibberellin (GA) synthesis or signaling display a de-etiolated phenotype when grown in darkness, equivalent to the phenotype of cop1 mutants, which indicates that the switch between photo- and skotomorphogenesis is also under hormonal control. Here we provide evidence for the existence of crosstalk between GA and the COP1-mediated pathway, and identify HY5 and the PIF family as nodes of a regulatory network. This interaction occurs through distinct molecular mechanisms, based on the observation that GA signaling regulates protein stability of HY5, and the activity of PIF3.
+
+COP1: !represses! HY5, HYH
+GA: !regulates! HY5
+GA: !regulates! PIF3
+PIF3: !interacts with! COP1

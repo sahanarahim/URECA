@@ -1,0 +1,17 @@
+Anthocyanins, which account for color variation and remove reactive oxygen species, are widely synthesized in plant tissues and organs. Using targeted metabolomics and nanopore full-length transcriptomics, including differential gene expression analysis, we aimed to reveal potato leaf anthocyanin biosynthetic pathways in different colored potato varieties. Metabolomics analysis revealed 17 anthocyanins. Their levels varied significantly between the different colored varieties, explaining the leaf color differences. The leaves of the Purple Rose2 (PurpleR2) variety contained more petunidin 3-O-glucoside and malvidin 3-O-glucoside than the leaves of other varieties, whereas leaves of Red Rose3 (RedR3) contained more pelargonidin 3-O-glucoside than the leaves of other varieties. In total, 114 genes with significantly different expression were identified in the leaves of the three potato varieties. These included structural anthocyanin synthesis-regulating genes such as F3H, CHS, CHI, DFR, and anthocyanidin synthase and transcription factors belonging to multiple families such as C3H, MYB, ERF, NAC, bHLH, and WRKY. We selected an MYB family transcription factor to construct overexpression tobacco plants; overexpression of this factor promoted anthocyanin accumulation, turning the leaves purple and increasing their malvidin 3-o-glucoside and petunidin 3-o-glucoside content. This study elucidates the effects of anthocyanin-related metabolites on potato leaves and identifies anthocyanin metabolic network candidate genes.
+
+F3H: !synthesizes! Anthocyanins
+CHS: !synthesizes! Anthocyanins
+CHI: !synthesizes! Anthocyanins
+DFR: !synthesizes! Anthocyanins
+Anthocyanidin synthase: !synthesizes! Anthocyanins
+C3H: !regulates! Anthocyanin synthesis
+MYB: !regulates! Anthocyanin synthesis
+ERF: !regulates! Anthocyanin synthesis
+NAC: !regulates! Anthocyanin synthesis
+bHLH: !regulates! Anthocyanin synthesis
+WRKY: !regulates! Anthocyanin synthesis
+PurpleR2: !contains! Petunidin 3-O-glucoside
+PurpleR2: !contains! Malvidin 3-O-glucoside
+RedR3: !contains! Pelargonidin 3-O-glucoside
+MYB transcription factor: !enhances! Anthocyanin accumulation

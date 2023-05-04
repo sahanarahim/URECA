@@ -1,0 +1,11 @@
+Lignin is an essential polymer in vascular plants that plays key structural roles in vessels and fibers. Lignification is induced by external inputs such as wounding, but the molecular mechanisms that link this stress to lignification remain largely unknown. In this work, we provide evidence that three maize (Zea mays) lignin repressors, MYB11, MYB31, and MYB42, participate in wound-induced lignification by interacting with ZML2, a protein belonging to the TIFY family. We determined that the three R2R3-MYB factors and ZML2 bind in vivo to AC-rich and GAT(A/C) cis-elements, respectively, present in a set of lignin genes. In particular, we show that MYB11 and ZML2 bind simultaneously to the AC-rich and GAT(A/C) cis-elements present in the promoter of the caffeic acid O-methyl transferase (comt) gene. We show that, like the R2R3-MYB factors, ZML2 also acts as a transcriptional repressor. We found that upon wounding and methyl jasmonate treatments, MYB11 and ZML2 proteins are degraded and comt transcription is induced. Based on these results, we propose a molecular regulatory mechanism involving a MYB/ZML complex in which wound-induced lignification can be achieved by the derepression of a set of lignin genes.
+
+MYB11: !interacts with! ZML2
+MYB31: !interacts with! ZML2
+MYB42: !interacts with! ZML2
+MYB11: !binds to! AC-rich cis-elements
+ZML2: !binds to! GAT(A/C) cis-elements
+MYB11: !represses! comt transcription
+ZML2: !represses! comt transcription
+MYB11: !degraded by! wounding/methyl jasmonate treatments
+ZML2: !degraded by! wounding/methyl jasmonate treatments

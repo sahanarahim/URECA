@@ -1,0 +1,10 @@
+['23547107', 'Pollen tube growth and endosperm development are important for fertilization and  seed formation. The genetic mechanism of the processes remains poorly understood.  This study reports the functional characterization of AtTFIIB1 in pollen tube  growth and endosperm development. AtTFIIB1 shares 86% and 44% similarity with  AtTFIIB2 and AtTFIIB3/AtpBRP2, respectively. It is expressed in many tissues  including vegetative nuclei and generative cells of pollen grains and pollen  tubes, endosperm, and embryos. It is thus different from AtTFIIB2, whose  expression is not found in the endosperm and vegetative nucleus of mature pollen,  and AtTFIIB3/AtpBRP2, which is expressed mostly in male gametophytes and weakly  in seeds. Mutations in AtTFIIB1 caused a drastic retardation of pollen tube  growth and endosperm development, as well as impaired pollen tube guidance and  reception, leading to disruption of fertilization and seed development.  Expression of AtTFIIB2 driven by the AtTFIIB1 promoter could restore the  defective pollen tube growth, guidance, and reception completely, but only  partially recovered the seed development in attfiib1, whilst expression of  AtTFIIB3/AtpBRP2 driven by the AtTFIIB1 promoter could rescue only the defective  attfiib1 seeds. All these results suggest that AtTFIIB1 plays important roles in  pollen tube growth, guidance, and reception as well as endosperm development and  is partially functionally different from AtTFIIB2 and AtTFIIB3/AtpBRP2.', '2013 May', 'J Exp Bot', '10.1093/jxb/ert078', 'Ye']
+
+AtTFIIB1: !affects! Pollen tube growth and endosperm development
+AtTFIIB1: !localizes to! Vegetative nuclei and generative cells of pollen grains and pollen tubes, endosperm, and embryos
+AtTFIIB2: !interacts with! AtTFIIB1
+AtTFIIB3/AtpBRP2: !interacts with! AtTFIIB1
+AtTFIIB1: !enhances! Pollen tube guidance and reception
+AtTFIIB2: !represses! Expression in endosperm and vegetative nucleus of mature pollen
+AtTFIIB3/AtpBRP2: !represses! Expression mostly in male gametophytes and weakly in seeds
+AtTFIIB1: !synthesizes! Fertilization and seed development

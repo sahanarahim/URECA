@@ -1,0 +1,10 @@
+Our recent work demonstrated that chitin treatment modulated the expression of 118 transcription factor (TF) genes in Arabidopsis. To investigate the potential roles of these TF in chitin signaling and plant defense, we initiated an interaction study among these TF proteins, as well as two chitin-activated mitogen-activated protein kinases (MPK3 and MPK6), using a yeast two-hybrid system. This study revealed interactions among the following proteins: three ethylene-responsive element-binding factors (ERF), five WRKY transcription factors, one scarecrow-like (SCL), and the two MPK, in addition to many other interactions, reflecting a complex TF interaction network. Most of these interactions were subsequently validated by other methods, such as pull-down and in planta bimolecular fluorescence complementation assays. The key node ERF5 was shown to interact with multiple proteins in the network, such as ERF6, ERF8, and SCL13, as well as MPK3 and MPK6. Interestingly, ERF5 appeared to negatively regulate chitin signaling and plant defense against the fungal pathogen Alternaria brassicicola and positively regulate salicylic acid signaling and plant defense against the bacterial pathogen Pseudomonas syringae pv. tomato DC3000. Therefore, ERF5 may play an important role in plant innate immunity, likely through coordinating chitin and other defense pathways in plants in response to different pathogens.
+
+ERF5: !interacts with! ERF6
+ERF5: !interacts with! ERF8
+ERF5: !interacts with! SCL13
+ERF5: !interacts with! MPK3
+ERF5: !interacts with! MPK6
+ERF5: !negatively regulates! chitin signaling
+ERF5: !positively regulates! salicylic acid signaling
+ERF5: !coordinates! defense pathways

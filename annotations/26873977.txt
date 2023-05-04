@@ -1,0 +1,9 @@
+The Fertilization Independent Endosperm (FIE) gene is required to restrict endosperm development without fertilization, and it represses flowering during embryo and seedling development in Arabidopsis thaliana However, the regulatory mechanism of the FIE gene in postembryonic shoot development is not well understood. Silencing of Nicotiana benthamiana homologues of the FIE gene, NbFIE1 and NbFIE2, resulted in the enhanced outgrowth of axillary buds and the impairment of secondary xylem differentiation. RNA sequencing analysis found that one of the auxin-responsive GRETCHEN HAGEN 3(GH3) family genes, NbGH3.6, was upregulated and maintained a high expression during the time course of silencing NbFIE genes. Chromatin immunoprecipiation (ChIP)-PCR results showed a lack of H3K27me3 marks on NbGH3.6 chromatin in NbFIE-silenced plants compared with negative control plants, indicating that NbGH3.6 was a direct target of NbFIE genes during postembryonic shoot development. Moreover, the free IAA content was reduced significantly in NbFIE-silenced plants, which might cause the enhanced outgrowth of axillary buds as well as impaired secondary xylem differentiation. These results clearly indicated that NbGH3.6 was a primary target of NbFIE genes during postembryonic shoot development, and NbFIE genes regulated axillary bud growth and secondary xylem formation through tuning endogenous auxin homeostasis, possibly by regulating the expression of the NbGH3.6 gene.
+
+FIE: !represses! flowering
+FIE: !regulates! NbGH3.6
+NbFIE: !silences! NbGH3.6
+NbGH3.6: !upregulated by! NbFIE
+NbFIE: !regulates! axillary bud growth
+NbFIE: !regulates! secondary xylem formation
+NbFIE: !tunes! auxin homeostasis

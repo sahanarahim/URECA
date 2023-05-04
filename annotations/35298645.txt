@@ -1,0 +1,8 @@
+Maize chlorotic mottle virus (MCMV) is the key pathogen causing maize lethal necrosis (MLN). Due to the sharply increased incidence of MLN in many countries, there is an urgent need to identify resistant lines and uncover the underlying resistance mechanism. Here, we showed that the abundance of maize (Zea mays) microR167 (Zma-miR167) positively modulates the degree of resistance to MCMV. Zma-miR167 directly targets Auxin Response Factor3 (ZmARF3) and ZmARF30, both of which negatively regulate resistance to MCMV. RNA-sequencing coupled with gene expression assays revealed that both ZmARF3 and ZmARF30 directly bind the promoter of Polyamine Oxidase 1 (ZmPAO1) and activate its expression. Knockdown or inhibition of enzymatic activity of ZmPAO1 suppressed MCMV infection. Nevertheless, MCMV-encoded p31 protein directly targets ZmPAO1 and enhances the enzyme activity to counteract Zma-miR167-mediated defense to some degree. We uncovered a role of the Zma-miR167-ZmARF3/30 module for restricting MCMV infection by regulating ZmPAO1 expression, while MCMV employs p31 to counteract this defense.
+
+Zma-miR167: !targets! ZmARF3/30
+ZmARF3/30: !regulate! resistance to MCMV
+ZmARF3/30: !bind! promoter of ZmPAO1
+ZmPAO1: !suppresses! MCMV infection
+MCMV-encoded p31: !targets! ZmPAO1
+MCMV-encoded p31: !enhances! enzyme activity

@@ -1,0 +1,11 @@
+['18785827', 'The Arabidopsis resistance protein HRT recognizes the Turnip crinkle virus (TCV)  coat protein (CP) to induce a hypersensitive response (HR) in the resistant  ecotype Di-17. The CP also interacts with a nuclear-targeted NAC family of host  transcription factors, designated TIP (TCV-interacting protein). Because binding  of CP to TIP prevents nuclear localization of TIP, it has been proposed that TIP  serves as a guardee for HRT. Here, we have tested the requirement for TIP in  HRT-mediated HR and resistance by analyzing plants carrying knockout mutation in  the TIP gene. Our results show that loss of TIP does not alter HR or resistance  to TCV. Furthermore, the mutation in TIP neither impaired the salicylic  acid-mediated induction of HRT expression nor the enhanced resistance conferred  by overexpression of HRT. Strikingly, the mutation in TIP resulted in increased  replication of TCV and Cucumber mosaic virus, suggesting that TIP may play a role  in basal resistance but is not required for HRT-mediated signaling.', '2008 Oct', 'Mol Plant Microbe Interact', '10.1094/MPMI-21-10-1316', 'Kachroo']
+
+HRT: !recognizes! TCV CP 
+TCV CP: !interacts with! TIP 
+TIP: !prevents! nuclear localization 
+TIP: !serves as! guardee for HRT 
+TIP: !required for! HRT-mediated HR/resistance 
+TIP: !plays a role in! basal resistance 
+SA: !induces! HRT expression 
+HRT: !enhances! resistance to TCV/CMV 
+TIP: !results in! increased replication of TCV/CMV

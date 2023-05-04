@@ -1,0 +1,14 @@
+In Arabidopsis thaliana, Argonaute1 (AGO1) interacts with miR168 to modulate the small RNA regulatory pathway. However, the underlying mechanism of regulation and relationship between AGO1 and miR168 is poorly understood in the cash crop Solanum lycopersicum (tomato). We previously found that SlAGO1A and SlAGO1B were cleaved by miR168 in tomato. In this study, we show that SlAGO1A and SlAGO1B accumulate in miR168-sponge transgenic plants, and that expression of miR168-resistant SlAGO1A (4m-SlAGO1A) and SlAGO1B (4m-SlAGO1B) in tomato results in a series of defects affecting growth rate, floral timing, leaves, and fruit. Accumulation of miR156 was found when 4m-SlAGO1A was at an early developmental stage compared to the wild type and original SlAGO1A transgenic plants, and miR172 was highly expressed in adult 4m-SlAGO1A compared to the controls. In addition, the expression of multiple small RNAs was altered in 4m-SlAGO1A. Taken together, our data provide novel insights into the interaction between SlAGO1s and miR168 in determining growth rate, phase change, leaf epinasty, fruit initiation and expansion, and other developmental processes in tomato.
+
+AGO1: !interacts with! miR168
+miR168: !cleaves! SlAGO1A
+miR168: !cleaves! SlAGO1B
+SlAGO1A: !accumulates in! miR168-sponge transgenic plants
+SlAGO1B: !accumulates in! miR168-sponge transgenic plants
+4m-SlAGO1A: !affects! growth rate
+4m-SlAGO1A: !affects! floral timing
+4m-SlAGO1A: !affects! leaves
+4m-SlAGO1A: !affects! fruit
+miR156: !accumulates in! 4m-SlAGO1A
+miR172: !accumulates in! 4m-SlAGO1A
+4m-SlAGO1A: !alters expression of! multiple small RNAs

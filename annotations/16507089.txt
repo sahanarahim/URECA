@@ -1,0 +1,13 @@
+Phototropins 1 and 2 (phot1 and phot2) function as blue light (BL) photoreceptors for phototropism, chloroplast relocation, stomatal opening and leaf flattening in Arabidopsis thaliana. Phototropin consists of two functional domains, the N-terminal photosensory domain and the C-terminal Ser/Thr kinase domain. However, little is known about the signal transduction pathway that links the photoreceptors and the physiological responses downstream of BL perception. To understand the mechanisms by which phot2 initiates these responses, we transformed the phot1phot2 double mutant of Arabidopsis with constructs encoding translationally fused phot2:green fluorescent protein (P2G). P2G was fully functional for the phot2-specific physiological responses in these transgenic plants. It localized strongly to the plasma membrane and weakly to the cytoplasm in the dark. Upon illumination with BL, punctate P2G staining was formed within a few minutes in addition to the constitutive plasma membrane staining. This punctate distribution pattern matched well with that of the Golgi-localized KAM1DeltaC:mRFP. Brefeldin A (BFA), an inhibitor of vesicle trafficking, induced accumulation of P2G around the perinuclear region even in darkness, but the punctate pattern was not observed. After treatment of these cells with BL, P2G exhibited the punctate distribution pattern that matched with that of the Golgi marker. Hence, the light-dependent association of P2G with the Golgi apparatus was BFA-insensitive. A structure/function analysis indicated that the kinase domain was essential for the Golgi localization of phot2. The BL-induced Golgi localization of phot2 may be one of important signaling steps in the phot2 signal transduction pathway.
+
+phot1: !affects! phototropism 
+phot2: !affects! phototropism 
+phot2: !localizes to! plasma membrane 
+phot2: !localizes to! cytoplasm 
+phot2: !localizes to! Golgi apparatus 
+P2G: !localizes to! plasma membrane 
+P2G: !localizes to! cytoplasm 
+P2G: !localizes to! Golgi apparatus 
+KAM1DeltaC: !localizes to! Golgi apparatus 
+BFA: !induces accumulation of! P2G 
+kinase domain: !essential for! Golgi localization of phot2

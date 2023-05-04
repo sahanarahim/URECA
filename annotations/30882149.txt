@@ -1,0 +1,8 @@
+We explored the use of the eco-physiological crop model GECROS to identify markers for improved rice yield under well-watered (control) and water deficit conditions. Eight model parameters were measured from the control in one season for 267 indica genotypes. The model accounted for 58% of yield variation among genotypes under control and 40% under water deficit conditions. Using 213 randomly selected genotypes as the training set, 90 single nucleotide polymorphism (SNP) loci were identified using a genome-wide association study (GWAS), explaining 42-77% of crop model parameter variation. SNP-based parameter values estimated from the additive loci effects were fed into the model. For the training set, the SNP-based model accounted for 37% (control) and 29% (water deficit) of yield variation, less than the 78% explained by a statistical genomic prediction (GP) model for the control treatment. Both models failed in predicting yields of the 54 testing genotypes. However, compared with the GP model, the SNP-based crop model was advantageous when simulating yields under either control or water stress conditions in an independent season. Crop model sensitivity analysis ranked the SNP loci for their relative importance in accounting for yield variation, and the rank differed greatly between control and water deficit environments. Crop models have the potential to use single-environment information for predicting phenotypes under different environments.
+
+GECROS: !accounts for! 58% yield variation
+GWAS: !identifies! 90 SNP loci
+SNP-based model: !explains! 37-77% parameter variation
+GP model: !explains! 78% yield variation
+SNP-based model: !advantageous for! predicting yields
+Crop model: !ranks! SNP loci importance

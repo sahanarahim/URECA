@@ -1,0 +1,12 @@
+Plant mutants for genes encoding subunits of mitochondrial complex I (CI; NADH:ubiquinone oxidoreductase), the first enzyme of the respiratory chain, display various phenotypes depending on growth conditions. Here, we examined the impact of photoperiod, a major environmental factor controlling plant development, on two Arabidopsis (Arabidopsis thaliana) CI mutants: a new insertion mutant interrupted in both ndufs8.1 and ndufs8.2 genes encoding the NDUFS8 subunit and the previously characterized ndufs4 CI mutant. In the long day (LD) condition, both ndufs8.1 and ndufs8.2 single mutants were indistinguishable from Columbia-0 at phenotypic and biochemical levels, whereas the ndufs8.1 ndufs8.2 double mutant was devoid of detectable holo-CI assembly/activity, showed higher alternative oxidase content/activity, and displayed a growth retardation phenotype similar to that of the ndufs4 mutant. Although growth was more affected in ndufs4 than in ndufs8.1 ndufs8.2 under the short day (SD) condition, both mutants displayed a similar impairment of growth acceleration after transfer to LD compared with the wild type. Untargeted and targeted metabolomics showed that overall metabolism was less responsive to the SD-to-LD transition in mutants than in the wild type. The typical LD acclimation of carbon and nitrogen assimilation as well as redox-related parameters was not observed in ndufs8.1 ndufs8 Similarly, NAD(H) content, which was higher in the SD condition in both mutants than in Columbia-0, did not adjust under LD We propose that altered redox homeostasis and NAD(H) content/redox state control the phenotype of CI mutants and photoperiod acclimation in Arabidopsis.
+
+ndufs8.1: !interacts with! ndufs8.2 
+ndufs8.1: !affects! holo-CI assembly/activity 
+ndufs8.1: !enhances! alternative oxidase content/activity 
+ndufs8.1: !represses! growth acceleration 
+ndufs4: !affects! growth retardation 
+ndufs4: !represses! growth acceleration 
+photoperiod: !controls! plant development 
+metabolism: !responds to! SD-to-LD transition 
+NAD(H): !controls! phenotype of CI mutants 
+NAD(H): !regulates! photoperiod acclimation

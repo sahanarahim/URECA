@@ -1,0 +1,7 @@
+Alfalfa mosaic virus (AMV) coat protein (CP) is essential for many steps in virus replication from early infection to encapsidation. However, the identity and functional relevance of cellular factors that interact with CP remain unknown. In an unbiased yeast two-hybrid screen for CP-interacting Arabidopsis proteins, we identified several novel protein interactions that could potentially modulate AMV replication. In this report, we focus on one of the novel CP-binding partners, the Arabidopsis PsbP protein, which is a nuclear-encoded component of the oxygen-evolving complex of photosystem II. We validated the protein interaction in vitro with pull-down assays, in planta with bimolecular fluorescence complementation assays, and during virus infection by co-immunoprecipitations. CP interacted with the chloroplast-targeted PsbP in the cytosol and mutations that prevented the dimerization of CP abolished this interaction. Importantly, PsbP overexpression markedly reduced virus accumulation in infected leaves. Taken together, our findings demonstrate that AMV CP dimers interact with the chloroplast protein PsbP, suggesting a potential sequestration strategy that may preempt the generation of any PsbP-mediated antiviral state.
+
+CP: !interacts with! PsbP
+PsbP: !localizes to! chloroplast
+CP: !dimers interact with! PsbP
+mutations: !prevent! CP dimerization
+PsbP: !overexpression reduces! virus accumulation

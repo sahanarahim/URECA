@@ -1,0 +1,7 @@
+['36226797', 'Sulfur (S) is an essential macronutrient for plants and a signaling molecule in  abiotic stress responses. It is known that S availability modulates root system  architecture; however, the underlying molecular mechanisms are largely unknown.  We previously reported an Arabidopsis gain-of-function mutant sulfate utilization  efficiency4 (sue4) that could tolerate S deficiency during germination and early  seedling growth with faster primary root elongation. Here, we report that SUE4, a  novel plasma membrane-localized protein, interacts with the polar auxin  transporter PIN1, resulting in reduced PIN1 protein levels and thus decreasing  auxin transport to the root tips, which promotes primary root elongation.  Moreover, SUE4 is induced by sulfate deficiency, consistent with its role in root  elongation. Further analyses showed that the SUE4-PIN1 interaction decreased PIN1  levels, possibly through 26 S proteasome-mediated degradation. Taken together,  our finding of SUE4-mediated root elongation is consistent with root adaptation  to highly mobile sulfate in soil, thus revealing a novel component in the  adaptive response of roots to S deficiency.', '2023 Jan', 'New Phytol', '10.1111/nph.18536', 'ORCID:']
+
+SUE4: !interacts with! PIN1 
+SUE4: !induces! root elongation 
+Sulfate deficiency: !induces! SUE4 
+PIN1: !decreases! auxin transport 
+26S proteasome: !mediates! PIN1 degradation

@@ -1,0 +1,7 @@
+Currently, plant phenomics is considered the key to reducing the genotype-to-phenotype knowledge gap in plant breeding. In this context, breakthrough imaging technologies have demonstrated high accuracy and reliability. The X-ray computed tomography (CT) technology can noninvasively scan roots in 3D; however, it is urgently required to implement high-throughput phenotyping procedures and analyses to increase the amount of data to measure more complex root phenotypic traits. We have developed a spatial-temporal root architectural modeling software tool based on 4D data from temporal X-ray CT scans. Through a cylinder fitting, we automatically extract significant root architectural traits, distribution, and hierarchy. The open-source software tool is named 4DRoot and implemented in MATLAB. The source code is freely available at https://github.com/TIDOP-USAL/4DRoot. In this research, 3D root scans from the black walnut tree were analyzed, a punctual scan for the spatial study and a weekly time-slot series for the temporal one. 4DRoot provides breeders and root biologists an objective and useful tool to quantify carbon sequestration throw trait extraction. In addition, 4DRoot could help plant breeders to improve plants to meet the food, fuel, and fiber demands in the future, in order to increase crop yield while reducing farming inputs.
+
+X-ray CT: !scans! Roots
+4DRoot: !extracts! Root architectural traits
+4DRoot: !quantifies! Carbon sequestration
+Plant breeders: !improve! Plants
+Plant breeders: !increase! Crop yield

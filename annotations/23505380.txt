@@ -1,0 +1,8 @@
+Cereal endosperm represents 60% of the calories consumed by human beings worldwide. In addition, cereals also serve as the primary feedstock for livestock. However, the regulatory mechanism of cereal endosperm and seed development is largely unknown. Polycomb complex has been shown to play a key role in the regulation of endosperm development in Arabidopsis, but its role in cereal endosperm development remains obscure. Additionally, the enzyme activities of the polycomb complexes have not been demonstrated in plants. Here we purified the rice OsFIE2-polycomb complex using tandem affinity purification and demonstrated its specific H3 methyltransferase activity. We found that the OsFIE2 gene product was responsible for H3K27me3 production specifically in vivo. Genetic studies showed that a reduction of OsFIE2 expression led to smaller seeds, partially filled seeds, and partial loss of seed dormancy. Gene expression and proteomics analyses found that the starch synthesis rate limiting step enzyme and multiple storage proteins are down-regulated in OsFIE2 reduction lines. Genome wide ChIP-Seq data analysis shows that H3K27me3 is associated with many genes in the young seeds. The H3K27me3 modification and gene expression in a key helix-loop-helix transcription factor is shown to be regulated by OsFIE2. Our results suggest that OsFIE2-polycomb complex positively regulates rice endosperm development and grain filling via a mechanism highly different from that in Arabidopsis.
+
+OsFIE2: !produces! H3K27me3 
+H3K27me3: !regulates! gene expression 
+OsFIE2: !affects! seed size 
+OsFIE2: !represses! starch synthesis rate limiting step enzyme 
+OsFIE2: !down-regulates! storage proteins 
+OsFIE2: !enhances! grain filling

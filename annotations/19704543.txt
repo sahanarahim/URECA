@@ -1,0 +1,8 @@
+We recently described how DELLA proteins are involved in plant growth responses to neighbors in dense stands. These responses that are called shade avoidance include enhanced stem and petiole elongation and are a classic example of adaptive phenotypic plasticity. Although much is known about neighbor detection, much less is known about the signal transduction network downstream of these signals. We will discuss here how a group of growth-supressors, called DELLA proteins, are functionally regulated upon the detection of neighbors. DELLA proteins are degraded upon binding of gibberellin (GA) to its receptor, thus releasing the restraint of GA responses. We discuss here that GA positively regulates shade avoidance by reducing DELLA protein levels. Furthermore, we will show that this is an essential step in shade avoidance, but also that reduced DELLA abundance alone is not sufficient to induce these growth responses. It is concluded that GA-dependent DELLA degradation is one essential step in the signal transduction network from light-mediated neighbor detection towards adaptive shoot elongation responses.
+
+neighbors: !detected by! light
+GA: !binds to! receptor
+DELLA proteins: !degraded by! GA
+GA: !positively regulates! shade avoidance
+DELLA proteins: !essential for! shade avoidance
+GA-dependent DELLA degradation: !mediates! signal transduction

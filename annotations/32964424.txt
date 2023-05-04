@@ -1,0 +1,9 @@
+Leaf vein network geometry can predict levels of resource transport, defence and mechanical support that operate at different spatial scales. However, it is challenging to quantify network architecture across scales due to the difficulties both in segmenting networks from images and in extracting multiscale statistics from subsequent network graph representations. Here we developed deep learning algorithms using convolutional neural networks (CNNs) to automatically segment leaf vein networks. Thirty-eight CNNs were trained on subsets of manually defined ground-truth regions from >700 leaves representing 50 southeast Asian plant families. Ensembles of six independently trained CNNs were used to segment networks from larger leaf regions (c. 100 mm<sup>2</sup> ). Segmented networks were analysed using hierarchical loop decomposition to extract a range of statistics describing scale transitions in vein and areole geometry. The CNN approach gave a precision-recall harmonic mean of 94.5% ± 6%, outperforming other current network extraction methods, and accurately described the widths, angles and connectivity of veins. Multiscale statistics then enabled the identification of previously undescribed variation in network architecture across species. We provide a LeafVeinCNN software package to enable multiscale quantification of leaf vein networks, facilitating the comparison across species and the exploration of the functional significance of different leaf vein architectures.
+
+CNNs: !segment! Leaf vein networks
+Manually defined ground-truth regions: !train! CNNs
+Ensembles of CNNs: !segment! Larger leaf regions
+Hierarchical loop decomposition: !extract! Range of statistics
+CNN approach: !outperform! Other network extraction methods
+Multiscale statistics: !enable! Identification of variation in network architecture
+LeafVeinCNN software package: !facilitate! Comparison across species

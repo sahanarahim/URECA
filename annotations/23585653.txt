@@ -1,0 +1,11 @@
+Developmental differences between species commonly result from changes in the tissue-specific expression of genes. Clustering algorithms are a powerful means to detect coexpression across tissues in single species but are not often applied to multidimensional data sets, such as gene expression across tissues in multiple species. As next-generation sequencing approaches enable interspecific analyses, methods to visualize and explore such data sets will be required. Here, we analyze a data set comprising gene expression profiles across six different tissue types in domesticated tomato (Solanum lycopersicum) and a wild relative (Solanum pennellii). We find that self-organizing maps are a useful means to analyze interspecies data, as orthologs can be assigned to independent levels of a "super self-organizing map." We compare various clustering approaches using a principal component analysis in which the expression of orthologous pairs is indicated by two points. We leverage the expression profile differences between orthologs to look at tissue-specific changes in gene expression between species. Clustering based on expression differences between species (rather than absolute expression profiles) yields groups of genes with large tissue-by-species interactions. The changes in expression profiles of genes we observe reflect differences in developmental architecture, such as changes in meristematic activity between S. lycopersicum and S. pennellii. Together, our results offer a suite of data-exploration methods that will be important to visualize and make biological sense of next-generation sequencing experiments designed explicitly to discover tissue-by-species interactions in gene expression data.
+
+gene: !affects! tissue-specific expression 
+tissue-specific expression: !differs between! species 
+clustering algorithms: !detect! coexpression 
+self-organizing maps: !analyze! interspecies data 
+orthologs: !assigned to! independent levels of "super self-organizing map" 
+clustering: !based on! expression differences between species 
+expression profile differences: !leverage to look at! tissue-specific changes in gene expression 
+expression profiles: !reflect! differences in developmental architecture 
+data-exploration methods: !important to visualize and make biological sense of! next-generation sequencing experiments

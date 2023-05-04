@@ -1,0 +1,10 @@
+Protein degradation through the Ubiquitin (Ub)-26S Proteasome System (UPS) is a major gene expression regulatory pathway in plants. In this pathway, the 76-amino acid Ub proteins are covalently linked onto a large array of UPS substrates with the help of three enzymes (E1 activating, E2 conjugating, and E3 ligating enzymes) and direct them for turnover in the 26S proteasome complex. The S-phase Kinase-associated Protein 1 (Skp1), CUL1, F-box (FBX) protein (SCF) complexes have been identified as the largest E3 ligase group in plants due to the dramatic number expansion of the <i>FBX</i> genes in plant genomes. Since it is the FBX proteins that recognize and determine the specificity of SCF substrates, much effort has been done to characterize their genomic, physiological, and biochemical roles in the past two decades of functional genomic studies. However, the sheer size and high sequence diversity of the <i>FBX</i> gene family demands new approaches to uncover unknown functions. In this work, we first identified 82 known <i>FBX</i> members that have been functionally characterized up to date in <i>Arabidopsis thaliana</i>. Through comparing the genomic structure, evolutionary selection, expression patterns, domain compositions, and functional activities between known and unknown <i>FBX</i> gene members, we developed a neural network machine learning approach to predict whether an unknown <i>FBX</i> member is likely functionally active in Arabidopsis, thereby facilitating its future functional characterization.
+
+E1 activating enzyme: !activates! E2 conjugating enzyme
+E2 conjugating enzyme: !conjugates! Ub proteins
+Ub proteins: !linked to! UPS substrates
+Skp1, CUL1, FBX protein: !form! SCF complexes
+FBX proteins: !recognize! SCF substrates
+FBX gene family: !expanded in! plant genomes
+FBX genes: !compared for! genomic structure, evolutionary selection, expression patterns, domain compositions, and functional activities
+Neural network machine learning approach: !developed to! predict unknown FBX gene members

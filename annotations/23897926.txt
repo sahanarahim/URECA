@@ -1,0 +1,12 @@
+Casein kinase1 (CK1) plays crucial roles in regulating growth and development via phosphorylating various substrates throughout the eukaryote kingdom. Blue light is crucial for normal growth of both plants and animals, and blue light receptor cryptochrome2 (CRY2) undergoes blue light-dependent phosphorylation and degradation in planta. To study the function of plant CK1s, systematic genetic analysis showed that deficiency of two paralogous Arabidopsis thaliana CK1s, CK1.3 and CK1.4, caused shortened hypocotyls, especially under blue light, while overexpression of either CK1.3 or CK1.4 resulted in the insensitive response to blue light and delayed flowering under long-day conditions. CK1.3 or CK1.4 act dependently on CRY2, and overexpression of CK1.3 or CK1.4 significantly suppresses the hypersensitive response to blue light by CRY2 overexpression. Biochemical studies showed that CK1.3 and CK1.4 directly phosphorylate CRY2 at Ser-587 and Thr-603 in vitro and negatively regulate CRY2 stability in planta, which are stimulated by blue light, further confirming the crucial roles of CK1.3 and CK1.4 in blue light responses through phosphorylating CRY2. Interestingly, expression of CK1.3 and CK1.4 is stimulated by blue light and feedback regulated by CRY2-mediated signaling. These results provide direct evidence for CRY2 phosphorylation and informative clues on the mechanisms of CRY2-mediated light responses.
+
+CK1.3: !phosphorylates! CRY2
+CK1.4: !phosphorylates! CRY2
+CRY2: !stimulates! CK1.3
+CRY2: !stimulates! CK1.4
+Blue Light: !stimulates! CK1.3
+Blue Light: !stimulates! CK1.4
+CK1.3: !regulates! CRY2 stability
+CK1.4: !regulates! CRY2 stability
+CRY2: !feedback regulates! CK1.3
+CRY2: !feedback regulates! CK1.4

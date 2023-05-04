@@ -1,0 +1,12 @@
+The epigenetic regulation of gene expression is critical for ensuring the proper deployment and stability of defined genome transcription programs at specific developmental stages. The cellular memory of stable gene expression states during animal and plant development is mediated by the opposing activities of Polycomb group (PcG) factors and trithorax group (trxG) factors. Yet, despite their importance, only a few trxG factors have been characterized in plants and their roles in regulating plant development are poorly defined. In this work, we report that the closely related Arabidopsis trxG genes ULTRAPETALA1 (ULT1) and ULT2 have overlapping functions in regulating shoot and floral stem cell accumulation, with ULT1 playing a major role but ULT2 also making a minor contribution. The two genes also have a novel, redundant activity in establishing the apical–basal polarity axis of the gynoecium, indicating that they function in differentiating tissues. Like ULT1 proteins, ULT2 proteins have a dual nuclear and cytoplasmic localization, and the two proteins physically associate in planta. Finally, we demonstrate that ULT1 and ULT2 have very similar overexpression phenotypes and regulate a common set of key development target genes, including floral MADS-box genes and class I KNOX genes. Our results reveal that chromatin remodeling mediated by the ULT1 and ULT2 proteins is necessary to control the development of meristems and reproductive organs. They also suggest that, like their animal counterparts, plant trxG proteins may function in multi-protein complexes to up-regulate the expression of key stage- and tissue-specific developmental regulatory genes.
+
+ULT1: !regulates! Shoot and floral stem cell accumulation
+ULT2: !regulates! Shoot and floral stem cell accumulation
+ULT1: !establishes! Apical-basal polarity axis of gynoecium
+ULT2: !establishes! Apical-basal polarity axis of gynoecium
+ULT1: !localizes to! Nuclear and cytoplasmic compartments
+ULT2: !localizes to! Nuclear and cytoplasmic compartments
+ULT1: !interacts with! ULT2
+ULT2: !interacts with! ULT1
+ULT1: !enhances! Expression of MADS-box genes and class I KNOX genes
+ULT2: !enhances! Expression of MADS-box genes and class I KNOX genes

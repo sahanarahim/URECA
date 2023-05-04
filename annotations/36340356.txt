@@ -1,0 +1,8 @@
+Hyperspectral imaging technique combined with machine learning is a powerful tool for the evaluation of disease phenotype in rice disease-resistant breeding. However, the current studies are almost carried out in the lab environment, which is difficult to apply to the field environment. In this paper, we used visible/near-infrared hyperspectral images to analysis the severity of rice bacterial blight (BB) and proposed a novel disease index construction strategy (NDSCI) for field application. A designed long short-term memory network with attention mechanism could evaluate the BB severity robustly, and the attention block could filter important wavelengths. Best results were obtained based on the fusion of important wavelengths and color features with an accuracy of 0.94. Then, NSDCI was constructed based on the important wavelength and color feature related to BB severity. The correlation coefficient of NDSCI extended to the field data reached -0.84, showing good scalability. This work overcomes the limitations of environmental conditions and sheds new light on the rapid measurement of phenotype in disease-resistant breeding.
+
+Hyperspectral imaging: !evaluates! Disease phenotype
+Machine learning: !evaluates! Disease severity
+Long short-term memory network: !filters! Important wavelengths
+Important wavelengths: !constructs! NDSCI
+Color features: !fuses with! Important wavelengths
+NDSCI: !correlates with! Field data

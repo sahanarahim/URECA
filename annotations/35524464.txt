@@ -1,0 +1,8 @@
+The impact of epigenetic modifications on the efficacy of CRISPR/Cas9-mediated double-stranded DNA breaks and subsequent DNA repair is poorly understood, especially in plants. In this study, we investigated the effect of the level of cytosine methylation on the outcome of CRISPR/Cas9-induced mutations at multiple Cas9 target sites in Nicotiana benthamiana leaf cells using next-generation sequencing. We found that high levels of promoter methylation, but not gene-body methylation, decreased the frequency of Cas9-mediated mutations. DNA methylation also influenced the ratio of insertions and deletions and potentially the type of Cas9 cleavage in a target-specific manner. In addition, we detected an over-representation of deletion events governed by a single 5'-terminal nucleotide at Cas9-induced DNA breaks. Our findings suggest that DNA methylation can indirectly impair Cas9 activity and subsequent DNA repair, probably through changes in the local chromatin structure. In addition to the well described Cas9-induced blunt-end double-stranded DNA breaks, we provide evidence for Cas9-mediated staggered DNA cuts in plant cells. Both types of cut may direct microhomology-mediated DNA repair by a novel, as yet undescribed, mechanism.
+
+Gene: !affects! CRISPR/Cas9-mediated double-stranded DNA breaks
+Gene: !influences! ratio of insertions and deletions
+Gene: !governs! deletion events
+Gene: !impairs! Cas9 activity
+Gene: !directs! microhomology-mediated DNA repair
+Gene: !produces! staggered DNA cuts

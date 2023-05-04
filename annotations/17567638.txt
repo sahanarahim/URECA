@@ -1,0 +1,9 @@
+Double-stranded (ds) RNAs and imperfect hairpin RNAs of endogenous genes trigger post-transcriptional gene silencing (PTGS) and are cleaved by a Dicer-like nuclease into small interfering RNAs (siRNAs) and microRNs (miRNAs), respectively. Such small RNAs (siRNAs and miRNAs) then guide an RNA-induced silencing complex (RISC) for sequence-specific RNA degradation. While PTGS serves as an antiviral defense in plants, many plant viruses encode suppressors as a counter defense. Here we demonstrate that the PTGS suppressor (2b) of a severe strain (CM95R) of cucumber mosaic virus (CMV) can bind to in vitro synthesized siRNAs and even to long dsRNAs to a lesser extent. However, the 2b suppressor weakly bound to a miRNA (miR171) duplex in contrast to another small RNA-binding suppressor, p19 of tombusvirus that can effectively bind miRNAs. Because the 2b suppressor of an attenuated strain of CMV (CM95), which differs in a single amino acid from the 2b of CM95R, could barely bind siRNAs, we hypothesized that the weak suppressor activity of the attenuated strain resulted from a loss of the siRNA-binding property of 2b via a single amino acid change. Here we consider that 2b interferes with the PTGS pathway by directly binding siRNAs (or long dsRNA).
+
+dsRNA: !triggers! PTGS 
+siRNAs: !guide! RISC 
+Virus: !encodes! Suppressors 
+2b: !binds to! siRNAs 
+2b: !binds to! dsRNAs 
+p19: !binds to! miRNAs 
+2b: !interferes with! PTGS

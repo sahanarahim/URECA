@@ -1,0 +1,10 @@
+['15131082', 'MicroRNAs (miRNAs) are endogenous 21-24-nt RNAs that can down-regulate gene  expression by pairing to the messages of protein-coding genes to specify mRNA  cleavage or repression of productive translation. They act within the RNA-induced  silencing complex (RISC), which in animals contains a member of the Argonaute  family of proteins. In the present study, we show that Arabidopsis ago1 mutants  have increased accumulation of mRNAs known to be targeted for cleavage by miRNAs.  In hypomorphic ago1 alleles, this compromised miRNA function occurs without a  substantial change in miRNA accumulation, whereas in null alleles it is  accompanied by a drop in some of the miRNAs. Therefore, AGO1 acts within the  Arabidopsis miRNA pathway, probably within the miRNA-programmed RISC, such that  the absence of AGO1 destabilizes some of the miRNAs. We also show that targeting  of AGO1 mRNA by miR168 is needed for proper plant development, illustrating the  importance of feedback control by this miRNA. Transgenic plants expressing a  mutant AGO1 mRNA with decreased complementarity to miR168 overaccumulate AGO1  mRNA and exhibit developmental defects partially overlapping with those of dcl1,  hen1, and hyl1 mutants showing a decrease in miRNA accumulation. miRNA targets  overaccumulate in miR168-resistant plants, suggesting that a large excess of AGO1  protein interferes with the function of RISC or sequesters miRNAs or other RISC  components. Developmental defects induced by a miR168-resistant AGO1 mRNA can be  rescued by a compensatory miRNA that is complementary to the mutant AGO1 mRNA,  proving the regulatory relationship between miR168 and its target and opening the  way for engineering artificial miRNAs in plants.', '2004 May 15', 'Genes Dev', '10.1101/gad.1201404', 'Bartel']
+
+miRNA: !down-regulates! gene expression 
+miRNA: !acts within! RISC 
+AGO1: !stabilizes! miRNA 
+AGO1: !targeted by! miR168 
+miR168: !controls! AGO1 mRNA 
+miR168: !complementary to! mutant AGO1 mRNA 
+mutant AGO1 mRNA: !induces! developmental defects 
+compensatory miRNA: !rescues! developmental defects

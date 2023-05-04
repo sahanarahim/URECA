@@ -1,0 +1,12 @@
+Plastids are complex organelles that vary in size and function depending on the cell type. Accordingly, they can be referred to as amyloplasts, chloroplasts, chromoplasts, etioplasts, proplasts to only cite a few denominations. Over the past decades, methods based on density gradients and differential centrifugations have been extensively used for the purification of plastids. However, these methods need large amounts of starting material, and hardly provide a tissue-specific resolution. Here, we applied our IPTACT (Isolation of Plastids TAgged in specific Cell Types) method, which involves the biotinylation of plastids in vivo using one-shot transgenic lines expressing the TOC64 gene coupled with a biotin ligase receptor particle and the BirA biotin ligase, to isolate plastids from mesophyll and companion cells of Arabidopsis thaliana using tissue specific pCAB3 and pSUC2 promoters, respectively. Subsequently, a proteome profiling was performed, and allowed the identification of 1672 proteins, among which 1342 were predicted plastidial, and 705 were fully confirmed according to SUBA5. Interestingly, although 92% of plastidial proteins were equally distributed between the two tissues, we observed an accumulation of proteins associated with jasmonic acid biosynthesis, plastoglobuli (e.g. NDC1, VTE1, PGL34, ABC1K1) and cyclic electron flow in plastids originating from vascular tissues. Besides demonstrating the technical feasibility of isolating plastids in a tissue-specific manner, our work provides strong evidence that plastids from vascular tissue have a higher redox turnover to ensure optimal functioning, notably under high solute strength as encountered in vascular cells.
+
+TOC64: !expresses! biotin ligase receptor particle 
+BirA: !activates! biotin ligase receptor particle 
+pCAB3: !promotes! plastid isolation from mesophyll cells 
+pSUC2: !promotes! plastid isolation from companion cells 
+NDC1: !localizes to! plastoglobuli 
+VTE1: !localizes to! plastoglobuli 
+PGL34: !localizes to! plastoglobuli 
+ABC1K1: !localizes to! plastoglobuli 
+jasmonic acid biosynthesis: !accumulates in! plastids from vascular tissues 
+cyclic electron flow: !accumulates in! plastids from vascular tissues

@@ -1,0 +1,10 @@
+Natural variation has become a prime resource to identify genetic variants that contribute to phenotypic variation. The regional mapping (RegMap) population is one of the most important populations for studying natural variation in Arabidopsis thaliana, and has been used in a large number of association studies and in studies on climatic adaptation. However, only 413 RegMap accessions have been completely sequenced, as part of the 1001 Genomes (1001G) Project, while the remaining 894 accessions have only been genotyped with the Affymetrix 250k chip. As a consequence, most association studies involving the RegMap are either restricted to the sequenced accessions, reducing power, or rely on a limited set of SNPs. Here we impute millions of SNPs to the 894 accessions that are exclusive to the RegMap, using the 1135 accessions of the 1001G Project as the reference panel. We assess imputation accuracy using a novel cross-validation scheme, which we show provides a more reliable measure of accuracy than existing methods. After filtering out low accuracy SNPs, we obtain high-quality genotypic information for 2029 accessions and 3 million markers. To illustrate the benefits of these imputed data, we reconducted genome-wide association studies on five stress-related traits and could identify novel candidate genes.
+
+RegMap: !used to study! Natural Variation 
+1001G Project: !provides reference panel for! Imputation 
+RegMap Accessions: !genotyped with! Affymetrix 250k chip 
+RegMap Accessions: !imputed with! 1001G Project 
+Cross-validation Scheme: !provides measure of! Accuracy 
+Imputed Data: !obtained from! 2029 Accessions 
+Imputed Data: !contains! 3 Million Markers 
+Stress-related Traits: !associated with! Novel Candidate Genes

@@ -1,0 +1,12 @@
+The "Green Revolution" that dramatically reduced cultivar heights and sharply boosted rice production mid-century was achieved in large part through introgression of defective alleles of Semi-Dwarf 1 (SD1), which encodes a GA20ox oxidase involved in the final steps of the synthesis of bioactive gibberellin in rice. Here, we ask whether converting the defective sd1 version in a modern semi-dwarf cultivar back to wild-type SD1 in situ recovers ancestral plant traits, and more broadly, what it reveals about pleiotropic effects of this gene. We assess these effects of SD1 restoration in three independent recombinant lines recovered from F<sub>2</sub> progeny of a cross between 93-11 and PA64s. We then used RNA-seq to dissect gene network changes that accompanied SD1 restoration. We report that this in situ restoration of wild-type SD1 nearly doubles plant height, increases total grain yield per panicle, and elongates the second-leaf length. Comparison of expression profiles reveals changes in key nodes of the gibberellin pathway, such as OsKO1 and OsGA2ox3, and more broadly in genes related to metabolic networks, defense response, and catabolic processes. Two JA-induced genes, RIR1b and OsPR1b, are extremely down-regulated after SD1 restoration, suggesting that SD1 restoration alters the balance between GA and JA to plant growth, at the cost of degrading the defense response. This in situ approach at the SD1 locus also provides a model example that is applicable to other systems and will further understanding of gene networks underlying high-yield traits in crops.
+
+SD1: !affects! Plant height 
+SD1: !affects! Grain yield 
+SD1: !affects! Leaf length 
+OsKO1: !affected by! SD1 
+OsGA2ox3: !affected by! SD1 
+Metabolic networks: !affected by! SD1 
+Defense response: !affected by! SD1 
+Catabolic processes: !affected by! SD1 
+RIR1b: !repressed by! SD1 
+OsPR1b: !repressed by! SD1

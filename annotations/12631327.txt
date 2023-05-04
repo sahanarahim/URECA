@@ -1,0 +1,11 @@
+['12631327', 'We describe the identification and functional characterization of two Arabidopsis  mitochondrial basic amino acid carriers (BAC), AtmBAC1 and AtmBAC2, which are  related to the yeast ornithine (Orn) carrier Ort1p, also known as Arg11p. The  arg11 mutant requires arginine (Arg) supplementation because it fails to export  sufficient ornithine from the mitochondrion to the cytosol where it is converted  to arginine. AtmBAC1 and, to a lesser extent, AtmBAC2 partially replaced the  function of Ort1p in yeast arg11. The more efficient putative carrier, AtmBAC1,  was expressed in E. coli, purified, and reconstituted into phospholipid vesicles,  where it transported the basic l-amino acids arginine, lysine, ornithine and  histidine (in order of decreasing affinity). AtmBAC1 recognized l-histidine  whereas both yeast Ort1p and the mammalian ortholog ORNT1p do not. Also different  from ORNT1p, AtmBAC1 did not transport citrulline. AtmBAC1 appeared to be more  stereospecific than the yeast and mammalian ornithine carriers, exhibiting  greater preference for the l-forms of arginine, lysine and ornithine. By RT-PCR,  both AtmBAC1 and AtmBAC2 transcripts were detected in stems, leaves, flowers,  siliques, and seedlings. Expression of AtmBAC1 in seedlings is consistent with  its involvement in Arg breakdown in early seedling development, i.e. delivery of  Arg to mitochondrial arginase. The Km (0.19 mm) for Arg uptake by AtmBAC1 was  close to the value we previously determined for the saturable component of Arg  uptake into intact mitochondria from soybean seedling cotyledons.', '2003 Mar', 'Plant J', '10.1046/j.1365-313x.2003.01685.x', 'Palmieri']
+
+AtmBAC1: !transports! l-amino acids 
+AtmBAC2: !transports! l-amino acids 
+AtmBAC1: !recognizes! l-histidine 
+AtmBAC1: !prefers! l-forms of arginine, lysine and ornithine 
+AtmBAC1: !expresses in! seedlings 
+AtmBAC2: !expresses in! stems, leaves, flowers, siliques, and seedlings 
+AtmBAC1: !Km for Arg uptake is! 0.19 mm 
+Ort1p: !replaced by! AtmBAC1 and AtmBAC2 
+ORNT1p: !differs from! AtmBAC1

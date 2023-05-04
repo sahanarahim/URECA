@@ -1,0 +1,10 @@
+Plant-microbe interactions play a vital role in the development of strategies to manage pathogen-induced destructive diseases that cause enormous crop losses every year. Rice blast is one of the severe diseases to rice <i>Oryza sativa</i> (<i>O. sativa</i>) due to <i>Magnaporthe grisea</i> (<i>M. grisea</i>) fungus. Protein-protein interaction (PPI) between rice and fungus plays a key role in causing rice blast disease. In this paper, four genomic information-based models such as (i) the interolog, (ii) the domain, (iii) the gene ontology, and (iv) the phylogenetic-based model are developed for predicting the interaction between <i>O. sativa</i> and <i>M. grisea</i> in a whole-genome scale. A total of 59,430 interacting pairs between 1,801 rice proteins and 135 blast fungus proteins are obtained from the four models. Furthermore, a machine learning model is developed to assess the predicted interactions. Using composition-based amino acid composition (AAC) and conjoint triad (CT) features, an accuracy of 88% and 89% is achieved, respectively. When tested on the experimental dataset, the CT feature provides the highest accuracy of 95%. Furthermore, the specificity of the model is verified with other pathogen-host datasets where less accuracy is obtained, which confirmed that the model is specific to <i>O. sativa</i> and <i>M. grisea.</i> Understanding the molecular processes behind rice resistance to blast fungus begins with the identification of PPIs, and these predicted PPIs will be useful for drug design in the plant science community.
+
+O. sativa: !interacts with! M. grisea
+Interolog: !predicts! PPIs
+Domain: !predicts! PPIs
+Gene Ontology: !predicts! PPIs
+Phylogenetic-based model: !predicts! PPIs
+AAC: !assesses! Predicted interactions
+CT: !assesses! Predicted interactions
+Experimental dataset: !tests! CT feature

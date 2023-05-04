@@ -1,0 +1,13 @@
+The expression of two genes, namely Mir1 and Mir3 and the abundance of their encoded proteins, the putative miraculin-like proteins, MLP1 and MLP3, showing similarity to the Kunitz family of protease inhibitors, were monitored in the leaves of the citrus variety, 'Clementine' after Tetranychus urticae infestation and elicitor treatments, or in the leaves of three other diploid citrus: 'Willow leaf', 'Cleopatra' mandarins and 'Trifoliate' orange, as well as their respective doubled diploids and the allotetraploid somatic hybrid 'FLHORAG1' under salt stress. RT-PCR and 2-DE indicated that Mir1 and Mir3 and their products were present at low-basal expression in all citrus genotypes. Both genes and products were induced in the 'Clementine' leaves infested by T. urticae, but a contrasting profile was observed under elicitor treatments. Under salt stress, the two genes showed an expression pattern contrasting each other and depending on the genotypes. 'Cleopatra' mandarin, 'Trifoliate' orange and 'FLHORAG1' presented overexpression of Mir3 and MLP3 and decreased levels of Mir1 and MPL1. The opposite behaviour was found in 'Willow leaf' mandarin. The positive correlation of the expression profile of the two genes with that of a gene encoding a putative apoplastic cysteine protease (CysP) might suggest a possible interaction of the respective encoded proteins during the response to biotic stress. Under salt stress, CysP and Mir 1 showed a similar expression pattern but only at transcript level. The possible occurrence of post-translational CysP regulation is discussed.
+
+Mir1: !induces! T. urticae
+Mir3: !induces! T. urticae
+MLP1: !localizes to! 'Clementine' leaves
+MLP3: !localizes to! 'Clementine' leaves
+Mir1: !overexpresses in! 'Willow leaf' mandarin
+Mir3: !overexpresses in! 'Cleopatra' mandarin, 'Trifoliate' orange, 'FLHORAG1'
+MLP1: !decreases in! 'Willow leaf' mandarin
+MLP3: !decreases in! 'Willow leaf' mandarin
+Mir1: !correlates with! CysP
+Mir3: !correlates with! CysP
+CysP: !interacts with! Mir1

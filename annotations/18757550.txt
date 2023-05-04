@@ -1,0 +1,10 @@
+Folates typically have gamma-linked polyglutamyl tails that make them better enzyme substrates and worse transport substrates than the unglutamylated forms. The tail can be shortened or removed by the vacuolar enzyme gamma-glutamyl hydrolase (GGH). It is known that GGH is active only as a dimer and that plants can have several GGH genes whose homodimeric products differ functionally. However, it is not known whether GGH dimers dissociate under in vivo conditions, whether heterodimers form, or how heterodimerization impacts enzyme activity. These issues were explored using the GGH system of tomato (Solanum lycopersicum). Tomato has three GGH genes that, like those in other eudicots, apparently diverged recently. LeGGH1 and LeGGH2 are expressed in fruit and all other organs, whereas LeGGH3 is expressed mainly in flower buds. LeGGH1 and LeGGH2 homodimers differ in bond cleavage preference; the LeGGH3 homodimer is catalytically inactive. Homodimers did not dissociate in physiological conditions. When coexpressed in Escherichia coli, LeGGH1 and LeGGH2 formed heterodimers with an intermediate bond cleavage preference, whereas LeGGH3 formed heterodimers with LeGGH1 or LeGGH2 that had one-half the activity of the matching homodimer. E. coli cells expressing LeGGH2 showed approximately 85% reduction in folate polyglutamates, but cells expressing LeGGH3 did not, confirming that LeGGH2 can function in vivo and LeGGH3 cannot. The formation of LeGGH1-LeGGH2 heterodimers was demonstrated in planta using bimolecular fluorescence complementation. Plant GGH heterodimers thus appear to form wherever different GGH genes are expressed simultaneously and to have catalytic characteristics midway between those of the corresponding homodimers.
+
+LeGGH1: !forms heterodimer with! LeGGH2
+LeGGH2: !forms heterodimer with! LeGGH1
+LeGGH3: !forms heterodimer with! LeGGH1
+LeGGH3: !forms heterodimer with! LeGGH2
+LeGGH1: !enhances activity of! LeGGH2
+LeGGH2: !enhances activity of! LeGGH1
+LeGGH3: !inhibits activity of! LeGGH1
+LeGGH3: !inhibits activity of! LeGGH2

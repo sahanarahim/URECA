@@ -1,0 +1,12 @@
+Defects in phenylpropanoid biosynthesis arising from deficiency in hydroxycinnamoyl CoA:shikimate hydroxycinnamoyl transferase (HCT) or p-coumaroyl shikimate 3'-hydroxylase (C3'H) lead to reduced lignin, hyperaccumulation of flavonoids, and growth inhibition in Arabidopsis thaliana. It was previously reported that flavonoid-mediated inhibition of auxin transport is responsible for growth reduction in HCT-RNA interference (RNAi) plants. This conclusion was based on the observation that simultaneous RNAi silencing of HCT and chalcone synthase (CHS), an enzyme essential for flavonoid biosynthesis, resulted in less severe dwarfing than silencing of HCT alone. In an attempt to extend these results using a C3'H mutant (ref8) and a CHS null mutant (tt4-2), we found that the growth phenotype of the ref8 tt4-2 double mutant, which lacks flavonoids, is indistinguishable from that of ref8. Moreover, using RNAi, we found that the relationship between HCT silencing and growth inhibition is identical in both the wild type and tt4-2. We conclude from these results that the growth inhibition observed in HCT-RNAi plants and the ref8 mutant is independent of flavonoids. Finally, we show that expression of a newly characterized gene bypassing HCT and C3'H partially restores both lignin biosynthesis and growth in HCT-RNAi plants, demonstrating that a biochemical pathway downstream of coniferaldehyde, probably lignification, is essential for normal plant growth.
+
+HCT: !affects! Growth 
+CHS: !interacts with! HCT 
+ref8: !represses! Growth 
+tt4-2: !interacts with! ref8 
+Flavonoids: !inhibits! Auxin Transport 
+HCT: !inhibits! Growth 
+ref8: !inhibits! Growth 
+tt4-2: !inhibits! Growth 
+Bypassing Gene: !restores! Lignin Biosynthesis 
+Bypassing Gene: !restores! Growth

@@ -1,0 +1,10 @@
+The P6 protein of Cauliflower mosaic virus (CaMV) is responsible for the formation of inclusion bodies (IBs), which are the sites for viral gene expression, replication, and virion assembly. Moreover, recent evidence indicates that ectopically expressed P6 inclusion-like bodies (I-LBs) move in association with actin microfilaments. Because CaMV virions accumulate preferentially in P6 IBs, we hypothesized that P6 IBs have a role in delivering CaMV virions to the plasmodesmata. We have determined that the P6 protein interacts with a C2 calcium-dependent membrane-targeting protein (designated Arabidopsis [Arabidopsis thaliana] Soybean Response to Cold [AtSRC2.2]) in a yeast (Saccharomyces cerevisiae) two-hybrid screen and have confirmed this interaction through coimmunoprecipitation and colocalization assays in the CaMV host Nicotiana benthamiana. An AtSRC2.2 protein fused to red fluorescent protein (RFP) was localized to the plasma membrane and specifically associated with plasmodesmata. The AtSRC2.2-RFP fusion also colocalized with two proteins previously shown to associate with plasmodesmata: the host protein Plasmodesmata-Localized Protein1 (PDLP1) and the CaMV movement protein (MP). Because P6 I-LBs colocalized with AtSRC2.2 and the P6 protein had previously been shown to interact with CaMV MP, we investigated whether P6 I-LBs might also be associated with plasmodesmata. We examined the colocalization of P6-RFP I-LBs with PDLP1-green fluorescent protein (GFP) and aniline blue (a stain for callose normally observed at plasmodesmata) and found that P6-RFP I-LBs were associated with each of these markers. Furthermore, P6-RFP coimmunoprecipitated with PDLP1-GFP. Our evidence that a portion of P6-GFP I-LBs associate with AtSRC2.2 and PDLP1 at plasmodesmata supports a model in which P6 IBs function to transfer CaMV virions directly to MP at the plasmodesmata.
+
+P6: !interacts with! AtSRC2.2
+P6: !colocalizes with! PDLP1
+P6: !colocalizes with! MP
+AtSRC2.2: !localizes to! plasma membrane
+AtSRC2.2: !associates with! plasmodesmata
+PDLP1: !associates with! plasmodesmata
+PDLP1: !coimmunoprecipitates with! P6
+MP: !colocalizes with! P6

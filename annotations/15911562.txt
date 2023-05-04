@@ -1,0 +1,10 @@
+The systematic accumulation of gene expression data, although revolutionary, is insufficient in itself for an understanding of system-level physiology. In the post-genomic era, the next cognitive step is linking genes to biological processes and assembling a mosaic of data into global models of biosystem function. A dynamic network of informational flows in Arabidopsis plants perturbed by sulphur depletion is presented here. With the use of an original protocol, the first biosystem response network was reconstructed from a time series of transcript and metabolite profiles, which, on the one hand, integrates complex metabolic and transcript data and, on the other hand, possesses a causal relationship. Using the informational fluxes within this reconstruction, it was possible to link system perturbation to response endpoints. Robustness and stress tolerance, as consequences of scale-free network topology, and hubs, as potential controllers of homeostasis maintenance, were revealed. Communication paths of propagating system excitement directed to physiological endpoints, such as anthocyanin accumulation and enforced root formation were dissected from the network. An auxin regulatory circuit involved in the control of a hypo-sulphur stress response was uncovered.
+
+Gene: !affects! Process 
+Process: !perturbs! Arabidopsis plants 
+Network: !integrates! Metabolic and transcript data 
+Network: !reveals! Robustness and stress tolerance 
+Hubs: !control! Homeostasis maintenance 
+Communication paths: !propagate! System excitement 
+System excitement: !directs to! Physiological endpoints 
+Auxin regulatory circuit: !involved in! Control of hypo-sulphur stress response

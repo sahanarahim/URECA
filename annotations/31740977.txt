@@ -1,0 +1,9 @@
+As millions of seeds are produced from a breeding line, the long-term stability of transgene expression is vital for commercial-scale production of seeds with transgenic traits. Transgenes can be silenced by epigenetic mechanisms, but reactivation of expression can occur as a result of treatment with chromatin modification inhibitors such as 5-azacytidine, from stress such as heat or UV-B, or in mutants that have acquired a defect in gene silencing. Previously, we targeted a gfp reporter gene into the tobacco (Nicotiana tabacum) genome by site-specific recombination but still found some silenced lines among independent integration events. One such line also had a second random copy and both copies showed DNA hypermethylation. To test whether removing the second copy would reactivate gfp expression, two T1 plants were backcrossed to the wild type. Whereas the silenced status was maintained in the progenies from one backcross, spontaneous partial reactivation of gfp expression was found among progenies from a second backcross. However, this reactivation did not correlate with loss of the second random copy or with a significant change in the pattern or amount of DNA hypermethylation. This finding supports the suggestion that gene reactivation does not necessarily involve loss of DNA homology or methylation.
+
+gene: !silenced by! epigenetic mechanisms
+gene: !reactivated by! chromatin modification inhibitors
+gene: !reactivated by! stress
+gene: !reactivated by! mutants
+gene: !hypermethylated! DNA
+gene: !reactivated by! loss of homology
+gene: !reactivated by! change in methylation

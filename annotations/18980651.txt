@@ -1,0 +1,10 @@
+The induction of double-strand breaks (DSBs) in plant genomes can lead to increased homologous recombination or site-specific mutagenesis at the repair site. This phenomenon has the potential for use in gene targeting applications in plant cells upon the induction of site-specific genomic DSBs using zinc finger nucleases (ZFNs). Zinc finger nucleases are artificial restriction enzymes, custom-designed to cleave a specific DNA sequence. The tools and methods for ZFN assembly and validation could potentially boost their application for plant gene targeting. Here we report on the design of biochemical and in planta methods for the analysis of newly designed ZFNs. Cloning begins with de novo assembly of the DNA-binding regions of new ZFNs from overlapping oligonucleotides containing modified helices responsible for DNA-triplet recognition, and the fusion of the DNA-binding domain with a FokI endonuclease domain in a dedicated plant expression cassette. Following the transfer of fully assembled ZFNs into Escherichia coli expression vectors, bacterial lysates were found to be most suitable for in vitro digestion analysis of palindromic target sequences. A set of three in planta activity assays was also developed to confirm the nucleic acid digestion activity of ZFNs in plant cells. The assays are based on the reconstruction of GUS expression following transient or stable delivery of a mutated uidA and ZFN-expressing cassettes into target plants cells. Our tools and assays offer cloning flexibility and simple assembly of tested ZFNs and their corresponding target sites into Agrobacterium tumefaciens binary plasmids, allowing efficient implementation of ZFN-validation assays in planta.
+
+ZFN: !induces! DSBs 
+ZFN: !cleaves! DNA sequence 
+ZFN: !assembles from! overlapping oligonucleotides 
+ZFN: !fused with! FokI endonuclease domain 
+ZFN: !analyzed in! bacterial lysates 
+ZFN: !validated by! GUS expression assays 
+ZFN: !delivered to! target plant cells 
+ZFN: !assembled into! Agrobacterium tumefaciens binary plasmids

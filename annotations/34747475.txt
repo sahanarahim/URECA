@@ -1,0 +1,8 @@
+Infection cycles of viruses are highly dependent on membrane-associated host factors. To uncover the infection cycle of Bamboo mosaic virus (BaMV) in detail, we purified the membrane-associated viral complexes from infected Nicotiana benthamiana plants and analyzed the involved host factors. Four isoforms of voltage-dependent anion channel (VDAC) proteins on the outer membrane of mitochondria were identified due to their upregulated expression in the BaMV complex-enriched membranous fraction. Results from loss- and gain-of-function experiments indicated that NbVDAC2, -3, and -4 are essential for efficient BaMV accumulation. During BaMV infection, all NbVDACs concentrated into larger aggregates, which overlapped and trafficked with BaMV virions to the structure designated as the "dynamic BaMV-induced complex." Besides the endoplasmic reticulum and mitochondria, BaMV replicase and double-stranded RNAs were also found in this complex, suggesting the dynamic BaMV-induced complex is a replication complex. Yeast two-hybrid and pull-down assays confirmed that BaMV triple gene block protein 1 (TGBp1) could interact with NbVDACs. Confocal microscopy revealed that TGBp1 is sufficient to induce NbVDAC aggregates, which suggests that TGBp1 may play a pivotal role in the NbVDAC-virion complex. Collectively, these findings indicate that NbVDACs may associate with the dynamic BaMV-induced complex via TGBp1 and NbVDAC2, -3, or -4 and can promote BaMV accumulation. This study reveals the involvement of mitochondrial proteins in a viral complex and virus infection.
+
+NbVDAC2: !interacts with! TGBp1
+NbVDAC3: !interacts with! TGBp1
+NbVDAC4: !interacts with! TGBp1
+TGBp1: !induces! NbVDAC aggregates
+NbVDACs: !promote! BaMV accumulation
+BaMV: !traffics with! NbVDACs

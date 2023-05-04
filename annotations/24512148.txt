@@ -1,0 +1,8 @@
+The rubber tree, Hevea brasiliensis, is an important plant species that is commercially grown to produce latex rubber in many countries. The rubber tree variety BPM 24 exhibits cytoplasmic male sterility, inherited from the variety GT 1. We constructed the rubber tree mitochondrial genome of a cytoplasmic male sterile variety, BPM 24, using 454 sequencing, including 8 kb paired-end libraries, plus Illumina paired-end sequencing. We annotated this mitochondrial genome with the aid of Illumina RNA-seq data and performed comparative analysis. We then compared the sequence of BPM 24 to the contigs of the published rubber tree, variety RRIM 600, and identified a rearrangement that is unique to BPM 24 resulting in a novel transcript containing a portion of atp9. The novel transcript is consistent with changes that cause cytoplasmic male sterility through a slight reduction to ATP production efficiency. The exhaustive nature of the search rules out alternative causes and supports previous findings of novel transcripts causing cytoplasmic male sterility.
+
+atp9: !causes! cytoplasmic male sterility 
+BPM 24: !contains! rearrangement 
+BPM 24: !has! novel transcript 
+Illumina RNA-seq data: !aids! annotation 
+454 sequencing: !constructs! rubber tree mitochondrial genome 
+reduction to ATP production efficiency: !results from! novel transcript

@@ -1,0 +1,13 @@
+Most thermal methods for the study of drought responses in plant leaves are based on the calculation of 'stress indices'. This paper proposes and compares three main extensions of these for the direct estimation of absolute values of stomatal conductance to water vapour (gs) using infrared thermography (IRT). All methods use the measured leaf temperature and two environmental variables (air temperature and boundary layer resistance) as input. Additional variables required, depending on the method, are the temperatures of wet and dry reference surfaces, net radiation and relative humidity. The methods were compared using measured gs data from a vineyard in Southern Portugal. The errors in thermal estimates of conductance were of the same order as the measurement errors using a porometer. Observed variability was also compared with theoretical estimates of errors in estimated gs determined on the basis of the errors in the input variables (leaf temperature, boundary layer resistance, net radiation) and the partial derivatives of the energy balance equations used for the gs calculations. The full energy balance approach requires accurate estimates of net radiation absorbed, which may not be readily available in field conditions, so alternatives using reference surfaces are shown to have advantages. A new approach using a dry reference leaf is particularly robust and recommended for those studies where the specific advantages of thermal imagery, including its non-contact nature and its ability to sample large numbers of leaves, are most apparent. Although the results suggest that estimates of the absolute magnitude of gs are somewhat subjective, depending on the skill of the experimenter at selecting evenly exposed leaves, relative treatment differences in conductance are sensitively detected by different experimenters.
+
+leaf temperature: !estimates! gs 
+air temperature: !estimates! gs 
+boundary layer resistance: !estimates! gs 
+wet reference surface: !estimates! gs 
+dry reference surface: !estimates! gs 
+net radiation: !estimates! gs 
+relative humidity: !estimates! gs 
+thermal imagery: !measures! gs 
+porometer: !measures! gs 
+errors in input variables: !affects! errors in estimated gs 
+energy balance equations: !used for! gs calculations

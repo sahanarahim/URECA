@@ -1,0 +1,8 @@
+Based on an allometric reconstruction, the structure and biomass-allocation patterns of branches and current-year shoots were investigated in branches of various heights in the pioneer tree Rhus trichocarpa, to evaluate how crown development is achieved and limited in association with height. Path analysis was conducted to explore the effects of light availability, basal height and size of individual branches on branch structure and growth. Branch angle was affected by basal height, whereas branch mass was influenced primarily by light availability. This result suggests that branch structure is strongly constrained by basal height, and that trees mediate such constraints under different light environments. Previous-year leaf area and light availability showed positive effects on current-year stem mass. In contrast, branch basal height and mass negatively affected current-year stem mass. Moreover, the length of stems of a given diameter decreased with increasing branch height. Therefore the cost of biomass investment for a unit growth in length is greater for branches of larger size and at upper positions. Vertical growth rate in length decreased with increasing height. Height-dependent changes in stem allometry and angle influenced the reduction in vertical growth rate to a similar degree.
+
+light availability: !affects! branch mass
+basal height: !affects! branch angle
+previous-year leaf area: !enhances! current-year stem mass
+branch basal height: !represses! current-year stem mass
+branch height: !decreases! length of stems of a given diameter
+height: !decreases! vertical growth rate in length

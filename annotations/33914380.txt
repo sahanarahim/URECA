@@ -1,0 +1,11 @@
+Beyond facilitating transport and providing mechanical support to the leaf, veins have important roles in the performance and productivity of plants and the ecosystem. In recent decades, computational image analysis has accelerated the extraction and quantification of vein traits, benefiting fields of research from agriculture to climatology. However, most of the existing leaf vein image analysis programs have been developed for the reticulate venation found in dicots. Despite the agroeconomic importance of cereal grass crops, like Oryza sativa (rice) and Zea mays (maize), a dedicated image analysis program for the parallel venation found in monocots has yet to be developed. To address the need for an image-based vein phenotyping tool for model and agronomic grass species, we developed the grass vein image quantification (grasviq) framework. Designed specifically for parallel venation, this framework automatically segments and quantifies vein patterns from images of cleared leaf pieces using classical computer vision techniques. Using image data sets from maize inbred lines and auxin biosynthesis and transport mutants in maize, we demonstrate the utility of grasviq for quantifying important vein traits, including vein density, vein width and interveinal distance. Furthermore, we show that the framework can resolve quantitative differences and identify vein patterning defects, which is advantageous for genetic experiments and mutant screens. We report that grasviq can perform high-throughput vein quantification, with precision on a par with that of manual quantification. Therefore, we envision that grasviq will be adopted for vein phenomics in maize and other grass species.
+
+Veins: !facilitate transport and provide mechanical support! leaf 
+Computational image analysis: !accelerates extraction and quantification! vein traits 
+Existing programs: !developed for! dicots 
+Grasviq framework: !developed for! monocots 
+Grasviq: !automatically segments and quantifies! vein patterns 
+Image data sets: !used to demonstrate utility of! grasviq 
+Grasviq: !quantifies! vein density, vein width, interveinal distance 
+Grasviq: !resolves quantitative differences and identifies! vein patterning defects 
+Grasviq: !performs high-throughput vein quantification! precision

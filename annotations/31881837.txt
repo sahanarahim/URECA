@@ -1,0 +1,8 @@
+Short internodes contribute to plant dwarfism, which is exceedingly beneficial for crop production. However, the underlying mechanisms of internode elongation are complicated and have been not fully understood. Here, we report a maize dwarf mutant, dwarf2014 (d2014), which displays shortened lower internodes. Map-based cloning revealed that the d2014 gene is a novel br2 allele with a splicing variation, resulting in a higher expression of BR2-T02 instead of normal BR2-T01. Then, we found that the internode elongation in d2014/br2 exhibited a pattern of inhibition-normality-inhibition (transient for the ear-internode), correspondingly, at the 6-leaf, 12-leaf and 14-leaf stages. Indeed, BR2 encodes a P-glycoprotein1 (PGP1) protein that functions in auxin efflux, and our in situ hybridization assay showed that BR2 was mainly expressed in vascular bundles of the node and internode. Furthermore, significantly higher auxin concentration was detected in the stem apex of d2014 at the 6-leaf stage and strictly in the node region for the ear-internode at the 14-leaf stage. In such context, we propose that BR2/PGP1 transports auxin from node to internode through the vascular bundles, and excessive auxin accumulation in the node (immediately next to the intercalary meristem) region suppresses internode elongation of d2014. These findings suggest that low auxin levels mediated by BR2/PGP1 in the intercalary meristem region are crucial for internode elongation.
+
+d2014: !affects! internode elongation
+BR2: !encodes! P-glycoprotein1 (PGP1)
+BR2: !expresses in! vascular bundles
+BR2/PGP1: !transports! auxin
+auxin: !accumulates in! node region
+auxin: !suppresses! internode elongation

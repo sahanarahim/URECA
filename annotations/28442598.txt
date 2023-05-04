@@ -1,0 +1,10 @@
+During early seedling development, the shoot apical meristem is protected from damage as the seedling emerges from soil by the formation of apical hook. Hook formation requires differential growth across the epidermis below the meristem in the hypocotyl. The plant hormones ethylene and auxin play key roles during apical hook development by controlling differential growth. We provide genetic and cell biological evidence for the role of ADP-ribosylation factor 1 (ARF1)-GTPase and its effector ARF-guanine-exchange factors (GEFs) of the Brefeldin A-inhibited GEF (BIG) family and GNOM in ethylene- and auxin-mediated control of hook development. We show that ARF-GEF GNOM acts early, whereas BIG ARF-GEFs act at a later stage of apical hook development. We show that the localization of ARF1 and BIG4 at the <i>trans</i>-Golgi network (TGN) depends on ECHIDNA (ECH), a plant homolog of yeast Triacylglycerol lipase (TLG2/SYP4) interacting protein Tgl2-Vesicle Protein 23 (TVP23). BIGs together with ECH and ARF1 mediate the secretion of AUX1 influx carrier to the plasma membrane from the TGN during hook development and defects in BIG or ARF1 result in insensitivity to ethylene. Thus, our data indicate a division of labor within the ARF-GEF family in mediating differential growth with GNOM acting during the formation phase whereas BIGs act during the hook maintenance phase downstream of plant hormone ethylene.
+
+ARF1: !localizes to! TGN 
+ECHIDNA: !interacts with! ARF1 
+BIG4: !interacts with! ECHIDNA 
+ARF1: !enhances! AUX1 secretion 
+BIG4: !enhances! AUX1 secretion 
+GNOM: !enhances! Hook formation 
+BIG4: !enhances! Hook maintenance 
+Ethylene: !affects! BIG4

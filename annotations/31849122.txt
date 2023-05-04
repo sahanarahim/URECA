@@ -1,0 +1,13 @@
+The type three effector AvrRpm1<sub>Pma</sub> from Pseudomonas syringae pv. maculicola (Pma) triggers an RPM1-mediated immune response linked to phosphorylation of RIN4 (RPM1-interacting protein 4) in Arabidopsis. However, the effector-resistance (R) gene interaction is not well established with different AvrRpm1 effectors from other pathovars. We investigated the AvrRpm1-triggered immune responses in Nicotiana species and isolated Rpa1 (Resistance to Pseudomonas syringae pv. actinidiae 1) via a reverse genetic screen in Nicotiana tabacum. Transient expression and gene silencing were performed in combination with co-immunoprecipitation and growth assays to investigate the specificity of interactions that lead to inhibition of pathogen growth. Two closely related AvrRpm1 effectors derived from Pseudomonas syringae pv. actinidiae biovar 3 (AvrRpm1<sub>Psa</sub> ) and Pseudomonas syringae pv. syringae strain B728a (AvrRpm1<sub>Psy</sub> ) trigger immune responses mediated by RPA1, a nucleotide-binding leucine-rich repeat protein with an N-terminal coiled-coil domain. In a display of contrasting specificities, RPA1 does not respond to AvrRpm1<sub>Pma</sub> , and correspondingly AvrRpm1<sub>Psa</sub> and AvrRpm1<sub>Psy</sub> do not trigger the RPM1-mediated response, demonstrating that separate R genes mediate specific immune responses to different AvrRpm1 effectors. AvrRpm1<sub>Psa</sub> co-immunoprecipitates with RPA1, and both proteins co-immunoprecipitate with RIN4. In contrast with RPM1, however, RPA1 was not activated by the phosphomimic RIN4<sup>T166D</sup> and silencing of RIN4 did not affect the RPA1 activity. Delivery of AvrRpm1<sub>Psa</sub> by Pseudomonas syringae pv. tomato (Pto) in combination with transient expression of Rpa1 resulted in inhibition of the pathogen growth in N. benthamiana. Psa growth was also inhibited by RPA1 in N. tabacum.
+
+AvrRpm1<sub>Pma</sub>: !triggers! RPM1-mediated immune response
+RIN4: !phosphorylated by! AvrRpm1<sub>Pma</sub>
+Rpa1: !isolated via! reverse genetic screen
+AvrRpm1<sub>Psa</sub>: !triggers! RPA1-mediated immune response
+AvrRpm1<sub>Psy</sub>: !triggers! RPA1-mediated immune response
+RPA1: !specific to! AvrRpm1<sub>Psa</sub> and AvrRpm1<sub>Psy</sub>
+AvrRpm1<sub>Psa</sub>: !co-immunoprecipitates with! RPA1
+RPA1: !co-immunoprecipitates with! RIN4
+RIN4<sup>T166D</sup>: !does not activate! RPA1
+RIN4: !silencing of! does not affect RPA1 activity
+AvrRpm1<sub>Psa</sub>: !delivered by! Pseudomonas

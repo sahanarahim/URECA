@@ -1,0 +1,9 @@
+['18055603', 'In Arabidopsis thaliana, the female gametophyte is a highly polarized structure  consisting of four cell types: one egg cell and two synergids, one central cell,  and three antipodal cells. In this report, we describe the characterization of a  novel female gametophyte mutant, eostre, which affects establishment of cell  fates in the mature embryo sac. The eostre phenotype is caused by misexpression  of the homeodomain gene BEL1-like homeodomain 1 (BLH1) in the embryo sac. It is  known that BELL-KNAT proteins function as heterodimers whose activities are  regulated by the Arabidopsis ovate family proteins (OFPs). We show that the  phenotypic effect of BLH1 overexpression is dependent upon the class II knox gene  KNAT3, suggesting that KNAT3 must be expressed and functional during  megagametogenesis. Moreover, disruption of At OFP5, a known interactor of KNAT3  and BLH1, partially phenocopies the eostre mutation. Our study indicates that  suppression of ectopic activity of BELL-KNOX TALE complexes, which might be  mediated by At OFP5, is essential for normal development and cell specification  in the Arabidopsis embryo sac. As eostre-1 embryo sacs also show nuclear  migration abnormalities, this study suggests that a positional mechanism might be  directing establishment of cell fates in early megagametophyte development.', '2007 Nov', 'Plant Cell', '10.1105/tpc.107.054890', 'Sundaresan']
+
+BLH1: !misexpresses! in embryo sac 
+KNAT3: !interacts with! BLH1 
+OFP5: !interacts with! KNAT3 
+BLH1: !regulated by! OFPs 
+KNAT3: !regulated by! OFPs 
+OFP5: !suppresses! ectopic activity of BELL-KNOX TALE complexes 
+BLH1: !affects! establishment of cell fates

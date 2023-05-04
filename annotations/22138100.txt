@@ -1,0 +1,11 @@
+Thylakoid membranes contain two types of quinones, benzoquinone (plastoquinone) and naphthoquinone, which are involved in photosynthetic electron transfer. Unlike the benzoquinone, the chemical species of naphthoquinone present (phylloquinone, menaquinone-4 and 5'-monohydroxyphylloquinone) varies depending on the oxygenic photosynthetic organisms. The green alga Chlamydomonas reinhardtii has been used as a model organism to study the function of the naphthoquinone bound to PSI. However, the level of phylloquinone and the presence of other naphthoquinones in this organism remain unknown. In the present study, we found that 5'-monohydroxyphylloquinone is the predominant naphthoquinone in cell and thylakoid extracts based on the retention time during reverse phase HPLC, absorption and mass spectrometry measurements. It was shown that 5'-monohydroxyphylloquinone is enriched 2.5-fold in the PSI complex as compared with thylakoid membranes but that it is absent from PSI-deficient mutant cells. We also found a small amount of phylloquinone in the cells and in the PSI complex and estimated that accumulated 5'-monohydroxyphylloquinone and phylloquinone account for approximately 90 and 10%, respectively, of the total naphthoquinone content. The ratio of these two naphthoquinones remained nearly constant in the cells and in the PSI complexes from logarithmic and stationary cell growth stages. We conclude that both 5'-monohydroxyphylloquinone and phylloquinone stably co-exist as major and minor naphthoquinones in Chlamydomonas PSI.
+
+phylloquinone: !enriched in! PSI complex
+5'-monohydroxyphylloquinone: !enriched in! PSI complex
+phylloquinone: !present in! cells
+5'-monohydroxyphylloquinone: !present in! cells
+phylloquinone: !absent from! PSI-deficient mutant cells
+5'-monohydroxyphylloquinone: !absent from! PSI-deficient mutant cells
+phylloquinone: !accounts for! 10% of total naphthoquinone content
+5'-monohydroxyphylloquinone: !accounts for! 90% of total naphthoquinone content
+phylloquinone: !stable co-existence with! 5'-monohydroxyphylloquinone

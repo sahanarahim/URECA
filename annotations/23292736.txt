@@ -1,0 +1,9 @@
+Cell division in photosynthetic organisms is tightly regulated by light. Although the light dependency of the onset of the cell cycle has been well characterized in various phototrophs, little is known about the cellular signaling cascades connecting light perception to cell cycle activation and progression. Here, we demonstrate that diatom-specific cyclin 2 (dsCYC2) in Phaeodactylum tricornutum displays a transcriptional peak within 15 min after light exposure, long before the onset of cell division. The product of dsCYC2 binds to the cyclin-dependent kinase CDKA1 and can complement G1 cyclin-deficient yeast. Consistent with the role of dsCYC2 in controlling a G1-to-S light-dependent cell cycle checkpoint, dsCYC2 silencing decreases the rate of cell division in diatoms exposed to light-dark cycles but not to constant light. Transcriptional induction of dsCYC2 is triggered by blue light in a fluence rate-dependent manner. Consistent with this, dsCYC2 is a transcriptional target of the blue light sensor AUREOCHROME1a, which functions synergistically with the basic leucine zipper (bZIP) transcription factor bZIP10 to induce dsCYC2 transcription. The functional characterization of a cyclin whose transcription is controlled by light and whose activity connects light signaling to cell cycle progression contributes significantly to our understanding of the molecular mechanisms underlying light-dependent cell cycle onset in diatoms.
+
+dsCYC2: !transcriptionally induced by! blue light 
+AUREOCHROME1a: !synergistically induces! dsCYC2 transcription 
+bZIP10: !synergistically induces! dsCYC2 transcription 
+dsCYC2: !binds to! CDKA1 
+dsCYC2: !complements! G1 cyclin-deficient yeast 
+dsCYC2: !controls! G1-to-S light-dependent cell cycle checkpoint 
+dsCYC2 silencing: !decreases! rate of cell division

@@ -1,0 +1,13 @@
+Aluminium (Al) is phytotoxic when solubilized into Al(3+) in acidic soils. One of the earliest and distinct symptoms of Al(3+) toxicity is inhibition of root elongation. To decipher the mechanism by which Al(3+) inhibits root elongation, the role of ethylene and auxin in Al(3+)-induced inhibition of root elongation in Arabidopsis thaliana was investigated using the wild type and mutants defective in ethylene signalling (etr1-3 and ein2-1) and auxin polar transport (aux1-7 and pin2). Exposure of wild-type Arabidopsis to AlCl(3) led to a marked inhibition of root elongation, and elicited a rapid ethylene evolution and enhanced activity of the ethylene reporter EBS:GUS in root apices. Root elongation in etr1-3 and ein2-1 mutants was less inhibited by Al(3+) than that in wild-type plants. Ethylene synthesis inhibitors, Co(2+) and aminoethoxyvinylglycine (AVG), and an antagonist of ethylene perception (Ag(+)) abolished the Al(3+)-induced inhibition of root elongation. There was less inhibition of root elongation by Al(3+) in aux1-7 and pin2 mutants than in the wild type. The auxin polar transport inhibitor, naphthylphthalamic acid (NPA), substantially alleviated the Al(3+)-induced inhibition of root elongation. The Al(3+) and ethylene synthesis precursor aminocyclopropane carboxylic acid (ACC) increased auxin reporter DR5:GUS activity in roots. The Al(3+)-induced increase in DR5:GUS activity was reduced by AVG, while the Al(3+)-induced increase in EBS:GUS activity was not altered by NPA. Al(3+) and ACC increased transcripts of AUX1 and PIN2, and this effect was no longer observed in the presence of AVG and Co(2+). These findings indicate that Al(3+)-induced ethylene production is likely to act as a signal to alter auxin distribution in roots by disrupting AUX1- and PIN2-mediated auxin polar transport, leading to arrest of root elongation.
+
+Al: !inhibits! root elongation
+Al: !induces! ethylene production
+ethylene: !induces! EBS:GUS activity
+ethylene: !inhibits! root elongation
+etr1-3/ein2-1: !less inhibited by! Al
+Co(2+)/AVG: !abolishes! Al-induced inhibition of root elongation
+aux1-7/pin2: !less inhibited by! Al
+NPA: !alleviates! Al-induced inhibition of root elongation
+ACC: !increases! DR5:GUS activity
+ACC: !increases! AUX1/PIN2 transcripts
+AVG/Co(2+): !reduces! ACC-induced increase in AUX1/PIN2 transcripts

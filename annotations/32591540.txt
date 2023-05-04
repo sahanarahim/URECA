@@ -1,0 +1,8 @@
+The challenge of monitoring in planta dynamic changes of NADP(H) and NAD(H) redox states at the subcellular level is considered a major obstacle in plant bioenergetics studies. Here, we introduced two circularly permuted yellow fluorescent protein sensors, iNAP and SoNar, into Arabidopsis thaliana to monitor the dynamic changes in NADPH and the NADH/NAD<sup>+</sup> ratio. In the light, photosynthesis and photorespiration are linked to the redox states of NAD(P)H and NAD(P) pools in several subcellular compartments connected by the malate-OAA shuttles. We show that the photosynthetic increases in stromal NADPH and NADH/NAD<sup>+</sup> ratio, but not ATP, disappear when glycine decarboxylation is inhibited. These observations highlight the complex interplay between chloroplasts and mitochondria during photosynthesis and support the suggestions that, under normal conditions, photorespiration supplies a large amount of NADH to mitochondria, exceeding its NADH-dissipating capacity, and the surplus NADH is exported from the mitochondria to the cytosol through the malate-OAA shuttle.
+
+iNAP: !monitors! NADPH 
+SoNar: !monitors! NADH/NAD<sup>+</sup> ratio
+photosynthesis: !increases! stromal NADPH and NADH/NAD<sup>+</sup> ratio
+glycine decarboxylation: !inhibits! photosynthetic increases in stromal NADPH and NADH/NAD<sup>+</sup> ratio
+photorespiration: !supplies! NADH to mitochondria
+malate-OAA shuttle: !exports! NADH from mitochondria to cytosol

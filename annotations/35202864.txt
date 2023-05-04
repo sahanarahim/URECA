@@ -1,0 +1,13 @@
+Although genome-wide association studies are widely used to mine genes for quantitative traits, the effects to be estimated are confounded, and the methodologies for detecting interactions are imperfect. To address these issues, the mixed model proposed here first estimates the genotypic effects for AA, Aa, and aa, and the genotypic polygenic background replaces additive and dominance polygenic backgrounds. Then, the estimated genotypic effects are partitioned into additive and dominance effects using a one-way analysis of variance model. This strategy was further expanded to cover QTN-by-environment interactions (QEIs) and QTN-by-QTN interactions (QQIs) using the same mixed-model framework. Thus, a three-variance-component mixed model was integrated with our multi-locus random-SNP-effect mixed linear model (mrMLM) method to establish a new methodological framework, 3VmrMLM, that detects all types of loci and estimates their effects. In Monte Carlo studies, 3VmrMLM correctly detected all types of loci and almost unbiasedly estimated their effects, with high powers and accuracies and a low false positive rate. In re-analyses of 10 traits in 1439 rice hybrids, detection of 269 known genes, 45 known gene-by-environment interactions, and 20 known gene-by-gene interactions strongly validated 3VmrMLM. Further analyses of known genes showed more small (67.49%), minor-allele-frequency (35.52%), and pleiotropic (30.54%) genes, with higher repeatability across datasets (54.36%) and more dominance loci. In addition, a heteroscedasticity mixed model in multiple environments and dimension reduction methods in quite a number of environments were developed to detect QEIs, and variable selection under a polygenic background was proposed for QQI detection. This study provides a new approach for revealing the genetic architecture of quantitative traits.
+
+genotype: !estimated by! mixed model 
+mixed model: !partitions into! additive and dominance effects 
+3VmrMLM: !detects! all types of loci 
+3VmrMLM: !estimates! effects 
+known genes: !detected by! 3VmrMLM 
+known gene-by-environment interactions: !detected by! 3VmrMLM 
+known gene-by-gene interactions: !detected by! 3VmrMLM 
+known genes: !show more! small, minor-allele-frequency, pleiotropic genes 
+known genes: !have higher! repeatability across datasets 
+QEIs: !detected by! heteroscedasticity mixed model 
+QQIs: !detected by! variable selection

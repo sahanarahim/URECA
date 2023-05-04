@@ -1,0 +1,8 @@
+Metabolic engineering of plant peroxisomes for biotechnological purposes typically requires efficient peroxisomal targeting of heterologous proteins. Type I peroxisomal targeting signals (PTS1) consist of three uncleaved amino acids (SKL or a conserved variant) at the carboxyl terminus and direct nuclear-encoded proteins into the peroxisomes of eukaryotic cells. PTS1 fusion with a heterologous protein results in peroxisomal targeting of that protein, but the minimal length of PTS1 required for efficient targeting in plants is vague. Here, we determine short effective PTS1 sequences derived from plant peroxisomal proteins to target four heterologous proteins, namely the green fluorescent protein (GFP) and the three enzymes required for polyhydroxybutyrate (PHB) production, PhaA, PhaB and PhaC, each fused to the C-terminus of GFP. Transient expression analysis in leaf cells of Saccharum sp. (sugarcane interspecific hybrids) indicated that a three amino acid (ARL) PTS1 effectively targeted only GFP and PhaB to peroxisomes. The same signal was not sufficient to target PhaA and only inefficiently targeted PhaC. An alternative, prototypic three amino acid (SKL) PTS1 was also insufficient to target PhaA and inefficient in targeting PhaC, whilst a six amino acid (RAVARL) PTS1 efficiently targeted both of these enzymes. This study highlights the need for more than a three amino acid PTS1 to target some heterologous proteins to plant peroxisomes.
+
+PTS1: !targets! GFP 
+PTS1: !targets! PhaB 
+PTS1: !insufficient to target! PhaA 
+PTS1: !inefficiently targets! PhaC 
+ARL PTS1: !efficiently targets! PhaC 
+RAVARL PTS1: !efficiently targets! PhaA

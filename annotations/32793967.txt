@@ -1,0 +1,11 @@
+Systemic acquired resistance (SAR) is an inducible defense mechanism that systemically enhances resistance against pathogens in foliar tissues. SAR, which engages salicylic acid (SA) signaling, shares molecular components with the autonomous pathway, which is involved in controlling flowering time in Arabidopsis thaliana. FLOWERING LOCUS D (FLD) is one such autonomous pathway component that is required for flowering time and the systemic accumulation of SA during SAR. Here, we show that CYP720A1, a putative cytochrome P450 monoxygenase, controls FLD expression and is required for the timing of flowering and the manifestation of SAR. The delayed flowering time in the cyp720a1 mutant correlated with the elevated transcript level of the floral repressor FLC, while the SAR deficiency phenotype of the cyp720a1 mutant correlated with the inability to systemically accumulate SA. CYP720A1 transcript abundance in shoots is poor compared with roots. Reciprocal root-shoot grafting confirmed that CYP720A1 function in the roots is critical for flowering time and SAR. We therefore suggest that root to shoot communication involving a CYP720A1-dependent factor contributes to the timing of reproductive development and defense in the foliage.
+
+FLD: !controls! FLD expression
+CYP720A1: !controls! FLD expression
+CYP720A1: !required for! flowering time
+CYP720A1: !required for! SAR manifestation
+FLC: !elevates transcript level of! floral repressor FLC
+SA: !systemically accumulates! during SAR
+CYP720A1: !abundance in shoots is poor compared with! roots
+grafting: !confirms that CYP720A1 function in! roots is critical
+CYP720A1-dependent factor: !contributes to timing of! reproductive development and defense

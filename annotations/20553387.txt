@@ -1,0 +1,6 @@
+*Climate change will very likely affect most forests in Amazonia during the course of the 21st century, but the direction and intensity of the change are uncertain, in part because of differences in rainfall projections. In order to constrain this uncertainty, we estimate the probability for biomass change in Amazonia on the basis of rainfall projections that are weighted by climate model performance for current conditions. *We estimate the risk of forest dieback by using weighted rainfall projections from 24 general circulation models (GCMs) to create probability density functions (PDFs) for future forest biomass changes simulated by a dynamic vegetation model (LPJmL). *Our probabilistic assessment of biomass change suggests a likely shift towards increasing biomass compared with nonweighted results. Biomass estimates range between a gain of 6.2 and a loss of 2.7 kg carbon m(-2) for the Amazon region, depending on the strength of CO(2) fertilization. *The uncertainty associated with the long-term effect of CO(2) is much larger than that associated with precipitation change. This underlines the importance of reducing uncertainties in the direct effects of CO(2) on tropical ecosystems.
+
+GCMs: !weight! Rainfall projections 
+LPJmL: !simulates! Biomass changes 
+CO2: !fertilizes! Amazon region 
+CO2: !affects! Tropical ecosystems

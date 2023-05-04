@@ -1,0 +1,8 @@
+Morphometrics, the assignment of quantities to biological shapes, is a powerful tool to address taxonomic, evolutionary, functional and developmental questions. We propose a novel method for shape quantification of complex modular architecture in thalloid plants, whose extremely reduced morphologies, combined with the lack of a formal framework for thallus description, have long rendered taxonomic and evolutionary studies extremely challenging. Using graph theory, thalli are described as hierarchical series of nodes and edges, allowing for accurate, homologous and repeatable measurements of widths, lengths and angles. The computer program MorphoSnake was developed to extract the skeleton and contours of a thallus and automatically acquire, at each level of organization, width, length, angle and sinuosity measurements. Through the quantification of leaf architecture in Hymenophyllum ferns (Polypodiopsida) and a fully worked example of integrative taxonomy in the taxonomically challenging thalloid liverwort genus Riccardia, we show that MorphoSnake is applicable to all ramified plants. This new possibility of acquiring large numbers of quantitative traits in plants with complex modular architectures opens new perspectives of applications, from the development of rapid species identification tools to evolutionary analyses of adaptive plasticity.
+
+MorphoSnake: !extracts! Skeleton/Contours 
+MorphoSnake: !quantifies! Width/Length/Angle/Sinuosity 
+Hymenophyllum ferns: !quantified by! MorphoSnake 
+Riccardia genus: !example of! Integrative Taxonomy 
+MorphoSnake: !applicable to! Ramified Plants 
+MorphoSnake: !opens new perspectives of! Rapid Species Identification/Evolutionary Analyses

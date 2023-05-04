@@ -1,0 +1,10 @@
+The divergence of sequence and expression pattern of duplicated genes provides a means for genetic innovation to occur without sacrificing an essential function. The cpx1 and cpx2 genes of maize are a singular example of duplicated genes that have diverged by deletion and creation of protein targeting information. The cpx genes encode coproporphyrinogen III oxidase ('coprogen oxidase'), which catalyzes a step in the synthesis of chlorophyll and heme. In plants, this enzyme has been found exclusively in the plastids. The cpx1 and cpx2 genes encode almost identical, catalytically active enzymes with distinctive N-terminal peptide sequences. The cpx1 gene encodes the expected plastid transit peptide, but this region is deleted from the cpx2 gene. While the 5' regions of both messenger RNAs are highly similar, the cpx2 gene has an open-reading frame that could encode a new targeting signal. GFP fused with CPX1 localized to the plastids. In contrast, the GFP fusion with CPX2 did not target plastids and appeared to localize to mitochondria. Both cpx genes are expressed ubiquitously but, based on mutant phenotype, they seem to have discrete biological roles. Seedlings homozygous for a null mutation in the cpx1 gene completely lack chlorophyll and develop necrotic lesions in the light. However, the mutant seedlings and callus cultures will grow in tissue culture in the dark, implying that they retain a capacity to produce heme. We discuss models for the evolution of the cpx genes and possible roles of mitochondrion-localized coprogen oxidase activity in maize.
+
+cpx1: !encodes! plastid transit peptide
+cpx2: !encodes! new targeting signal
+cpx1: !localizes to! plastids
+cpx2: !localizes to! mitochondria
+cpx1: !synthesizes! chlorophyll
+cpx2: !synthesizes! heme
+cpx1: !enhances! seedling growth
+cpx2: !represses! seedling growth

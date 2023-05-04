@@ -1,0 +1,11 @@
+Agrobacterium tumefaciens growing in liquid attaches to the surface of tomato and Arabidopsis thaliana roots, forming a biofilm. The bacteria also colonize roots grown in sterile quartz sand. Attachment, root colonization, and biofilm formation all were markedly reduced in celA and chvB mutants, deficient in production of cellulose and cyclic beta-(1,2)-D-glucans, respectively. We have identified two genes (celG and cell) in which mutations result in the overproduction of cellulose as judged by chemical fractionation and methylation analysis. Wild-type and chvB mutant strains carrying a cDNA clone of a cellulose synthase gene from the marine urochordate Ciona savignyi also overproduced cellulose. The overproduction in a wild-type strain resulted in increased biofilm formation on roots, as evaluated by light microscopy, and levels of root colonization intermediate between those of cellulose-minus mutants and the wild type. Overproduction of cellulose by a nonattaching chvB mutant restored biofilm formation and bacterial attachment in microscopic and viable cell count assays and partially restored root colonization. Although attachment to plant surfaces was restored, overproduction of cellulose did not restore virulence in the chvB mutant strain, suggesting that simple bacterial binding to plant surfaces is not sufficient for pathogenesis.
+
+celA: !reduces! Attachment
+chvB: !reduces! Attachment
+celG: !enhances! Cellulose production
+cell: !enhances! Cellulose production
+Ciona savignyi cDNA clone: !enhances! Cellulose production
+Cellulose production: !enhances! Biofilm formation
+Cellulose production: !restores! Bacterial attachment
+Cellulose production: !partially restores! Root colonization
+Bacterial binding: !insufficient for! Pathogenesis

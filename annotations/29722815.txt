@@ -1,0 +1,9 @@
+A smoke-derived compound, karrikin (KAR), and an endogenous but as yet unidentified KARRIKIN INSENSITIVE2 (KAI2) ligand (KL) have been identified as chemical cues in higher plants that impact on multiple aspects of growth and development. Genetic screening of light-signaling mutants in Arabidopsis thaliana has identified a mutant designated as ply2 (pleiotropic long hypocotyl2) that has pleiotropic light-response defects. In this study, we used positional cloning to identify the molecular lesion of ply2 as a missense mutation of KAI2/HYPOSENSITIVE TO LIGHT, which causes a single amino acid substitution, Ala219Val. Physiological analysis and genetic epistasis analysis with the KL-signaling components MORE AXILLARY GROWTH2 (MAX2) and SUPPRESSOR OF MAX2 1 suggested that the pleiotropic phenotypes of the ply2 mutant can be ascribed to a defect in KL-signaling. Molecular and biochemical analyses revealed that the mutant KAI2ply2 protein is impaired in its ligand-binding activity. In support of this conclusion, X-ray crystallography studies suggested that the KAI2ply2 mutation not only results in a narrowed entrance gate for the ligand but also alters the structural flexibility of the helical lid domains. We discuss the structural implications of the Ala219 residue with regard to ligand-specific binding and signaling of KAI2, together with potential functions of KL-signaling in the context of the light-regulatory network in Arabidopsis thaliana.
+
+karrikin: !activates! KAI2 
+KAI2: !binds to! KL 
+KAI2: !regulates! MAX2 
+KAI2: !regulates! SUPPRESSOR OF MAX2 1 
+KAI2ply2: !impairs! ligand-binding activity 
+Ala219Val: !narrows! entrance gate 
+Ala219Val: !alters! structural flexibility

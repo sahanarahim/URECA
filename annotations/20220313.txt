@@ -1,0 +1,6 @@
+In Arabidopsis, the feedback regulatory loop between CLAVATA3 (CLV3) signaling pathway and transcription factor, WUSCHEL (WUS) plays a significant role in shoot apical meristems (SAM) maintenance. Previously, CLV1/CLV2 heterodimers were supposed to perceive and transmit CLV3 signaling. Recent genetic analysis isolated a novel receptor kinase, CORYNE (CRN), which was found to be involved in the CLV3 pathway. Therefore, new hypothesis was put forward that CRN probably acts with CLV2 to transmit CLV3 in parallel with CLV1 based on genetic analysis. In our recent work, we took advantage of firefly luciferase complementation imaging (LCI) assay to analyze the interactions among CLV1, CLV2 and CRN in both Arabidopsis thaliana protoplasts and Nicotiana benthamiana leaves. We identified the physical interaction between CLV2 and CRN in the absence of CLV3 and found some interesting phenomenon such as CLV1, CLV2 and CRN may form a complex, and that CRN was able to form homodimers. These new observations make the relationships among these three proteins more complex than that indicated in two-parallel pathway model. Combining current genetic and our new biochemical evidence, a more possible and detailed model for CLV3 pathway was developed.
+
+CLV1: !interacts with! CLV2
+CLV2: !interacts with! CRN
+CRN: !interacts with! CLV2
+CLV3: !signals through! CLV1/CLV2/CRN

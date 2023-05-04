@@ -1,0 +1,8 @@
+Spatiotemporal patterns of Spartina alterniflora belowground biomass (BGB) are important for evaluating salt marsh resiliency. To solve this, we created the BERM (Belowground Ecosystem Resiliency Model), which estimates monthly BGB (30-m spatial resolution) from freely available data such as Landsat-8 and Daymet climate summaries. Our modeling framework relied on extreme gradient boosting, and used field observations from four Georgia salt marshes as ground-truth data. Model predictors included estimated tidal inundation, elevation, leaf area index, foliar nitrogen, chlorophyll, surface temperature, phenology, and climate data. The final model included 33 variables, and the most important variables were elevation, vapor pressure from the previous four months, Normalized Difference Vegetation Index (NDVI) from the previous five months, and inundation. Root mean squared error for BGB from testing data was 313 g m<sup>-2</sup> (11% of the field data range), explained variance (R<sup>2</sup> ) was 0.62-0.77. Testing data results were unbiased across BGB values and were positively correlated with ground-truth data across all sites and years (r = 0.56-0.82 and 0.45-0.95, respectively). BERM can estimate BGB within Spartina alterniflora salt marshes where environmental parameters are within the training data range, and can be readily extended through a reproducible workflow. This provides a powerful approach for evaluating spatiotemporal BGB and associated ecosystem function.
+
+Elevation: !affects! BGB
+Vapor pressure: !affects! BGB
+NDVI: !affects! BGB
+Inundation: !affects! BGB
+BERM: !estimates! BGB
+Field observations: !correlate with! BGB

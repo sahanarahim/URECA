@@ -1,0 +1,10 @@
+Aluminum-activated root malate and citrate exudation play an important role in plant Al tolerance. This paper characterizes AtMATE, a homolog of the recently discovered sorghum and barley Al-tolerance genes, shown here to encode an Al-activated citrate transporter in Arabidopsis. Together with the previously characterized Al-activated malate transporter, AtALMT1, this discovery allowed us to examine the relationship in the same species between members of the two gene families for which Al-tolerance genes have been identified. AtMATE is expressed primarily in roots and is induced by Al. An AtMATE T-DNA knockdown line exhibited very low AtMATE expression and Al-activated root citrate exudation was abolished. The AtALMT1 AtMATE double mutant lacked both Al-activated root malate and citrate exudation and showed greater Al sensitivity than the AtALMT1 mutant. Therefore, although AtALMT1 is a major contributor to Arabidopsis Al tolerance, AtMATE also makes a significant but smaller contribution. The expression patterns of AtALMT1 and AtMATE and the profiles of Al-activated root citrate and malate exudation are not affected by the presence or absence of the other gene. These results suggest that AtALMT1-mediated malate exudation and AtMATE-mediated citrate exudation evolved independently to confer Al tolerance in Arabidopsis. However, a link between regulation of expression of the two transporters in response to Al was identified through work on STOP1, a transcription factor that was previously shown to be necessary for AtALMT1 expression. Here we show that STOP1 is also required for AtMATE expression and Al-activated citrate exudation.
+
+AtMATE: !encodes! Al-activated citrate transporter 
+AtALMT1: !enhances! Al tolerance 
+AtMATE: !induces! AtALMT1 
+AtALMT1: !synthesizes! Al-activated root malate exudation 
+AtMATE: !synthesizes! Al-activated root citrate exudation 
+AtALMT1: !represses! AtMATE 
+STOP1: !regulates! AtALMT1 expression 
+STOP1: !regulates! AtMATE expression

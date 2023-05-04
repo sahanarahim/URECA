@@ -1,0 +1,8 @@
+Tillering in rice is one of the most important agronomic traits. Rice tiller development can be divided into two main processes: the formation of the axillary bud and its subsequent outgrowth. Several genes critical for bud formation in rice have been identified by genetic studies; however, their molecular functions and relationships are still largely unknown. Here, we report that MONOCULM 1 (MOC1) and MONOCULM 3/TILLERS ABSENT 1/STERILE AND REDUCED TILLERING 1 (MOC3/TAB1/SRT1), two vital regulators for tiller formation in rice, physically interact to regulate tiller bud outgrowth through upregulating the expression of FLORAL ORGAN NUMBER1 (FON1), the homolog of CLAVATA1 in rice. We found that MOC3 is able to directly bind the promoter of FON1 and subsequently activate FON1 expression. MOC1 functions as a co-activator of MOC3, whereas it could not directly bind the FON1 promoter, and further activated FON1 expression in the presence of MOC3. Accordingly, FON1 is highly expressed at axillary meristems and shows remarkably decreased expression levels in moc1 and moc3 mutants. Loss-of-function mutants of FON1 exhibit normal bud formation but defective bud outgrowth and reduced tiller number. Collectively, these results shed light on a joint transcriptional regulatory mechanim by MOC1 and MOC3, and establish a new framework for the control of tiller bud formation and outgrowth.
+
+MOC1: !interacts with! MOC3
+MOC3: !upregulates! FON1
+MOC1: !activates! FON1
+FON1: !controls! tiller bud outgrowth
+MOC1: !enhances! MOC3
+FON1: !reduced in! moc1/moc3 mutants

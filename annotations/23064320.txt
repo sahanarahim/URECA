@@ -1,0 +1,9 @@
+['23064320', 'Systemic acquired resistance (SAR) is a long-lasting plant immunity against a  broad spectrum of pathogens. Biological induction of SAR requires the signal  molecule salicylic acid (SA) and involves profound transcriptional changes that  are largely controlled by the transcription coactivator nonexpressor of  pathogenesis-related genes1 (NPR1). However, it is unclear how SAR signals are  transduced from the NPR1 signaling node to the general transcription machinery.  Here, we report that the Arabidopsis thaliana Mediator subunit16 (MED16) is an  essential positive regulator of SAR. Mutations in MED16 reduced NPR1 protein  levels and completely compromised biological induction of SAR. These mutations  also significantly suppressed SA-induced defense responses, altered the  transcriptional changes induced by the avirulent bacterial pathogen Pseudomonas  syringae pv tomato (Pst) DC3000/avrRpt2, and rendered plants susceptible to both  Pst DC3000/avrRpt2 and Pst DC3000. In addition, mutations in MED16 blocked the  induction of several jasmonic acid (JA)/ethylene (ET)-responsive genes and  compromised resistance to the necrotrophic fungal pathogens Botrytis cinerea and  Alternaria brassicicola. The Mediator complex acts as a bridge between specific  transcriptional activators and the RNA polymerase II transcription machinery;  therefore, our data suggest that MED16 may be a signaling component in the gap  between the NPR1 signaling node and the general transcription machinery and may  relay signals from both the SA and the JA/ET pathways.', '2012 Oct', 'Plant Cell', '10.1105/tpc.112.103317', 'Mou']
+
+NPR1: !regulates! SAR
+MED16: !positively regulates! SAR
+SA: !induces! defense responses
+Pst DC3000/avrRpt2: !induces! transcriptional changes
+MED16: !blocks induction of! JA/ET-responsive genes
+NPR1: !signals to! MED16
+SA/JA/ET pathways: !signal to! MED16

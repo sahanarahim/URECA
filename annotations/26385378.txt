@@ -1,0 +1,13 @@
+Plants coordinate their responses to various biotic and abiotic stresses in order to optimize their developmental and acclimatory programmes. The ultimate response to an excessive amount of stress is local induction of cell death mechanisms. The death of certain cells can help to maintain tissue homeostasis and enable nutrient remobilization, thus increasing the survival chances of the whole organism in unfavourable environmental conditions. UV radiation is one of the environmental factors that negatively affects the photosynthetic process and triggers cell death. The aim of this work was to evaluate a possible role of the red/far-red light photoreceptors phytochrome A (phyA) and phytochrome B (phyB) and their interrelations during acclimatory responses to UV stress. We showed that UV-C treatment caused a disturbance in photosystem II and a deregulation of photosynthetic pigment content and antioxidant enzymes activities, followed by increased cell mortality rate in phyB and phyAB null mutants. We also propose a regulatory role of phyA and phyB in CO2 assimilation, non-photochemical quenching, reactive oxygen species accumulation and salicylic acid content. Taken together, our results suggest a novel role of phytochromes as putative regulators of cell death and acclimatory responses to UV.
+
+phyA: !regulates! CO2 assimilation
+phyA: !regulates! non-photochemical quenching
+phyA: !regulates! reactive oxygen species accumulation
+phyA: !regulates! salicylic acid content
+phyB: !regulates! CO2 assimilation
+phyB: !regulates! non-photochemical quenching
+phyB: !regulates! reactive oxygen species accumulation
+phyB: !regulates! salicylic acid content
+UV radiation: !triggers! cell death
+phyA/phyB: !regulate! cell death
+phyA/phyB: !regulate! acclimatory responses to UV

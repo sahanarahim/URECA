@@ -1,0 +1,9 @@
+['15888686', 'The chloroplast contains many iron (Fe)-sulfur (S) proteins for the processes of  photosynthesis and nitrogen and S assimilation. Although isolated chloroplasts  are known to be able to synthesize their own Fe-S clusters, the machinery  involved is largely unknown. Recently, a cysteine desulfurase was reported in  Arabidopsis (Arabidopsis thaliana; AtCpNifS) that likely provides the S for Fe-S  clusters. Here, we describe an additional putative component of the plastid Fe-S  cluster assembly machinery in Arabidopsis: CpIscA, which has homology to  bacterial IscA and SufA proteins that have a scaffold function during Fe-S  cluster formation. CpIscA mRNA was shown to be expressed in all tissues tested,  with higher expression level in green, photosynthetic tissues. The plastid  localization of CpIscA was confirmed by green fluorescent protein fusions, in  vitro import, and immunoblotting experiments. CpIscA was cloned and purified  after expression in Escherichia coli. Addition of CpIscA significantly enhanced  CpNifS-mediated in vitro reconstitution of the 2Fe-2S cluster in apo-ferredoxin.  During incubation with CpNifS in a reconstitution mix, CpIscA was shown to  acquire a transient Fe-S cluster. The Fe-S cluster could subsequently be  transferred by CpIscA to apo-ferredoxin. We propose that the CpIscA protein  serves as a scaffold in chloroplast Fe-S cluster assembly.', '2005 May', 'Plant Physiol', '10.1104/pp.104.058602', 'Pilon']
+
+AtCpNifS: !synthesizes! Fe-S clusters 
+CpIscA: !localizes to! plastid 
+CpIscA: !interacts with! CpNifS 
+CpIscA: !enhances! CpNifS-mediated in vitro reconstitution of 2Fe-2S cluster 
+CpIscA: !acquires! transient Fe-S cluster 
+CpIscA: !transfers! Fe-S cluster to apo-ferredoxin 
+CpIscA: !serves as! scaffold in chloroplast Fe-S cluster assembly

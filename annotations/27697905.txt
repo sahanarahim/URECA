@@ -1,0 +1,7 @@
+Several observations suggest that the micronutrient boron (B) has a stabilising role in the plasma membrane (PM), supporting functions in PM-linked (hormone) signalling processes. However, this role is poorly characterised. Here we show treatment with boronic acids, specific competitors of B, phenocopies the Arabidopsis thaliana rootless pattern mutant monopteros. At least in part, this is caused by phenylboronic acid (PBA)-induced internalisation of the membrane-localised auxin efflux carrier PINFORMED1 (PIN1) in the early embryo. PIN1 internalisation interrupts the feedback signal transduction cascade involving the phytohormone auxin, PIN1 and the transcription factor gene MONOPTEROS This entails several effects, including abnormal development of vascular cell precursors, suppression of MONOPTEROS downstream targets and loss of the root auxin maximum - essential signals for root meristem development. While PIN1 is internalised, we observe a differential effect of PBA on other proteins, which are either unaffected, internalised or, as in the case of the B transporter BOR1, stabilised at the PM. These findings suggest a competition of PBA with B for plant membrane proteins and might shed light on the function of B at the PM.
+
+B: !competes with! PBA
+PIN1: !localizes to! PM
+PIN1: !internalized by! PBA
+MONOPTEROS: !repressed by! PIN1
+BOR1: !stabilized by! PBA

@@ -1,0 +1,10 @@
+Modification of host hormone biology is a common strategy used by plant pathogens to promote disease. For example, the bacterial pathogen strain <i>Pseudomonas syringae</i> DC3000 (PtoDC3000) produces the plant hormone auxin (indole-3-acetic acid [IAA]) to promote PtoDC3000 growth in plant tissue. Previous studies suggest that auxin may promote PtoDC3000 pathogenesis through multiple mechanisms, including both suppression of salicylic acid (SA)-mediated host defenses and via an unknown mechanism that appears to be independent of SA. To test if host auxin signaling is important during pathogenesis, we took advantage of <i>Arabidopsis thaliana</i> lines impaired in either auxin signaling or perception. We found that disruption of auxin signaling in plants expressing an inducible dominant <i>axr2-1</i> mutation resulted in decreased bacterial growth and that this phenotype was suppressed by introducing the <i>sid2-2</i> mutation, which impairs SA synthesis. Thus, host auxin signaling is required for normal susceptibility to PtoDC3000 and is involved in suppressing SA-mediated defenses. Unexpectedly, <i>tir1 afb1 afb4 afb5</i> quadruple-mutant plants lacking four of the six known auxin coreceptors that exhibit decreased auxin perception, supported increased levels of bacterial growth. This mutant exhibited elevated IAA levels and reduced SA-mediated defenses, providing additional evidence that auxin promotes disease by suppressing host defense. We also investigated the hypothesis that IAA promotes PtoDC3000 virulence through a direct effect on the pathogen and found that IAA modulates expression of virulence genes, both in culture and in planta. Thus, in addition to suppressing host defenses, IAA acts as a microbial signaling molecule that regulates bacterial virulence gene expression.
+
+PtoDC3000: !produces! auxin 
+auxin: !promotes! PtoDC3000 growth 
+axr2-1 mutation: !disrupts! auxin signaling 
+sid2-2 mutation: !suppresses! axr2-1 mutation 
+tir1 afb1 afb4 afb5 quadruple-mutant plants: !lack! auxin perception 
+IAA: !increases! bacterial growth 
+IAA: !suppresses! SA-mediated defenses 
+IAA: !modulates! virulence gene expression

@@ -1,0 +1,6 @@
+The transition from the juvenile to adult phase in plants is controlled by diverse exogenous and endogenous cues such as age, day length, light, nutrients, and temperature. Previous studies have shown that the gradual decline in microRNA156 (miR156) with age promotes the expression of adult traits. However, how age temporally regulates the abundance of miR156 is poorly understood. We show here that the expression of miR156 responds to sugar. Sugar represses miR156 expression at both the transcriptional level and post-transcriptional level through the degradation of miR156 primary transcripts. Defoliation and photosynthetic mutant assays further demonstrate that sugar from the pre-existing leaves acts as a mobile signal to repress miR156, and subsequently triggers the juvenile-to-adult phase transition in young leaf primordia. We propose that the gradual increase in sugar after seed germination serves as an endogenous cue for developmental timing in plants. DOI:http://dx.doi.org/10.7554/eLife.00269.001.
+
+sugar: !represses! miR156 
+defoliation: !triggers! juvenile-to-adult phase transition 
+sugar: !acts as! mobile signal 
+seed germination: !increases! sugar

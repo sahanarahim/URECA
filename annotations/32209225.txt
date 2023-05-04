@@ -1,0 +1,17 @@
+Protein ubiquitination is a very diverse post-translational modification leading to protein degradation or delocalization, or altering protein activity. In <i>Arabidopsis thaliana</i>, two E3 ligases, BIG BROTHER (BB) and DA2, activate the latent peptidases DA1, DAR1 and DAR2 by mono-ubiquitination at multiple sites. Subsequently, these activated peptidases destabilize various positive growth regulators. Here, we show that two ubiquitin-specific proteases, UBP12 and UBP13, deubiquitinate DA1, DAR1 and DAR2, hence reducing their peptidase activity. Overexpression of <i>UBP12</i> or <i>UBP13</i> strongly decreased leaf size and cell area, and resulted in lower ploidy levels. Mutants in which <i>UBP12</i> and <i>UBP13</i> were downregulated produced smaller leaves that contained fewer and smaller cells. Remarkably, neither UBP12 nor UBP13 were found to be cleavage substrates of the activated DA1. Our results therefore suggest that UBP12 and UBP13 work upstream of DA1, DAR1 and DAR2 to restrict their protease activity and hence fine-tune plant growth and development.
+
+BB: !activates! DA1
+BB: !activates! DAR1
+BB: !activates! DAR2
+UBP12: !deubiquitinates! DA1
+UBP12: !deubiquitinates! DAR1
+UBP12: !deubiquitinates! DAR2
+UBP13: !deubiquitinates! DA1
+UBP13: !deubiquitinates! DAR1
+UBP13: !deubiquitinates! DAR2
+UBP12: !restricts! DA1 activity
+UBP12: !restricts! DAR1 activity
+UBP12: !restricts! DAR2 activity
+UBP13: !restricts! DA1 activity
+UBP13: !restricts! DAR1 activity
+UBP13: !restricts! DAR2 activity

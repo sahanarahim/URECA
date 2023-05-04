@@ -1,0 +1,7 @@
+With fewer than 8000 genes and a minimalist cellular organization, the green picoalga Ostreococcus tauri is one of the simplest photosynthetic eukaryotes. Ostreococcus tauri contains many plant-specific genes but exhibits a very low gene redundancy. The haploid genome is extremely dense with few repeated sequences and rare transposons. Thanks to the implementation of genetic transformation and vectors for inducible overexpression/knockdown this picoeukaryotic alga has emerged in recent years as a model organism for functional genomics analyses and systems biology. Here we report the development of an efficient gene targeting technique which we use to knock out the nitrate reductase and ferritin genes and to knock in a luciferase reporter in frame to the ferritin native protein. Furthermore, we show that the frequency of insertion by homologous recombination is greatly enhanced when the transgene is designed to replace an existing genomic insertion. We propose that a natural mechanism based on homologous recombination may operate to remove inserted DNA sequences from the genome.
+
+Gene: !affects! Process 
+Gene: !knocks out! Nitrate reductase 
+Gene: !knocks out! Ferritin 
+Gene: !knocks in! Luciferase 
+Gene: !replaces! Genomic insertion

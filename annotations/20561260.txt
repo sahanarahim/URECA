@@ -1,0 +1,7 @@
+Elicitor recognition plays a key role in the reaction of plants to pathogens and the induction of plant defense responses. Furthermore, plant-microbe interactions involve numerous regulatory systems essential for plant defense against pathogens. Ethylene-inducing xylanase (Eix) is a potent elicitor of plant defense responses in specific cultivars of tobacco (Nicotiana tabacum) and tomato (Solanum lycopersicum). The Eix receptors (LeEix1 and LeEix2) belong to a superclade of leucine-rich repeat receptor-like proteins (RLP) with a signal for receptor-mediated endocytosis, which was shown to be essential for proper induction of defense responses. Both receptors are able to bind Eix, while only LeEix2 mediates defense responses. Here we demonstrate that LeEix1 heterodimerizes with LeEix2 upon application of the Eix elicitor. We show that LeEix1 attenuates Eix-induced internalization and signaling of the LeEix2 receptor. Furthermore, we demonstrate, using yeast two-hybrid and in planta bimolecular fluorescence complementation assays, that the brassinosteroid co-receptor, BAK1, binds LeEix1 but not LeEix2. In BAK1-silenced plants, LeEix1 was no longer able to attenuate plant responses to Eix, indicating that BAK1 is required for this attenuation. We suggest that LeEix1 functions as a decoy receptor for LeEix2, a function which requires BAK1.
+
+Eix: !binds! LeEix1 & LeEix2
+LeEix1 & LeEix2: !heterodimerize! upon Eix application
+LeEix1: !attenuates! Eix-induced internalization & signaling of LeEix2
+BAK1: !binds! LeEix1
+BAK1: !required for! LeEix1 attenuation

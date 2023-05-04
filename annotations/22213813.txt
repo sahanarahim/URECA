@@ -1,0 +1,23 @@
+Despite the major physiological dissimilarities between mature root regions and their tips, differences in their gene expression profiles remain largely unexplored. In this research, the transcriptome of rice (Oryza sativa L. subsp. japonica) mature root tissue and root tips was monitored using mRNA-Seq at two time points. Almost 50 million 76 bp reads were mapped onto the rice genome sequence, expression patterns for different tissues and time points were investigated, and at least 1106 novel transcriptionally active regions (nTARs) expressed in rice root tissue were detected. More than 30 000 genes were found to be expressed in rice roots, among which were 1761 root-enriched and 306 tip-enriched transcripts. Mature root tissue appears to respond more strongly to external stimuli than tips, showing a higher expression of, for instance, auxin-responsive and abscisic acid-responsive genes, as well as the phenylpropanoid pathway and photosynthesis upon light. The root tip-enriched transcripts are mainly involved in mitochondrial electron transport, organelle development, secondary metabolism, DNA replication and metabolism, translation, and cellular component organization. During root maturation, genes involved in cell wall biosynthesis and modification, response to oxidative stress, and secondary metabolism were activated. For some nTARs, a potential role in root development can be put forward based on homology to genes involved in CLAVATA signalling, cell cycle regulators, and hormone signalling. A subset of differentially expressed genes and novel transcripts was confirmed using (quantitative) reverse transcription-PCR. These results uncover previously unrecognized tissue-specific expression profiles and provide an interesting starting point to study the different regulation of transcribed regions of these tissues.
+
+Gene: !affects! External Stimuli
+Gene: !enhances! Auxin-responsive
+Gene: !enhances! Abscisic Acid-responsive
+Gene: !enhances! Phenylpropanoid Pathway
+Gene: !enhances! Photosynthesis
+Gene: !enriches! Root Tips
+Gene: !enriches! Mature Root Tissue
+Gene: !involves in! Mitochondrial Electron Transport
+Gene: !involves in! Organelle Development
+Gene: !involves in! Secondary Metabolism
+Gene: !involves in! DNA Replication
+Gene: !involves in! Metabolism
+Gene: !involves in! Translation
+Gene: !involves in! Cellular Component Organization
+Gene: !activates! Cell Wall Biosynthesis
+Gene: !activates! Modification
+Gene: !activates! Response to Oxidative Stress
+Gene: !activates! Secondary Metabolism
+Gene: !homologous to! CLAVATA Signalling
+Gene: !homologous to! Cell Cycle Regulators
+Gene: !homologous to! Hormone Signalling

@@ -1,0 +1,11 @@
+Camalexin is a major phytoalexin that plays a crucial role in disease resistance in Arabidopsis (<i>Arabidopsis thaliana</i>). We previously characterized the regulation of camalexin biosynthesis by the mitogen-activated protein kinases MPK3 and MPK6 and their downstream transcription factor WRKY33. Here, we report that the pathogen-responsive CALCIUM-DEPENDENT PROTEIN KINASE5 (CPK5) and CPK6 also regulate camalexin biosynthesis in Arabidopsis. Chemically induced expression of constitutively active CPK5 or CPK6 variants was sufficient to induce camalexin biosynthesis in transgenic Arabidopsis plants. Consistently, the simultaneous mutation of <i>CPK5</i> and <i>CPK6</i> compromised camalexin production in Arabidopsis induced by the fungal pathogen <i>Botrytis cinerea</i> Moreover, we identified that WRKY33 functions downstream of CPK5/CPK6 to activate camalexin biosynthetic genes, thereby inducing camalexin biosynthesis. CPK5 and CPK6 interact with WRKY33 and phosphorylate its Thr-229 residue, leading to an increase in the DNA binding ability of WRKY33. By contrast, the MPK3/MPK6-mediated phosphorylation of WRKY33 on its N-terminal Ser residues enhances the transactivation activity of WRKY33. Furthermore, both gain- and loss-of-function genetic analyses demonstrated the cooperative regulation of camalexin biosynthesis by CPK5/CPK6 and MPK3/MPK6. Taken together, these findings indicate that WRKY33 functions as a convergent substrate of CPK5/CPK6 and MPK3/MPK6, which cooperatively regulate camalexin biosynthesis via the differential phospho-regulation of WRKY33 activity.
+
+CPK5: !interacts with! WRKY33
+CPK6: !interacts with! WRKY33
+MPK3: !interacts with! WRKY33
+MPK6: !interacts with! WRKY33
+WRKY33: !enhances! camalexin biosynthesis
+CPK5: !enhances! camalexin biosynthesis
+CPK6: !enhances! camalexin biosynthesis
+MPK3: !enhances! camalexin biosynthesis
+MPK6: !enhances! camalexin biosynthesis

@@ -1,0 +1,10 @@
+Maize (Zea mays) originated in southern Mexico and has spread over a wide latitudinal range. Maize expansion from tropical to temperate regions has necessitated a reduction of its photoperiod sensitivity. In this study, we cloned a quantitative trait locus (QTL) regulating flowering time in maize and show that the maize ortholog of Arabidopsis thaliana EARLY FLOWERING3, ZmELF3.1, is the causal locus. We demonstrate that ZmELF3.1 and ZmELF3.2 proteins can physically interact with ZmELF4.1/4.2 and ZmLUX1/2, to form evening complex(es; ECs) in the maize circadian clock. Loss-of-function mutants for ZmELF3.1/3.2 and ZmLUX1/2 exhibited delayed flowering under long-day and short-day conditions. We show that EC directly represses the expression of several flowering suppressor genes, such as the CONSTANS, CONSTANS-LIKE, TOC1 (CCT) genes ZmCCT9 and ZmCCT10, ZmCONSTANS-LIKE 3, and the PSEUDORESPONSE REGULATOR (PRR) genes ZmPRR37a and ZmPRR73, thus alleviating their inhibition, allowing florigen gene expression and promoting flowering. Further, we identify two closely linked retrotransposons located in the ZmELF3.1 promoter that regulate the expression levels of ZmELF3.1 and may have been positively selected during postdomestication spread of maize from tropical to temperate regions during the pre-Columbian era. These findings provide insights into circadian clock-mediated regulation of photoperiodic flowering in maize and new targets of genetic improvement for breeding.
+
+ZmELF3.1: !interacts with! ZmELF4.1/4.2
+ZmELF3.1: !interacts with! ZmLUX1/2
+ZmELF3.1: !represses! ZmCCT9
+ZmELF3.1: !represses! ZmCCT10
+ZmELF3.1: !represses! ZmCONSTANS-LIKE 3
+ZmELF3.1: !represses! ZmPRR37a
+ZmELF3.1: !represses! ZmPRR73
+ZmELF3.1: !enhances! florigen gene expression

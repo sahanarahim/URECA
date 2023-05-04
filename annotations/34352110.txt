@@ -1,0 +1,10 @@
+Folates are indispensable for plant development, but their molecular mode of action remains elusive. We synthesized a probe, "5-F-THF-Dayne," comprising 5-formyl-tetrahydrofolate (THF) coupled to a photoaffinity tag. Exploiting this probe in an affinity proteomics study in Arabidopsis thaliana, we retrieved 51 hits. Thirty interactions were independently validated with in vitro expressed proteins to bind 5-F-THF with high or low affinity. Interestingly, the interactors reveal associations beyond one-carbon metabolism, covering also connections to nitrogen (N) metabolism, carbohydrate metabolism/photosynthesis, and proteostasis. Two of the interactions, one with the folate biosynthetic enzyme DIHYDROFOLATE REDUCTASE-THYMIDYLATE SYNTHASE 1 (AtDHFR-TS1) and another with N metabolism-associated glutamine synthetase 1;4 (AtGLN1;4), were further characterized. In silico and experimental analyses revealed G35/K36 and E330 as key residues for the binding of 5-F-THF in AtDHFR-TS1 and AtGLN1;4, respectively. Site-directed mutagenesis of AtGLN1;4 E330, which co-localizes with the ATP-binding pocket, abolished 5-F-THF binding as well as AtGLN1;4 activity. Furthermore, 5-F-THF was noted to competitively inhibit the activities of AtDHFR-TS1 and AtGLN1;4. In summary, we demonstrated a regulatory role for 5-F-THF in N metabolism, revealed 5-F-THF-mediated feedback regulation of folate biosynthesis, and identified a total of 14 previously unknown high-affinity binding cellular targets of 5-F-THF. Together, this sets a landmark toward understanding the role of folates in plant development.
+
+5-F-THF: !binds to! AtDHFR-TS1
+5-F-THF: !binds to! AtGLN1;4
+AtDHFR-TS1: !localizes to! folate biosynthesis
+AtGLN1;4: !localizes to! N metabolism
+5-F-THF: !inhibits! AtDHFR-TS1 activity
+5-F-THF: !inhibits! AtGLN1;4 activity
+G35/K36: !affects! 5-F-THF binding to AtDHFR-TS1
+E330: !affects! 5-F-THF binding to AtGLN1;4

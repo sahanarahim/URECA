@@ -1,0 +1,12 @@
+The succinate dehydrogenase complex (complex II) is a highly conserved protein complex composed of the SDH1 to SDH4 subunits in bacteria and in the mitochondria of animals and fungi. The reason for the occurrence of up to four additional subunits in complex II of plants, termed SDH5 to SDH8, so far is a mystery. Here, we present a biochemical approach to investigate the internal subunit arrangement of Arabidopsis (Arabidopsis thaliana) complex II. Using low-concentration detergent treatments, the holo complex is dissected into subcomplexes that are analyzed by a three-dimensional gel electrophoresis system. Protein identifications by mass spectrometry revealed that the largest subcomplex (IIa) represents the succinate dehydrogenase domain composed of SDH1 and SDH2. Another subcomplex (IIb) is composed of the SDH3, SDH4, SDH6, and SDH7 subunits. All four proteins include transmembrane helices and together form the membrane anchor of complex II. Sequence analysis revealed that SDH3 and SDH4 lack helices conserved in other organisms. Using homology modeling and phylogenetic analyses, we present evidence that SDH6 and SDH7 substitute missing sequence stretches of SDH3 and SDH4 in plants. Together with SDH5, which is liberated upon dissection of complex II into subcomplexes, SDH6 and SDH7 also add some hydrophilic mass to plant complex II, which possibly inserts further functions into this smallest protein complex of the oxidative phosphorylation system (which is not so small in plants).
+
+SDH1: !composes! Complex II
+SDH2: !composes! Complex II
+SDH3: !composes! Subcomplex IIb
+SDH4: !composes! Subcomplex IIb
+SDH5: !liberated by! Dissection of Complex II
+SDH6: !composes! Subcomplex IIb
+SDH7: !composes! Subcomplex IIb
+SDH6: !substitutes! Missing Sequence Stretches of SDH3
+SDH7: !substitutes! Missing Sequence Stretches of SDH4
+SDH5, SDH6, SDH7: !add! Hydrophilic Mass to Plant Complex II

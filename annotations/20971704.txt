@@ -1,0 +1,6 @@
+['20971704', 'Internalization and sorting of macromolecules are inherent properties of all  eukaryotic cells that are achieved by vesicle trafficking. However, this process  is relatively less understood in plants. An eight-subunit protein complex,  BLOC-1, which is involved in endosomal transport from the endosomes to the  lysosomes, has been identified in both human and mice. In this study, two  homologous subunits of this complex, BLOS1 (or AtGCN5L1) and BLOS2, have been  characterized in Arabidopsis. Both BLOS1 and BLOS2 interacted with SNX1 on the  sorting endosomes. Inducible RNAi lines with reduced levels of BLOS1 had longer  primary roots and more lateral roots. Consistently, PIN1 and PIN2 were increased  in BLOS1 RNAi lines, implicating an impaired transport from the endosomes to the  vacuoles. These results suggest that a putative BLOC-1 complex in Arabidopsis  might mediate the vacuolar degradative transport through direct interaction with  SNX1 to regulate the homeostasis of PIN1 and PIN2, which is important for plant  growth and development.', '2010 Nov 1', 'J Cell Sci', '10.1242/jcs.069732', 'Li']
+
+BLOS1: !interacts with! SNX1 
+BLOS2: !interacts with! SNX1 
+BLOS1: !regulates! PIN1 & PIN2 
+BLOS2: !regulates! PIN1 & PIN2

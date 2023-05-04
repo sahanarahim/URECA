@@ -1,0 +1,11 @@
+A review of the literature revealed that a variety of methods are currently used for fitting net assimilation of CO2-chloroplastic CO2 concentration (A-Cc) curves, resulting in considerable differences in estimating the A-Cc parameters [including maximum ribulose 1.5-bisphosphate carboxylase/oxygenase (Rubisco) carboxylation rate (Vcmax), potential light saturated electron transport rate (Jmax), leaf dark respiration in the light (Rd), mesophyll conductance (gm) and triose-phosphate utilization (TPU)]. In this paper, we examined the impacts of fitting methods on the estimations of Vcmax, Jmax, TPU, Rd and gm using grid search and non-linear fitting techniques. Our results suggested that the fitting methods significantly affected the predictions of Rubisco-limited (Ac), ribulose 1,5-bisphosphate-limited (Aj) and TPU-limited (Ap) curves and leaf photosynthesis velocities because of the inconsistent estimate of Vcmax, Jmax, TPU, Rd and gm, but they barely influenced the Jmax : Vcmax, Vcmax : Rd and Jmax : TPU ratio. In terms of fitting accuracy, simplicity of fitting procedures and sample size requirement, we recommend to combine grid search and non-linear techniques to directly and simultaneously fit Vcmax, Jmax, TPU, Rd and gm with the whole A-Cc curve in contrast to the conventional method, which fits Vcmax, Rd or gm first and then solves for Vcmax, Jmax and/or TPU with V(cmax), Rd and/or gm held as constants.
+
+Vcmax: !estimated by! fitting methods 
+Jmax: !estimated by! fitting methods 
+TPU: !estimated by! fitting methods 
+Rd: !estimated by! fitting methods 
+gm: !estimated by! fitting methods 
+fitting methods: !affects! predictions of Rubisco-limited, ribulose 1,5-bisphosphate-limited and TPU-limited curves 
+fitting methods: !affects! leaf photosynthesis velocities 
+fitting methods: !barely influences! Jmax : Vcmax, Vcmax : Rd and Jmax : TPU ratio 
+grid search & non-linear techniques: !recommended to! fit Vcmax, Jmax, TPU, Rd and gm with the whole A-Cc curve

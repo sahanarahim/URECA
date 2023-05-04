@@ -1,0 +1,11 @@
+The fruit is a hierarchically organized organ composed of cells from different tissues. Its quality, defined by traits such as fruit size and composition, is the result of a complex chain of biological processes. These processes involve exchanges (transpiration, respiration, photosynthesis, phloem and xylem fluxes, and ethylene emission) between the fruit and its environment (atmosphere or plant), tissue differentiation, and cell functioning (division, endoreduplication, expansion, metabolic transformations, and vacuolar storage). In order to progress in our understanding of quality development, it is necessary to analyse the fruit as a system, in which processes interact. In this case, a process-based modelling approach is particularly powerful. Such a modelling approach is proposed to develop a future 'virtual fruit' model. The value of a virtual fruit for agronomists and geneticists is also discussed.
+
+Gene: !affects! Process 
+Process: !involves! Exchanges 
+Exchanges: !between! Fruit and Environment 
+Tissue: !differentiates! Cells 
+Cells: !functioning! Division 
+Division: !leads to! Endoreduplication 
+Endoreduplication: !results in! Expansion 
+Expansion: !causes! Metabolic Transformations 
+Metabolic Transformations: !produces! Vacuolar Storage

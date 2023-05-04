@@ -1,0 +1,10 @@
+Chromatin immunoprecipitation followed by sequencing (ChIP-seq) is widely used to identify factor binding to genomic DNA and chromatin modifications. ChIP-seq data analysis is affected by genomic regions that generate ultra-high artifactual signals. To remove these signals from ChIP-seq data, the Encyclopedia of DNA Elements (ENCODE) project developed comprehensive sets of regions defined by low mappability and ultra-high signals called blacklists for human, mouse (Mus musculus), nematode (Caenorhabditis elegans), and fruit fly (Drosophila melanogaster). However, blacklists are not currently available for many model and nonmodel species. Here, we describe an alternative approach for removing false-positive peaks called greenscreen. Greenscreen is easy to implement, requires few input samples, and uses analysis tools frequently employed for ChIP-seq. Greenscreen removes artifactual signals as effectively as blacklists in Arabidopsis thaliana and human ChIP-seq dataset while covering less of the genome and dramatically improves ChIP-seq peak calling and downstream analyses. Greenscreen filtering reveals true factor binding overlap and occupancy changes in different genetic backgrounds or tissues. Because it is effective with as few as two inputs, greenscreen is readily adaptable for use in any species or genome build. Although developed for ChIP-seq, greenscreen also identifies artifactual signals from other genomic datasets including Cleavage Under Targets and Release Using Nuclease. We present an improved ChIP-seq pipeline incorporating greenscreen that detects more true peaks than other methods.
+
+ChIP-seq: !affected by! Ultra-high artifactual signals
+ENCODE project: !developed! Blacklists
+Greenscreen: !removes! Artifactual signals
+Greenscreen: !improves! ChIP-seq peak calling
+Greenscreen: !reveals! True factor binding overlap
+Greenscreen: !adaptable for! Any species or genome build
+Greenscreen: !identifies! Artifactual signals from other genomic datasets
+Improved ChIP-seq pipeline: !detects! More true peaks

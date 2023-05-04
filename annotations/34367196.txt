@@ -1,0 +1,11 @@
+Anther indehiscence is an important form of functional male sterility that can facilitate the production of hybrid seeds. However, the molecular mechanisms of anther indehiscence-based male sterility in eggplant (<i>Solanum melongena</i> L.) have not been thoroughly explored. We performed transcriptome sequencing and real-time quantitative reverse transcription-PCR (qRT-PCR) assays to compare the fertile line (F142) and male sterile line (S12) eggplant. We identified 2,670 differentially expressed genes (DEGs) between lines. Gene ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analyses identified 31 DEGs related to hormone biosynthesis. We, therefore, measured phytohormone contents, such as jasmonic acid (JA), auxin (IAA), gibberellin (GA), and abscisic acid (ABA) in S12 and F142. There were differences in IAA, GA<sub>3</sub>, and ABA levels between S12 and F142, while JA levels were significantly lower in S12 than in F142. Five key genes in the JA signaling pathway were differentially expressed in S12 vs. F142. Of these, <i>SmJAZ1</i> and <i>SmJAR1</i> were significantly upregulated and <i>SmDAD1, SmLOX</i>, and <i>SmCOI1</i> were downregulated in S12 vs. F142. Protein-protein interaction studies identified a direct interaction between SmDAD1 and SmLOX, while SmDAD1 failed to interact with SmJAR1, SmCOI1, and SmJAZ1. The data represent a valuable resource for further exploration of regulatory mechanisms underlying anther dehiscence in eggplant.
+
+SmJAZ1: !upregulated in! S12
+SmJAR1: !upregulated in! S12
+SmDAD1: !downregulated in! S12
+SmLOX: !downregulated in! S12
+SmCOI1: !downregulated in! S12
+SmDAD1: !interacts with! SmLOX
+SmDAD1: !fails to interact with! SmJAR1
+SmDAD1: !fails to interact with! SmCOI1
+SmDAD1: !fails to interact with! SmJAZ1

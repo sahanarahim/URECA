@@ -1,0 +1,9 @@
+The Mediator complex functions as a hub for transcriptional regulation. MED5, an Arabidopsis Mediator tail subunit, is required for maintaining phenylpropanoid homeostasis. A semidominant mutation (ref4-3) that causes a single amino acid substitution in MED5b functions as a strong suppressor of the pathway, leading to decreased soluble phenylpropanoid accumulation, reduced lignin content and dwarfism. By contrast, loss of MED5 results in increased concentrations of phenylpropanoids. We used a reverse genetic approach to identify suppressors of ref4-3 and found that ref4-3 requires CDK8, a kinase module subunit of Mediator, to repress plant growth. The genetic interaction between MED5 and CDK8 was further characterized using mRNA-sequencing (RNA-seq) and metabolite analysis. Growth inhibition and suppression of phenylpropanoid metabolism can be genetically separated in ref4-3 by elimination of CDK8 kinase activity; however, the stunted growth of ref4-3 is not dependent on the phosphorylation event introduced by the G383S mutation. In addition, rather than perturbation of lignin biosynthesis, misregulation of DJC66, a gene encoding a DNAJ protein, is involved in the dwarfism of the med5 mutants. Together, our study reveals genetic interactions between Mediator tail and kinase module subunits and enhances our understanding of dwarfing in phenylpropanoid pathway mutants.
+
+MED5: !affects! phenylpropanoid homeostasis
+ref4-3: !requires! CDK8
+MED5: !interacts with! CDK8
+ref4-3: !represses! plant growth
+CDK8: !enhances! ref4-3 repression
+G383S mutation: !not dependent on! phosphorylation event
+DJC66: !involved in! dwarfism of med5 mutants

@@ -1,0 +1,13 @@
+['19276109', 'SUMO (small ubiquitin-related modifier) conjugation (i.e., sumoylation) to  protein substrates is a reversible posttranslational modification that regulates  signaling by modulating transcription factor activity. This paper presents  evidence that the SUMO E3 ligase SIZ1 negatively regulates abscisic acid (ABA)  signaling, which is dependent on the bZIP transcripton factor ABI5.  Loss-of-function T-DNA insertion siz1-2 and siz1-3 mutations caused ABA  hypersensitivity for seed germination arrest and seedling primary root growth  inhibition. Furthermore, expression of genes that are ABA-responsive through  ABI5-dependent signaling (e.g., RD29A, Rd29B, AtEm6, RAB18, ADH1) was  hyperinduced by the hormone in siz1 seedlings. abi5-4 suppressed ABA  hypersensitivity caused by siz1 (siz1-2 abi5-4), demonstrating an epistatic  genetic interaction between SIZ1 and ABI5. A K391R substitution in ABI5  [ABI5(K391R)] blocked SIZ1-mediated sumoylation of the transcription factor in  vitro and in Arabidopsis protoplasts, indicating that ABI5 is sumoylated through  SIZ1 and that K391 is the principal site for SUMO conjugation. In abi5-4 plants,  ABI5(K391R) expression caused greater ABA hypersensitivity (gene expression, seed  germination arrest and primary root growth inhibition) compared with ABI5  expression. Together, these results establish that SIZ1-dependent sumoylation of  ABI5 attenuates ABA signaling. The double mutant siz1-2 afp-1 exhibited even  greater ABA sensitivity than the single mutant siz1, suggesting that SIZ1  represses ABI5 signaling function independent of AFP1.', '2009 Mar 31', 'Proc Natl Acad Sci U S A', '10.1073/pnas.0811088106', 'Hasegawa']
+
+SUMO: !conjugates to! ABI5 
+SIZ1: !negatively regulates! ABA signaling 
+ABI5: !dependent on! SIZ1 
+siz1-2: !causes! ABA hypersensitivity 
+ABI5: !hyperinduced by! hormone in siz1 seedlings 
+SIZ1: !epistatically interacts with! ABI5 
+ABI5: !sumoylated through! SIZ1 
+K391: !principal site for! SUMO conjugation 
+ABI5(K391R): !blocks! SIZ1-mediated sumoylation 
+ABI5(K391R): !causes greater! ABA hypersensitivity 
+SIZ1: !represses! ABI5 signaling function

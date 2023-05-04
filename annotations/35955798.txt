@@ -1,0 +1,10 @@
+In plants, vegetative and reproductive development are associated with agronomically important traits that contribute to grain yield and biomass. Zinc finger homeodomain (ZF-HD) transcription factors (TFs) constitute a relatively small gene family that has been studied in several model plants, including <i>Arabidopsis thaliana</i> L. and <i>Oryza sativa</i> L. The ZF-HD family members play important roles in plant growth and development, but their contribution to the regulation of plant architecture remains largely unknown due to their functional redundancy. To understand the gene regulatory network controlled by ZF-HD TFs, we analyzed multiple loss-of-function mutants of ZF-HD TFs in <i>Arabidopsis</i> that exhibited morphological abnormalities in branching and flowering architecture. We found that ZF-HD TFs, especially HB34, negatively regulate the expression of miR157 and positively regulate SQUAMOSA PROMOTER BINDING-LIKE 10 (<i>SPL10</i>), a target of miR157. Genome-wide chromatin immunoprecipitation sequencing (ChIP-Seq) analysis revealed that <i>miR157D</i> and <i>SPL10</i> are direct targets of HB34, creating a feed-forward loop that constitutes a robust miRNA regulatory module. Network motif analysis contains overrepresented coherent type IV feedforward motifs in the amiR zf-HD and <i>hbq</i> mutant background. This finding indicates that miRNA-mediated ZF-HD feedforward modules modify branching and inflorescence architecture in <i>Arabidopsis</i>. Taken together, these findings reveal a guiding role of ZF-HD TFs in the regulatory network module and demonstrate its role in plant architecture in <i>Arabidopsis</i>.
+
+ZF-HD TFs: !regulate! miR157 
+miR157: !targeted by! ZF-HD TFs 
+HB34: !represses! miR157 
+HB34: !enhances! SPL10 
+miR157: !targets! SPL10 
+miR157D: !directly targeted by! HB34 
+SPL10: !directly targeted by! HB34 
+ZF-HD TFs: !modify! branching and inflorescence architecture

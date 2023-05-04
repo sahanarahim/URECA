@@ -1,0 +1,10 @@
+Plants adapt to environmental changes by regulating transcription and chromatin organization. The histone H2A variant H2A.Z and the SWI2/SNF2 ATPase BRAHMA (BRM) have overlapping roles in positively and negatively regulating environmentally responsive genes in Arabidopsis, but the extent of this overlap was uncharacterized. Both factors have been associated with various changes in nucleosome positioning and stability in different contexts, but their specific roles in transcriptional regulation and chromatin organization need further characterization. We show that H2A.Z and BRM co-localize at thousands of sites, where they interact both cooperatively and antagonistically in transcriptional repression and activation of genes involved in development and responses to environmental stimuli. We identified eight classes of genes that show distinct relationships between H2A.Z and BRM with respect to their roles in transcription. These include activating and silencing transcription both redundantly and antagonistically. We found that H2A.Z contributes to a range of different nucleosome properties, while BRM stabilizes nucleosomes where it binds and destabilizes or repositions flanking nucleosomes. We also found that, at many genes regulated by both BRM and H2A.Z, both factors overlap with binding sites of the light-regulated transcription factor FAR1-Related Sequence 9 (FRS9) and that a subset of these FRS9 binding sites are dependent on H2A.Z and BRM for accessibility. Collectively, we comprehensively characterized the antagonistic and cooperative contributions of H2A.Z and BRM to transcriptional regulation, and illuminated several interrelated roles in chromatin organization. The variability observed in their individual functions implies that both BRM and H2A.Z have more context-dependent roles than previously assumed.
+
+H2A.Z: !interacts with! BRM
+BRM: !interacts with! H2A.Z
+H2A.Z: !activates/represses! transcription
+BRM: !activates/represses! transcription
+H2A.Z: !stabilizes/destabilizes! nucleosomes
+BRM: !stabilizes/destabilizes! nucleosomes
+H2A.Z: !overlaps with! FRS9 binding sites
+BRM: !overlaps with! FRS9 binding sites

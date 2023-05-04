@@ -1,0 +1,10 @@
+['15472079', 'The Arabidopsis thaliana VERNALIZATION INDEPENDENCE (VIP) gene class has multiple  functions in development, including repression of flowering through activation of  the MADSbox gene FLC. Epigenetic silencing of FLC plays a substantial role in the  promotion of flowering through cold (vernalization). To better understand how VIP  genes influence development, we undertook a genetic and molecular study of the  previously uncharacterized VIP5 and VIP6 genes. We found that loss of function of  these genes also resulted in downregulation of other members of the FLC/MAF gene  family, including the photoperiodic pathway regulator MAF1/FLM. We cloned VIP5  and VIP6 through mapping and transcriptional profiling. Both proteins are closely  related to distinct components of budding yeast Paf1C, a transcription factor  that assists in establishment and maintenance of transcription-promotive  chromatin modifications such as ubiquitination of H2B by Bre1/Rad6 and  methylation of histone H3 lysine-4 by the trithorax-related histone methylase  Set1. Genetic analysis and coimmunoprecipitation experiments suggest that VIP5  and VIP6 function in the same mechanism as the previously described VIP3 and  VIP4. Our findings suggest that an evolutionarily conserved transcriptional  mechanism plays an essential role in the maintenance of gene expression in higher  eukaryotes and has a central function in flowering.', '2004 Nov', 'Plant Cell', '10.1105/tpc.104.026062', 'van']
+
+VIP: !represses! FLC
+VIP: !downregulates! MAF1/FLM
+VIP: !cloned through! mapping & transcriptional profiling
+VIP: !related to! Paf1C
+VIP: !functions in! same mechanism as VIP3 & VIP4
+Paf1C: !assists in! establishment & maintenance of chromatin modifications
+Bre1/Rad6: !ubiquitinates! H2B
+Set1: !methylates! histone H3 lysine-4

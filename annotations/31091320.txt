@@ -1,0 +1,8 @@
+Linking our understanding of biological processes at different scales is a major conceptual challenge in biology and aggravated by differences in research methods. Modelling can be a useful approach to consolidating our understanding across traditional research domains. The laboratory model species Arabidopsis is very widely used to study plant growth processes and has also been tested more recently in ecophysiology and population genetics. However, approaches from crop modelling that might link these domains are rarely applied to Arabidopsis. Here, we combine plant growth models with phenology models from ecophysiology, using the agent-based modelling language Chromar. We introduce a simpler Framework Model of vegetative growth for Arabidopsis, FM-lite. By extending this model to include inflorescence and fruit growth and seed dormancy, we present a whole-life-cycle, multi-model FM-life, which allows us to simulate at the population level in various genotype × environment scenarios. Environmental effects on plant growth distinguish between the simulated life history strategies that were compatible with previously described Arabidopsis phenology. Our results simulate reproductive success that is founded on the broad range of physiological processes familiar from crop models and suggest an approach to simulating evolution directly in future.
+
+Gene: !affects! Process 
+Process: !simulates! Reproductive Success 
+Environment: !distinguishes between! Life History Strategies 
+Genotype: !interacts with! Environment 
+Model: !combines! Plant Growth Models 
+Model: !extends to! Inflorescence and Fruit Growth

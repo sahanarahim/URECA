@@ -1,0 +1,13 @@
+Kiwifruit is a woody perennial horticultural crop, characterized by excessive vegetative vigor, prolonged juvenility, and low productivity. To understand the molecular factors controlling flowering and winter dormancy, here we identify and characterize the kiwifruit PEBP (phosphatidylethanolamine-binding protein) gene family. Five CEN-like and three BFT-like genes are differentially expressed and act as functionally conserved floral repressors, while two MFT-like genes have no impact on flowering time. FT-like genes are differentially expressed, with AcFT1 confined to shoot tip and AcFT2 to mature leaves. Both act as potent activators of flowering, but expression of AcFT2 in Arabidopsis resulted in a greater impact on plant morphology than that of AcFT1. Constitutive expression of either construct in kiwifruit promoted in vitro flowering, but AcFT2 displayed a greater flowering activation efficiency than AcFT1, leading to immediate floral transition and restriction of leaf development. Both leaf and flower differentiation were observed in AcFT1 kiwifruit lines. Sequential activation of specific PEBP genes in axillary shoot buds during growth and dormancy cycles indicated specific roles in regulation of kiwifruit vegetative and reproductive phenologies. AcCEN and AcCEN4 marked active growth, AcBFT2 was associated with suppression of latent bud growth during winter, and only AcFT was activated after cold accumulation and dormancy release.
+
+CEN-like: !repress! flowering
+BFT-like: !repress! flowering
+MFT-like: !have no impact on! flowering time
+FT-like: !activate! flowering
+AcFT1: !localizes to! shoot tip
+AcFT2: !localizes to! mature leaves
+AcFT2: !enhances! flowering activation efficiency
+AcCEN: !marks active growth!
+AcCEN4: !marks active growth!
+AcBFT2: !suppresses! latent bud growth
+AcFT: !activated after! cold accumulation

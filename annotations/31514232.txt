@@ -1,0 +1,8 @@
+Arabidopsis CRY1 and phyB are the primary blue and red light photoreceptors mediating blue and red light inhibition of hypocotyl elongation, respectively. Auxin is a pivotal phytohormone involved in promoting hypocotyl elongation. CRY1 and phyB interact with and stabilize auxin/indole acetic acid proteins (Aux/IAAs) to inhibit auxin signaling. The present study investigated whether photoreceptors might interact directly with Auxin Response Factors (ARFs) to regulate auxin signaling. Protein-protein interaction studies demonstrated that CRY1 and phyB interact physically with ARF6 and ARF8 through their N-terminal domains in a blue and red light-dependent manner, respectively. Moreover, the N-terminal DNA-binding domain of ARF6 and ARF8 is involved in mediating their interactions with CRY1. Genetic studies showed that ARF6 and ARF8 act partially downstream from CRY1 and PHYB to regulate hypocotyl elongation under blue and red light, respectively. Chromatin immunoprecipitation-PCR assays demonstrated that CRY1 and phyB mediate blue and red light repression of the DNA-binding activity of ARF6 and ARF6-target gene expression, respectively. Altogether, the results herein suggest that the direct repression of auxin-responsive gene expression mediated by the interactions of CRY1 and phyB with ARFs constitutes a new layer of the regulatory mechanisms by which light inhibits auxin-induced hypocotyl elongation.
+
+CRY1: !interacts with! ARF6
+phyB: !interacts with! ARF8
+CRY1: !represses! ARF6-target gene expression
+phyB: !represses! ARF8-target gene expression
+ARF6: !localizes to! DNA-binding domain
+ARF8: !localizes to! DNA-binding domain

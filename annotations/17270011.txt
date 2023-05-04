@@ -1,0 +1,9 @@
+['17270011', 'The Arabidopsis monovalent cation:proton antiporter-1 (CPA1) family includes  eight members, AtNHX1-8. AtNHX1 and AtNHX7/SOS1 have been well characterized as  tonoplast and plasma membrane Na+/H+ antiporters, respectively. The proteins  AtNHX2-6 have been phylogenetically linked to AtNHX1, while AtNHX8 appears to be  related to AtNHX7/SOS1. Here we report functional characterization of AtNHX8.  AtNHX8 T-DNA insertion mutants are hypersensitive to lithium ions (Li+) relative  to wild-type plants, but not to the other metal ions such as sodium (Na+),  potassium (K+) and caesium (Cs+). AtNHX8 overexpression in a triple-deletion  yeast mutant AXT3 that exhibits defective Na+/Li+ transport specifically  suppresses sensitivity to Li+, but does not affect Na+ sensitivity. Likewise,  AtNHX8 overexpression complemented sensitivity to Li+, but not Na+, in sos1-1  mutant seedlings, and increased Li+ tolerance of both the sos1-1 mutant and  wild-type seedlings. Results of Li+ and K+ measurement of loss-of-function and  gain-of-function mutants indicate that AtNHX8 may be responsible for Li+  extrusion, and may be able to maintain K+ acquisition and intracellular ion  homeostasis. Subcellular localization of the AtNHX8-enhanced green fluorescent  protein (EGFP) fusion protein suggested that AtNHX8 protein is targeted to the  plasma membrane. Taken together, our findings suggest that AtNHX8 encodes a  putative plasma membrane Li+/H+ antiporter that functions in Li detoxification  and ion homeostasis in Arabidopsis.', '2007 Feb', 'Plant J', '10.1111/j.1365-313X.2006.02990.x', 'Wang']
+
+AtNHX1: !localizes to! tonoplast 
+AtNHX7/SOS1: !localizes to! plasma membrane 
+AtNHX8: !localizes to! plasma membrane 
+AtNHX8: !enhances! Li+ tolerance 
+AtNHX8: !maintains! K+ acquisition 
+AtNHX8: !synthesizes! Li+/H+ antiporter 
+AtNHX8: !represses! Na+ sensitivity

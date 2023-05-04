@@ -1,0 +1,9 @@
+Arabidopsis METHYLTRANSFERASE 1 (MET1) controls faithful maintenance of cytosine methylation at CG sites in repetitive regions and central body regions of active genes. If MET1 is removed in a mutant background, CG methylation is lost and is only restored in specific heterochromatic regions that have maintained competence for re-methylation due to the presence of small RNAs and the RNA-directed DNA methylation pathway that controls de novo DNA methylation functions. We analysed re-methylation at a locus that loses body methylation in an met1 mutant. We found that body methylation at this locus is at least partially restored when MET1 is re-introduced into the met1 mutant background, either via genetic cross or DNA transfer. Re-methylation is region-specific but random with respect to individual CG targets, does not require passage through the germline, and its efficiency appears to be influenced by transcription. This suggests that, at least at some loci, MET1 has de novo methylation activity that can restore lost body methylation patterns. We propose that this activity helps to stabilize body methylation patterns, and the random target site selection probably also enhances the variability of body methylation patterns.
+
+MET1: !controls! CG methylation 
+met1 mutant: !loses! CG methylation 
+MET1: !restores! body methylation 
+DNA transfer: !re-introduces! MET1 
+transcription: !influences! re-methylation efficiency 
+MET1: !stabilizes! body methylation patterns 
+random target sites: !enhances! variability of body methylation patterns

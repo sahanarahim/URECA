@@ -1,0 +1,8 @@
+In eukaryotes, genes are transcribed into pre-mRNAs that are subsequently processed into mature mRNAs by adding a 5'-cap and a 3'-polyA tail and splicing introns. Pre-mRNA processing involves their binding proteins and processing factors, whereas gene transcription often involves chromatin modifiers. It has been unclear how the factors involved in chromatin modifications and RNA processing function in concert to control mRNA production. Here, we show that in Arabidopsis thaliana, the evolutionarily conserved nuclear mRNA cap-binding complex (CBC) forms multi-protein complexes with a conserved histone 3 lysine 4 (H3K4) methyltransferase complex called COMPASS-like and a histone 3 lysine 36 (H3K36) methyltransferase to integrate active histone methylations with co-transcriptional mRNA processing and cap preservation, leading to a high level of mature mRNA production. We further show that CBC is required for H3K4 and H3K36 trimethylation, and the histone methyltransferases are required for CBC-mediated mRNA cap preservation and efficient pre-mRNA splicing at their target loci, suggesting that these factors are functionally interdependent. Our study reveals novel roles for histone methyltransferases in RNA-processing-related events and provides mechanistic insights into how the 'downstream' RNA CBC controls eukaryotic gene transcription.
+
+CBC: !forms complexes with! COMPASS-like 
+CBC: !integrates active histone methylations with! co-transcriptional mRNA processing 
+CBC: !required for! H3K4 and H3K36 trimethylation 
+COMPASS-like: !required for! CBC-mediated mRNA cap preservation 
+H3K4 methyltransferase complex: !forms complexes with! CBC 
+H3K36 methyltransferase: !forms complexes with! CBC

@@ -1,0 +1,10 @@
+How genetic variations affect gene expression dynamics of field-grown plants remains unclear. Expression quantitative trait loci (eQTL) analysis is frequently used to find genomic regions underlying gene expression polymorphisms. This approach requires transcriptome data for the complete set of the QTL mapping population under the given conditions. Therefore, only a limited range of environmental conditions is covered by a conventional eQTL analysis. We sampled sparse time series of field-grown rice from chromosome segment substitution lines (CSSLs) and conducted RNA sequencing (RNA-Seq). Then, by using statistical analysis integrating meteorological data and the RNA-Seq data, we identified 1,675 eQTLs leading to polymorphisms in expression dynamics under field conditions. A genomic region on chromosome 11 influences the expression of several defense-related genes in a time-of-day- and scaled-age-dependent manner. This includes the eQTLs that possibly influence the time-of-day- and scaled-age-dependent differences in the innate immunity between Koshihikari and Takanari. Based on the eQTL and meteorological data, we successfully predicted gene expression under environments different from training environments and in rice cultivars with more complex genotypes than the CSSLs. Our novel approach of eQTL identification facilitated the understanding of the genetic architecture of expression dynamics under field conditions, which is difficult to assess by conventional eQTL studies. The prediction of expression based on eQTLs and environmental information could contribute to the understanding of plant traits under diverse field conditions.
+
+Gene: !affects! Expression dynamics
+Genetic variations: !affects! Gene expression dynamics
+eQTL analysis: !finds! Genomic regions
+RNA-Seq: !identifies! eQTLs
+Chromosome 11: !influences! Defense-related genes
+Time-of-day: !influences! Innate immunity
+Meteorological data: !integrates with! RNA-Seq data
+Prediction: !based on! eQTLs and environmental information

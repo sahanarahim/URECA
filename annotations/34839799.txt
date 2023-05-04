@@ -1,0 +1,16 @@
+<i>Selaginella tamariscina</i> is a lycophyta species that survives under extremely dry conditions via the mechanism of resurrection. This phenomenon involves the regulation of numerous genes that play vital roles in desiccation tolerance and subsequent rehydration. To identify resurrection-related genes, we analyzed the transcriptome between dehydration conditions and rehydration conditions of <i>S. tamariscina</i>. The <i>de novo</i> assembly generated 124,417 transcripts with an average size of 1,000 bp and 87,754 unigenes. Among these genes, 1,267 genes and 634 genes were up and down regulated by rehydration compared to dehydration. To understand gene function, we annotated Gene Ontology (GO) and the Kyoto Encyclopedia of Genes and Genomes (KEGG). The unigenes encoding early light-inducible protein (<i>ELIP</i>) were down-regulated, whereas pentatricopeptide repeat-containing protein (<i>PPR</i>), late embryogenesis abundant proteins (<i>LEA</i>), sucrose nonfermenting protein (<i>SNF</i>), trehalose phosphate phosphatase (<i>TPP</i>), trehalose phosphate synthase (<i>TPS</i>), and ABC transporter G family (<i>ABCG</i>) were significantly up-regulated in response to rehydration conditions by differentially expressed genes (DEGs) analysis. Several studies provide evidence that these genes play a role in stress environment. The <i>ELIP</i> and <i>PPR</i> genes are involved in chloroplast protection during dehydration and rehydration. <i>LEA, SNF</i>, and trehalose genes are known to be oxidant scavengers that protect the cell structure from the deleterious effect of drought. <i>TPP</i> and <i>TPS</i> genes were found in the starch and sucrose metabolism pathways, which are essential sugar-signaling metabolites regulating plant metabolism and other biological processes. <i>ABC-G</i> gene interacts with abscisic acid (ABA) phytohormone in the stomata opening during stress conditions. Our findings provide valuable information and candidate resurrection genes for future functional analysis aimed at improving the drought tolerance of crop plants.
+
+ELIP: !down-regulated by! rehydration
+PPR: !up-regulated by! rehydration
+LEA: !up-regulated by! rehydration
+SNF: !up-regulated by! rehydration
+TPP: !up-regulated by! rehydration
+TPS: !up-regulated by! rehydration
+ABCG: !up-regulated by! rehydration
+ELIP: !involved in! chloroplast protection
+PPR: !involved in! chloroplast protection
+LEA: !scavenges! oxidants
+SNF: !scavenges! oxidants
+TPP: !involved in! starch and sucrose metabolism
+TPS: !involved in! starch and sucrose metabolism
+ABCG: !interacts with! ABA

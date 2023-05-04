@@ -1,0 +1,10 @@
+['7477325', 'The Arabidopsis gene SUPERMAN (SUP) is necessary for the proper spatial  development of reproductive floral tissues. Recessive mutations cause extra  stamens to form interior to the normal third whorl stamens, at the expense of  fourth whorl carpel development. The mutant phenotype is associated with the  ectopic expression of the B function genes, AP3 and PI, in the altered floral  region, closer to the centre of the flower than in the wild type, and ap3 sup and  pi sup double mutants exhibit a phenotype similar to ap3 and pi single mutants.  These findings led to SUP being interpreted as an upstream negative regulator of  the B function organ-identity genes, acting in the fourth whorl, to establish a  boundary between stamen and carpel whorls. Here we show, using molecular cloning  and analysis, that it is expressed in the third whorl and acts to maintain this  boundary in developing flowers. The putative SUPERMAN protein contains one  zinc-finger and a region resembling a basic leucine zipper motif, suggesting a  function in transcriptional regulation.', '1995 Nov 9', 'Nature', '10.1038/378199a0', 'Meyerowitz']
+
+SUP: !regulates! B function genes
+SUP: !maintains! boundary between stamen and carpel whorls
+SUP: !contains! zinc-finger
+SUP: !contains! basic leucine zipper motif
+AP3: !expressed in! altered floral region
+PI: !expressed in! altered floral region
+ap3 sup: !exhibits phenotype similar to! ap3 single mutants
+pi sup: !exhibits phenotype similar to! pi single mutants

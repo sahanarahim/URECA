@@ -1,0 +1,9 @@
+Plant growth and architecture is regulated by the polar distribution of the hormone auxin. Polarity and flexibility of this process is provided by constant cycling of auxin transporter vesicles along actin filaments, coordinated by a positive auxin-actin feedback loop. Both polar auxin transport and vesicle cycling are inhibited by synthetic auxin transport inhibitors, such as 1-N-naphthylphthalamic acid (NPA), counteracting the effect of auxin; however, underlying targets and mechanisms are unclear. Using NMR, we map the NPA binding surface on the Arabidopsis thaliana ABCB chaperone TWISTED DWARF1 (TWD1). We identify ACTIN7 as a relevant, although likely indirect, TWD1 interactor, and show TWD1-dependent regulation of actin filament organization and dynamics and that TWD1 is required for NPA-mediated actin cytoskeleton remodeling. The TWD1-ACTIN7 axis controls plasma membrane presence of efflux transporters, and as a consequence act7 and twd1 share developmental and physiological phenotypes indicative of defects in auxin transport. These can be phenocopied by NPA treatment or by chemical actin (de)stabilization. We provide evidence that TWD1 determines downstream locations of auxin efflux transporters by adjusting actin filament debundling and dynamizing processes and mediating NPA action on the latter. This function appears to be evolutionary conserved since TWD1 expression in budding yeast alters actin polarization and cell polarity and provides NPA sensitivity.
+
+auxin: !regulates! Plant growth and architecture
+TWD1: !binds to! NPA
+TWD1: !interacts with! ACTIN7
+TWD1: !controls! Actin filament organization and dynamics
+TWD1: !determines! Locations of auxin efflux transporters
+TWD1: !mediates! NPA action on actin filaments
+TWD1: !alters! Actin polarization and cell polarity in yeast

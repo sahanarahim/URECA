@@ -1,0 +1,10 @@
+['8776904', 'A yeast mutant lacking SHR3, a protein specifically required for correct  targeting of plasma membrane amino acid permeases, was used to study the  targeting of plant transporters and as a tool to isolate new SHR3-independent  amino acid transporters. For this purpose, an shr3 mutant was transformed with an  Arabidopsis cDNA library. Thirty-four clones were capable of growth under  selective conditions, but none showed homology with SHR3. However, genes encoding  eight different amino acid transporters belonging to three different transporter  families were isolated. Five of these are members of the general amino acid  permease (AAP) gene family, one is a member of the NTR family, encoding an  oligopeptide transporter, and two belong to a new class of transporter genes. A  functional analysis of the latter two genes revealed that they encode specific  proline transporters (ProT) that are distantly related to the AAP gene family.  ProT1 was found to be expressed in all organs, but highest levels were found in  roots, stems, and flowers. Expression in flowers was highest in the floral stalk  phloem that enters the carpels and was downregulated after fertilization,  indicating a specific role in supplying the ovules with proline. ProT2  transcripts were found ubiquitously throughout the plant, but expression was  strongly induced under water or salt stress, implying that ProT2 plays an  important role in nitrogen distribution during water stress, unlike members of  the AAP gene family whose expression was repressed under the same conditions.  These results corroborate the general finding that under water stress, amino acid  export is impaired whereas proline export is increased.', '1996 Aug', 'Plant Cell', '10.1105/tpc.8.8.1437', 'Frommer']
+
+SHR3: !affects! Targeting of plasma membrane amino acid permeases
+shr3 mutant: !transformed with! Arabidopsis cDNA library
+AAP gene family: !contains! Five transporters
+NTR family: !encodes! Oligopeptide transporter
+ProT1: !expressed in! All organs
+ProT2: !induced under! Water or salt stress
+AAP gene family: !repressed under! Water stress
+Proline export: !increased under! Water stress

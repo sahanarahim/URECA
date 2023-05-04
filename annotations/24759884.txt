@@ -1,0 +1,8 @@
+As a core factor in S-RNase-based gametophytic self-incompatibility (GSI), the SCF (SKP1-Cullin1-F-box-Rbx1) complex (including pollen determinant SLF, S-locus-F-box) functions as an E3 ubiquitin ligase on non-self S-RNase. The SCF complex is formed by SKP1 bridging between SLF, CUL1, and Rbx1; however, it is not known whether an SCF complex lacking SKP1 can mediate the ubiquitination of S-RNase. Three SKP1-like genes from pollen were cloned based on the structural features of the SLF-interacting-SKP1-like (SSK) gene and the 'Golden Delicious' apple genome. These genes have a motif of five amino acids following the standard 'WAFE' at the C terminal and, in addition, contain eight sheets and two helices. All three genes were expressed exclusively in pollen. In the yeast two-hybrid and pull-down assays only one was found to interact with MdSFBB and MdCUL1, suggesting it is the SLF-interacting SKP1-like gene in apple which was named MdSSK1. In vitro experiments using MdSSK1, S2-MdSFBB1 (S2-Malus domestica S-locus-F-box brother) and MdCUL1 proteins incubated with S 2-RNase and ubiquitin revealed that the SCF complex ubiquitinylates S-RNase in vitro, while MdSBP1 (Malus domestica S-RNase binding protein 1) could not functionally replace MdSSK1 in the SCF complex in ubiquitinylating S-RNase. According to the above experiments, MdSBP1 is probably the only factor responsible for recognition with S-RNase, while not a component of the SCF complex, and an SCF complex containing MdSSK1 is required for mediating the ubiquitination of S-RNase.
+
+MdSSK1: !interacts with! MdSFBB
+MdSSK1: !interacts with! MdCUL1
+MdSBP1: !recognizes! S-RNase
+SCF complex: !ubiquitinylates! S-RNase
+MdSSK1: !forms part of! SCF complex
+MdSBP1: !cannot replace! MdSSK1

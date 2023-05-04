@@ -1,0 +1,8 @@
+Polyploidy is a common phenomenon, particularly in plants. The soybean (Glycine max [L.] Merr.) genome has undergone two whole genome duplication (WGD) events. The conservation and divergence of duplicated gene pairs are major contributors to genome evolution. D1 and D2 are two unlinked, paralogous nuclear genes, whose double-recessive mutant (d1d1d2d2) results in chlorophyll retention, called 'stay-green'. Through molecular cloning and functional analyses, we demonstrated that D1 and D2 are homologs of the STAY-GREEN (SGR) genes from other plant species and were duplicated as a result of the most recent WGD in soybean. Transcriptional analysis showed that both D1 and D2 were more highly expressed in older tissues, and chlorophyll degradation and programmed cell death-related genes were suppressed in a d1d2 double mutant, this situation indicated that these genes are probably involved in the early stages of tissue senescence. Investigation of genes that flank D1 and D2 revealed that evolution within collinear duplicated blocks may affect the conservation of individual gene pairs within the blocks. Moreover, we found that a long terminal repeat retrotransposon, GmD2IN, resulted in the d2 mutation. Further analysis of this retrotransposon family showed that insertion in or near the coding regions can affect gene expression or splicing patterns, and may be an important force to promote the divergence of duplicated gene pairs.
+
+D1: !duplicated from! D2
+D1: !suppresses! chlorophyll degradation
+D2: !duplicated from! D1
+D2: !suppresses! programmed cell death
+GmD2IN: !inserted in! D2
+GmD2IN: !affects! gene expression

@@ -1,0 +1,8 @@
+As a critical part of plant immunity, cells that are attacked by pathogens undergo rapid transcriptional reprogramming to minimize virulence. Many bacterial phytopathogens use type III effector (T3E) proteins to interfere with plant defense responses, including this transcriptional reprogramming. Here, we show that Xanthomonas outer protein S (XopS), a T3E of Xanthomonas campestris pv. vesicatoria (Xcv), interacts with and inhibits proteasomal degradation of WRKY40, a transcriptional regulator of defense gene expression. Virus-induced gene silencing of WRKY40 in pepper (Capsicum annuum) enhanced plant tolerance to Xcv infection, indicating that WRKY40 represses immunity. Stabilization of WRKY40 by XopS reduces the expression of its targets, which include salicylic acid-responsive genes and the jasmonic acid signaling repressor JAZ8. Xcv bacteria lacking XopS display significantly reduced virulence when surface inoculated onto susceptible pepper leaves. XopS delivery by Xcv, as well as ectopic expression of XopS in Arabidopsis thaliana or Nicotiana benthamiana, prevented stomatal closure in response to bacteria and biotic elicitors. Silencing WRKY40 in pepper or N. benthamiana abolished XopS's ability to prevent stomatal closure. This suggests that XopS interferes with both preinvasion and apoplastic defense by manipulating WRKY40 stability and downstream gene expression, eventually altering phytohormone crosstalk to promote pathogen proliferation.
+
+XopS: !interacts with! WRKY40
+WRKY40: !represses! immunity
+XopS: !inhibits! proteasomal degradation of WRKY40
+XopS: !prevents! stomatal closure
+WRKY40: !regulates! salicylic acid-responsive genes
+WRKY40: !regulates! JAZ8

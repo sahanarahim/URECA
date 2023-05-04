@@ -1,0 +1,7 @@
+['29242232', "The communication of changes in the extracellular matrix to the interior of the  cell is crucial for a cell's function. The extracellular peptides of the RAPID  ALKALINIZATION FACTOR (RALF) family have been identified as ligands of  receptor-like kinases of the CrRLK1L subclass, but the exact mechanism of their  perception is unclear. We found that Arabidopsis RALF4 and RALF19 redundantly  regulate pollen tube integrity and growth, and that their function depends on  pollen-expressed proteins of the LEUCINE-RICH REPEAT EXTENSIN (LRX) family, which  play a role in cell wall development but whose mode of action is not understood.  The LRX proteins interact with RALFs, monitoring cell wall changes, which are  communicated to the interior of the pollen tube via the CrRLK1L pathway to  sustain normal growth.", '2017 Dec 22', 'Science', '10.1126/science.aao5467', 'ORCID:']
+
+RALF: !ligands of! CrRLK1L
+LRX: !interacts with! RALF
+RALF: !regulates! pollen tube integrity/growth
+LRX: !monitors! cell wall changes
+CrRLK1L: !communicates! cell wall changes

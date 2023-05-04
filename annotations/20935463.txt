@@ -1,0 +1,6 @@
+Abscisic acid (ABA) is a phytohormone that plays an important role in responses to environmental stresses as well as seed maturation and germination. Intracellular signaling by ABA has been rigorously investigated in relation to stomatal guard-cell regulation, seed germination, and abiotic stress responses. However, intercellular regulation of ABA, including the molecular basis of ABA transport systems, has hardly been examined in any plant species. Based on genetic and biochemical analyses, we present evidence that one of the ATP-binding cassette (ABC) transporter genes, AtABCG25, encodes a protein that functions as an ABA exporter through the plasma membrane and is involved in the intercellular ABA signaling pathway. The ABC-type transporter is conserved in model species from E. coli to humans and is reported to transport various metabolites or signaling molecules in an ATP-dependent manner. At same time, another ABC transporter in Arabidopsis, AtABCG40, was independently reported to function as an ABA importer in plant cells. These findings strongly suggest the active control of ABA transport between plant cells, and they provide a novel impetus for examining ABA intercellular regulation.
+
+AtABCG25: !exports! ABA 
+AtABCG40: !imports! ABA 
+AtABCG25: !transports! metabolites/signaling molecules 
+AtABCG40: !transports! metabolites/signaling molecules

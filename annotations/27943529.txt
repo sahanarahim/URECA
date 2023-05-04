@@ -1,0 +1,11 @@
+In recent years, lipid droplets have emerged as dynamic organelles rather than inactive storage sites for triacylglycerol. The number of proteins known to be associated with lipid droplets has increased, but remains small in comparison with those found with other organelles. Also the mechanisms of how lipid droplets are recognized and bound by proteins need deeper investigation. Here, we present a fast, simple and inexpensive approach to assay proteins for their association with lipid droplets in vivo that can help to screen protein candidates or mutated variants of proteins for their association in an efficient manner. For this, a system to transiently transform Nicotiana tabacum pollen grains was used because these naturally contain lipid droplets. We designed vectors for fast cloning of genes as fusions with either mVenus or mCherry. This allowed us to assay colocalization with lipid droplets stained with Nile Red and Bodipy 505/515, respectively. We successfully tested our system not only for proteins from Arabidopsis thaliana, but also for proteins from the moss Physcomitrella patens and the alga Chlamydomonas reinhardtii. The small size of the vector used allows easy exchange of codons by site-directed mutagenesis. We used this to show that two proline residues in the proline knot of a caleosin are not essential for the binding of lipid droplets. We also demonstrated that peroxisomes are not associated with the lipid droplets in tobacco pollen tubes, which reduces the risk of false interpretation of microscopic data in our system.
+
+mVenus: !colocalizes with! lipid droplets 
+mCherry: !colocalizes with! lipid droplets 
+Nile Red: !stains! lipid droplets 
+Bodipy 505/515: !stains! lipid droplets 
+Arabidopsis thaliana proteins: !assayed for association with! lipid droplets 
+Physcomitrella patens proteins: !assayed for association with! lipid droplets 
+Chlamydomonas reinhardtii proteins: !assayed for association with! lipid droplets 
+proline knot of caleosin: !tested for binding to! lipid droplets 
+peroxisomes: !not associated with! lipid droplets

@@ -1,0 +1,13 @@
+Comprehensive expression profiles of Arabidopsis (Arabidopsis thaliana) MIRNA genes and mature microRNAs (miRs) are currently not available. We established a quantitative real-time polymerase chain reaction platform that allows rapid and sensitive quantification of 177 Arabidopsis primary miR transcripts (pri-miRs). The platform was used to detect phosphorus (P) or nitrogen (N) status-responsive pri-miR species. Several pri-miR169 species as well as pri-miR398a were found to be repressed during N limitation, whereas during P limitation, pri-miR778, pri-miR827, and pri-miR399 species were induced and pri-miR398a was repressed. The corresponding responses of the biologically active, mature miRs were confirmed using specific stem-loop reverse transcription primer quantitative polymerase chain reaction assays and small RNA sequencing. Interestingly, the latter approach also revealed high abundance of some miR star strands. Bioinformatic analysis of small RNA sequences with a modified miRDeep algorithm led to the identification of the novel P limitation-induced miR2111, which is encoded by two loci in the Arabidopsis genome. Furthermore, miR2111, miR169, a miR827-like sequence, and the abundances of several miR star strands were found to be strongly dependent on P or N status in rapeseed (Brassica napus) phloem sap, flagging them as candidate systemic signals. Taken together, these results reveal the existence of complex small RNA-based regulatory networks mediating plant adaptation to mineral nutrient availability.
+
+pri-miR169: !repressed by! N limitation
+pri-miR398a: !repressed by! N limitation
+pri-miR778: !induced by! P limitation
+pri-miR827: !induced by! P limitation
+pri-miR399: !induced by! P limitation
+pri-miR398a: !repressed by! P limitation
+miR2111: !identified by! modified miRDeep algorithm
+miR2111: !encoded by! two loci in Arabidopsis genome
+miR169: !dependent on! P or N status
+miR827-like sequence: !dependent on! P or N status
+miR star strands: !dependent on! P or N status

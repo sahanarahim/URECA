@@ -1,0 +1,8 @@
+Recent advances in unmanned aerial vehicle (UAV) remote sensing and image analysis provide large amounts of plant canopy data, but there is no method to integrate the large imagery datasets with the much smaller manually collected datasets. A simple geographic information system (GIS)-based analysis for a UAV-supported field study (GAUSS) analytical framework was developed to integrate these datasets. It has three steps: developing a model for predicting sample values from UAV imagery, field gridding and trait value prediction, and statistical testing of predicted values. A field cultivation experiment was conducted to examine the effectiveness of the GAUSS framework, using a soybean-wheat crop rotation as the model system Fourteen soybean cultivars and subsequently a single wheat cultivar were grown in the same field. The crop rotation benefits of the soybeans for wheat yield were examined using GAUSS. Combining manually sampled data (<i>n</i> = 143) and pixel-based UAV imagery indices produced a large amount of high-spatial-resolution predicted wheat yields (<i>n</i> = 8,756). Significant differences were detected among soybean cultivars in their effects on wheat yield, and soybean plant traits were associated with the increases. This is the first reported study that links traits of legume plants with rotational benefits to the subsequent crop. Although some limitations and challenges remain, the GAUSS approach can be applied to many types of field-based plant experimentation, and has potential for extensive use in future studies.
+
+UAV: !integrates with! GIS
+GIS: !supports! GAUSS
+GAUSS: !predicts! sample values
+GAUSS: !tests! predicted values
+Soybean: !affects! wheat yield
+Soybean traits: !associated with! increases

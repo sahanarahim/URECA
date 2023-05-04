@@ -1,0 +1,12 @@
+In Arabidopsis (Arabidopsis thaliana), the carotenoid cleavage dioxygenases MORE AXILLARY GROWTH3 (MAX3) and MAX4 act together with MAX1 to produce a strigolactone signaling molecule required for the inhibition of axillary bud outgrowth. We show that both MAX3 and MAX4 transcripts are positively auxin regulated in a manner similar to the orthologous genes from pea (Pisum sativum) and rice (Oryza sativa), supporting evolutionary conservation of this regulation in plants. This regulation is important for branching control because large auxin-related reductions in these transcripts are associated with increased axillary branching. Both transcripts are up-regulated in max mutants, and consistent with max mutants having increased auxin in the polar auxin transport stream, this feedback regulation involves auxin signaling. We suggest that both auxin and strigolactone have the capacity to modulate each other's levels and distribution in a dynamic feedback loop required for the coordinated control of axillary branching.
+
+MAX3: !acts together with! MAX4 
+MAX3: !positively regulated by! auxin 
+MAX3: !up-regulated in! max mutants 
+MAX4: !acts together with! MAX1 
+MAX4: !positively regulated by! auxin 
+MAX4: !up-regulated in! max mutants 
+auxin: !regulates! MAX3 
+auxin: !regulates! MAX4 
+strigolactone: !modulates! auxin 
+auxin: !modulates! strigolactone

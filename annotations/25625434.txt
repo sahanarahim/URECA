@@ -1,0 +1,11 @@
+A biological pathway is the set of molecular entities involved in a given biological process and the interrelations among them. Even though biological pathways have been studied extensively, discovering missing genes in pathways remains a fundamental challenge. Here, we present an easy-to-use tool that allows users to run MORPH (MOdule-guided Ranking of candidate PatHway genes), an algorithm for revealing missing genes in biological pathways, and demonstrate its capabilities. MORPH supports the analysis in tomato, Arabidopsis and the two new species: rice and the newly sequenced potato genome. The new tool, called MORPH-R, is available both as a web server (at http://bioinformatics.psb.ugent.be/webtools/morph/) and as standalone software that can be used locally. In the standalone version, the user can apply the tool to new organisms using any proprietary and public data sources.
+
+Gene: !affects! Process 
+Gene: !localizes to! X 
+Gene: !interacts with! Y 
+Gene: !enhances! Z 
+Gene: !represses! U 
+Gene: !synthesizes! I 
+MORPH: !reveals! Missing Genes 
+MORPH-R: !supports! Analysis 
+Tomato/Arabidopsis/Rice/Potato: !analyzed by! MORPH-R

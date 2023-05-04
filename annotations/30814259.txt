@@ -1,0 +1,8 @@
+RNA-directed DNA methylation (RdDM) is a set of mechanisms by which transcriptionally repressive DNA and histone methylation are targeted to viruses, transposable elements, and some transgenes. We identified an Arabidopsis (<i>Arabidopsis thaliana</i>) mutant in which all forms of RdDM are deficient, leading to transcriptional activation of some transposable elements and the inability to initiate transgene silencing. The corresponding gene, <i>ALY1</i>, encodes an RNA binding nuclear export protein. Arabidopsis ALY proteins function together to export many messenger RNAs (mRNAs), but we found that ALY1 is unique among this family for its ability to enable RdDM. Through the identification of ALY1 direct targets via RNA immunoprecipitation sequencing, coupled with mRNA sequencing of nuclear and cytoplasmic fractions, we identified mRNAs of known RdDM factors that fail to efficiently export from the nucleus in <i>aly1</i> mutants. We found that loss of RdDM in <i>aly1</i> is a result of deficient nuclear export of the <i>ARGONAUTE6</i> mRNA and subsequent decreases in ARGONAUTE6 protein, a key effector of RdDM. One <i>aly1</i> allele was more severe due to an additional loss of RNA Polymerase V function, which is also necessary for RdDM. Together, our data reconcile the broad role of ALY1 in mRNA export with the specific loss of RdDM through the activities of ARGONAUTE6 and RNA Polymerase V.
+
+ALY1: !enables! RdDM
+ARGONAUTE6 mRNA: !exported by! ALY1
+ALY1: !deficient in! aly1 mutants
+ARGONAUTE6 protein: !decreases due to! deficient nuclear export of ARGONAUTE6 mRNA
+RNA Polymerase V: !necessary for! RdDM
+aly1 allele: !more severe due to! additional loss of RNA Polymerase V function

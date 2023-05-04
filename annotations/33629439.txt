@@ -1,0 +1,11 @@
+Plant nucleotide-binding leucine-rich repeat receptors (NLRs) act as intracellular sensors for pathogen-derived effector proteins and trigger an immune response, frequently resulting in the hypersensitive cell death response (HR) of the infected host cell. The wheat (Triticum aestivum) NLR Pm2 confers resistance against the fungal pathogen Blumeria graminis f. sp. tritici (Bgt) if the isolate contains the specific RNase-like effector AvrPm2. We identified and isolated seven new Pm2 alleles (Pm2e-i) in the wheat D-genome ancestor Aegilops tauschii and two new natural AvrPm2 haplotypes from Bgt. Upon transient co-expression in Nicotiana benthamiana, we observed a variant-specific HR of the Pm2 variants Pm2a and Pm2i towards AvrPm2 or its homolog from the AvrPm2 effector family, BgtE-5843, respectively. Through the introduction of naturally occurring non-synonymous single nucleotide polymorphisms and structure-guided mutations, we identified single amino acids in both the wheat NLR Pm2 and the fungal effector proteins AvrPm2 and BgtE-5843 responsible for the variant-specific HR of the Pm2 variants. Exchanging these amino acids led to a modified HR of the Pm2-AvrPm2 interaction and allowed the identification of the effector head epitope, a 20-amino-acid long unit of AvrPm2 involved in the HR. Swapping of the AvrPm2 head epitope to the non-HR-triggering AvrPm2 family member BgtE-5846 led to gain of a HR by Pm2a. Our study presents a molecular approach to identify crucial effector surface structures involved in the HR and demonstrates that natural and induced diversity in an immune receptor and its corresponding effectors can provide the basis for understanding and modifying NLR-effector specificity.
+
+Pm2: !triggers! HR 
+AvrPm2: !triggers! HR 
+BgtE-5843: !triggers! HR 
+Pm2: !interacts with! AvrPm2 
+Pm2: !interacts with! BgtE-5843 
+AvrPm2: !contains! head epitope 
+BgtE-5846: !contains! head epitope 
+Pm2: !enhances! HR 
+AvrPm2: !modifies! HR

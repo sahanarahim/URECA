@@ -1,0 +1,15 @@
+The evolutionary relationships of <i>Salvia</i> have been difficult to estimate. In this study, we used the Next Generation Sequencing method Hyb-Seq to evaluate relationships among 90 Lamiaceae samples, including representatives of <i>Mentheae, Ocimeae, Salvia</i> subgenera <i>Audibertia, Leonia, Salvia</i>, and 69 species of subgenus <i>Calosphace</i>, representing 32 of Epling's sections. A bait set was designed in MarkerMiner using available transcriptome data to enrich 119 variable nuclear loci. Nuclear and chloroplast loci were assembled with <i>hybphylomaker</i> (HPM), followed by coalescent approach analyses for nuclear data (ASTRAL, BEAST) and a concatenated Maximum Likelihood analysis of chloroplast loci. The HPM assembly had an average of 1,314,368 mapped reads for the sample and 527 putative exons. Phylogenetic inferences resolved strongly supported relationships for the deep-level nodes, agreeing with previous hypotheses which assumed that subgenus <i>Audibertia</i> is sister to subgenus <i>Calosphace</i>. Within subgenus <i>Calosphace</i>, we recovered eight monophyletic sections <i>sensu</i> Epling, <i>Cardinalis, Hastatae, Incarnatae</i>, and <i>Uricae</i> in all the analyses (nDNA and cpDNA), <i>Biflorae, Lavanduloideae</i>, and <i>Sigmoideae</i> in nuclear analyses (ASTRAL, BEAST) and <i>Curtiflorae</i> in ASTRAL trees. Network analysis supports deep node relationships, some of the main clades, and recovers reticulation within the core <i>Calosphace</i>. The chloroplast phylogeny resolved deep nodes and four monophyletic <i>Calosphace</i> sections. Placement of <i>S. axillaris</i> is distinct in nuclear evidence and chloroplast, as sister to the rest of the <i>S</i>. subg. <i>Calosphace</i> in chloroplast and a clade with "<i>Hastatae</i> clade" sister to the rest of the subgenus in nuclear evidence. We also tested the monophyly of <i>S. hispanica, S. polystachia, S. purpurea</i>, and <i>S</i>. <i>tiliifolia</i>, including two samples of each, and found that <i>S. hispanica</i> and <i>S. purpurea</i> are monophyletic. Our baits can be used in future studies of Lamiaceae phylogeny to estimate relationships between genera and among species. In this study, we presented a Hyb-Seq phylogeny for complex, recently diverged <i>Salvia</i>, which could be implemented in other Lamiaceae.
+
+Hyb-Seq: !evaluates! relationships 
+Next Generation Sequencing: !used to! enrich variable nuclear loci 
+MarkerMiner: !designed in! Hyb-Seq 
+hybphylomaker: !assembles! nuclear and chloroplast loci 
+ASTRAL, BEAST: !analyzes! nuclear data 
+Maximum Likelihood: !analyzes! chloroplast loci 
+Epling's sections: !resolved! by phylogenetic inferences 
+Audibertia: !sister to! Calosphace 
+Calosphace: !resolved! 8 monophyletic sections 
+Network analysis: !supports! deep node relationships 
+Chloroplast phylogeny: !resolves! deep nodes 
+S. axillaris: !distinct! in nuclear and chloroplast evidence 
+S. hispanica, S. polystachia, S. purpurea, S. tiliifolia: !tested! for monophyly

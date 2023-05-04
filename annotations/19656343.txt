@@ -1,0 +1,10 @@
+During the initial stages of flower development, floral meristems increase in size without the formation of floral organs. When a critical meristem size is reached, the floral meristem begins to develop the floral organs. The first stages of flower development are characterized by the expression of genes such as Apetala 1 (AP1), cauliflower (CAL), AGAMOUS-LIKE 24 (AGL24) and short vegetative phase (SVP). We have shown that AP1, AGL24 and SVP act redundantly to control the identity of the floral meristem and to repress expression of class B, C and E genes. Recently, it was shown that class E gene repression was direct and established by two independent pathways. We show here that repression of class B and C genes is also directly established by a co-repressor complex that comprises LEUNIG (LUG), SEUSS (SEU) and the MADS box dimers AP1-AGL24 and AP1-SVP. Furthermore, we show that the distantly related suppressor of overexpression of CO 1 (SOC1) MADS box gene can complement for the loss of AGL24 and SVP activity; however, under normal conditions, this transcription factor does not play a role during the early stages of flower development.
+
+AP1: !represses! class B and C genes
+AGL24: !represses! class B and C genes
+SVP: !represses! class B and C genes
+LUG: !interacts with! SEU
+SEU: !interacts with! LUG
+AP1-AGL24: !forms! co-repressor complex
+AP1-SVP: !forms! co-repressor complex
+SOC1: !complements! AGL24 and SVP

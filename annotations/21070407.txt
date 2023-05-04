@@ -1,0 +1,13 @@
+Cellular folates function as co-enzymes in one-carbon metabolism and are predominantly decorated with a polyglutamate tail that enhances co-enzyme affinity, subcellular compartmentation and stability. Polyglutamylation is catalysed by folylpolyglutamate synthetases (FPGSs) that are specified by three genes in Arabidopsis, FPGS1, 2 and 3, which reportedly encode plastidic, mitochondrial and cytosolic isoforms, respectively. A mutational approach was used to probe the functional importance of folate polyglutamylation in one-carbon metabolism and development. Biochemical analysis of single FPGS loss-of-function mutants established that folate polyglutamylation is essential for organellar and whole-plant folate homeostasis. However, polyglutamylated folates were still detectable, albeit at lower levels, in organelles isolated from the corresponding isozyme knockout lines, e.g. in plastids and mitochondria of the fpgs1 (plastidial) and fpgs2 (mitochondrial) mutants. This result is surprising given the purported single-compartment targeting of each FPGS isozyme. These results indicate redundancy in compartmentalised FPGS activity, which in turn explains the lack of anticipated phenotypic defects for the single FPGS mutants. In agreement with this hypothesis, fpgs1 fpgs2 double mutants were embryo-lethal, fpgs2 fpgs3 mutants exhibited seedling lethality, and fpgs1 fpgs3 mutants were dwarfed with reduced fertility. These phenotypic, metabolic and genetic observations are consistent with targeting of one or more FPGS isozymes to multiple organelles. These data confirm the importance of polyglutamylation in folate compartmentation, folate homeostasis and folate-dependent metabolic processes, including photorespiration, methionine and pantothenate biosynthesis.
+
+FPGS1: !localizes to! plastids
+FPGS2: !localizes to! mitochondria
+FPGS3: !localizes to! cytosol
+FPGS1: !interacts with! FPGS2
+FPGS2: !interacts with! FPGS3
+FPGS1: !synthesizes! polyglutamylated folates
+FPGS2: !synthesizes! polyglutamylated folates
+FPGS3: !synthesizes! polyglutamylated folates
+polyglutamylation: !enhances! co-enzyme affinity
+polyglutamylation: !enhances! subcellular compartmentation
+polyglutamylation: !enhances! stability

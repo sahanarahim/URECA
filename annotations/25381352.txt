@@ -1,0 +1,8 @@
+Organ formation relies upon precise patterns of gene expression that are under tight spatial and temporal regulation. Transcription patterns are specified by several cellular processes during development, including chromatin remodeling, but little is known about how chromatin-remodeling factors contribute to plant organogenesis. We demonstrate that the trithorax group (trxG) gene ULTRAPETALA1 (ULT1) and the GARP transcription factor gene KANADI1 (KAN1) organize the Arabidopsis thaliana gynoecium along two distinct polarity axes. We show that ULT1 activity is required for the kan1 adaxialized polarity defect, indicating that ULT1 and KAN1 act oppositely to regulate the adaxial-abaxial axis. Conversely, ULT1 and KAN1 together establish apical-basal polarity by promoting basal cell fate in the gynoecium, restricting the expression domain of the basic helix-loop-helix transcription factor gene SPATULA. Finally, we show that ult alleles display dose-dependent genetic interactions with kan alleles and that ULT and KAN proteins can associate physically. Our findings identify a dual role for plant trxG factors in organ patterning, with ULT1 and KAN1 acting antagonistically to pattern the adaxial-abaxial polarity axis but jointly to pattern the apical-basal axis. Our data indicate that the ULT proteins function to link chromatin-remodeling factors with DNA binding transcription factors to regulate target gene expression.
+
+ULTRAPETALA1: !regulates! KANADI1
+ULTRAPETALA1: !promotes! basal cell fate
+KANADI1: !regulates! ULTRAPETALA1
+KANADI1: !restricts! SPATULA expression
+ULTRAPETALA1: !interacts with! KANADI1
+ULTRAPETALA1: !links! chromatin-remodeling factors

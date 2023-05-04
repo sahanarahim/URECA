@@ -1,0 +1,6 @@
+['10700397', "We report that the cDNA clone (Accession No. U70424), previously isolated from  Arabidopsis thaliana as encoding a caffeic acid/5-hydroxyferulic acid  O-methyltransferase (OMT) (1), has now been overexpressed in Escherichia coli  BL21 and its recombinant protein identified as a novel flavonol 3'-OMT. It is,  therefore, renamed AtOMT1. This cDNA clone has previously been identified on the  basis of its 88% amino acid sequence similarity and 80% identity to the aspen  bispecific lignin OMT (2), the type member of the group involved in lignin  biosynthesis. Our data indicate that this novel OMT uses the flavonol quercetin  as the preferred substrate, but neither of the hydroxycinnamic acids, caffeic or  5-hydroxyferulic, to any significant extent. This indicates that the high  sequence similarity/identity of AtOMT1 to that of the aspen lignin OMT (2) is not  sufficient to assign the function of this gene product.", '2000 Mar 15', 'Arch Biochem Biophys', '10.1006/abbi.1999.1681', 'Ibrahim']
+
+AtOMT1: !uses! quercetin 
+AtOMT1: !has high sequence similarity/identity to! aspen lignin OMT 
+AtOMT1: !does not use! caffeic acid 
+AtOMT1: !does not use! 5-hydroxyferulic acid

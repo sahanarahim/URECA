@@ -1,0 +1,11 @@
+Small non-coding RNAs (sRNAs) emerge as exquisite molecules that are guided for transcriptional and posttranscriptional gene regulation in eukaryotes. As one class of most important sRNAs in plants, trans-acting small interfering RNAs (ta-siRNAs) initiate from microRNA (miRNA) - mediated cleavage of TAS gene transcripts and subsequently are stabilized by SUPPRESSOR OF GENE SILENCING3 (SGS3) and converted to double-stranded RNA (dsRNA) by the actions of RNA-DEPENDENT RNA POLYMERASE6 (RDR6). Generally, these dsRNAs are processed by DICER-LIKE4 (DCL4) and recruited into ARGONAUTE 1 (AGO1) complexes to posttranscriptionally regulate target genes by mRNA cleavage in trans. In a recent study, we discovered a non-canonical ta-siRNAs pathway: Starting from the miRNA-guided cleavage site, the dsRNAs are processed by DCL1 into 21-nt siRNAs, which associate with AGO4/6 complexes to direct DNA methylation in cis. Together with previous results that miRNAs can be produced by DCL3, loaded into AGO4 and trigger epigenetically regulation of target genes, these findings indicate much complex biogenesis, effector and action pathways exist in plant sRNAs kingdom.
+
+miRNA: !initiates! ta-siRNAs 
+SGS3: !stabilizes! ta-siRNAs 
+RDR6: !converts to! dsRNA 
+DCL4: !processes! dsRNA 
+AGO1: !recruits! dsRNA 
+DCL1: !processes! 21-nt siRNAs 
+AGO4/6: !associates with! 21-nt siRNAs 
+AGO4: !loads! miRNAs 
+miRNAs: !trigger! epigenetic regulation

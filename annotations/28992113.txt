@@ -1,0 +1,14 @@
+Similar to the situation in animals, melatonin biosynthesis is regulated by four sequential enzymatic steps in plants. Although the melatonin synthesis genes have been identified in various plants, the upstream transcription factors of them remain unknown. In this study on cassava (Manihot esculenta), we found that MeWRKY79 and heat-shock transcription factor 20 (MeHsf20) targeted the W-box and the heat-stress elements (HSEs) in the promoter of N-acetylserotonin O-methyltransferase 2 (MeASMT2), respectively. The interaction between MeWRKY79, MeHsf20, and the MeASMT2 promoter was evidenced by the activation of promoter activity and chromatin immunoprecipitation (ChIP) in cassava protoplasts, and by an in vitro electrophoretic mobility shift assay (EMSA). The transcripts of MeWRKY79, MeHsf20, and MeASMT2 were all regulated by a 22-amino acid flagellin peptide (flg22) and by Xanthomonas axonopodis pv manihotis (Xam). In common with the phenotype of MeASMT2, transient expression of MeWRKY79 and MeHsf20 in Nicotiana benthamiana leaves conferred improved disease resistance. Through virus-induced gene silencing (VIGS) in cassava, we found that MeWRKY79- and MeHsf20-silenced plants showed lower transcripts of MeASMT2 and less accumulation of melatonin, which resulted in disease sensitivity that could be reversed by exogenous melatonin. Taken together, these results indicate that MeASMT2 is a target of MeWRKY79 and MeHsf20 in plant disease resistance. This study identifies novel upstream transcription factors of melatonin synthesis genes in cassava, thus extending our knowledge of the complex modulation of melatonin synthesis in plant defense.
+
+MeWRKY79: !targets! W-box 
+MeHsf20: !targets! HSEs 
+MeWRKY79: !interacts with! MeHsf20 
+MeWRKY79: !enhances! MeASMT2 promoter activity 
+flg22: !regulates! MeWRKY79, MeHsf20, MeASMT2 transcripts 
+Xam: !regulates! MeWRKY79, MeHsf20, MeASMT2 transcripts 
+MeWRKY79: !enhances! disease resistance 
+MeHsf20: !enhances! disease resistance 
+MeWRKY79: !represses! MeASMT2 transcripts 
+MeHsf20: !represses! MeASMT2 transcripts 
+MeWRKY79: !reduces! melatonin accumulation 
+MeHsf20: !reduces! melatonin accumulation

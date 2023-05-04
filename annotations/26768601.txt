@@ -1,0 +1,8 @@
+Expression of many plant microRNAs is responsive to hormones and environmental stimuli, but none has yet been associated with light. Arabidopsis (Arabidopsis thaliana) miR163 is 24 nucleotides in length and targets mRNAs encoding several S-adenosyl-Met-dependent carboxyl methyltransferase family members. Here, we found that miR163 is highly induced by light during seedling de-etiolation as well as seed germination. Under the same condition, its target PXMT1, encoding a methyltransferase that methylates 1,7-paraxanthine, is down-regulated. Light repression of PXMT1 is abolished in a mir163 null mutant, but the repression can be restored to wild-type levels in complementation lines expressing pri-miR163 gene in the mir163 mutant background. During seed germination, miR163 and its target PXMT1 are predominantly expressed in the radicle, and the expression patterns of the two genes are inversely correlated. Moreover, compared with the wild type, mir163 mutant or PXMT1 overexpression line shows delayed seed germination under continuous light, and seedlings develop shorter primary roots with an increased number of lateral roots under long-day condition. Together, our results indicate that miR163 targets PXMT1 mRNA to promote seed germination and modulate root architecture during early development of Arabidopsis seedlings.
+
+miR163: !induces! PXMT1 
+miR163: !targets! PXMT1 
+PXMT1: !represses! miR163 
+miR163: !promotes! seed germination 
+PXMT1: !delays! seed germination 
+miR163: !modulates! root architecture

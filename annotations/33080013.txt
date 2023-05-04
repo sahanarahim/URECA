@@ -1,0 +1,9 @@
+We assessed early vegetative growth in a population of 382 accessions of Arabidopsis thaliana using automated non-invasive high-throughput phenotyping. All accessions were imaged daily from 7 d to 18 d after sowing in three independent experiments and genotyped using the Affymetrix 250k SNP array. Projected leaf area (PLA) was derived from image analysis and used to calculate relative growth rates (RGRs). In addition, initial seed size was determined. The generated datasets were used jointly for a genome-wide association study that identified 238 marker-trait associations (MTAs) individually explaining up to 8% of the total phenotypic variation. Co-localization of MTAs occurred at 33 genomic positions. At 21 of these positions, sequential co-localization of MTAs for 2-9 consecutive days was observed. The detected MTAs for PLA and RGR could be grouped according to their temporal expression patterns, emphasizing that temporal variation of MTA action can be observed even during the vegetative growth phase, a period of continuous formation and enlargement of seemingly similar rosette leaves. This indicates that causal genes may be differentially expressed in successive periods. Analyses of the temporal dynamics of biological processes are needed to gain important insight into the molecular mechanisms of growth-controlling processes in plants.
+
+Gene: !affects! Process
+Process: !varies! Temporally
+Gene: !localizes to! Genomic Position
+Genomic Position: !co-localizes with! MTA
+MTA: !explains! Phenotypic Variation
+Gene: !interacts with! Biological Process
+Biological Process: !controls! Growth

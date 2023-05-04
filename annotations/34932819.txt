@@ -1,0 +1,12 @@
+Limiting water loss by reducing transpiration helps plants survive when water is limited. Under drought stress, abscisic acid (ABA)-mediated gene expression and anion channel activation regulate stomatal closure and stress responses. ABA-induced actin reorganization also affects stomatal closure, but the underlying molecular mechanism remains unclear. In this study, we discovered that under nonstress conditions, the clade A PP2C phosphatases, such as ABI1 and ABI2, interact with CKL2 and inhibit its kinase activity in Arabidopsis. Under drought stress, CKL2 kinase activity was released through the formation of a complex containing ABA, PP2C and a PYR1/PYL/RCAR family (PYL) receptor. The activated CKL2 regulating actin reorganization is another important process to maintain stomatal closure besides ABA-activated SnRK2 signaling. Moreover, CKL2 phosphorylated PYR1-LIKE 1, ABI1 and ABI2 at amino acid residues conserved among PYLs and PP2Cs, and stabilized ABI1 protein. Our results reveal that ABA signaling regulates actin reorganization to maintain stomatal closure during drought stress, and the feedback regulation of PYL1, ABI1 and ABI2 by the CKL2 kinase might fine-tune ABA signaling and affect plant ABA responses.
+
+ABA: !activates! CKL2
+CKL2: !phosphorylates! PYL1-LIKE 1
+CKL2: !phosphorylates! ABI1
+CKL2: !phosphorylates! ABI2
+ABA: !interacts with! PP2C
+PP2C: !inhibits! CKL2
+PYL: !forms complex with! ABA
+PYL: !forms complex with! PP2C
+PYL: !forms complex with! CKL2
+ABI1: !stabilized by! CKL2

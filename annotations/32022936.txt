@@ -1,0 +1,10 @@
+['32022936', 'Nuclear pore complexes (NPCs) are main channels controlling nucleocytoplasmic  transport and are composed of approximately 30 nucleoporins (NUPs). Emerging  evidence suggests that some NUP genes have specialized functions that challenge  the traditional view of NPCs as structures of uniform composition. Here, we  analysed the role of six outer-ring components of NPC at normal and warm growth  temperatures by examining their loss-of-function mutants in Arabidopsis thaliana.  All six NUP subunits, NUP85, NUP96, NUP 133, NUP 160, SEH1 and HOS1, have a  non-redundant temperature-influenced function in one or more of the processes,  including rosette growth, leaf architecture and intracellular immune  receptor-mediated disease resistance. At the molecular level, NUP85 and NUP133  are required for mRNA export only at warm temperature and play a larger role in  the localization of transcription factor at warm temperature. In addition, NUP96  and HOS1 are essential for the expression of high temperature-responsive genes,  which is correlated with their larger activity in facilitating nuclear  accumulation of the transcription factor PIF4 at warm temperature. Our results  show that subunits of NPC have differential roles at different temperatures,  suggesting the existence of temperature-influenced NPC complexes and activities.', '2020 Jun', 'Plant Cell Environ', '10.1111/pce.13741', 'ORCID:']
+
+NUP85: !affects! mRNA export 
+NUP133: !affects! transcription factor localization 
+NUP96: !enhances! nuclear accumulation of PIF4 
+HOS1: !enhances! expression of high temperature-responsive genes 
+NUP85: !localizes to! NPC 
+NUP133: !localizes to! NPC 
+NUP96: !localizes to! NPC 
+HOS1: !localizes to! NPC

@@ -1,0 +1,10 @@
+The Arabidopsis E3 ligase AtCHIP was found to interact with FtsH1, a subunit of the chloroplast FtsH protease complex. FtsH1 can be ubiquitylated by AtCHIP in vitro, and the steady-state level of FtsH1 is reduced in AtCHIP-over-expressing plants under high-intensity light conditions, suggesting that the ubiquitylation of FtsH1 by AtCHIP might lead to the degradation of FtsH1 in vivo. Furthermore, the steady-state level of another subunit of the chloroplast FtsH protease complex, FtsH2, is also reduced in AtCHIP-over-expressing plants under high-intensity light conditions, and FtsH2 interacts physically with AtCHIP in vivo, suggesting the possibility that FtsH2 is also a substrate protein for AtCHIP in plant cells. A substrate of FtsH protease in vivo, the photosystem II reaction center protein D1, is not efficiently removed by FtsH in AtCHIP-over-expressing plants under high-intensity light conditions, supporting the assumption that FtsH subunits are substrates of AtCHIP in vivo, and that AtCHIP over-expression may lead to a reduced level of FtsH in chloroplasts. AtCHIP interacts with cytosolic Hsp70 and the precursors of FtsH1 and FtsH2 in the cytoplasm, and Hsp70 also interacts with FtsH1, and these protein-protein interactions appear to be increased under high-intensity light conditions, suggesting that Hsp70 might be partly responsible for the increased degradation of the substrates of Hsp70, such as FtsH1 and FtsH2, in AtCHIP-over-expressing plants under high-intensity light conditions. Therefore, AtCHIP, together with Hsp70, may play an important role in protein quality control in chloroplasts.
+
+AtCHIP: !interacts with! FtsH1
+AtCHIP: !ubiquitylates! FtsH1
+AtCHIP: !reduces! FtsH1
+AtCHIP: !interacts with! FtsH2
+AtCHIP: !reduces! FtsH2
+AtCHIP: !interacts with! Hsp70
+AtCHIP: !interacts with! D1 precursors
+Hsp70: !interacts with! FtsH1

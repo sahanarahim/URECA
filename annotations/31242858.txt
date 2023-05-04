@@ -1,0 +1,12 @@
+Seed germination, a complex, physiological-morphogenetic process, is a critical stage in the life cycle of plants. Biological changes in germinating seeds have not been investigated in poplar, a model woody plant. In this study, we exploited next-generation sequencing and metabolomics analysis and uncovered a series of significantly different genes and metabolites at various stages of seed germination and post germination. The K-means method was used to identify multiple transcription factors, including AP2/EREBP, DOF, and YABBY, involved in specific seed germination and post-germination stages. A weighted gene coexpression network analysis revealed that cell wall, amino acid metabolism, and transport-related pathways were significantly enriched during stages 3 and 5, with no significant enrichment observed in primary metabolic processes such as glycolysis and the tricarboxylic acid cycle. A metabolomics analysis detected significant changes in intermediate metabolites in these primary metabolic processes, while a targeted correlation network analysis identified the gene family members most relevant to these changing metabolites. Taken together, our results provide important insights into the molecular networks underlying poplar seed germination and post-germination processes. The targeted correlation network analysis approach developed in this study can be applied to search for key candidate genes in specific biochemical reactions and represents a new strategy for joint multiomics analyses.
+
+AP2/EREBP: !regulates! Seed germination
+DOF: !regulates! Seed germination
+YABBY: !regulates! Seed germination
+Cell wall: !enriched in! Stages 3 and 5
+Amino acid metabolism: !enriched in! Stages 3 and 5
+Transport-related pathways: !enriched in! Stages 3 and 5
+Glycolysis: !not enriched in! Stages 3 and 5
+Tricarboxylic acid cycle: !not enriched in! Stages 3 and 5
+Intermediate metabolites: !change in! Primary metabolic processes
+Gene family members: !correlate with! Changing metabolites

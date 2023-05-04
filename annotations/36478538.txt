@@ -1,0 +1,7 @@
+Cellular sugar starvation and/or energy deprivation serves as an important signaling cue for the live cells to trigger the necessary stress adaptation response. When exposed to cellular energy stress (ES) conditions, the plants reconfigure metabolic pathways and rebalance energy status while restricting vegetative organ growth. Despite the vital importance of this ES-induced growth restriction, the regulatory mechanism underlying the response remains largely elusive in plants. Using plant cell- and whole plant-based functional analyses coupled with extended genetic validation, we show that cellular ES-activated SNF1-related protein kinase 1 (SnRK1.1) directly interacts with and phosphorylates E2Fa transcription factor, a critical cell cycle regulator. Phosphorylation of E2Fa by SnRK1.1 leads to its proteasome-mediated protein degradation, resulting in S-phase repression and organ growth restriction. Our findings show that ES-dependently activated SnRK1.1 adjusts cell proliferation and vegetative growth for plants to cope with constantly fluctuating environments.
+
+SnRK1.1: !interacts with! E2Fa 
+SnRK1.1: !phosphorylates! E2Fa 
+E2Fa: !degraded by! proteasome 
+E2Fa: !represses! S-phase 
+S-phase: !restricted by! SnRK1.1

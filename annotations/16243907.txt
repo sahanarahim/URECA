@@ -1,0 +1,9 @@
+['16243907', 'Plant shoots are characterized by indeterminate growth resulting from the action  of a population of stem cells in the shoot apical meristem (SAM). Indeterminacy  within the SAM is specified in part by the class I knox homeobox genes. The myb  domain proteins rough sheath2 (RS2) and ASYMMETRIC LEAVES1 (AS1) from maize (Zea  mays) and Arabidopsis thaliana, respectively, are required to establish  determinacy during leaf development. These proteins are part of a cellular memory  system that in response to a stem cell-derived signal keeps knox genes in an off  state during organogenesis. Here, we show that RS2/AS1 can form conserved protein  complexes through interaction with the DNA binding factor ASYMMETRIC LEAVES2, a  predicted RNA binding protein (RIK, for RS2-Interacting KH protein), and a  homologue of the chromatin-remodeling protein HIRA. Partial loss of HIRA function  in Arabidopsis results in developmental defects comparable to those of as1 and  causes reactivation of knox genes in developing leaves, demonstrating a direct  role for HIRA in knox gene repression and the establishment of determinacy during  leaf formation. Our data suggest that RS2/AS1 and HIRA mediate the epigenetic  silencing of knox genes, possibly by modulating chromatin structure. Components  of this process are conserved in animals, suggesting the possibility that a  similar epigenetic mechanism maintains determinacy during both plant and animal  development.', '2005 Nov', 'Plant Cell', '10.1105/tpc.105.035477', 'Timmermans']
+
+knox genes: !specify! indeterminacy 
+RS2/AS1: !establish! determinacy 
+RS2/AS1: !interact with! ASYMMETRIC LEAVES2 
+RS2/AS1: !interact with! RIK 
+RS2/AS1: !interact with! HIRA 
+HIRA: !represses! knox genes 
+HIRA: !modulates! chromatin structure

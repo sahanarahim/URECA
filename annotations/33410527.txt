@@ -1,0 +1,9 @@
+The Farquhar-von Caemmerer-Berry (FvCB) model is extensively used to model photosynthesis from gas exchange measurements. Since its publication, many methods have been developed to measure, or more accurately estimate, parameters of this model. Here, we have created a tool that uses Bayesian statistics to fit photosynthetic parameters using concurrent gas exchange and chlorophyll fluorescence measurements whilst evaluating the reliability of the parameter estimation. We have tested this tool on synthetic data and experimental data from rice leaves. Our results indicate that reliable parameter estimation can be achieved whilst only keeping one parameter, K<sub>m</sub> , that is, Michaelis constant for CO<sub>2</sub> by Rubisco, prefixed. Additionally, we show that including detailed low CO<sub>2</sub> measurements at low light levels increases reliability and suggests this as a new standard measurement protocol. By providing an estimated distribution of parameter values, the tool can be used to evaluate the quality of data from gas exchange and chlorophyll fluorescence measurement protocols. Compared to earlier model fitting methods, the use of a Bayesian statistics-based tool minimizes human interaction during fitting, reducing the subjectivity which is essential to most existing tools. A user friendly, interactive Bayesian tool script is provided.
+
+Km: !is prefixed! Bayesian tool 
+Bayesian tool: !evaluates reliability of! parameter estimation 
+Bayesian tool: !minimizes human interaction! model fitting 
+Synthetic data: !tested by! Bayesian tool 
+Experimental data: !tested by! Bayesian tool 
+Low CO2 measurements: !increases reliability of! parameter estimation 
+Parameter values: !estimated by! Bayesian tool

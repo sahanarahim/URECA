@@ -1,0 +1,6 @@
+In many perennial plants, seasonal flowering is primarily controlled by environmental conditions, but in certain polycarpic plants, environmental signals are locally gated by the presence of developing fruits initiated in the previous season through an unknown mechanism. Polycarpy is defined as the ability of plants to undergo several rounds of reproduction during their lifetime, alternating vegetative and reproductive meristems in the same individual. To understand how fruits regulate flowering in polycarpic plants, we focused on alternate bearing in Citrus trees that had been experimentally established as fully flowering or nonflowering. We found that the presence of the fruit causes epigenetic changes correlating with the induction of the CcMADS19 floral repressor, which prevents the activation of the floral promoter CiFT2 even in the presence of the floral inductive signals. By contrast, newly emerging shoots display an opposite epigenetic scenario associated with CcMADS19 repression, thereby allowing the activation of CiFT2 the following cold season.
+
+Fruit: !induces! CcMADS19
+CcMADS19: !represses! CiFT2
+Shoot: !represses! CcMADS19
+CiFT2: !activated by! Shoot

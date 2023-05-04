@@ -1,0 +1,9 @@
+['16890225', 'The first dedicated step in plant xanthophyll biosynthesis is carotenoid  hydroxylation. In Arabidopsis thaliana, this reaction is performed by both heme  (LUT1 and LUT5) and non-heme (CHY1 and CHY2) hydroxylases. No mutant completely  abolishing alpha- or beta-carotene hydroxylation has been described to date. We  constructed double and triple mutant combinations in CHY1, CHY2, LUT1, LUT5 and  LUT2 (lycopene epsilon-cyclase). In chy1chy2lut2, 80% of leaf carotenoids is  represented by beta-carotene. In chy1chy2lut5, beta-carotene hydroxylation is  completely abolished, while hydroxylation of the beta-ring of alpha-carotene is  still observed. The data are consistent with a role of LUT5 in beta-ring  hydroxylation, and with the existence of an additional hydroxylase, acting on the  beta-ring of alpha-, but not beta-carotene.', '2006 Aug 21', 'FEBS Lett', '10.1016/j.febslet.2006.07.055', 'Giuliano']
+
+LUT1: !hydroxylates! alpha- and beta-carotene
+CHY1: !hydroxylates! alpha- and beta-carotene
+CHY2: !hydroxylates! alpha- and beta-carotene
+LUT5: !hydroxylates! beta-ring of alpha-carotene
+LUT2: !hydroxylates! lycopene epsilon-cyclase
+LUT5: !hydroxylates! beta-ring of alpha-carotene
+CHY1/CHY2/LUT2: !abolishes! beta-carotene hydroxylation

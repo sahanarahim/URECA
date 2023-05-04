@@ -1,0 +1,18 @@
+['28745032', 'Preproteins are believed to be imported into chloroplasts through membrane  contact sites where the translocon complexes of the outer (TOC) and inner (TIC)  envelope membranes are assembled together. However, a single TOC-TIC supercomplex  containing preproteins undergoing active import has not yet been directly  observed. We optimized the blue native polyacrylamide gel electrophoresis (PAGE)  (BN-PAGE) system to detect and resolve megadalton (MD)-sized complexes. Using  this optimized system, the outer-membrane channel Toc75 from pea chloroplasts was  found in at least two complexes: the 880-kD TOC complex and a previously  undetected 1-MD complex. Two-dimensional BN-PAGE immunoblots further showed that  Toc75, Toc159, Toc34, Tic20, Tic56 and Tic110 were all located in the 880-kD to  1.3-MD region. During active preprotein import, preproteins were transported  mostly through the 1-MD complex and a smaller amount of preproteins was also  detected in a complex of 1.25 MD. Antibody-shift assays showed that the 1-MD  complex is a TOC-TIC supercomplex containing at least Toc75, Toc159, Toc34 and  Tic110. Results from crosslinking and import with Arabidopsis chloroplasts  suggest that the 1.25-MD complex is also a supercomplex. Our data provide direct  evidence supporting that chloroplast preproteins are imported through TOC-TIC  supercomplexes, and also provide the first size estimation of these  supercomplexes. Furthermore, unlike in mitochondria where translocon  supercomplexes are only transiently assembled during preprotein import, in  chloroplasts at least some of the supercomplexes are preassembled stable  structures.', '2017 Oct', 'Plant J', '10.1111/tpj.13643', 'Li']
+
+Toc75: !localizes to! 880-kD TOC complex
+Toc75: !localizes to! 1-MD complex
+Toc159: !localizes to! 880-kD to 1.3-MD region
+Tic20: !localizes to! 880-kD to 1.3-MD region
+Tic56: !localizes to! 880-kD to 1.3-MD region
+Tic110: !localizes to! 880-kD to 1.3-MD region
+Toc75: !interacts with! Toc159
+Toc75: !interacts with! Toc34
+Toc75: !interacts with! Tic110
+Tic20: !interacts with! Tic56
+Preproteins: !transported through! 1-MD complex
+Preproteins: !transported through! 1.25-MD complex
+TOC-TIC supercomplex: !contains! Toc75
+TOC-TIC supercomplex: !contains! Toc159
+TOC-TIC supercomplex: !contains! Toc34
+TOC-T

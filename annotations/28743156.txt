@@ -1,0 +1,15 @@
+Mesophyll resistance (r<sub>m</sub> ), stomatal resistance, and biochemical limitations are recognized as three critical factors limiting leaf photosynthesis. Contrary to the expectation of being a constant, r<sub>m</sub> not only varies with light and CO<sub>2</sub> conditions but also shows different responses among species. To elucidate the mechanistic basis of these responses, we derived an analytical model of r<sub>m</sub> , which incorporates various anatomical and biochemical factors including permeabilities of cell wall and chloroplast envelope to CO<sub>2</sub> and HCO<sub>3</sub><sup>-</sup> , carbonic anhydrase activities in cytosol and stroma, Rubisco activities, and relative location of mitochondria and chloroplast. The robustness of this model was confirmed by comparing the predicted r<sub>m</sub> and its components to numerical models developed at cell and leaf levels, which incorporate detailed 3-dimensional cell and leaf anatomies, CO<sub>2</sub> hydration and diffusion processes from intercellular air space to stroma, and CO<sub>2</sub> fixation by Rubisco. A combination of these model analyses shows that the varying r<sub>m</sub> is influenced by four biochemical factors: (a) nonuniform photosynthesis status across the leaf, (b) photorespiration and respiration, (c) bicarbonate leakage on the chloroplast envelope, and (d) hydration activity in cytosol and stroma. This study provides a theoretical framework to study components of r<sub>m</sub> and their responses to environmental perturbations.
+
+Light: !affects! r<sub>m</sub> 
+CO<sub>2</sub>: !affects! r<sub>m</sub> 
+Cell wall: !permeable to! CO<sub>2</sub> 
+Chloroplast envelope: !permeable to! CO<sub>2</sub> and HCO<sub>3</sub><sup>-</sup> 
+Carbonic anhydrase: !activates! CO<sub>2</sub> hydration 
+Rubisco: !catalyzes! CO<sub>2</sub> fixation 
+Mitochondria: !localizes to! Leaf 
+Chloroplast: !localizes to! Leaf 
+Photosynthesis: !varies! Across leaf 
+Photorespiration: !influences! r<sub>m</sub> 
+Respiration: !influences! r<sub>m</sub> 
+Bicarbonate leakage: !influences! r<sub>m</sub> 
+Hydration activity: !influences! r<sub>m</sub>

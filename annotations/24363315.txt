@@ -1,0 +1,8 @@
+In rosette plants, root flooding (waterlogging) triggers rapid upward (hyponastic) leaf movement representing an important architectural stress response that critically determines plant performance in natural habitats. The directional growth is based on localized longitudinal cell expansion at the lower (abaxial) side of the leaf petiole and involves the volatile phytohormone ethylene (ET). We report the existence of a transcriptional core unit underlying directional petiole growth in Arabidopsis thaliana, governed by the NAC transcription factor speedy hyponastic growth (SHYG). Overexpression of SHYG in transgenic Arabidopsis thaliana enhances waterlogging-triggered hyponastic leaf movement and cell expansion in abaxial cells of the basal petiole region, while both responses are largely diminished in shyg knockout mutants. Expression of several expansin and xyloglucan endotransglycosylase/hydrolase genes encoding cell wall-loosening proteins was enhanced in SHYG overexpressors but lowered in shyg. We identified ACC oxidase5 (ACO5), encoding a key enzyme of ET biosynthesis, as a direct transcriptional output gene of SHYG and found a significantly reduced leaf movement in response to root flooding in aco5 T-DNA insertion mutants. Expression of SHYG in shoot tissue is triggered by root flooding and treatment with ET, constituting an intrinsic ET-SHYG-ACO5 activator loop for rapid petiole cell expansion upon waterlogging.
+
+root flooding: !triggers! SHYG expression
+SHYG: !enhances! waterlogging-triggered hyponastic leaf movement
+SHYG: !enhances! cell expansion in abaxial cells of petiole region
+SHYG: !directly transcribes! ACO5
+ACO5: !synthesizes! ET
+ET: !triggers! SHYG expression

@@ -1,0 +1,7 @@
+Long noncoding RNAs (lncRNAs) are a class of RNA molecules with gene regulatory functions in plant development and the stress response. Although the number of lncRNAs identified in plants is rapidly increasing, very little is known about their role in barley development. In this study, we performed global identification of barley lncRNAs based on 53 RNAseq libraries derived from nine different barley tissues and organs. In total, 17,250 lncRNAs derived from 10,883 loci were identified, including 8954 novel lncRNAs. Differential expression of lncRNAs was observed in the developing shoot apices and grains, the two organs that have a direct influence on the final yield. The regulatory interaction of differentially expressed lncRNAs with the potential target genes was evaluated. We identified 176 cis-acting lncRNAs in shoot apices and 424 in grains, while the number of trans-acting lncRNAs in these organs was 1736 and 540, respectively. The potential target protein-coding genes were identified, and their biological function was annotated using MapMan ontology. This is the first insight into the roles of lncRNAs in barley development on the genome-wide scale, and our results provide a solid background for future functional studies.
+
+lncRNA: !regulates! target genes
+lncRNA: !differentially expressed in! shoot apices and grains
+lncRNA: !acts as cis-acting in! shoot apices and grains
+lncRNA: !acts as trans-acting in! shoot apices and grains
+target genes: !annotated using! MapMan ontology

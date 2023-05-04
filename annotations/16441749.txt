@@ -1,0 +1,10 @@
+The present study aimed to identify and assess the frequency and tissue specificity of plant genes in the actinorhizal Casuarina glauca-Frankia symbiosis through expressed sequence tag (EST) analysis. Using a custom analysis pipeline for raw sequences of C. glauca uninfected roots and nodules, we obtained an EST databank web interface. Gene expression was studied in nodules vs roots using comparative quantitative real-time reverse transcription-polymerase chain reaction (qRT-PCR). From roots and nodules, 2028 ESTs were created and clustered in 242 contigs and 1429 singletons, giving a total of 1616 unique genes. Half the nodule transcripts showed no similarity to previously identified genes. Genes of primary metabolism, protein synthesis, cell division and defence were highly represented in the nodule library. Differential expression was observed between roots and nodules for several genes linked to primary metabolism and flavonoid biosynthesis. This comparative EST-based study provides the first picture of the set of genes expressed during actinorhizal symbiosis. We consider our database to be a flexible tool that can be used for the management of EST data from other actinorhizal symbioses.
+
+Gene: !affects! Process
+Gene: !synthesizes! Primary Metabolism
+Gene: !synthesizes! Protein Synthesis
+Gene: !synthesizes! Cell Division
+Gene: !synthesizes! Defence
+Gene: !enhances! Flavonoid Biosynthesis
+Gene: !localizes to! Nodules
+Gene: !localizes to! Roots

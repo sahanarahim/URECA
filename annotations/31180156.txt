@@ -1,0 +1,8 @@
+Raffinose is thought to play an important role in plant tolerance of abiotic stress. We report here that maize HEAT SHOCK FACTOR A2 (ZmHSFA2) and HEAT SHOCK BINDING PROTEIN 2 (ZmHSBP2) physically interact with each other and antagonistically modulate expression of GALACTINOL SYNTHASE2 (ZmGOLS2) and raffinose biosynthesis in transformed maize protoplasts and Arabidopsis plants. Overexpression of ZmHSFA2 in Arabidopsis increased the expression of Arabidopsis AtGOLS1, AtGOLS2 and AtRS5 (RAFFINOSE SYNTHASE), increased the raffinose content in leaves and enhanced plant heat stress tolerance. Contrary to ZmHSFA2, overexpression of ZmHSBP2 in Arabidopsis decreased expression of AtGOLS1, AtGOLS2 and AtRS5, decreased the raffinose content in leaves and reduced plant heat stress tolerance. ZmHSFA2 and ZmHSBP2 also interact with their Arabidopsis counterparts AtHSBP and AtHSFA2 as determined using bimolecular fluorescence complementation assays. Furthermore, endogenous ZmHSBP2 and Rluc, controlled by the ZmHSBP2 promoter, are transcriptionally activated by ZmHSFA2 and inhibited by ZmHSBP2 in maize protoplasts. These findings provide insights into the transcriptional regulation of raffinose biosynthetic genes, and the tolerance their product confers to plant heat stress.
+
+ZmHSFA2: !interacts with! ZmHSBP2
+ZmHSFA2: !enhances! heat stress tolerance
+ZmHSFA2: !increases! expression of raffinose biosynthesis genes
+ZmHSBP2: !interacts with! ZmHSFA2
+ZmHSBP2: !represses! expression of raffinose biosynthesis genes
+ZmHSBP2: !reduces! heat stress tolerance

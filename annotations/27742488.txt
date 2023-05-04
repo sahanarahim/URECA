@@ -1,0 +1,10 @@
+The green alga Chlamydomonas reinhardtii contains several light-harvesting chlorophyll a/b complexes (LHC): four major LHCIIs, two minor LHCIIs, and nine LHCIs. We characterized three chlorophyll b-less mutants to assess the effect of chlorophyll b deficiency on the function, assembly, and stability of these chlorophyll a/b binding proteins. We identified point mutations in two mutants that inactivate the CAO gene responsible for chlorophyll a to chlorophyll b conversion. All LHCIIs accumulated to wild-type levels in a CAO mutant but their light-harvesting function for photosystem II was impaired. In contrast, most LHCIs accumulated to wild-type levels in the mutant and their light-harvesting capability for photosystem I remained unaltered. Unexpectedly, LHCI accumulation and the photosystem I functional antenna size increased in the mutant compared with in the wild type when grown in dim light. When the CAO mutation was placed in a yellow-in-the-dark background (yid-BF3), in which chlorophyll a synthesis remains limited in dim light, accumulation of the major LHCIIs and of most LHCIs was markedly reduced, indicating that sustained synthesis of chlorophyll a is required to preserve the proteolytic resistance of antenna proteins. Indeed, after crossing yid-BF3 with a mutant defective for the thylakoid FtsH protease activity, yid-BF3-ftsh1 restored wild-type levels of LHCI, which defines LHCI as a new substrate for the FtsH protease.
+
+CAO gene: !affects! LHCII function 
+CAO gene: !inactivates! chlorophyll b conversion 
+LHCIIs: !accumulate to! wild-type levels 
+LHCIIs: !light-harvesting function for! photosystem II impaired 
+LHCIs: !accumulate to! wild-type levels 
+LHCIs: !light-harvesting capability for! photosystem I unaltered 
+yid-BF3: !reduces! accumulation of major LHCIIs and LHCIs 
+FtsH protease: !defines! LHCI as substrate

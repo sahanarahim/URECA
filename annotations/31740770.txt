@@ -1,0 +1,6 @@
+RNA quality control (RQC) and post-transcriptional gene silencing (PTGS) target and degrade aberrant endogenous RNAs and foreign RNAs, contributing to homeostasis of cellular RNAs. In plants, RQC and PTGS compete for foreign and selected endogenous RNAs; however, little is known about the mechanism interconnecting the two pathways. Using a reporter system designed for monitoring PTGS, we revealed that the 26S proteasome subunit RPT2a enhances transgene PTGS by promoting the accumulation of transgene-derived short interfering RNAs without affecting their biogenesis. RPT2a physically associated with a subset of RQC components and downregulated the protein level. Overexpression of the RQC components interfered with transgene silencing, and impairment of the RQC machinery reinforced transgene PTGS attenuated by rpt2a. Overall, we demonstrate that the 26S proteasome subunit RPT2a promotes PTGS by repressing the RQC machinery to control foreign RNAs.
+
+RPT2a: !enhances! PTGS
+RPT2a: !represses! RQC
+RQC: !interferes with! PTGS
+RQC: !attenuates! rpt2a

@@ -1,0 +1,8 @@
+Whereas the activation of resistance (R) proteins has been intensively studied, the downstream signaling mechanisms leading to the restriction of the pathogen remain mostly unknown. We studied the immunity network response conditioned by the potato Ny-1 gene against potato virus Y. We analyzed the processes in the cell death zone and surrounding tissue on the biochemical and gene expression levels in order to reveal the spatiotemporal regulation of the immune response. We show that the transcriptional response in the cell death zone and surrounding tissue is dependent on salicylic acid (SA). For some genes the spatiotemporal regulation is completely lost in the SA-deficient line, whereas other genes show a different response, indicating multiple connections between hormonal signaling modules. The induction of NADPH oxidase RBOHD expression occurs specifically on the lesion border during the resistance response. In plants with silenced RBOHD, the functionality of the resistance response is perturbed and the spread of the virus is not arrested at the site of infection. RBOHD is required for the spatial accumulation of SA, and conversely RBOHD is under the transcriptional regulation of SA. Using spatially resolved RNA-seq, we also identified spatial regulation of an UDP-glucosyltransferase, another component in feedback activation of SA biosynthesis, thus deciphering a novel aspect of resistance signaling.
+
+Ny-1: !activates! R proteins
+SA: !regulates! transcriptional response
+RBOHD: !induces! NADPH oxidase expression
+RBOHD: !accumulates! SA
+SA: !transcriptionally regulates! RBOHD
+UDP-glucosyltransferase: !spatially regulated by! SA

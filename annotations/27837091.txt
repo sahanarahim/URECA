@@ -1,0 +1,11 @@
+Ultraviolet B (UV-B) radiation induces the activation of MITOGEN-ACTIVATED PROTEIN KINASE PHOSPHATASE1 (MKP1) and its targets MPK3 and MPK6, but whether they participate in UV-B guard cell signaling is not clear. Here, evidence shows that UV-B-induced stomatal closure in Arabidopsis (Arabidopsis thaliana) is antagonistically regulated by MKP1 and MPK6 via modulating hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>)-induced nitric oxide (NO) production in guard cells. The mkp1 mutant was hypersensitive to UV-B-induced stomatal closure and NO production in guard cells but not to UV-B-induced H<sub>2</sub>O<sub>2</sub> production, suggesting that MKP1 negatively regulates UV-B-induced stomatal closure via inhibiting NO generation in guard cells. Moreover, MPK3 and MPK6 were activated by UV-B in leaves of the wild type and hyperactivated in the mkp1 mutant, but the UV-B-induced activation of MPK3 and MPK6 was largely inhibited in mutants for ATRBOHD and ATRBOHF but not in mutants for NIA1 and NIA2 mpk6 mutants showed defects of UV-B-induced NO production and stomatal closure but were normal in UV-B-induced H<sub>2</sub>O<sub>2</sub> production, while stomata of mpk3 mutants responded to UV-B just like those of the wild type. The defect of UV-B-induced stomatal closure in mpk6 mutants was rescued by exogenous NO but not by exogenous H<sub>2</sub>O<sub>2</sub> Furthermore, double mutant mkp1/mpk6 and the single mutant mpk6 showed the same responses to UV-B in terms of either stomatal movement or H<sub>2</sub>O<sub>2</sub> and NO production. These data indicate that MPK6, but not MPK3, positively regulates UV-B-induced stomatal closure via acting downstream of H<sub>2</sub>O<sub>2</sub> and upstream of NO, while MKP1 functions negatively in UV-B guard cell signaling via down-regulation of MPK6.
+
+MKP1: !negatively regulates! UV-B-induced stomatal closure
+MPK6: !positively regulates! UV-B-induced stomatal closure
+UV-B: !induces! MPK3 and MPK6 activation
+MPK3: !not involved in! UV-B guard cell signaling
+MPK6: !acts downstream of! H<sub>2</sub>O<sub>2</sub>
+MPK6: !acts upstream of! NO
+ATRBOHD/F: !inhibits! UV-B-induced MPK3/6 activation
+NIA1/2: !no effect on! UV-B-induced MPK3/6 activation
+mkp1/mpk6: !same responses to! UV-B

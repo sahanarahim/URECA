@@ -1,0 +1,10 @@
+['27578868', 'In green plants, the blue light receptor kinase phototropin mediates various  photomovements and developmental responses, such as phototropism, chloroplast  photorelocation movements (accumulation and avoidance), stomatal opening, and  leaf flattening, which facilitate photosynthesis. In Arabidopsis, two  phototropins (phot1 and phot2) redundantly mediate these responses. Two  phototropin-interacting proteins, NONPHOTOTROPIC HYPOCOTYL 3 (NPH3) and ROOT  PHOTOTROPISM 2 (RPT2), which belong to the NPH3/RPT2-like (NRL) family of BTB  (broad complex, tramtrack, and bric a brac) domain proteins, mediate phototropism  and leaf flattening. However, the roles of NRL proteins in chloroplast  photorelocation movement remain to be determined. Here, we show that another  phototropin-interacting NRL protein, NRL PROTEIN FOR CHLOROPLAST MOVEMENT 1  (NCH1), and RPT2 redundantly mediate the chloroplast accumulation response but  not the avoidance response. NPH3, RPT2, and NCH1 are not involved in the  chloroplast avoidance response or stomatal opening. In the liverwort Marchantia  polymorpha, the NCH1 ortholog, MpNCH1, is essential for the chloroplast  accumulation response but not the avoidance response, indicating that the  regulation of the phototropin-mediated chloroplast accumulation response by  RPT2/NCH1 is conserved in land plants. Thus, the NRL protein combination could  determine the specificity of diverse phototropin-mediated responses.', '2016 Sep 13', 'Proc Natl Acad Sci U S A', '10.1073/pnas.1602151113', 'Wada']
+
+phototropin: !mediates! photomovements 
+phototropin: !mediates! developmental responses 
+NPH3/RPT2: !mediates! phototropism 
+NPH3/RPT2: !mediates! leaf flattening 
+NCH1/RPT2: !mediates! chloroplast accumulation 
+NPH3/RPT2/NCH1: !not involved in! chloroplast avoidance response 
+NPH3/RPT2/NCH1: !not involved in! stomatal opening 
+MpNCH1: !essential for! chloroplast accumulation response

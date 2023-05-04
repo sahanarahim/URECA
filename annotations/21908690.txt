@@ -1,0 +1,14 @@
+Many eukaryotes have from one to three heat shock factors (Hsfs), but plants have more than 20 Hsfs, designated class A, B, and C. Class A Hsfs are activators of transcription, but details of the roles of individual Hsfs have not been fully characterized. We show here that Arabidopsis (Arabidopsis thaliana) HsfB1 and HsfB2b, members of class B, are transcriptional repressors and negatively regulate the expression of heat-inducible Hsfs (HsfA2, HsfA7a, HsfB1, and HsfB2b) and several heat shock protein genes. In hsfb1 hsfb2b double mutant plants, the expression of a large number of heat-inducible genes was enhanced in the non-heat condition (23°C) and the plants exhibited slightly higher heat tolerance at 42°C than the wild type, similar to Pro35S:HsfA2 plants. In addition, under extended heat stress conditions, expression of the heat-inducible Hsf genes remained consistently higher in hsfb1 hsfb2b than in the wild type. These data indicate that HsfB1 and HsfB2b suppress the general heat shock response under non-heat-stress conditions and in the attenuating period. On the other hand, HsfB1 and HsfB2b appear to be necessary for the expression of heat stress-inducible heat shock protein genes under heat stress conditions, which is necessary for acquired thermotolerance. We show that the heat stress response is finely regulated by activation and repression activities of Hsfs in Arabidopsis.
+
+HsfB1: !represses! HsfA2
+HsfB1: !represses! HsfA7a
+HsfB1: !represses! HsfB1
+HsfB1: !represses! HsfB2b
+HsfB2b: !represses! HsfA2
+HsfB2b: !represses! HsfA7a
+HsfB2b: !represses! HsfB1
+HsfB2b: !represses! HsfB2b
+HsfB1: !enhances! Heat tolerance
+HsfB2b: !enhances! Heat tolerance
+HsfB1: !necessary for! Expression of heat stress-inducible genes
+HsfB2b: !necessary for! Expression of heat stress-inducible genes

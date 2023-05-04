@@ -1,0 +1,12 @@
+Morpho-physiological changes were observed in Arabidopsis plants acclimated to long-term combined cold and water deficit stresses. Limiting growth and differences in bolting, flowering, and silique development were evidenced. In nature, plants are exposed to multiple and simultaneous abiotic stresses that influence their growth, development, and reproduction. In the last years, the study of combined stresses has aroused the interest to know the physiological and molecular responses, because these new stress conditions are probed to be different from the sum of the individual stress. We are interested in the study of the acclimation of plants growing under the combination of cold and water deficit stresses prevalent in cold-arid or semi-arid climates worldwide. We hypothesized that the reproduction of the acclimated plants will be compromised and affected. Arabidopsis plants were submitted to long-term combined stress from the beginning to the reproductive stage, when floral bud was visible, until the silique development. Our results demonstrate severe morpho-anatomical changes after acclimation to combined stress. Inflorescence stem morphology was altered having a delayed bolting and a limited growth. Flowering and silique formation were delayed, and a higher size in the corolla and the petals was observed. Flower and silique number were severely diminished as a result of combined stress, unlike acclimated plants to individual cold stress. These traits were recovered after deacclimation to optimal conditions and plants achieved similar silique production as control plants. The long-term stress results suggest that there is not a single dominant stress, but there is an alternating dominance depending on the structure or the plant stage development evaluated.
+
+cold: !affects! Bolting 
+cold: !affects! Flowering 
+cold: !affects! Silique development 
+water deficit: !affects! Bolting 
+water deficit: !affects! Flowering 
+water deficit: !affects! Silique development 
+combined stress: !delays! Bolting 
+combined stress: !delays! Flowering 
+combined stress: !diminishes! Silique number 
+deacclimation: !recovers! Traits

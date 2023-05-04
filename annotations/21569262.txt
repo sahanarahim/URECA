@@ -1,0 +1,18 @@
+Small RNAs (sRNAs) are 20-24 nucleotide (nt) RNAs and are involved in plant development and response to abiotic stresses. Plants have several sRNA pathways implicated in the transcriptional and post-transcriptional silencing of gene expression. Two key enzyme families common to all pathways are the Dicer-like (DCL) proteins involved in sRNAs maturation and the Argonautes (AGOs) involved in the targeting and functional action of sRNAs. Post-transcriptional silencing mediated by AGOs may occur by cleavage or translational repression of target mRNA's, while transcriptional silencing may be controlled by DNA methylation and chromatin remodeling. Thus far, these gene families have not been characterized in legumes, nor has their involvement in adaptation to water deficit been studied. A bioinformatic search in Medicago truncatula genome databases, using Arabidopsis thaliana AGO and DCL cDNA and protein sequences, identified three sequences encoding for putative Dicer-like genes and twelve sequences encoding for putative Argonaute genes. Under water deficit conditions and mainly in roots, MtDCL1 and MtAGO1, two enzymes probably involved in the processing and activation of microRNAs (miRNAs), increased their transcript levels. mir162 which target DCL1 mRNA and mir168 which target AGO1 mRNA reduced their expression in the roots of plants subjected to water deficit. Three putative genes, MtDCL3, MtAGO4b and MtAGO4c probably involved in DNA methylation mechanisms, increased their mRNA levels. However, the mRNA levels of MtAGO6 reduced, which probably encodes a protein with functions similar to MtAGO4. MtAGO7 mRNA levels increased and possibly encodes a protein involved in the production of trans-acting small interfering RNAs. The transcript abundance of MtAGO12a, MtAGO12b and MtAGO12c reduced under water deprivation. Plants recovered from water deprivation reacquire the mRNA levels of the controls. Our work demonstrates that in M. truncatula the transcript accumulation of the components of small RNA pathways is being modulated under water deficit. This shows that the transcriptional and post-transcriptional control of gene expression mediated by sRNAs is probably involved in plant adaptation to abiotic environmental changes. In the future this will allow the manipulation of these pathways providing a more efficient response of legumes towards water shortage.
+
+DCL: !processes! sRNAs 
+AGOs: !target and act on! sRNAs 
+DNA methylation: !regulates! transcriptional silencing 
+chromatin remodeling: !regulates! transcriptional silencing 
+MtDCL1: !increases! under water deficit 
+MtAGO1: !increases! under water deficit 
+mir162: !reduces! MtDCL1 mRNA 
+mir168: !reduces! MtAGO1 mRNA 
+MtDCL3: !increases! under water deficit 
+MtAGO4b: !increases! under water deficit 
+MtAGO4c: !increases! under water deficit 
+MtAGO6: !decreases! under water deficit 
+MtAGO7: !increases! under water deficit 
+MtAGO12a: !decreases! under water deficit 
+MtAGO12b: !decreases! under water deficit 
+MtAGO12c: !decreases! under water deficit

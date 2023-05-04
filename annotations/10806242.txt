@@ -1,0 +1,12 @@
+['10806242', 'We report the characterization of two members of a gene family from Arabidopsis  that encode, respectively, cytosolic (cPMSR) and plastid-targeted (pPMSR)  isoforms of the oxidative-stress-repair enzyme peptide methionine sulfoxide  reductase. Overexpression of these proteins in Escherichia coli confirmed that  each had PMSR enzyme activity with a synthetic substrate,  N-acetyl-[(3)H]-methionine sulfoxide, or a biological substrate, alpha-1  proteinase inhibitor. The pPMSR was imported into intact chloroplasts in vitro  with concomitant cleavage of its approximately 5-kD N-terminal signal peptide.  The two PMSR isoforms exhibited divergent pH optima, tissue localization, and  responses to developmental and environmental effects. Analysis of the Arabidopsis  database indicated that there are probably at least two p-pmsr-like genes and  three c-pmsr-like genes in the Arabidopsis genome. Expression of the p-pmsr genes  and their protein products was restricted to photosynthetic tissues and was  strongly induced following illumination of etiolated seedlings. In contrast, the  c-pmsr genes were expressed at moderate levels in all tissues and were only  weakly affected by light. Exposure to a variety of biotic and abiotic stresses  showed relatively little effect on pmsr gene expression, with the exception of  leaves subjected to a long-term exposure to the cauliflower mosaic virus. These  leaves showed a strong induction of the c-pmsr gene after 2 to 3 weeks of chronic  pathogen infection. These data suggest novel roles for PMSR in photosynthetic  tissues and in pathogen defense responses in plants.', '2000 May', 'Plant Physiol', '10.1104/pp.123.1.255', 'Murphy']
+
+cPMSR: !encodes! oxidative-stress-repair enzyme
+pPMSR: !encodes! oxidative-stress-repair enzyme
+cPMSR: !exhibits! divergent pH optima
+pPMSR: !imported into! chloroplasts
+pPMSR: !expressed in! photosynthetic tissues
+cPMSR: !expressed in! all tissues
+pPMSR: !induced by! illumination
+cPMSR: !weakly affected by! light
+cPMSR: !induced by! chronic pathogen infection
+PMSR: !plays role in! photosynthesis & pathogen defense

@@ -1,0 +1,15 @@
+The glucose sensor HEXOKINASE1 (HXK1) integrates myriad external and internal signals to regulate gene expression and development in Arabidopsis thaliana. However, how HXK1 mediates glucose signaling in the nucleus remains unclear. Here, using immunoprecipitation-coupled mass spectrometry, we show that two catalytic subunits of Polycomb Repressive Complex 2, SWINGER (SWN) and CURLY LEAF (CLF), directly interact with catalytically active HXK1 and its inactive forms (HXK1<sup>G104D</sup> and HXK1<sup>S177A</sup> ) via their evolutionarily conserved SANT domains. HXK1, CLF, and SWN target common glucose-responsive genes to regulate glucose signaling, as revealed by RNA sequencing. The glucose-insensitive phenotypes of the Arabidopsis swn-1 and clf-50 mutants were similar to that of hxk1, and genetic analysis revealed that CLF, SWN, and HXK1 function in the same genetic pathway. Intriguingly, HXK1 is required for CLF- and SWN-mediated histone H3 lysine 27 (H3K27me3) deposition and glucose-mediated gene repression. Moreover, CLF and SWN affect the recruitment of HXK1 to its target chromatin. These findings support a model in which HXK1 and epigenetic modifiers form a nuclear complex to cooperatively mediate glucose signaling, thereby affecting the histone modification and expression of glucose-regulated genes in plants.
+
+HXK1: !interacts with! CLF 
+HXK1: !interacts with! SWN 
+CLF: !interacts with! HXK1 
+SWN: !interacts with! HXK1 
+HXK1: !affects! glucose signaling 
+CLF: !affects! glucose signaling 
+SWN: !affects! glucose signaling 
+HXK1: !enhances! gene repression 
+CLF: !enhances! gene repression 
+SWN: !enhances! gene repression 
+HXK1: !localizes to! chromatin 
+CLF: !affects! HXK1 localization 
+SWN: !affects! HXK1 localization

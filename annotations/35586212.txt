@@ -1,0 +1,8 @@
+Cherry tomato (<i>Solanum lycopersicum</i>) is popular with consumers over the world due to its special flavor. Soluble solids content (SSC) and firmness are two key metrics for evaluating the product qualities. In this work, we develop non-destructive testing techniques for SSC and fruit firmness based on hyperspectral images and the corresponding deep learning regression model. Hyperspectral reflectance images of over 200 tomato fruits are derived with the spectrum ranging from 400 to 1,000 nm. The acquired hyperspectral images are corrected and the spectral information are extracted. A novel one-dimensional (1D) convolutional ResNet (Con1dResNet) based regression model is proposed and compared with the state of art techniques. Experimental results show that, with a relatively large number of samples our technique is 26.4% better than state of art technique for SSC and 33.7% for firmness. The results of this study indicate the application potential of hyperspectral imaging technique in the SSC and firmness detection, which provides a new option for non-destructive testing of cherry tomato fruit quality in the future.
+
+Hyperspectral images: !derived from! 400-1000nm spectrum 
+Hyperspectral images: !corrected and extracted! spectral information 
+Con1dResNet: !proposed and compared! state of art techniques 
+Con1dResNet: !26.4% better than! state of art technique for SSC 
+Con1dResNet: !33.7% better than! state of art technique for firmness 
+Hyperspectral imaging: !application potential in! SSC and firmness detection

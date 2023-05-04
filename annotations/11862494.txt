@@ -1,0 +1,9 @@
+['11862494', 'In eukaryotes, transcription factors of the E2F family, in addition to having a  role in cell proliferation, participate in regulating apoptosis, differentiation  and development. In Arabidopsis thaliana, eight gene sequences have been  identified as encoding E2F or DP homologues. DP proteins form heterodimers with  E2Fs. The aim of this work was to characterize the functions of three of these  factors: AtE2F-a, AtE2F-b and AtDP-a. Here we report that AtE2F-a and AtE2F-b  transactivate a reporter gene via an E2F consensus cis-acting element in  Arabidopsis protoplasts. AtE2F-a is a more potent activator than AtE2F-b.  Furthermore, co-expression of the E2F partner AtDP-a, or the DNA binding protein  AtPur alpha, modulates the activation of AtE2F-a. Taken together, these results  suggest that AtE2F-a, AtE2F-b and AtDP-a share features characteristic of members  of the E2F family of transcription factors. Moreover, over-expression of AtE2F-a  and AtDP-a can induce differentiated, non-dividing, leaf cells to re-enter  S-phase. We conclude that the transcription factor AtE2F-a plays an important  role in progression into S phase, which probably correlates with its capacity to  stimulate transcription.', '2002 Feb', 'Mol Genet Genomics', '10.1007/s00438-001-0624-7', 'Bergounioux']
+
+AtE2F-a: !transactivates! reporter gene 
+AtE2F-a: !modulated by! AtDP-a 
+AtE2F-a: !modulated by! AtPur alpha 
+AtE2F-a: !induces! S-phase 
+AtE2F-b: !transactivates! reporter gene 
+AtDP-a: !forms heterodimers with! E2Fs 
+AtDP-a: !modulates! AtE2F-a

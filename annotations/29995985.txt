@@ -1,0 +1,10 @@
+The Arabidopsis LEAFY (LFY) transcription factor is a key regulator of floral meristem emergence and identity. LFY interacts genetically and physically with UNUSUAL FLORAL ORGANS, a substrate adaptor of CULLIN1-RING ubiquitin ligase complexes (CRL1). The functionally redundant genes BLADE ON PETIOLE1 (BOP1) and -2 (BOP2) are potential candidates to regulate LFY activity and have recently been shown to be substrate adaptors of CULLIN3 (CUL3)-RING ubiquitin ligases (CRL3). We tested the hypothesis that LFY activity is controlled by BOPs and CUL3s in plants and that LFY is a substrate for ubiquitination by BOP-containing CRL3 complexes. When constitutively expressed, LFY activity is fully dependent on BOP2 as well as on CUL3A and B to regulate target genes such as APETALA1 and to induce ectopic flower formation. We also show that LFY and BOP2 proteins interact physically and that LFY-dependent ubiquitinated species are produced in vitro in a reconstituted cell-free CRL3 system in the presence of LFY, BOP2 and CUL3. This new post-translational regulation of LFY activity by CRL3 complexes makes it a unique transcription factor subjected to a positive dual regulation by both CRL1 and CRL3 complexes and suggests a novel mechanism for promoting flower development.
+
+LFY: !interacts with! UNUSUAL FLORAL ORGANS
+BOP1/2: !interact with! LFY
+BOP1/2: !substrate adaptors of! CUL3-RING ubiquitin ligases
+LFY: !dependent on! BOP2
+LFY: !dependent on! CUL3A/B
+LFY: !induces! APETALA1
+LFY: !interacts with! BOP2
+LFY: !ubiquitinated by! BOP-containing CRL3 complexes

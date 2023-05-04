@@ -1,0 +1,9 @@
+Phytochromes are red and far-red light photoreceptors that regulate various aspects of plant development. One of the less-understood roles of phytochromes is the inhibition of hypocotyl negative gravitropism, which refers to the loss of hypocotyl gravitropism and resulting random growth direction in red or far-red light. This light response allows seedlings to curve toward blue light after emergence from the soil and enhances seedling establishment in the presence of mulch. Phytochromes inhibit hypocotyl negative gravitropism by inhibiting four phytochrome-interacting factors (PIF1, PIF3, PIF4, PIF5), as shown by hypocotyl agravitropism of dark-grown pif1 pif3 pif4 pif5 quadruple mutants. We show that phytochromes inhibit negative gravitropism by converting starch-filled gravity-sensing endodermal amyloplasts to other plastids with chloroplastic or etioplastic features in red or far-red light, whereas PIFs promote negative gravitropism by inhibiting the conversion of endodermal amyloplasts to etioplasts in the dark. By analyzing transgenic plants expressing PIF1 with an endodermis-specific SCARECROW promoter, we further show that endodermal PIF1 is sufficient to inhibit the conversion of endodermal amyloplasts to etioplasts and hypocotyl negative gravitropism of the pif quadruple mutant in the dark. Although the functions of phytochromes in gravitropism and chloroplast development are normally considered distinct, our results indicate that these two functions are closely related.
+
+phytochromes: !inhibit! PIFs 
+PIFs: !promote! negative gravitropism 
+phytochromes: !convert! starch-filled amyloplasts 
+PIF1: !inhibits! conversion of endodermal amyloplasts to etioplasts 
+transgenic plants: !express! PIF1 with endodermis-specific SCARECROW promoter 
+endodermal PIF1: !inhibits! conversion of endodermal amyloplasts to etioplasts 
+endodermal PIF1: !inhibits! hypocotyl negative gravitropism

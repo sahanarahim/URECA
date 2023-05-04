@@ -1,0 +1,14 @@
+In Botrytis cinerea, some components of the cAMP-dependent pathway, such as alpha subunits of heterotrimeric G proteins and the adenylate cyclase BAC, have been characterized and their impact on growth, conidiation, germination, and virulence has been demonstrated. Here, we describe the functions of more components of the cAMP cascade: the catalytic subunits BcPKA1 and BcPKA2 and the regulatory subunit BcPKAR of the cAMP-dependent protein kinase (PKA). Although Deltabcpka2 mutants showed no obvious phenotypes, growth and virulence were severely affected by deletion of both bcpka1 and bcpkaR. Similar to Deltabac, lesion development of Deltabcpka1 and DeltabcpkaR was slower than in controls and soft rot of leaves never occurred. In contrast to Deltabac, Deltabcpka1 and DeltabcpkaR mutants sporulated in planta, and growth rate, conidiation, and conidial germination were not impaired, indicating PKA-independent functions of cAMP. Unexpectedly, Deltabcpka1 and DeltabcpkaR showed identical phenotypes, suggesting the total loss of PKA activity in both mutants. The deletion of bcras2 encoding the fungal-specific Ras GTPase resulted in significantly delayed germination and decreased growth rates. Both effects could be partially restored by exogenous cAMP, suggesting that BcRAS2 activates the adenylate cyclase in addition to the Galpha subunits BCG1 and BCG3, thus influencing cAMP-dependent signal transduction.
+
+BcPKA1: !synthesizes! cAMP
+BcPKA2: !synthesizes! cAMP
+BcPKAR: !synthesizes! cAMP
+BcRAS2: !activates! adenylate cyclase
+BCG1: !activates! adenylate cyclase
+BCG3: !activates! adenylate cyclase
+cAMP: !affects! growth
+cAMP: !affects! conidiation
+cAMP: !affects! germination
+cAMP: !affects! virulence
+cAMP: !restores! germination
+cAMP: !restores! growth rate

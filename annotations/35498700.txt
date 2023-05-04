@@ -1,0 +1,7 @@
+Plant growth and organ size putatively associated with crop yield are regulated by a complex network of genes including ones for controlling cell proliferation. The gene <i>fw2.2</i> was first identified in tomatoes and reported to govern fruit size variation through controlling cell division. In this study, we isolated a putative ortholog of the tomato <i>fw2.2</i> gene from apple, <i>Cell Number Regulator 8</i> (<i>MdCNR8</i>). Our functional analysis showed that <i>MdCNR8</i> may control fruit size and root growth. MdCNR8 was mediated by the SUMO E3 ligase MdSIZ1, and SUMOylation of MdCNR8 at residue-Lys39 promoted the translocation of MdCNR8 from plasma membrane to the nucleus. The effect of <i>MdCNR8</i> in inhibiting root elongation could be completely counteracted by the coexpression of <i>MdSIZ1</i>. Moreover, the lower cell proliferation of apple calli due to silencing MdSIZ1 could be rescued by silencing MdCNR8. Collectively, our results showed that the MdSIZ1-mediated SUMOylation is required for the fulfillment of MdCNR8 in regulating cell proliferation to control plant organ size. This regulatory interaction between <i>MdSIZ1</i> and <i>MdCNR8</i> will facilitate understanding the mechanism underlying the regulation of organ size.
+
+MdCNR8: !governs! fruit size
+MdSIZ1: !mediates! MdCNR8 SUMOylation
+MdSIZ1: !promotes! MdCNR8 translocation
+MdSIZ1: !inhibits! root elongation
+MdCNR8: !rescues! MdSIZ1 silencing

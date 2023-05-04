@@ -1,0 +1,8 @@
+The number of image analysis tools supporting the extraction of architectural features of root systems has increased in recent years. These tools offer a handy set of complementary facilities, yet it is widely accepted that none of these software tools is able to extract in an efficient way the growing array of static and dynamic features for different types of images and species. We describe the Root System Markup Language (RSML), which has been designed to overcome two major challenges: (1) to enable portability of root architecture data between different software tools in an easy and interoperable manner, allowing seamless collaborative work; and (2) to provide a standard format upon which to base central repositories that will soon arise following the expanding worldwide root phenotyping effort. RSML follows the XML standard to store two- or three-dimensional image metadata, plant and root properties and geometries, continuous functions along individual root paths, and a suite of annotations at the image, plant, or root scale at one or several time points. Plant ontologies are used to describe botanical entities that are relevant at the scale of root system architecture. An XML schema describes the features and constraints of RSML, and open-source packages have been developed in several languages (R, Excel, Java, Python, and C#) to enable researchers to integrate RSML files into popular research workflow.
+
+Gene: !affects! Root System Architecture 
+Software Tool: !extracts! Features 
+RSML: !enables! Portability 
+RSML: !provides! Standard Format 
+XML Schema: !describes! Features and Constraints 
+Open-Source Packages: !enable! Integration

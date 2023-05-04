@@ -1,0 +1,10 @@
+Pathogens induce pathogen-associated molecular pattern (PAMP)-triggered immunity (PTI) and effector-triggered immunity (ETI) in plants. PAMPs are microbial molecules recognized by host plants as nonself signals, whereas pathogen effectors are evolved to aid in parasitism but are sometimes recognized by specific intracellular resistance proteins. In the absence of detectable ETI determining classical incompatible interactions, basal resistance exists during compatible and nonhost interactions. What triggers the basal resistance has remained elusive. Here, we provide evidence that ETI contributes to basal resistance during both compatible and nonhost Arabidopsis-Pseudomonas syringae interactions. Mutations in RAR1 and NDR1, two genes required for ETI, compromise basal resistance in both compatible and nonhost interactions. Complete nonhost resistance to P. syringae pv. tabaci required a functional type III secretion system. PTI appears to play a greater role in nonhost resistance than basal resistance during compatible interactions, because abrogation of PTI compromises basal resistance during nonhost but not compatible interactions. Strikingly, simultaneous abrogation of ETI and flagellin-induced PTI rendered plants completely susceptible to the nonadapted bacterium P. syringae pv. tabaci, indicating that ETI and PTI act synergistically during nonhost resistance. Thus, both nonhost resistance and basal resistance to virulent bacteria can be unified under PTI and ETI.
+
+PAMPs: !trigger! PTI
+Effectors: !trigger! ETI
+RAR1: !required for! ETI
+NDR1: !required for! ETI
+Type III secretion system: !required for! nonhost resistance
+PTI: !plays greater role in! nonhost resistance
+ETI: !plays greater role in! basal resistance
+PTI: !acts synergistically with! ETI

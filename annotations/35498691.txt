@@ -1,0 +1,10 @@
+S-nitrosoglutathione reductase (GSNOR) is considered as a critical regulator of plant stress tolerance for its impacts on protein <i>S</i>-nitrosylation through regulation of the <i>S</i>-nitrosothiol (SNO) level. However, the mechanism of GSNOR-mediated stress tolerance is still obscure. Here, we found that GSNOR activity was induced by high temperature in tomato (<i>Solanum lycopersicum</i>) plants, whereas mRNA level of <i>SlGSNOR1</i> exhibited little response. Suppressing <i>SlGSNOR1</i> expression by virus-induced gene silencing (VIGS) increased accumulation of SNO and nitrites under high temperature and reduced thermotolerance. The compromised thermotolerance was associated with less accumulation of abscisic acid (ABA) and salicylic acid (SA), attenuated activation of mitogen-activated protein kinase (MAPK) and reduced expression of heat shock protein. Intriguingly, <i>SlGSNOR1</i> silencing impaired upregulation of <i>RESPIRATORY BURST OXIDASE HOMOLOG1</i> (<i>SlRBOH1</i>) and apoplastic H<sub>2</sub>O<sub>2</sub> accumulation in response to high temperature, whereas <i>SlRBOH1</i> silencing abolished activation of GSNOR and led to a similar decline in thermotolerance as in <i>SlGSNOR1</i>-silenced plants. Importantly, H<sub>2</sub>O<sub>2</sub> treatment recovered the thermotolerance and improved antioxidant capacity in <i>SlGSNOR1</i>-silenced plants. Our results suggest that GSNOR plays a role in regulating the <i>SlRBOH1</i>-dependent apoplastic H<sub>2</sub>O<sub>2</sub> production in response to high temperature, while a balanced interaction between SNO and H<sub>2</sub>O<sub>2</sub> is critical for maintaining the cellular redox homeostasis and thermotolerance.
+
+GSNOR: !induces! thermotolerance
+GSNOR: !regulates! S-nitrosylation
+SlGSNOR1: !represses! thermotolerance
+SlGSNOR1: !impairs! SlRBOH1 upregulation
+SlRBOH1: !activates! GSNOR
+SlRBOH1: !produces! apoplastic H2O2
+SNO: !balances! H2O2
+H2O2: !recovers! thermotolerance

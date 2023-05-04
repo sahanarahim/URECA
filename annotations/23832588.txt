@@ -1,0 +1,13 @@
+The secretion of cell wall polysaccharides through the trans-Golgi network (TGN) is required for plant cell elongation. However, the components mediating the post-Golgi secretion of pectin and hemicellulose, the two major cell wall polysaccharides, are largely unknown. We identified evolutionarily conserved YPT/RAB GTPase Interacting Protein 4a (YIP4a) and YIP4b (formerly YIP2), which form a TGN-localized complex with ECHIDNA (ECH) in Arabidopsis thaliana. The localization of YIP4 and ECH proteins at the TGN is interdependent and influences the localization of VHA-a1 and SYP61, which are key components of the TGN. YIP4a and YIP4b act redundantly, and the yip4a yip4b double mutants have a cell elongation defect. Genetic, biochemical, and cell biological analyses demonstrate that the ECH/YIP4 complex plays a key role in TGN-mediated secretion of pectin and hemicellulose to the cell wall in dark-grown hypocotyls and in secretory cells of the seed coat. In keeping with these observations, Fourier transform infrared microspectroscopy analysis revealed that the ech and yip4a yip4b mutants exhibit changes in their cell wall composition. Overall, our results reveal a TGN subdomain defined by ECH/YIP4 that is required for the secretion of pectin and hemicellulose and distinguishes the role of the TGN in secretion from its roles in endocytic and vacuolar trafficking.
+
+YIP4a: !localizes to! TGN
+YIP4b: !localizes to! TGN
+ECH: !localizes to! TGN
+YIP4a: !interacts with! YIP4b
+YIP4a: !interacts with! ECH
+ECH: !interacts with! YIP4b
+VHA-a1: !localizes to! TGN
+SYP61: !localizes to! TGN
+YIP4a: !enhances! VHA-a1 localization
+YIP4b: !enhances! SYP61 localization
+ECH/YIP4: !required for! secretion of pectin and hemicellulose

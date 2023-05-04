@@ -1,0 +1,13 @@
+['31548257', 'The Pseudomonas syringae effector protein AvrRpm1 activates the Arabidopsis  intracellular innate immune receptor protein RPM1 via modification of a second  Arabidopsis protein, RIN4. Prior work has shown that AvrRpm1 induces  phosphorylation of AtRIN4, but homology modeling indicated that AvrRpm1 may be an  ADP-ribosyl transferase. Here we show that AvrRpm1 induces ADP-ribosylation of  RIN4 proteins from both Arabidopsis and soybean within two highly conserved  nitrate-induced (NOI) domains. It also ADP-ribosylates at least ten additional  Arabidopsis NOI domain-containing proteins. The ADP-ribosylation activity of  AvrRpm1 is required for subsequent phosphorylation on threonine 166 of  Arabidopsis RIN4, an event that is necessary and sufficient for RPM1 activation.  We also show that the C-terminal NOI domain of AtRIN4 interacts with the exocyst  subunits EXO70B1, EXO70E1, EXO70E2 and EXO70F1. Mutation of either EXO70B1 or  EXO70E2 inhibited secretion of callose induced by the bacterial flagellin-derived  peptide flg22. Substitution of RIN4 threonine 166 with aspartate enhanced the  association of AtRIN4 with EXO70E2, which we posit inhibits its callose  deposition function. Collectively, these data indicate that AvrRpm1 ADP-ribosyl  transferase activity contributes to virulence by promoting phosphorylation of  RIN4 threonine 166, which inhibits the secretion of defense compounds by  promoting the inhibitory association of RIN4 with EXO70 proteins.', '2019 Sep 23', 'Plant Cell', '10.1105/tpc.19.00020', 'Innes']
+
+AvrRpm1: !activates! RPM1 
+AvrRpm1: !ADP-ribosylates! RIN4 
+AvrRpm1: !ADP-ribosylates! additional proteins 
+RIN4: !phosphorylated by! AvrRpm1 
+RIN4: !interacts with! EXO70B1 
+RIN4: !interacts with! EXO70E1 
+RIN4: !interacts with! EXO70E2 
+RIN4: !interacts with! EXO70F1 
+EXO70B1: !inhibited by! RIN4 mutation 
+EXO70E2: !inhibited by! RIN4 mutation 
+RIN4: !enhanced association with! EXO70E2

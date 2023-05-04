@@ -1,0 +1,15 @@
+The flowering of Arabidopsis thaliana winter annuals is delayed until the subsequent spring by the strong floral repressor FLOWERING LOCUS C (FLC). FRIGIDA (FRI) activates the transcription of FLC, but the molecular mechanism remains elusive. The fri mutation causes early flowering with reduced FLC expression similar to frl1, fes1, suf4, and flx, which are mutants of FLC-specific regulators. Here, we report that FRI acts as a scaffold protein interacting with FRL1, FES1, SUF4, and FLX to form a transcription activator complex (FRI-C). Each component of FRI-C has a specialized function. SUF4 binds to a cis-element of the FLC promoter, FLX and FES1 have transcriptional activation potential, and FRL1 and FES1 stabilize the complex. FRI-C recruits a general transcription factor, a TAF14 homolog, and chromatin modification factors, the SWR1 complex and SET2 homolog. Complex formation was confirmed by the immunoprecipitation of FRI-associated proteins followed by mass spectrometric analysis. Our results provide insight into how a specific transcription activator recruits chromatin modifiers to regulate a key flowering gene.
+
+FRI: !interacts with! FRL1
+FRI: !interacts with! FES1
+FRI: !interacts with! SUF4
+FRI: !interacts with! FLX
+SUF4: !binds to! FLC promoter
+FLX: !has! transcriptional activation potential
+FES1: !has! transcriptional activation potential
+FES1: !stabilizes! complex
+FRL1: !stabilizes! complex
+FRI-C: !recruits! general transcription factor
+FRI-C: !recruits! TAF14 homolog
+FRI-C: !recruits! SWR1 complex
+FRI-C: !recruits! SET2 homolog

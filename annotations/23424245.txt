@@ -1,0 +1,8 @@
+Light regulates ascorbic acid (AsA) synthesis, which increases in the light, presumably reflecting a need for antioxidants to detoxify reactive molecules produced during photosynthesis. Here, we examine this regulation in Arabidopsis thaliana and find that alterations in the protein levels of the AsA biosynthetic enzyme GDP-Man pyrophosphorylase (VTC1) are associated with changes in AsA contents in light and darkness. To find regulatory factors involved in AsA synthesis, we identified VTC1-interacting proteins by yeast two-hybrid screening of a cDNA library from etiolated seedlings. This screen identified the photomorphogenic factor COP9 signalosome subunit 5B (CSN5B), which interacted with the N terminus of VTC1 in yeast and plants. Gel filtration profiling showed that VTC1-CSN5B also associated with the COP9 signalosome complex, and this interaction promotes ubiquitination-dependent VTC1 degradation through the 26S proteasome pathway. Consistent with this, csn5b mutants showed very high AsA levels in both light and darkness. Also, a double mutant of csn5b with the partial loss-of-function mutant vtc1-1 contained AsA levels between those of vtc1-1 and csn5b, showing that CSN5B modulates AsA synthesis by affecting VTC1. In addition, the csn5b mutant showed higher tolerance to salt, indicating that CSN5B regulation of AsA synthesis affects the response to salt stress. Together, our data reveal a regulatory role of CSN5B in light-dark regulation of AsA synthesis.
+
+VTC1: !interacts with! CSN5B
+CSN5B: !promotes! VTC1 degradation
+VTC1: !affects! AsA synthesis
+CSN5B: !modulates! AsA synthesis
+CSN5B: !regulates! light-dark regulation of AsA synthesis
+CSN5B: !affects! response to salt stress

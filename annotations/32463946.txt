@@ -1,0 +1,8 @@
+Fruit development involves chloroplast development, carotenoid accumulation and fruit coloration. Although genetic regulation of fruit development has been extensively investigated, epigenetic regulation of fruit coloration remains largely unexplored. Here, we report a naturally occurring epigenetic regulation of TAGL1, and its impact on chloroplast development and fruit coloration. We used a genome-wide association study in combination with map-based cloning to identify the GREEN STRIPE (GS) locus, a methylated isoform of TAGL1 regulating diversified chloroplast development and carotenoid accumulation. Nonuniform pigmentation of fruit produced by GS was highly associated with methylation of the TAGL1 promoter, which is linked to a SNP at SL2.50ch07_63842838. High degrees of methylation of the TAGL1 promoter downregulated its expression, leading to green stripes. By contrast, low degrees of methylation led to light green stripes in gs. RNA-seq and ChIP collectively showed that the expression of genes involved with Chl synthesis and chloroplast development were significantly upregulated in green stripes relative to light green stripes. Quantitative PCR and dual luciferase assay confirmed that TAGL1 downregulates expression of SlMPEC, SlPsbQ, and SlCAB, and upregulates expression of PSY1 - genes which are associated with chloroplast development and carotenoid accumulation. Altogether, our findings regarding the GS locus demonstrate that naturally occurring methylation of TAGL1 has diverse effects on plastid development in fruit.
+
+TAGL1: !methylates! promoter 
+promoter: !downregulates! TAGL1 
+TAGL1: !upregulates! PSY1 
+TAGL1: !downregulates! SlMPEC 
+TAGL1: !downregulates! SlPsbQ 
+TAGL1: !downregulates! SlCAB

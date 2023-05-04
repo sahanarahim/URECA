@@ -1,0 +1,18 @@
+Phytochrome B (phyB) enables plants to modify shoot branching or tillering in response to varying light intensities and ratios of red and far-red light caused by shading and neighbor proximity. Tillering is inhibited in sorghum genotypes that lack phytochrome B (58M, phyB-1) until after floral initiation. The growth of tiller buds in the first leaf axil of wild-type (100M, PHYB) and phyB-1 sorghum genotypes is similar until 6 d after planting when buds of phyB-1 arrest growth, while wild-type buds continue growing and develop into tillers. Transcriptome analysis at this early stage of bud development identified numerous genes that were up to 50-fold differentially expressed in wild-type/phyB-1 buds. Up-regulation of terminal flower1, GA2oxidase, and TPPI could protect axillary meristems in phyB-1 from precocious floral induction and decrease bud sensitivity to sugar signals. After bud growth arrest in phyB-1, expression of dormancy-associated genes such as DRM1, GT1, AF1, and CKX1 increased and ENOD93, ACCoxidase, ARR3/6/9, CGA1, and SHY2 decreased. Continued bud outgrowth in wild-type was correlated with increased expression of genes encoding a SWEET transporter and cell wall invertases. The SWEET transporter may facilitate Suc unloading from the phloem to the apoplast where cell wall invertases generate monosaccharides for uptake and utilization to sustain bud outgrowth. Elevated expression of these genes was correlated with higher levels of cytokinin/sugar signaling in growing buds of wild-type plants.
+
+phyB: !enables! shoot branching
+58M, phyB-1: !inhibits! tillering
+terminal flower1: !protects! axillary meristems
+GA2oxidase: !decreases! bud sensitivity to sugar signals
+DRM1: !increases! expression
+GT1: !increases! expression
+AF1: !increases! expression
+CKX1: !increases! expression
+ENOD93: !decreases! expression
+ACCoxidase: !decreases! expression
+ARR3/6/9: !decreases! expression
+CGA1: !decreases! expression
+SHY2: !decreases! expression
+SWEET transporter: !facilitates! Suc unloading
+cell wall invertases: !generate! monosaccharides
+cytokinin/sugar signaling: !correlated with! higher levels

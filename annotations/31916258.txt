@@ -1,0 +1,8 @@
+Land surface models (LSMs) typically use empirical functions to represent vegetation responses to soil drought. These functions largely neglect recent advances in plant ecophysiology that link xylem hydraulic functioning with stomatal responses to climate. We developed an analytical stomatal optimization model based on xylem hydraulics (SOX) to predict plant responses to drought. Coupling SOX to the Joint UK Land Environment Simulator (JULES) LSM, we conducted a global evaluation of SOX against leaf- and ecosystem-level observations. SOX simulates leaf stomatal conductance responses to climate for woody plants more accurately and parsimoniously than the existing JULES stomatal conductance model. An ecosystem-level evaluation at 70 eddy flux sites shows that SOX decreases the sensitivity of gross primary productivity (GPP) to soil moisture, which improves the model agreement with observations and increases the predicted annual GPP by 30% in relation to JULES. SOX decreases JULES root-mean-square error in GPP by up to 45% in evergreen tropical forests, and can simulate realistic patterns of canopy water potential and soil water dynamics at the studied sites. SOX provides a parsimonious way to incorporate recent advances in plant hydraulics and optimality theory into LSMs, and an alternative to empirical stress factors.
+
+SOX: !simulates! Leaf stomatal conductance responses
+JULES: !represents! Vegetation responses to soil drought
+SOX: !improves! Model agreement with observations
+SOX: !increases! Predicted annual GPP
+SOX: !decreases! JULES root-mean-square error in GPP
+SOX: !provides! Alternative to empirical stress factors

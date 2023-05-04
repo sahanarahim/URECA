@@ -1,0 +1,14 @@
+The agriGO platform, which has been serving the scientific community for >10 years, specifically focuses on gene ontology (GO) enrichment analyses of plant and agricultural species. We continuously maintain and update the databases and accommodate the various requests of our global users. Here, we present our updated agriGO that has a largely expanded number of supporting species (394) and datatypes (865). In addition, a larger number of species have been classified into groups covering crops, vegetables, fish, birds and insects closely related to the agricultural community. We further improved the computational efficiency, including the batch analysis and P-value distribution (PVD), and the user-friendliness of the web pages. More visualization features were added to the platform, including SEACOMPARE (cross comparison of singular enrichment analysis), direct acyclic graph (DAG) and Scatter Plots, which can be merged by choosing any significant GO term. The updated platform agriGO v2.0 is now publicly accessible at http://systemsbiology.cau.edu.cn/agriGOv2/.
+
+Gene: !affects! Process 
+Gene: !localizes to! X 
+Gene: !interacts with! Y 
+Gene: !enhances! Z 
+Gene: !represses! U 
+Gene: !synthesizes! I 
+Platform: !serves! Scientific Community 
+Platform: !maintains! Databases 
+Platform: !accommodates! Requests 
+Platform: !improves! Computational Efficiency 
+Platform: !improves! User-friendliness 
+Platform: !adds! Visualization Features

@@ -1,0 +1,7 @@
+It is not known how the uptake and retention of the key osmolyte K(+) in cells are mediated in growing leaf tissue. In the present study on the growing leaf 3 of barley, we have cloned the full-length coding sequence of three genes which encode putative K(+) channels (HvAKT1, HvAKT2, HvKCO1/HvTPK1), and of one gene which encodes a putative K(+) transporter (HvHAK4). The functionality of the gene products of HvAKT1 and HvAKT2 was tested through expression in Xenopus laevis oocytes. Both are inward-rectifying K(+) channels which are inhibited by Cs(+). Function of HvAKT1 in oocytes requires co-expression of a calcineurin-interacting protein kinase (AtCIPK23) and a calcineurin B-like protein (AtCBL9) from Arabidopsis, showing cross-species complementation of function. In planta, HvAKT1 is expressed primarily in roots, but is also expressed in leaf tissue. HvAKT2 is expressed particularly in leaf tissue, and HvHAK4 is expressed particularly in growing leaf tissue. Within leaves, HvAKT1 and HvAKT2 are expressed predominantly in mesophyll. Expression of genes changes little in response to low external K(+) or salinity, despite major changes in K(+) concentrations and osmolality of cells. Possible contributions of HvAKT1, HvAKT2, HvKCO1 and HvHAK4 to regulation of K(+) relations of growing barley leaf cells are discussed.
+
+HvAKT1: !requires! AtCIPK23,AtCBL9
+HvAKT1: !localizes to! roots,leaf tissue
+HvAKT2: !localizes to! leaf tissue
+HvHAK4: !localizes to! growing leaf tissue
+HvAKT1,HvAKT2: !localizes to! mesophyll

@@ -1,0 +1,8 @@
+Agrobacterium-mediated genetic transformation not only represents a technology of choice to genetically manipulate plants, but it also serves as a model system to study mechanisms employed by invading pathogens to counter the myriad defenses mounted against them by the host cell. Here, we uncover a new layer of plant defenses that is targeted by A. tumefaciens to facilitate infection. We show that the Agrobacterium F-box effector VirF, which is exported into the host cell, recognizes an Arabidopsis transcription factor VFP4 and targets it for proteasomal degradation. We hypothesize that VFP4 resists Agrobacterium infection and that the bacterium utilizes its VirF effector to degrade VFP4 and thereby mitigate the VFP4-based defense. Indeed, loss-of-function mutations in VFP4 resulted in differential expression of numerous biotic stress-response genes, suggesting that one of the functions of VFP4 is to control a spectrum of plant defenses, including those against Agrobacterium tumefaciens. We identified one such gene, ATL31, known to mediate resistance to bacterial pathogens. ATL31 was transcriptionally repressed in VFP4 loss-of-function plants and activated in VFP4 gain-of-function plants. Gain-of-function lines of VFP4 and ATL31 exhibited recalcitrance to Agrobacterium tumorigenicity, suggesting that A. tumefaciens may utilize the host ubiquitin/proteasome system to destabilize transcriptional regulators of the host disease response machinery.
+
+VirF: !targets! VFP4 
+VFP4: !controls! biotic stress-response genes 
+ATL31: !mediates! resistance to bacterial pathogens 
+VFP4: !represses! ATL31 
+VFP4: !activates! ATL31 
+VFP4/ATL31: !exhibit! recalcitrance to Agrobacterium tumorigenicity

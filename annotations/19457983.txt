@@ -1,0 +1,9 @@
+Leaf photosynthesis is known to acclimate to the actual irradiance received by the different layers of a canopy. This acclimation is usually described in terms of changes in leaf structure, and in photosynthetic capacity. Photosynthetic capacity is likely to be affected by mesophyll conductance to CO(2) which has seldom been assessed in tree species, and whose plasticity in response to local irradiance is still poorly known. Structural [N and chlorophyll content, leaf mass to area ratio (LMA)] and functional leaf traits [maximum carboxylation rate (V(cmax)), maximum light-driven electron flux (J(max)), and mesophyll conductance (g(i))] were assessed by measuring leaf response curves of net CO(2) assimilation versus intercellular CO(2) partial pressure, along a vertical profile across a beech canopy, and by fitting a version of the Farquhar model including g(i). The measurements were repeated five times during a growth season to catch potential seasonal variation. Irradiance gradients resulted in large decreasing gradients of LMA, g(i), V(cmax), and J(max). Relative allocation of leaf N to the different photosynthetic processes was only slightly affected by local irradiance. Seasonal changes after leaf expansion and before induction of leaf senescence were only minor. Structural equation modelling confirmed that LMA was the main driving force for changes in photosynthetic traits, with only a minor contribution of leaf Nitrogen content. In conclusion, mesophyll conductance to CO(2) displays a large plasticity that scales with photosynthetic capacity across a tree canopy, and that it is only moderately (if at all) affected by seasonal changes in the absence of significant soil water depletion.
+
+LMA: !affects! Photosynthetic capacity
+N content: !affects! Photosynthetic capacity
+Irradiance: !affects! LMA
+Irradiance: !affects! g(i)
+Irradiance: !affects! V(cmax)
+Irradiance: !affects! J(max)
+Seasonal changes: !affects! N content

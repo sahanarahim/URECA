@@ -1,0 +1,8 @@
+Members of the B family of membrane-bound ATP-binding cassette (ABC) transporters represent key components of the auxin efflux machinery in plants. Over the last two decades, experimental studies have shown that modifying ATP-binding cassette sub-family B (ABCB) expression affects auxin distribution and plant phenotypes. However, precisely how ABCB proteins transport auxin in conjunction with the more widely studied family of PIN-formed (PIN) auxin efflux transporters is unclear, and studies using heterologous systems have produced conflicting results. Here, we integrate ABCB localization data into a multicellular model of auxin transport in the Arabidopsis thaliana root tip to predict how ABCB-mediated auxin transport impacts organ-scale auxin distribution. We use our model to test five potential ABCB-PIN regulatory interactions, simulating the auxin dynamics for each interaction and quantitatively comparing the predictions with experimental images of the DII-VENUS auxin reporter in wild-type and abcb single and double loss-of-function mutants. Only specific ABCB-PIN regulatory interactions result in predictions that recreate the experimentally observed DII-VENUS distributions and long-distance auxin transport. Our results suggest that ABCBs enable auxin efflux independently of PINs; however, PIN-mediated auxin efflux is predominantly through a co-dependent efflux where co-localized with ABCBs.
+
+ABCB: !affects! auxin distribution 
+ABCB: !localizes to! Arabidopsis thaliana root tip 
+ABCB: !interacts with! PIN-formed auxin efflux transporters 
+ABCB: !enhances! long-distance auxin transport 
+PIN: !represses! ABCB-mediated auxin transport 
+ABCB/PIN: !synthesizes! co-dependent efflux

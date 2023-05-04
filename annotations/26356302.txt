@@ -1,0 +1,7 @@
+In addition to proteins, L-phenylalanine is a versatile precursor for thousands of plant metabolites. Production of phenylalanine-derived compounds is a complex multi-compartmental process using phenylalanine synthesized predominantly in plastids as precursor. The transporter(s) exporting phenylalanine from plastids, however, remains unknown. Here, a gene encoding a Petunia hybrida plastidial cationic amino-acid transporter (PhpCAT) functioning in plastidial phenylalanine export is identified based on homology to an Escherichia coli phenylalanine transporter and co-expression with phenylalanine metabolic genes. Radiolabel transport assays show that PhpCAT exports all three aromatic amino acids. PhpCAT downregulation and overexpression result in decreased and increased levels, respectively, of phenylalanine-derived volatiles, as well as phenylalanine, tyrosine and their biosynthetic intermediates. Metabolic flux analysis reveals that flux through the plastidial phenylalanine biosynthetic pathway is reduced in PhpCAT RNAi lines, suggesting that the rate of phenylalanine export from plastids contributes to regulating flux through the aromatic amino-acid network.
+
+Gene: !encodes! Transporter 
+Transporter: !exports! Amino Acids 
+Gene: !downregulates! Volatiles 
+Gene: !overexpresses! Volatiles 
+Gene: !regulates! Flux

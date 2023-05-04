@@ -1,0 +1,11 @@
+Substrate selectivity of glycerol-3-phosphate acyltransferase (EC 2. 3. 1. 15) of rice (Oryza sativa L.) was explored in a comparative study of acyltransferases from seven plant species. In vitro labeling of acyl carrier protein (ACP) with (14)C or (3)H showed that acyltransferase from chill-sensitive plants, such as rice that uses either oleic (18:1) or palmitic acid (16:0) as acyl donor at comparable rates, displays lower selectivity than the enzyme from chill-resistant plants, such as spinach, which preferentially uses oleic acid (18:1) rather than palmitic acid (16:0) as an acyl donor. This may be a result of the size and character of the substrate-binding pocket of acyltransferase. Homology modeling and protein structure-based sequence alignment of acyltransferases revealed that proteins from either chill-sensitive or chill-tolerant plants shared a highly conserved domain containing the proposed substrate-binding pocket. However, the aligned residues surrounding the substrate-binding pocket are highly heterogeneous and may have an influence mainly on the size of the substrate binding pockets of acyltransferases. The substrate selectivity of acyltransferase of rice can be improved by enlarging the substrate-binding pocket using molecular biological methods.
+
+rice: !uses! oleic acid 
+rice: !uses! palmitic acid 
+spinach: !preferentially uses! oleic acid 
+chill-sensitive plants: !displays lower selectivity than! chill-resistant plants 
+acyltransferase: !has! substrate-binding pocket 
+acyltransferase: !shared! highly conserved domain 
+residues: !surround! substrate-binding pocket 
+substrate-binding pocket: !influenced by! size 
+molecular biological methods: !can improve! substrate selectivity

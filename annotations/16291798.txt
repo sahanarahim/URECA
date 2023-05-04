@@ -1,0 +1,13 @@
+MADS-box transcription factors are major regulators of development in flowering plants. The factors act in a combinatorial manner, either as homo- or heterodimers, and they control floral organ formation and identity and many other developmental processes through a complex network of protein-protein and protein-DNA interactions. Despite the fact that many studies have been carried out to elucidate MADS-box protein dimerization by yeast systems, very little information is available on the behaviour of these molecules in planta. Here, evidence for specific interactions between the petunia MADS-box proteins FBP2, FBP11, and FBP24 is provided in vivo. The dimers identified in yeast for the ovule-specific FBP24 protein have been confirmed in living plant cells by means of fluorescence resonance energy transfer-fluorescence lifetime imaging microscopy and, in addition, some of the most likely, less stable homo- and heterodimers were identified. This in vivo approach revealed that particular dimers could only be detected in specific sub-nuclear domains. In addition, evidence for the in planta assembly of these ovule-specific MADS-box transcription factors into higher-order complexes is provided.
+
+MADS-box: !dimerizes! FBP2
+MADS-box: !dimerizes! FBP11
+MADS-box: !dimerizes! FBP24
+FBP2: !interacts with! FBP11
+FBP2: !interacts with! FBP24
+FBP11: !interacts with! FBP2
+FBP11: !interacts with! FBP24
+FBP24: !interacts with! FBP2
+FBP24: !interacts with! FBP11
+MADS-box: !localizes to! sub-nuclear domains
+MADS-box: !assembles into! higher-order complexes

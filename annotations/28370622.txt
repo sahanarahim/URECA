@@ -1,0 +1,9 @@
+The oil biosynthesis pathway must be tightly controlled to maximize oil yield. Oil palm accumulates exceptionally high oil content in its mesocarp, suggesting the existence of a unique fruit-specific fatty acid metabolism transcriptional network. We report the complex fruit-specific network of transcription factors responsible for modulation of oil biosynthesis genes in oil palm mesocarp. Transcriptional activation of EgWRI1-1 encoding a key master regulator that activates expression of oil biosynthesis genes, is activated by three ABA-responsive transcription factors, EgNF-YA3, EgNF-YC2 and EgABI5. Overexpression of EgWRI1-1 and its activators in Arabidopsis accelerated flowering, increased seed size and oil content, and altered expression levels of oil biosynthesis genes. Protein-protein interaction experiments demonstrated that EgNF-YA3 interacts directly with EgWRI1-1, forming a transcription complex with EgNF-YC2 and EgABI5 to modulate transcription of oil biosynthesis pathway genes. Furthermore, EgABI5 acts downstream of EgWRKY40, a repressor that interacts with EgWRKY2 to inhibit the transcription of oil biosynthesis genes. We showed that expression of these activators and repressors in oil biosynthesis can be induced by phytohormones coordinating fruit development in oil palm. We propose a model highlighting a hormone signaling network coordinating fruit development and fatty acid biosynthesis.
+
+EgWRI1-1: !activates! oil biosynthesis genes
+EgNF-YA3: !interacts with! EgWRI1-1
+EgNF-YC2: !forms transcription complex with! EgWRI1-1
+EgABI5: !activates! EgWRI1-1
+EgWRKY40: !represses! oil biosynthesis genes
+EgWRKY2: !interacts with! EgWRKY40
+phytohormones: !induce! activators and repressors

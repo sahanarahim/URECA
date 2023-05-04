@@ -1,0 +1,11 @@
+['19208901', 'Phytochrome A (phyA) is the primary photoreceptor for mediating the far-red high  irradiance response in Arabidopsis thaliana. FAR-RED ELONGATED HYPOCOTYL1 (FHY1)  and its homolog FHY1-LIKE (FHL) define two positive regulators in the phyA  signaling pathway. These two proteins have been reported to be essential for  light-regulated phyA nuclear accumulation through direct physical interaction  with phyA. Here, we report that FHY1 protein is phosphorylated rapidly after  exposure to red light. Subsequent exposure to far-red light after the red light  pulse reverses FHY1 phosphorylation. Such a phenomenon represents a classical  red/far-red reversible low fluence response. The phosphorylation of FHY1 depends  on functioning phyA but not on other phytochromes and cryptochromes. Furthermore,  we demonstrate that FHY1 and FHL directly interact with phyA by bimolecular  fluorescence complementation and that both FHY1 and FHL interact more stably with  the Pr form of phyA in Arabidopsis seedlings by coimmunoprecipitation. Finally,  in vitro kinase assays confirmed that a recombinant phyA is able to robustly  phosphorylate FHY1. Together, our results suggest that phyA may differentially  regulate FHY1 and FHL activity through direct physical interaction and  red/far-red light reversible phosphorylation to fine-tune their degradation rates  and resulting light responses.', '2009 Feb', 'Plant Cell', '10.1105/tpc.108.061259', 'Deng']
+
+phyA: !mediates! far-red high irradiance response 
+FHY1: !defines! positive regulator in phyA signaling pathway 
+FHL: !defines! positive regulator in phyA signaling pathway 
+FHY1: !interacts with! phyA 
+FHL: !interacts with! phyA 
+phyA: !phosphorylates! FHY1 
+FHY1: !interacts more stably with! Pr form of phyA 
+FHL: !interacts more stably with! Pr form of phyA 
+phyA: !differentially regulates! FHY1 and FHL

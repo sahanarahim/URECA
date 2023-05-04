@@ -1,0 +1,8 @@
+['25736058', 'Chloroplast division is performed by the constriction of envelope membranes at  the division site. Although constriction of a ring-like protein complex has been  shown to be involved in chloroplast division, it remains unknown how membrane  lipids participate in the process. Here, we show that phosphoinositides with  unknown function in envelope membranes are involved in the regulation of  chloroplast division in Arabidopsis thaliana. PLASTID DIVISION1 (PDV1) and PDV2  proteins interacted specifically with phosphatidylinositol 4-phosphate (PI4P).  Inhibition of phosphatidylinositol 4-kinase (PI4K) decreased the level of PI4P in  chloroplasts and accelerated chloroplast division. Knockout of PI4Kbeta2 expression  or downregulation of PI4Kalpha1 expression resulted in decreased levels of PI4P in  chloroplasts and increased chloroplast numbers. PI4Kalpha1 is the main contributor to  PI4P synthesis in chloroplasts, and the effect of PI4K inhibition was largely  abolished in the pdv1 mutant. Overexpression of DYNAMIN-RELATED PROTEIN5B  (DRP5B), another component of the chloroplast division machinery, which is  recruited to chloroplasts by PDV1 and PDV2, enhanced the effect of PI4K  inhibition, whereas overexpression of PDV1 and PDV2 had additive effects. The  amount of DRP5B that associated with chloroplasts increased upon PI4K inhibition.  These findings suggest that PI4P is a regulator of chloroplast division in a  PDV1- and DRP5B-dependent manner.', '2015 Mar', 'Plant Cell', '10.1105/tpc.115.136234', 'Wada']
+
+PI4K: !synthesizes! PI4P 
+PDV1/PDV2: !interacts with! PI4P 
+PI4K: !represses! chloroplast division 
+PDV1/PDV2: !localizes to! chloroplasts 
+DRP5B: !interacts with! PDV1/PDV2 
+PI4K: !enhances! DRP5B association with chloroplasts

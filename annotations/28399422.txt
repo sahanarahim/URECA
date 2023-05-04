@@ -1,0 +1,8 @@
+Seed plants have a remarkable capability to produce axillary meristems (AM) in the leaf axils, however, the dynamic establishment of a stem cell niche in AM is largely uncharacterized. We comprehensively examined the dynamic patterning of WUSCHEL (WUS) and CLAVATA3 (CLV3), the two key marker genes defining the shoot stem cell niches, during AM formation in Arabidopsis, and we found that a two-step patterning of WUS and CLV3 occurred during AM stem cell niche establishment. Our further work on the wus and clv3 mutants implicates that such two-step patterning is likely critical for the maintenance of AM progenitor cells and the specification of AM stem cell niche. These data provide a cytological frame for how a stem cell niche is established during AM formation.
+
+WUSCHEL: !defines! Shoot stem cell niche 
+CLAVATA3: !defines! Shoot stem cell niche 
+WUSCHEL: !patterns! CLAVATA3 
+CLAVATA3: !patterns! WUSCHEL 
+wus: !maintains! AM progenitor cells 
+clv3: !specifies! AM stem cell niche

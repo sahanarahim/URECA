@@ -1,0 +1,9 @@
+Chloroplasts produce singlet oxygen (1O2), which causes changes in nuclear gene expression through plastid-to-nucleus retrograde signaling to increase plant fitness. However, the identity of this 1O2-triggered pathway remains unclear. Here, we identify mutations in GENOMES UNCOUPLED4 (GUN4) and GUN5 as suppressors of phytochrome-interacting factor1 (pif1) pif3 in regulating the photo-oxidative response in Arabidopsis thaliana. GUN4 and GUN5 specifically interact with EXECUTER1 (EX1) and EX2 in plastids, and this interaction is alleviated by treatment with Rose Bengal (RB) or white light. Impaired expression of GUN4, GUN5, EX1, or EX2 leads to insensitivity to excess light and overexpression of EX1 triggers photo-oxidative responses. Strikingly, upon light irradiation or RB treatment, EX1 transiently accumulates in the nucleus and the nuclear fraction of EX1 shows a similar molecular weight as the plastid-located protein. Point mutagenesis analysis indicated that nuclear localization of EX1 is required for its function. EX1 acts as a transcriptional co-activator and interacts with the transcription factors WRKY18 and WRKY40 to promote the expression of 1O2-responsive genes. This study suggests that EX1 may act in plastid-to-nucleus signaling and establishes a 1O2-triggered retrograde signaling pathway that allows plants adapt to changing light environments during chloroplast development.
+
+GUN4: !interacts with! EX1
+GUN5: !interacts with! EX2
+EX1: !localizes to! nucleus
+EX1: !interacts with! WRKY18
+EX1: !interacts with! WRKY40
+WRKY18: !enhances! 1O2-responsive genes
+WRKY40: !enhances! 1O2-responsive genes

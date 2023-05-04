@@ -1,0 +1,17 @@
+To identify salt tolerance determinants, we screened for double mutants from a T-DNA tagged sos3-1 mutant population in the Arabidopsis Col-0 gl1 background. The shs1-1 (sodium hypersensitive) sos3-1 mutant was isolated as more sensitive to NaCl than sos3-1 plants. TAIL-PCR revealed that the introduced T-DNA was located 62 bp upstream of the initiation codon of an adenylate translocator-like protein gene on chromosome IV. SHS1 mRNA did not accumulate in shs1-1 sos3-1 plants although it accumulated in shoots of both sos3-1 and the wild type plants, indicating that this gene is inactive in the mutant. Genetic co-linkage analysis revealed that the mutation causing the phenotype segregated as a recessive, single gene mutation. This mutant showed altered sensitive responses to salt as well as to cold stress. It also demonstrated sugar sensitive and ABA insensitive phenotypes including enhanced germination, reduced growth, altered leaf morphology, and necrosis on leaves at an early growth stage. Sensitivity of sos3-1 shs1-1 root growth to LiCl, KCl, and mannitol was not significantly different from growth of sos3-1 roots. Further, expression of 35S::SHS1 in sos3-1 shs1-1 plants complemented NaCl and sugar sensitivity and partially restored the leaf morphology.
+
+gene: !localizes to! chromosome IV
+gene: !synthesizes! adenylate translocator-like protein
+gene: !represses! SHS1 mRNA
+gene: !affects! salt sensitivity
+gene: !affects! cold stress
+gene: !affects! sugar sensitivity
+gene: !affects! ABA sensitivity
+gene: !affects! germination
+gene: !affects! growth
+gene: !affects! leaf morphology
+gene: !affects! necrosis
+gene: !affects! LiCl sensitivity
+gene: !affects! KCl sensitivity
+gene: !affects! mannitol sensitivity
+gene: !enhances! 35S::SHS1 expression

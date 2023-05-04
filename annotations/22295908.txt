@@ -1,0 +1,10 @@
+['22295908', 'Camalexin is the major phytoalexin in Arabidopsis. An almost complete set of  camalexin biosynthetic enzymes have been elucidated but only limited information  is available regarding molecular mechanisms regulating camalexin biosynthesis.  Here, we demonstrate that ANAC042, a member of the NAM, ATAF1/2, and CUC2 (NAC)  transcription factor family genes, is involved in camalexin biosynthesis  induction. T-DNA insertion mutants of ANAC042 failed to accumulate camalexin at  the levels achieved in the wild type, and were highly susceptible to Alternaria  brassicicola infection. The camalexin biosynthetic genes CYP71A12, CYP71A13, and  CYP71B15/PAD3 were not fully induced in the mutants, indicating that the  camalexin defects were at least partly a result of reduced expression levels of  these P450 genes. beta-Glucuronidase (GUS)-reporter assays demonstrated  tissue-specific induction of ANAC042 in response to differential pathogen  infections. Bacterial flagellin (Flg22) induced ANAC042 expression in the  root-elongation zone, the camalexin biosynthetic site, and the induction was  abolished in the presence of either a general kinase inhibitor (K252a), a  Ca(2+)-chelator (BAPTA), or methyl jasmonate. The GUS-reporter assay revealed  repression of the Flg22-dependent ANAC042 expression in the ethylene-insensitive  ein2-1 background but not in sid2-2 plants defective for salicylic acid  biosynthesis. We discuss ANAC042 as a key transcription factor involved in  previously unknown regulatory mechanisms to induce phytoalexin biosynthesis in  Arabidopsis.', '2012 May', 'Mol Plant Microbe Interact', '10.1094/MPMI-09-11-0244', 'Ohta']
+
+ANAC042: !induces! camalexin biosynthesis
+ANAC042: !represses! Flg22-dependent expression
+Flg22: !induces! ANAC042 expression
+K252a: !abolishes! Flg22-induced ANAC042 expression
+BAPTA: !abolishes! Flg22-induced ANAC042 expression
+Methyl jasmonate: !abolishes! Flg22-induced ANAC042 expression
+EIN2-1: !represses! Flg22-dependent ANAC042 expression
+SID2-2: !does not repress! Flg22-dependent ANAC042 expression

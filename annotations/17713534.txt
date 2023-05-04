@@ -1,0 +1,8 @@
+The interactions between plants and their animal pollinators and seed dispersers have moulded much of Earth's biodiversity. Recently, it has been shown that these mutually beneficial interactions form complex networks with a well-defined architecture that may contribute to biodiversity persistence. Little is known, however, about which ecological and evolutionary processes generate these network patterns. Here we use phylogenetic methods to show that the phylogenetic relationships of species predict the number of interactions they exhibit in more than one-third of the networks, and the identity of the species with which they interact in about half of the networks. As a consequence of the phylogenetic effects on interaction patterns, simulated extinction events tend to trigger coextinction cascades of related species. This results in a non-random pruning of the evolutionary tree and a more pronounced loss of taxonomic diversity than expected in the absence of a phylogenetic signal. Our results emphasize how the simultaneous consideration of phylogenetic information and network architecture can contribute to our understanding of the structure and fate of species-rich communities.
+
+species: !exhibit! interactions 
+species: !interact with! species 
+extinction events: !trigger! coextinction cascades 
+phylogenetic information: !predict! number of interactions 
+phylogenetic information: !identify! species with which they interact 
+simultaneous consideration: !contribute to! understanding of structure and fate of species-rich communities

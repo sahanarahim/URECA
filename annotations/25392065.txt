@@ -1,0 +1,12 @@
+Autumn leaf senescence is a spectacular natural phenomenon; however, the regulation networks controlling autumnal colors and the leaf senescence program remain largely unelucidated. Whether regulation of leaf senescence is similar in subtropical deciduous plants and temperate deciduous plants is also unknown. In this study, the gene expression of a subtropical deciduous tree, Formosan gum (Liquidambar formosana Hance), was profiled. The transcriptomes of April leaves (green leaves, 'G') and December leaves (red leaves, 'R') were investigated by next-generation gene sequencing. Out of 58,402 de novo assembled contigs, 32,637 were annotated as putative genes. Furthermore, the L. formosana-specific microarray designed based on total contigs was used to extend the observation period throughout the growing seasons of 2011-2013. Network analysis from the gene expression profile focused on the genes up-regulated when autumn leaf senescence occurred. LfWRKY70, LfWRKY75, LfWRKY65, LfNAC1, LfSPL14, LfNAC100 and LfMYB113 were shown to be key regulators of leaf senescnece, and the genes regulated by LfWRKY75, LfNAC1 and LfMYB113 are candidates to link chlorophyll degradation and anthocyanin biosynthesis to senescence. In summary, the gene expression profiles over the entire year of the developing leaf from subtropical deciduous trees were used for in silico analysis and the putative gene regulation in autumn coloration and leaf senescence is discussed in this study.
+
+LfWRKY70: !regulates! Leaf senescence
+LfWRKY75: !regulates! Leaf senescence
+LfWRKY65: !regulates! Leaf senescence
+LfNAC1: !regulates! Leaf senescence
+LfSPL14: !regulates! Leaf senescence
+LfNAC100: !regulates! Leaf senescence
+LfMYB113: !regulates! Leaf senescence
+LfWRKY75: !links! Chlorophyll degradation
+LfNAC1: !links! Anthocyanin biosynthesis
+LfMYB113: !links! Senescence

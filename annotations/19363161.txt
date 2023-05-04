@@ -1,0 +1,10 @@
+Here, we present the second part of a quantitative theory for the structure and dynamics of forests under demographic and resource steady state. The theory is based on individual-level allometric scaling relations for how trees use resources, fill space, and grow. These scale up to determine emergent properties of diverse forests, including size-frequency distributions, spacing relations, canopy configurations, mortality rates, population dynamics, successional dynamics, and resource flux rates. The theory uniquely makes quantitative predictions for both stand-level scaling exponents and normalizations. We evaluate these predictions by compiling and analyzing macroecological datasets from several tropical forests. The close match between theoretical predictions and data suggests that forests are organized by a set of very general scaling rules. Our mechanistic theory is based on allometric scaling relations, is complementary to "demographic theory," but is fundamentally different in approach. It provides a quantitative baseline for understanding deviations from predictions due to other factors, including disturbance, variation in branching architecture, asymmetric competition, resource limitation, and other sources of mortality, which are not included in the deliberately simplified theory. The theory should apply to a wide range of forests despite large differences in abiotic environment, species diversity, and taxonomic and functional composition.
+
+Tree: !uses! Resources
+Tree: !fills! Space
+Tree: !grows! Allometrically
+Forest: !determines! Emergent Properties
+Theory: !predicts! Stand-level Scaling Exponents
+Data: !matches! Theoretical Predictions
+Theory: !complements! Demographic Theory
+Theory: !applies to! Wide Range of Forests

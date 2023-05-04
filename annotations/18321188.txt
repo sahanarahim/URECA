@@ -1,0 +1,12 @@
+['18321188', 'Compatible plant-nematode interactions involve the formation of an elaborate  feeding site within the host root that requires the evasion of plant defense  mechanisms by the parasite. Little is known regarding plant defense signaling  pathways that limit nematode parasitism during a compatible interaction.  Therefore, we utilized Arabidopsis thaliana mutants perturbed in salicylic acid  (SA) biosynthesis or signal transduction to investigate the role of SA in  inhibiting parasitism by the beet cyst nematode Heterodera schachtii. We  determined that SA-deficient mutants (sid2-1, pad4-1, and NahG) exhibited  increased susceptibility to H. schachtii. In contrast, SA-treated wild-type  plants showed decreased H. schachtii susceptibility. The npr1-2 and npr1-3  mutants, which are impaired in SA signaling, also showed increased susceptibility  to H. schachtii, whereas the npr1-suppressor mutation sni1 showed decreased  susceptibility. Constitutive pathogenesis-related (PR) gene-expressing mutants  (cpr1 and cpr6) did not show altered susceptibility to H. schachtii; however,  constitutive PR gene expression was restricted to cpr1 shoots with wild-type  levels of PR-1 transcript present in cpr1 roots. Furthermore, we determined that  H. schachtii infection elicits SA-independent PR-2 and PR-5 induction in  wild-type roots, while PR-1 transcript and total SA levels remained unaltered.  This was in contrast to shoots of infected plants where PR-1 transcript abundance  and total SA levels were elevated. We conclude that SA acts via NPR1 to inhibit  nematode parasitism which, in turn, is negatively regulated by SNI1. Our results  show an inverse correlation between root basal PR-1 expression and plant  susceptibility to H. schachtii and suggest that successful cyst nematode  parasitism may involve a local suppression of SA signaling in roots.', '2008 Apr', 'Mol Plant Microbe Interact', '10.1094/MPMI-21-4-0424', 'Baum']
+
+SA: !inhibits! H. schachtii
+sid2-1/pad4-1/NahG: !increase susceptibility to! H. schachtii
+SA: !decreases susceptibility to! H. schachtii
+npr1-2/npr1-3: !increase susceptibility to! H. schachtii
+sni1: !decreases susceptibility to! H. schachtii
+cpr1/cpr6: !no effect on! H. schachtii susceptibility
+H. schachtii: !induces! PR-2/PR-5
+H. schachtii: !does not alter! PR-1/total SA levels in roots
+NPR1: !mediates! SA inhibition of nematode parasitism
+SNI1: !negatively regulates! NPR1

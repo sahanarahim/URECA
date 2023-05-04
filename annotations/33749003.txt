@@ -1,0 +1,9 @@
+There is increasing interest in understanding how trait networks can be manipulated to improve the performance of crop species. Working towards this goal, we have identified key traits linking the acquisition of water, the transport of water to the sites of evaporation and photosynthesis, stomatal conductance, and growth across eight maize hybrid lines grown under well-watered and water-limiting conditions in Northern Colorado. Under well-watered conditions, hybrids with higher end-of-season growth and grain yield exhibited higher leaf-specific conductance, lower operating water potentials, higher rates of midday stomatal conductance, higher rates of net CO<sub>2</sub> assimilation, and greater leaf osmotic adjustment. This trait network was similar under water-limited conditions with the notable exception that linkages between water transport, midday stomatal conductance, and growth were even stronger than under fully watered conditions. The maintenance of high leaf-specific conductance throughout the day was achieved via higher maximal conductance rates rather than lower susceptibility to conductance loss. Our results suggest that efforts to improve maize performance in well-watered and water-limiting conditions would benefit from considering the physiological trait networks governing water and carbon flux rather than focusing on single traits independently of one another.
+
+water: !affects! growth
+water: !transports to! sites of evaporation and photosynthesis
+stomatal conductance: !affects! growth
+stomatal conductance: !enhances! leaf-specific conductance
+osmotic adjustment: !enhances! leaf-specific conductance
+CO<sub>2</sub> assimilation: !enhances! stomatal conductance
+maximal conductance rates: !maintains! leaf-specific conductance

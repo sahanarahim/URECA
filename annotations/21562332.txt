@@ -1,0 +1,8 @@
+With plant molecular biology entering the omics era, there is a need for simple cloning strategies that allow high throughput to systematically study the expression and function of large numbers of genes. Such strategies would facilitate the analysis of gene (sub)families and/or sets of coexpressed genes identified by transcriptomics. Here, we provide a set of 34 ligation-independent cloning (LIC) binary vectors for expression analysis, protein localization studies, and misexpression that will be made freely available. This set of plant LIC vectors offers a fast alternative to standard cloning strategies involving ligase or recombination enzyme technology. We demonstrate the use of this strategy and our new vectors by analyzing the expression domains of genes belonging to two subclades of the basic helix-loop-helix transcription factor family. We show that neither the closest homologs of TARGET OF MONOPTEROS7 (TMO7/ATBS1) nor the members of the ATBS1 INTERACTING FACTOR subclade of putative TMO7 interactors are expressed in the embryo and that there is very limited coexpression in the primary root meristem. This suggests that these basic helix-loop-helix transcription factors are most likely not involved in TMO7-dependent root meristem initiation.
+
+Gene: !affects! Expression 
+Gene: !localizes to! Embryo 
+Gene: !interacts with! TMO7/ATBS1 
+Gene: !enhances! Root Meristem Initiation 
+Gene: !represses! ATBS1 Interacting Factor 
+Gene: !synthesizes! Protein

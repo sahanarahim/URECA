@@ -1,0 +1,9 @@
+The microtubule plus-end tracking proteins (+TIPs) END BINDING1b (EB1b) and SPIRAL1 (SPR1) are required for normal cell expansion and organ growth. EB proteins are viewed as central regulators of +TIPs and cell polarity in animals; SPR1 homologs are specific to plants. To explore if EB1b and SPR1 fundamentally function together, we combined genetic, biochemical, and cell imaging approaches in Arabidopsis thaliana. We found that eb1b-2 spr1-6 double mutant roots exhibit substantially more severe polar expansion defects than either single mutant, undergoing right-looping growth and severe axial twisting instead of waving on tilted hard-agar surfaces. Protein interaction assays revealed that EB1b and SPR1 bind each other and tubulin heterodimers, which is suggestive of a microtubule loading mechanism. EB1b and SPR1 show antagonistic association with microtubules in vitro. Surprisingly, our combined analyses revealed that SPR1 can load onto microtubules and function independently of EB1 proteins, setting SPR1 apart from most studied +TIPs in animals and fungi. Moreover, we found that the severity of defects in microtubule dynamics in spr1 eb1b mutant hypocotyl cells correlated well with the severity of growth defects. These data indicate that SPR1 and EB1b have complex interactions as they load onto microtubule plus ends and direct polar cell expansion and organ growth in response to directional cues.
+
+EB1b: !binds! SPR1
+SPR1: !binds! EB1b
+EB1b: !interacts with! tubulin heterodimers
+SPR1: !loads onto! microtubules
+EB1b: !antagonizes! SPR1's association with microtubules
+SPR1: !functions independently of! EB1 proteins
+spr1 eb1b mutant hypocotyl cells: !correlate with! severity of growth defects

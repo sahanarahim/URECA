@@ -1,0 +1,9 @@
+Grain size is one of the key agronomic traits that determine grain yield in crops. However, the mechanisms underlying grain size control in crops remain elusive. Here we demonstrate that the OsMKKK10-OsMKK4-OsMAPK6 signaling pathway positively regulates grain size and weight in rice. In rice, loss of OsMKKK10 function results in small and light grains, short panicles, and semi-dwarf plants, while overexpression of constitutively active OsMKKK10 (CA-OsMKKK10) results in large and heavy grains, long panicles, and tall plants. OsMKKK10 interacts with and phosphorylates OsMKK4. We identified an OsMKK4 gain-of-function mutant (large11-1D) that produces large and heavy grains. OsMKK4<sup>A227T</sup> encoded by the large11-1D allele has stronger kinase activity than OsMKK4. Plants overexpressing a constitutively active form of OsMKK4 (OsMKK4-DD) also produce large grains. Further biochemical and genetic analyses revealed that OsMKKK10, OsMKK4, and OsMAPK6 function in a common pathway to control grain size. Taken together, our study establishes an important genetic and molecular framework for OsMKKK10-OsMKK4-OsMAPK6 cascade-mediated control of grain size and weight in rice.
+
+OsMKKK10: !interacts with! OsMKK4
+OsMKKK10: !phosphorylates! OsMKK4
+OsMKK4: !encodes! OsMKK4<sup>A227T</sup>
+OsMKK4<sup>A227T</sup>: !has stronger kinase activity than! OsMKK4
+OsMKKK10: !regulates! grain size and weight
+OsMKK4: !regulates! grain size and weight
+OsMAPK6: !regulates! grain size and weight

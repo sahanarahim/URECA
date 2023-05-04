@@ -1,0 +1,9 @@
+We used cryoelectron tomography to reveal the arrangements of photosystem II (PSII) and ATP synthase in vitreous sections of intact chloroplasts and plunge-frozen suspensions of isolated thylakoid membranes. We found that stroma and grana thylakoids are connected at the grana margins by staggered lamellar membrane protrusions. The stacking repeat of grana membranes in frozen-hydrated chloroplasts is 15.7 nm, with a 4.5-nm lumenal space and a 3.2-nm distance between the flat stromal surfaces. The chloroplast ATP synthase is confined to minimally curved regions at the grana end membranes and stroma lamellae, where it covers 20% of the surface area. In total, 85% of the ATP synthases are monomers and the remainder form random assemblies of two or more copies. Supercomplexes of PSII and light-harvesting complex II (LHCII) occasionally form ordered arrays in appressed grana thylakoids, whereas this order is lost in destacked membranes. In the ordered arrays, each membrane on either side of the stromal gap contains a two-dimensional crystal of supercomplexes, with the two lattices arranged such that PSII cores, LHCII trimers, and minor LHCs each face a complex of the same kind in the opposite membrane. Grana formation is likely to result from electrostatic interactions between these complexes across the stromal gap.
+
+Gene: !affects! Process
+Process: !forms! Grana
+ATP synthase: !localizes to! Minimally curved regions
+ATP synthase: !assembles into! Random assemblies
+PSII/LHCII: !arranges into! Ordered arrays
+Ordered arrays: !span! Stromal gap
+Stromal gap: !mediates! Electrostatic interactions

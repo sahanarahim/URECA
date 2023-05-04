@@ -1,0 +1,10 @@
+Powdery mildew, caused by the biotrophic fungal pathogen Blumeria graminis f. sp. tritici, is a major limitation for the production of bread wheat (Triticum aestivum). However, to date, the transcriptional regulation of bread wheat defense against powdery mildew remains largely unknown. Here, we report the function and molecular mechanism of the bread wheat Mediator subunit 25 (TaMED25) in regulating the bread wheat immune response signaling pathway. Three homoalleles of TaMED25 from bread wheat were identified and mapped to chromosomes 5A, 5B, and 5D, respectively. We show that knockdown of TaMED25 by barley stripe mosaic virus-induced gene silencing reduced bread wheat susceptibility to the powdery mildew fungus during the compatible plant-pathogen interaction. Moreover, our results indicate that MED25 may play a conserved role in regulating bread wheat and barley (Hordeum vulgare) susceptibility to powdery mildew. Similarly, bread wheat ETHYLENE INSENSITIVE3-LIKE1 (TaEIL1), an ortholog of Arabidopsis (Arabidopsis thaliana) ETHYLENE INSENSITIVE3, negatively regulates bread wheat resistance against powdery mildew. Using various approaches, we demonstrate that the conserved activator-interacting domain of TaMED25 interacts physically with the separate amino- and carboxyl-terminal regions of TaEIL1, contributing to the transcriptional activation activity of TaEIL1. Furthermore, we show that TaMED25 and TaEIL1 synergistically activate ETHYLENE RESPONSE FACTOR1 (TaERF1) transcription to modulate bread wheat basal disease resistance to B. graminis f. sp. tritici by repressing the expression of pathogenesis-related genes and deterring the accumulation of reactive oxygen species. Collectively, we identify the TaMED25-TaEIL1-TaERF1 signaling module as a negative regulator of bread wheat resistance to powdery mildew.
+
+TaMED25: !interacts with! TaEIL1 
+TaMED25: !synergistically activates! TaERF1 
+TaEIL1: !interacts with! TaMED25 
+TaEIL1: !activates! TaERF1 
+TaERF1: !activated by! TaMED25 
+TaERF1: !activated by! TaEIL1 
+TaERF1: !represses! pathogenesis-related genes 
+TaERF1: !deters! reactive oxygen species

@@ -1,0 +1,8 @@
+The plant signaling molecule auxin has been implicated in the control of a confounding multitude of diverse processes in plants, including leaf vascular patterning. In Arabidopsis leaves, expression of the HD-ZIP III gene ATHB8 is initiated in files of isodiametric subepidermal cells that will elongate into vein-forming procambium. We have recently shown that ATHB8 is transiently required for preprocambial development and procambium differentiation, and that permanence of the effects of loss of ATHB8 function on vein formation depends on the activity of the auxin response factor MONOPTEROS (MP). Further, we have shown that the onset of ATHB8 expression is directly and positively regulated by MP through an auxin-response element in the ATHB8 promoter, suggesting a molecular path by which auxin signals are translated into vein patterning inputs. Within broad fields of MP expression, however, only a subset of cells initiates expression of ATHB8. Here we discuss putative mechanisms by which wide domains of MP expression could activate ATHB8 transcription in single cell files.
+
+auxin: !regulates! ATHB8 expression
+MP: !activates! ATHB8 transcription
+ATHB8: !required for! preprocambial development
+ATHB8: !differentiates! procambium
+MP: !depends on! auxin response
+MP: !regulates! ATHB8 promoter

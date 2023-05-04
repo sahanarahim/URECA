@@ -1,0 +1,6 @@
+We describe the construction and analysis of a genome-scale metabolic model of Arabidopsis (Arabidopsis thaliana) primarily derived from the annotations in the Aracyc database. We used techniques based on linear programming to demonstrate the following: (1) that the model is capable of producing biomass components (amino acids, nucleotides, lipid, starch, and cellulose) in the proportions observed experimentally in a heterotrophic suspension culture; (2) that approximately only 15% of the available reactions are needed for this purpose and that the size of this network is comparable to estimates of minimal network size for other organisms; (3) that reactions may be grouped according to the changes in flux resulting from a hypothetical stimulus (in this case demand for ATP) and that this allows the identification of potential metabolic modules; and (4) that total ATP demand for growth and maintenance can be inferred and that this is consistent with previous estimates in prokaryotes and yeast.
+
+Gene: !affects! Metabolic Model
+Gene: !produces! Biomass Components
+Gene: !groups! Reactions
+Gene: !infer! ATP Demand

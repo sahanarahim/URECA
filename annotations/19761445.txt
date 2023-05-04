@@ -1,0 +1,8 @@
+*Seeds can enter a state of dormancy, in which they do not germinate under optimal environmental conditions. Dormancy can be broken during seed after-ripening in the low-hydrated state. *By screening enhancer trap lines of Arabidopsis, we identified a role for the NADPH-oxidase AtrbohB in after-ripening. Semiquantitative PCR was used to investigate AtrbohB transcripts in seeds. These methods were complemented with a pharmacological approach using the inhibitor diphenylene iodonium chloride (DPI) and biomechanical measurements in the Brassicaceae seed model system cress (Lepidium sativum) as well as protein carbonylation assays. *atrbohB mutants fail to after-ripen and show reduced protein oxidation. AtrbohB pre-mRNA is alternatively spliced in seeds in a hormonally and developmentally regulated manner. AtrbohB is a major producer of superoxide in germinating Arabidopsis seeds, and inhibition of superoxide production by diphenylene iodonium (DPI) leads to a delay in Arabidopsis and cress seed germination and cress endosperm weakening. *Reactive oxygen species produced by AtrbohB during after-ripening could act via abscisic acid (ABA) signalling or post-translational protein modifications. Alternative splicing could be a general mechanism in after-ripening: by altered processing of stored pre-mRNAs seeds could react quickly to environmental changes.
+
+atrbohB: !produces! superoxide 
+superoxide: !inhibits! germination 
+atrbohB: !alternatively splices! pre-mRNA 
+pre-mRNA: !regulates! after-ripening 
+ABA: !signals! reactive oxygen species 
+reactive oxygen species: !modifies! proteins

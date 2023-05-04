@@ -1,0 +1,11 @@
+To promote photomorphogenesis, including plastid development and metabolism, the phytochrome (phy) and the cryptochrome (cry) photoreceptors orchestrate genome-wide changes in gene expression in response to Red (R)- and Blue (B)-light cues. While phys and crys have a clear role in modulating photosynthesis, their role in the coordination of the nuclear genome and the plastome, essential for functional chloroplasts, remains underexplored. Using publicly available genome datasets for WT and phyABCDE or cry1cry2 Arabidopsis seedlings, grown, respectively, under R- or B-light, we bioinformatically analyzed the influence of light inputs and photoreceptors in the control of nuclear genes with a function in the chloroplast, and evaluated the role of phyB in the modulation of plastome-encoded genes. We show gene co-induction by R-phys and B-crys for genes with a chloroplastic function, and also apparent photoreceptor-driven preferential responses. Evidence from phyB in Arabidopsis together with published evidence from CRY2 in tomato also supports the participation of both photoreceptor families in the global modulation of the plastome genes. To begin addressing how these light-sensors orchestrate changes in an organellar genome, we evaluated their effect over genes with potential functions in plastid gene-expression regulation based on their TAIR annotation. Results indicate that both crys and phys modulate 'plastome-regulatory genes' with enrichment in the contribution of crys to all processes and of phys to post-transcription and transcription. Furthermore, we identified a new role for HY5 as a relevant light-signaling component in photoreceptor-based anterograde signaling leading to plastome gene regulation.
+
+phy: !orchestrates! genome-wide changes
+cry: !orchestrates! genome-wide changes
+R-phy: !induces! chloroplastic genes
+B-cry: !induces! chloroplastic genes
+phyB: !modulates! plastome-encoded genes
+CRY2: !modulates! plastome-encoded genes
+crys: !enriches! plastome-regulatory processes
+phys: !enriches! post-transcription/transcription processes
+HY5: !signals! anterograde signaling

@@ -1,0 +1,16 @@
+Much remains unknown about how transcription factors and sugars regulate phenylpropanoid metabolism in tuber crops like potato (Solanum tuberosum). Based on phylogeny and protein similarity to known regulators of phenylpropanoid metabolism, 15 transcription factors were selected and their expression was compared in white, yellow, red, and purple genotypes with contrasting phenolic and anthocyanin profiles. Red and purple genotypes had increased phenylalanine ammonia lyase (PAL) enzyme activity, markedly higher levels of phenylpropanoids, and elevated expression of most phenylpropanoid structural genes, including a novel anthocyanin O-methyltransferase. The transcription factors Anthocyanin1 (StAN1), basic Helix Loop Helix1 (StbHLH1), and StWD40 were more strongly expressed in red and purple potatoes. Expression of 12 other transcription factors was not associated with phenylpropanoid content, except for StMYB12B, which showed a negative relationship. Increased expression of AN1, bHLH1, and WD40 was also associated with environmentally mediated increases in tuber phenylpropanoids. Treatment of potato plantlets with sucrose induced hydroxycinnamic acids, flavonols, anthocyanins, structural genes, AN1, bHLH1, WD40, and genes encoding the sucrose-hydrolysing enzymes SUSY1, SUSY4, and INV2. Transient expression of StAN1 in tobacco leaves induced bHLH1, structural genes, SUSY1, SUSY4, and INV1, and increased phenylpropanoid amounts. StAN1 infiltration into tobacco leaves decreased sucrose and glucose concentrations. In silico promoter analysis revealed the presence of MYB and bHLH regulatory elements on sucrolytic gene promoters and sucrose-responsive elements on the AN1 promoter. These findings reveal an interesting dynamic between AN1, sucrose, and sucrose metabolic genes in modulating potato phenylpropanoids.
+
+StAN1: !induces! bHLH1
+StAN1: !induces! structural genes
+StAN1: !induces! SUSY1
+StAN1: !induces! SUSY4
+StAN1: !induces! INV1
+StAN1: !represses! sucrose
+StAN1: !represses! glucose
+PAL: !enhances! phenylpropanoids
+bHLH1: !enhances! phenylpropanoids
+WD40: !enhances! phenylpropanoids
+StMYB12B: !represses! phenylpropanoids
+SUSY1: !synthesizes! hydroxycinnamic acids
+SUSY4: !synthesizes! flavonols
+INV2: !synthesizes! anthocyanins

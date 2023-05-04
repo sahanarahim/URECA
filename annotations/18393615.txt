@@ -1,0 +1,9 @@
+Xanthomonas campestris pv. campestris, the causal agent of black rot disease, produces a suite of extracellular cell-wall degrading enzymes (CWDE) that are involved in bacterial virulence. Polygalacturonase (PG) is an important CWDE and functions to degrade the pectic layers of plant cell walls. Although previous studies have documented the virulence functions of PG in Erwinia and Ralstonia species, the regulation of PG genes still needs to be elucidated. In this study, we identified two novel PG genes (pghAxc and pghBxc) encoding functional PG from X. campestris pv. campestris 8004. The expressions of these two PG genes are regulated by the type III secretion regulators HrpX and HrpG and the global regulator Clp. These PG genes could be efficiently induced in planta and were required for the full virulence of X. campestris pv. campestris to Arabidopsis. In addition, these PG were confirmed to be secreted via the type II secretion system in an Xps-dependent manner.
+
+HrpX: !regulates! pghAxc 
+HrpG: !regulates! pghAxc 
+Clp: !regulates! pghAxc 
+pghAxc: !required for! X. campestris virulence 
+pghBxc: !required for! X. campestris virulence 
+Xps: !mediates secretion of! PG genes 
+PG genes: !degrade! plant cell walls

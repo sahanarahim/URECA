@@ -1,0 +1,7 @@
+['30692538', 'Patterned cell wall deposition is crucial for cell shapes and functions. In  Arabidopsis xylem vessels, ROP11 GTPase locally inhibits cell wall deposition  through microtubule disassembly, inducing pits in cell walls. Here, we show that  an additional ROP signaling pathway promotes cell wall growth at pit boundaries.  Two proteins, Boundary of ROP domain1 (BDR1) and Wallin (WAL), localize to pit  boundaries and regulate cell wall growth. WAL interacts with F-actin and promotes  actin assembly at pit boundaries while BDR1 is a ROP effector. BDR1 interacts  with WAL, suggesting that WAL could be recruited to the plasma membrane by a  ROP-dependent mechanism. These results demonstrate that BDR1 and WAL mediate a  ROP-actin pathway that shapes pit boundaries. The study reveals a distinct  machinery in which two closely associated ROP pathways oppositely regulate cell  wall deposition patterns for the establishment of tiny but highly specialized  cell wall domains.', '2019 Jan 28', 'Nat Commun', '10.1038/s41467-019-08396-7', 'ORCID:']
+
+ROP11: !inhibits! cell wall deposition 
+BDR1: !interacts with! WAL
+WAL: !interacts with! F-actin
+BDR1: !recruited by! ROP-dependent mechanism
+ROP11: !oppositely regulates! cell wall deposition

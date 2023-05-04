@@ -1,0 +1,9 @@
+The regulation of plant gene expression, necessary for development and adaptive responses, relies not only on RNA transcription but also on messenger RNA (mRNA) fate. To understand whether seed germination relies on the degradation of specific subsets of mRNA, we investigated whether the 5' to 3' RNA decay machinery participated in the regulation of this process. Arabidopsis (<i>Arabidopsis thaliana</i>) seeds of <i>exoribonuclease4</i> (<i>xrn4</i>) and <i>varicose</i> (<i>vcs</i>) mutants displayed distinct dormancy phenotypes. Transcriptome analysis <i>of xrn4-5</i> and <i>vcs-8</i> mutant seeds allowed us to identify genes that are likely to play a role in the control of germination. Study of 5' untranslated region features of these transcripts revealed that specific motifs, secondary energy, and GC content could play a role in their degradation by XRN4 and VCS, and Gene Ontology clustering revealed novel actors of seed dormancy and germination. Several specific transcripts identified as being putative targets of XRN4 and VCS in seeds (<i>PECTIN LYASE-LIKE</i>, <i>ASPARTYL PROTEASE</i>, <i>DWD-HYPERSENSITIVE-TO-ABA3</i>, and <i>YELLOW STRIPE-LIKE5</i>) were further studied by reverse genetics, and their functional roles in the germination process were confirmed by mutant analysis. These findings suggest that completion of germination and its regulation by dormancy also depend on the degradation of specific subsets of mRNA.
+
+XRN4: !degrades! mRNA
+VCS: !degrades! mRNA
+mRNA: !regulates! seed germination
+PECTIN LYASE-LIKE: !affects! seed germination
+ASPARTYL PROTEASE: !affects! seed germination
+DWD-HYPERSENSITIVE-TO-ABA3: !affects! seed germination
+YELLOW STRIPE-LIKE5: !affects! seed germination

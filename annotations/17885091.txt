@@ -1,0 +1,11 @@
+['17885091', 'In response to wounding and pathogens, jasmonate (JA) serves as a signal molecule  for both induction and repression of gene expression. To examine  defense-regulated gene repression in Arabidopsis (Arabidopsis thaliana), we have  identified a nonclassical arabinogalactan protein (AGP) gene, AGP31, and show  that its mRNA decreased to about 30% of its original level within 8 h in response  to methyl JA (MeJA) treatment of whole 7-d-old seedlings. Wounding and abscisic  acid treatment had similar effects. MeJA suppression primarily depends on the  action of the JA-signaling protein, COI1, as shown by much lower MeJA suppression  in coi1-1 mutant plants. The main mechanism of mRNA suppression by MeJA is  repression of transcription, as shown by nuclear run-on experiments. The AGP31  protein shares features with several known and putative nonclassical AGPs from  other species: a putative signal peptide, a histidine-rich region near the N  terminus followed by a repetitive proline-rich domain, and a cysteine-rich  C-terminal PAC (for proline-rich protein and AGP, containing cysteine) domain.  Positive Yariv reagent interaction demonstrated that the protein is an AGP.  Monosaccharide analysis of purified AGP31 indicated it is a galactose-rich AGP.  Expression of an AGP31-enhanced green fluorescent protein fusion protein in  transgenic cells revealed that the AGP31 protein was localized to the cell wall.  AGP31 promoter-beta-glucuronidase reporter gene analysis showed expression in the  vascular bundle throughout the plant, except in the flower. In the flower,  beta-glucuronidase staining occurred throughout the pistil, except in the stigma.  The strong preferential expression in vascular tissues suggests that AGP31 may be  involved in vascular tissue function during both the defense response and  development.', '2007 Nov', 'Plant Physiol', '10.1104/pp.107.102657', 'Mehdy']
+
+jasmonate: !induces/represses! gene expression
+AGP31: !decreases! mRNA level
+COI1: !mediates! MeJA suppression
+MeJA: !represses! transcription
+AGP31: !shares features with! nonclassical AGPs
+AGP31: !contains! galactose-rich AGP
+AGP31: !localizes to! cell wall
+AGP31: !expresses in! vascular bundle
+AGP31: !suggests involvement in! vascular tissue function

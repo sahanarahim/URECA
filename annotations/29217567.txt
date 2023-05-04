@@ -1,0 +1,6 @@
+['29217567', 'Plant RuBisCo, a complex of eight large and eight small subunits, catalyzes the  fixation of CO(2) in photosynthesis. The low catalytic efficiency of RuBisCo  provides strong motivation to reengineer the enzyme with the goal of increasing  crop yields. However, genetic manipulation has been hampered by the failure to  express plant RuBisCo in a bacterial host. We achieved the functional expression  of Arabidopsis thaliana RuBisCo in Escherichia coli by coexpressing multiple  chloroplast chaperones. These include the chaperonins Cpn60/Cpn20, RuBisCo  accumulation factors 1 and 2, RbcX, and bundle-sheath defective-2 (BSD2). Our  structural and functional analysis revealed the role of BSD2 in stabilizing an  end-state assembly intermediate of eight RuBisCo large subunits until the small  subunits become available. The ability to produce plant RuBisCo recombinantly  will facilitate efforts to improve the enzyme through mutagenesis.', '2017 Dec 8', 'Science', '10.1126/science.aap9221', 'ORCID:']
+
+Cpn60/Cpn20: !coexpress! RuBisCo 
+RbcX: !coexpress! RuBisCo 
+BSD2: !stabilizes! RuBisCo assembly intermediate 
+RuBisCo accumulation factors 1 and 2: !coexpress! RuBisCo

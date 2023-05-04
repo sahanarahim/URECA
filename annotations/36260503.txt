@@ -1,0 +1,8 @@
+The biosynthesis of N-hydroxy pipecolic acid (NHP) has been intensively studied, though knowledge on its metabolic turnover is still scarce. To close this gap, we discovered three novel metabolites via metabolite fingerprinting in Arabidopsis thaliana leaves after Pseudomonas infection and UV-C treatment. Exact mass information and fragmentation by tandem mass spectrometry (MS/MS) suggest a methylated derivative of NHP (MeNHP), an NHP-OGlc-hexosyl conjugate (NHP-OGlc-Hex), and an additional NHP-OGlc-derivative. All three compounds were formed in wild-type leaves but were not present in the NHP-deficient mutant fmo1-1. The identification of these novel NHP-based molecules was possible by a dual-infiltration experiment using a mixture of authentic NHP and D9-NHP standards for leaf infiltration followed by UV-C treatment. Interestingly, the signal intensity of MeNHP and other NHP-derived metabolites increased in ugt76b1-1 mutant plants. For MeNHP, we unequivocally determined the site of methylation at the carboxylic acid moiety. MeNHP application by leaf infiltration leads to the detection of a MeNHP-OGlc as well as NHP, suggesting MeNHP hydrolysis to NHP. This is in line with the observation that MeNHP infiltration is able to rescue the fmo1-1 susceptible phenotype against Hyaloperonospora arabidopsidis Noco 2. Together, these data suggest MeNHP as an additional storage or transport form of NHP.
+
+NHP: !synthesizes! MeNHP
+MeNHP: !hydrolyzes to! NHP
+fmo1-1: !lacks! NHP
+ugt76b1-1: !increases! MeNHP
+MeNHP: !methylates at! carboxylic acid moiety
+MeNHP: !rescues! fmo1-1

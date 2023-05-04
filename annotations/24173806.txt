@@ -1,0 +1,12 @@
+['24173806', 'Organ morphogenesis largely relies on cell division and elongation, which need to  be both coordinated between cells and orchestrated with cytoskeleton dynamics.  However, components that bridge the biological signals and the effectors that  define cell shape remain poorly described. We have addressed this issue through  the functional characterisation of QUIRKY (QKY), previously isolated as being  involved in the STRUBBELIG (SUB) genetic pathway that controls cell-cell  communication and organ morphogenesis in Arabidopsis. QKY encodes a protein  containing multiple C2 domains and transmembrane regions, and SUB encodes an  atypical LRR-receptor-like kinase. We show that twisting of the gynoecium  observed in qky results from the abnormal division pattern and anisotropic growth  of clustered cells arranged sporadically along the gynoecium. Moreover, the  cortical microtubule (CMT) network of these cells is disorganised. A cross to  botero, a katanin mutant in which the normal orientation of CMTs and anisotropic  cell expansion are impaired, strongly reduces silique deviation, reinforcing the  hypothesis of a role for QKY in CMT-mediated cell growth anisotropy. We also show  that QKY is localised at the plasma membrane and functions in a multiprotein  complex that includes SUB and PAL OF QUIRKY (POQ), a previously uncharacterised  PB1-domain-containing protein that localises both at the plasma membrane and in  intracellular compartments. Our data indicate that QKY and its interactors play  central roles linking together cell-cell communication and cellular growth.', '2013 Dec', 'Development', '10.1242/dev.091868', 'Morel']
+
+QKY: !encodes! protein 
+SUB: !encodes! atypical LRR-receptor-like kinase 
+QKY: !affects! cell division pattern 
+QKY: !affects! anisotropic growth 
+QKY: !affects! cortical microtubule network 
+QKY: !localizes to! plasma membrane 
+QKY: !interacts with! SUB 
+QKY: !interacts with! POQ 
+POQ: !localizes to! plasma membrane 
+POQ: !localizes to! intracellular compartments

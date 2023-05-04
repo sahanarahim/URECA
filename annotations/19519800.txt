@@ -1,0 +1,8 @@
+Colletotrichum higginsianum is a fungal pathogen that infects a wide variety of cruciferous plants, causing important crop losses. We have used map-based cloning and natural variation analysis of 19 Arabidopsis ecotypes to identify a dominant resistance locus against C. higginsianum. This locus named RCH2 (for recognition of C. higginsianum) maps in an extensive cluster of disease-resistance loci known as MRC-J in the Arabidopsis ecotype Ws-0. By analyzing natural variations within the MRC-J region, we found that alleles of RRS1 (resistance to Ralstonia solanacearum 1) from susceptible ecotypes contain single nucleotide polymorphisms that may affect the encoded protein. Consistent with this finding, two susceptible mutants, rrs1-1 and rrs1-2, were identified by screening a T-DNA-tagged mutant library for the loss of resistance to C. higginsianum. The screening identified an additional susceptible mutant (rps4-21) that has a 5-bp deletion in the neighboring gene, RPS4-Ws, which is a well-characterized R gene that provides resistance to Pseudomonas syringae pv. tomato strain DC3000 expressing avrRps4 (Pst-avrRps4). The rps4-21/rrs1-1 double mutant exhibited similar levels of susceptibility to C. higginsianum as the single mutants. We also found that both RRS1 and RPS4 are required for resistance to R. solanacearum and Pst-avrRps4. Thus, RPS4-Ws and RRS1-Ws function as a dual resistance gene system that prevents infection by three distinct pathogens.
+
+RCH2: !maps to! MRC-J 
+SNP: !affects! RRS1 
+rrs1-1: !identifies! T-DNA-tagged mutant library 
+rps4-21: !has! 5-bp deletion 
+RPS4-Ws: !provides resistance to! Pst-avrRps4 
+RRS1-Ws: !functions as! dual resistance gene system

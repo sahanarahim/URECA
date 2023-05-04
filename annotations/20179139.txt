@@ -1,0 +1,13 @@
+['20179139', 'In bacteria, the biosynthesis of Cys is accomplished by two enzymes that are  encoded by the cysK and cysM genes. CysM is also able to use thiosulfate as a  substrate to produce S-sulfocysteine. In plant cells, the biosynthesis of Cys  occurs in the cytosol, mitochondria, and chloroplasts. Chloroplasts contain two  O-acetylserine(thiol)lyase homologs, which are encoded by the OAS-B and CS26  genes in Arabidopsis thaliana. An in vitro enzymatic analysis of the recombinant  CS26 protein demonstrated that this isoform possesses S-sulfocysteine synthase  activity and lacks O-acetylserine(thiol)lyase activity. In vivo functional  analysis of this enzyme in knockout mutants demonstrated that mutation of CS26  suppressed the S-sulfocysteine synthase activity that was detected in the wild  type; furthermore, the cs26 mutants exhibited a reduction in size and showed  paleness, but penetrance of the growth phenotype depended on the light regime.  The cs26 mutant plants also had reductions in chlorophyll content and  photosynthetic activity (neither of which were observed in oas-b mutants) as well  as elevated glutathione levels. However, cs26 leaves were not able to properly  detoxify reactive oxygen species, which accumulated to high levels under long-day  growth conditions. The transcriptional profile of the cs26 mutant revealed that  the mutation had a pleiotropic effect on many cellular and metabolic processes.  Our findings reveal that S-sulfocysteine and the activity of S-sulfocysteine  synthase play important roles in chloroplast function and are essential for  light-dependent redox regulation within the chloroplast.', '2010 Feb', 'Plant Cell', '10.1105/tpc.109.071985', 'Romero']
+
+cysK: !encodes! enzyme 
+cysM: !encodes! enzyme 
+OAS-B: !encodes! CS26 protein 
+CS26: !possesses! S-sulfocysteine synthase activity 
+cs26: !suppresses! S-sulfocysteine synthase activity 
+cs26: !reduces! chlorophyll content 
+cs26: !reduces! photosynthetic activity 
+cs26: !elevates! glutathione levels 
+cs26: !accumulates! reactive oxygen species 
+S-sulfocysteine: !plays important role in! chloroplast function 
+S-sulfocysteine synthase: !essential for! light-dependent redox regulation

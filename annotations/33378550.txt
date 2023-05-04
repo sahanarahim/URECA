@@ -1,0 +1,5 @@
+Quantitative information on the spatiotemporal distribution of polarised proteins is central for understanding cell-fate determination, yet collecting sufficient data for statistical analysis is difficult to accomplish with manual measurements. Here we present Polarity Measurement (Pome), a semi-automated pipeline for the quantification of cell polarity and demonstrate its application to a variety of developmental contexts. Pome analysis reveals that, during asymmetric cell divisions in the Arabidopsis thaliana stomatal lineage, polarity proteins BASL and BRXL2 are more asynchronous and less mutually dependent than previously thought. A similar analysis of the linearly arrayed stomatal lineage of Brachypodium distachyon revealed that the MAPKKK BdYDA1 is segregated and polarised following asymmetrical divisions. Our results demonstrate that Pome is a versatile tool, which by itself or combined with tissue-level studies and advanced microscopy techniques can help to uncover new mechanisms of cell polarity.
+
+BASL: !asynchronous with! BRXL2
+BRXL2: !asynchronous with! BASL
+BdYDA1: !segregated and polarised by! asymmetrical divisions

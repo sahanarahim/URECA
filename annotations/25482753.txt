@@ -1,0 +1,11 @@
+We recently showed that a Rab protein, CPRabA5e (CP = chloroplast localized), is located in chloroplasts of Arabidopsis thaliana where it is involved in various processes, such as thylakoid biogenesis and vesicle transport. Using a yeast two-hybrid method, CPRabA5e was shown to interact with a number of chloroplast proteins, including the CURVATURE THYLAKOID 1A (CURT1A) protein and the light-harvesting chlorophyll a/b binding protein (LHCB1.5). CURT1A has recently been shown to modify thylakoid architecture by inducing membrane curvature in grana, whereas LHCB1.5 is a protein of PSII (Photosystem II) facilitating light capture. LHCB1.5 is imported to chloroplasts and transported to thylakoid membranes using the post-translational Signal Recognition Particle (SRP) pathway. With this information as starting point, we here discuss their subsequent protein-protein interactions, given by the literature and Interactome 3D. CURT1A itself and several of the proteins interacting with CURT1A and LHCB1.5 have relations to vesicle transport and thylakoid morphology, which are also characteristics of cprabA5e mutants. This highlights the previous hypothesis of an alternative thylakoid targeting pathway for LHC proteins using vesicles, in addition to the SRP pathway.
+
+CPRabA5e: !localizes to! chloroplasts 
+CPRabA5e: !interacts with! CURT1A 
+CPRabA5e: !interacts with! LHCB1.5 
+CURT1A: !modifies! thylakoid architecture 
+LHCB1.5: !facilitates! light capture 
+LHCB1.5: !imported to! chloroplasts 
+LHCB1.5: !transported to! thylakoid membranes 
+CURT1A: !related to! vesicle transport 
+CURT1A: !related to! thylakoid morphology

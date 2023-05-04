@@ -1,0 +1,10 @@
+The potential of metchnikowin, a 26-amino acid residue proline-rich antimicrobial peptide synthesized in the fat body of Drosophila melanogaster was explored to engineer disease resistance in barley against devastating fungal plant pathogens. The synthetic peptide caused strong in vitro growth inhibition (IC(50) value approximately 1 muM) of the pathogenic fungus Fusarium graminearum. Transgenic barley expressing the metchnikowin gene in its 52-amino acid pre-pro-peptide form under the control of the inducible mannopine synthase (mas) gene promoter from the T(i) plasmid of Agrobacterium tumefaciens displayed enhanced resistance to powdery mildew as well as Fusarium head blight and root rot. In response to these pathogens, metchnikowin accumulated in plant apoplastic space, specifying that the insect signal peptide is functional in monocotyledons. In vitro and in vivo tests revealed that the peptide is markedly effective against fungal pathogens of the phylum Ascomycota but, clearly, less active against Basidiomycota fungi. Importantly, germination of the mutualistic basidiomycete mycorrhizal fungus Piriformospora indica was affected only at concentrations beyond 50 muM. These results suggest that antifungal peptides from insects are a valuable source for crop plant improvements and their differential activities toward different phyla of fungi denote a capacity for insect peptides to be used as selective measures on specific plant diseases.
+
+metchnikowin: !synthesizes! Drosophila melanogaster 
+metchnikowin: !inhibits! Fusarium graminearum 
+metchnikowin: !enhances! barley resistance 
+mannopine synthase gene promoter: !controls! metchnikowin expression 
+metchnikowin: !accumulates in! plant apoplastic space 
+metchnikowin: !effective against! Ascomycota fungi 
+metchnikowin: !less active against! Basidiomycota fungi 
+Piriformospora indica: !affected by! metchnikowin

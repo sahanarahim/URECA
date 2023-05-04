@@ -1,0 +1,9 @@
+The production of human therapeutic proteins in plants provides opportunities for low-cost production, and minimizes the risk of contamination from potential human pathogens. Chloroplast genetic engineering is a particularly promising strategy, because plant chloroplasts can produce large amounts of foreign target proteins. Oxidative stress is a key factor in various human diseases. Human thioredoxin 1 (hTrx1) is a stress-induced protein that functions as an antioxidant against oxidative stress, and overexpression of hTrx1 has been shown to suppress various diseases in mice. Therefore, hTrx1 is a prospective candidate as a new human therapeutic protein. We created transplastomic lettuce expressing hTrx1 under the control of the psbA promoter. Transplastomic plants grew normally and were fertile. The hTrx1 protein accumulated to approximately 1% of total soluble protein in mature leaves. The hTrx1 protein purified from lettuce leaves was functionally active, and reduced insulin disulfides. The purified protein protected mouse insulinoma line 6 cells from damage by hydrogen peroxide, as reported previously for a recombinant hTrx1 expressed in Escherichia coli. This is the first report of expression of the biologically active hTrx1 protein in plant chloroplasts. This research opens up possibilities for plant-based production of hTrx1. Considering that this expression host is an edible crop plant, this transplastomic lettuce may be suitable for oral delivery of hTrx1.
+
+psbA promoter: !controls! hTrx1
+hTrx1: !accumulates in! lettuce leaves
+hTrx1: !protects! mouse insulinoma line 6 cells
+hTrx1: !reduces! insulin disulfides
+hTrx1: !protects from! hydrogen peroxide damage
+lettuce: !produces! hTrx1
+lettuce: !suitable for! oral delivery of hTrx1

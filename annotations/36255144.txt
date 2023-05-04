@@ -1,0 +1,8 @@
+Due to the development of sequencing technology and the great reduction in sequencing costs, an increasing number of plant genomes have been assembled, and numerous genomes have revealed large amounts of variations. However, a single reference genome does not allow the exploration of species diversity, and therefore the concept of pan-genome was developed. A pan-genome is a collection of all sequences available for a species, including a large number of consensus sequences, large structural variations, and small variations including single nucleotide polymorphisms and insertions/deletions. A simple linear pan-genome does not allow these structural variations to be intuitively characterized, so graph-based pan-genomes have been developed. These pan-genomes store sequence and structural variation information in the form of nodes and paths to store and display species variation information in a more intuitive manner. The key role of graph-based pan-genomes is to expand the coordinate system of the linear reference genome to accommodate more regions of genetic diversity. Here, we review the origin and development of graph-based pan-genomes, explore their application in plant research, and further highlight the application of graph-based pan-genomes for future plant breeding.
+
+pan-genome: !stores! sequence and structural variation information 
+pan-genome: !expands! coordinate system of linear reference genome 
+graph-based pan-genomes: !stores! sequence and structural variation information 
+graph-based pan-genomes: !displays! species variation information 
+graph-based pan-genomes: !applies to! plant research 
+graph-based pan-genomes: !enables! future plant breeding

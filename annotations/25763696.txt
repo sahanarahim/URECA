@@ -1,0 +1,8 @@
+Forisomes are specialized multimeric protein complexes found only in the papilionoid legumes. They undergo a reversible conformational change in response to phloem injury to enable the occlusion of sieve tubes, thus preventing the loss of photoassimilates. The individual subunits are designated by the letters SEO-F (sieve element occlusion by forisomes) and are part of the larger SEO protein family, which also includes the typical P-proteins found in most dicots and some monocots. When specific SEO-F subunits from different species are expressed in a heterologous background, they self-assemble into fully-functional artificial forisomes. However, with the exception of basal species such as Dipteryx panamensis, the geometry of these artificial forisomes differs from that of their native counterparts. Studies involving SEO-F proteins from the model legume Medicago truncatula have shown that a combination of 3 of the 4 subunits can fine-tune the geometry of artificial forisomes. However, MtSEO-F3 was excluded from these studies because it was not incorporated into either the native or artificial forisomes in our original experiments. In this addendum, we present further data concerning the interactive properties of the SEO-F proteins and confirm that all 4 MtSEO-F proteins interact in all possible pairwise combinations. These data indicate that the exclusion of MtSEO-F3 from the compact forisome may reflect the steric hindrance of binding sites rather than an inability to interact with other forisome subunits.
+
+MtSEO-F1: !interacts with! MtSEO-F2
+MtSEO-F1: !interacts with! MtSEO-F3
+MtSEO-F1: !interacts with! MtSEO-F4
+MtSEO-F2: !interacts with! MtSEO-F3
+MtSEO-F2: !interacts with! MtSEO-F4
+MtSEO-F3: !interacts with! MtSEO-F4

@@ -1,0 +1,8 @@
+For grain crops such as rice (Oryza sativa), grain size substantially affects yield. The histone acetyltransferase GRAIN WEIGHT 6a (GW6a) determines grain size and yield in rice. However, the gene regulatory network underlying GW6a-mediated regulation of grain size has remained elusive. In this study, we show that GW6a interacts with HOMOLOG OF DA1 ON RICE CHROMOSOME 3 (HDR3), a ubiquitin-interacting motif-containing ubiquitin receptor. Transgenic rice plants overexpressing HDR3 produced larger grains, whereas HDR3 knockout lines produce smaller grains compared to the control. Cytological data suggest that HDR3 modulates grain size in a similar manner to GW6a, by altering cell proliferation in spikelet hulls. Mechanistically, HDR3 physically interacts with and stabilizes GW6a in an ubiquitin-dependent manner, delaying protein degradation by the 26S proteasome. The delay in GW6a degradation results in dramatic enhancement of the local acetylation of H3 and H4 histones. Furthermore, RNA sequencing analysis and chromatin immunoprecipitation assays reveal that HDR3 and GW6a bind to the promoters of and modulate a common set of downstream genes. In addition, genetic analysis demonstrates that HDR3 functions in the same genetic pathway as GW6a to regulate the grain size. Therefore, we identified the grain size regulatory module HDR3-GW6a as a potential target for crop yield improvement.
+
+GW6a: !interacts with! HDR3
+HDR3: !stabilizes! GW6a
+GW6a: !enhances! H3/H4 histone acetylation
+HDR3: !modulates! grain size
+GW6a/HDR3: !bind to! downstream gene promoters
+GW6a/HDR3: !function in! same genetic pathway

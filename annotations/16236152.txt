@@ -1,0 +1,10 @@
+FLOWERING LOCUS C (FLC), a repressor of flowering, is a major determinant of flowering time in Arabidopsis. FLC expression is repressed by vernalization and in plants with low levels of DNA methylation, resulting in early flowering. This repression is not associated with changes of DNA methylation within the FLC locus in either vernalized plants or plants with low levels of DNA methylation. In both cases, there is a reduction of histone H3 trimethyl-lysine 4 (K4) and acetylation of both histones H3 and H4 around the promoter-translation start of FLC. The expression of the two genes flanking FLC is also repressed in both conditions and repression is associated with decreased histone H3 acetylation. The changes in histone modifications at the FLC gene cluster, which are similar in vernalized plants and in plants with reduced DNA methylation, must arise by different mechanisms. VERNALIZATION 1, VERNALIZATION 2 and VERNALIZATION INSENSITIVE 3 modulate FLC expression in vernalized plants; these proteins play no role in the downregulation of FLC in plants with low levels of DNA methylation. Chimeric FLC::GUS transgenes respond to vernalization but these same transgenes show a position-dependent response to low levels of DNA methylation. In plants with reduced DNA methylation, expression of the five MADS AFFECTING FLOWERING (MAF) genes is repressed, suggesting that DNA methylation alters the expression of a trans-acting regulator common to FLC and members of the related MAF gene family. Our observations suggest that DNA methylation is not part of the vernalization pathway.
+
+FLC: !repressed by! vernalization
+FLC: !repressed by! low DNA methylation
+FLC: !associated with! reduced K4 and H3/H4 acetylation
+flanking genes: !repressed by! vernalization/low DNA methylation
+flanking genes: !associated with! decreased H3 acetylation
+VERNALIZATION 1/2/3: !modulate! FLC expression in vernalized plants
+Chimeric FLC::GUS transgenes: !respond to! vernalization
+MAF genes: !repressed by! low DNA methylation

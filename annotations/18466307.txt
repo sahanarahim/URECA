@@ -1,0 +1,9 @@
+A semi-automated method to quantify fluorescence intensity of objects in intact organs and tissues, composed of several cell layers, has been designed. The method has been developed on whole-mount propidium-iodide stained Arabidopsis thaliana (Arabidopsis) root tips, in which the DNA content of individual nuclei could be quantified. A diameter of less than 150 microm makes this organ most appropriate for whole-mount imaging. Further advantages are the lack of chlorophyll and transparent cell walls, with only a little background fluorescence. The method has a great advantage over flow cytometry, as the information regarding the positions of nuclei is maintained, and nuclei with aberrant DNA content can be re-assessed individually, which facilitates the efficient distinction between technical artefact and aberrant DNA content. Our averaging 3D method calculates the average of the summed fluorescence intensities of all sections of a nucleus and interpolates the missing sections, thereby allowing for the correction of detection problems. Furthermore, this method has the advantage of detecting objects in tissues covering multiple cell layers. The results of our method in Arabidopsis root tips showed that the quiescent centre cells, which rarely divide, are diploid, and are arrested in G1 or G0. Most stem cells, with the exception of those of the vascular tissue, are diploid cells, and their rather low division rate is caused by an elongated G1 phase. In contrast, the majority of the vascular stem cells are tetraploid.
+
+Gene: !affects! Process 
+Method: !quantifies! Fluorescence Intensity 
+Organ: !appropriate for! Whole-mount Imaging 
+Method: !allows for! Correction of Detection Problems 
+Cell: !arrested in! G1 or G0 
+Cell: !low division rate caused by! Elongated G1 Phase 
+Cell: !majority of vascular stem cells are! Tetraploid

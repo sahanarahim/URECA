@@ -1,0 +1,9 @@
+In plant, a few 22-nt miRNAs direct cleavages of their targets and trigger the biogenesis of phased small interfering RNAs (phasiRNAs) in plant. In this study, we characterized a miRNA triggering phasiRNAs generation, miR3954, and explored its downstream target genes and potential function. Our results demonstrated that miR3954 showed specific expression in the flowers of citrus species, and it targeted a NAC transcription factor (Cs7 g22460) and two non-coding RNA transcripts (lncRNAs, Cs1 g09600 and Cs1 g09635). The production of phasiRNAs was detected from transcripts targeted by miR3954, and was further verified in both sequencing data and transient expression experiments. PhasiRNAs derived from the two lncRNAs targeted not only miR3954-targeted NAC gene but also additional NAC homologous genes. No homologous genes of these two lncRNAs were found in plants other than citrus species, implying that this miR3954-lncRNAs-phasiRNAs-NAC pathway is likely citrus-specific. Transgenic analysis indicated that the miR3954-overexpressing lines showed decreased transcripts of lncRNA, elevated abundance of phasiRNAs and reduced expression of NAC genes. Interestingly, the overexpression of miR3954 leads to early flowering in citrus plants. In summary, our results illustrated a model of the regulatory network of miR3954-lncRNA-phasiRNAs-NAC, which may be functionally involved in flowering in citrus.
+
+miR3954: !triggers! phasiRNAs generation
+miR3954: !targets! NAC transcription factor
+miR3954: !targets! lncRNA transcripts
+lncRNA transcripts: !produce! phasiRNAs
+phasiRNAs: !target! miR3954-targeted NAC gene
+phasiRNAs: !target! additional NAC homologous genes
+miR3954: !overexpression leads to! early flowering

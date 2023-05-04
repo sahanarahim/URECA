@@ -1,0 +1,14 @@
+Phytochromes (phy) are key regulators of photomorphogenesis in plants. Among the different phys characterized in higher plants (i.e., phyA to phyE), phyA and phyB primarily regulate phenotypic responses in plants under far-red (FR) and red (R) conditions, respectively. Recent findings suggest that some zinc finger proteins (ZFPs) are involved in plant light-modulated morphogenesis. However, the interaction(s) between phyA, phyB and ZFP homologs potentially involved in photomorphogenesis, as well as their phenotypic and molecular effects in Arabidopsis seedlings exposed to R and FR light remain to be elucidated fully. Prior analyses with phytochrome chromophore deficient lines indicated that <i>ZFP6</i> expression is misregulated compared to levels in Col-0 wild type (WT). Here, we used plants with phytochrome chromophore or apoprotein (specifically phyA and phyB) deficiencies, lines with mutations in <i>ZFP6</i> and <i>ZFP6 HOMOLOG</i> (<i>ZFPH</i>) genes, and plants overexpressing <i>ZFP6</i> to examine regulatory interactions between phytochromes, ZFP6, and ZFPH. Our results indicate that phytochromes are required for downregulation of <i>ZFP6</i> and <i>ZFPH</i> and suggest a role for light-regulated control of <i>ZFP</i> levels in phytochrome-dependent photomorphogenesis. Conversely, <i>PHYB</i> is downregulated in <i>zfp6</i> mutants under R light. Analyses of a <i>zfp6zfph</i> double mutant confirmed disruption in photomorphogenic phenotypes, including the regulation of hypocotyl elongation in seedlings grown under FR light. In addition, <i>PIF3</i> and <i>PIF4</i> levels are transcriptionally regulated by ZFP6 and ZFPH in a gibberellic acid-dependent manner. <i>ZFP6</i> overexpression resulted in opposite phenotypic responses to those observed in the <i>zfp6</i> and <i>zfph</i> mutants grown in FR and R light, as well as a reduction in the rosette size of mature <i>ZFP6</i> OX plants relative to WT under white light. Based on these observations, we provide insight into how phy and ZFPs interact to regulate specific aspects of light-dependent processes in Arabidopsis.
+
+phyA: !regulates! phenotypic responses in plants under FR conditions
+phyB: !regulates! phenotypic responses in plants under R conditions
+ZFP6: !interacts with! phyA and phyB
+ZFPH: !interacts with! phyA and phyB
+phyA: !downregulates! ZFP6 and ZFPH
+PHYB: !downregulated by! ZFP6
+zfp6: !disrupts! photomorphogenic phenotypes
+zfph: !disrupts! photomorphogenic phenotypes
+zfp6zfph: !disrupts! photomorphogenic phenotypes
+ZFP6: !transcriptionally regulates! PIF3 and PIF4
+ZFPH: !transcriptionally regulates! PIF3 and PIF4
+ZFP6 OX: !reduces! rosette size of mature plants relative to WT

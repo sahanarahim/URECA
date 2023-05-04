@@ -1,0 +1,10 @@
+Plants and freshwater algae devoid of flagella evolved various photomovements to optimize their photosynthetic efficiency. The filaments of Spirogyra varians exhibit complex swaying and undulating movement and form a compact mat which enables them to adjust their light exposure. Photomovement of filament fragments (1-10 cells) was analyzed using various photoreceptor and cytoskeleton inhibitors under monochromatic light. Different patterns of movement were observed under red and blue light. The filaments showed positive phototropism under blue light. Under red light, the filaments bent to undulating shape, but rapidly became unbent by a short exposure to far-red light suggesting the involvement of phytochrome in this movement. The mechanical effector for the red-light response was microtubules; the movement was inhibited effectively by the microtubule inhibitor, oryzalin. The blue-light movement was partially inhibited by the single treatment of either cytochalasin D or oryzalin, but was completely blocked when both chemicals were applied together. Phototropin-signaling inhibitors, wortmannin and LY294002, reversibly inhibited the blue-light movement. Caffeine treatment reversibly stopped the blue-light movement, while the red-light movement was not affected by calcium inhibitors. Our results suggest that the complex photomovement of S. varians is the result of a two-track control of microtubules and microfilaments signaled by the combination of phytochrome and phototropin-like receptors.
+
+phytochrome: !signals! microtubules 
+phototropin-like receptors: !signals! microfilaments 
+blue light: !activates! phototropin-like receptors 
+red light: !activates! phytochrome 
+oryzalin: !inhibits! microtubules 
+cytochalasin D: !inhibits! microfilaments 
+wortmannin/LY294002: !inhibits! phototropin-like receptors 
+caffeine: !inhibits! blue-light movement

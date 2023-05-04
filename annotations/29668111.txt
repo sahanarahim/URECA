@@ -1,0 +1,11 @@
+Current breeding relies mostly on random mutagenesis and recombination to generate novel genetic variation. However, targeted genome editing is becoming an increasingly important tool for precise plant breeding. Using the CRISPR-Cas system combined with the bean yellow dwarf virus rolling circle replicon, we optimized a method for targeted mutagenesis and gene replacement in tomato. The carotenoid isomerase (CRTISO) and phytoene synthase 1 (PSY1) genes from the carotenoid biosynthesis pathway were chosen as targets due to their easily detectable change of phenotype. We took advantage of the geminiviral replicon amplification as a means to provide a large amount of donor template for the repair of a CRISPR-Cas-induced DNA double-strand break (DSB) in the target gene, via homologous recombination (HR). Mutagenesis experiments, performed in the Micro-Tom variety, achieved precise modification of the CRTISO and PSY1 loci at an efficiency of up to 90%. In the gene targeting (GT) experiments, our target was a fast-neutron-induced crtiso allele that contained a 281-bp deletion. This deletion was repaired with the wild-type sequence through HR between the CRISPR-Cas-induced DSB in the crtiso target and the amplified donor in 25% of the plants transformed. This shows that efficient GT can be achieved in the absence of selection markers or reporters using a single and modular construct that is adaptable to other tomato targets and other crops.
+
+CRISPR-Cas: !modifies! CRTISO
+CRISPR-Cas: !modifies! PSY1
+Micro-Tom: !contains! CRTISO
+Micro-Tom: !contains! PSY1
+DSB: !repaired by! HR
+HR: !uses! donor template
+donor template: !amplified by! geminiviral replicon
+GT: !achieved in! crtiso allele
+crtiso allele: !repaired with! wild-type sequence

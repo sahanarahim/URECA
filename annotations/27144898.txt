@@ -1,0 +1,12 @@
+Previously we extended the utility of mapping-by-sequencing by combining it with sequence capture and mapping sequence data to pseudo-chromosomes that were organized using wheat-Brachypodium synteny. This, with a bespoke haplotyping algorithm, enabled us to map the flowering time locus in the diploid wheat Triticum monococcum L. identifying a set of deleted genes (Gardiner et al., 2014). Here, we develop this combination of gene enrichment and sliding window mapping-by-synteny analysis to map the Yr6 locus for yellow stripe rust resistance in hexaploid wheat. A 110 MB NimbleGen capture probe set was used to enrich and sequence a doubled haploid mapping population of hexaploid wheat derived from an Avalon and Cadenza cross. The Yr6 locus was identified by mapping to the POPSEQ chromosomal pseudomolecules using a bespoke pipeline and algorithm (Chapman et al., 2015). Furthermore the same locus was identified using newly developed pseudo-chromosome sequences as a mapping reference that are based on the genic sequence used for sequence enrichment. The pseudo-chromosomes allow us to demonstrate the application of mapping-by-sequencing to even poorly defined polyploidy genomes where chromosomes are incomplete and sub-genome assemblies are collapsed. This analysis uniquely enabled us to: compare wheat genome annotations; identify the Yr6 locus - defining a smaller genic region than was previously possible; associate the interval with one wheat sub-genome and increase the density of SNP markers associated. Finally, we built the pipeline in iPlant, making it a user-friendly community resource for phenotype mapping.
+
+Mapping-by-Sequencing: !combines with! Sequence Capture 
+Sequence Data: !maps to! Pseudo-chromosomes 
+Haplotyping Algorithm: !enables! Mapping Flowering Time Locus 
+NimbleGen Capture Probe Set: !enriches and sequences! Doubled Haploid Mapping Population 
+Bespoke Pipeline and Algorithm: !identifies! Yr6 Locus 
+Pseudo-Chromosomes: !allow! Mapping-by-Sequencing Poorly Defined Polyploidy Genomes 
+Wheat Genome Annotations: !compare! Yr6 Locus 
+Interval: !associate with! Wheat Sub-genome 
+SNP Markers: !increase density of! Yr6 Locus 
+iPlant: !builds! Pipeline

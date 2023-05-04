@@ -1,0 +1,6 @@
+In BT-type cytoplasmic male sterile rice (Oryza sativa L.) with Chinsurah Boro II cytoplasm, cytoplasmic male sterility (CMS) is caused by an accumulation of the cytotoxic peptide ORF79. The ORF79 protein is expressed from a dicistronic gene atp6-orf79, which exists in addition to the normal atp6 gene in the BT-type mitochondrial genome. The CMS is restored by a PPR (pentatricopeptide-repeat) gene, Rf1, via RNA processing. However, it has not yet been elucidated how the accumulation of ORF79 is reduced by the action of the Rf1 protein. Here, we report that the level of processed orf79 transcripts in the restorer line was reduced to 50% of the unprocessed atp6-orf79 transcripts in the CMS line. Ninety percent of the processed orf79 transcripts, which remained after degradation, were not associated with the ribosome for translation. Our data suggests that the processing of atp6-orf79 transcripts diminishes the expression of orf79 by the translational reduction and degradation of the processed orf79 transcripts.
+
+atp6-orf79: !expresses! ORF79
+Rf1: !reduces! atp6-orf79 expression
+processed orf79 transcripts: !degraded by! Rf1
+processed orf79 transcripts: !not associated with! ribosome

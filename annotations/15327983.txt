@@ -1,0 +1,8 @@
+['15327983', 'Plant cell wall (CWI) and vacuolar invertases (VI) play important roles in  carbohydrate metabolism, stress responses and sugar signaling. Addressing the  regulation of invertase activities by inhibitor proteins (C/VIF, cell  wall/vacuolar inhibitor of fructosidase), we have identified two C/VIFs from  Arabidopsis thaliana. AtC/VIF1 showed specific inhibition of VI activity, whereas  AtC/VIF2 inhibited both, CWI and VI. Expression analysis revealed that expression  of AtC/VIF1 was restricted to specific organs, AtC/VIF2, however, was weakly  expressed throughout plant development. Promoter::GUS transformants confirmed  pronounced differences of tissue/cell type-specific expression between both  isoforms. Growth of an AtC/VIF1 T-DNA KO mutant was unaffected, but VI activity  and hexose content were slightly increased.', '2004 Aug 27', 'FEBS Lett', '10.1016/j.febslet.2004.07.062', 'Greiner']
+
+C/VIF: !inhibits! VI
+AtC/VIF1: !localizes to! specific organs
+AtC/VIF2: !localizes to! throughout plant development
+AtC/VIF1: !inhibits! VI
+AtC/VIF2: !inhibits! CWI and VI
+AtC/VIF1 T-DNA KO mutant: !increases! VI activity and hexose content

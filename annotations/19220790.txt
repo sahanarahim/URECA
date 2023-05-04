@@ -1,0 +1,10 @@
+The tobacco (Nicotiana tabacum) basic leucine zipper (bZIP) transcription factor BZI-1 has been implicated in auxin-mediated gene regulation. Yeast two-hybrid analysis has led to the identification of two BZI-1 protein interaction partners: the heterodimerizing bZIP factor BZI-2 and an ankyrin repeat domain protein, ANK1. Analysis in transgenic plants confirms that low levels of functional BZI-1, BZI-2 and ANK1 result in reduced auxin responses. This finding indicates that the three proteins act in the same functional context. The in vivo interaction of ANK1 and BZI-1 has been confirmed by protoplast two-hybrid analysis, as well as by bimolecular fluorescence complementation (BiFC) studies. Whereas YFP-BZI-1 has been found to be localized in the nucleus, YFP-ANK1 resides in the cytosol. Nevertheless, the inhibition of nuclear export with the inhibitor leptomycin B (LMB) and the co-expression with BZI-1, as well as treatment with auxin, results in the accumulation of YFP-ANK1 in the nucleus. Whereas BZI-1 is a weak activator, BZI-1/BZI-2 heterodimers efficiently support transcription. Importantly, conditions that lead to the accumulation of ANK1 in the nucleus, such as the expression of an ANK1 protein fused to a nuclear localization sequence (NLS) or auxin treatment, lead to a significant enhancement of BZI-1/BZI-2-mediated transcription. We therefore propose a mechanism in which the nuclear accumulation of ANK1 enhances BZI-1/BZI-2-mediated transcription in an auxin-dependent manner, presumably facilitated by protein-protein interaction. In summary, this study defines novel components in auxin-dependent signalling and transcriptional control.
+
+BZI-1: !interacts with! BZI-2 
+BZI-1: !interacts with! ANK1 
+BZI-1/BZI-2: !enhances! transcription 
+YFP-BZI-1: !localizes to! nucleus 
+YFP-ANK1: !localizes to! cytosol 
+LMB/BZI-1: !causes! YFP-ANK1 accumulation in nucleus 
+NLS/auxin: !causes! YFP-ANK1 accumulation in nucleus 
+ANK1: !enhances! BZI-1/BZI-2-mediated transcription

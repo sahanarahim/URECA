@@ -1,0 +1,11 @@
+Extensive use of the antibiotic streptomycin to control fire blight disease of apples and pears, caused by the enterobacterial plant pathogen Erwinia amylovora, leads to the development of streptomycin-resistant strains in the United States and elsewhere. Kasugamycin (Ksg) has been permitted to be used as an alternative or replacement to control this serious bacterial disease. In this study, we investigated the role of two major peptide ATP-binding cassette transporter systems in E. amylovora, the dipeptide permease (Dpp) and oligopeptide permease (Opp), in conferring sensitivity to Ksg and blasticidin S (BcS). Minimum inhibitory concentration and spot dilution assays showed that the dpp deletion mutants exhibited slightly enhanced resistance to Ksg in rich medium, whereas the opp mutant exhibited slightly enhanced resistance to Ksg in minimal medium and BcS in rich medium. Deletion of both dpp and opp conferred a higher level of resistance to Ksg in both rich and minimal media, whereas deletion of opp alone was sufficient to confer high level of resistance to BcS in minimal medium. In addition, bioinformatic analysis combined with reverse transcription-quantitative polymerase chain reaction showed that the Rcs phosphorelay system negatively regulates opp expression and the rcsB mutant was more sensitive to both Ksg and BcS in minimal medium as compared with the wild type. An electrophoresis motility shift assay further confirmed the direct binding of the RcsA/RcsB proteins to the promoter region of the opp operon. However, neither the Dpp nor the Opp permeases contributed to disease progress on immature pears, hypersensitive response on tobacco leaves, or exopolysaccharide amylovoran production. These results suggested that Ksg and BcS employ the Dpp and Opp permeases to enter E. amylovora cells and the Dpp and Opp permeases act synergistically for illicit transport of antibiotics.
+
+dpp: !confer sensitivity to! Ksg 
+opp: !confer sensitivity to! Ksg 
+opp: !confer sensitivity to! BcS 
+dpp/opp: !confer higher level of resistance to! Ksg 
+opp: !confer high level of resistance to! BcS 
+Rcs phosphorelay system: !negatively regulates! opp expression 
+rcsB mutant: !more sensitive to! Ksg 
+rcsB mutant: !more sensitive to! BcS 
+RcsA/RcsB proteins: !bind directly to! opp operon

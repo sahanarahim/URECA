@@ -1,0 +1,10 @@
+Plants have evolved sophisticated regulatory networks to cope with dynamically changing light and temperature environments during day-night and seasonal cycles. However, the integration mechanisms of light and low temperature remain largely unclear. Here, we show that low red : far-red ratio (LR : FR) induces FAR-RED ELONGATED HYPOCOTYL3 (SlFHY3) transcription under cold stress in tomato (Solanum lycopersicum). Reverse genetic approaches revealed that knocking out SlFHY3 decreases myo-inositol accumulation and increases cold susceptibility, whereas overexpressing SlFHY3 induces myo-inositol accumulation and enhances cold tolerance in tomato plants. SlFHY3 physically interacts with ELONGATED HYPOCOTYL5 (SlHY5) to promote the transcriptional activity of SlHY5 on MYO-INOSITOL-1-PHOSPHATE SYNTHASE 3 (SlMIPS3) and induce myo-inositol accumulation in tomato plants under cold stress. Disruption of SlHY5 and SlMIPS3 largely suppresses the cold tolerance of SlFHY3-overexpressing plants and myo-inositol accumulation in tomato. Furthermore, silencing of SlMIPS3 drastically reduces myo-inositol accumulation and compromises LR : FR-induced cold tolerance in tomato. Together, our results reveal a crucial role of SlFHY3 in LR : FR-induced cold tolerance in tomato and unravel a novel regulatory mechanism whereby plants integrate dynamic environmental light signals and internal cues (inositol biosynthesis) to induce and control cold tolerance in tomato plants.
+
+SlFHY3: !induces! SlHY5 
+SlFHY3: !interacts with! SlHY5 
+SlHY5: !transcribes! SlMIPS3 
+SlFHY3: !induces! myo-inositol accumulation 
+SlFHY3: !enhances! cold tolerance 
+SlHY5: !promotes! SlMIPS3 transcriptional activity 
+SlMIPS3: !synthesizes! myo-inositol 
+SlMIPS3: !represses! LR : FR-induced cold tolerance

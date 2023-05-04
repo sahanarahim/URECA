@@ -1,0 +1,9 @@
+Cell elongation is promoted by different environmental and hormonal signals, involving light, temperature, brassinosteroid (BR), and gibberellin, that inhibit the atypical basic helix-loop-helix (bHLH) transcription factor INCREASED LEAF INCLINATION1 BINDING bHLH1 (IBH1). Ectopic accumulation of IBH1 causes a severe dwarf phenotype, but the cell elongation suppression mechanism is still not well understood. Here, we identified a close homolog of IBH1, IBH1-LIKE1 (IBL1), that also antagonized BR responses and cell elongation. Genome-wide expression analyses showed that IBH1 and IBL1 act interdependently downstream of the BRASSINAZOLE-RESISTANT1 (BZR1)-PHYTOCHROME-INTERACTING FACTOR 4 (PIF4)-DELLA module. Although characterized as non-DNA binding, IBH1 repressed direct IBL1 transcription, and they both acted in tandem to suppress the expression of a common downstream helix-loop-helix (HLH)/bHLH network, thus forming an incoherent feed-forward loop. IBH1 and IBL1 together repressed the expression of PIF4, known to stimulate skotomorphogenesis synergistically with BZR1. Strikingly, PIF4 bound all direct and down-regulated HLH/bHLH targets of IBH1 and IBL1. Additional genome-wide comparisons suggested a model in which IBH1 antagonized PIF4 but not the PIF4-BZR1 dimer.
+
+IBH1: !antagonizes! BR responses
+IBH1: !represses! IBL1 transcription
+IBH1: !antagonizes! PIF4
+IBL1: !antagonizes! BR responses
+IBL1: !suppresses! HLH/bHLH network
+PIF4: !binds! IBH1 and IBL1 targets
+PIF4: !synergistically stimulates! BZR1

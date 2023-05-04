@@ -1,0 +1,8 @@
+Abiotic stresses negatively impact ecosystems and the yield of crops, and climate change will increase their frequency and intensity. Despite progress in understanding how plants respond to individual stresses, our knowledge of plant acclimatization to combined stresses typically occurring in nature is still lacking. Here, we used a plant with minimal regulatory network redundancy, Marchantia polymorpha, to study how seven abiotic stresses, alone and in 19 pairwise combinations, affect the phenotype, gene expression, and activity of cellular pathways. While the transcriptomic responses show a conserved differential gene expression between Arabidopsis and Marchantia, we also observe a strong functional and transcriptional divergence between the two species. The reconstructed high-confidence gene regulatory network demonstrates that the response to specific stresses dominates those of others by relying on a large ensemble of transcription factors. We also show that a regression model could accurately predict the gene expression under combined stresses, indicating that Marchantia performs arithmetic multiplication to respond to multiple stresses. Lastly, two online resources ( https://conekt.plant.tools and http://bar.utoronto.ca/efp_marchantia/cgi-bin/efpWeb.cgi ) are provided to facilitate the study of gene expression in Marchantia exposed to abiotic stresses.
+
+Gene: !affects! Phenotype 
+Gene: !localizes to! Cellular Pathways 
+Gene: !interacts with! Transcription Factors 
+Gene: !enhances! Regression Model 
+Gene: !represses! Arabidopsis 
+Gene: !synthesizes! Marchantia

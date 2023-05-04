@@ -1,0 +1,16 @@
+Plant-specific TIFY [TIF(F/Y)XG] proteins serve important roles in the regulation of plant stress responses. This family encodes four subfamilies of proteins, JAZ (JASMONATE ZIM-domain), PPD (PEAPOD), ZML (Zinc-finger Inflorescence-like), and TIFY. In this work, a total of 16 JAZ, 3 PPD, 7 ZML, and 2 TIFY genes were found in cassava (<i>Manihot esculenta</i> Crantz) at the genome-wide level. The phylogenetics, exon-intron structure, motif organization, and conserved domains of these genes were analyzed to characterize the members of the JAZ, PPD, and ZML subfamilies. Chromosome location and synteny analyses revealed that 26 JAZ, PPD, and ZML genes were irregularly distributed across 14 of the 18 chromosomes, and 18 gene pairs were implicated in large-scale interchromosomal segmental duplication events. In addition, <i>JAZ</i>, <i>PPD</i>, and <i>ZML</i> gene synteny comparisons between cassava and three other plant species (<i>Arabidopsis</i>, <i>Populus trichocarpa</i>, and rice) uncovered vital information about their likely evolution. The prediction of protein interaction network and <i>cis</i>-acting elements reveal the function of <i>JAZ</i>, <i>PPD</i>, and <i>ZML</i> genes. Subsequently, expression patterns of <i>JAZ</i>, <i>PPD</i>, and <i>ZML</i> genes were validated by qRT-PCR as being expressed in response to osmotic, salt, and cadmium stress. Moreover, almost all JAZ subfamily genes were responsive to jasmonic acid (JA) treatment. In particular, <i>MeJAZ1</i>, <i>MeJAZ13</i>, and <i>MeJAZ14</i>, were highly up-regulated by three treatments, and these genes may deserve further study. This comprehensive study lays the groundwork for future research into TIFY family genes in cassava and may be valuable for genetic improvement of cassava and other related species.
+
+JAZ: !localizes to! 14 chromosomes 
+PPD: !localizes to! 14 chromosomes 
+ZML: !localizes to! 14 chromosomes 
+JAZ: !interacts with! PPD 
+JAZ: !interacts with! ZML 
+JAZ: !enhances! JA response 
+PPD: !enhances! JA response 
+ZML: !enhances! JA response 
+JAZ: !represses! osmotic stress 
+PPD: !represses! osmotic stress 
+ZML: !represses! osmotic stress 
+JAZ: !synthesizes! proteins 
+PPD: !synthesizes! proteins 
+ZML: !synthesizes! proteins

@@ -1,0 +1,10 @@
+We have analysed the role of tryptophan-derived secondary metabolites in disease resistance of Arabidopsis to the oomycete pathogen Phytophthora brassicae. Transcript analysis revealed that genes encoding enzymes involved in tryptophan, camalexin and indole glucosinolate (iGS) biosynthesis are coordinately induced in response to P. brassicae. However, a deficiency in either camalexin or iGS accumulation has only a minor effect on the disease resistance of Arabidopsis mutants. In contrast, the double mutant cyp79B2 cyp79B3, which has a blockage in the production of indole-3-aldoxime (IAOx), the common precursor of tryptophan-derived metabolites including camalexin and iGS, is highly susceptible to P. brassicae. Because cyp79B2 cyp79B3 shows no deficiencies in other tested disease resistance responses, we concluded that the lack of IAOx-derived compounds renders Arabidopsis susceptible despite wild-type-like pathogen-induced hypersensitive cell death, stress hormone signaling and callose deposition. The susceptibility of the double mutant pen2-1 pad3-1, which has a combined defect in camalexin synthesis and PEN2-catalysed hydrolysis of iGS compounds, demonstrates that both camalexin and products of iGS hydrolysis are important for disease resistance to P. brassicae. Products of iGS hydrolysis play an early defensive role, as indicated by enhanced epidermal penetration rates of Arabidopsis mutants affected in iGS synthesis or degradation. Our results show that disease resistance of Arabidopsis to P. brassicae is established by the sequential activity of the phytoanticipin iGS and the phytoalexin camalexin.
+
+gene: !encodes! enzyme 
+enzyme: !involved in! tryptophan biosynthesis 
+enzyme: !involved in! camalexin biosynthesis 
+enzyme: !involved in! iGS biosynthesis 
+cyp79B2 cyp79B3: !lacks! IAOx-derived compounds 
+pen2-1 pad3-1: !deficient in! camalexin synthesis 
+pen2-1 pad3-1: !deficient in! PEN2-catalysed hydrolysis of iGS compounds 
+iGS: !plays an early defensive role!

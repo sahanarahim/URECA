@@ -1,0 +1,8 @@
+In transcriptome analysis, accurate annotation of each transcriptional unit and its expression profile is essential. A full-length cDNA (FL-cDNA) collection facilitates the refinement of transcriptional annotation, and accurate transcription start sites help to unravel transcriptional regulation. We constructed a normalized FL-cDNA library from eight growth stages of aerial tissues in Sorghum bicolor and isolated 37,607 clones. These clones were Sanger sequenced from the 5' and/or 3' ends and in total 38,981 high-quality expressed sequence tags (ESTs) were obtained. About one-third of the transcripts of known genes were captured as FL-cDNA clone resources. In addition to these, we also annotated 272 novel genes, 323 antisense transcripts and 1,672 candidate isoforms. These clones are available from the RIKEN Bioresource Center. After obtaining accurate annotation of transcriptional units, we performed expression profile analysis. We carried out spikelet-, seed- and stem-specific RNA sequencing (RNA-Seq) analysis and confirmed the expression of 70.6% of the newly identified genes. We also downloaded 23 sorghum RNA-Seq samples that are publicly available and these are shown on a genome browser together with our original FL-cDNA and RNA-Seq data. Using our original and publicly available data, we made an expression profile of each gene and identified the top 20 genes with the most similar expression. In addition, we visualized their relationships in gene co-expression networks. Users can access and compare various transcriptome data from S, bicolor at http://sorghum.riken.jp.
+
+Gene: !affects! Process 
+Gene: !synthesizes! I 
+Gene: !localizes to! X 
+Gene: !interacts with! Y 
+Gene: !enhances! Z 
+Gene: !represses! U

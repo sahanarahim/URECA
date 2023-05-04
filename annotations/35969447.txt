@@ -1,0 +1,12 @@
+Seeds exhibit primary dormancy to prevent germination under unfavourable conditions. Previous studies have shown that the gibberellin signalling intermediate RGA-LIKE2 (RGL2) forms a transcription factor complex with DNA-BINDING ONE ZINC FINGER6 (DOF6) in regulating seed dormancy in Arabidopsis. Using an RNA-sequencing approach, we identified MAJOR LATEX PROTEIN-LIKE PROTEIN329 (MLP329) as a downstream target of DOF6. MLP329 was found to be a positive regulator of primary seed dormancy, because freshly harvested unstratified mlp329 mutant seeds showed early germination, while unstratified transgenic seeds overexpressing MLP329 showed poor germination. MLP329 expression level was reduced in wild-type seeds upon dry storage and cold stratification. MLP329 expression level was enhanced by DOF6; however, DOF6-dependent MLP329 expression was suppressed in the presence of RGL2. MLP329 expression was enhanced in seeds treated with ABA and auxin IAA. Moreover, the mlp329 mutant seeds exhibited enhanced expression of the GA biosynthetic gene GA1 and suppression of the ABA biosynthetic gene ZEP compared to the overexpression lines. The observed suppression of DOF6-dependent MLP329 expression by RGL2 reveals a possible negative feedback mechanism to modulate seed dormancy. MLP329 also probably enhances the endogenous ABA/GA ratio to positively regulate primary seed dormancy.
+
+RGL2: !forms transcription factor complex with! DOF6
+DOF6: !regulates seed dormancy by targeting! MLP329
+MLP329: !positively regulates! primary seed dormancy
+MLP329: !enhanced by! DOF6
+DOF6: !suppressed by! RGL2
+MLP329: !enhanced by! ABA and IAA
+mlp329 mutant: !exhibits enhanced expression of! GA1
+mlp329 mutant: !exhibits suppressed expression of! ZEP
+DOF6-dependent MLP329: !modulated by! negative feedback mechanism
+MLP329: !enhances endogenous ABA/GA ratio to positively regulate! primary seed dormancy

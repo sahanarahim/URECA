@@ -1,0 +1,10 @@
+An Sfp-type phosphopantetheinyl transferase (PPTase) encoding gene F-avi5813 in Agrobacterium vitis F2/5 was found to be required for the induction of a tobacco hypersensitive response (HR) and grape necrosis. Sfp-type PPTases are post-translation modification enzymes that activate acyl-carry protein (ACP) domains in polyketide synthases (PKS) and peptidyl-carrier protein (PCP) domains of nonribosomal peptide synthases (NRPS). Mutagenesis of PKS and NRPS genes in A. vitis led to the identification of a PKS gene (F-avi4330) and NRPS gene (F-avi3342) that are both required for HR and necrosis. The gene immediately downstream of F-avi4330 (F-avi4329) encoding a predicted aminotransferase was also found to be required for HR and necrosis. Regulation of F-avi4330 and F-avi3342 by quorum-sensing genes avhR, aviR, and avsR and by a lysR-type regulator, lhnR, was investigated. It was determined that F-avi4330 expression is positively regulated by avhR, aviR, and lhnR and negatively regulated by avsR. F-avi3342 was found to be positively regulated by avhR, aviR, and avsR and negatively regulated by lhnR. Our results suggest that a putative hybrid peptide-polyketide metabolite synthesized by F-avi4330 and F-avi3342 is associated with induction of tobacco HR and grape necrosis. This is the first report that demonstrates that NRPS and PKS play essential roles in conferring the unique ability of A. vitis to elicit a non-host-specific HR and host-specific necrosis.
+
+F-avi5813: !activates! ACP/PCP domains
+F-avi4330: !synthesizes! hybrid peptide-polyketide metabolite
+F-avi3342: !synthesizes! hybrid peptide-polyketide metabolite
+F-avi4329: !required for! HR/necrosis
+avhR, aviR, lhnR: !positively regulate! F-avi4330
+avsR: !negatively regulate! F-avi4330
+avhR, aviR, avsR: !positively regulate! F-avi3342
+lhnR: !negatively regulate! F-avi3342

@@ -1,0 +1,9 @@
+['24179127', 'Plant survival under environmental stress requires the integration of multiple  signaling pathways into a coordinated response, but the molecular mechanisms  underlying this integration are poorly understood. Stress-derived energy  deprivation activates the Snf1-related protein kinases1 (SnRK1s), triggering a  vast transcriptional and metabolic reprogramming that restores homeostasis and  promotes tolerance to adverse conditions. Here, we show that two clade A type 2C  protein phosphatases (PP2Cs), established repressors of the abscisic acid (ABA)  hormonal pathway, interact with the SnRK1 catalytic subunit causing its  dephosphorylation and inactivation. Accordingly, SnRK1 repression is abrogated in  double and quadruple pp2c knockout mutants, provoking, similarly to SnRK1  overexpression, sugar hypersensitivity during early seedling development.  Reporter gene assays and SnRK1 target gene expression analyses further  demonstrate that PP2C inhibition by ABA results in SnRK1 activation, promoting  SnRK1 signaling during stress and once the energy deficit subsides. Consistent  with this, SnRK1 and ABA induce largely overlapping transcriptional responses.  Hence, the PP2C hub allows the coordinated activation of ABA and energy  signaling, strengthening the stress response through the cooperation of two key  and complementary pathways.', '2013 Oct', 'Plant Cell', '10.1105/tpc.113.114066', 'Baena-Gonzalez']
+
+SnRK1: !interacts with! PP2C 
+PP2C: !inhibits! SnRK1 
+ABA: !inhibits! PP2C 
+SnRK1: !promotes! SnRK1 signaling 
+ABA: !induces! SnRK1 target gene expression 
+SnRK1: !enhances! ABA response 
+ABA: !strengthens! stress response

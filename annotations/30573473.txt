@@ -1,0 +1,8 @@
+Land plants reproduce sexually by developing an embryo from a fertilized egg cell. However, embryos can also be formed from other cell types in many plant species. Thus, a key question is how embryo identity in plants is controlled, and how this process is modified during nonzygotic embryogenesis. The Arabidopsis (<i>Arabidopsis thaliana</i>) zygote divides to produce an embryonic lineage and an extra-embryonic suspensor. Yet, normally quiescent suspensor cells can develop a second embryo when the initial embryo is damaged, or when response to the signaling molecule auxin is locally blocked. Here we used auxin-dependent suspensor embryogenesis as a model to determine transcriptome changes during embryonic reprogramming. We found that reprogramming is complex and accompanied by large transcriptomic changes before anatomical changes. This analysis revealed a strong enrichment for genes encoding components of auxin homeostasis and response among misregulated genes. Strikingly, deregulation among multiple auxin-related gene families converged upon the re-establishment of cellular auxin levels or response. This finding points to a remarkable degree of feedback regulation to create resilience in the auxin response during embryo development. Starting from the transcriptome of auxin-deregulated embryos, we identified an auxin-dependent basic Helix Loop Helix transcription factor network that mediates the activity of this hormone in suppressing embryo development from the suspensor.
+
+gene: !affects! embryo identity
+gene: !localizes to! suspensor cells
+gene: !interacts with! auxin signaling molecule
+gene: !enhances! cellular auxin levels
+gene: !represses! embryo development
+gene: !synthesizes! basic Helix Loop Helix transcription factor

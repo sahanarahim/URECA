@@ -1,0 +1,8 @@
+Polycomb group (PcG) proteins form an epigenetic memory system in plants and animals, but interacting proteins are poorly known in plants. Here, we have identified Arabidopsis UBIQUITIN SPECIFIC PROTEASES (USP; UBP in plant and yeasts) 12 and 13 as partners of the plant-specific PcG protein LIKE HETEROCHROMATIN PROTEIN 1 (LHP1). UBP12 binds to chromatin of PcG target genes and is required for histone H3 lysine 27 trimethylation and repression of a subset of PcG target genes. Plants lacking UBP12 and UBP13 developed autonomous endosperm in the absence of fertilization. We have identified UBP12 and UBP13 as new proteins in the plant PcG regulatory network. UBP12 and UBP13 belong to an ancient gene family and represent plant homologues of metazoan USP7. We have found that Drosophila USP7 shares a function in heterochromatic gene repression with UBP12/13 and their homologue UBP26. In summary, we demonstrate that USP7-like proteins are essential for gene silencing in diverse genomic contexts.
+
+PcG: !interacts with! UBP12
+UBP12: !binds to! chromatin
+UBP12: !required for! H3 lysine 27 trimethylation
+UBP12: !represses! subset of PcG target genes
+USP7: !shares function with! UBP12/13
+USP7: !shares function with! UBP26

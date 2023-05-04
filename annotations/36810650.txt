@@ -1,0 +1,8 @@
+Glandular secretory trichomes (GSTs) can secrete and store a variety of specific metabolites. By increasing GST density, valuable metabolites can be enhanced in terms of productivity. However, the comprehensive and detailed regulatory network of GST initiation still needs further investigation. By screening a complementary DNA (cDNA) library derived from young leaves of Artemisia annua, we identified a MADS-box transcription factor, AaSEPALLATA1 (AaSEP1), positively regulates GST initiation. Overexpression of AaSEP1 in A. annua substantially increased GST density and artemisinin content. The HOMEODOMAIN PROTEIN 1 (AaHD1)-AaMYB16 regulatory network regulates GST initiation via the JA signaling pathway. In this study, AaSEP1 enhanced the function of AaHD1 activation on downstream GST initiation gene GLANDULAR TRICHOME-SPECIFIC WRKY 2 (AaGSW2) through interaction with AaMYB16. Moreover, AaSEP1 interacted with the jasmonate ZIM-domain 8 (AaJAZ8) and served as an important factor in JA-mediated GST initiation. We also found that AaSEP1 interacted with CONSTITUTIVE PHOTOMORPHOGENIC 1 (AaCOP1), a major repressor of light signaling. In this study, we identified a MADS-box transcription factor that is induced by JA and light signaling and that promotes the initiation of GST in A. annua.
+
+AaSEP1: !enhances! AaHD1
+AaSEP1: !interacts with! AaMYB16
+AaSEP1: !interacts with! AaJAZ8
+AaSEP1: !interacts with! AaCOP1
+AaHD1: !activates! AaGSW2
+AaCOP1: !represses! Light Signaling

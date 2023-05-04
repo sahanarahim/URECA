@@ -1,0 +1,8 @@
+Understanding complex biological systems requires functional characterization of specialized tissue domains. However, existing strategies for generating and analysing high-throughput spatial expression profiles were developed for a limited range of organisms, primarily mammals. Here we present the first available approach to generate and study high-resolution, spatially resolved functional profiles in a broad range of model plant systems. Our process includes high-throughput spatial transcriptome profiling followed by spatial gene and pathway analyses. We first demonstrate the feasibility of the technique by generating spatial transcriptome profiles from model angiosperms and gymnosperms microsections. In Arabidopsis thaliana we use the spatial data to identify differences in expression levels of 141 genes and 189 pathways in eight inflorescence tissue domains. Our combined approach of spatial transcriptomics and functional profiling offers a powerful new strategy that can be applied to a broad range of plant species, and is an approach that will be pivotal to answering fundamental questions in developmental and evolutionary biology.
+
+Gene: !affects! Process 
+Gene: !localizes to! Tissue Domain 
+Gene: !interacts with! Pathway 
+Gene: !enhances! Expression Level 
+Gene: !represses! Expression Level 
+Gene: !synthesizes! Transcriptome Profile

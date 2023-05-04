@@ -1,0 +1,8 @@
+The Xanthomonas transcription activator-like effector (TALE) protein AvrBs3 transcriptionally activates the executor-type resistance (R) gene Bs3 from pepper (Capsicum annuum), thereby triggering a hypersensitive cell death reaction (HR). AvrBs3 also triggers an HR in tomato (Solanum lycopersicum) upon recognition by the nucleotide-binding leucine-rich repeat (NLR) R protein Bs4. Whether the executor-type R protein Bs3 and the NLR-type R protein Bs4 use common or distinct signalling components to trigger an HR remains unclear. CRISPR/Cas9-mutagenesis revealed, that the immune signalling node EDS1 is required for Bs4- but not for Bs3-dependent HR, suggesting that NLR- and executor-type R proteins trigger an HR via distinct signalling pathways. CRISPR/Cas9-mutagenesis also revealed that tomato Bs4 suppresses the virulence function of both TALEs, the HR-inducing AvrBs3 protein and of AvrHah1, a TALE that does not trigger an HR in tomato. Analysis of AvrBs3- and AvrHah1-induced host transcripts and disease phenotypes in CRISPR/Cas9-induced bs4 mutant plants indicates that both TALEs target orthologous transcription factor genes to promote disease in tomato and pepper host plants. Our studies display that tomato mutants lacking the TALE-sensing Bs4 protein provide a novel platform to either uncover TALE-induced disease phenotypes or genetically dissect components of executor-triggered HR.
+
+AvrBs3: !transcriptionally activates! Bs3 
+AvrBs3: !recognized by! Bs4 
+EDS1: !required for! Bs4-dependent HR 
+Bs4: !suppresses virulence of! AvrBs3 
+Bs4: !suppresses virulence of! AvrHah1 
+AvrBs3/AvrHah1: !target! transcription factor genes

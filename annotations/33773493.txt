@@ -1,0 +1,12 @@
+Fruit quality in most fleshy fruit crops is fundamentally linked to ripening-associated traits, including changes in colour. In many climacteric fruits, including tomato (Solanum lycopersicum), the phytohormone ethylene plays a key role in regulating ripening. Previous map-based cloning of YELLOW FRUITED-TOMATO 1 (YFT1) revealed that it encodes the EIN2 protein, a core component in ethylene signal transduction. A YFT1 allele with a genetic lesion was found to be down-regulated in the yft1 tomato mutant that has a yellow fruit phenotype and perturbed ethylene signalling. Based on bioinformatic analysis, yeast one hybrid assays and electrophoretic mobility shift assays, we report that transcription factor WRKY32 regulates tomato fruit colour formation. WRKY32 binds to W-box and W-box-like motifs in the regulatory region of the YFT1 promoter and induces its expression. In tomato fruits of WRKY32-RNAi generated lines, ethylene signalling was reduced, leading to a suppression in ethylene emission, a delay in chromoplast development, decreased carotenoid accumulation, and a yellow fruit phenotype. These results provide new insights into the regulatory networks that govern tomato fruit colour formation via ethylene signal transduction.
+
+YFT1: !encodes! EIN2
+WRKY32: !regulates! YFT1
+WRKY32: !binds to! W-box motifs
+WRKY32: !induces! YFT1 expression
+YFT1: !affects! ethylene signalling
+ethylene: !regulates! ripening
+WRKY32: !reduces! ethylene emission
+WRKY32: !delays! chromoplast development
+WRKY32: !decreases! carotenoid accumulation
+WRKY32: !causes! yellow fruit phenotype

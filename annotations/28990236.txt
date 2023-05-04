@@ -1,0 +1,7 @@
+Silymarin is a collection of compounds extracted from the medicinal herb milk thistle, among which silybin is the major flavonolignan. However, the biosynthesis pathway of silybin remains unclear. In this study, biomimetic reactions demonstrated that silybin can be synthesized from coniferyl alcohol and taxifolin by the action of peroxidase. The concentration profiles of silybin and its precursors and RNA-Seq analysis of gene expression revealed that the amount of taxifolin and the activity of peroxidase serve as the limiting factors in silybin biosynthesis. Hierarchical clustering of the expression profile of genes of the flavonoid biosynthesis pathway distinguished flowers from other organs. RNA-Seq revealed five candidates for the peroxidase involved in silybin production, among which APX1 (ascorbate peroxidase 1) showed a distinct peroxidase activity and the capacity to synthesize silybin. The spatial organization of silybin biosynthesis in milk thistle was elucidated, which could help our understanding of the biosynthesis of silybin and other flavonolignans.
+
+taxifolin: !synthesizes! silybin 
+peroxidase: !synthesizes! silybin 
+APX1: !synthesizes! silybin 
+flowers: !expresses! flavonoid biosynthesis pathway genes 
+RNA-Seq: !reveals! five peroxidase candidates

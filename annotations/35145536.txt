@@ -1,0 +1,14 @@
+Glutathione (GSH) conjugation with intermediates is required for the biosynthesis of glucosinolate (GSL) by serving as a sulfur supply. Glutathione-S-transferases (GSTs) primarily work on GSH conjugation, suggesting their involvement in GSL metabolism. Although several GSTs, including GSTF11 and GSTU20, have been recently postulated to act in GSL biosynthesis, molecular evidence is lacking. Here, we demonstrated that <i>GSTF11</i> and <i>GSTU20</i> play non-redundant, although partially overlapping, roles in aliphatic GSL biosynthesis. In addition, <i>GSTU20</i> plays a more important role than <i>GSTF11</i>, which is manifested by the greater loss of aliphatic GSLs associated with <i>GSTU20</i> mutant and a greater number of differentially expressed genes in <i>GSTU20</i> mutant compared to <i>GSTF11</i> mutant. Moreover, a double mutation leads to a greater aggregate loss of aliphatic GSLs, suggesting that <i>GSTU20</i> and <i>GSTF11</i> may function in GSL biosynthesis in a dosage-dependent manner. Together, our results provide direct evidence that <i>GSTU20</i> and <i>GSTF11</i> are critically involved in aliphatic GSL biosynthesis, filling the knowledge gap that has been speculated in recent decades.
+
+GSTF11: !affects! aliphatic GSL biosynthesis
+GSTU20: !affects! aliphatic GSL biosynthesis
+GSTF11: !plays a role in! GSL metabolism
+GSTU20: !plays a role in! GSL metabolism
+GSTF11: !interacts with! GSTU20
+GSTU20: !interacts with! GSTF11
+GSTF11: !has a greater loss of! aliphatic GSLs
+GSTU20: !has a greater loss of! aliphatic GSLs
+GSTF11: !has a greater number of! differentially expressed genes
+GSTU20: !has a greater number of! differentially expressed genes
+GSTF11: !functions in! GSL biosynthesis
+GSTU20: !functions in! GSL biosynthesis

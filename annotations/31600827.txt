@@ -1,0 +1,10 @@
+Permeability is a crucial trait that affects seed longevity and is regulated by different polymers including proanthocyanidins, suberin, cutin and lignin located in the seed coat. By testing mutants in suberin transport and biosynthesis, we demonstrate the importance of this biopolymer to cope with seed deterioration. Transcriptomic analysis of cog1-2D, a gain-of-function mutant with increased seed longevity, revealed the upregulation of several peroxidase genes. Reverse genetics analysing seed longevity uncovered redundancy within the seed coat peroxidase gene family; however, after controlled deterioration treatment, seeds from the prx2 prx25 double and prx2 prx25 prx71 triple mutant plants presented lower germination than wild-type plants. Transmission electron microscopy analysis of the seed coat of these mutants showed a thinner palisade layer, but no changes were observed in proanthocyanidin accumulation or in the cuticle layer. Spectrophotometric quantification of acetyl bromide-soluble lignin components indicated changes in the amount of total polyphenolics derived from suberin and/or lignin in the mutant seeds. Finally, the increased seed coat permeability to tetrazolium salts observed in the prx2 prx25 and prx2 prx25 prx71 mutant lines suggested that the lower permeability of the seed coats caused by altered polyphenolics is likely to be the main reason explaining their reduced seed longevity.
+
+suberin: !affects! seed longevity
+cog1-2D: !upregulates! peroxidase genes
+prx2 prx25 double mutant: !reduces! germination
+prx2 prx25 prx71 triple mutant: !reduces! germination
+seed coat: !contains! proanthocyanidins, suberin, cutin and lignin
+mutants: !show! thinner palisade layer
+mutants: !change! amount of total polyphenolics derived from suberin and/or lignin
+mutants: !increase! permeability to tetrazolium salts

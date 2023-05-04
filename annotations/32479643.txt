@@ -1,0 +1,11 @@
+Autophagy is an evolutionarily conserved pathway in eukaryotes that delivers unwanted cytoplasmic materials to the lysosome/vacuole for degradation/recycling. Stimulated autophagy emerges as an integral part of plant immunity against intracellular pathogens. In this study, we used turnip mosaic virus (TuMV) as a model to investigate the involvement of autophagy in plant RNA virus infection. The small integral membrane protein 6K2 of TuMV, known as a marker of the virus replication site and an elicitor of the unfolded protein response (UPR), upregulates the selective autophagy receptor gene NBR1 in a UPR-dependent manner. NBR1 interacts with TuMV NIb, the RNA-dependent RNA polymerase of the virus replication complex (VRC), and the autophagy cargo receptor/adaptor protein ATG8f. The NIb/NBR1/ATG8f interaction complexes colocalise with the 6K2-stained VRC. Overexpression of NBR1 or ATG8f enhances TuMV replication, and deficiency of NBR1 or ATG8f inhibits virus infection. In addition, ATG8f interacts with the tonoplast-specific protein TIP1 and the NBR1/ATG8f-containing VRC is enclosed by the TIP1-labelled tonoplast. In TuMV-infected cells, numerous membrane-bound viral particles are evident in the vacuole. Altogether these results suggest that TuMV activates and manipulates UPR-dependent NBR1-ATG8f autophagy to target the VRC to the tonoplast to promote viral replication and virion accumulation.
+
+6K2: !upregulates! NBR1 
+NBR1: !interacts with! NIb 
+NIb: !interacts with! ATG8f 
+ATG8f: !interacts with! TIP1 
+UPR: !stimulates! Autophagy 
+NBR1: !enhances! TuMV replication 
+ATG8f: !enhances! TuMV replication 
+NBR1: !represses! TuMV infection 
+ATG8f: !represses! TuMV infection

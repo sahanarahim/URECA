@@ -1,0 +1,7 @@
+['12172837', 'Several mutants with altered phytochrome A (phyA) signalling have been identified  in screenings under continuous far-red light (FR). The latter protocol could  preclude the identification of mutants affected in the signalling pathway that  operates even under transient phyA activation, compared to the high-irradiance  response (HIR) pathway that requires continuous FR. Since some photomorphogenic  mutants show shoot-height phenotypes, the screening was conducted on dwarf  mutants of Arabidopsis thaliana (L.) Heynh. from the ABRC stocks grown under  hourly FR pulses. The dwarf mutant cp3 (compacta 3) showed normal hypocotyl  length and folded cotyledons in darkness but enhanced hypocotyl-growth inhibition  and cotyledon unfolding under pulsed FR. The HIR and the response mediated by  phyB were not affected. Under pulsed FR, seed germination and blocking of  greening upon transfer to white light were enhanced in cp3. PHYA levels were  normal in cp3. The phenotype under pulsed FR but not the adult phenotype required  phyA. We propose that CP3 is involved in the negative regulation of the  signalling pathway that saturates with transient activation of phyA.', '2002 Aug', 'Planta', '10.1007/s00425-002-0784-7', 'Casal']
+
+phyA: !activates! HIR pathway 
+cp3: !inhibits! hypocotyl-growth 
+cp3: !enhances! seed germination 
+cp3: !blocks! greening 
+phyA: !saturates with! transient activation

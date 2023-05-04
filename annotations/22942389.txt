@@ -1,0 +1,8 @@
+Image analysis of Arabidopsis (Arabidopsis thaliana) rosettes is an important nondestructive method for studying plant growth. Some work on automatic rosette measurement using image analysis has been proposed in the past but is generally restricted to be used only in combination with specific high-throughput monitoring systems. We introduce Rosette Tracker, a new open source image analysis tool for evaluation of plant-shoot phenotypes. This tool is not constrained by one specific monitoring system, can be adapted to different low-budget imaging setups, and requires minimal user input. In contrast with previously described monitoring tools, Rosette Tracker allows us to simultaneously quantify plant growth, photosynthesis, and leaf temperature-related parameters through the analysis of visual, chlorophyll fluorescence, and/or thermal infrared time-lapse sequences. Freely available, Rosette Tracker facilitates the rapid understanding of Arabidopsis genotype effects.
+
+Gene: !affects! Plant growth 
+Gene: !localizes to! Arabidopsis rosettes 
+Gene: !interacts with! Image analysis tool 
+Gene: !enhances! Photosynthesis 
+Gene: !represses! Leaf temperature-related parameters 
+Gene: !synthesizes! Chlorophyll fluorescence

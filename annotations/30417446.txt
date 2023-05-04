@@ -1,0 +1,11 @@
+Bulked segregant analysis (BSA) is used to identify existing or induced variants that are linked to phenotypes. Although it is widely used in Arabidopsis and rice, it remains challenging for crops with large genomes, such as maize. Moreover, analysis of huge data sets can present a bottleneck linking phenotypes to their molecular basis, especially for geneticists without programming experience. Here, we identified two genes of maize defective kernel mutants with newly developed analysis pipelines that require no programing skills and should be applicable to any large genome. In the 1970s, Neuffer and Sheridan generated a chemically induced defective kernel (dek) mutant collection with the potential to uncover critical genes for seed development. To locate such mutations, the dek phenotypes were introgressed into two inbred lines to take advantage of maize haplotype variations and their sequenced genomes. We generated two pipelines that take fastq files derived from next-generation (nextGen) paired-end DNA and cDNA sequencing as input, call on several well established and freely available genomic analysis tools to call SNPs and INDELs, and generate lists of the most likely causal mutations together with variant index plots to locate the mutation to a specific sequence position on a chromosome. The pipelines were validated with a known strawberry mutation before cloning the dek mutants, thereby enabling phenotypic analysis of large genomes by next-generation sequencing.
+
+BSA: !identifies! Variants 
+Phenotypes: !linked to! Molecular basis 
+Maize: !has! Large genome 
+Analysis pipelines: !developed for! Maize 
+Pipelines: !require! No programming skills 
+Pipelines: !take! Fastq files 
+Tools: !call! SNPs and INDELs 
+Strawberry mutation: !validated with! Pipelines 
+Phenotypic analysis: !enabled by! Next-generation sequencing

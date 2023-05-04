@@ -1,0 +1,8 @@
+Thermomorphogenesis is, among other traits, characterised by enhanced hypocotyl elongation due to induction of auxin biosynthesis genes like YUCCA8 by transcription factors, most notably PHYTOCHROME INTERACTING FACTOR 4 (PIF4). Efficient binding of PIF4 to the YUCCA8 locus under warmth depends on HISTONE DEACETYLASE 9 (HDA9) activity, which mediates histone H2A.Z depletion at the YUCCA8 locus. However, HDA9 lacks intrinsic DNA binding capacity, and how HDA9 is recruited to YUCCA8, and possibly other PIF4-target sites, is currently not well-understood. The Mediator complex functions as a bridge between transcription factors bound to specific promoter sequences and the basal transcription machinery containing RNA polymerase II. Mutants of Mediator component Mediator25 (MED25) exhibit reduced hypocotyl elongation and reduced expression of YUCCA8 at 27°C. In line with a proposed role for MED25 in thermomorphogenesis in Arabidopsis (Arabidopsis thaliana), we demonstrated enhanced association of MED25 to the YUCCA8 locus under warmth and interaction of MED25 with both PIF4 and HDA9. Genetic analysis confirmed that MED25 and HDA9 operate in the same pathway. Intriguingly, we also showed that MED25 destabilises HDA9 protein. Based on our findings, we propose that MED25 recruits HDA9 to the YUCCA8 locus by binding to both PIF4 and HDA9.
+
+PIF4: !induces! YUCCA8
+HDA9: !mediates! histone H2A.Z
+MED25: !interacts with! PIF4
+MED25: !interacts with! HDA9
+MED25: !recruits! HDA9
+MED25: !destabilises! HDA9

@@ -1,0 +1,13 @@
+Elicitins are elicitors that can trigger hypersensitive cell death in most Nicotiana spp., but their underlying molecular mechanism is not well understood. The gene Phytophthora capsici INF1 (PcINF1) coding for an elicitin from P. capsici was characterized in this study. Transient overexpression of PcINF1 triggered cell death in pepper (Capsicum annuum L.) and was accompanied by upregulation of the hypersensitive response marker, Hypersensitive Induced Reaction gene 1 (HIR1), and the pathogenesis-related genes SAR82, DEF1, BPR1, and PO2. A putative PcINF1-interacting protein, SRC2-1, was isolated from a pepper cDNA library by yeast two-hybrid screening and was observed to target the plasma membrane. The interaction between PcINF1 and SRC2-1 was confirmed by bimolecular fluorescence complementation and co-immunoprecipitation. Simultaneous transient overexpression of SRC2-1 and PcINF1 in pepper plants triggered intensive cell death, whereas silencing of SRC2-1 by virus-induced gene silencing blocked the cell death induction of PcINF1 and increased the susceptibility of pepper plants to P. capsici infection. Additionally, membrane targeting of the PcINF1-SRC2-1 complex was required for cell death induction. The C2 domain of SRC2-1 was crucial for SRC2-1 plasma membrane targeting and the PcINF1-SRC2-1 interaction. These results suggest that SRC2-1 interacts with PcINF1 and is required in PcINF1-induced pepper immunity.
+
+PcINF1: !triggers! cell death
+PcINF1: !upregulates! HIR1
+PcINF1: !upregulates! SAR82
+PcINF1: !upregulates! DEF1
+PcINF1: !upregulates! BPR1
+PcINF1: !upregulates! PO2
+SRC2-1: !interacts with! PcINF1
+SRC2-1: !targets! plasma membrane
+PcINF1: !requires! SRC2-1
+SRC2-1: !requires! C2 domain
+SRC2-1: !required for! PcINF1-induced pepper immunity

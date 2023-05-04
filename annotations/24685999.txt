@@ -1,0 +1,10 @@
+Plant metabolomics is increasingly used for pathway discovery and to elucidate gene function. However, the main bottleneck is the identification of the detected compounds. This is more pronounced for secondary metabolites as many of their pathways are still underexplored. Here, an algorithm is presented in which liquid chromatography-mass spectrometry profiles are searched for pairs of peaks that have mass and retention time differences corresponding with those of substrates and products from well-known enzymatic reactions. Concatenating the latter peak pairs, called candidate substrate-product pairs (CSPP), into a network displays tentative (bio)synthetic routes. Starting from known peaks, propagating the network along these routes allows the characterization of adjacent peaks leading to their structure prediction. As a proof-of-principle, this high-throughput cheminformatics procedure was applied to the Arabidopsis thaliana leaf metabolome where it allowed the characterization of the structures of 60% of the profiled compounds. Moreover, based on searches in the Chemical Abstract Service database, the algorithm led to the characterization of 61 compounds that had never been described in plants before. The CSPP-based annotation was confirmed by independent MS(n) experiments. In addition to being high throughput, this method allows the annotation of low-abundance compounds that are otherwise not amenable to isolation and purification. This method will greatly advance the value of metabolomics in systems biology.
+
+Metabolomics: !used for! Pathway Discovery 
+Metabolomics: !elucidates! Gene Function 
+LC-MS Profiles: !searched for! Peak Pairs 
+Peak Pairs: !correspond to! Substrates/Products 
+CSPP Network: !displays! (Bio)Synthetic Routes 
+Network: !propagates! Characterization of Peaks 
+Characterization: !leads to! Structure Prediction 
+Algorithm: !characterizes! 61 Unseen Compounds

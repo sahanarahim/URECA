@@ -1,0 +1,10 @@
+The present study established that there are two distinct polymeric forms of isoamylase1 (ISA1) in rice endosperm: presumably a homo-pentamer of ISA1 and a hetero-hexamer composed of five ISA1 and one ISA2. The molecular sizes of the homo- and hetero-oligomers, which could be fractionated by hydrophobic chromatography, were approximately 420-480 and 510-550 kDa, respectively. The hetero-oligomer exhibited higher affinities for various branched polyglucans, especially for phytoglycogen, which had a K(m) value that was approximately 12 times lower relative to that with the homo-oligomer, although no marked differences were found in chain preferences for debranching of amylopectin and phytoglycogen between these forms. The hetero-oligomer was active even when incubated at 50 degrees C for 10 min, while the homo-multimer was completely inactivated at 40 degrees C in 10 min. When the ISA1 homo-oligomer was incubated with the ISA2 protein expressed in Escherichia coli and applied onto a nondenature polyacrylamide gel, additional debranching activity bands which were specific for the purified ISA1-ISA2 preparation were also detected, indicating that ISA1 and ISA2 combine to form a hetero-oligomer. These results suggest that the hetero-oligomer plays a predominant role in the amylopectin biosynthesis in rice endosperm although the homo-oligomer can complement the function of the hetero-oligomer at least to some extent.
+
+ISA1: !forms! homo-pentamer
+ISA1: !forms! hetero-hexamer
+ISA1: !interacts with! ISA2
+ISA1: !enhances! debranching activity
+ISA2: !combines with! ISA1
+ISA2: !forms! hetero-oligomer
+hetero-oligomer: !predominates in! amylopectin biosynthesis
+homo-oligomer: !complements! hetero-oligomer

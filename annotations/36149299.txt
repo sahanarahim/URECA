@@ -1,0 +1,8 @@
+The salt overly sensitive (SOS) pathway is essential for maintaining sodium ion homeostasis in plants. This conserved pathway is activated by a calcium signaling-dependent phosphorylation cascade. However, the identity of the phosphatases and their regulatory mechanisms that would deactivate the SOS pathway remain unclear. In this study, we demonstrate that PP2C.D6 and PP2C.D7, which belong to clade D of the protein phosphatase 2C (PP2C) subfamily in Arabidopsis thaliana, directly interact with SOS1 and inhibit its Na+/H+ antiporter activity under non-salt-stress conditions. Upon salt stress, SOS3-LIKE CALCIUM-BINDING PROTEIN8 (SCaBP8), a member of the SOS pathway, interacts with the PP2Cs and suppresses their phosphatase activity; simultaneously, SCaBP8 regulates the subcellular localization of PP2C.D6 by releasing it from the plasma membrane. Thus, we identified two negative regulators of the SOS pathway that repress SOS1 activity under nonstress conditions. These processes set the stage for the activation of SOS1 by the kinase SOS2 to achieve plant salt tolerance. Our results suggest that reversible phosphorylation/dephosphorylation is crucial for the regulation of the SOS pathway, and that calcium sensors play dual roles in activating/deactivating SOS2 and PP2C phosphatases under salt stress.
+
+SOS1: !interacts with! PP2C.D6/7 
+PP2C.D6/7: !inhibit! SOS1 
+SCaBP8: !interacts with! PP2C.D6/7 
+SCaBP8: !regulates! subcellular localization of PP2C.D6 
+SOS2: !activates! SOS1 
+Calcium sensors: !activate/deactivate! SOS2/PP2C phosphatases

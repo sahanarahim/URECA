@@ -1,0 +1,7 @@
+['15716105', 'A two-hybrid screen with the translation initiation factor, eIF(iso)4E from  Arabidopsis, identified a clone encoding a lipoxygenase type 2 [Freire, M.A., et  al., 2000. Plant lipoxygenase 2 is a translation initiation factor-4E-binding  protein. Plant Molecular Biology 44, 129-140], and three cDNA clones encoding the  homologue of the mammalian BTF3 factor, the beta subunit of the nascent  polypeptide-associated complex (NAC). Here we report on the interaction between  the translation initiation factor eIF(iso)4E and AtBTF3. AtBTF3 protein is able  to interact with the wheat initiation factors eIF4E and eIF(iso)4E. AtBTF3  contains a sequence related to the prototypic motif found on most of the  4E-binding proteins, and competes with the translation initiation factor  eIF(iso)4G for eIF4(iso)4E binding, in a two hybrid interference assay. These  findings provide a molecular link between the translation initiation mechanism  and the emergence of the nascent polypeptide chains.', '2005 Jan 31', 'Gene', '10.1016/j.gene.2004.11.030', 'Freire']
+
+eIF(iso)4E: !interacts with! AtBTF3
+AtBTF3: !interacts with! eIF4E
+AtBTF3: !interacts with! eIF(iso)4E
+AtBTF3: !competes with! eIF(iso)4G
+eIF4(iso)4E: !binds to! AtBTF3

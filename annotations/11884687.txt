@@ -1,0 +1,10 @@
+['11884687', 'The salt tolerance locus SOS1 from Arabidopsis has been shown to encode a  putative plasma membrane Na(+)/H(+) antiporter. In this study, we examined the  tissue-specific pattern of gene expression as well as the Na(+) transport  activity and subcellular localization of SOS1. When expressed in a yeast mutant  deficient in endogenous Na(+) transporters, SOS1 was able to reduce Na(+)  accumulation and improve salt tolerance of the mutant cells. Confocal imaging of  a SOS1-green fluorescent protein fusion protein in transgenic Arabidopsis plants  indicated that SOS1 is localized in the plasma membrane. Analysis of SOS1  promoter-beta-glucuronidase transgenic Arabidopsis plants revealed preferential  expression of SOS1 in epidermal cells at the root tip and in parenchyma cells at  the xylem/symplast boundary of roots, stems, and leaves. Under mild salt stress  (25 mM NaCl), sos1 mutant shoot accumulated less Na(+) than did the wild-type  shoot. However, under severe salt stress (100 mM NaCl), sos1 mutant plants  accumulated more Na(+) than did the wild type. There also was greater Na(+)  content in the xylem sap of sos1 mutant plants exposed to 100 mM NaCl. These  results suggest that SOS1 is critical for controlling long-distance Na(+)  transport from root to shoot. We present a model in which SOS1 functions in  retrieving Na(+) from the xylem stream under severe salt stress, whereas under  mild salt stress it may function in loading Na(+) into the xylem.', '2002 Feb', 'Plant Cell', '10.1105/tpc.010371', 'Zhu']
+
+SOS1: !encodes! Na(+)/H(+) antiporter 
+SOS1: !localizes to! plasma membrane 
+SOS1: !reduces! Na(+) accumulation 
+SOS1: !expresses in! epidermal cells, parenchyma cells 
+sos1 mutant: !accumulates less! Na(+) under mild salt stress 
+sos1 mutant: !accumulates more! Na(+) under severe salt stress 
+SOS1: !retrieves! Na(+) from xylem stream under severe salt stress 
+SOS1: !loads! Na(+) into xylem under mild salt stress

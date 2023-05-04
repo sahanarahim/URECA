@@ -1,0 +1,10 @@
+The MYB transcription factors and plant hormone ABA have been suggested to play a role in fruit anthocyanin biosynthesis, but supporting genetic evidence has been lacking in sweet cherry. The present study describes the first functional characterization of an R2R3-MYB transcription factor, PacMYBA, from red-colored sweet cherry cv. Hong Deng (Prunus avium L.). Transient promoter assays demonstrated that PacMYBA physically interacted with several anthocyanin-related basic helix-loop-helix (bHLH) transcription factors to activate the promoters of PacDFR, PacANS and PacUFGT, which are thought to be involved in anthocyanin biosynthesis. Furthermore, the immature seeds of transgenic Arabidopsis plants overexpressing PacMYBA exhibited ectopic pigmentation. Silencing of PacMYBA, using a Tobacco rattle virus (TRV)-induced gene silencing technique, resulted in sweet cherry fruit that lacked red pigment. ABA treatment significantly induced anthocyanin accumulation, while treatment with the ABA biosynthesis inhibitor nordihydroguaiaretic acid (NDGA) blocked anthocyanin production. PacMYBA expression peaked after 2 h of pre-incubation in ABA and was 15.2-fold higher than that of sweet cherries treated with NDGA. The colorless phenotype was also observed in the fruits silenced in PacNCED1, which encodes a key enzyme in the ABA biosynthesis pathway. The endogenous ABA content as well as the transcript levels of six structural genes and PacMYBA in PacNCED1-RNAi (RNA interference) fruit were significantly lower than in the TRV vector control fruit. These results suggest that PacMYBA plays an important role in ABA-regulated anthocyanin biosynthesis and ABA is a signal molecule that promotes red-colored sweet cherry fruit accumulating anthocyanin.
+
+PacMYBA: !interacts with! bHLH transcription factors 
+bHLH transcription factors: !activate! PacDFR, PacANS and PacUFGT
+PacMYBA: !enhances! ectopic pigmentation
+PacMYBA: !represses! colorless phenotype
+ABA: !induces! anthocyanin accumulation
+ABA: !promotes! red-colored sweet cherry fruit
+PacNCED1: !encodes! key enzyme in ABA biosynthesis pathway
+PacNCED1: !regulates! PacMYBA expression

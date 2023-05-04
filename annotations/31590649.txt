@@ -1,0 +1,22 @@
+Appropriate plant architecture can improve the amount of cotton boll opening and allow increased planting density, thus increasing the level of cotton mechanical harvesting and cotton yields. The internodes of cotton fruiting branches are an important part of cotton plant architecture. Thus, studying the molecular mechanism of internode elongation in cotton fruiting branches is highly important. In this study, we selected internodes of cotton fruiting branches at three different stages from two cultivars whose internode lengths differed significantly. A total of 76,331 genes were detected by transcriptome sequencing. By KEGG pathway analysis, we found that DEGs were significantly enriched in the plant hormone signal transduction pathway. The transcriptional data and qRT-PCR results showed that members of the GH3 gene family, which are involved in auxin signal transduction, and CKX enzymes, which can reduce the level of CKs, were highly expressed in the cultivar XLZ77, which has relatively short internodes. Genes related to ethylene synthase (ACS), EIN2/3 and ERF in the ethylene signal transduction pathway and genes related to JAR1, COI1 and MYC2 in the JA signal transduction pathway were also highly expressed in XLZ77. Plant hormone determination results showed that the IAA and CK contents significantly decreased in cultivar XLZ77 compared with those in cultivar L28, while the ACC (the precursor of ethylene) and JA contents significantly increased. GO enrichment analysis revealed that the GO categories associated with promoting cell elongation, such as cell division, the cell cycle process and cell wall organization, were significantly enriched, and related genes were highly expressed in L28. However, genes related to the sphingolipid metabolic process and lignin biosynthetic process, whose expression can affect cell elongation, were highly expressed in XLZ77. In addition, 2067 TFs were differentially expressed. The WRKY, ERF and bHLH TF families were the top three largest families whose members were active in the two varieties, and the expression levels of most of the genes encoding these TFs were upregulated in XLZ77. Auxin and CK are positive regulators of internode elongation in cotton branches. In contrast, ethylene and JA may act as negative regulators of internode elongation in cotton branches. Furthermore, the WRKY, ERF and bHLH TFs were identified as important inhibitors of internode elongation in cotton. In XLZ77(a short-internode variety), the mass synthesis of ethylene and amino acid conjugation of auxin led to the inhibition of plant cell elongation, while an increase in JA content and degradation of CKs led to a slow rate of cell division, which eventually resulted in a phenotype that presented relatively short internodes on the fruiting branches. The results of this study not only provide gene resources for the genetic improvement of cotton plant architecture but also lay a foundation for improved understanding of the molecular mechanism of the internode elongation of cotton branches.
+
+GH3: !enhances! Auxin signal transduction
+CKX: !reduces! CKs
+ACS: !synthesizes! Ethylene
+EIN2/3: !interacts with! Ethylene signal transduction
+ERF: !interacts with! Ethylene signal transduction
+JAR1: !interacts with! JA signal transduction
+COI1: !interacts with! JA signal transduction
+MYC2: !interacts with! JA signal transduction
+IAA: !decreases! in XLZ77
+CK: !decreases! in XLZ77
+ACC: !increases! in XLZ77
+JA: !increases! in XLZ77
+Cell division: !promotes! Cell elongation
+Cell cycle process: !promotes! Cell elongation
+Cell wall organization: !promotes! Cell elongation
+Sphingolipid metabolic process: !enhances! in XLZ77
+Lignin biosynthetic process: !enhances! in XLZ77
+WRKY: !inhibits! Internode elongation
+ERF: !inhibits! Internode elongation
+bHLH:

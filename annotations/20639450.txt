@@ -1,0 +1,9 @@
+During infection, fungal pathogens activate virulence mechanisms, such as host adhesion, penetration and invasive growth. In the vascular wilt fungus Fusarium oxysporum, the mitogen-activated protein kinase Fmk1 is required for plant infection and controls processes such as cellophane penetration, vegetative hyphal fusion, or root adhesion. Here, we show that these virulence-related functions are repressed by the preferred nitrogen source ammonium and restored by treatment with l-methionine sulfoximine or rapamycin, two specific inhibitors of Gln synthetase and the protein kinase TOR, respectively. Deletion of the bZIP protein MeaB also resulted in nitrogen source-independent activation of virulence mechanisms. Activation of these functions did not require the global nitrogen regulator AreA, suggesting that MeaB-mediated repression of virulence functions does not act through inhibition of AreA. Tomato plants (Solanum lycopersicum) supplied with ammonium rather than nitrate showed a significant reduction in vascular wilt symptoms when infected with the wild type but not with the DeltameaB strain. Nitrogen source also affected invasive growth in the rice blast fungus Magnaporthe oryzae and the wheat head blight pathogen Fusarium graminearum. We propose that a conserved nitrogen-responsive pathway might operate via TOR and MeaB to control virulence in plant pathogenic fungi.
+
+Fmk1: !controls! virulence-related functions 
+ammonium: !represses! Fmk1 
+l-methionine sulfoximine/rapamycin: !restores! Fmk1 
+MeaB: !represses! virulence functions 
+AreA: !not involved in! MeaB-mediated repression 
+tomato plants: !show reduced! vascular wilt symptoms 
+nitrogen source: !affects! invasive growth

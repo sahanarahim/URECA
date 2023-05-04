@@ -1,0 +1,9 @@
+To cope with manganese (Mn) deficiency, plants have evolved an efficient transport system to uptake and redistribute Mn. However, the underlying molecular mechanisms remain to be demonstrated. We carried out a forward genetic screen in a root high-affinity Mn transporter nramp1 mutant background in Arabidopsis thaliana and identified an uncharacterized Mn transport NRAMP2. We investigated the effect of nramp2 mutation on root growth and reactive oxygen species (ROS) accumulation and we also examined the NRAMP2 expression pattern, and the subcellular localization and transport activity of NRAMP2. Mutation of NRAMP2 impaired plant growth, while overexpression of NRAMP2 improved plant growth under low Mn conditions. In the nramp2-1nramp1 double mutant, Mn deficiency inhibited root cell elongation and root hair development, which was associated with increased hydrogen peroxide (H<sub>2</sub> O<sub>2</sub> ) accumulation. NRAMP2 is preferentially localized to the trans-Golgi network. NRAMP2 has Mn influx transport activity in yeast, and mutation of NRAMP2 led to greater Mn retention in roots. Our results suggest that under Mn-deficient conditions, increased accumulation of H<sub>2</sub> O<sub>2</sub> is partially responsible for the root growth inhibition and NRAMP2 is involved in remobilization of Mn in Golgi for root growth.
+
+nramp1: !affects! root growth
+nramp2: !affects! root growth
+nramp2: !localizes to! trans-Golgi network
+nramp2: !interacts with! Mn deficiency
+nramp2: !enhances! plant growth
+nramp2: !represses! root cell elongation
+nramp2: !synthesizes! H<sub>2</sub> O<sub>2</sub>

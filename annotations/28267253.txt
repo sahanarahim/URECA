@@ -1,0 +1,8 @@
+Detecting the phosphorylation substrates of multiple kinases in a single experiment is a challenge, and new techniques are being developed to overcome this challenge. Here, we used a multiplexed assay for kinase specificity (MAKS) to identify the substrates directly and to map the phosphorylation site(s) of plant symbiotic receptor-like kinases. The symbiotic receptor-like kinases nodulation receptor-like kinase (NORK) and lysin motif domain-containing receptor-like kinase 3 (LYK3) are indispensable for the establishment of root nodule symbiosis. Although some interacting proteins have been identified for these symbiotic receptor-like kinases, very little is known about their phosphorylation substrates. Using this high-throughput approach, we identified several other potential phosphorylation targets for both these symbiotic receptor-like kinases. In particular, we also discovered the phosphorylation of LYK3 by NORK itself, which was also confirmed by pairwise kinase assays. Motif analysis of potential targets for these kinases revealed that the acidic motif xxxsDxxx was common to both of them. In summary, this high-throughput technique catalogs the potential phosphorylation substrates of multiple kinases in a single efficient experiment, the biological characterization of which should provide a better understanding of phosphorylation signaling cascade in symbiosis.
+
+NORK: !phosphorylates! LYK3
+LYK3: !interacts with! NORK
+NORK: !identifies! phosphorylation targets
+LYK3: !identifies! phosphorylation targets
+NORK: !reveals! acidic motif xxxsDxxx
+LYK3: !reveals! acidic motif xxxsDxxx

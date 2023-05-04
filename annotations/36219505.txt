@@ -1,0 +1,10 @@
+Heterosis is extensively used to improve crop productivity, yet its allelic and chromatin regulation remains unclear. Based on our resolved genomes of the maternal TGY and paternal HD, we analyzed the contribution of allele-specific expression (ASE) and chromatin accessibility of JGY and HGY, the artificial hybrids of oolong tea with the largest cultivated area in China. The ASE genes (ASEGs) of tea hybrids with maternal-biased were mainly related to the energy and terpenoid metabolism pathways, whereas the ASEGs with paternal-biased tend to be enriched in glutathione metabolism, and these parental bias of hybrids may coordinate and lead to the acquisition of heterosis in more biological pathways. ATAC-seq results showed that hybrids have significantly higher accessible chromatin regions (ACRs) compared with their parents, which may confer broader and stronger transcriptional activity of genes in hybrids. The number of ACRs with significantly increased accessibility in hybrids was much greater than decreased, and the associated alleles were also affected by differential ACRs across different parents, suggesting enhanced positive chromatin regulation and potential genetic effects in hybrids. Core ASEGs of terpene and purine alkaloid metabolism pathways with significant positive heterosis have greater chromatin accessibility in hybrids, and were potentially regulated by several members of the MYB, DOF and TRB families. The binding motif of CsMYB85 in the promoter ACR of the rate-limiting enzyme CsDXS was verified by DAP-seq. These results suggest that higher numbers and more accessible ACRs in hybrids contribute to the regulation of ASEGs, thereby affecting the formation of heterotic metabolites.
+
+gene: !affects! energy metabolism
+gene: !affects! terpenoid metabolism
+gene: !affects! glutathione metabolism
+gene: !enhances! chromatin accessibility
+gene: !regulates! ASEGs
+gene: !regulated by! MYB family
+gene: !regulated by! DOF family
+gene: !regulated by! TRB family

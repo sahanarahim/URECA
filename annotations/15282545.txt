@@ -1,0 +1,7 @@
+['15282545', 'Hormones are important regulators of plant growth and development. In  Arabidopsis, perception of the phytohormones ethylene and cytokinin is  accomplished by a family of sensor histidine kinases including ethylene-resistant  (ETR) 1 and cytokinin-response (CRE) 1. We identified the Arabidopsis response  regulator 2 (ARR2) as a signalling component functioning downstream of ETR1 in  ethylene signal transduction. Analyses of loss-of-function and  ARR2-overexpressing lines as well as functional assays in protoplasts indicate an  important role of ARR2 in mediating ethylene responses. Additional investigations  indicate that an ETR1-initiated phosphorelay regulates the transcription factor  activity of ARR2. This mechanism may create a novel signal transfer from  endoplasmic reticulum-associated ETR1 to the nucleus for the regulation of  ethylene-response genes. Furthermore, global expression profiling revealed a  complex ARR2-involving two-component network that interferes with a multitude of  different signalling pathways and thereby contributes to the highly integrated  signal processing machinery in higher plants.', '2004 Aug 18', 'EMBO J', '10.1038/sj.emboj.7600337', 'Harter']
+
+ETR1: !initiates! phosphorelay 
+phosphorelay: !regulates! ARR2 
+ARR2: !mediates! ethylene responses 
+ETR1: !transfers! signal to nucleus 
+ARR2: !interferes with! multiple pathways

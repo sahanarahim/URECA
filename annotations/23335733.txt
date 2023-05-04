@@ -1,0 +1,8 @@
+Stimulus-specific accumulation of second messengers like reactive oxygen species (ROS) and Ca(2+) are central to many signaling and regulation processes in plants. However, mechanisms that govern the reciprocal interrelation of Ca(2+) and ROS signaling are only beginning to emerge. NADPH oxidases of the respiratory burst oxidase homolog (RBOH) family are critical components contributing to the generation of ROS while Calcineurin B-like (CBL) Ca(2+) sensor proteins together with their interacting kinases (CIPKs) have been shown to function in many Ca(2+)- signaling processes. In this study, we identify direct functional interactions between both signaling systems. We report that the CBL-interacting protein kinase CIPK26 specifically interacts with the N-terminal domain of RBOHF in yeast two-hybrid analyses and with the full-length RBOHF protein in plant cells. In addition, CIPK26 phosphorylates RBOHF in vitro and co-expression of either CBL1 or CBL9 with CIPK26 strongly enhances ROS production by RBOHF in HEK293T cells. Together, these findings identify a direct interconnection between CBL-CIPK-mediated Ca(2+) signaling and ROS signaling in plants and provide evidence for a synergistic activation of the NADPH oxidase RBOHF by direct Ca(2+)-binding to its EF-hands and Ca(2+)-induced phosphorylation by CBL1/9-CIPK26 complexes.
+
+RBOHF: !interacts with! CIPK26 
+CBL1/9: !interacts with! CIPK26 
+CIPK26: !phosphorylates! RBOHF 
+CBL1/9: !enhances! ROS production by RBOHF 
+Ca(2+): !binds to! RBOHF EF-hands 
+Ca(2+): !induces phosphorylation of! RBOHF by CBL1/9-CIPK26 complexes

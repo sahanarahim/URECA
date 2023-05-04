@@ -1,0 +1,9 @@
+Phosphate overaccumulator2 (PHO2) encodes a ubiquitin-conjugating E2 enzyme that is a major negative regulator of the inorganic phosphate (Pi)-starvation response-signaling pathway. A yeast two-hybrid (Y2H) screen in rice (Oryza sativa; Os) using OsPHO2 as bait revealed an interaction between OsPHO2 and two h-type thioredoxins, OsTrxh1 and OsTrxh4. These interactions were confirmed in vivo using bimolecular fluorescence complementation (BiFC) of OsPHO2 and OsTrxh1/h4 in rice protoplasts and by in vitro pull-down assays with 6His-tagged OsTrxh1/h4 and GST-tagged OsPHO2. Y2H assays revealed that amino acid Cys-445 of OsPHO2 and an N-terminal Cys in the "WCGPC" motif of Trxhs were required for the interaction. Split-ubiquitin Y2H analyses and BiFC assays in rice protoplasts confirmed the interaction of OsPHO2 with PHOSPHATE TRANSPORTER TRAFFIC FACILITATOR1 (OsPHF1), and PHOSPHATE1;2 (OsPHO1;2) in the endoplasmic reticulum and Golgi membrane system, where OsPHO2 mediates the degradation of OsPHF1 in both tobacco (Nicotiana benthamiana) leaves and rice seedlings. Characterization of rice pho2 complemented lines, transformed with an endogenous genomic OsPHO2 or OsPHO2<sup>C445S</sup> (a constitutively reduced form) fragment, indicated that OsPHO2<sup>C445S</sup> restored Pi concentration in rice to statistically significant lower levels compared to native OsPHO2 Moreover, the suppression of OsTrxh1 (knockdown and knockout) resulted in slightly higher Pi concentration than that of wild-type Nipponbare in leaves. These results demonstrate that OsPHO2 is under redox control by thioredoxins, which fine-tune its activity and link Pi homeostasis with redox balance in rice.
+
+PHO2: !interacts with! OsTrxh1 
+PHO2: !interacts with! OsTrxh4 
+PHO2: !interacts with! OsPHF1 
+PHO2: !interacts with! OsPHO1;2 
+OsTrxh1: !regulates! PHO2 
+OsTrxh4: !regulates! PHO2 
+PHO2: !regulates! Pi concentration

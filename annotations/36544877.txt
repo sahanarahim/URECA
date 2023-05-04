@@ -1,0 +1,20 @@
+<i>Camellia petelotii</i> (Merr.) Sealy and <i>Camellia impressinervis</i> Chang & Liang belong to the golden subgroup of <i>Camellia</i> (Theaceae). This subgroup contains the yellow-flowering species of the genus, which have high medicinal and ornamental value and a narrow geographical distribution. These species differ in their tolerance to high light intensity. This study aimed to explore the differences in their light-stress responses and light damage repair processes, and the effect of these networks on secondary metabolite synthesis. Two-year-old plants of both species grown at 300 µmol·m<sup>-2</sup>·s<sup>-1</sup> photosynthetically active radiation (PAR) were shifted to 700 µmol·m<sup>-2</sup>·s<sup>-1</sup> PAR for 5 days shifting back to 300 µmol·m<sup>-2</sup>·s<sup>-1</sup> PAR for recovery for 5 days. Leaf samples were collected at the start of the experiment and 2 days after each shift. Data analysis included measuring photosynthetic indicators, differential transcriptome expression, and quantifying plant hormones, pigments, and flavonoids. <i>Camellia impressinervis</i> showed a weak ability to recover from photodamage that occurred at 700 µmol·m<sup>-2</sup>·s<sup>-1</sup> compared with <i>C. petelotii.</i> Photodamage led to decreased photosynthesis, as shown by repressed transcript abundance for photosystem II genes <i>psbA, B, C, O,</i> and <i>Q</i>, photosystem I genes <i>psaB, D, E, H,</i> and <i>N</i>, electron transfer genes <i>petE</i> and <i>F</i>, and ATP synthesis genes <i>ATPF1A</i> and <i>ATPF1B</i>. High-light stress caused more severe damage to <i>C. impressinervis</i>, which showed a stronger response to reactive oxygen species than <i>C. petelotii.</i> In addition, high-light stress promoted the growth and development of high zeatin signalling and increased transcript abundance of adenylate dimethylallyl transferase (IPT) and histidine-containing phosphotransferase (AHP). The identification of transcriptional differences in the regulatory networks that respond to high-light stress and activate recovery of light damage in these two rare species adds to the resources available to conserve them and improve their value through molecular breeding.
+
+psbA: !represses! Photosynthesis
+psbB: !represses! Photosynthesis
+psbC: !represses! Photosynthesis
+psbO: !represses! Photosynthesis
+psbQ: !represses! Photosynthesis
+psaB: !represses! Photosynthesis
+psaD: !represses! Photosynthesis
+psaE: !represses! Photosynthesis
+psaH: !represses! Photosynthesis
+psaN: !represses! Photosynthesis
+petE: !represses! Photosynthesis
+petF: !represses! Photosynthesis
+ATPF1A: !represses! Photosynthesis
+ATPF1B: !represses! Photosynthesis
+Reactive Oxygen Species: !affects! C. impressinervis
+Zeatin Signalling: !enhances! Growth & Development
+IPT: !synthesizes! Adenylate Dimethylallyl Transferase
+AHP: !synthesizes! Histidine-containing Phosphotransferase

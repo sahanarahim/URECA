@@ -1,0 +1,8 @@
+Shade avoidance syndrome (SAS) arises in densely growing plants that compete for light. In Arabidopsis thaliana, phytochrome interacting factor (PIF) proteins link the perception of shade to stem elongation via auxin production. Here, we report that PIFs inhibit the shade-induced expression of AUXIN RESPONSE FACTOR 18 (ARF18), and ARF18 represses auxin signaling. Therefore, PIF-mediated inhibition of ARF18 enhances auxin-dependent hypocotyl elongation in simulated shade. Furthermore, we show that both PIFs and ARF18 directly repress qua-quine starch (QQS), which controls the allocation of carbon and nitrogen. Shade-repressed QQS attenuates the conversion of starch to protein and thus reduced leaf area. Our results suggest that PIF-dependent gene regulation coordinates multiple SAS responses, including altered stem growth via ARF18, as well as altered leaf growth and metabolism via QQS.
+
+PIF: !inhibits! ARF18
+ARF18: !represses! auxin signaling
+PIF: !enhances! hypocotyl elongation
+PIF: !represses! QQS
+ARF18: !represses! QQS
+QQS: !attenuates! conversion of starch to protein

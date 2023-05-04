@@ -1,0 +1,10 @@
+Autophagy plays an important role in plant antiviral defense. Several plant viruses are reported to encode viral suppressor of autophagy (VSA) to prevent autophagy for effective virus infection. However, whether and how other viruses, in particular DNA viruses, also encode VSAs to affect viral infection in plants is unknown. Here, we report that the C4 protein encoded by Cotton leaf curl Multan geminivirus (CLCuMuV) inhibits autophagy by binding to the autophagy negative regulator eukaryotic translation initiation factor 4A (eIF4A) to enhance the eIF4A - Autophagy-related protein 5 (ATG5) interaction. By contrast, the R54A or R54K mutation in C4 abolishes its capacity to interact with eIF4A, and neither C4R54A nor C4R54K can suppress autophagy. However, the R54 residue is not essential for C4 to interfere with transcriptional gene silencing or post-transcriptional gene silencing. Moreover, plants infected with mutated CLCuMuV-C4R54K develop less severe symptoms with decreased levels of viral DNA. These findings reveal a molecular mechanism underlying how the DNA virus CLCuMuV deploys a VSA to subdue host cellular antiviral autophagy defense and uphold viral infection in plants.
+
+C4: !binds to! eIF4A
+eIF4A: !interacts with! ATG5
+C4: !represses! autophagy
+C4R54A/K: !abolishes capacity to interact with! eIF4A
+C4R54A/K: !cannot suppress! autophagy
+C4R54A/K: !does not affect! transcriptional gene silencing
+C4R54A/K: !does not affect! post-transcriptional gene silencing
+CLCuMuV-C4R54K: !develops less severe symptoms with decreased levels of! viral DNA

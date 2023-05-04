@@ -1,0 +1,12 @@
+RNA-sequencing (RNA-seq) has been widely used to study the dynamic expression patterns of transcribed genes, which can lead to new biological insights. However, processing and analyzing these huge amounts of histological data remains a great challenge for wet labs and field researchers who lack bioinformatics experience and computational resources. We present BarleyExpDB, an easy-to-operate, free, and web-accessible database that integrates transcriptional profiles of barley at different growth and developmental stages, tissues, and stress conditions, as well as differential expression of mutants and populations to build a platform for barley expression and visualization. The expression of a gene of interest can be easily queried by searching by known gene ID or sequence similarity. Expression data can be displayed as a heat map, along with functional descriptions as well as Gene Ontology, Kyoto Encyclopedia of Genes and Genomes, Proteins Families Database, and Simple Modular Architecture Research Tool annotations. BarleyExpDB will serve as a valuable resource for the barley research community to leverage the vast publicly available RNA-seq datasets for functional genomics research and crop molecular breeding.
+
+RNA-seq: !leads to! new biological insights
+BarleyExpDB: !integrates! transcriptional profiles
+Gene ID/sequence similarity: !queries! expression of gene of interest
+Heat map: !displays! expression data
+Functional descriptions: !accompany! heat map
+Gene Ontology: !annotates! BarleyExpDB
+Kyoto Encyclopedia of Genes and Genomes: !annotates! BarleyExpDB
+Proteins Families Database: !annotates! BarleyExpDB
+Simple Modular Architecture Research Tool: !annotates! BarleyExpDB
+BarleyExpDB: !serves as! valuable resource

@@ -1,0 +1,15 @@
+In order to identify components of pathogen-associated molecular pattern-triggered immunity (PTI) pathways in Nicotiana benthamiana, we conducted a large-scale forward-genetics screen using virus-induced gene silencing and a cell-death-based assay for assessing PTI. The assay relied on four combinations of PTI-inducing nonpathogens and cell-death-causing challenger pathogens and was first validated in plants silenced for FLS2 or BAK1. Over 3,200 genes were screened and 14 genes were identified that, when silenced, compromised PTI as judged by the cell-death-based assay. Further analysis indicated that the 14 genes were not involved in a general cell death response. A subset of the genes was found to act downstream of FLS2-mediated PTI induction, and silencing of three genes compromised production of reactive oxygen species in leaves exposed to flg22. The 14 genes encode proteins with potential functions in defense and hormone signaling, protein stability and degradation, energy and secondary metabolism, and cell wall biosynthesis and provide a new resource to explore the molecular basis for the involvement of these processes in PTI.
+
+FLS2: !affects! PTI
+BAK1: !affects! PTI
+PTI-inducing nonpathogens: !triggers! cell-death-based assay
+challenger pathogens: !causes! cell death
+FLS2: !localizes to! PTI induction
+BAK1: !localizes to! PTI induction
+3,200 genes: !screened for! PTI
+14 genes: !identified as! compromising PTI
+14 genes: !involved in! defense and hormone signaling
+14 genes: !involved in! protein stability and degradation
+14 genes: !involved in! energy and secondary metabolism
+14 genes: !involved in! cell wall biosynthesis
+three genes: !compromises! production of reactive oxygen species

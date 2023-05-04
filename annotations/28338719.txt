@@ -1,0 +1,9 @@
+Recent studies have identified microRNAs as post-transcriptional regulators involved in stress responses. miR1514a is a legume microRNA that is induced in response to drought stress in Phaseolus vulgaris (common bean) and shows differential accumulation levels in roots during water deficit in two cultivars with different drought tolerance phenotypes. A recent degradome analysis revealed that miR1514a targets the transcripts of two NAC transcription factors (TFs), Phvul.010g121000 and Phvul.010g120700. Furthermore, expression studies and small RNA-seq data indicate that only Phvul.010g120700 generates phasiRNAs, which also accumulate under water deficit conditions. To confirm these results, we over-expressed miR1514a in transgenic hairy roots, and observed a reduced accumulation of Phvul.010g120700 and an increase in NAC-derived phasiRNAs; inhibition of miR1514a activity resulted in the opposite effect. Moreover, we determined that a NAC-derived phasiRNA associates with ARGONAUTE 1 (AGO1), suggesting that it is functional. In addition, a transcriptome analysis of transgenic hairy roots with reduced miR1514a levels revealed several differentially expressed transcripts, mainly involved in metabolism and stress responses, suggesting they are regulated by the NAC TF and/or by phasiRNAs. This work therefore demonstrates the participation of miR1514 in the regulation of a NAC transcription factor transcript through phasiRNA production during the plant response to water deficit.
+
+miR1514a: !induces! Phvul.010g121000 
+miR1514a: !induces! Phvul.010g120700 
+Phvul.010g120700: !generates! phasiRNAs 
+miR1514a: !reduces accumulation of! Phvul.010g120700 
+miR1514a: !increases! NAC-derived phasiRNAs 
+NAC-derived phasiRNA: !associates with! ARGONAUTE 1 (AGO1) 
+NAC TF/phasiRNAs: !regulate! metabolism/stress responses

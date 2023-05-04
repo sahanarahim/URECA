@@ -1,0 +1,10 @@
+['20525851', 'Several genes involved in the regulation of postembryonic organ initiation and  growth have been identified. However, it remains largely unclear how  developmental cues connect to the cell cycle. RETINOBLASTOMA RELATED (RBR) is a  plant homolog of the tumor suppressor Retinoblastoma (pRb), which is a key  regulator of the cell cycle. Using inducible RNA interference (RNAi) against  Arabidopsis thaliana RBR (RBRi), we reduced RBR expression levels at different  stages of plant development. Conditional reduction or loss of RBR function  disrupted cell division patterns, promoted context-dependent cell proliferation,  and negatively influenced establishment of cell differentiation. Several lineages  of toti- and pluripotent cells, including shoot apical meristem stem cells,  meristemoid mother cells, and procambial cells, failed to produce appropriately  differentiated cells. Meristem activity was altered, leading to a disruption of  the CLAVATA-WUSCHEL feedback loop and inhibition of lateral organ formation.  Release of RBR from RNAi downregulation restored meristem activity. Gene  profiling analyses soon after RBRi induction revealed that a change in RBR  homeostasis is perceived as a stress, even before genes regulated by RBR-E2F  become deregulated. The results establish RBR as a key cell cycle regulator  required for coordination of cell division, differentiation, and cell  homeostasis.', '2010 Jun', 'Plant Cell', '10.1105/tpc.110.074591', 'Gruissem']
+
+RBR: !regulates! Cell Cycle 
+RBR: !disrupts! Cell Division Patterns 
+RBR: !promotes! Cell Proliferation 
+RBR: !inhibits! Cell Differentiation 
+RBR: !alters! Meristem Activity 
+RBR: !disrupts! CLAVATA-WUSCHEL Feedback Loop 
+RBR: !inhibits! Lateral Organ Formation 
+RBR: !perceived as! Stress

@@ -1,0 +1,12 @@
+Plant cell walls are important barriers against microbial pathogens. Cell walls of Arabidopsis thaliana leaves contain three major types of polysaccharides: cellulose, various hemicelluloses, and pectins. UDP-D-galacturonic acid, the key building block of pectins, is produced from the precursor UDP-D-glucuronic acid by the action of glucuronate 4-epimerases (GAEs). Pseudomonas syringae pv maculicola ES4326 (Pma ES4326) repressed expression of GAE1 and GAE6 in Arabidopsis, and immunity to Pma ES4326 was compromised in gae6 and gae1 gae6 mutant plants. These plants had brittle leaves and cell walls of leaves had less galacturonic acid. Resistance to specific Botrytis cinerea isolates was also compromised in gae1 gae6 double mutant plants. Although oligogalacturonide (OG)-induced immune signaling was unaltered in gae1 gae6 mutant plants, immune signaling induced by a commercial pectinase, macerozyme, was reduced. Macerozyme treatment or infection with B. cinerea released less soluble uronic acid, likely reflecting fewer OGs, from gae1 gae6 cell walls than from wild-type Col-0. Although both OGs and macerozyme-induced immunity to B. cinerea in Col-0, only OGs also induced immunity in gae1 gae6. Pectin is thus an important contributor to plant immunity, and this is due at least in part to the induction of immune responses by soluble pectin, likely OGs, that are released during plant-pathogen interactions.
+
+GAE1: !affects! UDP-D-galacturonic acid production 
+GAE6: !affects! UDP-D-galacturonic acid production 
+Pma ES4326: !represses! GAE1 and GAE6 expression 
+gae1 gae6 mutant plants: !have compromised! immunity to Pma ES4326 
+gae1 gae6 mutant plants: !have compromised! resistance to Botrytis cinerea 
+Oligogalacturonide (OG): !induces! immune signaling in Col-0 
+Macerozyme: !induces! immune signaling in Col-0 
+gae1 gae6 mutant plants: !release less! soluble uronic acid 
+Oligogalacturonide (OG): !induces! immunity to B. cinerea in Col-0 
+Macerozyme: !does not induce! immunity to B. cinerea in gae1 gae6 mutant plants

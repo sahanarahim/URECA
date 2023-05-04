@@ -1,0 +1,10 @@
+<i>Agrobacterium tumefaciens</i> can cause crown gall tumors by transferring both an oncogenic piece of DNA (T-DNA) and several effector proteins into a wide range of host plants. For the translocated effector VirE3 multiple functions have been reported. It acts as a transcription factor in the nucleus binding to the <i>Arabidopsis thaliana</i> pBrp TFIIB-like protein to activate the expression of <i>VBF</i>, an F-box protein involved in degradation of the VirE2 and VIP1 proteins, facilitating <i>Agrobacterium</i>-mediated transformation. Also VirE3 has been found at the plasma membrane, where it could interact with VirE2. Here, we identified AtJAZ8 in a yeast two-hybrid screening with VirE3 as a bait and confirmed the interaction by pull-down and bimolecular fluorescence complementation assays. We also found that the deletion of <i>virE3</i> reduced <i>Agrobacterium</i> virulence in a root tumor assay. Overexpression of <i>virE3</i> in Arabidopsis enhanced tumorigenesis, whereas overexpression of <i>AtJAZ8</i> in Arabidopsis significantly decreased the numbers of tumors formed. Further experiments demonstrated that AtJAZ8 inhibited the activity of VirE3 as a plant transcriptional regulator, and overexpression of <i>AtJAZ8</i> in Arabidopsis activated <i>AtPR1</i> gene expression while it repressed the expression of <i>AtPDF1.2</i>. Conversely, overexpression of <i>virE3</i> in Arabidopsis suppressed the expression of <i>AtPR1</i> whereas activated the expression of <i>AtPDF1.2</i>. Our results proposed a novel mechanism of counter defense signaling pathways used by <i>Agrobacterium</i>, suggesting that VirE3 and JAZ8 may antagonistically modulate the salicylic acid/jasmonic acid (SA/JA)-mediated plant defense signaling response during <i>Agrobacterium</i> infection.
+
+VirE3: !activates! VBF
+VirE3: !interacts with! VirE2
+VirE3: !interacts with! AtJAZ8
+AtJAZ8: !inhibits! VirE3
+AtJAZ8: !activates! AtPR1
+AtJAZ8: !represses! AtPDF1.2
+VirE3: !suppresses! AtPR1
+VirE3: !activates! AtPDF1.2

@@ -1,0 +1,13 @@
+['16034595', 'The capacity for somatic embryogenesis was studied in lec1, lec2 and fus3 mutants  of Arabidopsis thaliana (L.) Heynh. It was found that contrary to the response of  wild-type cultures, which produced somatic embryos via an efficient, direct  process (65-94% of responding explants), lec mutants were strongly impaired in  their embryogenic response. Cultures of the mutants formed somatic embryos at a  low frequency, ranging from 0.0 to 3.9%. Moreover, somatic embryos were formed  from callus tissue through an indirect route in the lec mutants. Total repression  of embryogenic potential was observed in double (lec1 lec2, lec1 fus3, lec2 fus3)  and triple (fus3 lec1 lec2) mutants. Additionally, mutants were found to exhibit  efficient shoot regenerability via organogenesis from root explants. These  results provide evidence that, besides their key role in controlling many  different aspects of Arabidopsis zygotic embryogenesis, LEC/FUS genes are also  essential for in vitro somatic embryogenesis induction. Furthermore, temporal and  spatial patterns of auxin distribution during somatic embryogenesis induction  were analyzed using transgenic Arabidopsis plants expressing GUS driven by the  DR5 promoter. Analysis of data indicated auxin accumulation was rapid in all  tissues of the explants of both wild type and the lec2-1 mutant, cultured on  somatic embryogenesis induction medium containing 2,4-D. This observation  suggests that loss of embryogenic potential in the lec2 mutant in vitro is not  related to the distribution of exogenously applied auxin and LEC genes likely  function downstream in auxin-induced somatic embryogenesis.', '2005 Dec', 'Planta', '10.1007/s00425-005-0041-y', 'Lemaux']
+
+lec1: !impairs! somatic embryogenesis
+lec2: !impairs! somatic embryogenesis
+fus3: !impairs! somatic embryogenesis
+lec1 lec2: !represses! embryogenic potential
+lec1 fus3: !represses! embryogenic potential
+lec2 fus3: !represses! embryogenic potential
+fus3 lec1 lec2: !represses! embryogenic potential
+LEC/FUS genes: !essential for! in vitro somatic embryogenesis induction
+DR5 promoter: !expresses GUS in! transgenic Arabidopsis plants
+2,4-D: !applied to! explants of wild type and lec2-1 mutant
+LEC genes: !function downstream in! auxin-induced somatic embryogenesis

@@ -1,0 +1,9 @@
+Phenazine-1-carboxylic acid (PCA) is the primary active component in the newly registered, commercial biopesticide Shenqinmycin and is produced during fermentation by the engineered rhizobacterium strain <i>Pseudomonas</i> PA1201. Both <i>phz1</i> and <i>phz2</i> gene clusters contribute to PCA biosynthesis. In this study, we evaluated the role of OxyR in the regulation of PCA biosynthesis in PA1201. We first showed a functional link between <i>oxyR</i> expression and PCA biosynthesis. Deletion of <i>oxyR</i> and overexpression of <i>oxyR</i> both increase PCA biosynthesis. The molecular mechanisms underlying OxyR regulation of PCA production were investigated using several approaches. OxyR acts divergently in <i>phz1</i> and <i>phz2</i>. Overexpression of <i>oxyR</i> activated the expression of <i>phz1</i> and <i>phz1</i>-dependent PCA production. However, overexpression of <i>oxyR</i> had little effect on <i>phz2</i>-dependent PCA biosynthesis, while deletion of <i>oxyR</i> promoted <i>phz2</i>-dependent PCA production and exerted a negative effect on <i>phz2</i> expression. Further, OxyR directly bound to the <i>phz2</i> promoter region. In addition, the regulation of PCA biosynthesis by OxyR was associated with quorum sensing (QS) systems. Overexpression of OxyR positively regulated <i>pqs</i> QS system. Finally, transcriptomic analysis and subsequent genetic analysis revealed the small RNA <i>phrS</i> plays a key role in OxyR-dependent PCA accumulation. Specifically, OxyR directly binds to the <i>phrS</i> promoter region to positively regulate <i>phrS</i> expression wherein PhrS regulates the PCA positive regulator MvfR in order to control PCA biosynthesis.
+
+OxyR: !activates! phz1 
+OxyR: !represses! phz2 
+OxyR: !binds to! phz2 promoter region 
+OxyR: !regulates! QS systems 
+OxyR: !binds to! phrS promoter region 
+PhrS: !regulates! MvfR 
+MvfR: !controls! PCA biosynthesis

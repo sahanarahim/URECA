@@ -1,0 +1,8 @@
+['16619029', 'A highly conserved eukaryotic protein SGT1 binds specifically to the molecular  chaperone, HSP90. In plants, SGT1 positively regulates disease resistance  conferred by many Resistance (R) proteins and developmental responses to the  phytohormone, auxin. We show that silencing of SGT1 in Nicotiana benthamiana  causes a reduction in steady-state levels of the R protein, Rx. These data  support a role of SGT1 in R protein accumulation, possibly at the level of  complex assembly. In Arabidopsis, two SGT1 proteins, AtSGT1a and AtSGT1b, are  functionally redundant early in development. AtSGT1a and AtSGT1b are induced in  leaves upon infection and either protein can function in resistance once a  certain level is attained, depending on the R protein tested. In unchallenged  tissues, steady-state AtSGT1b levels are at least four times greater than  AtSGT1a. While the respective tetratricopeptide repeat (TPR) domains of SGT1a and  SGT1b control protein accumulation, they are dispensable for intrinsic functions  of SGT1 in resistance and auxin responses.', '2006 May 3', 'EMBO J', '10.1038/sj.emboj.7601084', 'Shirasu']
+
+SGT1: !binds to! HSP90
+SGT1: !regulates! disease resistance
+SGT1: !reduces! Rx levels
+AtSGT1a: !functionally redundant with! AtSGT1b
+AtSGT1b: !four times greater than! AtSGT1a
+TPR domains: !control! SGT1 protein accumulation

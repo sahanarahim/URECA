@@ -1,0 +1,9 @@
+['22372440', 'During post-embryonic shoot development, new meristems are initiated in the axils  of leaves. They produce secondary axes of growth that determine morphological  plasticity and reproductive efficiency in higher plants. In this study, we  describe the role of the bHLH-protein-encoding Arabidopsis gene REGULATOR OF  AXILLARY MERISTEM FORMATION (ROX), which is the ortholog of the branching  regulators LAX PANICLE1 (LAX1) in rice and barren stalk1 (ba1) in maize. rox  mutants display compromised axillary bud formation during vegetative shoot  development, and combination of rox mutants with mutations in RAX1 and LAS, two  key regulators of axillary meristem initiation, enhances their branching defects.  In contrast to lax1 and ba1, flower development is unaffected in rox mutants.  Over-expression of ROX leads to formation of accessory side shoots. ROX mRNA  accumulates at the adaxial boundary of leaf and flower primordia. However, in the  vegetative phase, axillary meristems initiate after ROX expression has  terminated, suggesting an indirect role for ROX in meristem formation. During  vegetative development, ROX expression is dependent on RAX1 and LAS activity, and  all three genes act in concert to modulate axillary meristem formation.', '2012 Jul', 'Plant J', '10.1111/j.1365-313X.2012.04970.x', 'Theres']
+
+ROX: !affects! axillary bud formation 
+RAX1: !interacts with! ROX 
+LAS: !interacts with! ROX 
+ROX: !synthesizes! mRNA 
+ROX: !localizes to! adaxial boundary of leaf and flower primordia 
+RAX1: !enhances! ROX expression 
+LAS: !enhances! ROX expression

@@ -1,0 +1,10 @@
+Heading date (or flowering time) is one of the most important agronomic traits in rice, influencing its regional adaptability and crop yield. Many major-effect genes for rice heading date have been identified, but in practice they are difficult to be used for rice molecular breeding because of their dramatic effects on heading date. Genes with minor effects on heading date, which are more desirable for fine-tuning flowering time without significant yield penalty, were seldom reported. In this study, we identified a new minor-effect heading date repressor, Delayed Heading Date 4 (DHD4). The dhd4 mutant shows a slightly earlier flowering phenotype without a notable yield penalty compared with wild-type plants under natural long-day conditions. DHD4 encodes a CONSTANS-like transcription factor localized in the nucleus. Molecular, biochemical, and genetic assays show that DHD4 can compete with 14-3-3 to interact with OsFD1, thus affecting the formation of the Hd3a-14-3-3-OsFD1 tri-protein FAC complex, resulting in reduced expression of OsMADS14 and OsMADS15, and ultimately delaying flowering. Taken together, these results shed new light on the regulation of flowering time in rice and provide a promising target for fine-tuning flowering time to improve the regional adaptability of rice.
+
+DHD4: !represses! Heading date
+DHD4: !encodes! CONSTANS-like transcription factor
+DHD4: !localizes to! nucleus
+DHD4: !interacts with! OsFD1
+OsFD1: !interacts with! 14-3-3
+14-3-3: !competes with! DHD4
+Hd3a: !forms! FAC complex
+OsMADS14: !reduces expression of! DHD4

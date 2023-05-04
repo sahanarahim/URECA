@@ -1,0 +1,15 @@
+Maize seeds synthesize insufficient levels of the essential amino acid methionine (Met) to support animal and livestock growth. <i>Serine acetyltransferase1</i> (<i>SAT1</i>) and <i>3'-phosphoadenosine-5'-phosphosulfate reductase</i> (<i>PAPR</i>) are key control points for sulfur assimilation into Cys and Met biosynthesis. Two high-MET maize lines <i>pRbcS:AtSAT1</i> and <i>pRbcS:EcPAPR</i> were obtained through metabolic engineering recently, and their total Met was increased by 1.4- and 1.57-fold, respectively, compared to the wild type. The highest Met maize line, <i>pRbcS:AtSAT1-pRbcS:EcPAPR</i>, was created by stacking the two transgenes, causing total Met to increase 2.24-fold. However, the <i>pRbcS:AtSAT1-pRbcS:EcPAPR</i> plants displayed progressively severe defects in plant growth, including early senescence, stunting, and dwarfing, indicating that excessive sulfur assimilation has an adverse effect on plant development. To explore the mechanism of correlation between Met biosynthesis in maize leaves and storage proteins in developing endosperm, the transcriptomes of the sixth leaf at stage V9 and 18 DAP endosperm of <i>pRbcS:AtSAT1</i>, <i>pRbcS:AtSAT1-pRbcS:EcPAPR</i>, and the null segregants were quantified and analyzed. In <i>pRbcS:AtSAT1-pRbcS:EcPAPR</i>, 3274 genes in leaves (1505 up- and 1769 downregulated) and 679 genes in the endosperm (327 up- and 352 downregulated) were differentially expressed. Gene ontology (GO) and KEGG (Kyoto encyclopedia of genes and genomes) analyses revealed that many genes were associated with Met homeostasis, including transcription factors and genes involved in cysteine and Met metabolism, glutathione metabolism, plant hormone signal transduction, and oxidation-reduction. The data from gene network analysis demonstrated that two genes, serine/threonine-protein kinase (CCR3) and heat shock 70 kDa protein (HSP), were localized in the core of the leaves and endosperm regulation networks, respectively. The results of this study provide insights into the diverse mechanisms that underlie the ideal establishment of enhanced Met levels in maize seeds.
+
+SAT1: !synthesizes! Met 
+PAPR: !synthesizes! Met 
+pRbcS:AtSAT1: !enhances! Met 
+pRbcS:EcPAPR: !enhances! Met 
+pRbcS:AtSAT1-pRbcS:EcPAPR: !enhances! Met 
+Met biosynthesis: !affects! plant growth 
+Met homeostasis: !involves! transcription factors 
+Met homeostasis: !involves! genes involved in cysteine and Met metabolism 
+Met homeostasis: !involves! glutathione metabolism 
+Met homeostasis: !involves! plant hormone signal transduction 
+Met homeostasis: !involves! oxidation-reduction 
+CCR3: !localizes to! leaves regulation network 
+HSP: !localizes to! endosperm regulation network

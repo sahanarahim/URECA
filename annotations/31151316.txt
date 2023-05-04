@@ -1,0 +1,11 @@
+The NAC (for NAM, ATAF1,2, and CUC2) proteins family are plant-specific transcription factors, which play important roles in leaf development and response to environmental stresses. In this study, an NAC gene, <i>DRL1</i>, isolated from grapevine <i>Vitis vinifera</i> L. "Yatomi Rose", was shown to be involved in leaf senescence. The quantity of <i>DRL1</i> transcripts decreased with advancing leaf senescence in grapevine. Overexpressing the <i>DRL1</i> gene in tobacco plants significantly delayed leaf senescence with respect to chlorophyll concentration, potential quantum efficiency of photosystem II (Fv/Fm), and ion leakage. Moreover, exogenous abscisic acid (ABA) markedly reduced the expression of <i>DRL1</i>, and the ABA and salicylic acid (SA) concentration was lower in the <i>DRL1</i>-overexpressing transgenic plants than in the wild-type plants. The <i>DRL1</i> transgenic plants exhibited reduced sensitivity to ABA-induced senescence but no significant change in the sensitivity to jasmonic acid-, SA- or ethylene-induced senescence. Transcriptomic analysis and RNA expression studies also indicated that the transcript abundance of genes associated with ABA biosynthesis and regulation, including 9-<i>cis</i>-epoxycarotenoid dioxygenase (<i>NCED1</i>), <i>NCED5</i>, zeaxanthin epoxidase1 (<i>ZEP1</i>), ABA DEFICIENT2 (<i>ABA2</i>), <i>ABA4</i>, and ABA INSENSITIVE 2 (<i>ABI2</i>), was markedly reduced in the <i>DRL1</i>-overexpressing plants. These results suggested that <i>DRL1</i> plays a role as a negative regulator of leaf senescence by regulating ABA synthesis.
+
+DRL1: !regulates! ABA synthesis
+DRL1: !delays! leaf senescence
+ABA: !reduces! DRL1 expression
+NCED1: !regulated by! DRL1
+NCED5: !regulated by! DRL1
+ZEP1: !regulated by! DRL1
+ABA2: !regulated by! DRL1
+ABA4: !regulated by! DRL1
+ABI2: !regulated by! DRL1

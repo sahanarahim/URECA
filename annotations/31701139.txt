@@ -1,0 +1,8 @@
+As one of the most important events during the life cycle of flowering plants, the floral transition is of crucial importance for plant propagation and requires the precise coordination of multiple endogenous and external signals. There have been at least four flowering pathways (i.e. photoperiod, vernalization, gibberellin, and autonomous) identified in Arabidopsis. We previously reported that two Arabidopsis RNA-binding proteins, KHZ1 and KHZ2, redundantly promote flowering. However, the underlying mechanism was unclear. Here, we found that the double mutant khz1 khz2 flowered late under both long-day and short-day conditions, but responded to vernalization and gibberellin treatments. The late-flowering phenotype was almost completely rescued by mutating FLOWERING LOCUS C (FLC) and fully rescued by overexpressing FLOWERING LOCUS T (FT). Additional experiments demonstrated that the KHZs could form homodimers or interact to form heterodimers, localized to nuclear dots, and repressed the splicing efficiency of FLC pre-mRNA. Together, these data indicate that the KHZs could promote flowering via the autonomous pathway by repressing the splicing efficiency of FLC pre-mRNA.
+
+KHZ1: !interacts with! KHZ2
+KHZs: !localizes to! nuclear dots
+KHZs: !represses! FLC pre-mRNA splicing efficiency
+KHZs: !promotes! flowering
+FLC: !mutated by! KHZs
+FT: !overexpressed by! KHZs

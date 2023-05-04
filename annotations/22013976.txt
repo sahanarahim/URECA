@@ -1,0 +1,10 @@
+Plants develop important regulatory networks to adapt to the frequently-changing availability of copper (Cu). However, little is known about miRNA-associated Cu-regulatory networks in plant species other than Arabidopsis. Here, we report that Cu-responsive miRNAs in Populus trichocarpa (Torr. & Gray) include not only conserved miR397, miR398 and miR408, but also Populus-specific miR1444, suggesting the conservation and diversity of Cu-responsive miRNAs in plants. Copper-associated suppression of mature miRNAs is in company with the up-regulation of their target genes encoding Cu-containing proteins in Populus. The targets include miR397-targeted PtLAC5, PtLAC6 and PtLAC110a, miR398-targeted PtCSD1, PtCSD2a and PtCSD2b, miR408-targeted PtPCL1, PtPCL2, PtPCL3 and PtLAC4, and miR1444-targeted PtPPO3 and PtPPO6. Consistently, P. trichocarpa miR408 promoter-directed GUS gene expression is down-regulated by Cu in transgenic tobacco plants. Cu-response elements (CuREs) are found in the promoters of Cu-responsive miRNA genes. We identified 34 SQUAMOSA-promoter binding protein-like (SPL) genes, of which 17 are full-length PtSPL proteins or partial sequences with at least 300 amino acids. Phylogenetic analysis indicates that PtSPL3 and PtSPL4 are CuRE-binding proteins controlling Cu-responsive gene expression. Cu appears to be not involved in the regulation of these transcription factors because neither PtSPL3 nor PtSPL4 is Cu-regulated and no CuRE exists in their promoters.
+
+miR397: !targets! PtLAC5, PtLAC6, PtLAC110a
+miR398: !targets! PtCSD1, PtCSD2a, PtCSD2b
+miR408: !targets! PtPCL1, PtPCL2, PtPCL3, PtLAC4
+miR1444: !targets! PtPPO3, PtPPO6
+Cu: !suppresses! mature miRNAs
+Cu: !up-regulates! target genes
+CuREs: !bind! SPL proteins
+SPL proteins: !control! Cu-responsive gene expression

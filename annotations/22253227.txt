@@ -1,0 +1,10 @@
+Atg8 is a central protein in bulk starvation-induced autophagy, but it is also specifically associated with multiple protein targets under various physiological conditions to regulate their selective turnover by the autophagy machinery. Here, we describe two new closely related Arabidopsis thaliana Atg8-interacting proteins (ATI1 and ATI2) that are unique to plants. We show that under favorable growth conditions, ATI1 and ATI2 are partially associated with the endoplasmic reticulum (ER) membrane network, whereas upon exposure to carbon starvation, they become mainly associated with newly identified spherical compartments that dynamically move along the ER network. These compartments are morphologically distinct from previously reported spindle-shaped ER bodies and, in contrast to them, do not contain ER-lumenal markers possessing a C-terminal HDEL sequence. Organelle and autophagosome-specific markers show that the bodies containing ATI1 are distinct from Golgi, mitochondria, peroxisomes, and classical autophagosomes. The final destination of the ATI1 bodies is the central vacuole, indicating that they may operate in selective turnover of specific proteins. ATI1 and ATI2 gene expression is elevated during late seed maturation and desiccation. We further demonstrate that ATI1 overexpression or suppression of both ATI1 and ATI2, respectively, stimulate or inhibit seed germination in the presence of the germination-inhibiting hormone abscisic acid.
+
+Atg8: !interacts with! ATI1 & ATI2
+ATI1 & ATI2: !localize to! ER membrane network
+ATI1 & ATI2: !move along! ER network
+ATI1 bodies: !distinct from! Golgi, mitochondria, peroxisomes, classical autophagosomes
+ATI1 bodies: !destination is! central vacuole
+ATI1 & ATI2: !elevated during! late seed maturation & desiccation
+ATI1: !overexpression stimulates! seed germination
+ATI1 & ATI2: !suppression inhibits! seed germination

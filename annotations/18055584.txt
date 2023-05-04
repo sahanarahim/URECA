@@ -1,0 +1,11 @@
+Plants can acclimate rapidly to environmental conditions, including high temperatures. To identify molecular events important for acquired thermotolerance, we compared viability and transcript profiles of Arabidopsis thaliana treated to severe heat stress (45 degrees C) without acclimation or following two different acclimation treatments. Notably, a gradual increase to 45 degrees C (22 degrees C to 45 degrees C over 6 h) led to higher survival and to more and higher-fold transcript changes than a step-wise acclimation (90 min at 38 degrees C plus 120 min at 22 degrees C before 45 degrees C). There were significant differences in the total spectrum of transcript changes in the two treatments, but core components of heat acclimation were apparent in the overlap between treatments, emphasizing the importance of performing transcriptome analysis in the context of physiological response. In addition to documenting increases in transcripts of specific genes involved in processes predicted to be required for thermotolerance (i.e. protection of proteins and of translation, limiting oxidative stress), we also found decreases in transcripts (i.e. for programmed cell death, basic metabolism, and biotic stress responses), which are likely equally important for acclimation. Similar protective effects may also be achieved differently, such as prevention of proline accumulation, which is toxic at elevated temperatures and which was reduced by both acclimation treatments but was associated with transcript changes predicted to either reduce proline synthesis or increase degradation in the two acclimation treatments. Finally, phenotypic analysis of T-DNA insertion mutants of genes identified in this analysis defined eight new genes involved in heat acclimation, including cytosolic ascorbate peroxidase and the transcription factors HsfA7a (heat shock transcription factor A7a) and NF-X1.
+
+Gene: !affects! Process 
+Gene: !enhances! Thermotolerance 
+Gene: !represses! Programmed Cell Death 
+Gene: !represses! Basic Metabolism 
+Gene: !represses! Biotic Stress Responses 
+Gene: !reduces! Proline Accumulation 
+Gene: !synthesizes! Ascorbate Peroxidase 
+Gene: !regulates! Heat Shock Transcription Factor A7a 
+Gene: !regulates! NF-X1

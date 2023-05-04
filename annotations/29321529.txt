@@ -1,0 +1,8 @@
+Species interaction networks are traditionally explored as discrete entities with well-defined spatial borders, an oversimplification likely impairing their applicability. Using a multilayer network approach, explicitly accounting for inter-habitat connectivity, we investigate the spatial structure of seed-dispersal networks across the Gorongosa National Park, Mozambique. We show that the overall seed-dispersal network is composed by spatially explicit communities of dispersers spanning across habitats, functionally linking the landscape mosaic. Inter-habitat connectivity determines spatial structure, which cannot be accurately described with standard monolayer approaches either splitting or merging habitats. Multilayer modularity cannot be predicted by null models randomizing either interactions within each habitat or those linking habitats; however, as habitat connectivity increases, random processes become more important for overall structure. The importance of dispersers for the overall network structure is captured by multilayer versatility but not by standard metrics. Highly versatile species disperse many plant species across multiple habitats, being critical to landscape functional cohesion.
+
+Habitat: !determines! Seed-dispersal network
+Interactions: !link! Habitats
+Dispersers: !connect! Landscape mosaic
+Null models: !predict! Multilayer modularity
+Habitat connectivity: !increases! Random processes
+Highly versatile species: !disperse! Plant species

@@ -1,0 +1,7 @@
+The Pseudomonas syringae type III effector HopU1 is a mono-ADP-ribosyltransferase that is injected into plant cells by the type III protein secretion system. Inside the plant cell it suppresses immunity by modifying RNA-binding proteins including the glycine-rich RNA-binding protein GRP7. The crystal structure of HopU1 at 2.7-Å resolution reveals two unique protruding loops, L1 and L4, not found in other mono-ADP-ribosyltransferases. Site-directed mutagenesis demonstrates that these loops are essential for substrate recognition and enzymatic activity. HopU1 ADP-ribosylates the conserved arginine 49 of GRP7, and this reduces the ability of GRP7 to bind RNA in vitro. In vivo, expression of GRP7 with Arg-49 replaced with lysine does not complement the reduced immune responses of the Arabidopsis thaliana grp7-1 mutant demonstrating the importance of this residue for GRP7 function. These data provide mechanistic details how HopU1 recognizes this novel type of substrate and highlights the role of GRP7 in plant immunity.
+
+HopU1: !injects into! plant cells 
+HopU1: !modifies! RNA-binding proteins 
+HopU1: !ADP-ribosylates! GRP7 
+GRP7: !binds! RNA 
+GRP7: !reduces! immune responses

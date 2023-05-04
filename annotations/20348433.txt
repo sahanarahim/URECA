@@ -1,0 +1,10 @@
+['20348433', 'Stem cell maintenance and differentiation are tightly regulated in multicellular  organisms. In plants, proper control of the stem cell populations is critical for  extensive postembryonic organogenesis. The Arabidopsis thaliana protein  phosphatase type 2C proteins POLTERGEIST (POL) and PLL1 are essential for  maintenance of both the root and shoot stem cells. Specifically, POL and PLL1 are  required for proper specification of key asymmetric cell divisions during stem  cell initiation and maintenance. POL and PLL1 are known to be integral components  of the CLE/WOX signaling pathways, but the location and mechanisms by which POL  and PLL1 are regulated within these pathways are unclear. Here, we show that POL  and PLL1 are dual-acylated plasma membrane proteins whose membrane localization  is required for proper function. Furthermore, this localization places POL and  PLL1 in proximity of the upstream plasma membrane receptors that regulate their  activity. Additionally, we find that POL and PLL1 directly bind to multiple  lipids and that POL is catalytically activated by phosphatidylinositol (4)  phosphate [PI(4)P] in vitro. Based on these results, we propose that the upstream  receptors in the CLE/WOX signaling pathways may function to either limit PI(4)P  availability or antagonize PI(4)P stimulation of POL/PLL1. Significantly, the  findings presented here suggest that phospholipids play an important role in  promoting stem cell specification.', '2010 Mar', 'Plant Cell', '10.1105/tpc.109.068734', 'Clark']
+
+POL: !localizes to! plasma membrane 
+POL: !interacts with! lipids 
+POL: !enhanced by! PI(4)P 
+PLL1: !localizes to! plasma membrane 
+PLL1: !interacts with! lipids 
+CLE/WOX signaling pathways: !regulate! POL/PLL1 
+upstream receptors: !limit! PI(4)P availability 
+upstream receptors: !antagonize! PI(4)P stimulation of POL/PLL1

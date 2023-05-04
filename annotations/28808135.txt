@@ -1,0 +1,9 @@
+The conserved eukaryotic translation initiation factor 5B, eIF5B, is a GTPase that acts late in translation initiation. We found that an <i>Arabidopsis thaliana</i> mutant sensitive to <i>hot</i> temperatures 3 (<i>hot3-1</i>), which behaves as the wild type in the absence of stress but is unable to acclimate to high temperature, carries a missense mutation in the <i>eIF5B1</i> gene (At1g76810), producing a temperature sensitive protein. A more severe, T-DNA insertion allele (<i>hot3-2</i>) causes pleiotropic developmental phenotypes. Surprisingly, Arabidopsis has three other <i>eIF5B</i> genes that do not substitute for <i>eIF5B1</i>; two of these appear to be in the process of pseudogenization. Polysome profiling and RNA-seq analysis of <i>hot3-1</i> plants show delayed recovery of polysomes after heat stress and reduced translational efficiency (TE) of a subset of stress protective proteins, demonstrating the critical role of translational control early in heat acclimation. Plants carrying the severe <i>hot3-2</i> allele show decreased TE of auxin-regulated, ribosome-related, and electron transport genes, even under optimal growth conditions. The <i>hot3-2</i> data suggest that disrupting specific eIF5B interactions on the ribosome can, directly or indirectly, differentially affect translation. Thus, modulating eIF5B interactions could be another mechanism of gene-specific translational control.
+
+eIF5B1: !affects! Translation Initiation
+hot3-1: !carries! Missense Mutation
+hot3-2: !causes! Pleiotropic Developmental Phenotypes
+eIF5B1: !substitutes for! Other eIF5B Genes
+Polysome Profiling: !shows! Delayed Recovery of Polysomes
+RNA-seq Analysis: !reveals! Reduced Translational Efficiency
+hot3-2: !disrupts! Specific eIF5B Interactions

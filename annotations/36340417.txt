@@ -1,0 +1,11 @@
+An improved lightweight network (Improved YOLOv5s) was proposed based on YOLOv5s in this study to realise all-weather detection of dragon fruit in a complex orchard environment. A ghost module was introduced in the original YOLOv5s to realise the lightweight of the model. The coordinate attention mechanism was joined to make the model accurately locate and identify the dense dragon fruits. A bidirectional feature pyramid network was built to improve the detection effect of dragon fruit at different scales. SIoU loss function was adopted to improve the convergence speed during model training. The improved YOLOv5s model was used to detect a dragon fruit dataset collected in the natural environment. Results showed that the mean average precision (<i>mAP</i>), precision (<i>P</i>) and recall (<i>R</i>) of the model was 97.4%, 96.4% and 95.2%, respectively. The model size, parameters (Params) and floating-point operations (FLOPs) were 11.5 MB, 5.2 M and 11.4 G, respectively. Compared with the original YOLOv5s network, the model size, Params and FLOPs of the improved model was reduced by 20.6%, 18.75% and 27.8%, respectively. Meanwhile, the <i>mAP</i> of the improved model was improved by 1.1%. The results prove that the improved model had a more lightweight structure and better detection performance. Moreover, the average precision (<i>AP</i>) of the improved YOLOv5s for dragon fruit under the front light, back light, side light, cloudy day and night was 99.5%, 97.3%, 98.5%, 95.5% and 96.1%, respectively. The detection performance met the requirements of all-weather detection of dragon fruit and the improved model had good robustness. This study provides a theoretical basis and technical support for fruit monitoring based on unmanned aerial vehicle technology and intelligent picking based on picking robot technology.
+
+YOLOv5s: !improved by! Improved YOLOv5s
+Improved YOLOv5s: !introduced! Ghost Module
+Improved YOLOv5s: !joined! Coordinate Attention Mechanism
+Improved YOLOv5s: !built! Bidirectional Feature Pyramid Network
+Improved YOLOv5s: !adopted! SIoU Loss Function
+Improved YOLOv5s: !reduced! Model Size, Params, FLOPs
+Improved YOLOv5s: !improved! mAP
+Improved YOLOv5s: !met! All-Weather Detection Requirements
+Improved YOLOv5s: !provided! Technical Support

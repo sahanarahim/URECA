@@ -1,0 +1,8 @@
+How complex developmental-genetic networks are translated into organs with specific 3D shapes remains an open question. This question is particularly challenging because the elaboration of specific shapes is in essence a question of mechanics. In plants, this means how the genetic circuitry affects the cell wall. The mechanical properties of the wall and their spatial variation are the key factors controlling morphogenesis in plants. However, these properties are difficult to measure and investigating their relation to genetic regulation is particularly challenging. To measure spatial variation of mechanical properties, one must determine the deformation of a tissue in response to a known force with cellular resolution. Here, we present an automated confocal micro-extensometer (ACME), which greatly expands the scope of existing methods for measuring mechanical properties. Unlike classical extensometers, ACME is mounted on a confocal microscope and uses confocal images to compute the deformation of the tissue directly from biological markers, thus providing 3D cellular scale information and improved accuracy. Additionally, ACME is suitable for measuring the mechanical responses in live tissue. As a proof of concept, we demonstrate that the plant hormone gibberellic acid induces a spatial gradient in mechanical properties along the length of the <i>Arabidopsis thaliana</i> hypocotyl.
+
+Gene: !affects! Cell wall
+Gene: !localizes to! Hypocotyl
+Gene: !interacts with! Plant hormone
+Gene: !enhances! Mechanical properties
+Gene: !represses! Deformation
+Gene: !synthesizes! Gibberellic acid

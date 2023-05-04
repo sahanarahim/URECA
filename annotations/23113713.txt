@@ -1,0 +1,7 @@
+Plant cell wall-degrading enzymes (PCWDE) are key virulence determinants in the pathogenesis of the potato pathogen Pectobacterium atrosepticum. In this study, we report the impact on virulence of a transposon insertion mutation in the metJ gene that codes for the repressor of the methionine biosynthesis regulon. In a mutant strain defective for the small regulatory RNA rsmB, PCWDE are not produced and virulence in potato tubers is almost totally abolished. However, when the metJ gene is disrupted in this background, the rsmB(-) phenotype is suppressed and virulence and PCWDE production are restored. Additionally, when metJ is disrupted, production of the quorum-sensing signal, N-(3-oxohexanoyl)-homoserine lactone, is increased. The metJ mutant strains showed pleiotropic transcriptional impacts affecting approximately a quarter of the genome. Genes involved in methionine biosynthesis were most highly upregulated but many virulence-associated transcripts were also upregulated. This is the first report of the impact of the MetJ repressor on virulence in bacteria.
+
+metJ: !represses! rsmB
+metJ: !suppresses! rsmB(-) phenotype
+metJ: !increases! N-(3-oxohexanoyl)-homoserine lactone production
+metJ: !upregulates! methionine biosynthesis genes
+metJ: !upregulates! virulence-associated transcripts

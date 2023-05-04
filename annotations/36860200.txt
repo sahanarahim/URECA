@@ -1,0 +1,7 @@
+The endoplasmic reticulum (ER) is the entry point to the secretory pathway and, as such, is critical for adaptive responses to biotic stress, when the demand for de novo synthesis of immunity-related proteins and signalling components increases significantly. Successful phytopathogens have evolved an arsenal of small effector proteins which collectively reconfigure multiple host components and signalling pathways to promote virulence; a small, but important, subset of which are targeted to the endomembrane system including the ER. We identified and validated a conserved C-terminal tail-anchor motif in a set of pathogen effectors known to localize to the ER from the oomycetes Hyaloperonospora arabidopsidis and Plasmopara halstedii (downy mildew of Arabidopsis and sunflower, respectively) and used this protein topology to develop a bioinformatic pipeline to identify putative ER-localised effectors within the effectorome of the related oomycete, Phytophthora infestans, the causal agent of potato late blight. Many of the identified P. infestans tail-anchor effectors converged on ER-localised NAC transcription factors, suggesting this family is a critical host target for multiple pathogens.
+
+ER: !receives! pathogen effectors 
+pathogen effectors: !contain! C-terminal tail-anchor motif 
+Hyaloperonospora arabidopsidis/Plasmopara halstedii: !used to develop! bioinformatic pipeline 
+Phytophthora infestans: !targeted by! bioinformatic pipeline 
+P. infestans tail-anchor effectors: !converge on! ER-localised NAC transcription factors

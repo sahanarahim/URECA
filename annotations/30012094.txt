@@ -1,0 +1,9 @@
+SEVEN IN ABSENTIA (SINA) is a RING domain-containing ubiquitin ligase involved in Drosophila eye formation. SINA-like proteins in plants are involved in several signaling pathways. Of the 18 SINA-like proteins identified in Arabidopsis, SEVEN IN ABSENTIA 2 (SINA2) lacks a canonical RING domain and is thought to lack ubiquitin ligase activity. Our results show that SINA2 has E3 ligase activity in vitro, raising the possibility that a modified B-box domain may compensate for its lack of a RING domain. SINA2 physically interacts with the nuclear protein CYCLIN-DEPENDENT KINASE G1 (CDKG1), which acts as a positive regulator of plant responses to abiotic stress. CDKG1 is expressed in multiple tissues and its expression increased in response to abscisic acid (ABA) and osmotic stress. Transgenic Arabidopsis plants that ectopically express CDKG1 exhibit increased tolerance to ABA and osmotic stress treatments during seed germination and cotyledon development, while the loss-of-function cdkg1 mutant plants show reduced tolerance to ABA and osmotic stress treatments. Moreover, CDKG1-dependent phosphorylation of SINA2 positively affects its E3 ubiquitin ligase activity. Based on these results, we propose that CDKG1 modulates SINA2 ubiquitin ligase activity to regulate its effect on plant responses to ABA and osmotic stress.
+
+SINA: !interacts with! CDKG1
+CDKG1: !expresses in! multiple tissues
+CDKG1: !increases expression in response to! ABA and osmotic stress
+CDKG1: !positively affects! SINA2 ubiquitin ligase activity
+SINA2: !has E3 ligase activity! in vitro
+Transgenic Arabidopsis plants: !ectopically express! CDKG1
+cdkg1 mutant plants: !show reduced tolerance to! ABA and osmotic stress treatments

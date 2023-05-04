@@ -1,0 +1,9 @@
+Calcium plays a key role in determining the specificity of a vast array of signalling pathways in plants. Cellular calcium elevations with different characteristics (calcium signatures) carry information on the identity of the primary stimulus, ensuring appropriate downstream responses. However, the mechanism for decoding calcium signatures is unknown. To determine this, decoding of the salicylic acid (SA)-mediated plant immunity signalling network controlling gene expression was examined. A dynamic mathematical model of the SA-mediated plant immunity network was developed. This model was used to predict responses to different calcium signatures; these were validated empirically using quantitative real-time PCR to measure gene expression. The mechanism for decoding calcium signatures to control expression of plant immunity genes enhanced disease susceptibility 1 (EDS1) and isochorismate synthase 1 (ICS1) was identified. Calcium, calmodulin, calmodulin-binding transcription activators (CAMTA)3 and calmodulin binding protein 60g (CBP60g) together amplify each calcium signature into three active signals, simultaneously regulating expression. The time required for calcium to return to steady-state level also quantitatively regulates gene expression. Decoding of calcium signatures occurs via nonlinear interactions between these active signals, producing a unique response in each case. Key properties of the calcium signatures are not intuitive, exemplifying the importance of mathematical modelling approaches. This approach can be applied to identifying the decoding mechanisms of other plant calcium signalling pathways.
+
+Calcium: !determines! Signalling pathways
+Calcium: !amplifies! CAMTA3, CBP60g
+Calcium: !regulates! Gene expression
+CAMTA3, CBP60g: !amplify! Calcium signature
+CAMTA3, CBP60g: !simultaneously regulate! Expression
+Calcium: !decodes! SA-mediated plant immunity network
+Nonlinear interactions: !produce! Unique response

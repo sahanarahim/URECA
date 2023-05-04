@@ -1,0 +1,11 @@
+In Pseudomonas fluorescens CHA0 and other fluorescent pseudomonads, the Gac/Rsm signal transduction pathway is instrumental for secondary metabolism and biocontrol of root pathogens via the expression of regulatory small RNAs (sRNAs). Furthermore, in strain CHA0, an imbalance in the Krebs cycle can affect the strain's ability to produce extracellular secondary metabolites, including biocontrol factors. Here, we report the metabolome of wild-type CHA0, a gacA-negative mutant, which has lost Gac/Rsm activities, and a retS-negative mutant, which shows strongly enhanced Gac/Rsm-dependent activities. Capillary electrophoresis-based metabolomic profiling revealed that the gacA and retS mutations had opposite effects on the intracellular levels of a number of central metabolites, suggesting that the Gac/Rsm pathway regulates not only secondary metabolism but also primary metabolism in strain CHA0. Among the regulated metabolites identified, the alarmone guanosine tetraphosphate (ppGpp) was characterized in detail by the construction of relA (for ppGpp synthase) and spoT (for ppGpp synthase/hydrolase) deletion mutants. In a relA spoT double mutant, ppGpp synthesis was completely abolished, the expression of Rsm sRNAs was attenuated, and physiological functions such as antibiotic production, root colonization, and plant protection were markedly diminished. Thus, ppGpp appears to be essential for sustaining epiphytic fitness and biocontrol activity of strain CHA0.
+
+Gac/Rsm: !regulates! Secondary Metabolism
+Gac/Rsm: !regulates! Primary Metabolism
+gacA: !affects! Intracellular Levels of Metabolites
+retS: !opposite effect on! Intracellular Levels of Metabolites
+ppGpp: !synthesizes! RelA 
+ppGpp: !synthesizes/hydrolases! SpoT
+relA spoT: !abolishes! ppGpp Synthesis
+relA spoT: !attenuates! Rsm sRNA Expression
+relA spoT: !diminishes! Physiological Functions

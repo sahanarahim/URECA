@@ -1,0 +1,13 @@
+Plant cytosolic lipid droplets (LDs) are covered with a layer of phospholipids and oleosin and were extensively studied before those in mammals and yeast. Oleosin has short amphipathic N- and C-terminal peptides flanking a conserved 72-residue hydrophobic hairpin, which penetrates and stabilizes the LD Oleosin is synthesized on endoplasmic reticulum (ER) and extracts ER-budding LDs to cytosol. To delineate the mechanism of oleosin targeting ER-LD, we have expressed modified-oleosin genes in <i>Physcomitrella patens</i> for transient expression and tobacco (<i>Nicotiana tabacum</i>) BY2 cells for stable transformation. The results have identified oleosin motifs for targeting ER-LD and oleosin as the sole molecule responsible for budding-LD entering cytosol. Both the N-terminal and C-terminal peptides are not required for the targeting. The hairpin, including its entire length, initial N-portion residues, and hairpin-loop of three Pro and one Ser residues, as well as the absence of an N-terminal ER-targeting peptide, are necessary for oleosin targeting ER and moving onto budding LDs and extracting them to cytosol. In a reverse approach, eliminations of these necessities allow the modified oleosin to enter the ER lumen and extract budding LDs to the ER lumen. Modified oleosin with an added vacuole signal peptide transports the ER-luminal LDs to vacuoles. The overall findings define the mechanism of oleosin targeting ER-LDs and extracting budding LDs to the cytosol as well as reveal potential applications.
+
+oleosin: !synthesizes! ER-budding LDs 
+oleosin: !targets! ER-LDs 
+oleosin: !extracts! budding LDs to cytosol 
+N-terminal peptides: !not required for! targeting 
+C-terminal peptides: !not required for! targeting 
+hairpin: !necessary for! targeting ER 
+N-portion residues: !necessary for! targeting ER 
+hairpin loop: !necessary for! targeting ER 
+ER-targeting peptide: !absence of! necessary for targeting ER 
+modified oleosin: !enters! ER lumen 
+modified oleosin: !extracts! ER-luminal LDs to vacuoles

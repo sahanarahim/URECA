@@ -1,0 +1,13 @@
+Amylopectin is a highly branched, organized cluster of glucose polymers, and the major component of rice starch. Synthesis of amylopectin requires fine co-ordination between elongation of glucose polymers by soluble starch synthases (SSs), generation of branches by branching enzymes (BEs), and removal of misplaced branches by debranching enzymes (DBEs). Among the various isozymes having a role in amylopectin biosynthesis, limited numbers of SS and BE isozymes have been demonstrated to interact via protein-protein interactions in maize and wheat amyloplasts. This study investigated whether protein-protein interactions are also found in rice endosperm, as well as exploring differences between species. Gel permeation chromatography of developing rice endosperm extracts revealed that all 10 starch biosynthetic enzymes analysed were present at larger molecular weights than their respective monomeric sizes. SSIIa, SSIIIa, SSIVb, BEI, BEIIb, and PUL co-eluted at mass sizes >700kDa, and SSI, SSIIa, BEIIb, ISA1, PUL, and Pho1 co-eluted at 200-400kDa. Zymogram analyses showed that SSI, SSIIIa, BEI, BEIIa, BEIIb, ISA1, PUL, and Pho1 eluted in high molecular weight fractions were active. Comprehensive co-immunoprecipitation analyses revealed associations of SSs-BEs, and, among BE isozymes, BEIIa-Pho1, and pullulanase-type DBE-BEI interactions. Blue-native-PAGE zymogram analyses confirmed the glucan-synthesizing activity of protein complexes. These results suggest that some rice starch biosynthetic isozymes are physically associated with each other and form active protein complexes. Detailed analyses of these complexes will shed light on the mechanisms controlling the unique branch and cluster structure of amylopectin, and the physicochemical properties of starch.
+
+SSIIa: !interacts with! BEI
+SSIIIa: !interacts with! BEI
+SSIVb: !interacts with! BEI
+BEI: !interacts with! SSIIa
+BEI: !interacts with! SSIIIa
+BEI: !interacts with! SSIVb
+BEIIa: !interacts with! Pho1
+PUL: !interacts with! BEI
+DBE: !interacts with! BEI
+ISA1: !interacts with! BEIIb
+Pho1: !interacts with! BEIIa

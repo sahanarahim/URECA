@@ -1,0 +1,10 @@
+In Arabidopsis thaliana, LESION SIMULATING DISEASE 1 (LSD1), ENHANCED DISEASE SUSCEPTIBILITY 1 (EDS1) and PHYTOALEXIN DEFICIENT 4 (PAD4) proteins are regulators of cell death (CD) in response to abiotic and biotic stresses. Hormones, such as salicylic acid (SA), and reactive oxygen species, such as hydrogen peroxide (H<sub>2</sub> O<sub>2</sub> ), are key signaling molecules involved in plant CD. The proposed mathematical models presented in this study suggest that LSD1, EDS1 and PAD4 together with SA and H<sub>2</sub> O<sub>2</sub> are involved in the control of plant water use efficiency (WUE), vegetative growth and generative development. The analysis of Arabidopsis wild-type and single mutants lsd1, eds1, and pad4, as well as double mutants eds1/lsd1 and pad4/lsd1, demonstrated the strong conditional correlation between SA/H<sub>2</sub> O<sub>2</sub> and WUE that is dependent on LSD1, EDS1 and PAD4 proteins. Moreover, we found a strong correlation between the SA/H<sub>2</sub> O<sub>2</sub> homeostasis of 4-week-old Arabidopsis leaves and a total seed yield of 9-week-old plants. Altogether, our results prove that SA and H<sub>2</sub> O<sub>2</sub> are conditionally regulated by LSD1/EDS/PAD4 to govern WUE, biomass accumulation and seed yield. Conditional correlation and the proposed models presented in this study can be used as the starting points in the creation of a plant breeding algorithm that would allow to estimate the seed yield at the initial stage of plant growth, based on WUE, SA and H<sub>2</sub> O<sub>2</sub> content.
+
+LSD1: !regulates! CD
+EDS1: !regulates! CD
+PAD4: !regulates! CD
+SA: !regulated by! LSD1/EDS/PAD4
+H<sub>2</sub> O<sub>2</sub>: !regulated by! LSD1/EDS/PAD4
+LSD1/EDS/PAD4: !governs! WUE
+LSD1/EDS/PAD4: !governs! biomass accumulation
+LSD1/EDS/PAD4: !governs! seed yield

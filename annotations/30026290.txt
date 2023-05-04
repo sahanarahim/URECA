@@ -1,0 +1,18 @@
+PHOSPHATE STARVATION RESPONSE1 (PHR1) is a key regulatory component of the response to phosphate (Pi) starvation. However, the regulation of <i>PHR1</i> in this response remains poorly understood. Here, we report that <i>PHR1</i> is a target of the transcription factors AUXIN RESPONSE FACTOR7 (ARF7) and ARF19 and is positively regulated by auxin signaling in Arabidopsis (<i>Arabidopsis thaliana</i>) roots. <i>PHR1</i> expression was induced by exogenous auxin and suppressed by auxin transport inhibitors in Arabidopsis roots. In the <i>PHR1</i> promoter, three auxin-response elements, which are bound directly by ARF7 and ARF19, were shown to be essential for <i>PHR1</i> expression. The <i>arf7</i>, <i>arf19</i>, and <i>arf7 arf19</i> mutants showed down-regulated expression of <i>PHR1</i> and downstream Pi starvation-induced genes in roots; they also exhibited defective Pi uptake in roots and overaccumulation of anthocyanin in shoots. The induction of lateral root formation in response to low Pi and to exogenous auxin was decreased in the <i>phr1</i> mutant, whereas the expression of <i>LATERAL ORGAN BOUNDARIES-DOMAIN16</i> (<i>LBD16</i>) and <i>LBD29</i> was not changed significantly. PHR1 acted independently of LBD16 and LBD29 in the regulation of lateral root formation in response to low Pi. Under low-Pi conditions, lateral root impairment in the <i>arf7 arf19</i> mutant was partially rescued by constitutive expression of <i>PHR1</i>, demonstrating that reduced <i>PHR1</i> expression contributed to the <i>arf7 arf19</i> phenotype. In addition to <i>PHR1</i>, other genes encoding MYB-CC members also were targets of ARF7 and ARF19. Our work thus reveals a mechanism coordinating auxin signaling and the PHR1 regulon in Arabidopsis responses to Pi deficiency.
+
+ARF7: !regulates! PHR1
+ARF19: !regulates! PHR1
+PHR1: !induced by! auxin
+PHR1: !repressed by! auxin transport inhibitors
+ARF7: !binds directly to! PHR1 promoter
+ARF19: !binds directly to! PHR1 promoter
+auxin: !induces! PHR1 expression
+arf7: !down-regulates! PHR1 expression
+arf19: !down-regulates! PHR1 expression
+arf7 arf19: !down-regulates! PHR1 expression
+PHR1: !regulates! lateral root formation
+LBD16: !not affected by! PHR1
+LBD29: !not affected by! PHR1
+arf7 arf19: !partially rescued by! PHR1
+ARF7: !regulates! MYB-CC members
+ARF19: !regulates! MYB-CC members

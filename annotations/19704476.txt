@@ -1,0 +1,10 @@
+Bacterial effectors are double-edged swords that enhance bacterial virulence in susceptible plants while trigger resistance in plants carrying cognate resistance proteins. A well-known example of this is Pseudomonas syringae protein AvrPto that is delivered into plant cells through the type III secretion system. AvrPto inhibits immune responses in Arabidopsis plants but triggers resistance in some tomato plants carrying cognate resistance proteins Pto, a serine/threonine kinase, and Prf, a nucleotide-binding leucine-rich repeat protein. In a recent structural study we showed that AvrPto is an inhibitor of the Pto protein kinase. Because Pto closely resemble the kinase domain of receptor kinases, which include pattern recognition receptors (PRRs) crucial for plants to detect invading pathogens, we tested the possibility that PRRs such as FLS2 and EFR are targeted by AvrPto in susceptible plants. Indeed, AvrPto is capable of binding the FLS2 and EFR kinases to block plant immune responses when expressed in protoplasts. In Arabidopsis plants containing FLS2, the P. syringae strain lacking avrPto is compromised in its ability to multiply. However, the defect of the avrPto-deletion strain was alleviated in fls2 plants, indicating a role of AvrPto in overcoming FLS2-mediated resistance. Interestingly, the FLS2-AvrPto and Pto-AvrPto interactions share significant similarity, raising the tantalizing possibility that Pto has evolved as a molecular decoy of the intended targets of AvrPto.
+
+AvrPto: !inhibits! FLS2 
+AvrPto: !inhibits! EFR 
+AvrPto: !triggers resistance in! tomato plants 
+Pto: !resembles! kinase domain of PRRs 
+Pto: !interacts with! AvrPto 
+Prf: !interacts with! AvrPto 
+FLS2: !enhances! plant immune responses 
+EFR: !enhances! plant immune responses

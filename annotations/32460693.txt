@@ -1,0 +1,11 @@
+Utilization of heterosis has greatly improved the productivity of many crops worldwide. Understanding the potential molecular mechanism about how hybridization produces superior yield in upland cotton is critical for efficient breeding programs. In this study, high, medium, and low hybrids varying in the level of yield heterosis were screened based on field experimentation of different years and locations. Phenotypically, high hybrid produced a mean of 14% more seed cotton yield than its better parent. Whole-genome RNA sequencing of these hybrids and their four inbred parents was performed using different tissues of the squaring stage. Comparative transcriptomic differences in each hybrid parent triad revealed a higher percentage of differentially expressed genes (DEGs) in each tissue. Expression level dominance analysis identified majority of hybrids DEGs were biased towards parent like expressions. An array of DEGs involved in ATP and protein binding, membrane, cell wall, mitochondrion, and protein phosphorylation had more functional annotations in hybrids. Sugar metabolic and plant hormone signal transduction pathways were most enriched in each hybrid. Further, these two pathways had most mapped DEGs on known seed cotton yield QTLs. Integration of transcriptome, QTLs, and gene co-expression network analysis discovered genes Gh_A03G1024, Gh_D08G1440, Gh_A08G2210, Gh_A12G2183, Gh_D07G1312, Gh_D08G1467, Gh_A03G0889, Gh_A08G2199, and Gh_D05G0202 displayed a complex regulatory network of many interconnected genes. qRT-PCR of these DEGs was performed to ensure the accuracy of RNA-Seq data. Through genome-wide comparative transcriptome analysis, the current study identified nine key genes and pathways associated with biological process of yield heterosis in upland cotton. Our results and data resources provide novel insights and will be useful for dissecting the molecular mechanism of yield heterosis in cotton.
+
+Gh_A03G1024: !enhances! Sugar metabolic pathway
+Gh_D08G1440: !enhances! Plant hormone signal transduction pathway
+Gh_A08G2210: !interacts with! Gh_A12G2183
+Gh_A12G2183: !interacts with! Gh_A08G2210
+Gh_D07G1312: !synthesizes! ATP
+Gh_D08G1467: !binds! Protein
+Gh_A03G0889: !localizes to! Cell wall
+Gh_A08G2199: !represses! Mitochondrion
+Gh_D05G0202: !affects! Protein phosphorylation

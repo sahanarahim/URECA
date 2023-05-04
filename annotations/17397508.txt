@@ -1,0 +1,10 @@
+Salicylic acid (SA) is a plant signaling molecule that mediates the induction of defense responses upon attack by a variety of pathogens. Moreover, it antagonizes gene induction by the stress signaling molecule jasmonic acid (JA). Several SA-responsive genes are regulated by basic/leucine zipper-type transcription factors of the TGA family. TGA factors interact with NPR1, a central regulator of many SA-induced defense responses including SA/JA antagonism. In order to identify further regulatory proteins of SA-dependent signaling pathways, a yeast protein interaction screen with tobacco TGA2.2 as bait and an Arabidopsis thaliana cDNA prey library was performed and led to the identification of a member of the glutaredoxin family (GRX480, encoded by At1g28480). Glutaredoxins are candidates for mediating redox regulation of proteins because of their capacity to catalyze disulfide transitions. This agrees with previous findings that the redox state of both TGA1 and NPR1 changes under inducing conditions. Transgenic Arabidopsis plants ectopically expressing GRX480 show near wild-type expression of standard marker genes for SA- and xenobiotic-inducible responses. In contrast, transcription of the JA-dependent defensin gene PDF1.2 was antagonized by transgenic GRX480. This, together with the observation that GRX480 transcription is SA-inducible and requires NPR1, suggests a role of GRX480 in SA/JA cross-talk. Suppression of PDF1.2 by GRX480 depends on the presence of TGA factors, indicating that the GRX480/TGA interaction is effective in planta.
+
+SA: !induces! defense responses
+JA: !induces! gene induction
+TGA: !interacts with! NPR1
+TGA2.2: !interacts with! GRX480
+GRX480: !enhances! SA-inducible responses
+GRX480: !represses! JA-dependent defensin gene
+GRX480: !requires! NPR1
+GRX480/TGA: !interact in planta!

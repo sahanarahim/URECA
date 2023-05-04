@@ -1,0 +1,8 @@
+['17617174', 'The Arabidopsis circadian system regulates the expression of up to 36% of the  nuclear genome, including many genes that encode photosynthetic proteins. The  expression of nuclear-encoded photosynthesis genes is also regulated by signals  from the chloroplasts, a process known as retrograde signaling. We have  identified CHLOROPLAST RNA BINDING (CRB), a putative RNA-binding protein, and  have shown that it is important for the proper functioning of the chloroplast.  crb plants are smaller and paler than wild-type plants, and have altered  chloroplast morphology and photosynthetic performance. Surprisingly, mutations in  CRB also affect the circadian system, altering the expression of both oscillator  and output genes. In order to determine whether the changes in circadian gene  expression are specific to mutations in the CRB gene, or are more generally  caused by the malfunctioning of the chloroplast, we also examined the circadian  system in mutations affecting STN7, GUN1, and GUN5, unrelated nuclear-encoded  chloroplast proteins known to be involved in retrograde signaling. Our results  provide evidence that the functional state of the chloroplast may be an important  factor that affects the circadian system.', '2007 Aug', 'Plant J', '10.1111/j.1365-313X.2007.03160.x', 'Green']
+
+CRB: !affects! chloroplast morphology 
+CRB: !affects! photosynthetic performance 
+CRB: !affects! circadian system 
+STN7: !affects! circadian system 
+GUN1: !affects! circadian system 
+GUN5: !affects! circadian system

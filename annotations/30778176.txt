@@ -1,0 +1,9 @@
+['30778176', 'Global warming has profound effects on plant growth and fitness. Plants have  evolved sophisticated epigenetic machinery to respond quickly to heat, and  exhibit transgenerational memory of the heat-induced release of  post-transcriptional gene silencing (PTGS). However, how thermomemory is  transmitted to progeny and the physiological relevance are elusive. Here we show  that heat-induced HEAT SHOCK TRANSCRIPTION FACTOR A2 (HSFA2) directly activates  the H3K27me3 demethylase RELATIVE OF EARLY FLOWERING 6 (REF6), which in turn  derepresses HSFA2. REF6 and HSFA2 establish a heritable feedback loop, and  activate an E3 ubiquitin ligase, SUPPRESSOR OF GENE SILENCING 3  (SGS3)-INTERACTING PROTEIN 1 (SGIP1). SGIP1-mediated SGS3 degradation leads to  inhibited biosynthesis of trans-acting siRNA (tasiRNA). The REF6-HSFA2 loop and  reduced tasiRNA converge to release HEAT-INDUCED TAS1 TARGET 5 (HTT5), which  drives early flowering but attenuates immunity. Thus, heat induces transmitted  phenotypes via a coordinated epigenetic network involving histone demethylases,  transcription factors, and tasiRNAs, ensuring reproductive success and  transgenerational stress adaptation.', '2019 May', 'Cell Res', '10.1038/s41422-019-0145-8', 'ORCID:']
+
+HSFA2: !activates! REF6
+REF6: !derepresses! HSFA2
+REF6: !activates! SGIP1
+SGIP1: !mediates! SGS3 degradation
+SGS3: !inhibits! tasiRNA biosynthesis
+tasiRNA: !converges to release! HTT5
+HTT5: !drives! early flowering

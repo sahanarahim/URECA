@@ -1,0 +1,9 @@
+Assumptions about the germination ecology of alpine plants are presently based on individual species and local studies. A current challenge is to synthesise, at the global level, the alpine seed ecological spectrum. We performed a meta-analysis of primary data from laboratory experiments conducted across four continents (excluding the tropics) and 661 species, to estimate the influence of six environmental cues on germination proportion, mean germination time and germination synchrony; accounting for seed morphology (mass, embryo : seed ratio) and phylogeny. Most alpine plants show physiological seed dormancy, a strong need for cold stratification, warm-cued germination and positive germination responses to light and alternating temperatures. Species restricted to the alpine belt have a higher preference for warm temperatures and a stronger response to cold stratification than species whose distribution extends also below the treeline. Seed mass, embryo size and phylogeny have strong constraining effects on germination responses to the environment. Globally, overwintering and warm temperatures are key drivers of germination in alpine habitats. The interplay between germination physiology and seed morphological traits further reflects pressures to avoid frost or drought stress. Our results indicate the convergence, at the global level, of the seed germination patterns of alpine species.
+
+environment: !influences! germination proportion
+environment: !influences! mean germination time
+environment: !influences! germination synchrony
+seed morphology: !constrains! germination responses
+phylogeny: !constrains! germination responses
+overwintering: !drives! germination in alpine habitats
+warm temperatures: !drives! germination in alpine habitats

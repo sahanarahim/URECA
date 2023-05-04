@@ -1,0 +1,9 @@
+Following germination in the dark, Arabidopsis (<i>Arabidopsis thaliana</i>) seedlings undergo etiolation and develop apical hooks, closed cotyledons, and rapidly elongating hypocotyls. Upon light perception, the seedlings de-etiolate, which includes the opening of apical hooks and cotyledons. Here, we identify Arabidopsis <i>Small Auxin Up RNA17</i> (<i>SAUR17</i>) as a downstream effector of etiolation, which serves to bring about apical hook formation and closed cotyledons. <i>SAUR17</i> is highly expressed in apical hooks and cotyledons and is repressed by light. The apical organs also express a group of light-inducing <i>SAURs</i>, as represented by <i>SAUR50</i>, which promote hook and cotyledon opening. The development of etiolated or de-etiolated apical structures requires asymmetric differential cell growth. We present evidence that the opposing actions of SAUR17 and SAUR50 on apical development largely result from their antagonistic regulation of Protein Phosphatase 2C D-clade 1 (PP2C-D1), a phosphatase that suppresses cell expansion and promotes apical hook development in the dark. SAUR50 inhibits PP2C-D1, whereas SAUR17 has a higher affinity for PP2C-D1 without inhibiting its activity. PP2C-D1 predominantly associates with SAUR17 in etiolated seedlings, which shields it from inhibitory SAURs such as SAUR50. Light signals turn off <i>SAUR17</i> and upregulate a subgroup of <i>SAURs</i> including <i>SAUR50</i> at the inner side of the hook and cotyledon cells, leading to cell expansion and unfolding of the hook and cotyledons.
+
+SAUR17: !represses! PP2C-D1
+SAUR50: !inhibits! PP2C-D1
+Light: !turns off! SAUR17
+Light: !upregulates! SAUR50
+SAUR17: !shields! PP2C-D1
+PP2C-D1: !suppresses! Cell Expansion
+SAUR50: !promotes! Hook & Cotyledon Opening

@@ -1,0 +1,11 @@
+Cryptochromes (CRYs) are blue light photoreceptors that mediate a variety of light responses in plants and animals, including photomorphogenesis, flowering, and circadian rhythms. The signaling mechanism by which <i>Arabidopsis thaliana</i> cryptochromes CRY1 and CRY2 promote photomorphogenesis involves direct interactions with COP1, a RING motif-containing E3 ubiquitin ligase, and its enhancer SPA1. Brassinosteroid (BR) is a key phytohormone involved in the repression of photomorphogenesis, and here, we show that the signaling mechanism of Arabidopsis CRY1 involves the inhibition of BR signaling. CRY1 and CRY2 physically interact with BES1-INTERACTING MYC-LIKE1 (BIM1), a basic helix-loop-helix protein. BIM1, in turn, interacts with and enhances the activity of BRI1-EMS SUPPRESSOR1 (BES1), a master transcription factor in the BR signaling pathway. In addition, CRY1 and CRY2 interact specifically with dephosphorylated BES1, the physiologically active form of BES1 that is activated by BR in a blue light-dependent manner. The CRY1-BES1 interaction leads to both the inhibition of BES1 DNA binding activity and the repression of its target gene expression. Our study suggests that the blue light-dependent, BR-induced interaction of CRY1 with BES1 is a tightly regulated mechanism by which plants optimize photomorphogenesis according to the availability of external light and internal BR signals.
+
+CRY1: !interacts with! COP1
+CRY1: !interacts with! SPA1
+CRY1: !inhibits! BR signaling
+CRY1: !interacts with! BIM1
+BIM1: !interacts with! BES1
+BIM1: !enhances! BES1
+CRY1: !interacts with! dephosphorylated BES1
+CRY1: !inhibits! BES1 DNA binding activity
+CRY1: !represses! target gene expression

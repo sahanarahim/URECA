@@ -1,0 +1,13 @@
+Phytoene synthase (PSY1), capsanthin-capsorubin synthase (CCS), and pseudo-response regulator 2 (PRR2) are three major genes controlling fruit color in pepper (Capsicum spp.). However, the diversity of fruit color in pepper cannot be completely explained by these three genes. Here, we used an F<sub>2</sub> population derived from Capsicum annuum 'SNU-mini Orange' (SO) and C. annuum 'SNU-mini Yellow' (SY), both harboring functional PSY1 and mutated CCS, and observed that yellow color was dominant over orange color. We performed genotyping-by-sequencing and mapped the genetic locus to a 6.8-Mb region on chromosome 2, which we named CaOr. We discovered a splicing mutation in the zeaxanthin epoxidase (ZEP) gene within this region leading to a premature stop codon. HPLC analysis showed that SO contained higher amounts of zeaxanthin and total carotenoids in mature fruits than SY. A color complementation assay using Escherichia coli harboring carotenoid biosynthetic genes showed that the mutant ZEP protein had reduced enzymatic activity. Transmission electron microscopy of plastids revealed that the ZEP mutation affected plastid development with more rod-shaped inner membrane structures in chromoplasts of mature SO fruits. To validate the role of ZEP in fruit color formation, we performed virus-induced gene silencing of ZEP in the yellow-fruit cultivar C. annuum 'Micropep Yellow' (MY). The silencing of ZEP caused significant changes in the ratios of zeaxanthin to its downstream products and increased total carotenoid contents. Thus, we conclude that the ZEP genotype can determine orange or yellow mature fruit color in pepper.
+
+PSY1: !affects! Fruit color
+CCS: !affects! Fruit color
+PRR2: !affects! Fruit color
+SO: !harbors! Functional PSY1
+SY: !harbors! Mutated CCS
+CaOr: !localizes to! 6.8-Mb region on chromosome 2
+ZEP: !localizes to! CaOr
+ZEP: !synthesizes! Zeaxanthin
+SO: !contains! Higher amounts of zeaxanthin
+MY: !silences! ZEP
+ZEP: !represses! Total carotenoid contents

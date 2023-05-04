@@ -1,0 +1,7 @@
+Flowering is a critical agricultural trait that substantially affects tomato fruit yield. Although drought stress influences flowering time, the molecular mechanism underlying drought-regulated flowering in tomato remains elusive. In this study, we demonstrated that loss of function of tomato OPEN STOMATA 1 (SlOST1), a protein kinase essential for abscisic acid (ABA) signaling and abiotic stress responses, lowers the tolerance of tomato plants to drought stress. slost1 mutants also exhibited a late flowering phenotype under both normal and drought stress conditions. We also established that SlOST1 directly interacts with and phosphorylates the NAC (NAM, ATAF and CUC)-type transcription factor VASCULAR PLANT ONE-ZINC FINGER 1 (SlVOZ1), at residue serine 67, thereby enhancing its stability and nuclear translocation in an ABA-dependent manner. Moreover, we uncovered several SlVOZ1 binding motifs from DNA affinity purification sequencing analyses and revealed that SlVOZ1 can directly bind to the promoter of the major flowering-integrator gene SINGLE FLOWER TRUSS to promote tomato flowering transition in response to drought. Collectively, our data uncover the essential role of the SlOST1-SlVOZ1 module in regulating flowering in response to drought stress in tomato and offer insights into a novel strategy to balance drought stress response and flowering.
+
+SlOST1: !interacts with! SlVOZ1
+SlOST1: !phosphorylates! SlVOZ1
+SlVOZ1: !binds to! SINGLE FLOWER TRUSS
+SlVOZ1: !promotes! tomato flowering transition
+SlOST1: !enhances! SlVOZ1 stability

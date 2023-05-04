@@ -1,0 +1,8 @@
+Heteroblasty refers to a phenomenon that a plant produces morphologically or functionally different lateral organs in an age-dependent manner. In the model plant <i>Arabidopsis thaliana</i>, the production of trichomes (epidermal leaf hairs) on the abaxial (lower) side of leaves is a heteroblastic mark for the juvenile-to-adult transition. Here, we show that the heteroblastic development of abaxial trichomes is regulated by a spatiotemporally regulated complex comprising the leaf abaxial fate determinant (<i>KAN1</i>) and the developmental timer (miR172-targeted AP2-like proteins). We provide evidence that a short-distance chromatin loop brings the downstream enhancer element into close association with the promoter elements of <i>GL1</i>, which encodes a MYB transcription factor essential for trichome initiation. During juvenile phase, the KAN1-AP2 repressive complex binds to the downstream sequence of <i>GL1</i> and represses its expression through chromatin looping. As plants age, the gradual reduction in AP2-like protein levels leads to decreased amount of the KAN1-AP2 complex, thereby licensing <i>GL1</i> expression and the abaxial trichome initiation. Our results thus reveal a novel molecular mechanism by which a heteroblastic trait is governed by integrating age and leaf polarity cue in plants.
+
+KAN1: !represses! GL1
+AP2-like proteins: !represses! GL1
+GL1: !synthesizes! trichomes
+KAN1: !localizes to! downstream sequence of GL1
+miR172: !targets! AP2-like proteins
+chromatin loop: !brings! downstream enhancer element into close association with GL1 promoter

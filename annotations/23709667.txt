@@ -1,0 +1,9 @@
+The citrus (Citrus sinensis) cyclophilin CsCyp is a target of the Xanthomonas citri transcription activator-like effector PthA, required to elicit cankers on citrus. CsCyp binds the citrus thioredoxin CsTdx and the carboxyl-terminal domain of RNA polymerase II and is a divergent cyclophilin that carries the additional loop KSGKPLH, invariable cysteine (Cys) residues Cys-40 and Cys-168, and the conserved glutamate (Glu) Glu-83. Despite the suggested roles in ATP and metal binding, the functions of these unique structural elements remain unknown. Here, we show that the conserved Cys residues form a disulfide bond that inactivates the enzyme, whereas Glu-83, which belongs to the catalytic loop and is also critical for enzyme activity, is anchored to the divergent loop to maintain the active site open. In addition, we demonstrate that Cys-40 and Cys-168 are required for the interaction with CsTdx and that CsCyp binds the citrus carboxyl-terminal domain of RNA polymerase II YSPSAP repeat. Our data support a model where formation of the Cys-40-Cys-168 disulfide bond induces a conformational change that disrupts the interaction of the divergent and catalytic loops, via Glu-83, causing the active site to close. This suggests a new type of allosteric regulation in divergent cyclophilins, involving disulfide bond formation and a loop-displacement mechanism.
+
+PthA: !activates! CsCyp
+CsTdx: !binds! CsCyp
+Cys-40/Cys-168: !form! disulfide bond
+Glu-83: !anchors! divergent loop
+disulfide bond: !inactivates! enzyme
+CsTdx: !interacts with! Cys-40/Cys-168
+RNA polymerase II: !binds! CsCyp

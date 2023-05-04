@@ -1,0 +1,11 @@
+Arabidopsis det1 mutants exhibit salt and osmotic stress resistant germination. This phenotype requires HY5, ABF1, ABF3, and ABF4. While DE-ETIOLATED 1 (DET1) is well known as a negative regulator of light development, here we describe how det1 mutants also exhibit altered responses to salt and osmotic stress, specifically salt and mannitol resistant germination. LONG HYPOCOTYL 5 (HY5) positively regulates both light and abscisic acid (ABA) signalling. We found that hy5 suppressed the det1 salt and mannitol resistant germination phenotype, thus, det1 stress resistant germination requires HY5. We then queried publically available microarray datasets to identify genes downstream of HY5 that were differentially expressed in det1 mutants. Our analysis revealed that ABA regulated genes, including ABA RESPONSIVE ELEMENT BINDING FACTOR 3 (ABF3), are downregulated in det1 seedlings. We found that ABF3 is induced by salt in wildtype seeds, while homologues ABF4 and ABF1 are repressed, and all three genes are underexpressed in det1 seeds. We then investigated the role of ABF3, ABF4, and ABF1 in det1 phenotypes. Double mutant analysis showed that abf3, abf4, and abf1 all suppress the det1 salt/osmotic stress resistant germination phenotype. In addition, abf1 suppressed det1 rapid water loss and open stomata phenotypes. Thus interactions between ABF genes contribute to det1 salt/osmotic stress response phenotypes.
+
+DET1: !exhibits! salt/osmotic stress resistant germination
+HY5: !positively regulates! light/ABA signalling
+DET1: !requires! HY5
+ABF3: !downregulated in! det1 seedlings
+ABF3: !induced by! salt in wildtype seeds
+ABF4/ABF1: !repressed by! salt in wildtype seeds
+ABF3/ABF4/ABF1: !underexpressed in! det1 seeds
+ABF3/ABF4/ABF1: !suppress! det1 salt/osmotic stress resistant germination phenotype
+ABF1: !suppresses! det1 rapid water loss/open stomata phenotypes

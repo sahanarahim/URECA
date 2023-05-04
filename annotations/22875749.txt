@@ -1,0 +1,13 @@
+Both the WRKY transcription factor (TF) and MAP kinases have been shown to regulate gene expression in response to biotic and abiotic stresses in plants. Several reports have shown that WRKY TFs may function downstream of MAPK cascades. Here, we have shown that OsWRKY30 interacted with OsMPK3, OsMPK4, OsMPK7, OsMPK14, OsMPK20-4, and OsMPK20-5, and could be phosphorylated by OsMPK3, OsMPK7, and OsMPK14. Overexpression of OsWRKY30 in rice dramatically increased drought tolerance. Overexpression of OsWRKY30AA, in which all SP (serine residue followed by proline residue) sites were replaced by AP (A, alanine), resulted in no improvement in drought tolerance. In addition, the function of transcriptional activation of OsWRKY30 was impaired after SP was replaced by AP. These results proved that the phosphorylation of OsWRKY30 by MAPKs was crucial in order for OsWRKY30 to perform its biological function.
+
+OsWRKY30: !interacts with! OsMPK3
+OsWRKY30: !interacts with! OsMPK4
+OsWRKY30: !interacts with! OsMPK7
+OsWRKY30: !interacts with! OsMPK14
+OsWRKY30: !interacts with! OsMPK20-4
+OsWRKY30: !interacts with! OsMPK20-5
+OsMPK3: !phosphorylates! OsWRKY30
+OsMPK7: !phosphorylates! OsWRKY30
+OsMPK14: !phosphorylates! OsWRKY30
+OsWRKY30: !enhances! drought tolerance
+OsWRKY30AA: !impairs! transcriptional activation of OsWRKY30

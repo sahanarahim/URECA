@@ -1,0 +1,21 @@
+The color of red cabbage (Brassica oleracea var. capitata) is due to anthocyanin accumulation. To investigate the regulatory control of anthocyanin production in red cabbage, the expression of anthocyanin biosynthetic and regulatory genes from eight commercial cultivars was examined. While the four green varieties had negligible amount of anthocyanins under normal growth condition, the four red cultivars contained up to 1.60 mg g(-1) fresh weight. HPLC analysis of the four red cultivars revealed that they produced similar composition of various forms of cyanidin glucosides but at different concentrations. Molecular analysis indicated that all the red cabbage shared common mechanism of regulatory control for anthocyanin biosynthesis. Except CHI which showed similar expression levels between green and red cultivars, the other structural genes, CHS, F3H, F3'H, DFR, LDOX, and GST, were constitutively up-regulated during all stages of vegetative growth in red varieties. The expression of these structural genes was also dramatically increased in green and red cabbage under nutrient stresses. The increased expression of the structural genes coincided with a coordinated increase in transcript levels of a bHLH gene, BoTT8, and a MYB transcription factor, BoMYB2. These results indicate that activation of these two regulatory factors by unknown mechanisms constitutively up-regulates nearly the entire pathway genes for the onset of anthocyanin biosynthesis in red cabbage. Moreover, the amount of total anthocyanins in red cabbage was found to be positively correlated with total antioxidant power, implicating the potential health benefit of red cabbage to human health.
+
+CHS: !up-regulated by! BoTT8
+F3H: !up-regulated by! BoTT8
+F3'H: !up-regulated by! BoTT8
+DFR: !up-regulated by! BoTT8
+LDOX: !up-regulated by! BoTT8
+GST: !up-regulated by! BoTT8
+BoTT8: !up-regulates! CHS
+BoTT8: !up-regulates! F3H
+BoTT8: !up-regulates! F3'H
+BoTT8: !up-regulates! DFR
+BoTT8: !up-regulates! LDOX
+BoTT8: !up-regulates! GST
+BoMYB2: !up-regulates! CHS
+BoMYB2: !up-regulates! F3H
+BoMYB2: !up-regulates! F3'H
+BoMYB2: !up-regulates! DFR
+BoMYB2: !up-regulates! LDOX
+BoMYB2: !up-regulates! GST
+anthocyanin: !cor

@@ -1,0 +1,9 @@
+The current trends of crop yield improvements are not expected to meet the projected rise in demand. Genomic selection uses molecular markers and machine learning to identify superior genotypes with improved traits, such as growth. Plant growth directly depends on rates of metabolic reactions which transform nutrients into the building blocks of biomass. Here, we predict growth of Arabidopsis thaliana accessions by employing genomic prediction of reaction rates estimated from accession-specific metabolic models. We demonstrate that, comparing to classical genomic selection on the available data sets for 67 accessions, our approach improves the prediction accuracy for growth within and across nitrogen environments by 32.6% and 51.4%, respectively, and from optimal nitrogen to low carbon environment by 50.4%. Therefore, integration of molecular markers into metabolic models offers an approach to predict traits directly related to metabolism, and its usefulness in breeding can be examined by gathering matching datasets in crops.
+
+Gene: !affects! Process 
+Process: !predicts! Growth 
+Molecular markers: !identify! Superior genotypes 
+Metabolic reactions: !transform! Nutrients 
+Genomic prediction: !estimates! Reaction rates 
+Accession-specific metabolic models: !employ! Genomic prediction 
+Machine learning: !uses! Molecular markers

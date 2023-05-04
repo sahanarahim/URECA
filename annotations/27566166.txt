@@ -1,0 +1,7 @@
+Understanding whether the functionality of a biological system can be characterized by measuring few selected components is key to targeted phenotyping techniques in systems biology. Methods from observability theory have proven useful in identifying sensor components that have to be measured to obtain information about the entire system. Yet, the extent to which the data profiles reflect the role of components in the observability of the system remains unexplored. Here we first identify the sensor metabolites in the model plant Arabidopsis (Arabidopsis thaliana) by employing state-of-the-art genome-scale metabolic networks. By using metabolic data profiles from a set of seven environmental perturbations as well as from natural variability, we demonstrate that the data profiles of sensor metabolites are more correlated than those of nonsensor metabolites. This pattern was confirmed with in silico generated metabolic profiles from a medium-size kinetic model of plant central carbon metabolism. Altogether, due to the small number of identified sensors, our study implies that targeted metabolite analyses may provide the vast majority of relevant information about plant metabolic systems.
+
+Gene: !affects! Metabolic system 
+Metabolic data: !correlates with! Sensor metabolites 
+Genome-scale metabolic networks: !identify! Sensor metabolites 
+Environmental perturbations: !generate! Metabolic data profiles 
+Kinetic model: !generates! In silico metabolic profiles

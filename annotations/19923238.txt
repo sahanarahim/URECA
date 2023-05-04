@@ -1,0 +1,8 @@
+We characterized peptidyl hydroxyproline (Hyp) O-galactosyltransferase (HGT), which is the initial enzyme in the arabinogalactan biosynthetic pathway. An in vitro assay of HGT activity was established using chemically synthesized fluorescent peptides as acceptor substrates and extracts from Arabidopsis (Arabidopsis thaliana) T87 cells as a source of crude enzyme. The galactose residue transferred to the peptide could be detected by high-performance liquid chromatography and matrix-assisted laser desorption-ionization time-of-flight mass spectrometry analyses. HGT required a divalent cation of manganese for maximal activity and consumed UDP-D-galactose as a sugar donor. HGT exhibited an optimal pH range of pH 7.0 to 8.0 and an optimal temperature of 35 degrees C. The favorable substrates for the activity seemed to be peptides containing two alternating imino acid residues including at least one acceptor Hyp residue, although a peptide with single Hyp residue without any other imino acids also functioned as a substrate. The results of sucrose density gradient centrifugation revealed that the cellular localization of HGT activity is identical to those of endoplasmic reticulum markers such as Sec61 and Bip, indicating that HGT is predominantly localized to the endoplasmic reticulum. To our knowledge, this is the first characterization of HGT, and the data provide evidence that arabinogalactan biosynthesis occurs in the protein transport pathway.
+
+HGT: !requires! manganese
+HGT: !consumes! UDP-D-galactose
+HGT: !optimal pH range! 7.0-8.0
+HGT: !optimal temperature! 35°C
+HGT: !favorable substrates! peptides containing two alternating imino acid residues
+HGT: !localized to! endoplasmic reticulum

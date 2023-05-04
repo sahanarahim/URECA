@@ -1,0 +1,11 @@
+The marine alga Ulva compressa exposed to 10 µM copper showed a triphasic increase of intracellular calcium with maximal levels at 2, 3 and 12 h involving the activation of ryanodine-, Ins(1,4,5)P3- and NAADP-sensitive calcium channels. In order to analyze the requirement of extracellular calcium entry for intracellular calcium release as well as the activation of voltage-dependent calcium channels (VDCC) and phospholipase C, U. compressa was treated with EGTA, a non-permeable calcium chelating agent, with verapamil, nipfedipine and diltiazem, inhibitors of L-type VDCC, and with neomycin and U731222, inhibitors of phospholipase C. The release of intracellular calcium was partially inhibited with EGTA at 2 and 3 h and completely inhibited at 12 h of copper exposure and decreased with inhibitors of L-type VDCC and phospholipase C. Thus, copper-induced intracellular calcium release depends on calcium entry and activation of L-type VDCC and phospholipase C. An integrative model of copper-induced cellular responses in U. compressa is presented.
+
+copper: !activates! ryanodine-sensitive calcium channels
+copper: !activates! Ins(1,4,5)P3-sensitive calcium channels
+copper: !activates! NAADP-sensitive calcium channels
+EGTA: !inhibits! intracellular calcium release
+verapamil: !inhibits! L-type VDCC
+nifedipine: !inhibits! L-type VDCC
+diltiazem: !inhibits! L-type VDCC
+neomycin: !inhibits! phospholipase C
+U731222: !inhibits! phospholipase C

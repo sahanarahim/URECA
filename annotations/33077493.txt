@@ -1,0 +1,9 @@
+In plants, 22-nucleotide small RNAs trigger the production of secondary small interfering RNAs (siRNAs) and enhance silencing. DICER-LIKE2 (DCL2)-dependent 22-nucleotide siRNAs are rare in Arabidopsis (<i>Arabidopsis thaliana</i>) and are thought to function mainly during viral infection; by contrast, these siRNAs are abundant in many crops such as soybean (<i>Glycine max</i>) and maize (<i>Zea mays</i>). Here, we studied soybean 22-nucleotide siRNAs by applying CRISPR-Cas9 to simultaneously knock out the two copies of soybean <i>DCL2</i>, <i>GmDCL2a</i> and <i>GmDCL2b</i>, in the Tianlong1 cultivar. Small RNA sequencing revealed that most 22-nucleotide siRNAs are derived from long inverted repeats (LIRs) and disappeared in the <i>Gmdcl2a/2b</i> double mutant. De novo assembly of a Tianlong1 reference genome and transcriptome profiling identified an intronic LIR formed by the chalcone synthase (CHS) genes <i>CHS1</i> and <i>CHS3</i> This LIR is the source of primary 22-nucleotide siRNAs that target other <i>CHS</i> genes and trigger the production of secondary 21-nucleotide siRNAs. Disruption of this process in <i>Gmdcl2a/2b</i> mutants substantially increased <i>CHS</i> mRNA levels in the seed coat, thus changing the coat color from yellow to brown. Our results demonstrated that endogenous LIR-derived transcripts in soybean are predominantly processed by GmDCL2 into 22-nucleotide siRNAs and uncovered a role for DCL2 in regulating natural traits.
+
+DCL2: !processes! LIR-derived transcripts 
+LIR-derived transcripts: !produce! 22-nucleotide siRNAs 
+22-nucleotide siRNAs: !target! other CHS genes 
+other CHS genes: !trigger! production of secondary 21-nucleotide siRNAs 
+GmDCL2a/2b: !disrupts! process 
+CHS mRNA levels: !increase! in seed coat 
+seed coat color: !changes from! yellow to brown

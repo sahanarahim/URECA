@@ -1,0 +1,18 @@
+Mitogen-activated protein kinase (MAPK) cascades transmit environmental signals and induce stress and defence responses in plants. These signalling cascades are negatively controlled by specific Ser/Thr protein phosphatases of the type 2C (PP2C) and dual-specificity phosphatase (DSP) families that inactivate stress-induced MAPKs; however, the interplay between phosphatases of these different types has remained unknown. This work reveals that different Arabidopsis MAPK phosphatases, the PP2C-type AP2C1 and the DSP-type MKP1, exhibit both specific and overlapping functions in plant stress responses. Each single mutant, ap2c1 and mkp1, and the ap2c1 mkp1 double mutant displayed enhanced stress-induced activation of the MAPKs MPK3, MPK4, and MPK6, as well as induction of a set of transcription factors. Moreover, ap2c1 mkp1 double mutants showed an autoimmune-like response, associated with increased levels of the stress hormones salicylic acid and ethylene, and of the phytoalexin camalexin. This phenotype was reduced in the ap2c1 mkp1 mpk3 and ap2c1 mkp1 mpk6 triple mutants, suggesting that the autoimmune-like response is due to MAPK misregulation. We conclude that the evolutionarily distant MAPK phosphatases AP2C1 and MKP1 contribute crucially to the tight control of MAPK activities, ensuring appropriately balanced stress signalling and suppression of autoimmune-like responses during plant growth and development.
+
+MAPK: !inactivated by! PP2C 
+MAPK: !inactivated by! DSP 
+AP2C1: !interacts with! MKP1 
+AP2C1: !enhances! MPK3 
+AP2C1: !enhances! MPK4 
+AP2C1: !enhances! MPK6 
+MKP1: !interacts with! AP2C1 
+MKP1: !enhances! MPK3 
+MKP1: !enhances! MPK4 
+MKP1: !enhances! MPK6 
+ap2c1 mkp1: !induces! transcription factors 
+ap2c1 mkp1: !induces! salicylic acid 
+ap2c1 mkp1: !induces! ethylene 
+ap2c1 mkp1: !induces! camalexin 
+ap2c1 mkp1 mpk3: !reduces! autoimmune-like response 
+ap2c1 mkp1 mpk6: !reduces! autoimmune-like response

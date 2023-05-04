@@ -1,0 +1,8 @@
+Flag leaf angle impacts the photosynthetic capacity of densely grown plants and is thus an important agronomic breeding trait for crop architecture and yield. The hormone auxin plays a key role in regulating this trait, yet the underlying molecular and cellular mechanisms remain unclear. Here, we report that two rice (Oryza sativa) auxin response factors (ARFs), OsARF6 and OsARF17, which are highly expressed in lamina joint tissues, control flag leaf angle in response to auxin. Loss-of-function double osarf6 osarf17 mutants displayed reduced secondary cell wall levels of lamina joint sclerenchymatous cells (Scs), resulting in an exaggerated flag leaf angle and decreased grain yield under dense planting conditions. Mechanical measurements indicated that the mutant lamina joint tissues were too weak to support the weight of the flag leaf blade, resembling the phenotype of the rice increased leaf angle1 (ila1) mutant. We demonstrate that OsARF6 and OsARF17 directly bind to the ILA1 promoter independently and synergistically to activate its expression. In addition, auxin-induced ILA1 expression was dependent on OsARF6 and OsARF17. Collectively, our study reveals a mechanism that integrates auxin signaling with the secondary cell wall composition to determine flag leaf angle, providing breeding targets in rice, and potentially other cereals, for this key trait.
+
+OsARF6: !controls! flag leaf angle
+OsARF17: !controls! flag leaf angle
+OsARF6: !activates! ILA1 expression
+OsARF17: !activates! ILA1 expression
+Auxin: !induces! ILA1 expression
+OsARF6: !synergizes with! OsARF17

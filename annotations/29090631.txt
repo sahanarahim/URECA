@@ -1,0 +1,16 @@
+Bacillus cereus AR156 (AR156) is a plant growth-promoting rhizobacterium capable of inducing systemic resistance to Pseudomonas syringae pv. tomato in Arabidopsis thaliana. Here, we show that, when applied to Arabidopsis leaves, AR156 acted similarly to flg22, a typical pathogen-associated molecular pattern (PAMP), in initiating PAMP-triggered immunity (PTI). AR156-elicited PTI responses included phosphorylation of MPK3 and MPK6, induction of the expression of defense-related genes PR1, FRK1, WRKY22, and WRKY29, production of reactive oxygen species, and callose deposition. Pretreatment with AR156 still significantly reduced P. syringae pv. tomato multiplication and disease severity in NahG transgenic plants and mutants sid2-2, jar1, etr1, ein2, npr1, and fls2. This suggests that AR156-induced PTI responses require neither salicylic acid, jasmonic acid, and ethylene signaling nor flagella receptor kinase FLS2, the receptor of flg22. On the other hand, AR156 and flg22 acted in concert to differentially regulate a number of AGO1-bound microRNAs that function to mediate PTI. A full-genome transcriptional profiling analysis indicated that AR156 and flg22 activated similar transcriptional programs, coregulating the expression of 117 genes; their concerted regulation of 16 genes was confirmed by real-time quantitative polymerase chain reaction analysis. These results suggest that AR156 activates basal defense responses to P. syringae pv. tomato in Arabidopsis, similarly to flg22.
+
+AR156: !induces! PTI
+flg22: !induces! PTI
+AR156: !reduces! P. syringae pv. tomato multiplication
+NahG: !reduces! P. syringae pv. tomato multiplication
+sid2-2: !reduces! P. syringae pv. tomato multiplication
+jar1: !reduces! P. syringae pv. tomato multiplication
+etr1: !reduces! P. syringae pv. tomato multiplication
+ein2: !reduces! P. syringae pv. tomato multiplication
+npr1: !reduces! P. syringae pv. tomato multiplication
+fls2: !reduces! P. syringae pv. tomato multiplication
+AR156: !regulates! AGO1-bound microRNAs
+flg22: !regulates! AGO1-bound microRNAs
+AR156: !activates! transcriptional programs
+flg22: !activates! transcriptional programs

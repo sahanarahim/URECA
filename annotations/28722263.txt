@@ -1,0 +1,9 @@
+Little is known about the molecular mechanism of the R2R3-MYB transcriptional repressors involved in plant phenylpropanoid metabolism. Here, we describe one R2R3-type MYB repressor, FtMYB11 from Fagopyrum tataricum. It contains the SID-like motif GGDFNFDL and it is regulated by both the importin protein 'Sensitive to ABA and Drought 2' (SAD2) and the jasmonates signalling cascade repressor JAZ protein. Yeast two hybrid and bimolecular fluorescence complementation assays demonstrated that FtMYB11 interacts with SAD2 and FtJAZ1. Protoplast transactivation assays demonstrated that FtMYB11 acts synergistically with FtSAD2 or FtJAZ1 and directly represses its target genes via the MYB-core element AATAGTT. Changing the Asp122 residue to Asn in the SID-like motif results in cytoplasmic localization of FtMYB11 because of loss of interaction with SAD2, while changing the Asp126 residue to Asn results in the loss of interaction with FtJAZ1. Overexpression of FtMYB11or FtMYB11<sup>D126N</sup> in F. tataricum hairy roots resulted in reduced accumulation of rutin, while overexpression of FtMYB11<sup>D122N</sup> in hairy roots did not lead to such a change. The results indicate that FtMYB11 acts as a regulator via interacting with FtSAD2 or FtJAZ1 to repress phenylpropanoid biosynthesis, and this repression depends on two conserved Asp residues of its SID-like motif.
+
+FtMYB11: !interacts with! SAD2 
+FtMYB11: !interacts with! FtJAZ1 
+FtMYB11: !represses! target genes 
+SAD2: !regulates! FtMYB11 
+FtJAZ1: !regulates! FtMYB11 
+FtMYB11<sup>D122N</sup>: !localizes to! cytoplasm 
+FtMYB11<sup>D126N</sup>: !loses interaction with! FtJAZ1

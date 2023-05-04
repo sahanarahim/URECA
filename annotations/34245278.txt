@@ -1,0 +1,10 @@
+To maximize the grain yield of spring wheat, flowering needs to coincide with the optimal flowering period (OFP) by minimizing frost and heat stress on reproductive development. This global study conducted a comprehensive modelling analysis of genotype, environment, and management to identify the OFPs for sites in irrigated mega-environments of spring wheat where the crop matures during a period of increasing temperatures. We used a gene-based phenology model to conduct long-term simulation analysis with parameterized genotypes to identify OFPs and optimal sowing dates for sites in irrigated mega-environments, considering the impacts of frost and heat stress on yield. The validation results showed that the gene-based model accurately predicted wheat heading dates across global wheat environments. The long-term simulations indicated that frost and heat stress significantly advanced or delayed OFPs and shrank the durations of OFPs in irrigated mega-environments when compared with OFPs where the model excluded frost and heat stress impacts. The simulation results (incorporating frost and heat penalties on yield) also showed that earlier flowering generally resulted in higher yields, and early sowing dates and/or early flowering genotypes were suggested to achieve early flowering. These results provided an interpretation of the regulation of wheat flowering to the OFP by the selection of sowing date and cultivar to achieve higher yields in irrigated mega-environments.
+
+Gene: !affects! Flowering 
+Environment: !influences! OFP 
+Gene: !regulates! Wheat flowering 
+Sowing date: !determines! Early flowering 
+Cultivar: !selects! Early flowering 
+Frost/Heat: !advances/delays! OFP 
+Frost/Heat: !shrinks! Duration of OFP 
+Early flowering: !results in! Higher yields

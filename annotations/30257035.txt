@@ -1,0 +1,8 @@
+Analysis of the impact of photorespiration on plant metabolism is usually based on manual inspection of small network diagrams. Here we create a structural metabolic model that contains the reactions that participate in photorespiration in the plastid, peroxisome, mitochondrion and cytosol, and the metabolite exchanges between them. This model was subjected to elementary flux modes analysis, a technique that enumerates all the component, minimal pathways of a network. Any feasible photorespiratory metabolism in the plant will be some combination of the elementary flux modes (EFMs) that contain the Rubisco oxygenase reaction. Amongst the EFMs we obtained was the classic photorespiratory cycle, but there were also modes that involve photorespiration coupled with mitochondrial metabolism and ATP production, the glutathione-ascorbate cycle and nitrate reduction to ammonia. The modes analysis demonstrated the underlying basis of the metabolic linkages with photorespiration that have been inferred experimentally. The set of reactions common to all the elementary modes showed good agreement with the gene products of mutants that have been reported to have a defective phenotype in photorespiratory conditions. Finally, the set of modes provided a formal demonstration that photorespiration itself does not impact on the CO<sub>2</sub> :O<sub>2</sub> ratio (assimilation quotient), except in those modes associated with concomitant nitrate reduction.
+
+Gene: !affects! Photorespiration
+Gene: !synthesizes! Metabolites
+Gene: !localizes to! Plastid, Peroxisome, Mitochondrion, Cytosol
+Gene: !interacts with! Reactions
+Gene: !enhances! ATP Production
+Gene: !represses! CO2 : O2 Ratio

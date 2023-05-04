@@ -1,0 +1,11 @@
+Plants must reprogram gene expression to adapt constantly changing environmental temperatures. With the increased occurrence of extremely low temperatures, the negative effects on plants, especially on growth and development, from cold stress are becoming more and more serious. In this research, strand-specific RNA sequencing (ssRNA-seq) was used to explore the dynamic changes in the transcriptome landscape of <i>Arabidopsis thaliana</i> exposed to cold temperatures (4°C) at different times. In total, 7,623 differentially expressed genes (DEGs) exhibited dynamic temporal changes during the cold treatments. Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analysis showed that the DEGs were enriched in cold response, secondary metabolic processes, photosynthesis, glucosinolate biosynthesis, and plant hormone signal transduction pathways. Meanwhile, long non-coding RNAs (lncRNAs) were identified after the assembly of the transcripts, from which 247 differentially expressed lncRNAs (DElncRNAs) and their potential target genes were predicted. 3,621 differentially alternatively spliced (DAS) genes related to RNA splicing and spliceosome were identified, indicating enhanced transcriptome complexity due to the alternative splicing (AS) in the cold. In addition, 739 cold-regulated transcription factors (TFs) belonging to 52 gene families were identified as well. This research analyzed the dynamic changes of the transcriptome landscape in response to cold stress, which reveals more complete transcriptional patterns during short- and long-term cold treatment and provides new insights into functional studies of that how plants are affected by cold stress.
+
+Gene: !affects! Cold response
+Gene: !synthesizes! Secondary metabolic processes
+Gene: !enhances! Photosynthesis
+Gene: !represses! Glucosinolate biosynthesis
+Gene: !interacts with! Plant hormone signal transduction pathways
+lncRNA: !targets! Potential target genes
+Gene: !alternatively splices! RNA splicing
+Gene: !regulates! Spliceosome
+TF: !regulates! 52 gene families

@@ -1,0 +1,9 @@
+Under anoxic conditions the green alga Chlamydomonas reinhardtii activates various fermentation pathways leading to the creation of formate, acetate, ethanol and small amounts of other metabolites including d-lactate and hydrogen. Progress has been made in identifying the enzymes involved in these pathways and their subcellular locations; however, the identity of the enzyme involved in reducing pyruvate to d-lactate has remained unclear. Based on sequence comparisons, enzyme activity measurements, X-ray crystallography, biochemical fractionation and analysis of knock-down mutants, we conclude that pyruvate reduction in the chloroplast is catalyzed by a tetrameric NAD(+)-dependent d-lactate dehydrogenase encoded by Cre07.g324550. Its expression during aerobic growth supports a possible function as a 'lactate valve' for the export of lactate to the mitochondrion for oxidation by cytochrome-dependent d-lactate dehydrogenases and by glycolate dehydrogenase. We also present a revised spatial model of fermentation based on our immunochemical detection of the likely pyruvate decarboxylase, PDC3, in the cytoplasm.
+
+Cre07.g324550: !encodes! NAD(+)-dependent d-lactate dehydrogenase 
+Cre07.g324550: !catalyzes! pyruvate reduction in chloroplast 
+PDC3: !localizes to! cytoplasm 
+PDC3: !likely catalyzes! pyruvate decarboxylation 
+d-lactate dehydrogenases: !oxidize! lactate 
+glycolate dehydrogenase: !oxidize! lactate 
+Chlamydomonas reinhardtii: !activates! fermentation pathways

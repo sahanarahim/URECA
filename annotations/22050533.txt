@@ -1,0 +1,8 @@
+The endoplasmic reticulum (ER) stress sensor IRE1 transduces signals by inducing the unconventional splicing of mRNAs encoding key transcription factors: HAC1 in yeast and XBP1 in animals. However, no HAC1 or XBP1 homologues have been found in plants, and until recently the substrate for plant IRE1 has remained unknown. This study demonstrates that the Oryza sativa (rice) OsbZIP50 transcription factor, an orthologue of Arabidopsis AtbZIP60, is regulated by IRE1-mediated splicing of its RNA. Despite the presence of a transcriptional activation domain, OsbZIP50 protein is not translocated into the nucleus efficiently in the absence of OsbZIP50 mRNA splicing. Unconventional splicing of OsbZIP50 mRNA causes a frame shift, which results in the appearance of a nuclear localization signal in the newly translated OsbZIP50. OsbZIP50 mRNA is spliced in a similar manner to HAC1 and XBP1 mRNAs; however, this splicing has very different effects on the translation products, a finding that shows the diversity of IRE1-related transcription factors in eukaryotes. In addition, the expression of OsbZIP50 is affected by ER stress sensor proteins OsIRE1, OsbZIP39 and OsbZIP60. ER stress-related genes differ with respect to their dependency on OsbZIP50 for their expression. The findings of this study improve our understanding of the molecular mechanisms underlying the plant ER stress response.
+
+OsIRE1: !induces splicing of! OsbZIP50 mRNA
+OsbZIP50 mRNA: !encodes! OsbZIP50 protein
+OsbZIP50 protein: !contains! nuclear localization signal
+OsbZIP50 mRNA: !spliced in similar manner to! HAC1 and XBP1 mRNAs
+OsbZIP50: !affected by! ER stress sensor proteins OsIRE1, OsbZIP39 and OsbZIP60
+ER stress-related genes: !depend on! OsbZIP50 for expression

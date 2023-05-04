@@ -1,0 +1,16 @@
+Despite the importance of riboflavin as the direct precursor of the cofactors flavin adenine dinucleotide (FAD) and flavin mononucleotide (FMN), the physiologically relevant catalyst dephosphorylating the riboflavin biosynthesis pathway intermediate 5-amino-6-ribitylamino-2,4(1H,3H) pyrimidinedione 5'-phosphate (ARPP) has not been characterized from any organism. By using as the query sequence a previously identified plastidial FMN hydrolase AtcpFHy1 (At1g79790), belonging to the haloacid dehalogenase (HAD) superfamily, seven candidates for the missing ARPP phosphatase were found, cloned, recombinantly expressed, and purified. Activity screening showed that the enzymes encoded by AtcpFHy1, At4g11570, and At4g25840 catalyze dephosphorylation of ARPP. AtcpFHy1 was renamed AtcpFHy/PyrP1, At4g11570 and At4g25840 were named AtPyrP2 and AtGpp1/PyrP3, respectively. Subcellular localization in planta indicated that AtPyrP2 was localized in plastids and AtGpp1/PyrP3 in mitochondria. Biochemical characterization of AtcpFHy/PyrP1 and AtPyrP2 showed that they have similar K<sub>m</sub> values for the substrate ARPP, with AtcpFHy/PyrP1 having higher catalytic efficiency. Screening of 21 phosphorylated substrates showed that AtPyrP2 is specific for ARPP. Molecular weights of AtcpFHy/PyrP1 and AtPyrP2 were estimated at 46 and 72 kDa, suggesting dimers. pH and temperature optima for AtcpFHy/PyrP1 and AtPyrP2 were ~7.0-8.5 and 40-50°C. T-DNA knockout of AtcpFHy/PyrP1 did not affect the flavin profile of the transgenic plants, whereas silencing of AtPyrP2 decreased accumulation of riboflavin, FMN, and FAD. Our results strongly support AtPyrP2 as the missing phosphatase on the riboflavin biosynthesis pathway in Arabidopsis thaliana. The identification of this enzyme closes a long-standing gap in understanding of the riboflavin biosynthesis in plants.
+
+AtcpFHy1: !renamed! AtcpFHy/PyrP1
+At4g11570: !renamed! AtPyrP2
+At4g25840: !renamed! AtGpp1/PyrP3
+AtcpFHy/PyrP1: !localizes to! plastids
+AtPyrP2: !localizes to! plastids
+AtGpp1/PyrP3: !localizes to! mitochondria
+AtcpFHy/PyrP1: !enhances! catalytic efficiency
+AtPyrP2: !specific for! ARPP
+AtcpFHy/PyrP1: !synthesizes! dimers
+AtPyrP2: !synthesizes! dimers
+AtcpFHy/PyrP1: !optimal at! pH 7.0-8.5, temperature 40-50°C
+AtPyrP2: !optimal at! pH 7.0-8.5, temperature 40-50°C
+AtcpFHy/PyrP1: !represses! flavin profile
+AtPyrP2: !

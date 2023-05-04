@@ -1,0 +1,7 @@
+['16469697', 'MEDEA (MEA) is an Arabidopsis Polycomb group gene that is imprinted in the  endosperm. The maternal allele is expressed and the paternal allele is silent.  MEA is controlled by DEMETER (DME), a DNA glycosylase required to activate MEA  expression, and METHYLTRANSFERASE I (MET1), which maintains CG methylation at the  MEA locus. Here we show that DME is responsible for endosperm  maternal-allele-specific hypomethylation at the MEA gene. DME can excise  5-methylcytosine in vitro and when expressed in E. coli. Abasic sites opposite  5-methylcytosine inhibit DME activity and might prevent DME from generating  double-stranded DNA breaks. Unexpectedly, paternal-allele silencing is not  controlled by DNA methylation. Rather, Polycomb group proteins that are expressed  from the maternal genome, including MEA, control paternal MEA silencing. Thus,  DME establishes MEA imprinting by removing 5-methylcytosine to activate the  maternal allele. MEA imprinting is subsequently maintained in the endosperm by  maternal MEA silencing the paternal allele.', '2006 Feb 10', 'Cell', '10.1016/j.cell.2005.12.034', 'Fischer']
+
+DME: !excise! 5-methylcytosine 
+MET1: !maintains! CG methylation 
+DME: !activates! MEA expression 
+MEA: !imprints! endosperm 
+MEA: !silences! paternal allele

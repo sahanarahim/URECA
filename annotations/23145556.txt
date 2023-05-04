@@ -1,0 +1,7 @@
+Approximately 1-2% of net primary production by land plants is re-emitted to the atmosphere as isoprene and monoterpenes. These emissions play major roles in atmospheric chemistry and air pollution-climate interactions. Phenomenological models have been developed to predict their emission rates, but limited understanding of the function and regulation of these emissions has led to large uncertainties in model projections of air quality and greenhouse gas concentrations. We synthesize recent advances in diverse fields, from cell physiology to atmospheric remote sensing, and use this information to propose a simple conceptual model of volatile isoprenoid emission based on regulation of metabolism in the chloroplast. This may provide a robust foundation for scaling up emissions from the cellular to the global scale.
+
+Gene: !affects! Process 
+Process: !regulates! Metabolism 
+Metabolism: !in! Chloroplast 
+Chloroplast: !emits! Volatile Isoprenoids 
+Volatile Isoprenoids: !impact! Atmospheric Chemistry

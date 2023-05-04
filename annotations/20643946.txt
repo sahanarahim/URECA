@@ -1,0 +1,7 @@
+The effect of RNA silencing in plants can be amplified if the production of secondary small interfering RNAs (siRNAs) is triggered by the interaction of microRNAs (miRNAs) or siRNAs with a long target RNA. miRNA and siRNA interactions are not all equivalent, however; most of them do not trigger secondary siRNA production. Here we use bioinformatics to show that the secondary siRNA triggers are miRNAs and transacting siRNAs of 22 nt, rather than the more typical 21-nt length. Agrobacterium-mediated transient expression in Nicotiana benthamiana confirms that the siRNA-initiating miRNAs, miR173 and miR828, are effective as triggers only if expressed in a 22-nt form and, conversely, that increasing the length of miR319 from 21 to 22 nt converts it to an siRNA trigger. We also predicted and validated that the 22-nt miR771 is a secondary siRNA trigger. Our data demonstrate that the function of small RNAs is influenced by size, and that a length of 22 nt facilitates the triggering of secondary siRNA production.
+
+miRNA: !interacts with! siRNA 
+siRNA: !triggers! secondary siRNA production 
+miR173/miR828: !effective as triggers only if expressed in! 22-nt form 
+miR319: !converted to trigger when length increased to! 22 nt 
+miR771: !predicted and validated as! secondary siRNA trigger

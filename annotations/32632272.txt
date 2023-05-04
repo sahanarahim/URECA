@@ -1,0 +1,11 @@
+In RNA interference (RNAi), the RNase III Dicer processes long double-stranded RNA (dsRNA) into short interfering RNA (siRNA), which, when loaded into ARGONAUTE (AGO) family proteins, execute gene silencing<sup>1</sup>. Remarkably, RNAi can act non-cell autonomously<sup>2,3</sup>: it is graft transmissible<sup>4-7</sup>, and plasmodesmata-associated proteins modulate its cell-to-cell spread<sup>8,9</sup>. Nonetheless, the molecular mechanisms involved remain ill defined, probably reflecting a disparity of experimental settings. Among other caveats, these almost invariably cause artificially enhanced movement via transitivity, whereby primary RNAi-target transcripts are converted into further dsRNA sources of secondary siRNA<sup>5,10,11</sup>. Whether siRNA mobility naturally requires transitivity and whether it entails the same or distinct signals for cell-to-cell versus long-distance movement remains unclear, as does the identity of the mobile signalling molecules themselves. Movement of long single-stranded RNA, dsRNA, free/AGO-bound secondary siRNA or primary siRNA have all been advocated<sup>12-15</sup>; however, an entity necessary and sufficient for all known manifestations of plant mobile RNAi remains to be ascertained. Here, we show that the same primary RNAi signal endows both vasculature-to-epidermis and long-distance silencing movement from three distinct RNAi sources. The mobile entities are AGO-free primary siRNA duplexes spreading length and sequence independently. However, their movement is accompanied by selective siRNA depletion reflecting the AGO repertoires of traversed cell types. Coupling movement with this AGO-mediated consumption process creates qualitatively distinct silencing territories, potentially enabling unlimited spatial gene regulation patterns well beyond those granted by mere gradients.
+
+RNAi: !processes! Dicer 
+dsRNA: !converted to! siRNA 
+siRNA: !loaded into! ARGONAUTE proteins 
+RNAi: !acts non-cell autonomously! plasmodesmata-associated proteins 
+primary RNAi-target transcripts: !converted to! dsRNA 
+siRNA mobility: !requires! transitivity 
+long single-stranded RNA: !proposed as! mobile signalling molecules 
+AGO-free primary siRNA duplexes: !spreads! length and sequence independently 
+AGO-mediated consumption process: !accompanies! movement

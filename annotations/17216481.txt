@@ -1,0 +1,11 @@
+['17216481', 'Previously it has been shown that the floral scent of snapdragon flowers consists  of a relatively simple mixture of volatile organic compounds (VOCs). These  compounds are thought to be involved in the attraction of pollinators; however,  little is known about their effect on other organisms, such as neighboring  plants. Here, we report that VOCs from snapdragon flowers inhibit Arabidopsis  root growth. Out of the three major snapdragon floral volatiles, myrcene,  (E)-beta-ocimene, and methyl benzoate (MB), MB was found to be primarily  responsible for the inhibition of root growth. Ten micromoles MB reduced root  length by 72.6%. We employed a microarray approach to identify the MB target  genes in Arabidopsis that were responsible for the root growth inhibition  phenotype in response to MB. These analyses showed that MB treatment affected  1.33% of global gene expression, including cytokinin, auxin and other  plant-hormone-related genes, and genes related to seed germination processes in  Arabidopsis. Accordingly, the root growth of cytokinin (cre1) and auxin (axr1)  response mutants was less affected than that of the wild type by the volatile  compound: roots of the treated mutants were reduced by 45.1 and 56.2%,  respectively, relative to untreated control mutants.', '2007 Jun', 'Planta', '10.1007/s00425-006-0464-0', 'Vivanco']
+
+Myrcene: !inhibits! Arabidopsis root growth 
+(E)-beta-ocimene: !inhibits! Arabidopsis root growth 
+MB: !inhibits! Arabidopsis root growth 
+MB: !affects! Global gene expression 
+Cytokinin: !affected by! MB 
+Auxin: !affected by! MB 
+Seed germination: !affected by! MB 
+cre1: !less affected by! MB 
+axr1: !less affected by! MB

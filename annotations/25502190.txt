@@ -1,0 +1,11 @@
+The primary aerial surfaces of land plants are covered with a cuticle, a protective layer composed of the cutin polyester matrix and cuticular waxes. Previously, we discovered a unique mechanism of regulating cuticular wax biosynthesis during Arabidopsis (Arabidopsis thaliana) stem elongation that involves ECERIFERUM7 (CER7), a core subunit of the exosome. Because loss-of-function mutations in CER7 result in reduced expression of the wax biosynthetic gene CER3, we proposed that CER7 is involved in degrading a messenger RNA encoding a CER3 repressor. To identify this putative repressor, we performed a cer7 suppressor screen that resulted in the isolation of the posttranscriptional gene-silencing components RNA-DEPENDENT RNA POLYMERASE1 and SUPPRESSOR OF GENE SILENCING3, indicating that small RNAs regulate CER3 expression. To establish the identity of the effector RNA species and determine whether these RNAs control CER3 transcript levels directly, we cloned additional genes identified in our suppressor screen and performed next-generation sequencing of small RNA populations that differentially accumulate in the cer7 mutant in comparison with the wild type. Our results demonstrate that the trans-acting small interfering RNA class of small RNAs are the effector molecules involved in direct silencing of CER3 and that the expression of five additional genes (EARLY RESPONSE TO DEHYDRATION14, AUXIN RESISTANT1, a translation initiation factor SUI1 family protein, and two genes of unknown function) is controlled by both CER7 and trans-acting small interfering RNAs.
+
+CER7: !regulates! CER3
+CER7: !degrades! mRNA
+RNA-DEPENDENT RNA POLYMERASE1: !interacts with! CER7
+SUPPRESSOR OF GENE SILENCING3: !interacts with! CER7
+trans-acting small interfering RNAs: !silences! CER3
+EARLY RESPONSE TO DEHYDRATION14: !controlled by! CER7 and trans-acting small interfering RNAs
+AUXIN RESISTANT1: !controlled by! CER7 and trans-acting small interfering RNAs
+translation initiation factor SUI1 family protein: !controlled by! CER7 and trans-acting small interfering RNAs
+two genes of unknown function: !controlled by! CER7 and trans-acting small interfering RNAs

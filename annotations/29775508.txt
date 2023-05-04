@@ -1,0 +1,10 @@
+Leaves are essential organs for plants. We previously identified a functional gene possibly encoding a component of the SWI/SNF complex named Leaf and Flower Related (LFR) in Arabidopsis thaliana. Loss-of-function mutants of LFR displayed obvious defects in leaf morphogenesis, indicating its vital role in leaf development. Here an allelic null mutant of ASYMMETRIC LEAVES2 (AS2), as2-6, was isolated as an enhancer of lfr-1 in petiole length, vasculature pattern and leaf margin development. The lfr as2 double-mutants showed enhanced ectopic expression of BREVIPEDICELLUS (BP) compared with each of the single-mutants, which is consistent with their synergistic genetic enhancement in multiple BP-dependent development processes. Moreover, LFR and several putative subunits of the SWI/SNF complex interacted physically with AS2. LFR associated with BP chromatin in an AS1-AS2-dependent manner to promote the nucleosome occupancy for appropriate BP repression in leaves. Taken together, our findings reveal that LFR and the SWI/SNF complex play roles in leaf development at least partly by repressing BP transcription as interacting factors of AS2, which expounds our understanding of BP repression at the chromatin structure level in leaf development.
+
+LFR: !affects! Leaf Morphogenesis
+LFR: !interacts with! AS2
+LFR: !represses! BP transcription
+SWI/SNF complex: !interacts with! AS2
+SWI/SNF complex: !represses! BP transcription
+AS2: !enhances! LFR-1
+AS2: !interacts with! LFR & SWI/SNF complex
+BP: !repressed by! LFR & SWI/SNF complex

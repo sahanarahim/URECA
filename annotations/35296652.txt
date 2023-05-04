@@ -1,0 +1,8 @@
+Engineering the microbial production of secondary metabolites is limited by the known reactions of correctly annotated enzymes. Therefore, the machine learning discovery of specialized enzymes offers great potential to expand the range of biosynthesis pathways. Benzylisoquinoline alkaloid production is a model example of metabolic engineering with potential to revolutionize the paradigm of sustainable biomanufacturing. Existing bacterial studies utilize a norlaudanosoline pathway, whereas plants contain a more stable norcoclaurine pathway, which is exploited in yeast. However, committed aromatic precursors are still produced using microbial enzymes that remain elusive in plants, and additional downstream missing links remain hidden within highly duplicated plant gene families. In the current study, machine learning is applied to predict and select plant missing link enzymes from homologous candidate sequences. Metabolomics-based characterization of the selected sequences reveals potential aromatic acetaldehyde synthases and phenylpyruvate decarboxylases in reconstructed plant gene-only benzylisoquinoline alkaloid pathways from tyrosine. Synergistic application of the aryl acetaldehyde producing enzymes results in enhanced benzylisoquinoline alkaloid production through hybrid norcoclaurine and norlaudanosoline pathways.
+
+Gene: !affects! Production 
+Gene: !localizes to! Yeast 
+Gene: !interacts with! Metabolomics 
+Gene: !enhances! Alkaloid Production 
+Gene: !represses! Aromatic Precursors 
+Gene: !synthesizes! Aromatic Acetaldehyde

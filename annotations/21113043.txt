@@ -1,0 +1,9 @@
+The comparison of gene expression profiles among DNA microarray experiments enables the identification of unknown relationships among experiments to uncover the underlying biological relationships. Despite the ongoing accumulation of data in public databases, detecting biological correlations among gene expression profiles from multiple laboratories on a large scale remains difficult. Here, we applied a module (sets of genes working in the same biological action)-based correlation analysis in combination with a network analysis to Arabidopsis data and developed a 'module-based correlation network' (MCN) which represents relationships among DNA microarray experiments on a large scale. We developed a Web-based data analysis tool, 'AtCAST' (Arabidopsis thaliana: DNA Microarray Correlation Analysis Tool), which enables browsing of an MCN or mining of users' microarray data by mapping the data into an MCN. AtCAST can help researchers to find novel connections among DNA microarray experiments, which in turn will help to build new hypotheses to uncover physiological mechanisms or gene functions in Arabidopsis.
+
+Gene: !affects! Process 
+Experiment: !identifies! Relationships 
+Data: !accumulates in! Databases 
+Module: !correlates with! Network Analysis 
+MCN: !represents! Experiments 
+AtCAST: !enables! Browsing/Mining 
+AtCAST: !helps to! Build Hypotheses

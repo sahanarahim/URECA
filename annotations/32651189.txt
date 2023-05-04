@@ -1,0 +1,9 @@
+We report an advanced web server, the plant-specific small noncoding RNA interference tool <i>pssRNAit</i>, which can be used to design a pool of small interfering RNAs (siRNAs) for highly effective, specific, and nontoxic gene silencing in plants. In developing this tool, we integrated the transcript dataset of plants, several rules governing gene silencing, and a series of computational models of the biological mechanism of the RNA interference (RNAi) pathway. The designed pool of siRNAs can be used to construct a long double-strand RNA and expressed through virus-induced gene silencing (VIGS) or synthetic transacting siRNA vectors for gene silencing. We demonstrated the performance of <i>pssRNAit</i> by designing and expressing the VIGS constructs to silence <i>Phytoene desaturase</i> (<i>PDS</i>) or a ribosomal protein-encoding gene, <i>RPL10</i> (<i>QM</i>), in <i>Nicotiana benthamiana</i> We analyzed the expression levels of predicted intended-target and off-target genes using reverse transcription quantitative PCR. We further conducted an RNA-sequencing-based transcriptome analysis to assess genome-wide off-target gene silencing triggered by the fragments that were designed by <i>pssRNAit</i>, targeting different homologous regions of the <i>PDS</i> gene. Our analyses confirmed the high accuracy of siRNA constructs designed using <i>pssRNAit</i> The <i>pssRNAit</i> server, freely available at https://plantgrn.noble.org/pssRNAit/, supports the design of highly effective and specific RNAi, VIGS, or synthetic transacting siRNA constructs for high-throughput functional genomics and trait improvement in >160 plant species.
+
+pssRNAit: !designs! siRNAs 
+siRNAs: !silence! genes 
+VIGS: !expresses! siRNAs 
+PDS/RPL10: !targeted by! siRNAs 
+RT-qPCR: !analyzes! expression levels 
+RNA-seq: !assesses! off-target gene silencing 
+pssRNAit: !supports! design of RNAi constructs

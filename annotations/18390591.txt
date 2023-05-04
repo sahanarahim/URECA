@@ -1,0 +1,10 @@
+The three amino acid loop extension (TALE) homeodomain superfamily, which comprises the KNOTTED-like and BEL1-like families, plays a critical role in regulating meristem activity. We previously demonstrated a function for KNAT6 (for KNOTTED-like from Arabidopsis thaliana 6) in shoot apical meristem and boundary maintenance during embryogenesis. KNAT2, the gene most closely related to KNAT6, does not play such a role. To investigate the contribution of KNAT6 and KNAT2 to inflorescence development, we examined their interactions with two TALE genes that regulate internode patterning, BREVIPEDICELLUS (BP) and PENNYWISE (PNY). Our data revealed distinct and overlapping interactions of KNAT6 and KNAT2 during inflorescence development. Removal of KNAT6 activity suppressed the pny phenotype and partially rescued the bp phenotype. Removal of KNAT2 activity had an effect only in the absence of both BP and KNAT6 or in the absence of both BP and PNY. Consistent with this, KNAT6 and KNAT2 expression patterns were enlarged in both bp and pny mutants. Thus, the defects seen in pny and bp are attributable mainly to the misexpression of KNAT6 and to a lesser extent of KNAT2. Hence, our data showed that BP and PNY restrict KNAT6 and KNAT2 expression to promote correct inflorescence development. This interaction was also revealed in the carpel.
+
+KNAT6: !interacts with! BP 
+KNAT6: !interacts with! PNY
+KNAT2: !interacts with! BP
+KNAT2: !interacts with! PNY
+BP: !restricts! KNAT6
+BP: !restricts! KNAT2
+PNY: !restricts! KNAT6
+PNY: !restricts! KNAT2

@@ -1,0 +1,8 @@
+The Arabidopsis COP1/SPA complex is a key repressor of photomorphogenesis that suppresses light signaling in the dark. Both COP1 and SPA proteins are essential components of this complex. Although COP1 also exists in humans, SPA genes are specific to the green lineage. To elucidate the evolution of SPA genes we analyzed SPA functions in the moss Physcomitrella patens by characterizing knockout mutants in the two Physcomitrella SPA genes PpSPAa and PpSPAb. Light-grown PpspaAB double mutants exhibit smaller gametophores than the wild-type. In the dark, PpspaAB mutant gametophores show enhanced continuation of growth but etiolate normally. Gravitropism in the dark is reduced in PpspaAB mutant protonemata. The expression of light-regulated genes is mostly not constitutive in PpspaAB mutants. PpSPA and PpCOP1 interact; PpCOP1 also interacts with the transcription factor PpHY5 and, indeed, PpHY5 is destabilized in dark-grown Physcomitrella. Degradation of PpHY5 in darkness, however, does not require PpSPAa and PpSPAb. The data suggest that COP1/SPA-mediated light signaling is only partially conserved between Arabidopsis and Physcomitrella. Whereas COP1/SPA interaction and HY5 degradation in darkness is conserved, the role of SPA proteins appears to have diverged. PpSPA genes, unlike their Arabidopsis counterparts, are only required to suppress a subset of light responses in darkness.
+
+COP1: !interacts with! SPA 
+SPA: !interacts with! COP1 
+COP1: !interacts with! HY5 
+HY5: !destabilized by! COP1 
+SPA: !suppresses! light responses 
+PpSPA: !diverged from! Arabidopsis SPA

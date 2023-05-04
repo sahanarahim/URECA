@@ -1,0 +1,10 @@
+Maintaining cellular Na(+)/K(+) homeostasis is pivotal for plant survival in saline environments. However, knowledge about the molecular regulatory mechanisms of Na(+)/K(+) homeostasis in plants under salt stress is largely lacking. In this report, the Arabidopsis double mutants atrbohD1/F1 and atrbohD2/F2, in which the AtrbohD and AtrbohF genes are disrupted and generation of reactive oxygen species (ROS) is pronouncedly inhibited, were found to be much more sensitive to NaCl treatments than wild-type (WT) and the single null mutant atrbohD1 and atrbohF1 plants. Furthermore, the two double mutant seedlings had significantly higher Na(+) contents, lower K(+) contents, and resultant greater Na(+)/K(+) ratios than the WT, atrbohD1, and atrbohF1 under salt stress. Exogenous H(2)O(2) can partially reverse the increased effects of NaCl on Na(+)/K(+) ratios in the double mutant plants. Pre-treatments with diphenylene iodonium chloride, a widely used inhibitor of NADPH oxidase, clearly enhanced the Na(+)/K(+) ratios in WT seedlings under salt stress. Moreover, NaCl-inhibited inward K(+) currents were arrested, and NaCl-promoted increases in cytosolic Ca(2+) and plasma membrane Ca(2+) influx currents were markedly attenuated in atrbohD1/F1 plants. No significant differences in the sensitivity to osmotic or oxidative stress among the WT, atrbohD1, atrbohF1, atrbohD1/F1, and atrbohD2/F2 were observed. Taken together, these results strongly suggest that ROS produced by both AtrbohD and AtrbohF function as signal molecules to regulate Na(+)/K(+) homeostasis, thus improving the salt tolerance of Arabidopsis.
+
+AtrbohD: !produces! ROS 
+AtrbohF: !produces! ROS 
+ROS: !regulate! Na(+)/K(+) homeostasis 
+NaCl: !increases! Na(+)/K(+) ratios 
+H2O2: !partially reverses! NaCl effects 
+DPI: !enhances! Na(+)/K(+) ratios 
+NaCl: !inhibits! K(+) currents 
+NaCl: !promotes! Ca(2+) influx

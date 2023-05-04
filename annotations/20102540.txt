@@ -1,0 +1,7 @@
+Photosynthetic leaf traits were determined for savanna and forest ecosystems in West Africa, spanning a large range in precipitation. Standardized major axis fits revealed important differences between our data and reported global relationships. Especially for sites in the drier areas, plants showed higher photosynthetic rates for a given N or P when compared with relationships from the global data set. The best multiple regression for the pooled data set estimated V(cmax) and J(max) from N(DW) and S. However, the best regression for different vegetation types varied, suggesting that the scaling of photosynthesis with leaf traits changed with vegetation types. A new model is presented representing independent constraints by N and P on photosynthesis, which can be evaluated with or without interactions with S. It assumes that limitation of photosynthesis will result from the least abundant nutrient, thereby being less sensitive to the allocation of the non-limiting nutrient to non-photosynthetic pools. The model predicts an optimum proportionality for N and P, which is distinct for V(cmax) and J(max) and inversely proportional to S. Initial tests showed the model to predict V(cmax) and J(max) successfully for other tropical forests characterized by a range of different foliar N and P concentrations.
+
+N: !affects! Photosynthesis
+P: !affects! Photosynthesis
+S: !inversely proportional to! N and P 
+V(cmax): !estimated from! N(DW) and S
+J(max): !estimated from! N(DW) and S

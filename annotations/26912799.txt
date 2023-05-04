@@ -1,0 +1,10 @@
+Long non-coding RNAs (lncRNAs) participate in a wide range of biological processes, but lncRNAs in plants remain largely unknown; in particular, we lack a systematic identification of plant lncRNAs involved in hormone responses. Moreover, allelic variation in lncRNAs remains poorly characterized at a large scale. Here, we conducted high-throughput RNA-sequencing of leaves from control and gibberellin (GA)-treated Populus tomentosa and identified 7655 reliably expressed lncRNAs. Among the 7655 lncRNAs, the levels of 410 lncRNAs changed in response to GA. Seven GA-responsive lncRNAs were predicted to be putative targets of 18 miRNAs, and one GA-responsive lncRNA (TCONS_00264314) was predicted to be a target mimic of ptc-miR6459b. Computational analysis predicted 939 potential cis-regulated target genes and 965 potential trans-regulated target genes for GA-responsive lncRNAs. Functional annotation of these potential target genes showed that they participate in many different biological processes, including auxin signal transduction and synthesis of cellulose and pectin, indicating that GA-responsive lncRNAs may influence growth and wood properties. Finally, single nucleotide polymorphism (SNP)-based association analysis showed that 112 SNPs from 52 GA-responsive lncRNAs and 1014 SNPs from 296 potential target genes were significantly associated with growth and wood properties. Epistasis analysis also provided evidence for interactions between lncRNAs and their potential target genes. Our study provides a comprehensive view of P. tomentosa lncRNAs and offers insights into the potential functions and regulatory interactions of GA-responsive lncRNAs, thus forming the foundation for future functional analysis of GA-responsive lncRNAs in P. tomentosa.
+
+lncRNA: !participates in! biological processes 
+lncRNA: !changes in response to! GA 
+lncRNA: !predicted to be target of! miRNAs 
+lncRNA: !predicted to regulate! target genes 
+target genes: !participate in! auxin signal transduction 
+target genes: !synthesize! cellulose and pectin 
+SNPs: !associated with! growth and wood properties 
+lncRNAs: !interact with! potential target genes

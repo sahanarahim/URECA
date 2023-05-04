@@ -1,0 +1,18 @@
+Leaf functional traits and their covariation underlie plant ecological adaptations along environmental gradients, but there is limited information on the global covariation patterns of key leaf construction traits. To explore how leaf construction traits co-vary across diverse climate and soil environmental conditions, we compiled a global dataset including cell wall mass per unit leaf mass (CW<sub>mass</sub> ), leaf carbon (C) and calcium (Ca) concentrations, and specific leaf area (SLA) for 2348 angiosperm species from 340 sites world-wide. Our results demonstrated negative correlations between leaf C and Ca concentrations and between leaf C and SLA across diverse nongraminoid angiosperms. Leaf C concentration increased with increasing mean annual temperature (MAT) and mean annual precipitation (MAP) and with decreasing soil pH and calcium carbonate (CaCO<sub>3</sub> ) concentration, whereas leaf Ca concentration and SLA exhibited the opposite responses to these environmental variables. The covariations of leaf Ca-C and of leaf SLA-C were stronger in habitats with lower MAT and MAP, and/or higher soil CaCO<sub>3</sub> content. This global-scale analysis demonstrates that the leaf C and Ca concentrations and SLA together govern the C and biomass investment strategies in leaves of nongraminoids. We conclude that environmental conditions strongly shape leaf construction traits and their covariation patterns.
+
+CW<sub>mass</sub>: !correlates with! C
+C: !correlates with! Ca
+C: !increases with! MAT
+C: !increases with! MAP
+C: !decreases with! soil pH
+C: !decreases with! CaCO<sub>3</sub>
+Ca: !correlates with! SLA
+Ca: !decreases with! MAT
+Ca: !decreases with! MAP
+Ca: !increases with! soil pH
+Ca: !increases with! CaCO<sub>3</sub>
+SLA: !correlates with! C
+SLA: !decreases with! MAT
+SLA: !decreases with! MAP
+SLA: !increases with! soil pH
+SLA: !increases with! CaCO<sub>3</sub>

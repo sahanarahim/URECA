@@ -1,0 +1,9 @@
+['30058106', 'MED7 is a subunit of the Mediator middle module and is encoded by two paralogs in  Arabidopsis. We generated MED7 silenced lines using RNAi to study its impact on  Arabidopsis growth and development. Compared with wild type, etiolated seedlings  of the MED7 silenced lines exhibited reduced hypocotyl length caused by reduced  cell elongation when grown in the dark. The hypocotyl length phenotype was  rescued by exogenously supplied brassinosteroid. In addition, MED7 silenced  seedlings exhibited defective hook opening in the dark as well as defective  cotyledon expansion in the presence of the brassinosteroid inhibitor  brassinazole. Whole transcriptome analysis on etiolated seedlings using RNA  sequencing revealed several genes known to be regulated by auxin and  brassinosteroids, and a broad range of cell wall-related genes that were  differentially expressed in the MED7 silenced lines. This was especially evident  for genes involved in cell wall extension and remodeling, such as EXPANSINs and  XTHs. Conditional complementation with each MED7 paralog individually restored  the hypocotyl phenotype as well as the gene expression defects. Additionally,  conditional expression of MED7 had no effects that were independent of the  Mediator complex on the observed phenotypes. We concluded that the MED7 paralogs  function redundantly in regulating genes required for the normal development of  etiolated Arabidopsis seedlings.', '2018 Nov', 'Plant J', '10.1111/tpj.14052', 'ORCID:']
+
+MED7: !affects! Arabidopsis growth and development 
+MED7: !regulates! genes 
+brassinosteroid: !rescues! hypocotyl length phenotype 
+brassinazole: !inhibits! cotyledon expansion 
+auxin: !regulates! genes 
+EXPANSINs/XTHs: !differentially expressed! in MED7 silenced lines 
+MED7 paralogs: !function redundantly! in regulating genes

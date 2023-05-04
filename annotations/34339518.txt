@@ -1,0 +1,15 @@
+Knowledge of the evolutionary processes which govern pathogen recognition is critical to understanding durable disease resistance. We determined how Phytophthora infestans effector PiAVR2 is recognised by evolutionarily distinct resistance proteins R2 and Rpi-mcq1. We employed yeast two-hybrid, co-immunoprecipitation, virus-induced gene silencing, transient overexpression, and phosphatase activity assays to investigate the contributions of BSL phosphatases to R2- and Rpi-mcq1-mediated hypersensitive response (R2 HR and Rpi-mcq1 HR, respectively). Silencing PiAVR2 target BSL1 compromises R2 HR. Rpi-mcq1 HR is compromised only when BSL2 and BSL3 are silenced. BSL1 overexpression increases R2 HR and compromises Rpi-mcq1. However, overexpression of BSL2 or BSL3 enhances Rpi-mcq1 and compromises R2 HR. Okadaic acid, which inhibits BSL phosphatase activity, suppresses both recognition events. Moreover, expression of a BSL1 phosphatase-dead (PD) mutant suppresses R2 HR, whereas BSL2-PD and BSL3-PD mutants suppress Rpi-mcq1 HR. R2 interacts with BSL1 in the presence of PiAVR2, but not with BSL2 and BSL3, whereas no interactions were detected between Rpi-mcq1 and BSLs. Thus, BSL1 activity and association with R2 determine recognition of PiAVR2 by R2, whereas BSL2 and BSL3 mediate Rpi-mcq1 perception of PiAVR2. R2 and Rpi-mcq1 utilise distinct mechanisms to detect PiAVR2 based on association with different BSLs, highlighting central roles of these effector targets for both disease and disease resistance.
+
+R2: !interacts with! BSL1
+Rpi-mcq1: !interacts with! BSL2
+Rpi-mcq1: !interacts with! BSL3
+BSL1: !enhances! R2 HR
+BSL2: !enhances! Rpi-mcq1 HR
+BSL3: !enhances! Rpi-mcq1 HR
+BSL1: !represses! Rpi-mcq1 HR
+BSL2: !represses! R2 HR
+BSL3: !represses! R2 HR
+Okadaic acid: !inhibits! BSL phosphatase activity
+BSL1 PD mutant: !suppresses! R2 HR
+BSL2 PD mutant: !suppresses! Rpi-mcq1 HR
+BSL3 PD mutant: !suppresses! Rpi-mcq1 HR

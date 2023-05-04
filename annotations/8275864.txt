@@ -1,0 +1,10 @@
+['8275864', "A genetic analysis of root development in Arabidopsis thaliana has identified  mutants that have abnormal morphogenesis. Four of these root morphogenesis  mutants show dramatic alterations in post-embryonic root development. The  short-root mutation results in a change from indeterminate to determinate root  growth and the loss of internal root cell layers. The cobra and lion's tail  mutations cause abnormal root cell expansion which is conditional upon the rate  of root growth. Expansion is greatest in the epidermal cells in cobra and in the  stele cells in lion's tail. The sabre mutation causes abnormal cell expansion  that is greatest in the root cortex cell layer and is independent of the root  growth rate. The tissue-specific effects of these mutations were characterized  with monoclonal antibodies and a transgenic marker line. Genetic combinations of  the four mutants have provided insight into the regulation of growth and cell  shape during Arabidopsis root development.", '1993 Sep', 'Development', '10.1242/dev.119.Supplement.57', 'Aeschbacher']
+
+mutant: !causes! abnormal morphogenesis
+short-root mutation: !changes! indeterminate to determinate root growth
+cobra mutation: !causes! abnormal epidermal cell expansion
+lion's tail mutation: !causes! abnormal stele cell expansion
+sabre mutation: !causes! abnormal cortex cell expansion
+monoclonal antibodies: !characterize! tissue-specific effects
+transgenic marker line: !characterize! tissue-specific effects
+genetic combinations: !provide insight into! regulation of growth and cell shape

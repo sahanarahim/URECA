@@ -1,0 +1,9 @@
+The mechanisms underlying leafy heads in vegetables are poorly understood. Here, we cloned a quantitative trait locus (QTL) controlling leafy heads in lettuce (Lactuca sativa). The QTL encodes a transcription factor, SAWTOOTH 1 (LsSAW1), which has a BEL1-like homeodomain and is a homolog of Arabidopsis thaliana. A 1-bp deletion in Lssaw1 contributes to the development of leafy heads. Laser-capture microdissection and RNA-sequencing showed that LsSAW1 regulates leaf dorsiventrality and loss-of-function of Lssaw1 downregulates the expression of many adaxial genes but upregulates abaxial genes. LsSAW1 binds to the promoter region of the adaxial gene ASYMMETRIC LEAVES 1 (LsAS1) to upregulate its expression. Overexpression of LsAS1 compromised the effects of Lssaw1 on heading. LsSAW1 also binds to the promoter region of the abaxial gene YABBY 1 (LsYAB1), but downregulates its expression. Overexpression of LsYAB1 led to bending leaves in LsSAW1 genotypes. LsSAW1 directly interacts with KNOTTED 1 (LsKN1), which is necessary for leafy heads in lettuce. RNA-seq data showed that LsSAW1 and LsKN1 exert antagonistic effects on the expression of thousands of genes. LsSAW1 compromises the ability of LsKN1 to repress LsAS1. Our results suggest that downregulation or loss-of-function of adaxial genes and upregulation of abaxial genes allow for the development of leafy heads.
+
+LsSAW1: !regulates! leaf dorsiventrality
+LsSAW1: !binds to! LsAS1
+LsSAW1: !binds to! LsYAB1
+LsSAW1: !interacts with! LsKN1
+LsSAW1: !downregulates! LsYAB1
+LsSAW1: !compromises! LsKN1
+LsKN1: !represses! LsAS1

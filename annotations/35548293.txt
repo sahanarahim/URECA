@@ -1,0 +1,8 @@
+During the process of drought and rehydration, dew can promote the rapid activation of photosynthetic activity and delay the wilting time of plant leaves and stems. It is clear that the amount of dew will affect the growth of plants. However, limited research is being done to detect and measure the amount of dew. Therefore, in this study, a statistical method for measuring the amount of dew based on computer vision processing was developed. In our framework, dewdrops can be accurately measured by isolating the background area based on color features and detecting the edge and statistical area. In this scheme, the multi-convolutional edge detection networks based on contour search loss function are proposed as the main implementation algorithm of edge detection. Through color feature background region segmentation and the proposed edge detection networks, our algorithm can detect dew in complex plant backgrounds. Experimental results showed that the proposed method gains a favorable detection accuracy compared with other edge detection methods. Moreover, we achieved the best Optimal Image Scale (OIS) and Optimal Dataset Scale (ODS) when testing with different pixel values, which illustrate the robustness of our method in dew detection.
+
+dew: !affects! plant growth 
+computer vision processing: !measures! amount of dew 
+multi-convolutional edge detection networks: !implements! edge detection 
+color feature background region segmentation: !isolates! background area 
+contour search loss function: !proposed as! main algorithm 
+OIS/ODS: !test! robustness of method

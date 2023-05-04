@@ -1,0 +1,7 @@
+During the transition from water to land, plants had to cope with the loss of water through transpiration, the inevitable result of photosynthetic CO2 fixation on land [1, 2]. Control of transpiration became possible through the development of a new cell type: guard cells, which form stomata. In vascular plants, stomatal regulation is mediated by the stress hormone ABA, which triggers the opening of the SnR kinase OST1-activated anion channel SLAC1 [3, 4]. To understand the evolution of this regulatory circuit, we cloned both ABA-signaling elements, SLAC1 and OST1, from a charophyte alga, a liverwort, and a moss, and functionally analyzed the channel-kinase interactions. We were able to show that the emergence of stomata in the last common ancestor of mosses and vascular plants coincided with the origin of SLAC1-type channels capable of using the ancient ABA drought signaling kinase OST1 for regulation of stomatal closure.
+
+ABA: !triggers! OST1
+OST1: !activates! SLAC1
+SLAC1: !mediates! stomatal regulation
+SLAC1: !uses! OST1
+OST1: !originated with! ABA drought signaling

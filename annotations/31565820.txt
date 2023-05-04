@@ -1,0 +1,9 @@
+In response to pathogens, plant cells exhibit a rapid increase in the intracellular calcium concentration and a burst of reactive oxygen species (ROS). The cytosolic increase in Ca<sup>2+</sup> and the accumulation of ROS are critical for inducing programmed cell death (PCD), but the molecular mechanism is not fully understood. We screened an Arabidopsis mutant, sad2-5, which harbours a T-DNA insertion in the 18<sup>th</sup> exon of the importin beta-like gene, SAD2. The H<sub>2</sub> O<sub>2</sub> -induced increase in the [Ca<sup>2+</sup> ]<sub>cyt</sub> of the sad2-5 mutant was greater than that of the wild type, and the sad2-5 mutant showed clear cell death phenotypes and abnormal H<sub>2</sub> O<sub>2</sub> accumulation under fumonisin-B1 (FB1) treatment. CaCl<sub>2</sub> could enhance the FB1-induced cell death of the sad2-5 mutant, whereas lanthanum chloride (LaCl<sub>3</sub> ), a broad-spectrum calcium channel blocker, could restore the FB1-induced PCD phenotype of sad2-5. The sad2-5 fbr11-1 double mutant exhibited the same FB1-insensitive phenotype as fbr11-1, which plays a critical role in novo sphingolipid synthesis, indicating that SAD2 works downstream of FBR11. These results suggest the important role of nuclear transporters in calcium- and ROS-mediated PCD response as well as provide an important theoretical basis for further analysis of the molecular mechanism of SAD2 function in PCD and for improvement of the resistance of crops to adverse environments.
+
+SAD2: !affects! PCD
+SAD2: !localizes to! nucleus
+SAD2: !interacts with! FBR11
+Ca<sup>2+</sup>: !enhances! FB1-induced cell death of sad2-5
+H<sub>2</sub> O<sub>2</sub>: !accumulates! in sad2-5 mutant
+LaCl<sub>3</sub>: !represses! FB1-induced PCD phenotype of sad2-5
+FBR11: !synthesizes! novo sphingolipids

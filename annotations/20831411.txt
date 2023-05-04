@@ -1,0 +1,9 @@
+The type III secretion system (T3SS) is an essential virulence factor for many bacterial pathogens. Polynucleotide phosphorylase (PNPase) is one of the major exoribonucleases in bacteria and plays important roles in mRNA degradation, tRNA processing, and small RNA (sRNA) turnover. In this study, we showed that PNPase downregulates the transcription of T3SS structural and effector genes of the phytopathogenic bacterium Dickeya dadantii. This negative regulation of T3SS by PNPase occurs by repressing the expression of hrpL, encoding a master regulator of T3SS in D. dadantii. By reducing rpoN mRNA stability, PNPase downregulates the transcription of hrpL, which leads to a reduction in T3SS gene expression. Moreover, we have found that PNPase downregulates T3SS by decreasing hrpL mRNA stability. RsmB, a regulatory sRNA, enhances hrpL mRNA stability in D. dadantii. Our results suggest that PNPase decreases the amount of functional RsmB transcripts that could result in reduction of hrpL mRNA stability. In addition, bistable gene expression (differential expression of a single gene that creates two distinct subpopulations) of hrpA, hrpN, and dspE was observed in D. dadantii under in vitro conditions. Although PNPase regulates the proportion of cells in the high state and the low state of T3SS gene expression, it appears that PNPase is not the key switch that triggers the bistable expression patterns of T3SS genes.
+
+PNPase: !downregulates! T3SS
+PNPase: !represses! hrpL
+PNPase: !decreases! rpoN mRNA stability
+PNPase: !reduces! hrpL mRNA stability
+RsmB: !enhances! hrpL mRNA stability
+PNPase: !decreases! functional RsmB transcripts
+PNPase: !regulates! proportion of cells in high/low state

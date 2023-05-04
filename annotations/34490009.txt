@@ -1,0 +1,8 @@
+We assembled a dual-layered biological network to study the roles of resistance gene analogs (RGAs) in the resistance of sugarcane to infection by the biotrophic fungus causing smut disease. Based on sugarcane-<i>Arabidopsis</i> orthology, the modeling used metabolic and protein-protein interaction (PPI) data from <i>Arabidopsis thaliana</i> (from Kyoto Encyclopedia of Genes and Genomes (KEGG) and BioGRID databases) and plant resistance curated knowledge for Viridiplantae obtained through text mining of the UniProt/SwissProt database. With the network, we integrated functional annotations and transcriptome data from two sugarcane genotypes that differ significantly in resistance to smut and applied a series of analyses to compare the transcriptomes and understand both signal perception and transduction in plant resistance. We show that the smut-resistant sugarcane has a larger arsenal of RGAs encompassing transcriptionally modulated subnetworks with other resistance elements, reaching <i>hub</i> proteins of primary metabolism. This approach may benefit molecular breeders in search of markers associated with quantitative resistance to diseases in non-model systems.
+
+RGA: !affects! Resistance 
+Metabolic/PPI data: !from! KEGG/BioGRID databases 
+UniProt/SwissProt database: !provides! Plant resistance curated knowledge 
+Transcriptome data: !compared! Between two sugarcane genotypes 
+RGAs: !encompass! Transcriptionally modulated subnetworks 
+Subnetworks: !reach! Hub proteins of primary metabolism

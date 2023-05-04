@@ -1,0 +1,9 @@
+A central question in biology is how spatial information is conveyed to locally establish a developmental program. Rice (Oryza sativa) can survive flash floods by the emergence of adventitious roots from the stem. Epidermal cells that overlie adventitious root primordia undergo cell death to facilitate root emergence. Root growth and epidermal cell death are both controlled by ethylene. This study aimed to identify the signal responsible for the spatial control of cell death. Epidermal cell death correlated with the proximity to root primordia in wild-type and ADVENTITIOUS ROOTLESS1 plants, indicating that the root emits a spatial signal. Ethylene-induced root growth generated a mechanical force of ~18 millinewtons within 1 h. Force application to epidermal cells above root primordia caused cell death in a dose-dependent manner and was inhibited by 1-methylcyclopropene or diphenylene iodonium, an inhibitor of NADPH oxidase. Exposure of epidermal cells not overlying a root to either force and ethylene or force and the catalase inhibitor aminotriazole induced ectopic cell death. Genetic downregulation of the reactive oxygen species (ROS) scavenger METALLOTHIONEIN2b likewise promoted force-induced ectopic cell death. Hence, reprogramming of epidermal cell fate by the volatile plant hormone ethylene requires two signals: mechanosensing for spatial resolution and ROS for cell death signaling.
+
+root: !emits! spatial signal
+ethylene: !induces! root growth
+force: !applies to! epidermal cells
+1-methylcyclopropene: !inhibits! force application
+diphenylene iodonium: !inhibits! force application
+aminotriazole: !induces! ectopic cell death
+METALLOTHIONEIN2b: !downregulates! ROS scavenger

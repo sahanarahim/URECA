@@ -1,0 +1,12 @@
+['12925595', 'As in most dicotyledonous plants, the leaves and cotyledons of Arabidopsis have a  closed, reticulate venation pattern. This pattern is proposed to be generated  through canalization of the hormone auxin. We have identified two genes, FORKED 1  (FKD1) and FORKED 2 (FKD2), that are necessary for the closed venation pattern:  mutations in either gene result in an open venation pattern that lacks distal  meeting. In fkd1 leaves and cotyledons, the defect is first evident in the  provascular tissue, such that the distal end of the newly forming vein does not  connect to the previously formed, more distal vein. Plants doubly mutant for both  genes have widespread defects in leaf venation, suggesting that the genes  function in an overlapping manner at the distal junctions, but act redundantly  throughout leaf veins. Expression of an auxin responsive reporter gene is reduced  in fkd1 leaves, suggesting that FKD1 is necessary for the auxin response that  directs vascular tissue development. The reduction in reporter gene expression  and the fkd1 phenotype are relieved in the presence of auxin transport  inhibition. The restoration of vein junctions in situations where auxin  concentrations are increased indicates that distal vein junctions are sites of  low auxin concentration and are particularly sensitive to reduced FKD1 and FKD2  activity.', '2003 Oct', 'Development', '10.1242/dev.00689', 'Schultz']
+
+FKD1: !affects! Auxin response 
+FKD2: !affects! Auxin response 
+FKD1: !localizes to! Provascular tissue 
+FKD2: !localizes to! Provascular tissue 
+FKD1: !interacts with! FKD2 
+FKD2: !interacts with! FKD1 
+FKD1: !enhances! Auxin concentration 
+FKD2: !enhances! Auxin concentration 
+FKD1: !represses! Reporter gene expression 
+FKD2: !represses! Reporter gene expression

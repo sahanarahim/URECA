@@ -1,0 +1,8 @@
+Stomata are key innovation in plants that drives the global carbon and water cycle. In the past few decades, many stomatal models have been developed for studying gas exchange, photosynthesis, and transpirational characteristics of plants, but they provide limited information on stomatal mechanisms at the molecular and cellular levels. Quantitative mathematical modeling offers an effective <i>in silico</i> approach to explore the link between microscopic transporter functioning and the macroscopic stomatal characteristics. As a first step, a dynamic system model based on the guard cell membrane transport system was developed and encoded in the OnGuard software. This software has already generated a wealth of testable predictions and outcomes sufficient to guide phenotypic and mutational studies. It has a user-friendly interface, which can be easily accessed by researchers to manipulate the key elements and parameters in the system for guard cell simulation in plants. To promote the adoption of this OnGuard application, here we outline a standard protocol that will enable users with experience in basic plant physiology, cell biology, and membrane transport to advance quickly in learning to use it.
+
+Gene: !affects! Stomata 
+Stomata: !driven by! Gene 
+Gene: !localizes to! Guard Cell Membrane Transport System 
+Guard Cell Membrane Transport System: !modeled by! OnGuard Software 
+OnGuard Software: !simulates! Guard Cell 
+OnGuard Software: !manipulated by! Researchers

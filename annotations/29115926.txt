@@ -1,0 +1,14 @@
+The migration of cadmium (Cd) from contaminated soil to rice is a cause for concern. However, the molecular mechanism underlying the response of rice roots to various Cd stresses remains to be clarified from the viewpoint of the co-expression network at a system-wide scale. We employed a comparative RNAseq-based approach to identify early Cd-responsive differentially expressed genes (DEGs) in rice 'Nipponbare' seedling roots after 1 h of high-Cd treatment. A multiplicity of the identified 1772 DEGs were implicated in hormone signaling and transcriptional regulation, particularly NACs and WRKYs were all upregulated under Cd stress. All of the 6 Cd-upregulated ABC transporters were pleiotropic drug resistance proteins (PDRs), whereas all of the 6 ZRT/IRT-like proteins (ZIPs) were consistently downregulated by Cd treatment. To further confirm our results of this early transcriptomic response to Cd exposure, we then conducted weighted gene co-expression network analysis (WGCNA) to re-analyze our RNAseq data in combination with other 11 previously published RNAseq datasets for rice roots exposed to diverse concentrations of Cd for extended treatment periods. This integrative approach identified 271 transcripts as universal Cd-regulated DEGs that are key components of the Cd treatment coupled co-expression module. A global view of the 164 transcripts with annotated functions in pathway networks revealed several Cd-upregulated key functional genes, including transporter ABCG36/OsPDR9, 12-oxo-phytodienoic acid reductases (OPRs) for JA synthesis, and ZIM domain proteins JAZs in JA signaling, as well as OsWRKY10, NAC, and ZFP transcription factors. More importantly, 104 of these, including ABCG36/OsPDR9, OsNAC3, as well as several orthologs in group metalloendoproteinase, plastocyanin-like domain containing proteins and pectin methylesterase inhibitor, may respond specifically to various Cd pressures, after subtracting the 60 general stress-responsive genes reported to be commonly upregulated following multiple stresses. An integrative approach was implemented to identify DEGs and co-expression network modules in response to various Cd pressures, and 104 of the 164 annotatable universal Cd-responsive DEGs may specifically respond to various Cd pressures. These results provide insight into the universal molecular mechanisms beneath the Cd response in rice roots, and suggest many promising targets for improving the rice acclimation process against Cd toxicity.
+
+NACs: !upregulated by! Cd
+WRKYs: !upregulated by! Cd
+ABC transporters: !upregulated by! Cd
+ZIPs: !downregulated by! Cd
+ABCG36/OsPDR9: !upregulated by! Cd
+OPRs: !upregulated by! Cd
+JAZs: !upregulated by! Cd
+OsWRKY10: !upregulated by! Cd
+OsNAC3: !upregulated by! Cd
+metalloendoproteinase: !upregulated by! Cd
+plastocyanin-like domain containing proteins: !upregulated by! Cd
+pectin methylesterase inhibitor: !upregulated by! Cd

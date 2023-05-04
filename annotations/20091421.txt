@@ -1,0 +1,6 @@
+The possibility of accurately predicting timing and extent of seedling emergence from natural seed soil banks has long been an objective of both ecologist and agriculturalist. However, as dormancy is a common attribute of many wild seed populations, we should first be able to predict dormancy changes if we intend to predict seedling emergence in the field. In this paper, we discuss the most relevant environmental factors affecting seed dormancy of natural seed soil banks, and present a conceptual framework as an attempt to understand how these factors affect seed-bank dormancy level. Based on this conceptual framework we show approaches that can be used to establish quantitative functional relationship between environmental factors regulating dormancy and changes in the seed-bank dormancy status. Finally, we briefly explain how we can utilize population-based threshold models as a framework to characterize and quantify changes in seed sensitivity to environmental factors as a consequence of dormancy loss and/or induction.
+
+environment: !affects! seed dormancy
+dormancy: !regulates! seed-bank dormancy status
+environment: !influences! seed sensitivity
+population: !characterizes! changes in seed sensitivity

@@ -1,0 +1,11 @@
+The unicellular green alga Chlamydomonas reinhardtii is a versatile model for fundamental and biotechnological research. A wide range of tools for genetic manipulation have been developed for this alga, but specific modification of nuclear genes is still not routinely possible. Here, we present a nuclear gene targeting strategy for Chlamydomonas that is based on the application of zinc-finger nucleases (ZFNs). Our approach includes (i) design of gene-specific ZFNs using available online tools, (ii) evaluation of the designed ZFNs in a Chlamydomonas in situ model system, (iii) optimization of ZFN activity by modification of the nuclease domain, and (iv) application of the most suitable enzymes for mutagenesis of an endogenous gene. Initially, we designed a set of ZFNs to target the COP3 gene that encodes the light-activated ion channel channelrhodopsin-1. To evaluate the designed ZFNs, we constructed a model strain by inserting a non-functional aminoglycoside 3'-phosphotransferase VIII (aphVIII) selection marker interspaced with a short COP3 target sequence into the nuclear genome. Upon co-transformation of this recipient strain with the engineered ZFNs and an aphVIII DNA template, we were able to restore marker activity and select paromomycin-resistant (Pm-R) clones with expressing nucleases. Of these Pm-R clones, 1% also contained a modified COP3 locus. In cases where cells were co-transformed with a modified COP3 template, the COP3 locus was specifically modified by homologous recombination between COP3 and the supplied template DNA. We anticipate that this ZFN technology will be useful for studying the functions of individual genes in Chlamydomonas.
+
+ZFNs: !design! Online tools 
+ZFNs: !evaluate! Chlamydomonas in situ model system 
+ZFNs: !modify! Nuclease domain 
+ZFNs: !apply! Endogenous gene 
+COP3 gene: !encodes! Channelrhodopsin-1 
+Model strain: !insert! Non-functional aminoglycoside 3'-phosphotransferase VIII 
+Recipient strain: !co-transform! Engineered ZFNs and aphVIII DNA template 
+Pm-R clones: !express! Nucleases 
+Modified COP3 locus: !specifically modify! Homologous recombination

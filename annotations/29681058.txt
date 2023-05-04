@@ -1,0 +1,10 @@
+High-throughput RNA sequencing (RNA-seq) has recently become the method of choice to define and analyze transcriptomes. For the model moss Physcomitrella patens, although this method has been used to help analyze specific perturbations, no overall reference dataset has yet been established. In the framework of the Gene Atlas project, the Joint Genome Institute selected P. patens as a flagship genome, opening the way to generate the first comprehensive transcriptome dataset for this moss. The first round of sequencing described here is composed of 99 independent libraries spanning 34 different developmental stages and conditions. Upon dataset quality control and processing through read mapping, 28 509 of the 34 361 v3.3 gene models (83%) were detected to be expressed across the samples. Differentially expressed genes (DEGs) were calculated across the dataset to permit perturbation comparisons between conditions. The analysis of the three most distinct and abundant P. patens growth stages - protonema, gametophore and sporophyte - allowed us to define both general transcriptional patterns and stage-specific transcripts. As an example of variation of physico-chemical growth conditions, we detail here the impact of ammonium supplementation under standard growth conditions on the protonemal transcriptome. Finally, the cooperative nature of this project allowed us to analyze inter-laboratory variation, as 13 different laboratories around the world provided samples. We compare differences in the replication of experiments in a single laboratory and between different laboratories.
+
+RNA-seq: !defines and analyzes! transcriptomes
+Gene Atlas project: !selected! P. patens 
+99 libraries: !span! 34 developmental stages/conditions
+28509 gene models: !detected to be expressed! across samples
+DEGs: !calculated! across dataset
+3 growth stages: !define! general transcriptional patterns
+Ammonium supplementation: !impacts! protonemal transcriptome
+Inter-laboratory variation: !compared! between experiments

@@ -1,0 +1,8 @@
+Gene homology helps us understand gene function and speciation. The number of plant genes and species registered in public databanks is continuously increasing. It is useful to associate homologous genes of various plants to better understand plant speciation. We designed the Gcorn plant database for the retrieval of information on homology and evolution of a plant gene of interest. Amino acid sequences of 73 species (62 land plants and 11 green algae), containing 2,682,261 sequences, were obtained from the National Center for Biotechnology Information (NCBI) Reference Sequence database. Based on NCBI BLAST searches between these sequences, homologous genes were grouped at various thresholds of homology indices devised by the authors. To show functional and evolutionary traits of a gene of interest, a phylogenetic tree, connecting genes with high homology indices, and line charts of the numbers of genes with various homology indices, are depicted. In addition, such indices are projected on a network graph in which species studied are connected based on the ratios of homologous genes, and on a phylogenetic tree for species based on NCBI Taxonomy. Gcorn plant provides information on homologous genes at various virtual time points along with speciation in plants.
+
+Gene: !affects! Speciation 
+Gene: !groups! Homologous genes 
+Gene: !retrieves! Information 
+Gene: !connects! Genes with high homology indices 
+Gene: !depicts! Phylogenetic tree 
+Gene: !projects! Homology indices

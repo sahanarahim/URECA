@@ -1,0 +1,15 @@
+['9353280', 'Phospholipase D (PLD) has emerged as an important enzyme involved in signal  transduction, vesicle trafficking, and membrane metabolism. This report describes  the cloning and expression of a new Arabidopsis PLD cDNA, designated PLDgamma,  and the regulation of PLDgamma, -beta, and -alpha by phosphatidylinositol  4,5-bisphosphate (PIP2) and Ca2+. The PLDgamma cDNA is 3.3 kilobases in length  and codes for an 855-amino acid protein of 95,462 Da with a pI of 6.9. PLDgamma  shares a 66% amino acid sequence identity with PLDbeta, but only a 41% identity  with PLDalpha. A potential N-terminal myristoylation site is found in PLDgamma,  but not in PLDalpha and -beta. Catalytically active PLDgamma was expressed in  Escherichia coli, and its activity requires polyphosphoinositides. Both PLDgamma  and -beta are most active at microM Ca2+ concentrations, whereas the optimal  PLDalpha activity requires mM Ca2+ concentrations. Binding studies showed that  the PLDs bound PIP2 in the order of PLDbeta > PLDgamma > PLDalpha. This binding  ability correlates with the degree of conservation of a basic PIP2-binding motif  located near the putative catalytic site. The binding of [3H]PIP2 was saturable  and could be competitively decreased by addition of unlabeled PIP2. Neomycin  inhibited the activities of PLDgamma and -beta, but not PLDalpha. These results  demonstrate that PLD is encoded by a heterogeneous gene family and that direct  polyphosphoinositide binding is required for the activities of PLDgamma and  -beta, but not PLDalpha. The different structural and biochemical properties  suggest that PLDalpha, -beta, and -gamma are regulated differently and may  mediate unique cellular functions.', '1997 Nov 7', 'J Biol Chem', '10.1074/jbc.272.45.28267', 'Wang']
+
+PLDgamma: !shares 66% identity with! PLDbeta 
+PLDgamma: !shares 41% identity with! PLDalpha 
+PLDgamma: !binds! PIP2 
+PLDbeta: !binds! PIP2 
+PLDalpha: !binds! PIP2 
+PIP2: !regulates! PLDgamma 
+PIP2: !regulates! PLDbeta 
+PIP2: !regulates! PLDalpha 
+Ca2+: !regulates! PLDgamma 
+Ca2+: !regulates! PLDbeta 
+Ca2+: !regulates! PLDalpha 
+Neomycin: !inhibits! PLDgamma 
+Neomycin: !inhibits! PLDbeta

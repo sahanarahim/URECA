@@ -1,0 +1,9 @@
+Coordinated regulation of protection mechanisms against environmental abiotic stress and pathogen attack is essential for plant adaptation and survival. Initial abiotic stress can interfere with disease-resistance signaling [1-6]. Conversely, initial plant immune signaling may interrupt subsequent abscisic acid (ABA) signal transduction [7, 8]. However, the processes involved in this crosstalk between these signaling networks have not been determined. By screening a 9600-compound chemical library, we identified a small molecule [5-(3,4-dichlorophenyl)furan-2-yl]-piperidine-1-ylmethanethione (DFPM) that rapidly downregulates ABA-dependent gene expression and also inhibits ABA-induced stomatal closure. Transcriptome analyses show that DFPM also stimulates expression of plant defense-related genes. Major early regulators of pathogen-resistance responses, including EDS1, PAD4, RAR1, and SGT1b, are required for DFPM-and notably also for Pseudomonas-interference with ABA signal transduction, whereas salicylic acid, EDS16, and NPR1 are not necessary. Although DFPM does not interfere with early ABA perception by PYR/RCAR receptors or ABA activation of SnRK2 kinases, it disrupts cytosolic Ca(2+) signaling and downstream anion channel activation in a PAD4-dependent manner. Our findings provide evidence that activation of EDS1/PAD4-dependent plant immune responses rapidly disrupts ABA signal transduction and that this occurs at the level of Ca(2+) signaling, illuminating how the initial biotic stress pathway interferes with ABA signaling.
+
+EDS1: !interacts with! PAD4
+PAD4: !disrupts! ABA signal transduction
+DFPM: !downregulates! ABA-dependent gene expression
+DFPM: !stimulates! defense-related gene expression
+PYR/RCAR receptors: !not interfered with! by DFPM
+SnRK2 kinases: !not interfered with! by DFPM
+Ca(2+): !disrupted! by DFPM in a PAD4-dependent manner

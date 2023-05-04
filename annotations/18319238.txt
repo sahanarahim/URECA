@@ -1,0 +1,16 @@
+The common ice plant (Mesembryanthemum crystallinum L.) has emerged as a useful model for molecular genetic studies of Crassulacean acid metabolism (CAM) because CAM can be induced in this species by water deficit or salinity stress. Non-redundant sequence information from expressed sequence tag data was used to fabricate a custom oligonucleotide microarray to compare large-scale mRNA expression patterns in M. crystallinum plants conducting C(3) photosynthesis versus CAM. Samples were collected every 4 h over a 24 h time period at the start of the subjective second day from plants grown under constant light and temperature conditions in order to capture variation in mRNA expression due to salinity stress and circadian clock control. Of 8455 genes, a total of 2343 genes (approximately 28%) showed a significant change as judged by analysis of variance (ANOVA) in steady-state mRNA abundance at one or more time points over the 24 h period. Of these, 858 (10%) and 599 (7%) exhibited a greater than two-fold ratio (TFR) increase or decrease in mRNA abundance, respectively. Functional categorization of these TFR genes revealed that many genes encoding products that function in CAM-related C(4) acid carboxylation/decarboxylation, glycolysis/gluconeogenesis, polysaccharide, polyol, and starch biosynthesis/degradation, protein degradation, transcriptional activation, signalling, stress response, and transport facilitation, and novel, unclassified proteins exhibited stress-induced increases in mRNA abundance. In contrast, salt stress resulted in a significant decrease in transcript abundance for genes encoding photosynthetic functions, protein synthesis, and cellular biogenesis functions. Many genes with CAM-related functions exhibited phase shifts in their putative circadian expression patterns following CAM induction. This report establishes an extensive catalogue of gene expression patterns for future investigations aimed at understanding the complex, transcriptional hierarchies that govern CAM-specific expression patterns. A novel graph-theoretic approach called 'Max Clique Builder' is introduced that identifies and organizes sets of coordinately regulated genes, such as those encoding subunits of the vacuolar H(+)-ATPase complex, into tighter functionally related clusters with more similar expression patterns compared with standard hierarchical clustering methods.
+
+Gene: !affects! mRNA abundance
+Gene: !enhances! CAM-related C(4) acid carboxylation/decarboxylation
+Gene: !enhances! Glycolysis/gluconeogenesis
+Gene: !enhances! Polysaccharide, polyol, and starch biosynthesis/degradation
+Gene: !enhances! Protein degradation
+Gene: !enhances! Transcriptional activation
+Gene: !enhances! Signalling
+Gene: !enhances! Stress response
+Gene: !enhances! Transport facilitation
+Gene: !enhances! Novel, unclassified proteins
+Gene: !represses! Photosynthetic functions
+Gene: !represses! Protein synthesis
+Gene: !represses! Cellular biogenesis functions
+Gene: !exhibits phase shifts! Putative circadian expression patterns

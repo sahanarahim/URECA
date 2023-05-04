@@ -1,0 +1,12 @@
+['19763087', "Pattern recognition receptors in eukaryotes initiate defence responses on  detection of microbe-associated molecular patterns shared by many microbe  species. The Leu-rich repeat receptor-like kinases FLS2 and EFR recognize the  bacterial epitopes flg22 and elf18, derived from flagellin and elongation  factor-Tu, respectively. We describe Arabidopsis 'priority in sweet life' (psl)  mutants that show de-repressed anthocyanin accumulation in the presence of elf18.  EFR accumulation and signalling, but not of FLS2, are impaired in psl1, psl2, and  stt3a plants. PSL1 and PSL2, respectively, encode calreticulin3 (CRT3) and  UDP-glucose:glycoprotein glycosyltransferase that act in concert with  STT3A-containing oligosaccharyltransferase complex in an N-glycosylation pathway  in the endoplasmic reticulum. However, EFR-signalling function is impaired in  weak psl1 alleles despite its normal accumulation, thereby uncoupling EFR  abundance control from quality control. Furthermore, salicylic acid-induced, but  EFR-independent defence is weakened in psl2 and stt3a plants, indicating the  existence of another client protein than EFR for this immune response. Our  findings suggest a critical and selective function of N-glycosylation for  different layers of plant immunity, likely through quality control of  membrane-localized regulators.", '2009 Nov 4', 'EMBO J', '10.1038/emboj.2009.263', 'Schulze-Lefert']
+
+FLS2: !recognizes! bacterial epitopes
+EFR: !recognizes! bacterial epitopes
+PSL1: !encodes! calreticulin3
+PSL2: !encodes! UDP-glucose:glycoprotein glycosyltransferase
+STT3A: !contains! oligosaccharyltransferase complex
+CRT3: !acts in concert with! STT3A-containing oligosaccharyltransferase complex
+EFR: !accumulation and signalling impaired by! PSL1, PSL2, stt3a plants
+EFR: !uncoupled from! quality control
+PSL2: !weakens! salicylic acid-induced defence
+N-glycosylation: !critical and selective function for! different layers of plant immunity

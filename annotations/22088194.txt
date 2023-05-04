@@ -1,0 +1,13 @@
+Five tomato mutants affected in the Rx-mediated resistance against Potato virus X (PVX) were identified by screening a mutagenized population derived from a transgenic, Rx1-expressing 'Micro-Tom' line. Contrary to their parental line, they failed to develop lethal systemic necrosis upon infection with the virulent PVX-KH2 isolate. Sequence analysis and quantitative reverse-transcription polymerase chain reaction experiments indicated that the mutants are not affected in the Rx1 transgene or in the Hsp90, RanGap1 and RanGap2, Rar1 and Sgt1 genes. Inoculation with the PVX-CP4 avirulent isolate demonstrated that the Rx1 resistance was still effective in the mutants. In contrast, the virulent PVX-KH2 isolate accumulation was readily detectable in all mutants, which could further be separated in two groups depending on their ability to restrict the accumulation of PVX-RR, a mutant affected at two key positions for Rx1 elicitor activity. Finally, transient expression of the viral capsid protein elicitor indicated that the various mutants have retained the ability to mount an Rx1-mediated hypersensitive response. Taken together, the results obtained are consistent with a modification of the specificity or intensity of the Rx1-mediated response. The five Micro-Tom mutants should provide very valuable resources for the identification of novel tomato genes affecting the functioning of the Rx gene.
+
+Rx1: !affects! Resistance
+Micro-Tom: !contains! Rx1
+Hsp90: !interacts with! Rx1
+RanGap1: !interacts with! Rx1
+RanGap2: !interacts with! Rx1
+Rar1: !interacts with! Rx1
+Sgt1: !interacts with! Rx1
+PVX-KH2: !accumulates in! Micro-Tom mutants
+PVX-CP4: !accumulates in! Micro-Tom mutants
+PVX-RR: !accumulates in! Micro-Tom mutants
+Capsid protein: !elicits! Rx1-mediated hypersensitive response

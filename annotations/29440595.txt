@@ -1,0 +1,11 @@
+Arabidopsis (<i>Arabidopsis thaliana</i>) immune receptor FLAGELLIN SENSING2 (FLS2) rapidly forms a complex to activate pathogen-associated molecular pattern-triggered immunity (PTI) upon perception of the bacterial protein flagellin. The receptor-like cytoplasmic kinase BRASSINOSTEROID-SIGNALINGKINASE1 (BSK1) interacts with FLS2 and is critical for the activation of PTI. However, it is unknown how BSK1 transduces signals to activate downstream immune responses. We identified MEK Kinase5 (MAPKKK5) as a potential substrate of BSK1 by whole-genome phosphorylation analysis. In addition, we demonstrated that BSK1 interacts with and phosphorylates MAPKKK5. In the <i>bsk1</i>-<i>1</i> mutant, the Ser-289 residue of MAPKKK5 was not phosphorylated as it was in the wild type. Similar to the <i>bsk1</i> mutant, the <i>mapkkk5</i> mutant displayed enhanced susceptibility to virulent and avirulent strains of the bacterial pathogen <i>Pseudomonas syringae</i> pv <i>tomato</i> DC3000, and to the fungal powdery mildew pathogen <i>Golovinomyces cichoracearum</i> Phosphorylation of the Ser-289 residue is not involved in MAPKKK5-triggered cell death but is critical for MAPKKK5-mediated resistance to both bacterial and fungal pathogens. Furthermore, MAPKKK5 interacts with multiple MAPK kinases, including MKK1, MKK2, MKK4, MKK5, and MKK6. Overall, these results indicate that BSK1 regulates plant immunity by phosphorylating MAPKKK5 and suggest a direct regulatory mode of signaling from the immune complex to the MAPK cascade.
+
+FLS2: !activates! PTI
+BSK1: !interacts with! FLS2
+BSK1: !phosphorylates! MAPKKK5
+MAPKKK5: !mediates! resistance to pathogens
+MAPKKK5: !interacts with! MKK1
+MAPKKK5: !interacts with! MKK2
+MAPKKK5: !interacts with! MKK4
+MAPKKK5: !interacts with! MKK5
+MAPKKK5: !interacts with! MKK6

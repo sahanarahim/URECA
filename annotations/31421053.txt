@@ -1,0 +1,6 @@
+Compartmentation of proteins and processes is a defining feature of eukaryotic cells. The growth and development of organisms is critically dependent on the accurate sorting of proteins within cells. The mechanisms by which cytosol-synthesized proteins are delivered to the membranes and membrane compartments have been extensively characterized. However, the protein complement of any given compartment is not precisely fixed and some proteins can move between compartments in response to metabolic or environmental triggers. The mechanisms and processes that mediate such relocation events are largely uncharacterized. Many proteins can in addition perform multiple functions, catalysing alternative reactions or performing structural, non-enzymatic functions. These alternative functions can be equally important functions in each cellular compartment. Such proteins are generally not dual-targeted proteins in the classic sense of having targeting sequences that direct de novo synthesized proteins to specific cellular locations. We propose that redox post-translational modifications (PTMs) can control the compartmentation of many such proteins, including antioxidant and/or redox-associated enzymes.
+
+Protein: !localizes to! Compartment
+Compartment: !contains! Protein
+Protein: !moves between! Compartments
+PTMs: !controls! Compartmentation of Proteins

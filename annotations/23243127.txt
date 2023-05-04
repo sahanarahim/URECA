@@ -1,0 +1,10 @@
+['23243127', 'Acyl lipids are essential constituents of all cells, but acyl chain requirements  vary greatly and depend on the cell type considered. This implies a tight  regulation of fatty acid production so that supply fits demand. Isolation of the  Arabidopsis thaliana WRINKLED1 (WRI1) transcription factor established the  importance of transcriptional regulation for modulating the rate of acyl chain  production. Here, we report the isolation of two additional regulators of the  fatty acid biosynthetic pathway, WRI3 and WRI4, which are closely related to WRI1  and belong to the APETALA2-ethylene-responsive element binding protein family of  transcription factors. These three WRIs define a family of regulators capable of  triggering sustained rates of acyl chain synthesis. However, expression patterns  of the three WRIs differ markedly. Whereas only WRI1 activates fatty acid  biosynthesis in seeds for triacylglycerol production, the three WRIs are required  in floral tissues to provide acyl chains for cutin biosynthesis and prevent  adherence of these developing organs and subsequent semisterility. The targets of  these WRIs encode enzymes providing precursors (acyl chain and glycerol  backbones) for various lipid biosynthetic pathways, but not the subsequent  lipid-assembling enzymes. These results provide insights into the developmental  regulation of fatty acid production in plants.', '2012 Dec', 'Plant Cell', '10.1105/tpc.112.106120', 'Baud']
+
+WRI1: !regulates! fatty acid biosynthesis 
+WRI3/4: !related to! WRI1 
+WRI1/3/4: !trigger! sustained rates of acyl chain synthesis 
+WRI1: !activates! fatty acid biosynthesis in seeds 
+WRI1/3/4: !required in! floral tissues 
+WRIs: !provide! acyl chains for cutin biosynthesis 
+WRIs: !prevent! adherence of developing organs 
+WRIs: !target! enzymes providing precursors

@@ -1,0 +1,7 @@
+['16446454', 'Plants employ small RNA-mediated posttranscriptional gene silencing as a virus  defense mechanism. In response, plant viruses encode proteins that can suppress  RNA silencing, but the mode of action of most such proteins is poorly understood.  Here, we show that the silencing suppressor protein P0 of two  Arabidopsis-infecting poleroviruses interacts by means of a conserved minimal  F-box motif with Arabidopsis thaliana orthologs of S-phase kinase-related protein  1 (SKP1), a component of the SCF family of ubiquitin E3 ligases. Point mutations  in the F-box-like motif abolished the P0-SKP1 ortholog interaction, diminished  virus pathogenicity, and inhibited the silencing suppressor activity of P0.  Knockdown of expression of a SKP1 ortholog in Nicotiana benthamiana rendered the  plants resistant to polerovirus infection. Together, the results support a model  in which P0 acts as an F-box protein that targets an essential component of the  host posttranscriptional gene silencing machinery.', '2006 Feb 7', 'Proc Natl Acad Sci U S A', '10.1073/pnas.0510784103', 'Ziegler-Graff']
+
+P0: !interacts with! SKP1
+P0: !inhibits! silencing suppressor activity
+SKP1: !targets! posttranscriptional gene silencing machinery
+P0: !diminishes! virus pathogenicity
+SKP1: !knockdown of expression! renders plants resistant to polerovirus infection

@@ -1,0 +1,12 @@
+The phytohormones gibberellin (GA) and jasmonate (JA) regulate various aspects of plant development, growth and defense. Previous studies showed that both DELLA repressors in GA pathway and JA-ZIM domain (JAZ) proteins in JA pathway interact with and repress the WD-repeat/bHLH/MYB transcriptional complex to inhibit trichome initiation, and GA and JA respectively induce DELLAs and JAZs degradation to synergistically enhance trichome formation. In this study, we showed that the DELLA protein RGA and JAZ1 competitively bind to ENHANCER OF GLABRA3 (EGL3), a bHLH component of the WD-repeat/bHLH/MYB complex. GA and JA differently affect the expression and protein stability of the components of the WD-repeat/bHLH/MYB complex, and EGL3 and GL3 repress the expression of JAZ genes as a feedback. The novel findings help to understand the mechanism of the WD-repeat/bHLH/MYB complex in GA/JA-regulated trichome formation.
+
+GA: !induces degradation of! DELLA
+JA: !induces degradation of! JAZ
+RGA: !competes with! JAZ1
+JAZ1: !competes with! RGA
+EGL3: !binds to! RGA
+EGL3: !binds to! JAZ1
+GA: !affects expression of! WD-repeat/bHLH/MYB complex
+JA: !affects expression of! WD-repeat/bHLH/MYB complex
+EGL3: !represses expression of! JAZ genes
+GL3: !represses expression of! JAZ genes

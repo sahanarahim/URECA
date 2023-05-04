@@ -1,0 +1,8 @@
+Genomes must balance active suppression of transposable elements (TEs) with the need to maintain gene expression. In Arabidopsis, euchromatic TEs are targeted by RNA-directed DNA methylation (RdDM). Conversely, active DNA demethylation prevents accumulation of methylation at genes proximal to these TEs. It is unknown how a cellular balance between methylation and demethylation activities is achieved. Here we show that both RdDM and DNA demethylation are highly active at a TE proximal to the major DNA demethylase gene ROS1. Unexpectedly, and in contrast to most other genomic targets, expression of ROS1 is promoted by DNA methylation and antagonized by DNA demethylation. We demonstrate that inducing methylation in the ROS1 proximal region is sufficient to restore ROS1 expression in an RdDM mutant. Additionally, methylation-sensitive expression of ROS1 is conserved in other species, suggesting it is adaptive. We propose that the ROS1 locus functions as an epigenetic rheostat, tuning the level of demethylase activity in response to methylation alterations, thus ensuring epigenomic stability.
+
+RdDM: !targets! euchromatic TEs 
+DNA demethylation: !prevents! accumulation of methylation 
+ROS1: !promoted by! DNA methylation 
+ROS1: !antagonized by! DNA demethylation 
+methylation: !induces! ROS1 expression 
+ROS1 locus: !functions as! epigenetic rheostat

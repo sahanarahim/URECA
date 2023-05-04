@@ -1,0 +1,9 @@
+Information about transcription start sites (TSSs) provides baseline data for the analysis of promoter architecture. In this paper we used paired- and single-end deep sequencing to analyze Arabidopsis TSS tags from several libraries prepared from roots, shoots, flowers and etiolated seedlings. The clustering of approximately 33 million mapped TSS tags led to the identification of 324 461 promoters that covered 79.7% (21 672/27 206) of protein-coding genes in the Arabidopsis genome. In addition we identified intragenic, antisense and orphan promoters that were not associated with any gene models. Of these, intragenic promoters exhibited unique characteristics regarding dinucleotide sequences at TSSs and core promoter element composition, suggesting that these promoters use different mechanisms of transcriptional initiation. An analysis of base composition with regard to promoter position revealed a low GC content throughout the promoter region and several local strand biases that were evident for TATA-type promoters, but not for Coreless-type promoters. Most observed strand biases coincided with strand biases of single nucleotide polymorphism rate. Our analysis also revealed that transcription of a gene is supported by an average of 2.7 genic promoters, among which one specific promoter, designated as a top promoter, substantially determines the expression level of the gene.
+
+TSS tags: !cluster to! 324,461 promoters
+Promoters: !cover! 79.7% of protein-coding genes
+Intragenic promoters: !exhibit unique characteristics regarding! dinucleotide sequences and core promoter element composition
+Base composition: !reveal! low GC content throughout the promoter region
+Strand biases: !coincide with! single nucleotide polymorphism rate
+Gene transcription: !supported by! 2.7 genic promoters
+Top promoter: !substantially determines! expression level of gene

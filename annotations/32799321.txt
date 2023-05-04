@@ -1,0 +1,10 @@
+The induction of C-repeat binding factors (CBFs) is crucial for plant survival at low temperatures. Therefore, understanding the mechanisms that regulate CBF transcription is vital for the future development of crops with increased cold tolerance. Here, we provide evidence for the existence of a LONG HYPOCOTYL 5 (HY5)-MYB15-CBFs transcriptional cascade that plays a crucial role in the cold response in tomato. The exposure of tomato plants to cold (4°C) increased the levels of HY5, MYB15 and CBFs transcripts. Moreover, mutations in HY5 or MYB15 decreased the levels of CBF transcripts. In contrast, overexpression of HY5 or MYB15 increased CBF transcript abundance. Crucially, the HY5 transcription factor activated the expression of MYB15 by directly binding to the promoter region, while both HY5 and MYB15 activated the expression of CBF1, CBF2 and CBF3. Taken together, these data show that HY5 can directly regulate CBF transcript levels, and also influence CBF expression indirectly via MYB15. The coordinated action of HY5 and MYB15 allows precise regulation of CBF expression and subsequent cold tolerance. These findings provide an improved understanding of the molecular mechanisms affording transcriptional regulation of CBFs, which can be exploited in the future to enhance cold tolerance in crops.
+
+HY5: !activates! MYB15
+HY5: !binds to! promoter region
+HY5: !activates! CBF1
+HY5: !activates! CBF2
+HY5: !activates! CBF3
+MYB15: !activates! CBF1
+MYB15: !activates! CBF2
+MYB15: !activates! CBF3

@@ -1,0 +1,9 @@
+The mucilage surrounding hydrated Arabidopsis thaliana seeds is a specialized extracellular matrix composed mainly of the pectic polysaccharide rhamnogalacturonan I (RG-I). Although, several genes responsible for RG-I biosynthesis have been identified, the transcriptional regulatory mechanisms controlling RG-I production remain largely unknown. Here we report that the trihelix transcription factor DE1 BINDING FACTOR 1 (DF1) is a key regulator of mucilage RG-I biosynthesis. RG-I biosynthesis is significantly reduced in loss-of-function mutants of DF1. DF1 physically interacts with GLABRA2 (GL2) and both proteins transcriptionally regulate the expression of the RG-I biosynthesis genes MUCILAGE MODIFIED 4 (MUM4) and GALACTURONOSYLTRANSFERASE-LIKE5 (GATL5). Through chromatin immunoprecipitation-quantitative PCR and transcriptional activation assays, we uncover a cooperative mechanism of the DF1-GL2 module in activating MUM4 and GATL5 expression, in which DF1 binds to the promoters of MUM4 and GATL5 through interacting with GL2 and facilitates the transcriptional activity of GL2. The expression of DF1 and GL2 is directly regulated by TRANSPARENT TESTA GLABRA2 (TTG2) and, in turn, DF1 directly represses the expression of TTG2. Taken together, our data reveal that the transcriptional regulation of mucilage RG-I biosynthesis involves a regulatory module, comprising DF1, GL2, and TTG2.
+
+DF1: !interacts with! GL2
+GL2: !transcriptionally regulates! MUM4
+GL2: !transcriptionally regulates! GATL5
+DF1: !facilitates transcriptional activity of! GL2
+TTG2: !directly regulates! DF1
+TTG2: !directly regulates! GL2
+DF1: !directly represses! TTG2

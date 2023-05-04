@@ -1,0 +1,8 @@
+Erwinia amylovora is a gram-negative phytopathogen that causes fire blight of pome fruit and related members of the family Rosaceae. We sequenced the putative autoinducer-2 (AI-2) synthase gene luxS from E. amylovora. Diversity analysis indicated that this gene is extremely conserved among E. amylovora strains. Quorum sensing mediated by LuxS has been implicated in coordinated gene expression, growth, and virulence in other enterobacteria; however, our evidence suggests this is not the function in E. amylovora. Mutational analysis pointed to a role in colonization of apple blossoms, the primary infection court for fire blight, although little if any role in virulence on apple shoots and pear fruit was observed. Expression of key virulence genes hrpL and dspA/E was reduced in mutants of two E. amylovora strains. Stronger effects on gene expression were observed for metabolic genes involved in the activated methyl cycle with mutants having greater levels of expression. No quorum-sensing effect was observed in coculture experiments with wild-type and mutant strains either in vitro or in apple blossoms. Known receptors essential for AI-2 quorum sensing, the LuxPQ sensor kinase or the Lsr ABC-transporter, are absent in E. amylovora, further suggesting a primarily metabolic role for luxS in this bacterium.
+
+luxS: !affects! Colonization of apple blossoms
+luxS: !enhances! Metabolic genes involved in the activated methyl cycle
+hrpL: !repressed by! luxS
+dspA/E: !repressed by! luxS
+LuxPQ: !absent in! E. amylovora
+Lsr ABC-transporter: !absent in! E. amylovora

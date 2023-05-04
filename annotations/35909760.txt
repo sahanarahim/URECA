@@ -1,0 +1,7 @@
+Winter rapeseed (<i>Brassica rapa L</i>.) is an important overwintering oilseed crop that is widely planted in northwest China and suffers chronic low temperatures in winter. So the cold stress becomes one of the major constraints that limit its production. The currently existing genomes limit the understanding of the cold-tolerant genetic basis of rapeseed. Here we assembled a high-quality long-read genome of <i>B. rapa</i> "Longyou-7" cultivar, which has a cold-tolerant phenotype, and constructed a graph-based pan-genome to detect the structural variations within homologs of currently reported cold-tolerant related genes in the "Longyou-7" genome, which provides an additional elucidation of the cold-tolerant genetic basis of "Longyou-7" cultivar and promotes the development of cold-tolerant breeding in <i>B. rapa</i>.
+
+genome: !assembles! "Longyou-7" cultivar
+graph-based pan-genome: !detects! structural variations
+cold-tolerant related genes: !reported in! "Longyou-7" genome
+cold-tolerant genetic basis: !elucidated by! graph-based pan-genome
+cold-tolerant breeding: !promotes! development

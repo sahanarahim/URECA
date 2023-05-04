@@ -1,0 +1,13 @@
+Affymetrix ATH1 arrays, large-scale real-time reverse transcription PCR of approximately 2200 transcription factor genes and other gene families, and analyses of metabolites and enzyme activities were used to investigate the response of Arabidopsis to phosphate (Pi) deprivation and re-supply. Transcript data were analysed with MapMan software to identify coordinated, system-wide changes in metabolism and other cellular processes. Phosphorus (P) deprivation led to induction or repression of > 1000 genes involved in many processes. A subset, including the induction of genes involved in P uptake, the mobilization of organic Pi, the conversion of phosphorylated glycolytic intermediates to carbohydrates and organic acids, the replacement of P-containing phospholipids with galactolipids and the repression of genes involved in nucleotide/nucleic acid synthesis, was reversed within 3 h after Pi re-supply. Analyses of 22 enzyme activities revealed that changes in transcript levels often, but not always, led to changes in the activities of the encoded enzymes in P-deprived plants. Analyses of metabolites confirmed that P deprivation leads to a shift towards the accumulation of carbohydrates, organic acids and amino acids, and that Pi re-supply leads to use of the latter. P-deprived plants also showed large changes in the expression of many genes involved in, for example, secondary metabolism and photosynthesis. These changes were not reversed rapidly upon Pi re-supply and were probably secondary in origin. Differentially expressed and highly P-specific putative regulator genes were identified that presumably play central roles in coordinating the complex responses of plants to changes in P nutrition. The specific responses to Pi differ markedly from those found for nitrate, whereas the long-term responses during P and N deprivation share common and non-specific features.
+
+Gene: !induces! Process
+Gene: !represses! Process
+Gene: !enhances! Uptake
+Gene: !mobilizes! Organic Pi
+Gene: !converts! Phosphorylated glycolytic intermediates
+Gene: !replaces! P-containing phospholipids
+Gene: !synthesizes! Nucleotides/nucleic acids
+Gene: !accumulates! Carbohydrates
+Gene: !accumulates! Organic acids
+Gene: !accumulates! Amino acids
+Gene: !regulates! Complex responses

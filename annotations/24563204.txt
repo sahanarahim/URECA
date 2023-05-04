@@ -1,0 +1,12 @@
+Consistent with their origin from cyanobacteria, plastids (chloroplasts) perform protein biosynthesis on bacterial-type 70S ribosomes. The plastid genomes of seed plants contain a conserved set of ribosomal protein genes. Three of these have proven to be nonessential for translation and, thus, for cellular viability: rps15, rpl33, and rpl36. To help define the minimum ribosome, here, we examined whether more than one of these nonessential plastid ribosomal proteins can be removed from the 70S ribosome. To that end, we constructed all possible double knockouts for the S15, L33, and L36 ribosomal proteins by stable transformation of the tobacco (Nicotiana tabacum) plastid genome. We find that, although S15 and L33 function in different ribosomal particles (30S and 50S, respectively), their combined deletion from the plastid genome results in synthetic lethality under autotrophic conditions. Interestingly, the lethality can be overcome by growth under elevated temperatures due to an improved efficiency of plastid ribosome biogenesis. Our results reveal functional interactions between protein and RNA components of the 70S ribosome and uncover the interdependence of the biogenesis of the two ribosomal subunits. In addition, our findings suggest that defining a minimal set of plastid genes may prove more complex than generally believed.
+
+rps15: !interacts with! rpl33
+rpl33: !interacts with! rps15
+rpl36: !interacts with! rps15
+rps15: !interacts with! rpl36
+rpl33: !interacts with! rpl36
+rps15: !synthesizes! 70S ribosomes
+rpl33: !synthesizes! 70S ribosomes
+rpl36: !synthesizes! 70S ribosomes
+double knockouts: !results in! synthetic lethality
+elevated temperatures: !overcome! lethality

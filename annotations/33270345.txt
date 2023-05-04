@@ -1,0 +1,10 @@
+Endogenous salicylic acid (SA) regulates leaf senescence, but the underlying mechanism remains largely unexplored. The exogenous application of SA to living plants is not efficient for inducing leaf senescence. By taking advantage of probenazole (PBZ)-induced biosynthesis of endogenous SA, we previously established a chemical inducible leaf senescence system that depends on SA biosynthesis and its core signaling receptor NPR1 in Arabidopsis thaliana. Here, using this system, we identified WRKY46 and WRKY6 as key components of the transcriptional machinery downstream of NPR1 signaling. Upon PBZ treatment, the wrky46 mutant exhibited significantly delayed leaf senescence. We demonstrate that NPR1 is essential for PBZ/SA-induced WRKY46 activation, whereas WRKY46 in turn enhances NPR1 expression. WRKY46 interacts with NPR1 in the nucleus, binding to the W-box of the WRKY6 promoter to induce its expression in response to SA signaling. Dysfunction of WRKY6 abolished PBZ-induced leaf senescence, while overexpression of WRKY6 was sufficient to accelerate leaf senescence even under normal growth conditions, suggesting that WRKY6 may serve as an integration node of multiple leaf senescence signaling pathways. Taken together, these findings reveal that the NPR1-WRKY46-WRKY6 signaling cascade plays a critical role in PBZ/SA-mediated leaf senescence in Arabidopsis.
+
+NPR1: !regulates! SA biosynthesis
+PBZ: !induces! SA biosynthesis
+WRKY46: !interacts with! NPR1
+WRKY46: !enhances! NPR1 expression
+WRKY46: !binds to! W-box of WRKY6 promoter
+WRKY6: !integrates! multiple leaf senescence pathways
+WRKY6: !abolishes! PBZ-induced leaf senescence
+WRKY6: !accelerates! leaf senescence

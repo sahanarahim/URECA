@@ -1,0 +1,8 @@
+The translation initiation factor eIF4E-binding protein-mediated regulation of protein translation by interfering with assembly of mRNA cap-binding complex eIF4F is well described in mammalian and yeast cells. However, it remains unknown whether a signaling regulator or pathway interacts directly with any translation initiation factor to modulate assembly of eIF4F in plant cells. Here, we report that the two isoforms of Arabidopsis eIF4G, eIFiso4G1 and eIFiso4G2, interact with a cytoplasmic-nuclear dual-localized pentatricopeptide repeat protein SOAR1 to regulate abscisic acid (ABA) signaling. SOAR1 inhibits interactions of eIFiso4E, eIF4Es, eIF4A1, eIF4B2 and poly(A)-binding protein PAB6 with eIFiso4G1 and eIFiso4G2, thereby inhibiting eIFiso4F/mixed eIF4F assembly and repressing translation initiation. SOAR1 binds mRNA of a key ABA-responsive gene ABI5 and cooperates with eIFiso4G1/2 to repress translation of ABI5. The binding of SOAR1 to ABI5 mRNA is likely to inhibit the interaction of SOAR1 with eIFiso4G1/2, suggesting a regulatory loop. Our findings identify a novel translation initiation repressor interfering with cap-binding complex assembly, and establish a link between cap-binding complex assembly and ABA signaling.
+
+eIF4E-binding protein: !interferes with! eIF4F assembly
+SOAR1: !interacts with! eIFiso4G1/2
+SOAR1: !inhibits! interactions of eIFiso4E, eIF4Es, eIF4A1, eIF4B2 and PAB6
+SOAR1: !binds! ABI5 mRNA
+SOAR1: !cooperates with! eIFiso4G1/2
+ABI5 mRNA: !inhibits! interaction of SOAR1 with eIFiso4G1/2

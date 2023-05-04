@@ -1,0 +1,8 @@
+Dissecting the genetic architecture of quantitative traits in autotetraploid species is a methodologically challenging task, but a pivotally important goal for breeding globally important food crops, including potato and blueberry, and ornamental species such as rose. Mapping quantitative trait loci (QTLs) is now a routine practice in diploid species but is far less advanced in autotetraploids, largely due to a lack of analytical methods that account for the complexities of tetrasomic inheritance. We present a novel likelihood-based method for QTL mapping in outbred segregating populations of autotetraploid species. The method accounts properly for sophisticated features of gene segregation and recombination in an autotetraploid meiosis. It may model and analyse molecular marker data with or without allele dosage information, such as that from microarray or sequencing experiments. The method developed outperforms existing bivalent-based methods, which may fail to model and analyse the full spectrum of experimental data, in the statistical power of QTL detection, and accuracy of QTL location, as demonstrated by an intensive simulation study and analysis of data sets collected from a segregating population of potato (Solanum tuberosum). The study enables QTL mapping analysis to be conducted in autotetraploid species under a rigorous tetrasomic inheritance model.
+
+Gene: !affects! Quantitative Trait
+Gene: !localizes to! Autotetraploid Species
+Gene: !interacts with! Molecular Marker Data
+Gene: !enhances! Statistical Power of QTL Detection
+Gene: !represses! Bivalent-Based Methods
+Gene: !synthesizes! Likelihood-Based Method

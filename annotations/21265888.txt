@@ -1,0 +1,12 @@
+Arabidopsis thaliana reticulate mutants exhibit differential pigmentation of the veinal and interveinal leaf regions, a visible phenotype that often indicates impaired mesophyll development. We performed a metabolomic analysis of one ven6 (venosa6) and three ven3 reticulate mutants that revealed altered levels of arginine precursors, namely increased ornithine and reduced citrulline levels. In addition, the mutants were more sensitive than the wild-type to exogenous ornithine, and leaf reticulation and mesophyll defects of these mutants were completely rescued by exogenous citrulline. Taken together, these results indicate that ven3 and ven6 mutants experience a blockage of the conversion of ornithine into citrulline in the arginine pathway. Consistent with the participation of VEN3 and VEN6 in the same pathway, the morphological phenotype of ven3 ven6 double mutants was synergistic. Map-based cloning showed that the VEN3 and VEN6 genes encode subunits of Arabidopsis carbamoyl phosphate synthetase (CPS), which is assumed to be required for the conversion of ornithine into citrulline in arginine biosynthesis. Heterologous expression of the Arabidopsis VEN3 and VEN6 genes in a CPS-deficient Escherichia coli strain fully restored bacterial growth in minimal medium, demonstrating the enzymatic activity of the VEN3 and VEN6 proteins, and indicating a conserved role for CPS in these distinct and distant species. Detailed study of the reticulate leaf phenotype in the ven3 and ven6 mutants revealed that mesophyll development is highly sensitive to impaired arginine biosynthesis.
+
+VEN3: !encodes subunit of! CPS 
+VEN6: !encodes subunit of! CPS 
+VEN3: !synergizes with! VEN6 
+VEN3: !converts! Ornithine 
+VEN6: !converts! Ornithine 
+CPS: !converts! Ornithine !to! Citrulline 
+Ornithine: !increased in! ven3/ven6 mutants 
+Citrulline: !reduced in! ven3/ven6 mutants 
+Exogenous Ornithine: !rescues! Leaf Reticulation 
+Exogenous Citrulline: !rescues! Mesophyll Development

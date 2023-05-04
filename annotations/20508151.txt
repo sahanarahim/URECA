@@ -1,0 +1,8 @@
+Site-directed mutagenesis in higher plants remains a significant technical challenge for basic research and molecular breeding. Here, we demonstrate targeted-gene inactivation for an endogenous gene in Arabidopsis using zinc finger nucleases (ZFNs). Engineered ZFNs for a stress-response regulator, the ABA-INSENSITIVE4 (ABI4) gene, cleaved their recognition sequences specifically in vitro, and ZFN genes driven by a heat-shock promoter were introduced into the Arabidopsis genome. After heat-shock induction, gene mutations with deletion and substitution in the ABI4 gene generated via ZFN-mediated cleavage were observed in somatic cells at frequencies as high as 3%. The homozygote mutant line zfn_abi4-1-1 for ABI4 exhibited the expected mutant phenotypes, i.e., ABA and glucose insensitivity. In addition, ZFN-mediated mutagenesis was applied to the DNA repair-deficient mutant plant, atku80. We found that lack of AtKu80, which plays a role in end-protection of dsDNA breaks, increased error-prone rejoining frequency by 2.6-fold, with increased end-degradation. These data demonstrate that an approach using ZFNs can be used for the efficient production of mutant plants for precision reverse genetics.
+
+ZFNs: !target! ABI4 gene 
+ZFNs: !introduced into! Arabidopsis genome 
+ABI4 gene: !mutated via! ZFN-mediated cleavage 
+ABA and glucose: !insensitive to! homozygote mutant line zfn_abi4-1-1 
+AtKu80: !plays role in! end-protection of dsDNA breaks 
+AtKu80: !increases! error-prone rejoining frequency

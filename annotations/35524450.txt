@@ -1,0 +1,9 @@
+A gene upregulated in Nicotiana benthamiana after Bamboo mosaic virus (BaMV) infection was revealed as 1-deoxy-d-xylulose-5-phosphate reductoisomerase (NbDXR). DXR is the key enzyme in the 2-C-methyl-d-erythritol-4-phosphate (MEP) pathway that catalyzes the conversion of 1-deoxy-d-xylulose 5-phosphate to 2-C-methyl-d-erythritol-4-phosphate. Knockdown and overexpression of NbDXR followed by BaMV inoculation revealed that NbDXR is involved in BaMV accumulation. Treating leaves with fosmidomycin, an inhibitor of DXR function, reduced BaMV accumulation. Subcellular localization confirmed that DXR is a chloroplast-localized protein by confocal microscopy. Furthermore, knockdown of 1-hydroxy-2-methyl-2-(E)-butenyl-4-diphosphate reductase, one of the enzymes in the MEP pathway, also reduced BaMV accumulation. The accumulation of BaMV increased significantly in protoplasts treated with isopentenyl pyrophosphate. Thus, the metabolites of the MEP pathway could be involved in BaMV infection. To identify the critical components involved in BaMV accumulation, we knocked down the crucial enzyme of isoprenoid synthesis, NbGGPPS11 or NbGGPPS2. Only NbGGPPS2 was involved in BaMV infection. The geranylgeranyl pyrophosphate (GGPP) synthesized by NbGGPPS2 is known for gibberellin synthesis. We confirmed this result by supplying gibberellic acid exogenously on leaves, which increased BaMV accumulation. The de novo synthesis of gibberellic acid could assist BaMV accumulation.
+
+NbDXR: !affects! BaMV accumulation
+NbDXR: !localizes to! chloroplast
+1-hydroxy-2-methyl-2-(E)-butenyl-4-diphosphate reductase: !reduces! BaMV accumulation
+isopentenyl pyrophosphate: !increases! BaMV accumulation
+NbGGPPS11/NbGGPPS2: !involved in! BaMV infection
+NbGGPPS2: !synthesizes! geranylgeranyl pyrophosphate
+gibberellic acid: !enhances! BaMV accumulation

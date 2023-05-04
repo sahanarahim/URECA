@@ -1,0 +1,16 @@
+During meiosis, Sad1/UNC-84 (SUN) domain proteins play conserved roles in promoting telomere bouquet formation and homologous pairing across species. Arabidopsis (<i>Arabidopsis thaliana</i>) AtSUN1 and AtSUN2 have been shown to have overlapping functions in meiosis. However, the role of SUN proteins in rice (<i>Oryza sativa</i>) meiosis and the extent of functional redundancy between them remain elusive. Here, we generated single and double mutants of <i>OsSUN1</i> and <i>OsSUN2</i> in rice using genome editing. The <i>Ossun1 Ossun2</i> double mutant showed severe defects in telomere clustering, homologous pairing, and crossover formation, suggesting that OsSUN1 and OsSUN2 are essential for rice meiosis. When introducing a mutant allele of <i>O. sativa SPORULATION11-1</i> (<i>OsSPO11-1</i>), which encodes a topoisomerase initiating homologous recombination, into the <i>Ossun1 Ossun2</i> mutant, we observed a combined <i>Osspo11-1</i>- and <i>Ossun1 Ossun2</i>-like phenotype, demonstrating that OsSUN1 and OsSUN2 promote bouquet formation independent of OsSPO11-1 but regulate pairing and crossover formation downstream of OsSPO11-1. Importantly, the <i>Ossun1</i> single mutant had a normal phenotype, but meiosis was disrupted in the <i>Ossun2</i> mutant, indicating that OsSUN1 and OsSUN2 are not completely redundant in rice. Further analyses revealed a genetic dosage-dependent effect and an evolutionary differentiation between <i>OsSUN1</i> and <i>OsSUN2</i> These results suggested that OsSUN2 plays a more critical role than OsSUN1 in rice meiosis. Taken together, this work reveals the essential but partially redundant roles of OsSUN1 and OsSUN2 in rice meiosis and demonstrates that functional divergence of SUN proteins has taken place during evolution.
+
+AtSUN1: !promotes! telomere bouquet formation
+AtSUN2: !promotes! telomere bouquet formation
+OsSUN1: !promotes! telomere clustering
+OsSUN2: !promotes! telomere clustering
+OsSUN1: !promotes! homologous pairing
+OsSUN2: !promotes! homologous pairing
+OsSUN1: !promotes! crossover formation
+OsSUN2: !promotes! crossover formation
+OsSPO11-1: !initiates! homologous recombination
+OsSUN1: !regulates! pairing and crossover formation downstream of OsSPO11-1
+OsSUN2: !regulates! pairing and crossover formation downstream of OsSPO11-1
+OsSUN1: !has genetic dosage-dependent effect!
+OsSUN2: !has genetic dosage-dependent effect!
+OsSUN1: !evolutionarily diverges from! OsSUN2

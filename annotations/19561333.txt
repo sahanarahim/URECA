@@ -1,0 +1,9 @@
+The cyanobacterium Fremyella diplosiphon can alternate its light-harvesting pigments, a process called comple-mentary chromatic adaptation (CCA), allowing it to photosynthesize in green light (GL) and in fluctuating light conditions. Nevertheless, F. diplosiphon requires chlorophylls for photosynthesis under all light conditions. Two alternative enzymes catalyze the penultimate step of chlorophyll synthesis, light-dependent protochlorophyllide oxidoreductase (LPOR) and dark-operative protochlo-rophyllide oxidoreductase (DPOR). DPOR enzymatic activity is light independent, while LPOR requires light. Therefore, we hypothesize that F. diplosiphon up-regulates DPOR gene expression in GL, so that DPOR is more abundant when LPOR is less functional. We cloned the genes encoding the three subunits of DPOR, chlL, chlN and chlB, and the LPOR gene, por, to determine the abundance of the transcripts under red light (RL), GL and dark conditions. We found that F. diplosiphon chlL and chlN genes are transcribed as parts of a single operon, a gene structure that is conserved within cyanobacteria. Tran-scripts levels of all DPOR genes are up-regulated approximately 2-fold in GL relative to levels in RL, whereas LPOR transcript levels are reduced in GL. Moreover, mutations in CCA regulators, RcaE and CpeR, modify DPOR and LPOR transcript levels under specific light conditions. Finally, both DPOR and LPOR transcripts are down-regulated 2- to 5-fold in the dark. These results provide the first evidence that light quality and CCA affect the genetic regulation of chlorophyll biosynthesis in freshwater cyanobacteria, ecologically important photosynthetic organisms.
+
+LPOR: !requires! Light
+DPOR: !requires! Light
+chlL/chlN: !form! Operon
+DPOR: !up-regulates in! GL
+LPOR: !down-regulates in! GL
+RcaE/CpeR: !modify! DPOR/LPOR transcript levels
+DPOR/LPOR: !down-regulate in! Dark

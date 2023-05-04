@@ -1,0 +1,14 @@
+Gibberellin (GA) and jasmonate (JA) are two essential phytohormones for filament elongation in Arabidopsis. GA and JA trigger degradation of DELLAs and JASMONATE ZIM-domain (JAZ) proteins through SCF<sup>SLY1</sup> and SCF<sup>COI1</sup> separately to activate filament elongation. In JA pathway, JAZs interact with MYB21 and MYB24 to control filament elongation. However, little is known how DELLAs regulate filament elongation. Here we showed that DELLAs interact with MYB21 and MYB24, and that R2R3 domains of MYB21 and MYB24 are responsible for interaction with DELLAs. Furthermore, we demonstrated that DELLA and JAZ proteins coordinately repress the transcriptional function of MYB21 and MYB24 to inhibit filament elongation. We discovered that DELLAs interact with MYB21 and MYB24, and that DELLAs and JAZs attenuate the transcriptional function of MYB21 and MYB24 to control filament elongation. This study reveals a novel cross-talk mechanism of GA and JA in the regulation of filament elongation in Arabidopsis.
+
+GA: !triggers degradation of! DELLAs 
+JA: !triggers degradation of! JAZs 
+SCF<sup>SLY1</sup>: !degrades! DELLAs 
+SCF<sup>COI1</sup>: !degrades! JAZs 
+JAZs: !interact with! MYB21 
+JAZs: !interact with! MYB24 
+DELLAs: !interact with! MYB21 
+DELLAs: !interact with! MYB24 
+DELLAs: !repress! MYB21 
+DELLAs: !repress! MYB24 
+JAZs: !repress! MYB21 
+JAZs: !repress! MYB24

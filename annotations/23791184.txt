@@ -1,0 +1,8 @@
+An ultimate goal of evolutionary biology is the prediction and experimental verification of adaptive trajectories on macroevolutionary timescales. This aim has rarely been achieved for complex biological systems, as models usually lack clear correlates of organismal fitness. Here, we simulate the fitness landscape connecting two carbon fixation systems: C3 photosynthesis, used by most plant species, and the C4 system, which is more efficient at ambient CO2 levels and elevated temperatures and which repeatedly evolved from C3. Despite extensive sign epistasis, C4 photosynthesis is evolutionarily accessible through individually adaptive steps from any intermediate state. Simulations show that biochemical subtraits evolve in modules; the order and constitution of modules confirm and extend previous hypotheses based on species comparisons. Plant-species-designated C3-C4 intermediates lie on predicted evolutionary trajectories, indicating that they indeed represent transitory states. Contrary to expectations, we find no slowdown of adaptation and no diminishing fitness gains along evolutionary trajectories.
+
+Gene: !affects! Fitness
+Gene: !synthesizes! Subtraits
+Gene: !enhances! C4 Photosynthesis
+Gene: !represses! C3 Photosynthesis
+Gene: !localizes to! Intermediate States
+Gene: !interacts with! Species Comparisons

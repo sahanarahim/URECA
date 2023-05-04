@@ -1,0 +1,9 @@
+Mutations in the eIF4E homolog encoded at the pvr1 locus in Capsicum result in broad-spectrum potyvirus resistance attributed to the pvr1 resistance allele, a gene widely deployed in agriculture for more than 50 years. We show that two other resistance genes, previously known to be eIF4E with narrower resistance spectra, pvr2(1) and pvr2(2), are alleles at the pvr1 locus. Based on these data and current nomenclature guidelines, we have re-designated these alleles, pvr1(1) and pvr1(2), respectively. Point mutations in pvr1, pvr1(1), and pvr1(2) grouped to similar regions of eIF4E and were predicted by protein homology models to cause conformational shifts in the encoded proteins. The avirulence determinant in this potyvirus system has previously been identified as VPg, therefore yeast two-hybrid and GST pull-down assays were carried out with proteins encoded by the pvr1 alleles and VPg from two different strains of Tobacco etch virus (TEV) that differentially infected Capsicum lines carrying these genes. While the protein encoded by the susceptible allele pvr1+ interacted strongly, proteins translated from all three resistance alleles (pvr1, pvr1(1), and pvr1(2)) failed to bind VPg from either strain of TEV. This failure to bind correlated with resistance or reduced susceptibility, suggesting that interruption of the interaction between VPg and this eIF4E paralog may be necessary, but is not sufficient for potyvirus resistance in vivo. Among the three resistance alleles, only the pvr1 gene product failed to bind m7-GTP cap-analog columns, suggesting that disrupted cap binding is not required for potyvirus resistance.
+
+pvr1: !causes! broad-spectrum potyvirus resistance
+pvr2(1): !re-designated as! pvr1(1)
+pvr2(2): !re-designated as! pvr1(2)
+pvr1, pvr1(1), pvr1(2): !mutations in! eIF4E
+VPg: !interacts with! pvr1+
+pvr1, pvr1(1), pvr1(2): !fail to bind! VPg
+pvr1: !fails to bind! m7-GTP cap-analog columns

@@ -1,0 +1,14 @@
+Senescence is a highly regulated process characterized by the active breakdown of cells, which ultimately leads to the death of plant organs or whole plants. In annual plants such as Arabidopsis thaliana senescence can be observed in each individual leaf. Whether deficiencies in photosynthesis promote the induction of senescence was investigated by monitoring chlorophyll degradation, photosynthetic parameters, and reactive oxygen species accumulation in photosynthetic mutants. Several mutations affecting components of the photosynthetic apparatus, including psal-2, psan-2, and psbs, were found to lead to premature or faster senescence, as did simultaneous inactivation of the STN7 and STN8 kinases. Premature senescence is apparently not directly linked to an overall reduction in photosynthesis but to perturbations in specific aspects of the process. Dark-induced senescence is accelerated in mutants affected in linear electron flow, especially psad2-1, psan-2, and pete2-1, as well as in stn7 and stn8 mutants and STN7 and STN8 overexpressor lines. Interestingly, no direct link with ROS production could be observed.
+
+psal-2: !promotes! senescence
+psan-2: !promotes! senescence
+psbs: !promotes! senescence
+STN7: !promotes! senescence
+STN8: !promotes! senescence
+psad2-1: !accelerates! senescence
+psan-2: !accelerates! senescence
+pete2-1: !accelerates! senescence
+stn7: !accelerates! senescence
+stn8: !accelerates! senescence
+STN7: !accelerates! senescence
+STN8: !accelerates! senescence

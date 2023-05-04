@@ -1,0 +1,8 @@
+Arabidopsis (<i>Arabidopsis thaliana</i>) efficiently synthesizes the antifungal phytoalexin camalexin without the apparent release of bioactive intermediates, such as indole-3-acetaldoxime, suggesting that the biosynthetic pathway of this compound is channeled by the formation of an enzyme complex. To identify such protein interactions, we used two independent untargeted coimmunoprecipitation (co-IP) approaches with the biosynthetic enzymes CYP71B15 and CYP71A13 as baits and determined that the camalexin biosynthetic P450 enzymes copurified with these enzymes. These interactions were confirmed by targeted co-IP and Förster resonance energy transfer measurements based on fluorescence lifetime microscopy (FRET-FLIM). Furthermore, the interaction of CYP71A13 and Arabidopsis P450 Reductase1 was observed. We detected increased substrate affinity of CYP79B2 in the presence of CYP71A13, indicating an allosteric interaction. Camalexin biosynthesis involves glutathionylation of the intermediary indole-3-cyanohydrin, which is synthesized by CYP71A12 and especially CYP71A13. FRET-FLIM and co-IP demonstrated that the glutathione transferase GSTU4, which is coexpressed with Trp- and camalexin-specific enzymes, is physically recruited to the complex. Surprisingly, camalexin concentrations were elevated in knockout and reduced in <i>GSTU4</i>-overexpressing plants. This shows that GSTU4 is not directly involved in camalexin biosynthesis but rather plays a role in a competing mechanism.
+
+CYP71B15: !interacts with! CYP71A13
+CYP71A13: !interacts with! Arabidopsis P450 Reductase1
+CYP79B2: !enhanced affinity in presence of! CYP71A13
+CYP71A12: !synthesizes! indole-3-cyanohydrin
+GSTU4: !recruited to complex by! CYP71A13
+GSTU4: !competes with! camalexin biosynthesis

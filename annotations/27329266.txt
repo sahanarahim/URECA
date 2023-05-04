@@ -1,0 +1,9 @@
+Ecosystem models have difficulty predicting plant drought responses, partially from uncertainty in the stomatal response to water deficits in soil and atmosphere. We evaluate a 'supply-demand' theory for water-limited stomatal behavior that avoids the typical scaffold of empirical response functions. The premise is that canopy water demand is regulated in proportion to threat to supply posed by xylem cavitation and soil drying. The theory was implemented in a trait-based soil-plant-atmosphere model. The model predicted canopy transpiration (E), canopy diffusive conductance (G), and canopy xylem pressure (P<sub>canopy</sub> ) from soil water potential (P<sub>soil</sub> ) and vapor pressure deficit (D). Modeled responses to D and P<sub>soil</sub> were consistent with empirical response functions, but controlling parameters were hydraulic traits rather than coefficients. Maximum hydraulic and diffusive conductances and vulnerability to loss in hydraulic conductance dictated stomatal sensitivity and hence the iso- to anisohydric spectrum of regulation. The model matched wide fluctuations in G and P<sub>canopy</sub> across nine data sets from seasonally dry tropical forest and piñon-juniper woodland with < 26% mean error. Promising initial performance suggests the theory could be useful in improving ecosystem models. Better understanding of the variation in hydraulic properties along the root-stem-leaf continuum will simplify parameterization.
+
+Canopy water demand: !regulated by! threat to supply 
+Threat to supply: !posed by! xylem cavitation and soil drying 
+Model: !predicts! canopy transpiration, diffusive conductance, and xylem pressure 
+Model: !controlled by! hydraulic traits 
+Hydraulic traits: !dictate! stomatal sensitivity 
+Stomatal sensitivity: !determines! iso- to anisohydric spectrum of regulation 
+Model: !matched! nine data sets with < 26% mean error

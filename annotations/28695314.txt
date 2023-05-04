@@ -1,0 +1,13 @@
+The vacuolar SlCAT2 was cloned, over-produced in E. coli and reconstituted in proteoliposomes. Arg, Ornithine and Lys were identified as substrates. Unexpectedly, also the organic cations Tetraethylammonium and Acetylcholine were transported indicating involvement of SlCAT2 in signaling. In land plants several transporters are involved in ion and metabolite flux across membranes of cells or intracellular organelles. The vacuolar amino acid transporter CAT2 from Solanum lycopersicum was investigated in this work. SlCAT2 was cloned from tomato flower cDNA, over-produced in Escherichia coli and purified by Nichel-chelating chromatography. For functional studies, the transporter was reconstituted in proteoliposomes. Competence of SlCAT2 for Arg transport was demonstrated measuring uptake of [<sup>3</sup>H]Arg in proteoliposomes which was trans-stimulated by internal Arg or ornithine. Uptake of [<sup>3</sup>H]Ornithine and [<sup>3</sup>H]Lys was also detected at lower efficiency with respect to [<sup>3</sup>H]Arg. Transport was activated by the presence of intraliposomal ATP suggesting regulation by the nucleotide. The prototype for organic cations tetraethylammonium (TEA) was also transported by SlCAT2. However, scarce reciprocal inhibition between TEA and Arg was found, while the biguanide metformin was able to strongly inhibit uptake of both substrates. These findings suggest that amino acids and organic cations may interact with the transporter through different functional groups some of which are common for the two types of substrates. Interestingly, reconstituted SlCAT2 showed competence for acetylcholine transport, which was also inhibited by metformin. Kinetics of Arg and Ach transport were performed from which Km values of 0.29 and 0.79 mM were derived, respectively.
+
+SlCAT2: !transports! Arg 
+SlCAT2: !transports! Ornithine 
+SlCAT2: !transports! Lys 
+SlCAT2: !transports! Tetraethylammonium 
+SlCAT2: !transports! Acetylcholine 
+Arg: !stimulates! SlCAT2 
+Ornithine: !stimulates! SlCAT2 
+Lys: !stimulates! SlCAT2 
+Tetraethylammonium: !inhibits! Arg 
+Metformin: !inhibits! Arg 
+Metformin: !inhibits! Acetylcholine

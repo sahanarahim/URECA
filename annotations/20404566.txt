@@ -1,0 +1,7 @@
+Homology-based three-dimensional model for Pisum sativum sieve element occlusion 1 (Ps.SEO1) (forisomes) protein was constructed. A stretch of amino acids (residues 320 to 456) which is well conserved in all known members of forisomes proteins was used to model the 3D structure of Ps.SEO1. The structural prediction was done using Protein Homology/analogY Recognition Engine (PHYRE) web server. Based on studies of local sequence alignment, the thioredoxin-fold containing protein [Structural Classification of Proteins (SCOP) code d1o73a_], a member of the glutathione peroxidase family was selected as a template for modeling the spatial structure of Ps.SEO1. Selection was based on comparison of primary sequence, higher match quality and alignment accuracy. Motif 1 (EVF) is conserved in Ps.SEO1, Vicia faba (Vf.For1) and Medicago truncatula (Mt.SEO3); motif 2 (KKED) is well conserved across all forisomes proteins and motif 3 (IGYIGNP) is conserved in Ps.SEO1 and Vf.For1.
+
+Ps.SEO1: !modeled using! PHYRE
+Ps.SEO1: !structurally similar to! d1o73a_
+Motif 1: !conserved in! Ps.SEO1, Vf.For1, Mt.SEO3
+Motif 2: !conserved across! all forisomes proteins
+Motif 3: !conserved in! Ps.SEO1, Vf.For1

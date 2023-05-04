@@ -1,0 +1,14 @@
+In the large Cucurbitaceae genus Cucumis, cucumber (C. sativus) is the only species with 2n = 2x = 14 chromosomes. The majority of the remaining species, including melon (C. melo) and the sister species of cucumber, C. hystrix, have 2n = 2x = 24 chromosomes, implying a reduction from n = 12 to n = 7. To understand the underlying mechanisms, we investigated chromosome synteny among cucumber, C. hystrix and melon using integrated and complementary approaches. We identified 14 inversions and a C. hystrix lineage-specific reciprocal inversion between C. hystrix and melon. The results reveal the location and orientation of 53 C. hystrix syntenic blocks on the seven cucumber chromosomes, and allow us to infer at least 59 chromosome rearrangement events that led to the seven cucumber chromosomes, including five fusions, four translocations, and 50 inversions. The 12 inferred chromosomes (AK1-AK12) of an ancestor similar to melon and C. hystrix had strikingly different evolutionary fates, with cucumber chromosome C1 apparently resulting from insertion of chromosome AK12 into the centromeric region of translocated AK2/AK8, cucumber chromosome C3 originating from a Robertsonian-like translocation between AK4 and AK6, and cucumber chromosome C5 originating from fusion of AK9 and AK10. Chromosomes C2, C4 and C6 were the result of complex reshuffling of syntenic blocks from three (AK3, AK5 and AK11), three (AK5, AK7 and AK8) and five (AK2, AK3, AK5, AK8 and AK11) ancestral chromosomes, respectively, through 33 fusion, translocation and inversion events. Previous results (Huang, S., Li, R., Zhang, Z. et al., , Nat. Genet. 41, 1275-1281; Li, D., Cuevas, H.E., Yang, L., Li, Y., Garcia-Mas, J., Zalapa, J., Staub, J.E., Luan, F., Reddy, U., He, X., Gong, Z., Weng, Y. 2011a, BMC Genomics, 12, 396) showing that cucumber C7 stayed largely intact during the entire evolution of Cucumis are supported. Results from this study allow a fine-scale understanding of the mechanisms of dysploid chromosome reduction that has not been achieved previously.
+
+C. sativus: !has! 2n = 2x = 14 chromosomes
+C. hystrix/melon: !has! 2n = 2x = 24 chromosomes
+C. hystrix: !syntenic blocks located on! 7 cucumber chromosomes
+C. hystrix: !inferred from! 59 chromosome rearrangement events
+AK1-AK12: !resulted in! 5 fusions, 4 translocations, 50 inversions
+AK2/AK8: !inserted into! centromeric region of C1
+AK4/AK6: !translocated to form! C3
+AK9/AK10: !fused to form! C5
+AK3/AK5/AK11: !reshuffled to form! C2
+AK5/AK7/AK8: !reshuffled to form! C4
+AK2/AK3/AK5/AK8/AK11: !reshuffled to form! C6
+C7: !largely intact during evolution of! Cucumis

@@ -1,0 +1,10 @@
+Counting the number of wheat ears in images under natural light is an important way to evaluate the crop yield, thus, it is of great significance to modern intelligent agriculture. However, the distribution of wheat ears is dense, so the occlusion and overlap problem appears in almost every wheat image. It is difficult for traditional image processing methods to solve occlusion problem due to the deficiency of high-level semantic features, while existing deep learning based counting methods did not solve the occlusion efficiently. This article proposes an improved EfficientDet-D0 object detection model for wheat ear counting, and focuses on solving occlusion. First, the transfer learning method is employed in the pre-training of the model backbone network to extract the high-level semantic features of wheat ears. Secondly, an image augmentation method Random-Cutout is proposed, in which some rectangles are selected and erased according to the number and size of the wheat ears in the images to simulate occlusion in real wheat images. Finally, convolutional block attention module (CBAM) is adopted into the EfficientDet-D0 model after the backbone, which makes the model refine the features, pay more attention to the wheat ears and suppress other useless background information. Extensive experiments are done by feeding the features to detection layer, showing that the counting accuracy of the improved EfficientDet-D0 model reaches 94%, which is about 2% higher than the original model, and false detection rate is 5.8%, which is the lowest among comparative methods.
+
+EfficientDet-D0: !employs! Transfer Learning 
+EfficientDet-D0: !uses! Random-Cutout 
+EfficientDet-D0: !adopts! CBAM 
+Transfer Learning: !extracts! High-Level Semantic Features 
+Random-Cutout: !simulates! Occlusion 
+CBAM: !refines! Features 
+CBAM: !pays attention to! Wheat Ears 
+CBAM: !suppresses! Useless Background Information

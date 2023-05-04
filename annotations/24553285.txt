@@ -1,0 +1,8 @@
+In Arabidopsis seeds, embryo growth is coordinated with endosperm breakdown. Mutants in the endosperm-specific gene ZHOUPI (ZOU), which encodes a unique basic helix-loop-helix (bHLH) transcription factor, have an abnormal endosperm that persists throughout seed development, significantly impeding embryo growth. Here we show that loss of function of the bHLH-encoding gene INDUCER OF CBP EXPRESSION 1 (ICE1) causes an identical endosperm persistence phenotype. We show that ZOU and ICE1 are co-expressed in the endosperm and interact in yeast via their bHLH domains. We show both genetically and in a heterologous plant system that, despite the fact that both ZOU and ICE1 can form homodimers in yeast, their role in endosperm breakdown requires their heterodimerization. Consistent with this conclusion, we confirm that ZOU and ICE1 regulate the expression of common target genes in the developing endosperm. Finally, we show that heterodimerization of ZOU and ICE1 is likely to be necessary for their binding to specific targets, rather than for their nuclear localization in the endosperm. By comparing our results with paradigms of bHLH function and evolution in animal systems we propose that the ZOU/ICE1 complex might have ancient origins, acquiring novel megagametophyte-specific functions in heterosporous land plants that were conserved in the angiosperm endosperm.
+
+ZOU: !interacts with! ICE1
+ICE1: !interacts with! ZOU
+ZOU: !regulates expression of! common target genes
+ICE1: !regulates expression of! common target genes
+ZOU: !binds to! specific targets
+ICE1: !binds to! specific targets

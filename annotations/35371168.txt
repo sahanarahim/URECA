@@ -1,0 +1,8 @@
+The species <i>Brassica rapa</i> includes several important vegetable crops. The draft reference genome of <i>B. rapa</i> ssp. <i>pekinensis</i> was completed in 2011, and it has since been updated twice. The pangenome with structural variations of 18 <i>B. rapa</i> accessions was published in 2021. Although extensive genomic analysis has been conducted on <i>B. rapa</i>, a comprehensive genome annotation including gene structure, alternative splicing (AS) events, and non-coding genes is still lacking. Therefore, we used the Pacific Biosciences (PacBio) single-molecular long-read technology to improve gene models and produced the annotated genome version 3.5. In total, we obtained 753,041 full-length non-chimeric (FLNC) reads and collapsed these into 92,810 non-redundant consensus isoforms, capturing 48% of the genes annotated in the <i>B. rapa</i> reference genome annotation v3.1. Based on the isoform data, we identified 830 novel protein-coding genes that were missed in previous genome annotations, defined the untranslated regions (UTRs) of 20,340 annotated genes and corrected 886 wrongly spliced genes. We also identified 28,564 AS events and 1,480 long non-coding RNAs (lncRNAs). We produced a relatively complete and high-quality reference transcriptome for <i>B. rapa</i> that can facilitate further functional genomic research.
+
+Gene: !affects! Process 
+Gene: !synthesizes! I 
+Gene: !represses! U 
+Gene: !enhances! Z 
+Gene: !interacts with! Y 
+Gene: !localizes to! X

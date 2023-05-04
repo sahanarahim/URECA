@@ -1,0 +1,7 @@
+Leaf shape is highly variable within and among plant species, ranging from slender to oval shaped. This is largely determined by the proximodistal axis of growth. However, little is known about how proximal-distal growth is controlled to determine leaf shape. Here, we show that Arabidopsis leaf and sepal proximodistal growth is tuned by two phytohormones. Two class A AUXIN RESPONSE FACTORs (ARFs), ARF6 and ARF8, activate the transcription of DWARF4, which encodes a key brassinosteroid (BR) biosynthetic enzyme. At the cellular level, the phytohormones promote more directional cell expansion along the proximodistal axis, as well as final cell sizes. BRs promote the demethyl-esterification of cell wall pectins, leading to isotropic in-plane cell wall loosening. Notably, numerical simulation showed that isotropic cell wall loosening could lead to directional cell and organ growth along the proximodistal axis. Taken together, we show that auxin acts through biosynthesis of BRs to determine cell wall mechanics and directional cell growth to generate leaves of variable roundness.
+
+ARF6: !activates! DWARF4
+ARF8: !activates! DWARF4
+BRs: !promote! demethyl-esterification
+demethyl-esterification: !leads to! isotropic in-plane cell wall loosening
+isotropic in-plane cell wall loosening: !leads to! directional cell and organ growth

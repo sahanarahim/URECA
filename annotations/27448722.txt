@@ -1,0 +1,8 @@
+Grapevine buds (Vitis vinifera L) enter endodormancy (ED) after perceiving the short-day (SD) photoperiod signal and undergo metabolic changes that allow them to survive the winter temperatures. In the present study, we observed an inverse relationship between the depth of ED and the respiration rate of grapevine buds. Moreover, the respiration of dormant and non-dormant buds differed in response to temperature and glucose, two stimuli that normally increase respiration in plant tissues. While respiration in non-dormant buds rose sharply in response to both stimuli, respiration in dormant buds was only slightly affected. This suggests that a metabolic inhibitor is present. Here, we propose that the plant hormone abscisic acid (ABA) could be this inhibitor. ABA inhibits respiration in non-dormant buds and represses the expression of respiratory genes, such as ALTERNATIVE NADH DEHYDROGENASE (VaND1, VvaND2), CYTOCHROME OXIDASE (VvCOX6) and CYTOCHROME C (VvCYTC), and induces the expression of VvSnRK1, a gene encoding a member of a highly conserved family of protein kinases that act as energy sensors and regulate gene expression in response to energy depletion. In addition to inducing ED the SD-photoperiod up-regulated the expression of VvNCED, a gene that encodes a key enzyme in ABA synthesis. Taken together, these results suggest that ABA through the mediation of VvSnRK1, could play a key role in the regulation of the metabolic changes accompanying the entry into ED of grapevine buds.
+
+SD-photoperiod: !induces! VvNCED 
+VvNCED: !synthesizes! ABA 
+ABA: !inhibits! respiration 
+ABA: !represses! VaND1, VvaND2, VvCOX6, VvCYTC 
+ABA: !induces! VvSnRK1 
+VvSnRK1: !regulates! gene expression

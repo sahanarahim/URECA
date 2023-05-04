@@ -1,0 +1,7 @@
+Hairpin RNA-based RNA interference (hpRNAi) has become a powerful tool for exploring gene function in reverse genetics. Although, several methods are available for making constructs that express hpRNAi, multiple time-consuming cloning steps are usually involved. Here, we introduce an efficient and flexible hpRNAi vector construction method via the isothermal in vitro recombination system (IR-hpRNAi). For an IR-hpRNAi reaction, two PCR products of a target gene sequence are generated, which containS complementary ends (~20 bp) to each other and to the ends of linearized vector, are fused in a way of head-to-head or tail-to-tail into the vector. This IR-hpRNAi method offers two options to construct the RNAi vectors. Using this method, we created a IR-hpRNAi construct for the Arabidopsis PDS3 gene,and verified the silencing effect via Agrobacterium-mediated transformation. The IR-hpRNAi system rules out the requirement of engineering restriction enzyme cutting sites in target DNA fragments, and is ligation-independent. Thus, this method has advantages over the other hpRNAi construction methods.
+
+IR-hpRNAi: !constructs! hpRNAi vectors 
+IR-hpRNAi: !rules out! requirement of engineering restriction enzyme cutting sites 
+IR-hpRNAi: !fuses! PCR products 
+IR-hpRNAi: !verifies! silencing effect 
+PDS3 gene: !silenced by! IR-hpRNAi

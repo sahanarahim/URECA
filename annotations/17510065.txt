@@ -1,0 +1,9 @@
+Cytosolic NPR1 has been shown to be essential for the salicylic acid (SA)-mediated suppression of jasmonic acid (JA)-responsive gene expression. However, factors downstream of NPR1 in the cross-talk between SA and JA signaling are unclear. Here we show that Arabidopsis WRKY62, a member of WRKY group III transcription factors, was induced by methyl jasmonate (MeJA) and SA treatment. The presence of basal SA is required for the MeJA-induced WRKY62 expression, and both chemicals exhibit a synergistic effect on WRKY62 induction. In addition, upon treatment with an extremely low concentration of SA, cytosolic NPR1 controls the MeJA-induced expression of WRKY62. TGA transcription factors, which up-regulate SA-induced expression of WRKY62, are dispensable for the induction of WRKY62 in JA signaling. Genetic dissection of both wrky62 mutants and WRKY62-overexpressing plants indicated that WRKY62 down-regulates JA-responsive LOX2 and VSP2 expression. Our results demonstrate that WRKY62 acts downstream of cytosolic NPR1 and negatively regulates JA-responsive gene expression, suggesting that WRKY62 may be involved in the SA-mediated suppression of JA signaling.
+
+NPR1: !controls! WRKY62
+MeJA: !induces! WRKY62
+SA: !induces! WRKY62
+SA: !synergizes with! MeJA
+TGA: !upregulates! WRKY62
+WRKY62: !downregulates! LOX2
+WRKY62: !downregulates! VSP2

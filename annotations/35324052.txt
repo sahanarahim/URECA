@@ -1,0 +1,12 @@
+Arabidopsis pathogen effector-triggered immunity (ETI) is controlled by a family of three lipase-like proteins (EDS1, PAD4, and SAG101) and two subfamilies of HET-S/LOB-B (HeLo)-domain "helper" nucleotide-binding/leucine-rich repeats (ADR1s and NRG1s). EDS1-PAD4 dimers cooperate with ADR1s, and EDS1-SAG101 dimers with NRG1s, in two separate defense-promoting modules. EDS1-PAD4-ADR1 and EDS1-SAG101-NRG1 complexes were detected in immune-activated leaf extracts but the molecular determinants for specific complex formation and function remain unknown. EDS1 signaling is mediated by a C-terminal EP domain (EPD) surface surrounding a cavity formed by the heterodimer. Here we investigated whether the EPDs of PAD4 and SAG101 contribute to EDS1 dimer functions. Using a structure-guided approach, we undertook a comprehensive mutational analysis of Arabidopsis PAD4. We identify two conserved residues (Arg314 and Lys380) lining the PAD4 EPD cavity that are essential for EDS1-PAD4-mediated pathogen resistance, but are dispensable for the PAD4-mediated restriction of green peach aphid infestation. Positionally equivalent Met304 and Arg373 at the SAG101 EPD cavity are required for EDS1-SAG101 promotion of ETI-related cell death. In a PAD4 and SAG101 interactome analysis of ETI-activated tissues, PAD4<sup>R314A</sup> and SAG101<sup>M304R</sup> EPD variants maintain interaction with EDS1 but lose association, respectively, with helper nucleotide-binding/leucine-rich repeats ADR1-L1 and NRG1.1, and other immune-related proteins. Our data reveal a fundamental contribution of similar but non-identical PAD4 and SAG101 EPD surfaces to specific EDS1 dimer protein interactions and pathogen immunity.
+
+EDS1: !cooperates with! PAD4 
+PAD4: !interacts with! ADR1s 
+EDS1: !cooperates with! SAG101 
+SAG101: !interacts with! NRG1s 
+Arg314: !essential for! EDS1-PAD4-mediated pathogen resistance 
+Lys380: !essential for! EDS1-PAD4-mediated pathogen resistance 
+Met304: !required for! EDS1-SAG101 promotion of ETI-related cell death 
+Arg373: !required for! EDS1-SAG101 promotion of ETI-related cell death 
+PAD4<sup>R314A</sup>: !maintains interaction with! EDS1 
+SAG101<sup>M304R</sup>: !loses association with! ADR1-L1 and NRG1.1

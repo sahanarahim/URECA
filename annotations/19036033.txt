@@ -1,0 +1,13 @@
+A variety of approaches were used to predict dual-targeted proteins in Arabidopsis thaliana. These predictions were experimentally tested using GFP fusions. Twelve new dual-targeted proteins were identified: five that were dual-targeted to mitochondria and plastids, six that were dual-targeted to mitochondria and peroxisomes, and one that was dual-targeted to mitochondria and the nucleus. Two methods to predict dual-targeted proteins had a high success rate: (1) combining the AraPerox database with a variety of subcellular prediction programs to identify mitochondrial- and peroxisomal-targeted proteins, and (2) using a variety of prediction programs on a biochemical pathway or process known to contain at least one dual-targeted protein. Several technical parameters need to be taken into account before assigning subcellular localization using GFP fusion proteins. The position of GFP with respect to the tagged polypeptide, the tissue or cells used to detect subcellular localization, and the portion of a candidate protein fused to GFP are all relevant to the expression and targeting of a fusion protein. Testing all gene models for a chromosomal locus is required if more than one model exists.
+
+Gene: !affects! Process
+Gene: !localizes to! Mitochondria
+Gene: !localizes to! Plastids
+Gene: !localizes to! Peroxisomes
+Gene: !localizes to! Nucleus
+Gene: !predicted by! AraPerox Database
+Gene: !predicted by! Subcellular Prediction Programs
+Gene: !predicted by! Biochemical Pathway/Process
+Gene: !enhanced by! Position of GFP
+Gene: !enhanced by! Tissue/Cells Used
+Gene: !enhanced by! Portion of Candidate Protein

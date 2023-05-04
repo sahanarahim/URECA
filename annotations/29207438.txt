@@ -1,0 +1,9 @@
+In nature, herbivorous insects and plant pathogens are generally abundant when plants are flowering. Thus, plants face a diversity of attackers during their reproductive phase. Plant responses to one attacker can interfere with responses to a second attacker, and phytohormones that orchestrate plant reproduction are also involved in resistance to insect and pathogen attack. We quantified phytohormonal responses of flowering plants exposed to single or dual attack and studied resistance mechanisms of plants in the flowering stage. Flowering Brassica nigra were exposed to either a chewing caterpillar, a phloem-feeding aphid or a bacterial pathogen, and plant hormonal responses were compared with dual attack situations. We quantified phytohormones in inflorescences and leaves, and determined the consequences of hormonal changes for components of direct and indirect plant resistance. Caterpillars were the main inducers of jasmonates in inflorescences, and the phytohormonal profile of leaves was not affected by either insect or pathogen attack. Dual attack increased plant resistance to caterpillars, but compromised resistance to aphids. Parasitoid performance was negatively correlated with the performance of their hosts. We conclude that plants prioritize resistance of reproductive tissues over vegetative tissues, and that a chewing herbivore species is the main driver of responses in flowering B. nigra.
+
+plant: !responds to! caterpillar 
+plant: !responds to! aphid 
+plant: !responds to! bacterial pathogen 
+caterpillar: !induces! jasmonates 
+dual attack: !increases! plant resistance to caterpillars 
+dual attack: !compromises! plant resistance to aphids 
+parasitoid performance: !correlated with! host performance

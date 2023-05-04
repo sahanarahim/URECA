@@ -1,0 +1,9 @@
+Phosphorus is an essential nutrient for plants. It is stored as inorganic phosphate (Pi) in the vacuoles of land plants but as inorganic polyphosphate (polyP) in chlorophyte algae. Although it is recognized that the SPX-Major Facilitator Superfamily (MFS) and VPE proteins are responsible for Pi influx and efflux, respectively, across the tonoplast in land plants, the mechanisms that underlie polyP homeostasis and the transition of phosphorus storage forms during the evolution of green plants remain unclear. In this study, we showed that CrPTC1, encoding a protein with both SPX and SLC (permease solute carrier 13) domains for Pi transport, and CrVTC4, encoding a protein with both SPX and vacuolar transporter chaperone (VTC) domains for polyP synthesis, are required for vacuolar polyP accumulation in the chlorophyte Chlamydomonas reinhardtii. Phylogenetic analysis showed that the SPX-SLC, SPX-VTC, and SPX-MFS proteins were present in the common ancestor of green plants (Viridiplantae). The SPX-SLC and SPX-VTC proteins are conserved among species that store phosphorus as vacuolar polyP and absent from genomes of plants that store phosphorus as vacuolar Pi. By contrast, SPX-MFS genes are present in the genomes of streptophytes that store phosphorus as Pi in the vacuoles. These results suggest that loss of SPX-SLC and SPX-VTC genes and functional conservation of SPX-MFS proteins during the evolution of streptophytes accompanied the change from ancestral polyP storage to Pi storage.
+
+CrPTC1: !synthesizes! polyP 
+CrVTC4: !synthesizes! polyP 
+SPX-SLC: !transports! Pi 
+SPX-VTC: !synthesizes! polyP 
+SPX-MFS: !transports! Pi 
+Viridiplantae: !contains! SPX-SLC, SPX-VTC, SPX-MFS 
+Streptophytes: !lacks! SPX-SLC, SPX-VTC

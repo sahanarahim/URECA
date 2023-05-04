@@ -1,0 +1,13 @@
+Organ abscission is a key step in a plant's life cycle and is one of the most important agronomic traits for crops. In tomato, two MADS-box genes, JOINTLESS (J) and MACROCAYLYX (MC), have been shown to be implicated in development of the flower abscission zone (AZ), but the molecular mechanisms underlying this process are not well known. We report here that the SEPALLATA (SEP) MADS-box gene SLMBP21 acts as an additional factor for development of the AZ in tomato. We show that knockdown of SLMBP21 abolishes development of the flower AZ, while overexpression of SLMBP21 produces small cells at the proximal section of the pedicel and the peduncle. Bimolecular fluorescence complementation analysis confirms that SLMBP21 interacts with J and MC, and co-immunoprecipitation assays further demonstrates that these three proteins may form higher-order protein complexes. In situ hybridization shows that SLMBP21, J, and MC transcripts accumulate in distinct regions, but overlap at the AZ vasculature. In addition, transactivation assays in yeast show that, of the three interacting proteins, only SLMBP21 can activate reporter gene transcription. RNA-seq analysis furthermore reveals that loss of function of SLMBP21, J, or MC affects a common subset of meristem activity genes including LeWUS and LATERAL SUPPRESSOR that were specifically expressed in the AZ on the tomato flower pedicel. Since SLMBP21 belongs to the FBP9/23 subclade of the SEP gene family, which is absent in Arabidopsis, the SLMBP21-J-MC complex may represent a distinct mechanism for development of the AZ in plants.
+
+J: !interacts with! MC
+MC: !interacts with! J
+SLMBP21: !interacts with! J
+SLMBP21: !interacts with! MC
+SLMBP21: !activates! Reporter gene transcription
+LeWUS: !repressed by! SLMBP21
+LeWUS: !repressed by! J
+LeWUS: !repressed by! MC
+LATERAL SUPPRESSOR: !repressed by! SLMBP21
+LATERAL SUPPRESSOR: !repressed by! J
+LATERAL SUPPRESSOR: !repressed by! MC

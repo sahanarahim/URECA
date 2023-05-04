@@ -1,0 +1,9 @@
+The Plant Resistance Genes database (PRGdb; http://prgdb.org/prgdb4/) has been greatly expanded, keeping pace with the increasing amount of available knowledge and data (sequenced proteomes, cloned genes, public analysis data, etc.). The easy-to-use style of the database website has been maintained, while an updated prediction tool, more data and a new section have been added. This new section will contain plant resistance transcriptomic experiments, providing additional easy-to-access experimental information. DRAGO3, the tool for automatic annotation and prediction of plant resistance genes behind PRGdb, has been improved in both accuracy and sensitivity, leading to more reliable predictions. PRGdb offers 199 reference resistance genes and 586.652 putative resistance genes from 182 sequenced proteomes. Compared to the previous release, PRGdb 4.0 has increased the number of reference resistance genes from 153 to 199, the number of putative resistance genes from 177K from 76 proteomes to 586K from 182 sequenced proteomes. A new section has been created that collects plant-pathogen transcriptomic data for five species of agricultural interest. Thereby, with these improvements and data expansions, PRGdb 4.0 aims to serve as a reference to the plant scientific community and breeders worldwide, helping to further study plant resistance mechanisms that contribute to fighting pathogens.
+
+PRGdb: !contains! 199 reference resistance genes 
+PRGdb: !contains! 586.652 putative resistance genes 
+PRGdb: !has! 182 sequenced proteomes 
+PRGdb: !includes! new section with transcriptomic data 
+PRGdb: !improved! DRAGO3 tool accuracy and sensitivity 
+DRAGO3: !predicts! plant resistance genes 
+PRGdb: !aims to serve! plant scientific community and breeders

@@ -1,0 +1,11 @@
+Co-ordination of cell proliferation and cell expansion is a key regulatory process in leaf-size determination, but its molecular details are unknown. In Arabidopsis thaliana, mutations in a positive regulator of cell proliferation often trigger excessive cell enlargement post-mitotically in leaves. This phenomenon, called compensation syndrome, is seen in the mutant angustifolia3 (an3), which is defective in a transcription co-activator. Such compensation, however, does not occur in response to a decrease in cell number in oligocellula (oli). oli2, oli5 and oli7 did not exhibit compensation and the reduction in cell number in these mutants was moderate. However, when an oli mutation was combined with a different oli mutation to create a double mutant, cell number was further reduced and compensation was induced. Similarly, weak suppression of AN3 expression reduced cell number moderately but did not induce compensation compared with an an3 null mutant. Furthermore, double mutants of either oli2, oli5 or oli7 and an3 showed markedly enhanced compensation. These results suggest that compensation is triggered when cell proliferation regulated by OLI2/OLI5/OLI7 and AN3 is compromised in a threshold-dependent manner. OLI2 encodes a Nop2 homolog in Saccharomyces cerevisiae that is involved in ribosome biogenesis, whereas OLI5 and OLI7 encode ribosome proteins RPL5A and RPL5B, respectively. This suggests that a factor involved in the induction of compensation may be under the dual control of AN3 and a ribosome-related process.
+
+an3: !triggers! compensation syndrome
+oli2/oli5/oli7: !regulates! cell proliferation
+an3: !controls! compensation
+oli2/oli5/oli7: !reduces! cell number
+an3: !suppresses! compensation
+oli2/oli5/oli7: !induces! compensation
+an3: !combined with! oli2/oli5/oli7
+oli2: !encodes! Nop2 homolog
+oli5/oli7: !encodes! ribosome proteins RPL5A/RPL5B

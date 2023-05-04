@@ -1,0 +1,7 @@
+Shewanella-like PPP family phosphatases (SLPs) are a unique lineage of eukaryote PPP-family phosphatases of bacterial origin which are not found in metazoans. <sup>1,2</sup> Their absence in metazoans is marked by their ancient bacterial origins and presence in plants. <sup>1</sup> Recently, we found that the SLP2 phosphatase ortholog of Arabidopsis thaliana localized to the mitochondrial intermembrane space (IMS) where it was determined to be activated by mitochondrial intermembrane space protein 40 (MIA40) to regulate seed germination. <sup>3</sup> Through examination of atslp2 knockout (accelerated germination) and 35S::AtSLP2 over-expressing (delayed germination) plants it was found that AtSLP2 influences Arabidopsis thaliana germination rates via gibberellic acid (GA) biosynthesis. <sup>3</sup> However, the exact mechanism by which this occurs remains unresolved. To identify potential partners of AtSLP2 in regulating germination through GA, we undertook a gene co-expression network analysis using RNA-sequencing data available through Genevestigator ( https://genevestigator.com/gv/ ).
+
+SLP2: !localizes to! Mitochondrial intermembrane space 
+MIA40: !activates! SLP2 
+AtSLP2: !influences! Arabidopsis thaliana germination rates 
+AtSLP2: !enhances! Gibberellic acid biosynthesis 
+Genevestigator: !provides! RNA-sequencing data

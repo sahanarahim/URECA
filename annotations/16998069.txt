@@ -1,0 +1,9 @@
+['16998069', 'During plastid division, the dynamin-related protein ACCUMULATION AND REPLICATION  OF CHLOROPLASTS5 (ARC5) is recruited from the cytosol to the surface of the outer  chloroplast envelope membrane. In Arabidopsis thaliana arc5 mutants, chloroplasts  arrest during division site constriction. Analysis of mutants similar to arc5  along with map-based cloning identified PLASTID DIVISION1 (PDV1), an integral  outer envelope membrane protein, and its homolog PDV2 as components of the  plastid division machinery. Similar to ARC5, PDV1 localized to a discontinuous  ring at the division site in wild-type plants. The midplastid PDV1 ring formed in  arc5 mutants and the ARC5 ring formed in pdv1 and pdv2 mutants, but not in pdv1  pdv2. Stromal FtsZ ring assembly occurred in pdv1, pdv2, and pdv1 pdv2, as it  does in arc5. Topological analysis showed that the large N-terminal region of  PDV1 upstream of the transmembrane helix bearing a putative coiled-coil domain is  exposed to the cytosol. Mutation of the conserved PDV1 C-terminal Gly residue did  not block PDV1 insertion into the outer envelope membrane but did abolish its  localization to the division site. Our results indicate that plastid division  involves the stepwise localization of FtsZ, PDV1, and ARC5 at the division site  and that PDV1 and PDV2 together mediate the recruitment of ARC5 to the midplastid  constriction at a late stage of division.', '2006 Oct', 'Plant Cell', '10.1105/tpc.106.045484', 'Osteryoung']
+
+ARC5: !localizes to! outer chloroplast envelope membrane 
+PDV1: !localizes to! division site 
+PDV2: !interacts with! PDV1 
+PDV1: !mediates! recruitment of ARC5 
+FtsZ: !localizes to! division site 
+PDV1: !inserts into! outer envelope membrane 
+PDV1: !exposes! N-terminal region to cytosol

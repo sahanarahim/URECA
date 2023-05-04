@@ -1,0 +1,7 @@
+Excess phosphate (Pi) is stored into the vacuole through Pi transporters so that cytoplasmic Pi levels remain stable in plant cells. We hypothesized that the vacuolar Pi transporters may harbor a Pi-sensing mechanism so that they are activated to deliver Pi into the vacuole only when cytosolic Pi reaches a threshold high level. We tested this hypothesis using Vacuolar Phosphate Transporter 1 (VPT1), a SPX domain-containing vacuolar Pi transporter, as a model. Recent studies have defined SPX as a Pi-sensing module that binds inositol polyphosphate signaling molecules (InsPs) produced at high cellular Pi status. We showed here that Pi-deficient conditions or mutation of the SPX domain severely impaired the transport activity of VPT1. We further identified an auto-inhibitory domain in VPT1 that suppresses its transport activity. Taking together the results from detailed structure-function analyses, our study suggests that VPT1 is in the auto-inhibitory state when Pi status is low, whereas at high cellular Pi status InsPs are produced and bind SPX domain to switch on VPT1 activity to deliver Pi into the vacuole. This thus provides an auto-regulatory mechanism for VPT1-mediated Pi sensing and homeostasis in plant cells.
+
+VPT1: !binds! InsPs 
+InsPs: !produced at! high cellular Pi status 
+VPT1: !auto-inhibited by! auto-inhibitory domain 
+SPX domain: !binds! InsPs 
+VPT1: !switched on by! SPX domain

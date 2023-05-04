@@ -1,0 +1,11 @@
+Stomata are integral to plant performance, enabling the exchange of gases between the atmosphere and the plant. The anatomy of stomata influences conductance properties with the maximal conductance rate, <i>g</i> <sub>smax</sub>, calculated from density and size. However, current calculations of stomatal dimensions are performed manually, which are time-consuming and error prone. Here, we show how automated morphometry from leaf impressions can predict a functional property: the anatomical g<sub>smax</sub>. A deep learning network was derived to preserve stomatal morphometry <i>via</i> semantic segmentation. This forms part of an automated pipeline to measure stomata traits for the estimation of anatomical g<sub>smax</sub>. The proposed pipeline achieves accuracy of 100% for the distinction (wheat vs. poplar) and detection of stomata in both datasets. The automated deep learning-based method gave estimates for g<sub>smax</sub> within 3.8 and 1.9% of those values manually calculated from an expert for a wheat and poplar dataset, respectively. Semantic segmentation provides a rapid and repeatable method for the estimation of anatomical g<sub>smax</sub> from microscopic images of leaf impressions. This advanced method provides a step toward reducing the bottleneck associated with plant phenotyping approaches and will provide a rapid method to assess gas fluxes in plants based on stomata morphometry.
+
+Stomata: !enable! Gas exchange 
+Anatomy: !influences! Conductance rate 
+Calculations: !performed manually! Time-consuming 
+Deep learning network: !preserves! Stomatal morphometry 
+Pipeline: !measures! Stomata traits 
+Network: !achieves accuracy of! 100% 
+Method: !gives estimates for! g<sub>smax</sub> 
+Semantic segmentation: !provides! Rapid and repeatable method 
+Advanced method: !reduces! Bottleneck associated with plant phenotyping

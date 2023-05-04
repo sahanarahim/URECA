@@ -1,0 +1,7 @@
+Brassinosteroids (BRs), a class of phytohormones, control various physiological and developmental processes in plants. Two highly homologous transcription factors, brassinosteroid insensitive 1-EMS-SUPRESSOR 1 (BES1) and brassinazole resistant 1 (BZR1), act downstream of BR signaling to control several thousands of putative target genes. We reported previously that BES1 forms a complex with a molecular chaperone: heat shock protein 90 (HSP90). This study demonstrates that the amino-terminal and central parts of BES1 are responsible for its physical interaction with HSP90.3 in vitro. Additionally, we present evidence that BZR1 is a novel HSP90 partner aside from two BR signaling components previously identified as its clients: BES1 and brassinosteroid insensitive 2 (BIN2). Furthermore, geldanamycin, an inhibitor of ATPase activity in HSP90, caused BES1 hyperphosphorylation and disrupted the expression of BR-responsive genes. Considered together, our results imply that HSP90 takes a part in BR-mediated gene expression through complex formation with two major transcription factors.
+
+BES1: !interacts with! HSP90
+BZR1: !interacts with! HSP90
+BES1: !synthesizes! BR-responsive genes
+BIN2: !interacts with! BZR1
+geldanamycin: !causes! BES1 hyperphosphorylation

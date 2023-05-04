@@ -1,0 +1,9 @@
+Cleistogamy, self-pollination within closed flowers, can help maintain seed purity, accelerate breeding speed, and aid in the development of ornamental flowers. However, the mechanism underlying petal closing/opening behavior remains elusive. Here, we found that a Brassica napus petal closing/opening behavior was inherited in a Mendelian manner. Fine mapping and positional cloning experiments revealed that the Mendelian factor originated from a short (29.8 kb) inversion mediated by BnDTH9 miniature inverted-repeat transposable elements (MITEs) on chromosome C03. This inversion led to tissue-specific gene promoter exchange between BnaC03.FBA (BnaC03G0156800ZS encoding an F-Box-associated domain-containing protein) and BnaC03.EFO1 (BnaC03G0157400ZS encoding an EARLY FLOWERING BY OVEREXPRESSION 1 protein) positioned near the respective inversion breakpoints. Our genetic transformation work demonstrated that the cleistogamy originated from high tissue-specific expression of the BnaC03.FBA gene caused by promoter changes due to the MITE-mediated inversion. BnaC03.FBA is involved in the formation of an SCF (Skp1-Cullin-F-box) complex, which participates in ubiquitin-mediated protein targeting for degradation through the ubiquitin 26S-proteasome system. Our results shed light on a molecular model of petal-closing behavior.
+
+BnDTH9: !mediates! Inversion
+BnaC03.FBA: !localizes to! Chromosome C03
+BnaC03.FBA: !synthesizes! F-Box-associated domain-containing protein
+BnaC03.EFO1: !synthesizes! EARLY FLOWERING BY OVEREXPRESSION 1 protein
+BnaC03.FBA: !enhances! Cleistogamy
+SCF: !interacts with! BnaC03.FBA
+Ubiquitin 26S-proteasome system: !interacts with! SCF

@@ -1,0 +1,14 @@
+Plant leaf senescence has been recognized as the last phase of plant development, a highly ordered process regulated by genes known as senescence associated genes (SAGs). However, the function of most of SAGs in regulating leaf senescence as well as regulators of those functionally known SAGs are still unclear. We have previously developed a curated database of genes potentially associated with leaf senescence, the Leaf Senescence Database (LSD). In this study, we built gene networks to identify common regulators of leaf senescence in Arabidopsis thaliana using promoting or delaying senescence genes in LSD. Our results demonstrated that plant hormones cytokinin, auxin, nitric oxide as well as small molecules, such as Ca(2+), delay leaf senescence. By contrast, ethylene, ABA, SA and JA as well as small molecules, such as oxygen, promote leaf senescence, altogether supporting the idea that phytohormones play a critical role in regulating leaf senescence. Functional analysis of candidate SAGs in LSD revealed that a WRKY transcription factor WRKY75 and a Cys2/His2-type transcription factor AZF2 are positive regulators of leaf senescence and loss-of-function of WRKY75 or AZF2 delayed leaf senescence. We also found that silencing of a protein phosphatase, AtMKP2, promoted early senescence. Collectively, LSD can serve as a comprehensive resource for systematic study of the molecular mechanism of leaf senescence as well as offer candidate genes for functional analyses.
+
+Cytokinin: !delays! Leaf senescence
+Auxin: !delays! Leaf senescence
+Nitric oxide: !delays! Leaf senescence
+Calcium: !delays! Leaf senescence
+Ethylene: !promotes! Leaf senescence
+ABA: !promotes! Leaf senescence
+SA: !promotes! Leaf senescence
+JA: !promotes! Leaf senescence
+Oxygen: !promotes! Leaf senescence
+WRKY75: !enhances! Leaf senescence
+AZF2: !enhances! Leaf senescence
+AtMKP2: !represses! Leaf senescence

@@ -1,0 +1,12 @@
+RNA C-to-U editing in organelles is essential for plant growth and development; however, the underlying mechanism is not fully understood. Here, we report that pentatricopeptide repeat (PPR)-E subclass proteins carry out RNA C-to-U editing by recruiting the trans deaminase PPR motifs, coiled-coil, and DYW domain-containing protein 1 (PCW1) in maize (Zea mays) mitochondria. Loss-of-function of bZIP and coiled-coil domain-containing PPR 1 (bCCP1) or PCW1 arrests seed development in maize. bCCP1 encodes a bZIP and coiled-coil domain-containing PPR protein, and PCW1 encodes an atypical PPR-DYW protein. bCCP1 is required for editing at 66 sites in mitochondria and PCW1 is required for editing at 102 sites, including the 66 sites that require bCCP1. The PCW1-mediated editing sites are exclusively associated with PPR-E proteins. bCCP1 interacts with PCW1 and the PPR-E protein Empty pericarp7 (EMP7). Two multiple organellar RNA editing factor (MORF) proteins, ZmMORF1 and ZmMORF8, interact with PCW1, EMP7, and bCCP1. ZmMORF8 enhanced the EMP7-PCW1 interaction in a yeast three-hybrid assay. C-to-U editing at the ccmFN-1553 site in maize required EMP7, bCCP1, and PCW1. These results suggest that PPR-E proteins function in RNA editing by recruiting the trans deaminase PCW1 and bCCP1, and MORF1/8 assist this recruitment through protein-protein interactions.
+
+bCCP1: !interacts with! PCW1 
+bCCP1: !interacts with! EMP7 
+PCW1: !interacts with! EMP7 
+ZmMORF1: !interacts with! PCW1 
+ZmMORF1: !interacts with! EMP7 
+ZmMORF1: !interacts with! bCCP1 
+ZmMORF8: !enhances! EMP7-PCW1 interaction 
+EMP7: !required for! ccmFN-1553 editing 
+bCCP1: !required for! ccmFN-1553 editing 
+PCW1: !required for! ccmFN-1553 editing

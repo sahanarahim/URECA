@@ -1,0 +1,11 @@
+<i>Dendrobium huoshanense</i> is both a traditional herbal medicine and a plant of high ornamental and medicinal value. We used transcriptomics and metabolomics to investigate the effects of growth year on the secondary metabolites of <i>D. huoshanense</i> stems obtained from four different years of cultivation. In this study, a total of 428 differentially accumulated metabolites (DAMs) and 1802 differentially expressed genes (DEGs) were identified. The KEGG enrichment analysis of DEGs and DAMs revealed significant differences in "Flavonoid biosynthesis", "Phenylpropanoid biosynthesis" and "Flavone and flavonol biosynthesis". We summarize the biosynthesis pathway of flavonoids in <i>D. huoshanense</i>, providing new insights into the biosynthesis and regulation mechanisms of flavonoids in <i>D. huoshanense</i>. Additionally, we identified two candidate genes, <i>FLS</i> (<i>LOC110107557</i>) and <i>F3'H</i> (<i>LOC110095936</i>), which are highly involved in flavonoid biosynthesis pathway, by WGCNA analysis. The aim of this study is to investigate the effects of growth year on secondarily metabolites in the plant and provide a theoretical basis for determining a reasonable harvesting period for <i>D. huoshanense</i>.
+
+DEGs: !affects! Flavonoid biosynthesis
+DEGs: !affects! Phenylpropanoid biosynthesis
+DEGs: !affects! Flavone and flavonol biosynthesis
+FLS: !localizes to! LOC110107557
+F3'H: !localizes to! LOC110095936
+FLS: !interacts with! F3'H
+FLS: !enhances! Flavonoid biosynthesis
+F3'H: !represses! Flavonoid biosynthesis
+FLS: !synthesizes! Phenylpropanoid biosynthesis

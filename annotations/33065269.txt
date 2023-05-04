@@ -1,0 +1,14 @@
+The eukaryotic genome has a hierarchical three-dimensional (3D) organization with functional implications for DNA replication, DNA repair, and transcriptional regulation. Over the past decade, scientists have endeavored to elucidate the spatial characteristics and functions of plant genome architecture using high-throughput chromatin conformation capturing technologies such as Hi-C, ChIA-PET, and HiChIP. Here, we systematically review current understanding of chromatin organization in plants at multiple scales. We also discuss the emerging opinions and concepts in 3D genome research, focusing on state-of-the-art 3D genome techniques, RNA-chromatin interactions, liquid-liquid phase separation, and dynamic chromatin alterations. We propose the application of single-cell/single-molecule multi-omics, multiway (DNA-DNA, DNA-RNA, and RNA-RNA interactions) chromatin conformation capturing methods, and proximity ligation-independent 3D genome-mapping technologies to explore chromatin organization structure and function in plants. Such methods could reveal the spatial interactions between trait-related SNPs and their target genes at various spatiotemporal resolutions, and elucidate the molecular mechanisms of the interactions among DNA elements, RNA molecules, and protein factors during the formation of key traits in plants.
+
+DNA: !replicates! 
+DNA: !repairs! 
+DNA: !regulates transcription! 
+Hi-C: !maps! Chromatin 
+ChIA-PET: !maps! Chromatin 
+HiChIP: !maps! Chromatin 
+RNA: !interacts with! Chromatin 
+Phase Separation: !alters! Chromatin 
+SNPs: !interact with! Target Genes 
+DNA Elements: !interact with! RNA Molecules 
+RNA Molecules: !interact with! Protein Factors 
+Protein Factors: !influence! Key Traits

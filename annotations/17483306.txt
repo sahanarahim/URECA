@@ -1,0 +1,7 @@
+['17483306', 'Regulation of the trans-plasma membrane pH gradient is an important part of plant  responses to several hormonal and environmental cues, including auxin, blue  light, and fungal elicitors. However, little is known about the signaling  components that mediate this regulation. Here, we report that an Arabidopsis  thaliana Ser/Thr protein kinase, PKS5, is a negative regulator of the plasma  membrane proton pump (PM H+ -ATPase). Loss-of-function pks5 mutant plants are  more tolerant of high external pH due to extrusion of protons to the  extracellular space. PKS5 phosphorylates the PM H+ -ATPase AHA2 at a novel site,  Ser-931, in the C-terminal regulatory domain. Phosphorylation at this site  inhibits interaction between the PM H+ -ATPase and an activating 14-3-3 protein  in a yeast expression system. We show that PKS5 interacts with the calcium  binding protein SCaBP1 and that high external pH can trigger an increase in the  concentration of cytosolic-free calcium. These results suggest that PKS5 is part  of a calcium-signaling pathway mediating PM H+ -ATPase regulation.', '2007 May', 'Plant Cell', '10.1105/tpc.105.035626', 'Zhu']
+
+PKS5: !phosphorylates! PM H+ -ATPase AHA2 
+PKS5: !interacts with! SCaBP1 
+PM H+ -ATPase AHA2: !inhibited by! PKS5 phosphorylation 
+PM H+ -ATPase AHA2: !interacts with! activating 14-3-3 protein 
+high external pH: !triggers! increase in cytosolic-free calcium

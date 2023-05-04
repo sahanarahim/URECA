@@ -1,0 +1,7 @@
+Marker-gene-free transgenic soybean plants were produced by isolating a developmentally regulated embryo-specific gene promoter, app1, from Arabidopsis and developing a self-activating gene excision system using the P1 bacteriophage Cre/loxP recombination system. To accomplish this, the Cre recombinase gene was placed under control of the app1 promoter and, together with a selectable marker gene (hygromycin phosphotransferase), were cloned between two loxP recombination sites. This entire sequence was then placed between a constitutive promoter and a coding region for either beta-glucuronidase (Gus) or glyphosate acetyltransferase (Gat). Gene excision would remove the entire sequence between the two loxP sites and bring the coding region to the constitutive promoter for expression. Using this system marker gene excision occurred in over 30% of the stable transgenic events as indicated by the activation of the gus reporter gene or the gat gene in separate experiments. Transgenic plants with 1 or 2 copies of a functional excision-activated gat transgene and without any marker gene were obtained in T0 or T1 generation. This demonstrates the feasibility of using developmentally controlled promoters to mediate marker excision in soybean.
+
+app1: !controls! Cre recombinase 
+Cre recombinase: !mediates! Marker gene excision 
+Gus/Gat: !expresses! Constitutive promoter 
+Hygromycin phosphotransferase: !cloned between! Two loxP recombination sites 
+T0/T1 generation: !obtains! Transgenic plants with functional excision-activated gat transgene

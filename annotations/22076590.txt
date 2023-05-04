@@ -1,0 +1,9 @@
+Grain sorghum [Sorghum bicolor (L) moench] exhibits intraspecific variability for the rate of dormancy release and pre-harvest sprouting behavior. Two inbred lines with contrasting sprouting response were compared: IS9530 (resistant) and RedlandB2 (susceptible). Precocious dormancy release in RedlandB2 is related to an early loss of embryo sensitivity to ABA and higher levels of gibberellins in imbibed grains as compared with IS9530. With the aim of identifying potential regulatory sites for gibberellin metabolism involved in the expression of dormancy in immature grains of both lines, we carried out a time course analysis of transcript levels of putative gibberellin metabolism genes and hormone content (GA(1), GA(4), GA(8) and GA(34)). A lower embryonic GA(4) level in dormant IS9530 was related to a sharp and transient induction of two SbGA2-oxidase (inactivation) genes. In contrast, these genes were not induced in less dormant RedlandB2, while expression of two SbGA20-oxidase (synthesis) genes increased together with active GA(4) levels before radicle protrusion. Embryonic levels of GA(4) and its catabolite GA(34) correlated negatively. Thus, in addition to the process of gibberellin synthesis, inactivation is also important in regulating GA(4) levels in immature grains. A negative regulation by gibberellins was observed for SbGA20ox2, SbGA2ox1 and SbGA2ox3 and also for SbGID1 encoding a gibberellin receptor. We propose that the coordinated regulation at the transcriptional level of several gibberellin metabolism genes identified in this work affects the balance between gibberellin synthesis and inactivation processes, controlling active GA(4) levels during the expression of dormancy in maturing sorghum grains.
+
+Gene: !synthesizes! GA(4)
+Gene: !inactivates! GA(4)
+Gene: !represses! SbGA20ox2
+Gene: !represses! SbGA2ox1
+Gene: !represses! SbGA2ox3
+Gene: !represses! SbGID1
+Gene: !affects! Balance between GA(4) synthesis and inactivation

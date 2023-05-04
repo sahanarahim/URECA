@@ -1,0 +1,9 @@
+Plasma membrane H<sup>+</sup> -ATPase pumps build up the electrochemical H<sup>+</sup> gradients that energize most other transport processes into and out of plant cells through channel proteins and secondary active carriers. In Arabidopsis thaliana, the AUTOINHIBITED PLASMA MEMBRANE H<sup>+</sup> -ATPases AHA1, AHA2 and AHA7 are predominant in root epidermal cells. In contrast to other H<sup>+</sup> -ATPases, we find that AHA7 is autoinhibited by a sequence present in the extracellular loop between transmembrane segments 7 and 8. Autoinhibition of pump activity was regulated by extracellular pH, suggesting negative feedback regulation of AHA7 during establishment of an H<sup>+</sup> gradient. Due to genetic redundancy, it has proven difficult to test the role of AHA2 and AHA7, and mutant phenotypes have previously only been observed under nutrient stress conditions. Here, we investigated root and root hair growth under normal conditions in single and double mutants of AHA2 and AHA7. We find that AHA2 drives root cell expansion during growth but that, unexpectedly, restriction of root hair elongation is dependent on AHA2 and AHA7, with each having different roles in this process.
+
+AHA1: !pumps! H<sup>+</sup>
+AHA2: !regulates! AHA7
+AHA7: !autoinhibited by! sequence
+AHA7: !regulated by! extracellular pH
+AHA2: !drives! root cell expansion
+AHA2: !restricts! root hair elongation
+AHA7: !restricts! root hair elongation

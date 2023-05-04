@@ -1,0 +1,11 @@
+An RND (resistance-nodulation-division)-type transporter having the capacity to export free fatty acids (FFAs) was identified in the cyanobacterium Synechococcus elongatus strain PCC 7942 during characterization of a mutant strain engineered to produce FFAs. The basic strategy for construction of the FFA-producing mutant was a commonly used one, involving inactivation of the endogenous acyl-acyl carrier protein synthetase gene (aas) and introduction of a foreign thioesterase gene ('tesA), but a nitrate transport mutant NA3 was used as the parental strain to achieve slow, nitrate-limited growth in batch cultures. Also, a nitrogen-regulated promoter PnirA was used to drive 'tesA to maximize thioesterase expression during the nitrate-limited growth. The resulting mutant (dAS2T) was, however, incapable of growth under the conditions of nitrate limitation, presumably due to toxicity associated with FFA overproduction. Incubation of the mutant culture under the non-permissive conditions allowed for isolation of a pseudorevertant (dAS2T-pr1) capable of growth on nitrate. Genome sequence and gene expression analyses of this strain suggested that expression of an RND-type efflux system had rescued growth on nitrate. Targeted inactivation of the RND-type transporter genes in the wild-type strain resulted in loss of tolerance to exogenously added FFAs including capric, lauric, myristic, oleic and linolenic acids. Overexpression of the genes in dAS2T, on the other hand, enhanced FFA excretion and cell growth in nitrate-containing medium, verifying that the genes encode an efflux pump for FFAs. These results demonstrate the importance of the efflux system in efficient FFA production using genetically engineered cyanobacteria.
+
+aas: !inactivated! FFA-producing mutant
+tesA: !introduced! FFA-producing mutant
+PnirA: !promotes! tesA expression
+dAS2T: !incapable of growth! nitrate limitation
+dAS2T-pr1: !isolated! pseudorevertant
+RND-type transporter genes: !expressed! dAS2T
+RND-type transporter genes: !inactivated! wild-type strain
+RND-type transporter genes: !overexpressed! dAS2T
+FFAs: !exported! RND-type transporter genes

@@ -1,0 +1,9 @@
+The clustered regularly interspaced short palindromic repeats (CRISPR)/CRISPR-associated protein (Cas) system has been widely applied in functional genomics research and plant breeding. In contrast to the off-target studies of mammalian cells, there is little evidence for the common occurrence of off-target sites in plants and a great need exists for accurate detection of editing sites. Here, we summarized the precision of CRISPR/Cas9-mediated mutations for 281 targets and found that there is a preference for single nucleotide deletions/insertions and longer deletions starting from 40 nt upstream or ending at 30 nt downstream of the cleavage site, which suggested the candidate sequences for editing sites detection by whole-genome sequencing (WGS). We analyzed the on-/off-target sites of 6 CRISPR/Cas9-mediated <i>Arabidopsis</i> plants by the optimized method. The results showed that the on-target editing frequency ranged from 38.1% to 100%, and one off target at a frequency of 9.8%-97.3% cannot be prevented by increasing the specificity or reducing the expression level of the Cas9 enzyme. These results indicated that designing guide RNA with high specificity may be the preferred factor to avoid the off-target events, and it is necessary to predict or detect off-target sites by WGS-based methods for preventing off targets caused by genome differences in different individuals.
+
+CRISPR/Cas: !prefers! single nucleotide deletions/insertions 
+CRISPR/Cas: !starts from! 40 nt upstream 
+CRISPR/Cas: !ends at! 30 nt downstream 
+CRISPR/Cas: !edits! on-target sites 
+CRISPR/Cas: !causes! off-target sites 
+CRISPR/Cas: !avoided by! designing guide RNA with high specificity 
+CRISPR/Cas: !detected by! WGS-based methods

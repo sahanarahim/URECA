@@ -1,0 +1,8 @@
+Plant metabolites from diverse pathways are important for plant survival, human nutrition and medicine. The pathway memberships of most plant enzyme genes are unknown. While co-expression is useful for assigning genes to pathways, expression correlation may exist only under specific spatiotemporal and conditional contexts. Utilising > 600 tomato (Solanum lycopersicum) expression data combinations, three strategies for predicting memberships in 85 pathways were explored. Optimal predictions for different pathways require distinct data combinations indicative of pathway functions. Naive prediction (i.e. identifying pathways with the most similarly expressed genes) is error prone. In 52 pathways, unsupervised learning performed better than supervised approaches, possibly due to limited training data availability. Using gene-to-pathway expression similarities led to prediction models that outperformed those based simply on expression levels. Using 36 experimental validated genes, the pathway-best model prediction accuracy is 58.3%, significantly better compared with that for predicting annotated genes without experimental evidence (37.0%) or random guess (1.2%), demonstrating the importance of data quality. Our study highlights the need to extensively explore expression-based features and prediction strategies to maximise the accuracy of metabolic pathway membership assignment. The prediction framework outlined here can be applied to other species and serves as a baseline model for future comparisons.
+
+Gene: !affects! Pathway
+Gene: !localizes to! Tomato
+Gene: !interacts with! Expression data
+Gene: !enhances! Unsupervised learning
+Gene: !represses! Naive prediction
+Gene: !synthesizes! Prediction models

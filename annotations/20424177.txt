@@ -1,0 +1,14 @@
+The cortical endoplasmic reticulum (ER) in tobacco (Nicotiana tabacum) epidermal cells is a network of tubules and cisternae undergoing dramatic rearrangements. Reticulons are integral membrane proteins involved in shaping ER tubules. Here, we characterized the localization, topology, effect, and interactions of five Arabidopsis thaliana reticulons (RTNs), isoforms 1-4 and 13, in the cortical ER. Our results indicate that RTNLB13 and RTNLB1-4 colocate to and constrict the tubular ER membrane. All five RTNs preferentially accumulate on ER tubules and are excluded from ER cisternae. All isoforms share the same transmembrane topology, with N and C termini facing the cytosol and four transmembrane domains. We show by Förster resonance energy transfer and fluorescence lifetime imaging microscopy that several RTNs have the capacity to interact with themselves and each other, and we suggest that oligomerization is responsible for their residence in the ER membrane. We also show that a complete reticulon homology domain is required for both RTN residence in high-curvature ER membranes and ER tubule constriction, yet it is not necessary for homotypic interactions.
+
+RTNLB13: !localizes to! ER tubules
+RTNLB1-4: !localizes to! ER tubules
+RTNLB13: !constricts! ER tubules
+RTNLB1-4: !constricts! ER tubules
+RTNLB13: !excludes from! ER cisternae
+RTNLB1-4: !excludes from! ER cisternae
+RTNLB13: !interacts with! itself
+RTNLB1-4: !interacts with! itself
+RTNLB13: !interacts with! RTNLB1-4
+RTNLB1-4: !interacts with! RTNLB13
+RTNLB13: !requires! complete reticulon homology domain
+RTNLB1-4: !requires! complete reticulon homology domain

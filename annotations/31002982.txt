@@ -1,0 +1,14 @@
+SPX-domain-containing proteins (SPXs) play an important role in inorganic phosphate (Pi) sensing, signaling, and transport in eukaryotes. In plants, SPXs are known to integrate cellular Pi status and negatively regulate the activity of Pi central regulators, the PHOSPATE STARVATION RESPONSE proteins (PHRs). The stability of SPXs, such as SPX4, is reduced under Pi-deficient conditions. However, the mechanisms by which SPXs are degraded remain unclear. In this study, using a yeast-two-hybrid screen we identified two RING-finger ubiquitin E3 ligases regulating SPX4 degradation, designated SDEL1 and SDEL2, which were post-transcriptionally induced by Pi starvation. We found that both SDELs were located in the nucleus and cytoplasm, had ubiquitin E3 ligase activity, and directly ubiquitinated the K<sup>213</sup> and K<sup>299</sup> lysine residues in SPX4 to regulate its stability. Furthermore, we found that PHR2, a Pi central regulator in rice, could compete with SDELs by interacting with SPX4 under Pi-sufficient conditions, which protected SPX4 from ubiquitination and degradation. Consistent with the biochemical function of SDEL1 and SDEL2, overexpression of SDEL1 or SDEL2 resulted in Pi overaccumulation and induced Pi-starvation signaling even under Pi-sufficient conditions. Conversely, their loss-of-function mutants displayed decreased Pi accumulation and reduced Pi-starvation signaling. Collectively, our study revealed that SDEL1 and SDEL2 facilitate the degradation of SPX4 to modulate PHR2 activity and regulate Pi homeostasis and Pi signaling in response to external Pi availability in rice.
+
+SPX4: !degraded by! SDEL1 
+SPX4: !degraded by! SDEL2 
+SDEL1: !localizes to! nucleus 
+SDEL1: !localizes to! cytoplasm 
+SDEL1: !has! ubiquitin E3 ligase activity 
+SDEL2: !localizes to! nucleus 
+SDEL2: !localizes to! cytoplasm 
+SDEL2: !has! ubiquitin E3 ligase activity 
+PHR2: !interacts with! SPX4 
+PHR2: !competes with! SDELs 
+SDEL1: !enhances! Pi-starvation signaling 
+SDEL2: !enhances! Pi-starvation signaling

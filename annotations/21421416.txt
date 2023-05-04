@@ -1,0 +1,7 @@
+['21421416', 'SmD3 is a core protein of small nuclear ribonucleoprotein (snRNP) essential for  splicing of primary transcripts. To elucidate function of SmD3 protein in plants,  phenotypes and gene expression of SmD3 knock-out and overexpressing mutants in  Arabidopsis have been analyzed. smd3-a knock-out mutant or SmD3-a and SmD3-b  overexpressors did not show phenotypic alteration. Knock-out of SmD3-b resulted  in the pleotropic phenotypes of delayed flowering time and completion of life  cycle, reduced root growth, partially defective leaf venation, abnormal numbers  of trichome branches, and changed numbers of floral organs. Microarray data  revealed that the smd3-b mutant had altered expression of genes related to the  above phenotypes, indirectly suggesting that changed splicing of these genes may  cause the observed phenotypes. Splicing of selected genes was either totally  blocked or reduced in the smd3-b mutant, indicating the important role of SmD3-b  in the process. A double knock-out mutant of smd3-a and smd3-b could not be  generated, indicating possible redundant function of these two genes. All data  indicate that SmD3-b may be major component of the spliceosomal snRNP in  Arabidopsis, but the function of SmD3-a may be redundant.', '2011 May', 'Plant Sci', '10.1016/j.plantsci.2011.01.011', 'Hur']
+
+SmD3-a: !redundant with! SmD3-b
+SmD3-b: !affects! Splicing of primary transcripts
+SmD3-b: !enhances! Root growth
+SmD3-b: !represses! Flowering time
+SmD3-b: !synthesizes! Trichome branches

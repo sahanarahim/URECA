@@ -1,0 +1,7 @@
+The spikelet, which is a short branch bearing the florets, is the fundamental unit of grass inflorescence architecture. In most grasses, spikelets are borne singly on the inflorescence. However, paired spikelets are characteristic of the Andropogoneae, a tribe of 1,000 species including maize (Zea mays). The Suppressor of sessile spikelets1 (Sos1) mutant of maize produces single instead of paired spikelets in the inflorescence. Therefore, the sos1 gene may have been involved in the evolution of paired spikelets. In this article, we show that Sos1 is a semidominant, antimorph mutation. Sos1 mutants have fewer branches and spikelets for two reasons: (1) fewer spikelet pair meristems are produced due to defects in inflorescence meristem size and (2) the spikelet pair meristems that are produced make one instead of two spikelet meristems. The interaction of Sos1 with the ramosa mutants, which produce more branches and spikelets, was investigated. The results show that Sos1 has an epistatic interaction with ramosa1 (ra1), a synergistic interaction with ra2, and an additive interaction with ra3. Moreover, ra1 mRNA levels are reduced in Sos1 mutants, while ra2 and ra3 mRNA levels are unaffected. Based on these genetic and expression studies, we propose that sos1 functions in the ra1 branch of the ramosa pathway controlling meristem determinacy.
+
+sos1: !affects! spikelet pair meristem production 
+sos1: !interacts with! ramosa mutants 
+ramosa1: !represses! sos1 
+ramosa2: !synergizes with! sos1 
+ramosa3: !additively interacts with! sos1

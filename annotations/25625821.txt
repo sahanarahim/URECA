@@ -1,0 +1,9 @@
+The Pseudomonas syringae effector AvrB triggers a hypersensitive resistance response in Arabidopsis and soybean plants expressing the disease resistance (R) proteins RPM1 and Rpg1b, respectively. In Arabidopsis, AvrB induces RPM1-interacting protein kinase (RIPK) to phosphorylate a disease regulator known as RIN4, which subsequently activates RPM1-mediated defenses. Here, we show that AvrPphB can suppress activation of RPM1 by AvrB and this suppression is correlated with the cleavage of RIPK by AvrPphB. Significantly, AvrPphB does not suppress activation of RPM1 by AvrRpm1, suggesting that RIPK is not required for AvrRpm1-induced modification of RIN4. This observation indicates that AvrB and AvrRpm1 recognition is mediated by different mechanisms in Arabidopsis, despite their recognition being determined by a single R protein. Moreover, AvrB recognition but not AvrRpm1 recognition is suppressed by AvrPphB in soybean, suggesting that AvrB recognition requires a similar molecular mechanism in soybean and Arabidopsis. In support of this, we found that phosphodeficient mutations in the soybean GmRIN4a and GmRIN4b proteins are sufficient to block Rpg1b-mediated hypersensitive response in transient assays in Nicotiana glutinosa. Taken together, our results indicate that AvrB and AvrPphB target a conserved defense signaling pathway in Arabidopsis and soybean that includes RIPK and RIN4.
+
+AvrB: !triggers! hypersensitive resistance response 
+RPM1/Rpg1b: !recognize! AvrB/AvrRpm1
+AvrPphB: !suppresses! AvrB recognition
+RIPK: !phosphorylates! RIN4
+RIN4: !activates! RPM1-mediated defenses
+AvrPphB: !cleaves! RIPK
+GmRIN4a/GmRIN4b: !blocks! Rpg1b-mediated response

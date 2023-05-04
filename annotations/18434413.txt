@@ -1,0 +1,9 @@
+The COP9 signalosome (CSN) is required for the full activity of cullin-RING E3 ubiquitin ligases (CRLs) in eukaryotes. CSN exerts its function on CRLs by removing the ubiquitin-related NEDD8 conjugate from the cullin subunit of CRLs. CSN seems, thereby, to control CRL disassembly or CRL subunit stability. In Arabidopsis thaliana, loss of CSN function leads to constitutive photomorphogenic (cop) seedling development and a post-germination growth arrest. The underlying molecular cause of this growth arrest is currently unknown. Here, we show that Arabidopsis csn mutants are delayed in G2 phase progression. This cell cycle arrest correlates with the induction of the DNA damage response pathway and is suggestive of the activation of a DNA damage checkpoint. In support of this hypothesis, we detected gene conversion events in csn mutants that are indicative of DNA double-strand breaks. DNA damage is also apparent in mutants of the NEDD8 conjugation pathway and in mutants of the E3 ligase subunits CULLIN4, COP1 and DET1, which share phenotypes with csn mutants. In summary, our data suggest that Arabidopsis csn mutants undergo DNA damage, which might be the cause of the delay in G2 cell cycle progression.
+
+CSN: !controls! CRLs 
+CSN: !removes! NEDD8 conjugate 
+CSN: !induces! DNA damage response pathway 
+CSN: !causes! G2 phase progression delay 
+CSN: !leads to! DNA double-strand breaks 
+NEDD8 conjugation pathway: !induces! DNA damage 
+CULLIN4, COP1, DET1: !share phenotypes with! csn mutants

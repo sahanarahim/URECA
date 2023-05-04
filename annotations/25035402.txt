@@ -1,0 +1,9 @@
+Understanding plant gene promoter architecture has long been a challenge due to the lack of relevant large-scale data sets and analysis methods. Here, we present a publicly available, large-scale transcription start site (TSS) data set in plants using a high-resolution method for analysis of 5' ends of mRNA transcripts. Our data set is produced using the paired-end analysis of transcription start sites (PEAT) protocol, providing millions of TSS locations from wild-type Columbia-0 Arabidopsis thaliana whole root samples. Using this data set, we grouped TSS reads into "TSS tag clusters" and categorized clusters into three spatial initiation patterns: narrow peak, broad with peak, and weak peak. We then designed a machine learning model that predicts the presence of TSS tag clusters with outstanding sensitivity and specificity for all three initiation patterns. We used this model to analyze the transcription factor binding site content of promoters exhibiting these initiation patterns. In contrast to the canonical notions of TATA-containing and more broad "TATA-less" promoters, the model shows that, in plants, the vast majority of transcription start sites are TATA free and are defined by a large compendium of known DNA sequence binding elements. We present results on the usage of these elements and provide our Plant PEAT Peaks (3PEAT) model that predicts the presence of TSSs directly from sequence.
+
+Gene: !affects! Transcription Start Site 
+Transcription Start Site: !localizes to! Wild-type Columbia-0 Arabidopsis thaliana Whole Root Samples 
+Transcription Factor Binding Site: !interacts with! Promoters 
+Promoters: !enhances! TSS Tag Clusters 
+TSS Tag Clusters: !categorized into! Three Spatial Initiation Patterns 
+Machine Learning Model: !predicts! Presence of TSS Tag Clusters 
+DNA Sequence Binding Elements: !synthesizes! Plant PEAT Peaks (3PEAT) Model

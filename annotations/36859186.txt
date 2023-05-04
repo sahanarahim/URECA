@@ -1,0 +1,10 @@
+It is crucial to understand how targeted traits in a hybrid breeding program are influenced by gene activity and combining ability. During the three growing seasons of 2015, 2016, and 2017, a field study was conducted with twelve cotton genotypes, comprised of four testers and eight lines. Thirty-two F1 crosses were produced in the 2015 breeding season using the line x tester mating design. The twelve genotypes and their thirty-two F1 crosses were then evaluated in 2016 and 2017. The results demonstrated highly significant differences among cotton genotypes for all the studied traits, showing a wide range of genetic diversity in the parent genotypes. Additionally, the line-x-tester interaction was highly significant for all traits, suggesting the impact of both additive and non-additive variations in gene expression. Furthermore, the thirty-two cotton crosses showed high seed cotton output, lint cotton yield, and fiber quality, such as fiber length values exceeding 31 mm and a fiber strength above 10 g/tex. Accordingly, selecting lines and testers with high GCA effects and crosses with high SCA effects would be an effective approach to improve the desired traits in cotton and develop new varieties with excellent yield and fiber quality.
+
+genotype: !influences! trait
+line x tester: !interacts with! gene expression
+line x tester: !produces! F1 crosses
+F1 crosses: !show! high seed cotton output
+F1 crosses: !exhibit! lint cotton yield
+F1 crosses: !have! fiber quality
+GCA: !enhances! desired traits
+SCA: !improves! yield and fiber quality

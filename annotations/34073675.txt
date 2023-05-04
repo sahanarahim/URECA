@@ -1,0 +1,10 @@
+Root system architecture (RSA) is an important developmental and agronomic trait that is regulated by various physical factors such as nutrients, water, microbes, gravity, and soil compaction as well as hormone-mediated pathways. Phytohormones act as internal mediators between soil and RSA to influence various events of root development, starting from organogenesis to the formation of higher order lateral roots (LRs) through diverse mechanisms. Apart from interaction with the external cues, root development also relies on the complex web of interaction among phytohormones to exhibit synergistic or antagonistic effects to improve crop performance. However, there are considerable gaps in understanding the interaction of these hormonal networks during various aspects of root development. In this review, we elucidate the role of different hormones to modulate a common phenotypic output, such as RSA in Arabidopsis and crop plants, and discuss future perspectives to channel vast information on root development to modulate RSA components.
+
+nutrients: !affects! RSA
+water: !affects! RSA
+microbes: !affects! RSA
+gravity: !affects! RSA
+soil compaction: !affects! RSA
+phytohormones: !mediates between! soil and RSA
+phytohormones: !interacts with! external cues
+phytohormones: !synergizes/antagonizes! to improve crop performance

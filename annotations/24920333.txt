@@ -1,0 +1,10 @@
+Plant cell elongation is controlled by endogenous hormones, including brassinosteroid (BR) and gibberellin (GA), and by environmental factors, such as light/darkness. The molecular mechanisms underlying the convergence of these signals that govern cell growth remain largely unknown. We previously showed that the chromatin-remodeling factor PICKLE/ENHANCED PHOTOMORPHOGENIC1 (PKL/EPP1) represses photomorphogenesis in Arabidopsis thaliana. Here, we demonstrated that PKL physically interacted with PHYTOCHROME-INTERACTING FACTOR3 (PIF3) and BRASSINAZOLE-RESISTANT1 (BZR1), key components of the light and BR signaling pathways, respectively. Also, this interaction promoted the association of PKL with cell elongation-related genes. We found that PKL, PIF3, and BZR1 coregulate skotomorphogenesis by repressing the trimethylation of histone H3 Lys-27 (H3K27me3) on target promoters. Moreover, DELLA proteins interacted with PKL and attenuated its binding ability. Strikingly, brassinolide and GA<sub>3</sub> inhibited H3K27me3 modification of histones associated with cell elongation-related loci in a BZR1- and DELLA-mediated manner, respectively. Our findings reveal that the PKL chromatin-remodeling factor acts as a critical node that integrates light/darkness, BR, and GA signals to epigenetically regulate plant growth and development. This work also provides a molecular framework by which hormone signals regulate histone modification in concert with light/dark environmental cues.
+
+PKL: !interacts with! PIF3 
+PKL: !interacts with! BZR1 
+PKL: !represses! photomorphogenesis 
+PKL: !coregulates! skotomorphogenesis 
+PKL: !modifies! H3K27me3 
+DELLA: !interacts with! PKL 
+BZR1: !mediates! brassinolide 
+DELLA: !mediates! GA<sub>3</sub>

@@ -1,0 +1,16 @@
+Dynamic regulation of phytohormone levels is pivotal for plant adaptation to harmful conditions. It is increasingly evidenced that endophytic bacteria can regulate plant hormone levels to help their hosts counteract adverse effects imposed by abiotic and biotic stresses, but the mechanisms underlying the endophyte-induced stress resistance of plants remain largely elusive. In this study, a glucuronic acid-producing endophyte <i>Pseudomonas</i> sp. MCS15 alleviated cadmium (Cd) toxicity in rice plants. Inoculation with MCS15 significantly inhibited the expression of ethylene biosynthetic genes including <i>OsACO3</i>, <i>OsACO4</i>, <i>OsACO5</i>, <i>OsACS2,</i> and <i>OsACS5</i> and thus reduced the content of ethylene in rice roots. In addition, the expression of iron uptake-related genes including <i>OsIRT1</i>, <i>OsIRT2</i>, <i>OsNAS1</i>, <i>OsNAS2</i> and <i>OsYSL15</i> was significantly downregulated in the MCS15-inoculated roots under Cd stress. Similarly, glucuronic acid treatment also remarkably inhibited root uptake of Cd and reduced the production of ethylene. However, treatment with 1-aminocyclopropyl carboxylic acid (ACC), a precursor of ethylene, almost abolished the MCS15 or glucuronic acid-induced inhibition of Cd accumulation in rice plants. Conversely, treatment with aminoethoxyvinyl glycine (AVG), an inhibitor of ethylene biosynthesis, markedly reduced the Cd accumulation in plants. Taken together, our results revealed that the endophytic bacteria MCS15-secreted glucuronic acid inhibited the biosynthesis of ethylene and thus weakened iron uptake-related systems in rice roots, which contributed to preventing the Cd accumulation.
+
+OsACO3: !represses! ethylene
+OsACO4: !represses! ethylene
+OsACO5: !represses! ethylene
+OsACS2: !represses! ethylene
+OsACS5: !represses! ethylene
+OsIRT1: !represses! Cd uptake
+OsIRT2: !represses! Cd uptake
+OsNAS1: !represses! Cd uptake
+OsNAS2: !represses! Cd uptake
+OsYSL15: !represses! Cd uptake
+MCS15: !enhances! Cd resistance
+glucuronic acid: !enhances! Cd resistance
+ACC: !inhibits! Cd resistance
+AVG: !inhibits! Cd uptake

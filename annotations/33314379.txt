@@ -1,0 +1,9 @@
+Abscisic acid (ABA) induces chlorophyll degradation and leaf senescence; however, the molecular mechanism remains poorly understood, especially in woody plants. In this study, we found that MdABI5 plays an essential role in the regulation of ABA-triggered leaf senescence in Malus domestica (apple). Through yeast screening, three transcription factors, MdBBX22, MdWRKY40 and MdbZIP44, were found to interact directly with MdABI5 in vitro and in vivo. Physiological and biochemical assays showed that MdBBX22 delayed leaf senescence in two pathways. First, MdBBX22 interacted with MdABI5 to inhibit the transcriptional activity of MdABI5 on the chlorophyll catabolic genes MdNYE1 and MdNYC1, thus negatively regulating chlorophyll degradation and leaf senescence. Second, MdBBX22 interacted with MdHY5 to interfere with the transcriptional activation of MdHY5 on MdABI5, thereby inhibiting the expression of MdABI5, which also contributed to the delay of leaf senescence. MdWRKY40 and MdbZIP44 were identified as positive regulators of leaf senescence. They accelerated MdABI5-promoted leaf senescence through the same regulatory pathways, i.e., interacting with MdABI5 to enhance the transcriptional activity of MdABI5 on MdNYE1 and MdNYC1. Taken together, our results suggest that MdABI5 works with its positive or negative interaction partners to regulate ABA-mediated leaf senescence in apple, in which it acts as a core regulator. The antagonistic regulation pathways ensure that plants respond to external stresses flexibly and efficiently. Our results provide a concept for further study on the regulation mechanisms of leaf senescence.
+
+MdABI5: !interacts with! MdBBX22
+MdABI5: !interacts with! MdWRKY40
+MdABI5: !interacts with! MdbZIP44
+MdBBX22: !inhibits! MdABI5
+MdBBX22: !interacts with! MdHY5
+MdWRKY40: !enhances! MdABI5
+MdbZIP44: !enhances! MdABI5

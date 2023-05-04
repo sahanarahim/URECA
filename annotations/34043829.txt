@@ -1,0 +1,9 @@
+Plant glandular secretory trichomes (GSTs) produce various specialized metabolites. Increasing GST density represents a strategy to enhance the yield of these chemicals; however, the gene regulatory network that controls GST initiation remains unclear. In a previous study of Artemisia annua L., we found that a HD-ZIP IV transcription factor, AaHD1, promotes GST initiation by directly regulating AaGSW2. Here, we identified two AaHD1-interacting transcription factors, namely AaMIXTA-like 2 (AaMYB16) and AaMYB5. Through the generation and characterization of transgenic plants, we found that AaMYB16 is a positive regulator of GST initiation, whereas AaMYB5 has the opposite effect. Notably, neither of them regulates GST formation independently. Rather, they act competitively, by interacting and modulating AaHD1 promoter binding activity. Additionally, the phytohormone jasmonic acid (JA) was shown to be associated with the AaHD1-AaMYB16/AaMYB5 regulatory network through transcriptional regulation via a JASMONATE-ZIM DOMAIN (JAZ) protein repressor. These results bring new insights into the mechanism of GST initiation through regulatory complexes, which appear to have similar functions in a range of vascular plant taxa.
+
+AaHD1: !promotes! GST initiation
+AaMYB16: !interacts with! AaHD1
+AaMYB5: !interacts with! AaHD1
+AaMYB16: !positively regulates! GST initiation
+AaMYB5: !negatively regulates! GST initiation
+AaHD1: !modulated by! AaMYB16/AaMYB5
+JASMONATE-ZIM DOMAIN (JAZ): !regulates! AaHD1-AaMYB16/AaMYB5

@@ -1,0 +1,10 @@
+The leaf and the flower are vital plant organs owing to their roles in photosynthesis and reproduction. Long non-coding RNAs (lncRNAs), microRNAs (miRNAs), and transcription factors (TFs) are very important to the development of these organs. <i>Liriodendron chinense</i> is a common ornamental tree species in southern China with an unusual leaf shape and tulip-like flowers. The genetic mechanisms underlying leaf and flower development in <i>L. chinense</i> and the miRNA-lncRNA-TF regulatory networks are poorly studied. Through the integration and analysis of different types of sequencing data, we identified the miRNA-lncRNA-TF regulatory networks that were related to leaf and flower development. These networks contained 105 miRNAs, 258 lncRNAs, 393 TFs, and 22 endogenous target mimics. Notably, lch-lnc7374-miR156h-<i>SPL3</i> and lch-lnc7374-miR156j-<i>SPL9</i> were potential regulators of stamen and pistil development in <i>L. chinense</i>, respectively. miRNA-lncRNA-mRNA regulatory networks were shown to impact anther development, male and female fertility, and petal color by regulating the biosynthesis of phenylpropanoid metabolites. Phenylpropanoid metabolite biosynthesis genes and TFs that were targeted by miRNAs and lncRNAs were differentially expressed in the leaf and flower. Moreover, RT-qPCR analysis confirmed 22 differentially expressed miRNAs, among which most of them showed obvious leaf or flower specificity; miR157a-<i>SPL</i> and miR160a-<i>ARF</i> module were verified by using RLM-RACE, and these two modules were related to leaf and flower development. These findings provide insight into the roles of miRNA-lncRNA-mRNA regulatory networks in organ development and function in <i>L. chinense</i>, and will facilitate further investigation into the regulatory mechanisms of leaf and flower development in <i>L. chinense</i>.
+
+miRNA: !targets! TFs 
+lncRNA: !targets! TFs 
+miRNA: !regulates! phenylpropanoid metabolite biosynthesis genes 
+TFs: !regulate! leaf and flower development 
+miRNA: !regulates! lncRNA 
+lncRNA: !regulates! miRNA 
+miRNA: !regulates! mRNA 
+mRNA: !synthesizes! phenylpropanoid metabolites

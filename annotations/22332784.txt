@@ -1,0 +1,8 @@
+Diatoms are one of the most successful groups of unicellular eukaryotic algae. Successive endosymbiotic events contributed to their flexible metabolism, making them competitive in variable aquatic habitats. Although the recently sequenced genomes of the model diatoms Phaeodactylum tricornutum and Thalassiosira pseudonana have provided the first insights into their metabolic organization, the current knowledge on diatom biochemistry remains fragmentary. By means of a genome-wide approach, we developed DiatomCyc, a detailed pathway/genome database of P. tricornutum. DiatomCyc contains 286 pathways with 1719 metabolic reactions and 1613 assigned enzymes, spanning both the central and parts of the secondary metabolism of P. tricornutum. Central metabolic pathways, such as those of carbohydrates, amino acids and fatty acids, were covered. Furthermore, our understanding of the carbohydrate model in P. tricornutum was extended. In particular we highlight the discovery of a functional Entner-Doudoroff pathway, an ancient alternative for the glycolytic Embden-Meyerhof-Parnas pathway, and a putative phosphoketolase pathway, both uncommon in eukaryotes. DiatomCyc is accessible online (http://www.diatomcyc.org), and offers a range of software tools for the visualization and analysis of metabolic networks and 'omics' data. We anticipate that DiatomCyc will be key to gaining further understanding of diatom metabolism and, ultimately, will feed metabolic engineering strategies for the industrial valorization of diatoms.
+
+Gene: !affects! Metabolism 
+Gene: !synthesizes! Enzymes 
+Gene: !enhances! Carbohydrate Model 
+Gene: !represses! Glycolytic Pathway 
+Gene: !localizes to! DiatomCyc 
+Gene: !interacts with! 'Omics' Data

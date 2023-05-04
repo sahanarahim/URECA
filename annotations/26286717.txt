@@ -1,0 +1,9 @@
+Second-site mutagenesis was performed on the argonaute1-33 (ago1-33) hypomorphic mutant, which exhibits reduced sense transgene posttranscriptional gene silencing (S-PTGS). Mutations in FIERY1, a positive regulator of the cytoplasmic 5'-to-3' EXORIBONUCLEASE4 (XRN4), and in SUPERKILLER3 (SKI3), a member of the SKI complex that threads RNAs directly to the 3'-to-5' exoribonuclease of the cytoplasmic exosome, compensated AGO1 partial deficiency and restored S-PTGS with 100% efficiency. Moreover, xrn4 and ski3 single mutations provoked the entry of nonsilenced transgenes into S-PTGS and enhanced S-PTGS on partially silenced transgenes, indicating that cytoplasmic 5'-to-3' and 3'-to-5' RNA degradation generally counteract S-PTGS, likely by reducing the amount of transgene aberrant RNAs that are used by the S-PTGS pathway to build up small interfering RNAs that guide transgene RNA cleavage by AGO1. Constructs generating improperly terminated transgene messenger RNAs (mRNAs) were not more sensitive to ski3 or xrn4 than regular constructs, suggesting that improperly terminated transgene mRNAs not only are degraded from both the 3' end but also from the 5' end, likely after decapping. The facts that impairment of either 5'-to-3' or 3'-to-5' RNA degradation is sufficient to provoke the entry of transgene RNA into the S-PTGS pathway, whereas simultaneous impairment of both pathways is necessary to provoke the entry of endogenous mRNA into the S-PTGS pathway, suggest poor RNA quality upon the transcription of transgenes integrated at random genomic locations.
+
+AGO1: !represses! S-PTGS
+FIERY1: !enhances! XRN4
+SKI3: !threads! RNAs
+XRN4: !counteracts! S-PTGS
+SKI3: !enhances! S-PTGS
+XRN4: !enhances! S-PTGS
+SKI3/XRN4: !necessary for! entry of endogenous mRNA into S-PTGS

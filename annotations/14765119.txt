@@ -1,0 +1,10 @@
+['14765119', 'We have used activation tagging with T-DNA carrying cauliflower mosaic virus 35S  enhancers to investigate the complex signaling networks underlying disease  resistance in Arabidopsis. From a screen of approximately 5000 lines, we  identified constitutive disease resistance (CDR1) encoding an apoplastic aspartic  protease, the overexpression of which causes dwarfing and resistance to virulent  Pseudomonas syringae. These phenotypes reflect salicylic-acid-dependent  activation of micro-oxidative bursts and various defense-related genes. Antisense  CDR1 plants were compromised for resistance to avirulent P. syringae and more  susceptible to virulent strains than wild type. CDR1 accumulates in intercellular  fluid in response to pathogen attacks. Induction of CDR1 generates a small mobile  signal, and CDR1 action is blocked by the protease inhibitor pepstatin and by  mutations in the protease active sites. We propose that CDR1 mediates a peptide  signal system involved in the activation of inducible resistance mechanisms.', '2004 Feb 25', 'EMBO J', '10.1038/sj.emboj.7600086', 'Lamb']
+
+CDR1: !encodes! apoplastic aspartic protease 
+CDR1: !induces! micro-oxidative bursts 
+CDR1: !mediates! peptide signal system 
+CDR1: !activates! inducible resistance mechanisms 
+P. syringae: !causes! disease resistance 
+P. syringae: !inhibits! CDR1 action 
+pepstatin: !inhibits! CDR1 action 
+mutations: !inhibits! CDR1 action

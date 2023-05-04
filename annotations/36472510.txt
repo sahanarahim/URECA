@@ -1,0 +1,12 @@
+Polyunsaturated N-acylethanolamines (NAEs) can be hydrolyzed by fatty acid amide hydrolase (FAAH) or oxidized by lipoxygenase (LOX). In Arabidopsis (Arabidopsis thaliana), the 9-LOX product of linoleoylethanolamide, namely, 9-hydroxy linoleoylethanolamide (9-NAE-HOD), is reported to negatively regulate seedling development during secondary dormancy. In upland cotton (Gossypium hirsutum L.), six putative FAAH genes (from two diverged groups) and six potential 9-LOX genes are present; however, their involvement in 9-NAE-HOD metabolism and its regulation of seedling development remain unexplored. Here, we report that in cotton plants, two specific FAAH isoforms (GhFAAH Ib and GhFAAH IIb) are needed for hydrolysis of certain endogenous NAEs. Virus-induced gene silencing (VIGS) of either or both FAAHs led to reduced seedling growth and this coincided with reduced amidohydrolase activities and elevated quantities of endogenous 9-NAE-HOD. Transcripts of GhLOX21 were consistently elevated in FAAH-silenced tissues, and co-silencing of GhLOX21 and GhFAAH (Ib and/or IIb) led to reversal of seedling growth to normal levels (comparable with no silencing). This was concomitant with reductions in the levels of 9-NAE-HOD, but not of 13-NAE-HOD. Pharmacological experiments corroborated the genetic and biochemical evidence, demonstrating that direct application of 9-NAE-HOD, but not 13-NAE-HOD or their corresponding free fatty acid oxylipins, inhibited the growth of cotton seedlings. Additionally, VIGS of GhLOX21 in cotton lines overexpressing AtFAAH exhibited enhanced growth and no detectable 9-NAE-HOD. Altogether, we conclude that the growth of cotton seedlings involves fine-tuning of 9-NAE-HOD levels via FAAH-mediated hydrolysis and LOX-mediated production, expanding the mechanistic understanding of plant growth modulation by NAE oxylipins to a perennial crop species.
+
+FAAH: !hydrolyzes! NAEs
+LOX: !oxidizes! NAEs
+GhFAAH Ib/IIb: !hydrolyze! certain endogenous NAEs
+GhFAAH Ib/IIb: !repress! seedling growth
+GhFAAH Ib/IIb: !elevate! 9-NAE-HOD levels
+GhLOX21: !elevates! in FAAH-silenced tissues
+GhLOX21: !produces! 9-NAE-HOD
+GhLOX21: !inhibits! seedling growth
+AtFAAH: !overexpresses! in cotton lines
+AtFAAH: !enhances! seedling growth

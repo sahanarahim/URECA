@@ -1,0 +1,12 @@
+The plant hormone auxin plays a critical role in root growth and development; however, the contributions or specific roles of cell-type auxin signals in root growth and development are not well understood. Here, we mapped tissue and cell types that are important for auxin-mediated root growth and development by manipulating the local response and synthesis of auxin. Repressing auxin signaling in the epidermis, cortex, endodermis, pericycle or stele strongly inhibited root growth, with the largest effect observed in the endodermis. Enhancing auxin signaling in the epidermis, cortex, endodermis, pericycle or stele also caused reduced root growth, albeit to a lesser extent. Moreover, we established that root growth was inhibited by enhancement of auxin synthesis in specific cell types of the epidermis, cortex and endodermis, whereas increased auxin synthesis in the pericycle and stele had only minor effects on root growth. Our study thus establishes an association between cellular identity and cell type-specific auxin signaling that guides root growth and development.
+
+epidermis: !represses! auxin signaling
+cortex: !represses! auxin signaling
+endodermis: !represses! auxin signaling
+pericycle: !represses! auxin signaling
+stele: !represses! auxin signaling
+epidermis: !enhances! auxin synthesis
+cortex: !enhances! auxin synthesis
+endodermis: !enhances! auxin synthesis
+pericycle: !enhances! auxin synthesis
+stele: !enhances! auxin synthesis

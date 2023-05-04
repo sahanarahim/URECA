@@ -1,0 +1,10 @@
+Histone marks including histone modifications and histone variants may affect the processes of gene transcription and co-transcriptional RNA processing depending on their specific deposition patterns within genes. Here, we analyzed distribution patterns of rice histone marks and divided them into seven clusters according to their enrichment in promoter, transcription start site (TSS), and gene body regions. Expression levels of the genes in each cluster were explored to disclose the importance of histone marks in the processes of transcription. We show that: a) H3K4me3 and histone acetylation marks show locally different distributions at TSS, implying that they may play different roles in transcription initiation. b) H3K36me1 enriched at TSS has a negative effect on transcription. c) Genes with high level of expression were marked by H3K36me3 at both the TSS and body regions. In addition, we found that H3K4me2, H3K23ac, H3K4ac, and H2A.Z show exon-biased enrichment, suggesting they may be chromatin marks involved in co-transcriptional splicing. Finally, we identified histone marks that discriminate constitutive expression genes (CEGs) from tissue-specific expressed genes (TSEGs). Taken together, the analysis revealed distribution patterns of different histone marks in rice to infer their potential roles in transcription and RNA processing. The results lay foundation for further understanding the mechanism by which histone marks are involved in the regulation of these processes in plants.
+
+H3K4me3: !affects! Transcription initiation
+H3K36me1: !represses! Transcription
+H3K36me3: !enhances! Transcription
+H3K4me2: !interacts with! Co-transcriptional splicing
+H3K23ac: !interacts with! Co-transcriptional splicing
+H3K4ac: !interacts with! Co-transcriptional splicing
+H2A.Z: !interacts with! Co-transcriptional splicing
+CEGs: !distinguishes from! TSEGs

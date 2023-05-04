@@ -1,0 +1,10 @@
+The Arabidopsis (<i>Arabidopsis thaliana</i>) <i>fatty acid biosynthesis1</i> (<i>fab1</i>) mutant has increased levels of the saturated fatty acid 16:0, resulting from decreased activity of 3-ketoacyl-ACP synthase II. In <i>fab1</i> leaves, phosphatidylglycerol, the major chloroplast phospholipid, contains >40% high-melting-point molecular species (HMP-PG; molecules that contain only 16:0, 16:1-trans, and 18:0 fatty acids)-a trait associated with chilling-sensitive plants-compared with <10% in wild-type Arabidopsis. Although they do not exhibit short-term chilling sensitivity when exposed to low temperatures (2°C to 6°C) for long periods, <i>fab1</i> plants do suffer collapse of photosynthesis, degradation of chloroplasts, and eventually death. To test the relevance of HMP-PG to the <i>fab1</i> phenotype, we used transgenic 16:0 desaturases targeted to the endoplasmic reticulum and the chloroplast to lower 16:0 in leaf lipids of <i>fab1</i> plants. We produced two lines that had very similar lipid compositions except that one, ER-FAT5, contained high HMP-PG, similar to the <i>fab1</i> parent, while the second, TP-DES9*, contained <10% HMP-PG, similar to the wild type. TP-DES9* plants, but not ER-FAT5 plants, showed strong recovery and growth following 75 d at 2°C, demonstrating the role of HMP-PG in low-temperature damage and death in <i>fab1</i>, and in chilling-sensitive plants more broadly.
+
+fab1: !increases! 16:0 
+ER-FAT5: !contains! HMP-PG 
+TP-DES9*: !contains! <10% HMP-PG 
+HMP-PG: !associated with! chilling-sensitive plants 
+fab1: !causes! collapse of photosynthesis 
+low temperatures: !causes! death in fab1 
+ER-FAT5: !does not show! recovery and growth 
+TP-DES9*: !shows! strong recovery and growth

@@ -1,0 +1,9 @@
+Stomata open in response to a beam of weak blue light under strong red light illumination. A blue light signal is perceived by phototropins and transmitted to the plasma membrane H(+)-ATPase that drives stomatal opening. To identify the components in this pathway, we screened for mutants impaired in blue light-dependent stomatal opening. We analyzed one such mutant, provisionally named blus2 (blue light signaling2), and found that stomatal opening in leaves was impaired by 65%, although the magnitude of red light-induced opening was not affected. Blue light-dependent stomatal opening in the epidermis and H(+) pumping in guard cell protoplasts were inhibited by 70% in blus2 Whole-genome resequencing identified a mutation in the AHA1 gene of the mutant at Gly-602. T-DNA insertion mutants of AHA1 exhibited a similar phenotype to blus2; this phenotype was complemented by the AHA1 gene. We renamed blus2 as aha1-10 T-DNA insertion mutants of AHA2 and AHA5 did not show any impairment in stomatal response, although the transcript levels of AHA2 and AHA5 were higher than those of AHA1 in wild-type guard cells. Stomata in ost2, a constitutively active AHA1 mutant, did not respond to blue light. A decreased amount of H(+)-ATPase in aha1-10 accounted for the reduced stomatal blue light responses and the decrease was likely caused by proteolysis of misfolded AHA1. From these results, we conclude that AHA1 plays a major role in blue light-dependent stomatal opening in Arabidopsis and that the mutation made the AHA1 protein unstable in guard cells.
+
+phototropins: !transmit to! plasma membrane H(+)-ATPase
+AHA1: !affects! stomatal opening
+AHA1: !mutated in! blus2
+AHA1: !complements! blus2 phenotype
+AHA2/AHA5: !not impaired in! stomatal response
+ost2: !constitutively active! AHA1
+AHA1: !decreases amount of! H(+)-ATPase

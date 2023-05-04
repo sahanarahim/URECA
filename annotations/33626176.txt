@@ -1,0 +1,9 @@
+A host-plant and its associated microbiota depend on one another. However, the assembly process and the functioning of host-associated microbiota are poorly understood. Herein, rice was used as model plant to investigate the assemblage of bacterial microbiota, including those in the seed, root endosphere and rhizosphere. We also assessed the degree to which endosphere and rhizosphere communities were influenced by vertical transmission through seed and identified the core microbes that potentially associated with plant phenotypic properties. Plant microhabitat, rather than subspecies type, was the major driver shaping plant-associated bacterial microbiota. Deterministic processes were primarily responsible for community assembly in all microhabitats. The influence of vertical transmission from seed to root-associated bacterial communities appeared to be quite weak (endosphere) or even absent (rhizosphere). A core microbial community composed of 15 generalist species persisted across different microhabitats and represented key connectors in networks. Host-plant functional traits were linked to the relative abundance of these generalist core microbes and could be predicted from them using machine learning algorithms. Overall, bacterial microbiota is assembled by host-plant interactions in a deterministic-based manner. This study enhances our understanding of the driving mechanisms and associations of microbiota in various plant microhabitats and provides new perspectives to improve plant performance.
+
+host-plant: !shapes! bacterial microbiota
+microhabitat: !influences! plant-associated bacterial microbiota
+vertical transmission: !weakly affects! endosphere communities
+vertical transmission: !absent from! rhizosphere communities
+core microbial community: !persists across! different microhabitats
+functional traits: !linked to! relative abundance of core microbes
+machine learning algorithms: !predict! host-plant functional traits

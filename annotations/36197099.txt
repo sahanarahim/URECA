@@ -1,0 +1,10 @@
+Medicago truncatula NODULE ROOT1 (MtNOOT1) and Pisum sativum COCHLEATA1 (PsCOCH1) are orthologous genes belonging to the NOOT-BOP-COCH-LIKE (NBCL) gene family which encodes key transcriptional co-regulators of plant development. In Mtnoot1 and Pscoch1 mutants, the development of stipules, flowers, and symbiotic nodules is altered. MtNOOT2 and PsCOCH2 represent the single paralogues of MtNOOT1 and PsCOCH1, respectively. In M. truncatula, MtNOOT1 and MtNOOT2 are both required for the establishment and maintenance of symbiotic nodule identity. In legumes, the role of NBCL2 in above-ground development is not known. To better understand the roles of NBCL genes in legumes, we used M. truncatula and P. sativum nbcl mutants, isolated a knockout mutant for the PsCOCH2 locus and generated Pscoch1coch2 double mutants in P. sativum. Our work shows that single Mtnoot2 and Pscoch2 mutants develop wild-type stipules, flowers, and symbiotic nodules. However, the number of flowers was increased and the pods and seeds were smaller compared to the wild type. Furthermore, in comparison to the corresponding nbcl1 single mutants, both the M. truncatula and P. sativum nbcl double mutants show a drastic alteration in stipule, inflorescence, flower, and nodule development. Remarkably, in both M. truncatula and P. sativum nbcl double mutants, stipules are transformed into a range of aberrant leaf-like structures.
+
+MtNOOT1: !affects! Development 
+MtNOOT2: !affects! Symbiotic Nodule Identity 
+PsCOCH1: !affects! Development 
+PsCOCH2: !affects! Number of Flowers 
+Mtnoot2: !interacts with! MtNOOT1 
+Pscoch2: !interacts with! PsCOCH1 
+M. truncatula nbcl double mutants: !transform! Stipules 
+P. sativum nbcl double mutants: !transform! Stipules

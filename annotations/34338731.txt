@@ -1,0 +1,8 @@
+Phytophthora root and stem rot in soybean (Glycine max) is a destructive disease worldwide, and hence improving crop resistance to the causal pathogen, P. sojae, is a major target for breeders. However, it remains largely unclear how the pathogen regulates the various affected signaling pathways in the host, which consist of complex networks including key transcription factors and their targets. We have previously demonstrated that GmBTB/POZ enhances soybean resistance to P. sojae and the associated defense response. Here, we demonstrate that GmBTB/POZ interacts with the transcription factor GmAP2 and promotes its ubiquitination. GmAP2-RNAi transgenic soybean hairy roots exhibited enhanced resistance to P. sojae, whereas roots overexpressing GmAP2 showed hypersensitivity. GmWRKY33 was identified as a target of GmAP2, which represses its expression by directly binding to the promoter. GmWRKY33 acts as a positive regulator in the response of soybean to P. sojae. Overexpression of GmBTB/POZ released the GmAP2-regulated suppression of GmWRKY33 in hairy roots overexpressing GmAP2 and increased their resistance to P. sojae. Taken together, our results indicate that GmBTB/POZ-GmAP2 modulation of the P. sojae resistance response forms a novel regulatory mechanism, which putatively regulates the downstream target gene GmWRKY33 in soybean.
+
+GmBTB/POZ: !interacts with! GmAP2
+GmAP2: !represses! GmWRKY33
+GmBTB/POZ: !enhances! GmAP2 ubiquitination
+GmAP2: !regulates! GmWRKY33 expression
+GmWRKY33: !acts as! positive regulator of P. sojae resistance
+GmBTB/POZ: !releases! GmAP2-regulated suppression of GmWRKY33

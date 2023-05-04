@@ -1,0 +1,10 @@
+To identify the upstream signaling of aluminum-induced malate secretion through aluminum-activated malate transporter 1 (AtALMT1), a pharmacological assay using inhibitors of human signal transduction pathways was performed. Early aluminum-induced transcription of AtALMT1 and other aluminum-responsive genes was significantly suppressed by phosphatidylinositol 4-kinase (PI4K) and phospholipase C (PLC) inhibitors, indicating that the PI4K-PLC metabolic pathway activates early aluminum signaling. Inhibitors of phosphatidylinositol 3-kinase (PI3K) and PI4K reduced aluminum-activated malate transport by AtALMT1, suggesting that both the PI3K and PI4K metabolic pathways regulate this process. These results were validated using T-DNA insertion mutants of PI4K and PI3K-RNAi lines. A human protein kinase inhibitor, putatively inhibiting homologous calcineurin B-like protein-interacting protein kinase and/or Ca-dependent protein kinase in Arabidopsis, suppressed late-phase aluminum-induced expression of AtALMT1, which was concomitant with the induction of an AtALMT1 repressor, WRKY46, and suppression of an AtALMT1 activator, Calmodulin-binding transcription activator 2 (CAMTA2). In addition, a human deubiquitinase inhibitor suppressed aluminum-activated malate transport, suggesting that deubiquitinases can regulate this process. We also found a reduction of aluminum-induced citrate secretion in tobacco by applying inhibitors of PI3K and PI4K. Taken together, our results indicated that phosphatidylinositol metabolism regulates organic acid secretion in plants under aluminum stress.
+
+PI4K: !activates! Early aluminum signaling
+PLC: !activates! Early aluminum signaling
+PI3K: !regulates! Aluminum-activated malate transport
+PI4K: !regulates! Aluminum-activated malate transport
+CAMTA2: !activates! AtALMT1
+WRKY46: !represses! AtALMT1
+Deubiquitinase: !regulates! Aluminum-activated malate transport
+PI3K: !regulates! Citrate secretion

@@ -1,0 +1,10 @@
+In cyanobacteria-plant symbioses, the symbiotic nitrogen-fixing cyanobacterium has low photosynthetic activity and is supplemented by sugars provided by the plant partner. Which sugars and cyanobacterial sugar uptake mechanism(s) are involved in the symbiosis, however, is unknown. Mutants of the symbiotically competent, facultatively heterotrophic cyanobacterium Nostoc punctiforme were constructed bearing a neomycin resistance gene cassette replacing genes in a putative sugar transport gene cluster. Results of transport activity assays using (14)C-labeled fructose and glucose and tests of heterotrophic growth with these sugars enabled the identification of an ATP-binding cassette-type transporter for fructose (Frt), a major facilitator permease for glucose (GlcP), and a porin needed for the optimal uptake of both fructose and glucose. Analysis of green fluorescent protein fluorescence in strains of N. punctiforme bearing frt::gfp fusions showed high expression in vegetative cells and akinetes, variable expression in hormogonia, and no expression in heterocysts. The symbiotic efficiency of N. punctiforme sugar transport mutants was investigated by testing their ability to infect a nonvascular plant partner, the hornwort Anthoceros punctatus. Strains that were specifically unable to transport glucose did not infect the plant. These results imply a role for GlcP in establishing symbiosis under the conditions used in this work.
+
+N. punctiforme: !has! Frt 
+N. punctiforme: !has! GlcP 
+N. punctiforme: !has! porin 
+Frt: !localizes to! vegetative cells and akinetes 
+GlcP: !localizes to! hormogonia 
+Frt: !enhances! fructose uptake 
+GlcP: !enhances! glucose uptake 
+GlcP: !enhances! symbiotic efficiency

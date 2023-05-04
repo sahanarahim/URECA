@@ -1,0 +1,8 @@
+Root growth is modulated by different factors, including phytohormones, transcription factors, and microRNAs (miRNAs). MicroRNA156 and its targets, the SQUAMOSA PROMOTER BINDING PROTEIN-LIKE (SPL) genes, define an age-dependent pathway that controls several developmental processes, including lateral root emergence. However, it remains unclear whether miR156-regulated SPLs control root meristem activity and root-derived de novo shoot regeneration. Here, we show that MIR156 and SPL genes have opposing expression patterns during the progression of primary root (PR) growth in Arabidopsis, suggesting that age cues may modulate root development. Plants with high miR156 levels display reduced meristem size, resulting in shorter primary root (PRs). Conversely, plants with reduced miR156 levels show higher meristem activity. Importantly, loss of function of SPL10 decreases meristem activity, while SPL10 de-repression increases it. Meristem activity is regulated by SPL10 probably through the reduction of cytokinin responses, via the modulation of type-B ARABIDOPSIS RESPONSE REGULATOR1(ARR1) expression. We also show that SPL10 de-repression in the PRs abolishes de novo shoot regenerative capacity by attenuating cytokinin responses. Our results reveal a cooperative regulation of root meristem activity and root-derived de novo shoot regeneration by integrating age cues with cytokinin responses via miR156-targeted SPL10.
+
+miR156: !regulates! SPL genes
+SPL10: !modulates! cytokinin responses
+miR156: !opposes! SPL genes
+SPL10: !reduces! meristem activity
+SPL10: !attenuates! cytokinin responses
+meristem activity: !controlled by! SPL10

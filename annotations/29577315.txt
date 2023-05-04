@@ -1,0 +1,12 @@
+['29577315', 'RecQ helicases are important caretakers of genome stability and occur in varying  copy numbers in different eukaryotes. Subsets of RecQ paralogs are involved in  DNA crosslink (CL) repair. The orthologs of AtRECQ2, AtRECQ3 and AtHRQ1, HsWRN,  DmRECQ5 and ScHRQ1 participate in CL repair in their respective organisms, and we  aimed to define the function of these helicases for plants. We obtained  Arabidopsis mutants of the three RecQ helicases and determined their sensitivity  against CL agents in single- and double-mutant analyses. Only Athrq1, but not  Atrecq2 and Atrecq3, mutants proved to be sensitive to intra- and interstrand  crosslinking agents. AtHRQ1 is specifically involved in the repair of replicative  damage induced by CL agents. It shares pathways with the Fanconi anemia-related  endonuclease FAN1 but not with the endonuclease MUS81. Most surprisingly, AtHRQ1  is epistatic to the ATPase RAD5A for intra- as well as interstrand CL repair. We  conclude that, as in fungi, AtHRQ1 has a conserved function in DNA excision  repair. Additionally, HRQ1 not only shares pathways with the Fanconi anemia  repair factors, but in contrast to fungi also seems to act in a common pathway  with postreplicative DNA repair.', '2018 Jun', 'New Phytol', '10.1111/nph.15109', 'Puchta']
+
+AtRECQ2: !participates in! CL repair 
+AtRECQ3: !participates in! CL repair 
+HsWRN: !participates in! CL repair 
+DmRECQ5: !participates in! CL repair 
+ScHRQ1: !participates in! CL repair 
+AtHRQ1: !involved in! replicative damage repair 
+AtHRQ1: !shares pathways with! FAN1 
+AtHRQ1: !epistatic to! RAD5A 
+AtHRQ1: !has conserved function in! DNA excision repair 
+AtHRQ1: !shares pathways with! Fanconi anemia repair factors

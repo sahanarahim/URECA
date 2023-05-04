@@ -1,0 +1,9 @@
+Maize (<i>Zea mays</i>) endosperm is a primary tissue for nutrient storage and is highly differentiated during development. However, the regulatory networks of endosperm development and nutrient metabolism remain largely unknown. Maize <i>opaque11</i> (<i>o11</i>) is a classic seed mutant with a small and opaque endosperm showing decreased starch and protein accumulation. We cloned <i>O11</i> and found that it encodes an endosperm-specific bHLH transcription factor (TF). Loss of function of O11 significantly affected transcription of carbohydrate/amino acid metabolism and stress response genes. Genome-wide binding site analysis revealed 9885 O11 binding sites distributed over 6033 genes. Using chromatin immunoprecipitation sequencing (ChIP-seq) coupled with RNA sequencing (RNA-seq) assays, we identified 259 O11-modulated target genes. O11 was found to directly regulate key TFs in endosperm development (NKD2 and ZmDOF3) and nutrient metabolism (O2 and PBF). Moreover, O11 directly regulates cyPPDKs and multiple carbohydrate metabolic enzymes. O11 is an activator of <i>ZmYoda</i>, suggesting its regulatory function through the MAPK pathway in endosperm development. Many stress-response genes are also direct targets of O11. In addition, 11 O11-interacting proteins were identified, including <i>ZmIce1</i>, which coregulates stress response targets and <i>ZmYoda</i> with O11. Therefore, this study reveals an endosperm regulatory network centered around O11, which coordinates endosperm development, metabolism and stress responses.
+
+O11: !regulates! TFs 
+O11: !modulates! target genes 
+O11: !activates! ZmYoda 
+O11: !directly regulates! cyPPDKs 
+O11: !directly regulates! metabolic enzymes 
+O11: !directly regulates! stress-response genes 
+ZmIce1: !interacts with! O11

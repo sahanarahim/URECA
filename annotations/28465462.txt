@@ -1,0 +1,16 @@
+Cellular specialization in abiotic stress responses is an important regulatory feature driving plant acclimation. Our in silico approach of iterative coexpression, interaction, and enrichment analyses predicted root cell-specific regulators of phosphate starvation response networks in Arabidopsis (<i>Arabidopsis thaliana</i>). This included three uncharacterized genes termed Phosphate starvation-induced gene interacting Root Cell Enriched (<i>PRCE1</i>, <i>PRCE2</i>, and <i>PRCE3</i>). Root cell-specific enrichment of 12 candidates was confirmed in promoter-GFP lines. T-DNA insertion lines of 11 genes showed changes in phosphate status and growth responses to phosphate availability compared with the wild type. Some mutants (<i>cbl1</i>, <i>cipk2</i>, <i>prce3</i>, and <i>wdd1</i>) displayed strong biomass gain irrespective of phosphate supply, while others (<i>cipk14</i>, <i>mfs1</i>, <i>prce1</i>, <i>prce2</i>, and <i>s6k2</i>) were able to sustain growth under low phosphate supply better than the wild type. Notably, root or shoot phosphate accumulation did not strictly correlate with organ growth. Mutant response patterns markedly differed from those of master regulators of phosphate homeostasis, <i>PHOSPHATE STARVATION RESPONSE1</i> (<i>PHR1</i>) and <i>PHOSPHATE2</i> (<i>PHO2</i>), demonstrating that negative growth responses in the latter can be overcome when cell-specific regulators are targeted. RNA sequencing analysis highlighted the transcriptomic plasticity in these mutants and revealed PHR1-dependent and -independent regulatory circuits with gene coexpression profiles that were highly correlated to the quantified physiological traits. The results demonstrate how in silico prediction of cell-specific, stress-responsive genes uncovers key regulators and how their manipulation can have positive impacts on plant growth under abiotic stress.
+
+PRCE1: !enhances! Growth
+PRCE2: !enhances! Growth
+PRCE3: !enhances! Growth
+cbl1: !enhances! Growth
+cipk2: !enhances! Growth
+prce3: !enhances! Growth
+wdd1: !enhances! Growth
+cipk14: !enhances! Growth
+mfs1: !enhances! Growth
+prce1: !enhances! Growth
+prce2: !enhances! Growth
+s6k2: !enhances! Growth
+PHR1: !represses! Growth
+PHO2: !represses! Growth

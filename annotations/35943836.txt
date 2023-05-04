@@ -1,0 +1,12 @@
+['35943836', 'Gravity-induced root curvature involves the asymmetric distribution of the  phytohormone auxin. This response depends on the concerted activities of the  auxin transporters such as PIN-FORMED (PIN) proteins for auxin efflux and AUXIN  RESISTANT 1 (AUX1) for auxin influx. However, how the auxin gradient is  established remains elusive. Here we identified a new mutant with a short root,  strong auxin distribution in the lateral root cap and an impaired gravitropic  response. The causal gene encoded an Arabidopsis homolog of the human  unconventional prefoldin RPB5 interactor (URI). AtURI interacted with prefoldin 2  (PFD2) and PFD6, two beta-type PFD members that modulate actin and tubulin  patterning in roots. The auxin reporter DR5(rev) :GFP showed that asymmetric  auxin redistribution after gravistimulation is disordered in aturi-1 root tips.  Treatment with the endomembrane protein trafficking inhibitor brefeldin A  indicated that recycling of the auxin transporter PIN2 is disrupted in aturi-1  roots as well as in pfd mutants. We propose that AtURI cooperates with PFDs to  recycle PIN2 and modulate auxin distribution.', '2022 Oct', 'J Integr Plant Biol', '10.1111/jipb.13341', 'Wang']
+
+PIN: !transports! auxin 
+AUX1: !transports! auxin 
+AtURI: !interacts with! PFD2 
+AtURI: !interacts with! PFD6 
+AtURI: !modulates! actin 
+AtURI: !modulates! tubulin 
+AtURI: !recycles! PIN2 
+PFD2: !interacts with! AtURI 
+PFD6: !interacts with! AtURI 
+brefeldin A: !disrupts! recycling of PIN2

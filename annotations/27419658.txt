@@ -1,0 +1,9 @@
+Jasmonic acid (JA) signaling has been well studied in Arabidopsis. Most reports focus on the role of JA in biological pathways, such as stress resistance, trichome initiation and anthocyanin accumulation. The JASMONATE ZIM-DOMAIN (JAZ) protein is one of the important repressors in the JA signaling pathway. Previous studies showed that JA functions in fiber initiation and elongation, but little is known about how JAZ genes function in fiber development. In this study, a cotton JAZ protein (GhJAZ2) containing a highly conserved TIFY motif and a C-terminal Jas domain was identified, and its function during cotton fiber development was analysed. Gene expression analysis showed that GhJAZ2 was preferentially expressed in the root, hypocotyl, flower and ovule 1 day before anthesis. Overexpression of GhJAZ2 inhibited both lint and fuzz fiber initiation, and reduced the fiber length. Yeast two-hybrid assays showed that GhJAZ2 interacted with the R2R3-MYB transcription factors GhMYB25-like and GhGL1, the bHLH transcription factor GhMYC2, the WD repeat protein GhWD40 and the unknown protein GhJI1. Among these transcription factors, previous studies showed that downregulation of GhMYB25-like leads to a fiberless phenotype in cotton seeds. Molecular and genetic evidence showed that the GhJAZ2 protein suppresses fiber initiation in the overexpressing lines by interacting with GhMYB25-like and suppressing GhMYB25-like activity. Our results suggested that GhJAZ2 functions as a primary transcription repressor during lint and fuzz fiber initiation by interacting with GhMYB25-like, GhGL1, GhMYC2, GhWD40 and GhJI1 to regulate the JA signaling pathway.
+
+GhJAZ2: !interacts with! GhMYB25-like
+GhJAZ2: !interacts with! GhGL1
+GhJAZ2: !interacts with! GhMYC2
+GhJAZ2: !interacts with! GhWD40
+GhJAZ2: !interacts with! GhJI1
+GhJAZ2: !represses! fiber initiation
+GhMYB25-like: !regulates! fiber initiation

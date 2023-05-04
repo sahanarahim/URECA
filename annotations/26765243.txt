@@ -1,0 +1,8 @@
+The first layer of plant immunity is activated by cell surface receptor-like kinases (RLKs) and proteins (RLPs) that detect infectious pathogens. Constitutive interaction with the SUPPRESSOR OF BIR1 (SOBIR1) RLK contributes to RLP stability and kinase activity. As RLK activation requires transphosphorylation with a second associated RLK, it remains elusive how RLPs initiate downstream signaling. We employed live-cell imaging, gene silencing and coimmunoprecipitation to investigate the requirement of associated kinases for functioning and ligand-induced subcellular trafficking of Cf RLPs that mediate immunity of tomato against Cladosporium fulvum. Our research shows that after elicitation with matching effector ligands Avr4 and Avr9, BRI1-ASSOCIATED KINASE 1/SOMATIC EMBRYOGENESIS RECEPTOR KINASE 3 (BAK1/SERK3) associates with Cf-4 and Cf-9. BAK1/SERK3 is required for the effector-triggered hypersensitive response and resistance of tomato against C. fulvum. Furthermore, Cf-4 interacts with SOBIR1 at the plasma membrane and is recruited to late endosomes upon Avr4 trigger, also depending on BAK1/SERK3. These observations indicate that RLP-mediated resistance and endocytosis require ligand-induced recruitment of BAK1/SERK3, reminiscent of BAK1/SERK3 interaction and subcellular fate of the FLAGELLIN SENSING 2 (FLS2) RLK. This reveals that diverse classes of cell surface immune receptors share common requirements for initiation of resistance and endocytosis.
+
+RLK: !interacts with! RLP
+RLP: !triggers! downstream signaling
+BAK1/SERK3: !associates with! Cf-4 and Cf-9
+BAK1/SERK3: !required for! hypersensitive response
+Cf-4: !interacts with! SOBIR1
+BAK1/SERK3: !required for! endocytosis of Cf-4

@@ -1,0 +1,8 @@
+['16428603', 'It has been reported that some double-stranded RNA (dsRNA) binding proteins  interact with small RNA biogenesis-related RNase III enzymes. However, their  biological significance is poorly understood. Here we examine the relationship  between the Arabidopsis microRNA- (miRNA) producing enzyme DCL1 and the dsRNA  binding protein HYL1. In the hyl1-2 mutant, the processing steps of miR163  biogenesis were partially impaired; increased accumulation of pri-miR163 and  reduced accumulation of short pre-miR163 and mature miR163 as well as misplaced  cleavages in the stem structure of pri-miR163 were detected. These misplaced  cleavages were similar to those previously observed in the dcl1-9 mutant, in  which the second double-stranded RNA binding domain of the protein was disrupted.  An immunoprecipitation assay using Agrobacterium-mediated transient expression in  Nicotiana benthamiana showed that HYL1 was able to form a complex with wild-type  DCL1 protein, but not with the dcl1-9 mutant protein. We also examined miR164b  and miR166a biogenesis in hyl1-2 and dcl1-9. Increased accumulation of pri-miRNAs  and reduced accumulation of pre-miRNAs and mature miRNAs were detected. Misplaced  cleavage on pri-miR164b was observed only in dcl1-9 but not in hyl1-2, whereas  not on pri-miR166a in either mutant. These results indicate that HYL1 has a  function in assisting efficient and precise cleavage of pri-miRNA through  interaction with DCL1.', '2006 Feb', 'RNA', '10.1261/rna.2146906', 'Watanabe']
+
+DCL1: !interacts with! HYL1 
+HYL1: !assists! DCL1 
+DCL1: !cleaves! pri-miR163 
+HYL1: !impairs! miR163 biogenesis 
+DCL1: !misplaces cleavage! pri-miR164b 
+DCL1: !reduces accumulation! pre-miR164b & mature miR164b

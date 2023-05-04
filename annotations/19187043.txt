@@ -1,0 +1,8 @@
+Plants regulate their time to flowering by gathering information from the environment. Photoperiod and temperature are among the most important environmental variables. Sub-optimal, but not near-freezing, temperatures regulate flowering through the thermosensory pathway, which overlaps with the autonomous pathway. Here we show that ambient temperature regulates flowering by two genetically distinguishable pathways, one requiring TFL1 and another requiring ELF3. The delay in flowering time observed at lower temperatures was partially suppressed in single elf3 and tfl1 mutants, whereas double elf3 tfl1 mutants were insensitive to temperature. tfl1 mutations abolished the temperature response in cryptochrome mutants that are deficient in photoperiod perception, but not in phyB mutants, which have a constitutive photoperiodic response. In contrast to tfl1, elf3 mutations were able to suppress the temperature response in phyB mutants, but not in cryptochrome mutants. Gene expression profiles revealed that the tfl1 and elf3 effects are due to the activation of different sets of genes, and identified CCA1 and SOC1/AGL20 as being important cross-talk points. Finally, genome-wide gene expression analysis strongly suggests a general and complementary role for ELF3 and TFL1 in temperature signalling.
+
+TFL1: !regulates! Temperature Response
+ELF3: !regulates! Temperature Response
+TFL1: !activates! CCA1
+ELF3: !activates! SOC1/AGL20
+TFL1: !suppresses! Cryptochrome Mutants
+ELF3: !suppresses! PhyB Mutants

@@ -1,0 +1,7 @@
+Automatic transplanting of seedlings is of great significance to vegetable cultivation factories. Accurate and efficient identification of healthy seedlings is the fundamental process of automatic transplanting. This study proposed a computer vision-based identification framework of healthy seedlings. Vegetable seedlings were planted in trays in the form of potted seedlings. Two-color index operators were proposed for image preprocessing of potted seedlings. An optimal thresholding method based on the genetic algorithm and the three-dimensional block-matching algorithm (BM3D) was developed to denoise and segment the image of potted seedlings. The leaf area of the potted seedling was measured by machine vision technology to detect the growing status and position information of the potted seedling. Therefore, a smart identification framework of healthy vegetable seedlings (SIHVS) was constructed to identify healthy potted seedlings. By comparing the identification accuracy of 273 potted seedlings images, the identification accuracy of the proposed method is 94.33%, which is higher than 89.37% obtained by the comparison method.
+
+Genetic Algorithm: !optimizes! Thresholding Method 
+Two-color Index Operators: !preprocess! Image 
+BM3D: !denoises and segments! Image 
+Machine Vision Technology: !measures! Leaf Area 
+SIHVS: !identifies! Healthy Seedlings

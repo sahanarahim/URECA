@@ -1,0 +1,8 @@
+Leaf structure plays an important role in photosynthesis. However, the causal relationship and the quantitative importance of any single structural parameter to the overall photosynthetic performance of a leaf remains open to debate. In this paper, we report on a mechanistic model, eLeaf, which successfully captures rice leaf photosynthetic performance under varying environmental conditions of light and CO<sub>2</sub> . We developed a 3D reaction-diffusion model for leaf photosynthesis parameterised using a range of imaging data and biochemical measurements from plants grown under ambient and elevated CO<sub>2</sub> and then interrogated the model to quantify the importance of these elements. The model successfully captured leaf-level photosynthetic performance in rice. Photosynthetic metabolism underpinned the majority of the increased carbon assimilation rate observed under elevated CO<sub>2</sub> levels, with a range of structural elements making positive and negative contributions. Mesophyll porosity could be varied without any major outcome on photosynthetic performance, providing a theoretical underpinning for experimental data. eLeaf allows quantitative analysis of the influence of morphological and biochemical properties on leaf photosynthesis. The analysis highlights a degree of leaf structural plasticity with respect to photosynthesis of significance in the context of attempts to improve crop photosynthesis.
+
+CO2: !affects! Photosynthesis
+Photosynthesis: !underpinned by! Metabolism
+Morphological Properties: !influence! Photosynthesis
+Photosynthesis: !improved by! Structural Elements
+Structural Elements: !positively/negatively contribute to! Carbon Assimilation Rate
+Mesophyll Porosity: !varies without major outcome on! Photosynthesis

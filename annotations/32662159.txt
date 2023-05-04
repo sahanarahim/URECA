@@ -1,0 +1,10 @@
+Rhamnogalacturonan-II (RG-II) is structurally the most complex glycan in higher plants, containing 13 different sugars and 21 distinct glycosidic linkages. Two monomeric RG-II molecules can form an RG-II-borate diester dimer through the two apiosyl (Api) residues of side chain A to regulate cross-linking of pectin in the cell wall. But the relationship of Api biosynthesis and RG-II dimer is still unclear. In this study we investigated the two homologous UDP-D-apiose/UDP-D-xylose synthases (AXSs) in Arabidopsis thaliana that synthesize UDP-D-apiose (UDP-Api). Both AXSs are ubiquitously expressed, while AXS2 has higher overall expression than AXS1 in the tissues analyzed. The homozygous axs double mutant is lethal, while heterozygous axs1/+ axs2 and axs1 axs2/+ mutants display intermediate phenotypes. The axs1/+ axs2 mutant plants are unable to set seed and die. By contrast, the axs1 axs2/+ mutant plants exhibit loss of shoot and root apical dominance. UDP-Api content in axs1 axs2/+ mutants is decreased by 83%. The cell wall of axs1 axs2/+ mutant plants is thicker and contains less RG-II-borate complex than wild-type Col-0 plants. Taken together, these results provide direct evidence of the importance of AXSs for UDP-Api and RG-II-borate complex formation in plant growth and development.
+
+AXS1: !synthesizes! UDP-Api
+AXS2: !synthesizes! UDP-Api
+UDP-Api: !regulates! RG-II dimer formation
+AXS1/+ AXS2: !displays! intermediate phenotypes
+AXS1 axs2/+: !causes! loss of shoot and root apical dominance
+AXS1 axs2/+: !decreases! UDP-Api content by 83%
+AXS1 axs2/+: !thickens! cell wall
+AXS1 axs2/+: !reduces! RG-II-borate complex

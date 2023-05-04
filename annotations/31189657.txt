@@ -1,0 +1,12 @@
+Photoprotection is an important strategy adopted by plants to avoid photoinhibition under stress conditions. However, the way in which photoprotection is regulated is not fully understood. Here, we demonstrate that tomato (<i>Solanum lycopersicum</i>) mutants of brassinosteroid (BR) biosynthesis (<i>dwf</i>) and related signaling through BRASSINAZOLE-RESISTANT1 (<i>bzr1</i>) are more sensitive to (PSII and PSI photoinhibition, with decreased cyclic electron flow around PSI and lower nonphotochemical quenching, accumulation of PSII subunit S (PsbS), violaxanthin deepoxidase (VDE) activity, and D1 protein abundance. Chilling induced the accumulation of active BRs and activated BZR1, which directly activates the transcription of <i>RESPIRATORY BURST OXIDASE HOMOLOG1</i> (<i>RBOH1</i>) and hydrogen peroxide production in the apoplast. While apoplastic hydrogen peroxide is essential for the induction of PROTON GRADIENT REGULATION5 (PGR5)-dependent cyclic electron flow, PGR5 participates in the regulation of chilling- and BR-dependent induction of nonphotochemical quenching, accumulation of D1, VDE, and PsbS proteins, transcription of genes involved in redox signaling, hormone signaling, and activity of several antioxidant enzymes. Mutations in <i>BZR1</i> and <i>PGR5</i> or suppressed transcription of <i>RBOH1</i> compromised chilling- and BR-induced photoprotection, resulting in increased sensitivity to photoinhibition. These results demonstrate that BRs act as a positive regulator of photoprotection in a redox-PGR5-dependent manner in response to chilling stress in tomato.
+
+dwf: !affects! PSII and PSI photoinhibition
+bzr1: !activates! RBOH1
+RBOH1: !induces! PGR5
+PGR5: !regulates! nonphotochemical quenching
+PGR5: !regulates! D1 protein abundance
+PGR5: !regulates! VDE activity
+PGR5: !regulates! PsbS proteins
+PGR5: !regulates! transcription of genes
+BRs: !positively regulate! photoprotection
+BRs: !activate! BZR1

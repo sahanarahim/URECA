@@ -1,0 +1,8 @@
+The stem cell niche in the root meristem is critical for the development of the plant root system. The plant hormone auxin acts as a versatile trigger in many developmental processes, including the regulation of root growth, but its role in the control of the stem cell activity remains largely unclear. Here we show that local auxin levels, determined by biosynthesis and intercellular transport, mediate maintenance or differentiation of distal stem cells in the Arabidopsis thaliana roots. Genetic analysis shows that auxin acts upstream of the major regulators of the stem cell activity, the homeodomain transcription factor WOX5, and the AP-2 transcription factor PLETHORA. Auxin signaling for differentiation of distal stem cells requires the transcriptional repressor IAA17/AXR3 as well as the ARF10 and ARF16 auxin response factors. ARF10 and ARF16 activities repress the WOX5 transcription and restrict it to the quiescent center, where WOX5, in turn, is needed for the activity of PLETHORA. Our investigations reveal that long-distance auxin signals act upstream of the short-range network of transcriptional factors to mediate the differentiation of distal stem cells in roots.
+
+auxin: !acts upstream of! WOX5
+auxin: !acts upstream of! PLETHORA
+IAA17/AXR3: !required for! auxin signaling
+ARF10: !represses! WOX5
+ARF16: !represses! WOX5
+WOX5: !needed for! PLETHORA

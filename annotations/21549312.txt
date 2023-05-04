@@ -1,0 +1,8 @@
+['21549312', 'Argonaute (AGO) proteins are critical components of RNA silencing pathways that  bind small RNAs and mediate gene silencing at their target sites. We found that  Arabidopsis AGO2 is highly induced by the bacterial pathogen Pseudomonas syringae  pv. tomato (Pst). Further genetic analysis demonstrated that AGO2 functions in  antibacterial immunity. One abundant species of AGO2-bound small RNA is  miR393b( *), which targets a Golgi-localized SNARE gene, MEMB12. Pst infection  downregulates MEMB12 in a miR393b( *)-dependent manner. Loss of function of  MEMB12, but not SYP61, another intracellular SNARE, leads to increased exocytosis  of an antimicrobial pathogenesis-related protein, PR1. Overexpression of  miR393b( *) resembles memb12 mutant in resistance responses. Thus, AGO2 functions  in antibacterial immunity by binding miR393b( *) to modulate exocytosis of  antimicrobial PR proteins via MEMB12. Since miR393 also contributes to  antibacterial responses, miR393( *)/miR393 represent an example of a  miRNA( *)/miRNA pair that functions in immunity through two distinct AGOs:  miR393( *) through AGO2 and miR393 through AGO1.', '2011 May 6', 'Mol Cell', '10.1016/j.molcel.2011.04.010', 'Jin']
+
+AGO2: !binds! miR393b(*)
+miR393b(*): !targets! MEMB12
+MEMB12: !regulates! PR1 exocytosis
+miR393b(*): !modulates! PR1 exocytosis
+AGO2: !induces! antibacterial immunity
+miR393b(*)/miR393: !function through! AGO1/AGO2

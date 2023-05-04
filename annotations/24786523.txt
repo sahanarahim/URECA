@@ -1,0 +1,11 @@
+Gene regulatory networks (GRNs) govern phenotypic adaptations and reflect the trade-offs between physiological responses and evolutionary adaptation that act at different time-scales. To identify patterns of molecular function and genetic diversity in GRNs, we studied the drought response of the common sunflower, Helianthus annuus, and how the underlying GRN is related to its evolution. We examined the responses of 32,423 expressed sequences to drought and to abscisic acid (ABA) and selected 145 co-expressed transcripts. We characterized their regulatory relationships in nine kinetic studies based on different hormones. From this, we inferred a GRN by meta-analyses of a Gaussian graphical model and a random forest algorithm and studied the genetic differentiation among populations (FST ) at nodes. We identified two main hubs in the network that transport nitrate in guard cells. This suggests that nitrate transport is a critical aspect of the sunflower physiological response to drought. We observed that differentiation of the network genes in elite sunflower cultivars is correlated with their position and connectivity. This systems biology approach combined molecular data at different time-scales and identified important physiological processes. At the evolutionary level, we propose that network topology could influence responses to human selection and possibly adaptation to dry environments.
+
+Gene: !affects! Phenotypic adaptations 
+GRN: !governs! Phenotypic adaptations 
+Expressed sequences: !respond to! Drought and ABA 
+Gaussian graphical model: !inferred! GRN 
+Random forest algorithm: !inferred! GRN 
+FST: !studied! Genetic differentiation 
+Nitrate transport: !identified as! Critical aspect of sunflower response 
+Network genes: !differentiated in! Elite sunflower cultivars 
+Network topology: !influences! Responses to human selection

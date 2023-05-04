@@ -1,0 +1,9 @@
+Plant organ abscission, a process that is important for development and reproductive success, is inhibited by the phytohormone auxin and promoted by another phytohormone, jasmonic acid (JA). However, the molecular mechanisms underlying the antagonistic effects of auxin and JA in organ abscission are unknown. We identified a tomato (Solanum lycopersicum) class III homeodomain-leucine zipper transcription factor, HOMEOBOX15A (SlHB15A), which was highly expressed in the flower pedicel abscission zone and induced by auxin. Knocking out SlHB15A using clustered regularly interspaced short palindromic repeats-associated protein 9 technology significantly accelerated abscission. In contrast, overexpression of microRNA166-resistant SlHB15A (mSlHB15A) delayed abscission. RNA sequencing and reverse transcription-quantitative PCR analyses showed that knocking out SlHB15A altered the expression of genes related to JA biosynthesis and signaling. Furthermore, functional analysis indicated that SlHB15A regulates abscission by depressing JA-isoleucine (JA-Ile) levels through inhabiting the expression of JASMONATE-RESISTANT1 (SlJAR1), a gene involved in JA-Ile biosynthesis, which could induce abscission-dependent and abscission-independent ethylene signaling. SlHB15A bound directly to the SlJAR1 promoter to silence SlJAR1, thus delaying abscission. We also found that flower removal enhanced JA-Ile content and that application of JA-Ile severely impaired the inhibitory effects of auxin on abscission. These results indicated that SlHB15A mediates the antagonistic effect of auxin and JA-Ile during tomato pedicel abscission, while auxin inhibits abscission through the SlHB15A-SlJAR1 module.
+
+auxin: !inhibits! abscission
+SlHB15A: !induces by! auxin
+SlHB15A: !regulates! abscission
+SlHB15A: !inhabits expression of! SlJAR1
+SlHB15A: !binds to! SlJAR1 promoter
+SlJAR1: !involved in! JA-Ile biosynthesis
+JA-Ile: !severely impairs! inhibitory effects of auxin

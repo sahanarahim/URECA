@@ -1,0 +1,7 @@
+Root system architecture is important for plants to adapt to a changing environment. The major determinant of the root system is lateral roots originating from the primary root. The developmental process of lateral root formation can be divided into priming, initiation, primordium development and the emergence of lateral roots, and is well characterized in Arabidopsis. The hormone auxin plays a critical role in lateral root development, and several auxin response modules involving AUXIN RESPONSE FACTORS (ARFs), transcriptional regulators of auxin-regulated genes and Aux/IAA, negative regulators of ARFs, regulate lateral root formation. The LATERAL ORGAN BOUNDARIES DOMAIN/ASYMMETRIC LEAVES2-LIKE (LBD/ASL) gene family encodes a unique class of transcription factors harbouring a conserved plant-specific lateral organ boundary domain and plays a role in lateral organ development of plants including lateral root formation. In our previous study, we showed that LBD18 stimulates lateral root formation in combination with LBD16 downstream of ARF7 and ARF19 during the auxin response. We have recently demonstrated that LBD18 activates expression of EXP14, a gene encoding the cell-wall loosening factor, by directly binding to the EXP14 promoter to promote lateral root emergence. Here we present the molecular function of LBD18 and its gene regulatory network during lateral root formation.
+
+ARF7: !regulates! LBD16
+LBD16: !activates! LBD18
+LBD18: !stimulates! lateral root formation
+LBD18: !activates! EXP14
+EXP14: !promotes! lateral root emergence

@@ -1,0 +1,15 @@
+['33843075', "As the most abundant internal modification of mRNA, N(6) -methyladenosine (m(6)  A) methylation of RNA is emerging as a new layer of epitranscriptomic gene  regulation in cellular processes, including embryo development, flowering-time  control, microspore generation and fruit ripening, in plants. However, the  cellular role of m(6) A in plant responses to environmental stimuli remains  largely unexplored. In this study, we show that m(6) A methylation plays an  important role in salt stress tolerance in Arabidopsis. All mutants of m(6) A  writer components, including MTA, MTB, VIRILIZER (VIR) and HAKAI, displayed  salt-sensitive phenotypes in an m(6) A-dependent manner. The vir mutant, in which  the level of m(6) A was most highly reduced, exhibited salt-hypersensitive  phenotypes. Analysis of the m(6) A methylome in the vir mutant revealed a  transcriptome-wide loss of m(6) A modification in the 3' untranslated region  (3'-UTR). We demonstrated further that VIR-mediated m(6) A methylation modulates  reactive oxygen species homeostasis by negatively regulating the mRNA stability  of several salt stress negative regulators, including ATAF1, GI and GSTU17,  through affecting 3'-UTR lengthening linked to alternative polyadenylation. Our  results highlight the important role played by epitranscriptomic mRNA methylation  in the salt stress response of Arabidopsis and indicate a strong link between  m(6) A methylation and 3'-UTR length and mRNA stability during stress adaptation.", '2021 Jun', 'Plant J', '10.1111/tpj.15270', 'ORCID:']
+
+MTA: !synthesizes! m(6)A 
+MTB: !synthesizes! m(6)A 
+VIR: !synthesizes! m(6)A 
+HAKAI: !synthesizes! m(6)A 
+m(6)A: !affects! salt stress tolerance 
+VIR: !reduces! m(6)A 
+m(6)A: !modulates! reactive oxygen species homeostasis 
+ATAF1: !repressed by! m(6)A 
+GI: !repressed by! m(6)A 
+GSTU17: !repressed by! m(6)A 
+m(6)A: !affects! 3'-UTR lengthening 
+3'-UTR: !lengthened by! m(6)A 
+m(6)A: !affects! mRNA stability

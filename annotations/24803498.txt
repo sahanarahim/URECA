@@ -1,0 +1,8 @@
+['24803498', "Trichome initiation and patterning are controlled by the TTG1-bHLH-MYB regulatory  complex. Several MYB transcription factors have been determined to function in  trichome development via incorporation into this complex. This study examined the  role of MYB82, an R2R3-MYB transcription factor, in Arabidopsis trichome  development. MYB82 was revealed to be a nuclear-localized transcription  activator. Suppression of MYB82 function by fusion with a dominant repression  domain (SRDX) resulted in glabrous leaves, as did overexpression of  N-terminal-truncated MYB82. Overexpression of MYB82 genomic sequence, but not its  cDNA sequence, led to reduced trichome numbers. Further investigation indicated  that at least one of the two introns in MYB82 is essential to the protein's  trichome developmental function. An MYB-binding box was identified in the third  exon of MYB82, which was inferred to be crucial for MYB82 function because the  mutation of this box interfered with the ability of MYB82 to rescue the gl1  mutant. Protein interaction analysis revealed that MYB82 physically interacts  with GLABRA3 (GL3). In addition, MYB82 and GL1 can form homodimers and  heterodimers at R2R3-MYB domains, which may explain why their overexpression  reduces trichome numbers. These results demonstrate the functional  diversification of MYB82 and GL1 in trichome development.", '2014 Jul', 'J Exp Bot', '10.1093/jxb/eru179', 'Yu']
+
+TTG1-bHLH-MYB: !controls! Trichome initiation and patterning 
+MYB82: !localizes to! nucleus 
+MYB82: !repressed by! SRDX 
+MYB82: !interacts with! GLABRA3 
+MYB82: !forms homodimers and heterodimers with! GL1 
+MYB82: !binds to! MYB-binding box

@@ -1,0 +1,9 @@
+['17138694', 'FLOWERING LOCUS C (FLC), a strong floral repressor, is one of the central  regulators of flowering in Arabidopsis thaliana. The expression of FLC is  increased by FRIGIDA (FRI) but decreased by vernalization, a long period of cold  exposure that accelerates flowering. Although many aspects of FLC regulation have  been reported, it is not known how FLC is transcriptionally activated by FRI at  the molecular level. We isolated suppressor of FRIGIDA4 (suf4), a mutant that  flowers early as a result of low FLC expression. SUF4 encodes a nuclear-localized  protein with two C2H2-type zinc finger motifs and a Pro-rich domain. SUF4 protein  interacts with FRI and FRIGIDA-LIKE1 (FRL1), two genes for which single mutations  have the same phenotype as suf4. SUF4 also bound to the promoter of FLC in a  chromatin immunoprecipitation assay, suggesting that SUF4 acts as a  transcriptional activator of FLC after forming a complex with FRI and FRL1. In  addition, suf4 suppresses luminidependens (ld), a late-flowering mutation that  causes an increase of FLC, and SUF4 protein directly interacts with LD. Thus, we  propose that LD binds to SUF4 to suppress its activity in the absence of FRI.', '2006 Nov', 'Plant Cell', '10.1105/tpc.106.045179', 'Lee']
+
+FLC: !repressed by! vernalization
+FRI: !increases expression of! FLC
+SUF4: !interacts with! FRI
+SUF4: !interacts with! FRL1
+SUF4: !binds to! FLC promoter
+SUF4: !suppresses! ld
+LD: !interacts with! SUF4

@@ -1,0 +1,9 @@
+['32690755', 'Drought is one of the most critical environmental stresses limiting plant growth  and crop productivity. The synthesis and signaling of abscisic acid (ABA), a key  phytohormone in the drought stress response, is under photoperiodic control.  GIGANTEA (GI), a key regulator of photoperiod-dependent flowering and the  circadian rhythm, is also involved in the signaling pathways for various abiotic  stresses. In this study, we isolated ENHANCED EM LEVEL (EEL)/basic Leu zipper 12,  a transcription factor involved in ABA signal responses, as a GI interactor in  Arabidopsis (Arabidopsis thaliana). The diurnal expression of  9-CIS-EPOXYCAROTENOID DIOXYGENASE 3 (NCED3), a rate-limiting ABA biosynthetic  enzyme, was reduced in the eel, gi-1, and eel gi-1 mutants under normal growth  conditions. Chromatin immunoprecipitation and electrophoretic mobility shift  assays revealed that EEL and GI bind directly to the ABA-responsive element motif  in the NCED3 promoter. Furthermore, the eel, gi-1, and eel gi-1 mutants were  hypersensitive to drought stress due to uncontrolled water loss. The transcript  of NCED3, endogenous ABA levels, and stomatal closure were all reduced in the  eel, gi-1, and eel gi-1 mutants under drought stress. Our results suggest that  the EEL-GI complex positively regulates diurnal ABA synthesis by affecting the  expression of NCED3, and contributes to the drought tolerance of Arabidopsis.', '2020 Sep', 'Plant Physiol', '10.1104/pp.20.00779', 'ORCID:']
+
+GI: !interacts with! EEL 
+EEL: !binds to! NCED3 promoter 
+NCED3: !synthesizes! ABA 
+EEL: !enhances! diurnal ABA synthesis 
+GI: !enhances! diurnal ABA synthesis 
+EEL-GI complex: !positively regulates! diurnal ABA synthesis 
+EEL-GI complex: !contributes to! drought tolerance

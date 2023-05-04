@@ -1,0 +1,9 @@
+['23064321', 'Salicylic acid (SA) signaling acts in defense and plant development. The only  gene demonstrated to be required for the response to SA is Arabidopsis thaliana  non-expresser of pathogenesis-related gene 1 (NPR1), and npr1 mutants are  insensitive to SA. By focusing on the effect of analogs of SA on plant  development, we identified mutants in additional genes acting in the SA response.  In this work, we describe a gene necessary for the SA Non-Recognition-of-BTH4  (NRB4). Three nrb4 alleles recovered from the screen cause phenotypes similar to  the wild type in the tested conditions, except for SA-related phenotypes. Plants  with NRB4 null alleles express profound insensitivity to SA, even more than npr1.  NRB4 null mutants are also sterile and their growth is compromised. Plants  carrying weaker nrb4 alleles are also insensitive to SA, with some quantitative  differences in some phenotypes, like systemic acquired resistance or pathogen  growth restriction. When weak alleles are used, NPR1 and NRB4 mutations produce  an additive phenotype, but we did not find evidence of a genetic interaction in  F1 nor biochemical interaction in yeast or in planta. NRB4 is predicted to be a  subunit of Mediator, the ortholog of MED15 in Arabidopsis. Mechanistically, NRB4  functions downstream of NPR1 to regulate the SA response.', '2012 Oct', 'Plant Cell', '10.1105/tpc.112.103028', 'Tornero']
+
+NPR1: !affects! SA response 
+NRB4: !affects! SA response 
+NPR1: !interacts with! NRB4 
+NRB4: !localizes to! Mediator 
+NRB4: !enhances! Systemic acquired resistance 
+NRB4: !represses! Pathogen growth restriction 
+NRB4: !synthesizes! Sterility

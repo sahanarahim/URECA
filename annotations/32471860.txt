@@ -1,0 +1,8 @@
+In rice (<i>Oryza sativa</i>) endosperm cells, mRNAs encoding glutelin and prolamine are translated on distinct cortical-endoplasmic reticulum (ER) subdomains (the cisternal-ER and protein body-ER), a process that facilitates targeting of their proteins to different endomembrane compartments. Although the <i>cis</i>- and <i>trans</i>-factors responsible for mRNA localization have been defined over the years, how these mRNAs are transported to the cortical ER has yet to be resolved. Here, we show that the two interacting glutelin zipcode RNA binding proteins (RBPs), RBP-P and RBP-L, form a quaternary complex with the membrane fusion factors n-ethylmaleimide-sensitive factor (NSF) and the small GTPase Rab5a, enabling mRNA transport on endosomes. Direct interaction of RBP-L with Rab5a, between NSF and RBP-P, and between NSF and Rab5a, were established. Biochemical and microscopic analyses confirmed the co-localization of these RBPs with NSF on Rab5a-positive endosomes that carry glutelin mRNAs. Analysis of a loss-of-function <i>rab5a</i> mutant showed that glutelin mRNA and the quaternary complex were mis-targeted to the extracellular paramural body structure formed by aborted endosomal trafficking, further confirming the involvement of endosomal trafficking in glutelin mRNA transport. Overall, these findings demonstrate that mRNA localization in plants co-opts membrane trafficking via the acquisition of new functional binding properties between RBPs and two essential membrane trafficking factors, thus defining an endosomal anchoring mechanism in mRNA localization.
+
+RBP-P: !interacts with! NSF
+RBP-L: !interacts with! Rab5a
+NSF: !interacts with! RBP-P
+NSF: !interacts with! Rab5a
+Rab5a: !carries! glutelin mRNAs
+Rab5a: !localizes to! endosomes

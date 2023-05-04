@@ -1,0 +1,14 @@
+['16766689', 'Plastids contain tetradecameric Clp protease core complexes, with five ClpP  Ser-type proteases, four nonproteolytic ClpR, and two associated ClpS proteins.  Accumulation of total ClpPRS complex decreased twofold to threefold in an  Arabidopsis thaliana T-DNA insertion mutant in CLPR2 designated clpr2-1.  Differential stable isotope labeling of the ClpPRS complex with iTRAQ revealed a  fivefold reduction in assembled ClpR2 accumulation and twofold to fivefold  reductions in the other subunits. A ClpR2:(his)(6) fusion protein that  incorporated into the chloroplast ClpPRS complex fully complemented clpr2-1. The  reduced accumulation of the ClpPRS protease complex led to a pale-green phenotype  with delayed shoot development, smaller chloroplasts, decreased thylakoid  accumulation, and increased plastoglobule accumulation. Stromal ClpC1 and 2 were  both recruited to the thylakoid surface in clpr2-1. The thylakoid membrane of  clpr2-1 showed increased carotenoid content, partial inactivation of photosystem  II, and upregulated thylakoid proteases and stromal chaperones, suggesting an  imbalance in chloroplast protein homeostasis and a well-coordinated network of  proteolysis and chaperone activities. Interestingly, a subpopulation of PsaF and  several light-harvesting complex II proteins accumulated in the thylakoid with  unprocessed chloroplast transit peptides. We conclude that ClpR2 cannot be  functionally replaced by other ClpP/R homologues and that the ClpPRS complex is  central to chloroplast biogenesis, thylakoid protein homeostasis, and plant  development.', '2006 Jul', 'Plant Cell', '10.1105/tpc.106.042861', 'van']
+
+ClpP: !assembles! ClpPRS complex 
+ClpR2: !decreases accumulation of! ClpPRS complex 
+clpr2-1: !causes! pale-green phenotype 
+chloroplast: !accumulates! plastoglobules 
+ClpC1/2: !recruited to! thylakoid surface 
+thylakoid membrane: !increases carotenoid content! 
+photosystem II: !inactivated! 
+thylakoid proteases: !upregulated! 
+stromal chaperones: !upregulated! 
+PsaF: !accumulates! unprocessed chloroplast transit peptides 
+ClpR2: !cannot be replaced by! other ClpP/R homologues 
+ClpPRS complex: !central to! chloroplast biogenesis, thylakoid protein homeostasis, plant development

@@ -1,0 +1,10 @@
+The major antioxidant L-ascorbic acid (AsA) plays important roles in plant growth, development and stress responses. However, the importance of AsA concentration and the regulation of AsA metabolism in plant reproduction remains unclear. In Arabidopsis (Arabidopsis thaliana) anthers, the tapetum monolayer undergoes cell differentiation to support pollen development. Here, we report that a transcription factor, DEFECTIVE IN TAPETAL DEVELOPMENT AND FUNCTION 1 (TDF1), inhibits tapetal cell division leading to cell differentiation. We identified SKEWED5-SIMILAR 18 (SKS18) as a downstream target of TDF1. Enzymatic assays showed that SKS18, annotated as a multicopper oxidase-like protein, has ascorbate oxidase activity, leading to AsA oxidation. We also show that VITAMIN C DEFECTIVE1 (VTC1), an AsA biosynthetic enzyme, is negatively controlled by TDF1 to maintain proper AsA contents. Consistently, either knockout of SKS18 or VTC1 overexpression raised AsA concentrations, resulting in extra tapetal cells, while SKS18 overexpression in tdf1 or the vtc1-3 tdf1 double mutant mitigated their defective tapetum. We observed that high AsA concentrations caused lower accumulation of reactive oxygen species (ROS) in tapetal cells. Overexpression of ROS scavenging genes in tapetum restored excess cell divisions. Thus, our findings demonstrate that TDF1-regulated AsA balances cell division and cell differentiation in the tapetum through governing ROS homeostasis.
+
+TDF1: !inhibits! tapetal cell division
+SKS18: !is a downstream target of! TDF1
+VTC1: !is negatively controlled by! TDF1
+SKS18: !has ascorbate oxidase activity!
+VTC1: !synthesizes! AsA
+AsA: !enhances! tapetal cell differentiation
+AsA: !represses! ROS accumulation
+ROS: !causes! excess cell divisions

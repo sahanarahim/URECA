@@ -1,0 +1,7 @@
+['23404887', "Arabidopsis thaliana CYCLIN-DEPEDENT KINASE G1 (CDKG1) belongs to the family of  cyclin-dependent protein kinases that were originally characterized as cell cycle  regulators in eukaryotes. Here, we report that CDKG1 regulates pre-mRNA splicing  of CALLOSE SYNTHASE5 (CalS5) and, therefore, pollen wall formation. The knockout  mutant cdkg1 exhibits reduced male fertility with impaired callose synthesis and  abnormal pollen wall formation. The sixth intron in CalS5 pre-mRNA, a rare type  of intron with a GC 5' splice site, is abnormally spliced in cdkg1. RNA  immunoprecipitation analysis suggests that CDKG1 is associated with this intron.  CDKG1 contains N-terminal Ser/Arg (RS) motifs and interacts with splicing factor  Arginine/Serine-Rich Zinc Knuckle-Containing Protein33 (RSZ33) through its RS  region to regulate proper splicing. CDKG1 and RS-containing Zinc Finger Protein22  (SRZ22), a splicing factor interacting with RSZ33 and U1 small nuclear  ribonucleoprotein particle (snRNP) component U1-70k, colocalize in nuclear  speckles and reside in the same complex. We propose that CDKG1 is recruited to U1  snRNP through RSZ33 to facilitate the splicing of the sixth intron of CalS5.", '2013 Feb', 'Plant Cell', '10.1105/tpc.112.107896', 'Yang']
+
+CDKG1: !regulates! pre-mRNA splicing 
+CDKG1: !interacts with! RSZ33
+RSZ33: !interacts with! SRZ22
+SRZ22: !interacts with! U1-70k
+CDKG1: !colocalizes with! SRZ22

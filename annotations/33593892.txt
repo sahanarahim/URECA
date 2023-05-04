@@ -1,0 +1,11 @@
+Reducing the costs from human-wildlife conflict, mostly borne by marginal rural households, is a priority for conservation. We estimate the mean species-specific cost for households suffering damages from one of 15 major species of wildlife in India. Our data are from a survey of 5,196 households living near 11 wildlife reserves in India, and self-reported annual costs include crop and livestock losses and human casualties (injuries and death). By employing conservative estimates from the literature on the value of a statistical life (VSL), we find that costs from human casualties overwhelm crop and livestock damages for all species associated with fatalities. Farmers experiencing a negative interaction with an elephant over the last year incur damages on average that are 600 and 900 times those incurred by farmers with negative interactions with the next most costly herbivores: the pig and the nilgai. Similarly, farmers experiencing a negative interaction with a tiger over the last year incur damage that is on average 3 times that inflicted by a leopard and 100 times that from a wolf. These cost differences are largely driven by differences in the incidence of human death and casualties. Our estimate of costs fluctuates across reserves, mostly due to a variation of human casualties. Understanding the drivers of human casualties and reducing their incidence are crucial to reducing the costs from human-wildlife conflict.Most of the tales were about animals, for the Jungle was always at their door. The deer and the pig grubbed up their crops, and now and again the tiger carried off a man at twilight, within sight of the village gates. "Tiger! Tiger!" (Rudyard Kipling, <i>The Jungle Book</i>, Collins Classics, 2010).
+
+deer: !damages! crops
+pig: !damages! crops
+tiger: !carries off! man
+elephant: !inflicts damages! 600x pig
+nilgai: !inflicts damages! 900x pig
+tiger: !inflicts damages! 3x leopard
+wolf: !inflicts damages! 100x tiger
+human casualties: !drive! cost differences
+reserves: !vary! human casualties

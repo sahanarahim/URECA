@@ -1,0 +1,14 @@
+Polycomb Repressive Complexes (PRC1 and PRC2) regulate developmental transitions in plants. AtBMI1, a PRC1 member, represses micro RNA156 (miR156) to trigger the onset of adult phase in Arabidopsis (<i>Arabidopsis thaliana</i>). miR156 overexpression (OE) reduces below-ground tuber yield, but stimulates aerial tubers in potato (<i>Solanum tuberosum</i> ssp <i>andigena</i>) under short-day (SD) photoperiodic conditions. Whether PRC members could govern tuber development through photoperiod-mediated regulation of miR156 is unknown. Here, we investigated the role of two PRC proteins, StMSI1 (PRC2 member) and StBMI1-1, in potato development. In wild-type <i>andigena</i> plants, <i>StMSI1</i> and miR156 levels increased in stolon, whereas <i>StBMI1</i>-<i>1</i> decreased under SD conditions. <i>StMSI1</i>-<i>OE</i> and <i>StBMI1</i>-<i>1</i>-antisense (AS) lines produced pleiotropic effects, including altered leaf architecture/compounding and reduced below-ground tuber yield. Notably, these lines showed enhanced miR156 accumulation accompanied by aerial stolons and tubers from axillary nodes, similar to miR156-OE lines. Further, grafting of <i>StMSI1</i>-<i>OE</i> or <i>StBMI1</i>-<i>1</i>-<i>AS</i> on wild-type stock resulted in reduced root biomass and showed increased accumulation of miR156a/b and -c precursors in the roots of wild-type stocks. RNA-sequencing of axillary nodes from <i>StMSI1</i>-OE and <i>StBMI1</i>-<i>1</i>-<i>AS</i> lines revealed downregulation of auxin and brassinosteroid genes, and upregulation of cytokinin transport/signaling genes, from 1,023 differentially expressed genes shared between the two lines. Moreover, we observed downregulation of genes encoding H2A-ubiquitin ligase and StBMI1-1/3, and upregulation of Trithorax group H3K4-methyl-transferases in <i>StMSI1</i>-<i>OE</i> Chromatin immunoprecipitation-quantitative PCR confirmed H3K27me3-mediated suppression of <i>StBMI1</i>-<i>1</i>/<i>3</i>, and H3K4me3-mediated activation of miR156 in <i>StMSI1</i>-<i>OE</i> plants. In summary, we show that cross talk between histone modifiers regulates miR156 and alters hormonal response during aerial tuber formation in potato under SD conditions.
+
+AtBMI1: !represses! miR156
+StMSI1: !increases! miR156
+StBMI1-1: !decreases! miR156
+StMSI1-OE: !enhances! miR156
+StBMI1-1-AS: !enhances! miR156
+StMSI1-OE: !downregulates! auxin/brassinosteroid genes
+StMSI1-OE: !upregulates! cytokinin transport/signaling genes
+H2A-ubiquitin ligase: !downregulated by! StMSI1-OE
+StBMI1-1/3: !downregulated by! StMSI1-OE
+Trithorax group H3K4-methyl-transferases: !upregulated by! StMSI1-OE
+H3K27me3: !suppresses! StBMI1-1/3
+H3K4me3: !activates! miR156

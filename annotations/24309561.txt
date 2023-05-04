@@ -1,0 +1,11 @@
+Salicylic acid (SA) is a prominent signaling molecule during biotic and abiotic stresses in plants biosynthesized via cinnamate and isochorismate pathways. Cinnamate 4-hydroxylase (C4H) and isochorismate synthase (ICS) are the main enzymes in phenylpropanoid and isochorismate pathways, respectively. To investigate the actual roles of these genes in resistance mechanism to environmental stresses, here, the coding sequences of these enzymes in safflower (Carthamus tinctorius), as an oilseed industrial medicinal plant, were partially isolated and their expression profiles during salinity stress, wounding, and salicylic acid treatment were monitored. As a result, safflower ICS (CtICS) and C4H (CtC4H) were induced in early time points after wounding (3-6 h). Upon salinity stress, CtICS and CtC4H were highly expressed for the periods of 6-24 h and 3-6 h after treatment, respectively. It seems evident that ICS expression level is SA concentration dependent as if safflower treatment with 1 mM SA could induce ICS much stronger than that with 0.1 mM, while C4H is less likely to be so. Based on phylogenetic analysis, safflower ICS has maximum similarity to its ortholog in Vitis vinifera up to 69%, while C4H shows the highest similarity to its ortholog in Echinacea angustifolia up to 96%. Overall, the isolated genes of CtICS and CtC4H in safflower could be considered in plant breeding programs for salinity tolerance as well as for pathogen resistance.
+
+C4H: !synthesizes! cinnamate 
+ICS: !synthesizes! isochorismate 
+CtC4H: !localizes to! safflower 
+CtICS: !localizes to! safflower 
+wounding: !induces! CtC4H, CtICS 
+salinity stress: !induces! CtC4H, CtICS 
+SA treatment: !induces! CtICS 
+CtICS: !interacts with! Vitis vinifera 
+CtC4H: !interacts with! Echinacea angustifolia

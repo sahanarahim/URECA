@@ -1,0 +1,7 @@
+Plant chitinases have been studied for their importance in the defense of crop plants from pathogen attacks and for their peculiar vacuolar sorting determinants. A peculiarity of the sequence of many family 19 chitinases is the presence of a C-terminal extension that seems to be important for their correct recognition by the vacuole sorting machinery. The 7 amino acids long C-terminal vacuolar sorting determinant (CtVSD) of tobacco chitinase A is necessary and sufficient for the transport to the vacuole. This VSD shares no homology with other CtVSDs such as the phaseolin's tetrapeptide AFVY (AlaPheValTyr) and it is also sorted by different mechanisms. While a receptor for this signal has not yet been convincingly identified, the research using the chitinase CtVSD has been very informative, leading to the observation of phenomena otherwise difficult to observe such as the presence of separate vacuoles in differentiating cells and the existence of a Golgi-independent route to the vacuole. Thanks to these new insights in the endoplasmic reticulum (ER)-to-vacuole transport, GFPChi (Green Fluorescent Protein carrying the chitinase A CtVSD) and other markers based on chitinase signals will continue to help the investigation of vacuolar biogenesis in plants.
+
+Chitinase: !has! CtVSD
+CtVSD: !sorts to! vacuole
+GFPChi: !carries! chitinase A CtVSD
+chitinase A CtVSD: !reveals! separate vacuoles in differentiating cells
+chitinase A CtVSD: !indicates! Golgi-independent route to the vacuole

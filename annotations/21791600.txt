@@ -1,0 +1,11 @@
+Inoculation of soybean (Glycine max) plants with Phakopsora pachyrhizi, the causal organism of Asian soybean rust, elicits a biphasic response characterized by a burst of differential gene expression in the first 12 h. A quiescent period occurs from 24 to 48 h after inoculation, in which P. pachyrhizi continues to develop but does not elicit strong host responses, followed by a second phase of intense gene expression. To correlate soybean responses with P. pachyrhizi growth and development, we inoculated the soybean cultivar Ankur (accession PI462312), which carries the Rpp3 resistance gene, with avirulent and virulent isolates of P. pachyrhizi. The avirulent isolate Hawaii 94-1 elicits hypersensitive cell death that limits fungal growth on Ankur and results in an incompatible response, while the virulent isolate Taiwan 80-2 grows extensively, sporulates profusely, and produces a compatible reaction. Inoculated leaves were collected over a 288-h time course for microarray analysis of soybean gene expression and microscopic analysis of P. pachyrhizi growth and development. The first burst in gene expression correlated with appressorium formation and penetration of epidermal cells, while the second burst of gene expression changes followed the onset of haustoria formation in both compatible and incompatible interactions. The proliferation of haustoria coincided with the inhibition of P. pachyrhizi growth in the incompatible interaction or the beginning of accelerated growth in the compatible interaction. The temporal relationships between P. pachyrhizi growth and host responses provide an important context in which to view interacting gene networks that mediate the outcomes of their interactions.
+
+Gene: !affects! Process
+Process: !elicits! Gene expression
+Gene: !localizes to! Epidermal cells
+Gene: !interacts with! P. pachyrhizi
+P. pachyrhizi: !forms! Appressorium
+Appressorium: !penetrates! Epidermal cells
+Gene: !enhances! Haustoria formation
+Haustoria: !inhibits! P. pachyrhizi growth
+Haustoria: !accelerates! P. pachyrhizi growth

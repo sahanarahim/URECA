@@ -1,0 +1,12 @@
+The timing of the transition to flowering in plants is regulated by various environmental factors, including daylength and light quality. Although the red/far-red photoreceptor phytochrome B (phyB) represses flowering by indirectly regulating the expression of a key flowering regulator, FLOWERING LOCUS T (FT), the mechanism of phyB signaling for flowering is largely unknown. Here, we identified two Arabidopsis thaliana genes, VASCULAR PLANT ONE-ZINC FINGER1 (VOZ1) and VOZ2, which are highly conserved throughout land plant evolution, as phyB-interacting factors. voz1 voz2 double mutants, but neither single mutant, showed a late-flowering phenotype under long-day conditions, which indicated that VOZ1 and VOZ2 redundantly promote flowering. voz1 voz2 mutations suppressed the early-flowering phenotype of the phyB mutant, and FT expression was repressed in the voz1 voz2 mutant. Green fluorescent protein-VOZ2 signal was observed in the cytoplasm, and interaction of VOZ proteins with phyB was indicated to occur in the cytoplasm under far-red light. However, VOZ2 protein modified to localize constitutively in the nucleus promoted flowering. In addition, the stability of VOZ2 proteins in the nucleus was modulated by light quality in a phytochrome-dependent manner. We propose that partial translocation of VOZ proteins from the cytoplasm to the nucleus mediates the initial step of the phyB signal transduction pathway that regulates flowering.
+
+phyB: !represses! FT
+VOZ1: !interacts with! phyB
+VOZ2: !interacts with! phyB
+VOZ1: !redundantly promotes! flowering
+VOZ2: !redundantly promotes! flowering
+phyB: !suppressed by! voz1 voz2
+FT: !repressed by! voz1 voz2
+VOZ2: !localizes to! cytoplasm
+VOZ2: !enhances! flowering
+VOZ2: !stability modulated by! light quality

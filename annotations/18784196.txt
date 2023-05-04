@@ -1,0 +1,9 @@
+A mutant (Delta5) of Synechocystis sp. strain PCC 6803 constructed by inactivating five inorganic carbon sequestration systems did not take up CO(2) or HCO(3)(-) and was unable to grow in air with or without glucose. The Delta4 mutant in which BicA is the only active inorganic carbon sequestration system showed low activity of HCO(3)(-) uptake and grew under these conditions but more slowly than the wild-type strain. The Delta5 mutant required 1.7% CO(2) to attain half the maximal growth rate. Electron transport activity of the mutants was strongly inhibited under high light intensities, with the Delta5 mutant more susceptible to high light than the Delta4 mutant. The results implicated the significance of carbon sequestration in dissipating excess light energy.
+
+Delta5: !inactivates! 5 inorganic carbon sequestration systems
+Delta4: !inactivates! BicA
+Delta5: !requires! 1.7% CO(2)
+Delta4: !requires! HCO(3)(-) uptake
+Delta5: !more susceptible to! high light
+Delta4: !less susceptible to! high light
+carbon sequestration: !dissipates! excess light energy

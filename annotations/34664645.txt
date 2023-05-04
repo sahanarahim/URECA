@@ -1,0 +1,8 @@
+Members of the Vaccinium genus bear fruits rich in anthocyanins, a class of red-purple flavonoid pigments that provide human health benefits, although the localization and concentrations of anthocyanins differ between species: blueberry (V. corymbosum) has white flesh, while bilberry (V. myrtillus) has red flesh. Comparative transcriptomics between blueberry and bilberry revealed that MYBPA1.1 and MYBA1 strongly correlated with the presence of anthocyanins, but were absent or weakly expressed in blueberry flesh. MYBPA1.1 had a biphasic expression profile, correlating with both proanthocyanidin biosynthesis early during fruit development and anthocyanin biosynthesis during berry ripening. MYBPA1.1 was unable to induce anthocyanin or proanthocyanidin accumulation in Nicotiana benthamiana, but activated promoters of flavonoid biosynthesis genes. The MYBPA1.1 promoter is directly activated by MYBA1 and MYBPA2 proteins, which regulate anthocyanins and proanthocyanidins, respectively. Our findings suggest that the lack of VcMYBA1 expression in blueberry flesh results in an absence of VcMYBPA1.1 expression, which are both required for anthocyanin regulation. In contrast, VmMYBA1 is well expressed in bilberry flesh, up-regulating VmMYBPA1.1, allowing coordinated regulation of flavonoid biosynthesis genes and anthocyanin accumulation. The hierarchal model described here for Vaccinium may also occur in a wider group of plants as a means to co-regulate different branches of the flavonoid pathway.
+
+MYBPA1.1: !correlates with! anthocyanins
+MYBA1: !activates! MYBPA1.1
+MYBPA2: !regulates! proanthocyanidins
+VcMYBA1: !absent in! blueberry flesh
+VmMYBA1: !well expressed in! bilberry flesh
+VcMYBA1: !lack of expression results in! absence of VcMYBPA1.1

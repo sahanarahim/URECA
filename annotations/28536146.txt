@@ -1,0 +1,7 @@
+['28536146', 'Stomata are microscopic openings that allow for the exchange of gases between  plants and the environment. In Arabidopsis, stomatal patterning is specified by  the ERECTA family (ERf) receptor kinases (RKs), the receptor-like protein (RLP)  TOO MANY MOUTHS (TMM), and EPIDERMAL PATTERNING FACTOR (EPF) peptides. Here we  show that TMM and ER or ER-LIKE1 (ERL1) form constitutive complexes, which  recognize EPF1 and EPF2, but the single ERfs do not. TMM interaction with ERL1  creates a binding pocket for recognition of EPF1 and EPF2, indicating that the  constitutive TMM-ERf complexes function as the receptors of EPF1 and EPF2. EPFL9  competes with EPF1 and EPF2 for binding to the ERf-TMM complex. EPFL4 and EPFL6,  however, are recognized by the single ERfs without the requirement of TMM. In  contrast to EPF1,2, the interaction of EPFL4,6 with an ERf is greatly reduced in  the presence of TMM. Taken together, our data demonstrate that TMM dictates the  specificity of ERfs for the perception of different EPFs, thus functioning as a  specificity switch for the regulation of the activities of ERfs.', '2017 May 1', 'Genes Dev', '10.1101/gad.297580.117', 'Chai']
+
+ERf: !interacts with! TMM
+TMM: !recognizes! EPF1 & EPF2
+EPFL9: !competes with! EPF1 & EPF2
+EPFL4 & EPFL6: !recognized by! ERf
+TMM: !dictates specificity of! ERfs

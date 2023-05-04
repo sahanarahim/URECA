@@ -1,0 +1,9 @@
+The shoot apical meristem (SAM) is a group of stem cells that are responsible for plant development. Mutations in rice SHOOTLESS2 (SHL2), SHL4/SHOOT ORGANIZATION2 (SHO2), and SHO1 cause complete deletion or abnormal formation of the SAM. In this study we showed that defects in SAM formation in shl mutants are associated with the loss of expression of the homeodomain-leucine zipper (HD-ZIPIII) family genes. Rice SHL2, SHL4/SHO2, and SHO1 encoded orthologues of Arabidopsis RNA-dependent RNA polymerase 6, ARGONAUTE (AGO) 7, and DICER-like 4, respectively, whose mutations affect leaf development through the trans-acting siRNA (ta-siRNA) pathway. This suggested that the ta-siRNA pathway regulates the critical step of SAM formation during rice embryogenesis. The gain-of-function experiment by the ectopic expression of SHL4 resulted in reduced accumulation of an microRNA, miR166, and partial adaxialization of leaves, supporting a role for the ta-siRNA pathway in the maintenance of leaf polarity as previously reported in maize. Analysis of the spatiotemporal expression patterns of HD-ZIPIII and miR166 in wild-type and shl mutant embryos suggested that the loss of HD-ZIPIII expression in the SAM region of the developing embryo is the result of ectopic expression of miR166. Our analysis of shl mutants demonstrated that HD-ZIPIII expression regulated by miR166 is sensitive to the ta-siRNA pathway during SAM formation in rice embryogenesis.
+
+SHL2: !encodes! ARGONAUTE 7
+SHL4/SHO2: !encodes! DICER-like 4
+SHO1: !encodes! RNA-dependent RNA polymerase 6
+HD-ZIPIII: !regulated by! miR166
+miR166: !ectopically expressed by! SHL4
+ta-siRNA pathway: !regulates! SAM formation
+ta-siRNA pathway: !maintains! leaf polarity

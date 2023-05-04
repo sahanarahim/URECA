@@ -1,0 +1,6 @@
+Rapid evolution remains a largely unrecognized factor in models that forecast the fate of ecosystems under scenarios of global change. In this work, we quantified the roles of heritable variation in plant traits and of trait evolution in explaining variability in forecasts of the state of coastal wetland ecosystems. A common garden study of genotypes of the dominant sedge <i>Schoenoplectus americanus</i>, "resurrected" from time-stratified seed banks, revealed that heritable variation and evolution explained key ecosystem attributes such as the allocation and distribution of belowground biomass. Incorporating heritable trait variation and evolution into an ecosystem model altered predictions of carbon accumulation and soil surface accretion (a determinant of marsh resilience to sea level rise), demonstrating the importance of accounting for evolutionary processes when forecasting ecosystem dynamics.
+
+genes: !affect! Trait Variation 
+Trait Variation: !influences! Ecosystem Attributes 
+Ecosystem Attributes: !alter! Predictions of Carbon Accumulation 
+Predictions of Carbon Accumulation: !determine! Marsh Resilience

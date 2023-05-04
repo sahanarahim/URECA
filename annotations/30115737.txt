@@ -1,0 +1,9 @@
+Plants respond rapidly to sudden environmental cues, often responding prior to changes in the hormone levels that coordinate these responses. How this is achieved is not fully understood. The integrative role of the phytohormone jasmonic acid (JA) relies upon the plant's ability to control the levels of JASMONATE ZIM (JAZ) domain-containing repressor proteins. Here, we demonstrate that regardless of intrinsic JA levels, Small Ubiquitin-like Modifier (SUMO)-conjugated JAZ proteins inhibit the JA receptor CORONATINE INSENSITIVE1 (COI1) from mediating non-SUMOylated JAZ degradation. The SUMO-deconjugating proteases OVERLY TOLERANT TO SALT1 (OTS1) and OTS2 regulate JAZ protein SUMOylation and stability. The <i>ots1 ots2</i> double mutants accumulate SUMOylated and non-SUMOylated JAZ repressor proteins but show no change in endogenous JA levels compared with wild-type plants. SUMO1-conjugated JAZ proteins bind to COI1 independently of the JA mimic coronatine. SUMO inhibits JAZ binding to COI1. We identify the SUMO interacting motif in COI1 and demonstrate that this is vital to SUMO-dependent inhibition of COI1. Necrotroph infection of <i>Arabidopsis thaliana</i> promotes SUMO protease degradation, and this increases JAZ SUMOylation and abundance, which in turn inhibits JA signaling. This study reveals a mechanism for rapidly regulating JA responses, allowing plants to adapt to environmental changes.
+
+JAZ: !inhibits! COI1
+SUMO: !conjugates to! JAZ
+OTS1/OTS2: !regulate! SUMOylation
+SUMO: !binds to! COI1
+SUMO: !inhibits! JAZ binding
+COI1: !contains! SUMO interacting motif
+Necrotroph infection: !promotes! SUMO protease degradation

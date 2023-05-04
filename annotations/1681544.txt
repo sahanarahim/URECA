@@ -1,0 +1,7 @@
+['1681544', 'We have isolated cDNAs from two distinct genes encoding  3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase (EC 4.1.2.15) in  Arabidopsis thaliana. Predicted protein sequences from both genes, DHS1 and DHS2,  and a potato DAHP synthase gene are highly related, but none shows significant  sequence similarity to conserved microbial DAHP synthase proteins. Despite this  structural difference, the DHS1 cDNA complements mutations in a yeast strain  lacking DAHP synthase activity. DHS1 RNA levels increase in Arabidopsis leaves  subjected either to physical wounding or to infiltration with pathogenic  Pseudomonas syringae strains. DHS2 RNA levels are not increased by these  treatments, suggesting that the DHS1 and DHS2 proteins fulfill different  physiological functions. Other enzymes in the Arabidopsis aromatic pathway are  also encoded by duplicated genes, an arrangement that may allow independent  regulation of aromatic amino acid biosynthesis by distinct physiological  requirements such as protein synthesis and secondary metabolism. The presence of  amino-terminal extensions characteristic of chloroplast transit peptides on DHS1  and DHS2 suggests that both proteins may be targeted to the chloroplast.', '1991 Oct 1', 'Proc Natl Acad Sci U S A', '10.1073/pnas.88.19.8821', 'Fink']
+
+DHS1: !complements! yeast 
+DHS1: !increases RNA levels in! Arabidopsis leaves 
+DHS2: !not increased by! treatments 
+DHS1/DHS2: !fulfill different physiological functions! 
+DHS1/DHS2: !characterized by! chloroplast transit peptides

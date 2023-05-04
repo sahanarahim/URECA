@@ -1,0 +1,12 @@
+Powdery mildew caused by Blumeria graminis f.sp. tritici (Bgt) seriously threatens the production of common wheat (Triticum aestivum). In eukaryotes, WD40-repeat (WDR) proteins usually participate in assembling protein complexes involved in a wide range of cellular processes, including defense responses. However, the potential function of WDR proteins in regulating crop resistance to biotrophic fungal pathogens, such as Bgt, remains unclear. In this study, we isolated TaHOS15, encoding a WDR protein, from the Bgt-susceptible wheat cultivar Jing411 and demonstrated that knockdown of TaHOS15 expression using virus- or transient-induced gene-silencing attenuated wheat susceptibility to Bgt. Biochemical and molecular-biological assays revealed that TaHOS15 interacts with TaHDA6, a wheat homolog of Arabidopsis histone deacetylase AtHDA6, to constitute a transcriptional repressor complex. We determined the role of TaHOS15, which might act as an adaptor protein recruiting TaHDA6 to the chromatin of wheat defense-related genes including TaPR1, TaPR2, TaPR5, and TaWRKY45, where they repress histone acetylation. Reduced TaHOS15 or TaHDA6 transcript levels led to decreased susceptibility to Bgt together with enhanced defense-related transcription under Bgt infection. Collectively, these results demonstrate that TaHOS15 functions in a histone deacetylase complex with TaHDA6 to fine-tune the defense response to Bgt in common wheat.
+
+TaHOS15: !interacts with! TaHDA6 
+TaHOS15: !represses! TaPR1 
+TaHOS15: !represses! TaPR2 
+TaHOS15: !represses! TaPR5 
+TaHOS15: !represses! TaWRKY45 
+TaHDA6: !interacts with! TaHOS15 
+TaHDA6: !represses! TaPR1 
+TaHDA6: !represses! TaPR2 
+TaHDA6: !represses! TaPR5 
+TaHDA6: !represses! TaWRKY45

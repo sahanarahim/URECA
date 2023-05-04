@@ -1,0 +1,10 @@
+Genetic sources of phenotypic variation have been a focus of plant studies aimed at improving agricultural yield and understanding adaptive processes. Genome-wide association studies identify the genetic background behind a trait by examining associations between phenotypes and single-nucleotide polymorphisms (SNPs). Although such studies are common, biological interpretation of the results remains a challenge; especially due to the confounding nature of population structure and the systematic biases thus introduced. Here, we propose a complementary analysis (SNPeffect) that offers putative genotype-to-phenotype mechanistic interpretations by integrating biochemical knowledge encoded in metabolic models. SNPeffect is used to explain differential growth rate and metabolite accumulation in A. thaliana and P. trichocarpa accessions as the outcome of SNPs in enzyme-coding genes. To this end, we also constructed a genome-scale metabolic model for Populus trichocarpa, the first for a perennial woody tree. As expected, our results indicate that growth is a complex polygenic trait governed by carbon and energy partitioning. The predicted set of functional SNPs in both species are associated with experimentally characterized growth-determining genes and also suggest putative ones. Functional SNPs were found in pathways such as amino acid metabolism, nucleotide biosynthesis, and cellulose and lignin biosynthesis, in line with breeding strategies that target pathways governing carbon and energy partition.
+
+Genetic sources: !affect! Phenotypic variation
+SNPs: !associate with! Traits
+SNPeffect: !integrates! Biochemical knowledge
+SNPeffect: !explains! Differential growth rate
+Metabolic model: !constructed for! Populus trichocarpa
+Growth: !governed by! Carbon and energy partitioning
+Functional SNPs: !associated with! Experimentally characterized genes
+Pathways: !targeted by! Breeding strategies

@@ -1,0 +1,11 @@
+The target of rapamycin (TOR) signaling pathway plays critical roles in controlling cell growth in a variety of eukaryotes. However, the contribution of this pathway in regulating virulence of plant pathogenic fungi is unknown. We identified and characterized nine genes encoding components of the TOR pathway in Fusarium graminearum. Biological, genetic and biochemical functions of each component were investigated. The FgFkbp12-rapamycin complex binds to the FgTor kinase. The type 2A phosphatases FgPp2A, FgSit4 and FgPpg1 were found to interact with FgTap42, a downstream component of FgTor. Among these, we determined that FgPp2A is likely to be essential for F. graminearum survival, and FgSit4 and FgPpg1 play important roles in cell wall integrity by positively regulating the phosphorylation of FgMgv1, a key MAP kinase in the cell wall integrity pathway. In addition, the FgPpg1 interacting protein, FgTip41, is involved in regulating mycelial growth and virulence. Notably, FgTip41 does not interact with FgTap42 but with FgPpg1, suggesting the existence of FgTap42:FgPpg1:FgTip41 heterotrimer in F. graminearum, a complex not observed in the yeast model. Collectively, we defined a genetic regulatory framework that elucidates how the TOR pathway regulates virulence and vegetative development in F. graminearum.
+
+FgFkbp12-rapamycin: !binds to! FgTor
+FgPp2A: !interacts with! FgTap42
+FgSit4: !interacts with! FgTap42
+FgPpg1: !interacts with! FgTap42
+FgPp2A: !essential for! F. graminearum survival
+FgSit4: !positively regulates! FgMgv1
+FgPpg1: !interacts with! FgTip41
+FgTip41: !involved in! mycelial growth and virulence
+FgTap42: !forms heterotrimer with! FgPpg1 & FgTip41

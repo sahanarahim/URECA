@@ -1,0 +1,11 @@
+['15133126', 'Previously, the immunophilin-like protein TWD1 from Arabidopsis has been  demonstrated to interact with the ABC transporters AtPGP1 and its closest  homologue, AtPGP19. Physiological and biochemical investigation of pgp1/pgp19 and  of twd1 plants suggested a regulatory role of TWD1 on AtPGP1/AtPGP19 transport  activities. To further understand the dramatic pleiotropic phenotype that is  caused by loss-of-function mutation of the TWD1 gene, we were interested in other  TWD1 interacting proteins. AtMRP1, a multidrug resistance-associated  (MRP/ABCC)-like ABC transporter, has been isolated in a yeast two-hybrid screen.  We demonstrate molecular interaction between TWD1 and ABC transporters AtMRP1 and  its closest homologue, AtMRP2. Unlike AtPGP1, AtMRP1 binds to the C-terminal  tetratricopeptide repeat domain of TWD1, which is well known to mediate  protein-protein interactions. Domain mapping proved that TWD1 binds to a motif of  AtMRP1 that resembles calmodulin-binding motifs; and calmodulin binding to the  C-terminus of MRP1 was verified. By membrane fractionation and GFP-tagging, we  localized AtMRP1 to the central vacuolar membrane and the TWD1-AtMRP1 complex was  verified in vivo by coimmunoprecipitation. We were able to demonstrate that TWD1  binds to isolated vacuoles and has a significant impact on the uptake of  metolachlor-GS and estradiol-beta-glucuronide, well-known substrates of vacuolar  transporters AtMRP1 and AtMRP2.', '2004 Jul', 'Mol Biol Cell', '10.1091/mbc.e03-11-0831', 'Martinoia']
+
+TWD1: !interacts with! AtPGP1
+TWD1: !interacts with! AtPGP19
+TWD1: !binds to! C-terminal tetratricopeptide repeat domain
+TWD1: !binds to! calmodulin-binding motifs
+AtMRP1: !localizes to! central vacuolar membrane
+TWD1: !interacts with! AtMRP1
+TWD1: !interacts with! AtMRP2
+TWD1: !enhances! uptake of metolachlor-GS
+TWD1: !enhances! uptake of estradiol-beta-glucuronide

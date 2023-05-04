@@ -1,0 +1,18 @@
+WRKY transcription factors are involved in plant responses to both biotic and abiotic stresses. Arabidopsis WRKY18, WRKY40, and WRKY60 transcription factors interact both physically and functionally in plant defense responses. However, their role in plant abiotic stress response has not been directly analyzed. We report that the three WRKYs are involved in plant responses to abscisic acid (ABA) and abiotic stress. Through analysis of single, double, and triple mutants and overexpression lines for the WRKY genes, we have shown that WRKY18 and WRKY60 have a positive effect on plant ABA sensitivity for inhibition of seed germination and root growth. The same two WRKY genes also enhance plant sensitivity to salt and osmotic stress. WRKY40, on the other hand, antagonizes WRKY18 and WRKY60 in the effect on plant sensitivity to ABA and abiotic stress in germination and growth assays. Both WRKY18 and WRKY40 are rapidly induced by ABA, while induction of WRKY60 by ABA is delayed. ABA-inducible expression of WRKY60 is almost completely abolished in the wrky18 and wrky40 mutants. WRKY18 and WRKY40 recognize a cluster of W-box sequences in the WRKY60 promoter and activate WRKY60 expression in protoplasts. Thus, WRKY60 might be a direct target gene of WRKY18 and WRKY40 in ABA signaling. Using a stable transgenic reporter/effector system, we have shown that both WRKY18 and WRKY60 act as weak transcriptional activators while WRKY40 is a transcriptional repressor in plant cells. We propose that the three related WRKY transcription factors form a highly interacting regulatory network that modulates gene expression in both plant defense and stress responses by acting as either transcription activator or repressor.
+
+WRKY18: !interacts with! WRKY40
+WRKY18: !interacts with! WRKY60
+WRKY40: !interacts with! WRKY18
+WRKY40: !interacts with! WRKY60
+WRKY60: !interacts with! WRKY18
+WRKY60: !interacts with! WRKY40
+WRKY18: !enhances! ABA sensitivity
+WRKY60: !enhances! ABA sensitivity
+WRKY18: !enhances! salt/osmotic stress sensitivity
+WRKY60: !enhances! salt/osmotic stress sensitivity
+WRKY40: !represses! WRKY18/WRKY60 effect on ABA/abiotic stress
+WRKY18/WRKY40: !induce! WRKY60 expression
+WRKY18/WRKY40: !activate! WRKY60 promoter
+WRKY18: !activates! transcription
+WRKY60: !activates! transcription
+WRKY40: !represses! transcription

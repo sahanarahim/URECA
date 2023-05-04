@@ -1,0 +1,7 @@
+Transcript annotation in plant databases is incomplete and often inaccurate, leading to misinterpretation. As more and more RNA-seq data are generated, plant scientists need to be aware of potential pitfalls and understand the nature and impact of specific alternative splicing transcripts on protein production. A primary area of concern and the topic of this article is the (mis)annotation of open reading frames and premature termination codons. The basic message is that to adequately address expression and functions of transcript isoforms, it is necessary to be able to predict their fate in terms of whether protein isoforms are generated or specific transcripts are unproductive or degraded.
+
+Gene: !affects! Expression 
+Gene: !produces! Protein isoforms 
+Gene: !causes! Misannotation 
+Gene: !generates! Alternative splicing transcripts 
+Gene: !predicts! Fate of transcript isoforms

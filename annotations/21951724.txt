@@ -1,0 +1,13 @@
+['21951724', 'BACKGROUND: Trichome patterning in Arabidopsis thaliana is governed by three  types of activators, R2R3MYB, bHLH and WD40 proteins, and six R3MYB inhibitors.  Among the inhibitors TRIPTYCHON (TRY) seems to fulfill a special function. Its  corresponding mutants produce trichome clusters whereas all other inhibitors are  involved in trichome density regulation. RESULTS: To better understand the role  of TRY in trichome patterning we analyzed its transcriptional regulation. A  promoter analysis identified the relevant regulatory region for trichome  patterning. This essential region contains a fragment required for a double  negative feedback loop such that it mediates the repression of TRY/CPC  auto-repression. By transforming single cells of pTRY:GUS lines with p35S:GL1,  p35S:GL3 and p35S:TTG1 in the presence or absence of p35S:TRY or p35S:CPC we  demonstrate that TRY and CPC can suppress the TRY expression without the  transcriptional down regulation of the activators. We further show by  promoter/CDS swapping experiments for the R3MYB inhibitors TRY and CPC that the  TRY protein has specific properties relevant in the context of both, cluster  formation and trichome density. CONCLUSIONS: Our identification of a TRY promoter  fragment mediating a double negative feedback loop reveals new insight in the  regulatory network of the trichome patterning machinery. In addition we show that  the auto-repression by TRY can occur without a transcriptional down regulation of  the activators, suggesting that the differential complex formation model has a  biological significance. Finally we show that the unique role of TRY among the  inhibitors is a property of the TRY protein.', '2011 Sep 27', 'BMC Plant Biol', '10.1186/1471-2229-11-130', 'Hulskamp']
+
+R2R3MYB: !activates! TRY 
+bHLH: !activates! TRY 
+WD40: !activates! TRY 
+pTRY:GUS: !repressed by! TRY 
+p35S:GL1: !repressed by! TRY 
+p35S:GL3: !repressed by! TRY 
+p35S:TTG1: !repressed by! TRY 
+p35S:TRY: !represses! pTRY:GUS 
+p35S:CPC: !represses! pTRY:GUS 
+TRY: !auto-represses! TRY 
+CPC: !auto-represses! CPC

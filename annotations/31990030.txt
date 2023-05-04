@@ -1,0 +1,6 @@
+Leaf angle (LA) is a critical agronomic trait in maize, with more upright leaves allowing higher planting density, leading to more efficient light capture and higher yields. A few genes responsible for variation in LA have been identified by map-based cloning. In this study, we cloned maize ZmIBH1-1, which encodes a bHLH transcription factor with both a basic binding region and a helix-loop-helix domain, and the results of qRT-PCR showed that it is a negative regulator of LA. Histological analysis indicated that changes in LA were mainly caused by differential cell wall lignification and cell elongation in the ligular region. To determine the regulatory framework of ZmIBH1-1, we conducted RNA-seq and DNA affinity purification (DAP)-seq analyses. The combined results revealed 59 ZmIBH1-1-modulated target genes with annotations, and they were mainly related to the cell wall, cell development, and hormones. Based on the data, we propose a regulatory model for the control of plant architecture by ZmIBH1-1 in maize.
+
+ZmIBH1-1: !regulates! LA 
+LA: !influenced by! ZmIBH1-1 
+ZmIBH1-1: !modulates! target genes 
+target genes: !related to! cell wall, cell development, hormones

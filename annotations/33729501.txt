@@ -1,0 +1,8 @@
+The phytohormone auxin plays a pivotal role in floral meristem initiation and gynoecium development, but whether and how auxin controls floral organ identity remain largely unknown. Here, we found that auxin levels influence organ specification, and changes in auxin levels influence homeotic transformation between petals and stamens in rose (Rosa hybrida). The PIN-FORMED-LIKES (PILS) gene RhPILS1 governs auxin levels in floral buds during floral organogenesis. RhAUXIN RESPONSE FACTOR 18 (RhARF18), whose expression decreases with increasing auxin content, encodes a transcriptional repressor of the C-class gene RhAGAMOUS (RhAG), and controls stamen-petal organ specification in an auxin-dependent manner. Moreover, RhARF18 physically interacts with the histone deacetylase (HDA) RhHDA6. Silencing of RhHDA6 increases H3K9/K14 acetylation levels at the site adjacent to the RhARF18-binding site in the RhAG promoter and reduces petal number, indicating that RhARF18 might recruit RhHDA6 to the RhAG promoter to reinforce the repression of RhAG transcription. We propose a model for how auxin homeostasis controls floral organ identity via regulating transcription of RhAG.
+
+auxin: !influences! organ specification
+RhPILS1: !governs! auxin levels
+RhARF18: !encodes! transcriptional repressor
+RhARF18: !interacts with! RhHDA6
+RhARF18: !represses! RhAG
+RhHDA6: !increases! H3K9/K14 acetylation

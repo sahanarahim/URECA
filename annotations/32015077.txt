@@ -1,0 +1,8 @@
+Plant growth largely depends on the maintenance of adequate intracellular levels of potassium (K<sup>+</sup>). The families of 10 Calcineurin B-Like (CBL) calcium sensors and 26 CBL-Interacting Protein Kinases (CIPKs) of Arabidopsis (<i>Arabidopsis thaliana</i>) decode the calcium signals elicited by environmental inputs to regulate different ion channels and transporters involved in the control of K<sup>+</sup> fluxes by phosphorylation-dependent and -independent events. However, the detailed molecular mechanisms governing target specificity require investigation. Here, we show that the physical interaction between CIPK23 and the noncanonical ankyrin domain in the cytosolic side of the inward-rectifier K<sup>+</sup> channel AKT1 regulates kinase docking and channel activation. Point mutations on this domain specifically alter binding to CIPK23, enhancing or impairing the ability of CIPK23 to regulate channel activity. Our data demonstrate the relevance of this protein-protein interaction that contributes to the formation of a complex between CIPK23/CBL1 and AKT1 in the membrane for the proper regulation of K<sup>+</sup> transport.
+
+CBL: !interacts with! CIPKs 
+CIPK23: !interacts with! AKT1 
+AKT1: !binds to! CIPK23 
+CIPK23/CBL1: !forms complex with! AKT1 
+Mutations: !alter binding of! CIPK23 
+Complex: !regulates! K<sup>+</sup> transport

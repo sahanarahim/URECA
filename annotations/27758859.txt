@@ -1,0 +1,14 @@
+Glycero-3-phosphocholine (GPC), the product of the complete deacylation of phosphatidylcholine (PC), was long thought to not be a substrate for reacylation. However, it was recently shown that cell-free extracts from yeast and plants could acylate GPC with acyl groups from acyl-CoA. By screening enzyme activities of extracts derived from a yeast knock-out collection, we were able to identify and clone the yeast gene (GPC1) encoding the enzyme, named glycerophosphocholine acyltransferase (GPCAT). By homology search, we also identified and cloned GPCAT genes from three plant species. All enzymes utilize acyl-CoA to acylate GPC, forming lyso-PC, and they show broad acyl specificities in both yeast and plants. In addition to acyl-CoA, GPCAT efficiently utilizes LPC and lysophosphatidylethanolamine as acyl donors in the acylation of GPC. GPCAT homologues were found in the major eukaryotic organism groups but not in prokaryotes or chordates. The enzyme forms its own protein family and does not contain any of the acyl binding or lipase motifs that are present in other studied acyltransferases and transacylases. In vivo labeling studies confirm a role for Gpc1p in PC biosynthesis in yeast. It is postulated that GPCATs contribute to the maintenance of PC homeostasis and also have specific functions in acyl editing of PC (e.g. in transferring acyl groups modified at the sn-2 position of PC to the sn-1 position of this molecule in plant cells).
+
+GPCAT: !utilizes! acyl-CoA 
+GPCAT: !forms! lyso-PC 
+GPCAT: !utilizes! LPC 
+GPCAT: !utilizes! lysophosphatidylethanolamine 
+GPCAT: !found in! eukaryotic organism groups 
+GPCAT: !not found in! prokaryotes 
+GPCAT: !not found in! chordates 
+GPCAT: !forms own protein family 
+GPCAT: !does not contain! acyl binding motifs 
+GPCAT: !does not contain! lipase motifs 
+GPCAT: !contributes to! PC homeostasis 
+GPCAT: !has specific functions in! acyl editing of PC

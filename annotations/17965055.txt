@@ -1,0 +1,8 @@
+['17965055', 'Early seed development of sexually reproducing plants requires both maternal and  paternal genomes but is prominently maternally influenced. A novel gametophytic  maternal-effect mutant defective in early embryo and endosperm development,  glauce (glc), has been isolated from a population of Arabidopsis Ds transposon  insertion lines. The glc mutation results from a deletion at the Ds insertion  site, and the molecular identity of GLC is not known. glc embryos can develop up  to the globular stage in the absence of endosperm and glc central cells appear to  be unfertilized. glc suppresses autonomous endosperm development observed in the  fertilization-independent seed (fis) class mutants. glc is also epistatic to mea,  one of the fis class mutants, in fertilized seeds, and is essential for the  biparental embryonic expression of PHE1, a repressed downstream target of MEA. In  addition, maternal GLC function is required for the paternal embryonic expression  of the ribosome protein gene RPS5a and the AMP deaminase gene FAC1, both of which  are essential for early embryo and endosperm development. These results indicate  that factors derived from the female gametophyte activate a subset of the  paternal genome of fertilized seeds.', '2007 Nov', 'Development', '10.1242/dev.007310', 'Sundaresan']
+
+gene: GLC !affects! early embryo and endosperm development 
+gene: GLC !suppresses! autonomous endosperm development 
+gene: GLC !epistatic to! MEA 
+gene: GLC !essential for! biparental embryonic expression of PHE1 
+gene: GLC !required for! paternal embryonic expression of RPS5a 
+gene: GLC !required for! paternal embryonic expression of FAC1

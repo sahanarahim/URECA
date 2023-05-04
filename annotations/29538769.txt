@@ -1,0 +1,12 @@
+The importance of a plastidial soluble inorganic pyrophosphatase (psPPase) and an ATP/ADP translocator (NTT) for starch composition and tuber formation in potato (Solanum tuberosum) was evaluated by individual and simultaneous down-regulation of the corresponding endogenous genes. Starch and amylose content of the transgenic lines were considerably lower, and granule size substantially smaller, with down-regulation of StpsPPase generating the most pronounced effects. Single-gene down-regulation of either StpsPPase or StNTT resulted in increased tuber numbers per plant and higher fresh weight yield. In contrast, when both genes were inhibited simultaneously, some lines developed only a few, small and distorted tubers. Analysis of metabolites revealed altered amounts of sugar intermediates, and a substantial increase in ADP-glucose content of the StpsPPase lines. Increased amounts of intermediates of vitamin C biosynthesis were also observed. This study suggests that hydrolysis of pyrophosphate (PPi) by action of a psPPase is vital for functional starch accumulation in potato tubers and that no additional mechanism for consuming, hydrolysing, or exporting PPi exists in the studied tissue. Additionally, it demonstrates that functional PPi hydrolysis in combination with efficient ATP import is essential for tuber formation and development.
+
+StpsPPase: !affects! Starch composition 
+StpsPPase: !affects! Tuber formation 
+StpsPPase: !enhances! Tuber numbers 
+StpsPPase: !enhances! Fresh weight yield 
+StNTT: !affects! Starch composition 
+StNTT: !affects! Tuber formation 
+StNTT: !enhances! Tuber numbers 
+StNTT: !enhances! Fresh weight yield 
+StpsPPase: !hydrolyses! PPi 
+StNTT: !imports! ATP

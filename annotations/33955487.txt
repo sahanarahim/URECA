@@ -1,0 +1,8 @@
+The leaf vasculature plays a key role in solute translocation. Veins consist of at least seven distinct cell types, with specific roles in transport, metabolism, and signaling. Little is known about leaf vascular cells, in particular the phloem parenchyma (PP). PP effluxes sucrose into the apoplasm as a basis for phloem loading, yet PP has been characterized only microscopically. Here, we enriched vascular cells from Arabidopsis leaves to generate a single-cell transcriptome atlas of leaf vasculature. We identified at least 19 cell clusters, encompassing epidermis, guard cells, hydathodes, mesophyll, and all vascular cell types, and used metabolic pathway analysis to define their roles. Clusters comprising PP cells were enriched for transporters, including SWEET11 and SWEET12 sucrose and UmamiT amino acid efflux carriers. We provide evidence that PP development occurs independently from ALTERED PHLOEM DEVELOPMENT, a transcription factor required for phloem differentiation. PP cells have a unique pattern of amino acid metabolism activity distinct from companion cells (CCs), explaining differential distribution/metabolism of amino acids in veins. The kinship relation of the vascular clusters is strikingly similar to the vein morphology, except for a clear separation of CC from the other vascular cells including PP. In summary, our single-cell RNA-sequencing analysis provides a wide range of information into the leaf vasculature and the role and relationship of the leaf cell types.
+
+SWEET11: !effluxes! Sucrose 
+SWEET12: !effluxes! Sucrose 
+UmamiT: !effluxes! Amino Acids 
+ALTERED PHLOEM DEVELOPMENT: !regulates! PP Development 
+PP Cells: !metabolize! Amino Acids 
+CCs: !separate from! Other Vascular Cells

@@ -1,0 +1,9 @@
+LINC (linker of nucleoskeleton and cytoskeleton) complexes play an essential role in nuclear migration by connecting the nucleus to the cytoskeleton and/or motor proteins. Plant LINC complexes have recently been identified in Arabidopsis thaliana, with the inner nuclear membrane SUN and outer nuclear membrane WIP proteins comprising the first identified complex. A recent study identified a nuclear movement defect in Arabidopsis pollen vegetative nuclei linked to the outer nuclear envelope WIP and WIT proteins. However, the role that SUN proteins may play in pollen nuclear migration has yet to be addressed. To explore this question, a SUN2 lumenal domain that was targeted to the ER specifically in pollen was over-expressed. It is shown that the ER-targeted SUN2 lumenal domain was able to displace WIP and WIT proteins from the pollen vegetative nuclear envelope. Expression of this dominant-negative transgene led to impaired VN mobility, impaired pollen tube guidance, and defective pollen tube reception. The observed pollen defects are similar to phenotypes observed in a wip1-1 wip2-1 wip3-1 wit1-1 wit2-1 mutant. It is also shown that these defects were dependent on the KASH-binding function of the SUN2 lumenal domain. These data support a model where LINC complexes formed by SUN, WIP, and WIT at the VNE are responsible for VN migration and suggest an important function of SUN, WIP, and WIT in pollen tube guidance and reception.
+
+SUN: !connects! nucleus to cytoskeleton
+WIP: !connects! nucleus to cytoskeleton
+WIT: !connects! nucleus to cytoskeleton
+SUN2: !displaces! WIP and WIT
+KASH: !binds! SUN2 lumenal domain
+SUN/WIP/WIT: !responsible for! VN migration
+SUN/WIP/WIT: !important for! pollen tube guidance and reception

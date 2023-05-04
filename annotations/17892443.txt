@@ -1,0 +1,8 @@
+Embryogenesis in Arabidopsis results in mature, osmotolerant embryos within dry seeds. Late-embryogenesis programs involve the transcription factors ABI3 and ABI5, which are necessary for osmotolerance. ABI3 and ABI5 are degraded in seeds initiating germination, abolishing their protected state. However, during an early stage of germination, strong osmotic stresses, or ABA exposure maintain ABI3 and ABI5 expression, leading to growth arrest, and osmotolerance. Mild stress stimuli delay ABI3 and ABI5 disappearance, retarding germination but not preventing eventual closure of embryogenesis programs. PICKLE (PKL), a putative chromatin modifier, is necessary to repress ABI3 and ABI5 expression during germination in response to ABA. We show that pkl mutants display persistent high expression of ABI3 and ABI5 upon ABA stimulation. In turn, maintenance of ABI5 expression leads to hypersensitive germination responses to ABA in pkl seeds. We provide evidence that ABI3 and ABI5 are less associated with repressed chromatin in pkl mutants. Our results provide evidence that PKL-dependent repression of embryonic gene expression extends to late-embryogenesis genes and is associated with changes in chromatin. We suggest that effective closure of embryogenesis omostolerance programs during germination prevents excessive plant reactions to stress.
+
+ABI3: !repressed by! PKL
+ABI5: !repressed by! PKL
+PKL: !represses! ABI3
+PKL: !represses! ABI5
+ABA: !maintains expression of! ABI3
+ABA: !maintains expression of! ABI5

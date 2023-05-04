@@ -1,0 +1,6 @@
+['11549763', 'Chloroplasts are a major destination of protein traffic within leaf cells.  Protein import into chloroplasts is mediated by a set of translocon complexes at  the chloroplast envelope. Current data indicate that the expression of translocon  genes is regulated in a tissue-specific manner, possibly to accommodate the  higher import demand of chloroplasts in leaves and the lower demand of plastids  in other tissues. We have designed a transgene-based positive screen to isolate  mutants disrupted in protein import into plastids. The first locus we isolated,  CIA2, encodes a protein containing a motif conserved within the CCT family of  transcription factors. Biochemical analysis indicates that CIA2 is responsible  for specific upregulation of the translocon genes atToc33 and atToc75 in leaves.  Identification of CIA2 provides new insights into the tissue-specific regulation  of translocon gene expression.', '2001 Sep', 'Plant Cell', '10.1105/tpc.010148', 'Li']
+
+atToc33: !upregulated by! CIA2 
+atToc75: !upregulated by! CIA2 
+CIA2: !regulates! translocon genes 
+translocon genes: !expressed in! tissue-specific manner

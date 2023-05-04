@@ -1,0 +1,10 @@
+During meiosis, the formation of crossovers (COs) generates genetic variation and provides physical links that are essential for accurate chromosome segregation. COs occur in the context of a proteinaceous chromosome axis. The transcriptomes and proteomes of anthers and meiocytes comprise several thousand genes and proteins, but because of the level of complexity relatively few have been functionally characterized. Our understanding of the physical and functional interactions between meiotic proteins is also limited. Here we use affinity proteomics to analyse the proteins that are associated with the meiotic chromosome axis protein, ASY1, in Brassica oleracea anthers and meiocytes. We show that during prophase I ASY1 and its interacting partner, ASY3, are extensively phosphorylated, and we precisely assign phosphorylation sites. We identify 589 proteins that co-immunoprecipitate with ASY1. These correspond to 492 Arabidopsis orthologues, over 90% of which form a coherent protein-protein interaction (PPI) network containing known and candidate meiotic proteins, including proteins more usually associated with other cellular processes such as DNA replication and proteolysis. Mutant analysis confirms that affinity proteomics is a viable strategy for revealing previously unknown meiotic proteins, and we show how the PPI network can be used to prioritise candidates for analysis. Finally, we identify another axis-associated protein with a role in meiotic recombination. Data are available via ProteomeXchange with identifier PXD006042.
+
+ASY1: !interacts with! ASY3
+ASY1: !co-immunoprecipitates with! 589 proteins
+589 proteins: !correspond to! 492 Arabidopsis orthologues
+492 Arabidopsis orthologues: !form! PPI network
+PPI network: !contains! known and candidate meiotic proteins
+mutant analysis: !confirms! affinity proteomics strategy
+PPI network: !used to! prioritize candidates for analysis
+axis-associated protein: !has role in! meiotic recombination

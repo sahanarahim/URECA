@@ -1,0 +1,12 @@
+Ovule primordia formation is a complex developmental process with a strong impact on the production of seeds. In Arabidopsis this process is controlled by a gene network, including components of the signalling pathways of auxin, brassinosteroids (BRs) and cytokinins. Recently, we have shown that gibberellins (GAs) also play an important role in ovule primordia initiation, inhibiting ovule formation in both Arabidopsis and tomato. Here we reveal that BRs also participate in the control of ovule initiation in tomato, by promoting an increase on ovule primordia formation. Moreover, molecular and genetic analyses of the co-regulation by GAs and BRs of the control of ovule initiation indicate that two different mechanisms occur in tomato and Arabidopsis. In tomato, GAs act downstream of BRs. BRs regulate ovule number through the downregulation of GA biosynthesis, which provokes stabilization of DELLA proteins that will finally promote ovule primordia initiation. In contrast, in Arabidopsis both GAs and BRs regulate ovule number independently of the activity levels of the other hormone. Taken together, our data strongly suggest that different molecular mechanisms could operate in different plant species to regulate identical developmental processes even, as for ovule primordia initiation, if the same set of hormones trigger similar responses, adding a new level of complexity.
+
+GAs: !inhibit! ovule formation 
+BRs: !promote! ovule primordia formation 
+GAs: !downregulate! GA biosynthesis 
+GA biosynthesis: !stabilizes! DELLA proteins 
+DELLA proteins: !promote! ovule primordia initiation 
+GAs: !regulate! ovule number 
+BRs: !regulate! ovule number 
+GAs: !act downstream of! BRs 
+GAs: !independently regulate! ovule number 
+BRs: !independently regulate! ovule number

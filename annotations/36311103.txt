@@ -1,0 +1,17 @@
+Cultivating the dedicated biomass crop <i>Miscanthus</i> on marginal land is a sustainable means of avoiding competition with food crops for arable land. A large proportion of global marginal land is saline-alkaline; however, little is known about the performance of <i>Miscanthus</i> in saline-alkaline soil. In this study, <i>Miscanthus</i> × <i>giganteus</i> and ten other <i>Miscanthus</i> hybrids grown in the Yellow River Delta were exposed to low and saline-alkaline soils during the 2016-2018 growing season to evaluate the agronomic traits, biomass quality and the potential productive index of eleven <i>Miscanthus</i> genotypes. Plant biomass, plant height, and tiller number significantly decreased in high saline-alkaline soil. In particular, the average plant biomass of ten <i>Miscanthus</i> hybrids in low saline-alkaline soil in 2017 and 2018 were 0.21 and 2.25 kg per plant, respectively, and in high saline-alkaline soil were 0.13 and 0.65 kg per plant, respectively. Cell wall, cellulose, and nitrogen content of all genotypes significantly decreased in high saline-alkaline soil, while hemicellulose, ash, sodium, potassium, magnesium, and calcium content significantly increased. However, high saline-alkaline soil had no observable impact on lignin content of <i>Miscanthus</i> biomass. The effect of high saline-alkaline on biomass quality parameters could provide important information for the application of <i>Miscanthus</i> biomass in saline-alkaline soil. The selected genotypes (A5) could be considered as breeding materials in saline-alkaline soil.
+
+genotype: !affects! biomass
+soil: !affects! plant biomass
+soil: !affects! plant height
+soil: !affects! tiller number
+soil: !affects! cell wall
+soil: !affects! cellulose
+soil: !affects! nitrogen content
+soil: !enhances! hemicellulose
+soil: !enhances! ash
+soil: !enhances! sodium
+soil: !enhances! potassium
+soil: !enhances! magnesium
+soil: !enhances! calcium
+soil: !has no observable impact on! lignin content
+A5 genotype: !could be considered as! breeding material

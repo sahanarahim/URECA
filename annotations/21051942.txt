@@ -1,0 +1,8 @@
+Extensive progress has been made in the last years in unraveling molecular mechanisms of plant-pathogen interactions. Although the main research focus lies on defense and counter-defense mechanisms, some plant-pathogen interactions have been characterized on the physiological level. Only a few studies have focused on the nutrient acquisition strategies of phytopathogens. In a previous study, we analyzed how local infection of maize leaves by the tumor-inducing fungus Ustilago maydis affects whole plant physiology and were able to show that carbon and nitrogen assimilates are rerouted to the tumor. While the sink strength of infected emerging young leaves increases with tumor development, systemic source leaves exhibit elevated export of assimilates and delayed senescence to compensate for the altered sink-source balance. Here we provide new experimental data on the metabolization of these assimilates in the tumor and propose a model on their utilization in the infected tissue.
+
+Gene: !affects! Process 
+Process: !involves! Assimilates 
+Assimilates: !rerouted to! Tumor 
+Tumor: !metabolizes! Assimilates 
+Sink Strength: !increases with! Tumor Development 
+Source Leaves: !exhibit! Elevated Export of Assimilates

@@ -1,0 +1,12 @@
+The spindle assembly checkpoint (SAC) is a refined surveillance mechanism which ensures that chromosomes undergoing mitosis do not segregate until they are properly attached to the spindle microtubules (MT). The SAC has been extensively studied in metazoans and yeast, but little is known about its role in plants. We identified proteins interacting with a MT-associated protein MAP65-3, which plays a critical role in organising mitotic MT arrays, and carried out a functional analysis of previously and newly identified SAC components. We show that Arabidopsis SAC proteins BUB3.1, MAD2, BUBR1/MAD3s and BRK1 interact with each other and with MAP65-3. We found that two BUBR1/MAD3s interacted specifically at centromeres. When stably expressed in Arabidopsis, BRK1 localised to the kinetochores during all stages of the mitotic cell cycle. Early in mitosis, BUB3.1 and BUBR1/MAD3.1 localise to the mitotic spindle, where MAP65-3 organises spindle MTs. A double-knockout mad3.1 mad3.2 mutant presented spindle MT abnormalities, chromosome misalignments on the metaphase plate and the production of lagging chromosomes and micronuclei during mitosis. We conclude that BRK1 and BUBR1/MAD3-related proteins play a key role in ensuring faithful chromosome segregation during mitosis and that their interaction with MAP65-3 may be important for the regulation of MT-chromosome attachment.
+
+BUB3.1: !interacts with! MAD2
+BUBR1/MAD3s: !interacts with! MAD2
+BRK1: !interacts with! MAD2
+BRK1: !localizes to! kinetochores
+BUB3.1: !localizes to! mitotic spindle
+BUBR1/MAD3.1: !localizes to! mitotic spindle
+MAP65-3: !organises! spindle MTs
+BRK1: !interacts with! MAP65-3
+BUBR1/MAD3s: !interacts with! MAP65-3
+mad3.1 mad3.2: !produces! lagging chromosomes

@@ -1,0 +1,10 @@
+Climate modelling studies predict that the rain forests of the Eastern Amazon basin are likely to experience reductions in rainfall of up to 50% over the next 50-100 years. Efforts to predict the effects of changing climate, especially drought stress, on forest gas exchange are currently limited by uncertainty about the mechanism that controls stomatal closure in response to low soil moisture. At a through-fall exclusion experiment in Eastern Amazonia where water was experimentally excluded from the soil, we tested the hypothesis that plants are isohydric, that is, when water is scarce, the stomata act to prevent leaf water potential from dropping below a critical threshold level. We made diurnal measurements of leaf water potential (psi 1), stomatal conductance (g(s)), sap flow and stem water potential (psi stem) in the wet and dry seasons. We compared the data with the predictions of the soil-plant-atmosphere (SPA) model, which embeds the isohydric hypothesis within its stomatal conductance algorithm. The model inputs for meteorology, leaf area index (LAI), soil water potential and soil-to-leaf hydraulic resistance (R) were altered between seasons in accordance with measured values. No optimization parameters were used to adjust the model. This 'mechanistic' model of stomatal function was able to explain the individual tree-level seasonal changes in water relations (r2 = 0.85, 0.90 and 0.58 for psi 1, sap flow and g(s), respectively). The model indicated that the measured increase in R was the dominant cause of restricted water use during the dry season, resulting in a modelled restriction of sap flow four times greater than that caused by reduced soil water potential. Higher resistance during the dry season resulted from an increase in below-ground resistance (including root and soil-to-root resistance) to water flow.
+
+psi 1: !affected by! SPA model
+g(s): !affected by! SPA model
+sap flow: !affected by! SPA model
+R: !increased by! dry season
+psi stem: !affected by! SPA model
+LAI: !input to! SPA model
+soil water potential: !input to! SPA model
+below-ground resistance: !increased by! dry season

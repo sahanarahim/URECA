@@ -1,0 +1,8 @@
+Farmers require accurate yield estimates, since they are key to predicting the volume of stock needed at supermarkets and to organizing harvesting operations. In many cases, the yield is visually estimated by the crop producer, but this approach is not accurate or time efficient. This study presents a rapid sensing and yield estimation scheme using off-the-shelf aerial imagery and deep learning. A Region-Convolutional Neural Network was trained to detect and count the number of apple fruit on individual trees located on the orthomosaic built from images taken by the unmanned aerial vehicle (UAV). The results obtained with the proposed approach were compared with apple counts made <i>in situ</i> by an agrotechnician, and an <i>R<sup>2</sup></i> value of 0.86 was acquired (MAE: 10.35 and RMSE: 13.56). As only parts of the tree fruits were visible in the top-view images, linear regression was used to estimate the number of total apples on each tree. An <i>R<sup>2</sup></i> value of 0.80 (MAE: 128.56 and RMSE: 130.56) was obtained. With the number of fruits detected and tree coordinates two shapefile using Python script in Google Colab were generated. With the previous information two yield maps were displayed: one with information per tree and another with information per tree row. We are confident that these results will help to maximize the crop producers' outputs <i>via</i> optimized orchard management.
+
+UAV: !takes! Images 
+Region-Convolutional Neural Network: !detects and counts! Apple Fruit 
+Agrotechnician: !makes in situ! Apple Counts 
+Linear Regression: !estimates! Total Apples on Each Tree 
+Python Script: !generates! Shapefiles 
+Yield Maps: !display! Information per Tree/Tree Row

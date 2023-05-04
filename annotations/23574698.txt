@@ -1,0 +1,8 @@
+Metabolomics analysis tools can provide quantitative information on the concentration of metabolites in an organism. In this paper, we propose the minimum pathway model generator tool for simulating the dynamics of metabolite concentrations (SS-mPMG) and a tool for parameter estimation by genetic algorithm (SS-GA). SS-mPMG can extract a subsystem of the metabolic network from the genome-scale pathway maps to reduce the complexity of the simulation model and automatically construct a dynamic simulator to evaluate the experimentally observed behavior of metabolites. Using this tool, we show that stochastic simulation can reproduce experimentally observed dynamics of amino acid biosynthesis in Arabidopsis thaliana. In this simulation, SS-mPMG extracts the metabolic network subsystem from published databases. The parameters needed for the simulation are determined using a genetic algorithm to fit the simulation results to the experimental data. We expect that SS-mPMG and SS-GA will help researchers to create relevant metabolic networks and carry out simulations of metabolic reactions derived from metabolomics data.
+
+SS-mPMG: !extracts! metabolic network subsystem 
+SS-GA: !estimates! parameters 
+metabolic network: !simulates! dynamics of metabolites 
+genome-scale pathway maps: !reduces complexity of! simulation model 
+stochastic simulation: !reproduces! experimentally observed dynamics 
+genetic algorithm: !fits! simulation results to experimental data

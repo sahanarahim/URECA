@@ -1,0 +1,8 @@
+The heading date and effective tiller percentage are important traits in rice, and they directly affect plant architecture and yield. Both traits are related to the ratio of the panicle number to the maximum tiller number, referred to as the panicle ratio (PR). In this study, an automatic PR estimation model (PRNet) based on a deep convolutional neural network was developed. Ultra-high-definition unmanned aerial vehicle (UAV) images were collected from cultivated rice varieties planted in 2384 experimental plots in 2019 and 2020 and in a large field in 2021. The determination coefficient between estimated PR and ground-measured PR reached 0.935, and the root mean square error values for the estimations of the heading date and effective tiller percentage were 0.687 d and 4.84%, respectively. Based on the analysis of the results, various factors affecting PR estimation and strategies for improving PR estimation accuracy were investigated. The satisfactory results obtained in this study demonstrate the feasibility of using UAVs and deep learning techniques to replace ground-based manual methods to accurately extract phenotypic information of crop micro targets (such as grains per panicle, panicle flowering, etc.) for rice and potentially for other cereal crops in future research.
+
+UAV: !collects! Images 
+Images: !used to develop! PRNet 
+PRNet: !estimates! PR 
+PR: !related to! Heading Date & Effective Tiller Percentage 
+Heading Date & Effective Tiller Percentage: !affect! Plant Architecture & Yield 
+UAV & Deep Learning Techniques: !replace! Ground-based Manual Methods

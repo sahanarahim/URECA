@@ -1,0 +1,8 @@
+Unlike most ancient microRNAs, which conservatively target homologous genes across species, microRNA827 (miR827) targets two different types of SPX (SYG1/PHO81/XPR1)-domain-containing genes, NITROGEN LIMITATION ADAPTATION (NLA) and PHOSPHATE TRANSPORTER 5 (PHT5), in Arabidopsis thaliana and Oryza sativa to regulate phosphate (Pi) transport and storage, respectively. However, how miR827 shifted its target preference and its evolutionary history are unknown. Based on target prediction analysis, we found that in most angiosperms, miR827 conservatively targets PHT5 homologs, but in Brassicaceae and Cleomaceae it preferentially targets NLA homologs, and we provide evidence for the transition of target preference during Brassicales evolution. Intriguingly, we found a lineage-specific loss of the miR827-regulatory module in legumes. Analysis of miR827-mediated cleavage efficiency and the expression of PHT5 in A. thaliana indicated that accumulation of mutations in the target site and the exclusion of the target site by alternative transcriptional initiation eliminated PHT5 targeting by miR827. Here, we identified a transition of miR827 target preference during plant evolution and revealed the uniqueness of miR827-mediated regulation among conserved plant miRNAs. Despite the change in its target preference, upregulation of miR827 by Pi starvation and its role in regulating cellular Pi homeostasis were retained.
+
+miR827: !targets! NLA/PHT5 
+NLA/PHT5: !targeted by! miR827 
+Brassicales: !preferentially targets! NLA 
+Legumes: !loses! miR827-regulatory module 
+Target site: !excluded by! alternative transcriptional initiation 
+Pi starvation: !upregulates! miR827

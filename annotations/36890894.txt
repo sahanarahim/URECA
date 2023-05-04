@@ -1,0 +1,11 @@
+CRISPR/Cas9-based genome editing system is a powerful tool for plant genetic improvement. However, the variable efficiency of guide RNA(s) (gRNA) represents a key limiting factor that hampers the broad application of the CRISPR/Cas9 system in crop improvement. Here, we employed the <i>Agrobacterium</i>-mediated transient assays to evaluate the effectiveness of gRNAs for editing genes in <i>Nicotiana benthamiana</i> and soybean. We designed a facile screening system based on indels that can be introduced by CRISPR/Cas9-mediated gene editing. A gRNA binding sequence (23 nucleotides) was inserted into the open reading frame of yellow fluorescent protein (YFP) gene (gRNA-YFP), which disrupted the YFP reading frame and results in no fluorescent signal when it was expressed in plant cells. Transiently co-expression of Cas9 and a gRNA targeting the gRNA-YFP gene in plant cells could restore the YFP reading frame and recover the YFP signals. We evaluated five gRNAs targeting <i>Nicotiana benthamiana</i> and soybean genes and confirmed the reliability of the gRNA screening system. The effective gRNAs targeting <i>NbEDS1, NbWRKY70</i>, <i>GmKTI1</i>, and <i>GmKTI3</i> had been used to generate transgenic plants and resulted in expected mutations on each gene. While a gRNA targeting <i>NbNDR1</i> was confirmed to be ineffective in transient assays. This gRNA indeed failed to trigger target gene mutations in stable transgenic plants. Thus, this new transient assay system can be used to validate the effectiveness of gRNAs before generating stable transgenic plants.
+
+gRNA: !targets! NbEDS1
+gRNA: !targets! NbWRKY70
+gRNA: !targets! GmKTI1
+gRNA: !targets! GmKTI3
+gRNA: !targets! NbNDR1
+CRISPR/Cas9: !edits! genes
+YFP gene: !disrupted by! gRNA-YFP
+Cas9: !co-expressed with! gRNA
+gRNA: !validated by! transient assay system

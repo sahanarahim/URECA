@@ -1,0 +1,18 @@
+The phytohormone abscisic acid (ABA) is a key regulator of plant growth and development as well as plant responses to situations of decreased water availability. Protein phosphatases type 2C (PP2Cs) from group A, which includes the ABI1/HAB1 and PP2CA branches, are key negative regulators of ABA signaling. Specifically, HAB1, ABI1, ABI2, and PP2CA have been shown to affect both seed and vegetative responses to ABA. To further understand their contribution to ABA signaling and to unravel possible genetic interactions and functional redundancy among them, we have generated different combinations of double and triple mutants impaired in these PP2Cs. Interestingly, hab1-1pp2ca-1 and abi1-2pp2ca-1 double mutants showed reduced water loss and enhanced resistance to drought stress, which further supports the role of PP2CA in vegetative responses to ABA. Two triple hab1-1abi1-2abi2-2 and hab1-1abi1-2pp2ca-1 mutants were generated, which showed an extreme response to exogenous ABA, impaired growth, and partial constitutive response to endogenous ABA. Thus, transcriptomic analysis revealed a partial up-regulation/down-regulation of a subset of ABA-responsive genes in both triple mutants in the absence of exogenous ABA. Comparison of ABA responses in the different pp2c mutants showed that a progressive increase in ABA sensitivity could be obtained through combined inactivation of these PP2Cs. These results indicate that ABA response is finely tuned by the integrated action of these genes, which is required to prevent a constitutive response to endogenous ABA that might have a deleterious effect on growth and development in the absence of environmental stress.
+
+ABA: !regulates! Plant growth/development
+PP2Cs: !regulate! ABA signaling
+HAB1: !affects! Seed/vegetative responses to ABA
+ABI1: !affects! Seed/vegetative responses to ABA
+ABI2: !affects! Seed/vegetative responses to ABA
+PP2CA: !affects! Seed/vegetative responses to ABA
+HAB1: !enhances! Resistance to drought stress
+ABI1: !enhances! Resistance to drought stress
+PP2CA: !enhances! Resistance to drought stress
+HAB1: !interacts with! ABI1
+ABI1: !interacts with! ABI2
+ABI2: !interacts with! PP2CA
+HAB1: !synthesizes! Extreme response to exogenous ABA
+ABI1: !synthesizes! Extreme response to exogenous ABA
+ABI2: !synthesizes! Extreme response to exogenous ABA
+PP2CA: !synthesizes! Extreme response to exogenous ABA

@@ -1,0 +1,10 @@
+Crown roots are essential for plants to obtain water and nutrients, perceive environmental changes, and synthesize plant hormones. In this study, we identified and characterized <i>short crown root 8</i> (<i>scr8</i>), which exhibited a defective phenotype of crown root and vegetative development. Temperature treatment showed that <i>scr8</i> was sensitive to temperature and that the mutant phenotypes were rescued when grown under low temperature condition (20 °C). Histological and EdU staining analysis showed that the crown root formation was hampered and that the root meristem activity was decreased in <i>scr8</i>. With map-based cloning strategy, the <i>SCR8</i> gene was fine-mapped to an interval of 126.4 kb on chromosome 8. Sequencing analysis revealed that the sequence variations were only found in <i>LOC_Os08g14850</i>, which encodes a CC-NBS-LRR protein. Expression and inoculation test analysis showed that the expression level of <i>LOC_Os08g14850</i> was significantly decreased under low temperature (20 °C) and that the resistance to <i>Xanthomonas oryzae pv. Oryzae</i> (<i>Xoo</i>) was enhanced in <i>scr8</i>. These results indicated that <i>LOC_Os08g14850</i> may be the candidate of <i>SCR8</i> and that its mutation activated the plant defense response, resulting in a crown root growth defect.
+
+scr8: !exhibits! defective phenotype
+temperature: !rescues! scr8
+scr8: !hampers! crown root formation
+scr8: !decreases! root meristem activity
+LOC_Os08g14850: !encodes! CC-NBS-LRR protein
+LOC_Os08g14850: !decreases! expression level
+scr8: !enhances! resistance to Xoo
+LOC_Os08g14850: !activates! plant defense response

@@ -1,0 +1,12 @@
+*Here, we investigated the role of ethylene in high nitrate-induced change in root development in Arabidopsis thaliana using wild types and mutants defective in ethylene signaling (etr1, ein2) and nitrate transporters (chl1, nrt2.1). *The length and number of visible lateral roots (LRs) were reduced upon exposure of wild-type seedlings grown on low (0.1 mM) to high nitrate concentration (10 mM). There was a rapid burst of ethylene production upon exposure to high nitrate concentration. *Ethylene synthesis antagonists, cobalt (Co(2+)) and aminoethoxyvinylglycine (AVG), mitigated the inhibitory effect of high nitrate concentration on lateral root growth. The etr1-3 and ein2-1 mutants exhibited less reductions in LR length and number than wild-type plants in response to high nitrate concentration. Expression of nitrate transporters AtNRT1.1 and AtNRT2.1 was upregulated and downregulated in response to high nitrate concentration, respectively. A similar upregulation and downregulation of AtNRT1.1 and AtNRT2.1 was observed by ethylene synthesis precursor aminocyclopropane carboxylic acid (ACC) and AVG in low and high nitrate concentration, respectively. Expression of AtNRT1.1 and AtNRT2.1 became insensitive to high nitrate concentration in etr1-3 and ein2-1 plants. *These findings highlight the regulatory role that ethylene plays in high nitrate concentration-regulated LR development by modulating nitrate transporters.
+
+ethylene: !synthesizes! ACC
+nitrate concentration: !affects! LR length/number
+Co(2+): !mitigates! inhibitory effect of nitrate
+AVG: !mitigates! inhibitory effect of nitrate
+etr1-3: !exhibits less reduction! LR length/number
+ein2-1: !exhibits less reduction! LR length/number
+AtNRT1.1: !upregulated by! high nitrate/ACC
+AtNRT2.1: !downregulated by! high nitrate/AVG
+AtNRT1.1/2.1: !insensitive to! high nitrate in etr1-3/ein2-1
+ethylene: !regulates! high nitrate-regulated LR development

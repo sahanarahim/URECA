@@ -1,0 +1,10 @@
+UDP-glucuronic acid (UDP-GlcA) is the precursor of many plant cell wall polysaccharides and is required for production of seed mucilage. Following synthesis in the cytosol, it is transported into the lumen of the Golgi apparatus, where it is converted to UDP-galacturonic acid (UDP-GalA), UDP-arabinose, and UDP-xylose. To identify the Golgi-localized UDP-GlcA transporter, we screened <i>Arabidopsis thaliana</i> mutants in genes coding for putative nucleotide sugar transporters for altered seed mucilage, a structure rich in the GalA-containing polysaccharide rhamnogalacturonan I. As a result, we identified <i>UUAT1</i>, which encodes a Golgi-localized protein that transports UDP-GlcA and UDP-GalA in vitro. The seed coat of <i>uuat1</i> mutants had less GalA, rhamnose, and xylose in the soluble mucilage, and the distal cell walls had decreased arabinan content. Cell walls of other organs and cells had lower arabinose levels in roots and pollen tubes, but no differences were observed in GalA or xylose contents. Furthermore, the GlcA content of glucuronoxylan in the stem was not affected in the mutant. Interestingly, the degree of homogalacturonan methylation increased in <i>uuat1</i> These results suggest that this UDP-GlcA transporter plays a key role defining the seed mucilage sugar composition and that its absence produces pleiotropic effects in this component of the plant extracellular matrix.
+
+UDP-GlcA: !synthesizes! seed mucilage
+UUAT1: !transports! UDP-GlcA 
+UUAT1: !transports! UDP-GalA
+uuat1: !decreases! GalA 
+uuat1: !decreases! rhamnose 
+uuat1: !decreases! xylose 
+uuat1: !decreases! arabinan 
+uuat1: !increases! homogalacturonan methylation

@@ -1,0 +1,14 @@
+['34436598', 'Brassinosteroids (BRs) regulate plant growth, development, and stress responses  by activating the core transcription factor BRI1-EMS-SUPPRESSOR1 (BES1), whose  degradation occurs through the proteasome and autophagy pathways. The E3  ubiquitin ligase(s) that modify BES1 for autophagy-mediated degradation remain to  be fully defined. Here, we identified an F-box family E3 ubiquitin ligase named  BES1-ASSOCIATED F-BOX1 (BAF1) in Arabidopsis thaliana. BAF1 interacts with BES1  and mediates its ubiquitination and degradation. Our genetic data demonstrated  that BAF1 inhibits BR signaling in a BES1-dependent manner. Moreover, BAF1  targets BES1 for autophagic degradation in a selective manner. BAF1-triggered  selective autophagy of BES1 depends on the ubiquitin binding receptor DOMINANT  SUPPRESSOR OF KAR2 (DSK2). Sucrose starvation-induced selective autophagy of  BES1, but not bulk autophagy, was significantly compromised in baf1 mutant and  BAF1-DeltaF (BAF1 F-box decoy) overexpression plants, but clearly increased by BAF1  overexpression. The baf1 and BAF1-DeltaF overexpression plants had increased  BR-regulated growth but were sensitive to long-term sucrose starvation, while  BAF1 overexpression plants had decreased BR-regulated growth but were highly  tolerant of sucrose starvation. Our results not only established BAF1 as an E3  ubiquitin ligase that targets BES1 for degradation through selective autophagy  pathway, but also revealed a mechanism for plants to reduce growth during sucrose  starvation.', '2021 Nov 4', 'Plant Cell', '10.1093/plcell/koab210', 'ORCID:']
+
+BES1: !interacts with! BAF1 
+BAF1: !mediates! BES1 ubiquitination 
+BAF1: !inhibits! BR signaling 
+BAF1: !targets! BES1 for autophagic degradation 
+DSK2: !binds! ubiquitin 
+BAF1: !triggers! selective autophagy of BES1 
+baf1: !compromises! selective autophagy of BES1 
+BAF1-DeltaF: !overexpression! compromises selective autophagy of BES1 
+BAF1: !overexpression! increases selective autophagy of BES1 
+baf1: !overexpression! increases BR-regulated growth 
+BAF1-DeltaF: !overexpression! increases BR-regulated growth 
+BAF1: !overexpression! decreases BR-regulated growth

@@ -1,0 +1,8 @@
+Ethylene plays a critical regulatory role in climacteric fruit ripening, and its biosynthesis is fine-tuned at the transcriptional and posttranslational levels. Nevertheless, the mechanistic link between transcriptional and posttranslational regulation of ethylene biosynthesis during fruit ripening is largely unknown. This study uncovers a coordinated transcriptional and posttranslational mechanism of controlling ethylene biosynthesis during banana (<i>Musa acuminata</i>) fruit ripening. NAC (NAM, ATAF, and CUC) proteins MaNAC1 and MaNAC2 repress the expression of <i>MaERF11</i>, a protein previously known to negatively regulate ethylene biosynthesis genes <i>MaACS1</i> and <i>MaACO1</i> A RING E3 ligase MaXB3 interacts with MaNAC2 to promote its ubiquitination and degradation, leading to the inhibition of MaNAC2-mediated transcriptional repression. In addition, MaXB3 also targets MaACS1 and MaACO1 for proteasome degradation. Further evidence supporting the role of MaXB3 is provided by its transient and ectopic overexpression in banana fruit and tomato (<i>Solanum lycopersicum</i>), respectively, which delays fruit ripening via repressing ethylene biosynthesis and thus ethylene response. Strikingly, MaNAC1 and MaNAC2 directly repress <i>MaXB3</i> expression, suggesting a feedback regulatory mechanism that maintains a balance of MaNAC2, MaACS1, and MaACO1 levels. Collectively, our findings establish a multilayered regulatory cascade involving MaXB3, MaNACs, MaERF11, and MaACS1/MaACO1 that controls ethylene biosynthesis during climacteric ripening.
+
+MaNAC2: !represses! MaERF11
+MaXB3: !interacts with! MaNAC2
+MaXB3: !ubiquitinates! MaNAC2
+MaXB3: !degrades! MaACS1
+MaXB3: !degrades! MaACO1
+MaNAC1: !represses! MaXB3

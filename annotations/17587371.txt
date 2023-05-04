@@ -1,0 +1,13 @@
+Beta-thujaplicin Is a natural troponoid with strong antifungal, antiviral, and anticancer activities. Beta-thujaplicin production in yeast elicitor-treated Cupressus lusitanica cell culture and its relationships with reactive oxygen species (ROS) and nitric oxide (NO) production and hypersensitive cell death were investigated. Superoxide anion radical (O2*-) induced cell death and inhibited beta-thujaplicin accumulation, whereas hydrogen peroxide (H2O2) induced beta-thujaplicin accumulation but did not significantly affect cell death. Both elicitor and O2*- induced programmed cell death, which can be blocked by protease inhibitors, protein kinase inhibitors, and Ca2+ chelators. Elicitor-induced NO generation was nitric oxide synthase (NOS)-dependent. Inhibition of NO generation by NOS inhibitors and NO scavenger partly blocked the elicitor-induced beta-thujaplicin accumulation and cell death, and NO donors strongly induced cell death. Interaction among NO, H2O2, and O2*- shows that NO production and H2O2 production are interdependent, but NO and O2*- accumulation were negatively related because of coconsumption of NO and O2*-. NO- and O2*- -induced cell death required each other, and both were required for elicitor-induced cell death. A direct interaction between NO and O2*- was implicated in the production of a potent oxidant peroxynitrite, which might mediate the elicitor-induced cell death.
+
+Beta-thujaplicin: !produces! ROS/NO 
+ROS/NO: !induces! Beta-thujaplicin accumulation 
+O2*: !inhibits! Beta-thujaplicin accumulation 
+H2O2: !induces! Beta-thujaplicin accumulation 
+Elicitor: !induces! Cell death 
+Protease inhibitors/protein kinase inhibitors/Ca2+ chelators: !block! Cell death 
+NOS: !generates! NO 
+NO: !induces! Cell death 
+NO: !interacts with! O2*- 
+NO/O2*: !produce! Peroxynitrite 
+Peroxynitrite: !mediates! Elicitor-induced cell death

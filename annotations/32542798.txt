@@ -1,0 +1,12 @@
+The ratio of red light to far-red light (R:FR) is perceived by phytochrome B (phyB) and informs plants of nearby competition. A low R:FR indicative of competition induces the shade avoidance syndrome and suppresses branching by incompletely understood mechanisms. Phytochrome interacting factors (PIFs) are transcription factors targeted by phytochromes to evoke photomorphogenic responses. PIF4 and PIF5 promote shade avoidance responses and become inactivated by direct interaction with active phyB in the nucleus. Here, genetic and physiological assays show that PIF4 and PIF5 contribute to the suppression of branching resulting from phyB loss of function and a low R:FR, although roles for other PIFs or pathways may exist. The suppression of branching is associated with PIF4/PIF5 promotion of the expression of the branching inhibitor BRANCHED 1 and abscisic acid (ABA) accumulation in axillary buds and is dependent on the function of the key ABA biosynthetic enzyme Nine-cis-epoxycarotenoid dioxygenase 3. However, PIF4/PIF5 function is not confined to a single hormonal pathway, as they also promote stem indole-3-acetic acid accumulation and stimulate systemic auxin signalling, which contribute to the suppression of bud growth when phyB is inactive.
+
+phyB: !perceives! R:FR
+PIFs: !targeted by! phyB
+PIF4/PIF5: !promote! shade avoidance responses
+PIF4/PIF5: !inactivated by! active phyB
+PIF4/PIF5: !contribute to! suppression of branching
+BRANCHED 1: !expressed by! PIF4/PIF5
+ABA: !accumulated by! PIF4/PIF5
+Nine-cis-epoxycarotenoid dioxygenase 3: !function required for! ABA accumulation
+PIF4/PIF5: !promote! stem indole-3-acetic acid accumulation
+PIF4/PIF5: !stimulate! systemic auxin signalling

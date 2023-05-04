@@ -1,0 +1,9 @@
+Plant photoreceptors that regulate photomorphogenic development include red/far-red-light-absorbing phytochromes and blue/UV-A-light-absorbing cryptochromes. We have undertaken a genetic screen to identify additional components downstream of the photoreceptors in Arabidopsis thaliana. We identified a short hypocotyl mutant under red and blue light, hypersensitive to red and blue 1 (hrb1). Mutation in HRB1 also enhances the end-of-day far-red light response, inhibits leaf expansion and petiole elongation, and attenuates the expression of CAB3 and CHS. Double mutant analysis indicates that phyB is epistatic to hrb1 under red light, and cry1 cry2 is epistatic to hrb1 under blue light for both hypocotyl growth and light-regulated gene expression responses. HRB1 localizes to the nucleus and belongs to a protein family of Drought induced 19 (Di19). HRB1 and all other family members contain a ZZ-type zinc finger domain, which in other organisms is implicated in protein-protein interactions between dystrophin and calmodulin and between transcriptional adaptors and activators. HRB1 activity is also required for red and blue light-induced expression of PHYTOCHROME INTERACTING FACTOR 4 (PIF4). pif4 shows a very similar hypersensitive response as hrb1 to both red light and blue light and is epistatic to hrb1 in control of light-regulated gene expression responses. Thus, the roles of HRB1 and PIF4 together in regulating both red and blue light responses may represent points where red light signaling and blue light signaling intersect.
+
+phyB: !epistatic to! hrb1 
+cry1 cry2: !epistatic to! hrb1 
+hrb1: !localizes to! nucleus 
+hrb1: !belongs to! Drought induced 19 (Di19) 
+hrb1: !contains! ZZ-type zinc finger domain 
+hrb1: !required for! red and blue light-induced expression of PHYTOCHROME INTERACTING FACTOR 4 (PIF4) 
+pif4: !epistatic to! hrb1

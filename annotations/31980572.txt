@@ -1,0 +1,8 @@
+Pollen development is highly sensitive to heat stress, which impairs cellular proteostasis by causing misfolded proteins to accumulate. Therefore, each cellular compartment possesses a dedicated protein quality control system. An elaborate quality control system involving molecular chaperones, including immunoglobulin-binding protein (BiP), heat shock protein70, and regulatory J domain-containing cochaperones (J proteins), allows the endoplasmic reticulum (ER) to withstand a large influx of proteins. Here, we found that Arabidopsis (<i>Arabidopsis thaliana</i>) mutants of ER-localized DnaJ family 3B (ERdj3B), one of three ER-resident J proteins involved in ER quality control, produced few seeds at high temperatures (29°C) due to defects in anther development. This temperature-sensitive fertility defect is specific to the defective interactions of BiP with ERdj3B but not with the other two J proteins, indicating functional differences between ERdj3B and the other J proteins. RNA sequencing analysis revealed that heat stress affects pollen development in both wild-type and mutant buds, but the <i>erdj3b</i> mutant is more susceptible, possibly due to defects in ER quality control. Our results highlight the importance of a specific ER quality control factor, ERdj3B, for plant reproduction, particularly anther development, at high temperatures.
+
+BiP: !interacts with! ERdj3B
+ERdj3B: !affects! anther development
+ERdj3B: !localizes to! ER
+heat stress: !impairs! proteostasis
+heat stress: !affects! pollen development
+ERdj3B: !enhances! fertility

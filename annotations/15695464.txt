@@ -1,0 +1,15 @@
+Non-symbiotic hemoglobins (ns-Hbs) are found in all plants, although their physiological function remains to be determined. The present study was undertaken to explore the mode of induction of ns-Hb genes by metabolites of nitrate assimilation using cultured rice (Oryza sativa L.) cells. Two class-1 ns-Hb genes, ORYsa GLB1a and ORYsa GLB1b, were strongly induced by nitrate, nitrite and nitric oxide (NO) donors, S-nitroso-N-acetylpenicillamine and sodium nitroprusside. The rapid and transient accumulation of ORYsa GLB1a and ORYsa GLB1b transcripts in response to nitrate, nitrite and NO donors was similar to that of nia1, which encodes NADH-nitrate reductase (NR), although repression by glutamine and asparagines was significant only for nia1. In the mutants defective in NR mRNA expression, nitrate, nitrite and NO donors failed to induce not only nia1 but also ORYsa GLB1a and ORYsa GLB1b transcripts, indicating that the induction of ns-Hb genes is closely associated with that of the NR gene. Although the kinetics of induction by nitrate, nitrite and NO donors are similar for the two ns-Hb genes, an inhibitor study demonstrated that de novo synthesis of the protein in cytoplasm is essential for inducing ORYsa GLB1b. In contrast, ORYsa GLB1a, like nia1, can be induced in the primary response to these signals without de novo protein synthesis. The role of nitrate, nitrite and NO in the induction of ns-Hb gene expression in rice cells and the possible cellar function of ns-Hbs were discussed in relation to nitrate reduction pathways.
+
+nitrate: !induces! ORYsa GLB1a
+nitrite: !induces! ORYsa GLB1a
+NO donors: !induces! ORYsa GLB1a
+S-nitroso-N-acetylpenicillamine: !induces! ORYsa GLB1a
+sodium nitroprusside: !induces! ORYsa GLB1a
+glutamine: !represses! nia1
+asparagines: !represses! nia1
+NR mRNA expression: !induces! ORYsa GLB1a
+NR mRNA expression: !induces! ORYsa GLB1b
+nitrate: !induces! nia1
+nitrite: !induces! nia1
+NO donors: !induces! nia1
+de novo synthesis of protein: !induces! ORYsa GLB1b

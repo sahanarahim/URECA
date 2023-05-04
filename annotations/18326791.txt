@@ -1,0 +1,9 @@
+The outer integument of the Arabidopsis (Arabidopsis thaliana) ovule develops asymmetrically, with growth and cell division occurring primarily along the region of the ovule facing the base of the gynoecium (gynobasal). This process is altered in the mutants inner no outer (ino) and superman (sup), which lead to absent or symmetrical growth of the outer integument, respectively. INO encodes a member of the YABBY family of putative transcription factors, and its expression is restricted to the gynobasal side of developing ovules via negative regulation by the transcription factor SUP. Other YABBY proteins (e.g. CRABS CLAW [CRC] and YABBY3 [YAB3]) can substitute for INO in promotion of integument growth, but do not respond to SUP regulation. In contrast, YAB5 fails to promote integument growth. To separately investigate the growth-promotive effects of INO and its inhibition by SUP, domain swaps between INO and YAB3, YAB5, or CRC were assembled. The ability of chimeric YABBY proteins to respond to SUP restriction showed a quantitative response proportional to the amount of INO protein and was more dependent on C-terminal regions of INO. A different response was seen when examining growth promotion where the number and identity of regions of INO in chimeric YABBY proteins were not the primary influence on promotion of outer integument growth. Instead, promotion of growth required a coordination of features along the entire length of the INO protein, suggesting that intramolecular interactions between regions of INO may coordinately facilitate the intermolecular interactions necessary to promote formation of the outer integument.
+
+INO: !encodes! YABBY family
+SUP: !regulates! INO
+INO: !promotes! integument growth
+CRC, YAB3, YAB5: !substitute for! INO
+YAB5: !fails to promote! integument growth
+INO: !responds to! SUP restriction
+INO: !coordinates features of! intramolecular interactions

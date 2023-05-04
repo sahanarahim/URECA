@@ -1,0 +1,9 @@
+['20190077', 'Plants respond to virus infections by activation of RNA-based silencing, which  limits infection at both the single-cell and system levels. Viruses encode RNA  silencing suppressor proteins that interfere with this response. Wild-type  Arabidopsis thaliana is immune to silencing suppressor (HC-Pro)-deficient Turnip  mosaic virus, but immunity was lost in the absence of DICER-LIKE proteins DCL4  and DCL2. Systematic analysis of susceptibility and small RNA formation in  Arabidopsis mutants lacking combinations of RNA-dependent RNA polymerase (RDR)  and DCL proteins revealed that the vast majority of virus-derived small  interfering RNAs (siRNAs) were dependent on DCL4 and RDR1, although full  antiviral defense also required DCL2 and RDR6. Among the DCLs, DCL4 was  sufficient for antiviral silencing in inoculated leaves, but DCL2 and DCL4 were  both involved in silencing in systemic tissues (inflorescences). Basal levels of  antiviral RNA silencing and siRNA biogenesis were detected in mutants lacking  RDR1, RDR2, and RDR6, indicating an alternate route to form double-stranded RNA  that does not depend on the three previously characterized RDR proteins.', '2010 Feb', 'Plant Cell', '10.1105/tpc.109.073056', 'Carrington']
+
+DCL4: !activates! antiviral silencing
+DCL2: !activates! antiviral silencing
+DCL4: !involved in! silencing in systemic tissues
+DCL2: !involved in! silencing in systemic tissues
+RDR1: !required for! virus-derived siRNAs
+RDR2: !provides! alternate route to form double-stranded RNA
+RDR6: !required for! full antiviral defense

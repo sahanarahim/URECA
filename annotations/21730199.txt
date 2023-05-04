@@ -1,0 +1,14 @@
+Benzoxazinoids (BXs), such as 2,4-dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one (DIMBOA), are secondary metabolites in grasses. The first step in BX biosynthesis converts indole-3-glycerol phosphate into indole. In maize (Zea mays), this reaction is catalyzed by either BENZOXAZINELESS1 (BX1) or INDOLE GLYCEROL PHOSPHATE LYASE (IGL). The Bx1 gene is under developmental control and is mainly responsible for BX production, whereas the Igl gene is inducible by stress signals, such as wounding, herbivory, or jasmonates. To determine the role of BXs in defense against aphids and fungi, we compared basal resistance between Bx1 wild-type and bx1 mutant lines in the igl mutant background, thereby preventing BX production from IGL. Compared to Bx1 wild-type plants, BX-deficient bx1 mutant plants allowed better development of the cereal aphid Rhopalosiphum padi, and were affected in penetration resistance against the fungus Setosphaeria turtica. At stages preceding major tissue disruption, R. padi and S. turtica elicited increased accumulation of DIMBOA-glucoside, DIMBOA, and 2-hydroxy-4,7-dimethoxy-1,4-benzoxazin-3-one-glucoside (HDMBOA-glc), which was most pronounced in apoplastic leaf extracts. Treatment with the defense elicitor chitosan similarly enhanced apoplastic accumulation of DIMBOA and HDMBOA-glc, but repressed transcription of genes controlling BX biosynthesis downstream of BX1. This repression was also obtained after treatment with the BX precursor indole and DIMBOA, but not with HDMBOA-glc. Furthermore, BX-deficient bx1 mutant lines deposited less chitosan-induced callose than Bx1 wild-type lines, whereas apoplast infiltration with DIMBOA, but not HDMBOA-glc, mimicked chitosan-induced callose. Hence, DIMBOA functions as a defense regulatory signal in maize innate immunity, which acts in addition to its well-characterized activity as a biocidal defense metabolite.
+
+BX1: !affects! BX production
+IGL: !affects! BX production
+bx1 mutant: !allows better development of! Rhopalosiphum padi
+bx1 mutant: !affected in penetration resistance against! Setosphaeria turtica
+R. padi/S. turtica: !elicits increased accumulation of! DIMBOA-glucoside, DIMBOA, HDMBOA-glc
+chitosan: !enhances! apoplastic accumulation of DIMBOA and HDMBOA-glc
+chitosan: !represses! transcription of genes controlling BX biosynthesis downstream of BX1
+indole/DIMBOA: !represses! transcription of genes controlling BX biosynthesis downstream of BX1
+HDMBOA-glc: !does not repress! transcription of genes controlling BX biosynthesis downstream of BX1
+bx1 mutant: !deposits less! chitosan-induced callose
+DIMBOA: !mimics! chitosan-induced callose
+DIMBOA: !fun

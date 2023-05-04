@@ -1,0 +1,10 @@
+To study how conserved fundamental concepts of the heat stress response (HSR) are in photosynthetic eukaryotes, we applied pharmaceutical and antisense/amiRNA approaches to the unicellular green alga Chlamydomonas reinhardtii. The Chlamydomonas HSR appears to be triggered by the accumulation of unfolded proteins, as it was induced at ambient temperatures by feeding cells with the arginine analog canavanine. The protein kinase inhibitor staurosporine strongly retarded the HSR, demonstrating the importance of phosphorylation during activation of the HSR also in Chlamydomonas. While the removal of extracellular calcium by the application of EGTA and BAPTA inhibited the HSR in moss and higher plants, only the addition of BAPTA, but not of EGTA, retarded the HSR and impaired thermotolerance in Chlamydomonas. The addition of cycloheximide, an inhibitor of cytosolic protein synthesis, abolished the attenuation of the HSR, indicating that protein synthesis is necessary to restore proteostasis. HSP90 inhibitors induced a stress response when added at ambient conditions and retarded attenuation of the HSR at elevated temperatures. In addition, we detected a direct physical interaction between cytosolic HSP90A/HSP70A and heat shock factor 1, but surprisingly this interaction persisted after the onset of stress. Finally, the expression of antisense constructs targeting chloroplast HSP70B resulted in a delay of the cell's entire HSR, thus suggesting the existence of a retrograde stress signaling cascade that is desensitized in HSP70B-antisense strains.
+
+canavanine: !induces! HSR
+staurosporine: !retards! HSR
+EGTA: !inhibits! HSR
+BAPTA: !retards! HSR
+cycloheximide: !abolishes! attenuation of HSR
+HSP90 inhibitors: !induce! stress response
+HSP90A/HSP70A: !interact with! heat shock factor 1
+HSP70B-antisense: !delay! cell's entire HSR

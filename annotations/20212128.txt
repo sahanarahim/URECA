@@ -1,0 +1,10 @@
+Soil salinity limits agricultural production and is a major obstacle for feeding the growing world population. We used natural genetic variation in salt tolerance among different Arabidopsis accessions to map a major quantitative trait locus (QTL) for salt tolerance and abscisic acid (ABA) sensitivity during seed germination and early seedling growth. A recombinant inbred population derived from Landsberg erecta (Ler; salt and ABA sensitive) x Shakdara (Sha; salt and ABA resistant) was used for QTL mapping. High-resolution mapping and cloning of this QTL, Response to ABA and Salt 1 (RAS1), revealed that it is an ABA- and salt stress-inducible gene and encodes a previously undescribed plant-specific protein. A premature stop codon results in a truncated RAS1 protein in Sha. Reducing the expression of RAS1 by transfer-DNA insertion in Col or RNA interference in Ler leads to decreased salt and ABA sensitivity, whereas overexpression of the Ler allele but not the Sha allele causes increased salt and ABA sensitivity. Our results suggest that RAS1 functions as a negative regulator of salt tolerance during seed germination and early seedling growth by enhancing ABA sensitivity and that its loss of function contributes to the increased salt tolerance of Sha.
+
+QTL: !maps to! salt tolerance
+Ler: !crossed with! Sha
+RAS1: !encodes! plant-specific protein
+RAS1: !induces! ABA and salt stress
+RAS1: !represses! salt tolerance
+Sha: !lacks! functional RAS1
+Col: !reduces expression of! RAS1
+Ler: !overexpresses! RAS1

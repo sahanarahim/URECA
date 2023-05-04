@@ -1,0 +1,10 @@
+All higher plants possess multiple phytochrome photoreceptors, with phytochrome A (phyA) being light labile and other members of the family being relatively light stable (phyB-phyE in Arabidopsis [Arabidopsis thaliana]). phyA also differs from other members of the family because it enables plants to deetiolate in far-red light-rich environments typical of dense vegetational cover. Later in development, phyA counteracts the shade avoidance syndrome. Light-induced degradation of phyA favors the establishment of a robust shade avoidance syndrome and was proposed to be important for phyA-mediated deetiolation in far-red light. phyA is ubiquitylated and targeted for proteasome-mediated degradation in response to light. Cullin1 and the ubiquitin E3 ligase constitutive photomorphogenic1 (COP1) have been implicated in this process. Here, we systematically analyze the requirement of cullins in this process and show that only CULLIN1 plays an important role in light-induced phyA degradation. In addition, the role of COP1 in this process is conditional and depends on the presence of metabolizable sugar in the growth medium. COP1 acts with SUppressor of phytochrome A (SPA) proteins. Unexpectedly, the light-induced decline of phyA levels is reduced in spa mutants irrespective of the growth medium, suggesting a COP1-independent role for SPA proteins.
+
+phyA: !enables! deetiolation 
+phyA: !counteracts! shade avoidance syndrome 
+phyA: !targeted for degradation by! Cullin1 
+phyA: !targeted for degradation by! COP1 
+Cullin1: !mediates! light-induced phyA degradation 
+COP1: !conditionally mediates! light-induced phyA degradation 
+COP1: !interacts with! SPA proteins 
+SPA proteins: !independently mediate! light-induced phyA degradation

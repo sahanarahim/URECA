@@ -1,0 +1,7 @@
+With the arrival of aging society and the development of modern agriculture, the use of agricultural robots for large-scale agricultural production activities will become a major trend in the future. Therefore, it is necessary to develop suitable robots and autonomous navigation technology for agricultural production. However, there is still a problem of external noise and other factors causing the failure of the navigation system. To solve this problem, we propose an agricultural scene-based multi-sensor fusion method <i>via</i> a loosely coupled extended Kalman filter algorithm to reduce interference from external environment. Specifically, the proposed method fuses inertial measurement unit (IMU), robot odometer (ODOM), global navigation and positioning system (GPS), and visual inertial odometry (VIO), and uses visualization tools to simulate and analyze the robot trajectory and error. In experiments, we verify the high accuracy and the robustness of the proposed algorithm when sensors fail. The experimental results show that the proposed algorithm has better accuracy and robustness on the agricultural dataset than other algorithms.
+
+GPS: !fuses with! IMU
+IMU: !fuses with! ODOM
+ODOM: !fuses with! VIO
+VIO: !fuses with! GPS
+Algorithm: !simulates and analyzes! Robot Trajectory

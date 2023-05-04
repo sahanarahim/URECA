@@ -1,0 +1,8 @@
+Cell division is often regulated by extracellular signaling networks to ensure correct patterning during development. In <i>Arabidopsis</i>, the SHORT-ROOT (SHR)/SCARECROW (SCR) transcription factor dimer activates <i>CYCLIND6</i>;<i>1</i> (<i>CYCD6;1</i>) to drive formative divisions during root ground tissue development. Here, we show plasma-membrane-localized BARELY ANY MERISTEM1/2 (BAM1/2) family receptor kinases are required for <i>SHR</i>-dependent formative divisions and <i>CYCD6;1</i> expression, but not <i>SHR</i>-dependent ground tissue specification. Root-enriched CLE ligands bind the BAM1 extracellular domain and are necessary and sufficient to activate <i>SHR</i>-mediated divisions and <i>CYCD6;1</i> expression. Correspondingly, BAM-CLE signaling contributes to the restriction of formative divisions to the distal root region. Additionally, genetic analysis reveals that BAM-CLE and SHR converge to regulate additional cell divisions outside of the ground tissues. Our work identifies an extracellular signaling pathway regulating formative root divisions and provides a framework to explore this pathway in patterning and evolution.
+
+SHR/SCR: !activates! CYCD6;1
+CLE: !binds! BAM1
+BAM1: !requires! CLE
+SHR: !mediates! divisions
+BAM-CLE: !contributes to! restriction of formative divisions
+BAM-CLE: !converges with! SHR

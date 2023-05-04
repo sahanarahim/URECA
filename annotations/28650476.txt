@@ -1,0 +1,11 @@
+['28650476', "Broad-scale protein-protein interaction mapping is a major challenge given the  cost, time, and sensitivity constraints of existing technologies. Here, we  present a massively multiplexed yeast two-hybrid method, CrY2H-seq, which uses a  Cre recombinase interaction reporter to intracellularly fuse the coding sequences  of two interacting proteins and next-generation DNA sequencing to identify these  interactions en masse. We applied CrY2H-seq to investigate sparsely annotated  Arabidopsis thaliana transcription factors interactions. By performing ten  independent screens testing a total of 36 million binary interaction  combinations, and uncovering a network of 8,577 interactions among 1,453  transcription factors, we demonstrate CrY2H-seq's improved screening capacity,  efficiency, and sensitivity over those of existing technologies. The  deep-coverage network resource we call AtTFIN-1 recapitulates one-third of  previously reported interactions derived from diverse methods, expands the number  of known plant transcription factor interactions by three-fold, and reveals  previously unknown family-specific interaction module associations with plant  reproductive development, root architecture, and circadian coordination.", '2017 Aug', 'Nat Methods', '10.1038/nmeth.4343', 'Ecker']
+
+Cre recombinase: !fuses! coding sequences 
+CrY2H-seq: !identifies! interactions 
+Arabidopsis thaliana transcription factors: !interact with! 8,577 proteins 
+AtTFIN-1: !recapitulates! previously reported interactions 
+AtTFIN-1: !expands! known plant transcription factor interactions 
+AtTFIN-1: !reveals! family-specific interaction module associations 
+family-specific interaction modules: !associate with! plant reproductive development 
+family-specific interaction modules: !associate with! root architecture 
+family-specific interaction modules: !associate with! circadian coordination

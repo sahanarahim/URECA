@@ -1,0 +1,9 @@
+Previously, it was reported that like land plants, the green alga Klebsormidium flaccidum (Streptophyta) accumulates sucrose during cold acclimation (Nagao et al. Plant Cell Environ 31:872-885, 2008), suggesting that synthesis of sucrose could enhance the freezing tolerance of this alga. Because sucrose phosphate phosphatase (SPP; EC 3.1.3.24) is a key enzyme in the sucrose synthesis pathway in plants, we analyzed the SPP gene in K. flaccidum (KfSPP, GenBank accession number AB669024) to clarify its role in sucrose accumulation. As determined from its deduced amino acid sequence, KfSPP contains the N-terminal domain that is characteristic of the L-2-haloacid-dehalogenase family of phosphatases/hydrolases (the HAD phosphatase domain). However, it lacks the extensive C-terminal domain found in SPPs of land plants. Database searches revealed that the SPPs in cyanobacteria also lack the C-terminal domain. In addition, the green alga Coccomyxa (Chlorophyta) and K. flaccidum, which are closely related to land plants, have cyanobacterial-type SPPs, while Chlorella (Chlorophyta) has a land plant-type SPP. These results demonstrate that even K. flaccidum (Streptophyta), as a recent ancestor of land plants, has the cyanobacterial-type SPP lacking the C-terminal domain. Because SPP and sucrose phosphate synthase (SPS) catalyze sequential reactions in sucrose synthesis in green plant cells and the lack of the C-terminal domain in KfSPP is predicted to decrease its activity, the interaction between decreased KfSPP activity and SPS activity may alter sucrose synthesis during cold acclimation in K. flaccidum.
+
+KfSPP: !contains! HAD phosphatase domain 
+KfSPP: !lacks! C-terminal domain 
+Cyanobacteria: !have! SPPs lacking C-terminal domain 
+Coccomyxa/K. flaccidum: !have! Cyanobacterial-type SPPs 
+Chlorella: !has! Land plant-type SPP 
+KfSPP: !interacts with! SPS 
+KfSPP: !alters! Sucrose synthesis

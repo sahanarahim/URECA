@@ -1,0 +1,10 @@
+Sandalwood (Santalum album L.) is a hemi-parasitic tree species famous for its santalol and santalene, which are extracted from its heartwood and roots. The ability to understand root functionality within its branched root system would benefit the regulation of sandalwood growth and enhance the commercial value of sandalwood. Phenotypic and anatomical evidence in this study indicated that seed germination stage 4 (SG4) seemed pivotal for lateral root (LR) morphogenesis. Small RNA (sRNA) high-throughput sequencing of root tissues at three sub-stages of SG4 (lateral root primordia initiation (LRPI), lateral root primordia development (LRPD), and lateral root primordia emergence (LRPE)) was performed to identify microRNAs (miRNAs) associated with LR development. A total of 135 miRNAs, including 70 differentially expressed miRNAs (DEMs), were screened. Ten DEMs were selected to investigate transcript abundance in different organs or developmental stages. Among 100 negative DEM-mRNA interaction pairs, four targets (Sa-miR166m_2, 408d, 858a, and novel_Sa-miR8) were selected for studying cleavage sites by 5' RLM-RACE validation. The expression mode of the four miRNA-mRNA pairs was investigated after indole-3-acetic acid (IAA) treatment. IAA enhanced the abundance of homeobox-leucine-zipper protein 32 (HOX32), laccase 12 (LAC12), myeloblastosis86 (MYB86), and pectin methylesterase inhibitor6 (PMEI6) target transcripts by reducing the expression of Sa-miR166m_2, 408d, 858a, and novel_Sa-miR8 in the first 10 min. A schematic model of miRNA-regulated LR development is proposed for this hemi-parasitic species. This novel genetic information for improving sandalwood root growth and development may allow for the cultivation of fast-growing and high-yielding plantations.
+
+Sa-miR166m_2: !represses! HOX32
+Sa-miR408d: !represses! LAC12
+Sa-miR858a: !represses! MYB86
+novel_Sa-miR8: !represses! PMEI6
+IAA: !enhances! HOX32
+IAA: !enhances! LAC12
+IAA: !enhances! MYB86
+IAA: !enhances! PMEI6

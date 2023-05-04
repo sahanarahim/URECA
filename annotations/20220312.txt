@@ -1,0 +1,8 @@
+Plants consist of distinct cell types distinguished by position, morphological features and metabolic activities. We recently developed a method to extract cell-type specific mRNA populations by immunopurification of ribosome-associated mRNAs. Microarray profiles of 21 cell-specific mRNA populations from seedling roots and shoots comprise the Arabidopsis Translatome dataset. This gene expression atlas provides a new tool for the study of cell-specific processes. Here we provide an example of how genes involved in a pathway limited to one or few cell-types can be further characterized and new candidate genes can be predicted. Cells of the root endodermis produce suberin as an inner barrier between the cortex and stele, whereas the shoot epidermal cells form cutin as a barrier to the external environment. Both polymers consist of fatty acid derivates, and share biosynthetic origins. We use the Arabidopsis Translatome dataset to demonstrate the significant cell-specific expression patterns of genes involved in those biosynthetic processes and suggest new candidate genes in the biosynthesis of suberin and cutin.
+
+Gene: !affects! Process 
+Cell-type: !produces! Suberin 
+Cell-type: !produces! Cutin 
+Gene: !localizes to! Cell-type 
+Gene: !enhances! Biosynthetic Processes 
+Gene: !synthesizes! Fatty Acid Derivates

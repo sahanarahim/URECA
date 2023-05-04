@@ -1,0 +1,9 @@
+Concanavalin A (ConA) is a well characterized and extensively used lectin accumulated in the protein bodies of jack bean cotyledons. ConA is synthesized as an inactive precursor proConA. The maturation of inactive proConA into biologically active ConA is a complex process including the removal of an internal glycopeptide and a C-terminal propeptide (CTPP), followed by a head-to-tail ligation of the two largest polypeptides. The cDNA encoding proConA was cloned and expressed in tobacco BY-2 cells. ProConA was slowly transported to the vacuole where its maturation into ConA was similar to that in jack bean cotyledons, apart from an incomplete final ligation. To investigate the role of the nine amino acid CTPP, a truncated form lacking the propeptide (proConADelta9) was expressed in BY-2 cells. In contrast to proConA, proConADelta9 was rapidly chased out of the endoplasmic reticulum (ER) and secreted into the culture medium. The CTPP was then fused to the C-terminal end of a secreted form of green fluorescent protein (secGFP). When expressed in tobacco BY-2 cells and leaf protoplasts, the chimaeric protein was located in the vacuole whereas secGFP was located in the culture medium and in the vacuole. Altogether, our results show we have isolated a new C-terminal vacuolar sorting determinant.
+
+ConA: !synthesizes! proConA 
+proConA: !matures into! ConA 
+CTPP: !removed from! proConA 
+proConADelta9: !secreted out of! ER 
+CTPP: !fused to! secGFP 
+secGFP: !located in! culture medium 
+chimaeric protein: !located in! vacuole

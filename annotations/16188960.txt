@@ -1,0 +1,11 @@
+Plant stress studies are more and more based on gene expression. The analysis of gene expression requires sensitive, precise, and reproducible measurements for specific mRNA sequences. Real-time RT-PCR is at present the most sensitive method for the detection of low abundance mRNA. To avoid bias, real-time RT-PCR is referred to one or several internal control genes, which should not fluctuate during treatments. Here, the non-regulation of seven housekeeping genes (beta-tubulin, cyclophilin, actin, elongation factor 1-alpha (ef1alpha), 18S rRNA, adenine phosphoribosyl transferase (aprt), and cytoplasmic ribosomal protein L2) during biotic (late blight) and abiotic stresses (cold and salt stress) was tested on potato plants using geNorm software. Results from the three experimental conditions indicated that ef1alpha was the most stable among the seven tested. The expression of the other housekeeping genes tested varied upon stress. In parallel, a study of the variability of expression of hsp20.2, shown to be implicated in late blight stress, was realized. The relative quantification of the hsp20.2 gene varied according to the internal control and the number of internal controls used, thus highlighting the importance of the choice of internal controls in such experiments.
+
+beta-tubulin: !not regulated by! biotic/abiotic stress
+cyclophilin: !not regulated by! biotic/abiotic stress
+actin: !not regulated by! biotic/abiotic stress
+ef1alpha: !most stable of! 7 housekeeping genes
+18S rRNA: !not regulated by! biotic/abiotic stress
+aprt: !not regulated by! biotic/abiotic stress
+L2: !not regulated by! biotic/abiotic stress
+hsp20.2: !varies according to! internal control
+internal control: !affects! hsp20.2 expression

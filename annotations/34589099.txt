@@ -1,0 +1,8 @@
+Genomic selection (GS) is becoming an essential tool in breeding programs due to its role in increasing genetic gain per unit time. The design of the training set (TRS) in GS is one of the key steps in the implementation of GS in plant and animal breeding programs mainly because (i) TRS optimization is critical for the efficiency and effectiveness of GS, (ii) breeders test genotypes in multi-year and multi-location trials to select the best-performing ones. In this framework, TRS optimization can help to decrease the number of genotypes to be tested and, therefore, reduce phenotyping cost and time, and (iii) we can obtain better prediction accuracies from optimally selected TRS than an arbitrary TRS. Here, we concentrate the efforts on reviewing the lessons learned from TRS optimization studies and their impact on crop breeding and discuss important features for the success of TRS optimization under different scenarios. In this article, we review the lessons learned from training population optimization in plants and the major challenges associated with the optimization of GS including population size, the relationship between training and test set (TS), update of TRS, and the use of different packages and algorithms for TRS implementation in GS. Finally, we describe general guidelines to improving the rate of genetic improvement by maximizing the use of the TRS optimization in the GS framework.
+
+Genomic selection: !increases! genetic gain
+Training set: !optimizes! genomic selection
+Population size: !affects! training set optimization
+Relationship between training and test set: !influences! training set optimization
+Update of TRS: !required for! training set optimization
+Packages and algorithms: !used for! training set optimization

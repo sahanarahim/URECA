@@ -1,0 +1,12 @@
+The increasing accessibility and use of microarrays in transcriptomics has accentuated the need for purpose-designed storage and analysis tools. Here we present UPSC-BASE, a database for analysis and storage of Populus DNA microarray data. A microarray analysis pipeline has also been established to allow consistent and efficient analysis (from small to large scale) of samples in various experimental designs. A range of optimized experimental protocols is provided for each step in generating the data. Within UPSC-BASE, researchers can perform standard and advanced microarray analysis procedures in a user-friendly environment. Background corrections, normalizations, quality-control tools, visualizations, hypothesis tests and export tools are provided without requirements for expert-level knowledge. Although the database has been developed primarily for handling Populus DNA microarrays, most of the tools are generic and can be used for other types of microarray. UPSC-BASE is also a repository of Populus microarray information, providing data from 21 experiments on a total of 407 microarray hybridizations in the public domain of the database. There are also an additional 10 experiments containing 347 hybridizations, where the automatically analysed data are searchable.
+
+UPSC-BASE: !provides! microarray analysis pipeline 
+UPSC-BASE: !contains! Populus microarray information 
+microarray analysis pipeline: !allows! efficient analysis 
+microarray analysis pipeline: !includes! optimized protocols 
+microarray analysis pipeline: !offers! background corrections 
+microarray analysis pipeline: !offers! normalizations 
+microarray analysis pipeline: !offers! quality-control tools 
+microarray analysis pipeline: !offers! visualizations 
+microarray analysis pipeline: !offers! hypothesis tests 
+microarray analysis pipeline: !offers! export tools

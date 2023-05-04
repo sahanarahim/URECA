@@ -1,0 +1,11 @@
+Crop leaf diseases can reflect the current health status of the crop, and the rapid and automatic detection of field diseases has become one of the difficulties in the process of industrialization of agriculture. In the widespread application of various machine learning techniques, recognition time consumption and accuracy remain the main challenges in moving agriculture toward industrialization. This article proposes a novel network architecture called YOLO V5-CAcT to identify crop diseases. The fast and efficient lightweight YOLO V5 is chosen as the base network. Repeated Augmentation, FocalLoss, and SmoothBCE strategies improve the model robustness and combat the positive and negative sample ratio imbalance problem. Early Stopping is used to improve the convergence of the model. We use two technical routes of model pruning, knowledge distillation and memory activation parameter compression ActNN for model training and identification under different hardware conditions. Finally, we use simplified operators with INT8 quantization for further optimization and deployment in the deep learning inference platform NCNN to form an industrial-grade solution. In addition, some samples from the Plant Village and AI Challenger datasets were applied to build our dataset. The average recognition accuracy of 94.24% was achieved in images of 59 crop disease categories for 10 crop species, with an average inference time of 1.563 ms per sample and model size of only 2 MB, reducing the model size by 88% and the inference time by 72% compared with the original model, with significant performance advantages. Therefore, this study can provide a solid theoretical basis for solving the common problems in current agricultural disease image detection. At the same time, the advantages in terms of accuracy and computational cost can meet the needs of agricultural industrialization.
+
+YOLO V5-CAcT: !identifies! Crop Diseases 
+Repeated Augmentation: !improves! Model Robustness 
+FocalLoss: !combats! Positive/Negative Sample Ratio Imbalance 
+Early Stopping: !improves! Model Convergence 
+Model Pruning: !reduces! Model Size 
+Knowledge Distillation: !improves! Model Training 
+Memory Activation Parameter Compression ActNN: !improves! Model Identification 
+INT8 Quantization: !optimizes! Model Deployment 
+NCNN: !forms! Industrial-Grade Solution

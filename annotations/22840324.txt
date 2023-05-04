@@ -1,0 +1,10 @@
+Chrysanthemum (Chrysanthemum morifolium) is a short-day plant, which flowers when the night length is longer than a critical minimum. Flowering is effectively inhibited when the required long-night phase is interrupted by a short period of exposure to red light (night break; NB). The reversal of this inhibition by subsequent exposure to far-red (FR) light indicates the involvement of phytochromes in the flowering response. Here, we elucidated the role of light quality in photoperiodic regulation of chrysanthemum flowering, by applying a range of different conditions. Flowering was consistently observed under short days with white light (W-SD), SD with monochromatic red light (R-SD), or SD with monochromatic blue light (B-SD). For W-SD, NB with monochromatic red light (NB-R) was most effective in inhibiting flowering, while NB with monochromatic blue light (NB-B) and NB with far-red light (NB-FR) caused little inhibition. In contrast, for B-SD, flowering was strongly inhibited by NB-B and NB-FR. However, when B-SD was supplemented with monochromatic red light (B+R-SD), no inhibition by NB-B and NB-FR was observed. Furthermore, the inhibitory effect of NB-B following B-SD was partially reversed by subsequent exposure to a FR light pulse. The conditions B-SD/NB-B (no flowering) and B+R-SD/NB-B (flowering) similarly affected the expression of circadian clock-related genes. However, only the former combination suppressed expression of the chrysanthemum orthologue of FLOWERING LOCUS T (CmFTL3). Our results suggest the involvement of at least 2 distinct phytochrome responses in the flowering response of chrysanthemum. Furthermore, it appears that the light quality supplied during the daily photoperiod affects the light quality required for effective NB.
+
+light: !inhibits! flowering
+NB-R: !inhibits! flowering
+NB-B: !inhibits! flowering
+NB-FR: !inhibits! flowering
+B-SD: !inhibits! flowering
+B+R-SD: !prevents! inhibition
+FR light pulse: !reverses! inhibition
+CmFTL3: !represses! flowering

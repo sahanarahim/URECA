@@ -1,0 +1,17 @@
+['20205940', 'BACKGROUND: DnaJ proteins participate in many metabolic pathways through dynamic  interactions with various components of these processes. The role of three small  chloroplast-targeted DnaJ proteins, AtJ8 (At1 g80920), AtJ11 (At4 g36040) and  AtJ20 (At4 g13830), was investigated here using knock-out mutants of Arabidopsis  thaliana. Photochemical efficiency, capacity of CO2 assimilation, stabilization  of Photosystem (PS) II dimers and supercomplexes under high light illumination,  energy distribution between PSI and PSII and phosphorylation of PSII-LHCII  proteins, global gene expression profiles and oxidative stress responses of these  DnaJ mutants were analyzed. RESULTS: Knockout of one of these proteins caused a  series of events including a decrease in photosynthetic efficiency,  destabilization of PSII complexes and loss of control for balancing the redox  reactions in chloroplasts. Data obtained with DNA microarray analysis  demonstrated that the lack of one of these DnaJ proteins triggers a global stress  response and therefore confers the plants greater tolerance to oxidative stress  induced by high light or methyl viologen treatments. Expression of a set of genes  encoding enzymes that detoxify reactive oxygen species (ROS) as well as a number  of stress-related transcription factors behaved in the mutants at growth light  similarly to that when wild-type (WT) plants were transferred to high light. Also  a set of genes related to redox regulation were upregulated in the mutants. On  the other hand, although the three DnaJ proteins reside in chloroplasts, the  expression of most genes encoding thylakoid membrane proteins was not changed in  the mutants. CONCLUSION: It is proposed that the tolerance of the DnaJ protein  knockout plants to oxidative stress occurs at the expense of the flexibility of  photosynthetic reactions. Despite the fact that the effects of the individual  protein knockout on the response of plants to high light treatment are quite  similar, it is conceivable that both specific- and cross-talk functions exist  between the three small chloroplast-targeted DnaJ proteins, AtJ8, AtJ11 and  AtJ20.', '2010 Mar 7', 'BMC Plant Biol', '10.1186/1471-2229-10-43', 'Aro']
+
+AtJ8: !affects! Photosynthetic efficiency 
+AtJ11: !affects! Photosynthetic efficiency 
+AtJ20: !affects! Photosynthetic efficiency 
+AtJ8: !stabilizes! PSII dimers 
+AtJ11: !stabilizes! PSII dimers 
+AtJ20: !stabilizes! PSII dimers 
+AtJ8: !balances! Redox reactions 
+AtJ11: !balances! Redox reactions 
+AtJ20: !balances! Redox reactions 
+AtJ8: !triggers! Global stress response 
+AtJ11: !triggers! Global stress response 
+AtJ20: !triggers! Global stress response 
+AtJ8: !upregulates! Redox regulation genes 
+AtJ11: !upregulates! Redox regulation genes 
+AtJ20: !upregulates! Redox regulation genes

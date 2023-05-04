@@ -1,0 +1,12 @@
+Agrobacterium tumefaciens can transfer oncogenic T-DNA into plant cells; T-DNA transfer is mechanistically similar to a conjugation process. VirD2 is the pilot protein that guides the transfer, because it is covalently associated with single-stranded T-DNA to form the transfer substrate T-complex. We used the VirD2 protein as an affinity ligand to isolate VirD2-binding proteins (VBPs). By pull-down assays and peptide-mass-fingerprint matching, we identified an A. tumefaciens protein designated VBP1 that could bind VirD2 directly. Genome-wide sequence analysis showed that A. tumefaciens has two additional genes encoding proteins highly similar to VBP1, designated vbp2 and vbp3. Like VBP1, both VBP2 and VBP3 also could bind VirD2; all three VBPs contain a putative nucleotidyltransferase motif. Mutational analysis of vbp demonstrated that the three vbp genes could functionally complement each other. Consequently, only inactivation of all three vbp genes highly attenuated the bacterial ability to cause tumors on plants. Although vbp1 is harbored on the megaplasmid pAtC58, vbp2 and vbp3 reside on the linear chromosome. The vbp genes are clustered with conjugative transfer genes, suggesting linkage between the conjugation and virulence factor. The three VBPs appear to contain C-terminal positively charged residues, often present in the transfer substrate proteins of type IV secretion systems. Inactivation of the three vbp genes did not affect the T-strand production. Our data indicate that VBP is a newly identified virulence factor that may affect the transfer process subsequent to T-DNA production.
+
+VirD2: !binds! VBP1 
+VirD2: !binds! VBP2 
+VirD2: !binds! VBP3 
+VBP1: !complements! VBP2 
+VBP1: !complements! VBP3 
+VBP2: !complements! VBP3 
+vbp: !affects! T-DNA transfer 
+vbp: !linked to! conjugative transfer genes 
+vbp: !contains! C-terminal positively charged residues 
+vbp: !does not affect! T-strand production

@@ -1,0 +1,9 @@
+Phytochromes are the red/far-red photoreceptors in higher plants. Among them, phytochrome A (PHYA) is responsible for the far-red high-irradiance response and for the perception of very low amounts of light, initiating the very-low-fluence response. Here, we report a detailed physiological and molecular characterization of the phyA-5 mutant of Arabidopsis (Arabidopsis thaliana), which displays hyposensitivity to continuous low-intensity far-red light and shows reduced very-low-fluence response and high-irradiance response. Red light-induced degradation of the mutant phyA-5 protein appears to be normal, yet higher residual amounts of phyA-5 are detected in seedlings grown under low-intensity far-red light. We show that (1) the phyA-5 mutant harbors a new missense mutation in the PHYA amino-terminal extension domain and that (2) the complex phenotype of the mutant is caused by reduced nuclear import of phyA-5 under low fluences of far-red light. We also demonstrate that impaired nuclear import of phyA-5 is brought about by weakened binding affinity of the mutant photoreceptor to nuclear import facilitators FHY1 (for FAR-RED ELONGATED HYPOCOTYL1) and FHL (for FHY1-LIKE). Finally, we provide evidence that the signaling and degradation kinetics of constitutively nuclear-localized phyA-5 and phyA are identical. Taken together, our data show that aberrant nucleo/cytoplasmic distribution impairs light-induced degradation of this photoreceptor and that the amino-terminal extension domain mediates the formation of the FHY1/FHL/PHYA far-red-absorbing form complex, whereby it plays a role in regulating the nuclear import of phyA.
+
+PHYA: !harbors! mutation 
+mutation: !causes! hyposensitivity 
+phyA-5: !binds to! FHY1 
+FHY1: !facilitates! nuclear import 
+FHL: !facilitates! nuclear import 
+PHYA: !forms complex with! FHY1/FHL 
+complex: !regulates! nuclear import

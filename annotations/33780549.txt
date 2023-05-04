@@ -1,0 +1,10 @@
+There is no consensus barcoding region for determination of arbuscular mycorrhizal fungal (AMF) taxa. To overcome this obstacle, we have developed an approach to sequence an AMF marker within the ribosome-encoding operon (rDNA) that covers all three widely applied variable molecular markers. Using a nested PCR approach specific to AMF, we amplified a part (c. 2.5 kb) of the rDNA spanning the majority of the small subunit rRNA (SSU) gene, the complete internal transcribed spacer (ITS) region and a part of the large subunit (LSU) rRNA gene. The PCR products were sequenced on the PacBio platform utilizing Single Molecule Real Time (SMRT) sequencing. Employing this method for selected environmental DNA samples, we were able to describe complex AMF communities consisting of various glomeromycotan lineages. We demonstrate the applicability of this new 2.5 kb approach to provide robust phylogenetic assignment of AMF lineages without known sequences from pure cultures and to consolidate information about AMF taxon distributions coming from three widely used barcoding regions into one integrative dataset.
+
+rDNA: !spans! SSU gene
+rDNA: !spans! ITS region
+rDNA: !spans! LSU rRNA gene
+PCR: !amplifies! 2.5 kb of rDNA
+PacBio platform: !utilizes! SMRT sequencing
+environmental DNA samples: !describes! complex AMF communities
+2.5 kb approach: !provides! robust phylogenetic assignment
+2.5 kb approach: !consolidates! information from 3 barcoding regions

@@ -1,0 +1,6 @@
+Yield of harvestable plant organs depends on photosynthetic assimilate production in source leaves, long-distance sucrose transport and sink-strength. While photosynthesis optimization has received considerable interest for optimizing plant yield, the potential for improving long-distance sucrose transport has received far less attention. Interestingly, a recent potato study demonstrates that the tuberigen StSP6A binds to and reduces activity of the StSWEET11 sucrose exporter. While the study suggested that reducing phloem sucrose efflux may enhance tuber yield, the precise mechanism and physiological relevance of this effect remained an open question. Here, we develop the first mechanistic model for sucrose transport, parameterized for potato plants. The model incorporates SWEET-mediated sucrose export, SUT-mediated sucrose retrieval from the apoplast and StSP6A-StSWEET11 interactions. Using this model, we were able to substantiate the physiological relevance of the StSP6A-StSWEET11 interaction in the long-distance phloem for potato tuber yield, as well as to show the non-linear nature of this effect.
+
+StSP6A: !binds to and reduces activity of! StSWEET11
+StSP6A: !interacts with! StSWEET11
+SWEET: !mediates! sucrose export
+SUT: !mediates! sucrose retrieval from apoplast

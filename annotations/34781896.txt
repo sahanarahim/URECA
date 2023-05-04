@@ -1,0 +1,12 @@
+Leaf hydraulic and economics traits are critical for balancing plant water and CO<sub>2</sub> exchange, and their relationship has been widely studied. Leaf anatomical traits determine the efficiency of CO<sub>2</sub> diffusion within mesophyll structure. However, it remains unclear whether leaf anatomical traits are associated with leaf hydraulic and economics traits acclimation to long-term drought. To address this knowledge gap, eight hydraulic traits, including stomatal and venation structures, four economics traits, including leaf dry mass per area (LMA) and the ratio between palisade and spongy mesophyll thickness (PT/ST), and four anatomical traits related to CO<sub>2</sub> diffusion were measured in tomato seedlings under the long-term drought conditions. Redundancy analysis indicated that the long-term drought decreased stomatal conductance (g<sub>s</sub>) mainly due to a synchronized reduction in hydraulic structure such as leaf hydraulic conductance (K<sub>leaf</sub>) and major vein width. Simultaneously, stomatal aperture on the adaxial surface and minor vein density (VD<sub>minor</sub>) also contributed a lot to this reduction. The decreases in mesophyll thickness (T<sub>mes</sub>) and chlorophyll surface area exposed to leaf intercellular air spaces (S<sub>c</sub>/S) were primarily responsible for the decline of mesophyll conductance (g<sub>m</sub>) thereby affecting photosynthesis. Drought increased leaf density (LD) thus limited CO<sub>2</sub> diffusion. In addition, LMA may not be important in regulating g<sub>m</sub> in tomato under drought. Principal component analysis revealed that main anatomical traits such as T<sub>mes</sub> and S<sub>c</sub>/S were positively correlated to K<sub>leaf</sub>, VD<sub>minor</sub> and leaf thickness (LT), while negatively associated with PT/ST. These findings indicated that leaf anatomy plays an important role in maintaining the balance between water supply and CO<sub>2</sub> diffusion responses to drought. There was a strong coordination between leaf hydraulic, anatomical, and economical traits in tomato seedlings acclimation to long-term drought.
+
+Kleaf: !correlated with! Tmes
+Kleaf: !correlated with! VDminor
+Kleaf: !correlated with! LT
+Kleaf: !inversely correlated with! PT/ST
+g_s: !decreased due to! stomatal aperture
+g_s: !decreased due to! VDminor
+g_m: !decreased due to! Tmes
+g_m: !decreased due to! S_c/S
+LD: !increased due to! drought
+LMA: !not important in regulating! g_m

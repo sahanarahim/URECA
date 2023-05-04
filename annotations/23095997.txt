@@ -1,0 +1,9 @@
+Three evolutionarily closely related WRKY-domain transcription factors WRKY18, WRKY40, and WRKY60 in Arabidopsis were previously identified as negative abscisic acid (ABA) signalling regulators, of which WRKY40 regulates ABI4 and ABI5 expression, but it remains unclear whether and how the three transcription factors cooperate to regulate expression of ABI4 and ABI5. In the present experiments, it was shown that WRKY18 and WRKY60, like WRKY40, interact with the W-box in the promoters of ABI4 and ABI5 genes, though the three WRKYs have their own preferential binding domains in the two promoters. WRKY18 and WRKY60, together with WRKY40, inhibit expression of the ABI5 and/or ABI4 genes, which is consistent with their negative roles in ABA signalling. Further, genetic evidence is provided that mutations of ABI4 and ABI5 genes suppress ABA-hypersensitive phenotypes of the null mutant alleles of WRKY18 and WRKY60 genes, demonstrating that ABI4 and ABI5 function downstream of these two WRKY transcription factors in ABA signalling. A working model of cooperation of the three WRKYs in repressing ABI4 and ABI5 expression is proposed, in which the three WRKYs antagonize or aid each other in a highly complex manner. These findings help to understand the complex mechanisms of WRKY-mediated ABA signal transduction.
+
+WRKY18: !interacts with! W-box 
+WRKY60: !interacts with! W-box 
+WRKY40: !interacts with! W-box 
+WRKY18: !represses! ABI4/ABI5 
+WRKY60: !represses! ABI4/ABI5 
+WRKY40: !represses! ABI4/ABI5 
+ABI4/ABI5: !suppress! WRKY18/WRKY60 mutants

@@ -1,0 +1,9 @@
+['18326828', 'Plant immune responses to pathogen attack include the hypersensitive response  (HR), a form of programmed cell death occurring at invasion sites. We previously  reported on Arabidopsis thaliana MYB30, a transcription factor that acts as a  positive regulator of a cell death pathway conditioning the HR. Here, we show by  microarray analyses of Arabidopsis plants misexpressing MYB30 that the genes  encoding the four enzymes forming the acyl-coA elongase complex are putative  MYB30 targets. The acyl-coA elongase complex synthesizes very-long-chain fatty  acids (VLCFAs), and the accumulation of extracellular VLCFA-derived metabolites  (leaf epidermal wax components) was affected in MYB30 knockout mutant and  overexpressing lines. In the same lines, a lipid extraction procedure allowing  high recovery of sphingolipids revealed changes in VLCFA contents that were  amplified in response to inoculation. Finally, the exacerbated HR phenotype of  MYB30-overexpressing lines was altered by the loss of function of the acyl-ACP  thioesterase FATB, which causes severe defects in the supply of fatty acids for  VLCFA biosynthesis. Based on these findings, we propose a model in which MYB30  modulates HR via VLCFAs by themselves, or VLCFA derivatives, as cell death  messengers in plants.', '2008 Mar', 'Plant Cell', '10.1105/tpc.107.054858', 'Roby']
+
+MYB30: !regulates! HR 
+MYB30: !targets! acyl-coA elongase complex 
+acyl-coA elongase complex: !synthesizes! VLCFAs 
+VLCFAs: !affects! leaf epidermal wax components 
+VLCFAs: !amplifies! response to inoculation 
+FATB: !supplies! fatty acids for VLCFA biosynthesis 
+MYB30: !modulates! HR via VLCFAs

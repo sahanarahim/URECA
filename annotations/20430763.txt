@@ -1,0 +1,10 @@
+['20430763', 'Arabidopsis has three PsbQ-like (PQL) proteins in addition to the PsbQ subunit of  the oxygen-evolving complex of PSII. Recent bioinformatic and proteomic studies  suggested that the two PQL proteins, PQL1 (At1g14150) and PQL2 (At3g01440), might  function in the chloroplast NAD(P)H dehydrogenase (NDH) complex; however, their  molecular function has not been characterized. In this study, we examined the  function of the chloroplast NDH in the Arabidopsis pql1 and pql2 mutants.  Post-illumination increases in Chl fluorescence, which are caused by an  NDH-dependent cyclic electron flow, were absent in both mutants, indicating that  PQL1 and PQL2 are required for NDH activity. In the thylakoid membranes of  wild-type plants, PQL1 and PQL2 were tightly associated with the NDH-PSI  supercomplex and protected from protease treatments, while unassembled PQLs were  not stably accumulated in mutants lacking known NDH subunits. Subunit stability  of the NDH complex was affected differently in the thylakoid membranes of the  pql1 and pql2 mutants. These data indicate that PQL1 and PQL2 are novel NDH  subunits and differ in their functional roles and in their binding sites in the  NDH complex. Furthermore, functional analysis on PQL3 (At2g01918) using the pql3  mutant suggests that PQL3 is also required for NDH activity. Proteins homologous  to each PQL protein are found in various plant species, but not in cyanobacteria,  algae, mosses or ferns. These results suggest that seed plants that have NDH  activity in chloroplasts specifically developed three PQL proteins for the  function of the chloroplast NDH complex.', '2010 Jun', 'Plant Cell Physiol', '10.1093/pcp/pcq060', 'Sato']
+
+PQL1: !affects! NDH activity 
+PQL2: !affects! NDH activity 
+PQL1: !localizes to! NDH-PSI supercomplex 
+PQL2: !localizes to! NDH-PSI supercomplex 
+PQL3: !affects! NDH activity 
+PQL1: !interacts with! PQL2 
+PQL3: !interacts with! PQL1 
+PQL3: !interacts with! PQL2

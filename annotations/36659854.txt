@@ -1,0 +1,8 @@
+Bud dormancy is an important trait in geophytes that largely affects their flowering process and vegetative growth after dormancy release. Compared with seed dormancy, the regulation of bud dormancy is still largely unclear. Abscisic acid (ABA) acts as the predominant hormone that regulates the whole dormancy process. In Gladiolus (Gladiolus hybridus), cold storage promotes corm dormancy release (CDR) by repressing ABA biosynthesis and signaling. However, the mechanisms governing ABA-related processes during CDR via epigenetics are poorly understood. Here, we show that class I BASIC PENTACYSTEINE2, (GhBPC2) directly binds to 9-CIS-EPOXYCAROTENOID DIOXYGENASE (GhNCED) and ABA INSENSITIVE5 (GhABI5) loci and down-regulates their expression to accelerate CDR. During CDR, histone modifications change dramatically at the GhBPC2-binding loci of GhABI5 with an increase in H3K27me3 and a decrease in H3K4me3. GhBPC2 is involved in both H3K27me3 and H3K4me3 and fine-tunes GhABI5 expression by recruiting polycomb repressive complex 2 (PRC2) and the chromatin remodeling factor EARLY BOLTING IN SHORT DAYS (GhEBS). These results show GhBPC2 epigenetically regulates CDR in Gladiolus by mediating GhABI5 expression with PRC2 and GhEBS.
+
+GhBPC2: !binds to! GhNCED, GhABI5
+GhBPC2: !down-regulates! GhNCED, GhABI5 expression
+GhBPC2: !mediates! GhABI5 expression
+H3K27me3: !increases! at GhBPC2-binding loci
+H3K4me3: !decreases! at GhBPC2-binding loci
+GhBPC2: !recruits! PRC2, GhEBS

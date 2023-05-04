@@ -1,0 +1,8 @@
+Traditional analysis of liquid chromatography-mass spectrometry (LC-MS) data, typically performed by reviewing chromatograms and the corresponding mass spectra, is both time-consuming and difficult. Detailed data analysis is therefore often omitted in proteomics applications. When analysing multiple proteomics samples, it is usually only the final list of identified proteins that is reviewed. This may lead to unnecessarily complex or even contradictory results because the content of the list of identified proteins depends heavily on the conditions for triggering the collection of tandem mass spectra. Small changes in the signal intensity of a peptide in different LC-MS experiments can lead to the collection of a tandem mass spectrum in one experiment but not in another. Also, the quality of the tandem mass spectrometry experiments can vary, leading to successful identification in some cases but not in others. Using a novel image analysis approach, it is possible to achieve repeat analysis with a very high reproducibility by matching peptides across different LC-MS experiments using the retention time and parent mass over charge (m/z). It is also easy to confirm the final result visually. This approach has been investigated by using tryptic digests of integral membrane proteins from organelle-enriched fractions from Arabidopsis thaliana and it has been demonstrated that very highly reproducible, consistent, and reliable LC-MS data interpretation can be made.
+
+Gene: !affects! LC-MS data analysis 
+Gene: !localizes to! Arabidopsis thaliana 
+Gene: !interacts with! peptides 
+Gene: !enhances! reproducibility 
+Gene: !represses! signal intensity 
+Gene: !synthesizes! tandem mass spectra

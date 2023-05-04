@@ -1,0 +1,8 @@
+Grapevine leafroll-associated virus 2 (GLRaV-2) is a prevalent virus associated with grapevine leafroll disease, but the molecular mechanism underlying GLRaV-2 infection is largely unclear. Here, we report that 24-kDa protein (p24), an RNA-silencing suppressor (RSS) encoded by GLRaV-2, promotes GLRaV-2 accumulation via interaction with the B3 DNA-binding domain of grapevine (Vitis vinifera) RELATED TO ABSCISIC ACID INSENSITIVE3/VIVIPAROUS1 (VvRAV1), a transcription factor belonging to the APETALA2/ETHYLENE RESPONSE FACTOR (AP2/ERF) superfamily. Salicylic acid-inducible VvRAV1 positively regulates the grapevine pathogenesis-related protein 1 (VvPR1) gene by directly binding its promoter, indicating that VvRAV1 may function in the regulation of host basal defense responses. p24 hijacks VvRAV1 to the cytoplasm and employs the protein to sequester 21-nt double-stranded siRNA together, thereby enhancing its own RSS activity. Moreover, p24 enters the nucleus via interaction with VvRAV1 and weakens the latter's binding affinity to the VvPR1 promoter, leading to decreased expression of VvPR1. Our results provide a mechanism by which a viral RSS interferes with both the antiviral RNA silencing and the AP2/ERF-mediated defense responses via the targeting of one specific host factor.
+
+p24: !interacts with! VvRAV1
+VvRAV1: !regulates! VvPR1
+p24: !hijacks! VvRAV1
+p24: !enters nucleus via! VvRAV1
+p24: !sequesters! 21-nt double-stranded siRNA
+p24: !weakens! VvRAV1 binding affinity

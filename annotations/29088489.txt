@@ -1,0 +1,8 @@
+In the last decade, much progress has been made in the photosynthetic production of valuable products using unicellular cyanobacteria. However, production of some products requires dark, anaerobic incubation, which prevents practical applications using these organisms. Anabaena sp. PCC 7120 (A. 7120) is a heterocyst-forming multicellular cyanobacterium that is easy to manipulate genetically. Upon nitrogen step-down, this strain differentiates heterocysts that retain micro-oxic conditions for nitrogen fixation. We have developed gene regulation tools in this cyanobacterium. However, lack of a cell type-specific gene induction system has prevented A. 7120 from becoming a bona fide attractive host for photosynthetic production. We validated the usability of two transcriptional ON riboswitches that respond to theophylline or adenine. We then created a cell type-specific gene induction system by combining the riboswitches and promoters specific to either heterocysts or vegetative cells. We also created another cell type-specific gene induction system using small RNA that activates translation. Consequently, our study has expanded the toolbox for gene regulation in cyanobacteria and has enabled spatio-temporal gene induction in multicellular cyanobacteria.
+
+riboswitch: !responds to! theophylline 
+riboswitch: !responds to! adenine 
+promoter: !specific to! heterocysts 
+promoter: !specific to! vegetative cells 
+small RNA: !activates! translation 
+gene regulation tools: !expanded by! study

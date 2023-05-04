@@ -1,0 +1,8 @@
+['25862497', 'Voltage-dependent anion channels (VDACs) are conserved mitochondrial outer  membrane proteins. A yeast two-hybrid screen identified interaction between  Arabidopsis VDAC3 and the chloroplast protein thioredoxin m2 (AtTrx m2). This was  confirmed via pull-down assay. A bimolecular fluorescence complementation assay  located the interaction in mitochondria. AtVDAC3 and AtTrx m2 transcripts were  expressed in multiple tissues and up-regulated by abiotic stress. Under NaCl  stress, AtVDAC3 overexpression inhibited growth and increased H2O2 accumulation,  while AtTrx m2 overexpression conferred resistance to NaCl and reduced H2O2.  Results indicate that both AtVDAC3 and AtTrx m2 are involved in ROS signaling and  play opposite roles in NaCl stress response.', '2015 May 8', 'FEBS Lett', '10.1016/j.febslet.2015.03.034', 'Zhang']
+
+VDAC3: !interacts with! AtTrx m2
+AtVDAC3: !localizes to! mitochondria
+AtVDAC3: !enhances! ROS signaling
+AtTrx m2: !represses! NaCl stress response
+AtVDAC3: !enhances! NaCl stress response
+AtTrx m2: !represses! H2O2 accumulation

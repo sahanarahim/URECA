@@ -1,0 +1,7 @@
+Bacterial wilt (BW) caused by Ralstonia solanacearum is a serious disease affecting the production of Solanaceae species, including eggplant (Solanum melongena). However, few resistance genes have been identified in eggplant, and therefore the underlying mechanism of BW resistance remains unclear. Hence, we investigated a spermidine synthase (SPDS) gene from eggplant and created knock-down lines with virus-induced gene silencing. After eggplant was infected with R. solanacearum, the SmSPDS gene was induced, concurrent with increased spermidine (Spd) content, especially in the resistant line. We speculated that Spd plays a significant role in the defense response of eggplant to BW. Moreover, using the yeast one-hybrid approach and dual luciferase-based transactivation assay, an R2R3-MYB transcription factor, SmMYB44, was identified as directly binding to the SmSPDS promoter, activating its expression. Overexpression of SmMYB44 in eggplant induced the expression of SmSPDS and Spd content, increasing the resistance to BW. In contrast, the SmMYB44-RNAi transgenic plants showed more susceptibility to BW compared with the control plants. Our results provide insight into the SmMYB44-SmSPDS-Spd module involved in the regulation of resistance to R. solanacearum. This research also provides candidates to enhance resistance to BW in eggplant.
+
+SmSPDS: !induces! Spd
+SmMYB44: !binds to! SmSPDS promoter
+SmMYB44: !activates! SmSPDS expression
+SmMYB44: !overexpresses! SmSPDS & Spd
+SmMYB44-RNAi: !increases susceptibility to! BW

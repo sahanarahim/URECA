@@ -1,0 +1,7 @@
+Analysis of tomato (Solanum lycopersicum) small RNA data sets revealed the presence of a regulatory cascade affecting disease resistance. The initiators of the cascade are microRNA members of an unusually diverse superfamily in which miR482 and miR2118 are prominent members. Members of this superfamily are variable in sequence and abundance in different species, but all variants target the coding sequence for the P-loop motif in the mRNA sequences for disease resistance proteins with nucleotide binding site (NBS) and leucine-rich repeat (LRR) motifs. We confirm, using transient expression in Nicotiana benthamiana, that miR482 targets mRNAs for NBS-LRR disease resistance proteins with coiled-coil domains at their N terminus. The targeting causes mRNA decay and production of secondary siRNAs in a manner that depends on RNA-dependent RNA polymerase 6. At least one of these secondary siRNAs targets other mRNAs of a defense-related protein. The miR482-mediated silencing cascade is suppressed in plants infected with viruses or bacteria so that expression of mRNAs with miR482 or secondary siRNA target sequences is increased. We propose that this process allows pathogen-inducible expression of NBS-LRR proteins and that it contributes to a novel layer of defense against pathogen attack.
+
+miR482: !targets! mRNAs for NBS-LRR disease resistance proteins 
+mRNA sequences: !targeted by! miR482 
+miR482: !produces! secondary siRNAs 
+secondary siRNAs: !target! other mRNAs of defense-related protein 
+pathogen infection: !suppresses! miR482-mediated silencing cascade

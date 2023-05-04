@@ -1,0 +1,10 @@
+An Arabidopsis mutant, eer5-1, which has an enhanced ethylene response in etiolated seedlings, including hypersensitivity and extreme exaggeration of response to ethylene, was isolated and characterized. As with other identified eer mutants, the enhanced response phenotype of eer5-1 was correlated with failure to induce appropriately a subset of ethylene-regulated genes, suggesting that proper ethylene-responsive gene expression is necessary for resetting the ethylene response pathway. eer5-1 represents a mutation that causes an amino acid substitution in a previously uncharacterized gene, which encodes a protein with a PAM [proteasome COP9 initiation factor (PCI/PINT)-associated module] domain similar to those found in components of the COP9 signalosome (CSN). Genetic analysis shows that manifestation of the eer5 mutant phenotype is solely dependent on ethylene signaling, as the ein2-5 eer5-1 double mutant was indistinguishable from ein2-5 in the presence of saturating ethylene concentrations. In contrast, the ein3-1 eer5-1 double mutant displayed characteristics of an enhanced ethylene response, and this suggests that EER5 regulates ethylene signaling independently of EIN3. Analysis of the EER5 protein indicates that it interacts with the C-terminus of EIN2 and with the CSN, suggesting that EER5 serves as a bridge between EIN2 and the modification or degradation of target proteins, including a proposed group of transcriptional repressors, as part of a resetting mechanism during or following ethylene signaling.
+
+eer5-1: !enhances! ethylene response
+eer5-1: !fails to induce! subset of ethylene-regulated genes
+eer5-1: !encodes! protein with PAM domain
+ein2-5 eer5-1: !indistinguishable from! ein2-5
+ein3-1 eer5-1: !displays characteristics of! enhanced ethylene response
+EER5: !interacts with! C-terminus of EIN2
+EER5: !interacts with! CSN
+EER5: !serves as a bridge between! EIN2 and target proteins

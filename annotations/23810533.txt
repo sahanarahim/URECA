@@ -1,0 +1,8 @@
+It is increasingly apparent that the dynamic microbial communities of long-lived hosts affect their phenotype, including resistance to disease. The host microbiota will change over time due to immigration of new species, interaction with the host immune system, and selection by bacteriophage viruses (phages), but the relative roles of each process are unclear. Previous metagenomic approaches confirm the presence of phages infecting host microbiota, and experimental coevolution of bacteria and phage populations in the laboratory has demonstrated rapid reciprocal change over time. The key challenge is to determine whether phages influence host-associated bacterial communities in nature, in the face of other selection pressures. I use a tree-bacteria-phage system to measure reciprocal changes in phage infectivity and bacterial resistance within microbial communities of tree hosts over one season. An experimental time shift shows that bacterial isolates are most resistant to lytic phages from the prior month and least resistant to those from the future month, providing clear evidence for both phage-mediated selection on bacterial communities and bacterial-mediated selection on phage communities in nature. These reciprocal changes suggest that phages indeed play a key role in shaping the microbiota of their eukaryotic hosts.
+
+host: !harbors! microbiota
+microbiota: !affected by! host immune system
+microbiota: !selected by! bacteriophage viruses
+bacteriophage viruses: !select! bacterial communities
+bacterial communities: !resistant to! lytic phages
+lytic phages: !influence! host-associated bacterial communities

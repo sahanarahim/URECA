@@ -1,0 +1,8 @@
+Plant development studies often generate data in the form of multivariate time series, each variable corresponding to a count of newly emerged organs for a given development process. These phenological data often exhibit highly structured patterns, and the aim of this study was to identify such patterns in cultivated strawberry. Six strawberry genotypes were observed weekly for their course of emergence of flowers, leaves, and stolons during 7 months. We assumed that these phenological series take the form of successive phases, synchronous between individuals. We applied univariate multiple change-point models for the identification of flowering, vegetative development, and runnering phases, and multivariate multiple change-point models for the identification of consensus phases for these three development processes. We showed that the flowering and the runnering processes are the main determinants of the phenological pattern. On this basis, we propose a typology of the six genotypes in the form of a hierarchical classification. This study introduces a new longitudinal data modeling approach for the identification of phenological phases in plant development. The focus was on development variables but the approach can be directly extended to growth variables and to multivariate series combining growth and development variables.
+
+Gene: !affects! Development Process 
+Gene: !determines! Phenological Pattern 
+Gene: !classifies! Genotypes 
+Gene: !synchronizes! Individuals 
+Gene: !identifies! Phases 
+Gene: !extends to! Growth Variables

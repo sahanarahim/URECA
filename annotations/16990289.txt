@@ -1,0 +1,8 @@
+Recent completion of the sequencing of the rice genome has revealed that it contains >40% repetitive sequences, most of which are related to inactive transposable elements. During the molecular analysis of the floral organ number 1/multiple pistil 2 (fon1/mp2) mutant, we identified an active transposable element dTok0 that was inserted at the kinase domain of FON1, a homolog of CLAVATA1. Insertion of the element into FON1 generated an 8 bp duplication of its target sites, which is one of the major characteristics of the hAT family of transposons. The dTok0 element was actively transposed out of the FON1 gene, leaving 5-8 bp footprints. Reinsertion into a new location was observed at a low frequency. Analysis of the genome sequence showed that the rice cultivar 'Nipponbare' contains 25 copies of dTok elements; similar numbers were present in all the Oryza species examined. Because dTok0 does not encode a transposase, enzyme activity should be provided in trans. We identified a putative autonomous transposon, Tok1 that contains an intact open reading frame of the Ac-like transposase.
+
+FON1: !affected by! dTok0 
+dTok0: !inserted into! FON1 
+dTok0: !transposed out of! FON1 
+Nipponbare: !contains! dTok elements 
+dTok0: !lacks! transposase 
+Tok1: !encodes! Ac-like transposase

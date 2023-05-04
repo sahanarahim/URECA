@@ -1,0 +1,9 @@
+Successful transformation of plants by Agrobacterium tumefaciens requires that the bacterial T-complex actively escorts T-DNA into the host's nucleus. VirD2 and VirE2 are virulence proteins on the T-complex that have plant-functional nuclear localization signal sequences that may recruit importin alpha proteins of the plant for nuclear import. In this study, we evaluated the involvement of seven of the nine members of the Arabidopsis thaliana importin alpha family in Agrobacterium transformation. Yeast two-hybrid, plant bimolecular fluorescence complementation, and in vitro protein-protein interaction assays demonstrated that all tested Arabidopsis importin alpha members can interact with VirD2 and VirE2. However, only disruption of the importin IMPa-4 inhibited transformation and produced the rat (resistant to Agrobacterium transformation) phenotype. Overexpression of six importin alpha members, including IMPa-4, rescued the rat phenotype in the impa-4 mutant background. Roots of wild-type and impa-4 Arabidopsis plants expressing yellow fluorescent protein-VirD2 displayed nuclear localization of the fusion protein, indicating that nuclear import of VirD2 is not affected in the impa-4 mutant. Somewhat surprisingly, VirE2-yellow fluorescent protein mainly localized to the cytoplasm of both wild-type and impa-4 Arabidopsis cells and to the cytoplasm of wild-type tobacco (Nicotiana tabacum) cells. However, bimolecular fluorescence complementation assays indicated that VirE2 could localize to the nucleus when IMPa-4, but not when IMPa-1, was overexpressed.
+
+VirD2: !interacts with! IMPa-4
+VirE2: !interacts with! IMPa-4
+VirD2: !localizes to! nucleus
+VirE2: !localizes to! cytoplasm
+IMPa-4: !enhances! transformation
+IMPa-4: !represses! rat phenotype
+IMPa-1: !inhibits! VirE2 localization to nucleus

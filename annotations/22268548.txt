@@ -1,0 +1,10 @@
+Floral transition in Arabidopsis is tightly controlled by complex genetic regulatory networks in response to endogenous and environmental flowering signals. SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1 (SOC1) and SHORT VEGETATIVE PHASE (SVP), two key MADS-domain transcription factors, perceive these signals and function as antagonistic flowering regulators. To understand how these factors mediate floral transition, we mapped in vivo binding sites of SOC1 and SVP using chromatin immunoprecipitation followed by hybridization to whole-genome tiling arrays (ChIP-chip). Genes that encoded proteins with transcription regulator activity and transcription factor activity were the most enriched groups of genes of those bound by SOC1 and SVP, which indicates their central roles in flowering regulatory networks. In combination with gene expression microarray studies, we further identified the genes whose expression was controlled directly by SOC1 or SVP. Among the common direct targets identified, APETALA2 (AP2)-like genes that repress FT and SOC1 expression were down-regulated by SOC1, but up-regulated by SVP, revealing a complex feedback regulation among the key genes that determine the integration of flowering signals. SOC1 regulatory regions were also accessed by SOC1 itself and SVP, suggesting that self-activation and repression by SVP contribute to the control of SOC1 expression. In addition, ChIP-chip analysis demonstrated that miR156e and miR172a, which are involved in the regulation of AP2-like genes, were direct targets of SOC1 and SVP, respectively. Taken together, these findings revealed that feedback regulatory loops mediated by SOC1 and SVP are essential components of the gene regulatory networks that underpin the integration of flowering signals during floral transition.
+
+SOC1: !binds to! genes with transcription regulator activity
+SVP: !binds to! genes with transcription factor activity
+SOC1: !down-regulates! AP2-like genes
+SVP: !up-regulates! AP2-like genes
+SOC1: !accesses! its own regulatory regions
+SVP: !accesses! SOC1 regulatory regions
+SOC1: !targets! miR156e
+SVP: !targets! miR172a

@@ -1,0 +1,11 @@
+In flowering plants, double fertilization of the female gametes, the egg and the central cell, initiates seed development to give rise to a diploid embryo and the triploid endosperm. In the absence of fertilization, the FERTILIZATION-INDEPENDENT SEED Polycomb Repressive Complex 2 (FIS-PRC2) represses this developmental process by histone methylation of certain target genes. The FERTILIZATION-INDEPENDENT SEED (FIS) class genes MEDEA (MEA) and FERTILIZATION-INDEPENDENT ENDOSPERM (FIE) encode two of the core components of this complex. In addition, DNA methylation establishes and maintains the repression of gene activity, for instance via DNA METHYLTRANSFERASE1 (MET1), which maintains methylation of symmetric CpG residues. Here, we demonstrate that Arabidopsis MET1 interacts with MEA in vitro and in a yeast two-hybrid assay, similar to the previously identified interaction of the mammalian homologues DNMT1 and EZH2. MET1 and MEA share overlapping expression patterns in reproductive tissues before and after fertilization, a prerequisite for an interaction in vivo. Importantly, a much higher percentage of central cells initiate endosperm development in the absence of fertilization in mea-1/MEA; met1-3/MET1 as compared to mea-1/MEA mutant plants. In addition, DNA methylation at the PHERES1 and MEA loci, imprinted target genes of the FIS-PRC2, was affected in the mea-1 mutant compared with wild-type embryos. In conclusion, our data suggest a mechanistic link between two major epigenetic pathways involved in histone and DNA methylation in plants by physical interaction of MET1 with the FIS-PRC2 core component MEA. This concerted action is relevant for the repression of seed development in the absence of fertilization.
+
+FIS-PRC2: !represses! seed development
+MEA: !interacts with! MET1
+MET1: !interacts with! MEA
+MEA: !shares overlapping expression! with MET1
+mea-1/MEA; met1-3/MET1: !initiates endosperm development! in absence of fertilization
+DNA methylation: !maintains! repression of gene activity
+MET1: !maintains methylation! of symmetric CpG residues
+MEA: !part of core component! of FIS-PRC2
+MET1: !physical interaction with! FIS-PRC2 core component MEA

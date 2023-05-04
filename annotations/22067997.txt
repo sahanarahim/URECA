@@ -1,0 +1,12 @@
+Vacuoles of different leaf cell-types vary in their capacity to store specific mineral elements. In Arabidopsis thaliana potassium (K) accumulates preferentially in epidermal and bundle sheath cells whereas calcium (Ca) and magnesium (Mg) are stored at high concentrations only in mesophyll cells. Accumulation of these elements in a particular vacuole can be reciprocal, i.e. as [K]vac increases [Ca]vac decreases. Mesophyll-specific Ca-storage involves CAX1 (a Ca2+/H+ antiporter) and Mg-storage involves MRS2-1/MGT2 and MRS2-5/MGT3 (both Mg2+-transporters), all of which are preferentially expressed in the mesophyll and encode tonoplast-localised proteins. However, what controls leaf-cell [K]vac is less well understood. TPC1 encodes the two-pore Ca2+ channel protein responsible for the tonoplast-localised SV cation conductance, and is highly expressed in cell-types that not preferentially accumulate Ca. Here, we evaluate evidence that TPC1 has a role in maintaining differential K and Ca storage across the leaf, and propose a function for TPC1 in releasing Ca2+ from epidermal and bundle sheath cell vacuoles to maintain low [Ca]vac. Mesophyll-specific Ca storage is essential to maintain apoplastic free Ca concentration at a level that does not perturb a range of physiological parameters including leaf gas exchange, cell wall extensibility and growth. When plants are grown under serpentine conditions (high Mg/Ca ratio), MGT2/MRS2-1 and MGT3/MRS2-5 are required to sequester additional Mg2+ in vacuoles to replace Ca2+ as an osmoticum to maintain growth. An updated model of Ca2+ and Mg2+ transport in leaves is presented as a reference for future interrogation of nutritional flows and elemental storage in plant leaves.
+
+CAX1: !localizes to! mesophyll cells
+TPC1: !localizes to! epidermal and bundle sheath cells
+MRS2-1/MGT2: !localizes to! mesophyll cells
+MRS2-5/MGT3: !localizes to! mesophyll cells
+TPC1: !enhances! K storage
+CAX1: !enhances! Ca storage
+MRS2-1/MGT2: !enhances! Mg storage
+MRS2-5/MGT3: !enhances! Mg storage
+K: !increases! Ca decreases
+Mg: !replaces! Ca as osmoticum

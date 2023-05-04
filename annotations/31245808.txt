@@ -1,0 +1,10 @@
+To investigate the effect of high atmospheric NO concentrations on crop plants and the role of phytoglobins under these conditions, we performed a long-term study on barley 'Golden Promise' wild type (WT), class 1 phytoglobin knockdown (HvPgb1.1-) and class 1 phytoglobin overexpression (HvPgb1.1+) lines. Plants were cultivated with nitrogen-free nutrient solution during the entire growth period and were fumigated with different NO concentration (ambient, 800, 1500, and 3000 ppb). Analysis of fresh weight, stem number, chlorophyll content, and effective quantum yield of PSII showed that NO fumigation promoted plant growth and tillering significantly in the HvPgb1.1+ line. After 80 d of NO fumigation, dry matter weight, spikes number, kernel number, and plant kernel weight were significantly increased in HvPgb1.1+ plants with increasing NO concentration. In contrast, yield decreased in WT and HvPgb1.1- plants the higher the NO level. Application of atmospheric 15NO and 15NO2 demonstrated NO specificity of phytoglobins. 15N from 15NO could be detected in RNA, DNA, and proteins of barley leaves and the 15N levels were significantly higher in HvPgb1.1+ plants in comparison with HvPgb1.1- and WT plants. Our results demonstrate that overexpression of phytoglobins allows plants to more efficiently use atmospheric NO as N source.
+
+Gene: !affects! Process
+HvPgb1.1+: !promotes! Plant growth
+HvPgb1.1+: !increases! Yield
+HvPgb1.1-: !decreases! Yield
+WT: !decreases! Yield
+Phytoglobin: !specific to! NO
+15NO: !detected in! RNA, DNA, proteins
+15N: !higher in! HvPgb1.1+ plants

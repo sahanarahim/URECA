@@ -1,0 +1,8 @@
+Infection of crop species by parasitic plants is a major agricultural hindrance resulting in substantial crop losses worldwide. Parasitic plants establish vascular connections with the host plant via structures termed haustoria, which allow acquisition of water and nutrients, often to the detriment of the infected host. Despite the agricultural impact of parasitic plants, the molecular and developmental processes by which host/parasitic interactions are established are not well understood. Here, we examine the development and subsequent establishment of haustorial connections by the parasite dodder (Cuscuta pentagona) on tobacco (Nicotiana tabacum) plants. Formation of haustoria in dodder is accompanied by upregulation of dodder KNOTTED-like homeobox transcription factors, including SHOOT MERISTEMLESS-like (STM). We demonstrate interspecific silencing of a STM gene in dodder driven by a vascular-specific promoter in transgenic host plants and find that this silencing disrupts dodder growth. The reduced efficacy of dodder infection on STM RNA interference transgenics results from defects in haustorial connection, development, and establishment. Identification of transgene-specific small RNAs in the parasite, coupled with reduced parasite fecundity and increased growth of the infected host, demonstrates the efficacy of interspecific small RNA-mediated silencing of parasite genes. This technology has the potential to be an effective method of biological control of plant parasite infection.
+
+dodder: !upregulates! STM
+STM: !disrupts! dodder growth
+STM: !silences! parasite genes
+transgene: !mediates! small RNA silencing
+small RNA: !reduces! parasite fecundity
+host: !increases! growth

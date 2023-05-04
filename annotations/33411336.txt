@@ -1,0 +1,11 @@
+Ascospores generated during sexual reproduction are the primary inoculum for the wheat scab fungus Fusarium graminearum. Purine metabolism is known to play important roles in fungal pathogens but its lifecycle stage-specific regulation is unclear. By characterizing the genes involved in purine de novo and salvage biosynthesis pathways, we showed that de novo syntheses of inosine, adenosine and guanosine monophosphates (IMP, AMP and GMP) are important for vegetative growth, sexual/asexual reproduction, and infectious growth, whereas purine salvage synthesis is dispensable for these stages in F. graminearum. Addition of GMP rescued the defects of the Fgimd1 mutant in vegetative growth and conidiation but not sexual reproduction, whereas addition of AMP rescued all of these defects of the Fgade12 mutant, suggesting that the function of de novo synthesis of GMP rather than AMP is distinct in sexual stages. Moreover, Acd1, an ortholog of AMP deaminase, is dispensable for growth but essential for ascosporogenesis and pathogenesis, suggesting that AMP catabolism has stage-specific functions during sexual reproduction and infectious growth. The expression of almost all the genes involved in de novo purine synthesis is downregulated during sexual reproduction and infectious growth relative to vegetative growth. This study revealed that F. graminearum has stage-specific regulation of purine metabolism during infectious growth and sexual reproduction.
+
+Gene: !affects! Process
+Gene: !synthesizes! IMP/AMP/GMP
+Gene: !enhances! Vegetative Growth
+Gene: !enhances! Sexual/Asexual Reproduction
+Gene: !enhances! Infectious Growth
+Gene: !represses! Purine Salvage Synthesis
+Gene: !localizes to! Ascosporogenesis
+Gene: !interacts with! Acd1
+Gene: !represses! Expression

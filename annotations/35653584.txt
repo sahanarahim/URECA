@@ -1,0 +1,9 @@
+The steady-state level of histone acetylation is maintained by histone acetyltransferase (HAT) and histone deacetylase (HDAC) complexes. INhibitor of Growth (ING) proteins are key components of the HAT or HDAC complexes but their relationship with other components and roles in phytopathogenic fungi are not well-characterized. Here, the FNG3 ING gene was functionally characterized in the wheat head blight fungus Fusarium graminearum. Deletion of FNG3 results in defects in fungal development and pathogenesis. Unlike other ING proteins that are specifically associated with distinct complexes, Fng3 was associated with both NuA3 HAT and FgRpd3 HDAC complexes to regulate H3 acetylation and H4 deacetylation. Whereas FgNto1 mediates the FgSas3-Fng3 interaction in the NuA3 complex, Fng3 interacted with the C-terminal region of FgRpd3 that is present in Rpd3 orthologs from filamentous fungi but absent in yeast Rpd3. The intrinsically disordered regions in the C-terminal tail of FgRpd3 underwent phase separation, which was important for its interaction with Fng3. Furthermore, the ING domain of Fng3 is responsible for its specificities in protein-protein interactions and functions. Taken together, Fng3 is involved in the dynamic regulation of histone acetylation by interacting with two histone modification complexes, and is important for fungal development and pathogenicity.
+
+Fng3: !interacts with! NuA3 HAT
+Fng3: !interacts with! FgRpd3 HDAC
+Fng3: !mediates! FgNto1-FgSas3 interaction
+FgRpd3: !contains! intrinsically disordered regions
+Fng3: !specifically interacts with! C-terminal region of FgRpd3
+Fng3: !regulates! H3 acetylation and H4 deacetylation
+Fng3: !important for! fungal development and pathogenicity

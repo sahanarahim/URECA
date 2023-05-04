@@ -1,0 +1,12 @@
+The genome of the plant-colonizing bacterium Pseudomonas fluorescens SBW25 harbors a subset of genes that are expressed specifically on plant surfaces. The function of these genes is central to the ecological success of SBW25, but their study poses significant challenges because no phenotype is discernable in vitro. Here, we describe a genetic strategy with general utility that combines suppressor analysis with IVET (SPyVET) and provides a means of identifying regulators of niche-specific genes. Central to this strategy are strains carrying operon fusions between plant environment-induced loci (EIL) and promoterless 'dapB. These strains are prototrophic in the plant environment but auxotrophic on laboratory minimal medium. Regulatory elements were identified by transposon mutagenesis and selection for prototrophs on minimal medium. Approximately 10(6) mutants were screened for each of 27 strains carrying 'dapB fusions to plant EIL and the insertion point for the transposon determined in approximately 2,000 putative regulator mutants. Regulators were functionally characterized and used to provide insight into EIL phenotypes. For one strain carrying a fusion to the cellulose-encoding wss operon, five different regulators were identified including a diguanylate cyclase, the flagella activator, FleQ, and alginate activator, AmrZ (AlgZ). Further rounds of suppressor analysis, possible by virtue of the SPyVET strategy, revealed an additional two regulators including the activator AlgR, and allowed the regulatory connections to be determined.
+
+genome: !harbors! subset of genes
+strain: !carries! operon fusions
+transposon: !mutagenesis and selection for prototrophs on minimal medium! strain
+regulators: !identified by! transposon mutagenesis
+regulators: !functionally characterized! EIL phenotypes
+diguanylate cyclase: !activates! cellulose-encoding wss operon
+FleQ: !activates! flagella
+AmrZ (AlgZ): !activates! alginate
+AlgR: !activates! alginate
+SPyVET: !reveals! additional two regulators

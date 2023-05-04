@@ -1,0 +1,9 @@
+['9085571', 'We have isolated a cDNA for a cytochrome P450, cinnamate 4-hydroxylase (C4H), of  Arabidopsis thaliana using a C4H cDNA from mung been as a hybridization probe.  The deduced amino acid sequence is 84.7% identical to that of mung bean C4H and  therefore was designated CYP73A5. The CYP73A5 protein was expressed in insect  cells using the baculovirus expression system and when reconstituted with lipid  and NADPH-cytochrome P450 reductase resulted in C4H activity with a specific  activity of 68 nmol min-1 nmol-1 P450. Southern blot analysis revealed that  CYP73A5 is a single-copy gene in Arabidopsis. C4H (CYP73A5) expression was  apparently coordinated in Arabidopsis with both PAL1 and 4CL in response to light  and wounding. Although the light induction of CHS followed a time course similar  to that observed with C4H, no induction of CHS was detected upon wounding. On the  other hand, the C4H expression patterns exhibited no significant coordination  with those of PAL2 and PAL3. A C4H promoter region of 907 bp contained all of the  three cis-acting elements (boxes P, A, and L) conserved among the PAL and 4CL  genes so far reported as controlling expression.', '1997 Mar', 'Plant Physiol', '10.1104/pp.113.3.755', 'Sato']
+
+CYP73A5: !synthesizes! C4H 
+CYP73A5: !localizes to! Arabidopsis thaliana 
+CYP73A5: !enhances! C4H activity 
+CYP73A5: !represses! CHS 
+PAL1/4CL: !coordinates with! C4H expression 
+PAL2/PAL3: !no coordination with! C4H expression 
+Cis-acting elements: !controls! C4H promoter region

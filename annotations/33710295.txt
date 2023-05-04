@@ -1,0 +1,8 @@
+Sequence assembly of large and repeat-rich plant genomes has been challenging, requiring substantial computational resources and often several complementary sequence assembly and genome mapping approaches. The recent development of fast and accurate long-read sequencing by circular consensus sequencing (CCS) on the PacBio platform may greatly increase the scope of plant pan-genome projects. Here, we compare current long-read sequencing platforms regarding their ability to rapidly generate contiguous sequence assemblies in pan-genome studies of barley (Hordeum vulgare). Most long-read assemblies are clearly superior to the current barley reference sequence based on short-reads. Assemblies derived from accurate long reads excel in most metrics, but the CCS approach was the most cost-effective strategy for assembling tens of barley genomes. A downsampling analysis indicated that 20-fold CCS coverage can yield very good sequence assemblies, while even five-fold CCS data may capture the complete sequence of most genes. We present an updated reference genome assembly for barley with near-complete representation of the repeat-rich intergenic space. Long-read assembly can underpin the construction of accurate and complete sequences of multiple genomes of a species to build pan-genome infrastructures in Triticeae crops and their wild relatives.
+
+PacBio platform: !enables! CCS
+CCS: !generates! Contiguous sequence assemblies
+Short-reads: !inferior to! Long-read assemblies
+Long-read assemblies: !superior to! Short-read assemblies
+20-fold CCS coverage: !yields! Good sequence assemblies
+5-fold CCS data: !captures! Complete sequence of most genes

@@ -1,0 +1,6 @@
+We report a systematic comparison of 19 plant promoters and 20 promoter-terminator combinations in two expression systems: agroinfiltration in <i>Nicotiana benthamiana</i> leaves, and <i>Nicotiana tabacum</i> BY-2 plant cell packs. The set of promoters tested comprised those not present in previously published work, including several computationally predicted synthetic promoters validated here for the first time. The expression of EGFP driven by different promoters varied by more than two orders of magnitude and was largely consistent between two tested Nicotiana systems. We confirmed previous reports of significant modulation of expression by terminators, as well as synergistic effects of promoters and terminators. Additionally, we observed non-linear effects of gene dosage on expression level. The dataset presented here can inform the design of genetic constructs for plant engineering and transient expression assays.
+
+promoter: !drives! expression 
+terminator: !modulates! expression 
+promoter: !synergizes with! terminator 
+dosage: !affects! expression level

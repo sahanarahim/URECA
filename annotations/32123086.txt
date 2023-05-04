@@ -1,0 +1,9 @@
+The jasmonate (JA)-pathway regulators MYC2, MYC3, and MYC4 are central nodes in plant signaling networks integrating environmental and developmental signals to fine-tune JA defenses and plant growth. Continuous activation of MYC activity is potentially lethal. Hence, MYCs need to be tightly regulated in order to optimize plant fitness. Among the increasing number of mechanisms regulating MYC activity, protein stability is arising as a major player. However, how the levels of MYC proteins are modulated is still poorly understood. Here, we report that MYC2, MYC3, and MYC4 are targets of BPM (BTB/POZ-MATH) proteins, which act as substrate adaptors of CUL3-based E3 ubiquitin ligases. Reduction of function of CUL3<sup>BPM</sup> in <i>amiR-bpm</i> lines, <i>bpm235</i> triple mutants, and <i>cul3ab</i> double mutants enhances MYC2 and MYC3 stability and accumulation and potentiates plant responses to JA such as root-growth inhibition and MYC-regulated gene expression. Moreover, MYC3 polyubiquitination levels are reduced in <i>amiR-bpm</i> lines. BPM3 protein is stabilized by JA, suggesting a negative feedback regulatory mechanism to control MYC activity, avoiding harmful runaway responses. Our results uncover a layer for JA-pathway regulation by CUL3<sup>BPM</sup>-mediated degradation of MYC transcription factors.
+
+MYC2: !stabilized by! BPM
+MYC3: !stabilized by! BPM
+MYC4: !stabilized by! BPM
+BPM: !regulates! MYC2
+BPM: !regulates! MYC3
+BPM: !regulates! MYC4
+JA: !stabilizes! BPM

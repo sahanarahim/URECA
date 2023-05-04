@@ -1,0 +1,7 @@
+Identification of cis-regulatory elements in Arabidopsis is a key step to understanding its transcriptional regulation scheme. In this study, the Arabidopsis gene coexpression network was constructed using the ATTED-II data, and thereafter a subgraph-induced approach and clique-finding algorithm were used to extract gene coexpression groups from the gene coexpression network. A total of 23 large coexpression gene groups were obtained, with each consisting of more than 100 highly correlated genes. Four classical tools were used to predict motifs in the promoter regions of coexpressed genes. Consequently, we detected a large number of candidate biologically relevant regulatory elements, and many of them are consistent with known cis-regulatory elements from AGRIS and AthaMap. Experiments on coexpressed groups, including E2Fa target genes, showed that our method had a high probability of returning the real binding motif. Our study provides the basis for future cis-regulatory module analysis and creates a starting point to unravel regulatory networks of Arabidopsis thaliana.
+
+Gene: !coexpresses with! Gene 
+Gene: !has motifs in promoter region! Candidate biologically relevant regulatory elements 
+Gene: !predicted by! Four classical tools 
+Gene: !consistent with! Known cis-regulatory elements from AGRIS and AthaMap 
+Gene: !experimented on! Coexpressed groups, including E2Fa target genes

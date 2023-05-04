@@ -1,0 +1,7 @@
+Phytic acid, myo-inositol-1,2,3,4,5,6-hexakisphosphate or Ins P6, is the most abundant myo-inositol phosphate in plant cells, but its biosynthesis is poorly understood. Also uncertain is the role of myo-inositol as a precursor of phytic acid biosynthesis. We identified a low-phytic acid mutant, lpa3, in maize. The Mu-insertion mutant has a phenotype of reduced phytic acid, increased myo-inositol and lacks significant amounts of myo-inositol phosphate intermediates in seeds. The gene responsible for the mutation encodes a myo-inositol kinase (MIK). Maize MIK protein contains conserved amino acid residues found in pfkB carbohydrate kinases. The maize lpa3 gene is expressed in developing embryos, where phytic acid is actively synthesized and accumulates to a large amount. Characterization of the lpa3 mutant provides direct evidence for the role of myo-inositol and MIK in phytic acid biosynthesis in developing seeds. Recombinant maize MIK phosphorylates myo-inositol to produce multiple myo-inositol monophosphates, Ins1/3P, Ins4/6P and possibly Ins5P. The characteristics of the lpa3 mutant and MIK suggest that MIK is not a salvage enzyme for myo-inositol recycling and that there are multiple phosphorylation routes to phytic acid in developing seeds. Analysis of the lpa2/lpa3 double mutant implies interactions between the phosphorylation routes.
+
+myo-inositol: !synthesizes! phytic acid
+MIK: !synthesizes! myo-inositol monophosphates
+lpa3: !encodes! MIK
+lpa3: !expresses in! developing embryos
+lpa2/lpa3: !interacts between! phosphorylation routes

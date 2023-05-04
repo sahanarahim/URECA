@@ -1,0 +1,11 @@
+['21150311', 'De novo DNA methylation in Arabidopsis thaliana is catalyzed by the  methyltransferase DRM2, a homolog of the mammalian de novo methyltransferase  DNMT3. DRM2 is targeted to DNA by small interfering RNAs (siRNAs) in a process  known as RNA-directed DNA Methylation (RdDM). While several components of the  RdDM pathway are known, a functional understanding of the underlying mechanism is  far from complete. We employed both forward and reverse genetic approaches to  identify factors involved in de novo methylation. We utilized the FWA transgene,  which is methylated and silenced when transformed into wild-type plants, but  unmethylated and expressed when transformed into de novo methylation mutants.  Expression of FWA is marked by a late flowering phenotype, which is easily scored  in mutant versus wild-type plants. By reverse genetics we discovered the  requirement for known RdDM effectors AGO6 and NRPE5a for efficient de novo  methylation. A forward genetic approach uncovered alleles of several components  of the RdDM pathway, including alleles of clsy1, ktf1, and nrpd/e2, which have  not been previously shown to be required for the initial establishment of DNA  methylation. Mutations were mapped and genes cloned by both traditional and whole  genome sequencing approaches. The methodologies and the mutant alleles discovered  will be instrumental in further studies of de novo DNA methylation.', '2011 Mar', 'Epigenetics', '10.4161/epi.6.3.14242', 'Jacobsen']
+
+DRM2: !catalyzes! De novo DNA methylation 
+siRNAs: !target! DRM2 
+AGO6: !required for! De novo methylation 
+NRPE5a: !required for! De novo methylation 
+FWA transgene: !methylated and silenced! Wild-type plants 
+FWA transgene: !unmethylated and expressed! De novo methylation mutants 
+clsy1: !required for! Initial establishment of DNA methylation 
+ktf1: !required for! Initial establishment of DNA methylation 
+nrpd/e2: !required for! Initial establishment of DNA methylation

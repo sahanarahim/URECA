@@ -1,0 +1,14 @@
+MicroRNA395 (miR395) is a conserved miRNA that targets a low-affinity sulfate transporter (AST68) and three ATP sulfurylases (APS1, APS3 and APS4) in higher plants. In this study, At2g28780 was confirmed as another target of miR395 in Arabidopsis. Interestingly, several dicots contained genes homologous to At2g28780 and a cognate miR395 complementary site but possess a gradient of mismatches at the target site. It is well established that miR395 is induced during S deprivation in Arabidopsis; however, the signaling pathways that mediate this regulation are unknown. Several findings in the present study demonstrate that redox signaling plays an important role in induction of miR395 during S deprivation. These include the following results: (i) glutathione (GSH) supplementation suppressed miR395 induction in S-deprived plants (ii) miR395 is induced in Arabidopsis seedlings exposed to Arsenate or Cu(2+) , which induces oxidative stress (iii), S deprivation-induced oxidative stress, and (iv) compromised induction of miR395 during S deprivation in cad2 mutant (deficient in GSH biosynthesis) that is defective in glutaredoxin-dependent redox signaling and ntra/ntrb (defective in thioredoxin reductases a and b) double mutants that are defective in thioredoxin-dependent redox signaling. Collectively, these findings strongly support the involvement of redox signaling in inducing the expression of miR395 during S deprivation in Arabidopsis.
+
+miR395: !targets! AST68
+miR395: !targets! APS1
+miR395: !targets! APS3
+miR395: !targets! APS4
+miR395: !targets! At2g28780
+miR395: !induced by! S deprivation
+miR395: !suppressed by! GSH supplementation
+miR395: !induced by! Arsenate
+miR395: !induced by! Cu(2+)
+miR395: !induced by! oxidative stress
+miR395: !compromised induction by! cad2 mutant
+miR395: !compromised induction by! ntra/ntrb double mutant

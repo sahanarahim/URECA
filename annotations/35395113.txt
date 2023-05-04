@@ -1,0 +1,11 @@
+Heading date is one of the most pivotal agronomic traits for rice (Oryza sativa) yield and adaptation. Little is known about the crosstalk between histone ubiquitination and histone methylation in rice heading date regulation. Here, we reported HISTONE MONOUBIQUITINATION 1 (OsHUB1) and OsHUB2 are involved in heading date regulation via the Hd1 and Ehd1 pathway. Loss of OsHUB1 and OsHUB2 function resulted in early heading under long-day and short-day photoperiods. The expression of Hd3a, RFT1, and Ehd1 was induced and the transcript levels of Hd1, Ghd7, OsCCA1, OsGI, OsFKF1, and OsTOC1 were reduced under long-day conditions, whereas RFT1 and Ehd1 expression was induced in oshub2 mutants under short-day conditions. OsHUB2 interacted with OsTrx1 and repressed the gene expression of OsTrx1. OsHUB2 directly bound to Ehd1 to ubiquitinate H2B at Ehd1, and H2B ubiquitination levels were reduced in oshub2-2 and oshub2-3 mutants. OsTrx1 were highly enriched at Ehd1, and H3K4me3 levels of Ehd1 were upregulated in oshub2-2. Mutations of OsTrx1 in the oshub2-2 background rescued the early-heading phenotype of oshub2-2. The increases in Ehd1 H3K4me3 levels and transcript levels in oshub2-2 mutants were attenuated in oshub2-2 ostrx1-2 double mutants. Together, our results (i) reveal that OsHUB2 represses the function of OsTrx1 and H3K4me3 levels at Ehd1 and (ii) suggest that OsHUB2-mediated H2B ubiquitination plays critical roles together with H3K4me3 in rice heading date regulation.
+
+OsHUB1: !affects! heading date
+OsHUB2: !affects! heading date
+OsHUB2: !represses! OsTrx1
+OsHUB2: !interacts with! Ehd1
+OsHUB2: !ubiquitinates! H2B
+OsTrx1: !interacts with! Ehd1
+OsTrx1: !enhances! H3K4me3
+Ehd1: !localizes to! H2B
+Ehd1: !localizes to! H3K4me3

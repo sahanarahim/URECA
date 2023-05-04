@@ -1,0 +1,7 @@
+Polycomb-group (PcG) proteins are evolutionarily conserved in higher organisms and play essential roles in many developmental processes by catalyzing the trimethylation of histone H3 lysine 27 (H3K27me3), a key repressive histone mark. In <i>Arabidopsis</i> (<i>Arabidopsis thaliana</i>), histone methyltransferase CURLY LEAF (CLF) is one of the major PcG catalytic components, playing critical roles in plant growth and development, especially the floral transition. We have recently profiled the genome-wide occupancy of CLF by chromatin immunoprecipitation followed by high-throughput sequencing (ChIP-seq). Interestingly, <i>AGAMOUS-LIKE 17</i> (<i>AGL17</i>) that encodes a known flowering activator was found to be a CLF direct target. Based on this observation, we set out to examine to what extent this genetic module regulates the flowering. First, we validated the ChIP-seq results by ChIP-qPCR and show that CLF indeed targets <i>AGL17</i>, and the level of H3K27me3 is decreased when <i>CLF</i> is lost. Further, we show that the expression of <i>AGL17</i> is significantly up-regulated in the <i>clf-29</i> mutant compared to wild-type (WT). Finally, our <i>clf agl17</i> double mutant analysis suggests that <i>AGL17</i> is a significant downstream target of CLF in floral transition control.
+
+CLF: !trimethylates! H3K27me3
+CLF: !targets! AGL17
+CLF: !regulates! flowering transition
+AGL17: !enhances! flowering transition
+CLF: !represses! AGL17

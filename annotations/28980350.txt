@@ -1,0 +1,9 @@
+Chlamydomonas reinhardtii is a unicellular green alga that has attracted interest due to its potential biotechnological applications, and as a model for algal biofuel and energy metabolism. Despite all the advantages that this unicellular alga offers, poor and inconsistent expression of nuclear transgenes remains an obstacle for basic and applied research. We used a data-mining strategy to identify highly expressed genes in Chlamydomonas whose flanking sequences were tested for the ability to drive heterologous nuclear transgene expression. Candidates identified in this search included two ribosomal protein genes, RPL35a and RPL23, and ferredoxin, FDX1, whose flanking regions including promoters, terminators and untranslated sequences could drive stable luciferase transgene expression to significantly higher levels than the commonly used Hsp70A-RBCS2 (AR) hybrid promoter/terminator sequences. The RPL23 flanking sequences were further tested using the zeocin resistance gene sh-ble as a reporter in monocistronic and dicistronic constructs, and consistently yielded higher numbers of zeocin-resistant transformants and higher levels of resistance than AR- or PSAD-based vectors. Chlamydomonas RPL23 sequences also enabled transgene expression in Volvox carteri. Our study provides an additional benchmark for strong constitutive expression of transgenes in Chlamydomonas, and develops a general approach for identifying flanking sequences that can be used to drive transgene expression for any organism where transcriptome data are available.
+
+RPL35a: !enhances! luciferase transgene expression
+RPL23: !enhances! luciferase transgene expression
+FDX1: !enhances! luciferase transgene expression
+RPL23: !enhances! zeocin resistance gene sh-ble expression
+AR: !represses! zeocin resistance gene sh-ble expression
+PSAD: !represses! zeocin resistance gene sh-ble expression
+RPL23: !enables! transgene expression in Volvox carteri

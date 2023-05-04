@@ -1,0 +1,11 @@
+Previous studies using co-expression analysis have identified a large number of genes likely to be involved in secondary cell-wall formation. However, the function of very few of these genes is known. We have studied the cell-wall phenotype of irx7, irx8 and irx9, three previously described irregular xylem (irx) mutants, and irx14 and parvus-3, which we now show also to be secondary cell-wall mutants. All five mutants, which have mutations in genes encoding putative glycosyltransferases, exhibited large decreases in xylan. In addition, all five mutants were found to have the same specific defect in xylan structure, retaining MeGlcUA but lacking GlcUA side branches. Polysaccharide analysis by carbohydrate gel electrophoresis (PACE) was used to determine the xylan structure in Arabidopsis, and revealed that side branches are added to approximately one in every eight xylose residues. Interestingly, this ratio is constant in all the lines analysed despite the wide variation in xylan content and the absence of GlcUA branches. Xylanase digestion of xylan from wild-type plants released a short oligosaccharide sequence at the reducing end of the xylan chain. MALDI-TOF MS analysis indicated that this sequence of sugars was absent in xylan from irx7, irx8 and parvus-3 mutants, but was present in irx9 and irx14. This is consistent with previous NMR analysis of xylan from irx7, irx8 and irx9, and suggests that PARVUS may be involved in the synthesis of a xylan primer whereas IRX14 may be required to synthesize the xylan backbone. This hypothesis is supported by assays showing that irx9 and irx14 are both defective in incorporation of radiolabel from UDP (14)C-xylose. This study has important implications for both our understanding of xylan biosynthesis and the functional analysis of cell-wall biosynthesis genes.
+
+irx7: !lacks! GlcUA side branches
+irx8: !lacks! GlcUA side branches
+irx9: !lacks! GlcUA side branches
+parvus-3: !lacks! GlcUA side branches
+irx14: !lacks! GlcUA side branches
+irx9: !synthesizes! xylan primer
+irx14: !synthesizes! xylan backbone
+PARVUS: !interacts with! IRX14
+IRX14: !interacts with! PARVUS

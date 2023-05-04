@@ -1,0 +1,8 @@
+Because structural variation in the inflorescence architecture of cereal crops can influence yield, it is of interest to identify the genes responsible for this variation. However, the manual collection of inflorescence phenotypes can be time consuming for the large populations needed to conduct genome-wide association studies (GWAS) and is difficult for multidimensional traits such as volume. A semiautomated phenotyping pipeline, TIM (Toolkit for Inflorescence Measurement), was developed and used to extract unidimensional and multidimensional features from images of 1,064 sorghum (<i>Sorghum bicolor</i>) panicles from 272 genotypes comprising a subset of the Sorghum Association Panel. GWAS detected 35 unique single-nucleotide polymorphisms associated with variation in inflorescence architecture. The accuracy of the TIM pipeline is supported by the fact that several of these trait-associated single-nucleotide polymorphisms (TASs) are located within chromosomal regions associated with similar traits in previously published quantitative trait locus and GWAS analyses of sorghum. Additionally, sorghum homologs of maize (<i>Zea mays</i>) and rice (<i>Oryza sativa</i>) genes known to affect inflorescence architecture are enriched in the vicinities of TASs. Finally, our TASs are enriched within genomic regions that exhibit high levels of divergence between converted tropical lines and cultivars, consistent with the hypothesis that these chromosomal intervals were targets of selection during modern breeding.
+
+Gene: !affects! Inflorescence architecture
+Gene: !localizes to! Chromosomal regions
+Gene: !interacts with! Maize and Rice genes
+Gene: !enhances! Accuracy of TIM pipeline
+Gene: !represses! Manual collection of phenotypes
+Gene: !synthesizes! TASs

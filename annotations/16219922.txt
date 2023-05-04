@@ -1,0 +1,7 @@
+The extensive germplasm resource collections that are now available for major crop plants and their wild relatives will increasingly provide valuable biological and bioinformatics resources for plant physiologists and geneticists to dissect the molecular basis of key traits and to develop highly adapted plant material to sustain future breeding programs. A key to the efficient deployment of these resources is the development of information systems that will enable the collection and storage of biological information for these plant lines to be integrated with the molecular information that is now becoming available through the use of high-throughput genomics and post-genomics technologies. The GERMINATE database has been designed to hold a diverse variety of data types, ranging from molecular to phenotypic, and to allow querying between such data for any plant species. Data are stored in GERMINATE in a technology-independent manner, such that new technologies can be accommodated in the database as they emerge, without modification of the underlying schema. Users can access data in GERMINATE databases either via a lightweight Perl-CGI Web interface or by the more complex Genomic Diversity and Phenotype Connection software. GERMINATE is released under the GNU General Public License and is available at http://germinate.scri.sari.ac.uk/germinate/.
+
+Gene: !affects! Trait
+Resource: !provides! Biological Information
+Database: !stores! Data
+Software: !accesses! Data
+Technology: !accommodates! Database

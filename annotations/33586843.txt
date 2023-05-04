@@ -1,0 +1,8 @@
+Plant pathogens rely on effector proteins to suppress host innate immune responses and facilitate colonization. Although the Phytophthora sojae RxLR effector Avh241 promotes Phytophthora infection, the molecular basis of Avh241 virulence remains poorly understood. Here we identified non-race specific disease resistance 1 (NDR1)-like proteins, the critical components in plant effector-triggered immunity (ETI) responses, as host targets of Avh241. Avh241 interacts with NDR1 in the plasma membrane and suppresses NDR1-participated ETI responses. Silencing of GmNDR1s increases the susceptibility of soybean to P. sojae infection, and overexpression of GmNDR1s reduces infection, which supports its positive role in plant immunity against P. sojae. Furthermore, we demonstrate that GmNDR1 interacts with itself, and Avh241 probably disrupts the self-association of GmNDR1. These data highlight an effective counter-defense mechanism by which a Phytophthora effector suppresses plant immune responses, likely by disturbing the function of NDR1 during infection.
+
+Avh241: !interacts with! NDR1 
+NDR1: !participates in! ETI responses 
+GmNDR1: !increases susceptibility to! P. sojae infection 
+GmNDR1: !overexpression reduces! P. sojae infection 
+GmNDR1: !interacts with itself! 
+Avh241: !disrupts self-association of! GmNDR1

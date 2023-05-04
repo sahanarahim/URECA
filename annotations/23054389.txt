@@ -1,0 +1,10 @@
+K(+) acquisition by Arabidopsis roots is mainly mediated by the high-affinity K(+) transporter AtHAK5 and the inward-rectifier K(+) channel AtAKT1. This model is probably universal to plants. Mutant plants lacking these two systems (athak5,atakt1) take up K(+) and grow when the external K(+) concentration is above a certain level, indicating that an additional transport system may compensate for the absence of AtHAK5 and AtAKT1. Here we describe that this alternative system is essential for providing sufficient K(+) to sustain growth of athak5,atakt1 plants. This system is especially sensitive to Ca(2+), Mg(2+), Ba(2+) and La(3+), it transports Cs(+) and its activity is reduced by cyclic nucleotides. These results suggest that a Ca(2+)-permeable voltage-independent non-selective cation channel, probably belonging to the cyclic nucleotide gated channel (CNGC) family, may provide the pathway for K(+) uptake in athak5,atakt1 plants. The genes encoding the two members of the CNGC family that have been described as mediating root K(+) uptake, AtCNGC3 and AtCNGC10, are not up-regulated in athak5,atakt1 plants, excluding overexpression of these genes as a compensatory mechanism. On the other hand, an increased driving force for K(+) in athak5,atakt1 plants due to a hyperpolarization of the membrane potential of its root cells is also discarded. The identification of this unknown system may provide tools to improve plant K(+) nutrition in conditions where AtAKT1 functionality is reduced, such as under salinity. In addition, this system may constitute an important pathway for accumulation of toxic cations such as Cs(+) or radiocesium ((137)Cs(+)), and could play a role in phytoremediation.
+
+AtHAK5: !mediates! K(+) acquisition 
+AtAKT1: !mediates! K(+) acquisition 
+athak5,atakt1 plants: !take up! K(+) 
+Ca(2+), Mg(2+), Ba(2+), La(3+): !sensitize! alternative system 
+Cs(+): !transported by! alternative system 
+cyclic nucleotides: !inhibit! alternative system 
+AtCNGC3, AtCNGC10: !not up-regulated in! athak5,atakt1 plants 
+membrane potential: !not hyperpolarized in! athak5,atakt1 plants

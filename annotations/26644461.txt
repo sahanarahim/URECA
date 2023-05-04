@@ -1,0 +1,10 @@
+In the era of energy and food shortage, microalgae have gained much attention as promising sources of biofuels and food ingredients. However, only a small fraction of microalgal genes have been functionally characterized. Here, we have developed the Algae Gene Coexpression database (ALCOdb; http://alcodb.jp), which provides gene coexpression information to survey gene modules for a function of interest. ALCOdb currently supports two model algae: the green alga Chlamydomonas reinhardtii and the red alga Cyanidioschyzon merolae. Users can retrieve coexpression information for genes of interest through three unique data pages: (i) Coexpressed Gene List; (ii) Gene Information; and (iii) Coexpressed Gene Network. In addition to the basal coexpression information, ALCOdb also provides several advanced functionalities such as an expression profile viewer and a differentially expressed gene search tool. Using these user interfaces, we demonstrated that our gene coexpression data have the potential to detect functionally related genes and are useful in extrapolating the biological roles of uncharacterized genes. ALCOdb will facilitate molecular and biochemical studies of microalgal biological phenomena, such as lipid metabolism and organelle development, and promote the evolutionary understanding of plant cellular systems.
+
+Chlamydomonas reinhardtii: !has! Coexpression information
+Cyanidioschyzon merolae: !has! Coexpression information
+ALCOdb: !provides! Coexpression information
+Gene Information: !retrieved from! ALCOdb
+Coexpressed Gene Network: !retrieved from! ALCOdb
+Expression profile viewer: !provided by! ALCOdb
+Differentially expressed gene search tool: !provided by! ALCOdb
+Coexpression data: !potential to detect! Functionally related genes

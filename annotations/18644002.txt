@@ -1,0 +1,11 @@
+We have assembled approximately 20 000 Arabidopsis thaliana promoter regions, compatible with functional studies that require cloning and with microarray applications. The promoter fragments can be captured as modular entry clones (MultiSite Gateway format) via site-specific recombinational cloning, and transferred into vectors of choice to investigate transcriptional networks. The fragments can also be amplified by PCR and printed on glass arrays. In combination with immunoprecipitation of protein-DNA complexes (ChIP-chip), these arrays enable characterization of binding sites for chromatin-associated proteins or the extent of chromatin modifications at genome scale. The Arabidopsis histone acetyltransferase GCN5 associated with 40% of the tested promoters. At most sites, binding did not depend on the integrity of the GCN5 bromodomain. However, the presence of the bromodomain was necessary for binding to 11% of the promoter regions, and correlated with acetylation of lysine 14 of histone H3 in these promoters. Combined analysis of ChIP-chip and transcriptomic data indicated that binding of GCN5 does not strictly correlate with gene activation. GCN5 has previously been shown to be required for light-regulated gene expression and growth, and we found that GCN5 targets were enriched in early light-responsive genes. Thus, in addition to its transcriptional activation function, GCN5 may play an important role in priming activation of inducible genes under non-induced conditions.
+
+MultiSite Gateway: !captures! promoter fragments 
+PCR: !amplifies! promoter fragments 
+ChIP-chip: !characterizes! binding sites 
+GCN5: !binds to! 40% of promoters 
+GCN5: !requires! bromodomain for 11% of promoters 
+GCN5: !correlates with! acetylation of H3 lysine 14 
+GCN5: !does not strictly correlate with! gene activation 
+GCN5: !enriches! early light-responsive genes 
+GCN5: !primes! activation of inducible genes

@@ -1,0 +1,9 @@
+The tissue-preferential distributed calcium sensors, SOS3 and SCaBP8, play important roles in SOS pathway to cope with saline conditions. Both SOS3 and SCaBP8 interact with and activate SOS2. However the regulatory mechanism for SOS2 activation and membrane recruitment by SCaBP8 differs from SOS3. SCaBP8 is phosphorylated by SOS2 at plasma membrane (PM) under salt stress. This phosphorylation anchors the SCaBP8-SOS2 complex on plasma membrane and activates PM Na(+)/H(+) antiporter, such as SOS1. Here, we describe that SOS2 has high binding affinity and catalytic efficiency to SCaBP8, suggesting that phosphorylation of SCaBP8 by SOS2 perhaps occurs rapidly in salt condition. SCaBP8 is also phosphorylated by PKS5 (SOS2-like Protein Kinase5) which negatively regulates PM H(+)-ATPase activity and functions in plant alkaline tolerance, providing a clue to roles of SCaBP8 in both salt and alkaline tolerance. SOS2 interacts with SOS3 and SCaBP8 with its FISL motif at C-terminus. However, luciferase activity complement assay indicates that SOS2 N-terminal is also essential for interacting with these proteins in plant.
+
+SOS3: !interacts with! SOS2
+SCaBP8: !interacts with! SOS2
+SOS2: !phosphorylates! SCaBP8
+PKS5: !phosphorylates! SCaBP8
+SOS2: !binds to! FISL motif
+SOS2: !activates! SOS1
+SOS2: !regulates! PM H+-ATPase activity

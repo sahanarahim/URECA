@@ -1,0 +1,10 @@
+Viruses deploy numerous strategies to infect plants, typically by forming complexes with another virus, leading to more efficient infection. However, the detailed plant responses to viral infection and the underlying mechanisms of co-infection remain unclear. Previously, we found that <i>tomato spotted wilt orthotospovirus</i> (TSWV) and Hippeastrum chlorotic ringspot orthotospovirus (HCRV) could infect plants in the field by forming a complex. In this study, we found that TSWV infected tobacco (<i>Nicotiana benthamiana</i>) plants in cooperation with HCRV, leading to a more efficient infection rate of both viruses. We then used the in-depth full-length transcriptome to analyze the responses of <i>N. benthamiana</i> to complex infection by TSWV-HCRV (TH). We found that infection with individual TSWV and HCRV triggered plant defense responses, including the jasmonic acid signaling pathway, autophagy, and secondary metabolism. However, TH co-infection could not trigger and even suppress some genes that are involved in these basal resistance responses, suggesting that co-infection is advantageous for the virus and not for the plants. Typically, the TH complex inhibits <i>NbPR1</i> expression to suppress tobacco resistance. Moreover, the TH complex could alter the expression of microRNAs (miRNAs), especially novel-m0782-3p and miR1992-3p, which directly interact with <i>NbSAM</i> and <i>NbWRKY6</i> and suppress their expression in tobacco, leading to downregulation of <i>NbPR1</i> and loss of resistance in tobacco to TSWV and HCRV viruses. Overall, our results elucidated the co-infection mechanisms of TH in tobacco by deploying the miRNA of plants to suppress plant basal resistance and contributed to developing a novel strategy to control crop disease caused by this virus complex.
+
+TSWV: !infects! HCRV 
+HCRV: !infects! TSWV 
+TSWV-HCRV: !inhibits! NbPR1 
+NbPR1: !suppresses! tobacco resistance 
+miRNA: !interacts with! NbSAM 
+NbSAM: !suppressed by! miRNA 
+miRNA: !interacts with! NbWRKY6 
+NbWRKY6: !suppressed by! miRNA

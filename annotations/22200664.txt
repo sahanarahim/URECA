@@ -1,0 +1,10 @@
+The antagonism between abscisic acid (ABA) and gibberellin (GA) plays a key role in controlling seed germination, but the mechanism of antagonism during this process is not known. The possible links among ABA, reactive oxygen species (ROS), ascorbic acid (ASC), and GA during rice seed germination were investigated. Unlike in non-seed tissues where ROS production is increased by ABA, ABA reduced ROS production in imbibed rice seeds, especially in the embryo region. Such reduced ROS also led to an inhibition of ASC production. GA accumulation was also suppressed by a reduced ROS and ASC level, which was indicated by the inhibited expression of GA biosynthesis genes, amylase genes, and enzyme activity. Application of exogenous ASC can partially rescue seed germination from ABA treatment. Production of ASC, which acts as a substrate in GA biosynthesis, was significantly inhibited by lycorine which thus suppressed the accumulation of GA. Consequently, expression of GA biosynthesis genes was suppressed by the low levels of ROS and ASC in ABA-treated seeds. It can be concluded that ABA regulates seed germination in multiple dimensions. ROS and ASC are involved in its inhibition of GA biosynthesis.
+
+ABA: !inhibits! ROS
+ROS: !inhibits! ASC
+ASC: !inhibits! GA
+GA: !inhibits! amylase genes
+GA: !inhibits! enzyme activity
+ABA: !inhibits! GA biosynthesis genes
+ASC: !rescues! seed germination from ABA treatment
+Lycorine: !suppresses! ASC production

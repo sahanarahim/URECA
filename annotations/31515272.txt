@@ -1,0 +1,10 @@
+3-Hydroxy-3-methylglutaryl-CoA (HMG-CoA) lyase (HMGL) is involved in branched-chain amino acid catabolism leading to acetyl-CoA production. Here, using bioinformatics analyses and protein sequence alignments, we found that in <i>Arabidopsis thaliana</i> a single gene encodes two HMGL isoforms differing in size (51 kDa, HMGL51 and 46 kDa, HMGL46). Similar to animal HMGLs, both isoforms comprised a C-terminal type 1 peroxisomal retention motif, and HMGL51 contained a mitochondrial leader peptide. We observed that only a shortened HMGL (35 kDa, HMGL35) is conserved across all kingdoms of life. Most notably, all plant HMGLs also contained a specific N-terminal extension (P100) that is located between the N-terminal mitochondrial targeting sequence TP35 and HMGL35 and is absent in bacteria and other eukaryotes. Interestingly, using HMGL enzyme assays, we found that rather than HMGL46, homodimeric recombinant HMGL35 is the active enzyme catalyzing acetyl-CoA and acetoacetate synthesis when incubated with (<i>S</i>)-HMG-CoA. This suggested that the plant-specific P100 peptide may inactivate HMGL according to specific physiological requirements. Therefore, we investigated whether the P100 peptide in HMGL46 alters its activity, possibly by modifying the HMGL46 structure. We found that induced expression of a cytosolic HMGL35 version in <i>A. thaliana</i> delays germination and leads to rapid wilting and chlorosis in mature plants. Our results suggest that in plants, P100-mediated HMGL inactivation outside of peroxisomes or mitochondria is crucial, protecting against potentially cytotoxic effects of HMGL activity while it transits to these organelles.
+
+HMGL: !encodes! 2 isoforms
+HMGL51: !contains! mitochondrial leader peptide
+HMGL35: !conserved across! all kingdoms of life
+P100: !located between! TP35 and HMGL35
+HMGL35: !active enzyme catalyzing! acetyl-CoA and acetoacetate synthesis
+P100: !inactivates! HMGL46
+HMGL35: !delays germination! in A. thaliana
+P100: !protects against! potentially cytotoxic effects

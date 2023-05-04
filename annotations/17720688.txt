@@ -1,0 +1,8 @@
+Root architecture plays an important role in water and nutrient acquisition and in the ability of the plant to adapt to the soil. Lateral root development is the main determinant of the shape of the root system and is controlled by external factors such as nutrient concentration. Here it is shown that lateral root initiation and root gravitropism, two processes that are regulated by auxin, are co-regulated in Arabidopsis. A mathematical model was generated that can predict the effects of gravistimulations on lateral root initiation density and suggests that lateral root initiation is controlled by an inhibitory fields mechanism. Moreover, gene transactivation experiments suggest a mechanism involving a single auxin transport route for both responses. Finally, co-regulation may offer a selective advantage by optimizing soil exploration as supported by a simple quantitative analysis.
+
+gene: !affects! lateral root initiation
+gene: !affects! root gravitropism
+gene: !regulates! auxin
+gene: !controls! inhibitory fields mechanism
+gene: !transactivates! single auxin transport route
+gene: !optimizes! soil exploration

@@ -1,0 +1,16 @@
+We determined the crossover (CO) distribution, frequency and genomic sequences involved in interspecies meiotic recombination by using parent-assigned variants of 52 F<sub>6</sub> recombinant inbred lines obtained from a cross between tomato, Solanum lycopersicum, and its wild relative, Solanum pimpinellifolium. The interspecific CO frequency was 80% lower than reported for intraspecific tomato crosses. We detected regions showing a relatively high and low CO frequency, so-called hot and cold regions. Cold regions coincide to a large extent with the heterochromatin, although we found a limited number of smaller cold regions in the euchromatin. The CO frequency was higher at the distal ends of chromosomes than in pericentromeric regions and higher in short arm euchromatin. Hot regions of CO were detected in euchromatin, and COs were more often located in non-coding regions near the 5' untranslated region of genes than expected by chance. Besides overrepresented CCN repeats, we detected poly-A/T and AT-rich motifs enriched in 1-kb promoter regions flanking the CO sites. The most abundant sequence motifs at CO sites share weak similarity to transcription factor-binding sites, such as for the C2H2 zinc finger factors class and MADS box factors, while InterPro scans detected enrichment for genes possibly involved in the repair of DNA breaks.
+
+gene: !affects! CO frequency
+CO: !localizes to! heterochromatin
+CO: !localizes to! euchromatin
+CO: !localizes to! distal ends of chromosomes
+CO: !localizes to! pericentromeric regions
+CO: !localizes to! short arm euchromatin
+CO: !enriched in! 1-kb promoter regions
+CO: !overrepresented in! CCN repeats
+CO: !overrepresented in! poly-A/T motifs
+CO: !overrepresented in! AT-rich motifs
+CO: !shares similarity with! transcription factor-binding sites
+transcription factor-binding sites: !enriched for! C2H2 zinc finger factors
+transcription factor-binding sites: !enriched for! MADS box factors
+InterPro scans: !detected enrichment for! genes involved in DNA repair

@@ -1,0 +1,9 @@
+Integrative systems biology proposes new approaches to decipher the variation of phenotypic traits. In an effort to link the genetic variation and the physiological and molecular bases of fruit composition, the proteome (424 protein spots), metabolome (26 compounds), enzymatic profile (26 enzymes), and phenotypes of eight tomato accessions, covering the genetic diversity of the species, and four of their F1 hybrids, were characterized at two fruit developmental stages (cell expansion and orange-red). The contents of metabolites varied among the genetic backgrounds, while enzyme profiles were less variable, particularly at the cell expansion stage. Frequent genotype by stage interactions suggested that the trends observed for one accession at a physiological level may change in another accession. In agreement with this, the inheritance modes varied between crosses and stages. Although additivity was predominant, 40% of the traits were non-additively inherited. Relationships among traits revealed associations between different levels of expression and provided information on several key proteins. Notably, the role of frucktokinase, invertase, and cysteine synthase in the variation of metabolites was highlighted. Several stress-related proteins also appeared related to fruit weight differences. These key proteins might be targets for improving metabolite contents of the fruit. This systems biology approach provides better understanding of networks controlling the genetic variation of tomato fruit composition. In addition, the wide data sets generated provide an ideal framework to develop innovative integrated hypothesis and will be highly valuable for the research community.
+
+gene: !affects! Metabolite content
+gene: !affects! Enzyme profile
+gene: !affects! Phenotype
+gene: !interacts with! Frucktokinase
+gene: !interacts with! Invertase
+gene: !interacts with! Cysteine synthase
+gene: !enhances! Fruit weight

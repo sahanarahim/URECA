@@ -1,0 +1,8 @@
+The long-term dynamics of the transcriptome under natural field conditions remain unclear. We conducted comprehensive gene expression analyses of rice leaves and roots grown under natural field conditions for a long period, from the tillering stage to the ripening stage. In this experiment, changes in the transcriptome were captured in relation to microclimatic parameters, particularly potential evaporation (Ep), which is a multiple meteorological factor and acts as an indicator of transpirational demand. The results indicated  that many genes were regulated by changes in temperature and Ep in both leaves and roots. Furthermore, the correlation between gene expression and meteorological factors differed significantly between the vegetative and reproductive stages. Since Ep triggers transpiration, we analyzed aquaporin gene expression, which is responsible for water transport, and found that many aquaporin genes in leaves were positively correlated with Ep throughout the growth period, whereas in roots, two plasma membrane intrinsic aquaporins, PIP2;4 and PIP2;5 were strongly correlated with Ep during reproductive growth. Other genes closely related to productivity, such as those involved in nutrient absorption and photosynthesis, exhibited different responses to meteorological factors at different growth stages. The stage-dependent shift in the microclimate response provides an important perspective on crop physiology in light of climate change.
+
+Gene: !affects! Process 
+Temperature: !regulates! Gene Expression 
+Ep: !triggers! Transpiration 
+Aquaporin Gene: !positively correlated with! Ep 
+PIP2;4/PIP2;5: !strongly correlated with! Ep 
+Nutrient Absorption Gene: !responds to! Meteorological Factors

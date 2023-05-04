@@ -1,0 +1,13 @@
+Plant specialization and pollination network structure play important roles in community assembly. Floral traits can mediate plant-pollinator interactions and thus have important impacts on nestedness and modularity of pollination network. When such traits are phylogenetically conserved, therefore, phylogeny and traits should predict network structure to similar degrees. Moreover, conserved network structures were also found attributed to pollination syndrome or pollination system. However, we still know little about the relation between pollination syndrome and pollination network, especially under a phylogenetic framework. Herein, we established a phylogenetic framework including five floral traits (flower density, floral size, floral shape, floral symmetry, and floral color) and five species-level metrics (species strength, weighted closeness, specialization <i>d</i>', nestedness contribution, and modularity contribution) to test how floral traits could directly or indirectly influence species' specialization and network structure in central China. Phylogenetic signals were found in all floral traits except flower density. Structural equation model and phylogenetic structural equation model results showed that both floral size and floral density affected plant specialization and its contribution to network modularity indirectly. However, compared with phylogenetic independent flower density, phylogenetic conserved floral size had much more complexed influences, having a direct influence both on species' specialization and on modularity contribution. In this nested and modular network, abundant species with larger flowers tend to be more central and had larger values of <i>z</i>. Floral shape, symmetry, and color could act as co-flowering filters in pollination sharing and help to shape network modularity. Our results emphasize that phylogenetically conserved traits partially represent pollination syndrome and are important drivers for modular structure of local pollination network. This study may improve the understanding how the evolutionary history and ecological process drive local network structure and dynamics.
+
+flower density: !affects! species specialization 
+floral size: !affects! species specialization 
+floral size: !affects! modularity contribution 
+floral shape: !affects! modularity 
+floral symmetry: !affects! modularity 
+floral color: !affects! modularity 
+species strength: !influenced by! floral traits 
+weighted closeness: !influenced by! floral traits 
+specialization <i>d</i>': !influenced by! floral traits 
+nestedness contribution: !influenced by! floral traits 
+modularity contribution: !influenced by! floral traits

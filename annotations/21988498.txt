@@ -1,0 +1,8 @@
+miR156 and its target SQUAMOSA PROMOTER BINDING PROTEIN-LIKE (SPL) genes constitute an endogenous flowering pathway in Arabidopsis. The SPL genes are regulated post-transcriptionally by miR156, and incorporate endogenous aging signals into floral gene networks. Intriguingly, the SPL genes are also regulated transcriptionally by FLOWERING LOCUS T (FT)-mediated photoperiod signals. However, it is unknown how photoperiod regulates the SPL genes. Here, we show that SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1 (SOC1) and FT regulate the SPL3, SPL4 and SPL5 genes by directly binding to the gene promoters in response to photoperiod signals. Notably, the SOC1 regulation of the SPL genes, termed the SOC1-SPL module, also mediates gibberellic acid (GA) signals to promote flowering under non-inductive short days (SDs). Under SDs, the inductive effects of GA on the SPL genes disappeared in the soc1-2 mutant, and the flowering of SPL3-overexpressing transgenic plants (35S:SPL3) was less sensitive to GA. In addition, the 35S:SPL3 × soc1-2 plants flowered much earlier than the soc1-2 mutant, supporting SOC1 regulation of the SPL genes. Our observations indicate that the SOC1-SPL module serves as a molecular link that integrates photoperiod and GA signals to promote flowering in Arabidopsis.
+
+miR156: !regulates! SPL genes
+SPL genes: !regulated by! miR156 & FT
+FT: !regulates! SPL genes
+SOC1: !regulates! SPL genes
+SOC1-SPL module: !integrates! photoperiod & GA signals
+GA: !promotes! flowering

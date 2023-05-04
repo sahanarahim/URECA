@@ -1,0 +1,8 @@
+The diversity and environmental plasticity of plant growth results from variations of repetitive modules, such as the basic shoot units made of a leaf, axillary bud, and internode. Internode elongation is regulated both developmentally and in response to environmental conditions, such as light quality, but the integration of internal and environmental signals is poorly understood. Here, we show that the compressed rosette growth habit of <i>Arabidopsis</i> is maintained by the convergent activities of the organ boundary gene <i>ARABIDOPSIS THALIANA HOMEOBOX GENE 1</i> (<i>ATH1</i>) and of the gibberellin-signaling <i>DELLA</i> genes. Combined loss of <i>ATH1</i> and <i>DELLA</i> function activated stem development during the vegetative phase and changed the growth habit from rosette to caulescent. Chromatin immunoprecipitation high-throughput sequencing and genetic analysis indicated that <i>ATH1</i> and the <i>DELLA</i> gene <i>REPRESSOR OF GA1-3</i> (<i>RGA</i>) converge on the regulation of light responses, including the <i>PHYTOCHROME INTERACTING FACTORS</i> (<i>PIF</i>) pathway, and showed that the <i>ATH1</i> input is mediated in part by direct activation of <i>BLADE ON PETIOLE</i> (<i>BOP1</i> and <i>BOP2</i>) genes, whose products destabilize PIF proteins. We conclude that an organ-patterning gene converges with hormone signaling to spatially restrict environmental responses and establish a widespread type of plant architecture.
+
+ATH1: !activates! BOP1/BOP2
+ATH1: !converges with! DELLA
+DELLA: !regulates! internode elongation
+RGA: !converges with! ATH1
+PIF: !regulated by! ATH1/DELLA
+BOP1/BOP2: !destabilize! PIF

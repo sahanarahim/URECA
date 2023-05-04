@@ -1,0 +1,10 @@
+Potato steroidal glycoalkaloids (SGAs) are toxic secondary metabolites whose total content in tubers must be regulated. SGAs are biosynthesized by the sterol branch of the mevalonic acid/isoprenoid pathway. In a previous study, we showed a correlation between SGA levels and the abundance of transcript coding for HMG-CoA reductase 1 (HMG1) and squalene synthase 1 (SQS1) in potato tissues and potato genotypes varying in SGA content. Here, Solanum tuberosum cv. Desirée (low SGA producer) was transformed with a gene construct containing the coding region of either HMG1 or SQS1 of Solanum chacoense Bitt. clone 8380-1, a high SGA producer. SGA levels in transgenic HMG-plants were either greater than (in eight of 14 plants) or no different from untransformed controls, whereas only four of 12 SQS-transgenics had greater SGA levels than control, as determined by HPLC. Quantitative real-time PCR was used to estimate relative steady-state transcript levels of isoprenoid-, steroid-, and SGA-related genes in leaves of the transgenic plants compared to nontransgenic controls. HMG-transgenic plants exhibited increased transcript accumulation of SQS1, sterol C24-methyltransferase type1 (SMT1), and solanidine glycosyltransferase 2 (SGT2), whereas SQS-transgenic plants, had consistently lower transcript levels of HMG1 and variable SMT1 and SGT2 transcript abundance among different transgenics. HMG-transgenic plants exhibited changes in transcript accumulation for some sterol biosynthetic genes as well. Taken together, the data suggest coordinated regulation of isoprenoid metabolism and SGA secondary metabolism.
+
+HMG1: !affects! SGA levels 
+SQS1: !affects! SGA levels 
+HMG1: !enhances! SQS1 transcript accumulation 
+SQS1: !represses! HMG1 transcript accumulation 
+SMT1: !enhanced by! HMG1 
+SGT2: !enhanced by! HMG1 
+SMT1: !repressed by! SQS1 
+SGT2: !repressed by! SQS1

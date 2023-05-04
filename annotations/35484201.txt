@@ -1,0 +1,8 @@
+Many plants accumulate transitory starch reserves in their leaves during the day to buffer their carbohydrate supply against fluctuating light conditions, and to provide carbon and energy for survival at night. It is universally accepted that transitory starch is synthesized from ADP-glucose (ADPG) in the chloroplasts. However, the consensus that ADPG is made in the chloroplasts by ADPG pyrophosphorylase has been challenged by a controversial proposal that ADPG is made primarily in the cytosol, probably by sucrose synthase (SUS), and then imported into the chloroplasts. To resolve this long-standing controversy, we critically re-examined the experimental evidence that appears to conflict with the consensus pathway. We show that when precautions are taken to avoid artefactual changes during leaf sampling, Arabidopsis thaliana mutants that lack SUS activity in mesophyll cells (quadruple sus1234) or have no SUS activity (sextuple sus123456) have wild-type levels of ADPG and starch, while ADPG is 20 times lower in the pgm and adg1 mutants that are blocked in the consensus chloroplastic pathway of starch synthesis. We conclude that the ADPG needed for starch synthesis in leaves is synthesized primarily by ADPG pyrophosphorylase in the chloroplasts.
+
+ADPG: !synthesizes! ADPG pyrophosphorylase 
+SUS: !synthesizes! ADPG 
+quadruple sus1234: !has! wild-type levels of ADPG and starch 
+sextuple sus123456: !has! wild-type levels of ADPG and starch 
+pgm: !has! 20 times lower ADPG 
+adg1: !has! 20 times lower ADPG

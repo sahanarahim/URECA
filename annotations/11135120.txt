@@ -1,0 +1,10 @@
+['11135120', "The cDNA corresponding to the open reading frame T17M13.3 from Arabidopsis  chromosome II was isolated and the encoded protein was characterized as a member  of a subgroup of higher plant sucrose transporters. The AtSUC3 (Arabidopsis  thaliana sucrose transporter 3) open reading frame encodes a protein with 594  amino acid residues, being 81 and 82 residues longer than the previously  described Arabidopsis sucrose carriers AtSUC1 and AtSUC2. About 50 of these  additional amino acids are part of an extended cytoplasmic loop separating the  N-terminal from the C-terminal half of the protein. For functional  characterization the AtSUC3 cDNA was expressed in baker's yeast. Substrate  specificities, energy dependence and K(m) values of the recombinant protein were  determined. Removal of the enlarged cytoplasmic loop and expression of the  truncated cDNA caused no detectable change in the kinetic properties of the  protein, suggesting a transport-independent function for this cytoplasmic domain.  Immunolocalization with an AtSUC3-specific antiserum identified the protein in a  cell layer separating the phloem from the mesophyll and in a single, subepidermal  cell layer of the carpels that is important for pod dehiscence. These  localizations suggest a possible role of AtSUC3 in the funnelling of sucrose from  the mesophyll towards the phloem, and possibly in pod shatter.", '2000 Dec', 'Plant J', '10.1046/j.1365-313x.2000.00934.x', 'Sauer']
+
+AtSUC3: !encodes! protein 
+protein: !has! 594 amino acid residues 
+AtSUC3: !expressed in! baker's yeast 
+baker's yeast: !determines! substrate specificities 
+AtSUC3: !localized in! cell layer separating phloem from mesophyll 
+AtSUC3: !localized in! single subepidermal cell layer of carpels 
+AtSUC3: !suggests role in! funnelling sucrose from mesophyll to phloem 
+AtSUC3: !suggests role in! pod shatter

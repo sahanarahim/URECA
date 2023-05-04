@@ -1,0 +1,12 @@
+In plants, both transcriptional (TGS) and post-transcriptional gene silencing (PTGS) can be self-reinforcing, and this allows maintenance of silencing once the initiator has been removed or suppressed. For TGS, this can be accomplished by the generation of small interfering RNAs (siRNAs) from methylated DNA templates by RNA polymerase IV (PolIV), RNA-dependent RNA polymerase 2 (RDR2), DICER-LIKE 3 (DCL3), and the RNA-directed DNA methylation (RdDM) machinery. Maintenance of PTGS requires RNA-dependent RNA polymerase 6 (RDR6), and may be associated with DNA methylation and transitive production of secondary siRNAs. In this work, mutants defective for the NRPD1a and NRPD1b alternative largest subunits of PolIV were tested for their ability to undergo RdDM, transitive RNA silencing and maintenance of PTGS. PTGS could be initiated in both nrpd1a and nrpd1b mutants, and this was associated with production of secondary siRNAs; silencing was not maintained however. nrpd1a mutants could support RdDM although this was lost upon reversal of silencing, as was methylation in rdr6 mutants. We conclude that components of the machinery that maintain TGS are required for maintenance of PTGS, and that RDR6 uses distinct templates in the initiation and maintenance phases of RNA silencing.
+
+TGS: !requires! PolIV 
+TGS: !requires! RDR2 
+TGS: !requires! DCL3 
+TGS: !requires! RdDM machinery 
+PTGS: !requires! RDR6 
+PTGS: !associated with! DNA methylation 
+PTGS: !associated with! transitive siRNA production 
+nrpd1a: !supports! RdDM 
+nrpd1b: !initiates! PTGS 
+rdr6: !uses distinct templates for! initiation and maintenance of RNA silencing

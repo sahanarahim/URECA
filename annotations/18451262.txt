@@ -1,0 +1,11 @@
+Salicylic acid (SA) is an important mediator of plant defense response. In Arabidopsis (Arabidopsis thaliana), this compound was proposed to derive mainly from isochorismate, itself produced from chorismate through the activity of ISOCHORISMATE SYNTHASE1 (ICS1). Null ics1 mutants still accumulate some SA, suggesting the existence of an enzymatic activity redundant with ICS1 or of an alternative ICS-independent SA biosynthetic route. Here, we studied the role of ICS2, a second ICS gene of the Arabidopsis genome, in the production of SA. We have shown that ICS2 encodes a functional ICS enzyme and that, similar to ICS1, ICS2 is targeted to the plastids. Comparison of SA accumulation in the ics1, ics2, and ics1 ics2 mutants indicates that ICS2 participates in the synthesis of SA, but in limited amounts that become clearly detectable only when ICS1 is lacking. This unequal redundancy relationship was also observed for phylloquinone, another isochorismate-derived end product. Furthermore, detection of SA in the double ics1 ics2 double mutant that is completely devoid of phylloquinone provides genetic evidence of the existence of an ICS-independent SA biosynthetic pathway in Arabidopsis.
+
+ICS1: !synthesizes! SA
+ICS2: !synthesizes! SA
+ICS1: !redundant with! ICS2
+ICS1: !localizes to! plastids
+ICS2: !localizes to! plastids
+ICS1: !represses! ICS2
+SA: !derived from! isochorismate
+phylloquinone: !derived from! isochorismate
+SA: !synthesized by! ICS-independent pathway

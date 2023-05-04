@@ -1,0 +1,21 @@
+The bulb of <i>Fritillaria hupehensis</i>, a traditional cough and expectorant medicine, is usually harvested from June to September according to traditional cultivation experience, without practical scientific guidance. Although steroidal alkaloid metabolites have been identified in <i>F. hupehensis</i>, the dynamic changes in their levels during bulb development and their molecular regulatory mechanisms are poorly understood. In this study, integrative analyses of the bulbus phenotype, bioactive chemical investigations, and metabolome and transcriptome profiles were performed to systematically explore the variations in steroidal alkaloid metabolite levels and identify the genes modulating their accumulation and the corresponding regulatory mechanisms. The results showed that weight, size, and total alkaloid content of the regenerated bulbs reached a maximum at IM03 (post-withering stage, early July), whereas peiminine content reached a maximum at IM02 (withering stage, early June). There were no significant differences between IM02 and IM03, indicating that regenerated bulbs could be harvested appropriately in early June or July. Peiminine, peimine, tortifoline, hupehenine, korseveramine, delafrine, hericenone N-oxide, korseveridine, puqiedinone, pingbeinone, puqienine B, puqienine E, pingbeimine A, jervine, and ussuriedine levels were upregulated in IM02 and IM03, compared with IM01 (vigorous growth stage, early April). The Kyoto Encyclopedia of Genes and Genomes enrichment analysis indicated that the accumulation of steroidal alkaloid metabolites mainly occurred prior to IM02. <i>HMGR1</i>, <i>DXR</i>, <i>CAS1</i>, <i>CYP 90A1</i>, and <i>DET2</i> may play a positive role in peiminine, peimine, hupehenine, korseveramine, korseveridine, hericenone N-oxide, puqiedinone, delafrine, tortifoline, pingbeinone, puqienine B, puqienine E, pingbeimine A, jervine, and ussuriedine biosynthesis, whereas the downregulation of <i>FPS1</i>, <i>SQE</i> and <i>17-DHCR</i> may lead to a reduction in peimisine levels. Weighted gene correlation network analysis showed that <i>CYP 74A2-1, CYP 74A2-2, CYP 71A26-1</i>, <i>CYP 71A26-2</i>, and <i>CYP74A</i> were negatively correlated with peiminine and pingbeimine A, whereas <i>CYP R</i> and <i>CYP707A1</i> were positively correlated. <i>. CYP 74A2-1</i> and <i>CYP 74A2-2</i> may play a negative role in peimine and korseveridine biosynthesis, whereas <i>CYP R</i> plays a positive role. In addition, the highly expressed C2H2, HSF, AP2/ERF, HB, GRAS, C3H, NAC, MYB-related transcription factors (TFs), GARP-G2-like TFs, and WRKY may play positive roles in the accumulation of peiminine, peimine, korseveridine, and pingbeimine A. These results provide new insights into scientific harvesting of <i>F. hupehensis</i>.
+
+HMGR1: !enhances! peiminine
+DXR: !enhances! peimine
+CAS1: !enhances! hupehenine
+CYP 90A1: !enhances! korseveramine
+DET2: !enhances! korseveridine
+FPS1: !represses! peimisine
+SQE: !represses! peimisine
+17-DHCR: !represses! peimisine
+CYP 74A2-1: !represses! peimine
+CYP 74A2-2: !represses! peimine
+CYP 71A26-1: !represses! peiminine
+CYP 71A26-2: !represses! peiminine
+CYP74A: !represses! pingbeimine A
+CYP R: !enhances! peimine
+CYP707A1: !enhances! pingbeimine A
+C2H2: !enhances! peiminine
+HSF: !enhances! peimine
+AP2/ERF: !enhances! korseveridine
+HB: !enhances

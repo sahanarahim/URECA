@@ -1,0 +1,16 @@
+Peanut is an oil crop with important economic value that is widely cultivated around the world. It blooms on the ground but bears fruit underground. When the peg penetrates the ground, it enters a dark environment, is subjected to mechanical stress from the soil, and develops into a normal pod. When a newly developed pod emerges from the soil, it turns green and stops growing. It has been reported that both darkness and mechanical stress are necessary for normal pod development. In this study, we investigated changes in gene expression during the reverse process of peg penetration: developmental arrest caused by pod (Pattee 3 pods) excavation. Bagging the aerial pods was used to simulate loss of mechanical pressure, while direct exposure of the aerial pods was used to simulate loss of both mechanical pressure and darkness. After the loss of mechanical stress and darkness, the DEGs were significantly enriched in photosynthesis, photosynthesis-antenna proteins, plant-pathogen interaction, DNA replication, and circadian rhythm pathways. The DNA replication pathway was enriched by down-regulated genes, and the other four pathways were enriched by upregulated genes. Upregulated genes were also significantly enriched in protein ubiquitination and calmodulin-related genes, highlighting the important role of ubiquitination and calcium signaling in pod development. Further analysis of DEGs showed that <i>phytochrome A</i> (<i>Phy A</i>), <i>auxin response factor 9</i> (<i>IAA9</i>), and <i>mechanosensitive ion channel protein</i> played important roles in geocarpy. The expression of these two genes increased in subterranean pods but decreased in aerial pods. Based on a large number of chloroplast-related genes, calmodulin, kinases, and ubiquitin-related proteins identified in this study, we propose two possible signal transduction pathways involved in peanut geocarpy, namely, one begins in chloroplasts and signals down through phosphorylation, and the other begins during abiotic stress and signals down through calcium signaling, phosphorylation, and ubiquitination. Our study provides valuable information about putative regulatory genes for peanut pod development and contributes to a better understanding of the biological phenomenon of geocarpy.
+
+Phy A: !enhances! Pod Development
+IAA9: !enhances! Pod Development
+Mechanosensitive ion channel protein: !enhances! Pod Development
+Photosynthesis: !enhanced by! DEGs
+Photosynthesis-antenna proteins: !enhanced by! DEGs
+Plant-pathogen interaction: !enhanced by! DEGs
+DNA replication: !repressed by! DEGs
+Circadian rhythm pathways: !enhanced by! DEGs
+Protein ubiquitination: !enhanced by! DEGs
+Calmodulin-related genes: !enhanced by! DEGs
+Chloroplast-related genes: !involved in! Signal Transduction
+Calmodulin: !involved in! Signal Transduction
+Kinases: !involved in! Signal Transduction
+Ubiquitin-related proteins: !involved in! Signal Transduction

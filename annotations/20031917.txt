@@ -1,0 +1,9 @@
+The phytochrome (phy)A and phyB photoreceptors mediate three photobiological response modes in plants; whereas phyA can mediate the very-low-fluence response (VLFR), the high-irradiance response (HIR) and, to some extent, the low fluence response (LFR), phyB and other type II phytochromes only mediate the LFR. To investigate to what level a rice phyA can complement for Arabidopsis phyA or phyB function and to evaluate the role of the serine residues in the first 20 amino acids of the N-terminus of phyA, we examined VLFR, LFR, and HIR responses in phyB and phyAphyB mutant plants transformed with rice PHYA cDNA or a mutant rice PHYA cDNA in which the first 10 serine residues were mutated to alanines (phyA SA). Utilizing mutants without endogenous phyB allowed the evaluation of red-light-derived responses sensed by the rice phyA. In summary, the WT rice phyA could complement VLFR and LFR responses such as inhibition of hypocotyl elongation under pulses of FR or continuous R light, induction of flowering and leaf expansion, whereas the phyA SA was more specific for HIR responses (e.g. inhibition of hypocotyl elongation and anthocyanin accumulation under continuous far-red light). As the N-terminal serines can no longer be phosphorylated in the phyA SA mutant, this suggests a role for phosphorylation discriminating between the different phyA-dependent responses. The efficacy of the rice phyA expressed in Arabidopsis was dependent upon the developmental age of the plants analyzed and on the physiological response, suggesting a stage-dependent downstream modulation of phytochrome signaling.
+
+phyA: !mediates! VLFR, HIR, LFR
+phyB: !mediates! LFR
+phyA: !complements! phyB
+phyA: !induces! flowering, leaf expansion
+phyA SA: !specific for! HIR responses
+serines: !phosphorylated to! discriminate responses
+rice phyA: !dependent on! developmental age

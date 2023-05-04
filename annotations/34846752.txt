@@ -1,0 +1,11 @@
+Jasmonates are fatty acid-derived hormones that regulate multiple aspects of plant development, growth and stress responses. Bioactive jasmonates, defined as the ligands of the conserved COI1 receptor, differ between vascular plants and bryophytes (jasmonoyl-l-isoleucine (JA-Ile) and dinor-12-oxo-10,15(Z)-phytodienoic acid (dn-OPDA), respectively). The biosynthetic pathways of JA-Ile in the model vascular plant Arabidopsis thaliana have been elucidated. However, the details of dn-OPDA biosynthesis in bryophytes are still unclear. Here, we identify an orthologue of Arabidopsis fatty-acid-desaturase 5 (AtFAD5) in the model liverwort Marchantia polymorpha and show that FAD5 function is ancient and conserved between species separated by more than 450 million years (Myr) of independent evolution. Similar to AtFAD5, MpFAD5 is required for the synthesis of 7Z-hexadecenoic acid. Consequently, in Mpfad5 mutants, the hexadecanoid pathway is blocked, dn-OPDA concentrations are almost completely depleted and normal chloroplast development is impaired. Our results demonstrate that the main source of wounding-induced dn-OPDA in Marchantia is the hexadecanoid pathway and the contribution of the octadecanoid pathway (i.e. from OPDA) is minimal. Remarkably, despite extremely low concentrations of dn-OPDA, MpCOI1-mediated responses to wounding and insect feeding can still be activated in Mpfad5, suggesting that dn-OPDA may not be the only bioactive jasmonate and COI1 ligand in Marchantia.
+
+AtFAD5: !synthesizes! 7Z-hexadecenoic acid 
+MpFAD5: !synthesizes! 7Z-hexadecenoic acid 
+Mpfad5: !blocks! hexadecanoid pathway 
+dn-OPDA: !localizes to! Mpfad5 mutants 
+dn-OPDA: !depletes! Mpfad5 mutants 
+dn-OPDA: !impairs! chloroplast development 
+hexadecanoid pathway: !produces! dn-OPDA 
+octadecanoid pathway: !produces! minimal dn-OPDA 
+MpCOI1: !activates! responses to wounding and insect feeding

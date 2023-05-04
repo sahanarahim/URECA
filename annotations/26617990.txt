@@ -1,0 +1,8 @@
+['26617990', 'JmjC domain containing protein 14 (JMJ14) is an H3K4-specific histone demethylase  that plays important roles in RNA-mediated gene silencing and flowering time  regulation in Arabidopsis. However, how JMJ14 is recruited to its target genes  remains unclear. Here, we show that the C-terminal FYRN and FYRC domains of JMJ14  are required for RNA silencing and flowering time regulation. Chromatin binding  of JMJ14 is lost upon deletion of its FYRN and FYRC domains, and H3K4me3 is  increased. FYRN and FYRC domains interact with a pair of NAC domain containing  transcription factors, NAC050 and NAC052. Genome-wide ChIP analysis revealed that  JMJ14 and NAC050/052 share a set of common target genes with CTTGNNNNNCAAG  consensus sequences. Mutations in either NAC052 or NAC050 impair RNA-mediated  gene silencing. Together, our findings demonstrate an important role of FYRN and  FYRC domains in targeting JMJ14 through direct interaction with NAC050/052  proteins, which reveals a novel mechanism of histone demethylase recruitment.', '2015', 'Cell Discov', '10.1038/celldisc.2015.3', 'Cao']
+
+JMJ14: !interacts with! NAC050/052 
+NAC050/052: !recruits! JMJ14 
+FYRN/FYRC: !binds! Chromatin 
+FYRN/FYRC: !interacts with! NAC050/052 
+NAC050/052: !targets! Genes 
+Mutations: !impair! RNA-mediated gene silencing

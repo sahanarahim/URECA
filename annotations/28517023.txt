@@ -1,0 +1,9 @@
+Altered precipitation patterns associated with anthropogenic climate change are expected to have many effects on plants and insect pollinators, but it is unknown if effects on pollination are mediated by changes in water availability. We tested the hypothesis that impacts of climate on plant-pollinator interactions operate through changes in water availability, and specifically that such effects occur through alteration of floral attractants. We manipulated water availability in two naturally occurring Mertensia ciliata (Boraginaceae) populations using water addition, water reduction and control plots and measured effects on vegetative and floral traits, pollinator visitation and seed set. While most floral trait values, including corolla size and nectar, increased linearly with increasing water availability, in this bumblebee-pollinated species, pollinator visitation peaked at intermediate water levels. Visitation also peaked at an intermediate corolla length, while its relationship to corolla width varied across sites. Seed set, however, increased linearly with water. These results demonstrate the potential for changes in water availability to impact plant-pollinator interactions through pollinator responses to differences in floral attractants, and that the effects of water on pollinator visitation can be nonlinear. Plant responses to changes in resource availability may be an important mechanism by which climate change will affect species interactions.
+
+water: !affects! floral traits 
+floral traits: !affects! pollinator visitation 
+pollinator visitation: !affects! seed set 
+water: !enhances! corolla size 
+water: !enhances! nectar 
+corolla length: !affects! pollinator visitation 
+corolla width: !affects! pollinator visitation

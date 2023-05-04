@@ -1,0 +1,7 @@
+Plant microRNA (miRNA) target MIMICs (MIMs) are non-coding RNA transcripts that can inhibit endogenous miRNAs, as they contain a miRNA binding site that forms a three nucleotide (nt) mismatch loop opposite the miRNA cleavage site upon miRNA binding. This loop renders the MIMs non-cleavable, presumably leading to sequestration of the miRNA and thus enabling the endogenous targets to be deregulated. Arabidopsis miR319 and miR159 are two closely related but distinct miRNA families, as they are functionally specific for two different sets of targets, TCP and MYB genes, respectively. Being offset by one nt, MIM319 and MIM159 should have specificity to their respective miRNA families. However, MIM319 and MIM159 plants appear indistinguishable, having highly similar developmental defects reminiscent of a loss-of-function mir159 mutant. In both MIM319 and MIM159 plants, miR159 and miR319 levels are reduced, and correspondingly, both MYB and TCP mRNA levels are elevated, implying that these MIMs are inhibiting both miR159 and miR319. These data demonstrate that MIMs are able to inhibit closely related miRNAs, including those with cleavage sites not opposite the three nt loop. This highlights that MIMs can have unintended off-target effects and that their use should include corresponding molecular analysis to investigate their impact on closely related miRNAs.
+
+miRNA: !inhibits! MIMs 
+MIMs: !inhibit! miR159 & miR319 
+MIM319 & MIM159: !indistinguishable! 
+MIM319 & MIM159: !reduce! miR159 & miR319 
+MIM319 & MIM159: !elevate! TCP & MYB mRNA

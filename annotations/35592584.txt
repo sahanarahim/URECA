@@ -1,0 +1,7 @@
+Arbuscular mycorrhizal fungi (AMF) infect plant roots and are hypothesized to improve plant growth. Recently, AMF is now available for axenic culture. Therefore, AMF is expected to be used as a microbial fertilizer. To evaluate the usefulness of AMF as a microbial fertilizer, we need to investigate the relationship between the degree of root colonization of AMF and plant growth. The method popularly used for calculation of the degree of root colonization, termed the magnified intersections method, is performed manually and is too labor-intensive to enable an extensive survey to be undertaken. Therefore, we automated the magnified intersections method by developing an application named "Tool for Analyzing root images to calculate the Infection rate of arbuscular Mycorrhizal fungi: TAIM." TAIM is a web-based application that calculates the degree of AMF colonization from images using automated computer vision and pattern recognition techniques. Experimental results showed that TAIM correctly detected sampling areas for calculation of the degree of infection and classified the sampling areas with 87.4% accuracy. TAIM is publicly accessible at http://taim.imlab.jp/.
+
+AMF: !infects! Plant Roots 
+TAIM: !calculates! Degree of AMF Colonization 
+TAIM: !classifies! Sampling Areas 
+Computer Vision: !detects! Sampling Areas 
+Pattern Recognition: !classifies! Sampling Areas

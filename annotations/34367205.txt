@@ -1,0 +1,17 @@
+Functional trait ecology demonstrates the significance of the leaf economics spectrum in understanding plants' trade-off between acquisitive and conservative resource utilization. However, whether trait variations of different vegetative organs are coordinated and whether the plant economics spectrum is characterized by more than one vegetative organ remain controversial. To gain insights into these questions, within a tropical cloud forest in Hainan Island, a total of 13 functional traits of 84 tree species were analyzed here, including leaf, stem and root traits. By using standardized major axis (SMA) regression and principal components analysis, we examined the trait variations and correlations for deciphering plants' trade-off pattern. We found decreases of leaf phosphorus content, leaf nitrogen content and specific leaf area and increases of leaf mass per unit area (LMA), wood density and leaf thickness along the first principal component, while there were decreases of specific root length and specific root area and increases of root tissue density along the second principal component. Root phosphorus and nitrogen contents were significantly positively associated with the phosphorus and nitrogen contents of both stem and leaf. Wood density was significantly positively associated with LMA and leaf thickness, but negatively associated with leaf thickness and specific leaf area. Our results indicate that, in the tropical cloud forest, there is a "fast-slow" economic spectrum characterized by leaf and stem. Changes of nutrient trait are coordinated, whereas the relationships of morphological traits varied independently between plant above- and below-ground parts, while root nutrient traits are decoupled from root morphological traits. Our findings can provide an insight into the species coexistence and community assembly in high-altitude tropical forests.
+
+leaf: !decreases! phosphorus content
+leaf: !decreases! nitrogen content
+leaf: !decreases! specific leaf area
+leaf: !increases! mass per unit area
+stem: !increases! wood density
+leaf: !increases! thickness
+root: !decreases! specific root length
+root: !decreases! specific root area
+root: !increases! tissue density
+root: !positively associated with! stem phosphorus content
+root: !positively associated with! stem nitrogen content
+wood density: !positively associated with! LMA
+wood density: !positively associated with! leaf thickness
+wood density: !negatively associated with! leaf thickness
+wood density: !negatively associated with! specific leaf area

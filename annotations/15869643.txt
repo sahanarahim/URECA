@@ -1,0 +1,8 @@
+This paper presents an architectural model of wheat (Triticum aestivum), designed to explain effects of light conditions at the individual leaf level on tillering kinetics. Various model variables, including blade length and curvature, were parameterized for spring wheat, and compared with winter wheat and other Gramineae species. The architectural model enables simulation of plant properties at the level of individual organs. Parameterization was based on data derived from an outdoor experiment with spring wheat cv. Minaret. Final organ dimensions of tillers could be modelled using the concept of relative phytomer numbers. Various variables in spring wheat showed marked similarities to winter wheat and other species, suggesting possibilities for a general Gramineae architectural model. Our descriptive model is suitable for our objective: investigating light effects on tiller behaviour. However, we plan to replace the descriptive modelling solutions by physiological, mechanistic solutions, starting with the localized production and partitioning of assimilates as affected by abiotic growth factors.
+
+Gene: !affects! Process 
+Gene: !localizes to! Organ 
+Gene: !interacts with! Light Conditions 
+Gene: !enhances! Blade Length 
+Gene: !represses! Curvature 
+Gene: !synthesizes! Assimilates

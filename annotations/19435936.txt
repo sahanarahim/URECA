@@ -1,0 +1,12 @@
+['19435936', 'Here, we identify the Arabidopsis thaliana ortholog of the mammalian DEAD box  helicase, eIF4A-III, the putative anchor protein of exon junction complex (EJC)  on mRNA. Arabidopsis eIF4A-III interacts with an ortholog of the core EJC  component, ALY/Ref, and colocalizes with other EJC components, such as Mago, Y14,  and RNPS1, suggesting a similar function in EJC assembly to animal eIF4A-III. A  green fluorescent protein (GFP)-eIF4A-III fusion protein showed localization to  several subnuclear domains: to the nucleoplasm during normal growth and to the  nucleolus and splicing speckles in response to hypoxia. Treatment with the  respiratory inhibitor sodium azide produced an identical response to the hypoxia  stress. Treatment with the proteasome inhibitor MG132 led to accumulation of  GFP-eIF4A-III mainly in the nucleolus, suggesting that transition of eIF4A-III  between subnuclear domains and/or accumulation in nuclear speckles is controlled  by proteolysis-labile factors. As revealed by fluorescence recovery after  photobleaching analysis, the nucleoplasmic fraction was highly mobile, while the  speckles were the least mobile fractions, and the nucleolar fraction had an  intermediate mobility. Sequestration of eIF4A-III into nuclear pools with  different mobility is likely to reflect the transcriptional and mRNA processing  state of the cell.', '2009 May', 'Plant Cell', '10.1105/tpc.108.060434', 'Shaw']
+
+eIF4A-III: !interacts with! ALY/Ref
+eIF4A-III: !localizes to! Nucleoplasm
+eIF4A-III: !localizes to! Nucleolus
+eIF4A-III: !localizes to! Splicing Speckles
+eIF4A-III: !responds to! Hypoxia
+eIF4A-III: !responds to! Sodium Azide
+eIF4A-III: !responds to! MG132
+eIF4A-III: !has mobility! Nucleoplasmic fraction
+eIF4A-III: !has mobility! Speckles
+eIF4A-III: !has mobility! Nucleolar fraction

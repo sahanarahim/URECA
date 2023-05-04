@@ -1,0 +1,9 @@
+Small RNA (sRNA), such as microRNA (miRNA) and short interfering RNA, are well-known to control gene expression based on degradation of target mRNA in plants. A considerable amount of research has applied next-generation sequencing (NGS) to reveal the regulatory pathways of plant sRNAs. Consequently, numerous bioinformatics tools have been developed for the purpose of analyzing sRNA NGS data. However, most methods focus on the study of sRNA expression profiles or novel miRNAs predictions. The analysis of sRNA target genes is usually not integrated into their pipelines. As a result, there is still no means available for identifying the interaction mechanisms between host and virus or the synergistic effects between two viruses. For the present study, a comprehensive system, called the Small RNA Illustration System (sRIS), has been developed. This system contains two main components. The first is for sRNA overview analysis and can be used not only to identify miRNA but also to investigate virus-derived small interfering RNA. The second component is for sRNA target prediction, and it employs both bioinformatics calculations and degradome sequencing data to enhance the accuracy of target prediction. In addition, this system has been designed so that figures and tables for the outputs of each analysis can be easily retrieved and accessed, making it easier for users to quickly identify and quantify their results. sRIS is available at http://sris.itps.ncku.edu.tw/.
+
+Small RNA: !controls! gene expression 
+microRNA: !degrades! target mRNA 
+Next-generation sequencing: !reveals! regulatory pathways 
+Bioinformatics tools: !analyzes! sRNA NGS data 
+Small RNA Illustration System (sRIS): !identifies! miRNA 
+sRIS: !employs! bioinformatics calculations and degradome sequencing data 
+sRIS: !retrieves! figures and tables

@@ -1,0 +1,9 @@
+['26744218', 'The ability of Arabidopsis thaliana to successfully prevent colonization by  Phytophthora infestans, the causal agent of late blight disease of potato  (Solanum tuberosum), depends on multilayered defense responses. To address the  role of surface-localized secondary metabolites for entry control, droplets of a  P. infestans zoospore suspension, incubated on Arabidopsis leaves, were subjected  to untargeted metabolite profiling. The hydroxycinnamic acid amide  coumaroylagmatine was among the metabolites secreted into the inoculum. In vitro  assays revealed an inhibitory activity of coumaroylagmatine on P. infestans spore  germination. Mutant analyses suggested a requirement of the  p-coumaroyl-CoA:agmatine N4-p-coumaroyl transferase ACT for the biosynthesis and  of the MATE transporter DTX18 for the extracellular accumulation of  coumaroylagmatine. The host plant potato is not able to efficiently secrete  coumaroylagmatine. This inability is overcome in transgenic potato plants  expressing the two Arabidopsis genes ACT and DTX18. These plants secrete agmatine  and putrescine conjugates to high levels, indicating that DTX18 is a  hydroxycinnamic acid amide transporter with a distinct specificity. The export of  hydroxycinnamic acid amides correlates with a decreased ability of P. infestans  spores to germinate, suggesting a contribution of secreted antimicrobial  compounds to pathogen defense at the leaf surface.', '2016 Feb', 'Plant Cell', '10.1105/tpc.15.00706', 'Rosahl']
+
+ACT: !synthesizes! coumaroylagmatine 
+DTX18: !transports! hydroxycinnamic acid amides 
+ACT: !interacts with! DTX18 
+coumaroylagmatine: !inhibits! P. infestans spore germination 
+P. infestans: !colonizes! Arabidopsis thaliana 
+DTX18: !enhances! export of hydroxycinnamic acid amides 
+hydroxycinnamic acid amides: !decreases! ability of P. infestans spores to germinate

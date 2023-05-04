@@ -1,0 +1,11 @@
+['29588169', 'The conserved nuclear protein ENY2 (Sus1 in yeast) is involved in coupling  transcription and mRNA export in yeast and metazoa, as it is a component both of  the transcriptional co-activator complex SAGA and of the mRNA export complex  TREX-2. Arabidopsis thaliana ENY2 is widely expressed in the plant and it  localizes to the nucleoplasm, but unlike its yeast/metazoan orthologs, it is not  enriched in the nuclear envelope. Affinity purification of ENY2 in combination  with mass spectrometry revealed that it co-purified with SAGA components, but not  with the nuclear pore-associated TREX-2. In addition, further targeted proteomics  analyses by reciprocal tagging established the composition of the Arabidopsis  SAGA complex consisting of the four modules HATm, SPTm, TAFm and DUBm, and that  several SAGA subunits occur in alternative variants. While the HATm, SPTm and  TAFm robustly co-purified with each other, the deubiquitination module (DUBm)  appears to associate with the other SAGA modules more weakly/dynamically.  Consistent with a homology model of the Arabidopsis DUBm, the SGF11 protein  interacts directly with ENY2 and UBP22. Plants depleted in the DUBm components,  SGF11 or ENY2, are phenotypically only mildly affected, but they contain  increased levels of ubiquitinated histone H2B, indicating that the SAGA-DUBm has  histone deubiquitination activity in plants. In addition to transcription-related  proteins (i.e., transcript elongation factors, Mediator), many splicing factors  were found to associate with SAGA, linking the SAGA complex and ongoing  transcription with mRNA processing.', '2018 May 11', 'J Mol Biol', '10.1016/j.jmb.2018.03.018', 'Grasser']
+
+ENY2: !localizes to! nucleoplasm 
+ENY2: !interacts with! SAGA components 
+ENY2: !interacts with! SGF11 
+ENY2: !interacts with! UBP22 
+SAGA: !enhances! transcription 
+SAGA: !represses! ubiquitinated histone H2B 
+SAGA: !interacts with! transcript elongation factors 
+SAGA: !interacts with! Mediator 
+SAGA: !interacts with! splicing factors

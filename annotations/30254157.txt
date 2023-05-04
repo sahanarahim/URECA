@@ -1,0 +1,8 @@
+In plants, light receptors play a pivotal role in photoperiod sensing, enabling them to track seasonal progression. Photoperiod sensing arises from an interaction between the plant's endogenous circadian oscillator and external light cues. Here, we characterize the role of phytochrome A (phyA) in photoperiod sensing. Our metaanalysis of functional genomic datasets identified phyA as a principal regulator of morning-activated genes, specifically in short photoperiods. We demonstrate that <i>PHYA</i> expression is under the direct control of the PHYTOCHROME INTERACTING FACTOR transcription factors, PIF4 and PIF5. As a result, phyA protein accumulates during the night, especially in short photoperiods. At dawn, phyA activation by light results in a burst of gene expression, with consequences for physiological processes such as anthocyanin accumulation. The combination of complex regulation of <i>PHYA</i> transcript and the unique molecular properties of phyA protein make this pathway a sensitive detector of both dawn and photoperiod.
+
+PIF4: !controls! PHYA 
+PIF5: !controls! PHYA 
+PHYA: !accumulates! Night 
+PHYA: !activated by! Light 
+PHYA: !affects! Gene expression 
+Gene expression: !enhances! Anthocyanin accumulation

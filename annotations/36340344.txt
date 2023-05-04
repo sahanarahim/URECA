@@ -1,0 +1,11 @@
+Modelling higher plant growth is of strategic interest for modern agriculture as well as for the development of bioregenerative life support systems for space applications, where crop growth is expected to play an essential role. The capability of constraint-based metabolic models to cope the diel dynamics of plants growth is integrated into a multilevel modelling approach including mass and energy transfer and enzyme kinetics. Lactuca sativa is used as an exemplary crop to validate, with experimental data, the approach presented as well as to design a novel model-based predictive control strategy embedding metabolic information. The proposed modelling strategy predicts with high accuracy the dynamics of gas exchange and the distribution of fluxes in the metabolic network whereas the control architecture presented can be useful to manage higher plants chambers and open new ways of merging metabolome and control algorithms.
+
+Gene: !affects! Process 
+Process: !governed by! Gene 
+Gene: !localizes to! Lactuca sativa 
+Lactuca sativa: !modelled by! Multilevel modelling approach 
+Multilevel modelling approach: !includes! Mass and energy transfer and enzyme kinetics 
+Enzyme kinetics: !used to! Validate experimental data 
+Experimental data: !validates! Multilevel modelling approach 
+Multilevel modelling approach: !predicts! Dynamics of gas exchange and distribution of fluxes in metabolic network 
+Metabolic network: !managed by! Control architecture

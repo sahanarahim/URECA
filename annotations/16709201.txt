@@ -1,0 +1,10 @@
+['16709201', 'Three gibberellin (GA) receptor genes (AtGID1a, AtGID1b and AtGID1c), each an  ortholog of the rice GA receptor gene (OsGID1), were cloned from Arabidopsis, and  the characteristics of their recombinant proteins were examined. The GA-binding  activities of the three recombinant proteins were confirmed by an in vitro assay.  Biochemical analyses revealed similar ligand selectivity among the recombinants,  and all recombinants showed higher affinity to GA(4) than to other GAs. AtGID1b  was unique in its binding affinity to GA(4) and in its pH dependence when  compared with the other two, by only showing binding in a narrow pH range (pH  6.4-7.5) with 10-fold higher affinity (apparent K(d) for GA(4) = 3 x 10(-8) m)  than AtGID1a and AtGID1c. A two-hybrid yeast system only showed in vivo  interaction in the presence of GA(4) between each AtGID1 and the Arabidopsis  DELLA proteins (AtDELLAs), negative regulators of GA signaling. For this  interaction with AtDELLAs, AtGID1b required only one-tenth of the amount of GA(4)  that was necessary for interaction between the other AtGID1s and AtDELLAs,  reflecting its lower K(d) value. AtDELLA boosted the GA-binding activity of  AtGID1 in vitro, which suggests the formation of a complex between AtDELLA and  AtGID1-GA that binds AtGID1 to GA more tightly. The expression of each AtGID1  clone in the rice gid1-1 mutant rescued the GA-insensitive dwarf phenotype. These  results demonstrate that all three AtGID1s functioned as GA receptors in  Arabidopsis.', '2006 Jun', 'Plant J', '10.1111/j.1365-313X.2006.02748.x', 'Yamaguchi']
+
+AtGID1a: !binds! GA(4) 
+AtGID1b: !binds! GA(4) 
+AtGID1c: !binds! GA(4) 
+AtGID1b: !has higher affinity to! GA(4) 
+AtGID1b: !requires lower amount of! GA(4) 
+AtDELLA: !interacts with! AtGID1 
+AtDELLA: !boosts! GA-binding activity of AtGID1 
+AtGID1: !rescues! GA-insensitive dwarf phenotype

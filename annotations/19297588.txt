@@ -1,0 +1,10 @@
+In pea (Pisum sativum), normal fruit growth requires the presence of the seeds. The coordination of growth between the seed and ovary tissues involves phytohormones; however, the specific mechanisms remain speculative. This study further explores the roles of the gibberellin (GA) biosynthesis and catabolism genes during pollination and fruit development and in seed and auxin regulation of pericarp growth. Pollination and fertilization events not only increase pericarp PsGA3ox1 message levels (codes for GA 3-oxidase that converts GA(20) to bioactive GA(1)) but also reduce pericarp PsGA2ox1 mRNA levels (codes for GA 2-oxidase that mainly catabolizes GA(20) to GA(29)), suggesting a concerted regulation to increase levels of bioactive GA(1) following these events. 4-Chloroindole-3-acetic acid (4-Cl-IAA) was found to mimic the seeds in the stimulation of PsGA3ox1 and the repression of PsGA2ox1 mRNA levels as well as the stimulation of PsGA2ox2 mRNA levels (codes for GA 2-oxidase that mainly catabolizes GA(1) to GA(8)) in pericarp at 2 to 3 d after anthesis, while the other endogenous pea auxin, IAA, did not. This GA gene expression profile suggests that both seeds and 4-Cl-IAA can stimulate the production, as well as modulate the half-life, of bioactive GA(1), leading to initial fruit set and subsequent growth and development of the ovary. Consistent with these gene expression profiles, deseeded pericarps converted [(14)C]GA(12) to [(14)C]GA(1) only if treated with 4-Cl-IAA. These data further support the hypothesis that 4-Cl-IAA produced in the seeds is transported to the pericarp, where it differentially regulates the expression of pericarp GA biosynthesis and catabolism genes to modulate the level of bioactive GA(1) required for initial fruit set and growth.
+
+gene: PsGA3ox1 !affects! pericarp growth
+gene: PsGA2ox1 !represses! GA(20)
+gene: PsGA2ox2 !catabolizes! GA(1)
+gene: 4-Cl-IAA !mimics! seeds
+gene: 4-Cl-IAA !stimulates! PsGA3ox1
+gene: 4-Cl-IAA !represses! PsGA2ox1
+gene: Seeds !stimulate! PsGA3ox1
+gene: Seeds !repress! PsGA2ox1

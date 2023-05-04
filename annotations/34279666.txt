@@ -1,0 +1,9 @@
+Cold tolerance is regulated by a variety of transcription factors (TFs) and their target genes. Except for the well-characterized C-repeat binding factors (CBFs)-dependent transcriptional cascade, the mechanisms of cold tolerance mediated by other transcriptional regulatory networks are still largely unknown. Here, we used the assay for transposase-accessible chromatin with sequencing (ATAC-seq) and RNA-seq to identify cold responsive TFs in Vitis amurensis, a grape species with high cold hardiness. Nine TFs, including CBF4, RAV1 and ERF104, were identified after cold treatment. Weighted gene co-expression network analysis (WGCNA) and gene ontology (GO) analysis revealed that these TFs may regulate cold response through different pathways. As a prime candidate TF, overexpression of VaRAV1 in grape cells improved its cold tolerance. The transgenic cells exhibited low electrolyte leakage and malondialdehyde content and high peroxidase activity. Moreover, the TF gene TCP8 and a gene involving in homogalacturonan biosynthesis were found to be regulated by VaRAV1, suggesting that the contribution of VaRAV1 to cold tolerance may be achieved by enhancing the stability of cell membrane and regulating the expression of target genes involved in plant cell wall composition. Our work provides novel insights into plant response to cold stress and demonstrates the utility of ATAC-seq and RNA-seq for the rapid identification of TFs in response to cold stress in grapevine. VaRAV1 may play an important role in adaption to cold stress.
+
+CBF4: !regulates! Cold tolerance
+RAV1: !regulates! Cold tolerance
+ERF104: !regulates! Cold tolerance
+VaRAV1: !improves! Cold tolerance
+VaRAV1: !enhances! Stability of cell membrane
+TCP8: !regulated by! VaRAV1
+Homogalacturonan biosynthesis gene: !regulated by! VaRAV1

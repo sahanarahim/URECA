@@ -1,0 +1,10 @@
+Zinc (Zn) is an essential element for all forms of life because it is a structural or catalytic cofactor of many proteins, but it can have toxic effects at high concentrations; thus, microorganisms must tightly regulate its levels. Here, we evaluated the role of Zn homeostasis proteins in the virulence of the xylem-limited bacterium Xylella fastidiosa, causal agent of Pierce's disease of grapevine, among other diseases. Two mutants of X. fastidiosa 'Temecula' affected in genes which regulate Zn homeostasis (zur) and Zn detoxification (czcD) were constructed. Both knockouts showed increased sensitivity to Zn at physiologically relevant concentrations and increased intracellular accumulation of this metal compared with the wild type. Increased Zn sensitivity was correlated with decreased growth in grapevine xylem sap, reduced twitching motility, and downregulation of exopolysaccharide biosynthetic genes. Tobacco plants inoculated with either knockout mutant showed reduced foliar symptoms and a much reduced (czcD) or absent (zur) modification of the leaf ionome (i.e., the mineral nutrient and trace element composition), as well as reduced bacterial populations. The results show that detoxification of Zn is crucial for the virulence of X. fastidiosa and verifies our previous findings that modification of the host leaf ionome correlates with bacterial virulence.
+
+zur: !affects! Zn homeostasis
+czcD: !affects! Zn detoxification
+Zn: !increases sensitivity of! mutants
+mutants: !show decreased growth in! grapevine xylem sap
+mutants: !downregulate! exopolysaccharide biosynthetic genes
+mutants: !reduce foliar symptoms of! tobacco plants
+mutants: !modify leaf ionome of! tobacco plants
+leaf ionome: !correlates with! bacterial virulence

@@ -1,0 +1,7 @@
+MYB and basic helix-loop-helix (bHLH) transcription factors form complexes to regulate diverse metabolic and developmental processes in plants. However, the molecular mechanisms responsible for MYB-bHLH interaction and partner selection remain unclear. Here, we report the crystal structures of three MYB-bHLH complexes (WER-EGL3, CPC-EGL3 and MYB29-MYC3), uncovering two MYB-bHLH interaction modes. WER and CPC are R2R3- and R3-type MYBs, respectively, but interact with EGL3 through their N-terminal R3 domain in a similar mode. A single amino acid of CPC, Met49, is crucial for competition with WER to interact with EGL3. MYB29, a R2R3-type MYB transcription factor, interacts with MYC3 by its C-terminal MYC-interaction motif. The WER-EGL3 and MYB29-MYC3 binding modes are widely applied among MYB-bHLH complexes in Arabidopsis and evolve independently in plants.
+
+MYB: !interacts with! bHLH
+WER: !interacts with! EGL3
+CPC: !interacts with! EGL3
+Met49: !competes with! WER
+MYB29: !interacts with! MYC3

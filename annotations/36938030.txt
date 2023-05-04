@@ -1,0 +1,17 @@
+Foxtail millet (<i>Setaria italica</i>), a short-day plant, is one of the important crops for food security encountering climate change, particularly in regions where it is a staple food. Under the short-day condition in Taiwan, the heading dates (HDs) of foxtail millet accessions varied by genotypes and ambient temperature (AT). The allelic polymorphisms in flowering time (FT)-related genes were associated with HD variations. AT, in the range of 13°C-30°C that was based on field studies at three different latitudes in Taiwan and observations in the phytotron at four different AT regimes, was positively correlated with growth rate, and high AT promoted HD. To elucidate the molecular mechanism of foxtail millet HD, the expression of 14 key FT-related genes in four accessions at different ATs was assessed. We found that the expression levels of <i>SiPRR95</i>, <i>SiPRR1</i>, <i>SiPRR59</i>, <i>SiGhd7-2</i>, <i>SiPHYB</i>, and <i>SiGhd7</i> were negatively correlated with AT, whereas the expression levels of <i>SiEhd1</i>, <i>SiFT11</i>, and <i>SiCO4</i> were positively correlated with AT. Furthermore, the expression levels of <i>SiGhd7-2</i>, <i>SiEhd1</i>, <i>SiFT</i>, and <i>SiFT11</i> were significantly associated with HD. A coexpression regulatory network was identified that shown genes involved in the circadian clock, light and temperature signaling, and regulation of flowering, but not those involved in photoperiod pathway, interacted and were influenced by AT. The results reveal how gene × temperature and gene × gene interactions affect the HD in foxtail millet and could serve as a foundation for breeding foxtail millet cultivars for shift production to increase yield in response to global warming.
+
+SiPRR95: !represses! AT
+SiPRR1: !represses! AT
+SiPRR59: !represses! AT
+SiGhd7-2: !represses! AT
+SiPHYB: !represses! AT
+SiGhd7: !represses! AT
+SiEhd1: !enhances! AT
+SiFT11: !enhances! AT
+SiCO4: !enhances! AT
+SiGhd7-2: !affects! HD
+SiEhd1: !affects! HD
+SiFT: !affects! HD
+SiFT11: !affects! HD
+AT: !influences! gene interactions
+gene interactions: !influences! HD

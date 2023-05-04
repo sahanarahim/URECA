@@ -1,0 +1,12 @@
+['24664204', 'Disease resistance (R) genes are key components in plant immunity. Here, we show  that Arabidopsis (Arabidopsis thaliana) E3 ubiquitin ligase genes HISTONE  MONOUBIQUITINATION1 (HUB1) and HUB2 regulate the expression of R genes SUPPRESSOR  OF npr1-1, CONSTITUTIVE1 (SNC1) and RESISTANCE TO PERONOSPORA PARASITICA4. An  increase of SNC1 expression induces constitutive immune responses in the bonzai1  (bon1) mutant, and the loss of HUB1 or HUB2 function reduces SNC1 up-regulation  and suppresses the bon1 autoimmune phenotypes. HUB1 and HUB2 mediate histone 2B  (H2B) monoubiquitination directly at the SNC1 R gene locus to regulate its  expression. In addition, SNC1 and HUB1 transcripts are moderately up-regulated by  pathogen infection, and H2B monoubiquitination at SNC1 is enhanced by pathogen  infection. Together, this study indicates that H2B monoubiquitination at the R  gene locus regulates its expression and that this histone modification at the R  gene locus has an impact on immune responses in plants.', '2014 May', 'Plant Physiol', '10.1104/pp.113.227801', 'Hua']
+
+HUB1: !regulates! SNC1 
+HUB2: !regulates! SNC1 
+HUB1: !mediates! H2B monoubiquitination 
+HUB2: !mediates! H2B monoubiquitination 
+SNC1: !induces! immune responses 
+HUB1: !reduces! SNC1 up-regulation 
+HUB2: !reduces! SNC1 up-regulation 
+SNC1: !moderately up-regulated by! pathogen infection 
+H2B monoubiquitination: !enhanced by! pathogen infection 
+H2B monoubiquitination: !regulates! SNC1 expression

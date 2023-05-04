@@ -1,0 +1,8 @@
+Proteins with nucleotide binding and leucine-rich repeat domains (NLRs) serve as immune receptors in animals and plants that recognize pathogens and activate downstream defense responses. As high accumulation of NLRs can result in unwarranted autoimmune responses, their cellular concentrations must be tightly regulated. However, the molecular mechanisms of this process are poorly detailed. The F-box protein Constitutive expressor of PR genes 1 (CPR1) was previously identified as a component of a Skp1, Cullin1, F-box protein E3 complex that targets NLRs, including Suppressor of NPR1, Constitutive 1 (SNC1) and Resistance to Pseudomonas syringae 2 (RPS2), for ubiquitination and further protein degradation. From a forward genetic screen, we identified Mutant, snc1-enhancing 3 (MUSE3), an E4 ubiquitin ligase involved in polyubiquitination of its protein targets. Knocking out MUSE3 in Arabidopsis thaliana results in increased levels of NLRs, including SNC1 and RPS2, whereas overexpressing MUSE3 together with CPR1 enhances polyubiquitination and protein degradation of these immune receptors. This report on the functional role of an E4 ligase in plants provides insight into the scarcely understood NLR degradation pathway.
+
+CPR1: !targets! NLRs 
+MUSE3: !enhances! polyubiquitination 
+MUSE3: !enhances! protein degradation 
+SNC1: !targeted by! CPR1 
+RPS2: !targeted by! CPR1 
+Knocking out MUSE3: !increases! NLRs

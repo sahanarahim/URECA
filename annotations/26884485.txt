@@ -1,0 +1,8 @@
+5-Aminolevulinic acid (ALA) is the first committed substrate of tetrapyrrole biosynthesis and is formed from glutamyl-tRNA by two enzymatic steps. Glutamyl-tRNA reductase (GluTR) as the first enzyme of ALA synthesis is encoded by HEMA genes and tightly regulated at the transcriptional and posttranslational levels. Here, we show that the caseinolytic protease (Clp) substrate adaptor ClpS1 and the ClpC1 chaperone as well as the GluTR-binding protein (GBP) interact with the N terminus of GluTR Loss-of function mutants of ClpR2 and ClpC1 proteins show increased GluTR stability, whereas absence of GBP results in decreased GluTR stability. Thus, the Clp protease system and GBP contribute to GluTR accumulation levels, and thereby the rate-limiting ALA synthesis. These findings are supported with Arabidopsis (Arabidopsis thaliana) hema1 mutants expressing a truncated GluTR lacking the 29 N-terminal amino acid residues of the mature protein. Accumulation of this truncated GluTR is higher in dark periods, resulting in increased protochlorophyllide content. It is proposed that the proteolytic activity of Clp protease counteracts GBP binding to assure the appropriate content of GluTR and the adequate ALA synthesis for chlorophyll and heme in higher plants.
+
+GluTR: !interacts with! GBP
+ClpS1: !interacts with! GluTR
+ClpC1: !interacts with! GluTR
+ClpR2: !enhances! GluTR stability
+ClpC1: !enhances! GluTR stability
+GBP: !represses! GluTR stability

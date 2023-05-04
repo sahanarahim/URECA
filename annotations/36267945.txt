@@ -1,0 +1,12 @@
+Root hairs (RH) are a single-cell extension of root epidermal cells. In low phosphorus (LP) availability, RH length and density increase thus expanding the total root surface area for phosphate (Pi) acquisition. However, details on genes involved in RH development and response to LP are missing in an agronomically important leguminous crop, chickpea. To elucidate this response in chickpea, we performed tissue-specific RNA-sequencing and analyzed the transcriptome modulation for RH and root without RH (Root-RH) under LP. Root hair initiation and cellular differentiation genes like RSL TFs and ROPGEFs are upregulated in Root-RH, explaining denser, and ectopic RH in LP. In RH, genes involved in tip growth processes and phytohormonal biosynthesis like cell wall synthesis and loosening (cellulose synthase A catalytic subunit, <i>CaEXPA2</i>, <i>CaGRP2</i>, and <i>CaXTH2</i>), cytoskeleton/vesicle transport, and ethylene biosynthesis are upregulated. Besides RH development, genes involved in LP responses like lipid and/or pectin P remobilization and acid phosphatases are induced in these tissues summarizing a complete molecular response to LP. Further, RH displayed preferential enrichment of processes involved in symbiotic interactions, which provide an additional benefit during LP. In conclusion, RH shows a multi-faceted response that starts with molecular changes for epidermal cell differentiation and RH initiation in Root-RH and later induction of tip growth and various LP responses in elongated RH.
+
+RSL TFs: !upregulate! Root-RH
+ROPGEFs: !upregulate! Root-RH
+CaEXPA2: !upregulate! RH
+CaGRP2: !upregulate! RH
+CaXTH2: !upregulate! RH
+Cytoskeleton/Vesicle Transport: !upregulate! RH
+Ethylene Biosynthesis: !upregulate! RH
+Lipid/Pectin P Remobilization: !upregulate! Root-RH & RH
+Acid Phosphatases: !upregulate! Root-RH & RH
+Symbiotic Interactions: !enrich! RH

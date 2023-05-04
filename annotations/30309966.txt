@@ -1,0 +1,20 @@
+KEA4, KEA5, and KEA6 are members of the Arabidopsis (<i>Arabidopsis thaliana</i>) K<sup>+</sup> efflux antiporter (KEA) family that share high sequence similarity but whose function remains unknown. Here, we show their gene expression pattern, subcellular localization, and physiological function in Arabidopsis. <i>KEA4</i>, <i>KEA5</i>, and <i>KEA6</i> had similar tissue expression patterns, and the three KEA proteins localized to the Golgi, the trans-Golgi network, and the prevacuolar compartment/multivesicular bodies, suggesting overlapping roles of these proteins in the endomembrane system. Phenotypic analyses of single, double, and triple mutants confirmed functional redundancy. The triple mutant <i>kea4 kea5 kea6</i> had small rosettes, short seedlings, and was sensitive to low K<sup>+</sup> availability and to the sodicity imposed by high salinity. Also, the <i>kea4 kea5 kea6</i> mutant plants had a reduced luminal pH in the Golgi, trans-Golgi network, prevacuolar compartment, and vacuole, in accordance with the K/H exchange activity of KEA proteins. Genetic analysis indicated that KEA4, KEA5, and KEA6 as well as endosomal Na<sup>+</sup>/H<sup>+</sup>exchanger5 (NHX5) and NHX6 acted coordinately to facilitate endosomal pH homeostasis and salt tolerance. Neither cancelling nor overexpressing the vacuolar antiporters <i>NHX1</i> and <i>NHX2</i> in the <i>kea4 kea5 kea6</i> mutant background altered the salt-sensitive phenotype. The NHX1 and NHX2 proteins in the <i>kea4 kea5 kea6</i> mutant background could not suppress the acidity of the endomembrane system but brought the vacuolar pH close to wild-type values. Together, these data signify that KEA4, KEA5, and KEA6 are endosomal K<sup>+</sup> transporters functioning in maintaining pH and ion homeostasis in the endomembrane network.
+
+KEA4: !localizes to! Golgi
+KEA5: !localizes to! trans-Golgi network
+KEA6: !localizes to! prevacuolar compartment/multivesicular bodies
+KEA4: !enhances! K/H exchange activity
+KEA5: !enhances! K/H exchange activity
+KEA6: !enhances! K/H exchange activity
+KEA4: !interacts with! KEA5
+KEA4: !interacts with! KEA6
+KEA5: !interacts with! KEA6
+NHX5: !interacts with! KEA4
+NHX6: !interacts with! KEA4
+NHX5: !interacts with! KEA5
+NHX6: !interacts with! KEA5
+NHX5: !interacts with! KEA6
+NHX6: !interacts with! KEA6
+NHX1: !interacts with! NHX2
+NHX1: !represses! endomembrane acidity
+NHX2: !represses! endomembrane acidity

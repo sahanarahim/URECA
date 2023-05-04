@@ -1,0 +1,11 @@
+Megasporogenesis is a key step during ovule development in angiosperms, but the small number and inaccessibility of these cells have hampered molecular and genome-wide studies. Thus, many questions remain regarding the molecular basis of cell specification, differentiation, and development in the female gametophyte. Here, taking advantage of the correlation between spikelet length and ovule development in rice (<i>Oryza sativa</i>), we studied the transcriptome dynamics of young ovules at three stages, the archesporial cell, the megaspore mother cell before meiosis, and the functional megaspore after meiosis, using expression profiling based on RNA sequencing. Our analysis showed that 5,274 genes were preferentially expressed in ovules during megasporogenesis as compared to ovules at the mature female gametophyte stage. Out of these, 958 (18.16%) genes were archesporial cell- and/or megaspore mother cell-preferential genes, and represent a significant enrichment of genes involved in hormone signal transduction and plant pathogen interaction pathways, as well as genes encoding transcription factors. The expression patterns of nine genes that were preferentially expressed in ovules of different developmental stages, including the <i>OsERECTA2</i> (<i>OsER2</i>) receptor-like kinase gene, were confirmed by in situ hybridization. We further characterized the <i>OsER2</i> loss-of-function mutant, which had an excessive number of female germline cells and an abnormal female gametophyte, suggesting that <i>OsER2</i> regulates germline cell specification during megasporogenesis in rice. These results expand our understanding of the molecular control of megasporogenesis in rice and contribute to the functional studies of genes involved in megasporogenesis.
+
+gene: !affects! hormone signal transduction
+gene: !affects! plant pathogen interaction pathways
+gene: !encodes! transcription factors
+gene: !regulates! germline cell specification
+gene: !enhances! ovule development
+gene: !represses! female gametophyte
+gene: !localizes to! archesporial cell
+gene: !localizes to! megaspore mother cell
+gene: !interacts with! OsERECTA2

@@ -1,0 +1,12 @@
+The genetic control of apomixis was studied in numerous segregating progenies originated from intercrossing and selfing of obligate sexual and facultative apomictic parents in Poa pratensis by means of the flow cytometric seed screen. The data support a novel model with five major genes required to control asexual seed formation: the Apospory initiator (Ait) gene, the Apospory preventer (Apv) gene, a Megaspore development (Mdv) gene, the Parthenogenesis initiator (Pit) gene, and the Parthenogenesis preventer (Ppv) gene. Differences in expressivity and interactions of these genes are responsible for the wide variation of the mode of reproduction. Apospory and parthenogenesis as well as the initiator and preventer genes of these components segregate independently. The genotypes with the highest expressivity of apospory and parthenogenesis were assigned as Ait-/apvapv/Pit-/ppvppv, those with intermediate expressivity as Ait-/Apv-/Pit-/Ppv-, and those with low expressivity as aitait/apvapv/pitpit/ppvppv. Among the self progenies of obligate sexual individuals, plants with a low capacity for apospory and/or parthenogenesis occurred, indicating that the sexual parents were heterozygous for the preventer genes and homozygous for the recessive initiator alleles (aitait/Apv-/pitpit/Ppv-). The dominant allele Ait exhibits incomplete penetrance. The degree of expressivity of apospory and parthenogenesis was constant among several harvest years of F1 plants.
+
+Ait: !affects! Apospory
+Apv: !affects! Apospory
+Mdv: !affects! Megaspore Development
+Pit: !affects! Parthenogenesis
+Ppv: !affects! Parthenogenesis
+Ait: !incomplete penetrance! Expressivity
+Apv: !interacts with! Ait
+Pit: !interacts with! Ppv
+Ait: !heterozygous in! Sexual Parents
+Apv: !homozygous in! Sexual Parents

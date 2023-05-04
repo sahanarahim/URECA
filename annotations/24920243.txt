@@ -1,0 +1,8 @@
+Volatile communication between sagebrush (Artemisia tridentata) individuals has been found previously to reduce herbivory and to be more effective between individuals that are genetically identical or related relative to between strangers. The chemical nature of the cues involved in volatile communication remains unknown for this and other systems. We collected headspace volatiles from sagebrush plants in the field and analyzed these using GC-MS. Volatile profiles were highly variable among individuals, but most individuals could be characterized as belonging to one of two chemotypes, dominated by either thujone or camphor. Analyses of parents and offspring revealed that chemotypes were highly heritable. The ecological significance of chemotypes and the genetic mechanisms that control them remain poorly understood. However, we found that individuals of the same chemotype communicated more effectively and experienced less herbivory than individuals of differing chemotypes. Plants may use chemotypes to distinguish relatives from strangers.
+
+thujone: !dominates! chemotype
+camphor: !dominates! chemotype
+chemotype: !heritable! parents/offspring
+chemotype: !distinguishes! relatives/strangers
+chemotype: !communicates more effectively! same chemotype
+chemotype: !experiences less herbivory! same chemotype

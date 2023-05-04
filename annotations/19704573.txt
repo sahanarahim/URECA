@@ -1,0 +1,9 @@
+Aggregation of proteins damaged by stress is often a causal factor of cell death. To prevent aggregation, eukaryotic cells rapidly degrade damaged proteins by engaging two types of proteasomes. The first type is the 26S proteasome (26SP) which is composed of a cylindrical proteolytic core-the 20S proteasome (20SP)-and one or two regulatory particles (RPs) that interact with ubiquitinated proteins. The second type is the free 20SP which mediates ubiquitin-independent proteolysis. We have recently shown that loss of RP function in Arabidopsis leads to an expected decrease in 26SP-dependent protein degradation and hypersensitivity to stresses that induce protein misfolding. Surprisingly, RP mutants have increased 20SP activity and tolerance to oxidative stress. This finding suggests that misfolded proteins carry one type of degradation signal that steers them to ubiquitination enzymes and the 26SP, while oxidatively damaged proteins carry another that guides them directly to the 20SP for degradation. Here we suggest that protein oxidation induces the formation of unstructured regions that serve as targeting signals for 20SP-dependent proteolysis.
+
+26SP: !interacts with! ubiquitinated proteins 
+RP: !regulates! 26SP 
+RP: !decreases! 26SP-dependent protein degradation 
+RP: !increases! 20SP activity 
+20SP: !mediates! ubiquitin-independent proteolysis 
+oxidative stress: !induces! formation of unstructured regions 
+unstructured regions: !serve as! targeting signals for 20SP-dependent proteolysis

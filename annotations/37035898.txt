@@ -1,0 +1,8 @@
+Seed dormancy is an important adaptive trait to prevent germination at an inappropriate timing. The regulatory mechanisms underlying seed dormancy and germination are complex. Here we report that FIP1 (Factor Interacting with Poly(A) polymerase 1), a component of the pre-mRNA 3' end processing machinery, is a regulator of seed dormancy and germination in Arabidopsis thaliana. FIP1 is mainly expressed in seeds and knock out of FIP1 causes reduced seed dormancy, indicating FIP1 positively regulates seed dormancy. Meanwhile, fip1 mutants are insensitive to exogenous ABA during seed germination and early seedling establishment. The terms "seed maturation" and "response to ABA stimulus" are significantly enriched in a gene ontology analysis based on differentially expressed genes between fip1-1 and wildtype. Several of these genes, including DOG1, ABI5 and PYL12, show significantly decreased transcript levels in fip1. Genetic analysis showed that either cyp707a2 or dog1-5 partially, but their combination completely represses the reduced seed dormancy of fip1, indicating that the double mutant cyp707a2 dog1-5 is epistatic to fip1. Moreover, FIP1 is required for CFIM59, another component of pre-mRNA 3' end processing machinery, to regulate seed dormancy and germination. Overall, we identified FIP1 as a novel regulator of seed dormancy and germination, which has a crucial role in their control by the DOG1 and ABA pathways.
+
+FIP1: !regulates! seed dormancy 
+FIP1: !insensitive to! ABA 
+DOG1: !epistatic to! FIP1 
+ABI5: !downregulated by! FIP1 
+PYL12: !downregulated by! FIP1 
+CFIM59: !regulated by! FIP1

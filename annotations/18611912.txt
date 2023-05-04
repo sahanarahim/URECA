@@ -1,0 +1,11 @@
+Capillary electrophoresis mass spectrometry (CE/MS) was applied for the comprehensive survey of changes in the amounts of metabolites upon the shift from photoautotrophic to photomixotrophic conditions in Synechocystis sp. PCC 6803. When glucose was added to the photoautotrophically grown culture, the increase in the metabolites for the oxidative pentose phosphate (OPP) pathway and glycolysis, together with the decrease in those for the Calvin cycle, was observed. Concomitantly, the increase in respiratory activity and the decrease in photosynthetic activity took place in the wild-type cells. In the pmgA-disrupted mutant that shows growth inhibition under photomixotrophic conditions, lower enzymatic activities of the OPP pathway and higher photosynthetic activity were observed, irrespective of trophic conditions. These defects brought about metabolic disorders such as a decrease in ATP and NADPH contents, a failure in the activation of respiratory activity, and the aberrant accumulation of isocitrate under photomixotrophic but not under photoautotrophic conditions. A delicate balancing of the carbon flow between the Calvin cycle and the OPP pathway seems indispensable for growth specifically under photomixotrophic conditions and PmgA is likely to be involved in the regulation.
+
+glucose: !increases! metabolites for OPP pathway and glycolysis
+glucose: !decreases! metabolites for Calvin cycle
+pmgA: !disrupts! growth under photomixotrophic conditions
+pmgA: !lowers! enzymatic activities of OPP pathway
+pmgA: !raises! photosynthetic activity
+ATP/NADPH: !decrease! in pmgA-disrupted mutant
+respiratory activity: !fails to activate! in pmgA-disrupted mutant
+isocitrate: !accumulates! abnormally in pmgA-disrupted mutant
+PmgA: !regulates! carbon flow between Calvin cycle and OPP pathway

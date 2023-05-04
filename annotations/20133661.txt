@@ -1,0 +1,12 @@
+In a globalized economy, the control of fruit ripening is of strategic importance because excessive softening limits shelf life. Efforts have been made to reduce fruit softening in transgenic tomato through the suppression of genes encoding cell wall-degrading proteins. However, these have met with very limited success. N-glycans are reported to play an important role during fruit ripening, although the role of any particular enzyme is yet unknown. We have identified and targeted two ripening-specific N-glycoprotein modifying enzymes, alpha-mannosidase (alpha-Man) and beta-D-N-acetylhexosaminidase (beta-Hex). We show that their suppression enhances fruit shelf life, owing to the reduced rate of softening. Analysis of transgenic tomatoes revealed approximately 2.5- and approximately 2-fold firmer fruits in the alpha-Man and beta-Hex RNAi lines, respectively, and approximately 30 days of enhanced shelf life. Overexpression of alpha-Man or beta-Hex resulted in excessive fruit softening. Expression of alpha-Man and beta-Hex is induced by the ripening hormone ethylene and is modulated by a regulator of ripening, rin (ripening inhibitor). Furthermore, transcriptomic comparative studies demonstrate the down-regulation of cell wall degradation- and ripening-related genes in RNAi fruits. It is evident from these results that N-glycan processing is involved in ripening-associated fruit softening. Genetic manipulation of N-glycan processing can be of strategic importance to enhance fruit shelf life, without any negative effect on phenotype, including yield.
+
+alpha-Man: !induces! ethylene 
+beta-Hex: !induces! ethylene 
+alpha-Man: !modulated by! rin 
+beta-Hex: !modulated by! rin 
+alpha-Man: !suppressed! fruit softening 
+beta-Hex: !suppressed! fruit softening 
+alpha-Man: !downregulates! cell wall degradation 
+beta-Hex: !downregulates! cell wall degradation 
+alpha-Man: !downregulates! ripening-related genes 
+beta-Hex: !downregulates! ripening-related genes

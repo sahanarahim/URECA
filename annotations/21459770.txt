@@ -1,0 +1,12 @@
+Later-flowering spikelets in a rice panicle, referred to as the inferior spikelets, are usually poorly filled and often limit the yield potential of some rice cultivars. The physiological and molecular mechanism for such poor grain filling remains unclear. In this study the differentially expressed genes in starch synthesis and hormone signalling between inferior and superior spikelets were comprehensively analysed and their relationships with grain filling was investigated. DNA microarray and real-time PCR analysis revealed that a group of starch metabolism-related genes showed enhanced expression profiles and had higher transcript levels in superior spikelets than in inferior ones at the early and middle grain-filling stages. Expression of the abscisic acid (ABA) synthesis genes, 9-cis-epoxycarotenoid dioxygenase 1 (NCED1) and NCED5, and the ethylene synthesis genes, 1-aminocyclopropane-1-carboxylate oxidase 1 (ACO1) and ACO3, declined with development of the caryopses. Meanwhile, if compared with inferior spikelets, expression of these genes in superior spikelets decreased faster and had lower transcript profiles, especially for ethylene. ABA concentration and ethylene evolution rate showed similar trends to their gene expression. Exogenous supply of ABA reduced the sucrose synthase (SUS) mRNA level and its enzyme activity in detached rice grains, while exogenously supplied ethephon (an ethylene-releasing reagent) suppressed the expression of most starch synthesis genes; that is, SUS, ADP-glucose pyrophosphorylase (AGPase), and soluble starch synthase (SSS), and down-regulated their enzyme activities. In summary, it is concluded that the relatively high concentrations of ethylene and ABA in inferior spikelets suppress the expression of starch synthesis genes and their enzyme activities and consequently lead to a low grain-filling rate.
+
+NCED1: !represses! SUS
+NCED5: !represses! SUS
+ACO1: !represses! SUS
+ACO3: !represses! SUS
+ABA: !represses! SUS
+ethephon: !represses! SUS
+AGPase: !represses! ABA
+SSS: !represses! ABA
+ethylene: !represses! AGPase
+ethylene: !represses! SSS

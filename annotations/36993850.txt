@@ -1,0 +1,17 @@
+Grassland biomass monitoring is essential for assessing grassland health and carbon cycling. However, monitoring grassland biomass in drylands based on satellite remote sensing is challenging.Statistical regression models and machine learning have been used for the construction of grassland biomass models, but the predictive power for different grassland types is unclear. Additionally, the selection of the most appropriate variables to construct a biomass inversion model for different grassland types must be explored. Therefore,1201 ground-truthed data points collected from 2014-2021,including 15 Moderate Resolution Imaging Spectroradiometer (MODIS) vegetation indices,geographic location and topographic data,and meteorological factors and vegetation biophysical indicators were screened for key variables using principal component analysis (PCA). The accuracy of multiple linear regression models, exponential regression models, power function models, support vector machine (SVM) models, random forest (RF) models, and neural network models was evaluated for the inversion of three types of grassland biomass. The results were as follows: (1) The biomass inversion accuracy of single vegetation indices was low, and the optimal vegetation indices were the soil-adjusted vegetation index (SAVI) (R2 = 0.255), normalized difference vegetation index (NDVI) (R2 = 0.372) and optimized soil-adjusted vegetation index (OSAVI) (R2 = 0.285). (2)Grassland above-ground biomass (AGB) was affected by various factors such as geographic location,topography, and meteorological factors, and the inverse models using a single environmental variable had large errors. (3) The main variables used to model biomass in the three types of grasslands were different. SAVI, aspect, slope, and precipitation (Prec.) were selected for desert grasslands; NDVI,shortwave infrared 2 (SWI2), longitude, mean temperature, and annual precipitation were selected for steppe;and OSAVI, phytochrome ratio (PPR), longitude, precipitation, and temperature were selected for meadows. (4) The non-parametric meadow biomass model was superior to the statistical regression model. (5) The RF model was the best model for the inversion of grassland biomass in Xinjiang, and this model had the highest accuracy for grassland biomass inversion (R2 = 0.656, root mean square error (RMSE) = 815.6 kg/ha),followed by meadow (R2 = 0.610, RMSE = 547.9 kg/ha) and desert grassland (R2 = 0.441, RMSE = 353.6 kg/ha).
+
+SAVI: !affects! Desert Grassland biomass
+NDVI: !affects! Steppe biomass
+OSAVI: !affects! Meadow biomass
+Geographic location: !affects! Grassland biomass
+Topography: !affects! Grassland biomass
+Meteorological factors: !affects! Grassland biomass
+Vegetation biophysical indicators: !affects! Grassland biomass
+PCA: !screens! Variables
+Multiple linear regression models: !evaluate! Biomass inversion accuracy
+Exponential regression models: !evaluate! Biomass inversion accuracy
+Power function models: !evaluate! Biomass inversion accuracy
+SVM models: !evaluate! Biomass inversion accuracy
+RF models: !evaluate! Biomass inversion accuracy
+Neural network models: !evaluate! Biomass inversion accuracy
+RF model: !best for! Xinjiang grassland biomass inversion

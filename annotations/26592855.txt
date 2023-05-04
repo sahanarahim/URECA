@@ -1,0 +1,8 @@
+Extending the durability of plant resistance genes towards fungal pathogens is a major challenge. We identified and investigated the relationship between two avirulence genes of Leptosphaeria maculans, AvrLm3 and AvrLm4-7. When an isolate possesses both genes, the Rlm3-mediated resistance of oilseed rape (Brassica napus) is not expressed due to the presence of AvrLm4-7 but virulent isolates toward Rlm7 recover the AvrLm3 phenotype. Combining genetic and genomic approaches (genetic mapping, RNA-seq, BAC (bacterial artificial chromosome) clone sequencing and de novo assembly) we cloned AvrLm3, a telomeric avirulence gene of L. maculans. AvrLm3 is located in a gap of the L. maculans reference genome assembly, is surrounded by repeated elements, encodes for a small secreted cysteine-rich protein and is highly expressed at early infection stages. Complementation and silencing assays validated the masking effect of AvrLm4-7 on AvrLm3 recognition by Rlm3 and we showed that the presence of AvrLm4-7 does not impede AvrLm3 expression in planta. Y2H assays suggest the absence of physical interaction between the two avirulence proteins. This unusual interaction is the basis for field experiments aiming to evaluate strategies that increase Rlm7 durability.
+
+AvrLm3: !encodes! small secreted cysteine-rich protein
+AvrLm3: !localizes to! gap of L. maculans reference genome assembly
+AvrLm3: !enhances! Rlm3-mediated resistance of oilseed rape
+AvrLm4-7: !masks! AvrLm3 recognition by Rlm3
+AvrLm4-7: !represses! AvrLm3 expression in planta
+AvrLm3: !interacts with! AvrLm4-7

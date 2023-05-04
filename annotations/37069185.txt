@@ -1,0 +1,15 @@
+Quantifying the stomatal responses of plants to global change factors is crucial for modeling terrestrial carbon and water cycles. Here we synthesize worldwide experimental data to show that stomatal conductance (g<sub>s</sub>) decreases with elevated carbon dioxide (CO<sub>2</sub>), warming, decreased precipitation, and tropospheric ozone pollution, but increases with increased precipitation and nitrogen (N) deposition. These responses vary with treatment magnitude, plant attributes (ambient g<sub>s</sub>, vegetation biomes, and plant functional types), and climate. All two-factor combinations (except warming + N deposition) significantly reduce g<sub>s</sub>, and their individual effects are commonly additive but tend to be antagonistic as the effect sizes increased. We further show that rising CO<sub>2</sub> and warming would dominate the future change of plant g<sub>s</sub> across biomes. The results of our meta-analysis provide a foundation for understanding and predicting plant g<sub>s</sub> across biomes and guiding manipulative experiment designs in a real world where global change factors do not occur in isolation.
+
+CO2: !decreases! gs
+warming: !decreases! gs
+precipitation: !decreases! gs
+ozone pollution: !decreases! gs
+precipitation: !increases! gs
+N deposition: !increases! gs
+treatment magnitude: !affects! gs response
+ambient gs: !affects! gs response
+vegetation biomes: !affects! gs response
+plant functional types: !affects! gs response
+climate: !affects! gs response
+CO2: !dominates! future change of plant gs
+warming: !dominates! future change of plant gs

@@ -1,0 +1,10 @@
+MicroRNA 159 (miR159) is a highly conserved miRNA with roles in flowering under short days, anther development and seed germination via repression of GAMYB-like genes. In tomato, the function of miR159 (Sl-miR159) is currently unknown and target transcripts have not been experimentally validated. Here, we identified and characterized a new miR159 target gene (SGN-U567133) in Solanum lycopersicum (tomato) that is not related to MYB. SGN-U567133 is predominantly expressed in flowers and encodes a nuclear-localized protein that contains a unique NOZZLE-like domain at its N terminus. In tomato, SGN-U567133 represents a small gene family and orthologs have been identified in other plant species, all containing a conserved miR159 target site in their coding sequence. Accordingly, 5'-RACE cleavage assay supported miRNA-mediated cleavage of SGN-U567133 transcripts in vivo. Moreover, the SGN-U567133 transcript accumulated in P19-HA-expressing tomato leaves in which miRNA-mediated cleavage is inhibited. In addition, transgenic tomato plants expressing a miR159-resistant form of SGN-U567133 accumulated higher levels of the SGN-U567133 transcript and exhibited defects in leaf and flower development. Together, our results suggest that SGN-U567133 represents a novel class of miR159 targets in plants and raise the possibility that its post-transcriptional regulation by Sl-miR159 is essential for normal tomato development.
+
+miR159: !represses! GAMYB-like genes
+SGN-U567133: !localizes to! nucleus
+SGN-U567133: !contains! NOZZLE-like domain
+SGN-U567133: !contains! miR159 target site
+miR159: !cleaves! SGN-U567133 transcripts
+P19-HA: !inhibits! miRNA-mediated cleavage
+miR159-resistant form of SGN-U567133: !accumulates! higher levels of transcript
+miR159-resistant form of SGN-U567133: !exhibits! defects in leaf and flower development

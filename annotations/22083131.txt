@@ -1,0 +1,8 @@
+Plant microRNAs originate from a stem-loop structured single-stranded RNA precursor. Each stem-loop is processed to generate a mature microRNA that is recruited to an ARGONAUTE-containing multi-protein complex to direct silencing of its target mRNA. Here we report that the conserved plant miR159a precursor produces a second 21-nt long RNA with the properties of a microRNA. Its presence in different plant species is supported by its conservation in the stem-loop position and expression as determined by northern blot analysis. We show that successive processing by DCL1 produces this novel microRNA from the same precursor as miR159a. In contrast to the low levels observed in other plant models for the equivalent of miR159.2, in P. vulgaris, the accumulation of miR159.2 is easily detectable and when compared to miR159a, their expression patterns are distinct in different organs and growth conditions. Further evidence of the functionality of miR159.2 comes from its association with silencing complexes as demonstrated by co-immunoprecipitation experiments using an AGO1-specific antibody and processing of an artificial GFP reporter construct containing a complementary target sequence. These results indicate that the second small RNA corresponds to a microRNA, at least partially independent of miR159 activity, and that in plants a miRNA precursor may encode multiple regulatory small RNAs.
+
+miR159a precursor: !produces! miR159.2
+DCL1: !processes! miR159.2
+miR159.2: !accumulates! in P. vulgaris
+miR159.2: !distinct from! miR159a expression patterns
+AGO1-specific antibody: !co-immunoprecipitates! miR159.2
+GFP reporter construct: !processed by! miR159.2

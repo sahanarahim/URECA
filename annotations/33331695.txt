@@ -1,0 +1,11 @@
+Global warming poses a serious threat to crops. Calcium-dependent protein kinases (CDPKs)/CPKs play vital roles in plant stress responses, but their exact roles in plant thermotolerance remains elusive. Here, we explored the roles of heat-induced ZmCDPK7 in thermotolerance in maize. ZmCDPK7-overexpressing maize plants displayed higher thermotolerance, photosynthetic rates, and antioxidant enzyme activity but lower H<sub>2</sub> O<sub>2</sub> and malondialdehyde (MDA) contents than wild-type plants under heat stress. ZmCDPK7-knockdown plants displayed the opposite patterns. ZmCDPK7 is attached to the plasma membrane but can translocate to the cytosol under heat stress. ZmCDPK7 interacts with the small heat shock protein sHSP17.4, phosphorylates sHSP17.4 at Ser-44 and the respiratory burst oxidase homolog RBOHB at Ser-99, and upregulates their expression. Site-directed mutagenesis of sHSP17.4 to generate a Ser-44-Ala substitution reduced ZmCDPK7's enhancement of catalase activity but enhanced ZmCDPK7's suppression of MDA accumulation in heat-stressed maize protoplasts. sHSP17.4, ZmCDPK7, and RBOHB were less strongly upregulated in response to heat stress in the abscisic acid-deficient mutant vp5 versus the wild type. Pretreatment with an RBOH inhibitor suppressed sHSP17.4 and ZmCDPK7 expression. Therefore, abscisic acid-induced ZmCDPK7 functions both upstream and downstream of RBOH and participates in thermotolerance in maize by mediating the phosphorylation of sHSP17.4, which might be essential for its chaperone function.
+
+ZmCDPK7: !overexpressing! increases thermotolerance
+ZmCDPK7: !knockdown! decreases thermotolerance
+ZmCDPK7: !translocates to! cytosol under heat stress
+ZmCDPK7: !interacts with! sHSP17.4
+ZmCDPK7: !phosphorylates! sHSP17.4, RBOHB
+sHSP17.4: !mutated! reduces catalase activity
+sHSP17.4: !upregulated by! ZmCDPK7
+RBOHB: !phosphorylated by! ZmCDPK7
+vp5: !less upregulation of! sHSP17.4, ZmCDPK7, RBOHB

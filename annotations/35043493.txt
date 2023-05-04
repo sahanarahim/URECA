@@ -1,0 +1,10 @@
+Flavan-3-ols are abundant in the tea plant (Camellia sinensis) and confer tea with flavor and health benefits. We recently found that alternative splicing of genes is likely involved in the regulation of flavan-3-ol biosynthesis; however, the underlying regulatory mechanisms remain unknown. Here, we integrated metabolomics and transcriptomics to construct metabolite-gene networks in tea leaves, collected over five different months and from five spatial positions, and found positive correlations between endogenous jasmonic acid (JA), flavan-3-ols, and numerous transcripts. Transcriptome mining further identified CsJAZ1, which is negatively associated with flavan-3-ols formation and has three CsJAZ1 transcripts, one full-length (CsJAZ1-1), and two splice variants (CsJAZ1-2 and -3) that lacked 3' coding sequences, with CsJAZ1-3 also lacking the coding region for the Jas domain. Confocal microscopy showed that CsJAZ1-1 was localized to the nucleus, while CsJAZ1-2 and CsJAZ1-3 were present in both the nucleus and the cytosol. In the absence of JA, CsJAZ1-1 was bound to CsMYC2, a positive regulator of flavan-3-ol biosynthesis; CsJAZ1-2 functioned as an alternative enhancer of CsJAZ1-1 and an antagonist of CsJAZ1-1 in binding to CsMYC2; and CsJAZ1-3 did not interact with CsMYC2. In the presence of JA, CsJAZ1-3 interacted with CsJAZ1-1 and CsJAZ1-2 to form heterodimers that stabilized the CsJAZ1-1-CsMYC2 and CsJAZ1-2-CsMYC2 complexes, thereby repressing the transcription of four genes that act late in the flavan-3-ol biosynthetic pathway. These data indicate that the alternative splicing variants of CsJAZ1 coordinately regulate flavan-3-ol biosynthesis in the tea plant and improve our understanding of JA-mediated flavan-3-ol biosynthesis.
+
+CsJAZ1: !affects! Flavan-3-ol biosynthesis
+CsJAZ1-1: !localizes to! Nucleus
+CsJAZ1-2: !interacts with! CsMYC2
+CsJAZ1-2: !enhances! CsJAZ1-1
+CsJAZ1-3: !represses! Transcription of 4 genes
+CsJAZ1-3: !interacts with! CsJAZ1-1 and CsJAZ1-2
+CsJAZ1-1: !interacts with! CsMYC2
+JA: !synthesizes! CsJAZ1-3

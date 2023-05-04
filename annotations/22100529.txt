@@ -1,0 +1,11 @@
+Starch contains phosphate covalently bound to the C6-position (70 to 80% of total bound phosphate) and the C3-position (20 to 30%) of the glucosyl residues of the amylopectin fraction. In plants, the transient phosphorylation of starch renders the granule surface more accessible to glucan hydrolyzing enzymes and is required for proper starch degradation. Phosphate also confers desired properties to starch-derived pastes for industrial applications. In Arabidopsis thaliana, the removal of phosphate by the glucan phosphatase Starch Excess4 (SEX4) is essential for starch breakdown. We identified a homolog of SEX4, LSF2 (Like Sex Four2), as a novel enzyme involved in starch metabolism in Arabidopsis chloroplasts. Unlike SEX4, LSF2 does not have a carbohydrate binding module. Nevertheless, it binds to starch and specifically hydrolyzes phosphate from the C3-position. As a consequence, lsf2 mutant starch has elevated levels of C3-bound phosphate. SEX4 can release phosphate from both the C6- and the C3-positions, resulting in partial functional overlap with LSF2. However, compared with sex4 single mutants, the lsf2 sex4 double mutants have a more severe starch-excess phenotype, impaired growth, and a further change in the proportion of C3- and C6-bound phosphate. These findings significantly advance our understanding of the metabolism of phosphate in starch and provide innovative options for tailoring novel starches with improved functionality for industry.
+
+SEX4: !releases! phosphate 
+LSF2: !releases! phosphate 
+SEX4: !binds to! starch 
+LSF2: !binds to! starch 
+SEX4: !hydrolyzes! C6-position 
+LSF2: !hydrolyzes! C3-position 
+lsf2 mutant starch: !has elevated levels of! C3-bound phosphate 
+sex4 single mutants: !have a more severe! starch-excess phenotype 
+lsf2 sex4 double mutants: !have impaired growth and a further change in the proportion of! C3- and C6-bound phosphate

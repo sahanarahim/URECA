@@ -1,0 +1,8 @@
+Plants mediate water fluxes within the soil-vegetation-atmosphere continuum. This water transfer in soils, through plants, into the atmosphere can be effectively traced by stable isotopologues of water. However, rapid dynamic processes have only recently gained attention, such as adaptations in root water uptake depths (within hours to days) or the imprint of transpirational fluxes on atmospheric moisture, particularly promoted by the development of real-time in-situ water vapour stable isotope observation techniques. We focus on open questions and emerging insights at the soil-plant and plant-atmosphere interfaces, as we believe that these are the controlling factors for ecosystem water cycling. At both interfaces, complex pictures of interacting ecophysiological and hydrological processes emerge: root water uptake dynamics depend on both spatiotemporal variations in water availability and species-specific regulation of adaptive root conductivity within the rooting system by, for example, modulating soil-root conductivity in response to water and nutrient demands. Similarly, plant water transport and losses are a fine-tuned interplay between species-specific structural and functional strategies of water use and atmospheric processes. We propose that only by explicitly merging insights from distinct disciplines - for example, hydrology, plant physiology and atmospheric sciences - will we gain a holistic picture of the impact of vegetation on processes governing the soil-plant-atmosphere continuum.
+
+root: !modulates! soil-root conductivity
+species: !regulates! adaptive root conductivity
+plant: !transports! water
+plant: !loses! water
+hydrology: !merges with! plant physiology
+atmospheric sciences: !merges with! hydrology

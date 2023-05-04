@@ -1,0 +1,7 @@
+['16211390', 'We have constructed a series of deletion mutants of Arabidopsis MAPK kinase  kinase (AtMEKK1) and obtained a constitutively active mutant, AtMEKK1Delta166,  which lacks in self-inhibitory sequence of N-terminal 166 amino acids but still  has substrate specificity. AtMEKK1Delta166 predominantly phosphorylates AtMEK1,  an Arabidopsis MAPKK, but not its double mutant (AtMEK1T218A/S224E), suggesting  that Thr-218 and Ser-224 are the phosphorylation sites. In wounded seedlings,  AtMEKK1 was activated and phosphorylated its downstream AtMEK1. Furthermore,  analysis using anti-AtMEKK1 and anti-AtMEK1 antibodies revealed that the  interaction between the two proteins was signal dependent. These results suggest  the presence of AtMEKK1-AtMEK1 pathway induced by wounding.', '2006 Mar', 'Planta', '10.1007/s00425-005-0126-7', 'Yasuda']
+
+AtMEKK1: !phosphorylates! AtMEK1 
+AtMEKK1: !activated by! wounding 
+AtMEKK1: !interacts with! AtMEK1 
+AtMEK1: !has phosphorylation sites! Thr-218 and Ser-224 
+AtMEK1T218A/S224E: !not phosphorylated by! AtMEKK1

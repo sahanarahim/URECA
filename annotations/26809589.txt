@@ -1,0 +1,8 @@
+Signaling mediated by reactive oxygen species (ROS) has emerged as a key component of plants' responses to environmental stress. The ROS-regulated transcription factor ZAT12 was revealed as a negative regulator of iron (Fe) deficiency responses through its direct interaction with the bHLH protein FIT. In the epidermis of the early root differentiation zone, ZAT12 stability depended on the presence of the ZAT12 EAR motif. It was concluded that ZAT12 may be the target of 2 alternative degradation pathways. Here, we present a model aiming to explain the regulatory mechanisms by which ZAT12 could be targeted for degradation and to predict the types of potential regulators involved. In addition to an E3 ubiquitin ligase, we predict 2 critical regulatory factors, namely a protein interacting with the ZAT12 EAR motif and a ROS-responsive regulatory protein.
+
+ROS: !regulates! ZAT12
+ZAT12: !interacts with! FIT
+ZAT12: !stability depends on! EAR motif
+E3 ubiquitin ligase: !targets! ZAT12
+EAR motif: !interacts with! Protein
+ROS-responsive regulatory protein: !regulates! ZAT12

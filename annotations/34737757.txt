@@ -1,0 +1,8 @@
+The lowering genotyping cost is ushering in a wider interest and adoption of genomic prediction and selection in plant breeding programs worldwide. However, improper conflation of historical and recent linkage disequilibrium between markers and genes restricts high accuracy of genomic prediction (GP). Multiple ancestors may share a common haplotype surrounding a gene, without sharing the same allele of that gene. This prevents parsing out genetic effects associated with the underlying allele of that gene among the set of ancestral haplotypes. We present "Parental Allele Tracing, Recombination Identification, and Optimal predicTion" (i.e., PATRIOT) approach that utilizes marker data to allow for a rapid identification of lines carrying specific alleles, increases the accuracy of genomic relatedness and diversity estimates, and improves genomic prediction. Leveraging identity-by-descent relationships, PATRIOT showed an improvement in GP accuracy by 16.6% relative to the traditional rrBLUP method. This approach will help to increase the rate of genetic gain and allow available information to be more effectively utilized within breeding programs.
+
+Gene: !affects! GP accuracy
+Gene: !localizes to! Haplotype
+Gene: !interacts with! Marker data
+Gene: !enhances! GP accuracy
+Gene: !represses! Traditional rrBLUP method
+Gene: !synthesizes! PATRIOT approach

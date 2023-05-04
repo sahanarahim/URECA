@@ -1,0 +1,11 @@
+Mitogen-activated protein kinase (MAPK) cascades are universal signal transduction modules present in all eukaryotes. In plants, MAPK cascades were shown to regulate cell division, developmental processes, stress responses, and hormone pathways. The subgroup A of Arabidopsis MAPKs consists of AtMPK3, AtMPK6, and AtMPK10. AtMPK3 and AtMPK6 are activated by their upstream MAP kinase kinases (MKKs) AtMKK4 and AtMKK5 in response to biotic and abiotic stress. In addition, they were identified as key regulators of stomatal development and patterning. AtMPK10 has long been considered as a pseudo-gene, derived from a gene duplication of AtMPK6. Here we show that AtMPK10 is expressed highly but very transiently in seedlings and at sites of local auxin maxima leaves. MPK10 encodes a functional kinase and interacts with the upstream MAP kinase kinase (MAPKK) AtMKK2. mpk10 mutants are delayed in flowering in long-day conditions and in continuous light. Moreover, cotyledons of mpk10 and mkk2 mutants have reduced vein complexity, which can be reversed by inhibiting polar auxin transport (PAT). Auxin does not affect AtMPK10 expression while treatment with the PAT inhibitor HFCA extends the expression in leaves and reverses the mpk10 mutant phenotype. These results suggest that the AtMKK2-AtMPK10 MAPK module regulates venation complexity by altering PAT efficiency.
+
+AtMPK3: !activated by! AtMKK4 
+AtMPK6: !activated by! AtMKK5 
+AtMPK10: !expressed in! seedlings 
+AtMPK10: !interacts with! AtMKK2 
+mpk10: !delays! flowering 
+mpk10: !reduces! vein complexity 
+Auxin: !does not affect! AtMPK10 expression 
+HFCA: !extends! AtMPK10 expression 
+AtMKK2-AtMPK10 MAPK module: !regulates! venation complexity

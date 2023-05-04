@@ -1,0 +1,10 @@
+A molecular mechanism to ensure signaling specificity is a scaffold. REPRESSION OF SHOOT GROWTH (RSG) is a tobacco (Nicotiana tabacum) transcription factor that is involved in gibberellin feedback regulation. The 14-3-3 proteins negatively regulate RSG by sequestering it in the cytoplasm in response to gibberellins. The N. tabacum Ca<sup>2+</sup>-dependent protein kinase NtCDPK1 was identified as an RSG kinase that promotes 14-3-3 binding of RSG by phosphorylation of RSG. CDPKs are unique sensor responders of Ca<sup>2+</sup> that are only found in plants and some protozoans. Here, we report a scaffolding function of CDPK. 14-3-3 proteins bound to NtCDPK1 by a new mode. Autophosphorylation of NtCDPK1 was necessary for the formation of the binding between NtCDPK1 and 14-3-3 but not for its maintenance. NtCDPK1 formed a heterotrimer with RSG and 14-3-3. Furthermore, we found that NtCDPK1 transfers 14-3-3 to RSG after phosphorylation of RSG and that RSG dissociates from NtCDPK1 as a complex with 14-3-3. These results suggest that NtCDPK1 is an interesting scaffolding kinase that increases the specificity and efficiency of signaling by coupling catalysis with scaffolding on the same protein.
+
+RSG: !represses! Shoot Growth
+14-3-3 proteins: !negatively regulate! RSG
+NtCDPK1: !promotes! 14-3-3 binding of RSG
+NtCDPK1: !binds to! 14-3-3
+NtCDPK1: !autophosphorylates! itself
+NtCDPK1: !forms a heterotrimer with! RSG and 14-3-3
+NtCDPK1: !transfers! 14-3-3 to RSG
+RSG: !dissociates from! NtCDPK1 as a complex with 14-3-3

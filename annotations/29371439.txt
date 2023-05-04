@@ -1,0 +1,10 @@
+The maize smut fungus <i>Ustilago maydis</i> is a model organism for elucidating host colonization strategies of biotrophic fungi. Here, we performed an in depth transcriptional profiling of the entire plant-associated development of <i>U. maydis</i> wild-type strains. In our analysis, we focused on fungal metabolism, nutritional strategies, secreted effectors, and regulatory networks. Secreted proteins were enriched in three distinct expression modules corresponding to stages on the plant surface, establishment of biotrophy, and induction of tumors. These modules are likely the key determinants for <i>U. maydis</i> virulence. With respect to nutrient utilization, we observed that expression of several nutrient transporters was tied to these virulence modules rather than being controlled by nutrient availability. We show that oligopeptide transporters likely involved in nitrogen assimilation are important virulence factors. By measuring the intramodular connectivity of transcription factors, we identified the potential drivers for the virulence modules. While known components of the <i>b-</i>mating type cascade emerged as inducers for the plant surface and biotrophy module, we identified a set of yet uncharacterized transcription factors as likely responsible for expression of the tumor module. We demonstrate a crucial role for leaf tumor formation and effector gene expression for one of these transcription factors.
+
+gene: !affects! virulence
+gene: !enhances! nutrient transporters
+gene: !induces! plant surface module
+gene: !induces! biotrophy module
+gene: !induces! tumor module
+gene: !synthesizes! effectors
+gene: !represses! nitrogen assimilation
+gene: !interacts with! transcription factors

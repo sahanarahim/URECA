@@ -1,0 +1,11 @@
+Gravitropic orientation and the elongation of etiolated hypocotyls are both regulated by red light through the phytochrome family of photoreceptors. The importance of phytochromes A and B (phyA and phyB) in these red light responses has been established through studies using phy mutants. To identify the roles that phytochromes play in gravitropism and elongation of roots, we studied the effects of red light on root elongation and then compared the gravitropic curvature from roots of phytochrome mutants of Arabidopsis (phyA, phyB, phyD and phyAB) with wild type. We found that red light inhibits root elongation approximately 35% in etiolated seedlings and that this response is controlled by phytochromes. Roots from dark- and light-grown double mutants (phyAB) and light-grown phyB seedlings have reduced elongation rates compared with wild type. In addition, roots from these seedlings (dark/light-grown phyAB and light-grown phyB) have reduced rates of gravitropic curvature compared with wild type. These results demonstrate roles for phytochromes in regulating both the elongation and gravitropic curvature of roots.
+
+phyA: !regulates! Red Light Responses 
+phyB: !regulates! Red Light Responses 
+Red Light: !inhibits! Root Elongation 
+phyA: !controls! Root Elongation 
+phyB: !controls! Root Elongation 
+phyAB: !reduces! Root Elongation 
+phyB: !reduces! Root Elongation 
+phyAB: !reduces! Gravitropic Curvature 
+phyB: !reduces! Gravitropic Curvature

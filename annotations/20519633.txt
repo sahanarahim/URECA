@@ -1,0 +1,12 @@
+Symbiotic associations between plants and fungi are a dominant feature of many terrestrial ecosystems, yet relatively little is known about the signaling, and associated transcriptome profiles, that define the symbiotic metabolic state. Using the Epichloë festucae-perennial ryegrass (Lolium perenne) association as a model symbiotic experimental system, we show an essential role for the fungal stress-activated mitogen-activated protein kinase (sakA) in the establishment and maintenance of this mutualistic interaction. Deletion of sakA switches the fungal interaction with the host from mutualistic to pathogenic. Infected plants exhibit loss of apical dominance, premature senescence, and dramatic changes in development, including the formation of bulb-like structures at the base of tillers that lack anthocyanin pigmentation. A comparison of the transcriptome of wild-type and sakA associations using high-throughput mRNA sequencing reveals dramatic changes in fungal gene expression consistent with the transition from restricted to proliferative growth, including a down-regulation of several clusters of secondary metabolite genes and up-regulation of a large set of genes that encode hydrolytic enzymes and transporters. Analysis of the plant transcriptome reveals up-regulation of host genes involved in pathogen defense and transposon activation as well as dramatic changes in anthocyanin and hormone biosynthetic/responsive gene expression. These results highlight the fine balance between mutualism and antagonism in a plant-fungal interaction and the power of deep mRNA sequencing to identify candidate sets of genes underlying the symbiosis.
+
+sakA: !affects! Symbiotic metabolic state 
+sakA: !switches! Fungal interaction 
+Fungal interaction: !causes! Loss of apical dominance 
+Fungal interaction: !induces! Premature senescence 
+Fungal interaction: !leads to! Formation of bulb-like structures 
+Fungal interaction: !down-regulates! Secondary metabolite genes 
+Fungal interaction: !up-regulates! Hydrolytic enzymes and transporters 
+Host genes: !up-regulated by! Fungal interaction 
+Host genes: !involved in! Pathogen defense and transposon activation 
+Host genes: !influenced by! Anthocyanin and hormone biosynthetic/responsive gene expression

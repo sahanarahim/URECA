@@ -1,0 +1,7 @@
+The use of computational techniques increasingly permeates developmental biology, from the acquisition, processing and analysis of experimental data to the construction of models of organisms. Specifically, models help to untangle the non-intuitive relations between local morphogenetic processes and global patterns and forms. We survey the modeling techniques and selected models that are designed to elucidate plant development in mechanistic terms, with an emphasis on: the history of mathematical and computational approaches to developmental plant biology; the key objectives and methodological aspects of model construction; the diverse mathematical and computational methods related to plant modeling; and the essence of two classes of models, which approach plant morphogenesis from the geometric and molecular perspectives. In the geometric domain, we review models of cell division patterns, phyllotaxis, the form and vascular patterns of leaves, and branching patterns. In the molecular-level domain, we focus on the currently most extensively developed theme: the role of auxin in plant morphogenesis. The review is addressed to both biologists and computational modelers.
+
+Gene: !affects! Process 
+Gene: !synthesizes! Auxin 
+Auxin: !regulates! Plant Morphogenesis 
+Models: !help to untangle! Relations between Local Morphogenetic Processes and Global Patterns 
+Models: !focus on! Role of Auxin in Plant Morphogenesis

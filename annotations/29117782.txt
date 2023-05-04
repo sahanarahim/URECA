@@ -1,0 +1,9 @@
+Rhizobia colonize legumes and reduce N<sub>2</sub> to NH<sub>3</sub> in root nodules. The current model is that symbiotic rhizobia bacteroids avoid assimilating this NH<sub>3</sub>. Instead, host legume cells form glutamine from NH<sub>3</sub>, and the nitrogen is returned to the bacteroid as dicarboxylates, peptides, and amino acids. In soybean cells surrounding bacteroids, glutamine also is converted to ureides. One problem for soybean cultivation is inefficiency in symbiotic N<sub>2</sub> fixation, the biochemical basis of which is unknown. Here, the proteomes of bacteroids of Bradyrhizobium elkanii USDA76 isolated from N<sub>2</sub> fixation-efficient Peking and -inefficient Williams 82 soybean nodules were analyzed by mass spectrometry. Nearly half of the encoded bacterial proteins were quantified. Efficient bacteroids produced greater amounts of enzymes to form Nod factors and had increased amounts of signaling proteins, transporters, and enzymes needed to generate ATP to power nitrogenase and to acquire resources. Parallel investigation of nodule proteins revealed that Peking had no significantly greater accumulation of enzymes needed to assimilate NH<sub>3</sub> than Williams 82. Instead, efficient bacteroids had increased amounts of enzymes to produce amino acids, including glutamine, and to form ureide precursors. These results support a model for efficient symbiotic N<sub>2</sub> fixation in soybean where the bacteroid assimilates NH<sub>3</sub> for itself.
+
+Bacteroid: !produces! Nod factors 
+Bacteroid: !transports! Signaling proteins 
+Bacteroid: !generates! ATP 
+Bacteroid: !synthesizes! Amino acids 
+Bacteroid: !forms! Ureide precursors 
+Peking: !has no significantly greater accumulation of! Enzymes to assimilate NH<sub>3</sub> 
+Williams 82: !has no significantly greater accumulation of! Enzymes to assimilate NH<sub>3</sub>

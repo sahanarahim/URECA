@@ -1,0 +1,10 @@
+Lysine and methionine are two essential amino acids whose levels affect the nutritional quality of cereals and legume plants. Both amino acids are synthesized through the aspartate family biosynthesis pathway. Within this family, lysine and methionine are produced by two different branches, the lysine branch and the threonine-methionine branch, which compete for the same carbon/amino substrate. To elucidate the relationship between these biosynthetic branches, we crossed two lines of transgenic tobacco plants: one that overexpresses the feedback-insensitive bacterial enzyme dihydrodipicolinate synthase (DHPS) and contains a significantly higher level of lysine, and a second that overexpresses Arabidopsis cystathionine gamma-synthase (AtCGS), the first unique enzyme of methionine biosynthesis. Significantly higher levels of methionine and its metabolite, S-methylmethionine (SMM), accumulated in the newly produced plants compared with plants overexpressing AtCGS alone, while the level of lysine remained the same as in those overexpressing DHPS alone. The increased levels of methionine and SMM were correlated with increases in the mRNA and protein levels of AtCGS and a reduced mRNA level for the genes encoding S-adnosylmethionine (SAM) synthase, which converts methionine to SAM. Reduction in SAMS expression level leads most probably to the reduction of SAM found in plants that feed with lysine. As SAM is a negative regulator of CGS, this reduction leads to higher expression of CGS and consequently to an increased level of methionine. Elucidating the relationship between lysine and methionine synthesis may lead to new ways of producing transgenic crop plants containing increased methionine and lysine levels, thus improving their nutritional quality.
+
+Lysine: !synthesizes! DHPS
+Methionine: !synthesizes! AtCGS
+DHPS: !enhances! Lysine
+AtCGS: !enhances! Methionine
+AtCGS: !represses! SAMS
+SAMS: !reduces! SAM
+SAM: !represses! CGS
+CGS: !enhances! Methionine

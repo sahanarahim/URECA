@@ -1,0 +1,7 @@
+Brassinosteroid (BR) signaling is essential for plant growth and development. In Arabidopsis (Arabidopsis thaliana), BRs are perceived by the BRASSINOSTEROID INSENSITIVE1 (BRI1) receptor. Root growth and hypocotyl elongation are convenient downstream physiological outputs of BR signaling. A computational approach was employed to predict root growth solely on the basis of BRI1 receptor activity. The developed mathematical model predicts that during normal root growth, few receptors are occupied with ligand. The model faithfully predicts root growth, as observed in bri1 loss-of-function mutants. For roots, it incorporates one stimulatory and two inhibitory modules, while for hypocotyls, a single inhibitory module is sufficient. Root growth as observed when BRI1 is overexpressed can only be predicted assuming that a decrease occurred in the BRI1 half-maximum response values. Root growth appears highly sensitive to variation in BR concentration and much less to reduction in BRI1 receptor level, suggesting that regulation occurs primarily by ligand availability and biochemical activity.
+
+BRI1: !perceives! BR 
+BR: !affects! root growth 
+BRI1: !regulates! root growth 
+BR: !influences! BRI1 half-maximum response values 
+BR: !determines! BR concentration

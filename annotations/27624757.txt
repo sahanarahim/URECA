@@ -1,0 +1,9 @@
+['27624757', 'The circadian clock allows plants to anticipate and respond to daily changes in  ambient temperature. Mechanisms establishing the timing of circadian rhythms in  Arabidopsis thaliana through temperature entrainment remain unclear. Also  incompletely understood is the temperature compensation mechanism that maintains  consistent period length within a range of ambient temperatures. A genetic screen  for Arabidopsis mutants affecting temperature regulation of the PSEUDO-RESPONSE  REGULATOR7 promoter yielded a novel allele of the SICKLE (SIC) gene. This mutant,  sic-3, and the existing sic-1 mutant both exhibit low-amplitude or arrhythmic  expression of core circadian clock genes under cool ambient temperature cycles,  but not under light-dark entrainment. sic mutants also lengthen free running  period in a manner consistent with impaired temperature compensation. sic mutant  alleles accumulate LATE ELONGATED HYPOCOTYL (LHY) and CIRCADIAN CLOCK ASSOCIATED1  (CCA1) splice variants, among other alternatively spliced transcripts, which is  exacerbated by cool temperatures. The cca1-1 lhy-20 double mutant is epistatic to  sic-3, indicating the LHY and CCA1 splice variants are needed for sic-3 circadian  clock phenotypes. It is not expected that SIC is directly involved in the  circadian clock mechanism; instead, SIC likely contributes to pre-mRNA  metabolism, and the splice variants that accumulate in sic mutants likely affect  the circadian clock response to cool ambient temperature.', '2016 Oct', 'Plant Cell', '10.1105/tpc.16.00223', 'ORCID:']
+
+SIC: !affects! pre-mRNA metabolism 
+SIC: !accumulates! LHY and CCA1 splice variants 
+LHY: !epistatic to! sic-3 
+CCA1: !epistatic to! sic-3 
+PSEUDO-RESPONSE REGULATOR7: !affected by! sic mutants 
+circadian clock: !impaired by! sic mutants 
+circadian clock: !compensated by! temperature

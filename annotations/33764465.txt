@@ -1,0 +1,8 @@
+Seed dormancy and germination are fundamental processes for plant propagation, both of which are tightly regulated by internal and external cues. Phytochrome B (phyB) is a major red/far-red-absorbing photoreceptor that senses light signals that modulate seed dormancy and germination. However, the components that directly transduce that signal downstream of phyB are mostly unknown. Here, we show that the transposase-derived transcription factor FAR-RED ELONGATED HYPOCOTYL3 (FHY3) inhibits seed dormancy and promotes phyB-mediated seed germination in Arabidopsis thaliana. FHY3 physically interacts with phyB in vitro and in vivo. RNA-sequencing and reverse transcription-quantitative polymerase chain reaction analyses showed that FHY3 regulates multiple downstream genes, including REVEILLE2 (RVE2), RVE7, and SPATULA (SPT). Yeast one-hybrid, electrophoresis mobility shift, and chromatin immunoprecipitation assays demonstrated that FHY3 directly binds these genes via a conserved FBS cis-element in their promoters. Furthermore, RVE2, RVE7, and GIBBERELLIN 3-OXIDASE 2 (GA3ox2) genetically act downstream of FHY3. Strikingly, light and phyB promote FHY3 protein accumulation. Our study reveals a transcriptional cascade consisting of phyB-FHY3-RVE2/RVE7/SPT-GA3ox2 that relays environmental light signals and thereby controls seed dormancy and germination.
+
+phyB: !interacts with! FHY3 
+FHY3: !regulates! RVE2/RVE7/SPT 
+RVE2/RVE7/SPT: !binds! FBS cis-element 
+FHY3: !promotes! phyB-mediated seed germination 
+light/phyB: !promotes! FHY3 protein accumulation 
+FHY3: !genetically acts downstream of! RVE2/RVE7/GA3ox2

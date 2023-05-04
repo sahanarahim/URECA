@@ -1,0 +1,8 @@
+['26903506', 'Higher plants continuously and iteratively produce new above-ground organs in the  form of leaves, stems and flowers. These organs arise from shoot apical meristems  whose homeostasis depends on coordination between self-renewal of stem cells and  their differentiation into organ founder cells. This coordination is stringently  controlled by the central transcription factor WUSCHEL (WUS), which is both  necessary and sufficient for stem cell specification in Arabidopsis thaliana  ULTRAPETALA1 (ULT1) was previously identified as a plant-specific, negative  regulator of WUS expression. However, molecular mechanisms underlying this  regulation remain unknown. ULT1 protein contains a SAND putative DNA-binding  domain and a B-box, previously proposed as a protein interaction domain in  eukaryotes. Here, we characterise a novel partner of ULT1, named ULT1 INTERACTING  FACTOR 1 (UIF1), which contains a Myb domain and an EAR motif. UIF1 and ULT1  function in the same pathway for regulation of organ number in the flower.  Moreover, UIF1 displays DNA-binding activity and specifically binds to WUS  regulatory elements. We thus provide genetic and molecular evidence that UIF1 and  ULT1 work together in floral meristem homeostasis, probably by direct repression  of WUS expression.', '2016 Apr 1', 'Development', '10.1242/dev.127365', 'Carles']
+
+WUSCHEL: !regulates! stem cell specification 
+ULT1: !regulates! WUS expression 
+ULT1: !interacts with! UIF1 
+UIF1: !binds to! WUS regulatory elements 
+UIF1: !functions in! same pathway as ULT1 
+UIF1: !represses! WUS expression

@@ -1,0 +1,13 @@
+To understand the physiological basis of genetic variation and resulting quantitative trait loci (QTLs) for photosynthesis in a rice (Oryza sativa L.) introgression line population, 13 lines were studied under drought and well-watered conditions, at flowering and grain filling. Simultaneous gas exchange and chlorophyll fluorescence measurements were conducted at various levels of incident irradiance and ambient CO(2) to estimate parameters of a model that dissects photosynthesis into stomatal conductance (g(s)), mesophyll conductance (g(m)), electron transport capacity (J(max)), and Rubisco carboxylation capacity (V(cmax)). Significant genetic variation in these parameters was found, although drought and leaf age accounted for larger proportions of the total variation. Genetic variation in light-saturated photosynthesis and transpiration efficiency (TE) were mainly associated with variation in g(s) and g(m). One previously mapped major QTL of photosynthesis was associated with variation in g(s) and g(m), but also in J(max) and V(cmax) at flowering. Thus, g(s) and g(m), which were demonstrated in the literature to be responsible for environmental variation in photosynthesis, were found also to be associated with genetic variation in photosynthesis. Furthermore, relationships between these parameters and leaf nitrogen or dry matter per unit area, which were previously found across environmental treatments, were shown to be valid for variation across genotypes. Finally, the extent to which photosynthesis rate and TE can be improved was evaluated. Virtual ideotypes were estimated to have 17.0% higher photosynthesis and 25.1% higher TE compared with the best genotype investigated. This analysis using introgression lines highlights possibilities of improving both photosynthesis and TE within the same genetic background.
+
+gene: !affects! photosynthesis
+gene: !affects! transpiration efficiency
+gene: !affects! stomatal conductance
+gene: !affects! mesophyll conductance
+gene: !affects! electron transport capacity
+gene: !affects! Rubisco carboxylation capacity
+gene: !associated with! light-saturated photosynthesis
+gene: !associated with! leaf nitrogen
+gene: !associated with! dry matter per unit area
+gene: !improves! photosynthesis rate
+gene: !improves! transpiration efficiency

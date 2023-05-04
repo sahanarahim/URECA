@@ -1,0 +1,11 @@
+['8910594', 'In an attempt to identify and characterize chloroplast proteases, we performed an  immunological analysis of chloroplasts using an antibody against Escherichia coli  FtsH protease, which is an ATP-dependent metalloprotease bound to the cytoplasmic  membrane. A cross-reacting protein of 78 kDa was found in the thylakoid membrane  of spinach, but not in the soluble stromal fraction. Alkali and high salt washes,  as well as trypsin treatment of thylakoid membranes, suggest that the  chloroplastic FtsH protein is integral to the membrane, with its hydrophilic  portion exposed to the stroma. The protein is not bound to any photosynthetic  complex and is exclusively located in the stromally exposed regions of the  thylakoid membrane. Its expression is dependent on light, as it is present in  green pea seedlings, but absent from etiolated ones. An Arabidopsis cDNA was  isolated, and the deduced amino acid sequence demonstrated high similarity to the  E. coli FtsH protein, especially in the central region of the protein, containing  the ATP- and zinc-binding sites. The product of this clone was capable of import  into isolated pea chloroplasts, where it was processed to its mature form and  targeted to the thylakoid membrane. The trans-bilayer orientation and lateral  location of the FtsH protein in the thylakoid membrane suggest its involvement in  the degradation of both soluble stromal proteins and newly inserted or  turning-over thylakoid proteins.', '1996 Nov 15', 'J Biol Chem', '10.1074/jbc.271.46.29329', 'Adam']
+
+Gene: !synthesizes! FtsH protease 
+Antibody: !detects! FtsH protease 
+FtsH protease: !localizes to! thylakoid membrane 
+Alkali/high salt/trypsin: !affects! FtsH protease 
+Light: !regulates! expression of FtsH protease 
+Arabidopsis cDNA: !encodes! FtsH protease 
+Pea chloroplasts: !import! FtsH protease 
+FtsH protease: !orientates! trans-bilayer in thylakoid membrane 
+FtsH protease: !degrades! stromal proteins and thylakoid proteins

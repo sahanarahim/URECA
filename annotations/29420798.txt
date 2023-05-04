@@ -1,0 +1,8 @@
+Arsenate [As(V)] is toxic to nearly all organisms. Soil-borne As(V) enters plant cells mainly through the plasma membrane-localized phosphate (Pi) transporter PHT1 family proteins due to its chemical similarity to Pi. We report here that VPT1, a major vacuolar phosphate transporter which contributes to vacuolar Pi sequestration, is associated with As(V) tolerance in Arabidopsis. vpt1 mutants displayed enhanced tolerance to As(V) toxicity, whereas plants overexpressing VPT1 were more sensitive to As(V) as compared with the wild-type plants. Measurements of arsenic content indicated that vpt1 mutants accumulated less arsenic and, in contrast, up-regulating VPT1 expression contributed to higher levels of arsenic accumulation in plants. To examine further how VPT1 may modulate arsenic contents in plants, we surveyed the expression patterns of all the PHT1 family members that play roles in As(V) uptake, and found that many of the PHT1 genes were down-regulated in the vpt1 mutant as compared with the wild type under Pi-sufficient conditions, but not when Pi levels were low in the medium. Interestingly, As(V) sensitivity assays indicated that As(V) resistance in vpt1 mutants was prominent only under Pi-sufficient but not under Pi-deficient conditions. These results suggest that under Pi-sufficient conditions, loss of VPT1 leads to elevated levels of Pi in the cytosol, which in turn suppressed the expression of PHT1-type transporters and reduced accumulation of arsenic.
+
+PHT1: !transports! As(V)
+VPT1: !affects! As(V) tolerance
+VPT1: !regulates! PHT1 expression
+vpt1 mutants: !accumulate less! arsenic
+VPT1 overexpression: !increases! arsenic accumulation
+Pi-sufficient conditions: !suppress! PHT1 expression

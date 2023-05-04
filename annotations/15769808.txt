@@ -1,0 +1,15 @@
+Wall-associated kinase 1 (WAK1) is a transmembrane protein containing a cytoplasmic Ser/Thr kinase domain and an extracellular domain in contact with the pectin fraction of the plant cell walls. In order to characterize further the interaction of WAK1 with pectin, a 564 bp DNA sequence corresponding to amino acids 67-254 of the extracellular domain of WAK1 from Arabidopsis thaliana was cloned and expressed as a soluble recombinant peptide in yeast. Using enzyme-linked immunosorbent assays (ELISA), we show that peptide WAK(67-254) binds to polygalacturonic acid (PGA), oligogalacturonides, pectins extracted from A. thaliana cell walls and to structurally related alginates. Our results suggest that both ionic and steric interactions are required to match the relatively linear pectin backbone. Binding of WAK(67-254) to PGA, oligogalacturonides and alginates occurred only in the presence of calcium and in ionic conditions promoting the formation of calcium bridges between oligo-and polymers (also known as 'egg-boxes'). The conditions inhibiting the formation of calcium bridges (EDTA treatment, calcium substitution, high NaCl concentrations, depolymerization and methylesterification of pectins) also inhibited the binding of WAK(67-254) to calcium-induced egg-boxes. The relevance of this non-covalent link between WAK(67-254) and cell wall pectins is discussed in terms of cell elongation, cell differentiation and host-pathogen interactions.
+
+WAK1: !binds to! PGA
+WAK1: !binds to! oligogalacturonides
+WAK1: !binds to! pectins
+WAK1: !binds to! alginates
+PGA: !requires! calcium
+oligogalacturonides: !requires! calcium
+pectins: !requires! calcium
+alginates: !requires! calcium
+EDTA: !inhibits! calcium bridges
+calcium: !inhibits! EDTA
+NaCl: !inhibits! calcium bridges
+depolymerization: !inhibits! calcium bridges
+methylesterification: !inhibits! calcium bridges

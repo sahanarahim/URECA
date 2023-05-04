@@ -1,0 +1,9 @@
+In plants, endogenous and environmental signals such as light control the timing of the transition to flowering. Two phytochrome B-interacting transcription factors, VASCULAR PLANT ONE-ZINC FINGER1 (VOZ1) and VOZ2, redundantly promote flowering in Arabidopsis (<i>Arabidopsis thaliana</i>). In the <i>voz1 voz2</i> mutant, the expression of <i>FLOWERING LOCUS C</i> (<i>FLC</i>) was up-regulated and that of <i>FLOWERING LOCUS T</i> (<i>FT</i>) was down-regulated, which was proposed to be the cause of late flowering in <i>voz1 voz2</i> However, the detailed mechanism by which the <i>VOZ</i> genes promote flowering is not well understood. Here, we show that neither the reduced <i>FT</i> expression nor the late-flowering phenotype of <i>voz1 voz2</i> is suppressed in the <i>voz1 voz2 flc</i> triple mutant. Genetic interaction experiments between <i>voz1 voz2</i> and <i>constans-2</i> (<i>co-2</i>) mutants reveal that the <i>VOZs</i> and <i>CO</i> work in the same genetic pathway. Using in vitro pull-down, electrophoretic mobility shift, and bimolecular fluorescence complementation assays, we show that VOZ1 and VOZ2 interact with CO. The <i>voz1 voz2 35S</i>::<i>CO</i>:<i>YFP</i> plants show suppression of the early-flowering phenotype induced by <i>CO</i> overexpression, suggesting that CO requires VOZ for the induction of flowering. Determination of the VOZ consensus-binding site followed by genome-wide sequence analysis failed to identify any VOZ-binding sites near known flowering time genes. Together, these results indicate that the <i>VOZ</i> genes regulate flowering primarily through the photoperiod pathway, independent of <i>FLC</i>, and suggest that VOZs modulate CO function to promote flowering.
+
+VOZ1: !interacts with! CO
+VOZ2: !interacts with! CO
+VOZ1: !enhances! CO
+VOZ2: !enhances! CO
+CO: !requires! VOZ
+VOZ1: !regulates! flowering
+VOZ2: !regulates! flowering

@@ -1,0 +1,9 @@
+Phytophthora pathogens secrete many effector proteins to manipulate host innate immunity. PsAvh238 is a Phytophthora sojae N-terminal Arg-X-Leu-Arg (RXLR) effector, which evolved to escape host recognition by mutating one nucleotide while retaining plant immunity-suppressing activity to enhance infection. However, the molecular basis of the PsAvh238 virulence function remains largely enigmatic. By using coimmunoprecipitation and liquid chromatography-tandem mass spectrometry analysis, we identified the 1-aminocyclopropane-1-carboxylate synthase (ACS) isoforms, the key enzymes in ethylene (ET) biosynthesis, as a host target of PsAvh238. We show that PsAvh238 interacts with soybean ACSs (GmACSs) in vivo and in vitro. By destabilizing Type2 GmACSs, PsAvh238 suppresses Type2 ACS-catalyzed ET biosynthesis and facilitates Phytophthora infection. Silencing of Type2 GmACSs, and inhibition of ET biosynthesis or signaling, increase soybean susceptibility to P. sojae infection, supporting a role for Type2 GmACSs and ET in plant immunity against P. sojae. Moreover, wild-type P. sojae but not the PsAvh238-disrupted mutants, inhibits ET induction and promotes P. sojae infection in soybean. Our results highlight the ET biosynthesis pathway as an essential part in plant immunity against P. sojae and a direct effector target.
+
+PsAvh238: !interacts with! soybean ACSs 
+PsAvh238: !destabilizes! Type2 GmACSs 
+Type2 GmACSs: !synthesizes! ethylene 
+PsAvh238: !represses! Type2 ACS-catalyzed ET biosynthesis 
+PsAvh238: !enhances! Phytophthora infection 
+Type2 GmACSs: !supports! plant immunity against P. sojae 
+P. sojae: !inhibits! ET induction

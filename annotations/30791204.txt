@@ -1,0 +1,12 @@
+Peroxisome research has been revolutionized by proteome studies combined with in vivo subcellular targeting analyses. Yellow and cyan fluorescent protein (YFP and CFP) are the classical fluorophores of plant peroxisome research. In the new transient expression system of Arabidopsis seedlings co-cultivated with Agrobacterium we detected the YFP fusion of one candidate protein in peroxisomes, but only upon co-transformation with the peroxisome marker, CFP-PTS1. The data suggested that the YFP fusion was directed to peroxisomes due to its weak heterodimerization ability with CFP-PTS1, allowing piggy-back import into peroxisomes. Indeed, if co-expressed with monomeric Cerulean-PTS1 (mCer-PTS1), the YFP fusion was no longer matrix localized. We systematically investigated the occurrence and extent of dimerization-based piggy-back import for different fluorophore combinations in five major transient plant expression systems. In Arabidopsis seedlings and tobacco leaves both untagged YFP and monomeric Venus were imported into peroxisomes if co-expressed with CFP-PTS1 but not with mCer-PTS1. By contrast, piggy-back import of cytosolic proteins was not observed in Arabidopsis and tobacco protoplasts or in onion epidermal cells for any fluorophore combination at any time point. Based on these important results we formulate new guidelines for fluorophore usage and experimental design to guarantee reliable identification of novel plant peroxisomal proteins.
+
+YFP: !dimerizes with! CFP-PTS1
+mCer-PTS1: !inhibits dimerization of! YFP
+YFP: !imported into peroxisomes by! piggy-back import
+CFP-PTS1: !enables piggy-back import of! YFP
+mCer-PTS1: !inhibits piggy-back import of! YFP
+Arabidopsis seedlings: !allow piggy-back import of! YFP
+Tobacco leaves: !allow piggy-back import of! YFP
+Arabidopsis protoplasts: !do not allow piggy-back import of! YFP
+Tobacco protoplasts: !do not allow piggy-back import of! YFP
+Onion epidermal cells: !do not allow piggy-back import of! YFP

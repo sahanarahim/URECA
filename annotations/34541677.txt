@@ -1,0 +1,9 @@
+Plants reduce transpiration to avoid dehydration during drought episodes by stomatal closure and inhibition of canopy growth. Previous studies have suggested that low gibberellin (GA) activity promotes these 'drought avoidance' responses. Using genome editing, molecular, physiological and hormone analyses, we examined if drought regulates GA metabolism in tomato (Solanum lycopersicum) guard cells and leaves, and studied how this affects water loss. Water deficiency inhibited the expression of the GA biosynthesis genes GA20 oxidase1 (GA20ox1) and GA20ox2 and induced the GA deactivating gene GA2ox7 in guard cells and leaf tissue, resulting in reduced levels of bioactive GAs. These effects were mediated by abscisic acid-dependent and abscisic acid-independent pathways, and by the transcription factor TINY1. The loss of GA2ox7 attenuated stomatal response to water deficiency and during soil dehydration, ga2ox7 plants closed their stomata later, and wilted faster than wild-type (WT) M82 cv. Mutations in GA20ox1 and GA20ox2, had no effect on stomatal closure, but reduced water loss due to the mutants' smaller canopy areas. The results suggested that drought-induced GA deactivation in guard cells, contributes to stomatal closure at the early stages of soil dehydration, whereas inhibition of GA synthesis in leaves suppresses canopy growth and restricts transpiration area.
+
+GA20ox1: !synthesizes! GA
+GA20ox2: !synthesizes! GA
+GA2ox7: !deactivates! GA
+ABA: !regulates! GA20ox1/2 & GA2ox7
+TINY1: !regulates! GA2ox7
+GA2ox7: !affects! stomatal closure
+GA20ox1/2: !affects! water loss

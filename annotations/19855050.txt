@@ -1,0 +1,11 @@
+['19855050', 'In the winter-annual accessions of Arabidopsis thaliana, presence of an active  allele of FRIGIDA (FRI) elevates expression of FLOWERING LOCUS C (FLC), a  repressor of flowering, and thus confers a vernalization requirement. FLC  activation by FRI involves methylation of Lys 4 of histone H3 (H3K4) at FLC  chromatin. Many multicellular organisms that have been examined contain two  classes of H3K4 methylases, a yeast (Saccharomyces cerevisiae) Set1 class and a  class related to Drosophila melanogaster Trithorax. In this work, we demonstrate  that ARABIDOPSIS TRITHORAX-RELATED7 (ATXR7), a putative Set1 class H3K4  methylase, is required for proper FLC expression. The atxr7 mutation partially  suppresses the delayed flowering of a FRI-containing line. The rapid flowering of  atxr7 is associated with reduced FLC expression and is accompanied by decreased  H3K4 methylation and increased H3K27 methylation at FLC. Thus, ATXR7 is required  for the proper levels of these histone modifications that set the level of FLC  expression to create a vernalization requirement in winter-annual accessions.  Previously, it has been reported that lesions in ATX1, which encodes a Trithorax  class H3K4 methylase, partially suppress the delayed flowering of winter-annual  Arabidopsis. We show that the flowering phenotype of atx1 atxr7 double mutants is  additive relative to those of single mutants. Therefore, both classes of H3K4  methylases appear to be required for proper regulation of FLC expression.', '2009 Oct', 'Plant Cell', '10.1105/tpc.109.070060', 'Amasino']
+
+FRI: !elevates expression of! FLC 
+FLC: !repressed by! FRI 
+FRI: !involves methylation of! H3K4 
+ATXR7: !required for! proper FLC expression 
+atxr7: !suppresses delayed flowering of! FRI-containing line 
+H3K4: !decreased methylation of! by atxr7 
+H3K27: !increased methylation of! by atxr7 
+ATX1: !lesions in partially suppress! delayed flowering of winter-annual Arabidopsis 
+atx1 atxr7: !additive flowering phenotype of! double mutants

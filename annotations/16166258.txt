@@ -1,0 +1,9 @@
+Fluorescent-based high-information-content fingerprinting (HICF) techniques have recently been developed for physical mapping. These techniques make use of automated capillary DNA sequencing instruments to enable both high-resolution and high-throughput fingerprinting. In this article, we report the construction of a whole-genome HICF FPC map for maize (Zea mays subsp. mays cv B73), using a variant of HICF in which a type IIS restriction enzyme is used to generate the fluorescently labeled fragments. The HICF maize map was constructed from the same three maize bacterial artificial chromosome libraries as previously used for the whole-genome agarose FPC map, providing a unique opportunity for direct comparison of the agarose and HICF methods; as a result, it was found that HICF has substantially greater sensitivity in forming contigs. An improved assembly procedure is also described that uses automatic end-merging of contigs to reduce the effects of contamination and repetitive bands. Several new features in FPC v7.2 are presented, including shared-memory multiprocessing, which allows dramatically faster assemblies, and automatic end-merging, which permits more accurate assemblies. It is further shown that sequenced clones may be digested in silico and located accurately on the HICF assembly, despite size deviations that prevent the precise prediction of experimental fingerprints. Finally, repetitive bands are isolated, and their effect on the assembly is studied.
+
+HICF: !enables! high-resolution and high-throughput fingerprinting
+HICF: !constructs! whole-genome HICF FPC map
+agarose FPC map: !compared to! HICF
+assembly procedure: !improved by! automatic end-merging of contigs
+FPC v7.2: !includes! shared-memory multiprocessing
+sequenced clones: !located accurately on! HICF assembly
+repetitive bands: !isolated and studied!

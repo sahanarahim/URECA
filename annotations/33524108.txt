@@ -1,0 +1,10 @@
+Short non-coding RNA molecules (sRNAs) play a fundamental role in gene regulation and development in higher organisms. They act as molecular postcodes and guide AGO proteins to target nucleic acids. In plants, sRNA-targeted mRNAs are degraded, reducing gene expression. In contrast, sRNA-targeted DNA sequences undergo cytosine methylation referred to as RNA-directed DNA methylation (RdDM). Cytosine methylation can suppress transcription, thus sRNAs are potent regulators of gene expression. sRNA-mediated RdDM is involved in genome stability through transposon silencing, mobile signalling for epigenetic gene control and hybrid vigour. Since cytosine methylation can be passed on to subsequent generations, RdDM contributes to transgenerational inheritance of the epigenome. Using a novel approach, which can differentiate between primary (inducer) and secondary (amplified) sRNAs, we show that initiation of heritable RdDM does not require complete sequence complementarity between the sRNAs and their nuclear target sequences. sRNAs with up to four regularly interspaced mismatches are potent inducers of RdDM, however, the number and disruptive nature of nucleotide polymorphisms negatively correlate with their efficacy. Our findings contribute to understanding how sRNA can directly shape the epigenome and may be used in designing the next generation of RNA silencing constructs.
+
+sRNA: !guides! AGO proteins 
+AGO proteins: !target! nucleic acids 
+sRNA: !degrades! mRNAs 
+sRNA: !induces! RdDM 
+RdDM: !contributes to! genome stability 
+RdDM: !contributes to! transgenerational inheritance 
+sRNA: !requires! sequence complementarity 
+sRNA: !potent with! up to four mismatches

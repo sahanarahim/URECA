@@ -1,0 +1,8 @@
+['19460869', 'Plastids (chloroplasts) of higher plants exhibit two types of conversional RNA  editing: cytidine-to-uridine editing in mRNAs and adenosine-to-inosine editing in  at least one plastid genome-encoded tRNA, the tRNA-Arg(ACG). The enzymes  catalyzing RNA editing reactions in plastids are unknown. Here we report the  identification of the A-to-I tRNA editing enzyme from chloroplasts of the model  plant Arabidopsis thaliana. The protein (AtTadA) has an unusual structure in that  it harbors a large N-terminal domain of >1000 amino acids, which is not required  for catalytic activity. The C-terminal region of the protein displays sequence  similarity to tadA, the tRNA adenosine deaminase from Escherichia coli. We show  that AtTadA is imported into chloroplasts in vivo and demonstrate that the in  vitro translated protein triggers A-to-I editing in the anticodon of the plastid  tRNA-Arg(ACG). Suppression of AtTadA gene expression in transgenic Arabidopsis  plants by RNAi results in reduced A-to-I editing in the chloroplast  tRNA-Arg(ACG). The RNAi lines display a mild growth phenotype, presumably due to  reduced chloroplast translational efficiency upon limited availability of edited  tRNA-Arg(ACG).', '2009 Jul', 'RNA', '10.1261/rna.1600609', 'Bock']
+
+AtTadA: !catalyzes! A-to-I tRNA editing 
+AtTadA: !imported into! chloroplasts 
+AtTadA: !triggers! A-to-I editing 
+RNAi: !suppresses! AtTadA gene expression 
+RNAi: !reduces! A-to-I editing 
+RNAi: !causes! mild growth phenotype

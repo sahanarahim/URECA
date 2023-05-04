@@ -1,0 +1,16 @@
+The date palm (Phoenix dactylifera L.), famed for its sugar-rich fruits (dates) and cultivated by humans since 4,000 B.C., is an economically important crop in the Middle East, Northern Africa, and increasingly other places where climates are suitable. Despite a long history of human cultivation, the understanding of P. dactylifera genetics and molecular biology are rather limited, hindered by lack of basic data in high quality from genomics and transcriptomics. Here we report a large-scale effort in generating gene models (assembled expressed sequence tags or ESTs and mapped to a genome assembly) for P. dactylifera, using the long-read pyrosequencing platform (Roche/454 GS FLX Titanium) in high coverage. We built fourteen cDNA libraries from different P. dactylifera tissues (cultivar Khalas) and acquired 15,778,993 raw sequencing reads-about one million sequencing reads per library-and the pooled sequences were assembled into 67,651 non-redundant contigs and 301,978 singletons. We annotated 52,725 contigs based on the plant databases and 45 contigs based on functional domains referencing to the Pfam database. From the annotated contigs, we assigned GO (Gene Ontology) terms to 36,086 contigs and KEGG pathways to 7,032 contigs. Our comparative analysis showed that 70.6 % (47,930), 69.4 % (47,089), 68.4 % (46,441), and 69.3 % (47,048) of the P. dactylifera gene models are shared with rice, sorghum, Arabidopsis, and grapevine, respectively. We also assigned our gene models into house-keeping and tissue-specific genes based on their tissue specificity.
+
+Gene: !affects! Process 
+Gene: !localizes to! Tissue 
+Gene: !interacts with! Database 
+Gene: !enhances! Coverage 
+Gene: !represses! Redundancy 
+Gene: !synthesizes! Contigs 
+Gene: !assigns! GO Terms 
+Gene: !assigns! KEGG Pathways 
+Gene: !shares with! Rice 
+Gene: !shares with! Sorghum 
+Gene: !shares with! Arabidopsis 
+Gene: !shares with! Grapevine 
+Gene: !classifies! House-keeping Genes 
+Gene: !classifies! Tissue-specific Genes

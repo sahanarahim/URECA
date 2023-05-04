@@ -1,0 +1,9 @@
+Light is a key limiting factor of plant growth and development under the canopy. Specific light signals, such as a low ratio of red : far-red (R:FR) light, trigger the shade avoidance response, which affects hypocotyl, stem, and leaf growth. Although multiple components mediating shade avoidance responses have been identified in the past few decades, the underlying regulatory mechanism remains unclear. In this study, we found that the far-red elongated hypocotyls 3 (fhy3) mutant exhibited longer hypocotyls and increased expression levels of core shade avoidance response genes under low R:FR shade conditions compared with the wild type No-0, suggesting that FHY3 negatively regulates shade avoidance responses. Yeast one-hybrid, chromatin immunoprecipitation, and RT-qPCR assays revealed that FHY3 directly binds to the promoters and gene body of PHYTOCHROME RAPIDLY REGULATED1 (PAR1) and PAR2 and activates their expression to inhibit shade responses. Furthermore, the overexpression of PAR1 or PAR2 rescued the enhanced shade avoidance responses of fhy3, indicating that both genes are direct downstream targets of FHY3 that mediate shade avoidance responses. Our findings demonstrate that the light-signalling protein FHY3 positively regulates the transcription of PAR1 and PAR2, which encode two key negative regulators of shade avoidance responses, thus repressing plant responses to shade signals.
+
+FHY3: !regulates! PAR1 
+FHY3: !regulates! PAR2 
+PAR1: !inhibits! shade responses 
+PAR2: !inhibits! shade responses 
+FHY3: !activates! PAR1 
+FHY3: !activates! PAR2 
+FHY3: !represses! shade responses

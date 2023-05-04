@@ -1,0 +1,10 @@
+In contrast to animal cells, plants use nitrate as a major source of nitrogen. Following the uptake of nitrate, this major macronutrient is fed into the vasculature for long-distance transport. The Arabidopsis thaliana shoot expresses the anion channel SLOW ANION CHANNEL1 (SLAC1) and its homolog SLAC1 HOMOLOGOUS3 (SLAH3), which prefer nitrate as substrate but cannot exclude chloride ions. By contrast, we identified SLAH2 as a nitrate-specific channel that is impermeable for chloride. To understand the molecular basis for nitrate selection in the SLAH2 channel, SLAC1 and SLAH2 were modeled to the structure of HiTehA, a distantly related bacterial member. Structure-guided site-directed mutations converted SLAC1 into a SLAH2-like nitrate-specific anion channel and vice versa. Our findings indicate that two pore-occluding phenylalanines constrict the pore. The selectivity filter of SLAC/SLAH anion channels is determined by the polarity of pore-lining residues located on alpha helix 3. Changing the polar character of a single amino acid side chain (Ser-228) to a nonpolar residue turned the nitrate-selective SLAH2 into a chloride/nitrate-permeable anion channel. Thus, the molecular basis of the anion specificity of SLAC/SLAH anion channels seems to be determined by the presence and constellation of polar side chains that act in concert with the two pore-occluding phenylalanines.
+
+SLAC1: !prefers! nitrate 
+SLAH3: !prefers! nitrate 
+SLAH2: !specific for! nitrate 
+HiTehA: !structurally related to! SLAC1/SLAH2 
+pore-occluding phenylalanines: !constrain! pore 
+alpha helix 3: !determines! selectivity filter 
+Ser-228: !changes polar character of! amino acid side chain 
+nonpolar residue: !turns! SLAH2 into chloride/nitrate-permeable anion channel

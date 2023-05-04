@@ -1,0 +1,8 @@
+OpenSimRoot is an open-source, functional-structural plant model and mathematical description of root growth and function. We describe OpenSimRoot and its functionality to broaden the benefits of root modeling to the plant science community. OpenSimRoot is an extended version of SimRoot, established to simulate root system architecture, nutrient acquisition and plant growth. OpenSimRoot has a plugin, modular infrastructure, coupling single plant and crop stands to soil nutrient and water transport models. It estimates the value of root traits for water and nutrient acquisition in environments and plant species. The flexible OpenSimRoot design allows upscaling from root anatomy to plant community to estimate the following: resource costs of developmental and anatomical traits; trait synergisms; and (interspecies) root competition. OpenSimRoot can model three-dimensional images from magnetic resonance imaging (MRI) and X-ray computed tomography (CT) of roots in soil. New modules include: soil water-dependent water uptake and xylem flow; tiller formation; evapotranspiration; simultaneous simulation of mobile solutes; mesh refinement; and root growth plasticity. OpenSimRoot integrates plant phenotypic data with environmental metadata to support experimental designs and to gain a mechanistic understanding at system scales.
+
+OpenSimRoot: !simulates! root system architecture 
+OpenSimRoot: !estimates! value of root traits 
+OpenSimRoot: !upscales! from root anatomy to plant community 
+OpenSimRoot: !models! 3D images from MRI and CT 
+OpenSimRoot: !includes! soil water-dependent water uptake 
+OpenSimRoot: !integrates! plant phenotypic data with environmental metadata

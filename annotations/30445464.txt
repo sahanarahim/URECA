@@ -1,0 +1,9 @@
+Resveratrol (Res) is a stilbenoid, a group of plant phenolic metabolites derived from stilbene that possess activities against pests, pathogens, and abiotic stresses. Only a few species, including grapevine (Vitis), synthesize and accumulate Res. Although stilbene synthases (STSs) have been isolated and characterized in several species, the gene regulatory mechanisms underlying stilbene biosynthesis are still largely unknown. Here, we characterize a grapevine WRKY transcription factor, VvWRKY8, that regulates the Res biosynthetic pathway. Transient and stable overexpression of VvWRKY8 in grapevine results in decreased expression of VvSTS15/21 and VvMYB14, as well as in a reduction of Res accumulation. VvWRKY8 does not bind to or activate the promoters of VvMYB14 and VvSTS15/21; however, it physically interacts with VvMYB14 proteins through their N-terminal domains to prevent them from binding to the VvSTS15/21 promoter. Application of exogenous Res results in the stimulation of VvWRKY8 expression and in a decrease of VvMYB14 and VvSTS15/21 expression in grapevine suspension cells, and in the activation of the VvWRKY8 promoter in tobacco leaves. These results demonstrate that VvWRKY8 represses VvSTS15/21 expression and Res biosynthesis through interaction with VvMYB14. In this context, the VvMYB14-VvSTS15/21-Res-VvWRKY8 regulatory loop may be an important mechanism for the fine-tuning of Res biosynthesis in grapevine.
+
+VvWRKY8: !regulates! Res biosynthetic pathway
+VvWRKY8: !interacts with! VvMYB14
+VvMYB14: !binds to! VvSTS15/21 promoter
+VvWRKY8: !represses! VvSTS15/21 expression
+VvWRKY8: !prevents! VvMYB14 from binding to VvSTS15/21 promoter
+Exogenous Res: !stimulates! VvWRKY8 expression
+VvMYB14-VvSTS15/21-Res-VvWRKY8: !forms! regulatory loop

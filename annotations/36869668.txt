@@ -1,0 +1,9 @@
+Plants can sense the shade from neighboring plants by detecting a reduction of the red:far-red light (R: FR) ratio. Phytochrome B (phyB) is the primary photoreceptor that perceives shade light and regulates jasmonic acid (JA) signaling. However, the molecular mechanisms underlying phyB and JA signaling integration in shade responses remain largely unknown. Here, we show the interaction of phyB and FAR-RED INSENSITIVE 219 (FIN219)/JASMONATE RESISTANT1 (JAR1) in a functional demand manner in Arabidopsis (Arabidopsis thaliana) seedling development. Genetic evidence and interaction studies indicated that phyB and FIN219 synergistically and negatively regulate shade-induced hypocotyl elongation. Moreover, phyB interacted with various isoforms of FIN219 under high and low R: FR light. Methyl jasmonate (MeJA) treatment, FIN219 mutation, and PHYBOE digalactosyldiacylglycerol synthase1-1 (dgd1-1) plants, which show increased levels of JA, altered the patterns of phyB-associated nuclear speckles under the same conditions. Surprisingly, PHYBOE dgd1-1 showed a shorter hypocotyl phenotype than its parental mutants under shade conditions. Microarray assays using PHYBOE and PHYBOE fin219-2 indicated that PHYB overexpression substantially affects defense response-related genes under shade light and co-regulates expression of auxin-responsive genes with FIN219. Thus, our findings reveal that phyB substantially crosstalks with JA signaling through FIN219 to modulate seedling development under shade light.
+
+phyB: !interacts with! FIN219 
+phyB: !regulates! JA signaling 
+FIN219: !synergistically regulates! shade-induced hypocotyl elongation 
+phyB: !interacts with! various isoforms of FIN219 
+MeJA: !alters! patterns of phyB-associated nuclear speckles 
+PHYBOE: !affects! defense response-related genes 
+FIN219: !co-regulates! expression of auxin-responsive genes

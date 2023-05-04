@@ -1,0 +1,7 @@
+Canopy temperature T<sub>can</sub> is a key driver of plant function that emerges as a result of interacting biotic and abiotic processes and properties. However, understanding controls on T<sub>can</sub> and forecasting canopy responses to weather extremes and climate change are difficult due to sparse measurements of T<sub>can</sub> at appropriate spatial and temporal scales. Burgeoning observations of T<sub>can</sub> from thermal cameras enable evaluation of energy budget theory and better understanding of how environmental controls, leaf traits and canopy structure influence temperature patterns. The canopy scale is relevant for connecting to remote sensing and testing biosphere model predictions. We anticipate that future breakthroughs in understanding of ecosystem responses to climate change will result from multiscale observations of T<sub>can</sub> across a range of ecosystems.
+
+environment: !affects! T<sub>can</sub>
+leaf traits: !influence! T<sub>can</sub>
+canopy structure: !influence! T<sub>can</sub>
+multiscale observations: !enable! evaluation of energy budget theory
+multiscale observations: !test! biosphere model predictions

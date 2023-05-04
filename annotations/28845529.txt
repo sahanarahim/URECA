@@ -1,0 +1,7 @@
+Red fruits are popular and widely accepted by consumers because of an enhanced appearance and enriched anthocyanins. The molecular mechanism of anthocyanin regulation in red-skinned pear (Pyrus) has been studied, and the genes encoding the biosynthetic steps and several transcription factors (TFs) have been characterized. In this study, a candidate R2R3 MYB TF, PyMYB114, was identified by linkage to the quantitative trait loci (QTL) for red skin color on linkage group 5 in a population of Chinese pear (Pyrus bretschneideri). The function of PyMYB114 was verified by transient transformation in tobacco (Nicotinana tabacum) leaves and strawberry (Fragaria) and pear fruits, resulting in the biosynthesis of anthocyanin. Suppression of PyMYB114 could inhibit anthocyanin biosynthesis in red-skinned pears. The ERF/AP2 TF PyERF3 was found to interact with PyMYB114 and its partner PybHLH3 to co-regulate anthocyanin biosynthesis, as shown by a dual luciferase reporter system and a yeast two-hybrid assay. In addition, the transcript abundance of PyMYB114 and PyMYB10 were correlated, and co-transformation of these two genes into tobacco and strawberry led to enhanced anthocyanin biosynthesis. This interaction network provides insight into the coloration of fruits and the interaction of different TFs to regulate anthocyanin biosynthesis.
+
+PyMYB114: !affects! Anthocyanin biosynthesis
+PyERF3: !interacts with! PyMYB114
+PybHLH3: !interacts with! PyMYB114
+PyMYB114: !interacts with! PybHLH3
+PyMYB10: !correlated with! PyMYB114

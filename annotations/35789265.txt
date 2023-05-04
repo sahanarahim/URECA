@@ -1,0 +1,8 @@
+IRONMAN (IMA) is a family of small peptides which positively regulate plant responses under Fe deficiency. However, the molecular mechanism by which OsIMA1 and OsIMA2 regulate Fe homeostasis in rice is unclear. Here, we reveal that OsIMA1 and OsIMA2 interact with the potential Fe sensors, OsHRZ1 (HAEMERYTHRIN MOTIF-CONTAINING REALLY INTERESTING NEW GENE (RING) AND ZINC-FINGER PROTEIN 1) and OsHRZ2. OsIMA1 and OsIMA2 contain a conserved 17 amino acid C-terminal region which is responsible for the interactions with OsHRZ1 and OsHRZ2. Plants overexpressing OsIMA1 (OsIMA1ox) show increased Fe concentration in seeds and reduced fertility, as observed in the hrz1-2 loss-of-function mutant plants. Moreover, the expression patterns of Fe deficiency inducible genes in the OsIMA1ox plants are the same as those in hrz1-2. Co-expression assays suggest that OsHRZ1 and OsHRZ2 promote the degradation of OsIMA1 proteins. As the interaction partners of OsHRZ1, the OsPRI (POSITIVE REGULATOR OF IRON HOMEOSTASIS) proteins also interact with OsHRZ2. The conserved C-terminal region of four OsPRIs contributes to the interactions with OsHRZ1 and OsHRZ2. An artificial IMA (aIMA) derived from the C-terminal of OsPRI1 can be also degraded by OsHRZ1. Moreover, aIMA overexpressing rice plants accumulate more Fe without reduction of fertility. This work establishes the link between OsIMAs and OsHRZs, and develops a new strategy for Fe fortification in rice.
+
+OsIMA1: !interacts with! OsHRZ1
+OsIMA2: !interacts with! OsHRZ2
+OsIMA1: !degraded by! OsHRZ1
+OsPRI1: !interacts with! OsHRZ1
+OsPRI1: !interacts with! OsHRZ2
+aIMA: !overexpressed in! rice plants

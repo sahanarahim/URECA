@@ -1,0 +1,7 @@
+Growth patterns vary in space and time as an organ develops, leading to shape and size changes. Quantifying spatiotemporal variations in organ growth throughout development is therefore crucial to understand how organ shape is controlled. We present a novel method and computational tools to quantify spatial patterns of growth from three-dimensional data at the adaxial surface of leaves. Growth patterns are first calculated by semiautomatically tracking microscopic fluorescent particles applied to the leaf surface. Results from multiple leaf samples are then combined to generate mean maps of various growth descriptors, including relative growth, directionality, and anisotropy. The method was applied to the first rosette leaf of Arabidopsis (Arabidopsis thaliana) and revealed clear spatiotemporal patterns, which can be interpreted in terms of gradients in concentrations of growth-regulating substances. As surface growth is tracked in three dimensions, the method is applicable to young leaves as they first emerge and to nonflat leaves. The semiautomated software tools developed allow for a high throughput of data, and the algorithms for generating mean maps of growth open the way for standardized comparative analyses of growth patterns.
+
+Gene: !affects! Growth patterns 
+Growth patterns: !vary in space and time! 
+Growth patterns: !reveal gradients in concentrations of growth-regulating substances! 
+Method: !quantifies! Spatial patterns of growth 
+Software tools: !allow for! High throughput of data

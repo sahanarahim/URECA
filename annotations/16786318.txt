@@ -1,0 +1,9 @@
+Two cDNAs encoding geranylgeranyl pyrophosphate (GGPP) synthases from tomato (Lycopersicon esculentum) have been cloned and functionally expressed in Escherichia coli. LeGGPS1 was predominantly expressed in leaf tissue and LeGGPS2 in ripening fruit and flower tissue. LeGGPS1 expression was induced in leaves by spider mite (Tetranychus urticae)-feeding and mechanical wounding in wild type tomato but not in the jasmonic acid (JA)-response mutant def-1 and the salicylic acid (SA)-deficient transgenic NahG line. Furthermore, LeGGPS1 expression could be induced in leaves of wild type tomato plants by JA- or methyl salicylate (MeSA)-treatment. In contrast, expression of LeGGPS2 was not induced in leaves by spider mite-feeding, wounding, JA- or MeSA-treatment. We show that emission of the GGPP-derived volatile terpenoid (E,E)-4,8,12-trimethyltrideca-1,3,7,11-tetraene (TMTT) correlates with expression of LeGGPS1. An exception was MeSA-treatment, which resulted in induction of LeGGPS1 but not in emission of TMTT. We show that there is an additional layer of regulation, because geranyllinalool synthase, catalyzing the first dedicated step in TMTT biosynthesis, was induced by JA but not by MeSA.
+
+LeGGPS1: !localizes to! leaf tissue 
+LeGGPS1: !induced by! spider mite-feeding, mechanical wounding, JA-treatment, MeSA-treatment 
+LeGGPS2: !localizes to! ripening fruit and flower tissue 
+LeGGPS2: !not induced by! spider mite-feeding, wounding, JA-treatment, MeSA-treatment 
+LeGGPS1: !correlates with! emission of TMTT 
+MeSA-treatment: !induces! LeGGPS1 
+JA-treatment: !induces! geranyllinalool synthase

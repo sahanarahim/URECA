@@ -1,0 +1,18 @@
+Recent genome-wide surveys showed that acetylation of H3K9 and H3K27 is correlated with gene activation during deetiolation of Arabidopsis thaliana seedlings, but less is known regarding changes in the histone status of repressed genes. Phytochrome A (phyA) is the major photoreceptor of deetiolation, and phyA expression is reversibly repressed by light. We found that in adult Arabidopsis plants, phyA activation in darkness was accompanied by a significant enrichment in the phyA transcription and translation start sites of not only H3K9/14ac and H3K27ac but also H3K4me3, and there was also moderate enrichment of H4K5ac, H4K8ac, H4K12ac, and H4K16ac. Conversely, when phyA expression was repressed by light, H3K27me3 was enriched with a corresponding decline in H3K27ac; moreover, demethylation of H3K4me3 and deacetylation of H3K9/14 were also seen. These histone modifications, which were focused around the phyA transcription/translation start sites, were detected within 1 h of deetiolation. Mutant analysis showed that HDA19/HD1 mediated deacetylation of H3K9/14 and uncovered possible histone crosstalk between H3K9/14ac and H3K4me3. Neither small RNA pathways nor the circadian clock affected H3 modification status of the phyA locus, and DNA methylation was unchanged by light. The presence of activating and repressive histone marks suggests a mechanism for the rapid and reversible regulation of phyA by dark and light.
+
+phyA: !repressed by! light
+phyA: !activated by! darkness
+H3K9/14ac: !enriched by! phyA activation
+H3K27ac: !enriched by! phyA activation
+H3K4me3: !enriched by! phyA activation
+H4K5ac: !enriched by! phyA activation
+H4K8ac: !enriched by! phyA activation
+H4K12ac: !enriched by! phyA activation
+H4K16ac: !enriched by! phyA activation
+H3K27me3: !enriched by! phyA repression
+H3K27ac: !declined by! phyA repression
+H3K4me3: !demethylated by! phyA repression
+H3K9/14ac: !deacetylated by! HDA19/HD1
+small RNA pathways: !unaffected by! light
+circadian clock: !unaffected by! light
+DNA methylation: !unchanged by! light

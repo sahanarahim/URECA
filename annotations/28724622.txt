@@ -1,0 +1,12 @@
+Successful fertilization relies on the production and effective release of viable pollen. Failure of anther opening (dehiscence), results in male sterility, although the pollen may be fully functional. MYB26 regulates the formation of secondary thickening in the anther endothecium, which is critical for anther dehiscence and fertility. Here, we show that although the <i>MYB26</i> transcript shows expression in multiple floral organs, the MYB26 protein is localized specifically to the anther endothecium nuclei and that it directly regulates two <i>NAC</i> domain genes, <i>NST1</i> and <i>NST2</i>, which are critical for the induction of secondary thickening biosynthesis genes. However, there is a complex relationship of regulation between these genes and MYB26. Using DEX-inducible MYB26 lines and overexpression in the various mutant backgrounds, we have shown that MYB26 up-regulates both <i>NST1</i> and <i>NST2</i> expression. Surprisingly normal thickening and fertility rescue does not occur in the absence of MYB26, even with constitutively induced <i>NST1</i> and <i>NST2</i>, suggesting an additional essential role for MYB26 in this regulation. Combined overexpression of <i>NST1</i> and <i>NST2</i> in <i>myb26</i> facilitates limited ectopic thickening in the anther epidermis, but not in the endothecium, and thus fails to rescue dehiscence. Therefore, by a series of regulatory controls through MYB26, NST1, NST2, secondary thickening is formed specifically within the endothecium; this specificity is essential for anther opening.
+
+MYB26: !regulates! NST1 
+MYB26: !regulates! NST2 
+NST1: !induces! secondary thickening biosynthesis genes 
+NST2: !induces! secondary thickening biosynthesis genes 
+MYB26: !up-regulates! NST1 
+MYB26: !up-regulates! NST2 
+MYB26: !essential for! normal thickening and fertility rescue 
+NST1: !facilitates! ectopic thickening in anther epidermis 
+NST2: !facilitates! ectopic thickening in anther epidermis 
+MYB26: !specificity essential for! anther opening

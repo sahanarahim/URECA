@@ -1,0 +1,11 @@
+Glycosyltransferases of the Cellulose Synthase Like D (CSLD) subfamily have been reported to be involved in tip growth and stem development in Arabidopsis. The csld2 and csld3 mutants are root hair defective and the csld5 mutant has reduced stem growth. In this study, we produced double and triple knockout mutants of CSLD2, CSLD3, and CSLD5. Unlike the single mutants and the csld2/csld3 double mutant, the csld2/csld5, csld3/csld5, and csld2/ csld3/csld5 mutants were dwarfed and showed severely reduced viability. This demonstrates that the cooperative activities of CSLD2, CSLD3, and CSLD5 are required for normal Arabidopsis development, and that they are involved in important processes besides the specialized role in tip growth. The mutant phenotypes indicate that CSLD2 and CSLD3 have overlapping functions with CSLD5 in early plant development, whereas the CSLD2 and CSLD3 proteins are non-redundant. To determine the biochemical function of CSLD proteins, we used transient expression in tobacco leaves. Microsomes containing heterologously expressed CSLD5 transferred mannose from GDP-mannose onto endogenous acceptors. The same activity was detected when CSLD2 and CSLD3 were co-expressed but not when they were expressed separately. With monosaccharides as exogenous acceptors, microsomal preparations from CSLD5-expressing plants mediated the transfer of mannose from GDP-mannose onto mannose. These results were supported by immunodetection studies that showed reduced levels of a mannan epitope in the cell walls of stem interfascicular fibers and xylem vessels of the csld2/csld3/csld5 mutant.
+
+CSLD2: !affects! stem development 
+CSLD3: !affects! stem development 
+CSLD5: !affects! stem development 
+CSLD2: !interacts with! CSLD3 
+CSLD2: !interacts with! CSLD5 
+CSLD3: !interacts with! CSLD5 
+CSLD2: !synthesizes! mannose 
+CSLD3: !synthesizes! mannose 
+CSLD5: !synthesizes! mannose

@@ -1,0 +1,7 @@
+The viral genome-linked protein, VPg, of potyviruses is involved in viral genome replication and translation. To determine host proteins that interact with Sugarcane mosaic virus (SCMV) VPg, a yeast two-hybrid screen was used and a maize (Zea mays) Elongin C (ZmElc) protein was identified. ZmELC transcript was observed in all maize organs, but most highly in leaves and pistil extracts, and ZmElc was present in the cytoplasm and nucleus of maize cells in the presence or absence of SCMV. ZmELC expression was increased in maize tissue at 4 and 6 d post SCMV inoculation. When ZmELC was transiently overexpressed in maize protoplasts the accumulation of SCMV RNA was approximately doubled compared with the amount of virus in control protoplasts. Silencing ZmELC expression using a Brome mosaic virus-based gene silencing vector (virus-induced gene silencing) did not influence maize plant growth and development, but did decrease RNA accumulation of two isolates of SCMV and host transcript encoding ZmeIF4E during SCMV infection. Interestingly, Maize chlorotic mottle virus, from outside the Potyviridae, was increased in accumulation after silencing ZmELC expression. Our results describe both the location of ZmElc expression in maize and a new activity associated with an Elc: support of potyvirus accumulation.
+
+VPg: !interacts with! ZmElc
+ZmElc: !localizes to! maize organs
+ZmElc: !enhances! SCMV RNA accumulation
+ZmElc: !represses! ZmeIF4E transcript
+ZmElc: !synthesizes! Maize chlorotic mottle virus

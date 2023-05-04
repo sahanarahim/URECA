@@ -1,0 +1,10 @@
+Our previous study identified approximately 6,000 abiotic stress-responsive noncoding transcripts existing on the antisense strand of protein-coding genes and implied that a type of antisense RNA was synthesized from a sense RNA template by <i>RNA-dependent RNA polymerase</i> (<i>RDR</i>). Expression analyses revealed that the expression of novel abiotic stress-induced antisense RNA on 1,136 gene loci was reduced in the <i>rdr1/2/6</i> mutants. RNase protection indicated that the <i>RD29A</i> antisense RNA and other RDR1/2/6-dependent antisense RNAs are involved in the formation of dsRNA. The accumulation of stress-inducible antisense RNA was decreased and increased in <i>dcp5</i> and <i>xrn4</i>, respectively, but not changed in <i>dcl2/3/4</i>, <i>nrpd1a</i> and <i>nrpd1b</i> RNA-seq analyses revealed that the majority of the RDR1/2/6-dependent antisense RNA loci did not overlap with RDR1/2/6-dependent 20-30 nt RNA loci. Additionally, <i>rdr1/2/6</i> mutants decreased the degradation rate of the sense RNA and exhibited arrested root growth during the recovery stage following a drought stress, whereas <i>dcl2/3/4</i> mutants did not. Collectively, these results indicate that RDRs have stress-inducible antisense RNA synthesis activity and a novel biological function that is different from the known endogenous small RNA pathways from protein-coding genes. These data reveal a novel mechanism of RNA regulation during abiotic stress response that involves complex RNA degradation pathways.
+
+RDR: !synthesizes! antisense RNA
+rdr1/2/6: !represses! expression of novel abiotic stress-induced antisense RNA
+dcp5: !decreases! accumulation of stress-inducible antisense RNA
+xrn4: !increases! accumulation of stress-inducible antisense RNA
+dcl2/3/4: !does not affect! accumulation of stress-inducible antisense RNA
+nrpd1a/b: !does not affect! accumulation of stress-inducible antisense RNA
+rdr1/2/6: !decreases! degradation rate of sense RNA
+dcl2/3/4: !does not affect! degradation rate of sense RNA

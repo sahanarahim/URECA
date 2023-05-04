@@ -1,0 +1,9 @@
+Cell expansion is a significant contributor to organ growth and is driven by the accumulation of osmolytes to increase cell turgor pressure. Metabolic modelling has the potential to provide insights into the processes that underpin osmolyte synthesis and transport, but the main computational approach for predicting metabolic network fluxes, flux balance analysis, often uses biomass composition as the main output constraint and ignores potential changes in cell volume. Here we present growth-by-osmotic-expansion flux balance analysis (GrOE-FBA), a framework that accounts for both the metabolic and ionic contributions to the osmotica that drive cell expansion, as well as the synthesis of protein, cell wall and cell membrane components required for cell enlargement. Using GrOE-FBA, the metabolic fluxes in dividing and expanding cells were analysed, and the energetic costs for metabolite biosynthesis and accumulation in the two scenarios were found to be surprisingly similar. The expansion phase of tomato fruit growth was also modelled using a multiphase single-optimization GrOE-FBA model and this approach gave accurate predictions of the major metabolite levels throughout fruit development, as well as revealing a role for transitory starch accumulation in ensuring optimal fruit development.
+
+Cell expansion: !driven by! Accumulation of osmolytes 
+Metabolic modelling: !potential to provide insights into! Processes underpinning osmolyte synthesis and transport 
+GrOE-FBA: !accounts for! Metabolic and ionic contributions to osmotica, as well as synthesis of protein, cell wall and cell membrane components 
+Metabolic fluxes: !analysed in! Dividing and expanding cells 
+Energetic costs: !found to be similar in! Biosynthesis and accumulation scenarios 
+Multiphase single-optimization GrOE-FBA model: !used to predict! Major metabolite levels throughout fruit development 
+Transitory starch accumulation: !revealed to ensure! Optimal fruit development

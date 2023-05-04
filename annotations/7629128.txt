@@ -1,0 +1,8 @@
+['7629128', 'The higher plant chloroplast chaperonins (ch-cpn60 and ch-cpn10) have been  purified and their structural/functional properties examined. In all plants  surveyed, both proteins were constitutively expressed, and only modest increases  in their levels were detected upon heat shock. Like GroEL and GroES of  Escherichia coli, the chloroplast chaperonins can physically interact with each  other. The asymmetric complexes that form in the presence of ADP are  "bullet-shaped" particles that likely consist of 1 mol each of ch-cpn60 and  ch-cpn10. The purified ch-cpn60 is a functional molecular chaperone. Under  "nonpermissive" conditions, where spontaneous folding was not observed, it was  able to assist in the refolding of two different target proteins. In both cases,  successful partitioning to the native state also required ATP hydrolysis and  chaperonin 10. Surprisingly, however, the "double-domain" ch-cpn10, comprised of  unique 21-kDa subunits, was not an obligatory co-chaperonin. Both GroES and a  mammalian mitochondrial homolog were equally compatible with the ch-cpn60.  Finally, the assisted-folding reaction mediated by the chloroplast chaperonins  does not require K+ ions. Thus, the K(+)-dependent ATPase activity that is  observed with other known groEL homologs is not a universal property of all  chaperonin 60s.', '1995 Jul 28', 'J Biol Chem', '10.1074/jbc.270.30.18158', 'Soll']
+
+ch-cpn60: !interacts with! ch-cpn10 
+ch-cpn60: !refolds! target proteins 
+ch-cpn60: !requires! ATP hydrolysis 
+ch-cpn60: !compatible with! GroES 
+ch-cpn60: !compatible with! mammalian mitochondrial homolog 
+ch-cpn60: !does not require! K+ ions

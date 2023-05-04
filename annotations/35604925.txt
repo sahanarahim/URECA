@@ -1,0 +1,7 @@
+The NAC family of transcription factors is involved in plant development and various biotic and abiotic stresses. The Arabidopsis thaliana ANAC genes ANAC060, ANAC040, and ANAC089 are highly homologous based on protein and nucleotide sequence similarity. These three genes are predicted to be membrane bound transcription factors (MTFs) containing a conserved NAC domain, but divergent C-terminal regions. The anac060 mutant shows increased dormancy when compared with the wild type. Mutations in ANAC040 lead to higher seed germination under salt stress, and a premature stop codon in ANAC089 Cvi allele results in seeds exhibiting insensitivity to high concentrations of fructose. Thus, these three homologous MTFs confer distinct functions, although all related to germination. To investigate whether the differences in function are caused by a differential spatial or temporal regulation, or by differences in the coding sequence (CDS), we performed swapping experiments in which the promoter and CDS of the three MTFs were exchanged. Seed dormancy and salt and fructose sensitivity analyses of transgenic swapping lines in mutant backgrounds showed that there is functional redundancy between ANAC060 and ANAC040, but not between ANAC060 and ANAC089.
+
+ANAC060: !affects! Dormancy
+ANAC040: !affects! Salt Stress Germination
+ANAC089: !affects! Fructose Sensitivity
+ANAC060: !redundant with! ANAC040
+ANAC060: !not redundant with! ANAC089

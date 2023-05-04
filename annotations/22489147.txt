@@ -1,0 +1,8 @@
+Ethanolamine is important for synthesis of choline, phosphatidylethanolamine (PE) and phosphatidylcholine (PC) in plants. The latter two phospholipids are the major phospholipids in eukaryotic membranes. In plants, ethanolamine is mainly synthesized directly from serine by serine decarboxylase. Serine decarboxylase is unique to plants and was previously shown to have highly specific activity to l-serine. While serine decarboxylase was biochemically characterized, its functions and importance in plants were not biologically elucidated due to the lack of serine decarboxylase mutants. Here we characterized an Arabidopsis mutant defective in serine decarboxylase, named atsdc-1 (Arabidopsis thaliana serine decarboxylase-1). The atsdc-1 mutants showed necrotic lesions in leaves, multiple inflorescences, sterility in flower, and early flowering in short day conditions. These defects were rescued by ethanolamine application to atsdc-1, suggesting the roles of ethanolamine as well as serine decarboxylase in plant development. In addition, molecular analysis of serine decarboxylase suggests that Arabidopsis serine decarboxylase is cytosol-localized and expressed in all tissue.
+
+serine: !synthesizes! ethanolamine 
+serine decarboxylase: !synthesizes! ethanolamine 
+ethanolamine: !affects! plant development 
+serine decarboxylase: !localizes to! cytosol 
+serine decarboxylase: !expressed in! all tissue 
+atsdc-1 mutant: !defective in! serine decarboxylase

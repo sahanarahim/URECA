@@ -1,0 +1,8 @@
+Symbiotic root nodules are root lateral organs of plants in which nitrogen-fixing bacteria (rhizobia) convert atmospheric nitrogen to ammonia. The formation and number of nodules in legumes are precisely controlled by a rhizobia-induced signal cascade and host-controlled autoregulation of nodulation (AON). However, how these pathways are integrated and their underlying mechanisms are unclear. Here, we report that microRNA172c (miR172c) activates soybean (Glycine max) Rhizobia-Induced CLE1 (GmRIC1) and GmRIC2 by removing the transcriptional repression of these genes by Nodule Number Control 1 (NNC1), leading to the activation of the AON pathway. NNC1 interacts with GmNINa, the soybean ortholog of Lotus NODULE INCEPTION (NIN), and hampers its transcriptional activation of GmRIC1 and GmRIC2. Importantly, GmNINa acts as a transcriptional activator of miR172c. Intriguingly, NNC1 can transcriptionally repress miR172c expression, adding a negative feedback loop into the NNC1 regulatory network. Moreover, GmNINa interacts with NNC1 and can relieve the NNC1-mediated repression of miR172c transcription. Thus, the GmNINa-miR172c-NNC1 network is a master switch that coordinately regulates and optimizes NF and AON signaling, supporting the balance between nodulation and AON in soybean.
+
+miR172c: !activates! GmRIC1 & GmRIC2
+NNC1: !interacts with! GmNINa
+GmNINa: !transcriptionally activates! miR172c
+NNC1: !transcriptionally represses! miR172c
+GmNINa: !interacts with! NNC1
+NNC1: !represses! miR172c

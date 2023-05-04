@@ -1,0 +1,11 @@
+Plant microRNAs (miRNAs) are processed by the RNase III-like enzyme DICER-LIKE1 acting in concert with the double-stranded RNA-binding protein HYPONASTIC LEAVES1 and the zinc finger protein SERRATE. Together, they excise a miRNA/miRNA( *) duplex with a 2 nucleotide 3' overhang from the primary miRNA (pri-miRNA) transcript. pri-miRNAs include a partially self-complementary foldback or stem loop, which gives rise to the mature miRNA. In animals, pri-miRNAs are very similar, with a stereotypic position of the miRNA within the foldback. Accordingly, rules for miRNA excision from the precursor are quite simple in animals. In contrast, how miRNA sequences are recognized in the structurally much more diverse foldbacks of plants is unknown. We have performed an extensive in vivo structure-function analysis of Arabidopsis thaliana pri-miRNA 172a (pri-miR172a). A junction of single-stranded and double-stranded RNA 15 nucleotides proximal from the miRNA/miRNA(*) duplex appears to be essential for accurate miR172a processing. This attribute is found in several other but not all plant miRNA foldbacks. In addition, we have identified features of the distal foldback structure important for miR172a processing. Our ability to engineer de novo a functional minimal miRNA precursor highlights that we have discovered several elements both necessary and sufficient for accurate miRNA processing.
+
+DICER-LIKE1: !processes! Plant microRNAs 
+HYPONASTIC LEAVES1: !interacts with! DICER-LIKE1 
+SERRATE: !interacts with! DICER-LIKE1 
+pri-miRNA: !gives rise to! mature miRNA 
+pri-miRNA: !includes! partially self-complementary foldback 
+miRNA/miRNA(*): !excised from! pri-miRNA 
+single-stranded and double-stranded RNA: !essential for! accurate miR172a processing 
+distal foldback structure: !important for! miR172a processing 
+de novo minimal miRNA precursor: !engineered! functional

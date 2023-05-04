@@ -1,0 +1,8 @@
+Plants such as Arabidopsis thaliana respond to foliar shade and neighbors who may become competitors for light resources by elongation growth to secure access to unfiltered sunlight. Challenges faced during this shade avoidance response (SAR) are different under a light-absorbing canopy and during neighbor detection where light remains abundant. In both situations, elongation growth depends on auxin and transcription factors of the phytochrome interacting factor (PIF) class. Using a computational modeling approach to study the SAR regulatory network, we identify and experimentally validate a previously unidentified role for long hypocotyl in far red 1, a negative regulator of the PIFs. Moreover, we find that during neighbor detection, growth is promoted primarily by the production of auxin. In contrast, in true shade, the system operates with less auxin but with an increased sensitivity to the hormonal signal. Our data suggest that this latter signal is less robust, which may reflect a cost-to-robustness tradeoff, a system trait long recognized by engineers and forming the basis of information theory.
+
+Plants: !respond to! Foliar shade
+Plants: !respond to! Neighbors
+Auxin: !promotes! Elongation growth
+PIFs: !regulated by! Long hypocotyl in far red 1
+Auxin: !produces! Growth
+Auxin: !less robust! True shade

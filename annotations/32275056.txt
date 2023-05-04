@@ -1,0 +1,8 @@
+Previously, linalool was found to be the most abundant component among the cocktail of volatiles released from flowers of Freesia hybrida. Linalool formation is catalysed by monoterpene synthase TPS1. However, the regulatory network developmentally modulating the expression of the TPS1 gene in Freesia hybrida remains unexplored. In this study, three regulatory genes, FhMYB21L1, FhMYB21L2, and FhMYC2, were screened from 52 candidates. Two MYB transcription factor genes were synchronously expressed with FhTPS1 and could activate its expression significantly when overexpressed, and the binding of FhMYB21L2 to the MYBCORE sites in the FhTPS1 promoter was further confirmed, indicating a direct role in activation. FhMYC2 showed an inverse expression pattern compared with FhTPS1; its expression led to a decreased binding of FhMYB21 to the FhTPS1 promoter to reduce its activation capacity when co-expressed, suggesting a role for an MYB-bHLH complex in the regulation of the FhTPS1 gene. In Arabidopsis, both MYB21 and MYC2 regulators were shown to activate the expression of sesquiterpene synthase genes, and the regulatory roles of AtMYB21 and AtMYC2 in the expression of the linalool synthase gene were also confirmed, implying conserved functions of the MYB-bHLH complex in these two evolutionarily divergent plants. Moreover, the expression ratio between MYB21 and MYC2 orthologues might be a determinant factor in floral linalool emission.
+
+FhMYB21L1: !activates! FhTPS1
+FhMYB21L2: !binds to! MYBCORE sites in FhTPS1 promoter
+FhMYC2: !inversely affects! FhMYB21 binding to FhTPS1 promoter
+AtMYB21: !activates! sesquiterpene synthase genes
+AtMYC2: !activates! linalool synthase gene
+MYB21/MYC2 ratio: !determines! floral linalool emission

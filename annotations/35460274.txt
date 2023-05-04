@@ -1,0 +1,7 @@
+With advanced sequencing technology, dozens of complex polyploid plant genomes have been characterized. However, for many polyploid species, their diploid ancestors are unknown or extinct, making it impossible to unravel the subgenomes and genome evolution directly. We developed a novel subgenome-phasing algorithm, SubPhaser, specifically designed for a neoallopolyploid or a homoploid hybrid. SubPhaser first searches for the subgenome-specific sequence (k-mer), then assigns homoeologous chromosomes into subgenomes, and further provides tools to annotate and investigate specific sequences. SubPhaser works well on neoallopolyploids and homoploid hybrids containing subgenome-specific sequences like wheat, but fails on autopolyploids lacking subgenome-specific sequences like alfalfa, indicating that SubPhaser can phase neoallopolyploid/homoploid hybrids with high accuracy, sensitivity and performance. This highly accurate, highly sensitive, ancestral data free chromosome phasing algorithm, SubPhaser, offers significant application value for subgenome phasing in neoallopolyploids and homoploid hybrids, and for the subsequent exploration of genome evolution and related genetic/epigenetic mechanisms.
+
+SubPhaser: !phases! neoallopolyploid/homoploid hybrids
+SubPhaser: !annotates and investigates! specific sequences
+SubPhaser: !works well on! wheat
+SubPhaser: !fails on! alfalfa
+SubPhaser: !offers significant application value for! subgenome phasing

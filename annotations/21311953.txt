@@ -1,0 +1,8 @@
+RELATED TO UBIQUITIN (RUB) modification of CULLIN (CUL) subunits of the CUL-RING ubiquitin E3 ligase (CRL) superfamily regulates CRL ubiquitylation activity. RUB modification requires E1 and E2 enzymes that are analogous to, but distinct from, those activities required for UBIQUITIN (UBQ) attachment. Gene duplications are widespread in angiosperms, and in line with this observation, components of the RUB conjugation pathway are found in multiples in Arabidopsis. To further examine the extent of redundancy within the RUB pathway, we undertook biochemical and genetic characterizations of one such duplication event- the duplication of the genes encoding a subunit of the RUB E1 into AUXIN RESISTANT1 (AXR1) and AXR1-LIKE1 (AXL1). In vitro, the two proteins have similar abilities to function with E1 C-TERMINAL-RELATED1 (ECR1) in catalyzing RUB1 activation and RUB1-ECR1 thioester formation. Using mass spectrometry, endogenous AXR1 and AXL1 proteins were found in complex with 3HA-RUB1, suggesting that AXR1 and AXL1 exist in parallel RUB E1 complexes in Arabidopsis. In contrast, AXR1 and AXL1 differ in ability to correct phenotypic defects in axr1-30, a severe loss-of-function AXR1 mutant, when the respective coding sequences are expressed from the same promoter, suggesting differential in vivo functions. These results suggest that while both proteins function in the RUB pathway and are biochemically similar in RUB-ECR1 thioester formation, they are not functionally equivalent.
+
+RUB: !modifies! CUL 
+E1: !activates! RUB 
+E2: !catalyzes! RUB conjugation 
+AXR1/AXL1: !duplicated in! Arabidopsis 
+AXR1/AXL1: !similar in! RUB-ECR1 thioester formation 
+AXR1/AXL1: !differ in! correcting axr1-30 mutant phenotype

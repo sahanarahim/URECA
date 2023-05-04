@@ -1,0 +1,8 @@
+Determining the genetic control of root system architecture (RSA) in plants via large-scale genome-wide association study (GWAS) requires high-throughput pipelines for root phenotyping. We developed Core Root Excavation using Compressed-air (CREAMD), a high-throughput pipeline for the cleaning of field-grown roots, and Core Root Feature Extraction (COFE), a semiautomated pipeline for the extraction of RSA traits from images. CREAMD-COFE was applied to diversity panels of maize (<i>Zea mays</i>) and sorghum (<i>Sorghum bicolor</i>), which consisted of 369 and 294 genotypes, respectively. Six RSA-traits were extracted from images collected from >3,300 maize roots and >1,470 sorghum roots. Single nucleotide polymorphism (SNP)-based GWAS identified 87 TAS (trait-associated SNPs) in maize, representing 77 genes and 115 TAS in sorghum. An additional 62 RSA-associated maize genes were identified via expression read depth GWAS. Among the 139 maize RSA-associated genes (or their homologs), 22 (16%) are known to affect RSA in maize or other species. In addition, 26 RSA-associated genes are coregulated with genes previously shown to affect RSA and 51 (37% of RSA-associated genes) are themselves transe-quantitative trait locus for another RSA-associated gene. Finally, the finding that RSA-associated genes from maize and sorghum included seven pairs of syntenic genes demonstrates the conservation of regulation of morphology across taxa.
+
+Gene: !affects! RSA
+Gene: !localizes to! TAS
+Gene: !interacts with! SNP
+Gene: !enhances! GWAS
+Gene: !represses! CREAMD-COFE
+Gene: !synthesizes! Expression Read Depth GWAS

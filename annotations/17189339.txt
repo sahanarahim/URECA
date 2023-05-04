@@ -1,0 +1,13 @@
+We have analyzed proteome dynamics during light-induced development of rice (Oryza sativa) chloroplasts from etioplasts using quantitative two-dimensional gel electrophoresis and tandem mass spectrometry protein identification. In the dark, the etioplast allocates the main proportion of total protein mass to carbohydrate and amino acid metabolism and a surprisingly high number of proteins to the regulation and expression of plastid genes. Chaperones, proteins for photosynthetic energy metabolism, and enzymes of the tetrapyrrole pathway were identified among the most abundant etioplast proteins. The detection of 13 N-terminal acetylated peptides allowed us to map the exact localization of the transit peptide cleavage site, demonstrating good agreement with the prediction for most proteins. Based on the quantitative etioplast proteome map, we examined early light-induced changes during chloroplast development. The transition from heterotrophic metabolism to photosynthesis-supported autotrophic metabolism was already detectable 2 h after illumination and affected most essential metabolic modules. Enzymes in carbohydrate metabolism, photosynthesis, and gene expression were up-regulated, whereas enzymes in amino acid and fatty acid metabolism were significantly decreased in relative abundance. Enzymes involved in nucleotide metabolism, tetrapyrrole biosynthesis, and redox regulation remained unchanged. Phosphoprotein-specific staining at different time points during chloroplast development revealed light-induced phosphorylation of a nuclear-encoded plastid RNA-binding protein, consistent with changes in plastid RNA metabolism. Quantitative information about all identified proteins and their regulation by light is available in plprot, the plastid proteome database (http://www.plprot.ethz.ch).
+
+Chaperones: !localize to! etioplasts 
+Transit peptide: !cleaves at! localization site 
+Carbohydrate metabolism: !up-regulated by! light 
+Photosynthesis: !up-regulated by! light 
+Gene expression: !up-regulated by! light 
+Amino acid metabolism: !down-regulated by! light 
+Fatty acid metabolism: !down-regulated by! light 
+Nucleotide metabolism: !unchanged by! light 
+Tetrapyrrole biosynthesis: !unchanged by! light 
+Redox regulation: !unchanged by! light 
+RNA-binding protein: !phosphorylated by! light

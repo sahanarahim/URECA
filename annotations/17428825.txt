@@ -1,0 +1,8 @@
+['17428825', 'Flowering plants produce floral meristems in response to intrinsic and extrinsic  flowering inductive signals. In Arabidopsis, the floral meristem identity genes  LEAFY (LFY) and APETALA1 (AP1) are activated to play a pivotal role in specifying  floral meristems during floral transition. We show here that the emerging floral  meristems require AP1 to partly specify their floral identities by directly  repressing a group of flowering time genes, including SHORT VEGETATIVE PHASE  (SVP), AGAMOUS-LIKE 24 (AGL24) and SUPPRESSOR OF OVEREXPRESSION OF CO1 (SOC1). In  wild-type plants, these flowering time genes are normally downregulated in  emerging floral meristems. In the absence of AP1, these genes are ectopically  expressed, transforming floral meristems into shoot meristems. By  post-translational activation of an AP1-GR fusion protein and chromatin  immunoprecipitation assays, we further demonstrate the repression of these  flowering time genes by induced AP1 activity and in vivo AP1 binding to the  cis-regulatory regions of these genes. These findings indicate that once AP1 is  activated during the floral transition, it acts partly as a master repressor in  floral meristems by directly suppressing the expression of flowering time genes,  thus preventing the continuation of the shoot developmental program.', '2007 May', 'Development', '10.1242/dev.003103', 'Yu']
+
+LFY: !activates! AP1 
+AP1: !represses! SVP 
+AP1: !represses! AGL24 
+AP1: !represses! SOC1 
+AP1-GR: !activates! AP1 
+AP1: !binds to! cis-regulatory regions

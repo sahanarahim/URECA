@@ -1,0 +1,12 @@
+['15960617', 'The development of the flat morphology of leaf blades is dependent on the control  of cell proliferation as well as cell expansion. Each process has a polarity with  respect to the longitudinal and transverse axes of the leaf blade. However, only  a few regulatory components of these processes have been identified to date. We  have characterized two genes from Arabidopsis thaliana: ANGUSTIFOLIA3 (AN3),  which encodes a homolog of the human transcription coactivator SYT, and  GROWTH-REGULATING FACTOR5 (AtGRF5), which encodes a putative transcription  factor. AN3 is identical to GRF-INTERACTING FACTOR1 (AtGIF1). The an3 and atgrf5  mutants exhibit narrow-leaf phenotypes due to decreases in cell number.  Conversely, cell proliferation in leaf primordia is enhanced and leaves grow  larger than normal when AN3 or AtGRF5 is overexpressed. Both genes are expressed  in leaf primordia, and in the yeast two-hybrid assay, the gene products were  found to interact with each other through their N-terminal domains. These results  suggest that AN3 and AtGRF5 act together and are required for the development of  appropriate leaf size and shape through the promotion and/or maintenance of cell  proliferation activity in leaf primordia.', '2005 Jul', 'Plant J', '10.1111/j.1365-313X.2005.02429.x', 'Tsukaya']
+
+AN3: !encodes! SYT 
+AtGRF5: !encodes! transcription factor 
+an3: !causes! narrow-leaf phenotype 
+AtGRF5: !causes! narrow-leaf phenotype 
+AN3: !overexpressed! increases cell proliferation 
+AtGRF5: !overexpressed! increases cell proliferation 
+AN3: !expressed in! leaf primordia 
+AtGRF5: !expressed in! leaf primordia 
+AN3: !interacts with! AtGRF5 
+AtGRF5: !interacts with! AN3

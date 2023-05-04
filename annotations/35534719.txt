@@ -1,0 +1,8 @@
+Agrobacterium tumefaciens, a pathogenic bacterium capable of transforming plants through horizontal gene transfer, is nowadays the preferred vector for plant genetic engineering. The vehicle for transfer is the T-strand, a single-stranded DNA molecule bound by the bacterial protein VirD2, which guides the T-DNA into the plant's nucleus where it integrates. How VirD2 is removed from T-DNA, and which mechanism acts to attach the liberated end to the plant genome is currently unknown. Here, using newly developed technology that yields hundreds of T-DNA integrations in somatic tissue of Arabidopsis thaliana, we uncover two redundant mechanisms for the genomic capture of the T-DNA 5' end. Different from capture of the 3' end of the T-DNA, which is the exclusive action of polymerase theta-mediated end joining (TMEJ), 5' attachment is accomplished either by TMEJ or by canonical non-homologous end joining (cNHEJ). We further find that TMEJ needs MRE11, whereas cNHEJ requires TDP2 to remove the 5' end-blocking protein VirD2. As a consequence, T-DNA integration is severely impaired in plants deficient for both MRE11 and TDP2 (or other cNHEJ factors). In support of MRE11 and cNHEJ specifically acting on the 5' end, we demonstrate rescue of the integration defect of double-deficient plants by using T-DNAs that are capable of forming telomeres upon 3' capture. Our study provides a mechanistic model for how Agrobacterium exploits the plant's own DNA repair machineries to transform it.
+
+VirD2: !guides! T-DNA 
+TMEJ: !captures! 3' end 
+cNHEJ: !captures! 5' end 
+MRE11: !requires for! TMEJ 
+TDP2: !requires for! cNHEJ 
+MRE11/TDP2: !impairs! T-DNA integration

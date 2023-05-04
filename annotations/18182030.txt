@@ -1,0 +1,9 @@
+We surveyed differential gene expression patterns during early photomorphogenesis in both wild-type and mutant Arabidopsis defective in HY5, an influential positive regulator of the responses of gene expression to a light stimulus, to identify light-responsive genes whose expression was HY5 dependent. These gene-expression data identified light-regulated zinc finger protein 1 (LZF1), a gene encoding a previously uncharacterized C2C2-CO B-box transcriptional regulator. HY5 has positive trans-activating activity toward LZF1 and binding affinity to LZF1 promoter in vivo. HY5 is needed but not sufficient for the induction of LZF1 expression. Anthocyanin content is significantly diminished in lzf1 under far red, which is the most efficient light for the induction of LZF1. The expression of PAP1/MYB75 is elevated in plants overexpressing LZF1, which leads to the hyperaccumulation of anthocyanin in transgenic Arabidopsis. The transition from etioplast to chloroplast and the accumulation of chlorophyll were notably compromised in the lzf1 mutant. We provide molecular evidence that LZF1 influences chloroplast biogenesis and function via regulating genes encoding chloroplast proteins. In the absence of HY5, mutation of LZF1 leads to further reduced light sensitivity for light-regulated inhibition of hypocotyl elongation and anthocyanin and chlorophyll accumulation. Our data indicate that LZF1 is a positive regulator functioning in Arabidopsis de-etiolation.
+
+HY5: !positively regulates! LZF1
+LZF1: !regulates! chloroplast biogenesis and function
+HY5: !induces! LZF1 expression
+LZF1: !enhances! PAP1/MYB75 expression
+LZF1: !promotes! anthocyanin accumulation
+LZF1: !influences! chlorophyll accumulation
+HY5: !needed for! LZF1 induction

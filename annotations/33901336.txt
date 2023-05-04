@@ -1,0 +1,13 @@
+Leaves comprise multiple cell types but our knowledge of the patterns of gene expression that underpin their functional specialization is fragmentary. Our understanding and ability to undertake the rational redesign of these cells is therefore limited. We aimed to identify genes associated with the incompletely understood bundle sheath of C<sub>3</sub> plants, which represents a key target associated with engineering traits such as C<sub>4</sub> photosynthesis into Oryza sativa (rice). To better understand the veins, bundle sheath and mesophyll cells of rice, we used laser capture microdissection followed by deep sequencing. Gene expression of the mesophyll is conditioned to allow coenzyme metabolism and redox homeostasis, as well as photosynthesis. In contrast, the bundle sheath is specialized in water transport, sulphur assimilation and jasmonic acid biosynthesis. Despite the small chloroplast compartment of bundle sheath cells, substantial photosynthesis gene expression was detected. These patterns of gene expression were not associated with the presence or absence of specific transcription factors in each cell type, but were instead associated with gradients in expression across the leaf. Comparative analysis with C<sub>3</sub> Arabidopsis identified a small gene set preferentially expressed in the bundle sheath cells of both species. This gene set included genes encoding transcription factors from 14 orthogroups and proteins allowing water transport, sulphate assimilation and jasmonic acid synthesis. The most parsimonious explanation for our findings is that bundle sheath cells from the last common ancestor of rice and Arabidopsis were specialized in this manner, and as the species diverged these patterns of gene expression have been maintained.
+
+Gene: !affects! Process
+Gene: !synthesizes! Coenzyme metabolism
+Gene: !synthesizes! Redox homeostasis
+Gene: !synthesizes! Photosynthesis
+Gene: !synthesizes! Water transport
+Gene: !synthesizes! Sulphur assimilation
+Gene: !synthesizes! Jasmonic acid biosynthesis
+Gene: !encodes! Transcription factors
+Gene: !allows! Water transport
+Gene: !allows! Sulphate assimilation
+Gene: !allows! Jasmonic acid synthesis

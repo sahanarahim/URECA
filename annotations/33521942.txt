@@ -1,0 +1,11 @@
+Trees partition biomass in response to resource limitation and physiological activity. It is presumed that these strategies evolved to optimize some measure of fitness. If the optimization criterion can be specified, then allometry can be modeled from first principles without prescribed parameterization. We present the Tree Hydraulics and Optimal Resource Partitioning (THORP) model, which optimizes allometry by estimating allocation fractions to organs as proportional to their ratio of marginal gain to marginal cost, where gain is net canopy photosynthesis rate, and costs are senescence rates. Root total biomass and profile shape are predicted simultaneously by a unified optimization. Optimal partitioning is solved by a numerically efficient analytical solution. THORP's predictions agree with reported tree biomass partitioning in response to size, water limitations, elevated CO<sub>2</sub> and pruning. Roots were sensitive to soil moisture profiles and grew down to the groundwater table when present. Groundwater buffered against water stress regardless of meteorology, stabilizing allometry and root profiles as deep as c. 30 m. Much of plant allometry can be explained by hydraulic considerations. However, nutrient limitations cannot be fully ignored. Rooting mass and profiles were synchronized with hydrological conditions and groundwater even at considerable depths, illustrating that the below ground shapes whole-tree allometry.
+
+Trees: !partition! biomass 
+biomass: !optimizes! fitness 
+THORP model: !estimates! allocation fractions 
+gain: !proportional to! marginal gain/cost 
+CO<sub>2</sub>: !influences! allometry 
+water stress: !buffered by! groundwater 
+allometry: !explained by! hydraulic considerations 
+nutrient limitations: !cannot be ignored! 
+groundwater: !synchronizes! rooting mass/profiles

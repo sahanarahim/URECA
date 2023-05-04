@@ -1,0 +1,7 @@
+Eukaryotic genomes are transcribed by at least three RNA polymerases, RNAPI, II, and III. Co-transcriptional R-loops play diverse roles in genome regulation and maintenance. However, little is known about how R-loops regulate transcription interference, the transcriptional event that is caused by different RNA polymerases transcribing the same genomic templates. Here, we established that the intragenic transfer RNA (tRNA) genes can promote sense R-loop enrichment (named intra-tR-loops) in Arabidopsis thaliana, and found that intra-tR-loops are decreased in an RNAPIII mutant, NUCLEAR RNA POLYMERASE C, SUBUNIT 7(nrpc7-1). NRPC7 is co-localized with RNAPIIS2P at intragenic tRNA genes and interferes with RNAPIIS2P elongation. Conversely, the binding of NRPC7 at intragenic tRNA genes is increased following inhibition of RNAPII elongation. The transcription of specific tRNA host genes is inhibited by RNAPIII, and the inhibition of tRNA host genes is intra-tR-loop dependent. Moreover, alleviating the inhibition of tRNAPro-induced intra-tR-loops on its host gene AtNUDX1 promotes oxidative stress tolerance in A. thaliana. Our work suggests intra-tR-loops regulate host gene expression by modulating RNA polymerases interference.
+
+RNAPI: !co-localizes with! NRPC7
+NRPC7: !interferes with! RNAPIIS2P
+RNAPIII: !inhibits! tRNA host genes
+intra-tR-loops: !regulate! host gene expression
+AtNUDX1: !promotes! oxidative stress tolerance

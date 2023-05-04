@@ -1,0 +1,10 @@
+Determining the drivers of gene expression patterns is more straightforward in laboratory conditions than in the complex fluctuating environments where organisms typically live. We gathered transcriptome data from the leaves of rice plants in a paddy field along with the corresponding meteorological data and used them to develop statistical models for the endogenous and external influences on gene expression. Our results indicate that the transcriptome dynamics are predominantly governed by endogenous diurnal rhythms, ambient temperature, plant age, and solar radiation. The data revealed diurnal gates for environmental stimuli to influence transcription and pointed to relative influences exerted by circadian and environmental factors on different metabolic genes. The model also generated predictions for the influence of changing temperatures on transcriptome dynamics. We anticipate that our models will help translate the knowledge amassed in laboratories to problems in agriculture and that our approach to deciphering the transcriptome fluctuations in complex environments will be applicable to other organisms.
+
+diurnal rhythms: !govern! transcriptome dynamics
+temperature: !influences! transcription
+plant age: !influences! transcription
+solar radiation: !influences! transcription
+diurnal gates: !allow! environmental stimuli to influence transcription
+circadian factors: !influence! metabolic genes
+environmental factors: !influence! metabolic genes
+changing temperatures: !influence! transcriptome dynamics

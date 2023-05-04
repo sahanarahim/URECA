@@ -1,0 +1,9 @@
+Hormones play a central role in the coordination of internal developmental processes with environmental signals. Herein, a combination of physiological, genetic, cellular, and whole-genome expression profiling approaches has been employed to investigate the mechanisms of interaction between two key plant hormones: ethylene and auxin. Quantification of the morphological effects of ethylene and auxin in a variety of mutant backgrounds indicates that auxin biosynthesis, transport, signaling, and response are required for the ethylene-induced growth inhibition in roots but not in hypocotyls of dark-grown seedlings. Analysis of the activation of early auxin and ethylene responses at the cellular level, as well as of global changes in gene expression in the wild type versus auxin and ethylene mutants, suggests a simple mechanistic model for the interaction between these two hormones in roots, according to which ethylene and auxin can reciprocally regulate each other's biosyntheses, influence each other's response pathways, and/or act independently on the same target genes. This model not only implies existence of several levels of interaction but also provides a likely explanation for the strong ethylene response defects observed in auxin mutants.
+
+ethylene: !influences! auxin biosynthesis
+ethylene: !influences! auxin transport
+ethylene: !influences! auxin signaling
+ethylene: !influences! auxin response
+auxin: !influences! ethylene biosynthesis
+auxin: !influences! ethylene response pathways
+auxin: !influences! same target genes as ethylene

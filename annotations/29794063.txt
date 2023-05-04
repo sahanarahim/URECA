@@ -1,0 +1,10 @@
+The phytohormone network consisting of jasmonate, ethylene, PHYTOALEXIN-DEFICIENT4, and salicylic acid signaling is required for the two modes of plant immunity, pattern-triggered immunity (PTI), and effector-triggered immunity (ETI). A previous study showed that during PTI, the transcriptional responses of over 5000 genes qualitatively depend on complex interactions between the network components. However, the role of the network in transcriptional reprogramming during ETI and whether it differs between PTI and ETI remain elusive. Here, we generated time-series RNA-sequencing data of <i>Arabidopsis thaliana</i> wild-type and combinatorial mutant plants deficient in components of the network upon challenge with virulent or ETI-triggering avirulent strains of the foliar bacterial pathogen <i>Pseudomonas syringae</i> Resistant plants such as the wild type achieved high-amplitude transcriptional reprogramming 4 h after challenge with avirulent strains and sustained this transcriptome response. Strikingly, susceptible plants including the quadruple network mutant showed almost identical transcriptome responses to resistant plants but with several hours delay. Furthermore, gene coexpression network structure was highly conserved between the wild type and quadruple mutant. Thus, in contrast to PTI, the phytohormone network is required only for achieving high-amplitude transcriptional reprogramming within the early time window of ETI against this bacterial pathogen.
+
+jasmonate: !affects! ethylene
+ethylene: !affects! PHYTOALEXIN-DEFICIENT4
+PHYTOALEXIN-DEFICIENT4: !affects! salicylic acid
+salicylic acid: !affects! PTI/ETI
+PTI/ETI: !requires! phytohormone network
+wild type: !achieves! high-amplitude transcriptional reprogramming
+quadruple mutant: !shows! identical transcriptome responses
+wild type: !conserves! gene coexpression network structure

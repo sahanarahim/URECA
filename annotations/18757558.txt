@@ -1,0 +1,9 @@
+['18757558', 'Plant cells have specific microtubule structures involved in cell division and  elongation. The tonneau1 (ton1) mutant of Arabidopsis thaliana displays drastic  defects in morphogenesis, positioning of division planes, and cellular  organization. These are primarily caused by dysfunction of the cortical  cytoskeleton and absence of the preprophase band of microtubules.  Characterization of the ton1 insertional mutant reveals complex chromosomal  rearrangements leading to simultaneous disruption of two highly similar genes in  tandem, TON1a and TON1b. TON1 proteins are conserved in land plants and share  sequence motifs with human centrosomal proteins. The TON1 protein associates with  soluble and microsomal fractions of Arabidopsis cells, and a green fluorescent  protein-TON1 fusion labels cortical cytoskeletal structures, including the  preprophase band and the interphase cortical array. A yeast two-hybrid screen  identified Arabidopsis centrin as a potential TON1 partner. This interaction was  confirmed both in vitro and in plant cells. The similarity of TON1 with  centrosomal proteins and its interaction with centrin, another key component of  microtubule organizing centers, suggests that functions involved in the  organization of microtubule arrays by the centrosome were conserved across the  evolutionary divergence between plants and animals.', '2008 Aug', 'Plant Cell', '10.1105/tpc.107.056812', 'Bouchez']
+
+TON1: !disrupts! morphogenesis
+TON1: !disrupts! positioning of division planes
+TON1: !disrupts! cellular organization
+TON1: !associates with! soluble and microsomal fractions
+TON1: !labels! cortical cytoskeletal structures
+TON1: !interacts with! centrin
+centrin: !interacts with! TON1

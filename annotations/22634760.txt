@@ -1,0 +1,12 @@
+We used RNA sequencing to query the Chlamydomonas reinhardtii transcriptome for regulation by CO(2) and by the transcription regulator CIA5 (CCM1). Both CO(2) and CIA5 are known to play roles in acclimation to low CO(2) and in induction of an essential CO(2)-concentrating mechanism (CCM), but less is known about their interaction and impact on the whole transcriptome. Our comparison of the transcriptome of a wild type versus a cia5 mutant strain under three different CO(2) conditions, high CO(2) (5%), low CO(2) (0.03 to 0.05%), and very low CO(2) (<0.02%), provided an entry into global changes in the gene expression patterns occurring in response to the interaction between CO(2) and CIA5. We observed a massive impact of CIA5 and CO(2) on the transcriptome, affecting almost 25% of all Chlamydomonas genes, and we discovered an array of gene clusters with distinctive expression patterns that provide insight into the regulatory interaction between CIA5 and CO(2). Several individual clusters respond primarily to either CIA5 or CO(2), providing access to genes regulated by one factor but decoupled from the other. Three distinct clusters clearly associated with CCM-related genes may represent a rich source of candidates for new CCM components, including a small cluster of genes encoding putative inorganic carbon transporters.
+
+CO2: !affects! CIA5 
+CIA5: !affects! CO2 
+CO2: !induces! CCM 
+CIA5: !induces! CCM 
+CO2: !regulates! transcriptome 
+CIA5: !regulates! transcriptome 
+CO2: !decouples from! CIA5 
+CIA5: !decouples from! CO2 
+CCM: !associated with! gene clusters 
+gene clusters: !contain! putative inorganic carbon transporters

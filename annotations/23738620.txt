@@ -1,0 +1,9 @@
+Type II phytochromes (phy) in Arabidopsis form homodimers and heterodimers, resulting in a diverse collection of light-stable red/far-red (R/FR) sensing photoreceptors. We describe an in vivo protein engineering system and its use in characterizing the activities of these molecules. Using a phyB null mutant background, singly and doubly transgenic plants were generated that express fusion proteins containing the phyB-phyE N-terminal photosensory regions (NB-NE PSRs), a nuclear localization sequence, and small yeast protein domains that mediate either homodimerization or heterodimerization. Activity of NB/NB homodimers but not monomeric NB subunits in control of seedling and adult plant responses to R light is demonstrated. Heterodimers of the NB sequence with the chromophoreless NB(C357S) sequence, which mimic phyB Pfr/Pr photo-heterodimers, mediate R sensitivity in leaves and petioles but not hypocotyls. Homodimerization of the NC, ND and NE sequences and directed heterodimerization of these photosensory regions with the NB region reveal form-specific R-induced activities for different type II phy dimers. The experimental approach developed here of directed assembly of defined protein dimer combinations in vivo may be applicable to other systems.
+
+phyB: !forms! homodimers 
+phyB: !forms! heterodimers 
+NB-NE PSRs: !controls! seedling and adult plant responses to R light 
+NB/NB homodimers: !mediates! R sensitivity in leaves and petioles 
+NB(C357S): !mimics! phyB Pfr/Pr photo-heterodimers 
+NC, ND and NE sequences: !homodimerize! 
+NB region: !heterodimerizes! with photosensory regions

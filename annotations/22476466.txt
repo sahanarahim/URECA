@@ -1,0 +1,7 @@
+SHORT-ROOT (SHR) is a key regulator of radial patterning and stem-cell renewal in the Arabidopsis root. Although SHR is expressed in the stele, its function in the vascular tissue was not recognized until recently. In shr, the protoxylem is missing due to the loss of expression of microRNA165A (miR165A) and microRNA166B (miR165B). shr is also defective in lateral root formation, but the mechanism remains unclear. To dissect the SHR developmental pathway, we recently have identified its direct targets at the genome scale by chromatin immunoprecipitation followed by microarray analysis (ChIP-chip). In further studies, we have shown that SHR regulates cytokinin homeostasis through cytokinin oxidase 3 and that this role of SHR is critical to vascular patterning in the root. In this communication we report that SHR also regulates miR165A and miR166B indirectly through its effect on cytokinin homeostasis. Although cytokinin is inhibitory to root growth, the root-apical-meristem defect in shr was not alleviated by reduction of endogenous cytokinin. These results together suggest that SHR regulates vascular patterning, but not root apical meristematic activity, through cytokinin homeostasis.
+
+SHR: !regulates! miR165A/miR166B
+SHR: !regulates! cytokinin homeostasis
+miR165A/miR166B: !affects! protoxylem formation
+cytokinin homeostasis: !affects! vascular patterning
+cytokinin homeostasis: !inhibits! root growth

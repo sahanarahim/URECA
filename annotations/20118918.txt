@@ -1,0 +1,7 @@
+['20118918', 'We introduce a rational approach for associating genes with plant traits by  combined use of a genome-scale functional network and targeted reverse genetic  screening. We present a probabilistic network (AraNet) of functional associations  among 19,647 (73%) genes of the reference flowering plant Arabidopsis thaliana.  AraNet associations are predictive for diverse biological pathways, and  outperform predictions derived only from literature-based protein interactions,  achieving 21% precision for 55% of genes. AraNet prioritizes genes for  limited-scale functional screening, resulting in a hit-rate tenfold greater than  screens of random insertional mutants, when applied to early seedling development  as a test case. By interrogating network neighborhoods, we identify AT1G80710  (now DROUGHT SENSITIVE 1; DRS1) and AT3G05090 (now LATERAL ROOT STIMULATOR 1;  LRS1) as regulators of drought sensitivity and lateral root development,  respectively. AraNet (http://www.functionalnet.org/aranet/) provides a resource  for plant gene function identification and genetic dissection of plant traits.', '2010 Feb', 'Nat Biotechnol', '10.1038/nbt.1603', 'Rhee']
+
+AraNet: !predicts! Biological Pathways 
+AraNet: !prioritizes! Genes 
+AraNet: !identifies! DRS1 
+AraNet: !identifies! LRS1 
+AraNet: !provides! Resource

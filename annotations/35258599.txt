@@ -1,0 +1,10 @@
+Potato (Solanum tuberosum L.) maturity involves several important traits, including the onset of tuberization, flowering, leaf senescence, and the length of the plant life cycle. The timing of flowering and tuberization in potato is mediated by seasonal fluctuations in photoperiod and is thought to be separately controlled by the FLOWERING LOCUS T-like (FT-like) genes SELF-PRUNING 3D (StSP3D) and SELF-PRUNING 6A (StSP6A). However, the biological relationship between these morphological transitions that occur almost synchronously remains unknown. Here, we show that StABI5-like 1 (StABL1), a transcription factor central to abscisic acid (ABA) signaling, is a binding partner of StSP3D and StSP6A, forming an alternative florigen activation complex and alternative tuberigen activation complex in a 14-3-3-dependent manner. Overexpression of StABL1 results in the early initiation of flowering and tuberization as well as a short life cycle. Using genome-wide chromatin immunoprecipitation sequencing and RNA-sequencing, we demonstrate that AGAMOUS-like and GA 2-oxidase 1 genes are regulated by StABL1. Phytohormone profiling indicates an altered gibberellic acid (GA) metabolism and that StABL1-overexpressing plants are insensitive to the inhibitory effect of GA with respect to tuberization. Collectively, our results suggest that StABL1 functions with FT-like genes to promote flowering and tuberization and consequently life cycle length in potato, providing insight into the pleiotropic functioning of the FT gene.
+
+StSP3D: !interacts with! StABL1
+StSP6A: !interacts with! StABL1
+StABL1: !enhances! flowering
+StABL1: !enhances! tuberization
+StABL1: !shortens! life cycle
+StABL1: !regulates! AGAMOUS-like
+StABL1: !regulates! GA 2-oxidase 1
+StABL1: !alters! GA metabolism

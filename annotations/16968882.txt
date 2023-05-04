@@ -1,0 +1,13 @@
+A fluoroorotic acid (FOA)-resistant mutant of Arabidopsis thaliana was isolated by screening M2 populations of ethyl methane sulphonate (EMS)-mutagenized Columbia seed. FOA resistance was due to a nuclear recessive gene, for1-1, which locates to a 519 kb region in chromosome 5. Assays of key regulatory enzymes in de novo pyrimidine synthesis (uridine monophosphate synthase) and salvage biochemistry (thymidine kinase) confirmed that FOA resistance in for1-1/for1-1 plants was not due to altered enzymatic activities. Uptake studies using radiolabelled purines, pyrimidines, and [14C]FOA reveal that for1-1/for1-1 plants were specifically defective in the uptake of uracil or uracil-like bases. To confirm such specificity, genetic crosses show that FOR1 is a distinct locus from FUR1 which encodes a deoxyuridine nucleoside transporter. In addition, for1-1/for1-1 plants were restored to FOA sensitivity by transformation with the Escherichia coli uracil transporter gene uraA driven by the cauliflower mosaic virus (CaMV) 35S promoter. Molecular mapping studies reveal that FOR1 does not correspond to loci belonging to any of the six known nucleobase transporter families identified in the Arabidopsis genome. Moreover, FOR1 does not appear to regulate the transcript levels of either uracil transporter-encoding loci At2g03590 or At2g03530. The above results strongly suggest that the for1-1 mutant allele affects a transport mechanism that is specific for the uptake of uracil.
+
+for1-1: !affects! Uptake of uracil
+FOA resistance: !due to! for1-1
+for1-1: !localizes to! 519 kb region in chromosome 5
+uridine monophosphate synthase: !assayed to! Confirm FOA resistance
+thymidine kinase: !assayed to! Confirm FOA resistance
+radiolabelled purines, pyrimidines, and [14C]FOA: !used to! Reveal specificity of for1-1/for1-1 plants
+FOR1: !distinct from! FUR1
+E. coli uracil transporter gene uraA: !transformed to! Restore FOA sensitivity
+FOR1: !does not correspond to! Loci belonging to known nucleobase transporter families
+At2g03590: !not regulated by! FOR1
+At2g03530: !not regulated by! FOR1

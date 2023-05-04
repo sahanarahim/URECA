@@ -1,0 +1,8 @@
+The heterotrimeric RPA (replication protein A) protein complex has single-stranded DNA-binding functions that are important for all DNA processing pathways in eukaryotic cells. In Arabidopsis thaliana, which has five homologs of the RPA1 subunit and two homologs each of RPA2 and RPA3, in theory 20 RPA complexes could form. Using Escherichia coli as a heterologous expression system and analysing the results of the co-purification of the different subunits, we conclude that AtRPA1a interacts with the AtRPA2b subunit, and AtRPA1b interacts with AtRPA2a. Additionally either AtRPA3a or AtRPA3b is part of the complexes. As shown by electrophoretic mobility shift assays, all of the purified AtRPA complexes bind single-stranded DNA, but differences in DNA binding, especially with respect to modified DNA, could be revealed for all four of the analyzed RPA complexes. Thus, the RPA3 subunits influence the DNA-binding properties of the complexes differently despite their high degree of similarity of 82%. The data support the idea that in plants a subfunctionalization of RPA homologs has occurred and that different complexes act preferentially in different pathways.
+
+AtRPA1a: !interacts with! AtRPA2b
+AtRPA1b: !interacts with! AtRPA2a
+AtRPA3a: !part of! RPA complexes
+AtRPA3b: !part of! RPA complexes
+RPA complexes: !binds! single-stranded DNA
+AtRPA3 subunits: !influence! DNA-binding properties

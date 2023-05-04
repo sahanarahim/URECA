@@ -1,0 +1,8 @@
+The timing and extent of cell division are crucial for the correct patterning of multicellular organism. In Arabidopsis, root ground tissue maturation involves the periclinal cell division of the endodermis to generate two cell layers: endodermis and middle cortex. However, the molecular mechanism underlying this pattern formation remains unclear. Here, we report that phytohormone brassinosteroid (BR) and redox signal hydrogen peroxide (H<sub>2</sub> O<sub>2</sub> ) interdependently promote periclinal division during root ground tissue maturation by regulating the activity of SHORT-ROOT (SHR), a master regulator of root growth and development. BR-activated transcription factor BRASSINAZOLE RESISTANT1 (BZR1) directly binds to the promoter of SHR to induce its expression, and physically interacts with SHR to increase the transcripts of RESPIRATORY BURST OXIDASE HOMOLOGs (RBOHs) and elevate the levels of H<sub>2</sub> O<sub>2</sub> , which feedback enhances the interaction between BZR1 and SHR. Additionally, genetic analysis shows that SHR is required for BZR1-promoted periclinal division, and BZR1 enhances the promoting effects of SHR on periclinal division. Together, our finding reveals that the transcriptional module of BZR1-SHR fine-tunes periclinal division during root ground tissue maturation in response to hormone and redox signals.
+
+BR: !activates! BZR1
+BZR1: !binds to! SHR
+BZR1: !interacts with! SHR
+SHR: !promotes! Periclinal division
+H<sub>2</sub> O<sub>2</sub>: !elevates! RBOHs
+BZR1: !enhances! SHR's promoting effects

@@ -1,0 +1,11 @@
+Combinations of histones carrying different covalent modifications are a major component of epigenetic variation. We have mapped nine modified histones in the barley seedling epigenome by chromatin immunoprecipitation next-generation sequencing (ChIP-seq). The chromosomal distributions of the modifications group them into four different classes, and members of a given class also tend to coincide at the local DNA level, suggesting that global distribution patterns reflect local epigenetic environments. We used this peak sharing to define 10 chromatin states representing local epigenetic environments in the barley genome. Five states map mainly to genes and five to intergenic regions. Two genic states involving H3K36me3 are preferentially associated with constitutive gene expression, while an H3K27me3-containing genic state is associated with differentially expressed genes. The 10 states display striking distribution patterns that divide barley chromosomes into three distinct global environments. First, telomere-proximal regions contain high densities of H3K27me3 covering both genes and intergenic DNA, together with very low levels of the repressive H3K27me1 modification. Flanking these are gene-rich interior regions that are rich in active chromatin states and have greatly decreased levels of H3K27me3 and increasing amounts of H3K27me1 and H3K9me2. Lastly, H3K27me3-depleted pericentromeric regions contain gene islands with active chromatin states separated by extensive retrotransposon-rich regions that are associated with abundant H3K27me1 and H3K9me2 modifications. We propose an epigenomic framework for barley whereby intergenic H3K27me3 specifies facultative heterochromatin in the telomere-proximal regions and H3K27me1 is diagnostic for constitutive heterochromatin elsewhere in the barley genome.
+
+H3K27me3: !specifies! facultative heterochromatin 
+H3K27me1: !diagnostic for! constitutive heterochromatin 
+H3K36me3: !associated with! constitutive gene expression 
+H3K27me3: !associated with! differentially expressed genes 
+H3K27me1: !increases in! gene-rich interior regions 
+H3K9me2: !increases in! gene-rich interior regions 
+H3K27me3: !decreases in! gene-rich interior regions 
+H3K27me1: !abundant in! retrotransposon-rich regions 
+H3K9me2: !abundant in! retrotransposon-rich regions

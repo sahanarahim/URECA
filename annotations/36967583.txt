@@ -1,0 +1,8 @@
+Tendril is a morphological innovation during plant evolution, which provides the plants to obtain climbing ability. However, the tendril morphogenesis is poorly understood. A novel tendril morphogenesis defective mutant (tmd1) was identified in cucumber. The apical part of tendril was replaced by a leaf blade in tmd1 mutant, and it lost the climbing ability. Map-based cloning, qPCR detection, bioinformatic analysis, yeast one-hybrid assay, electrophoretic mobility shift assay, and luciferase assay were used to explore the molecular mechanism of CsaTMD1 in regulating tendril morphogenesis. CsaUFO was the candidate causal gene, and a fragment deletion within promoter impaired CsaUFO expression in tmd1 mutant. A conserved motif 1, which harbored two putative TCP transcription factor binding sites, was located within this deleted fragment. CsaTEN directly bound the motif 1 and positively regulated CsaUFO, and mutation in motif 1 removed this regulation. Our work shows a CsaTEN-CsaUFO module in regulating tendril morphogenesis, indicating that evolution of tendril in cucumber due to simply drive of CsaUFO by CsaTEN in tendril. Additionally, the conserved motif 1 provides a strategy for engineering tendril-less Cucurbitaceae crops.
+
+CsaTEN: !regulates! CsaUFO
+CsaUFO: !impairs expression in! tmd1 mutant
+CsaTEN: !binds! conserved motif 1
+motif 1: !harbors! two putative TCP transcription factor binding sites
+CsaTEN: !positively regulates! CsaUFO
+motif 1: !removes regulation by! CsaTEN

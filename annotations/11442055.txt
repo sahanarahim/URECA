@@ -1,0 +1,9 @@
+['11442055', 'NPR1/NIM1 is a key regulator of systemic acquired resistance (SAR) in  Arabidopsis. Using the yeast two-hybrid system, we have identified three novel  genes, NIMIN-1, NIMIN-2 and NIMIN-3 (NIMIN for NIM1-interacting) that encode  structurally related proteins interacting physically with NPR1/NIM1. NIMIN-1 and  NIMIN-2 both bind strongly to NPR1/NIM1 via a common binding motif interacting  with the C-terminal moiety of NPR1/NIM1, whereas NIMIN-3 interacts with NPR1/NIM1  via the N-terminal part of NPR1/NIM1. In addition, NIMIN-1, NIMIN-2, and NIMIN-3  are able to interact via NPR1/NIM1 with basic leucine zipper transcription  factors of the TGA family in a yeast tri-hybrid system. A mutant protein of  NPR1/NIM1, npr1-2, which has been shown to be severely impaired in induction of  SAR gene expression, failed to bind the NIMIN proteins. The NIMIN genes are  expressed in Arabidopsis plants in response to SAR-inducing treatments, and the  NIMIN proteins, like NPR1/NIM1, carry functional nuclear localization signals as  revealed by expression of fusion proteins in yeast and in transgenic plants.  Taken together, these data indicate that the NIMIN proteins, via physical  interaction with NPR1/NIM1, are part of the signal transduction pathway leading  to SAR gene expression in Arabidopsis.', '2001 May', 'Plant Mol Biol', '10.1023/a:1010652620115', 'Pfitzner']
+
+NPR1/NIM1: !interacts with! NIMIN-1 
+NPR1/NIM1: !interacts with! NIMIN-2 
+NPR1/NIM1: !interacts with! NIMIN-3 
+NPR1/NIM1: !interacts with! TGA family 
+npr1-2: !fails to bind! NIMIN proteins 
+NIMIN proteins: !carry! functional nuclear localization signals 
+NIMIN proteins: !part of! signal transduction pathway

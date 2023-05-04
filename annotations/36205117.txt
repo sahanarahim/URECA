@@ -1,0 +1,13 @@
+Crop growth models (CGM) can predict the performance of a cultivar in untested environments by sampling genotype-specific parameters. As they cannot predict the performance of new cultivars, it has been proposed to integrate CGMs with whole genome prediction (WGP) to combine the benefits of both models. Here, we used a CGM-WGP model to predict the performance of new wheat (Triticum aestivum) genotypes. The CGM was designed to predict phenology, nitrogen, and biomass traits. The CGM-WGP model simulated more heritable GSPs compared with the CGM and gave smaller errors for the observed phenotypes. The WGP model performed better when predicting yield, grain number, and grain protein content, but showed comparable performance to the CGM-WGP model for heading and physiological maturity dates. However, the CGM-WGP model was able to predict unobserved traits (for which there were no phenotypic records in the reference population). The CGM-WGP model also showed superior performance when predicting unrelated individuals that clustered separately from the reference population. Our results demonstrate new advantages for CGM-WGP modelling and suggest future efforts should focus on calibrating CGM-WGP models using high-throughput phenotypic measures that are cheaper and less laborious to collect.
+
+CGM: !predicts! Phenology
+CGM: !predicts! Nitrogen
+CGM: !predicts! Biomass
+CGM-WGP: !simulates! GSPs
+CGM-WGP: !predicts! Yield
+CGM-WGP: !predicts! Grain number
+CGM-WGP: !predicts! Grain protein content
+CGM-WGP: !predicts! Heading
+CGM-WGP: !predicts! Physiological maturity dates
+CGM-WGP: !predicts! Unobserved traits
+CGM-WGP: !predicts! Unrelated individuals

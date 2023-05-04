@@ -1,0 +1,10 @@
+Ectopic expression of the apple 2-oxoglutarate-dependent dioxygenase (DOX, 2ODD) gene, designated MdDOX-Co, is thought to cause the columnar shape of apple trees. However, the mechanism underlying the formation of such a unique tree shape remains unclear. To solve this problem, we demonstrated that Arabidopsis thaliana overexpressing MdDOX-Co contained reduced levels of biologically active gibberellin (GA) compared with wild type. In summary: (i) with biochemical approaches, the gene product MdDOX-Co was shown to metabolize active GA A<sub>4</sub> (GA<sub>4</sub> ) to GA<sub>58</sub> (12-OH-GA<sub>4</sub> ) in vitro. MdDOX-Co also metabolized its precursors GA<sub>12</sub> and GA<sub>9</sub> to GA<sub>111</sub> (12-OH-GA<sub>12</sub> ) and GA<sub>70</sub> (12-OH-GA<sub>9</sub> ), respectively; (ii) Of the three 12-OH-GAs, GA<sub>58</sub> was still active physiologically, but not GA<sub>70</sub> or GA<sub>111</sub> ; (iii) Arabidopsis MdDOX-Co OE transformants converted exogenously applied deuterium-labeled (d<sub>2</sub> )-GA<sub>12</sub> to d<sub>2</sub> -GA<sub>111</sub> but not to d<sub>2</sub> -GA<sub>58</sub> , whereas transformants converted applied d<sub>2</sub> -GA<sub>9</sub> to d<sub>2</sub> -GA<sub>58</sub> ; (iv) GA<sub>111</sub> is converted poorly to GA<sub>70</sub> by GA 20-oxidases in vitro when GA<sub>12</sub> is efficiently metabolized to GA<sub>9</sub> ; (v) no GA<sub>58</sub> was detected endogenously in MdDOX-Co OE transformants. Overall, we conclude that 12-hydroxylation of GA<sub>12</sub> by MdDOX-Co prevents the biosynthesis of biologically active GAs in planta, resulting in columnar phenotypes.
+
+MdDOX-Co: !metabolizes! GA A<sub>4</sub> 
+MdDOX-Co: !converts! GA<sub>12</sub> 
+MdDOX-Co: !converts! GA<sub>9</sub> 
+GA 20-oxidases: !metabolizes! GA<sub>12</sub> 
+GA 20-oxidases: !converts! GA<sub>111</sub> 
+MdDOX-Co OE transformants: !converts! d<sub>2</sub> -GA<sub>12</sub> 
+MdDOX-Co OE transformants: !converts! d<sub>2</sub> -GA<sub>9</sub> 
+MdDOX-Co: !prevents! biosynthesis of biologically active GAs

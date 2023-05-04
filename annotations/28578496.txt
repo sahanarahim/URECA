@@ -1,0 +1,11 @@
+Identification of the upstream regulators of a gene is important to characterize the transcriptional pathway and the function of the gene. Previously, we found that a zinc finger protein (ThZFP1) is involved in abiotic stress tolerance of Tamarix hispida. In the present study, we further investigated the transcriptional pathway of ThZFP1. Dof motifs are abundant in the ThZFP1 promoter; therefore, we used them to screen for transcriptional regulators of ThZFP1. A Dof protein, ThDof1.4, binds to the Dof motif specifically, and was hypothesized as the upstream regulator of ThZFP1. Further study showed that overexpression of ThDof1.4 in T. hispida activated the expression of GUS controlled by the ThZFP1 promoter. In T. hispida, transient overexpression of ThDof1.4 increased the transcripts of ThZFP1; conversely, transient RNAi-silencing of ThDof1.4 reduced the expression of ThZFP1. Chromatin immunoprecipitation indicated that ThDof1.4 binds to the ThZFP1 promoter. Additionally, ThDof1.4 and ThZFP1 share similar expression patterns in response to salt or drought stress. Furthermore, like ThZFP1, ThDof1.4 could increase the proline level and enhance ROS scavenging capability to improve salt and osmotic stress tolerance. Together, these results suggested that ThDof1.4 and ThZFP1 form a transcriptional regulatory cascade involved in abiotic stress resistance in T. hispida.
+
+ThZFP1: !binds to! Dof motifs
+ThDof1.4: !binds to! ThZFP1 promoter
+ThDof1.4: !activates! GUS expression
+ThDof1.4: !overexpression increases! ThZFP1 transcripts
+ThDof1.4: !RNAi-silencing reduces! ThZFP1 expression
+ThDof1.4: !shares similar expression pattern with! ThZFP1
+ThDof1.4: !increases! proline level
+ThDof1.4: !enhances! ROS scavenging capability
+ThDof1.4: !forms transcriptional regulatory cascade with! ThZFP1

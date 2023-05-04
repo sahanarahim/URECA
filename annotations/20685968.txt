@@ -1,0 +1,7 @@
+Storage tissues such as seed endosperm and tubers store starch in the form of granules in the amyloplast. In the rice (Oryza sativa) endosperm, each amyloplast produces compound granules consisting of several dozen polyhedral, sharp-edged and easily separable granules; whereas in other cereals, including wheat (Triticum aestivum), barley (Hordeum vulgare) and maize (Zea mays), each amyloplast synthesizes one granule. Despite extensive studies on mutants of starch synthesis in cereals, the molecular mechanisms involved in compound granule synthesis in rice have remained elusive. In this study, we expressed green fluorescent protein (GFP) fused to rice Brittle1 (BT1), an inner envelope membrane protein, to characterize dividing amyloplasts in the rice endosperm. Confocal microscopic analyses revealed that a septum-like structure, or cross-wall, containing BT1-GFP divides granules in the amyloplast. Plastid division proteins including FtsZ, Min and PDV2 play significant roles not only in amyloplast division, but also in septum synthesis, suggesting that amyloplast division and septum synthesis are related processes that share common factors. We propose that successive septum syntheses which create sections inside the amyloplast and de novo granule synthesis in each section are primarily responsible for the synthesis of compound granules.
+
+BT1: !localizes to! septum-like structure
+FtsZ: !interacts with! Min
+Min: !interacts with! PDV2
+PDV2: !interacts with! FtsZ
+septum-like structure: !synthesizes! compound granules

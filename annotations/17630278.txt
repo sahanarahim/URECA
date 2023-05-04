@@ -1,0 +1,9 @@
+Little is known about how gene expression variation within a given species controls phenotypic variation under different treatments or environments. Here, we surveyed the transcriptome response of seven diverse Arabidopsis thaliana accessions in response to two treatments: the presence and absence of exogenously applied salicylic acid (SA), an important signaling molecule in plant defense. A factorial experiment was conducted with three biological replicates per accession with and without applications of SA and sampled at three time points posttreatment. Transcript level data from Affymetrix ATH1 microarrays were analyzed on both per-gene and gene-network levels to detect expression level polymorphisms associated with SA response. Significant variation in transcript levels for response to SA was detected among the accessions, with relatively few genes responding similarly across all accessions and time points. Twenty-five of 54 defined gene networks identified from other microarray studies (pathogen-challenged Columbia [Col-0]) showed a significant response to SA in one or more accessions. A comparison of gene-network relationships in our data to the pathogen-challenged Col-0 data demonstrated a higher-order conservation of linkages between defense response gene networks. Cvi-1 and Mt-0 appeared to have globally different SA responsiveness in comparison to the other five accessions. Expression level polymorphisms for SA response were abundant at both individual gene and gene-network levels in the seven accessions, suggesting that natural variation for SA response is prevalent in Arabidopsis.
+
+Gene: !affects! Phenotypic Variation 
+Accession: !responds to! SA 
+Gene: !localizes to! Network 
+Network: !responds to! SA 
+Gene: !interacts with! Other Genes 
+Gene: !enhances! Defense Response 
+Accession: !differs from! Other Accessions

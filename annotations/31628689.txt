@@ -1,0 +1,8 @@
+The distinct functions of individual cell types require cells to express specific sets of genes. The germinating seed is an excellent model to study genome regulation between cell types since the majority of the transcriptome is differentially expressed in a short period, beginning from a uniform, metabolically inactive state. In this study, we applied laser-capture microdissection RNA-sequencing to small numbers of cells from the plumule, radicle tip and scutellum of germinating barley seeds every 8 h, over a 48 h time course. Tissue-specific gene expression was notably common; 25% (910) of differentially expressed transcripts in plumule, 34% (1876) in radicle tip and 41% (2562) in scutellum were exclusive to that organ. We also determined that tissue-specific storage of transcripts occurs during seed development and maturation. Co-expression of genes had strong spatiotemporal structure, with most co-expression occurring within one organ and at a subset of specific time points during germination. Overlapping and distinct enrichment of functional categories were observed in the tissue-specific profiles. We identified candidate transcription factors amongst these that may be regulators of spatiotemporal gene expression programs. Our findings contribute to the broader goal of generating an integrative model that describes the structure and function of individual cells within seeds during germination.
+
+Gene: !affects! Cell type 
+Cell type: !expresses! Gene 
+Gene: !localizes to! Organ 
+Organ: !stores! Transcripts 
+Gene: !interacts with! Transcription factor 
+Transcription factor: !regulates! Gene expression program

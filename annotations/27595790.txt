@@ -1,0 +1,14 @@
+Plant genomes encode diverse small RNA classes that function in distinct gene-silencing pathways. To elucidate the intricate regulation of microRNAs (miRNAs) and endogenous small-interfering RNAs (siRNAs) in response to chilling injury in tomato fruit, the deep sequencing and bioinformatic methods were combined to decipher the small RNAs landscape in the control and chilling-injured groups. Except for the known miRNAs and ta-siRNAs, 85 novel miRNAs and 5 ta-siRNAs members belonging to 3 TAS families (TAS5, TAS9 and TAS10) were identified, 34 putative phased small RNAs and 740 cis/trans-natural antisense small-interfering RNAs (nat-siRNAs) were also found in our results which enriched the tomato small RNAs repository. A large number of genes targeted by those miRNAs and siRNAs were predicted to be involved in the chilling injury responsive process and five of them were verified via degradome sequencing. Based on the above results, a regulatory model that comprehensively reveals the relationships between the small RNAs and their targets was set up. This work provides a foundation for further study of the regulation of miRNAs and siRNAs in the plant in response to chilling injury.
+
+miRNA: !targets! genes 
+siRNA: !targets! genes 
+ta-siRNA: !targets! genes 
+nat-siRNA: !targets! genes 
+genes: !regulated by! miRNA 
+genes: !regulated by! siRNA 
+genes: !regulated by! ta-siRNA 
+genes: !regulated by! nat-siRNA 
+chilling injury: !induces! miRNA 
+chilling injury: !induces! siRNA 
+chilling injury: !induces! ta-siRNA 
+chilling injury: !induces! nat-siRNA

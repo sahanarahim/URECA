@@ -1,0 +1,12 @@
+Previous studies in Arabidopsis thaliana have identified several histone methylation enzymes, including Arabidopsis trithorax1 (ATX1)/set domain group 27 (SDG27), ATX2/SDG30, LSD1-LIKE1 (LDL1), LDL2, SDG8, SDG25, and curly leaf (CLF)/SDG1, as regulators of the key flowering repressor flowering locus C (FLC) and the florigen flowering locus T (FT). However, the combinatorial functions of these enzymes remain largely uninvestigated. Here, we investigated functional interplays of different histone methylation enzymes by studying higher order combinations of their corresponding gene mutants. We showed that H3K4me2/me3 and H3K36me3 depositions occur largely independently and that SDG8-mediated H3K36me3 overrides ATX1/ATX2-mediated H3K4me2/me3 or LDL1/LDL2-mediated H3K4 demethylation in regulating FLC expression and flowering time. By contrast, a reciprocal inhibition was observed between deposition of the active mark H3K4me2/me3 and/or H3K36me3 and deposition of the repressive mark H3K27me3 at both FLC and FT chromatin; and the double mutants sdg8 clf and sdg25 clf displayed enhanced early-flowering phenotypes of the respective single mutants. Collectively, our results provide important insights into the interactions of different types of histone methylation and enzymes in the regulation of FLC and FT expression in flowering time control.
+
+ATX1/SDG27: !affects! FLC expression
+ATX2/SDG30: !affects! FLC expression
+LDL1: !affects! FLC expression
+LDL2: !affects! FLC expression
+SDG8: !overrides! ATX1/ATX2-mediated H3K4me2/me3
+H3K4me2/me3: !inhibits! H3K27me3
+H3K36me3: !inhibits! H3K27me3
+SDG8: !enhances! early-flowering phenotype
+CLF/SDG1: !enhances! early-flowering phenotype
+SDG25: !enhances! early-flowering phenotype

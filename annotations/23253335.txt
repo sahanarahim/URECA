@@ -1,0 +1,7 @@
+Wetlands are the largest source of methane to the atmosphere, with tropical wetlands comprising the most significant global wetland source component. The stems of some wetland-adapted tree species are known to facilitate egress of methane from anoxic soil, but current ground-based flux chamber methods for determining methane inventories in forested wetlands neglect this emission pathway, and consequently, the contribution of tree-mediated emissions to total ecosystem methane flux remains unknown. In this study, we quantify in situ methane emissions from tree stems, peatland surfaces (ponded hollows and hummocks) and root-aerating pneumatophores in a tropical forested peatland in Southeast Asia. We show that tree stems emit substantially more methane than peat surfaces, accounting for 62-87% of total ecosystem methane flux. Tree stem flux strength was controlled by the stem diameter, wood specific density and the amount of methane dissolved in pore water. Our findings highlight the need to integrate this emission pathway in both field studies and models if wetland methane fluxes are to be characterized accurately in global methane budgets, and the discrepancies that exist between field-based flux inventories and top-down estimates of methane emissions from tropical areas are to be reconciled.
+
+tree stem: !emits! methane 
+stem diameter: !controls! tree stem flux strength 
+wood specific density: !controls! tree stem flux strength 
+methane dissolved in pore water: !controls! tree stem flux strength 
+peat surfaces: !emit! methane

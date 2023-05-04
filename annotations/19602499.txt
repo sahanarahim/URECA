@@ -1,0 +1,11 @@
+Two auxin amidohydrolases, BrIAR3 and BrILL2, from Chinese cabbage [Brassica rapa L. ssp. pekinensis (Lour.) Hanelt] were produced by heterologous expression in Escherichia coli, purified, and screened for activity towards N-(indol-3-ylacetyl)-L-alanine (IAA-Ala) and the long-chain auxin-amino acid conjugates, N-[3-(indol-3-yl)propionyl]-L-alanine (IPA-Ala) and N-[4-(indol-3-yl)butyryl]-L-alanine (IBA-Ala). IPA-Ala was shown to be the favored substrate of both enzymes, but BrILL2 was approximately 15 times more active than BrIAR3. Both enzymes cleaved IBA-Ala and IAA-Ala to a lesser extent. The enzyme kinetics were measured for BrILL2 and the obtained parameters suggested similar binding affinities for the long-chain auxin-amino acid conjugates (IPA-Ala and IBA-Ala). The velocity of the hydrolyzing reaction decreased in the order IPA-Ala > IBA-Ala > IAA-Ala. In a root growth bioassay, higher growth inhibition was caused by IPA-Ala and IBA-Ala in comparison with IAA-Ala. Neither these conjugates nor the corresponding free auxins affected the expression of the BrILL2 gene. A modeling study revealed several possible modes of IPA-Ala binding to BrILL2. Based on these results, two possible scenarios for substrate hydrolysis are proposed. In one the metal binding water is activated by the carboxyl group of the substrate itself, and in the other by a glutamate residue from the active site of the enzyme.
+
+BrIAR3: !cleaves! IAA-Ala 
+BrILL2: !cleaves! IPA-Ala 
+BrILL2: !15x more active than! BrIAR3 
+IPA-Ala: !favored substrate of! BrILL2 
+BrILL2: !binds! IPA-Ala 
+IPA-Ala: !causes higher growth inhibition than! IAA-Ala 
+BrILL2 gene: !not affected by! conjugates or free auxins 
+BrILL2: !activated by! carboxyl group of substrate 
+BrILL2: !activated by! glutamate residue from active site

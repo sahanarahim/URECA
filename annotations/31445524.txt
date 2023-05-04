@@ -1,0 +1,9 @@
+The ability of severed rootstocks and shoots to re-establish vascular connections is used to generate grafted plants that combine desirable traits from both scions and rootstocks. Clarifying the mechanisms of graft healing is essential for its further application. We performed RNA sequencing of internodes near the cut position, making a distinction between separated or grafted tissues above and below the cut, in order to obtain a genetic description of graft union formation. Using weighted gene co-expression analysis, variable transcripts were clustered into 10 distinct co-expression networks (modules) based on expression profiles, and genes with the most "hubness" ("hub" genes show the most connections in a network) within each module were predicted. A large proportion of modules were related to Position, and represent asymmetric expression networks from different pathways. Expression of genes involved in auxin and sugar transport and signaling, and brassinosteroid biosynthesis was increased above the cut, while stress response genes were up-regulated below the cut. Some modules were related to graft union formation, among which oxidative detoxification genes were co-expressed along with both wounding response and cell wall organization genes. The present work provides a comprehensive understanding of graft healing-related gene networks in tomato. Also, the candidate pathways and hub genes identified here will be valuable for future studies of grafting in tomato.
+
+Position: !affects! Expression
+Auxin: !increases! Above Cut
+Sugar: !increases! Above Cut
+Brassinosteroid: !increases! Above Cut
+Stress Response: !increases! Below Cut
+Oxidative Detoxification: !co-expressed with! Wounding Response
+Oxidative Detoxification: !co-expressed with! Cell Wall Organization

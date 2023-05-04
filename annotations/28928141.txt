@@ -1,0 +1,8 @@
+Posttranscriptional gene silencing (PTGS) of transgenes involves abundant 21-nucleotide small interfering RNAs (siRNAs) and low-abundance 22-nucleotide siRNAs produced from double-stranded RNA (dsRNA) by DCL4 and DCL2, respectively. However, DCL2 facilitates the recruitment of RNA-DEPENDENT RNA POLYMERASE 6 (RDR6) to ARGONAUTE 1-derived cleavage products, resulting in more efficient amplification of secondary and transitive dsRNA and siRNAs. Here, we describe a reporter system where RDR6-dependent PTGS is initiated by restricted expression of an inverted-repeat dsRNA specifically in the Arabidopsis (<i>Arabidopsis thaliana</i>) root tip, allowing a genetic screen to identify mutants impaired in RDR6-dependent systemic PTGS. Our screen identified <i>dcl2</i> but not <i>dcl4</i> mutants. Moreover, grafting experiments showed that DCL2, but not DCL4, is required in both the source rootstock and the recipient shoot tissue for efficient RDR6-dependent systemic PTGS. Furthermore, <i>dcl4</i> rootstocks produced more DCL2-dependent 22-nucleotide siRNAs than the wild type and showed enhanced systemic movement of PTGS to grafted shoots. Thus, along with its role in recruiting RDR6 for further amplification of PTGS, DCL2 is crucial for RDR6-dependent systemic PTGS.
+
+DCL4: !synthesizes! 21-nucleotide siRNAs
+DCL2: !synthesizes! 22-nucleotide siRNAs
+DCL2: !recruits! RDR6
+RDR6: !amplifies! dsRNA and siRNAs
+DCL2: !required for! RDR6-dependent systemic PTGS
+DCL4: !enhances! DCL2-dependent systemic PTGS

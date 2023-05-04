@@ -1,0 +1,10 @@
+The lifespan of plants is restricted by environmental and genetic components. Following the transition to reproductive growth, leaf senescence ends cellular life in monocarpic plants to remobilize nutrients to storage organs. In Arabidopsis, we initially observed altered leaf to seed ratios, faster senescence progression, altered leaf nitrogen recovery after transient nitrogen removal, and ultimately enhanced nitrogen remobilization from the leaves in two methylation mutants (ros1 and the triple dmr1/2 cmt3 knockout). Analysis of the DNA methylome in wild type Col-0 leaves identified an initial moderate decline of cytosine methylation with progressing leaf senescence, predominantly in the CG context. Late senescence was associated with moderate de novo methylation of cytosines, primarily in the CHH context. Relatively few differentially methylated regions, including one in the ROS1 promoter linked to down-regulation of ROS1, were present, but these were unrelated to known senescence-associated genes. Differential methylation patterns were identified in transcription factor binding sites, such as the W-boxes that are targeted by WRKYs. Methylation in artificial binding sites impaired transcription factor binding in vitro. However, it remains unclear how moderate methylome changes during leaf senescence are linked with up-regulated genes during senescence.
+
+ros1: !alters! Leaf to seed ratio
+dmr1/2 cmt3 knockout: !alters! Leaf to seed ratio
+cytosine methylation: !declines with! Leaf senescence
+cytosine methylation: !increases with! Late senescence
+ROS1 promoter: !down-regulates! ROS1
+transcription factor binding sites: !methylated by! W-boxes
+W-boxes: !targeted by! WRKYs
+methylation: !impairs! Transcription factor binding

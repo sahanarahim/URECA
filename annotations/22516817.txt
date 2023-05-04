@@ -1,0 +1,14 @@
+['22516817', 'Loss of the Arabidopsis NFX1-LIKE2 (NFXL2) gene (At5g05660) results in elevated  ABA levels, elevated hydrogen peroxide levels, reduced stomatal aperture, and  enhanced drought stress tolerance. Introduction of the NFXL2-78 isoform into the  nfxl2-1 mutant is largely sufficient for complementation of the phenotype. We  show here that cuticular properties are altered in the nfxl2-1 mutant. The  NFXL2-78 protein binds to the SHINE1 (SHN1), SHN2, SHN3, and BODYGUARD1 (BDG1)  promoters and mediates weaker expression of these genes. The SHN AP2 domain  transcription factors influence cuticle properties. Stronger SHN1, SHN2, and SHN3  expression in the nfxl2-1 mutant may cause altered cuticle properties including  reduced stomatal density, and partly explain the enhanced drought stress  tolerance. The BDG1 protein also controls cuticle development and is essential  for osmotic stress regulation of ABA biosynthesis. Stronger BDG1 expression in  nfxl2-1 plants may allow elevated ABA accumulation under drought stress. We  conclude that the NFXL2-78 protein is part of a regulatory network that  integrates the biosynthesis and action of ABA, ROS, and cuticle components.', '2012 May', 'Plant Signal Behav', '10.4161/psb.19838', 'Mussig']
+
+NFXL2: !affects! ABA levels
+NFXL2: !affects! Hydrogen Peroxide levels
+NFXL2: !affects! Stomatal aperture
+NFXL2: !binds to! SHINE1
+NFXL2: !binds to! SHN2
+NFXL2: !binds to! SHN3
+NFXL2: !binds to! BODYGUARD1
+SHINE1: !influences! Cuticle properties
+SHN2: !influences! Cuticle properties
+SHN3: !influences! Cuticle properties
+BDG1: !controls! Cuticle development
+BDG1: !essential for! Osmotic stress regulation of ABA biosynthesis

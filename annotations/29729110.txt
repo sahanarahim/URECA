@@ -1,0 +1,9 @@
+Synthesis-dependent strand annealing (SDSA) and single-strand annealing (SSA) are the two main homologous recombination (HR) pathways in double-strand break (DSB) repair. The involvement of rice RAD51 paralogs in HR is well known in meiosis, although the molecular mechanism in somatic HR remains obscure. Loss-of-function mutants of rad51 paralogs show increased sensitivity to the DSB-inducer bleomycin, which results in greatly compromised somatic recombination efficiencies (xrcc3 in SDSA, rad51b and xrcc2 in SSA, rad51c and rad51d in both). Using immunostaining, we found that mutations in RAD51 paralogs (XRCC3, RAD51C, or RAD51D) lead to tremendous impairment in RAD51 focus formation at DSBs. Intriguingly, the RAD51C mutation has a strong effect on the protein loading of its partners (XRCC3 and RAD51B) at DSBs, which is similar to the phenomenon observed in the case of blocking PI3K-like kinases in wild-type plant. We conclude that the rice CDX3 complex acts in SDSA recombination while the BCDX2 complex acts in SSA recombination in somatic DSB repair. Importantly, RAD51C serves as a fulcrum for the local recruitment of its partners (XRCC3 for SDSA and RAD51B for SSA) and is positively modulated by PI3K-like kinases to facilitate both the SDSA and SSA pathways in RAD51 paralog-dependent somatic HR.
+
+RAD51: !affects! DSB repair
+XRCC3: !localizes to! SDSA
+RAD51B: !localizes to! SSA
+RAD51C: !interacts with! XRCC3, RAD51B
+PI3K-like kinases: !enhances! RAD51C
+CDX3 complex: !acts in! SDSA
+BCDX2 complex: !acts in! SSA

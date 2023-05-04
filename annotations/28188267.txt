@@ -1,0 +1,9 @@
+The elongation factor suppressor of Ty 5 homolog (Spt5) is a regulator of transcription and histone methylation. In humans, phosphorylation of SPT5 by P-TEFb, a protein kinase composed of Cyclin-dependent kinase 9 (CDK9) and cyclin T, interacts with the RNA polymerase II-associated factor1 (PAF1) complex. However, the mechanism of SPT5 phosphorylation is not well understood in plants. Here, we examine the function of SPT5 in <i>Arabidopsis thaliana</i> and find that <i>spt5</i> mutant flowers early under long-day and short-day conditions. SPT5 interacts with the CDK-activating kinase 4 (CAK4; CDKD;2) and is specifically phosphorylated by CDKD;2 at threonines. The phosphorylated SPT5 binds VERNALIZATION INDEPENDENCE5 (VIP5), a subunit of the PAF1 complex. Genetic analysis showed that <i>VIP5</i> acts downstream of <i>SPT5</i> and <i>CDKD;2</i> Loss of <i>SPT5</i> or <i>CDKD;2</i> function results in early flowering because of decreased amounts of <i>FLOWERING LOCUS C</i> (<i>FLC</i>) transcript. Importantly, <i>CDKD;2</i> and <i>SPT5</i> are required for the deposition of VIP5 and the enhancement of trimethylation of histone 3 lysine 4 in the chromatin of the <i>FLC</i> locus. Together, our results provide insight into the mechanism by which the Arabidopsis elongation factor SPT5 recruits the PAF1 complex via the posttranslational modification of proteins and suggest that the phosphorylation of SPT5 by CDKD;2 enables it to recruit VIP5 to regulate chromatin and transcription in Arabidopsis.
+
+SPT5: !interacts with! P-TEFb 
+P-TEFb: !comprised of! CDK9 & cyclin T 
+CDKD;2: !phosphorylates! SPT5 
+SPT5: !binds! VIP5 
+VIP5: !acts downstream of! SPT5 & CDKD;2 
+SPT5 & CDKD;2: !required for! deposition of VIP5 
+SPT5 & CDKD;2: !required for! enhancement of histone 3 lysine 4

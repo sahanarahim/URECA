@@ -1,0 +1,8 @@
+In plants, unisexual flowers derived from developmental sex determination form separate stamens and pistils that facilitate cross pollination. In cucumber and melon, ethylene plays a key role in sex determination. Six sex determination-related genes have been identified in ethylene biosynthesis in these Cucumis species. The interactions among these genes are thought to involve ethylene signaling; however, the underlying mechanism of regulation remains unknown. In this study, hormone treatment and qPCR assays were used to confirm expression of these sex determination-related genes in cucumber and melon is ethylene sensitive. RNA-Seq analysis subsequently helped identify the ethylene responsive factor (ERF) gene, CsERF110, related to ethylene signaling and sex determination. CsERF110 and its melon ortholog, CmERF110, shared a conserved AP2/ERF domain and showed ethylene-sensitive expression. Yeast one-hybrid and ChIP-PCR assays further indicated that CsERF110 bound to at least two sites in the promoter fragment of CsACS11, while transient transformation analysis showed that CsERF110 and CmERF110 enhance CsACS11 and CmACS11 promoter activity, respectively. Taken together, these findings suggest that CsERF110 and CmERF110 respond to ethylene signaling, mediating ethylene-regulated transcription of CsACS11 and CmACS11 in cucumber and melon, respectively. Furthermore, the mechanism involved in its regulation is thought to be conserved in these two Cucumis species.
+
+CsERF110: !binds to! CsACS11
+CsERF110: !enhances! CsACS11 promoter activity
+CmERF110: !binds to! CmACS11
+CmERF110: !enhances! CmACS11 promoter activity
+ethylene: !regulates! CsERF110
+ethylene: !regulates! CmERF110

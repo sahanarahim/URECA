@@ -1,0 +1,12 @@
+A small GTPase, Rac1, plays a key role in rice (Oryza sativa) innate immunity as part of a complex of regulatory proteins. Here, we used affinity column chromatography to identify rice RACK1 (for Receptor for Activated C-Kinase 1) as an interactor with Rac1. RACK1 functions in various mammalian signaling pathways and is involved in hormone signaling and development in plants. Rice contains two RACK1 genes, RACK1A and RACK1B, and the RACK1A protein interacts with the GTP form of Rac1. Rac1 positively regulates RACK1A at both the transcriptional and posttranscriptional levels. RACK1A transcription was also induced by a fungal elicitor and by abscisic acid, jasmonate, and auxin. Analysis of transgenic rice plants and cell cultures indicates that RACK1A plays a role in the production of reactive oxygen species (ROS) and in resistance against rice blast infection. Overexpression of RACK1A enhances ROS production in rice seedlings. RACK1A was shown to interact with the N terminus of NADPH oxidase, RAR1, and SGT1, key regulators of plant disease resistance. These results suggest that RACK1A functions in rice innate immunity by interacting with multiple proteins in the Rac1 immune complex.
+
+Rac1: !interacts with! RACK1A
+RACK1A: !transcriptionally regulated by! Rac1
+RACK1A: !induced by! fungal elicitor
+RACK1A: !induced by! abscisic acid
+RACK1A: !induced by! jasmonate
+RACK1A: !induced by! auxin
+RACK1A: !enhances! ROS production
+RACK1A: !interacts with! NADPH oxidase
+RACK1A: !interacts with! RAR1
+RACK1A: !interacts with! SGT1

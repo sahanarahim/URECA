@@ -1,0 +1,12 @@
+We investigated the microdistribution of xylans in different cell types of Arabidopsis stem using immunolocalization methods with LM10 and LM11 antibodies. Xylan labeling in xylary fibers (fibers) was initially detected at the cell corner of the S(1) layer and increased gradually during fiber maturation, showing correlation between xylan labeling and general secondary cell wall formation processes in fibers. Metaxylem vessels (vessels) showed earlier development of secondary cell walls than fibers, but revealed almost identical labeling patterns to fibers during maturation. No difference in labeling patterns and intensity was detected in the cell wall of fibers, vessels and protoxylem vessels (proto-vessels) between LM10 and LM11, indicating that vascular bundle cells may be chemically composed of a highly homogeneous xylan type. Interestingly, interfascicular fibers (If-fibers) showed different labeling patterns between the two antibodies and also between different developmental stages. LM10 showed no labeling in primary cell walls and intercellular layers of If-fibers at the S(1) formation stage, but some labeling was detected in middle lamella cell corner regions at the S(2) formation stage. In contrast, LM11 revealed uniform labeling across the If-fiber cell wall during all developmental stages. These results suggest that If-fibers have different xylan deposition processes and patterns from vascular bundle cells. The presence of xylan was also confirmed in parenchyma cells following pectinase treatment. Together our results indicate that there are temporal and spatial differences in xylan labeling between cell types in Arabidopsis stem. Differences in xylan labeling between Arabidopsis stem and poplar are also discussed.
+
+xylan: !localizes to! fibers 
+xylan: !localizes to! vessels 
+xylan: !localizes to! proto-vessels 
+xylan: !localizes to! If-fibers 
+xylan: !localizes to! parenchyma cells 
+fibers: !show correlation with! secondary cell wall formation 
+vessels: !develop earlier than! fibers 
+If-fibers: !show different labeling patterns from! vascular bundle cells 
+LM10: !reveals no labeling in! primary cell walls of If-fibers 
+LM11: !reveals uniform labeling across! If-fiber cell wall

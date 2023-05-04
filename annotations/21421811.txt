@@ -1,0 +1,10 @@
+Plant organ growth and final size are determined by coordinated cell proliferation and expansion. The BIGPETALp (BPEp) basic helix-loop-helix (bHLH) transcription factor was shown to limit Arabidopsis thaliana petal growth by influencing cell expansion. We demonstrate here that BPEp interacts with AUXIN RESPONSE FACTOR8 (ARF8) to affect petal growth. This interaction is mediated through the BPEp C-terminal domain (SD(BPEp)) and the C-terminal domain of ARF8. Site-directed mutagenesis identified an amino acid consensus motif in SD(BPEp) that is critical for mediating BPEp-ARF8 interaction. This motif shares sequence similarity with motif III of ARF and AUXIN/INDOLE-3-ACETIC ACID proteins. Petals of arf8 mutants are significantly larger than those of the wild type due to increased cell number and increased cell expansion. bpe arf8 double mutant analyses show that during early petal development stages, ARF8 and BPEp work synergistically to limit mitotic growth. During late stages, ARF8 and BPEp interact to limit cell expansion. The alterations in cell division and cell expansion observed in arf8 and/or bpe mutants are associated with a change in expression of early auxin-responsive genes. The data provide evidence of an interaction between an ARF and a bHLH transcription factor and of its biological significance in regulating petal growth, with local auxin levels likely influencing such a biological function.
+
+BPEp: !interacts with! ARF8
+ARF8: !affects! petal growth
+BPEp: !mediates interaction with! ARF8 C-terminal domain
+SD(BPEp): !contains! amino acid consensus motif
+arf8 mutants: !have larger! petals
+bpe arf8 double mutant: !show synergistic effect on! mitotic growth
+ARF8 and BPEp: !limit! cell expansion
+auxin-responsive genes: !change expression in! arf8 and/or bpe mutants

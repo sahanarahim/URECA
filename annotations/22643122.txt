@@ -1,0 +1,9 @@
+In Arabidopsis thaliana, the MEKK1-MKK1/MKK2-MPK4 mitogen-activated protein (MAP) kinase cascade represses cell death and immune responses. In mekk1, mkk1 mkk2, and mpk4 mutants, programmed cell death and defense responses are constitutively activated, but the mechanism by which MEKK1, MKK1/MKK2, and MPK4 negatively regulate cell death and immunity was unknown. From a screen for suppressors of mkk1 mkk2, we found that mutations in suppressor of mkk1 mkk2 1 (summ1) suppress the cell death and defense responses not only in mkk1 mkk2 but also in mekk1 and mpk4. SUMM1 encodes the MAP kinase kinase kinase MEKK2. It interacts with MPK4 and is phosphorylated by MPK4 in vitro. Overexpression of SUMM1 activates cell death and defense responses that are dependent on the nucleotide binding-leucine-rich repeat protein SUMM2. Taken together, our data suggest that the MEKK1-MKK1/MKK2-MPK4 kinase cascade negatively regulates MEKK2 and activation of MEKK2 triggers SUMM2-mediated immune responses.
+
+MEKK1: !represses! cell death and immune responses
+MKK1/MKK2: !represses! cell death and immune responses
+MPK4: !represses! cell death and immune responses
+SUMM1: !interacts with! MPK4
+SUMM1: !phosphorylated by! MPK4
+SUMM1: !activates! cell death and defense responses
+SUMM2: !mediated by! SUMM1

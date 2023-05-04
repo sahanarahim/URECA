@@ -1,0 +1,10 @@
+Plant roots undergo tropic growth in response to environmental cues, and each tropic response is affected by several environmental stimuli. Even its importance, molecular regulation of hydrotropism has not been largely uncovered. Tropic responses including hydrotropism were impacted by other environmental signal. We found that hydrotropism was reduced in dark-grown seedling. Moreover, we found that the expression of MIZ1, an essential gene for hydrotropism, was regulated by light signal. From our genetic analysis, phytochrome A (phyA)-, phyB- and HY5-mediated blue-light signalling play curial roles in light-mediated induction of MIZ1 and hydrotropism. In addition, we found that abscisic acid (ABA) also induced MIZ1 expression. ABA treatment could recover weak hydrotropism and MIZ1 expression level of hy5, and ABA synthesis inhibitor, abamineSG, further reduced hydrotropic curvature of hy5. In contrast, ABA treatment did not affect ahydrotropic phenotype of miz1. These results suggest that ABA signalling regulates MIZ1 expression independently from light signalling. Our results demonstrate that environmental signals, such as light and stresses mediated by ABA signalling, are integrated into MIZ1 expression and thus regulate hydrotropism. These machineries will allow plants to acquire sufficient amounts of water.
+
+light: !induces! MIZ1
+phyA: !mediates! light-induced MIZ1
+phyB: !mediates! light-induced MIZ1
+HY5: !mediates! light-induced MIZ1
+ABA: !induces! MIZ1
+ABA: !synthesizes! I
+MIZ1: !affects! hydrotropism
+ABA: !regulates! MIZ1

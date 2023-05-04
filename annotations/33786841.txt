@@ -1,0 +1,7 @@
+Ustilago maydis is a biotrophic fungus causing smut disease in corn. The infectious forms are dikaryotic hyphae. Here we analyze mutants lacking the nlt1 transcription factor and investigate why these mutants are unable to induce leaf tumors. The study involved reverse genetics, complementation, epistasis analysis, microscopy, gene expression analysis by quantitative reverse transcriptase PCR and virulence assays. We show that nlt1 mutants colonize maize leaves efficiently but fail to undergo karyogamy and are attenuated in late proliferation. Nlt1 activates transcription of ros1, a transcription factor controlling karyogamy, and represses see1, an effector previously shown to contribute to leaf tumor induction. In mononuclate solopathogenic strains, nlt1 mutants cause attenuated leaf tumor formation. In actively dividing maize organs, nlt1 mutants undergo karyogamy and induce tumor formation. Sporisorium reilianum, a smut fungus unable to induce leaf tumors, possesses an ortholog of nlt1 that controls the fusion of dikaryotic nuclei late in infection during cob colonization. Our results have established a regulatory connection between nlt1, ros1 and see1 and suggest the existence of two stages contributing to leaf tumor formation, one before nuclear fusion and involving nlt1 and one after karyogamy that is nlt1 independent.
+
+nlt1: !activates! ros1
+nlt1: !represses! see1
+ros1: !controls! karyogamy
+see1: !contributes to! leaf tumor induction
+nlt1: !induces! tumor formation

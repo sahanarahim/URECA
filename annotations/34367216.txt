@@ -1,0 +1,10 @@
+['34367216', 'Alternative oxidase (AOX) and plastid terminal oxidase (PTOX) are terminal  oxidases of electron transfer in mitochondria and chloroplasts, respectively.  Here, taking advantage of the variegation phenotype of the Arabidopsis PTOX  deficient mutant (im), we examined the functional relationship between PTOX and  its five distantly related homologs (AOX1a, 1b, 1c, 1d, and AOX2). When  engineered into chloroplasts, AOX1b, 1c, 1d, and AOX2 rescued the im defect,  while AOX1a partially suppressed the mutant phenotype, indicating that AOXs could  function as PQH(2) oxidases. When the full length AOXs were overexpressed in im,  only AOX1b and AOX2 rescued its variegation phenotype. In vivo fluorescence  analysis of GFP-tagged AOXs and subcellular fractionation assays showed that  AOX1b and AOX2 could partially enter chloroplasts while AOX1c and AOX1d were  exclusively present in mitochondria. Surprisingly, the subcellular fractionation,  but not the fluorescence analysis of GFP-tagged AOX1a, revealed that a small  portion of AOX1a could sort into chloroplasts. We further fused and expressed the  targeting peptides of AOXs with the mature form of PTOX in im individually; and  found that targeting peptides of AOX1a, AOX1b, and AOX2, but not that of AOX1c or  AOX1d, could direct PTOX into chloroplasts. It demonstrated that  chloroplast-localized AOXs, but not mitochondria-localized AOXs, can functionally  compensate for the PTOX deficiency in chloroplasts, providing a direct evidence  for the functional relevance of AOX and PTOX, shedding light on the interaction  between mitochondria and chloroplasts and the complex mechanisms of protein dual  targeting in plant cells.', '2021', 'Front Plant Sci', '10.3389/fpls.2021.692847', 'Fu']
+
+AOX1a: !partially suppresses! im defect
+AOX1b: !rescues! im defect
+AOX1c: !localizes to! mitochondria
+AOX1d: !localizes to! mitochondria
+AOX2: !rescues! im defect
+PTOX: !interacts with! AOXs
+GFP-tagged AOXs: !localize to! chloroplasts
+Targeting peptides of AOXs: !direct! PTOX into chloroplasts

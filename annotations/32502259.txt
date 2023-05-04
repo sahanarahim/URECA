@@ -1,0 +1,7 @@
+Plants are continuously exposed to different abiotic and biotic stresses; therefore, to protect themselves, they depend on the fast reprogramming of large gene repertoires to prioritize the expression of a given stress-induced gene set over normal cellular household genes. The activity of the proteasome, a large proteolytic complex that degrades proteins, is vital to coordinate the expression of such genes. Proteins are labeled for degradation by the action of E3 ligases that site-specifically alter their substrates by adding chains of ubiquitin. Recent publications have revealed an extensive role of ubiquitination in the utilization of nutrients. This study presents the transcriptomic profiles of sulfur-deficient rosettes and roots of Arabidopsis thaliana rpt2a mutant with proteasomal malfunction. We found that genes connected with sulfur metabolism are regulated to the lesser extent in rpt2a mutant while genes encoding transfer RNAs and small nucleolar RNAs are highly upregulated. Several genes encoding E3 ligases are specifically regulated by sulfur deficiency. Furthermore, we show that a key transcription factor of sulfur deficiency response, Sulfur LIMitation1, undergoes proteasomal degradation and is able to interact with F-box protein, EBF1.
+
+Gene: !affects! Process 
+E3 ligase: !labels for degradation! Proteins 
+Sulfur LIMITATION1: !interacts with! F-box protein EBF1 
+Sulfur deficiency: !represses! Sulfur metabolism genes 
+Sulfur deficiency: !enhances! Transfer RNAs and small nucleolar RNAs genes

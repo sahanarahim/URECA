@@ -1,0 +1,10 @@
+Phosphatidylinositol 3,5-bisphosphate [PI(3,5)P2] is one of the phosphoinositides that controls endosomal trafficking events in eukaryotes. PtdIns(3,5)P2 is produced from PI(3)P by phosphatidylinositol 3-phosphate 5-kinase FAB1/PIKfyve. Recently, we reported that FAB1 predominantly localizes on the SNX1-residing late endosomes and a loss-of FAB1 function causes the release of late endosomal effector proteins, ARA7/RABF2b and SORTING NEXIN 1 from the endosome membrane, indicating that FAB1 or its product PtdIns(3,5)P2 mediates the maturation process of the late endosomes. Intriguingly, the ectopic expression of FAB1A could complement the sucrose-dependent seedling growth phenotype of snx1-1 mutant. Here, we demonstrated that the depletion of SNX1 causes the release of SNX2b-mRFP from the endosomal membrane. However, overexpression of FAB1A-GFP reassembles SNX2b-mRFP on the endosomal membrane despite the absence of SNX1. From these results, we proposed that SNX2b homodimer or SNX2a/SNX2b heterodimer might function as functional Sorting Nexin complex instead of SNX1 to attach the endosomal membrane by binding of overproduced PI(3,5)P2 in Arabidopsis.
+
+FAB1: !localizes to! SNX1-residing late endosomes
+FAB1: !produces! PtdIns(3,5)P2
+SNX1: !causes release of! ARA7/RABF2b and SORTING NEXIN 1
+SNX1: !causes release of! SNX2b-mRFP
+FAB1A: !complements! snx1-1 mutant phenotype
+SNX2b: !functions as! functional Sorting Nexin complex
+SNX2a/SNX2b: !functions as! functional Sorting Nexin complex
+FAB1A-GFP: !reassembles! SNX2b-mRFP on endosomal membrane

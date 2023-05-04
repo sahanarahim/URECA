@@ -1,0 +1,8 @@
+['11722763', 'We have used fusions of gibberellin biosynthesis enzymes to green fluorescent  protein (GFP) to determine the subcellular localization of the early steps of the  pathway. Gibberellin biosynthesis from geranylgeranyl diphosphate is catalysed by  enzymes of the terpene cyclase, cytochrome P450 mono-oxygenase and  2-oxoglutarate-dependent dioxygenase classes. We show that the N-terminal  pre-sequences of the Arabidopsis thaliana terpene cyclases copalyl diphosphate  synthase (AtCPS1) and ent-kaurene synthase (AtKS1) direct GFP to chloroplasts in  transient assays following microprojectile bombardment of tobacco leaves. The  AtKS1-GFP fusion is also imported by isolated pea chloroplasts. The N-terminal  portion of the cytochrome P450 protein ent-kaurene oxidase (AtKO1) directs GFP to  chloroplasts in tobacco leaf transient assays. Chloroplast import assays with  35S-labelled AtKO1 protein show that it is targeted to the outer face of the  chloroplast envelope. The leader sequences of the two ent-kaurenoic acid oxidases  (AtKAO1 and AtKAO2) from Arabidopsis direct GFP to the endoplasmic reticulum.  These data suggest that the AtKO1 protein links the plastid- and endoplasmic  reticulum-located steps of the gibberellin biosynthesis pathway by association  with the outer envelope of the plastid.', '2001 Oct', 'Plant J', '10.1046/j.1365-313x.2001.01150.x', 'Dennis']
+
+AtCPS1: !localizes to! chloroplasts 
+AtKS1: !localizes to! chloroplasts 
+AtKO1: !localizes to! chloroplasts 
+AtKAO1: !localizes to! endoplasmic reticulum 
+AtKAO2: !localizes to! endoplasmic reticulum 
+AtKO1: !links! plastid and endoplasmic reticulum

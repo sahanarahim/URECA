@@ -1,0 +1,11 @@
+In the era of genomics, if a gene is not annotated, it is not investigated. Due to their small size, genes encoding peptides are often missed in genome annotations. Secreted peptides are important regulators of plant growth, development, and physiology. Identification of additional peptide signals by sequence homology searches has had limited success due to sequence heterogeneity. A bioinformatics approach was taken to find unannotated Arabidopsis (Arabidopsis thaliana) peptides. Arabidopsis chromosome sequences were searched for all open reading frames (ORFs) encoding peptides and small proteins between 25 and 250 amino acids in length. The translated ORFs were then sequentially queried for the presence of an amino-terminal cleavable signal peptide, the absence of transmembrane domains, and the absence of endoplasmic reticulum lumenal retention sequences. Next, the ORFs were filtered against the The Arabidopsis Information Resource 6.0 annotated Arabidopsis genes to remove those ORFs overlapping known genes. The remaining 33,809 ORFs were placed in a relational database to which additional annotation data were deposited. Genome-wide tiling array data were compared with the coordinates of the ORFs, supporting the possibility that many of the ORFs may be expressed. In addition, clustering and sequence similarity analyses revealed that many of the putative peptides are in gene families and/or appear to be present in the rice (Oryza sativa) genome. A subset of the ORFs was evaluated by reverse transcription-PCR and, for one-fifth of those, expression was detected. These results support the idea that the number and diversity of plant peptides is broader than currently assumed. The peptides identified and their annotation data may be viewed or downloaded through a searchable Web interface at peptidome.missouri.edu.
+
+Gene: !encodes! Peptide 
+Gene: !cleaves! Signal Peptide 
+Gene: !lacks! Transmembrane Domain 
+Gene: !lacks! Endoplasmic Reticulum Lumenal Retention Sequence 
+Gene: !overlaps! Annotated Gene 
+Gene: !compared with! Tiling Array Data 
+Gene: !clustered by! Sequence Similarity 
+Gene: !evaluated by! Reverse Transcription-PCR 
+Gene: !expressed! One-Fifth of ORFs

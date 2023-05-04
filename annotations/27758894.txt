@@ -1,0 +1,9 @@
+['27758894', 'Systemic acquired resistance (SAR) is an immune response induced in the distal  parts of plants following defense activation in local tissue. Pipecolic acid  (Pip) accumulation orchestrates SAR and local resistance responses. Here, we  report the identification and characterization of SAR-DEFICIENT4 (SARD4), which  encodes a critical enzyme for Pip biosynthesis in Arabidopsis thaliana Loss of  function of SARD4 leads to reduced Pip levels and accumulation of a Pip  precursor, Delta(1)-piperideine-2-carboxylic acid (P2C). In Escherichia coli,  expression of the aminotransferase ALD1 leads to production of P2C and addition  of SARD4 results in Pip production, suggesting that a Pip biosynthesis pathway  can be reconstituted in bacteria by coexpression of ALD1 and SARD4. In vitro  experiments showed that ALD1 can use l-lysine as a substrate to produce P2C and  P2C is converted to Pip by SARD4. Analysis of sard4 mutant plants showed that  SARD4 is required for SAR as well as enhanced pathogen resistance conditioned by  overexpression of the SAR regulator FLAVIN-DEPENDENT MONOOXYGENASE1. Compared  with the wild type, pathogen-induced Pip accumulation is only modestly reduced in  the local tissue of sard4 mutant plants, but it is below detection in distal  leaves, suggesting that Pip is synthesized in systemic tissue by SARD4-mediated  reduction of P2C and biosynthesis of Pip in systemic tissue contributes to SAR  establishment.', '2016 Oct', 'Plant Cell', '10.1105/tpc.16.00486', 'ORCID:']
+
+SARD4: !synthesizes! Pip 
+ALD1: !produces! P2C 
+ALD1: !uses! l-lysine 
+SARD4: !converts! P2C 
+SARD4: !required for! SAR 
+SARD4: !required for! enhanced pathogen resistance 
+SARD4: !contributes to! SAR establishment

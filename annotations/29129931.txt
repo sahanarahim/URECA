@@ -1,0 +1,7 @@
+Assessing functional diversity from space can help predict productivity and stability of forest ecosystems at global scale using biodiversity-ecosystem functioning relationships. We present a new spatially continuous method to map regional patterns of tree functional diversity using combined laser scanning and imaging spectroscopy. The method does not require prior taxonomic information and integrates variation in plant functional traits between and within plant species. We compare our method with leaf-level field measurements and species-level plot inventory data and find reasonable agreement. Morphological and physiological diversity show consistent change with topography and soil, with low functional richness at a mountain ridge under specific environmental conditions. Overall, functional richness follows a logarithmic increase with area, whereas divergence and evenness are scale invariant. By mapping diversity at scales of individual trees to whole communities we demonstrate the potential of assessing functional diversity from space, providing a pathway only limited by technological advances and not by methodology.
+
+method: !maps! functional diversity
+topography: !influences! functional richness
+area: !increases! functional richness
+diversity: !follows! logarithmic increase
+evenness: !remains! scale invariant

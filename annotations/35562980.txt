@@ -1,0 +1,16 @@
+Sucrose phloem unloading plays a vital role in photoassimilate distribution and storage in sink organs such as fruits and seeds. In most plants, the phloem unloading route was reported to shift between an apoplasmic and a symplasmic pattern with fruit development. However, the molecular transition mechanisms of the phloem unloading pathway still remain largely unknown. In this study, we applied RNA sequencing to profile the specific gene expression patterns for sucrose unloading in <i>C. oleifera</i> fruits in the apo- and symplasmic pathways that were discerned by CF fluoresce labelling. Several key structural genes were identified that participate in phloem unloading, such as <i>PDBG11</i>, <i>PDBG14</i>, <i>SUT8</i>, <i>CWIN4,</i> and <i>CALS10</i>. In particular, the key genes controlling the process were involved in callose metabolism, which was confirmed by callose staining. Based on the co-expression network analysis with key structural genes, a number of transcription factors belonging to the MYB, C2C2, NAC, WRKY, and AP2/ERF families were identified to be candidate regulators for the operation and transition of phloem unloading. KEGG enrichment analysis showed that some important metabolism pathways such as plant hormone metabolism, starch, and sucrose metabolism altered with the change of the sugar unloading pattern. Our study provides innovative insights into the different mechanisms responsible for apo- and symplasmic phloem unloading in oil tea fruit and represents an important step towards the omics delineation of sucrose phloem unloading transition in crops.
+
+PDBG11: !affects! Sucrose unloading
+PDBG14: !affects! Sucrose unloading
+SUT8: !affects! Sucrose unloading
+CWIN4: !affects! Sucrose unloading
+CALS10: !affects! Sucrose unloading
+Callose: !synthesizes! Structural genes
+MYB: !regulates! Phloem unloading
+C2C2: !regulates! Phloem unloading
+NAC: !regulates! Phloem unloading
+WRKY: !regulates! Phloem unloading
+AP2/ERF: !regulates! Phloem unloading
+Hormone metabolism: !alters with! Sugar unloading pattern
+Starch: !alters with! Sugar unloading pattern
+Sucrose metabolism: !alters with! Sugar unloading pattern

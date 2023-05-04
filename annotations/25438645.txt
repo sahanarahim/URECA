@@ -1,0 +1,9 @@
+Rice allelopathy is a hot topic in the field of allelopathy, and behaviour of donor allelopathic rice has been well documented. However, few study addresses response of receiver barnyardgrass (BYG). We found that expression of miRNAs relevant to plant hormone signal transduction, nucleotide excision repair and the peroxisome proliferator-activated receptor and p53 signalling pathways was enhanced in BYG co-cultured with the allelopathic rice cultivar PI312777, the expression levels of these miRNAs in BYG plants were positively correlated with allelopathic potential of the co-cultured rice varieties. Treatment of BYG plants with rice-produced phenolic acids also increased miRNA expression in BYG, while treatment with rice-produced terpenoids had no obvious effect on miRNA expression. In the hydroponic system, the largest number of Myxococcus sp. was found in the growth medium containing rice with the highest allelopathic potential. The addition of phenolic acids in the hydroponic medium also increased the number of Myxococcus sp. More interestingly, inoculation with Myxococcus xanthus significantly increased miRNA expression in the treated BYG. Jointed treatments of ferulic acid and M. xanthus led to strongest growth inhibition of BYG. The results suggest that there exist involvement of Myxococcus sp. and mediation of miRNA expression in rice allelopathy against BYG.
+
+rice: !produces! phenolic acids 
+rice: !produces! terpenoids 
+phenolic acids: !increases! miRNA expression 
+terpenoids: !has no effect on! miRNA expression 
+Myxococcus sp.: !found in! growth medium 
+Myxococcus sp.: !increases! miRNA expression 
+ferulic acid: !jointly increases! Myxococcus sp.

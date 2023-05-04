@@ -1,0 +1,8 @@
+The Botany Array Resource provides the means for obtaining and archiving microarray data for Arabidopsis thaliana as well as biologist-friendly tools for viewing and mining both our own and other's data, for example, from the AtGenExpress Consortium. All the data produced are publicly available through the web interface of the database at http://bbc.botany.utoronto.ca. The database has been designed in accordance with the Minimum Information About a Microarray Experiment convention -- all expression data are associated with the corresponding experimental details. The database is searchable and it also provides a set of useful and easy-to-use web-based data-mining tools for researchers with sophisticated yet understandable output graphics. These include Expression Browser for performing 'electronic Northerns', Expression Angler for identifying genes that are co-regulated with a gene of interest, and Promomer for identifying potential cis-elements in the promoters of individual or co-regulated genes.
+
+Gene: !affects! Process
+Gene: !localizes to! Arabidopsis thaliana
+Gene: !interacts with! AtGenExpress Consortium
+Gene: !enhances! Expression Browser
+Gene: !represses! Expression Angler
+Gene: !synthesizes! Promomer

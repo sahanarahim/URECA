@@ -1,0 +1,9 @@
+Plant disease detection technology is an important part of the intelligent agricultural Internet of Things monitoring system. The real natural environment requires the plant disease detection system to have extremely high real time detection and accuracy. The lightweight network MobileNetv2-YOLOv3 model can meet the real-time detection, but the accuracy is not enough to meet the actual needs. This study proposed a multiscale parallel algorithm MP-YOLOv3 based on the MobileNetv2-YOLOv3 model. The proposed method put forward a multiscale feature fusion method, and an efficient channel attention mechanism was introduced into the detection layer of the network to achieve feature enhancement. The parallel detection algorithm was used to effectively improve the detection performance of multiscale tomato gray mold lesions while ensuring the real-time performance of the algorithm. The experimental results show that the proposed algorithm can accurately and real-time detect multiscale tomato gray mold lesions in a real natural environment. The F1 score and the average precision reached 95.6 and 93.4% on the self-built tomato gray mold detection dataset. The model size was only 16.9 MB, and the detection time of each image was 0.022 s.
+
+MobileNetv2-YOLOv3: !enhanced by! MP-YOLOv3 
+MP-YOLOv3: !uses! multiscale feature fusion 
+MP-YOLOv3: !incorporates! channel attention mechanism 
+MP-YOLOv3: !utilizes! parallel detection algorithm 
+MP-YOLOv3: !achieves! 95.6 F1 score, 93.4% average precision 
+MP-YOLOv3: !has! 16.9 MB model size 
+MP-YOLOv3: !detects! 0.022 s per image

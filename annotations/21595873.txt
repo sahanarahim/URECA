@@ -1,0 +1,9 @@
+In order to comprehend the mechanisms of induced plant defense, knowledge of the biosynthesis and signaling pathways mediated by salicylic acid (SA), jasmonic acid (JA) and ethylene (ET) is essential. Potentially, many transcription factors could be involved in the regulation of these pathways, although finding them is a difficult endeavor. Here we report the use of publicly available Arabidopsis microarray datasets to generate gene co-expression networks. Using 372 publicly available microarray data sets, a network was constructed in which Arabidopsis genes for known components of SA, JA and ET pathways together with the genes of over 1400 transcription factors were assayed for co-expression. After determining the Pearson Correlation Coefficient cutoff to obtain the most probable biologically relevant co-expressed genes, the resulting network confirmed the presence of many genes previously reported in literature to be relevant for stress responses and connections that fit current models of stress gene regulation, indicating the potential of our approach. In addition, the derived network suggested new candidate genes and associations that are potentially interesting for future research to further unravel their involvement in responses to stress. In this study large sets of stress related microarrays were used to reveal co-expression networks of transcription factors and signaling pathway components. These networks will benefit further characterization of the signal transduction pathways involved in plant defense.
+
+SA: !regulates! JA
+JA: !regulates! ET
+microarray datasets: !generate! gene co-expression networks
+Pearson Correlation Coefficient: !determines! most probable biologically relevant co-expressed genes
+network: !confirms! presence of many genes
+network: !suggests! new candidate genes and associations
+microarrays: !reveal! co-expression networks of transcription factors and signaling pathway components

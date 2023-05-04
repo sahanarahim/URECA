@@ -1,0 +1,12 @@
+SMALLER TRICHOMES WITH VARIABLE BRANCHES (SVB) is an emerging plant growth regulator in trichome development, endoplasmic reticulum stress response, and phosphoinositide signaling, and belongs to the land plant-specific DUF538 domain-containing protein family. Despite its multifaceted roles, the functions of this protein family are poorly understood in plant growth and development. Here, we report that SVB-like (SVBL), the closest homolog of SVB, modulates plant growth and trichome development with SVB in Arabidopsis thaliana. Although none of the single mutants showed an obvious growth defect, the double mutants of svb svbl exhibited dwarfed plant growth. In trichome development, the defects in svb mutant were greatly enhanced by the additional mutation in SVBL, despite the single knockout of SVBL showing the mild defects. The double mutation reduced the transcript level of one of the central hub genes for trichome development, GLABRA1 (GL1), which in turn affects the other downstream genes, GLABRA2 (GL2), TRANSPARENT TESTA GLABRA2 (TTG2), TRIPTYCHON (TRY), CAPRICE (CPC), and ENHANCER OF TRY AND CPC1 (ETC1). In situ translational reporter assays showed that SVB and SVBL share highly similar localization patterns both at tissue and subcellular levels. The present study suggests that SVB and SVBL play a pivotal role in plant growth and trichome development by affecting a specific subset of known trichome developmental regulators, highlighting the importance of the DUF538 protein family in higher plants.
+
+SVB: !affects! trichome development
+SVBL: !affects! trichome development
+SVB: !localizes to! tissue and subcellular levels
+SVBL: !localizes to! tissue and subcellular levels
+SVB: !interacts with! SVBL
+SVBL: !interacts with! SVB
+SVB: !represses! GL1
+SVBL: !represses! GL1
+SVB: !enhances! GL2, TTG2, TRY, CPC, ETC1
+SVBL: !enhances! GL2, TTG2, TRY, CPC, ETC1

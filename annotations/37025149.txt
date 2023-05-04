@@ -1,0 +1,6 @@
+Low temperatures restrict the growth and geographic distribution of plants, as well as crop yields. Appropriate transcriptional regulation is critical for cold acclimation in plants. In this study, we found that the mutation of Leaf and flower related (LFR), a component of SWI/SNF chromatin remodeling complex (CRC) important for transcriptional regulation in Arabidopsis (<i>Arabidopsis thaliana</i>), resulted in hypersensitivity to freezing stress in plants with or without cold acclimation, and this defect was successfully complemented by <i>LFR</i>. The expression levels of <i>CBFs</i> and <i>COR</i> genes in cold-treated <i>lfr-1</i> mutant plants were lower than those in wild-type plants. Furthermore, LFR was found to interact directly with ICE1 in yeast and plants. Consistent with this, LFR was able to directly bind to the promoter region of <i>CBF3</i>, a direct target of ICE1. LFR was also able to bind to <i>ICE1</i> chromatin and was required for <i>ICE1</i> transcription. Together, these results demonstrate that LFR interacts directly with ICE1 and activates <i>ICE1</i> and <i>CBF3</i> gene expression in response to cold stress. Our work enhances our understanding of the epigenetic regulation of cold responses in plants.
+
+LFR: !interacts with! ICE1
+LFR: !activates! ICE1
+LFR: !activates! CBF3
+ICE1: !regulates! CBF3

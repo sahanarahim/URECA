@@ -1,0 +1,8 @@
+Multiple flowering pathways in Arabidopsis (<i>Arabidopsis thaliana</i>) converge on the transcriptional regulation of <i>FLOWERING LOCUS T</i> (<i>FT</i>), encoding a mobile floral stimulus that moves from leaves to the shoot apex. Despite our progress in understanding FT movement, the mechanisms underlying its transport along the endoplasmic reticulum-plasmalemma pathway in phloem companion cells remain largely unclear. Here, we show that the plasma membrane-resident syntaxin-like glutamine-soluble <i>N</i>-ethylmaleimide-sensitive factor protein attachment protein receptor (Q-SNARE), SYNTAXIN OF PLANTS121 (SYP121), interacts with QUIRKY (QKY), a member of the family of multiple C2 domain and transmembrane region proteins (MCTPs), to mediate FT transport in Arabidopsis. QKY and SYP121 coordinately regulate FT movement to the plasmalemma through the endosomal trafficking pathway and are required for FT export from companion cells to sieve elements, thus affecting FT transport through the phloem to the shoot apical meristem. These findings suggest that MCTP-SNARE complex-mediated endosomal trafficking is essential for the export of florigen from phloem companion cells to sieve elements to induce flowering.plantcell;31/10/2475/FX1F1fx1.
+
+QKY: !interacts with! SYP121
+SYP121: !mediates! FT transport
+QKY: !coordinately regulates! FT movement
+QKY/SYP121: !required for! FT export
+FT export: !affects! FT transport
+FT transport: !induces! flowering

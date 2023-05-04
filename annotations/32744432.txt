@@ -1,0 +1,8 @@
+To survive, sessile plants must adapt to grow and develop when facing water-deficit stress. However, the molecular mechanisms underlying fine-tuning of the antagonistic action between stress response and growth remain to be determined. Here, plants overexpressing Lateral Organ Boundaries Domain 15 (LBD15) showed abscisic acid (ABA) hypersensitivity and tolerance of water-deficit stress, whereas the loss-of-function mutant lbd15 presented decreased sensitivity to ABA and increased sensitivity to water-deficit stress. Further analysis revealed that LBD15 directly binds to the promoter of the ABA signaling pathway gene ABSCISIC ACID INSENSITIVE4 (ABI4) to activate its expression, thereby forming an LBD15-ABI4 cascade to optimally regulate ABA signaling-mediated plant growth and tolerance of water-deficit stress. In addition, drought stress-induced ABA signaling promoted LBD15 expression, which directly activates expression of ABI4 to close stomata. As a result, water loss is reduced, and then water-deficit stress tolerance is increased. The results of this study reveal a molecular mechanism by which LBD15 coordinates and balances plant growth and resistance to water-deficit stress.
+
+LBD15: !binds to! ABI4
+LBD15: !activates! ABI4
+ABA: !promotes! LBD15
+LBD15: !activates! ABI4
+ABI4: !regulates! ABA signaling
+ABI4: !closes! stomata

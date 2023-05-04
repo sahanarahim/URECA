@@ -1,0 +1,9 @@
+Non-cell autonomous RNA silencing can spread from cell to cell and over long distances in animals and plants. However, the genetic requirements and signals involved in plant mobile gene silencing are poorly understood. Here, we identified a <i>DICER-LIKE2</i> (<i>DCL2</i>)<i>-</i>dependent mechanism for systemic spread of posttranscriptional RNA silencing, also known as posttranscriptional gene silencing (PTGS), in <i>Nicotiana benthamiana</i> Using a suite of transgenic <i>DCL</i> RNAi lines coupled with a GFP reporter, we demonstrated that <i>N. benthamiana</i> DCL1, DCL2, DCL3, and DCL4 are required to produce microRNAs and 22, 24, and 21nt small interfering RNAs (siRNAs), respectively. All investigated siRNAs produced in local incipient cells were present at low levels in distal tissues. Inhibition of <i>DCL2</i> expression reduced the spread of gene silencing, while suppression of <i>DCL3</i> or <i>DCL4</i> expression enhanced systemic PTGS. In contrast to <i>DCL4</i> RNAi lines, <i>DCL2</i>-<i>DCL4</i> double-RNAi lines developed systemic PTGS similar to that observed in <i>DCL2</i> RNAi. We further showed that the 21 or 24 nt local siRNAs produced by DCL4 or DCL3 were not involved in long-distance gene silencing. Grafting experiments demonstrated that <i>DCL2</i> was required in the scion to respond to the signal, but not in the rootstock to produce/send the signal. These results suggest a coordinated <i>DCL</i> genetic pathway in which <i>DCL2</i> plays an essential role in systemic PTGS in <i>N. benthamiana</i>, while both <i>DCL4</i> and <i>DCL3</i> attenuate systemic PTGS. We discuss the potential role of 21, 22, and 24 nt siRNAs in systemic PTGS.
+
+DCL2: !produces! microRNAs 
+DCL2: !required for! systemic PTGS
+DCL3: !produces! 24nt siRNAs
+DCL3: !attenuates! systemic PTGS
+DCL4: !produces! 21nt siRNAs
+DCL4: !attenuates! systemic PTGS
+DCL2: !required in! scion to respond to signal

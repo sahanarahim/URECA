@@ -1,0 +1,6 @@
+There is a continuing need for bioprobes that are target-specific and combine speed of delivery with maintenance of normal cell behaviour. Towards this end, we are developing small pro-fluorescent molecules that provide such specificity through chemical activation by biomolecules. We have generated a set of BODIPY (boron dipyrromethane) fluorophores, including one that is intrinsically non-fluorescent but on incubation with cells becomes fluorescent at its target site. Addition of these BODIPY probes to plant cells identifies peroxisomes, as verified by co-localization with an SKL-FP construct. Interestingly, in mammalian cells, co-localization with the mammalian peroxisomal marker SelectFX(TM) was not observed. These data suggest fundamental differences in peroxisome composition, development or function between plant and animal cells.
+
+Gene: !affects! Process
+BODIPY: !localizes to! Peroxisomes
+SKL-FP: !co-localizes with! BODIPY
+SelectFX(TM): !co-localizes with! BODIPY

@@ -1,0 +1,9 @@
+Grain number is a flexible trait that strongly contributes to grain yield. In rice (<i>Oryza sativa</i>), the OsMKKK10-OsMKK4-OsMPK6 cascade, which is negatively regulated by the dual-specificity phosphatase GSN1, coordinates the trade-off between grain number and grain size. However, the specific components upstream and downstream of the GSN1-MAPK module that regulate spikelet number per panicle remain obscure. Here, we report that ERECTA1 (OsER1), a negative regulator of spikelet number per panicle, acts upstream of the OsMKKK10-OsMKK4-OsMPK6 cascade and that the OsER1-OsMKKK10-OsMKK4-OsMPK6 pathway is required to maintain cytokinin homeostasis. OsMPK6 directly interacts with and phosphorylates the zinc finger transcription factor DST to enhance its transcriptional activation of <i>CYTOKININ OXIDASE2</i> (<i>OsCKX2</i>), indicating that the OsER1-OsMKKK10-OsMKK4-OsMPK6 pathway shapes panicle morphology by regulating cytokinin metabolism. Furthermore, overexpression of either <i>DST</i> or <i>OsCKX2</i> rescued the spikelet number phenotype of the <i>oser1</i>, <i>osmkkk10</i>, <i>osmkk4</i>, and <i>osmpk6</i> mutants, suggesting that the DST-OsCKX2 module genetically functions downstream of the OsER1-OsMKKK10-OsMKK4-OsMPK6 pathway. These findings reveal specific crosstalk between a MAPK signaling pathway and cytokinin metabolism, shedding light on how developmental signals modulate phytohormone homeostasis to shape the inflorescence.
+
+OsER1: !regulates! spikelet number
+OsMKKK10: !acts upstream of! OsMPK6
+GSN1: !negatively regulates! OsMKKK10-OsMKK4-OsMPK6 cascade
+OsMPK6: !interacts with and phosphorylates! DST
+DST: !transcriptionally activates! OsCKX2
+OsER1-OsMKKK10-OsMKK4-OsMPK6 pathway: !maintains! cytokinin homeostasis
+DST-OsCKX2 module: !genetically functions downstream of! OsER1-OsMKKK10-OsMKK4-OsMPK6 pathway

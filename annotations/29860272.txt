@@ -1,0 +1,9 @@
+Cryptochromes (CRYs) are blue light photoreceptors that mediate various light responses in plants and animals. In Arabidopsis, there are two homologous CRYs, CRY1 and CRY2, which mediate blue light inhibition of hypocotyl elongation. It is known that CRY2 interacts with CIB1, a basic helix-loop-helix (bHLH) transcriptional factor, to regulate transcription and floral induction. In this study, we performed yeast two-hybrid screening and identified CIB1 as a CRY1-interacting protein. Moreover, we demonstrated that CRY1 physically interacted with the close homolog of CIB1, HBI1, which is known to act downstream of brassinosteroid (BR) and gibberellin acid (GA) signaling pathways to promote hypocotyl elongation, in a blue light-dependent manner. Transgenic and genetic interaction studies showed that overexpression of HBI1 resulted in enhanced hypocotyl elongation under blue light and that HBI1 acted downstream of CRYs to promote hypocotyl elongation. Genome-wide gene expression analysis indicated that CRYs and HBI1 antagonistically regulated the expression of genes involved in regulating cell elongation. Moreover, we demonstrated that CRY1-HBI1 interaction led to inhibition of HBI1's DNA binding activity and its target gene expression. Together, our results suggest that HBI1 acts as a new CRY1-interacting protein and that the signaling mechanism of CRY1 involves repression of HBI1 transcriptional activity by direct CRY1-HBI1 interaction.
+
+CRY1: !interacts with! CIB1 
+CRY1: !interacts with! HBI1 
+HBI1: !acts downstream of! BR 
+HBI1: !acts downstream of! GA 
+HBI1: !enhances! hypocotyl elongation 
+CRY1: !represses! HBI1 transcriptional activity 
+CRY1: !inhibits! HBI1 DNA binding activity

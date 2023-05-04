@@ -1,0 +1,10 @@
+Leaf vein length per unit leaf area (VLA; also known as vein density) is an important determinant of water and sugar transport, photosynthetic function, and biomechanical support. A range of software methods are in use to visualize and measure vein systems in cleared leaf images; typically, users locate veins by digital tracing, but recent articles introduced software by which users can locate veins using thresholding (i.e. based on the contrasting of veins in the image). Based on the use of this method, a recent study argued against the existence of a fixed VLA value for a given leaf, proposing instead that VLA increases with the magnification of the image due to intrinsic properties of the vein system, and recommended that future measurements use a common, low image magnification for measurements. We tested these claims with new measurements using the software LEAFGUI in comparison with digital tracing using ImageJ software. We found that the apparent increase of VLA with magnification was an artifact of (1) using low-quality and low-magnification images and (2) errors in the algorithms of LEAFGUI. Given the use of images of sufficient magnification and quality, and analysis with error-free software, the VLA can be measured precisely and accurately. These findings point to important principles for improving the quantity and quality of important information gathered from leaf vein systems.
+
+Leaf vein length: !determines! Water and sugar transport
+Leaf vein length: !increases with! Image magnification
+Software methods: !visualize and measure! Vein systems
+Software LEAFGUI: !locates veins using! Thresholding
+ImageJ software: !locates veins by! Digital tracing
+Low-quality images: !cause increase of! VLA
+Errors in algorithms: !cause increase of! VLA
+Sufficient magnification: !allows precise and accurate measurement of! VLA

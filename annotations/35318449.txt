@@ -1,0 +1,9 @@
+Developmental boundaries play an important role in coordinating the growth and patterning of lateral organs. In plants, specification of dorsiventrality is critical to leaf morphogenesis. Despite its central importance, the mechanism by which leaf primordia acquire adaxial versus abaxial cell fates to establish dorsiventrality remains a topic of much debate. Here, by combining time-lapse confocal imaging, cell lineage tracing and molecular genetic analyses, we demonstrate that a stable boundary between adaxial and abaxial cell fates is specified several plastochrons before primordium emergence when high auxin levels accumulate on a meristem prepattern formed by the AS2 and KAN1 transcription factors. This occurrence triggers a transient induction of ARF3 and an auxin transcriptional response in AS2-marked progenitors that distinguishes adaxial from abaxial identity. As the primordium emerges, dynamic shifts in auxin distribution and auxin-related gene expression gradually resolve this initial polarity into the stable regulatory network known to maintain adaxial-abaxial polarity within the developing organ. Our data show that spatial information from an AS2-KAN1 meristem prepattern governs the conversion of a uniform auxin input into an ARF-dependent binary auxin response output to specify adaxial-abaxial polarity. Auxin thus serves as a single morphogenic signal that orchestrates distinct, spatially separated responses to coordinate the positioning and emergence of a new organ with its patterning.
+
+AS2: !forms! meristem prepattern
+KAN1: !forms! meristem prepattern
+auxin: !accumulates on! meristem prepattern
+ARF3: !induced by! auxin
+AS2: !marks! progenitors
+auxin: !distributes! dynamically
+ARF: !governs! binary auxin response output

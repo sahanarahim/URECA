@@ -1,0 +1,9 @@
+['29016942', 'Membrane traffic at the trans-Golgi network (TGN) is crucial for correctly  distributing various membrane proteins to their destination. Polarly localized  auxin efflux proteins, including PIN-FORMED1 (PIN1), are dynamically transported  between the endosomes and the plasma membrane (PM) in the plant cells. The  intracellular trafficking of PIN1 protein is sensitive to the fungal toxin  brefeldin A (BFA), which is known to inhibit guanine nucleotide exchange factors  for ADP ribosylation factors (ARF GEFs) such as GNOM. However, the molecular  details of the BFA-sensitive trafficking pathway have not been fully revealed. In  a previous study, we identified an Arabidopsis mutant BFA-visualized endocytic  trafficking defective 3 (ben3) which exhibited reduced sensitivity to BFA in  terms of BFA-induced intracellular PIN1 agglomeration. Here, we show that BEN3  encodes a member of BIG family ARF GEFs, BIG2. BEN3/BIG2 tagged with fluorescent  proteins co-localized with markers for the TGN/early endosome (EE). Inspection of  conditionally induced de novo synthesized PIN1 confirmed that its secretion to  the PM is BFA sensitive, and established BEN3/BIG2 as a crucial component of this  BFA action at the level of the TGN/EE. Furthermore, ben3 mutation alleviated  BFA-induced agglomeration of another TGN-localized ARF GEF, BEN1/MIN7. Taken  together, our results suggest that BEN3/BIG2 is an ARF GEF component, which  confers BFA sensitivity to the TGN/EE in Arabidopsis.', '2017 Oct 1', 'Plant Cell Physiol', '10.1093/pcp/pcx118', 'Tanaka']
+
+PIN1: !localizes to! TGN/EE 
+BFA: !inhibits! ARF GEFs 
+BEN3/BIG2: !synthesizes! PIN1 
+BEN3/BIG2: !localizes to! TGN/EE 
+BEN3/BIG2: !confers! BFA sensitivity 
+BFA: !induces! PIN1 agglomeration 
+BEN3/BIG2: !alleviates! BFA-induced agglomeration of BEN1/MIN7

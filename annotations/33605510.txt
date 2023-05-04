@@ -1,0 +1,9 @@
+Mitogen-activated protein kinases (MPKs) play essential roles in guard cell signaling, but whether MPK cascades participate in guard cell ethylene signaling and interact with hydrogen peroxide (H<sub>2</sub> O<sub>2</sub> ), nitric oxide (NO), and ethylene-signaling components remain unclear. Here, we report that ethylene activated MPK3 and MPK6 in the leaves of wild-type Arabidopsis thaliana as well as ethylene insensitive2 (ein2), ein3, nitrate reductase1 (nia1), and nia2 mutants, but this effect was impaired in ethylene response1 (etr1), nicotinamide adenine dinucleotide phosphate oxidase AtrbohF, mpk kinase1 (mkk1), and mkk3 mutants. By contrast, the constitutive triple response1 (ctr1) mutant had constitutively active MPK3 and MPK6. Yeast two-hybrid, bimolecular fluorescence complementation, and pull-down assays indicated that MPK3 and MPK6 physically interacted with MKK1, MKK3, and the C-terminal region of EIN2 (EIN2 CEND). mkk1, mkk3, mpk3, and mpk6 mutants had typical levels of ethylene-induced H<sub>2</sub> O<sub>2</sub> generation but impaired ethylene-induced EIN2 CEND cleavage and nuclear translocation, EIN3 protein accumulation, NO production in guard cells, and stomatal closure. These results show that the MKK1/3-MPK3/6 cascade mediates ethylene-induced stomatal closure by functioning downstream of ETR1, CTR1, and H<sub>2</sub> O<sub>2</sub> to interact with EIN2, thereby promoting EIN3 accumulation and EIN3-dependent NO production in guard cells.
+
+MPK3/6: !interacts with! MKK1/3 
+MKK1/3: !activates! MPK3/6 
+MPK3/6: !promotes! EIN2 CEND cleavage 
+EIN2 CEND: !translocates to! nucleus 
+MPK3/6: !enhances! EIN3 accumulation 
+EIN3: !induces! NO production 
+NO: !causes! stomatal closure

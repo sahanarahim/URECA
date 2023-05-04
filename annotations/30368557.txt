@@ -1,0 +1,18 @@
+Using a genome-wide analysis of miRNAs in 'Yali' pear (Pyrus bretschneideri) via the next-generation high-throughput sequencing of small RNAs with a bioinformatics analysis, we found that pbr-miR156, pbr-miR164, pbr-miR399, and pbr-miR482 and their target genes function in viral defense in 'Duli' and 'Hongbaoshi'. pbr-miR160, pbr-miR168, pbr-miR171, and pbr-miR319 and their targets function in auxin signaling pathways in 'Zhongai 4' and 'Zhongai 5'. Successful fruit production in pear (Pyrus spp.) depends on the use of optimal combinations of rootstocks and scions. Deciphering plant-pathogen defense mechanisms and hormone signaling pathways is an important step towards developing pear rootstocks and varieties with improved qualities. In the current study, we combined next-generation sequencing of small RNAs with a bioinformatics analysis to systematically identify and characterize 298 miRNAs in the pear scion cultivar 'Yali' (Pyrus bretschneideri). We also analyzed miRNAs in three rootstock varieties ('Duli', 'Zhongai 4', and 'Zhongai 5') and one scion cultivar ('Hongbaoshi'). We found that pbr-miR156, pbr-miR164, pbr-miR399, and pbr-miR482 are induced following infection with the pear virus Apple stem pitting virus (ASPV), and identified their target genes (pbRPS6, pbNAC, pbTLR, and pbRX-CC, respectively), which participate in viral defense pathways in 'Duli' and 'Hongbaoshi'. Furthermore, we identified pbr-miR160, pbr-miR168, pbr-miR171, and pbr-miR319, and found that the production of these miRNAs was suppressed under low levels of synthetic auxin. The targets of these miRNAs (pbARF, pbAEC, pbSCL, and pbTCP4) respond to auxin signaling pathways in 'Zhongai 4' and 'Zhongai 5'. Our results lay the foundation for breeding improved pear cultivars.
+
+pbr-miR156: !affects! pbRPS6
+pbr-miR164: !affects! pbNAC
+pbr-miR399: !affects! pbTLR
+pbr-miR482: !affects! pbRX-CC
+pbr-miR160: !affects! pbARF
+pbr-miR168: !affects! pbAEC
+pbr-miR171: !affects! pbSCL
+pbr-miR319: !affects! pbTCP4
+ASPV: !induces! pbr-miR156
+ASPV: !induces! pbr-miR164
+ASPV: !induces! pbr-miR399
+ASPV: !induces! pbr-miR482
+synthetic auxin: !represses! pbr-miR160
+synthetic auxin: !represses! pbr-miR168
+synthetic auxin: !represses! pbr-miR171
+synthetic auxin

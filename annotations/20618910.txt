@@ -1,0 +1,8 @@
+• Polarized deposition of cell wall pectins is a key process in Arabidopsis thaliana myxospermous seed coat development. The exocyst, an octameric secretory vesicle tethering complex, has recently been shown to be involved in the regulation of cell polarity in plants. Here, we used the Arabidopsis seed coat to study the participation of the exocyst complex in polarized pectin delivery. • We characterized the amount of pectinaceous mucilage and seed coat structure in sec8 and exo70A1 exocyst mutants. Using a yeast two-hybrid screen, we identified a new interactor of the exocyst subunit Exo70A1, termed Roh1, a member of the DUF793 protein family. • T-DNA insertions in SEC8, EXO70A1 caused considerable deviations from normal seed coat development, in particular reduced pectin deposition and defects in the formation of the central columella of seed epidermal cells. A gain-of-function mutation of ROH1 also caused reduced pectin deposition. Interestingly, we observed a systematic difference in seed coat development between primary and secondary inflorescences in wild-type plants: siliques from secondary branches produced seeds with thicker seed coats. • The participation of exocyst subunits in mucilage deposition provides direct evidence for the role of the exocyst in polarized cell wall morphogenesis.
+
+exocyst: !affects! pectin deposition 
+SEC8: !interacts with! EXO70A1 
+EXO70A1: !interacts with! Roh1 
+SEC8: !causes! deviations from normal seed coat development 
+ROH1: !enhances! pectin deposition 
+wild-type plants: !produce! thicker seed coats on secondary inflorescences

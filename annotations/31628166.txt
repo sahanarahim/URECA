@@ -1,0 +1,17 @@
+Many solanaceous plants secrete acylsugars, which are branched-chain and straight-chain fatty acids esterified to Glu or Suc. These compounds have important roles in plant defense and potential commercial applications. However, several acylsugar metabolic genes remain unidentified, and little is known about regulation of this pathway. Comparative transcriptomics between low- and high-acylsugar-producing accessions of <i>Solanum pennellii</i> revealed that expression levels of known and novel candidate genes (putatively encoding beta-ketoacyl-(acyl-carrier-protein) synthases, peroxisomal acyl-activating enzymes, ATP binding cassette (ABC) transporters, and central carbon metabolic proteins) were positively correlated with acylsugar accumulation, except two genes previously reported to be involved in acylglucose biosynthesis. Genes putatively encoding oxylipin metabolic proteins, subtilisin-like proteases, and other antimicrobial defense proteins were upregulated in low-acylsugar-producing accessions. Transcriptome analysis after biochemical inhibition of biosynthesis of branched-chain amino acids (precursors to branched-chain fatty acids) by imazapyr showed concentration-dependent downregulation of known and most acylsugar candidate genes, but not defense genes. Weighted gene correlation network analysis identified separate coexpressed gene networks for acylsugar metabolism (including six transcription factor genes and flavonoid metabolic genes) and plant defense (including genes putatively encoding NB-ARC and leucine-rich repeat sequences, protein kinases and defense signaling proteins, and previously mentioned defense proteins). Additionally, virus-induced gene silencing of two trichomes preferentially expressed candidate genes for straight-chain fatty acid biosynthesis confirmed their role in acylsugar metabolism.
+
+Gene: !encodes! beta-ketoacyl-(acyl-carrier-protein) synthases
+Gene: !encodes! peroxisomal acyl-activating enzymes
+Gene: !encodes! ATP binding cassette (ABC) transporters
+Gene: !encodes! central carbon metabolic proteins
+Gene: !encodes! oxylipin metabolic proteins
+Gene: !encodes! subtilisin-like proteases
+Gene: !encodes! NB-ARC and leucine-rich repeat sequences
+Gene: !encodes! protein kinases
+Gene: !encodes! defense signaling proteins
+Gene: !encodes! flavonoid metabolic genes
+Gene: !encodes! trichomes preferentially expressed candidate genes
+Gene: !affects! acylsugar accumulation
+Gene: !inhibits! biosynthesis of branched-chain amino acids
+Gene: !downregulates! known and most acylsugar candidate genes
+Gene: !upregulates! defense genes

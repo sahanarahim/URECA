@@ -1,0 +1,12 @@
+The individual and combined effects of abiotic factors on pollinator-mediated selection on floral traits are not well documented. To examine potential interactive effects of water and nutrient availability on pollinator-mediated selection on three floral display traits of Primula tibetica, we manipulated pollination and nutrient availability in a factorial experiment, conducted at two common garden sites with different soil water content (natural vs addition). We found that both water and nutrient availability affected floral trait expression in P. tibetica and that hand pollination increased seed production most when both nutrient content and water content were high, indicating joint pollen and resource limitation. We documented selection on all floral traits, and pollinators contributed to directional and correlational selection on plant height and number of flowers. Soil water and nutrient availability interactively influenced the strength of both pollinator-mediated directional and correlational selection, with significant selection observed when nutrient or water availability was high, but not when none or both were added. The results suggest that resource limitation constrains the response of P. tibetica to among-individual variation in pollen receipt, that addition of nutrients or water leads to pollinator-mediated selection and that effects of the two abiotic factors are nonadditive.
+
+water: !affects! floral trait expression
+nutrient availability: !affects! floral trait expression
+hand pollination: !increases! seed production
+pollinators: !contribute to! directional selection
+pollinators: !contribute to! correlational selection
+soil water: !interacts with! nutrient availability
+resource limitation: !constrains! response to pollen receipt
+nutrients: !leads to! pollinator-mediated selection
+water: !leads to! pollinator-mediated selection
+abiotic factors: !nonadditively influence! strength of selection

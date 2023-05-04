@@ -1,0 +1,9 @@
+In order to redefine the mannitol pathway in the necrotrophic plant pathogen Botrytis cinerea, we used a targeted deletion strategy of genes encoding two proteins of mannitol metabolism, BcMTDH (B. cinerea mannitol dehydrogenase) and BcMPD (B. cinerea mannitol-1-phosphate dehydrogenase). Mobilization of mannitol and quantification of Bcmpd and Bcmtdh gene transcripts during development and osmotic stress confirmed a role for mannitol as a temporary and disposable carbon storage compound. In order to study metabolic fluxes, we followed conversion of labelled hexoses in wild-type and DeltaBcmpd and DeltaBcmtdh mutant strains by in vivo NMR spectroscopy. Our results revealed that glucose and fructose were metabolized via the BcMPD and BcMTDH pathways respectively. The existence of a novel mannitol phosphorylation pathway was also suggested by the NMR investigations. This last finding definitively challenged the existence of the originally postulated mannitol cycle in favour of two simultaneously expressed pathways. Finally, physiological and biochemical studies conducted on double deletion mutants (DeltaBcmpdDeltaBcmtdh) showed that mannitol was still produced despite a complete alteration of both mannitol biosynthesis pathways. This strongly suggests that one or several additional undescribed pathways could participate in mannitol metabolism in B. cinerea.
+
+BcMTDH: !affects! Mannitol metabolism
+BcMPD: !affects! Mannitol metabolism
+Glucose: !metabolized via! BcMPD pathway
+Fructose: !metabolized via! BcMTDH pathway
+DeltaBcmpd: !alters! Mannitol biosynthesis pathways
+DeltaBcmtdh: !alters! Mannitol biosynthesis pathways
+Double deletion mutants: !produce! Mannitol

@@ -1,0 +1,10 @@
+We describe an efficient inducible system to regulate gene expression in plants based on quorum-sensing components found in Gram-negative bacteria such as Agrobacterium tumefaciens. These bacteria monitor their own population density by utilizing members of the N-acyl homoserine lactone family as inducers and a transcriptional activator as its receptor. In our study, we utilize the components from A. tumefaciens (i.e. 3-oxooctanyl-l-homoserine lactone [OOHL]) synthesized by the TraI protein and its receptor, TraR. When OOHL binds to TraR, it recognizes its specific cis-element, the tra box. We translationally fused the eukaryotic VP16 activation domain to the N terminus of TraR. In the presence of OOHL, the chimeric VP16:TraR transcriptional regulator induces reporter gene expression in moss (Physcomitrella patens), barley (Hordeum vulgare), and carrot (Daucus carota) cells, as well as in transgenic Arabidopsis (Arabidopsis thaliana) seedlings. The inducible system shows a low level of reporter gene expression in the absence of the inducer. Foliar application and a floating-leaf assay in the presence of the inducer shows a 30- and 200-fold induction, respectively. Induction by foliar application of the inducer to whole seedlings is achieved within 8 h. The VP16:TraR activator also shows specificity for binding to its cognate inducer, OOHL. Based on microarray analyses, endogenous gene expression is not significantly affected due to overexpression of the TraR protein or presence of OOHL in either wild-type or lactone-inducible transgenic plants.
+
+TraI: !synthesizes! OOHL
+TraR: !recognizes! tra box
+VP16: !fused to! TraR
+OOHL: !induces! reporter gene expression
+Foliar application: !induces! 30-fold
+Floating-leaf assay: !induces! 200-fold
+VP16:TraR activator: !specific for! OOHL
+Overexpression of TraR: !does not affect! endogenous gene expression

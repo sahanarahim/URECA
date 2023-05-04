@@ -1,0 +1,8 @@
+['34048950', "In nature, plants acquire nutrients from soils to sustain growth, and at the same  time, they need to avoid the uptake of toxic compounds and/or possess tolerance  systems to cope with them. This is particularly challenging when the toxic  compound and the nutrient are chemically similar, as in the case of phosphate and  arsenate. In this study, we demonstrated that regulatory elements of the  phosphate starvation response (PSR) coordinate the arsenate detoxification  machinery in the cell. We showed that arsenate repression of the phosphate  transporter PHT1;1 is associated with the degradation of the PSR master regulator  PHR1. Once arsenic is sequestered into the vacuole, PHR1 stability is restored  and PHT1;1 expression is recovered. Furthermore, we identified an arsenite  responsive SKP1-like protein and a PHR1 interactor F-box (PHIF1) as constituents  of the SCF complex responsible for PHR1 degradation.We found that arsenite, the  form to which arsenate is reduced for compartmentalization in vacuoles, represses  PHT1;1 expression, providing a highly selective signal versus phosphate to  control PHT1;1 expression in response to arsenate. Collectively, our results  provide molecular insights into a sensing mechanism that regulates  arsenate/phosphate uptake depending on the plant's detoxification capacity.", '2021 Sep 6', 'Mol Plant', '10.1016/j.molp.2021.05.020', 'Leyva']
+
+PHR1: !regulates! PSR 
+PHT1;1: !repressed by! arsenate 
+PHR1: !degraded by! SCF complex 
+SKP1-like protein: !constituent of! SCF complex 
+PHIF1: !constituent of! SCF complex 
+arsenite: !represses! PHT1;1

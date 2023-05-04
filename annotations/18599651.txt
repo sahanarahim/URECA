@@ -1,0 +1,11 @@
+['18599651', 'Plants elaborate a vast array of enzymes that synthesize defensive secondary  metabolites in response to pathogen attack. Here, we isolated the  pathogen-responsive CaMNR1 [menthone: (+)-(3S)-neomenthol reductase] gene, a  member of the short-chain dehydrogenase/reductase (SDR) superfamily, from pepper  (Capsicum annuum) plants. Gas chromatography-mass spectrometry analysis revealed  that purified CaMNR1 and its ortholog AtSDR1 from Arabidopsis (Arabidopsis  thaliana) catalyze a menthone reduction with reduced nicotinamide adenine  dinucleotide phosphate as a cofactor to produce neomenthol with antimicrobial  activity. CaMNR1 and AtSDR1 also possess a significant catalytic activity for  neomenthol oxidation. We examined the cellular function of the CaMNR1 gene by  virus-induced gene silencing and ectopic overexpression in pepper and Arabidopsis  plants, respectively. CaMNR1-silenced pepper plants were significantly more  susceptible to Xanthomonas campestris pv vesicatoria and Colletotrichum coccodes  infection and expressed lower levels of salicylic acid-responsive CaBPR1 and  CaPR10 and jasmonic acid-responsive CaDEF1. CaMNR1-overexpressing Arabidopsis  plants exhibited enhanced resistance to the hemibiotrophic pathogen Pseudomonas  syringae pv tomato DC3000 and the biotrophic pathogen Hyaloperonospora parasitica  isolate Noco2, accompanied by the induction of AtPR1 and AtPDF1.2. In contrast,  mutation in the CaMNR1 ortholog AtSDR1 significantly enhanced susceptibility to  both pathogens. Together, these results indicate that the novel menthone  reductase gene CaMNR1 and its ortholog AtSDR1 positively regulate plant defenses  against a broad spectrum of pathogens.', '2008 Sep', 'Plant Physiol', '10.1104/pp.108.119461', 'Hwang']
+
+CaMNR1: !synthesizes! neomenthol 
+CaMNR1: !affects! plant defenses 
+AtSDR1: !synthesizes! neomenthol 
+AtSDR1: !affects! plant defenses 
+CaMNR1: !enhances! resistance to pathogens 
+AtSDR1: !enhances! resistance to pathogens 
+CaMNR1: !represses! CaBPR1 and CaPR10 
+CaMNR1: !represses! CaDEF1 
+AtSDR1: !represses! AtPR1 and AtPDF1.2

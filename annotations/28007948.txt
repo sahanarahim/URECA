@@ -1,0 +1,9 @@
+We investigated associations between the metabolic phenotype, consisting of quantitative data of 76 metabolites from 135 contrasting winter wheat (Triticum aestivum) lines, and 17 372 single nucleotide polymorphism (SNP) markers. Metabolite profiles were generated from flag leaves of plants from three different environments, with average repeatabilities of 0.5-0.6. The average heritability of 0.25 was unaffected by the heading date. Correlations among metabolites reflected their functional grouping, highlighting the strict coordination of various routes of the citric acid cycle. Genome-wide association studies identified significant associations for six metabolic traits, namely oxalic acid, ornithine, L-arginine, pentose alcohol III, L-tyrosine, and a sugar oligomer (oligo II), with between one and 17 associated SNPs. Notable associations with genes regulating transcription or translation explained between 2.8% and 32.5% of the genotypic variance (pG). Further candidate genes comprised metabolite carriers (pG 32.5-38.1%), regulatory proteins (pG 0.3-11.1%), and metabolic enzymes (pG 2.5-32.5%). The combinatorial use of genomic and metabolic data to construct partially directed networks revealed causal inferences in the correlated metabolite traits and associated SNPs. The evaluated causal relationships will provide a basis for predicting the effects of genetic interferences on groups of correlated metabolic traits, and thus on specific metabolic phenotypes.
+
+Gene: !affects! Metabolic Phenotype 
+Metabolite: !correlates with! Functional Grouping 
+SNP: !associates with! Metabolic Traits 
+Gene: !regulates! Transcription/Translation 
+Gene: !carries! Metabolites 
+Gene: !regulates! Regulatory Proteins 
+Gene: !synthesizes! Metabolic Enzymes

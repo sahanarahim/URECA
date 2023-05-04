@@ -1,0 +1,14 @@
+The amount of biological data available in the public domain is growing exponentially, and there is an increasing need for infrastructural and human resources to organize, store, and present the data in a proper context. Model organism databases (MODs) invest great efforts to functionally annotate genomes and phenomes by in-house curators. The SOL Genomics Network (SGN; http://www.sgn.cornell.edu) is a clade-oriented database (COD), which provides a more scalable and comparative framework for biological information. SGN has recently spearheaded a new approach by developing community annotation tools to expand its curational capacity. These tools effectively allow some curation to be delegated to qualified researchers, while, at the same time, preserving the in-house curators' full editorial control. Here we describe the background, features, implementation, results, and development road map of SGN's community annotation tools for curating genotypes and phenotypes. Since the inception of this project in late 2006, interest and participation from the Solanaceae research community has been strong and growing continuously to the extent that we plan to expand the framework to accommodate more plant taxa. All data, tools, and code developed at SGN are freely available to download and adapt.
+
+Gene: !affects! Process 
+Gene: !localizes to! X 
+Gene: !interacts with! Y 
+Gene: !enhances! Z 
+Gene: !represses! U 
+Gene: !synthesizes! I 
+SGN: !provides! framework 
+SGN: !develops! community annotation tools 
+SGN: !expands! curational capacity 
+SGN: !preserves! editorial control 
+Solanaceae research community: !interest in! SGN 
+Solanaceae research community: !participation in! SGN

@@ -1,0 +1,8 @@
+['19151223', 'JASMONATE ZIM-domain (JAZ) proteins act as repressors of jasmonate (JA)  signaling. Perception of bioactive JAs by the F-box protein CORONATINE  INSENSITIVE1 (COI1) causes degradation of JAZs via the ubiquitin-proteasome  pathway, which in turn activates the expression of genes involved in plant  growth, development, and defense. JAZ proteins contain two highly conserved  sequence regions: the Jas domain that interacts with COI1 to destabilize the  repressor and the ZIM domain of unknown function. Here, we show that the  conserved TIFY motif (TIFF/YXG) within the ZIM domain mediates homo- and  heteromeric interactions between most Arabidopsis thaliana JAZs. We have also  identified an alternatively spliced form (JAZ10.4) of JAZ10 that lacks the Jas  domain and, as a consequence, is highly resistant to JA-induced degradation.  Strong JA-insensitive phenotypes conferred by overexpression of JAZ10.4 were  suppressed by mutations in the TIFY motif that block JAZ10.4-JAZ interactions. We  conclude that JAZ10.4 functions to attenuate signal output in the presence of JA  and further suggest that the dominant-negative action of this splice variant  involves protein-protein interaction through the ZIM/TIFY domain. The ability of  JAZ10.4 to interact with MYC2 is consistent with a model in which a  JAZ10.4-containing protein complex directly represses the activity of  transcription factors that promote expression of JA response genes.', '2009 Jan', 'Plant Cell', '10.1105/tpc.108.064097', 'Howe']
+
+JAZ: !represses! JA signaling 
+COI1: !degrades! JAZs 
+TIFY motif: !mediates! homo- and heteromeric interactions 
+JAZ10.4: !lacks! Jas domain 
+JAZ10.4: !attenuates! signal output 
+JAZ10.4: !interacts with! MYC2

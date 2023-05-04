@@ -1,0 +1,10 @@
+The photosynthetic assimilation of CO2 in C4 plants is potentially limited by the enzymatic rates of Rubisco, phosphoenolpyruvate carboxylase (PEPc), and carbonic anhydrase (CA). Therefore, the activity and kinetic properties of these enzymes are needed to accurately parameterize C4 biochemical models of leaf CO2 exchange in response to changes in CO2 availability and temperature. There are currently no published temperature responses of both Rubisco carboxylation and oxygenation kinetics from a C4 plant, nor are there known measurements of the temperature dependency of the PEPc Michaelis-Menten constant for its substrate HCO3 (-), and there is little information on the temperature response of plant CA activity. Here, we used membrane inlet mass spectrometry to measure the temperature responses of Rubisco carboxylation and oxygenation kinetics, PEPc carboxylation kinetics, and the activity and first-order rate constant for the CA hydration reaction from 10°C to 40°C using crude leaf extracts from the C4 plant Setaria viridis. The temperature dependencies of Rubisco, PEPc, and CA kinetic parameters are provided. These findings describe a new method for the investigation of PEPc kinetics, suggest an HCO3 (-) limitation imposed by CA, and show similarities between the Rubisco temperature responses of previously measured C3 species and the C4 plant S. viridis.
+
+Rubisco: !affects! Photosynthetic assimilation
+PEPc: !affects! Photosynthetic assimilation
+CA: !affects! Photosynthetic assimilation
+Rubisco: !responds to! Temperature
+PEPc: !responds to! Temperature
+CA: !responds to! Temperature
+HCO3 (-): !limits! PEPc
+C3 species: !similar to! S. viridis

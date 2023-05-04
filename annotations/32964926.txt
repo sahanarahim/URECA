@@ -1,0 +1,11 @@
+Grain yield of wheat and its components are very sensitive to heat stress at the critical growth stages of anthesis and grain filling. We observed negative impacts of heat stress on biomass partitioning and grain growth in environment-controlled phytotron experiments over 4 years, and we quantified relationships between the stress and grain number and potential grain weight at anthesis and during grain filling using process-based heat stress routines. These relationships included reduced grain set under stress at anthesis and decreased potential grain weight under stress during early grain filling. Biomass partitioning to stems and spikes was modified under heat stress based on a source-sink relationship. The integration of our process-based stress routines into the original WheatGrow model significantly enhanced the predictions of the biomass dynamics of the stems and spikes, the grain yield, and the yield components under heat stress. Compared to the original model, the improved version decreased the simulation errors for grain yield, grain number, and grain weight by 73%, 48%, and 49%, respectively, in an evaluation using independent data under heat stress in the phytotron conditions. When tested with data obtained under field conditions, the improved model showed a good ability to reproduce the decreasing dynamics of grain yield and its components with increasing post-anthesis temperatures. Sensitivity analysis showed that the improved model was able to reproduce the responses to various observed heat-stress treatments. These improvements to the crop model will be of significant importance for assessing the effects on crop production of projected increases in heat-stress events under future climate scenarios.
+
+Heat Stress: !affects! Grain Yield 
+Heat Stress: !impacts! Biomass Partitioning 
+Heat Stress: !decreases! Grain Set 
+Heat Stress: !decreases! Potential Grain Weight 
+Heat Stress: !modifies! Source-Sink Relationship 
+WheatGrow Model: !enhances! Predictions of Biomass Dynamics 
+WheatGrow Model: !decreases! Simulation Errors 
+WheatGrow Model: !reproduces! Decreasing Dynamics of Grain Yield 
+WheatGrow Model: !assesses! Effects on Crop Production

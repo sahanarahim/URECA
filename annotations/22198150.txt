@@ -1,0 +1,8 @@
+Flower patterning is determined by a complex molecular network but how this network functions remains to be elucidated. Here, we develop an integrative modeling approach that assembles heterogeneous data into a biologically coherent model to allow predictions to be made and inconsistencies among the data to be found. We use this approach to study the network underlying sepal development in the young flower of Arabidopsis thaliana. We constructed a digital atlas of gene expression and used it to build a dynamical molecular regulatory network model of sepal primordium development. This led to the construction of a coherent molecular network model for lateral organ polarity that fully recapitulates expression and interaction data. Our model predicts the existence of three novel pathways involving the HD-ZIP III genes and both cytokinin and ARGONAUTE family members. In addition, our model provides predictions on molecular interactions. In a broader context, this approach allows the extraction of biological knowledge from diverse types of data and can be used to study developmental processes in any multicellular organism.
+
+Gene: !affects! Process
+Gene: !localizes to! Expression
+Gene: !interacts with! Interaction Data
+Gene: !enhances! Pathways
+Gene: !represses! Polarity
+Gene: !synthesizes! Model

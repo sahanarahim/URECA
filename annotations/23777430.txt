@@ -1,0 +1,9 @@
+Some viruses only infect plants at cool temperatures but the molecular mechanism underlying this low-temperature dependence remains unclear. Chinese wheat mosaic virus (CWMV, genus Furovirus) was able to infect wheat and Nicotiana benthamiana plants at 16 but not at 24°C. When CWMV-infected plants were transferred to 24°C for 2 weeks, the newly emerged leaves and roots became virus free. Co-infection with Potato virus Y rescued CWMV accumulation in N. benthamiana plants after a temperature shift to 24°C. In transgenic N. benthamiana plants silenced for the N. benthamiana RNA-dependent RNA polymerase 6 (NbRDR6), CWMV was able to accumulate in roots but not in leaves after a temperature shift to 24°C. Deep sequencing of small RNAs showed that, at 16°C, abundant CWMV small interfering (si)RNAs accumulated in infected N. benthamiana plants. Silencing of NbRDR6 increased the abundance of CWMV siRNAs and the generation of siRNAs from hotspots in the CWMV genome. In contrast, when shifted to 24°C for 1 week, CWMV siRNAs were markedly fewer in roots of NbRDR6-silenced than in roots of wild-type plants but were similar in the leaves of those plants. Our results demonstrate the root-specific role of NbRDR6 in the inhibition of CWMV accumulation and biogenesis of CWMV siRNAs at higher temperatures.
+
+CWMV: !infects! wheat/N. benthamiana
+CWMV: !rescued by! Potato virus Y
+NbRDR6: !inhibits! CWMV accumulation
+NbRDR6: !silencing increases! CWMV siRNAs
+CWMV siRNAs: !accumulate in! N. benthamiana plants
+CWMV siRNAs: !generated from! hotspots in genome
+NbRDR6: !root-specific role in! inhibition of CWMV

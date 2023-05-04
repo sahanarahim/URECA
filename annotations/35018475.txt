@@ -1,0 +1,8 @@
+The spatiotemporal development of somatic tissues of the anther lobe is necessary for successful fertile pollen production. This process is mediated by many transcription factors acting through complex, multi-layered networks. Here, our analysis of functional knockout mutants of interacting basic helix-loop-helix genes Ms23, Ms32, basic helix-loop-helix 122 (bHLH122), and bHLH51 in maize (Zea mays) established that male fertility requires all four genes, expressed sequentially in the tapetum (TP). Not only do they regulate each other, but also they encode proteins that form heterodimers that act collaboratively to guide many cellular processes at specific developmental stages. MS23 is confirmed to be the master factor, as the ms23 mutant showed the earliest developmental defect, cytologically visible in the TP, with the most drastic alterations in premeiotic gene expression observed in ms23 anthers. Notably, the male-sterile ms23, ms32, and bhlh122-1 mutants lack 24-nt phased secondary small interfering RNAs (phasiRNAs) and the precursor transcripts from the corresponding 24-PHAS loci, while the bhlh51-1 mutant has wild-type levels of both precursors and small RNA products. Multiple lines of evidence suggest that 24-nt phasiRNA biogenesis primarily occurs downstream of MS23 and MS32, both of which directly activate Dcl5 and are required for most 24-PHAS transcription, with bHLH122 playing a distinct role in 24-PHAS transcription.
+
+Ms23: !regulates! Ms32
+Ms23: !activates! Dcl5
+Ms32: !regulates! Ms23
+Ms32: !activates! Dcl5
+bHLH122: !regulates! 24-PHAS transcription
+bHLH51: !maintains! precursors and small RNA products

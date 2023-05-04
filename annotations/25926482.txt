@@ -1,0 +1,10 @@
+The MBW (for R2R3MYB, basic helix-loop-helix [bHLH], and WD40) genes comprise an evolutionarily conserved gene cassette that regulates several traits such as (pro)anthocyanin and anthocyanin biosynthesis and epidermal cell differentiation in plants. Trichome differentiation in Arabidopsis (Arabidopsis thaliana) is governed by GLABRA1 (GL1; R2R3MYB), GL3 (bHLH), and transparent TESTA GLABRA1 (TTG1; WD40). They are thought to form a trimeric complex that acts as a transcriptional activation complex. We provide evidence that these three MBW proteins form either GL1 GL3 or GL3 TTG1 dimers. The formation of each dimer is counteracted by the respective third protein in yeast three-hybrid assays, pulldown experiments (luminescence-based mammalian interactome), and fluorescence lifetime imaging microscopy-fluorescence resonance energy transfer studies. We further show that two target promoters, Triptychon (TRY) and CAPRICE (CPC), are differentially regulated: GL1 represses the activation of the TRY promoter by GL3 and TTG1, and TTG1 suppresses the activation of the CPC promoter by GL1 and GL3. Our data suggest that the transcriptional activation by the MBW complex involves alternative complex formation and that the two dimers can differentially regulate downstream genes.
+
+R2R3MYB: !forms! GL1 GL3 dimer
+bHLH: !forms! GL1 GL3 dimer
+WD40: !forms! GL3 TTG1 dimer
+GL1: !represses! TRY promoter
+GL3: !activates! TRY promoter
+TTG1: !suppresses! CPC promoter
+GL1: !activates! CPC promoter
+GL3: !activates! CPC promoter

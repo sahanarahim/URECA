@@ -1,0 +1,8 @@
+Plant hormones regulate almost all aspects of plant growth and development. The past decade has provided breakthrough discoveries in phytohormone sensing and signal transduction, and highlighted the striking mechanistic similarities between the auxin and jasmonate (JA) signalling pathways. Perception of auxin and JA involves the formation of co-receptor complexes in which hormone-specific E3-ubiquitin ligases of the SKP1-Cullin-F-box protein (SCF) type interact with specific repressor proteins. Across the plant kingdom, the Aux/IAA and the JASMONATE-ZIM DOMAIN (JAZ) proteins correspond to the auxin- and JA-specific repressors, respectively. In the absence of the hormones, these repressors form a complex with transcription factors (TFs) specific for both pathways. They also recruit several proteins, among which the general co-repressor TOPLESS, and thereby prevent the TFs from activating gene expression. The hormone-mediated interaction between the SCF and the repressors targets the latter for 26S proteasome-mediated degradation, which, in turn, releases the TFs to allow modulating hormone-dependent gene expression. In this review, we describe the similarities and differences in the auxin and JA signalling cascades with respect to the protein families and the protein domains involved in the formation of the pathway-specific complexes.
+
+SCF: !interacts with! repressors 
+repressors: !recruit! TOPLESS 
+hormones: !mediate! SCF-repressor interaction 
+26S proteasome: !mediates! repressor degradation 
+TFs: !released by! repressor degradation 
+TFs: !activate! gene expression

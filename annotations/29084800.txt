@@ -1,0 +1,10 @@
+D'Arcy Thompson emphasised the importance of surface tension as a potential driving force in establishing cell shape and topology within tissues. Leaf epidermal pavement cells grow into jigsaw-piece shapes, highly deviating from such classical forms. We investigate the topology of developing <i>Arabidopsis</i> leaves composed solely of pavement cells. Image analysis of around 50,000 cells reveals a clear and unique topological signature, deviating from previously studied epidermal tissues. This topological distribution is established early during leaf development, already before the typical pavement cell shapes emerge, with topological homeostasis maintained throughout growth and unaltered between division and maturation zones. Simulating graph models, we identify a heuristic cellular division rule that reproduces the observed topology. Our parsimonious model predicts how and when cells effectively place their division plane with respect to their neighbours. We verify the predicted dynamics through <i>in vivo</i> tracking of 800 mitotic events, and conclude that the distinct topology is not a direct consequence of the jigsaw piece-like shape of the cells, but rather owes itself to a strongly life history-driven process, with limited impact from cell-surface mechanics.
+
+Gene: !affects! Cell shape 
+Cell: !deviates from! Classical forms 
+Image analysis: !reveals! Unique topological signature 
+Topology: !established early! During leaf development 
+Graph models: !identify! Heuristic cellular division rule 
+Rule: !reproduces! Observed topology 
+Model: !predicts! When cells place division plane 
+Tracking: !verifies! Predicted dynamics

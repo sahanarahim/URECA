@@ -1,0 +1,8 @@
+The biogenesis of photosystem II, one of the major photosynthetic protein complexes, involves a cascade of assembly-governed regulation of translation of its major chloroplast-encoded subunits. In Chlamydomonas reinhardtii, the presence of the reaction center subunit D2 is required for the expression of the other reaction center subunit D1, while the presence of D1 is required for the expression of the core antenna subunit apoCP47. Using chimeric genes expressed in the chloroplast, we demonstrate that the decreased synthesis of D1 or apoCP47 in the absence of protein assembly is due to a genuine downregulation of translation. This regulation is mediated by the 5' untranslated region of the corresponding mRNA and originates from negative feedback exerted by the unassembled D1 or apoCP47 polypeptide. However, autoregulation of translation of subunit D1 is not implicated in the recovery from photoinhibition, which involves an increased translation of psbA mRNA in response to the degradation of photodamaged D1. De novo synthesis and repair of photosystem II complexes are independently controlled.
+
+D2: !affects! D1 expression
+D1: !affects! apoCP47 expression
+5' UTR: !mediates! translation downregulation
+D1/apoCP47 polypeptide: !exerts! negative feedback
+psbA mRNA: !increases! translation in response to photodamage
+De novo synthesis/repair: !independently controlled!

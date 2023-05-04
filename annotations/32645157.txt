@@ -1,0 +1,11 @@
+Sugars Will Eventually be Exported Transporters (SWEETs) are important in plant biological processes. Expression levels of CsSWEET1a and CsSWEET17 are induced by cold acclimation (CA) and cold stress in Camellia sinensis. Here, we found that CsSWEET17 was alternatively spliced, and its exclusion (Ex) transcript was associated with the CA process. Both plasma membrane-localized CsSWEET1a and CsSWEET17 transport hexoses, but cytoplasm-localized CsSWEET17-Ex does not. These results indicate that alternative splicing may be involved in regulating the function of SWEET transporters in response to low temperature in plants. The extra C-terminal of CsSWEET17, which is not found in the tonoplast fructose transporter AtSWEET17, did not affect its plasma membrane localization but promoted its sugar transport activities. The overexpression (OE) of CsSWEET1a and CsSWEET17 genes resulted in an increased sugar uptake in Arabidopsis, affecting plant germination and growth. The leaf and seed sizes of the CsSWEET17-OE lines were significantly larger than those of the wild type. Moreover, the OE of CsSWEET1a and CsSWEET17 significantly reduced the relative electrolyte leakage levels under freezing stress. Compared with the wild type, the expression of AtCWINV genes was suppressed in both CsSWEET1a-OE and CsSWEET17-OE lines, indicating the alteration in sugar contents in the cell walls of the OE lines. Furthermore, the interaction between CsSWEET1a and CsSWEET17 was confirmed using yeast two-hybrid and bimolecular fluorescence complementation assays. We showed that CsSWEET1a and CsSWEET17 form homo-/heterodimers in the plasma membrane and mediate the partitioning of sugars between the cytoplasm and the apoplast, thereby regulating plant growth and freezing tolerance.
+
+CsSWEET1a: !induces! CsSWEET17
+CsSWEET17: !alternatively spliced! Ex transcript
+CsSWEET1a: !transports! hexoses
+CsSWEET17-Ex: !does not transport! hexoses
+CsSWEET1a/CsSWEET17 OE: !affects! plant germination/growth
+CsSWEET1a/CsSWEET17 OE: !reduces! relative electrolyte leakage levels
+CsSWEET1a/CsSWEET17 OE: !suppresses! AtCWINV expression
+CsSWEET1a/CsSWEET17: !interact with! each other
+CsSWEET1a/CsSWEET17: !mediate! partitioning of sugars

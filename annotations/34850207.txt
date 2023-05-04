@@ -1,0 +1,9 @@
+Stomatal movement is critical for plant responses to environmental changes and is regulated by the important signaling molecule phosphatidylinositol 3-phosphate (PI3P). However, the molecular mechanism underlying this process is not well understood. In this study, we show that PI3P binds to stomatal closure-related actin-binding protein1 (SCAB1), a plant-specific F-actin-binding and -bundling protein, and inhibits the oligomerization of SCAB1 to regulate its activity on F-actin in guard cells during stomatal closure in Arabidopsis thaliana. SCAB1 binds specifically to PI3P, but not to other phosphoinositides. Treatment with wortmannin, an inhibitor of phosphoinositide kinase that generates PI3P, leads to an increase of the intermolecular interaction and oligomerization of SCAB1, stabilization of F-actin, and retardation of F-actin reorganization during abscisic acid (ABA)-induced stomatal closure. When the binding activity of SCAB1 to PI3P is abolished, the mutated proteins do not rescue the stability and realignment of F-actin regulated by SCAB1 and the stomatal closure in the scab1 mutant. The expression of PI3P biosynthesis genes is consistently induced when the plants are exposed to drought and ABA treatments. Furthermore, the binding of PI3P to SCAB1 is also required for vacuolar remodeling during stomatal closure. Our results illustrate a PI3P-regulated pathway during ABA-induced stomatal closure, which involves the mediation of SCAB1 activity in F-actin reorganization.
+
+PI3P: !binds to! SCAB1
+SCAB1: !binds to! PI3P
+wortmannin: !inhibits! phosphoinositide kinase
+SCAB1: !stabilizes! F-actin
+ABA: !induces! PI3P biosynthesis genes
+PI3P: !regulates! SCAB1 activity
+SCAB1: !mediates! F-actin reorganization

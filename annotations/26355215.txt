@@ -1,0 +1,8 @@
+['26355215', 'In plants, host response to pathogenic microbes is driven both by microbial  perception and detection of modified-self. The Xanthomonas campestris effector  protein AvrAC/XopAC uridylylates the Arabidopsis BIK1 kinase to dampen basal  resistance and thereby promotes bacterial virulence. Here we show that PBL2, a  paralog of BIK1, is similarly uridylylated by AvrAC. However, in contrast to  BIK1, PBL2 uridylylation is specifically required for host recognition of AvrAC  to trigger immunity, but not AvrAC virulence. PBL2 thus acts as a decoy and  enables AvrAC detection. AvrAC recognition also requires the RKS1 pseudokinase of  the ZRK family and the NOD-like receptor ZAR1, which is known to recognize the  Pseudomonas syringae effector HopZ1a. ZAR1 forms a stable complex with RKS1,  which specifically recruits PBL2 when the latter is uridylylated by AvrAC,  triggering ZAR1-mediated immunity. The results illustrate how decoy substrates  and pseudokinases can specify and expand the capacity of the plant immune system.', '2015 Sep 9', 'Cell Host Microbe', '10.1016/j.chom.2015.08.004', 'Zhou']
+
+AvrAC/XopAC: !uridylylates! BIK1 
+AvrAC/XopAC: !uridylylates! PBL2 
+PBL2: !required for! AvrAC detection 
+RKS1: !recruits! PBL2 
+ZAR1: !forms complex with! RKS1 
+ZAR1: !recognizes! HopZ1a

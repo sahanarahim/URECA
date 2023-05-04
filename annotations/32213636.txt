@@ -1,0 +1,8 @@
+The Arabidopsis (<i>Arabidopsis thaliana</i>) blue light photoreceptor phototropin1 (phot1) is a blue light-activated Ser/Thr protein kinase that mediates various light responses, including phototropism. The function of phot1 in hypocotyl phototropism is dependent on the light induction of ROOT PHOTOTROPISM2 (RPT2) proteins within a broad range of blue light intensities. It is not yet known however how RPT2 contributes to the photosensory adaptation of phot1 to high intensity blue light and the phototropic responses under bright light conditions. We show that RPT2 suppresses the activity of phot1 and demonstrate that RPT2 binds to the PHOT1 light, oxygen or voltage sensing1 (LOV1) domain that is required for its high photosensitivity. Our biochemical analyses revealed that RPT2 inhibits autophosphorylation of phot1, suggesting that it suppresses the photosensitivity and/or kinase activity of phot1 through the inhibition of LOV1 function. We found that RPT2 proteins are degraded via a ubiquitin-proteasome pathway when phot1 is inactive and are stabilized under blue light in a phot1-dependent manner. We propose that RPT2 is a molecular rheostat that maintains a moderate activation level of phot1 under any light intensity conditions.
+
+phot1: !mediates! light responses
+RPT2: !binds to! LOV1 domain
+RPT2: !inhibits! autophosphorylation of phot1
+RPT2: !suppresses! photosensitivity/kinase activity of phot1
+RPT2: !stabilized by! phot1
+RPT2: !degraded by! ubiquitin-proteasome pathway

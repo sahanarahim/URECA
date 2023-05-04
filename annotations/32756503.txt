@@ -1,0 +1,7 @@
+The mitogen-activated protein kinase (MAPK) LjMPK6 is a phosphorylation target of SIP2, a MAPK kinase that interacts with SymRK (symbiosis receptor-like kinase) for regulation of legume-rhizobia symbiosis. Both LjMPK6 and SIP2 are required for nodulation in <i>Lotus japonicus</i>. However, the dephosphorylation of LjMPK6 and its regulatory components in nodule development remains unexplored. By yeast two-hybrid screening, we identified a type 2C protein phosphatase, LjPP2C, that specifically interacts with and dephosphorylates LjMPK6 in vitro. Physiological and biochemical assays further suggested that LjPP2C phosphatase is required for dephosphorylation of LjMPK6 in vivo and for fine-tuning nodule development after rhizobial inoculation. A non-phosphorylatable mutant variant LjMPK6 (T224A Y226F) could mimic LjPP2C functioning in MAPK dephosphorylation required for nodule development in hairy root transformed plants. Collectively, our study demonstrates that interaction with LjPP2C phosphatase is required for dephosphorylation of LjMPK6 to fine tune nodule development in <i>L. japonicus</i>.
+
+SIP2: !phosphorylates! LjMPK6
+LjPP2C: !interacts with! LjMPK6
+LjPP2C: !dephosphorylates! LjMPK6
+LjPP2C: !required for! MAPK dephosphorylation
+LjPP2C: !fine-tunes! nodule development

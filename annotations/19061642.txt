@@ -1,0 +1,11 @@
+['19061642', 'In genetic hybrids, the silencing of nucleolar rRNA genes inherited from one  progenitor is the epigenetic phenomenon known as nucleolar dominance. An RNAi  knockdown screen identified the Arabidopsis de novo cytosine methyltransferase,  DRM2, and the methylcytosine binding domain proteins, MBD6 and MBD10, as  activities required for nucleolar dominance. MBD10 localizes throughout the  nucleus, but MBD6 preferentially associates with silenced rRNA genes and does so  in a DRM2-dependent manner. DRM2 methylation is thought to be guided by siRNAs  whose biogenesis requires RNA-DEPENDENT RNA POLYMERASE 2 (RDR2) and DICER-LIKE 3  (DCL3). Consistent with this hypothesis, knockdown of DCL3 or RDR2 disrupts  nucleolar dominance. Collectively, these results indicate that in addition to  directing the silencing of retrotransposons and noncoding repeats, siRNAs specify  de novo cytosine methylation patterns that are recognized by MBD6 and MBD10 in  the large-scale silencing of rRNA gene loci.', '2008 Dec 5', 'Mol Cell', '10.1016/j.molcel.2008.11.009', 'Pikaard']
+
+DRM2: !methylates! MBD6 
+MBD10: !localizes to! nucleus 
+MBD6: !associates with! silenced rRNA genes 
+siRNAs: !directs! DRM2 methylation 
+RDR2: !biogenesis requires! siRNAs 
+DCL3: !biogenesis requires! siRNAs 
+RDR2: !disrupts! nucleolar dominance 
+DCL3: !disrupts! nucleolar dominance 
+MBD6: !recognizes! de novo cytosine methylation patterns

@@ -1,0 +1,6 @@
+The rice esp2 mutation was previously characterized by the abnormal accumulation of elevated levels of proglutelin and the absence of an endosperm-specific protein disulfide isomerase like (PDIL1-1). Here we show that Esp2 is the structural gene for PDIL1-1 and that this lumenal chaperone is asymmetrically distributed within the cortical endoplasmic reticulum (ER) and largely restricted to the cisternal ER. Temporal studies indicate that PDIL1-1 is essential for the maturation of proglutelin only when its rate of synthesis significantly exceeds its export from the ER, a condition resulting in its build up in the ER lumen and the induction of ER quality control processes which lower glutelin levels as well as those of the other storage proteins. As proglutelin is initially synthesized on the cisternal ER, its deposition within prolamine protein bodies in esp2 suggests that PDIL1-1 helps retain proglutelin in the cisternal ER lumen until it attains competence for ER export and, thereby, indirectly preventing heterotypic interactions with prolamine polypeptides.
+
+Esp2: !synthesizes! PDIL1-1
+PDIL1-1: !localizes to! cisternal ER
+PDIL1-1: !enhances! proglutelin maturation
+PDIL1-1: !prevents! heterotypic interactions

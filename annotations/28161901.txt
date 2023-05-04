@@ -1,0 +1,13 @@
+The shoot stem cell niche, contained within the shoot apical meristem (SAM) is maintained in Arabidopsis by the homeodomain protein SHOOT MERISTEMLESS (STM). STM is a mobile protein that traffics cell-to-cell, presumably through plasmodesmata. In maize, the STM homolog KNOTTED1 shows clear differences between mRNA and protein localization domains in the SAM. However, the STM mRNA and protein localization domains are not obviously different in Arabidopsis, and the functional relevance of STM mobility is unknown. Using a non-mobile version of STM (2xNLS-YFP-STM), we show that STM mobility is required to suppress axillary meristem formation during embryogenesis, to maintain meristem size, and to precisely specify organ boundaries throughout development. STM and organ boundary genes CUP SHAPED COTYLEDON1 (CUC1), CUC2 and CUC3 regulate each other during embryogenesis to establish the embryonic SAM and to specify cotyledon boundaries, and STM controls CUC expression post-embryonically at organ boundary domains. We show that organ boundary specification by correct spatial expression of CUC genes requires STM mobility in the meristem. Our data suggest that STM mobility is critical for its normal function in shoot stem cell control.
+
+STM: !maintains! SAM 
+STM: !suppresses! axillary meristem formation 
+STM: !maintains! meristem size 
+STM: !specifies! organ boundaries 
+STM: !regulates! CUC1 
+STM: !regulates! CUC2 
+STM: !regulates! CUC3 
+CUC1: !specifies! cotyledon boundaries 
+CUC2: !specifies! cotyledon boundaries 
+CUC3: !specifies! cotyledon boundaries 
+STM: !requires! mobility

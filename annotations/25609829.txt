@@ -1,0 +1,7 @@
+Recent research has linked the non-coding intronic regions of plant genes to the production of small RNAs (sRNAs). Certain introns, called 'mirtrons' and 'sirtrons', could serve as the single-stranded RNA precursors for the generation of microRNA and small interfering RNA, respectively. However, whether the intronic regions could serve as the template for double-stranded RNA synthesis and then for sRNA biogenesis through an RDR (RNA-dependent RNA polymerase)-dependent pathway remains unclear. In this study, a genome-wide search was made for the RDR-dependent sRNA loci within the intronic regions of the Arabidopsis genes. Hundreds of intronic regions encoding three or more RDR-dependent sRNAs were found to be covered by dsRNA-seq (double-stranded RNA sequencing) reads, indicating that the intron-derived sRNAs were indeed generated from long double-stranded RNA precursors. More interestingly, phase-distributed sRNAs were discovered on some of the dsRNA-seq read-covered intronic regions, and those sRNAs were largely 24 nt in length. Based on these results, the opinion is put forward that the intronic regions might serve as the genomic origins for the RDR-dependent sRNAs. This opinion might add a novel layer to the current biogenesis model of the intron-derived sRNAs.
+
+intron: !serves as template for! double-stranded RNA synthesis 
+RDR: !synthesizes! sRNAs from intronic regions 
+intron: !generates! microRNA and small interfering RNA 
+dsRNA-seq reads: !cover! intronic regions 
+intron: !produces! phase-distributed sRNAs

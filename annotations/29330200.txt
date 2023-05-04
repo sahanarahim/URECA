@@ -1,0 +1,9 @@
+['29330200', 'Polycomb-group (PcG) proteins mediate epigenetic gene regulation by setting  H3K27me3 via Polycomb Repressive Complex 2 (PRC2). In plants, it is largely  unclear how PcG proteins are recruited to their target genes. Here, we identified  the PWWP-DOMAIN INTERACTOR OF POLYCOMBS1 (PWO1) protein, which interacts with all  three Arabidopsis thaliana PRC2 histone methyltransferases and is required for  maintaining full H3 occupancy at several Arabidopsis genes. PWO1 localizes and  recruits CURLY LEAF to nuclear speckles in Nicotiana benthamiana nuclei,  suggesting a role in spatial organization of PcG regulation. PWO1 belongs to a  gene family with three members having overlapping activities: pwo1 pwo2 pwo3  triple mutants are seedling lethal and show shoot and root meristem arrest, while  pwo1 single mutants are early flowering. Interestingly, the PWWP domain of PWO1  confers binding to histones, which is reduced by a point mutation in a highly  conserved residue of this domain and blocked by phosphorylation of H3S28. PWO1  carrying this mutation is not able to fully complement the pwo1 pwo2 pwo3 triple  mutant, indicating the requirement of this domain for PWO1 in vivo activity.  Thus, the PWO family may present a novel class of histone readers that are  involved in recruiting PcG proteins to subnuclear domains and in promoting  Arabidopsis development.', '2018 Jan', 'Plant Cell', '10.1105/tpc.17.00117', 'ORCID:']
+
+PWO1: !interacts with! PRC2 
+PWO1: !localizes to! nuclear speckles 
+PWO1: !belongs to! gene family 
+PWWP domain: !confers binding to! histones 
+point mutation: !reduces! PWO1 binding to histones 
+H3S28: !blocks! PWO1 binding to histones 
+PWO1: !promotes! Arabidopsis development

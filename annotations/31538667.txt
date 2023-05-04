@@ -1,0 +1,9 @@
+The classical theory of stomatal optimization stipulates that stomata should act to maximize photosynthesis while minimizing transpiration. This theory, despite its remarkable success in reproducing empirical patterns, does not account for the fact that the available water to plants is dynamically regulated by plants themselves, and that plants compete for water in most locations. Here, we develop an alternative theory in which plants maximize the expected carbon gain under stochastic rainfall in a competitive environment. We further incorporate xylem hydraulic limitation as an additional constraint to transpiration and evaluate its impacts on stomatal optimization by incorporating the direct carbon cost of xylem recovery and the opportunity cost of reduced future photosynthesis as a result of irrecoverable xylem damage. We predict stomatal behaviour to be more conservative with a higher cost induced by xylem damage. By varying the unit carbon cost and extent of xylem recovery, characterizing the direct and opportunity cost of xylem damage, respectively, our model can reproduce several key patterns of stomatal-hydraulic trait covariations. By addressing the key elements of water limitation in plant gas exchange simultaneously, including plants' self-regulation of water availability, competition for water and hydraulic risk, our study provides a comprehensive theoretical basis for understanding stomatal behaviour.
+
+stomata: !maximize! photosynthesis 
+stomata: !minimize! transpiration 
+plants: !maximize! expected carbon gain 
+plants: !compete for! water 
+xylem hydraulic limitation: !constrain! transpiration 
+xylem damage: !induce! cost 
+model: !reproduce! key patterns of stomatal-hydraulic trait covariations

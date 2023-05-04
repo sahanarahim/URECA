@@ -1,0 +1,15 @@
+['20585548', 'The plant life cycle alternates between two distinct multi-cellular generations,  the reduced gametophytes and the dominant sporophyte. Little is known about how  generation-specific cell fate, differentiation, and development are controlled by  the core regulators of the cell cycle. In Arabidopsis, RETINOBLASTOMA RELATED  (RBR), an evolutionarily ancient cell cycle regulator, controls cell  proliferation, differentiation, and regulation of a subset of Polycomb Repressive  Complex 2 (PRC2) genes and METHYLTRANSFERASE 1 (MET1) in the male and female  gametophytes, as well as cell fate establishment in the male gametophyte. Here we  demonstrate that RBR is also essential for cell fate determination in the female  gametophyte, as revealed by loss of cell-specific marker expression in all the  gametophytic cells that lack RBR. Maintenance of genome integrity also requires  RBR, because diploid plants heterozygous for rbr (rbr/RBR) produce an abnormal  portion of triploid offspring, likely due to gametic genome duplication. While  the sporophyte of the diploid mutant plants phenocopied wild type due to the  haplosufficiency of RBR, genetic analysis of tetraploid plants triplex for rbr  (rbr/rbr/rbr/RBR) revealed that RBR has a dosage-dependent pleiotropic effect on  sporophytic development, trichome differentiation, and regulation of PRC2 subunit  genes CURLY LEAF (CLF) and VERNALIZATION 2 (VRN2), and MET1 in leaves. There  were, however, no obvious cell cycle and cell proliferation defects in these  plant tissues, suggesting that a single functional RBR copy in tetraploids is  capable of maintaining normal cell division but is not sufficient for distinct  differentiation and developmental processes. Conversely, in leaves of mutants in  sporophytic PRC2 subunits, trichome differentiation was also affected and  expression of RBR and MET1 was reduced, providing evidence for a RBR-PRC2-MET1  regulatory feedback loop involved in sporophyte development. Together,  dosage-sensitive RBR function and its genetic interaction with PRC2 genes and  MET1 must have been recruited during plant evolution to control distinct  generation-specific cell fate, differentiation, and development.', '2010 Jun 17', 'PLoS Genet', '10.1371/journal.pgen.1000988', 'Gruissem']
+
+RBR: !controls! Cell proliferation 
+RBR: !controls! Differentiation 
+RBR: !controls! Regulation of PRC2 genes 
+RBR: !controls! Regulation of MET1 
+RBR: !controls! Cell fate establishment 
+RBR: !maintains! Genome integrity 
+RBR: !has dosage-dependent pleiotropic effect on! Sporophytic development 
+RBR: !has dosage-dependent pleiotropic effect on! Trichome differentiation 
+RBR: !regulates! CLF 
+RBR: !regulates! VRN2 
+RBR: !regulates! MET1 
+PRC2: !interacts with! RBR 
+MET1: !interacts with! RBR

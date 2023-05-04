@@ -1,0 +1,15 @@
+Regulation of photosynthetic gene expression by plastid-encoded RNA polymerase (PEP) is essential for chloroplast development. The activity of PEP largely relies on at least 12 PEP-associated proteins (PAPs) encoded in the nuclear genome of plant cells. A recent model proposed that these PAPs regulate the establishment of the PEP complex through broad PAP-PEP or PAP-PAP interactions. In this study, we identified the Arabidopsis (<i>Arabidopsis thaliana</i>) seedling-lethal mutant <i>ptac10-1</i>, which has defects in chloroplast development, and found that the mutant phenotype is caused by the suppression of <i>PLASTID S1 RNA-BINDING DOMAIN PROTEIN</i> (<i>pTAC10/PAP3</i>). Analysis of the heterozygous mutant and <i>pTAC10</i>-overexpressing transgenic plants indicated that the expression level of <i>pTAC10</i> is tightly linked to chloroplast development. Characterization of the interaction of pTAC10 with PAPs revealed that pTAC10 interacts with other PAPs, such as FSD2, FSD3, TrxZ, pTAC7, and pTAC14, but it does not interact with PEP core enzymes, such as rpoA and rpoB. Analysis of pTAC10 interactions using truncated pTAC10 proteins showed that the pTAC10 carboxyl-terminal region downstream of the S1 domain is involved in the pTAC10-PAP interaction. Furthermore, overexpression of truncated <i>pTAC10s</i> lacking the C-terminal regions downstream of the S1 domain could not rescue the <i>ptac10-1</i> mutant phenotype and induced an abnormal whitening phenotype in Columbia-0 plants. Our observations suggested that these pTAC10-PAP interactions are essential for the formation of the PEP complex and chloroplast development.
+
+PEP: !relies on! PAPs
+PAPs: !regulate! PEP complex
+pTAC10: !causes! chloroplast development defects
+pTAC10: !interacts with! FSD2
+pTAC10: !interacts with! FSD3
+pTAC10: !interacts with! TrxZ
+pTAC10: !interacts with! pTAC7
+pTAC10: !interacts with! pTAC14
+pTAC10: !does not interact with! rpoA
+pTAC10: !does not interact with! rpoB
+pTAC10: !requires! C-terminal region
+pTAC10-PAP interactions: !essential for! PEP complex formation
+PEP complex formation: !essential for! chloroplast development

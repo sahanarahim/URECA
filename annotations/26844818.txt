@@ -1,0 +1,12 @@
+Diatoms are one of the most productive and successful photosynthetic taxa on Earth and possess attributes such as rapid growth rates and production of lipids, making them candidate sources of renewable fuels. Despite their significance, few details of the mechanisms used to regulate growth and carbon metabolism are currently known, hindering metabolic engineering approaches to enhance productivity. To characterize the transcript level component of metabolic regulation, genome-wide changes in transcript abundance were documented in the model diatom Thalassiosira pseudonana on a time-course of silicon starvation. Growth, cell cycle progression, chloroplast replication, fatty acid composition, pigmentation, and photosynthetic parameters were characterized alongside lipid accumulation. Extensive coordination of large suites of genes was observed, highlighting the existence of clusters of coregulated genes as a key feature of global gene regulation in T. pseudonana. The identity of key enzymes for carbon metabolic pathway inputs (photosynthesis) and outputs (growth and storage) reveals these clusters are organized to synchronize these processes. Coordinated transcript level responses to silicon starvation are probably driven by signals linked to cell cycle progression and shifts in photophysiology. A mechanistic understanding of how this is accomplished will aid efforts to engineer metabolism for development of algal-derived biofuels.
+
+Gene: !affects! Growth 
+Gene: !affects! Cell cycle progression 
+Gene: !affects! Chloroplast replication 
+Gene: !affects! Fatty acid composition 
+Gene: !affects! Pigmentation 
+Gene: !affects! Photosynthetic parameters 
+Gene: !affects! Lipid accumulation 
+Gene: !coordinates! Coregulated genes 
+Gene: !synchronizes! Carbon metabolic pathways 
+Gene: !driven by! Signals

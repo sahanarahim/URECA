@@ -1,0 +1,10 @@
+Distributed control of agriculture picking multi-robot systems has been widely used in the field of smart agriculture, this paper aims to explore the distributed averaging problems of agriculture picking multi-robot systems under directed communication topologies by taking advantage of the sampled data. With the algebraic graph theory concepts and the matrix theory, a distributed protocol is proposed based on the nearest sampled neighbor information. It is shown that under the proposed protocol, the states of all agents can be guaranteed to reach average consensus whose value is the averaging of the initial states of all agents. Besides, when considering time-delay, the other distributed protocol is constructed, in which a time margin of the time-delay can be determined simultaneously. The necessary and sufficient consensus results can be developed even though the time delay exists. Simulation results are given to demonstrate the effectiveness of our developed consensus results.
+
+Gene: !affects! Agriculture picking multi-robot systems 
+Gene: !explores! Distributed averaging problems 
+Gene: !takes advantage of! Sampled data 
+Gene: !proposes! Distributed protocol 
+Gene: !guarantees! States reach average consensus 
+Gene: !constructs! Other distributed protocol 
+Gene: !develops! Necessary and sufficient consensus results 
+Gene: !demonstrates! Effectiveness of consensus results

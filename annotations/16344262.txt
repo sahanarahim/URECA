@@ -1,0 +1,8 @@
+['16344262', 'In higher plants, stems and roots show negative and positive gravitropism,  respectively. However, current knowledge on the graviresponse of leaves is  lacking. In this study, we analyzed the positioning and movement of rosette  leaves of Arabidopsis thaliana under light and dark conditions. We found that the  radial positioning of rosette leaves was not affected by the direction of gravity  under continuous white light. In contrast, when plants were shifted to darkness,  the leaves moved upwards, suggesting negative gravitropism. Analysis of the  phosphoglucomutase and shoot gravitropism 2-1 mutants revealed that the  sedimenting amyloplasts in the leaf petiole are important for gravity perception,  as is the case in stems and roots. In addition, our detailed physiological  analyses revealed a unique feature of leaf movement after the shift to darkness,  i.e. movement could be divided into negative gravitropism and nastic movement.  The orientation of rosette leaves is ascribed to a combination of these  movements.', '2006 Feb', 'Plant Cell Physiol', '10.1093/pcp/pci237', 'Tsukaya']
+
+gravity: !affects! leaf positioning 
+phosphoglucomutase: !influences! gravity perception 
+shoot gravitropism 2-1: !influences! gravity perception 
+amyloplasts: !influence! gravity perception 
+darkness: !induces! negative gravitropism 
+darkness: !induces! nastic movement

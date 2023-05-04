@@ -1,0 +1,10 @@
+Complete chloroplast genome sequence of a moss, Takakia lepidozioides (Takakiopsida) is reported. The largest collection of genes in mosses and the intensive RNA editing were discussed from evolutionary perspectives. We assembled the entire plastid genome sequence of Takakia lepidozioides (Takakiopsida), emerging from the first phylogenetic split among extant mosses. The genome sequences were assembled into a circular molecule 149,016 bp in length, with a quadripartite structure comprising a large and a small single-copy region separated by inverted repeats. It contained 88 genes coding for proteins, 32 for tRNA, four for rRNA, two open reading frames, and at least one pseudogene (tufA). This is the largest number of genes of all sequenced plastid genomes in mosses and Takakia is the only moss that retains the seven coding genes ccsA, cysA, cysT, petN rpoA, rps16 and trnP<sup>GGG</sup>. Parsimonious interpretation of gene loss suggests that the last common ancestor of bryophytes had all seven genes and that mosses lost at least three of them during their diversification. Analyses of the plastid transcriptome identified the extraordinary frequency of RNA editing with more than 1100 sites. We indicated a close correlation between the monoplastidy of vegetative tissue and the intensive RNA editing sites in the plastid genome in land plant lineages. Here, we proposed a hypothesis that the small population size of plastids in each vegetative cell of some early diverging land plants, including Takakia, might cause the frequent fixation of mutations in plastid genome through the intracellular genetic drift and that deleterious mutations might be continuously compensated by RNA editing during or following transcription.
+
+genome: !contains! 88 genes
+genome: !contains! 32 tRNA
+genome: !contains! 4 rRNA
+genome: !contains! 2 open reading frames
+genome: !contains! 1 pseudogene
+mosses: !retain! 7 coding genes
+vegetative tissue: !correlates with! intensive RNA editing sites
+mutations: !compensated by! RNA editing

@@ -1,0 +1,12 @@
+Plant immune responses activated through the perception of microbe-associated molecular patterns, leading to pattern-triggered immunity, are tightly regulated. This results in low immune responses in the absence of pathogens and a rapid return to the resting state following an activation event. Here, we show that two <i>CALMODULIN-LIKE</i> genes, <i>CML46</i> and <i>CML47</i>, negatively regulate salicylic acid accumulation and immunity in Arabidopsis (<i>Arabidopsis thaliana</i>). The double mutant <i>cml46 cml47</i> is highly resistant to the pathogen <i>Pseudomonas syringae</i> pv <i>maculicola</i> (<i>Pma</i>). The effects of <i>cml46 cml47</i> on <i>Pma</i> growth are genetically additive to that of <i>cbp60a</i>, a known negative regulator in the <i>CALMODULIN-BINDING PROTEIN60</i> (<i>CBP60</i>) family. Transcriptome profiling revealed the effects of <i>cbp60a</i> and <i>cml46 cml47</i> on both common and separate sets of genes, with the majorities of these differentially expressed genes being <i>Pma</i> responsive. <i>CBP60g</i>, a positive regulator of immunity in the <i>CBP60</i> family, was found to be transcriptionally regulated by <i>CBP60a</i>, <i>CML46</i>, and <i>CML47</i> Analysis of the flg22-induced mRNA levels of <i>CBP60g</i> in <i>cbp60a</i> and <i>cml46 cml47</i> revealed that <i>cml46 cml47</i> plants have higher induced expression while <i>cbp60a</i> plants retain elevated levels longer than wild-type plants. Assays for the effect of flg22 treatment on <i>Pma</i> growth showed that the effect is stronger in <i>cml46 cml47</i> plants and lasts longer in <i>cbp60a</i> plants. Thus, the expression pattern of <i>CBP60g</i> is reflected in flg22-induced resistance to <i>Pma</i>.
+
+CML46: !negatively regulates! salicylic acid accumulation
+CML47: !negatively regulates! salicylic acid accumulation
+CBP60a: !negatively regulates! immunity
+CBP60g: !positively regulates! immunity
+CBP60a: !regulates transcription of! CBP60g
+CML46: !regulates transcription of! CBP60g
+CML47: !regulates transcription of! CBP60g
+flg22: !induces expression of! CBP60g
+CML46: !enhances! flg22-induced resistance to Pma
+CBP60a: !lengthens! flg22-induced resistance to Pma

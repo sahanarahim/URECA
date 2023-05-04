@@ -1,0 +1,12 @@
+Trees represent the largest terrestrial carbon sink and a renewable source of ligno-cellulose. There is significant scope for yield and quality improvement in these largely undomesticated species, and efforts to engineer elite varieties will benefit from improved understanding of the transcriptional network underlying cambial growth and wood formation. We generated high-spatial-resolution RNA sequencing data spanning the secondary phloem, vascular cambium, and wood-forming tissues of <i>Populus tremula</i> The transcriptome comprised 28,294 expressed, annotated genes, 78 novel protein-coding genes, and 567 putative long intergenic noncoding RNAs. Most paralogs originating from the Salicaceae whole-genome duplication had diverged expression, with the exception of those highly expressed during secondary cell wall deposition. Coexpression network analyses revealed that regulation of the transcriptome underlying cambial growth and wood formation comprises numerous modules forming a continuum of active processes across the tissues. A comparative analysis revealed that a majority of these modules are conserved in <i>Picea abies</i> The high spatial resolution of our data enabled identification of novel roles for characterized genes involved in xylan and cellulose biosynthesis, regulators of xylem vessel and fiber differentiation and lignification. An associated web resource (AspWood, http://aspwood.popgenie.org) provides interactive tools for exploring the expression profiles and coexpression network.
+
+Gene: !affects! Cambial growth
+Gene: !affects! Wood formation
+Gene: !diverges expression! Paralogs
+Gene: !regulates! Transcriptome
+Gene: !conserved in! Picea abies
+Gene: !involved in! Xylan biosynthesis
+Gene: !involved in! Cellulose biosynthesis
+Gene: !regulates! Xylem vessel differentiation
+Gene: !regulates! Fiber differentiation
+Gene: !regulates! Lignification

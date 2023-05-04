@@ -1,0 +1,8 @@
+Ecophysiological models are increasingly expected to include genetic information via genotype-dependent parameters. These parameters could be considered as quantitative traits and submitted to analysis. A pre-existing ecophysiological model of fruit quality was used and the distribution of the genotypic parameters in a second backcross population derived from a clone of a wild peach (Prunus davidiana) and commercial nectarine varieties (P. persica (L.) Batsch) was analysed. The correlations between the two years of experimentation were higher for the genotypic parameters than for the quality traits commonly studied by breeders. The correlations between the genotypic parameters and the quality traits were low. Quantitative trait loci (QTLs) for the genotypic key parameters of the ecophysiological model were detected by linear regression. Co-locations of QTLs for parameters were observed as well as co-locations of QTLs for parameters and quality traits. The ecophysiological model and the results of the QTL analysis were combined by substituting each parameter in the model by the sum of QTL effects. This combined model can simulate the behaviour of genotypes carrying diverse combinations of alleles. The quality of this combined model was moderately suitable, but had some shortcomings. Improvements are suggested and further use of this combined model as a tool for breeders is discussed.
+
+genotype: !affects! parameters 
+parameters: !correlate with! quality traits 
+QTLs: !localize to! parameters 
+QTLs: !co-locate with! quality traits 
+model: !substitutes! parameters 
+model: !simulates! genotypes

@@ -1,0 +1,17 @@
+Seeds monitor the environment to germinate at the proper time, but different species respond differently to environmental conditions, particularly light and temperature. In Arabidopsis thaliana, light promotes germination but high temperature suppresses germination. We previously reported that light promotes germination by repressing SOMNUS (SOM). Here, we examined whether high temperature also regulates germination through SOM and found that high temperature activates SOM expression. Consistent with this, som mutants germinated more frequently than the wild type at high temperature. The induction of SOM mRNA at high temperature required abscisic acid (ABA) and gibberellic acid biosynthesis, and ABA-insensitive3 (ABI3), ABI5, and DELLAs positively regulated SOM expression. Chromatin immunoprecipitation assays indicated that ABI3, ABI5, and DELLAs all target the SOM promoter. At the protein level, ABI3, ABI5, and DELLAs all interact with each other, suggesting that they form a complex on the SOM promoter to activate SOM expression at high temperature. We found that high-temperature-inducible genes frequently have RY motifs and ABA-responsive elements in their promoters, some of which are targeted by ABI3, ABI5, and DELLAs in vivo. Taken together, our data indicate that ABI3, ABI5, and DELLAs mediate high-temperature signaling to activate the expression of SOM and other high-temperature-inducible genes, thereby inhibiting seed germination.
+
+ABA: !induces! SOM expression
+ABI3: !interacts with! ABI5
+ABI3: !interacts with! DELLAs
+ABI3: !targets! SOM promoter
+ABI5: !interacts with! ABI3
+ABI5: !interacts with! DELLAs
+ABI5: !targets! SOM promoter
+DELLAs: !interacts with! ABI3
+DELLAs: !interacts with! ABI5
+DELLAs: !targets! SOM promoter
+SOM: !repressed by! light
+SOM: !repressed by! ABA
+SOM: !repressed by! ABI3
+SOM: !repressed by! ABI5
+SOM: !repressed by! DELLAs

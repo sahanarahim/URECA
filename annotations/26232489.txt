@@ -1,0 +1,12 @@
+Ethylene is a gaseous plant hormone that most likely became a functional hormone during the evolution of charophyte green algae, prior to land colonization. From this ancient origin, ethylene evolved into an important growth regulator that is essential for myriad plant developmental processes. In vegetative growth, ethylene appears to have a dual role, stimulating and inhibiting growth, depending on the species, tissue, and cell type, developmental stage, hormonal status, and environmental conditions. Moreover, ethylene signaling and response are part of an intricate network in cross talk with internal and external cues. Besides being a crucial factor in the growth control of roots and shoots, ethylene can promote flowering, fruit ripening and abscission, as well as leaf and petal senescence and abscission and, hence, plays a role in virtually every phase of plant life. Last but not least, together with jasmonates, salicylate, and abscisic acid, ethylene is important in steering stress responses.
+
+ethylene: !regulates! growth
+ethylene: !promotes! flowering
+ethylene: !promotes! fruit ripening
+ethylene: !promotes! abscission
+ethylene: !promotes! leaf senescence
+ethylene: !promotes! petal abscission
+ethylene: !steers! stress responses
+jasmonates: !interacts with! ethylene
+salicylate: !interacts with! ethylene
+abscisic acid: !interacts with! ethylene

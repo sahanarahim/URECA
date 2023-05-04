@@ -1,0 +1,9 @@
+We investigated the fidelity of epigenetic inheritance in crosses between three accessions of the flowering plant Arabidopsis thaliana (Canary Islands, Cape Verde Islands, and Columbia). Specifically, we examined the cytosine methylation content of the ribosomal RNA genes at the two nucleolus organizer regions (NOR2 and NOR4) in F1 and F2 hybrid individuals derived from reciprocal crosses between the high NOR methylation strain, Columbia, and the two other accessions, both of which have less NOR methylation. In crosses between the Columbia and Cape Verde Islands strains, the cytosine methylation content segregated as an additive Mendelian trait: the high NOR methylation state was tightly associated with the inheritance of the two Columbia-derived NOR loci. First-generation hybrid individuals between the Canary Islands and Columbia strains also showed a cytosine methylation content at the NORs intermediate between the parental values, consistent with the epigenetic inheritance of parental methylation patterns. Interestingly, mapping data from F2 individuals derived from a Canary Islands x Columbia cross revealed that NOR2 accounted for nearly all of the NOR methylation variation segregating in the population. NOR4 retains a significant effect on total NOR methylation content only through a complex epistatic interaction with NOR2. Our results indicate that the inheritance of differential cytosine methylation states at NOR loci can be modified by their genetic context, opening up the possibility of genetic dissection of epigenetic inheritance.
+
+Columbia: !has high! NOR methylation
+Canary Islands: !has less! NOR methylation
+Cape Verde Islands: !has less! NOR methylation
+Columbia: !inherits! high NOR methylation
+F1 hybrid: !shows intermediate! cytosine methylation content
+NOR2: !accounts for! nearly all NOR methylation variation
+NOR4: !interacts with! NOR2

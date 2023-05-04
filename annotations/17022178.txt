@@ -1,0 +1,8 @@
+Cell-wall and glucopeptide components of yeast have been reported to exhibit elicitor activity. The mode of action of defense activation by yeast is not known so far. In this study, we used the model plant Arabidopsis to investigate the activation of defense responses by yeast, the effect on resistance against different pathogens, and the mode of action. Treatment of Arabidopsis plants with an autoclaved yeast suspension induced the expression of systemic acquired resistance-related genes and accumulation of the phytoalexin camalexin. Symptom development and bacterial growth after infection with a virulent strain of the pathogen Pseudomonas syringae was reduced in yeast-pretreated plants. No protection was detectable in mutants affected in the salicylate pathway, while mutants in the jasmonate or camalexin pathway were protected by yeast, indicating that the salicylate pathway is necessary for the yeast-induced resistance against P. syringae. Yeast also reduced symptom development after challenge with Botrytis cinerea. This protection was detectable in all mutants tested, indicating that it is independent of the salicylate, jasmonate, and camalexin pathway.
+
+yeast: !induces! expression of systemic acquired resistance-related genes 
+yeast: !induces! accumulation of phytoalexin camalexin 
+yeast: !reduces! symptom development and bacterial growth after infection with Pseudomonas syringae 
+salicylate pathway: !necessary for! yeast-induced resistance against P. syringae 
+yeast: !reduces! symptom development after challenge with Botrytis cinerea 
+salicylate, jasmonate, and camalexin pathways: !independent of! yeast-induced protection

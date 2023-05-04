@@ -1,0 +1,9 @@
+High salinity causes ionic, osmotic, and oxidative stresses to plants, and the antioxidant enzyme Catalase2 (CAT2) plays a vital role in this process, while how <i>CAT2</i> expression is regulated during plant response to high salinity remains elusive. Here, we report that phytohormone jasmonic acid (JA) impairs plant salt stress tolerance by repressing <i>CAT2</i> expression in an MYC2-dependent manner. Exogenous JA application decreased plant salt stress tolerance while the <i>jar1</i> mutant with reduced bioactive JA-Ile accumulation showed enhanced salt stress tolerance. JA enhanced salt-induced hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) accumulation, while treatment with H<sub>2</sub>O<sub>2</sub>-scavenger glutathione compromised such effects of JA on plant H<sub>2</sub>O<sub>2</sub> accumulation and salt stress tolerance. In addition, JA repressed <i>CAT2</i> expression in salt-stressed wild-type plant but not in <i>myc2</i>, a mutant of the master transcriptional factor MYC2 in JA signaling, therefore, the <i>myc2</i> mutant exhibited increased salt stress tolerance. Further study showed that mutation of <i>CAT2</i> largely reverted lower reactive oxygen species (ROS) accumulation, higher CAT activity, and enhanced salt stress tolerance of the <i>myc2</i> mutant in <i>myc2 cat2-1</i> double mutant, revealing that <i>CAT2</i> functions downstream JA-MYC2 module in plant response to high salinity. Together, our study reveals that JA impairs Arabidopsis seedling salt stress tolerance through MYC2-mediated repression of <i>CAT2</i> expression.
+
+JA: !represses! CAT2
+MYC2: !mediates! JA 
+H2O2: !enhances! JA
+glutathione: !compromises! JA
+jar1: !reduces! JA-Ile
+myc2: !lacks! JA signaling
+myc2 cat2-1: !reverts! ROS accumulation

@@ -1,0 +1,8 @@
+Phosphorus, an essential macroelement for plant growth and development, is a major limiting factor for sustainable crop yield. The Rho of plant (ROP) GTPase is involved in regulating multiple signal transduction processes in plants, but potentially including the phosphate deficiency signaling pathway remains unknown. Here, we identified that the rop6 mutant exhibited a dramatic tolerant phenotype under Pi-deficient conditions, with higher phosphate accumulation and lower anthocyanin content. In contrast, the rop6 mutant was more sensitive to arsenate (As(V)) toxicity, the analog of Pi. Immunoblot analysis displayed that the ROP6 protein was rapidly degraded through ubiquitin/26S proteasome pathway under Pi-deficient conditions. In addition, pull-down assay using GST-RIC1 demonstrated that the ROP6 activity was decreased obviously under Pi-deficient conditions. Strikingly, protein-protein interaction and two-voltage clamping assays demonstrated that ROP6 physically interacted with and inhibited the key phosphate uptake transporters PHT1;1 and PHT1;4 in vitro and in vivo. Moreover, genetic analysis showed that ROP6 functioned upstream of PHT1;1 and PHT1;4. Thus, we conclude that GTPase ROP6 modulates the uptake of phosphate by inhibiting the activities of PHT1;1 and PHT1;4 in Arabidopsis.
+
+ROP6: !inhibits! PHT1;1 
+ROP6: !inhibits! PHT1;4 
+ROP6: !interacts with! PHT1;1 
+ROP6: !interacts with! PHT1;4 
+ROP6: !degraded by! ubiquitin/26S proteasome pathway 
+ROP6: !regulates! phosphate deficiency signaling pathway

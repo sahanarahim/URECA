@@ -1,0 +1,10 @@
+Molecular-genetic control of the flowering time of temperate-climate plants is best understood in Arabidopsis and the cereals wheat and barley. However, key regulators such as FLC and cereal VRN2 are not found in legumes. Therefore, we used forward genetics to identify flowering time genes in the model legume Medicago truncatula (Medicago) which is induced to flower by vernalisation and long-day photoperiods. A screen of a Tnt1 retroelement tagging population yielded two mutants, spring2 and spring3, with a dominant early flowering phenotype. These mutants overexpress the floral activator FTa1 and two candidate downstream flowering genes SOC1a and FULb, similar to the spring1 somaclonal variant that we identified previously. We demonstrate here that an increase in the expression of FTa1, SOC1a and FULb and early flowering does not occur in all conditions in the spring mutants. It depends on long-day photoperiods but not on vernalisation. Isolation of flanking sequence tags and linkage analysis identified retroelement insertions at FTa1 that co-segregated with the early flowering phenotype in all three spring mutants. These were Tnt1 insertions in the FTa1 third intron (spring3) or the 3' intergenic region (spring2) and an endogenous MERE1-4 retroelement in the 3' intergenic region in spring1. Thus the spring mutants form an allelic series of gain-of-function mutations in FTa1 which confer a spring growth habit. The spring retroelement insertions at FTa1 separate long-day input from vernalisation input into FTa1 regulation, but this is not due to large-scale changes in FTa1 DNA methylation or transcript processing in the mutants.
+
+FTa1: !overexpresses! spring2, spring3
+FTa1: !co-segregates with! early flowering phenotype
+Tnt1: !inserts in! FTa1 third intron, 3' intergenic region
+MERE1-4: !inserts in! 3' intergenic region of spring1
+SOC1a: !overexpresses! spring2, spring3
+FULb: !overexpresses! spring2, spring3
+long-day photoperiods: !induces! FTa1 expression
+vernalisation: !does not induce! FTa1 expression

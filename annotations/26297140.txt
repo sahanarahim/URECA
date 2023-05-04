@@ -1,0 +1,16 @@
+Transcriptome resources for the medicinal plant Glaucium flavum were searched for orthologs showing identity with characterized O-methyltransferases (OMTs) involved in benzylisoquinoline alkaloid biosynthesis. Seven recombinant proteins were functionally tested using the signature alkaloid substrates for six OMTs: norlaudanosoline 6-OMT, 6-O-methyllaudanosoline 4'-OMT, reticuline 7-OMT, norreticuline 7-OMT, scoulerine 9-OMT, and tetrahydrocolumbamine OMT. A notable alkaloid in yellow horned poppy (G. flavum [GFL]) is the aporphine alkaloid glaucine, which displays C8-C6' coupling and four O-methyl groups at C6, C7, C3', and C4' as numbered on the 1-benzylisoquinoline scaffold. Three recombinant enzymes accepted 1-benzylisoquinolines with differential substrate and regiospecificity. GFLOMT2 displayed the highest amino acid sequence identity with norlaudanosoline 6-OMT, showed a preference for the 6-O-methylation of norlaudanosoline, and O-methylated the 3' and 4' hydroxyl groups of certain alkaloids. GFLOMT1 showed the highest sequence identity with 6-O-methyllaudanosoline 4'OMT and catalyzed the 6-O-methylation of norlaudanosoline, but more efficiently 4'-O-methylated the GFLOMT2 reaction product 6-O-methylnorlaudanosoline and its N-methylated derivative 6-O-methyllaudanosoline. GFLOMT1 also effectively 3'-O-methylated both reticuline and norreticuline. GFLOMT6 was most similar to scoulerine 9-OMT and efficiently catalyzed both 3'- and 7'-O-methylations of several 1-benzylisoquinolines, with a preference for N-methylated substrates. All active enzymes accepted scoulerine and tetrahydrocolumbamine. Exogenous norlaudanosoline was converted to tetra-O-methylated laudanosine using combinations of Escherichia coli producing (1) GFLOMT1, (2) either GFLOMT2 or GFLOMT6, and (3) coclaurine N-methyltransferase from Coptis japonica. Expression profiles of GFLOMT1, GFLOMT2, and GFLOMT6 in different plant organs were in agreement with the O-methylation patterns of alkaloids in G. flavum determined by high-resolution, Fourier-transform mass spectrometry.
+
+GFLOMT2: !O-methylates! norlaudanosoline 
+GFLOMT1: !O-methylates! norlaudanosoline 
+GFLOMT1: !O-methylates! 6-O-methylnorlaudanosoline 
+GFLOMT1: !O-methylates! 6-O-methyllaudanosoline 
+GFLOMT1: !O-methylates! reticuline 
+GFLOMT1: !O-methylates! norreticuline 
+GFLOMT6: !O-methylates! 1-benzylisoquinolines 
+GFLOMT6: !O-methylates! N-methylated substrates 
+GFLOMT6: !O-methylates! scoulerine 
+GFLOMT6: !O-methylates! tetrahydrocolumbamine 
+E. coli: !produces! GFLOMT1 
+E. coli: !produces! GFLOMT2 
+E. coli: !produces! GFLOMT6 
+C. japonica:

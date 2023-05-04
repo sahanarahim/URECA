@@ -1,0 +1,10 @@
+The Arabidopsis vte1 mutant is devoid of tocopherol and plastochromanol (PC-8). When exposed to excess light energy, vte1 produced more singlet oxygen (<sup>1</sup> O<sub>2</sub> ) and suffered from extensive oxidative damage compared with the wild type. Here, we show that overexpressing the solanesyl diphosphate synthase 1 (SPS1) gene in vte1 induced a marked accumulation of total plastoquinone (PQ-9) and rendered the vte1 SPS1oex plants tolerant to photooxidative stress, indicating that PQ-9 can replace tocopherol and PC-8 in photoprotection. High total PQ-9 levels were associated with a noticeable decrease in <sup>1</sup> O<sub>2</sub> production and higher levels of Hydroxyplastoquinone (PQ-C), a <sup>1</sup> O<sub>2</sub> -specific PQ-9 oxidation product. The extra PQ-9 molecules in the vte1 SPS1oex plants were stored in the plastoglobules and the chloroplast envelopes, rather than in the thylakoid membranes, whereas PQ-C was found almost exclusively in the thylakoid membranes. Upon exposure of wild-type plants to high light, the thylakoid PQ-9 pool decreased, whereas the extrathylakoid pool remained unchanged. In vte1 and vte1 SPS1oex plants, the PQ-9 losses in high light were strongly amplified, affecting also the extrathylakoid pool, and PQ-C was found in high amounts in the thylakoids. We conclude that the thylakoid PQ-9 pool acts as a <sup>1</sup> O<sub>2</sub> scavenger and is replenished from the extrathylakoid stock.
+
+vte1: !devoid of! tocopherol and plastochromanol
+SPS1: !overexpressing in! vte1
+PQ-9: !accumulates in! vte1 SPS1oex plants
+PQ-9: !decreases in! wild-type plants
+PQ-9: !amplified losses in! vte1 and vte1 SPS1oex plants
+PQ-9: !acts as! 1O2 scavenger
+PQ-C: !found in! thylakoid membranes
+extrathylakoid pool: !replenishes! thylakoid PQ-9 pool

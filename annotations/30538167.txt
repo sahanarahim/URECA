@@ -1,0 +1,18 @@
+Photosystem II (PSII) is a supramolecular complex containing over 30 protein subunits and a large set of cofactors, including various pigments and quinones as well as Mn, Ca, Cl, and Fe ions. Eukaryotic PSII complexes contain many subunits not found in their bacterial counterparts, including the proteins PsbP (PSII), PsbQ, PsbS, and PsbW, as well as the highly homologous, low-molecular-mass subunits PsbTn1 and PsbTn2 whose function is currently unknown. To determine the function of PsbTn1 and PsbTn2, we generated single and double <i>psbTn1</i> and <i>psbTn2</i> knockout mutants in Arabidopsis (<i>Arabidopsis thaliana</i>). Cross linking and reciprocal coimmunoprecipitation experiments revealed that PsbTn is a lumenal PSII protein situated next to the cytochrome <i>b</i> <sub>559</sub> subunit PsbE. The removal of the PsbTn proteins decreased the oxygen evolution rate and PSII core phosphorylation level but increased the susceptibility of PSII to photoinhibition and the production of reactive oxygen species. The assembly and stability of PSII were unaffected, indicating that the deficiencies of the <i>psbTn1 psbTn2</i> double mutants are due to structural changes. Double mutants exhibited a higher rate of nonphotochemical quenching of excited states than the wild type and single mutants, as well as slower state transition kinetics and a lower quantum yield of PSII when grown in the field. Based on these results, we propose that the main function of the PsbTn proteins is to enable PSII to acclimate to light shifts or intense illumination.
+
+PsbTn1: !localizes to! PSII 
+PsbTn2: !localizes to! PSII 
+PsbTn1: !interacts with! PsbE 
+PsbTn2: !interacts with! PsbE 
+PsbTn1: !represses! oxygen evolution rate 
+PsbTn2: !represses! oxygen evolution rate 
+PsbTn1: !enhances! photoinhibition susceptibility 
+PsbTn2: !enhances! photoinhibition susceptibility 
+PsbTn1: !enhances! reactive oxygen species production 
+PsbTn2: !enhances! reactive oxygen species production 
+PsbTn1: !enhances! nonphotochemical quenching of excited states 
+PsbTn2: !enhances! nonphotochemical quenching of excited states 
+PsbTn1: !slows! state transition kinetics 
+PsbTn2: !slows! state transition kinetics 
+PsbTn1: !lowers! quantum yield of PSII 
+PsbTn2: !lowers

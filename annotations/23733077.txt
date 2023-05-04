@@ -1,0 +1,9 @@
+['23733077', 'BBX24 and BBX25 are two important transcriptional regulators, which regulate  seedling photomorphogenesis in Arabidopsis. Very recently, we have shown that  BBX24 and BBX25 negatively regulate the expression of BBX22, reducing the  function of HY5, by physically interacting with its bZIP domain. (1) Furthermore,  HY5 HOMOLOG, HYH, has been reported to heterodimerize with HY5 and enhances its  photomorphogenic function in seedling de-etiolation by serving as coactivator.  (8) Here, we further report that BBX24 and BBX25 physically interact with HYH.  The physical interactions of BBX24 and BBX25 with HYH could lead to depletion of  HYH molecules from the active pool and, thus indirectly, reduce the function of  HY5 in promoting photomorphogenesis. Hence, our results suggest another mode of  regulation by which BBX24 and BBX25 exert their negative effects on HY5  indirectly through HYH for the fine-tuning of seedling photomorphogenesis.', '2013 Aug', 'Plant Signal Behav', '10.4161/psb.25208', 'Botto']
+
+BBX24: !interacts with! HYH
+BBX25: !interacts with! HYH
+BBX24: !represses! HY5
+BBX25: !represses! HY5
+HY5: !enhances! photomorphogenesis
+HYH: !heterodimerizes with! HY5
+HYH: !enhances! photomorphogenesis

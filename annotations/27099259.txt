@@ -1,0 +1,9 @@
+Techniques to detect and verify interactions between proteins in vivo have become invaluable tools in functional genomic research. While many of the initially developed interaction assays (e.g., yeast two-hybrid system and split-ubiquitin assay) usually are conducted in heterologous systems, assays relying on bimolecular fluorescence complementation (BiFC; also referred to as split-YFP assays) are applicable to the analysis of protein-protein interactions in most native systems, including plant cells. Like all protein-protein interaction assays, BiFC can produce false positive and false negative results. The purpose of this commentary is to (1) highlight shortcomings of and potential pitfalls in BiFC assays, (2) provide guidelines for avoiding artifactual interactions, and (3) suggest suitable approaches to scrutinize potential interactions and validate them by independent methods.
+
+Gene: !affects! Process
+Process: !analyzed by! BiFC
+BiFC: !produces! false positives/negatives
+false positives/negatives: !avoided by! guidelines
+guidelines: !suggested by! commentary
+commentary: !scrutinizes! interactions
+interactions: !validated by! independent methods

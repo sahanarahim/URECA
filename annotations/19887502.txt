@@ -1,0 +1,7 @@
+The colour of papaya fruit flesh is determined largely by the presence of carotenoid pigments. Red-fleshed papaya fruit contain lycopene, whilst this pigment is absent from yellow-fleshed fruit. The conversion of lycopene (red) to beta-carotene (yellow) is catalysed by lycopene beta-cyclase. This present study describes the cloning and functional characterization of two different genes encoding lycopene beta-cyclases (lcy-beta1 and lcy-beta2) from red (Tainung) and yellow (Hybrid 1B) papaya cultivars. A mutation in the lcy-beta2 gene, which inactivates enzyme activity, controls lycopene production in fruit and is responsible for the difference in carotenoid production between red and yellow-fleshed papaya fruit. The expression level of both lcy-beta1 and lcy-beta2 genes is similar and low in leaves, but lcy-beta2 expression increases markedly in ripe fruit. Isolation of the lcy-beta2 gene from papaya, that is preferentially expressed in fruit and is correlated with fruit colour, will facilitate marker-assisted breeding for fruit colour in papaya and should create possibilities for metabolic engineering of carotenoid production in papaya fruit to alter both colour and nutritional properties.
+
+lcy-beta1: !synthesizes! lycopene
+lcy-beta2: !synthesizes! beta-carotene
+lcy-beta2: !inactivates! lycopene production
+lcy-beta2: !controls! fruit colour
+lcy-beta2: !increases! expression in ripe fruit

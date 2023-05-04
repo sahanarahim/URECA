@@ -1,0 +1,8 @@
+['7972519', 'Anthranilate synthase is involved in tryptophan (Trp) biosynthesis. Functional  expression of subunit I from Arabidopsis (ASA1) was achieved in bacteria as a  protein fused with glutathione S-transferase (GST). The active product was  purified in a single step on a glutathione-Sepharose column. The Vmax (45 nmol  min-1mg-1), the apparent K(M) for chorismate (180 microM), and the feedback  inhibition by Trp (complete inhibition by 10 microM Trp) of the purified fusion  product (GST-ASA1) were comparable to anthranilate synthase purified from plants.  Polyclonal antibodies raised against the fusion project and purified by affinity  chromatography on a GST-ASA1-Sepharose column cross-reacted with a 61.5-kD  protein in a partially purified anthranilate synthase preparation from corn  seedlings. GST-ASA1 cleavage by thrombin, as well as site-directed mutagenesis  modifications of the Trp allosteric site, inactivated the recombinant protein.', '1994 Sep', 'Plant Physiol', '10.1104/pp.106.1.353', 'Subramanian']
+
+GST-ASA1: !synthesizes! Trp 
+GST-ASA1: !inhibited by! Trp 
+GST-ASA1: !purified on! Glutathione-Sepharose column 
+GST-ASA1: !cleaved by! Thrombin 
+GST-ASA1: !modified by! Site-directed mutagenesis 
+61.5-kD protein: !cross-reacts with! GST-ASA1

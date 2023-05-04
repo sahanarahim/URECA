@@ -1,0 +1,12 @@
+Plant responses to coincident nutrient deficiencies cannot be predicted from the responses to individual deficiencies. Although copper (Cu) and iron (Fe) are essential micronutrients for plant growth that are often and concurrently limited in soils, the combinatorial response to Cu-Fe deficiency remains elusive. In the present study, we characterised the responses of Arabidopsis thaliana plants deprived of Cu, Fe or both (-Cu-Fe) at the level of plant development, mineral composition, and reconfiguration of transcriptomes, proteomes and metabolomes. Compared to single deficiencies, simultaneous -Cu-Fe leads to a distinct pattern in leaf physiology and microelement concentration characterised by lowered protein content and enhanced manganese and zinc levels. Conditional networking analysis of molecular changes indicates that biological processes also display different co-expression patterns among single and double deficiencies. Indeed, the interaction between Cu and Fe deficiencies causes distinct expression profiles for 15% of all biomolecules, leading to specific enhancement of general stress responses and protein homeostasis mechanisms, at the same time as severely arresting photosynthesis. Accordingly, central carbon metabolites, in particular photosynthates, decrease especially under -Cu-Fe conditions, whereas the pool of free amino acids increases. Further meta-analysis of transcriptomes and proteomes corroborated that protein biosynthesis and folding capacity were readjusted during the combinatorial response and unveiled important rearrangements in the metabolism of organic acids. Consequently, our results demonstrate that the response to -Cu-Fe imposes a distinct reconfiguration of large sets of molecules, not triggered by single deficiencies, resulting into a switch from autotrophy to heterotrophy and involving organic acids such as fumaric acid as central mediators of the response.
+
+Cu: !affects! Fe
+Fe: !affects! Cu
+Cu-Fe: !enhances! Manganese and Zinc levels
+Cu-Fe: !represses! Photosynthesis
+Cu-Fe: !enhances! Stress responses and protein homeostasis
+Cu-Fe: !decreases! Photosynthates
+Cu-Fe: !increases! Free amino acids
+Cu-Fe: !readjusts! Protein biosynthesis and folding capacity
+Cu-Fe: !rearranges! Organic acid metabolism
+Fumaric acid: !mediates! Response to -Cu-Fe

@@ -1,0 +1,8 @@
+['16924116', 'In Arabidopsis, a complex of Polycomb-group (PcG) proteins functions in the  female gametophyte to control the initiation of seed development. Mutations in  the PcG genes, including MEDEA (MEA) and FERTILIZATION-INDEPENDENT SEED 2 (FIS2),  produce autonomous seeds where endosperm proliferation occurs in the absence of  fertilization. By using a yeast two-hybrid screen, we identified MEA and a  related protein, SWINGER (SWN), as SET-domain partners of FIS2. Localization data  indicated that all three proteins are present in the female gametophyte. Although  single-mutant swn plants did not show any defects, swn mutations enhanced the mea  mutant phenotype in producing autonomous seeds. Thus, MEA and SWN perform  partially redundant functions in controlling the initiation of endosperm  development before fertilization in Arabidopsis.', '2006 Aug 29', 'Proc Natl Acad Sci U S A', '10.1073/pnas.0605551103', 'Yadegari']
+
+MEA: !functions in! female gametophyte
+FIS2: !interacts with! MEA
+FIS2: !interacts with! SWN
+MEA: !localizes to! female gametophyte
+SWN: !localizes to! female gametophyte
+SWN: !enhances! mea mutant phenotype

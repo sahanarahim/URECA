@@ -1,0 +1,13 @@
+Changes in transcript abundance of genes expressed in the three pharyngeal gland cells of Heterodera glycines after host invasion were monitored by quantitative polymerase chain reaction (qPCR) and the consequences of disrupting their expression studied by RNAi treatment prior to invasion. Two transcripts were known to be expressed in the two subventral gland cells (hg-pel and hg-eng-1), a further two in the single dorsal gland cell only (hg-gp and hg-syv46), and a fifth transcript (hg-cm) was expressed by both gland cell types. The qPCR study established that transcripts of hg-syv46 and hg-gp increased in abundance by 2 days postinfection (dpi), with the former remaining the most abundant. The hg-cm transcript level showed minor changes from 0 to 14 dpi but did fall by 21 dpi. In contrast, hg-eng-1 and hg-eng-2 messenger (m)RNA declined by 7 dpi and hg-pel by 14 dpi before it increased at 21 dpi. RNAi-targeting of hg-eng-1 reduced the number of females present on the plants at 10 days. Targeting of hg-gp, hg-cm, and hg-pel caused a change in sexual fate favoring male development on roots. Both effects were evident after targeting hg-syv46. Suppression of hg-eng-1 mRNA levels in second-stage juveniles (J2i) by RNAi was transient, with a recovery by 15 days of incubation in water after treatment. Presoaking H. glycines J2 with double-stranded RNA has value for studying gene function during the nematode's early interaction with a plant.
+
+hg-pel: !increases! 21 dpi
+hg-eng-1: !declines! 7 dpi
+hg-gp: !increases! 2 dpi
+hg-syv46: !remains most abundant! 0-14 dpi
+hg-cm: !minor changes! 0-14 dpi
+hg-cm: !falls! 21 dpi
+hg-eng-1: !reduces! female presence
+hg-gp: !favors! male development
+hg-syv46: !same effect! as above
+hg-eng-1: !transiently suppressed! by RNAi
+hg-eng-1: !recovered! 15 days post treatment

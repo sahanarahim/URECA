@@ -1,0 +1,10 @@
+Chitin is a component of fungal cell walls, and its fragments act as elicitors in many plants. The plasma membrane glycoprotein CEBiP, which possesses LysM domains, is a receptor for the chitin elicitor (CE) in rice. Here, we report that the perception of CE by CEBiP contributes to disease resistance against the rice blast fungus, Magnaporthe oryzae, and that enhanced responses to CE by engineering CEBiP increase disease tolerance. Knockdown of CEBiP expression allowed increased spread of the infection hyphae. To enhance defense responses to CE, we constructed chimeric genes composed of CEBiP and Xa21, which mediate resistance to rice bacterial leaf blight. The expression of either CRXa1 or CRXa3, each of which contains the whole extracellular portion of CEBiP, the whole intracellular domain of XA21, and the transmembrane domain from either CEBiP or XA21, induced cell death accompanied by an increased production of reactive oxygen and nitrogen species after treatment with CE. Rice plants expressing the chimeric receptor exhibited necrotic lesions in response to CE and became more resistant to M. oryzae. Deletion of the first LysM domain in CRXA1 abolished these cellular responses. These results suggest that CEs are produced and recognized through the LysM domain of CEBiP during the interaction between rice and M. oryzae and imply that engineering pattern recognition receptors represents a new strategy for crop protection against fungal diseases.
+
+CEBiP: !receives! CE 
+CEBiP: !mediates! resistance to M. oryzae 
+CRXa1/3: !contains! extracellular portion of CEBiP 
+CRXa1/3: !contains! intracellular domain of XA21 
+CRXa1/3: !induces! cell death 
+CRXa1/3: !enhances! resistance to M. oryzae 
+LysM domain: !recognizes! CE 
+LysM domain: !required for! CRXa1/3 responses

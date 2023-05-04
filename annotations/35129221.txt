@@ -1,0 +1,8 @@
+Controlled stability of proteins is a highly efficient mechanism to direct diverse processes in plants. A key regulatory system for protein stability is given by the CULLIN-RING E3 ligases (CRLs). In this work, MYB43 is identified as a novel target of a CUL4-DDB1-PRL1 (PLEIOTROPIC REGULATORY LOCUS 1)-RING E3 ligase (CRL4<sup>PRL1</sup> E3 ligase). Its stability depends on the presence of PRL1, a WD40-containing protein functioning as a substrate receptor of the CRL4 E3 ligases. Genetic studies have indicated that MYB43 is a negative regulator of cadmium (Cd) tolerance in Arabidopsis by transcriptional inhibition of important Cd transporters (HMA2, HMA3 and HMA4), while PRL1 and CUL4 positively regulate Cd tolerance. Expression of CUL4 and PRL1 was enhanced in response to Cd stress, and PRL1 can interact with and target MYB43 for degradation depending on assembly of CRL4<sup>PRL1</sup> E3 ligase, and consequently increase the expression of HMA2, HMA3 and HMA4 through attenuating the transcriptional inhibition. HMA2 and HMA4 are shown to transport cadmium ion (Cd<sup>2+</sup> ) from the roots of plants to the shoots through the xylem, ultimately increasing the plants' tolerance to Cd stress.
+
+CUL4: !interacts with! PRL1
+PRL1: !interacts with! MYB43
+MYB43: !represses! HMA2, HMA3, HMA4
+CUL4: !enhances! Cd tolerance
+PRL1: !enhances! Cd tolerance
+HMA2, HMA4: !transport! Cd<sup>2+</sup>

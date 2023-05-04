@@ -1,0 +1,9 @@
+Plants implement differential cell growth as an adaptation process in order to direct their development in a way that allow them to better cope with the environmental conditions. This process requires the complex integration of multiple hormone signalings, though, a lot remain to be known about the mechanisms and the molecular actors that take part in this hormonal dialogue. We have previously shown that Sl-<i>IAA3</i>, an <i>Aux/IAA</i> gene, is a molecular link between auxin and ethylene responses in tomato plants. We show here that the expression of Sl-<i>IAA3</i> in etiolated seedlings is restricted to the inner side of the apical hook, opposite to that of the <i>HOOKLESS</i> gene whose loss-of-function mutation results in the absence of hook formation. We propose a model on how auxin and ethylene modulate the expression of <i>Auxin Response Factor 2</i> (<i>ARF2</i>) via IAA3 and HLS protein to regulate hypocotyl bending.
+
+Sl-IAA3: !affects! Auxin and Ethylene responses
+Sl-IAA3: !localizes to! inner side of apical hook
+HOOKLESS: !localizes to! opposite side of apical hook
+Sl-IAA3: !interacts with! HLS protein
+HLS protein: !interacts with! Sl-IAA3
+ARF2: !modulated by! IAA3 and HLS protein
+IAA3 and HLS protein: !regulate! hypocotyl bending

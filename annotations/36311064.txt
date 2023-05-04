@@ -1,0 +1,12 @@
+Alternative splicing (AS) is an important regulatory process that affects plant development and stress responses by greatly increasing the complexity of transcriptome and proteome. To understand how the AS landscape of <i>B. napus</i> changes in response to abiotic stresses, we investigated 26 RNA-seq libraries, including control and treatments with cold, dehydration, salt, and abscisic acid (ABA) at two different time points, to perform comparative alternative splicing analysis. Apparently, AS events increased under all stresses except dehydration for 1 h, and intron retention was the most common AS mode. In addition, a total of 357 differential alternative splicing (DAS) genes were identified under four abiotic stresses, among which 81 DAS genes existed in at least two stresses, and 276 DAS genes were presented under only one stress. A weighted gene co-expression network analysis (WGCNA) based on the splicing isoforms, rather than the genes, pinpointed out 23 co-expression modules associated with different abiotic stresses. Among them, a number of significant hub genes were also found to be DAS genes, which encode key isoforms involved in responses to single stress or multiple stresses, including RNA-binding proteins, transcription factors, and other important genes, such as <i>RBP45C</i>, <i>LHY</i>, <i>MYB59</i>, <i>SCL30A</i>, <i>RS40</i>, <i>MAJ23.10</i>, and <i>DWF4</i>. The splicing isoforms of candidate genes identified in this study could be a valuable resource for improving tolerance of <i>B. napus</i> against multiple abiotic stresses.
+
+AS: !affects! Plant development
+RNA-seq: !identifies! DAS genes
+WGCNA: !pinpoints! Co-expression modules
+RBP45C: !enhances! Cold stress response
+LHY: !enhances! Dehydration stress response
+MYB59: !enhances! Salt stress response
+SCL30A: !enhances! ABA stress response
+RS40: !enhances! Multiple stress responses
+MAJ23.10: !enhances! Multiple stress responses
+DWF4: !enhances! Multiple stress responses

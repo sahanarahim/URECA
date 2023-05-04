@@ -1,0 +1,11 @@
+The establishment of the photosynthetic apparatus during chloroplast development creates a high demand for iron as a redox metal. However, iron in too high quantities becomes toxic to the plant, thus plants have evolved a complex network of iron uptake and regulation mechanisms. Here, we examined whether four of the subgroup Ib basic helix-loop-helix transcription factors (bHLH38, bHLH39, bHLH100, bHLH101), previously implicated in iron homeostasis in roots, also play a role in regulating iron metabolism in developing leaves. These transcription factor genes were strongly up-regulated during the transition from cell proliferation to expansion, and thus sink-source transition, in young developing leaves of Arabidopsis thaliana. The four subgroup Ib bHLH genes also showed reduced expression levels in developing leaves of plants treated with norflurazon, indicating their expression was tightly linked to the onset of photosynthetic activity in young leaves. In addition, we provide evidence for a mechanism whereby the transcriptional regulators SAC51 and TCP20 antagonistically regulate the expression of these four subgroup Ib bHLH genes. A loss-of-function mutant analysis also revealed that single mutants of bHLH38, bHLH39, bHLH100, and bHLH101 developed smaller rosettes than wild-type plants in soil. When grown in agar plates with reduced iron concentration, triple bhlh39 bhlh100 bhlh101 mutant plants were smaller than wild-type plants. However, measurements of the iron content in single and multiple subgroup Ib bHLH genes, as well as transcript profiling of iron response genes during early leaf development, do not support a role for bHLH38, bHLH39, bHLH100, and bHLH101 in iron homeostasis during early leaf development.
+
+bHLH38: !up-regulated by! SAC51
+bHLH39: !up-regulated by! SAC51
+bHLH100: !up-regulated by! SAC51
+bHLH101: !up-regulated by! SAC51
+SAC51: !down-regulated by! TCP20
+bHLH38: !repressed by! TCP20
+bHLH39: !repressed by! TCP20
+bHLH100: !repressed by! TCP20
+bHLH101: !repressed by! TCP20

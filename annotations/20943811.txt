@@ -1,0 +1,8 @@
+We report here that the expression of endogenous microRNAs (miRNAs) can be efficiently silenced in Arabidopsis thaliana (Arabidopsis) using artificial miRNA (amiRNA) technology. We demonstrate that an amiRNA designed to target a mature miRNA directs silencing against all miRNA family members, whereas an amiRNA designed to target the stem-loop region of a miRNA precursor transcript directs silencing against only the individual family member targeted. Furthermore, our results indicate that amiRNAs targeting both the mature miRNA and stem-loop sequence direct RNA silencing through cleavage of the miRNA precursor transcript, which presumably occurs in the nucleus of a plant cell during the initial stages of miRNA biogenesis. This suggests that small RNA (sRNA)-guided RNA cleavage in plants occurs not only in the cytoplasm, but also in the nucleus. Many plant miRNA gene families have been identified via sequencing and bioinformatic analysis, but, to date, only a small tranche of these have been functionally characterized due to a lack of effective forward or reverse genetic tools. Our findings therefore provide a new and powerful reverse-genetic tool for the analysis of miRNA function in plants.
+
+amiRNA: !silences! miRNA 
+amiRNA: !cleaves! miRNA precursor transcript 
+miRNA: !affects! plant cell 
+miRNA: !targeted by! amiRNA 
+miRNA: !localizes to! nucleus 
+miRNA: !repressed by! amiRNA

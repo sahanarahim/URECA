@@ -1,0 +1,8 @@
+GUN4 is a regulatory subunit of Mg-chelatase involved in the control of tetrapyrrole synthesis in plants and cyanobacteria. Here, we report the first characterization of a gun4 insertion mutant of the unicellular green alga Chlamydomonas reinhardtii. The mutant contains 50% of chlorophyll as compared to wild-type and accumulates ProtoIX. In contrast to the increase in LHC transcription, the accumulation of most LHC proteins is drastically diminished, implying posttranscriptional down-regulation in the absence of transcriptional coordination. We found that 803 genes change their expression level in gun4 as compared to wild-type, by RNA-Seq, and this wide-ranging effect on transcription is apparent under physiological conditions. Besides LHCs, we identified transcripts encoding enzymes of the tetrapyrrole pathway and factors involved in signal transduction, transcription, and chromatin remodeling. Moreover, we observe perturbations in electron transport with a strongly decreased PSI-to-PSII ratio. This is accompanied by an enhanced activity of the plastid terminal oxidase (PTOX) that could have a physiological role in decreasing photosystem II excitation pressure.
+
+GUN4: !regulates! Mg-chelatase
+GUN4: !affects! ProtoIX accumulation
+GUN4: !down-regulates! LHC proteins
+GUN4: !alters expression of! 803 genes
+GUN4: !perturbs! electron transport
+GUN4: !enhances! PTOX activity

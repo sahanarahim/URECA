@@ -1,0 +1,8 @@
+By applying a multilayer network approach to an extensive set of Poplar microarray data, a genome-wide coexpression network has been detected and explored. Multilayer networks were generated from minimum spanning trees (MSTs) using Kruskal's algorithm from random jack-knife resamplings of half of the full data set. The final network is obtained from the union of all the generated MSTs. The gene expression correlations display a highly clustered topology, which is more pronounced when introducing links appearing in relatively few of the generated MSTs. The network also reveals a modular architecture, reflecting functional groups with relatively frequent gene-to-gene communication. Furthermore, the observed modular structure overlaps with different gene activities in different tissues, and closely related tissues show similar over- and/or under-expression patterns at the modular scale. It is shown that including links that appear in a few of the generated MSTs increases the information quality of the network. In other words, a link may be 'weak' because it reflects rare signaling events rather than merely a signal weakened by noise. The method allows, from comparisons of random 'null networks', tuning to maximize the information obtainable.
+
+Gene: !affects! Process 
+Gene: !localizes to! Tissue 
+Gene: !interacts with! Gene 
+Gene: !enhances! Expression 
+Gene: !represses! Expression 
+Gene: !synthesizes! Network

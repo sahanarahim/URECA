@@ -1,0 +1,7 @@
+Ethylene regulates climacteric fruit ripening, and EIN3-LIKE1 (EIL1) plays an important role in this process. In apple (<i>Malus domestica</i>), fruit coloration is accompanied by ethylene release during fruit ripening, but the molecular mechanism that underlies these two physiological processes is unknown. In this study, we found that ethylene treatment markedly induced fruit coloration as well as the expression of <i>MdMYB1</i>, a positive regulator of anthocyanin biosynthesis and fruit coloration. In addition, we found that MdEIL1 directly bound to the promoter of <i>MdMYB1</i> and transcriptionally activated its expression, which resulted in anthocyanin biosynthesis and fruit coloration. Furthermore, MdMYB1 interacted with the promoter of <i>ETHYLENE RESPONSE FACTOR3</i>, a key regulator of ethylene biosynthesis, thereby providing a positive feedback for ethylene biosynthesis regulation. Overall, our findings provide insight into a mechanism involving the synergistic interaction of the ethylene signal with the MdMYB1 transcription factor to regulate ethylene biosynthesis and fruit coloration in apple.
+
+MdEIL1: !binds to! MdMYB1
+MdMYB1: !activates! MdMYB1
+MdMYB1: !interacts with! ETHYLENE RESPONSE FACTOR3
+ETHYLENE: !regulates! fruit ripening
+ETHYLENE: !enhances! MdMYB1 expression

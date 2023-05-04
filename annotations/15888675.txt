@@ -1,0 +1,11 @@
+MetaCyc (http://metacyc.org) contains experimentally determined biochemical pathways to be used as a reference database for metabolism. In conjunction with the Pathway Tools software, MetaCyc can be used to computationally predict the metabolic pathway complement of an annotated genome. To increase the breadth of pathways and enzymes, more than 60 plant-specific pathways have been added or updated in MetaCyc recently. In contrast to MetaCyc, which contains metabolic data for a wide range of organisms, AraCyc is a species-specific database containing only enzymes and pathways found in the model plant Arabidopsis (Arabidopsis thaliana). AraCyc (http://arabidopsis.org/tools/aracyc/) was the first computationally predicted plant metabolism database derived from MetaCyc. Since its initial computational build, AraCyc has been under continued curation to enhance data quality and to increase breadth of pathway coverage. Twenty-eight pathways have been manually curated from the literature recently. Pathway predictions in AraCyc have also been recently updated with the latest functional annotations of Arabidopsis genes that use controlled vocabulary and literature evidence. AraCyc currently features 1,418 unique genes mapped onto 204 pathways with 1,156 literature citations. The Omics Viewer, a user data visualization and analysis tool, allows a list of genes, enzymes, or metabolites with experimental values to be painted on a diagram of the full pathway map of AraCyc. Other recent enhancements to both MetaCyc and AraCyc include implementation of an evidence ontology, which has been used to provide information on data quality, expansion of the secondary metabolism node of the pathway ontology to accommodate curation of secondary metabolic pathways, and enhancement of the cellular component ontology for storing and displaying enzyme and pathway locations within subcellular compartments.
+
+MetaCyc: !contains! metabolic pathways
+Pathway Tools: !used to predict! metabolic pathway complement
+AraCyc: !derived from! MetaCyc
+AraCyc: !manually curated from! literature
+AraCyc: !updated with! functional annotations
+Omics Viewer: !allows visualization of! user data
+MetaCyc/AraCyc: !enhanced with! evidence ontology
+MetaCyc/AraCyc: !expanded with! secondary metabolism node
+MetaCyc/AraCyc: !enhanced with! cellular component ontology

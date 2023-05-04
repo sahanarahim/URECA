@@ -1,0 +1,8 @@
+S-adenosyl-L-methionine:Mg-protoporphyrin IX methyltransferase (MgPMT) is an enzyme in the Mg branch of the tetrapyrrole biosynthetic pathway. The nucleotide sequence of tobacco (Nicotiana tabacum) CHLM was identified and the cDNA sequence was used to express the precursor, the mature and a truncated recombinant MgPMT for enzymatic activity tests and for the formation of polyclonal antibodies. Comparison of the mature and the truncated MgPMT revealed three critical amino acids at the N-terminus of MgPMT for the maintenance of enzyme activity. To assess the contribution of CHLM expression to the control of the metabolic flow in the tetrapyrrole pathway, CHLM transcripts and protein levels, the enzyme activity and the steady-state levels of Mg protoporphyrin and Mg protoporphyrin monomethylester were analysed during greening of seedlings and plant development as well as under day/night and continuous growth conditions. These expression studies revealed posttranslational activation of MgPMT during greening and light/dark-cycles. Using the yeast two-hybrid system physical interaction was demonstrated between MgPMT and the CHLH subunit of Mg chelatase. Activity of recombinant MgPMT expressed in yeast cells was stimulated in the presence of the recombinant CHLH subunit. Implications for posttranslational regulation of MgPMT are discussed for the enzymatic steps at the beginning of the Mg branch.
+
+MgPMT: !expresses! CHLM 
+CHLM: !encodes! MgPMT 
+MgPMT: !interacts with! CHLH 
+CHLH: !stimulates! MgPMT 
+MgPMT: !activates! posttranscriptionally 
+MgPMT: !regulates! metabolic flow

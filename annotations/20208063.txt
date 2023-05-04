@@ -1,0 +1,10 @@
+In order to produce tradeable standard green coffee, processed beans must be dried. The drying procedure affects the abundance of relevant aroma substances, e.g. carbohydrates. Using molecular tools, the corresponding metabolic basis is analyzed. A decrease in water potential of the still living coffee seeds induces massive drought stress responses. As a marker for these stress reactions, accumulation of a general stress metabolite, GABA (gamma-aminobutyric acid), and associated gene expression of drought stress-associated dehydrins were monitored. The results of this study indicate that metabolism in drying coffee beans is quite complex since several events trigger accumulation of GABA. The first peak of GABA accumulation during drying is correlated with expression of isocitrate lyase and thus with ongoing germination processes in coffee seeds. Two subsequent peaks of GABA accumulation correspond to maxima of dehydrin gene expression and are thought to be induced directly by drought stress in the embryo and endosperm tissue, respectively. Apart from the significance for understanding basic seed physiology, metabolic changes in coffee seeds during processing provide valuable information for understanding the role and effect of the steps of green coffee processing on the quality of the resulting coffee.
+
+Gene: !affects! Process
+Process: !induces! Drought Stress Responses
+Gene: !localizes to! Coffee Seeds
+Coffee Seeds: !accumulate! GABA
+Gene: !interacts with! Isocitrate Lyase
+Isocitrate Lyase: !triggers! GABA Accumulation
+Gene: !enhances! Dehydrin Gene Expression
+Dehydrin Gene Expression: !correlates with! GABA Accumulation

@@ -1,0 +1,8 @@
+Black rot, Black measles, Leaf blight and Mites of grape are four common grape leaf diseases that seriously affect grape yield. However, the existing research lacks a real-time detecting method for grape leaf diseases, which cannot guarantee the healthy growth of grape plants. In this article, a real-time detector for grape leaf diseases based on improved deep convolutional neural networks is proposed. This article first expands the grape leaf disease images through digital image processing technology, constructing the grape leaf disease dataset (GLDD). Based on GLDD and the Faster R-CNN detection algorithm, a deep-learning-based Faster DR-IACNN model with higher feature extraction capability is presented for detecting grape leaf diseases by introducing the Inception-v1 module, Inception-ResNet-v2 module and SE-blocks. The experimental results show that the detection model Faster DR-IACNN achieves a precision of 81.1% mAP on GLDD, and the detection speed reaches 15.01 FPS. This research indicates that the real-time detector Faster DR-IACNN based on deep learning provides a feasible solution for the diagnosis of grape leaf diseases and provides guidance for the detection of other plant diseases.
+
+Faster DR-IACNN: !detects! Grape Leaf Diseases 
+GLDD: !used by! Faster DR-IACNN 
+Faster R-CNN: !improved by! Faster DR-IACNN 
+Inception-v1 module: !introduced by! Faster DR-IACNN 
+Inception-ResNet-v2 module: !introduced by! Faster DR-IACNN 
+SE-blocks: !introduced by! Faster DR-IACNN

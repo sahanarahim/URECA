@@ -1,0 +1,9 @@
+Gene targeting (GT) is a powerful tool manipulating a gene of interest in a given genome specifically and precisely. To achieve efficient GT in higher plants, both positive and negative selection markers are required. In particular, a strong negative selection system is needed for enrichment of cells to eliminate those cells in which random integration of the introduced DNA has occurred in GT experiments. Currently, non-conditional negative selection marker genes are used for GT experiments in rice plants, and no conditional negative selection system is available. In this study, we describe the development of an efficient conditional negative selection system in rice plants using Escherichia coli cytosine deaminase (codA). We found that a mutant codA gene, codA(D314A), acts more efficiently than the wild-type codA for negative selection in rice plants. The codA(D314A) marker was further used as a negative selection marker for GT experiments in rice. Our conditional negative selection system effectively eliminated the cells in which random integration event(s) occurred; the enrichment factor was approximately 100-fold. This enrichment factor was similar to that found when Corynebacterium diphtheriae toxin fragment A was used. Our results suggest the codA(D314A) marker gene as a promising negative selection marker for GT of rice.
+
+Gene: !affects! GT
+GT: !requires! Positive & Negative Selection Markers
+Negative Selection Marker: !uses! E. coli cytosine deaminase (codA)
+codA: !mutates to! codA(D314A)
+codA(D314A): !acts more efficiently than! Wild-type codA
+codA(D314A): !enriches! Cells
+Corynebacterium diphtheriae toxin fragment A: !enriches! Cells

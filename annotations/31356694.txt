@@ -1,0 +1,8 @@
+Saffron, a spice derived from the dried red stigmas of Crocus sativus, is one of the oldest natural food additives. The flowers have long red stigmas, which store significant quantities of the glycosylated apocarotenoids crocins and picrocrocin. The apocarotenoid biosynthetic pathway in saffron starts with the oxidative cleavage of zeaxanthin, from which crocins and picrocrocin are derived. In the processed stigmas, picrocrocin is converted to safranal, giving saffron its typical aroma. By a targeted search for differentially expressed uridine diphosphate glycosyltransferases (UGTs) in Crocus transcriptomes, a novel apocarotenoid glucosyltransferase (UGT709G1) from saffron was identified. Biochemical analyses revealed that UGT709G1 showed a high catalytic efficiency toward 2,6,6-trimethyl-4-hydroxy-1-carboxaldehyde-1-cyclohexene (HTCC), making it suited for the biosynthesis of picrocrocin, the precursor of safranal. The role of UGT709G1 in picrocrocin/safranal biosynthesis was supported by the absence or presence of gene expression in a screening for HTCC and picrocrocin production in different Crocus species and by a combined transient expression assay with CsCCD2L in Nicotiana benthamiana leaves. The identification of UGT709G1 completes one of the most highly valued specialized metabolic biosynthetic pathways in plants and provides novel perspectives on the industrial production of picrocrocin to be used as a flavor additive or as a pharmacological constituent.
+
+UGT709G1: !catalyzes! HTCC 
+UGT709G1: !synthesizes! picrocrocin 
+picrocrocin: !converts to! safranal 
+Crocus species: !produce! HTCC 
+Crocus species: !produce! picrocrocin 
+CsCCD2L: !combined with! Nicotiana benthamiana leaves

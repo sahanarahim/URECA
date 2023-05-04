@@ -1,0 +1,12 @@
+BAK1 is a coreceptor and positive regulator of multiple ligand binding leucine-rich repeat receptor kinases (LRR-RKs) and is involved in brassinosteroid (BR)-dependent growth and development, innate immunity, and cell death control. The BAK1-interacting LRR-RKs BIR2 and BIR3 were previously identified by proteomics analyses of in vivo BAK1 complexes. Here, we show that BAK1-related pathways such as innate immunity and cell death control are affected by BIR3 in <i>Arabidopsis thaliana</i> BIR3 also has a strong negative impact on BR signaling. BIR3 directly interacts with the BR receptor BRI1 and other ligand binding receptors and negatively regulates BR signaling by competitive inhibition of BRI1. BIR3 is released from BAK1 and BRI1 after ligand exposure and directly affects the formation of BAK1 complexes with BRI1 or FLAGELLIN SENSING2. Double mutants of <i>bak1</i> and <i>bir3</i> show spontaneous cell death and constitutive activation of defense responses. BAK1 and its closest homolog BKK1 interact with and are stabilized by BIR3, suggesting that <i>bak1 bir3</i> double mutants mimic the spontaneous cell death phenotype observed in <i>bak1 bkk1</i> mutants via destabilization of BIR3 target proteins. Our results provide evidence for a negative regulatory mechanism for BAK1 receptor complexes in which BIR3 interacts with BAK1 and inhibits ligand binding receptors to prevent BAK1 receptor complex formation.
+
+BAK1: !interacts with! BIR2 
+BAK1: !interacts with! BIR3 
+BIR3: !affects! innate immunity 
+BIR3: !affects! cell death control 
+BIR3: !interacts with! BRI1 
+BIR3: !inhibits! BR signaling 
+BIR3: !interacts with! FLAGELLIN SENSING2 
+BAK1: !stabilized by! BIR3 
+BKK1: !interacts with! BIR3 
+BAK1: !destabilized by! BIR3

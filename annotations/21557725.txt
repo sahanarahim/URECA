@@ -1,0 +1,8 @@
+ACN1 (acetate non-utilizing 1) is a short-chain acyl-CoA synthetase which recycles free acetate to acetyl-CoA in peroxisomes of Arabidopsis. Pulse-chase [2-(13)C]acetate feeding of the mutant acn1-2 revealed that acetate accumulation and assimilation were no different to that of wild-type, Col-7. However, the lack of acn1-2 led to a decrease of nearly 50% in (13)C-labelling of glutamine, a major carbon sink in seedlings, and large decreases in primary metabolite levels. In contrast, acetyl-CoA levels were higher in acn1-2 compared with Col-7. The disappearance of eicosenoic acid was slightly delayed in acn1-2 indicating only a small effect on the rate of lipid breakdown. A comparison of transcript levels in acn1-2 and Col-7 showed that induced genes included a number of metabolic genes and also a large number of signalling-related genes. Genes repressed in the mutant were represented primarily by embryogenesis-related genes. Transcript levels of glyoxylate cycle genes also were lower in acn1-2 than in Col-7. We conclude that deficiency in peroxisomal acetate assimilation comprises only a small proportion of total acetate use, but this affects both primary metabolism and gene expression. We discuss the possibility that ACN1 safeguards against the loss of carbon as acetate from peroxisomes during lipid mobilization.
+
+ACN1: !synthesizes! acetyl-CoA 
+acn1-2: !decreases! (13)C-labelling of glutamine 
+acn1-2: !increases! acetyl-CoA levels 
+acn1-2: !induces! metabolic genes 
+acn1-2: !represses! embryogenesis-related genes 
+acn1-2: !lowers! glyoxylate cycle genes

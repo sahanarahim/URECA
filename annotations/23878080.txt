@@ -1,0 +1,17 @@
+The cell walls of wheat (Triticum aestivum) starchy endosperm are dominated by arabinoxylan (AX), accounting for 65% to 70% of the polysaccharide content. Genes within two glycosyl transferase (GT) families, GT43 (IRREGULAR XYLEM9 [IRX9] and IRX14) and GT47 (IRX10), have previously been shown to be involved in the synthesis of the xylan backbone in Arabidopsis, and close homologs of these have been implicated in the synthesis of xylan in other species. Here, homologs of IRX10 TaGT47_2 and IRX9 TaGT43_2, which are highly expressed in wheat starchy endosperm cells, were suppressed by RNA interference (RNAi) constructs driven by a starchy endosperm-specific promoter. The total amount of AX was decreased by 40% to 50% and the degree of arabinosylation was increased by 25% to 30% in transgenic lines carrying either of the transgenes. The cell walls of starchy endosperm in sections of grain from TaGT43_2 and TaGT47_2 RNAi transgenics showed decreased immunolabeling for xylan and arabinoxylan epitopes and approximately 50% decreased cell wall thickness compared with controls. The proportion of AX that was water soluble was not significantly affected, but average AX polymer chain length was decreased in both TaGT43_2 and TaGT47_2 RNAi transgenics. However, the long AX chains seen in controls were absent in TaGT43_2 RNAi transgenics but still present in TaGT47_2 RNAi transgenics. The results support an emerging picture of IRX9-like and IRX10-like proteins acting as key components in the xylan synthesis machinery in both dicots and grasses. Since AX is the main component of dietary fiber in wheat foods, the TaGT43_2 and TaGT47_2 genes are of major importance to human nutrition.
+
+IRX9: !synthesizes! Xylan 
+IRX14: !synthesizes! Xylan 
+IRX10: !synthesizes! Xylan 
+TaGT43_2: !represses! Arabinoxylan 
+TaGT47_2: !represses! Arabinoxylan 
+AX: !dominates! Wheat cell walls 
+TaGT43_2: !decreases! AX amount 
+TaGT47_2: !increases! Arabinosylation 
+TaGT43_2: !decreases! Xylan immunolabeling 
+TaGT47_2: !decreases! Xylan immunolabeling 
+TaGT43_2: !decreases! Cell wall thickness 
+TaGT47_2: !decreases! Cell wall thickness 
+TaGT43_2: !decreases! AX polymer chain length 
+TaGT47_2: !decreases! AX polymer chain length 
+AX: !important to! Human nutrition

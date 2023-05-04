@@ -1,0 +1,8 @@
+A successful nitrogen-fixing symbiosis requires the accommodation of rhizobial bacteria as new organelle-like structures, called symbiosomes, inside the cells of their legume hosts. Two legume mutants that are most strongly impaired in their ability to form symbiosomes are sym1/TE7 in Medicago truncatula and sym33 in Pisum sativum. We have cloned both MtSYM1 and PsSYM33 and show that both encode the recently identified interacting protein of DMI3 (IPD3), an ortholog of Lotus japonicus (Lotus) CYCLOPS. IPD3 and CYCLOPS were shown to interact with DMI3/CCaMK, which encodes a calcium- and calmodulin-dependent kinase that is an essential component of the common symbiotic signaling pathway for both rhizobial and mycorrhizal symbioses. Our data reveal a novel, key role for IPD3 in symbiosome formation and development. We show that MtIPD3 participates in but is not essential for infection thread formation and that MtIPD3 also affects DMI3-induced spontaneous nodule formation upstream of cytokinin signaling. Further, MtIPD3 appears to be required for the expression of a nodule-specific remorin, which controls proper infection thread growth and is essential for symbiosome formation.
+
+MtSYM1: !encodes! IPD3 
+IPD3: !interacts with! DMI3/CCaMK 
+IPD3: !participates in! infection thread formation 
+IPD3: !affects! DMI3-induced spontaneous nodule formation 
+IPD3: !required for! expression of remorin 
+Remorin: !controls! proper infection thread growth

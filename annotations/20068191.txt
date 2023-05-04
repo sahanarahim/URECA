@@ -1,0 +1,9 @@
+['20068191', "To discover genes involved in nitric oxide (NO) metabolism, a genetic screen was  employed to identify mutants defective in NO accumulation after treatment with  the physiological inducer hydrogen peroxide. In wild-type Arabidopsis thaliana  plants, NO levels increase eightfold in roots after H(2)O(2) treatment for 30  min. A mutant defective in H(2)O(2)-induced NO accumulation was identified, and  the corresponding mutation was mapped to the prohibitin gene PHB3, converting the  highly conserved Gly-37 to an Asp in the protein's SPFH domain. This point mutant  and a T-DNA insertion mutant were examined for other NO-related phenotypes. Both  mutants were defective in abscisic acid-induced NO accumulation and stomatal  closure and in auxin-induced lateral root formation. Both mutants were less  sensitive to salt stress, showing no increase in NO accumulation and less  inhibition of primary root growth in response to NaCl treatment. In addition,  light-induced NO accumulation was dramatically reduced in cotyledons. We found no  evidence for impaired H(2)O(2) metabolism or signaling in the mutants as H(2)O(2)  levels and H(2)O(2)-induced gene expression were unaffected by the mutations.  These findings identify a component of the NO homeostasis system in plants and  expand the function of prohibitin genes to include regulation of NO accumulation  and NO-mediated responses.", '2010 Jan', 'Plant Cell', '10.1105/tpc.109.072066', 'Crawford']
+
+PHB3: !affects! NO accumulation 
+PHB3: !regulates! NO-mediated responses 
+H2O2: !induces! NO accumulation 
+ABA: !induces! NO accumulation 
+Auxin: !induces! lateral root formation 
+NaCl: !inhibits! primary root growth 
+Light: !induces! NO accumulation

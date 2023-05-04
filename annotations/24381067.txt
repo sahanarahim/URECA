@@ -1,0 +1,10 @@
+ADP-glucose pyrophosphorylase (AGPase) provides the nucleotide sugar ADP-glucose and thus constitutes the first step in starch biosynthesis. The majority of cereal endosperm AGPase is located in the cytosol with a minor portion in amyloplasts, in contrast to its strictly plastidial location in other species and tissues. To investigate the potential functions of plastidial AGPase in maize (Zea mays) endosperm, six genes encoding AGPase large or small subunits were characterized for gene expression as well as subcellular location and biochemical activity of the encoded proteins. Seven transcripts from these genes accumulate in endosperm, including those from shrunken2 and brittle2 that encode cytosolic AGPase and five candidates that could encode subunits of the plastidial enzyme. The amino termini of these five polypeptides directed the transport of a reporter protein into chloroplasts of leaf protoplasts. All seven proteins exhibited AGPase activity when coexpressed in Escherichia coli with partner subunits. Null mutations were identified in the genes agpsemzm and agpllzm and shown to cause reduced AGPase activity in specific tissues. The functioning of these two genes was necessary for the accumulation of normal starch levels in embryo and leaf, respectively. Remnant starch was observed in both instances, indicating that additional genes encode AGPase large and small subunits in embryo and leaf. Endosperm starch was decreased by approximately 7% in agpsemzm- or agpllzm- mutants, demonstrating that plastidial AGPase activity contributes to starch production in this tissue even when the major cytosolic activity is present.
+
+AGPase: !provides! ADP-glucose 
+AGPase: !localizes to! cytosol/amyloplasts 
+AGPase: !encoded by! six genes 
+AGPase: !transports! reporter protein 
+AGPase: !exhibits activity! when coexpressed 
+agpsemzm/agpllzm: !null mutations cause! reduced AGPase activity 
+agpsemzm/agpllzm: !necessary for! normal starch levels 
+agpsemzm/agpllzm: !contribute to! endosperm starch production

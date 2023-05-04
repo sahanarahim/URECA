@@ -1,0 +1,11 @@
+Genes in the FLOWERING LOCUS T (FT) family integrate external and internal signals to control various aspects of plant development. In soybean (Glycine max), FT2a and FT5a play a major role in floral induction, but their roles in post-flowering reproductive development remain undetermined. Ectopic overexpression analyses revealed that FT2a and FT5a similarly induced flowering, but FT5a was markedly more effective than FT2a for the post-flowering termination of stem growth. The down-regulation of Dt1, a soybean orthologue of Arabidopsis TERMINAL FLOWER1, in shoot apices in early growing stages of FT5a-overexpressing plants was concomitant with highly up-regulated expression of APETALA1 orthologues. The Dt2 gene, a repressor of Dt1, was up-regulated similarly by the overexpression of FT2a and FT5a, suggesting that it was not involved in the control of stem termination by FT5a. In addition to the previously reported interaction with FDL19, a homologue of the Arabidopsis bZIP protein FD, both FT2a and FT5a interacted with FDL12, but only FT5a interacted with FDL06. Our results suggest that FT2a and FT5a have different functions in the control of post-flowering stem growth. A specific interaction of FT5a with FDL06 may play a key role in determining post-flowering stem growth in soybean.
+
+FT2a: !induces! flowering
+FT5a: !induces! flowering
+FT5a: !terminates! stem growth
+Dt1: !repressed by! FT5a
+APETALA1: !up-regulated by! FT5a
+Dt2: !up-regulated by! FT2a and FT5a
+FDL19: !interacts with! FT2a and FT5a
+FDL12: !interacts with! FT2a and FT5a
+FDL06: !interacts with! FT5a

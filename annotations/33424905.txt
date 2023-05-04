@@ -1,0 +1,8 @@
+RNA splicing is an essential post-transcriptional regulation in plant mitochondria and chloroplasts. As the mechanism of RNA splicing remains obscure, identification and functional elucidation of new splicing factors are necessary. Through a characterization of two maize mutants, we cloned <i>Empty pericarp 24</i> (<i>Emp24</i>) and <i>Empty pericarp 25</i> (<i>Emp25</i>). Both <i>Emp24</i> and <i>Emp25</i> encode mitochondrion-targeted P-type PPR proteins. EMP24 is required for the splicing of <i>nad4</i> introns 1 and 3, which was reported (Ren Z. et al., 2019), and EMP25 functions in the splicing of <i>nad5</i> introns 1, 2, and 3. Absence of either Nad4 or Nad5 proteins blocks the assembly of mitochondrial complex I, resulting in the formation of a sub-sized complex I of similar size in both mutants. Mass spectrometry identification revealed that the subcomplexes in both mutants lack an identical set of proteins of complex I. These results indicate that EMP24 and EMP25 function in the splicing of <i>nad4</i> and <i>nad5</i> introns, respectively, and are essential to maize kernel development. The identification of the subcomplexes provides genetic and molecular insights into the modular complex I assembly pathway in maize.
+
+EMP24: !affects! Splicing of nad4 introns
+EMP25: !affects! Splicing of nad5 introns
+EMP24: !essential to! Maize kernel development
+EMP25: !essential to! Maize kernel development
+Nad4: !required for! Assembly of mitochondrial complex I
+Nad5: !required for! Assembly of mitochondrial complex I

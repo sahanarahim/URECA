@@ -1,0 +1,8 @@
+Cell division requires proper spindle assembly; a surveillance pathway, the spindle assembly checkpoint (SAC), monitors whether the spindle is normal and correctly attached to kinetochores. The SAC proteins regulate mitotic chromosome segregation by affecting CDC20 (Cell Division Cycle 20) function. However, it is unclear whether CDC20 regulates meiotic spindle assembly and proper homolog segregation. Here, we show that the Arabidopsis thaliana CDC20.1 gene is indispensable for meiosis and male fertility. We demonstrate that cdc20.1 meiotic chromosomes align asynchronously and segregate unequally and the metaphase I spindle has aberrant morphology. Comparison of the distribution of meiotic stages at different time points between the wild type and cdc20.1 reveals a delay of meiotic progression from diakinesis to anaphase I. Furthermore, cdc20.1 meiocytes exhibit an abnormal distribution of a histone H3 phosphorylation mark mediated by the Aurora kinase, providing evidence that CDC20.1 regulates Aurora localization for meiotic chromosome segregation. Further evidence that CDC20.1 and Aurora are functionally related was provided by meiosis-specific knockdown of At-Aurora1 expression, resulting in meiotic chromosome segregation defects similar to those of cdc20.1. Taken together, these results suggest a critical role for CDC20.1 in SAC-dependent meiotic chromosome segregation.
+
+CDC20.1: !affects! SAC proteins 
+SAC proteins: !regulate! CDC20 
+CDC20.1: !essential for! meiosis 
+CDC20.1: !regulates! Aurora localization 
+Aurora: !mediates! histone H3 phosphorylation mark 
+At-Aurora1: !knockdown of! results in chromosome segregation defects

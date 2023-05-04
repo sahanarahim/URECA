@@ -1,0 +1,8 @@
+The TCP domain is a DNA-binding domain present in plant transcription factors that modulate different processes. In the present study, we show that Arabidopsis class I TCP proteins are able to interact with a dyad-symmetric sequence composed of two GTGGG half-sites. TCP20 establishes symmetric interactions with the 5' half of each strand, whereas TCP11 interacts mainly with the 3' half. SELEX (systematic evolution of ligands by exponential enrichment) experiments with TCP15 and TCP20 indicated that these proteins have similar, although not identical, DNA-binding preferences and are able to interact with non-palindromic binding sites of the type GTGGGNCCNN. TCP11 shows a different DNA-binding specificity, with a preference for the sequence GTGGGCCNNN. The distinct DNA-binding properties of TCP11 are due to the presence of a threonine residue at position 15 of the TCP domain, a position that is occupied by an arginine residue in most TCP proteins. TCP11 also forms heterodimers with TCP15 that have increased DNA-binding efficiency. The expression in plants of a repressor form of TCP11 demonstrated that this protein is a developmental regulator that influences the growth of leaves, stems and petioles, and pollen development. The results suggest that changes in DNA-binding preferences may be one of the mechanisms through which class I TCP proteins achieve functional specificity.
+
+TCP20: !interacts with! 5' half of each strand
+TCP11: !interacts with! 3' half of each strand
+TCP15: !interacts with! non-palindromic binding sites
+TCP11: !has preference for! GTGGGCCNNN
+TCP11: !forms heterodimers with! TCP15
+TCP11: !regulates! leaf, stem, petiole growth & pollen development

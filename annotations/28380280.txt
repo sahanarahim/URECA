@@ -1,0 +1,9 @@
+Fruit accumulate a diverse set of volatiles including esters and phenylpropenes. Volatile esters are synthesised via fatty acid degradation or from amino acid precursors, with the final step being catalysed by alcohol acyl transferases (AATs). Phenylpropenes are produced as a side branch of the general phenylpropanoid pathway. Major quantitative trait loci (QTLs) on apple (Malus × domestica) linkage group (LG)2 for production of the phenylpropene estragole and volatile esters (including 2-methylbutyl acetate and hexyl acetate) both co-located with the MdAAT1 gene. MdAAT1 has previously been shown to be required for volatile ester production in apple (Plant J., 2014, https://doi.org/10.1111/tpj.12518), and here we show it is also required to produce p-hydroxycinnamyl acetates that serve as substrates for a bifunctional chavicol/eugenol synthase (MdoPhR5) in ripe apple fruit. Fruit from transgenic 'Royal Gala' MdAAT1 knockdown lines produced significantly reduced phenylpropene levels, whilst manipulation of the phenylpropanoid pathway using MdCHS (chalcone synthase) knockout and MdMYB10 over-expression lines increased phenylpropene production. Transient expression of MdAAT1, MdoPhR5 and MdoOMT1 (O-methyltransferase) genes reconstituted the apple pathway to estragole production in tobacco. AATs from ripe strawberry (SAAT1) and tomato (SlAAT1) fruit can also utilise p-coumaryl and coniferyl alcohols, indicating that ripening-related AATs are likely to link volatile ester and phenylpropene production in many different fruit.
+
+MdAAT1: !affects! Production of phenylpropene and volatile esters
+MdCHS: !enhances! Phenylpropene production
+MdMYB10: !enhances! Phenylpropene production
+MdoPhR5: !synthesizes! p-hydroxycinnamyl acetates
+MdoOMT1: !synthesizes! Estragole
+SAAT1: !utilises! p-coumaryl and coniferyl alcohols
+SlAAT1: !utilises! p-coumaryl and coniferyl alcohols

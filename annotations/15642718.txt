@@ -1,0 +1,14 @@
+To investigate the nature of mutations induced by accelerated ions in higher plants, the effects of carbon-ion-irradiation were compared with those of electron-irradiation in Arabidopsis thaliana. Point-like mutations and rearrangements were induced at a similar frequency after carbon-ion-irradiation, whereas point-like mutations were more frequently induced after electron-irradiation. Sequence analysis revealed that carbon-ion-induced point-like mutations were mostly short deletions. In the case of rearrangements, deletions, inversions, insertions, and translocations were found. The estimated frequency of deletion induction was comparable to that of fast neutrons. Analysis of chromosome breakpoints revealed that carbon ions frequently deleted small regions around the breakpoints, whereas electron-irradiation often duplicated these regions. Moreover, for both types of radiation, broken ends with microhomologies were frequently rejoined. Results of the breakpoint and broken end analyses suggest that non-homologous end-joining (NHEJ) leads to the rejoining of double strand breaks (dsbs) after cells are exposed to both types of radiation, but the type of NHEJ that occurs as a result of damage is different. The results indicated that carbon-ion-induced mutations are most likely nulls and that the induced rearrangements may arise through a unique mechanism. These findings indicate that accelerated ions are a useful mutagen for both forward and reverse genetics for plants.
+
+carbon-ion: !induces! point-like mutations 
+carbon-ion: !induces! rearrangements 
+electron-irradiation: !induces! point-like mutations 
+deletions: !induced by! carbon-ion 
+inversions: !induced by! carbon-ion 
+insertions: !induced by! carbon-ion 
+translocations: !induced by! carbon-ion 
+fast neutrons: !induce! deletions 
+chromosome breakpoints: !affected by! carbon-ion 
+chromosome breakpoints: !affected by! electron-irradiation 
+microhomologies: !frequently rejoined by! both types of radiation 
+double strand breaks: !rejoined by! non-homologous end-joining

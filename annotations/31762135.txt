@@ -1,0 +1,9 @@
+Dunaliella has been extensively studied due to its intriguing adaptation to high salinity. Its di-domain glycerol-3-phosphate dehydrogenase (GPDH) isoform is likely to underlie the rapid production of the osmoprotectant glycerol. Here, we report the structure of the chimeric Dunaliella salina GPDH (DsGPDH) protein featuring a phosphoserine phosphatase-like domain fused to the canonical glycerol-3-phosphate (G3P) dehydrogenase domain. Biochemical assays confirm that DsGPDH can convert dihydroxyacetone phosphate (DHAP) directly to glycerol, whereas a separate phosphatase protein is required for this conversion process in most organisms. The structure of DsGPDH in complex with its substrate DHAP and co-factor nicotinamide adenine dinucleotide (NAD) allows the identification of the residues that form the active sites. Furthermore, the structure reveals an intriguing homotetramer form that likely contributes to the rapid biosynthesis of glycerol.
+
+DsGPDH: !converts! DHAP 
+DsGPDH: !requires! phosphatase 
+DsGPDH: !forms! homotetramer 
+DsGPDH: !synthesizes! glycerol 
+DHAP: !converted by! DsGPDH 
+NAD: !co-factor of! DsGPDH 
+Residues: !form active sites of! DsGPDH

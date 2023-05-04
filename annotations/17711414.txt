@@ -1,0 +1,8 @@
+Plant methyl-DNA-binding proteins (MBDs), discovered by sequence homology to their animal counterparts, have not been well characterized at the physiological and functional levels. In order better to characterize the Arabidopsis AtMBD7 protein, unique in bearing three MBD domains, we used a yeast two-hybrid system to identify its partners. One of the interacting proteins we cloned is the Arabidopsis arginine methyltransferase 11 (AtPRMT11). Glutathione S-transferase pull-down and co-immunoprecipitation assays confirmed that the two proteins interact with each other and can be co-isolated. Using GFP fluorescence, we show that both AtMBD7 and AtPRMT11 are present in the nucleus. Further analyses revealed that AtPRMT11 acts as an arginine methyltransferase active on both histones and proteins of cellular extracts. The analysis of a T-DNA mutant line lacking AtPRMT11 mRNA revealed reduced levels of proteins with asymmetrically dimethylated arginines, suggesting that AtPRMT11, which is highly similar to mammalian PRMT1, is indeed a type I arginine methyltransferase. Further, AtMBD7 is a substrate for AtPRMT11, which post-translationally modifies the portion of the protein-containing C-terminal methylated DNA-binding domain. These results suggest the existence of a link between DNA methylation and arginine methylation.
+
+AtMBD7: !interacts with! AtPRMT11
+AtMBD7: !localizes to! nucleus
+AtPRMT11: !methylates! histones
+AtPRMT11: !methylates! proteins
+AtPRMT11: !methylates! AtMBD7
+AtPRMT11: !links! DNA methylation and arginine methylation

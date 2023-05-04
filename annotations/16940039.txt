@@ -1,0 +1,9 @@
+A central player in the Arabidopsis floral transition is the floral repressor FLC, the MADS-box transcriptional regulator that inhibits the activity of genes required to switch the meristem from vegetative to floral development. One of the many pathways that regulate FLC expression is the autonomous promotion pathway composed of FCA, FY, FLD, FPA, FVE, LD, and FLK. Rather than a hierarchical set of activities the autonomous promotion pathway comprises sub-pathways of genes with different biochemical functions that all share FLC as a target. One sub-pathway involves FCA and FY, which interact to regulate RNA processing of FLC. Several of the identified components (FY, FVE, and FLD) are homologous to yeast and mammalian proteins with rather generic roles in gene regulation. So why do mutations in these genes specifically show a late-flowering phenotype in Arabidopsis? One reason, found during the analysis of fy alleles, is that the mutant alleles identified in flowering screens can be hypomorphic, they still have partial function. A broader role for the autonomous promotion pathway is supported by a microarray analysis which has identified genes mis-regulated in fca mutants, and whose expression is also altered in fy mutants.
+
+FLC: !represses! genes
+FCA: !interacts with! FY
+FY: !interacts with! FCA
+FLD: !homologous to! yeast/mammalian proteins
+FVE: !homologous to! yeast/mammalian proteins
+FY: !regulates! RNA processing of FLC
+FCA: !regulates! expression of mis-regulated genes in fy mutants

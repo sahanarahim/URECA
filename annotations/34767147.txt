@@ -1,0 +1,13 @@
+Suppression of starch branching enzymes 1 and 2 in cassava leads to increased resistant starch content through the production of high-amylose and modification of the amylopectin structure. Cassava (Manihot esculenta Crantz) is a starchy root crop used for human consumption as a staple food and industrial applications. Starch is synthesized by various isoforms of several enzymes. However, the function of starch branching enzymes (SBEs) in starch biosynthesis and mechanisms of starch regulation in cassava have not been understood well. In this study, we aimed to suppress the expression of SBEs in cassava to generate starches with a range of distinct properties, in addition to verifying the functional characteristics of the SBEs. One SBE1, two SBE2, and one SBE3 genes were classified by phylogenetic analysis and amino acid alignment. Quantitative real-time RT-PCR revealed tissue-specific expression of SBE genes in the tuberous roots and leaves of cassava. We introduced RNAi constructs containing fragments of SBE1, SBE2, or both genes into cassava by Agrobacterium-mediated transformation, and assessed enzymatic activity of SBE using tuberous roots and leaves from these transgenic plants. Simultaneous suppression of SBE1 and SBE2 rendered an extreme starch phenotype compared to suppression of SBE2 alone. Degree of polymerization of 6-13 chains in amylopectin was markedly reduced by suppression of both SBE1 and SBE2 in comparison to the SBE2 suppression; however, no change in chain-length profiles was observed in the SBE1 suppression alone. The role of SBE1 and SBE2 may have functional overlap in the storage tissue of cassava. Simultaneous suppression of SBE1 and SBE2 resulted in highly resistant starch with increased apparent amylose content compared to suppression of SBE2 alone. This study provides valuable information for understanding starch biosynthesis and suggests targets for altering starch quality.
+
+SBE1: !suppresses! SBE2 
+SBE2: !suppresses! SBE3 
+SBE1: !localizes to! tuberous roots and leaves 
+SBE2: !localizes to! tuberous roots and leaves 
+SBE3: !localizes to! tuberous roots and leaves 
+SBE1: !enhances! amylopectin structure 
+SBE2: !enhances! amylopectin structure 
+SBE1: !represses! degree of polymerization 
+SBE2: !represses! degree of polymerization 
+RNAi: !suppresses! SBE1 
+RNAi: !suppresses! SBE2

@@ -1,0 +1,7 @@
+Adventitious root initiation (ARI) is a de novo organogenesis program and a key adaptive trait in plants. Several hormones regulate ARI but the underlying genetic architecture that integrates the hormonal crosstalk governing this process remains largely elusive. In this study, we use genetics, genome editing, transcriptomics, hormone profiling and cell biological approaches to demonstrate a crucial role played by the APETALA2/ETHYLENE RESPONSE FACTOR 115 transcription factor. We demonstrate that ERF115 functions as a repressor of ARI by activating the cytokinin (CK) signaling machinery. We also demonstrate that ERF115 is transcriptionally activated by jasmonate (JA), an oxylipin-derived phytohormone, which represses ARI in NINJA-dependent and independent manners. Our data indicate that NINJA-dependent JA signaling in pericycle cells blocks early events of ARI. Altogether, our results reveal a previously unreported molecular network involving cooperative crosstalk between JA and CK machineries that represses ARI.
+
+ERF115: !represses! ARI
+ERF115: !activated by! JA
+JA: !represses! ARI
+CK: !activated by! ERF115
+NINJA: !dependent on! JA

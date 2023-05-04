@@ -1,0 +1,12 @@
+['17766401', "Arabidopsis thaliana TRANSPARENT TESTA GLABRA2 (TTG2) encodes a WRKY  transcription factor and is expressed in young leaves, trichomes, seed coats, and  root hairless cells. An examination of several trichome and root hair mutants  indicates that MYB and bHLH genes regulate TTG2 expression. Two MYB binding sites  in the TTG2 5' regulatory region act as cis regulatory elements and as direct  targets of R2R3 MYB transcription factors such as WEREWOLF, GLABRA1, and  TRANSPARENT TESTA2. Mutations in TTG2 cause phenotypic defects in trichome  development and seed color pigmentation. Transgenic plants expressing a chimeric  repressor version of the TTG2 protein (TTG2:SRDX) showed defects in trichome  formation, anthocyanin accumulation, seed color pigmentation, and differentiation  of root hairless cells. GLABRA2 (GL2) expression was markedly reduced in roots of  ProTTG2:TTG2:SRDX transgenic plants, suggesting that TTG2 is involved in the  regulation of GL2 expression, although GL2 expression in the ttg2 mutant was  similar to that in the wild type. Our analysis suggests a new step in a  regulatory cascade of epidermal differentiation, in which complexes containing  R2R3 MYB and bHLH transcription factors regulate the expression of TTG2, which  then regulates GL2 expression with complexes containing R2R3 MYB and bHLH in the  differentiation of trichomes and root hairless cells.", '2007 Aug', 'Plant Cell', '10.1105/tpc.107.052274', 'Wada']
+
+WEREWOLF: !regulates! TTG2
+GLABRA1: !regulates! TTG2
+TRANSPARENT TESTA2: !regulates! TTG2
+TTG2: !regulates! GL2
+R2R3 MYB: !regulates! TTG2
+bHLH: !regulates! TTG2
+TTG2: !regulates! trichome development
+TTG2: !regulates! seed color pigmentation
+TTG2: !regulates! root hairless cell differentiation
+ProTTG2:TTG2:SRDX: !reduces! GL2 expression

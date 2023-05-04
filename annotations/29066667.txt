@@ -1,0 +1,9 @@
+['29066667', 'In plants, the posttranslational modification small ubiquitin-like modifier  (SUMO) is involved in regulating several important developmental and cellular  processes, including flowering time control and responses to biotic and abiotic  stresses. Here, we report two proteases, SUMO PROTEASE RELATED TO FERTILITY1  (SPF1) and SPF2, that regulate male and female gamete and embryo development and  remove SUMO from proteins in vitro and in vivo. spf1 mutants exhibit abnormal  floral structures and embryo development, while spf2 mutants exhibit largely a  wild-type phenotype. However, spf1 spf2 double mutants exhibit severe  abnormalities in microgametogenesis, megagametogenesis, and embryo development,  suggesting that the two genes are functionally redundant. Mutation of SPF1 and  SPF2 genes also results in misexpression of generative- and embryo-specific  genes. In vitro, SPF1 and SPF2 process SUMO1 precursors into a mature form, and  as expected in vivo, spf1 and spf2 mutants accumulate SUMO conjugates. Using a  yeast two-hybrid screen, we identified EMBRYO SAC DEVELOPMENT ARREST9 (EDA9) as  an SPF1-interacting protein. In vivo, we demonstrate that EDA9 is sumolyated and  that, in spf1 mutants, EDA9-SUMO conjugates increase in abundance, demonstrating  that EDA9 is a substrate of SPF1. Together, our results demonstrate that SPF1 and  SPF2 are two SUMO proteases important for plant development in Arabidopsis  (Arabidopsis thaliana).', '2017 Dec', 'Plant Physiol', '10.1104/pp.17.00021', 'ORCID:']
+
+SUMO: !regulates! developmental and cellular processes
+SPF1: !regulates! male and female gamete and embryo development
+SPF2: !regulates! male and female gamete and embryo development
+SPF1: !interacts with! EDA9
+EDA9: !is sumolyated by! SPF1
+SPF1: !removes! SUMO from proteins
+SPF2: !removes! SUMO from proteins

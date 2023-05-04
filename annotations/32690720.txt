@@ -1,0 +1,12 @@
+['32690720', 'The anaphase promoting complex/cyclosome (APC/C) controls unidirectional  progression through the cell cycle by marking key cell cycle proteins for  proteasomal turnover. Its activity is temporally regulated by the docking of  different activating subunits, known in plants as CELL DIVISION PROTEIN20 (CDC20)  and CELL CYCLE SWITCH52 (CCS52). Despite the importance of the APC/C during cell  proliferation, the number of identified targets in the plant cell cycle is  limited. Here, we used the growth and meristem phenotypes of Arabidopsis  (Arabidopsis thaliana) CCS52A2-deficient plants in a suppressor mutagenesis  screen to identify APC/C(CCS52A2) substrates or regulators, resulting in the  identification of a mutant cyclin CYCA3;4 allele. CYCA3;4 deficiency partially  rescues the ccs52a2-1 phenotypes, whereas increased CYCA3;4 levels enhance the  scored ccs52a2-1 phenotypes. Furthermore, whereas the CYCA3;4 protein is promptly  broken down after prophase in wild-type plants, it remains present in later  stages of mitosis in ccs52a2-1 mutant plants, marking it as a putative  APC/C(CCS52A2) substrate. Strikingly, increased CYCA3;4 levels result in aberrant  root meristem and stomatal divisions, mimicking phenotypes of plants with reduced  RETINOBLASTOMA-RELATED PROTEIN1 (RBR1) activity. Correspondingly, RBR1  hyperphosphorylation was observed in CYCA3;4 gain-of-function plants. Our data  thus demonstrate that an inability to timely destroy CYCA3;4 contributes to  disorganized formative divisions, possibly in part caused by the inactivation of  RBR1.', '2020 Sep', 'Plant Cell', '10.1105/tpc.20.00208', 'ORCID:']
+
+APC/C: !regulates! Cell Cycle Proteins 
+CDC20: !docks to! APC/C 
+CCS52: !docks to! APC/C 
+ccs52a2-1: !identifies! CYCA3;4 
+CYCA3;4: !partially rescues! ccs52a2-1 
+CYCA3;4: !enhances! ccs52a2-1 phenotypes 
+CYCA3;4: !marked as! APC/C(CCS52A2) substrate 
+CYCA3;4: !contributes to! disorganized formative divisions 
+RBR1: !inactivated by! CYCA3;4 gain-of-function plants 
+RBR1: !hyperphosphorylated by! CYCA3;4 gain-of-function plants

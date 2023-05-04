@@ -1,0 +1,8 @@
+Populus has become an important model plant system. However, utilization of the increasingly extensive collection of genetics and genomics data created by the community is currently hindered by the lack of a central resource, such as a model organism database (MOD). Such MODs offer a single entry point to the collection of resources available within a model system, typically including tools for exploring and querying those resources. As a starting point to overcoming the lack of such an MOD for Populus, we present the Populus Genome Integrative Explorer (PopGenIE), an integrated set of tools for exploring the Populus genome and transcriptome. The resource includes genome, synteny and quantitative trait locus (QTL) browsers for exploring genetic data. Expression tools include an electronic fluorescent pictograph (eFP) browser, expression profile plots, co-regulation within collated transcriptomics data sets, and identification of over-represented functional categories and genomic hotspot locations. A number of collated transcriptomics data sets are made available in the eFP browser to facilitate functional exploration of gene function. Additional homology and data extraction tools are provided. PopGenIE significantly increases accessibility to Populus genomics resources and allows exploration of transcriptomics data without the need to learn or understand complex statistical analysis methods. PopGenIE is available at www.popgenie.org or via www.populusgenome.info.
+
+Gene: !affects! Process 
+Gene: !localizes to! Genome 
+Gene: !interacts with! Transcriptome 
+Gene: !enhances! QTL Browser 
+Gene: !represses! Functional Categories 
+Gene: !synthesizes! eFP Browser

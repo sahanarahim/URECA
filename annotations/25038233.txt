@@ -1,0 +1,8 @@
+The unicellular green alga Chlamydomonas reinhardtii is capable of using organic and inorganic carbon sources simultaneously, which requires the adjustment of photosynthetic activity to the prevailing mode of carbon assimilation. We obtained novel insights into the regulation of light-harvesting at photosystem II (PSII) following altered carbon source availability. In C. reinhardtii, synthesis of PSII-associated light-harvesting proteins (LHCBMs) is controlled by the cytosolic RNA-binding protein NAB1, which represses translation of particular LHCBM isoform transcripts. This mechanism is fine-tuned via regulation of the nuclear NAB1 promoter, which is activated when linear photosynthetic electron flow is restricted by CO(2)-limitation in a photoheterotrophic context. In the wild-type, accumulation of NAB1 reduces the functional PSII antenna size, thus preventing a harmful overexcited state of PSII, as observed in a NAB1-less mutant. We further demonstrate that translation control as a newly identified long-term response to prolonged CO(2)-limitation replaces LHCII state transitions as a fast response to PSII over-excitation. Intriguingly, activation of the long-term response is perturbed in state transition mutant stt7, suggesting a regulatory link between the long- and short-term response. We depict a regulatory circuit operating on distinct timescales and in different cellular compartments to fine-tune light-harvesting in photoheterotrophic eukaryotes.
+
+NAB1: !represses! translation of LHCBM isoform transcripts
+NAB1: !activates! nuclear NAB1 promoter
+NAB1: !reduces! functional PSII antenna size
+CO2-limitation: !activates! NAB1
+CO2-limitation: !replaces! LHCII state transitions
+stt7: !perturbs! activation of long-term response

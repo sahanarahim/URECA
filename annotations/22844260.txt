@@ -1,0 +1,10 @@
+Cell cycle control is modified at meiosis compared to mitosis, because two divisions follow a single DNA replication event. Cyclin-dependent kinases (CDKs) promote progression through both meiosis and mitosis, and a central regulator of their activity is the APC/C (Anaphase Promoting Complex/Cyclosome) that is especially required for exit from mitosis. We have shown previously that OSD1 is involved in entry into both meiosis I and meiosis II in Arabidopsis thaliana; however, the molecular mechanism by which OSD1 controls these transitions has remained unclear. Here we show that OSD1 promotes meiotic progression through APC/C inhibition. Next, we explored the functional relationships between OSD1 and the genes known to control meiotic cell cycle transitions in Arabidopsis. Like osd1, cyca1;2/tam mutation leads to a premature exit from meiosis after the first division, while tdm mutants perform an aberrant third meiotic division after normal meiosis I and II. Remarkably, while tdm is epistatic to tam, osd1 is epistatic to tdm. We further show that the expression of a non-destructible CYCA1;2/TAM provokes, like tdm, the entry into a third meiotic division. Finally, we show that CYCA1;2/TAM forms an active complex with CDKA;1 that can phosphorylate OSD1 in vitro. We thus propose that a functional network composed of OSD1, CYCA1;2/TAM, and TDM controls three key steps of meiotic progression, in which OSD1 is a meiotic APC/C inhibitor.
+
+CDKs: !promote! meiosis/mitosis
+APC/C: !required for! mitosis exit
+OSD1: !involved in! meiosis I/II entry
+OSD1: !promotes! meiotic progression through APC/C inhibition
+osd1: !epistatic to! tdm
+CYCA1;2/TAM: !forms active complex with! CDKA;1
+OSD1: !inhibits! APC/C
+OSD1: !part of functional network with! CYCA1;2/TAM & TDM

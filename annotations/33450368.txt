@@ -1,0 +1,8 @@
+Mitogen-activated protein kinase (MAPK) cascades regulate a myriad of plant biological processes, including disease resistance. Plant genomes encode a large number of MAPK kinase kinases (MAPKKKs) that can be divided into two subfamilies, namely MEKK-like kinases and Raf-like kinases. Thus far, the functions of MEKK-like MAPKKKs have been relatively well characterized, but the roles of Raf-like MAPKKKs in plant MAPK cascades remain less understood. Here, we report the role of OsEDR1, a Raf-like MAPKKK, in the regulation of the MAPK cascade in rice response to the bacterial pathogen Xanthomonas oryzae pv. oryzicola (Xoc). We found that OsEDR1 inhibits OsMPKK10.2 (a MAPK kinase) activity through physical interaction. Upon Xoc infection, OsMPKK10.2 is phosphorylated at S304 to activate OsMPK6 (a MAPK). Interestingly, activated OsMPK6 phosphorylates OsEDR1 at S861, which destabilizes OsEDR1 and thus releases the inhibition of OsMPKK10.2, leading to increased OsMPKK10.2 activity and enhanced resistance of rice plants to Xoc. Taken together, these results provide new insights into the functions of Raf-like kinases in the regulation of the MAPK cascade in plant immunity.
+
+OsEDR1: !inhibits! OsMPKK10.2
+OsMPKK10.2: !phosphorylated at! S304
+OsMPK6: !phosphorylates! OsEDR1
+OsEDR1: !destabilized by! S861 phosphorylation
+OsEDR1: !releases inhibition of! OsMPKK10.2
+OsMPKK10.2: !increased activity of! OsMPK6

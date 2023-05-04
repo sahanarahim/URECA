@@ -1,0 +1,7 @@
+Network analysis is now a common statistical tool for molecular biologists. Network algorithms are readily used to model gene, protein and metabolic correlations providing insight into pathways driving biological phenomenon. One output from such an analysis is a candidate gene list that can be responsible, in part, for the biological process of interest. The question remains, however, as to whether molecular network analysis can be used to inform process models at higher levels of biological organization. In our previous work, transcriptional networks derived from three plant species were constructed, interrogated for orthology and then correlated with photosynthetic inhibition at elevated temperature. One unique aspect of that study was the link from co-expression networks to net photosynthesis. In this addendum, we propose a conceptual model where traditional network analysis can be linked to whole-plant models thereby informing predictions on key processes such as photosynthesis, nutrient uptake and assimilation, and C partitioning.
+
+Gene: !affects! Process
+Network: !models! Gene
+Network: !interrogates! Orthology
+Network: !correlates with! Photosynthetic Inhibition
+Network: !links to! Whole-Plant Models

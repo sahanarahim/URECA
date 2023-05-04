@@ -1,0 +1,9 @@
+Gene transcription is largely regulated by <i>cis</i>-regulatory elements. Assay for Transposase-Accessible Chromatin using sequencing (ATAC-seq) is an emerging technology that can accurately map <i>cis</i>-regulatory elements in animals and plants. However, the presence of cell walls and chloroplasts in plants hinders the extraction of high-quality nuclei, thereby affects the quality of ATAC-seq data. Meanwhile, it is tricky to perform ATAC-seq with different tissue types, especially for those with limited size and amount. Moreover, with rapid growth of ATAC-seq datasets from plants, powerful and easy-to-use data analysis pipelines for ATAC-seq, especially for wheat is lacking. Here, we provided an all-in-one solution for mapping open chromatin in wheat including both experimental and data analysis procedure. We efficiently obtained nuclei with less cell debris from various wheat tissues. High-quality ATAC-seq data from young spike and ovary, which are hard to harvest were generated. We determined that the saturation sequencing depth of wheat ATAC-seq is about 16 Gb. Particularly, we developed a powerful and easy-to-use online pipeline to analyze the wheat ATAC-seq data and this pipeline can be easily extended to other plant species. The method developed here will facilitate plant regulatory genome study not only for wheat but also for other plant species.
+
+ATAC-seq: !maps! cis-regulatory elements 
+Cell walls: !hinders! nuclei extraction 
+Tissue types: !difficult to perform ATAC-seq with! limited size and amount 
+Wheat ATAC-seq: !generated! high-quality data 
+Saturation sequencing depth: !determined! 16 Gb 
+Online pipeline: !developed! for wheat ATAC-seq data analysis 
+Method: !facilitates! plant regulatory genome study

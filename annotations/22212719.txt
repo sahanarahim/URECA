@@ -1,0 +1,6 @@
+['22212719', 'Regulation of tetrapyrrole biosynthesis in higher plants has been attributed to  negative feedback control. Two effectors of feedback inhibition have been  identified, heme and the FLU protein. Inhibition by heme implicates the Fe-branch  via regulation of the initial step of tetrapyrrole synthesis. In the present work  a FLU-containing chloroplast membrane complex was identified, that besides FLU  comprises the four enzymes catalyzing the final steps of chlorophyll synthesis.  The results support the notion that FLU links chlorophyll synthesis and the  target of feedback control, glutamyl-tRNA reductase, thereby allowing also the  Mg-branch to control the initial step of tetrapyrrole synthesis.', '2012 Feb 3', 'FEBS Lett', '10.1016/j.febslet.2011.12.029', 'Meskauskiene']
+
+heme: !inhibits! tetrapyrrole synthesis 
+FLU: !inhibits! tetrapyrrole synthesis 
+FLU: !links! chlorophyll synthesis 
+FLU: !links! glutamyl-tRNA reductase

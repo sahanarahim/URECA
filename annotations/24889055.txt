@@ -1,0 +1,17 @@
+Plants are highly capable of recognizing and defending themselves against invading microbes. Adapted plant pathogens secrete effector molecules to suppress the host's immune system. These molecules may be recognized by host-encoded resistance proteins, which then trigger defense in the form of the hypersensitive response (HR) leading to programmed cell death of the host tissue at the infection site. The three proteins PEN1, PEN2 and PEN3 have been found to act as central components in cell wall-based defense against the non-adapted powdery mildew Blumeria graminis fsp. hordei (Bgh). We found that loss of function mutations in any of the three PEN genes cause decreased hypersensitive cell death triggered by recognition of effectors from oomycete and bacterial pathogens in Arabidopsis. There were considerable additive effects of the mutations. The HR induced by recognition of AvrRpm1 was almost completely abolished in the pen2 pen3 and pen1 pen3 double mutants and the loss of cell death could be linked to indole glucosinolate breakdown products. However, the loss of the HR in pen double mutants did not affect the plants' ability to restrict bacterial growth, whereas resistance to avirulent isolates of the oomycete Hyaloperonospora arabidopsidis was strongly compromised. In contrast, the double and triple mutants demonstrated varying degrees of run-away cell death in response to Bgh. Taken together, our results indicate that the three genes PEN1, PEN2 and PEN3 extend in functionality beyond their previously recognized functions in cell wall-based defense against non-host pathogens.
+
+PEN1: !enhances! HR
+PEN2: !enhances! HR
+PEN3: !enhances! HR
+PEN1: !represses! AvrRpm1
+PEN2: !represses! AvrRpm1
+PEN3: !represses! AvrRpm1
+PEN1: !restricts! bacterial growth
+PEN2: !restricts! bacterial growth
+PEN3: !restricts! bacterial growth
+PEN1: !compromises! H. arabidopsidis resistance
+PEN2: !compromises! H. arabidopsidis resistance
+PEN3: !compromises! H. arabidopsidis resistance
+PEN1: !causes! run-away cell death
+PEN2: !causes! run-away cell death
+PEN3: !causes! run-away cell death
