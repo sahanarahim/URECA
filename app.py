@@ -379,4 +379,4 @@ if __name__ == '__main__':
     v = open('stats.txt','w')
     v.write(str(len(os.listdir(os.getcwd()+'/annotations/')))+'\t'+str(len(set(items))))
     v.close()
-    app.run(debug = True)
+    app.run()
