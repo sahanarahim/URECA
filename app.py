@@ -61,6 +61,7 @@ def generate_cytoscape_js(elements):
                 continue 
             if True:
                 res = e.search_passive_edges(chosen_edges[i], e.PASSIVE_EDGES)
+                print(res)
                 if res:
                     for k in connections[j]:
                         node1, node2 = j.split("%?%")[0], k 
@@ -192,7 +193,6 @@ def find_terms(my_search, genes):
     return elements, forSending
 
 app = Flask(__name__)
-app.debug = True
 
 class Gene:
     def __init__(self, id, description, inter_type, publication):
