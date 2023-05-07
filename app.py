@@ -30,17 +30,20 @@ def process_network(elements):
     #remove redundancies
     edges = set(elements)
     
-    #using Networkx multiDiGraph to model the data as Graph
-    G =nx.MultiDiGraph()
-    for i in edges:
-        G.add_edge(i[0], i[1], relation = i[2])
-    
-    G = pageRankFilter(G)
-    updatedElements = graphConverter(G)
-    # G =nodeDegreeFilter(G)
-    # updatedElements = graphConverter(G)
-    
-    return updatedElements
+    if len(edges)>500:  # only perform node filtration if the node edge relationship is larger than 500
+        #using Networkx multiDiGraph to model the data as Graph
+        G =nx.MultiDiGraph()
+        for i in edges:
+            G.add_edge(i[0], i[1], relation = i[2])
+        
+        G = pageRankFilter(G)
+        updatedElements = graphConverter(G)
+        # G =nodeDegreeFilter(G)
+        # updatedElements = graphConverter(G)
+        
+        return updatedElements
+    else:
+        return edges
 
 def pageRankFilter(graph,percentile=50):
     pr = nx.pagerank(graph, alpha=0.85)
