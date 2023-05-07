@@ -30,8 +30,8 @@ def process_network(elements):
     #remove redundancies
     edges = set(elements)
     
-    if len(edges)>500:  # only perform node filtration if the node edge relationship is larger than 500
-        #using Networkx multiDiGraph to model the data as Graph
+    if len(edges)>500:  # only perform node filtration if the number of relationship is larger than 500
+        #using Networkx multiDiGraph to model input data as Graph
         G =nx.MultiDiGraph()
         for i in edges:
             G.add_edge(i[0], i[1], relation = i[2])
@@ -43,7 +43,7 @@ def process_network(elements):
         
         return updatedElements
     else:
-        return edges
+        return edgeConverter(edges)
 
 def pageRankFilter(graph,percentile=50):
     pr = nx.pagerank(graph, alpha=0.85)
@@ -68,7 +68,7 @@ def nodeDegreeFilter(graph,percentile=50):
     graph.remove_nodes_from(nodesToRemove)
     return graph
 
-def graphConverter(graph):
+def graphConverter(graph): # Convert Graph to default dictionary format
     updatedElements = []
     for k,v in graph.adjacency():
         if v:
@@ -79,7 +79,12 @@ def graphConverter(graph):
                     # print(q['relation'])
                     updatedElements.append({"source": str(k).replace("'","").replace('"',''), "target": str(i).replace("'","").replace('"',''), "interaction": str(q['relation']).replace("'","").replace('"','')})
     return updatedElements
-    
+
+def edgeConverter(elements): #Convert Edges to default dictionary format 
+    updatedElements = []
+    for i in elements:
+        updatedElements.append({"source": str(i[0]).replace("'","").replace('"',''), "target": str(i[1]).replace("'","").replace('"',''), "interaction": str(i[2]).replace("'","").replace('"','')})
+
 def make_text(elements):    
     '''Given all edges in the KnowledgeNet, it makes the text summary'''
     pubmedLink = '<a href="https://pubmed.ncbi.nlm.nih.gov/%s" target="_blank">%s</a>'
