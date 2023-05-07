@@ -84,6 +84,7 @@ def edgeConverter(elements): #Convert Edges to default dictionary format
     updatedElements = []
     for i in elements:
         updatedElements.append({"source": str(i[0]).replace("'","").replace('"',''), "target": str(i[1]).replace("'","").replace('"',''), "interaction": str(i[2]).replace("'","").replace('"','')})
+    return updatedElements
 
 def make_text(elements):    
     '''Given all edges in the KnowledgeNet, it makes the text summary'''
