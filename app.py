@@ -85,33 +85,40 @@ def make_text(elements):
         save.append(finishedSentence)
     return '<br><br>'.join(save)
 
-def find_terms(my_search, genes):   
+def find_terms_helper(gene, genes):
     forSending = []
-    elements = [] 
-
-    if len(my_search)>0:
-        for i in genes:
-            if '!' in my_search: #exact search
-                if my_search.upper().strip().replace('!','') == i.strip():
-                    for j in genes[i]:
-                        if j[0]!='' and j[2]!='':
-                            forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
-                            elements.append({"source": j[0].replace("'","").replace('"',''), "target": j[2].replace("'","").replace('"',''), "interaction": j[1].replace("'","").replace('"','')})                
-            if '?' in my_search: #exact word
-                print(my_search.upper().strip().replace('?',''))
-                if my_search.upper().strip().replace('?','') in i.strip().split():
-                    for j in genes[i]:
-                        if j[0]!='' and j[2]!='':
-                            forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
-                            elements.append({"source": j[0].replace("'","").replace('"',''), "target": j[2].replace("'","").replace('"',''), "interaction": j[1].replace("'","").replace('"','')})                
-
-            
-            if my_search.upper().strip() in i.strip():
-                for j in genes[i]:
-                    if j[0]!='' and j[2]!='':
-                        forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
-                        elements.append({"source": j[0].replace("'","").replace('"',''), "target": j[2].replace("'","").replace('"',''), "interaction": j[1].replace("'","").replace('"','')})
+    elements =[]
+    for j in genes[gene]:
+        if j[0]!='' and j[2]!='':
+            forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
+            elements.append((j[0].replace("'","").replace('"',''),  j[2].replace("'","").replace('"',''), j[1].replace("'","").replace('"','')))
     return elements, forSending
+
+def find_terms(my_search, genes):   
+    if my_search:
+        if '!' in my_search: #exact search -Specific word
+            for i in genes:
+                if my_search.upper().strip().replace('!','') == i.strip():
+                    return find_terms_helper(i,genes)
+        
+        if '?' in my_search: # include any string with substring = query word
+            forSending = []
+            elements = [] 
+            for i in genes:
+                if my_search.upper().strip().replace('?','') in i.strip():
+                    outputOne, outputTwo = find_terms_helper(i,genes)
+                    elements.extend(outputOne)
+                    forSending.extend(outputTwo)
+            return elements, forSending
+        
+        forSending = []
+        elements = []
+        for i in genes:
+            if my_search.upper().strip() in i.strip().split():  # default search - phrase that contain the specific query word
+                outputOne, outputTwo = find_terms_helper(i,genes)
+                elements.extend(outputOne)
+                forSending.extend(outputTwo)
+        return elements, forSending
 
 app = Flask(__name__)
 
