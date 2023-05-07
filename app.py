@@ -281,7 +281,7 @@ if __name__ == '__main__':
     import os
     items, edges = [],0
     for i in os.listdir(os.getcwd()+'/annotations/'):
-        a = open(os.getcwd()+'/annotations/'+i,'r').read()
+        a = open(os.getcwd()+'/annotations/'+i,'r',encoding='ISO-8859-1').read()
         
         if len(a)>0:
             findings = a.split('\n\n')[1].split('\n')
