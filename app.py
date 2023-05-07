@@ -2,7 +2,8 @@ from flask import Flask, render_template, request, redirect, url_for
 import pickle
 import re
 from Bio import Entrez
-
+import networkx as nx
+import numpy as np
 
 def generate_cytoscape_js(elements):
     nodes = [
@@ -27,20 +28,54 @@ def generate_cytoscape_js(elements):
 
 def process_network(elements):    
     #remove redundancies
-    edges = []
-    for i in elements:
-        if i not in edges:
-            edges.append(i)
+    edges = set(elements)
+    
+    #using Networkx multiDiGraph to model the data as Graph
+    G =nx.MultiDiGraph()
+    for i in edges:
+        G.add_edge(i[0], i[1], relation = i[2])
+    
+    G = pageRankFilter(G)
+    updatedElements = graphConverter(G)
+    # G =nodeDegreeFilter(G)
+    # updatedElements = graphConverter(G)
+    
+    return updatedElements
 
-    #groups similar nodes that have same source+interaction
-    edgeTypes = {}
-    for i in elements:
-        key = (i['source'], i['interaction'])
-        if key in edgeTypes:
-            edgeTypes[key] += [i['target']]
-        else:
-            edgeTypes[key] = [i['target']]
-    return edges
+def pageRankFilter(graph,percentile=50):
+    pr = nx.pagerank(graph, alpha=0.85)
+    cutOff = np.percentile(list(pr.values()),percentile)
+    nodesToKeep = []
+    for k, v in pr.items():
+        if v > (cutOff):
+            nodesToKeep.append(k)
+    
+    nodesToRemove = set(graph.nodes) - set(nodesToKeep)
+    graph.remove_nodes_from(nodesToRemove)
+    return graph
+
+def nodeDegreeFilter(graph,percentile=50):
+    cutOff = np.percentile(list(dict(graph.degree).values()),percentile)
+    nodesToKeep = []
+    for k, v in graph.degree:
+        if v > (cutOff):
+            nodesToKeep.append(k)
+    
+    nodesToRemove = set(graph.nodes) - set(nodesToKeep)
+    graph.remove_nodes_from(nodesToRemove)
+    return graph
+
+def graphConverter(graph):
+    updatedElements = []
+    for k,v in graph.adjacency():
+        if v:
+            # print(k)
+            for i,j in v.items():
+                # print(i)
+                for p,q in j.items():
+                    # print(q['relation'])
+                    updatedElements.append({"source": str(k).replace("'","").replace('"',''), "target": str(i).replace("'","").replace('"',''), "interaction": str(q['relation']).replace("'","").replace('"','')})
+    return updatedElements
     
 def make_text(elements):    
     '''Given all edges in the KnowledgeNet, it makes the text summary'''
