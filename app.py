@@ -101,7 +101,7 @@ def find_terms(my_search, genes):
                 if my_search.upper().strip().replace('!','') == i.strip():
                     return find_terms_helper(i,genes)
         
-        if '?' in my_search: # include any string with substring = query word
+        if '?' in my_search: # include any term that contains the substring of the query 
             forSending = []
             elements = [] 
             for i in genes:
@@ -114,7 +114,7 @@ def find_terms(my_search, genes):
         forSending = []
         elements = []
         for i in genes:
-            if my_search.upper().strip() in i.strip().split():  # default search - phrase that contain the specific query word
+            if my_search.upper().strip() in i.strip().split():  # default search - terms that contain the specific query word
                 outputOne, outputTwo = find_terms_helper(i,genes)
                 elements.extend(outputOne)
                 forSending.extend(outputTwo)
