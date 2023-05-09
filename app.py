@@ -179,6 +179,15 @@ class Gene:
         self.target = description
         self.inter_type = inter_type
         self.publication = publication
+    
+    def __repr__(self):
+        return str(self.__dict__)
+    
+    def __str__(self):
+        return str(self.__dict__)
+    
+    def getElements(self):
+        return (self.id, self.target, self.inter_type)
 
 @app.route('/')
 def index():
