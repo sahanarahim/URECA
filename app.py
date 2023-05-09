@@ -36,12 +36,11 @@ def process_network(elements):
         for i in edges:
             G.add_edge(i[0], i[1], relation = i[2])
         
-        G = pageRankFilter(G)
-        updatedElements = graphConverter(G)
+        # G = pageRankFilter(G)
         # G =nodeDegreeFilter(G)
-        # updatedElements = graphConverter(G)
+        G =nodeDegreeFilter2(G)
         
-        return updatedElements
+        return graphConverter(G)
     else:
         return edgeConverter(edges)
 
@@ -63,6 +62,14 @@ def nodeDegreeFilter(graph,percentile=50):
     for k, v in graph.degree:
         if v > (cutOff):
             nodesToKeep.append(k)
+    
+    nodesToRemove = set(graph.nodes) - set(nodesToKeep)
+    graph.remove_nodes_from(nodesToRemove)
+    return graph
+
+def nodeDegreeFilter2(graph,divisor=2):
+    cutOff = int(len(graph.nodes)/divisor) if len(graph.nodes) > 500 else len(graph.nodes)
+    nodesToKeep = sorted(dict(graph.degree), key=dict(graph.degree).get, reverse=True)[:500 if len(graph.nodes)>1000 else cutOff]
     
     nodesToRemove = set(graph.nodes) - set(nodesToKeep)
     graph.remove_nodes_from(nodesToRemove)
