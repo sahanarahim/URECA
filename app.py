@@ -113,6 +113,8 @@ def make_text(elements):
 def find_terms(my_search, genes, remove_passive = True): 
     '''
     Finds a term inside a dictionary.
+
+    A hard cutoff for now of 100 nodes
     '''  
     forSending = []
     elements = [] 
@@ -135,15 +137,8 @@ def find_terms(my_search, genes, remove_passive = True):
 
             # Searching for just a term:
             if my_search.upper().strip() in i.strip():
-                num_elements = 0
                 for j in genes[i]:
                     if len(j[0]) and len(j[2]):
-                        '''
-                        Until we decide on how to best filter out the edges / nodes,
-                        let's just set a hard cutoff of 50 nodes for now...
-                        '''
-                        if num_elements == 20:
-                            break
                         forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
 
                         # Making the nodes + edges for the graph:
@@ -162,8 +157,7 @@ def find_terms(my_search, genes, remove_passive = True):
                                 elements.append({"source": target_node, "target": source_node, "interaction": edge})
                         else:
                             elements.append({"source": source_node, "target": target_node, "interaction": edge})
-                        num_elements += 1
-    return elements, forSending
+    return elements[:200], forSending[:200]
 
 app = Flask(__name__)
 
