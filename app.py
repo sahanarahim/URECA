@@ -6,9 +6,9 @@ import os
 from random import randint
 
 # Importing custom utilities 
-import utils.edges as e
+from utils import edges as e
 
-
+'''
 # == DELETE AFTER ==
 connections = {}
 def find_connections(f):
@@ -26,10 +26,10 @@ def find_connections(f):
 for f in os.listdir("./annotations"):
     find_connections(f)
 connection_keys = sorted(connections, key = lambda x : len(connections[x]), reverse = True)
-
+'''
 def generate_cytoscape_js(elements):
 
-    '''nodes = [
+    nodes = [
         "{ data: { id: '%s' } }" % node
         for node in set(edge["source"] for edge in elements) | set(edge["target"] for edge in elements)
     ]
@@ -42,60 +42,7 @@ def generate_cytoscape_js(elements):
         )
         for i, edge in enumerate(elements)
     ]
-    print(edges)'''
-    chosen_edges = ['Modulate', 'Modulated By']
-    statements = []
     
-    ''' while True:
-        ind = randint(0, len(chosen_edges) - 1)
-        for i in connection_keys:
-            if len(k) == 20: break 
-            if chosen_edges[ind] in i: k.append(i)
-        break'''
-    
-    for i in range(len(chosen_edges)):
-        times = 0
-        for j in connection_keys:
-            if times == 5: break 
-            if chosen_edges[i].title() not in j:
-                continue 
-            if True:
-                res = e.search_passive_edges(chosen_edges[i], e.PASSIVE_EDGES)
-                print(res)
-                if res:
-                    for k in connections[j]:
-                        node1, node2 = j.split("%?%")[0], k 
-                        statements.append((node2, res.upper(), node1))
-                else:
-                    for k in connections[j]:
-                        node1, edge, node2 = j.split("%?%")[0], j.split("%?%")[1], k 
-                        statements.append((node1, edge, node2))
-            times += 1
-                
-    nodes, edges = ["{ data: { id: \"%s\" } }" % statements[0][0]], []
-    '''
-     nodes = ["{ data: { id: '%s' } }" % node for node in chosen + [f'{query_n}{i * " "}' for i in range(5)]]
-    edges = [
-        "{ data: { id: 'edge%s', source: '%s', target: '%s', interaction: '%s' } }" % (
-            i,
-            query_n + i * " ",
-            n,
-            edge,
-        )
-        for i, n in enumerate(chosen)
-    ]
-    '''
-    for i in range(len(statements)):
-        connected_to, query_n, edge = statements[i][2], statements[i][0], statements[i][1]
-        if len(connected_to) and len(query_n) and len(edge):
-            nodes.append("{ data: { id: \"%s\" } }" % connected_to)
-            nodes.append("{ data: { id: \"%s\" } }" % query_n)
-            edges.append("{ data: { id: \"edge%s\", source: \"%s\", target: \"%s\", interaction: \"%s\" } }" % (
-                i,
-                query_n,
-                connected_to,
-                edge,
-            ))
     a = open('network.txt','r').read()
 
     nodes = ', '.join(nodes)
@@ -163,7 +110,10 @@ def make_text(elements):
         save.append(finishedSentence)
     return '<br><br>'.join(save)
 
-def find_terms(my_search, genes):   
+def find_terms(my_search, genes, remove_passive = True): 
+    '''
+    Finds a term inside a dictionary.
+    '''  
     forSending = []
     elements = [] 
 
@@ -183,12 +133,36 @@ def find_terms(my_search, genes):
                             forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
                             elements.append({"source": j[0].replace("'","").replace('"',''), "target": j[2].replace("'","").replace('"',''), "interaction": j[1].replace("'","").replace('"','')})                
 
-            
+            # Searching for just a term:
             if my_search.upper().strip() in i.strip():
+                num_elements = 0
                 for j in genes[i]:
-                    if j[0]!='' and j[2]!='':
+                    if len(j[0]) and len(j[2]):
+                        '''
+                        Until we decide on how to best filter out the edges / nodes,
+                        let's just set a hard cutoff of 50 nodes for now...
+                        '''
+                        if num_elements == 20:
+                            break
                         forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
-                        elements.append({"source": j[0].replace("'","").replace('"',''), "target": j[2].replace("'","").replace('"',''), "interaction": j[1].replace("'","").replace('"','')})
+
+                        # Making the nodes + edges for the graph:
+                        source_node, target_node = j[0].replace("'", '').replace('"', ''), j[2].replace("'","").replace('"','')
+                        edge = j[1].replace("'","").replace('"','')
+
+                        if remove_passive:
+                            replacement = e.search_passive_edges(edge)
+                            if replacement is not None:
+                                '''
+                                This assumes that we can flip the nodes around in the case of passive edges:
+                                '''
+                                edge = replacement
+                                elements.append({"source": target_node, "target": source_node, "interaction": edge})
+                            else:
+                                elements.append({"source": target_node, "target": source_node, "interaction": edge})
+                        else:
+                            elements.append({"source": source_node, "target": target_node, "interaction": edge})
+                        num_elements += 1
     return elements, forSending
 
 app = Flask(__name__)
@@ -243,7 +217,8 @@ def author():
         
         forSending = []
         if hits!=[]:
-            with open('allDic', 'rb') as file:
+            with open('dics/allDic2', 'rb') as file:
+                print('sdfsf')
                 genes = pickle.load(file)
             
             
@@ -274,7 +249,7 @@ def author():
         
 @app.route('/title', methods=['POST'])
 def title():
-
+    remove_redundant_edges = request.form.get('redundancy')
     my_search = request.form['title'].lower()
     pmids = []
     for i in my_search.split(';'):
@@ -293,7 +268,7 @@ def title():
         
         
         if hits!=[]:
-            with open('allDic', 'rb') as file:
+            with open('dics/allDic2', 'rb') as file:
                 genes = pickle.load(file)
             
             
@@ -316,22 +291,25 @@ def title():
 
 @app.route('/search', methods=['POST'])
 def search():
-    with open('allDic', 'rb') as file:
+    with open('dics/allDic2', 'rb') as file:
         genes = pickle.load(file)
 
     try:
         my_search = request.form['gene_id']
+        remove_redundant_edges = request.form.get('redundancy') is not None
+        if remove_redundant_edges:
+            print("removing passive edges")
     except:
-        my_search='cesa'
+        my_search = 'cesa'
          
-    if len(my_search)>0:
+    if len(my_search) > 0:
         split_search = my_search.split(';')
         
         forSending = []
         elements = []
 
         for term in split_search:
-            results = find_terms(term, genes)
+            results = find_terms(term, genes, remove_redundant_edges)
             elements += results[0]
             forSending += results[1]
             
@@ -353,27 +331,34 @@ def search():
 
 @app.route('/help')
 def help():
+    '''
+    Renders the help template
+    '''
     return render_template('help.html')
 
 if __name__ == '__main__':
     import os
-    items, edges = [],0
+    '''
+    This part calculates the summary statistics that'll be displayed on the 
+    home page of the database.
+    '''
+    items, edges = [], 0
     for i in os.listdir(os.getcwd()+'/annotations/'):
-        a = open(os.getcwd()+'/annotations/'+i,'r', encoding = 'ISO-8859-1').read()
+        a = open(os.getcwd() + '/annotations/' + i, encoding = 'ISO-8859-1').read()
         
-        if len(a)>0:
+        if len(a) > 0:
             findings = a.split('\n\n')[1].split('\n')
             
             for j in findings:
-                if j.count('!')==2:
+                if j.count('!') == 2:
                     splitta = j.split('!')
         
                     agentA, _, agentB = splitta
-                    agentA = agentA.split(':')[0].upper()
-                    agentB = agentB.strip().upper()
-                    edges+=1
-                    items+=[agentA]
-                    items+=[agentB]
+                    agentA = agentA.split(':')[0].upper()   # Node 1
+                    agentB = agentB.strip().upper()         # Node 2
+                    edges += 1
+                    items += [agentA]
+                    items += [agentB]
                 
     v = open('stats.txt','w')
     v.write(str(len(os.listdir(os.getcwd()+'/annotations/')))+'\t'+str(len(set(items))))
