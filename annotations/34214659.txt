@@ -1,8 +1,0 @@
-Interpreting the functional impacts of genetic variants (GVs) is an important challenge for functional genomic studies in crops and next-generation breeding. Previous studies in rice (Oryza sativa) have focused mainly on the identification of GVs, whereas systematic functional annotation of GVs has not yet been performed. Here, we present a functional impact map of GVs in rice. We curated haplotype information for 17 397 026 GVs from sequencing data of 4726 rice accessions. We quantitatively evaluated the effects of missense mutations in coding regions in each haplotype based on the conservation of amino acid residues and obtained the effects of 918 848 non-redundant missense GVs. Furthermore, we generated high-quality chromatin accessibility (CA) data from six representative rice tissues and used these data to train deep convolutional neural network models to predict the impacts of 5 067 405 GVs for CA in regulatory regions. We characterized the functional properties and tissue specificity of the GV effects and found that large-effect GVs in coding and regulatory regions may be subject to selection in different directions. Finally, we demonstrated how the functional impact map could be used to prioritize causal variants in mapping populations. This impact map will be a useful resource for accelerating gene cloning and functional studies in rice, and can be freely queried in RiceVarMap V2.0 (http://ricevarmap.ncpgr.cn).
-
-Gene: !affects! Missense mutations 
-Gene: !localizes to! Chromatin accessibility 
-Gene: !interacts with! Amino acid residues 
-Gene: !enhances! Functional properties 
-Gene: !represses! Selection directions 
-Gene: !synthesizes! RiceVarMap V2.0

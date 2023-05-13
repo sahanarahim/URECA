@@ -1,8 +1,0 @@
-Floral morphology is shaped by factors that modulate floral meristem activity and size, and the identity, number and arrangement of the lateral organs they form. We report here that the maize <i>CRABS CLAW</i> co-orthologs <i>drooping leaf1</i> (<i>drl1</i>) and <i>drl2</i> are required for development of ear and tassel florets. Pistillate florets of <i>drl1</i> ears are sterile with unfused carpels that fail to enclose an expanded nucellus-like structure. Staminate florets of <i>drl1</i> tassels have extra stamens and fertile anthers. Natural variation and transposon alleles of <i>drl2</i> enhance <i>drl1</i> mutant phenotypes by reducing floral meristem (FM) determinacy. The <i>drl</i> paralogs are co-expressed in lateral floral primordia, but not within the FM. <i>drl</i> expression together with the more indeterminate mutant FMs suggest that the <i>drl</i> genes regulate FM activity and impose meristem determinacy non-cell-autonomously from differentiating cells in lateral floral organs. We used gene regulatory network inference, genetic interaction and expression analyses to suggest that DRL1 and ZAG1 target each other and a common set of downstream genes that function during floret development, thus defining a regulatory module that fine-tunes floret patterning and FM determinacy.
-
-drl1: !affects! ear and tassel floret development
-drl2: !enhances! drl1 mutant phenotypes
-drl1/2: !co-express in! lateral floral primordia
-drl1/2: !regulate! FM activity
-drl1/2: !target! ZAG1
-drl1/2: !function during! floret development

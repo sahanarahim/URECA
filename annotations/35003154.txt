@@ -1,9 +1,0 @@
-To date, unmanned aerial vehicles (UAVs), commonly known as drones, have been widely used in precision agriculture (PA) for crop monitoring and crop spraying, allowing farmers to increase the efficiency of the farming process, meanwhile reducing environmental impact. However, to spray pesticides effectively and safely to the trees in small fields or rugged environments, such as mountain areas, is still an open question. To bridge this gap, in this study, an onboard computer vision (CV) component for UAVs is developed. The system is low-cost, flexible, and energy-effective. It consists of two parts, the hardware part is an Intel Neural Compute Stick 2 (NCS2), and the software part is an object detection algorithm named the Ag-YOLO. The NCS2 is 18 grams in weight, 1.5 watts in energy consumption, and costs about $66. The proposed model Ag-YOLO is inspired by You Only Look Once (YOLO), trained and tested with aerial images of areca plantations, and shows high accuracy (F1 score = 0.9205) and high speed [36.5 frames per second (fps)] on the target hardware. Compared to YOLOv3-Tiny, Ag-YOLO is 2× faster while using 12× fewer parameters. Based on this study, crop monitoring and crop spraying can be synchronized into one process, so that smart and precise spraying can be performed.
-
-UAV: !used in! Precision Agriculture 
-Ag-YOLO: !inspired by! YOLO 
-NCS2: !consists of! Hardware Part 
-Ag-YOLO: !trained and tested with! Aerial Images 
-Ag-YOLO: !shows high accuracy and speed on! Target Hardware 
-Ag-YOLO: !faster than! YOLOv3-Tiny 
-UAV: !synchronizes! Crop Monitoring and Spraying

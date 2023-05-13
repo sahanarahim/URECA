@@ -1,9 +1,0 @@
-Unique among the known plant and animal viral suppressors of RNA silencing, the 2b protein interacts directly with both small interfering RNA (siRNA) and ARGONAUTE1 (AGO1) and AGO4 proteins and is targeted to the nucleolus. However, it is largely unknown which regions of the 111-residue 2b protein determine these biochemical properties and how they contribute to its diverse silencing suppressor activities. Here, we identified a functional nucleolar localization signal encoded within the 61-amino acid N-terminal double-stranded RNA (dsRNA) binding domain (dsRBD) that exhibited high affinity for short and long dsRNA. However, physical interaction of 2b with AGOs required an essential 33-residue region C-terminal to the dsRBD and was sufficient to inhibit the in vitro AGO1 Slicer activity independently of its dsRNA binding activities. Furthermore, the direct 2b-AGO interaction was not essential for the 2b suppression of posttranscriptional gene silencing (PTGS) and RNA-directed DNA methylation (RdDM) in vivo. Lastly, we found that the 2b-AGO interactions in vivo also required the nucleolar targeting of 2b and had the potential to redistribute both the 2b and AGO proteins in nucleus. These findings together suggest that 2b may suppress PTGS and RdDM in vivo by binding and sequestering siRNA and the long dsRNA precursor in a process that is facilitated by its interactions with AGOs in the nucleolus.
-
-2b: !interacts with! AGO1 
-2b: !interacts with! AGO4 
-2b: !localizes to! Nucleolus 
-dsRBD: !binds! dsRNA 
-33-residue region: !facilitates! 2b-AGO interaction 
-2b-AGO interaction: !redistributes! 2b and AGO proteins 
-2b: !sequesters! siRNA and long dsRNA precursor

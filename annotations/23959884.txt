@@ -1,8 +1,0 @@
-['23959884', 'The plant hormone salicylic acid (SA) plays critical roles in plant defense,  stress responses, and senescence. Although SA biosynthesis is well understood,  the pathways by which SA is catabolized remain elusive. Here we report the  identification and characterization of an SA 3-hydroxylase (S3H) involved in SA  catabolism during leaf senescence. S3H is associated with senescence and is  inducible by SA and is thus a key part of a negative feedback regulation system  of SA levels during senescence. The enzyme converts SA (with a Km of 58.29 microM) to  both 2,3-dihydroxybenzoic acid (2,3-DHBA) and 2,5-DHBA in vitro but only 2,3-DHBA  in vivo. The s3h knockout mutants fail to produce 2,3-DHBA sugar conjugates,  accumulate very high levels of SA and its sugar conjugates, and exhibit a  precocious senescence phenotype. Conversely, the gain-of-function lines contain  high levels of 2,3-DHBA sugar conjugates and extremely low levels of SA and its  sugar conjugates and display a significantly extended leaf longevity. This  research reveals an elegant SA catabolic mechanism by which plants regulate SA  levels by converting it to 2,3-DHBA to prevent SA overaccumulation. The research  also provides strong molecular genetic evidence for an important role of SA in  regulating the onset and rate of leaf senescence.', '2013 Sep 3', 'Proc Natl Acad Sci U S A', '10.1073/pnas.1302702110', 'Gan']
-
-SA: !induces! S3H 
-S3H: !converts! SA 
-S3H: !produces! 2,3-DHBA 
-s3h knockout mutants: !accumulate! SA 
-gain-of-function lines: !contain! 2,3-DHBA 
-SA: !regulates! onset and rate of leaf senescence

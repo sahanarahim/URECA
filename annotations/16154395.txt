@@ -1,8 +1,0 @@
-['16154395', 'In a search for a plant antimutator MutT protein, an Arabidopsis thaliana Nudix  hydrolase with homology to the mammalian GFG protein was expressed as a  hexahistidine fusion polypeptide in Escherichia coli and purified to homogeneity.  Unlike the GFG protein, the A. thaliana homolog could not complement the mutT  mutation in a MutT-deficient E. coli strain nor was it able to hydrolyze  8-oxo-dGTP, the main substrate of the MutT protein. Instead the recombinant  protein hydrolyzed a variety of nucleoside diphosphate derivatives showing a  preference for ADP-ribose, with Km and k(cat) values of 1.2 mM and 2.7 s(-1)  respectively. The products of ADP-ribose hydrolysis were AMP and  ribose-5-phosphate. The optimal activity was at alkaline pH (8.5) with Mg2+ (5  mM) ions as the cofactor. The protein exists as a dimmer in solution.', '2005 Sep 25', 'Biochim Biophys Acta', '10.1016/j.bbapap.2005.07.021', 'Kraszewska']
-
-Gene: !expresses! Nudix hydrolase 
-Nudix hydrolase: !hydrolyzes! ADP-ribose 
-ADP-ribose: !yields! AMP and ribose-5-phosphate 
-Nudix hydrolase: !requires! Mg2+ ions 
-Mg2+ ions: !acts as! cofactor 
-Nudix hydrolase: !exists as! dimmer in solution

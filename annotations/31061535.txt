@@ -1,6 +1,0 @@
-Communication between organelles and the nucleus is essential for fitness and survival. Retrograde signals are cues emitted from the organelles to regulate nuclear gene expression. GENOMES UNCOUPLED1 (GUN1), a protein of unknown function, has emerged as a central integrator, participating in multiple retrograde signalling pathways that collectively regulate the nuclear transcriptome. Here, we show that GUN1 regulates chloroplast protein import through interaction with the import-related chaperone cpHSC70-1. We demonstrated that overaccumulation of unimported precursor proteins (preproteins) in the cytosol causes a GUN phenotype in the wild-type background and enhances the GUN phenotype of the gun1 mutant. Furthermore, we identified the cytosolic HSP90 chaperone complex, induced by overaccumulated preproteins, as a central regulator of photosynthetic gene expression that determines the expression of the GUN phenotype. Taken together, our results suggest a model in which protein import capacity, folding stress and the cytosolic HSP90 complex control retrograde communication.
-
-GUN1: !interacts with! cpHSC70-1
-preproteins: !cause! GUN phenotype
-HSP90 complex: !regulates! photosynthetic gene expression
-GUN1: !determines! expression of GUN phenotype

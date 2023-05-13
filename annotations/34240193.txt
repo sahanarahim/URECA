@@ -1,9 +1,0 @@
-Coupling of post-Golgi and endocytic membrane transport ensures that the flow of materials to/from the plasma membrane (PM) is properly balanced. The mechanisms underlying the coordinated trafficking of PM proteins in plants, however, are not well understood. In plant cells, clathrin and its adaptor protein complexes, AP-2 and the TPLATE complex (TPC) at the PM, and AP-1 at the trans-Golgi network/early endosome (TGN/EE), function in clathrin-mediated endocytosis (CME) and post-Golgi trafficking. Here, we utilized mutants with defects in clathrin-dependent post-Golgi trafficking and CME, in combination with other cytological and pharmacological approaches, to further investigate the machinery behind the coordination of protein delivery and recycling to/from the TGN/EE and PM in Arabidopsis (Arabidopsis thaliana) root cells. In mutants with defective AP-2-/TPC-dependent CME, we determined that clathrin and AP-1 recruitment to the TGN/EE as well as exocytosis are significantly impaired. Likewise, defects in AP-1-dependent post-Golgi trafficking and pharmacological inhibition of exocytosis resulted in the reduced association of clathrin and AP-2/TPC subunits with the PM and a reduction in the internalization of cargoes via CME. Together, these results suggest that post-Golgi trafficking and CME are coupled via modulation of clathrin and adaptor protein complex recruitment to the TGN/EE and PM.
-
-clathrin: !recruits! AP-2/TPC
-AP-2/TPC: !mediates! CME
-clathrin: !recruits! AP-1
-AP-1: !mediates! post-Golgi trafficking
-clathrin: !modulates! AP-2/TPC recruitment to PM
-AP-1: !modulates! clathrin recruitment to TGN/EE
-exocytosis: !couples! post-Golgi trafficking and CME

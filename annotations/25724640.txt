@@ -1,8 +1,0 @@
-Although gene coevolution has been widely observed within individuals and between different organisms, rarely has this phenomenon been investigated within a phylogenetic framework. The Geraniaceae is an attractive system in which to study plastid-nuclear genome coevolution due to the highly elevated evolutionary rates in plastid genomes. In plants, the plastid-encoded RNA polymerase (PEP) is a protein complex composed of subunits encoded by both plastid (rpoA, rpoB, rpoC1, and rpoC2) and nuclear genes (sig1-6). We used transcriptome and genomic data for 27 species of Geraniales in a systematic evaluation of coevolution between genes encoding subunits of the PEP holoenzyme. We detected strong correlations of dN (nonsynonymous substitutions) but not dS (synonymous substitutions) within rpoB/sig1 and rpoC2/sig2, but not for other plastid/nuclear gene pairs, and identified the correlation of dN/dS ratio between rpoB/C1/C2 and sig1/5/6, rpoC1/C2 and sig2, and rpoB/C2 and sig3 genes. Correlated rates between interacting plastid and nuclear sequences across the Geraniales could result from plastid-nuclear genome coevolution. Analyses of coevolved amino acid positions suggest that structurally mediated coevolution is not the major driver of plastid-nuclear coevolution. The detection of strong correlation of evolutionary rates between SIG and RNAP genes suggests a plausible explanation for plastome-genome incompatibility in Geraniaceae.
-
-rpoB/sig1: !correlate! dN 
-rpoC2/sig2: !correlate! dN 
-rpoB/C1/C2/sig1/5/6: !correlate! dN/dS ratio 
-rpoC1/C2/sig2: !correlate! dN/dS ratio 
-rpoB/C2/sig3: !correlate! dN/dS ratio 
-structurally mediated coevolution: !not major driver! plastid-nuclear coevolution

@@ -1,8 +1,0 @@
-Improving nitrogen (N) use efficiency (NUE) to reduce the application of N fertilisers in a way that benefits the environment and reduces farmers' costs is an ongoing objective for sustainable wheat production. However, whether and how arbuscular mycorrhizal fungi (AMF) affect NUE in wheat is still not well explored. Three independent but complementary experiments were conducted to decipher the contribution of roots and AMF to the N uptake and utilisation efficiency in wheat. We show a temporal complementarity pattern between roots and AMF in shaping NUE of wheat. Pre-anthesis N uptake efficiency mainly depends on root functional traits, but the efficiency to utilise the N taken up during pre-anthesis for producing grains (E<sub>N,g</sub> ) is strongly affected by AMF, which might increase the uptake of phosphorus and thereby improve photosynthetic carbon assimilation. Root association with AMF reduced the N remobilisation efficiency in varieties with high E<sub>N,g</sub> ; whilst the overall grain N concentration increased, due to a large improvement in post-anthesis N uptake supported by AMF and/or other microbes. The findings provide evidence for the importance of managing AMF in agroecosystems, and an opportunity to tackle the contradiction between maximising grain yield and protein concentration in wheat breeding.
-
-root: !affects! Pre-anthesis N uptake efficiency 
-AMF: !affects! Efficiency to utilise N taken up during pre-anthesis for producing grains 
-root: !interacts with! AMF 
-AMF: !enhances! Uptake of phosphorus 
-AMF: !reduces! N remobilisation efficiency 
-AMF/other microbes: !increases! Overall grain N concentration

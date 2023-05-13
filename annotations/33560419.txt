@@ -1,8 +1,0 @@
-Nitrate (NO3-) and ammonium (NH4+) are major inorganic nitrogen (N) supplies for plants, but NH4+ as the sole or dominant N source causes growth inhibition in many plants, known as ammonium toxicity. Small amounts of NO3- can significantly mitigate ammonium toxicity, and the anion channel SLAC1 homolog 3 (SLAH3) is involved in this process, but the mechanistic detail of how SLAH3 regulates nitrate-dependent alleviation of ammonium toxicity is still largely unknown. In this study, we identified SnRK1.1, a central regulator involved in energy homeostasis, and various stress responses, as a SLAH3 interactor in Arabidopsis (Arabidopsis thaliana). Our results suggest that SNF1-related protein kinase 1 (SnRK1.1) functions as a negative regulator of SLAH3. Kinase assays indicate SnRK1.1 strongly phosphorylates the C-terminal of SLAH3 at the site S601. Under high-NH4+/low-pH condition, phospho-mimetic and phospho-dead mutations in SLAH3 S601 result in barely rescued phenotypes and fully complemented phenotypes in slah3. Furthermore, SnRK1.1 migrates from cytoplasm to nucleus under high-NH4+/low-pH conditions. The translocation of SnRK1.1 from cytosol to nucleus under high-ammonium stress releases the inhibition on SLAH3, which allows SLAH3-mediated NO3- efflux leading to alleviation of high-NH4+/low-pH stress. Our study reveals that the C-terminal phosphorylation also plays important role in SLAH3 regulation and provides additional insights into nitrate-dependent alleviation of ammonium toxicity in plants.
-
-SnRK1.1: !interacts with! SLAH3
-SLAH3: !phosphorylated by! SnRK1.1
-SnRK1.1: !migrates to! nucleus
-SnRK1.1: !releases inhibition on! SLAH3
-SLAH3: !mediates! NO3- efflux
-NO3-: !alleviates! ammonium toxicity

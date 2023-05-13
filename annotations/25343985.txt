@@ -1,7 +1,0 @@
-['25343985', 'Controlled stability of proteins is a highly efficient mechanism to direct  diverse processes in living cells. A key regulatory system for protein stability  is given by the ubiquitin proteasome pathway, which uses E3 ligases to mark  specific proteins for degradation. In this work MYB56 is identified as a novel  target of a CULLIN3 (CUL3)-based E3 ligase. Its stability depends on the presence  of MATH-BTB/POZ (BPM) proteins, which function as substrate adaptors to the E3  ligase. Genetic studies pointed out that MYB56 is a negative regulator of  flowering, while BPMs positively affect this developmental program. The  interaction between BPMs and MYB56 occurs at the promoter of FLOWERING LOCUS T  (FT), a key regulator in initiating flowering in Arabidopsis, and results in  instability of MYB56. Overall the work establishes MYB transcription factors as  substrates of BPM proteins, and provides novel information on components that  participate in controlling the flowering time point in plants.', '2014 Oct 24', 'Mol Plant', '10.1093/mp/ssu120', 'Hellmann']
-
-MYB56: !interacts with! BPM proteins
-BPM proteins: !affects! MYB56 stability
-MYB56: !represses! flowering
-BPM proteins: !enhances! flowering
-MYB56: !localizes to! FLOWERING LOCUS T (FT) promoter

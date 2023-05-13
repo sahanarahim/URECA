@@ -1,6 +1,0 @@
-Rice is a necessity for billions of people in the world, and rice disease control has been a major focus of research in the agricultural field. In this study, a new attention-enhanced DenseNet neural network model is proposed, which includes a lesion feature extractor by region of interest (ROI) extraction algorithm and a DenseNet classification model for accurate recognition of lesion feature extraction maps. It was found that the ROI extraction algorithm can highlight the lesion area of rice leaves, which makes the neural network classification model pay more attention to the lesion area. Compared with a single rice disease classification model, the classification model combined with the ROI extraction algorithm can improve the recognition accuracy of rice leaf disease identification, and the proposed model can achieve an accuracy of 96% for rice leaf disease identification.
-
-ROI extraction algorithm: !highlights! lesion area 
-lesion area: !makes neural network! pay more attention 
-combined classification model: !improves recognition accuracy! of rice leaf disease identification 
-proposed model: !achieves accuracy! of 96%

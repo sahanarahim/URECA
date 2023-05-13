@@ -1,7 +1,0 @@
-Building a cell plate during cytokinesis in plant cells requires the participation of a number of proteins in a multistep process. We previously identified phragmoplastin as a cell plate-specific protein involved in creating a tubulovesicular network at the cell plate. We report here the identification and characterization of a phragmoplastin-interacting protein, PHIP1, in Arabidopsis (Arabidopsis thaliana). It contains multiple functional motifs, including a lysine-rich domain, two RNA recognition motifs, and three CCHC-type zinc fingers. Polypeptides with similar motif structures were found only in plant protein databases, but not in the sequenced prokaryotic, fungal, and animal genomes, suggesting that PHIP1 represents a plant-specific RNA-binding protein. In addition to phragmoplastin, two Arabidopsis small GTP-binding proteins, Rop1 and Ran2, are also found to interact with PHIP1. The zinc fingers of PHIP1 were not required for its interaction with Rop1 and phragmoplastin, but they may participate in its binding with the Ran2 mRNA. Immunofluorescence, in situ RNA hybridization, and green fluorescent protein tagging experiments showed the association of PHIP1 with the forming cell plate during cytokinesis. Taken together, our data suggest that PHIP1 is a novel RNA-binding protein and may play a unique role in the polarized mRNA transport to the vicinity of the cell plate.
-
-phragmoplastin: !interacts with! PHIP1
-Rop1: !interacts with! PHIP1
-Ran2: !interacts with! PHIP1
-PHIP1: !localizes to! cell plate
-PHIP1: !binds! Ran2 mRNA

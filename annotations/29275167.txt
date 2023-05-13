@@ -1,9 +1,0 @@
-Abscisic acid (ABA) and brassinosteroid (BR) antagonistically regulate many aspects of plant growth and development. Previous physiological studies have revealed that the inhibition of BR signaling by ABA is largely dependent on ABI1 and ABI2. However, the genetic and molecular basis of how ABI1 and ABI2 are involved in inhibiting BR signaling remains unclear. Although it is known that in the BR signaling pathway the ABA-BR crosstalk occurs in the downstream of BR receptor complex but upstream of BIN2 kinase, a negative regulator of BR signaling, the component that acts as the hub to directly mediate their crosstalk remains a big mystery. Here, we found that ABI1 and ABI2 interact with and dephosphorylate BIN2 to regulate its activity toward the phosphorylation of BES1. By in vitro mimicking ABA signal transduction, we found that ABA can promote BIN2 phosphorylation by inhibiting ABI2 through ABA receptors. RNA-sequencing analysis further demonstrated that ABA inhibits BR signaling through the ABA primary signaling components, including its receptors and ABI2, and that ABA and GSK3s co-regulate a common set of stress-responsive genes. Because BIN2 can interact with and phosphorylate SnRK2s to activate its kinase activity, our study also reveals there is a module of PP2Cs-BIN2-SnRK2s in the ABA signaling pathway. Collectively, these findings provide significant insights into how plants balance growth and survival by coordinately regulating the growth-promoting signaling pathway and stress responses under abiotic stresses.
-
-ABI1: !interacts with! BIN2
-ABI2: !interacts with! BIN2
-ABA: !inhibits! ABI2
-ABA: !promotes! BIN2 phosphorylation
-ABA: !co-regulates! stress-responsive genes
-PP2Cs: !interacts with! BIN2
-BIN2: !interacts with! SnRK2s

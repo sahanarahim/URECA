@@ -1,8 +1,0 @@
-The salt tolerance of rice (Oryza sativa) correlates with the ability to exclude Na+ from the shoot and to maintain a low cellular Na+/K+ ratio. We have identified a rice plasma membrane Na+/H+ exchanger that, on the basis of genetic and biochemical criteria, is the functional homolog of the Arabidopsis (Arabidopsis thaliana) salt overly sensitive 1 (SOS1) protein. The rice transporter, denoted by OsSOS1, demonstrated a capacity for Na+/H+ exchange in plasma membrane vesicles of yeast (Saccharomyces cerevisiae) cells and reduced their net cellular Na+ content. The Arabidopsis protein kinase complex SOS2/SOS3, which positively controls the activity of AtSOS1, phosphorylated OsSOS1 and stimulated its activity in vivo and in vitro. Moreover, OsSOS1 suppressed the salt sensitivity of a sos1-1 mutant of Arabidopsis. These results represent the first molecular and biochemical characterization of a Na+ efflux protein from monocots. Putative rice homologs of the Arabidopsis protein kinase SOS2 and its Ca2+-dependent activator SOS3 were identified also. OsCIPK24 and OsCBL4 acted coordinately to activate OsSOS1 in yeast cells and they could be exchanged with their Arabidopsis counterpart to form heterologous protein kinase modules that activated both OsSOS1 and AtSOS1 and suppressed the salt sensitivity of sos2 and sos3 mutants of Arabidopsis. These results demonstrate that the SOS salt tolerance pathway operates in cereals and evidences a high degree of structural conservation among the SOS proteins from dicots and monocots.
-
-OsSOS1: !exchanges! Na+/H+ 
-OsSOS1: !phosphorylated by! SOS2/SOS3 
-OsCIPK24/OsCBL4: !activate! OsSOS1 
-OsCIPK24/OsCBL4: !activate! AtSOS1 
-AtSOS1: !suppressed by! OsSOS1 
-SOS2/SOS3: !positively control! AtSOS1

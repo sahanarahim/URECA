@@ -1,9 +1,0 @@
-Plants have powerful regenerative abilities that allow them to recover from damage and survive in nature. De novo organogenesis is one type of plant regeneration in which adventitious roots and shoots are produced from wounded and detached organs. By studying de novo root organogenesis using leaf explants of Arabidopsis (Arabidopsis thaliana), we previously suggested that wounding is the first event that provides signals to trigger the whole regenerative process. However, our knowledge of the role of wounding in regeneration remains limited. In this study, we show that wounding not only triggers the auxin-mediated fate transition of regeneration-competent cells, but also induces the NAC pathway for root tip emergence. The NAC1 transcription factor gene was specifically expressed in response to wounding in the leaf explant, but not in the wounded leaf residue of the source plant. Inhibition of the NAC1 pathway severely affected the emergence of adventitious root tips. However, the NAC1 pathway functioned independently of auxin-mediated cell fate transition and regulates expression of CEP genes, which encode proteins that might have a role in degradation of extensin proteins in the cell wall. Overall, our results suggest that wounding has multiple roles in de novo root organogenesis and that NAC1 acts as one downstream branch in regulating the cellular environment for organ emergence.
-
-wounding: !triggers! auxin-mediated fate transition 
-wounding: !induces! NAC pathway 
-NAC1: !specifically expressed in response to! wounding 
-NAC1: !inhibits! adventitious root tip emergence 
-NAC1: !functions independently of! auxin-mediated cell fate transition 
-NAC1: !regulates expression of! CEP genes 
-CEP genes: !encode proteins that! might have a role in degradation of extensin proteins

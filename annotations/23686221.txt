@@ -1,9 +1,0 @@
-['23686221', 'Arabidopsis Ruptured Pollen Grain-1 (RPG1/Sweet8) is a member of the MtN3/saliva  protein family that functions as a sugar transporter. The rpg1 mutant shows  defective exine pattern formation. In this study, transmission electron  microscopy (TEM) observations showed that much less primexine was deposited in  rpg1 tetrads. Furthermore, microspore membrane undulation was abnormal, and  sporopollenin accumulation was also defective. This suggests that a reduced  primexine deposition in rpg1 leads to abnormal membrane undulation that affects  exine pattern formation. Chemical staining revealed thinning of the callose wall  of rpg1, as well as significantly reduced expression of Callose synthase-5  (CalS5) in rpg1. The fertility of the rpg1 mutant could be partly restored at  late reproductive stages, potentially complemented in part by RPG2, another  member of the MtN3/saliva family, which is expressed in the anther during  microsporogenesis. The double mutant, rpg1rpg2, was almost sterile and was not  restored during late reproduction. These results suggest that RPG1 and RPG2 are  involved in primexine deposition and therefore pollen wall pattern formation.', '2013 Jun', 'Plant Reprod', '10.1007/s00497-012-0208-1', 'Yang']
-
-RPG1: !affects! exine pattern formation
-RPG1: !reduces! primexine deposition
-RPG1: !thins! callose wall
-RPG1: !reduces! CalS5 expression
-RPG2: !complements! RPG1
-RPG2: !restores! fertility
-rpg1rpg2: !is almost sterile!

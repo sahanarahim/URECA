@@ -1,7 +1,0 @@
-['25804536', 'Most glycosylation reactions require activated glycosyl donors in the form of  nucleotide sugars to drive processes such as posttranslational modifications and  polysaccharide biosynthesis. Most plant cell wall polysaccharides are  biosynthesized in the Golgi apparatus from cytosolic-derived nucleotide sugars,  which are actively transferred into the Golgi lumen by nucleotide sugar  transporters (NSTs). An exception is UDP-xylose, which is biosynthesized in both  the cytosol and the Golgi lumen by a family of UDP-xylose synthases. The  NST-based transport of UDP-xylose into the Golgi lumen would appear to be  redundant. However, employing a recently developed approach, we identified three  UDP-xylose transporters in the Arabidopsis thaliana NST family and designated  them UDP-XYLOSE TRANSPORTER1 (UXT1) to UXT3. All three transporters localize to  the Golgi apparatus, and UXT1 also localizes to the endoplasmic reticulum.  Mutants in UXT1 exhibit  approximately 30% reduction in xylose in stem cell walls. These  findings support the importance of the cytosolic UDP-xylose pool and UDP-xylose  transporters in cell wall biosynthesis.', '2015 Apr', 'Plant Cell', '10.1105/tpc.114.133827', 'Scheller']
-
-NSTs: !transport! UDP-xylose 
-UXT1-3: !localize to! Golgi apparatus 
-UXT1: !localize to! endoplasmic reticulum 
-UXT1 mutants: !exhibit reduced! xylose in stem cell walls 
-UDP-xylose pool: !important for! cell wall biosynthesis

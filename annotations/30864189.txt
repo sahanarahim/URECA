@@ -1,8 +1,0 @@
-The photosynthetic electron transport chain (PETC) provides energy and redox equivalents for carbon fixation by the Calvin-Benson-Bassham (CBB) cycle. Both of these processes have been thoroughly investigated and the underlying molecular mechanisms are well known. However, it is far from understood by which mechanisms it is ensured that energy and redox supply by photosynthesis matches the demand of the downstream processes. Here, we deliver a theoretical analysis to quantitatively study the supply-demand regulation in photosynthesis. For this, we connect two previously developed models, one describing the PETC, originally developed to study non-photochemical quenching, and one providing a dynamic description of the photosynthetic carbon fixation in C3 plants, the CBB Cycle. The merged model explains how a tight regulation of supply and demand reactions leads to efficient carbon fixation. The model further illustrates that a stand-by mode is necessary in the dark to ensure that the carbon fixation cycle can be restarted after dark-light transitions, and it supports hypotheses, which reactions are responsible to generate such mode in vivo.
-
-PETC: !provides! energy and redox equivalents 
-CBB Cycle: !uses! energy and redox equivalents 
-PETC: !regulated by! supply-demand reactions 
-CBB Cycle: !regulated by! supply-demand reactions 
-stand-by mode: !ensures! restart of carbon fixation cycle 
-reactions: !generate! stand-by mode

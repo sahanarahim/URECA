@@ -1,9 +1,0 @@
-['27583367', 'Reactive oxygen species (ROS) are recognized as important regulators of cell  division and differentiation. The Arabidopsis thaliana P-loop NTPase encoded by  APP1 affects root stem cell niche identity through its control of local ROS  homeostasis. The disruption of APP1 is accompanied by a reduction in ROS level, a  rise in the rate of cell division in the quiescent center (QC) and the promotion  of root distal stem cell (DSC) differentiation. Both the higher level of ROS  induced in the app1 mutant by exposure to methyl viologen (MV), and treatment  with hydrogen peroxide (H2O2) rescued the mutant phenotype, implying that both  the increased rate of cell division in the QC and the enhancement in root DSC  differentiation can be attributed to a low level of ROS. APP1 is expressed in the  root apical meristem cell mitochondria, and its product is associated with ATP  hydrolase activity. The key transcription factors, which are defining root distal  stem niche, such as SCARECROW (SCR) and SHORT ROOT (SHR) are both significantly  down-regulated at both the transcriptional and protein level in the app1 mutant,  indicating that SHR and SCR are important downstream targets of APP1-regulated  ROS signaling to control the identity of root QC and DSCs.', '2016 Sep', 'PLoS Genet', '10.1371/journal.pgen.1006175', 'Ding']
-
-APP1: !affects! ROS homeostasis
-ROS: !regulates! cell division and differentiation
-APP1: !promotes! root DSC differentiation
-MV/H2O2: !rescue! app1 mutant phenotype
-APP1: !expressed in! root apical meristem cell mitochondria
-APP1: !associated with! ATP hydrolase activity
-SHR/SCR: !down-regulated by! APP1-regulated ROS signaling

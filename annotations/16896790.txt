@@ -1,9 +1,0 @@
-Chlamydomonas reinhardtii Dangeard generates photoreceptor currents (PCs) upon light excitation. These currents play a key role in the signal transduction chain for photomotility responses. We have previously found that inhibition of PCs by tryptone occurs only in gametes that display chemotaxis toward this agent, and is not observed in chemotactically insensitive vegetative cells. Here we show that the sensitivity to tryptone is characteristic of gametes of both mating types, and examine the influence of gamete mating on PCs and their sensitivity to tryptone. The amplitude of PCs increases after cell fusion, but the sensitivity of these currents to tryptone decreases upon flagellar adhesion and/or an increase in the intracellular cAMP concentration. Net chemotaxis toward tryptone is reduced in young zygotes compared to gametes. We conclude that gamete mating leads to rapid inactivation of a gamete-specific chemosensory system.
-
-Gene: !affects! PCs
-PCs: !inhibited by! tryptone
-Gametes: !sensitive to! tryptone
-Cell fusion: !increases! PCs amplitude
-Flagellar adhesion: !decreases! sensitivity to tryptone
-cAMP concentration: !decreases! sensitivity to tryptone
-Young zygotes: !reduced chemotaxis towards! tryptone

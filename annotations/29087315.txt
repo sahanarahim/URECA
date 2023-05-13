@@ -1,9 +1,0 @@
-CONSTITUTIVE PHOTOMORPHOGENIC 1 (COP1), a well-known E3 ubiquitin ligase, functions as a central regulator of plant growth and photomorphogenic development in plants, including hypocotyl elongation. It has been well-established that, in darkness, COP1 targets many photomorphogenesis-promoting factors for ubiquitination and degradation in the nucleus. However, increasing evidence has shown that a proportion of COP1 is also localized outside the nucleus in dark-grown seedlings, but the physiological function of this localization remains largely unclear. In this study, we demonstrate that COP1 directly targets and mediates the degradation of WAVE-DAMPENED 2-LIKE 3 (WDL3) protein, a member of the microtubule-associated protein (MAP) WVD2/WDL family involved in regulating hypocotyl cell elongation of <i>Arabidopsis</i> seedlings. We show that COP1 interacts with WDL3 in vivo in a dark-dependent manner at cortical microtubules. Moreover, our data indicate that COP1 directly ubiquitinates WDL3 in vitro and that WDL3 protein is degraded in WT seedlings but is abundant in the <i>cop1</i> mutant in the dark. Consistently, introduction of the <i>wdl3</i> mutation weakened, whereas overexpression of <i>WDL3</i> enhanced, the short-hypocotyl phenotype of <i>cop1</i> mutant in darkness. Together, this study reveals a function of COP1 in regulating the protein turnover of a cytosol-localized MAP in etiolated hypocotyls, thus providing insights into COP1-mediated degradation of downstream factors to control seedling photomorphogenesis.
-
-COP1: !targets! WDL3
-COP1: !interacts with! WDL3
-COP1: !ubiquitinates! WDL3
-COP1: !degrades! WDL3
-WDL3: !regulates! hypocotyl cell elongation
-WDL3: !weakens! short-hypocotyl phenotype of cop1 mutant
-WDL3: !enhances! short-hypocotyl phenotype of cop1 mutant

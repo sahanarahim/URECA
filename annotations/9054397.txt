@@ -1,7 +1,0 @@
-['9054397', 'A novel plant phospholipase D (PLD; EC 3.1.4.4) activity, which is dependent on  phosphatidylinositol 4,5-bisphosphate (PIP2) and nanomolar concentrations of  calcium, has been identified in Arabidopsis. This report describes the cloning,  expression, and characterization of an Arabidopsis cDNA that encodes this PLD. We  have designated names of PLDbeta for this PIP2-dependent PLD and PLDalpha for the  previously characterized PIP2-independent PLD that requires millimolar Ca2+ for  optimal activity. The PLDbeta cDNA contains an open reading frame of 2904  nucleotides coding for a 968-amino acid protein of 108,575 daltons. Expression of  this PLDbeta cDNA clone in Escherichia coli results in the accumulation of a  functional PLD having PLDbeta, but not PLDalpha, activity. The activity of the  expressed PLDbeta is dependent on PIP2 and submicromolar amounts of Ca2+,  inhibited by neomycin, and stimulated by a soluble factor from plant extracts.  Sequence analysis reveals that PLDbeta is evolutionarily divergent from PLDalpha  and that its N terminus contains a regulatory Ca2+-dependent phospholipid-binding  (C2) domain that is found in a number of signal transducing and membrane  trafficking proteins.', '1997 Mar 14', 'J Biol Chem', '10.1074/jbc.272.11.7055', 'Wang']
-
-PLDbeta: !dependent on! PIP2 
-PLDbeta: !inhibited by! neomycin 
-PLDbeta: !stimulated by! soluble factor 
-PLDbeta: !evolutionarily divergent from! PLDalpha 
-PLDbeta: !contains! C2 domain

@@ -1,9 +1,0 @@
-Arabidopsis transcriptional factors LEAFY COTYLEDON1 (LEC1), LEAFY COTYLEDON2 (LEC2), FUSCA3 (FUS3), ABSCISIC ACID3 (ABI3), and ABSCISIC ACID5 (ABI5) are known to regulate multiple aspects of seed development. In an attempt to understand the developmental control of storage product accumulation, we observed the expression time course of the five transcripts. The sequential expression of these factors during seed fill suggests differentiation of their normal responsibilities. By extending the expression periods of the two early genes LEC1 and LEC2 in transgenic seeds, we demonstrated that the subsequent timing of FUS3, ABI3, and ABI5 transcripts depends on LEC1 and LEC2. Because a delayed onset or reduced level of FUS3 mRNA coincided with reduction of seed oil content in the transgenic seeds, the role of FUS3 in oil deposition was further examined. Analysis of published seed transcriptome data indicated that FUS3 transcript increased together with nearly all the plastidial fatty acid biosynthetic transcripts during development. The ability of FUS3 to rapidly induce fatty acid biosynthetic gene expression was confirmed using transgenic Arabidopsis seedlings expressing a dexamethasone (DEX)-inducible FUS3 and Arabidopsis mesophyll protoplasts transiently expressing the FUS3 gene. By accommodating the current evidence, we propose a hierarchical architecture of the transcriptional network in Arabidopsis seeds in which the oil biosynthetic pathway is integrated through the master transcriptional factor FUS3.
-
-LEC1: !regulates! FUS3
-LEC2: !regulates! FUS3
-FUS3: !induces! fatty acid biosynthetic gene expression
-ABI3: !depends on! LEC1 & LEC2
-ABI5: !depends on! LEC1 & LEC2
-FUS3: !correlates with! seed oil content
-FUS3: !integrates! oil biosynthetic pathway

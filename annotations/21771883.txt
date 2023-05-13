@@ -1,9 +1,0 @@
-['21771883', 'Two distinct pathways for meiotic crossover formation coexist in most eukaryotes.  The Arabidopsis SHOC1 protein is required for class I crossovers and shows  sequence similarity with the XPF endonuclease family. Active XPF endonucleases  form a heterodimer with ERCC1 proteins. Here, we show that PTD, an ERCC1-like  protein, is required for class-I-interfering crossovers along with SHOC1, MSH4,  MSH5, MER3 and MLH3. SHOC1 interacts with PTD in a two-hybrid assay, through its  XPF-like nuclease-(HhH)(2) domain. We propose that a XPF-ERCC1-like heterodimer,  represented by SHOC1 and PTD in Arabidopsis, involving Zip2 in Saccharomyces  cerevisiae and C9orf84 in human, is required for formation of class I crossovers.', '2011 Aug 15', 'J Cell Sci', '10.1242/jcs.088229', 'Mercier']
-
-SHOC1: !interacts with! PTD
-MSH4: !interacts with! MSH5
-MER3: !interacts with! MLH3
-SHOC1: !forms heterodimer with! ERCC1
-PTD: !forms heterodimer with! SHOC1
-Zip2: !forms heterodimer with! ERCC1
-C9orf84: !forms heterodimer with! ERCC1

@@ -1,8 +1,0 @@
-['12456655', 'The Arabidopsis genome contains 20 genes encoding mitogen-activated protein  kinases (MAPKs), which drastically outnumbers genes for their negative  regulators, MAP kinase phosphatases (MKPs) (five at most). This contrasts sharply  with genomes of other eukaryotes where the number of MAPKs and MKPs is  approximately equal. MKPs may therefore play an important role in signal  integration in plants, through concerted regulation of several MAPKs. Our  previous studies identified Arabidopsis MKP1 and showed that its deficiency in  the mkp1 mutant results in plant hypersensitivity to genotoxic stress. Here, we  identify a set of MAPKs that interact with MKP1, and show that the activity level  of one of these, MPK6, is regulated by MKP1 in vivo. Moreover, using expression  profiling, we identified a specific group of genes that probably represent  targets of MKP1 regulation. Surprisingly, the identity of these genes and  interacting MAPKs suggested involvement of MKP1 in salt stress responses. Indeed,  mkp1 plants have increased resistance to salinity. Thus MKP1 apparently plays a  pivotal role in the integration and fine-tuning of plant responses to various  environmental challenges.', '2002 Dec 2', 'EMBO J', '10.1093/emboj/cdf646', 'Paszkowski']
-
-MAPKs: !outnumber! MKPs
-MKPs: !regulate! MAPKs
-MKP1: !interacts with! MAPKs
-MKP1: !regulates! MPK6
-MKP1: !regulates! genes
-MKP1: !affects! salt stress responses

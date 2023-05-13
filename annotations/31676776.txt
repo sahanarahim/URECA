@@ -1,8 +1,0 @@
-The role of trees in the nitrous oxide (N<sub>2</sub>O) balance of boreal forests has been neglected despite evidence suggesting their substantial contribution. We measured seasonal changes in N<sub>2</sub>O fluxes from soil and stems of boreal trees in Finland, showing clear seasonality in stem N<sub>2</sub>O flux following tree physiological activity, particularly processes of CO<sub>2</sub> uptake and release. Stem N<sub>2</sub>O emissions peak during the vegetation season, decrease rapidly in October, and remain low but significant to the annual totals during winter dormancy. Trees growing on dry soils even turn to consumption of N<sub>2</sub>O from the atmosphere during dormancy, thereby reducing their overall N<sub>2</sub>O emissions. At an annual scale, pine, spruce and birch are net N<sub>2</sub>O sources, with spruce being the strongest emitter. Boreal trees thus markedly contribute to the seasonal dynamics of ecosystem N<sub>2</sub>O exchange, and their species-specific contribution should be included into forest emission inventories.
-
-Tree: !emits! N<sub>2</sub>O
-CO<sub>2</sub>: !processed by! Tree
-Tree: !contributes to! Seasonal Dynamics
-Tree: !net source of! N<sub>2</sub>O
-Tree: !consumes! N<sub>2</sub>O
-Pine/Spruce/Birch: !species-specific contribution to! Forest Emission Inventories

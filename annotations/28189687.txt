@@ -1,7 +1,0 @@
-['28189687', '14-3-3 proteins regulate numerous cellular processes through interaction with  their target proteins in a phosphorylation dependent manner. Although proteins  that are regulated by 14-3-3s have been studied, the regulatory mechanism of  14-3-3s is poorly understood. In the present study, F-box proteins, a component  of Skp1-Cullin-F-box E3 ubiquitin ligase, were identified as 14-3-3 targets using  yeast two-hybrid screening. Among them, AtSKIP18 and AtSKIP31, were shown to  mediate the degradation of Arabidopsis 14-3-3s. Mutational analyses of AtSKIP18  and AtSKIP31 indicated that the phosphorylation of AtSKIPs is critical for  interaction and degradation of 14-3-3s. The loss-of-function mutation in AtSKIP31  resulted in enhanced primary root growth under nitrogen deficient conditions.  These findings suggest that AtSKIP31 regulates the primary root growth in  nitrogen deficiency via degrading 14-3-3s.', '2017 Mar 25', 'Biochem Biophys Res Commun', '10.1016/j.bbrc.2017.02.046', 'Shin']
-
-14-3-3 proteins: !interact with! F-box proteins 
-AtSKIP18: !interacts with! 14-3-3s 
-AtSKIP31: !interacts with! 14-3-3s 
-AtSKIP31: !degrades! 14-3-3s 
-AtSKIP31: !regulates! primary root growth

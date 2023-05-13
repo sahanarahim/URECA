@@ -1,8 +1,0 @@
-Receptor-like proteins (RLPs) lacking the cytoplasmic kinase domain play crucial roles in plant growth, development and immunity. However, what remains largely elusive is whether RLP protein levels are fine-tuned by E3 ubiquitin ligases, which are employed by receptor-like kinases for signaling attenuation. Nicotiana benthamiana NbEIX2 is a leucine-rich repeat RLP (LRR-RLP) that mediates fungal xylanase-triggered immunity. Here we show that NbEIX2 associates with an F-box protein NbPFB1, which promotes NbEIX2 degradation likely by forming an SCF E3 ubiquitin ligase complex, and negatively regulates NbEIX2-mediated immune responses. NbEIX2 undergoes ubiquitination and proteasomal degradation in planta. Interestingly, NbEIX2 without its cytoplasmic tail is still associated with and destabilized by NbPFB1. In addition, NbPFB1 also associates with and destabilizes NbSOBIR1, a co-receptor of LRR-RLPs, and fails to promote NbEIX2 degradation in the sobir1 mutant. Our findings reveal a distinct model of NbEIX2 degradation, in which an F-box protein destabilizes NbEIX2 indirectly in a SOBIR1-dependent manner.
-
-NbEIX2: !associates with! NbPFB1 
-NbPFB1: !promotes degradation of! NbEIX2 
-NbEIX2: !undergoes ubiquitination and proteasomal degradation! in planta 
-NbPFB1: !destabilizes! NbEIX2 
-NbPFB1: !destabilizes! NbSOBIR1 
-NbPFB1: !fails to promote degradation of! NbEIX2 in sobir1 mutant

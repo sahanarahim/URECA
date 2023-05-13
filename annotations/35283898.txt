@@ -1,8 +1,0 @@
-Successfully integrating transcriptomic experiments is a challenging task with the ultimate goal of analyzing gene expression data in the broader context of all available measurements, all from a single point of access. In its second major release VESPUCCI, the integrated database of gene expression data for grapevine, has been updated to be FAIR-compliant, employing standards and created with open-source technologies. It includes all public grapevine gene expression experiments from both microarray and RNA-seq platforms. Transcriptomic data can be accessed in multiple ways through the newly developed COMPASS GraphQL interface, while the expression values are normalized using different methodologies to flexibly satisfy different analysis requirements. Sample annotations are manually curated and use standard formats and ontologies. The updated version of VESPUCCI provides easy querying and analyzing of integrated grapevine gene expression (meta)data and can be seamlessly embedded in any analysis workflow or tools. VESPUCCI is freely accessible and offers several ways of interaction, depending on the specific goals and purposes and/or user expertise; an overview can be found at https://vespucci.readthedocs.io/.
-
-Gene: !affects! Expression 
-Gene: !localizes to! VESPUCCI 
-Gene: !interacts with! RNA-seq Platforms 
-Gene: !enhances! COMPASS GraphQL Interface 
-Gene: !represses! Sample Annotations 
-Gene: !synthesizes! Analysis Workflow

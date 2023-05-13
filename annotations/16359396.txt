@@ -1,8 +1,0 @@
-In vivo microscopy generates images that contain complex information on the dynamic behaviour of three-dimensional (3D) objects. As a result, adapted mathematical and computational tools are required to help in their interpretation. Ideally, a complete software chain to study the dynamics of a complex 3D object should include: (i) the acquisition, (ii) the preprocessing and (iii) segmentation of the images, followed by (iv) a reconstruction in time and space and (v) the final quantitative analysis. Here, we have developed such a protocol to study cell dynamics at the shoot apical meristem in Arabidopsis. The protocol uses serial optical sections made with the confocal microscope. It includes specially designed algorithms to automate the identification of cell lineage and to analyse the quantitative behaviour of the meristem surface.
-
-Gene: !affects! Cell Dynamics 
-Gene: !localizes to! Shoot Apical Meristem 
-Gene: !interacts with! Confocal Microscope 
-Gene: !enhances! Serial Optical Sections 
-Gene: !represses! Preprocessing 
-Gene: !synthesizes! Quantitative Analysis

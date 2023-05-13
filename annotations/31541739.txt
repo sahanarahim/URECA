@@ -1,9 +1,0 @@
-['31541739', 'Pollen tube growth is crucial for successful fertilization. In Arabidopsis  thaliana, the ANXUR (ANX)/BUPS receptor kinase complex controls and maintains  pollen tube growth in response to autocrine rapid alkalinization factor 4/19  (RALF4/19) signaling; however, the molecular and cellular mechanisms underlying  the ANX/BUPS-mediated regulation of pollen tube growth remain unclear. In this  study, we found that pollen-specific LORELEI-like GPI-anchored proteins 2 and 3  (LLG2/3) promote pollen tube growth in vitro and in vivo. LLG2/3 interacte with  ANX/BUPS in a RALF4-concentration-dependent manner, suggesting that ANX/BUPS and  LLG2/3 might form a receptor-coreceptor complex for perceiving RALF peptide  signals. Disruption of the ANX/BUPS-LLG2/3 interaction led to the cytoplasmic  retention of ANX1/2, in either llg2/3 knockdown mutants or in anx1/2 mutants  lacking the J region, which mediates the ANX/BUPS-LLG2/3 interaction. Moreover,  we found that RALF4 induced the production of reactive oxygen species (ROS),  which stimulate pollen tube growth and reduce pollen burst rate. ROS levels are  reduced in the pollen tubes of LLG2/3 RNAi lines, and application of exogenous  H(2)O(2) could partially rescue the defective pollen tube growth of LLG2/3 RNAi  lines. Taken together, our study identifies LLG2/3 as novel regulatory components  of pollen tube growth, and shows that they chaperone ANX/BUPS for secretion to  the apical plasma membrane of pollen tube and act as coreceptors of ANX/BUPS in  the activation of ROS production for promoting pollen tube growth.', '2019 Dec 2', 'Mol Plant', '10.1016/j.molp.2019.09.004', 'Li']
-
-ANX/BUPS: !interacts with! LLG2/3 
-RALF4: !induces! ROS production 
-LLG2/3: !promotes! pollen tube growth 
-LLG2/3: !chaperones! ANX/BUPS 
-ANX1/2: !retained in! cytoplasm 
-ROS: !stimulates! pollen tube growth 
-H2O2: !rescues! defective pollen tube growth

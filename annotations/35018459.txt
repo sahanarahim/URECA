@@ -1,8 +1,0 @@
-Low temperature causes poor coloration of strawberry (Fragaria sp.) fruits, thus greatly reducing their commercial value. Strawberry fruits accumulate anthocyanins during ripening, but how low temperature modulates anthocyanin accumulation in plants remains largely unknown. We identified MITOGEN-ACTIVATED PROTEIN KINASE3 (FvMAPK3) as an important negative regulator of anthocyanin accumulation that mediates the poor coloration of strawberry fruits in response to low temperature. FvMAPK3 activity was itself induced by low temperature, leading to the repression of anthocyanin accumulation via two mechanisms. Activated FvMAPK3 acted as the downstream target of MAPK KINASE4 (FvMKK4) and SUCROSE NONFERMENTING1-RELATED KINASE2.6 (FvSnRK2.6) to phosphorylate the transcription factor FvMYB10 and reduce its transcriptional activity. In parallel, FvMAPK3 phosphorylated CHALCONE SYNTHASE1 (FvCHS1) to enhance its proteasome-mediated degradation. These results not only provide an important reference to elucidate the molecular mechanisms underlying low-temperature-mediated repression of anthocyanin accumulation in plants, but also offer valuable candidate genes for generating strawberry varieties with high tolerance to low temperature and good fruit quality.
-
-FvMKK4: !activates! FvMAPK3
-FvSnRK2.6: !activates! FvMAPK3
-FvMAPK3: !represses! anthocyanin accumulation
-FvMAPK3: !phosphorylates! FvMYB10
-FvMAPK3: !phosphorylates! FvCHS1
-FvCHS1: !degraded by! proteasome

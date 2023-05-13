@@ -1,7 +1,0 @@
-['12897256', 'Although calcium is a critical component in the signal transduction pathways that  lead to stress gene expression in higher plants, little is known about the  molecular mechanism underlying calcium function. It is believed that cellular  calcium changes are perceived by sensor molecules, including calcium binding  proteins. The calcineurin B-like (CBL) protein family represents a unique group  of calcium sensors in plants. A member of the family, CBL1, is highly inducible  by multiple stress signals, implicating CBL1 in stress response pathways. When  the CBL1 protein level was increased in transgenic Arabidopsis plants, it altered  the stress response pathways in these plants. Although drought-induced gene  expression was enhanced, gene induction by cold was inhibited. In addition,  CBL1-overexpressing plants showed enhanced tolerance to salt and drought but  reduced tolerance to freezing. By contrast, cbl1 null mutant plants showed  enhanced cold induction and reduced drought induction of stress genes. The mutant  plants displayed less tolerance to salt and drought but enhanced tolerance to  freezing. These studies suggest that CBL1 functions as a positive regulator of  salt and drought responses and a negative regulator of cold response in plants.', '2003 Aug', 'Plant Cell', '10.1105/tpc.012393', 'Luan']
-
-CBL1: !affects! Stress response pathways
-CBL1: !enhances! Drought tolerance
-CBL1: !inhibits! Cold induction
-cbl1 null mutant: !enhances! Cold induction
-cbl1 null mutant: !reduces! Drought tolerance

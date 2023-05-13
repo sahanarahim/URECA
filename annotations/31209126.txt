@@ -1,9 +1,0 @@
-WRINKLED1 (WRI1) is a transcriptional activator that binds to a conserved sequence (designated as AW box) boxes in the promoters of many genes from central metabolism and fatty acid (FA) synthesis, resulting in their transcription. BIOTIN ATTACHMENT DOMAIN-CONTAINING (BADC) proteins lack a biotin-attachment domain and are therefore inactive, but in the presence of excess FA, BADC1 and BADC3 are primarily responsible for the observed long-term irreversible inhibition of ACETYL-COA CARBOXYLASE, and consequently FA synthesis. Here, we tested the interaction of WRI1 with <i>BADC</i> genes in Arabidopsis (<i>Arabidopsis thaliana</i>) and found purified WRI1 bound with high affinity to canonical AW boxes from the promoters of all three <i>BADC</i> genes. Consistent with this observation, both expression of <i>BADC1</i>, <i>BADC2</i>, and <i>BADC3</i> genes and BADC1 protein levels were reduced in <i>wri1-1</i> relative to the wild type, and elevated upon <i>WRI1</i> overexpression. The double mutant <i>badc1 badc2</i> phenocopied <i>wri1-1</i> with respect to both reduction in root length and elevation of indole-3-acetic acid-Asp levels relative to the wild type. Overexpression of <i>BADC1</i> in <i>wri1-1</i> decreased indole-3-acetic acid-Asp content and partially rescued its short-root phenotype, demonstrating a role for BADCs in seedling establishment. That WRI1 positively regulates genes encoding both FA synthesis and BADC proteins (i.e. conditional inhibitors of FA synthesis), represents a coordinated mechanism to achieve lipid homeostasis in which plants couple the transcription of their FA synthetic capacity with their capacity to biochemically downregulate it.
-
-WRI1: !binds to! AW box
-WRI1: !regulates! BADC genes
-BADC1/3: !inhibit! ACETYL-COA CARBOXYLASE
-WRI1: !regulates! BADC1/2/3
-BADC1/2: !affect! root length
-BADC1: !affects! indole-3-acetic acid-Asp levels
-WRI1: !coordinates! FA synthesis and BADCs

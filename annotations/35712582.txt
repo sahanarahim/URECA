@@ -1,7 +1,0 @@
-Plant resistance proteins (R proteins) recognize effector proteins secreted by pathogenic microorganisms and trigger an immune response against pathogenic microbial infestation. Accurate identification of plant R proteins is an important research topic in plant pathology. Plant R protein prediction has achieved many research results. Recently, some machine learning-based methods have emerged to identify plant R proteins. Still, most of them only rely on protein sequence features, which ignore inter-amino acid features, thus limiting the further improvement of plant R protein prediction performance. In this manuscript, we propose a method called StackRPred to predict plant R proteins. Specifically, the StackRPred first obtains plant R protein feature information from the pairwise energy content of residues; then, the obtained feature information is fed into the stacking framework for training to construct a prediction model for plant R proteins. The results of both the five-fold cross-validation and independent test validation show that our proposed method outperforms other state-of-the-art methods, indicating that StackRPred is an effective tool for predicting plant R proteins. It is expected to bring some favorable contribution to the study of plant R proteins.
-
-R proteins: !recognize! effector proteins 
-StackRPred: !obtains! feature information 
-feature information: !fed into! stacking framework 
-stacking framework: !constructs! prediction model 
-prediction model: !outperforms! state-of-the-art methods

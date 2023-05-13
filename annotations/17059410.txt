@@ -1,8 +1,0 @@
-['17059410', 'Plants sense pathogens through both pathogen-associated molecular patterns and  recognition of race-specific virulence factors, which induce basal defence or an  accelerated defence (often manifest in the form of local cell death),  respectively. A mitogen-activated protein kinase (MAPK) module in Arabidopsis was  previously proposed to signal from perception of the bacterial elicitor flagellin  to the activation of basal defence-related genes. Here, we present evidence for a  parallel MAPK-signalling pathway involved in the response to flg22, a peptide  corresponding to the most conserved domain of flagellin. The endogenous  Arabidopsis MAP kinase kinase MKK1 is activated in cells treated with flg22,  phosphorylates the MAPK MPK4 in vitro, and activates it in vivo in protoplasts.  In mkk1 mutant plants, the activation by flg22 of MPK4 and two other  flg22-induced MAPKs (MPK3 and MPK6) is impaired. In the mkk1 mutant, a battery of  both flg22-induced and flg22-repressed genes show altered expression, indicating  that MKK1 negatively regulates the activity of flagellin-responsive genes.  Intriguingly, in contrast to the mpk4 mutant, mkk1 shows no morphological  anomalies and is compromised in resistance to both virulent and avirulent  Pseudomonas syringae strains. Thus, the MKK1 signalling pathway modulates the  expression of genes responding to elicitors and plays an important role in  pathogen defence.', '2006 Nov', 'Plant J', '10.1111/j.1365-313X.2006.02888.x', 'Bogre']
-
-MKK1: !activates! MPK4 
-MKK1: !regulates! flg22-responsive genes 
-MPK4: !activated by! MKK1 
-MPK4: !phosphorylates! MAPKs 
-MAPKs: !activated by! MPK4 
-MAPKs: !induce! basal defence-related genes

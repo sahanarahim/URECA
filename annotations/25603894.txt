@@ -1,7 +1,0 @@
-The family Euphorbiaceae includes some of the most efficient biomass accumulators. Whole genome sequencing and the development of genetic maps of these species are important components in molecular breeding and genetic improvement. Here we report the draft genome of physic nut (Jatropha curcas L.), a biodiesel plant. The assembled genome has a total length of 320.5 Mbp and contains 27,172 putative protein-coding genes. We established a linkage map containing 1208 markers and anchored the genome assembly (81.7%) to this map to produce 11 pseudochromosomes. After gene family clustering, 15,268 families were identified, of which 13,887 existed in the castor bean genome. Analysis of the genome highlighted specific expansion and contraction of a number of gene families during the evolution of this species, including the ribosome-inactivating proteins and oil biosynthesis pathway enzymes. The genomic sequence and linkage map provide a valuable resource not only for fundamental and applied research on physic nut but also for evolutionary and comparative genomics analysis, particularly in the Euphorbiaceae.
-
-genome: !contains! 27,172 putative protein-coding genes
-linkage map: !anchors! genome assembly
-gene families: !clustered into! 15,268 families
-ribosome-inactivating proteins: !expanded in! physic nut
-oil biosynthesis pathway enzymes: !contracted in! physic nut

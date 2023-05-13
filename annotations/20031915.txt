@@ -1,8 +1,0 @@
-Arabidopsis cryptochromes cry1 and cry2 are blue-light signalling molecules with significant structural similarity to photolyases--a class of blue-light-sensing DNA repair enzymes. Like photolyases, purified plant cryptochromes have been shown to bind both flavin and pterin chromophores. The flavin functions as a light sensor and undergoes reduction in response to blue light that initiates the signalling cascade. However, the role of the pterin in plant cryptochromes has until now been unknown. Here, we show that the action spectrum for light-dependent degradation of cry2 has a significant peak of activity at 380 nm, consistent with absorption by a pterin cofactor. We further show that cry1 protein expressed in living insect cells responds with greater sensitivity to 380 nm light than to 450 nm, consistent with a light-harvesting antenna pigment that transfers excitation energy to the oxidized flavin of cry1. The pterin biosynthesis inhibitor DHAP selectively reduces cryptochrome responsivity at 380 nm but not 450 nm blue light in these cell cultures, indicating that the antenna pigment is a folate cofactor similar to that of photolyases.
-
-cry1: !binds! flavin 
-cry1: !binds! pterin 
-flavin: !initiates! signalling cascade 
-pterin: !absorbs! 380 nm light 
-cry1: !responds to! 380 nm light 
-DHAP: !reduces! cryptochrome responsivity

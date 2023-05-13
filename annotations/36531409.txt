@@ -1,8 +1,0 @@
-Drought tolerance and quality stability are important indicators to evaluate the stress tolerance of tea germplasm resources. The traditional screening method of drought resistant germplasm is mainly to evaluate by detecting physiological and biochemical indicators of tea plants under drought stresses. However, the methods are not only time consuming but also destructive. In this study, hyperspectral images of tea drought phenotypes were obtained and modeled with related physiological indicators. The results showed that: (1) the information contents of malondialdehyde, soluble sugar and total polyphenol were 0.21, 0.209 and 0.227 respectively, and the drought tolerance coefficient (DTC) index of each tea variety was between 0.069 and 0.81; (2) the comprehensive drought tolerance of different varieties were (from strong to weak): <i>QN36, SCZ, ZC108, JX, JGY, XY10, QN1, MS9, QN38</i>, and <i>QN21</i>; (3) by using SVM, RF and PLSR to model DTC (drought tolerance coefficient) data, the best prediction model was selected as MSC-2D-UVE-SVM (R<sup>2</sup> = 0.77, RMSE = 0.073, MAPE = 0.16) for drought tolerance of tea germplasm resources, named Tea-DTC model. Therefore, the Tea-DTC model based on hyperspectral machine-learning technology can be used as a new screening method for evaluating tea germplasm resources with drought tolerance.
-
-Hyperspectral images: !model! Physiological indicators 
-Malondialdehyde: !contain! Information content 
-DTC index: !range between! 0.069 and 0.81 
-Comprehensive drought tolerance: !rank from strong to weak! QN36, SCZ, ZC108, JX, JGY, XY10, QN1, MS9, QN38, QN21 
-MSC-2D-UVE-SVM: !predict! DTC data 
-Tea-DTC model: !evaluate! Tea germplasm resources with drought tolerance

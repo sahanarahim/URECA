@@ -1,8 +1,0 @@
-Automated segmentation and tracking of cells in actively developing tissues can provide high-throughput and quantitative spatiotemporal measurements of a range of cell behaviors; cell expansion and cell-division kinetics leading to a better understanding of the underlying dynamics of morphogenesis. Here, we have studied the problem of constructing cell lineages in time-lapse volumetric image stacks obtained using Confocal Laser Scanning Microscopy (CLSM). The novel contribution of the work lies in its ability to segment and track cells in densely packed tissue, the shoot apical meristem (SAM), through the use of a close-loop, adaptive segmentation, and tracking approach. The tracking output acts as an indicator of the quality of segmentation and, in turn, the segmentation can be improved to obtain better tracking results. We construct an optimization function that minimizes the segmentation error, which is, in turn, estimated from the tracking results. This adaptive approach significantly improves both tracking and segmentation when compared to an open loop framework in which segmentation and tracking modules operate separately.
-
-Gene: !affects! Cell behavior 
-Gene: !localizes to! Shoot apical meristem 
-Gene: !interacts with! Confocal Laser Scanning Microscopy 
-Gene: !enhances! Segmentation and tracking 
-Gene: !represses! Segmentation error 
-Gene: !synthesizes! Optimization function

@@ -1,8 +1,0 @@
-['11882948', 'The ZAT1p zinc transporter from Arabidopsis thaliana (L.) Heynh. is a member of  the cation diffusion facilitator (CDF) protein family. When heterologously  expressed in Escherichia coli, ZAT1p bound zinc in a metal blot. Binding of zinc  occurred mainly to the hydrophilic amino acid region from H182 to H232. A  ZAT1p/ZAT1p*Delta(M1-I25) protein mixture was purified and reconstituted into  proteoliposomes. Uptake of zinc into the proteoliposomes did not require a proton  gradient across the liposomal membrane. ZAT1p did not transport cobalt, and  transported cadmium at only 1% of the zinc transport rate. ZAT1p functioned as an  uptake system for 65Zn2+ in two strains of the Gram-negative bacterium Ralstonia  metallidurans, which were different in their content of zinc-efflux systems. The  ZAT1 gene did not rescue increased zinc sensitivity of a Delta ZRC1single-mutant  strain or of a Delta ZRC1 Delta COT1 double-mutant strain of Saccharomyces  cerevisiae, but ZAT1 complemented this phenotype in a Delta SpZRC1 mutant strain  of Schizosaccharomyces pombe.', '2002 Mar', 'Planta', '10.1007/s00425-001-0677-1', 'Nies']
-
-ZAT1p: !binds! zinc 
-ZAT1p: !transports! 65Zn2+ 
-ZAT1p: !does not transport! cobalt 
-ZAT1p: !transports at 1% rate! cadmium 
-ZAT1p: !rescues! Delta SpZRC1 mutant strain of Schizosaccharomyces pombe 
-ZAT1p: !does not rescue! Delta ZRC1 single-mutant strain or Delta ZRC1 Delta COT1 double-mutant strain of Saccharomyces cerevisiae

@@ -1,9 +1,0 @@
-['8798688', "An Arabidopsis thaliana cDNA encoding the enzyme beta-carotene hydroxylase was  identified by functional complementation in Escherichia coli. The product of this  cDNA adds hydroxyl groups to both beta rings of the symmetrical beta-carotene  (beta,beta-carotene) to form zeaxanthin (beta,beta-carotene-3,3'-diol) and  converts the monocyclic beta-zeacarotene (7',8'-dihydro-beta,psi-carotene) to  hydroxy-beta-zeacarotene (7',8'-dihydro-beta,psi-carotene-3-ol). The epsilon  rings of delta-carotene (epsilon,psi-carotene) and alpha-zeacarotene  (7',8'-dihydro-epsilon,psi-carotene) are poor substrates for the enzyme. The  predicted amino acid sequence of the A. thaliana enzyme resembles the four known  bacterial beta-carotene hydroxylase enzymes (31-37% identity) but is much longer,  with an N-terminal extension of more than 130 amino acids. Truncation of the cDNA  to produce a polypeptide lacking the first 69 amino acids does not impair enzyme  activity in E. coli. Truncation to yield a polypeptide of a length comparable  with the bacterial enzymes (lacking 129 N-terminal amino acids) resulted in the  accumulation of the monohydroxy intermediate beta-cryptoxanthin  (beta,beta-carotene-3-ol), predominantly, when beta-carotene was provided as the  substrate. It is suggested that amino acid residues 70-129 of the A. thaliana  enzyme may play a role in formation of a functional homodimer.", '1996 Oct 4', 'J Biol Chem', '10.1074/jbc.271.40.24349', 'Cunningham']
-
-cDNA: !encodes! enzyme
-enzyme: !hydroxylates! beta-carotene
-enzyme: !converts! beta-zeacarotene
-A. thaliana enzyme: !resembles! bacterial enzymes
-truncation: !impairs! enzyme activity
-truncation: !accumulates! monohydroxy intermediate
-amino acid residues: !play a role in! formation of homodimer

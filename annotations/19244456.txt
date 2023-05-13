@@ -1,9 +1,0 @@
-The glutathione-ascorbate redox pathway in chloroplasts is a complex network of spontaneous, photochemical, and enzymatic reactions for detoxifying hydrogen peroxide. This article presents a comprehensive sensitivity analysis of the system. A model has been constructed to simulate oxidative stress conditions, enabling steady-state concentrations of the metabolites involved in the pathway and photochemical and enzymatic fluxes to be calculated. The model includes an electron source whose flux is distributed among three competitive routes (photogeneration of O2-, photoreduction of NADP+ to NADPH, and photoreduction of monodehydroascorbate to ascorbate) and that allows the simulation of variations in NADPH concentration with time. Each enzyme considered is introduced in the model, taking into account its particular catalytic mechanism, including the inactivation of ascorbate peroxidase in the presence of low-ascorbate concentrations. Computer simulations pointed to the great sensitivity of the system to the ratio among fluxes corresponding to ascorbate and NADPH photoproduction and NADPH consumption by the Calvin cycle. Under oxidative stress conditions, the model shows a sequential depletion of antioxidant power in chloroplasts in the order NADPH, glutathione, ascorbate and their recovery in the reverse order. Decreasing levels of glutathione reductase, ascorbate peroxidase, and superoxide dismutase led to the irreversible photoinactivation of ascorbate peroxidase and the subsequent increase in hydrogen peroxide concentration, preceded by a maximum in dehydroascorbate reductase activity.
-
-NADPH: !photoproduces! O2- 
-NADPH: !photoreduces! NADP+ 
-NADPH: !consumes! Calvin cycle 
-glutathione reductase: !depletes! antioxidant power 
-ascorbate peroxidase: !inactivates! low-ascorbate concentrations 
-superoxide dismutase: !decreases! hydrogen peroxide concentration 
-dehydroascorbate reductase: !increases! activity

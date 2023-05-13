@@ -1,8 +1,0 @@
-The rachis of most growing compound leaves observed in nature exhibits a stereotypical hook shape. In this study, we focus on the canonical case of Averrhoa carambola. Combining kinematics and mechanical investigation, we characterize this hook shape and shed light on its establishment and maintenance. We show quantitatively that the hook shape is a conserved bent zone propagating at constant velocity and constant distance from the apex throughout development. A simple mechanical test reveals non-zero intrinsic curvature profiles for the rachis during its growth, indicating that the hook shape is actively regulated. We show a robust spatial organization of growth, curvature, rigidity, and lignification, and their interplay. Regulatory processes appear to be specifically localized: in particular, differential growth occurs where the elongation rate drops. Finally, impairing the graviception of the leaf on a clinostat led to reduced hook curvature but not to its loss. Altogether, our results suggest a role for proprioception in the regulation of the leaf hook shape, likely mediated via mechanical strain.
-
-gene: !affects! growth 
-growth: !regulates! curvature 
-curvature: !maintains! hook shape 
-rigidity: !interacts with! lignification 
-lignification: !localizes to! bent zone 
-proprioception: !enhances! mechanical strain

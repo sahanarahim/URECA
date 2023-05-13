@@ -1,8 +1,0 @@
-Elevated forest mortality has been attributed to climate change-induced droughts, but prediction of spatial mortality patterns remains challenging. We evaluated whether introducing plant hydraulics and topographic convergence-induced soil moisture variation to land surface models (LSM) can help explain spatial patterns of mortality. A scheme predicting plant hydraulic safety loss from soil moisture was developed using field measurements and a plant physiology-hydraulics model, TREES. The scheme was upscaled to Populus tremuloides forests across Colorado, USA, using LSM-modeled and topography-mediated soil moisture, respectively. The spatial patterns of hydraulic safety loss were compared against aerial surveyed mortality. Incorporating hydraulic safety loss raised the explanatory power of mortality by 40% compared to LSM-modeled soil moisture. Topographic convergence was mostly influential in suppressing mortality in low and concave areas, explaining an additional 10% of the variations in mortality for those regions. Plant hydraulics integrated water stress along the soil-plant continuum and was more closely tied to plant physiological response to drought. In addition to the well-recognized topo-climate influence due to elevation and aspect, we found evidence that topographic convergence mediates tree mortality in certain parts of the landscape that are low and convergent, likely through influences on plant-available water.
-
-soil moisture: !predicts! hydraulic safety loss 
-hydraulic safety loss: !explains! mortality 
-topography: !mediates! mortality 
-water stress: !integrates! soil-plant continuum 
-topo-climate: !influences! elevation and aspect 
-topographic convergence: !suppresses! mortality

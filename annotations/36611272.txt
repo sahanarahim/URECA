@@ -1,6 +1,0 @@
-During organogenesis, a key step toward the development of a functional organ is the separation of cells into specific domains with different activities. Mutual inhibition of gene expression has been shown to be sufficient to establish and maintain these domains during organogenesis in several multicellular organisms. Here, we show that the mutual inhibition between the PLETHORA transcription factors (PLTs) and the ARABIDOPSIS RESPONSE REGULATORs (ARRs) transcription factors is sufficient to separate cell division and cell differentiation during root organogenesis. In particular, we show that ARR1 suppresses PLT activities and that PLTs suppress ARR1 and ARR12 by targeting their proteins for degradation via the KISS ME DEADLY 2 F-box protein. These findings reveal new important aspects of the complex process of root zonation and development.
-
-PLTs: !inhibit! ARR1
-PLTs: !inhibit! ARR12
-ARR1: !suppresses! PLT activities
-KISS ME DEADLY 2 F-box protein: !targets for degradation! ARR1 and ARR12 proteins

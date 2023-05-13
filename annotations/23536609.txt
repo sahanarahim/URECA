@@ -1,9 +1,0 @@
-In yeasts and animals, premature entry into mitosis is prevented by the inhibitory phosphorylation of cyclin-dependent kinase (CDK) by WEE1 kinase, and, at mitosis, WEE1 protein is removed through the action of the 26S proteasome. Although in higher plants WEE1 function has been confirmed in the DNA replication checkpoint, Arabidopsis wee1 insertion mutants grow normally, and a role for the protein in the G2/M transition during an unperturbed plant cell cycle is yet to be confirmed. Here data are presented showing that the inhibitory effect of WEE1 on CDK activity in tobacco BY-2 cell cultures is cell cycle regulated independently of the DNA replication checkpoint: it is high during S-phase but drops as cells traverse G2 and enter mitosis. To investigate this mechanism further, a yeast two-hybrid screen was undertaken to identify proteins interacting with Arabidopsis WEE1. Three F-box proteins and a subunit of the proteasome complex were identified, and bimolecular fluorescence complementation confirmed an interaction between AtWEE1 and the F-box protein SKP1 interacting partner 1 (SKIP1). Furthermore, the AtWEE1-green fluorescent protein (GFP) signal in Arabidopsis primary roots treated with the proteasome inhibitor MG132 was significantly increased compared with mock-treated controls. Expression of AtWEE1-YFP(C) (C-terminal portion of yellow fluorescent protein) or AtWEE1 per se in tobacco BY-2 cells resulted in a premature increase in the mitotic index compared with controls, whereas co-expression of AtSKIP1-YFP(N) negated this effect. These data support a role for WEE1 in a normal plant cell cycle and its removal at mitosis via the 26S proteasome.
-
-WEE1: !inhibits! CDK 
-WEE1: !removed by! 26S proteasome 
-WEE1: !interacts with! F-box proteins 
-WEE1: !interacts with! SKIP1 
-WEE1: !repressed by! MG132 
-AtWEE1: !enhances! mitotic index 
-AtSKIP1: !negates! AtWEE1 effect

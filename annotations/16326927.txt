@@ -1,8 +1,0 @@
-['16326927', 'Light and temperature are potent environmental signals used to synchronize the  circadian oscillator with external time and photoperiod. Phytochrome and  cryptochrome photoreceptors integrate light quantity and quality to modulate the  pace and phase of the clock. PHYTOCHROME B (phyB) controls period length in red  light as well as the phase of the clock in white light. phyB interacts with  ARABIDOPSIS RESPONSE REGULATOR4 (ARR4) in a light-dependent manner. Accordingly,  we tested ARR4 and other members of the type-A ARR family for roles in clock  function and show that ARR4 and its closest relative, ARR3, act redundantly in  the Arabidopsis thaliana circadian system. Loss of ARR3 and ARR4 lengthens the  period of the clock even in the absence of light, demonstrating that they do so  independently of active phyB. In addition, in white light, arr3,4 mutants show a  leading phase similar to phyB mutants, suggesting that circadian light input is  modulated by the interaction of phyB with ARR4. Although type-A ARRs are involved  in cytokinin signaling, the circadian defects appear to be independent of  cytokinin, as exogenous cytokinin affects the phase but not the period of the  clock. Therefore, ARR3 and ARR4 are critical for proper circadian period and  define an additional level of regulation of the circadian clock in Arabidopsis.', '2006 Jan', 'Plant Cell', '10.1105/tpc.105.037994', 'McClung']
-
-Light: !affects! Circadian Oscillator 
-Phytochrome B: !interacts with! ARR4 
-ARR3: !redundantly acts with! ARR4 
-ARR3/ARR4: !lengthens period of! Clock 
-ARR3/ARR4: !modulates light input of! phyB 
-Cytokinin: !affects phase of! Clock

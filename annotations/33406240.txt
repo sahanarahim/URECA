@@ -1,8 +1,0 @@
-Alternative splicing generates multiple transcript and protein isoforms from a single gene and controls transcript intracellular localization and stability by coupling to mRNA export and nonsense-mediated mRNA decay (NMD). RNA interference (RNAi) is a potent mechanism to modulate gene expression. However, its interactions with alternative splicing are poorly understood. We used artificial microRNAs (amiRNAs, also termed shRNAmiR) to knockdown all splice variants of selected target genes in Arabidopsis thaliana. We found that splice variants, which vary by their protein-coding capacity, subcellular localization and sensitivity to NMD, are affected differentially by an amiRNA, although all of them contain the target site. Particular transcript isoforms escape amiRNA-mediated degradation due to their nuclear localization. The nuclear and NMD-sensitive isoforms mask RNAi action in alternatively spliced genes. Interestingly, Arabidopsis SPL genes, which undergo alternative splicing and are targets of miR156, are regulated in the same manner. Moreover, similar results were obtained in mammalian cells using siRNAs, indicating cross-kingdom conservation of these interactions among RNAi and splicing isoforms. Furthermore, we report that amiRNA can trigger artificial alternative splicing, thus expanding the RNAi functional repertoire. Our findings unveil novel interactions between different post-transcriptional processes in defining transcript fates and regulating gene expression.
-
-RNAi: !affects! Splice variants
-Splice variants: !localize to! Nuclear/NMD-sensitive
-RNAi: !interacts with! Alternative splicing
-Alternative splicing: !enhances! Masking of RNAi action
-miR156: !represses! SPL genes
-amiRNA: !synthesizes! Artificial alternative splicing

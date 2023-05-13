@@ -1,9 +1,0 @@
-Chromatin architecture and transcription factor (TF) binding underpin cell-fate specification during development, but their mutual regulatory relationships remain unclear. Here we report an atlas of dynamic chromatin landscapes during stomatal cell-lineage progression, in which sequential cell-state transitions are governed by lineage-specific bHLH TFs. Major reprogramming of chromatin accessibility occurs at the proliferation-to-differentiation transition. We discover novel co-cis regulatory elements (CREs) signifying the early precursor stage, BBR/BPC (GAGA) and bHLH (E-box) motifs, where master-regulatory bHLH TFs, SPEECHLESS and MUTE, consecutively bind to initiate and terminate the proliferative state, respectively. BPC TFs complex with MUTE to repress SPEECHLESS expression through a local deposition of repressive histone marks. We elucidate the mechanism by which cell-state-specific heterotypic TF complexes facilitate cell-fate commitment by recruiting chromatin modifiers via key co-CREs.
-
-TF: !binds to! CRE 
-TF: !represses! SPEECHLESS 
-TF: !complexes with! MUTE 
-MUTE: !initiates! Proliferative State 
-SPEECHLESS: !terminates! Proliferative State 
-TF: !recruits! Chromatin Modifiers 
-TF: !facilitates! Cell-Fate Commitment

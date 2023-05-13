@@ -1,8 +1,0 @@
-['19951951', 'Nucleotide sugars are building blocks for carbohydrate polymers in plant cell  walls. They are synthesized from sugar-1-phosphates or epimerized as nucleotide  sugars. The main precursor for primary cell walls is UDP-glucuronic acid, which  can be synthesized via two independent pathways. One starts with the ring  cleavage of myo-inositol into glucuronic acid, which requires a glucuronokinase  and a pyrophosphorylase for activation into UDP-glucuronate. Here we report on  the purification of glucuronokinase from Lilium pollen. A 40-kDa protein was  purified combining six chromatographic steps and peptides were de novo sequenced.  This allowed the cloning of the gene from Arabidopsis thaliana and the expression  of the recombinant protein in Escherichia coli for biochemical characterization.  Glucuronokinase is a novel member of the GHMP-kinase superfamily having an unique  substrate specificity for d-glucuronic acid with a K(m) of 0.7 mm. It requires  ATP as phosphate donor (K(m) 0.56 mm). In Arabidopsis, the gene is expressed in  all plant tissues with a preference for pollen. Genes for glucuronokinase are  present in (all) plants, some algae, and a few bacteria as well as in some lower  animals.', '2010 Jan 29', 'J Biol Chem', '10.1074/jbc.M109.069369', 'Tenhaken']
-
-glucuronokinase: !synthesizes! UDP-glucuronic acid 
-glucuronokinase: !requires! ATP 
-glucuronokinase: !expressed in! all plant tissues 
-glucuronokinase: !present in! plants, algae, bacteria, lower animals 
-myo-inositol: !cleaved into! glucuronic acid 
-pyrophosphorylase: !activates! UDP-glucuronate

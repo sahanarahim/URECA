@@ -1,9 +1,0 @@
-['11148284', 'In flowering plants, two cells are fertilized in the haploid female gametophyte.  Egg and sperm nuclei fuse to form the embryo. A second sperm nucleus fuses with  the central cell nucleus, which replicates to generate the endosperm, a tissue  that supports embryo development. The FERTILIZATION-INDEPENDENT ENDOSPERM (FIE)  and MEDEA (MEA) genes encode WD and SET domain polycomb proteins, respectively.  In the absence of fertilization, a female gametophyte with a loss-of-function fie  or mea allele initiates endosperm development without fertilization. fie and mea  mutations also cause parent-of-origin effects, in which the wild-type maternal  allele is essential and the paternal allele is dispensable for seed viability.  Here, we show that FIE and MEA polycomb proteins interact physically, suggesting  that the molecular partnership of WD and SET domain polycomb proteins has been  conserved during the evolution of flowering plants. The overlapping expression  patterns of FIE and MEA are consistent with their suppression of gene  transcription and endosperm development in the central cell as well as their  control of seed development after fertilization. Although FIE and MEA interact,  differences in maternal versus paternal patterns of expression, as well as the  effect of a recessive mutation in the DECREASE IN DNA METHYLATION1 (DDM1) gene on  mutant allele transmission, indicate that fie and mea mutations cause  parent-of-origin effects on seed development by distinct mechanisms.', '2000 Dec', 'Plant Cell', '10.1105/tpc.12.12.2367', 'Ohad']
-
-FIE: !interacts with! MEA
-MEA: !interacts with! FIE
-FIE: !suppresses! gene transcription
-MEA: !suppresses! gene transcription
-FIE: !controls! seed development
-MEA: !controls! seed development
-DDM1: !affects! mutant allele transmission

@@ -1,9 +1,0 @@
-The ability to predict traits from genome-wide sequence information (i.e., genomic prediction) has improved our understanding of the genetic basis of complex traits and transformed breeding practices. Transcriptome data may also be useful for genomic prediction. However, it remains unclear how well transcript levels can predict traits, particularly when traits are scored at different development stages. Using maize (<i>Zea mays</i>) genetic markers and transcript levels from seedlings to predict mature plant traits, we found that transcript and genetic marker models have similar performance. When the transcripts and genetic markers with the greatest weights (i.e., the most important) in those models were used in one joint model, performance increased. Furthermore, genetic markers important for predictions were not close to or identified as regulatory variants for important transcripts. These findings demonstrate that transcript levels are useful for predicting traits and that their predictive power is not simply due to genetic variation in the transcribed genomic regions. Finally, genetic marker models identified only 1 of 14 benchmark flowering-time genes, while transcript models identified 5. These data highlight that, in addition to being useful for genomic prediction, transcriptome data can provide a link between traits and variation that cannot be readily captured at the sequence level.
-
-Transcripts: !predict! Traits
-Genetic markers: !predict! Traits
-Transcripts & Genetic markers: !increase performance of! Joint model
-Genetic markers: !not linked to! Regulatory variants
-Transcripts: !link! Traits & Variation
-Genetic markers: !identify! 1/14 flowering-time genes
-Transcripts: !identify! 5/14 flowering-time genes

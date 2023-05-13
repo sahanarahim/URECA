@@ -1,9 +1,0 @@
-The circadian clock plays an important role in agriculture, especially in highly controlled environments, such as plant factories. However, multiple environmental factors have an extremely high degree of freedom, and it is difficult to experimentally search for the optimal design conditions. A recent study demonstrated that the effect of time lags between light and temperature cycles on plant growth could be predicted by the entrainment properties of the circadian clock in <i>Arabidopsis thaliana</i>. Based on this prediction, it was possible to control plant growth by adjusting the time lag. However, for application in plant factories, it is necessary to verify the effectiveness of this method using commercial vegetables, such as leaf lettuce. In this study, we investigated the entrainment properties of the circadian clock and the effect of the time lag between light and temperature cycles on circadian rhythms and plant growth in <i>Lactuca sativa</i> L. seedlings. For evaluation of circadian rhythms, we used transgenic <i>L. sativa</i> L. with a luciferase reporter in the experiment and a phase oscillator model in the simulation. We found that the entrainment properties for the light and temperature stimuli and the effects of time lags on circadian rhythm and growth were similar to those of <i>A. thaliana</i>. Moreover, we demonstrated that changes in growth under different time lags could be predicted by simulation based on the entrainment properties of the circadian clock. These results showed the importance of designing a cultivation environment that considers the circadian clock and demonstrated a series of methods to achieve this.
-
-light: !affects! circadian clock
-temperature: !affects! circadian clock
-circadian clock: !affects! plant growth
-time lag: !affects! circadian rhythm
-time lag: !affects! plant growth
-luciferase reporter: !measures! circadian rhythm
-phase oscillator model: !simulates! circadian rhythm

@@ -1,9 +1,0 @@
-['21074051', 'The balance between cellular proliferation and differentiation is a key aspect of  development in multicellular organisms. Using high-resolution expression data  from the Arabidopsis root, we identified a transcription factor, UPBEAT1 (UPB1),  that regulates this balance. Genomewide expression profiling coupled with  ChIP-chip analysis revealed that UPB1 directly regulates the expression of a set  of peroxidases that modulate the balance of reactive oxygen species (ROS) between  the zones of cell proliferation and the zone of cell elongation where  differentiation begins. Disruption of UPB1 activity alters this ROS balance,  leading to a delay in the onset of differentiation. Modulation of either ROS  balance or peroxidase activity through chemical reagents affects the onset of  differentiation in a manner consistent with the postulated UPB1 function. This  pathway functions independently of auxin and cytokinin plant hormonal signaling.  Comparison to ROS-regulated growth control in animals suggests that a similar  mechanism is used in plants and animals.', '2010 Nov 12', 'Cell', '10.1016/j.cell.2010.10.020', 'Benfey']
-
-UPB1: !regulates! expression of peroxidases 
-peroxidases: !modulate! ROS balance 
-ROS balance: !affects! onset of differentiation 
-UPB1: !disrupts! ROS balance 
-chemical reagents: !modulate! peroxidase activity 
-peroxidase activity: !affects! onset of differentiation 
-auxin/cytokinin: !independent of! UPB1 pathway

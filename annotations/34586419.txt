@@ -1,7 +1,0 @@
-The stigma is an angiosperm-specific tissue that is essential for pollination. In the last two decades, several transcription factors with key roles in stigma development in Arabidopsis thaliana have been identified. However, genetic analyses have thus far been unable to unravel the precise regulatory interactions among these transcription factors or the molecular basis for their selective roles in different spatial and temporal domains. Here, we show that the NGATHA (NGA) and HECATE (HEC) transcription factors, which are involved in different developmental processes but are both essential for stigma development, require each other to perform this function. This relationship is likely mediated by their physical interaction in the apical gynoecium. NGA/HEC transcription factors subsequently upregulate INDEHISCENT (IND) and SPATULA and are indispensable for the binding of IND to some of its targets to allow stigma differentiation. Our findings support a nonhierarchical regulatory scenario in which the combinatorial action of different transcription factors provides exquisite temporal and spatial specificity of their developmental outputs.
-
-NGA: !interacts with! HEC
-NGA/HEC: !upregulate! IND
-NGA/HEC: !upregulate! SPATULA
-IND: !binds to! targets
-NGA/HEC: !indispensable for! IND binding

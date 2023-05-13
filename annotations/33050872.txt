@@ -1,6 +1,0 @@
-Phenology data collected recently for about 300 accessions of Vigna radiata (mungbean) is an invaluable resource for investigation of impacts of climatic factors on plant development. We developed a new mathematical model that describes the dynamic control of time to flowering by daily values of maximal and minimal temperature, precipitation, day length and solar radiation. We obtained model parameters by adaptation to the available experimental data. The models were validated by cross-validation and used to demonstrate that the phenology of adaptive traits, like flowering time, is strongly predicted not only by local environmental factors but also by plant geographic origin and genotype. Of local environmental factors maximal temperature appeared to be the most critical factor determining how faithfully the model describes the data. The models were applied to forecast time to flowering of accessions grown in Taiwan in future years 2020-2030.
-
-genotype: !affects! flowering time
-maximal temperature: !determines! model accuracy
-genotype: !predicts! phenology of adaptive traits
-local environmental factors: !influence! time to flowering

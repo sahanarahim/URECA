@@ -1,9 +1,0 @@
-['16006579', 'The Arabidopsis thaliana ASYMMETRIC LEAVES1 (AS1) and AS2 genes are important for  repressing class I KNOTTED1-like homeobox (KNOX) genes and specifying leaf  adaxial identity in leaf development. RNA-dependent RNA polymerases (RdRPs) are  critical for posttranscriptional and transcriptional gene silencing in  eukaryotes; however, very little is known about their functions in plant  development. Here, we show that the Arabidopsis RDR6 gene (also called SDE1 and  SGS2) that encodes a putative RdRP, together with AS1 and AS2, regulates leaf  development. rdr6 single mutant plants displayed only minor phenotypes, whereas  rdr6 as1 and rdr6 as2 double mutants showed dramatically enhanced as1 and as2  phenotypes, with severe defects in the leaf adaxial-abaxial polarity and vascular  development. In addition, the double mutant plants produced more lobed leaves  than the as1 and as2 single mutants and showed leaf-like structures associated on  a proportion of leaf blades. The abnormal leaf morphology of the double mutants  was accompanied by an extended ectopic expression of a class I KNOX gene  BREVIPEDICELLUS (BP) and high levels of microRNA165/166 that may lead to mRNA  degradation of genes in the class III HD-ZIP family. Taken together, our data  suggest that the Arabidopsis RDR6-associated epigenetic pathway and the AS1-AS2  pathway synergistically repress BP and MIR165/166 for proper plant development.', '2005 Aug', 'Plant Cell', '10.1105/tpc.105.033449', 'Huang']
-
-AS1: !represses! KNOX
-AS2: !represses! KNOX
-RDR6: !interacts with! AS1
-RDR6: !interacts with! AS2
-RDR6: !synthesizes! microRNA165/166
-AS1: !enhances! AS2
-AS2: !enhances! AS1

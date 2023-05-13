@@ -1,9 +1,0 @@
-['31806676', 'The cambium and procambium generate the majority of biomass in vascular plants.  These meristems constitute a bifacial stem cell population from which xylem and  phloem are specified on opposing sides by positional signals. The PHLOEM  INTERCALATED WITH XYLEM (PXY) receptor kinase promotes vascular cell division and  organization. However, how these functions are specified and integrated is  unknown. Here, we mapped a putative PXY-mediated transcriptional regulatory  network comprising 690 transcription factor-promoter interactions in Arabidopsis  (Arabidopsis thaliana). Among these interactions was a feedforward loop  containing transcription factors WUSCHEL HOMEOBOX RELATED14 (WOX14) and TARGET OF  MONOPTEROS6 (TMO6), each of which regulates the expression of the gene encoding a  third transcription factor, LATERAL ORGAN BOUNDARIES DOMAIN4 (LBD4). PXY  signaling in turn regulates the WOX14, TMO6, and LBD4 feedforward loop to control  vascular proliferation. Genetic interaction between LBD4 and PXY suggests that  LBD4 marks the phloem-procambium boundary, thus defining the shape of the  vascular bundle. These data collectively support a mechanism that influences the  recruitment of cells into the phloem lineage, and they define the role of PXY  signaling in this context in determining the arrangement of vascular tissue.', '2020 Feb', 'Plant Cell', '10.1105/tpc.19.00562', 'ORCID:']
-
-PXY: !promotes! vascular cell division 
-PXY: !regulates! WOX14 
-WOX14: !regulates! TMO6 
-TMO6: !regulates! LBD4 
-PXY: !regulates! LBD4 
-LBD4: !marks! phloem-procambium boundary 
-LBD4: !interacts with! PXY

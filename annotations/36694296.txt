@@ -1,8 +1,0 @@
-Wildfires are a global crisis, but current fire models fail to capture vegetation response to changing climate. With drought and elevated temperature increasing the importance of vegetation dynamics to fire behavior, and the advent of next generation models capable of capturing increasingly complex physical processes, we provide a renewed focus on representation of woody vegetation in fire models. Currently, the most advanced representations of fire behavior and biophysical fire effects are found in distinct classes of fine-scale models and do not capture variation in live fuel (i.e. living plant) properties. We demonstrate that plant water and carbon dynamics, which influence combustion and heat transfer into the plant and often dictate plant survival, provide the mechanistic linkage between fire behavior and effects. Our conceptual framework linking remotely sensed estimates of plant water and carbon to fine-scale models of fire behavior and effects could be a critical first step toward improving the fidelity of the coarse scale models that are now relied upon for global fire forecasting. This process-based approach will be essential to capturing the influence of physiological responses to drought and warming on live fuel conditions, strengthening the science needed to guide fire managers in an uncertain future.
-
-plant: !influences! combustion
-plant: !affects! heat transfer
-remotely sensed estimates: !linked to! fine-scale models
-fine-scale models: !used for! global fire forecasting
-drought: !impacts! plant survival
-warming: !impacts! live fuel conditions

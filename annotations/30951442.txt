@@ -1,7 +1,0 @@
-Effectors are small, secreted proteins that facilitate infection of host plants by all major groups of plant pathogens. Effector protein identification in oomycetes relies on identification of open reading frames with certain amino acid motifs among additional minor criteria. To date, identification of effectors relies on custom scripts to identify motifs in candidate open reading frames. Here, we developed the R package <i>effectR</i>, which provides a convenient tool for rapid prediction of effectors in oomycete genomes, or with custom scripts for any genome, in a reproducible way. The <i>effectR</i> package relies on a combination of regular expressions statements and hidden Markov model approaches to predict candidate RxLR and crinkler effectors. Other custom motifs for novel effectors can easily be implemented and added to package updates. The <i>effectR</i> package has been validated with published oomycete genomes. This package provides a convenient tool for wet lab researchers interested in reproducible identification of candidate effectors in oomycete genomes.
-
-effectR: !identifies! effector proteins 
-effectR: !relies on! regular expressions statements 
-effectR: !uses! hidden Markov model approaches 
-effectR: !implements! custom motifs 
-effectR: !validates! oomycete genomes

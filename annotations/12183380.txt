@@ -1,9 +1,0 @@
-['12183380', "The outer integument of Arabidopsis ovules exhibits marked polarity in its  development, growing extensively from the abaxial side, but only to a very  limited extent from the adaxial side of the ovule. Mutations in two genes affect  this asymmetric growth. In strong inner no outer (ino) mutants outer integument  growth is eliminated, whereas in superman (sup) mutants integument growth on the  adaxial side is nearly equal to wild-type growth on the abaxial side. Through  complementation and reporter gene analysis, a region of INO 5'-flanking sequences  was identified that contains sufficient information for appropriate expression of  INO. Using this INO promoter (P-INO) we show that INO acts as a positive  regulator of transcription from P-INO, but is not sufficient for de novo  initiation of transcription in other plant parts. Protein fusions demonstrate  nuclear localization of INO, consistent with a proposed role as a transcription  factor for this member of the YABBY protein family. Through its ability to  inhibit expression of the endogenous INO gene and transgenes driven by P-INO, SUP  is shown to be a negative regulator of INO transcription. Substitution of another  YABBY protein coding region (CRABS CLAW) for INO overcomes this negative  regulation, indicating that SUP suppresses INO transcription through attenuation  of the INO positive autoregulatory loop.", '2002 Sep', 'Development', '10.1242/dev.129.18.4281', 'Gasser']
-
-INO: !affects! Outer integument growth 
-SUP: !affects! Outer integument growth 
-INO: !localizes to! Nucleus 
-INO: !interacts with! SUP 
-INO: !enhances! Transcription from P-INO 
-SUP: !represses! INO transcription 
-CRABS CLAW: !overcomes! SUP's negative regulation

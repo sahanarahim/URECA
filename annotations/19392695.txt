@@ -1,9 +1,0 @@
-Plants are constantly being challenged by aspiring pathogens. In order to protect themselves, plants have developed numerous defense mechanisms that are either specific or non-specific to the pathogen. Pattern recognition receptors can trigger plant defense responses in response to specific ligands or patterns. EIX (ethylene-inducing xylanase) triggers a defense response via the LeEix2 receptor, while bacterial flagellin triggers plant innate immunity via the FLS2 receptor. Endocytosis has been suggested to be crucial for the process in both cases. Here we show that the EIX elicitor triggers internalization of the LeEix2 receptor. Treatment with endocytosis, actin or microtubule inhibitors greatly reduced the internalization of LeEix2. Additionally, we demonstrate that plant EHD2 binds to LeEix2 and is an important factor in its internalization and in regulation of the induction of defense responses such as the hypersensitive response, ethylene biosynthesis and induction of pathogenesis-related protein expression in the case of EIX/LeEix2 (an LRR receptor lacking a kinase domain), but does not appear to be involved in the FLS2 system (an LRR receptor possessing a kinase domain). Our results suggest that various endocytosis pathways are involved in the induction of plant defense responses.
-
-EIX: !triggers! LeEix2
-LeEix2: !internalized by! Endocytosis
-LeEix2: !binds to! EHD2
-EHD2: !regulates! Hypersensitive Response
-EHD2: !regulates! Ethylene Biosynthesis
-EHD2: !regulates! Pathogenesis-related Protein Expression
-FLS2: !triggered by! Bacterial Flagellin

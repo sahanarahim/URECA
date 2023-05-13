@@ -1,9 +1,0 @@
-Dark-grown dicotyledonous seedlings form a hook-like structure at the top of the hypocotyl, which is controlled by the hormones auxin and ethylene. Hook formation is dependent on an auxin signal gradient, whereas hook exaggeration is part of the triple response provoked by ethylene in dark-grown Arabidopsis seedlings. Several other hormones and light are also known to be involved in hook development, but the molecular mechanisms that lead to the initial installation of an auxin gradient are still poorly understood. In this study, we aimed to unravel the cross-talk between auxin and ethylene in the apical hook. Auxin measurements, the expression pattern of the auxin reporter DR5::GUS and the localization of auxin biosynthesis enzymes and influx carriers collectively indicate the necessity for auxin biosynthesis and efficient auxin translocation from the cotyledons and meristem into the hypocotyl in order to support proper hook development. Auxin accumulation in the meristem and cotyledons and in the hypocotyl is increased approximately 2-fold upon treatment with ethylene. In addition, a strong ethylene signal leads to enhanced auxin biosynthesis at the inner side of the hook. Finally, mutant analysis demonstrates that the auxin influx carrier LAX3 is indispensable for proper hook formation, whereas the auxin influx carrier AUX1 is involved in the hook exaggeration phenotype induced by ethylene.
-
-auxin: !affects! hook formation 
-ethylene: !affects! hook formation 
-auxin: !localizes to! hypocotyl 
-auxin: !synthesizes! cotyledons and meristem 
-ethylene: !enhances! auxin biosynthesis 
-LAX3: !represses! proper hook formation 
-AUX1: !enhances! hook exaggeration

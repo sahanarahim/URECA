@@ -1,9 +1,0 @@
-['22232680', 'An array of photoreceptors including cryptochromes, phototropin, and phytochromes  regulates various light responses in plants. Among these photoreceptors,  phytochromes perceive red and far-red light by switching between two  interconvertible spectral forms (Pr and Pfr). The Pfr form promotes light  responses partly by destabilizing negatively acting, phytochrome-interacting  basic helix-loop-helix transcription factors (PIFs), thus modulating  transcription in the nucleus. The Pfr form is also present in the cytosol.  However, the role of phytochromes in the cytosol is not well understood. Here we  show that the Pfr form interacts with the cytosolic protein PENTA1 (PNT1) and  inhibits the translation of protochlorophyllide reductase (PORA) mRNA. PNT1  possesses five C3H-type zinc finger domains and displays similarity to various  RNA binding proteins including Tristetraprolin, which regulates stabilities of  mRNAs such as TNF-alpha mRNA in humans. Consistent with its function as an RNA  binding protein, PNT1 directly binds to mRNA of a key chlorophyll biosynthetic  gene, protochlorophyllide reductase in vivo and inhibits the translation of PORA  mRNA in the presence of phytochromes. The present results demonstrate that  phytochromes transmit light signals to regulate not only transcription in the  nucleus through PIFs, but also translation in the cytosol through PNT1.', '2012 Jan 24', 'Proc Natl Acad Sci U S A', '10.1073/pnas.1109683109', 'Choi']
-
-Phytochromes: !interconvert! Pr/Pfr 
-Pr: !destabilizes! PIFs 
-Pfr: !interacts with! PNT1 
-PNT1: !binds to! PORA mRNA 
-PORA mRNA: !inhibited by! PNT1 
-PNT1: !similar to! Tristetraprolin 
-Tristetraprolin: !regulates! TNF-alpha mRNA

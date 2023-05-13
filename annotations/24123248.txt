@@ -1,9 +1,0 @@
-['24123248', 'Consistent with their valve-like function in shoot-atmosphere gas exchange, guard  cells are smaller than other epidermal cells and usually harbour 2C DNA levels in  diploid plants. The paralogous Arabidopsis R2R3 MYB transcription factors, FOUR  LIPS and MYB88, ensure that stomata contain just two guard cells by restricting  mitosis. The loss of both FLP and MYB88 function in flp myb88 double mutants  induces repeated mitotic divisions that lead to the formation of clusters of  stomata in direct contact. By contrast, CYCLIN DEPENDENT KINASE B1 function is  required for the symmetric division that precedes stomatal maturation. It was  found that blocking mitosis by chemically disrupting microtubules or by the  combined loss of FLP/MYB88 and CDKB1 function, causes single (undivided) guard  cells (sGCs) to enlarge and attain mean DNA levels of up to 10C. The loss of both  FLP and CDKB1 function also dramatically increased plastid number, led to the  formation of multiple nuclei in GCs, altered GC and stomatal shape, and disrupted  the fate of lineage-specific stem cells. Thus, in addition to respectively  restricting and promoting symmetric divisions, FLP and CDKB1 together also  conditionally restrict the G1/S transition and chloroplast and nuclear number,  and normally maintain fate and developmental progression throughout the stomatal  cell lineage.', '2013 Nov', 'J Exp Bot', '10.1093/jxb/ert313', 'Sack']
-
-FLP: !restricts! Mitosis
-MYB88: !restricts! Mitosis
-CDKB1: !promotes! Symmetric Division
-FLP: !conditionally restricts! G1/S Transition
-CDKB1: !conditionally restricts! G1/S Transition
-FLP: !maintains! Fate and Developmental Progression
-CDKB1: !maintains! Fate and Developmental Progression

@@ -1,7 +1,0 @@
-Indole-3-acetic acid (IAA) is a predominant form of active auxin in plants. In addition to de novo biosynthesis and release from its conjugate forms, IAA can be converted from its precursor indole-3-butyric acid (IBA). The IBA-derived IAA may help drive root hair elongation in Arabidopsis thaliana seedlings, but how the IBA-to-IAA conversion is regulated and affects IAA function requires further investigation. In this study, HOMEOBOX PROTEIN 24 (HB24), a transcription factor in the zinc finger-homeodomain family (ZF-HD family) of proteins, was identified. With loss of HB24 function, defective growth occurred in root hairs. INDOLE-3-BUTYRIC ACID RESPONSE 1 (IBR1), which encodes an enzyme involved in the IBA-to-IAA conversion, was identified as a direct target of HB24 for the control of root hair elongation. The exogenous IAA or auxin analogue 1-naphthalene acetic acid (NAA) both rescued the root hair growth phenotype of hb24 mutants, but IBA did not, suggesting a role for HB24 in the IBA-to-IAA conversion. Therefore, HB24 participates in root hair elongation by upregulating the expression of IBR1 and subsequently promoting the IBA-to-IAA conversion. Moreover, IAA also elevated the expression of HB24, suggesting a feedback loop is involved in IBA-to-IAA conversion-mediated root hair elongation.
-
-HB24: !regulates! IBR1
-IBR1: !converts! IBA-to-IAA
-HB24: !promotes! IBA-to-IAA conversion
-HB24: !elevated by! IAA
-IBA: !does not rescue! hb24 mutants

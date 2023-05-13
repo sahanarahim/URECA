@@ -1,6 +1,0 @@
-['9489703', 'To understand how homeotic genes affect morphogenesis and differentiation, their  target genes must be identified. In Arabidopsis flowers, the homeotic protein  heterodimer APETALA3/PISTILLATA is necessary for petal and stamen formation.  Here, AP3/PI function was put under posttranslational control to analyze its  immediate effect on the floral mRNA population, with indirect effects blocked by  cycloheximide. Using differential display, a target gene of AP3/PI was identified  (NAP:NAC-LIKE, ACTIVATED BY AP3/PI), which is homologous to genes required for  meristem establishment and separation of floral organs. The expression pattern of  NAP and the phenotypes caused by its misexpression suggest that it functions in  the transition between growth by cell division and cell expansion in stamens and  petals.', '1998 Jan 9', 'Cell', '10.1016/s0092-8674(00)80902-2', 'Meyerowitz']
-
-AP3/PI: !affects! petal and stamen formation
-AP3/PI: !controls! NAP
-NAP: !required for! meristem establishment
-NAP: !involved in! transition between cell division and expansion

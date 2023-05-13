@@ -1,7 +1,0 @@
-Past studies of plant disease and pest recognition used classification methods that presented a singular recognition result to the user. Unfortunately, incorrect recognition results may be output, which may lead to further crop damage. To address this issue, there is a need for a system that suggest several candidate results and allow the user to make the final decision. In this study, we propose a method for diagnosing plant diseases and identifying pests using deep features based on transfer learning. To extract deep features, we employ pre-trained VGG and ResNet 50 architectures based on the ImageNet dataset, and output disease and pest images similar to a query image <i>via</i> a <i>k</i>-nearest-neighbor algorithm. In this study, we use a total of 23,868 images of 19 types of hot-pepper diseases and pests, for which, the proposed model achieves accuracies of 96.02 and 99.61%, respectively. We also measure the effects of fine-tuning and distance metrics. The results show that the use of fine-tuning-based deep features increases accuracy by approximately 0.7-7.38%, and the Bray-Curtis distance achieves an accuracy of approximately 0.65-1.51% higher than the Euclidean distance.
-
-VGG/ResNet50: !extracts! Deep Features 
-ImageNet dataset: !used for! Pre-trained Architectures 
-k-nearest-neighbor algorithm: !outputs! Disease/Pest Images 
-Fine-tuning: !increases accuracy by! 0.7-7.38% 
-Bray-Curtis distance: !achieves accuracy of! 0.65-1.51% higher than Euclidean distance

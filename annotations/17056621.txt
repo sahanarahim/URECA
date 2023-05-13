@@ -1,8 +1,0 @@
-['17056621', 'Cytokinins stimulate shoot regeneration in tissue culture but the genes required  for this developmental process are not well understood. Here we show that the  Arabidopsis gene, ENHANCER OF SHOOT REGENERATION 2 (ESR2), encoding an AP2-domain  transcriptional factor, functions in the regeneration of shoots in tissue  culture. ESR2 overexpression conferred cytokinin-independent shoot regeneration  from cre1/ahk4 mutant explants, suggesting that CRE1 is not required for  ESR2-mediated shoot regeneration. ESR2 directly targeted CYCLIN D1;1, ARABIDOPSIS  PHOSPHOTRANSMITTER 6 (AHP6) and CUP-SHAPED COTYLEDON 1 (CUC1) in assays involving  the translocation of ESR2-ER (estradiol receptor) fusions to the nucleus.  Knock-down of ESR2 expression by RNA interference (RNAi) reduced CUC1 expression  and resulted in altered cotyledon phenotypes at a low frequency, including  partially fused cotyledons and triple cotyledons. Phenotypes of induced ESR2  expression in a cuc1-1 mutant background were suppressed. Our results suggest  that ESR2 plays a role in shoot regeneration through transcriptional regulation  of CUC1.', '2006 Nov', 'Plant Cell Physiol', '10.1093/pcp/pcl023', 'Chua']
-
-ESR2: !enhances! shoot regeneration 
-ESR2: !targets! CYCLIN D1;1 
-ESR2: !targets! AHP6 
-ESR2: !targets! CUC1 
-CUC1: !repressed by! ESR2 
-ESR2: !suppresses! cuc1-1 mutant phenotype

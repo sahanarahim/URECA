@@ -1,8 +1,0 @@
-['16249341', "The selective movement of ions between intracellular compartments is fundamental  for eukaryotes. Arabidopsis thaliana Na(+)/H(+) exchanger 1 (AtNHX1), the most  abundant vacuolar Na(+)/H(+) antiporter in A. thaliana, has important roles  affecting the maintenance of cellular pH, ion homeostasis, and the regulation of  protein trafficking. Previously, we have shown that the AtNHX1 C-terminal  hydrophilic region localized in the vacuolar lumen plays an important role in  regulating the antiporter's activity. Here, we have identified A. thaliana  calmodulin-like protein 15 (AtCaM15), which interacts with the AtNHX1 C terminus.  When expressed in yeast, AtCaM15 is localized in the vacuolar lumen. The  transient expression of AtCaM15 in Arabidopsis leaf protoplasts showed that  AtCaM15 is present in the central vacuole. The binding of AtCaM15 to AtNHX1 was  Ca(2+)- and pH-dependent and decreased with increasing pH values. Our results  also show that the binding of AtCaM15 to AtNHX1 modified the Na(+)/K(+)  selectivity of the antiporter, decreasing its Na(+)/H(+) exchange activity. Taken  together, the presence of a vacuolar calmodulin-like protein acting on the  vacuolar-localized AtNHX1 C terminus in a Ca(2+)- pH-dependent manner suggests  the presence of signaling entities acting within the vacuole.", '2005 Nov 1', 'Proc Natl Acad Sci U S A', '10.1073/pnas.0504437102', 'Blumwald']
-
-AtNHX1: !affects! Maintenance of cellular pH 
-AtNHX1: !localizes to! Vacuolar lumen 
-AtCaM15: !interacts with! AtNHX1 C terminus 
-AtCaM15: !localizes to! Vacuolar lumen 
-AtCaM15: !enhances! Na(+)/K(+) selectivity of antiporter 
-AtCaM15: !represses! Na(+)/H(+) exchange activity

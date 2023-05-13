@@ -1,8 +1,0 @@
-['10518493', "The transition to flowering is a crucial moment in a plant's life cycle of which  the mechanism has only been partly revealed. In a screen for early flowering,  after mutagenesis of the late-flowering fwa mutant of Arabidopsis thaliana, the  early flowering in short days (efs) mutant was identified. Under long-day light  conditions, the recessive monogenic efs mutant flowers at the same time as wild  type but, under short-day conditions, the mutant flowers much earlier. In  addition to its early-flowering phenotype, efs has several pleiotropic effects  such as a reduction in plant size, fertility and apical dominance. Double mutant  analysis with several late-flowering mutants from the autonomous promotion (fca  and fve) and the photoperiod promotion (co, fwa and gi) pathways of flowering  showed that efs reduces the flowering time of all these mutants. However, efs is  completely epistatic to fca and fve but additive to co, fwa and gi, indicating  that EFS is an inhibitor of flowering specifically involved in the autonomous  promotion pathway. A vernalisation treatment does not further reduce the  flowering time of the efs mutant, suggesting that vernalisation promotes  flowering through EFS. By comparing the length of the juvenile and adult phases  of vegetative growth for wild-type, efs and the double mutant plants, it is  apparent that efs mainly reduces the length of the adult phase.", '1999 Nov', 'Development', '10.1242/dev.126.21.4763', 'Koornneef']
-
-efs: !reduces! Plant size
-efs: !promotes! Flowering
-efs: !epistatic to! fca, fve
-efs: !additive to! co, fwa, gi
-efs: !inhibits! Autonomous promotion pathway
-efs: !reduces length of! Adult phase

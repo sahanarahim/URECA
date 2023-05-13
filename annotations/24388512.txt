@@ -1,8 +1,0 @@
-['24388512', 'microRNA172 (miR172) regulates phase transition and floral patterning in  Arabidopsis by repressing targets that encode the APETALA2 (AP2) and AP2-like  transcription factors. The miR172-mediated repression of the AP2 gene restricts  AGAMOUS (AG) expression. In addition, most miR172 targets, including AP2,  redundantly act as floral repressors, and the overexpression of the target genes  causes delayed flowering. However, how miR172 targets other than AP2 regulate  both of the developmental processes remains unclear. Here, we demonstrate that  miR172-mediated repression of the TARGET OF EAT 3 (TOE3) gene is critical for  floral patterning in Arabidopsis. Transgenic plants that overexpress a  miR172-resistant TOE3 gene (rTOE3-ox) exhibit indeterminate flowers with numerous  stamens and carpelloid organs, which is consistent with previous observations in  transgenic plants that overexpress a miR172-resistant AP2 gene. TOE3 binds to the  second intron of the AG gene. Accordingly, AG expression is significantly reduced  in rTOE3-ox plants. TOE3 also interacts with AP2 in the nucleus. Given the major  role of AP2 in floral patterning, miR172 likely regulates TOE3 in floral  patterning, at least in part via AP2. In addition, a miR156 target SQUAMOSA  PROMOTER BINDING PROTEIN-LIKE 3 directly activates TOE3 expression, revealing a  novel signaling interaction between miR156 and miR172 in floral patterning.', '2014 Feb', 'Plant Sci', '10.1016/j.plantsci.2013.10.010', 'Park']
-
-miR172: !represses! AP2 
-miR172: !represses! TOE3 
-AP2: !restricts! AG expression 
-TOE3: !binds to! AG gene 
-TOE3: !interacts with! AP2 
-miR156: !activates! TOE3

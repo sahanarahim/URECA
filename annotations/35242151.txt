@@ -1,9 +1,0 @@
-The common method for evaluating the extent of grape disease is to classify the disease spots according to the area. The prerequisite for this operation is to accurately segment the disease spots. This paper presents an improved DeepLab v3+ deep learning network for the segmentation of grapevine leaf black rot spots. The ResNet101 network is used as the backbone network of DeepLab v3+, and a channel attention module is inserted into the residual module. Moreover, a feature fusion branch based on a feature pyramid network is added to the DeepLab v3+ encoder, which fuses feature maps of different levels. Test set TS1 from Plant Village and test set TS2 from an orchard field were used for testing to verify the segmentation performance of the method. In the test set TS1, the improved DeepLab v3+ had 0.848, 0.881, and 0.918 on the mean intersection over union (mIOU), recall, and F1-score evaluation indicators, respectively, which was 3.0, 2.3, and 1.7% greater than the original DeepLab v3+. In the test set TS2, the improved DeepLab v3+ improved the evaluation indicators mIOU, recall, and F1-score by 3.3, 2.5, and 1.9%, respectively. The test results show that the improved DeepLab v3+ has better segmentation performance. It is more suitable for the segmentation of grape leaf black rot spots and can be used as an effective tool for grape disease grade assessment.
-
-DeepLab v3+: !improves! Segmentation Performance 
-ResNet101: !used as! Backbone Network 
-Channel Attention Module: !inserted into! Residual Module 
-Feature Pyramid Network: !fused with! DeepLab v3+ Encoder 
-Test Set TS1: !shows! 3.0, 2.3, 1.7% Improvement 
-Test Set TS2: !shows! 3.3, 2.5, 1.9% Improvement 
-Improved DeepLab v3+: !suitable for! Segmentation of Grape Leaf Black Rot Spots

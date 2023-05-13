@@ -1,9 +1,0 @@
-['22582101', 'Emerging plants have to adapt to a high ratio of far-red light (FR)/red light (R)  light in the canopy before they reach the R-enriched direct sunlight. Phytochrome  A (phyA) is the single dominant photoreceptor in young Arabidopsis thaliana  seedlings that initiates photomorphogenesis in response to a FR-enriched  environment and transduces increasing R signals to early responsive genes. To  date, how phyA differentially transmits FR and R signals to downstream genes  remains obscure. Here, we present a phyA pathway in which FAR-RED ELONGATED  HYPOCOTYL1 (FHY1), an essential partner of phyA, directly guides phyA to target  gene promoters and coactivates transcription. Furthermore, we identified two  phosphorylation sites on FHY1, Ser-39 and Thr-61, whose phosphorylation by phyA  under R inhibits phyA signaling at each step of its pathway. Deregulation of FHY1  phosphorylation renders seedlings colorblind to FR and R. Finally, we show that  the weaker phyA response resulting from FHY1 phosphorylation ensures the seedling  deetiolation process in response to a R-enriched light condition. Collectively,  our results reveal FHY1 phosphorylation as a key mechanism for FR/R  spectrum-specific responses in plants and an essential event for plant adaption  to changing light conditions in nature.', '2012 May', 'Plant Cell', '10.1105/tpc.112.097733', 'Deng']
-
-phyA: !initiates! photomorphogenesis 
-phyA: !transduces! increasing R signals 
-FHY1: !guides! phyA 
-FHY1: !coactivates! transcription 
-Ser-39/Thr-61: !phosphorylated by! phyA 
-Ser-39/Thr-61: !inhibits! phyA signaling 
-FHY1 phosphorylation: !ensures! seedling deetiolation

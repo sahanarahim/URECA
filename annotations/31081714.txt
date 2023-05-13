@@ -1,9 +1,0 @@
-The involvement of the long non-coding RNAs (lncRNAs) in small RNA (sRNA)-related pathways remains elusive. Taking advantage of the public sRNA sequencing data, we searched for RNA-dependent RNA polymerase 2 (RDR2)- and Dicer-like 3 (DCL3)-dependent sRNAs generated from the lncRNAs of <i>Arabidopsis thaliana</i>. First, 55,162 sRNAs were identified to be RDR2- and DCL3-dependent. These sRNAs were then mapped onto the lncRNAs. As a result, a total of 26,643 sRNAs found their loci on 3,834 lncRNAs, and 29,388 sRNAs found their loci on 4,174 reverse complementary (RC) sequences of the lncRNAs. To support the formation of the double-stranded precursors for sRNA generation, double-stranded RNA sequencing (dsRNA-seq) reads were mapped onto the sense and antisense strands of the lncRNAs with RDR2- and DCL3-dependent sRNA loci. As a result, 1,075 regions longer than 100 nt were identified to be covered by dsRNA-seq reads on 390 sense strands of the lncRNAs, and 1,352 regions were identified on 544 RC strands. Besides, 2,238 out of 3,211 dsRNA-seq read-covered sRNA loci were supported by degradome sequencing data on the sense strands of the lncRNAs. Interestingly, dozens of dsRNA-seq read-covered regions with AGO4-associated sRNA loci showed site-specific chromatin modification patterns. Thus, some of the lncRNAs were integrated into the RDR2- and DCL3-dependent sRNA biogenesis pathway. Moreover, our results indicated that the site-specific chromatin modifications mediated by the AGO4-associated sRNAs might play a regulatory role on the transcription activity of the lncRNA genes.
-
-RDR2: !generates! sRNAs 
-DCL3: !generates! sRNAs 
-lncRNAs: !contain! sRNAs 
-dsRNA-seq reads: !map to! lncRNAs 
-AGO4: !associates with! sRNA loci 
-sRNA loci: !modify! chromatin modification patterns 
-chromatin modification patterns: !regulate! transcription activity of lncRNA genes

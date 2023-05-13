@@ -1,7 +1,0 @@
-During seed imbibition and embryo activation, rapid change from a metabolically resting state to the activation of diverse extracellular and/or membrane bound molecules is essential and, hence, endocytosis could be activated too. In fact, we have documented endocytic internalization of the membrane impermeable endocytic tracer FM4-64 already upon 30 min of imbibition of Arabidopsis seeds. This finding suggest that endocytosis is activated early during seed imbibition in Arabidopsis. Immunolocalization of rhamnogalacturonan-II (RG-II) complexed with boron showed that whereas this pectin is localized only in the cell walls of dry seed embryos, it starts to be intracellular once the imbibition started. Brefeldin A (BFA) exposure resulted in recruitment of the intracellular RG-II pectin complexes into the endocytic BFA-induced compartments, confirming the endocytic origin of the RG-II signal detected intracellularly. Finally, germination was significantly delayed when Arabidopsis seeds were germinated in the presence of inhibitors of endocytic pathways, suggesting that trafficking of extracellular molecules might play an important role in the overcome of germination. This work constitutes the first demonstration of endocytic processes during germination and opens new perspectives about the role of the extracellular matrix and membrane components in seed germination.
-
-seed: !imbibes! water
-RG-II: !localizes to! cell walls
-RG-II: !internalized by! endocytosis
-BFA: !induces! endocytic compartments
-inhibitors: !delay! germination

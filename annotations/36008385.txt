@@ -1,6 +1,0 @@
-Tropical forests take up more carbon (C) from the atmosphere per annum by photosynthesis than any other type of vegetation. Phosphorus (P) limitations to C uptake are paramount for tropical and subtropical forests around the globe. Yet the generality of photosynthesis-P relationships underlying these limitations are in question, and hence are not represented well in terrestrial biosphere models. Here we demonstrate the dependence of photosynthesis and underlying processes on both leaf N and P concentrations. The regulation of photosynthetic capacity by P was similar across four continents. Implementing P constraints in the ORCHIDEE-CNP model, gross photosynthesis was reduced by 36% across the tropics and subtropics relative to traditional N constraints and unlimiting leaf P. Our results provide a quantitative relationship for the P dependence for photosynthesis for the front-end of global terrestrial C models that is consistent with canopy leaf measurements.
-
-N: !affects! Photosynthesis
-P: !affects! Photosynthesis
-Photosynthesis: !constrained by! P 
-ORCHIDEE-CNP model: !reduces! Gross photosynthesis

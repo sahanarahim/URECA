@@ -1,9 +1,0 @@
-Plant hormone abscisic acid (ABA) serves as an integrator of environmental stresses such as drought to trigger stomatal closure by regulating specific ion channels in guard cells. We previously reported that SLAC1, an outward anion channel required for stomatal closure, was regulated via reversible protein phosphorylation events involving ABA signaling components, including protein phosphatase 2C members and a SnRK2-type kinase (OST1). In this study, we reconstituted the ABA signaling pathway as a protein-protein interaction relay from the PYL/RCAR-type receptors, to the PP2C-SnRK2 phosphatase-kinase pairs, to the ion channel SLAC1. The ABA receptors interacted with and inhibited PP2C phosphatase activity against the SnRK2-type kinase, releasing active SnRK2 kinase to phosphorylate, and activate the SLAC1 channel, leading to reduced guard cell turgor and stomatal closure. Both yeast two-hybrid and bimolecular fluorescence complementation assays were used to verify the interactions among the components in the pathway. These biochemical assays demonstrated activity modifications of phosphatases and kinases by their interaction partners. The SLAC1 channel activity was used as an endpoint readout for the strength of the signaling pathway, depending on the presence of different combinations of signaling components. Further study using transgenic plants overexpressing one of the ABA receptors demonstrated that changing the relative level of interacting partners would change ABA sensitivity.
-
-ABA: !regulates! ion channels 
-PYL/RCAR-type receptors: !interact with! PP2C phosphatase 
-PP2C phosphatase: !inhibited by! PYL/RCAR-type receptors 
-SnRK2-type kinase: !released by! PYL/RCAR-type receptors 
-SnRK2-type kinase: !phosphorylates! SLAC1 channel 
-SLAC1 channel: !activated by! SnRK2-type kinase 
-ABA receptors: !change! ABA sensitivity

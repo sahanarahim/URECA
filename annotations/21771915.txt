@@ -1,8 +1,0 @@
-We present in this paper a novel, semiautomated image-analysis software to streamline the quantitative analysis of root growth and architecture of complex root systems. The software combines a vectorial representation of root objects with a powerful tracing algorithm that accommodates a wide range of image sources and quality. The root system is treated as a collection of roots (possibly connected) that are individually represented as parsimonious sets of connected segments. Pixel coordinates and gray level are therefore turned into intuitive biological attributes such as segment diameter and orientation as well as distance to any other segment or topological position. As a consequence, user interaction and data analysis directly operate on biological entities (roots) and are not hampered by the spatially discrete, pixel-based nature of the original image. The software supports a sampling-based analysis of root system images, in which detailed information is collected on a limited number of roots selected by the user according to specific research requirements. The use of the software is illustrated with a time-lapse analysis of cluster root formation in lupin (Lupinus albus) and an architectural analysis of the maize (Zea mays) root system. The software, SmartRoot, is an operating system-independent freeware based on ImageJ and relies on cross-platform standards for communication with data-analysis software.
-
-Software: !combines! Vector Representation 
-Software: !converts! Pixel Coordinates 
-Software: !supports! Sampling-Based Analysis 
-Software: !illustrated with! Time-Lapse Analysis 
-Software: !based on! ImageJ 
-Software: !relies on! Cross-Platform Standards

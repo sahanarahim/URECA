@@ -1,5 +1,0 @@
-Many patterning events in plants are regulated by the phytohormone auxin. In fact, so many things are under the influence of auxin that it seems difficult to understand how a single hormone can do so much. Auxin moves throughout the plant via a network of specialized membrane-bound import and export proteins, which are often differentially expressed and polarized depending on tissue type. Here, we review simulation models of pattern formation that are based on the control of these transporters by auxin itself. In these transport-feedback models, diversity in patterning comes not from the addition of more morphogens, but rather by varying the mechanism that regulates the transporters.
-
-auxin: !regulates! transporters 
-transporters: !import/export! auxin 
-auxin: !controls! pattern formation

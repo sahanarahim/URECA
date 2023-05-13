@@ -1,9 +1,0 @@
-Ethylene evolution from plants inhibits Agrobacterium-mediated genetic transformation, but the mechanism is little understood. In this study, the possible role of ethylene in Agrobacterium-mediated genetic transformation was clarified. It was tested whether or not plant ethylene sensitivity affected genetic transformation; the sensitivity might regulate bacterial growth during co-cultivation and vir gene expression in Agrobacterium tumefaciens. For these experiments, melon (Cucumis melo) was used, in which ethylene sensitivity was controlled by chemicals, and Arabidopsis ethylene-insensitive mutants. Agrobacterium-mediated genetic transformation was inhibited in ethylene-sensing melon, whereas, in Arabidopsis ethylene-insensitive mutant, it was enhanced. However, the ethylene sensitivity did not affect bacterial growth. vir gene expression was inhibited by application of plant exudate from ethylene-sensitive plants. The inhibitory effect of the ethylene sensitivity on genetic transformation relieved the activation of vir gene expression in A. tumefaciens with vir gene inducer molecule (acetosyringone, AS) or A. tumefaciens mutant strain which has constitutive vir gene expression. These results indicate that ethylene evolution from a plant inoculated with A. tumefaciens inhibited vir gene expression in A. tumefaciens through the ethylene signal transduction in the plant, and, as a result, Agrobacterium-mediated genetic transformation was inhibited.
-
-plant: !evolves! ethylene 
-ethylene: !inhibits! Agrobacterium-mediated genetic transformation 
-ethylene sensitivity: !regulates! bacterial growth 
-ethylene sensitivity: !affects! genetic transformation 
-ethylene sensitivity: !inhibits! vir gene expression 
-acetosyringone: !induces! vir gene expression 
-A. tumefaciens mutant strain: !constitutes! vir gene expression

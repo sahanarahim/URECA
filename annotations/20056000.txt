@@ -1,8 +1,0 @@
-Identification of genes with invariant levels of gene expression is a prerequisite for validating transcriptomic changes accompanying development. Ideally expression of these genes should be independent of the morphogenetic process or environmental condition tested as well as the methods used for RNA purification and analysis. In an effort to identify endogenous genes meeting these criteria nine reference genes (RG) were tested in two Petunia lines (Mitchell and V30). Growth conditions differed in Mitchell and V30, and different methods were used for RNA isolation and analysis. Four different software tools were employed to analyze the data. We merged the four outputs by means of a non-weighted unsupervised rank aggregation method. The genes identified as optimal for transcriptomic analysis of Mitchell and V30 were EF1alpha in Mitchell and CYP in V30, whereas the least suitable gene was GAPDH in both lines. The least adequate gene turned out to be GAPDH indicating that it should be rejected as reference gene in Petunia. The absence of correspondence of the best-suited genes suggests that assessing reference gene stability is needed when performing normalization of data from transcriptomic analysis of flower and leaf development.
-
-Growth conditions: !differ in! Mitchell and V30
-RNA isolation: !differs in! Mitchell and V30
-Analysis tools: !used for! RNA purification and analysis
-EF1alpha: !identified as optimal for! Mitchell
-CYP: !identified as optimal for! V30
-GAPDH: !identified as least suitable for! Mitchell and V30

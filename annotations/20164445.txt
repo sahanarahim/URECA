@@ -1,9 +1,0 @@
-['20164445', 'The molybdenum cofactor (Moco) is a prosthetic group required by a number of  enzymes, such as nitrate reductase, sulfite oxidase, xanthine dehydrogenase, and  aldehyde oxidase. Its biosynthesis in eukaryotes can be divided into four steps,  of which the last three are proposed to occur in the cytosol. Here, we report  that the mitochondrial ABC transporter ATM3, previously implicated in the  maturation of extramitochondrial iron-sulfur proteins, has a crucial role also in  Moco biosynthesis. In ATM3 insertion mutants of Arabidopsis thaliana, the  activities of nitrate reductase and sulfite oxidase were decreased to  approximately 50%, whereas the activities of xanthine dehydrogenase and aldehyde  oxidase, whose activities also depend on iron-sulfur clusters, were virtually  undetectable. Moreover, atm3 mutants accumulated cyclic pyranopterin  monophosphate, the first intermediate of Moco biosynthesis, but showed decreased  amounts of Moco. Specific antibodies against the Moco biosynthesis proteins CNX2  and CNX3 showed that the first step of Moco biosynthesis is localized in the  mitochondrial matrix. Together with the observation that cyclic pyranopterin  monophosphate accumulated in purified mitochondria, particularly in atm3 mutants,  our data suggest that mitochondria and the ABC transporter ATM3 have a novel role  in the biosynthesis of Moco.', '2010 Feb', 'Plant Cell', '10.1105/tpc.109.068478', 'Bittner']
-
-ATM3: !localizes to! Mitochondria 
-ATM3: !affects! Moco biosynthesis 
-CNX2/CNX3: !localizes to! Mitochondrial matrix 
-Nitrate reductase/Sulfite oxidase: !affected by! ATM3 
-Xanthine dehydrogenase/Aldehyde oxidase: !affected by! ATM3 
-Cyclic pyranopterin monophosphate: !accumulates in! Purified mitochondria 
-Cyclic pyranopterin monophosphate: !accumulates in! atm3 mutants

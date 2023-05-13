@@ -1,9 +1,0 @@
-Growth under water deficit is controlled by short-term mechanisms but, because of numerous feedbacks, the combination of these mechanisms over time often results in outputs that cannot be deduced from the simple inspection of individual mechanisms. It can be analysed with dynamic models in which causal relationships between variables are considered at each time-step, allowing calculation of outputs that are routed back to inputs for the next time-step and that can change the system itself. We first review physiological mechanisms involved in seven feedbacks of transpiration on plant growth, involving changes in tissue hydraulic conductance, stomatal conductance, plant architecture and underlying factors such as hormones or aquaporins. The combination of these mechanisms over time can result in non-straightforward conclusions as shown by examples of simulation outputs: 'over production of abscisic acid (ABA) can cause a lower concentration of ABA in the xylem sap ', 'decreasing root hydraulic conductance when evaporative demand is maximum can improve plant performance' and 'rapid root growth can decrease yield'. Systems of equations simulating feedbacks over numerous time-steps result in logical and reproducible emergent properties that can be viewed as 'meta-mechanisms' at plant level, which have similar roles as mechanisms at cell level.
-
-Tissue hydraulic conductance: !affects! Plant architecture 
-Stomatal conductance: !affects! Plant growth 
-Hormones: !influence! Stomatal conductance 
-Aquaporins: !regulate! Tissue hydraulic conductance 
-Abscisic acid: !controls! Xylem sap concentration 
-Root hydraulic conductance: !modulates! Evaporative demand 
-Root growth: !impacts! Yield

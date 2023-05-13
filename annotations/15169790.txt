@@ -1,8 +1,0 @@
-['15169790', 'PSI-O is a subunit of photosystem I in eukaryotes. The function of PSI-O was  characterized in Arabidopsis plants using RNA interference. Several transformants  with the psaO-RNAi construct were generated, and a high proportion of the plants  contained only very little or virtually no residual PSI-O. Plants lacking PSI-O  have a 50% reduction in state transitions indicating a role for PSI-O in the  balancing of excitation energy between the two photosystems. PSI-H and -L have  been shown previously to be involved in state transitions, and immunoblot  analysis revealed that plants devoid of PSI-L or -H also have 80-90% reduction in  the abundance of PSI-O. In contrast, down-regulation of PSI-O has no negative  effect on the content of PSI-H and -L. The interaction between PSI-O and the  PSI-L was confirmed by chemical cross-linking. A model of PSI is proposed in  which PSI-L as the most ancient subunit is closest to the reaction center, and  PSI-O is positioned close to PSI-L on the PSI-H/-L/-I side of the PSI complex.  PSI-H, -L, -O, and possibly -I are all involved in forming a domain in PSI that  is involved in the interaction with light-harvesting complex II.', '2004 Jun 4', 'J Biol Chem', '10.1074/jbc.M403147200', 'Scheller']
-
-PSI-O: !affects! State transitions 
-PSI-O: !interacts with! PSI-L 
-PSI-H: !interacts with! PSI-O 
-PSI-L: !interacts with! PSI-O 
-PSI-O: !localizes to! PSI-H/-L/-I side of the PSI complex 
-PSI-H/-L/-O/-I: !form! Domain in PSI that interacts with light-harvesting complex II

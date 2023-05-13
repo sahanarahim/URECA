@@ -1,8 +1,0 @@
-Glandular trichomes are currently known only to store mono- and sesquiterpene compounds in the subcuticular cavity just above the apical cells of trichomes or emit them into the headspace. We demonstrate that basipetal secretions can also occur, by addressing the organization of the biosynthesis and storage of pyrethrins in pyrethrum (Tanacetum cinerariifolium) flowers. Pyrethrum produces a diverse array of pyrethrins and sesquiterpene lactones for plant defense. The highest concentrations accumulate in the flower achenes, which are densely covered by glandular trichomes. The trichomes of mature achenes contain sesquiterpene lactones and other secondary metabolites, but no pyrethrins. However, during achene maturation, the key pyrethrin biosynthetic pathway enzyme chrysanthemyl diphosphate synthase is expressed only in glandular trichomes. We show evidence that chrysanthemic acid is translocated from trichomes to pericarp, where it is esterified into pyrethrins that accumulate in intercellular spaces. During seed maturation, pyrethrins are then absorbed by the embryo, and during seed germination, the embryo-stored pyrethrins are recruited by seedling tissues, which, for lack of trichomes, cannot produce pyrethrins themselves. The findings demonstrate that plant glandular trichomes can selectively secrete in a basipetal direction monoterpenoids, which can reach distant tissues, participate in chemical conversions, and immunize seedlings against insects and fungi.
-
-gene: !synthesizes! chrysanthemyl diphosphate synthase 
-chrysanthemyl diphosphate synthase: !translocates to! pericarp 
-pericarp: !esterifies into! pyrethrins 
-pyrethrins: !accumulate in! intercellular spaces 
-intercellular spaces: !absorb by! embryo 
-embryo: !recruits! seedling tissues

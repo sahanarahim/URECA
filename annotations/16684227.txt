@@ -1,8 +1,0 @@
-The ability of a genotype to change its phenotype was once considered rather a nuisance -- making it difficult to define a genotype. This led to the idea that there was a problem called 'instability'. But quite early it was recognized that stability was under genetic control, and was a character like other attributes of an individual. From this realization came the idea that there were two sides to the character of 'instability', and that the ability to change could be important. This ability was thus given the title of 'plasticity'. Once recognized, it became clear from surveys of different species and populations that plasticity can (i) be a complex character, and (ii) be selected to fit species to the particular demands of different environments. For plants, which cannot meet variations in environment like animals by behavioural responses, phenotypic plasticity can be very important. Plants should therefore be valuable tools for unravelling the mechanisms of plasticity whilst also demonstrating its contribution to fitness experimentally. We ought also to be able to demonstrate that appropriate genetic variability is available through which complex responses can be built up by selection. Genes must exist not only to determine character means, but also to determine character response, which adds interesting complexity to our ideas about evolution.
-
-genotype: !affects! phenotype
-instability: !controlled by! genes
-plasticity: !selected to fit! species
-plasticity: !contributes to! fitness
-genes: !determine! character means
-genes: !determine! character response

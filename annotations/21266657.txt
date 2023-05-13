@@ -1,7 +1,0 @@
-['21266657', 'The Arabidopsis thaliana trithorax-like protein, ATX1, shares common structural  domains, has similar histone methyltransferase (HMT) activity, and belongs in the  same phylogenetic subgroup as its animal counterparts. Most of our knowledge of  the role of HMTs in trimethylating lysine 4 of histone H3 (H3K4me3) in  transcriptional regulation comes from studies of yeast and mammalian homologs.  Little is known about the mechanism by which ATX1, or any other HMT of plant  origin, affects transcription. Here, we provide insights into how ATX1 influences  transcription at regulated genes, playing two distinct roles. At promoters, ATX1  is required for TATA binding protein (TBP) and RNA Polymerase II (Pol II)  recruitment. In a subsequent event, ATX1 is recruited by a phosphorylated form of  Pol II to the +300-bp region of transcribed sequences, where it trimethylates  nucleosomes. In support of this model, inhibition of phosphorylation of the  C-terminal domain of Pol II reduced the amounts of H3K4me3 and ATX1 bound at the  +300-nucleotide region. Importantly, these changes did not reduce the occupancy  of ATX1, TBP, or Pol II at promoters. Our results indicate that ATX1 affects  transcription at target genes by a mechanism distinct from its ability to  trimethylate H3K4 within genes.', '2011 Jan', 'Plant Cell', '10.1105/tpc.110.080150', 'Fromm']
-
-ATX1: !affects! transcription 
-ATX1: !recruits! TBP 
-ATX1: !recruits! Pol II 
-Pol II: !recruits! ATX1 
-ATX1: !trimethylates! nucleosomes

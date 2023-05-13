@@ -1,7 +1,0 @@
-Stem rust (or black rust) of wheat, caused by <i>Puccinia graminis</i> f. sp. <i>tritici</i> (<i>Pgt</i>), is a re-emerging, major threat to wheat production worldwide. Here, we retrieved, analyzed, and synthetized the available information about <i>Pgt</i> to develop a mechanistic, weather-driven model for predicting stem rust epidemics caused by uredospores. The ability of the model to predict the first infections in a season was evaluated using field data collected in three wheat-growing areas of Italy (Emilia-Romagna, Apulia, and Sardinia) from 2016 to 2021. The model showed good accuracy, with a posterior probability to correctly predict infections of 0.78 and a probability that there was no infection when not predicted of 0.96. The model's ability to predict disease progress during the growing season was also evaluated by using published data obtained from trials in Minnesota, United States, in 1968, 1978, and 1979, and in Pennsylvania, United States, in 1986. Comparison of observed versus predicted data generated a concordance correlation coefficient of 0.96 and an average distance between real data and the fitted line of 0.09. The model could therefore be considered accurate and reliable for predicting epidemics of wheat stem rust and could be tested for its ability to support risk-based control of the disease.
-
-Pgt: !causes! Stem rust 
-Model: !predicts! Infections 
-Model: !evaluated by! Field data 
-Model: !accurate with! Posterior probability 
-Model: !reliable for! Predicting epidemics

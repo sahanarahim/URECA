@@ -1,9 +1,0 @@
-The plant hormone ethylene participates in the regulation of a variety of developmental processes and serves as a key mediator of plant responses to biotic and abiotic stress factors. The diversity of ethylene functions is achieved, at least in part, by combinatorial interactions with other hormonal signals. Here, we show that ethylene-triggered inhibition of root growth, one of the classical effects of ethylene in Arabidopsis thaliana seedlings, is mediated by the action of the WEAK ETHYLENE INSENSITIVE2/ANTHRANILATE SYNTHASE alpha1 (WEI2/ASA1) and WEI7/ANTHRANILATE SYNTHASE beta1 (ASB1) genes that encode alpha- and beta-subunits of a rate-limiting enzyme of Trp biosynthesis, anthranilate synthase. Upregulation of WEI2/ASA1 and WEI7/ASB1 by ethylene results in the accumulation of auxin in the tip of primary root, whereas loss-of-function mutations in these genes prevent the ethylene-mediated auxin increase. Furthermore, wei2 and wei7 suppress the high-auxin phenotypes of superroot1 (sur1) and sur2, two auxin-overproducing mutants, suggesting that the roles of WEI2 and WEI7 in the regulation of auxin biosynthesis are not restricted to the ethylene response. Together, these findings reveal that ASA1 and ASB1 are key elements in the regulation of auxin production and an unexpected node of interaction between ethylene responses and auxin biosynthesis in Arabidopsis. This study provides a mechanistic explanation for the root-specific ethylene insensitivity of wei2 and wei7, illustrating how interactions between hormones can be used to achieve response specificity.
-
-ethylene: !triggers! inhibition of root growth
-WEI2/ASA1: !upregulated by! ethylene
-WEI7/ASB1: !upregulated by! ethylene
-WEI2/ASA1: !accumulates! auxin
-WEI7/ASB1: !accumulates! auxin
-wei2: !suppresses! high-auxin phenotypes
-wei7: !suppresses! high-auxin phenotypes

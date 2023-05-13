@@ -1,8 +1,0 @@
-The knotted1 (kn1) homeobox (knox) gene family was first identified through gain-of-function dominant mutants in maize (Zea mays). Class I knox members are expressed in meristems but excluded from leaves. In maize, a loss-of-function phenotype has only been characterized for kn1. To assess the function of another knox member, we characterized a loss-of-function mutation of rough sheath1 (rs1). rs1-mum1 has no phenotype alone but exacerbates several aspects of the kn1 phenotype. In permissive backgrounds in which kn1 mutants grow to maturity, loss of a single copy of rs1 enhances the tassel branch reduction phenotype, while loss of both copies results in limited shoots. In less introgressed lines, double mutants can grow to maturity but are shorter. Using a KNOX antibody, we demonstrate that RS1 binds in vivo to some of the KN1 target genes, which could partially explain why KN1 binds many genes but modulates few. Our results demonstrate an unequal redundancy between knox genes, with a role for rs1 only revealed in the complete absence of kn1.
-
-kn1: !affects! meristems
-rs1: !affects! tassel branch reduction
-kn1: !binds to! KN1 target genes
-rs1: !binds to! KN1 target genes
-kn1: !exacerbates! rs1 phenotype
-rs1: !exacerbates! kn1 phenotype

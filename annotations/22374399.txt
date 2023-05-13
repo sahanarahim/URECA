@@ -1,8 +1,0 @@
-Under blue light (BL) illumination, Arabidopsis thaliana roots grow away from the light source, showing a negative phototropic response. However, the mechanism of root phototropism is still unclear. Using a noninvasive microelectrode system, we showed that the BL sensor phototropin1 (phot1), the signal transducer NONPHOTOTROPIC HYPOCOTYL3 (NPH3), and the auxin efflux transporter PIN2 were essential for BL-induced auxin flux in the root apex transition zone. We also found that PIN2-green fluorescent protein (GFP) localized to vacuole-like compartments (VLCs) in dark-grown root epidermal and cortical cells, and phot1/NPH3 mediated a BL-initiated pathway that caused PIN2 redistribution to the plasma membrane. When dark-grown roots were exposed to brefeldin A (BFA), PIN2-GFP remained in VLCs in darkness, and BL caused PIN2-GFP disappearance from VLCs and induced PIN2-GFP-FM4-64 colocalization within enlarged compartments. In the nph3 mutant, both dark and BL BFA treatments caused the disappearance of PIN2-GFP from VLCs. However, in the phot1 mutant, PIN2-GFP remained within VLCs under both dark and BL BFA treatments, suggesting that phot1 and NPH3 play different roles in PIN2 localization. In conclusion, BL-induced root phototropism is based on the phot1/NPH3 signaling pathway, which stimulates the shootward auxin flux by modifying the subcellular targeting of PIN2 in the root apex transition zone.
-
-phot1: !mediates! NPH3 
-NPH3: !modifies! PIN2 localization 
-PIN2: !localizes to! VLCs 
-BL: !induces! PIN2 redistribution 
-BFA: !causes! PIN2 disappearance from VLCs 
-phot1/NPH3: !stimulates! shootward auxin flux

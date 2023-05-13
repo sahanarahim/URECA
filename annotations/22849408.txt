@@ -1,7 +1,0 @@
-Phytochromes are red and far-red light receptors in plants that mediate critical responses to light throughout the lifecycle. They achieve this in part by targeting negatively acting bHLH transcription factors called phytochrome-interacting factors (PIFs) for degradation within the nucleus. However, it is not known whether protein degradation is the primary mechanism by which phytochromes inhibit these repressors of photomorphogenesis. Here, we use chromatin immunoprecipitation to show that phyB inhibits the regulatory activity of PIF1 and PIF3 by releasing them from their DNA targets. The N-terminal fragment of phyB (NG-GUS-NLS; NGB) also inhibits binding of PIF3 to its target promoters. However, unlike full-length phyB, NGB does not promote PIF3 degradation, establishing the activity of NGB reflects its ability to inhibit PIF binding to DNA. We further show that Pfr forms of both full-length phyB and NGB inhibit DNA binding of PIF1 and PIF3 in vitro. Taken together, our results indicate that phyB inhibition of PIF function involves two separate processes: sequestration and protein degradation.
-
-phyB: !inhibits! PIF1 
-phyB: !inhibits! PIF3 
-NGB: !inhibits! PIF3 binding to DNA 
-Pfr: !inhibits! PIF1 binding to DNA 
-Pfr: !inhibits! PIF3 binding to DNA

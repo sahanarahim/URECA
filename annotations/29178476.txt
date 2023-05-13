@@ -1,9 +1,0 @@
-The pharmaceutically valuable monoterpene indole alkaloids (MIAs) in Catharanthus roseus are derived from the indole and iridoid pathways that respond to jasmonate (JA) signaling. Two classes of JA-responsive bHLH transcription factor (TF), CrMYC2 and BIS1/BIS2, are known to regulate the indole and iridoid pathways, respectively. However, upregulation of either one of the TF genes does not lead to increased MIA accumulation. Moreover, little is known about the interconnection between the CrMYC2 and BIS transcriptional cascades and the hierarchical position of BIS1/BIS2 in JA signaling. Here, we report that a newly identified bHLH factor, Repressor of MYC2 Targets 1 (RMT1), is activated by CrMYC2 and BIS1, and acts as a repressor of the CrMYC2 targets. In addition, we isolated and functionally characterized the core C. roseus JA signaling components, including CORONATINE INSENSITIVE 1 (COI1) and JASMONATE ZIM domain (JAZ) proteins. CrMYC2 and BIS1 are repressed by the JAZ proteins in the absence of JA, but de-repressed by the SCF<sup>COI</sup><sup>1</sup> complex on perception of JA. Our findings suggest that the repressors, JAZs and RMT1, mediate crosstalk between the CrMYC2 and BIS regulatory cascades to balance the metabolic flux in MIA biosynthesis.
-
-CrMYC2: !activates! RMT1 
-BIS1: !activates! RMT1 
-RMT1: !represses! CrMYC2 targets 
-COI1: !de-represses! CrMYC2 
-JAZ: !represses! CrMYC2 
-SCF<sup>COI</sup><sup>1</sup>: !de-represses! CrMYC2 
-JAZ: !represses! BIS1

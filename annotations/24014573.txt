@@ -1,9 +1,0 @@
-In perfusion experiments, the hydraulic conductance of stem segments ( ) responds to changes in the properties of the perfusate, such as the ionic strength ( ), pH, and cationic identity. We review the experimental and theoretical work on this phenomenon. We then proceed to explore the hypothesis that electrokinetic effects in the bordered pit membrane (BPM) contribute to this response. In particular, we develop a model based on electroviscosity in which hydraulic conductance of an electrically charged porous membrane varies with the properties of the electrolyte. We use standard electrokinetic theory, coupled with measurements of electrokinetic properties of plant materials from the literature, to determine how the conductance of BPMs, and therefore , may change due to electroviscosity. We predict a nonmonotonic variation of with with a maximum reduction of 18%. We explore how this reduction depends on the characteristics of the sap and features of the BPM, such as pore size, density of chargeable sites, and their dissociation constant. Our predictions are consistent with changes in observed for physiological values of sap and pH. We conclude that electroviscosity is likely responsible, at least partially, for the electrolyte dependence of conductance through pits and that electroviscosity may be strong enough to play an important role in other transport processes in xylem. We conclude by proposing experiments to differentiate the impact of electroviscosity on from that of other proposed mechanisms.
-
-electroviscosity: !affects! hydraulic conductance
-sap: !influences! electroviscosity
-pH: !influences! electroviscosity
-BPM: !contributes to! response
-BPM: !varies with! sap properties
-BPM: !varies with! pH
-chargeable sites: !vary with! dissociation constant

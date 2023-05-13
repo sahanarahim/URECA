@@ -1,6 +1,0 @@
-An expression was earlier derived for the non-steady state isotopic composition of a leaf when the composition of the water entering the leaf was not necessarily the same as that of the water being transpired (Farquhar and Cernusak 2005). This was relevant to natural conditions because the associated time constant is typically sufficiently long to ensure that the leaf water composition and fluxes of the isotopologues are rarely steady. With the advent of laser-based measurements of isotopologues, leaves have been enclosed in cuvettes and time courses of fluxes recorded. The enclosure modifies the time constant by effectively increasing the resistance to the one-way gross flux out of the stomata because transpiration increases the vapour concentration within the chamber. The resistance is increased from stomatal and boundary layer in series, to stomata, boundary layer and chamber resistance, where the latter is given by the ratio of leaf area to the flow rate out of the chamber. An apparent change in concept from one-way to net flux, introduced by Song, Simonin, Loucos and Barbour (2015) is resolved, and shown to be unnecessary, but the value of their data is reinforced.
-
-Gene: !affects! Process 
-Process: !modifies! Time Constant 
-Time Constant: !increases! Resistance 
-Resistance: !given by! Ratio of Leaf Area to Flow Rate

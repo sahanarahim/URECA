@@ -1,8 +1,0 @@
-Changes in cytosolic free calcium ([Ca(2+)]cyt) are an early and essential element of signalling networks activated by the perception of pathogen-associated molecular patterns (PAMPs), such as flg22. The flg22-induced calcium signal has been described on whole-plant, but not on single-cell scale so far. Also, the Ca(2+) sources and channels contributing to its generation are still obscure. Ratiometric fluorescence imaging employing the calcium reporter Yellow Cameleon 3.6 was performed to analyse the flg22-induced calcium signature in single guard cells of Arabidopsis thaliana. Calcium stores and channel types involved in its generation were determined by a pharmacological approach. In contrast to the calcium signal determined on whole-plant level, the signature on single-cell level is not characterized by one sustained response, but by oscillations in [Ca(2+)]cyt. These oscillations were abolished by EGTA and lanthanum, as well as by U73122, neomycin and TMB-8, but only partially or not at all affected by inhibitors of glutamate receptor-like channels and cyclic nucleotide-gated channels. Our analyses suggest that the response observed on whole-plant level is the summary of oscillations occurring in single cells. Parallel to external calcium, influx via channels located at internal stores contributes to the signal.
-
-flg22: !induces! [Ca(2+)]cyt
-EGTA/lanthanum: !inhibits! [Ca(2+)]cyt oscillations
-U73122/neomycin/TMB-8: !inhibits! [Ca(2+)]cyt oscillations
-glutamate receptor-like channels: !partially inhibits! [Ca(2+)]cyt oscillations
-cyclic nucleotide-gated channels: !does not inhibit! [Ca(2+)]cyt oscillations
-internal stores: !contributes to! calcium influx

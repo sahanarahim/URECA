@@ -1,7 +1,0 @@
-['24795278', 'DNA damage is a significant problem in living organisms and DNA repair pathways  have been evolved in different species to maintain genomic stability. Here we  demonstrated the molecular function of AtMMS21, a component of SMC5/6 complex, in  plant DNA damage response. Compared with wild type, the AtMMS21 mutant plants  show hypersensitivity in the DNA damaging treatments by MMS, cisplatin and gamma  radiation. However, mms21-1 is not sensitive to replication blocking agents  hydroxyurea and aphidicolin. The expression of a DNA damage response gene PARP2  is upregulated in mms21-1 under normal condition, suggesting that this signaling  pathway is constitutively activated in the mutant. Depletion of  ATAXIA-TELANGIECTASIA MUTATED (ATM) in mms21-1 enhances its root growth defect  phenotype, indicating that ATM and AtMMS21 may play additive roles in DNA damage  pathway. The analysis of homologous recombination frequency showed that the  number of recombination events is reduced in mms21-1 mutant. Conclusively, we  provided evidence that AtMMS21 plays an important role in homologous  recombination for DNA damage repair.', '2014 Sep', 'DNA Repair (Amst)', '10.1016/j.dnarep.2014.04.006', 'Yang']
-
-AtMMS21: !affects! DNA damage response 
-AtMMS21: !interacts with! ATM 
-AtMMS21: !enhances! homologous recombination frequency 
-PARP2: !upregulated in! mms21-1 
-ATM: !depleted in! mms21-1

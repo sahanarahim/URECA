@@ -1,7 +1,0 @@
-Aerial parts of plants curve towards the light (i.e. positive phototropism), and roots typically grow away from the light (i.e. negative phototropism). In addition, Arabidopsis roots exhibit positive phototropism relative to red light (RL), and this response is mediated by phytochromes A and B (phyA and phyB). Upon light stimulation, phyA and phyB interact with the phytochrome kinase substrate (PKS1) in the cytoplasm. In this study, we investigated the role of PKS1, along with phyA and phyB, in the positive phototropic responses to RL in roots. Using a high-resolution feedback system, we studied the phenotypic responses of roots of phyA, phyB, pks1, phyA pks1 and phyB pks1 null mutants as well as the PKS1-overexpressing line in response to RL. PKS1 emerged as an intermediary in the signalling pathways and appears to promote a negative curvature to RL in roots. In addition, phyA and phyB were both essential for a positive response to RL and act in a complementary fashion. However, either photoreceptor acting without the other results in negative curvature in response to red illumination so that the mode of action differs depending on whether phyA and phyB act independently or together. Our results suggest that PKS1 is part of a signalling pathway independent of phyA and phyB and that PKS1 modulates RL-based root phototropism.
-
-phyA: !interacts with! PKS1
-phyB: !interacts with! PKS1
-PKS1: !modulates! RL-based root phototropism
-phyA: !acts with! phyB
-phyA: !acts independently of! phyB

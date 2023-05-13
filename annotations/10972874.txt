@@ -1,8 +1,0 @@
-['10972874', 'Abscisic acid (ABA) is a plant hormone involved in seed development and responses  to various environmental stresses. Oxidation of abscisic aldehyde is the last  step of ABA biosynthesis and is catalysed by aldehyde oxidase (EC 1.2.3.1). We  have reported the occurrence of three isoforms of aldehyde oxidase, AOalpha,  AObeta and AOgamma, in Arabidopsis thaliana seedlings, but none oxidized abscisic  aldehyde. Here we report a new isoform, AOdelta, found in rosette leaf extracts,  which efficiently oxidizes abscisic aldehyde. AO delta was specifically  recognized by antibodies raised against a recombinant peptide encoded by AAO3,  one of four Arabidopsis aldehyde oxidase genes (AAO1, AAO2, AAO3 and AAO4).  Functionally expressed AAO3 protein in the yeast Pichia pastoris showed a  substrate preference very similar to that of rosette AOdelta. These results  indicate that AOdelta is encoded by AAO3. AOdelta produced in P. pastoris  exhibited a very low Km value for abscisic aldehyde (0.51 microM), and the  oxidation product was determined by gas chromatography-mass spectrometry to be  ABA. Northern analysis showed that AAO3 mRNA is highly expressed in rosette  leaves. When the rosette leaves were detached and exposed to dehydration, AAO3  mRNA expression increased rapidly within 3 h of the treatment. These results  suggest that AOdelta, the AAO3 gene product, acts as an abscisic aldehyde oxidase  in Arabidopsis rosette leaves.', '2000 Aug', 'Plant J', '10.1046/j.1365-313x.2000.00812.x', 'Koshiba']
-
-AOdelta: !encoded by! AAO3 
-AAO3: !expresses! AOdelta 
-AOdelta: !oxidizes! abscisic aldehyde 
-abscisic aldehyde: !produces! ABA 
-AAO3 mRNA: !highly expressed in! rosette leaves 
-rosette leaves: !increase expression of! AAO3 mRNA

@@ -1,8 +1,0 @@
-The Mesorhizobium loti R7A symbiosis island contains genes encoding a VirB/D4 type IV secretion system (T4SS) similar to that of Agrobacterium tumefaciens. This system has host-dependent effects on symbiosis that probably are due to translocation of two effector proteins, Msi059 and Msi061, into host cells. Here we report that, as in A. tumefaciens, the M. loti vir genes are transcriptionally regulated by a VirA/VirG two-component regulatory system. A virGN54D mutant gene of M. loti caused constitutive expression of lacZ reporter gene fusions to virB1, virD4, msi059, and msi061. Expression of these gene fusions also was activated by a NodD gene product from Rhizobium leguminosarum in the presence of the inducer naringenin, as was a virA::lacZ fusion. This activation was dependent on a nod box present 851 bp upstream of virA, and a mutant with the nod box deleted formed effective nodules on Leucaena leucocephala, the same symbiotic phenotype as other M. loti vir mutants. In contrast, the wild-type strain formed small, empty nodules whereas a nodD1 mutant was completely Nod-. These results indicate that the M. loti vir genes are induced in a symbiosis-specific manner that involves a two-tiered regulatory cascade, and that the vir effectors act after Nod factor during infection thread formation.
-
-VirA/VirG: !regulates! vir genes
-NodD: !induces! VirA
-nod box: !activates! NodD
-Msi059/Msi061: !translocated by! T4SS
-VirGN54D: !constitutively expresses! virB1, virD4, msi059, msi061
-NodD1: !completely Nod-!

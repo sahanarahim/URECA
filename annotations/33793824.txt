@@ -1,9 +1,0 @@
-Although regulatory small RNAs have been reported in photosynthetic cyanobacteria, the lack of clear RNA chaperones involved in their regulation poses a conundrum. Here, we analyzed the full complement of cellular RNAs and proteins using gradient profiling by sequencing (Grad-seq) in Synechocystis 6803. Complexes with overlapping subunits such as the CpcG1-type versus the CpcL-type phycobilisomes or the PsaK1 versus PsaK2 photosystem I pre(complexes) could be distinguished, supporting the high quality of this approach. Clustering of the in-gradient distribution profiles followed by several additional criteria yielded a short list of potential RNA chaperones that include an YlxR homolog and a cyanobacterial homolog of the KhpA/B complex. The data suggest previously undetected complexes between accessory proteins and CRISPR-Cas systems, such as a Csx1-Csm6 ribonucleolytic defense complex. Moreover, the exclusive association of either RpoZ or 6S RNA with the core RNA polymerase complex and the existence of a reservoir of inactive sigma-antisigma complexes is suggested. The Synechocystis Grad-seq resource is available online at https://sunshine.biologie.uni-freiburg.de/GradSeqExplorer/ providing a comprehensive resource for the functional assignment of RNA-protein complexes and multisubunit protein complexes in a photosynthetic organism.
-
-YlxR: !interacts with! CRISPR-Cas systems
-CpcG1-type: !distinguished from! CpcL-type phycobilisomes
-PsaK1: !distinguished from! PsaK2 photosystem I pre(complexes)
-Csm6: !associated with! Csx1 ribonucleolytic defense complex
-RpoZ: !exclusively associated with! core RNA polymerase complex
-6S RNA: !exclusively associated with! core RNA polymerase complex
-sigma-antisigma complexes: !exist as! reservoir of inactive complexes

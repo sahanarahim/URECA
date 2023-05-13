@@ -1,9 +1,0 @@
-['23857079', 'The Arabidopsis mitogen activated protein kinase kinase kinase (MEKK1) plays an  important role in stress signaling. However, little is known about the upstream  pathways of MEKK1. This report describes the regulation of MEKK1 activity during  cold signaling. Immunoprecipitated MEKK1 from cold-treated Arabidopsis seedlings  showed elevated kinase activity towards mitogen activated protein kinase kinase2  (MKK2), one of the candidate MEKK1 substrates. To clarify how MEKK1 becomes  active in response to cold stress signaling, MEKK1 phosphorylation was monitored  by an enzyme extracted from the seedlings grown under cold stress with or without  EGTA. MEKK1 was phosphorylated after cold stress, but EGTA inhibited the  phosphorylation. MKK2 was also phosphorylated by the same extract, but only when  EGTA was absent. These results suggested that Ca(2+) signaling occurred upstream  of the MEKK1-MKK2 pathway. Full-length MEKK1 showed almost no activity but MEKK1  without the N-terminal region (MEKK1 KD) that retained the kinase domain had a  strong ability to phosphorylate MKK2, demonstrating the inhibitory role of the  N-terminal region of MEKK1. In addition, MEKK1 was phosphorylated by  calcium/calmodulin-regulated receptor-like kinase (CRLK1), which suggested that  CRLK1 is one of candidates located upstream of MEKK1.', '2013 Nov', 'J Plant Res', '10.1007/s10265-013-0576-0', 'Nanmori']
-
-MEKK1: !phosphorylated by! CRLK1
-MEKK1: !activates! MKK2
-MEKK1: !inhibited by! N-terminal region
-MEKK1: !phosphorylated by! cold stress
-MKK2: !phosphorylated by! MEKK1
-MKK2: !phosphorylated by! cold stress extract
-EGTA: !inhibits! MEKK1 phosphorylation

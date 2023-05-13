@@ -1,9 +1,0 @@
-The exocyst is a well-known complex which tethers vesicles at the cell membrane before fusion. Whether an individual subunit can execute a unique function is largely unknown. Using yeast-two-hybrid (Y2H) analysis, we found that EXO70A1 interacted with the GOLD domain of Patellin3 (PATL3). The direct EXO70A1-PATL3 interaction was supported by in vitro and in vivo experiments. In Arabidopsis, PATL3-GFP colocalized with EXO70A1 predominantly at the cell membrane, and PATL3 localization was insensitive to BFA and TryA23. Remarkably, in the exo70a1 mutant, PATL3 proteins accumulated as punctate structures within the cytosol, which did not colocalize with several endomembrane compartment markers, and was insensitive to BFA. Furthermore, PATL3 localization was not changed in the exo70e2, PRsec6 or exo84b mutants. These data suggested that EXO70A1, but not other exocyst subunits, was responsible for PATL3 localization, which is independent of its role in secretory/recycling vesicle-tethering/fusion. Both EXO70A1 and PATL3 were shown to bind PI4P and PI(4,5)P<sub>2</sub> in vitro. Evidence was obtained that the other four members of the PATL family bound to EXO70A1 as well, and shared a similar localization pattern as PATL3. These findings offered new insights into exocyst subunit-specific function, and provided data and tools for further characterization of PATL family proteins.
-
-EXO70A1: !interacts with! PATL3
-EXO70A1: !localizes to! cell membrane
-PATL3: !localizes to! cell membrane
-EXO70A1: !represses! PATL3 localization in cytosol
-EXO70E2, PRSEC6, EXO84B: !do not affect! PATL3 localization
-EXO70A1: !binds! PI4P and PI(4,5)P<sub>2</sub>
-PATL family: !binds to! EXO70A1

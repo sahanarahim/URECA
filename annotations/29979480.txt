@@ -1,9 +1,0 @@
-High-throughput RNA sequencing has proven invaluable not only to explore gene expression but also for both gene prediction and genome annotation. However, RNA sequencing, carried out on tens or even hundreds of samples, requires easy and cost-effective sample preparation methods using minute RNA amounts. Here, we present TranSeq, a high-throughput 3'-end sequencing procedure that requires 10- to 20-fold fewer sequence reads than the current transcriptomics procedures. TranSeq significantly reduces costs and allows a greater increase in size of sample sets analyzed in a single experiment. Moreover, in comparison with other 3'-end sequencing methods reported to date, we demonstrate here the reliability and immediate applicability of TranSeq and show that it not only provides accurate transcriptome profiles but also produces precise expression measurements of specific gene family members possessing high sequence similarity. This is difficult to achieve in standard RNA-seq methods, in which sequence reads cover the entire transcript. Furthermore, mapping TranSeq reads to the reference tomato genome facilitated the annotation of new transcripts improving >45% of the existing gene models. Hence, we anticipate that using TranSeq will boost large-scale transcriptome assays and increase the spatial and temporal resolution of gene expression data, in both model and non-model plant species. Moreover, as already performed for tomato (ITAG3.0; www.solgenomics.net), we strongly advocate its integration into current and future genome annotations.
-
-RNA sequencing: !allows! gene prediction
-TranSeq: !requires! fewer sequence reads
-TranSeq: !provides! accurate transcriptome profiles
-TranSeq: !produces! precise expression measurements
-Mapping TranSeq reads: !facilitates! annotation of new transcripts
-TranSeq: !boosts! large-scale transcriptome assays
-TranSeq: !increases! spatial and temporal resolution of gene expression data

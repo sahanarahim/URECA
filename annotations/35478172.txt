@@ -1,9 +1,0 @@
-Carbonyl sulfide (COS) has emerged as a multi-scale tracer for terrestrial photosynthesis. To infer ecosystem-scale photosynthesis from COS fluxes often requires knowledge of leaf relative uptake (LRU), the concentration-normalized ratio between leaf COS uptake and photosynthesis. However, current mechanistic understanding of LRU variability remains inadequate for deriving robust COS-based estimates of photosynthesis. We derive a set of closed-form equations to describe LRU responses to light, humidity and CO<sub>2</sub> based on the Ball-Berry stomatal conductance model and the biochemical model of photosynthesis. This framework reproduces observed LRU responses: decreasing LRU with increasing light or decreasing humidity; it also predicts that LRU increases with ambient CO<sub>2</sub> . By fitting the LRU equations to flux measurements on a C<sub>3</sub> reed (Typha latifolia), we obtain physiological parameters that control LRU variability, including an estimate of the Ball-Berry slope of 7.1 without using transpiration measurements. Sensitivity tests reveal that LRU is more sensitive to photosynthetic capacity than to the Ball-Berry slope, indicating stomatal response to photosynthesis. This study presents a simple framework for interpreting observed LRU variability and upscaling LRU. The stoma-regulated LRU response to CO<sub>2</sub> suggests that COS may offer a unique window into long-term stomatal acclimation to elevated CO<sub>2</sub> .
-
-Light: !affects! LRU
-Humidity: !affects! LRU
-CO2: !affects! LRU
-Ball-Berry slope: !estimated by! LRU equations
-Photosynthetic capacity: !more sensitive to! LRU
-Stomata: !respond to! Photosynthesis
-COS: !offers window into! Stomatal acclimation

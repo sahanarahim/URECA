@@ -1,8 +1,0 @@
-Computational tools that allow in silico analysis of the role of cell growth and division on photosynthesis are scarce. We present a freely available tool that combines a virtual leaf tissue generator and a two-dimensional microscale model of gas transport during C3 photosynthesis. A total of 270 mesophyll geometries were generated with varying degrees of growth anisotropy, growth extent, and extent of schizogenous airspace formation in the palisade mesophyll. The anatomical properties of the virtual leaf tissue and microscopic cross-sections of actual leaf tissue of tomato (Solanum lycopersicum L.) were statistically compared. Model equations for transport of CO2 in the liquid phase of the leaf tissue were discretized over the geometries. The virtual leaf tissue generator produced a leaf anatomy of tomato that was statistically similar to real tomato leaf tissue. The response of photosynthesis to intercellular CO2 predicted by a model that used the virtual leaf tissue geometry compared well with measured values. The results indicate that the light-saturated rate of photosynthesis was influenced by interactive effects of extent and directionality of cell growth and degree of airspace formation through the exposed surface of mesophyll per leaf area. The tool could be used further in investigations of improving photosynthesis and gas exchange in relation to cell growth and leaf anatomy.
-
-Cell Growth: !affects! Photosynthesis
-Growth Anisotropy: !influences! Photosynthesis
-Schizogenous Airspace Formation: !impacts! Photosynthesis
-Virtual Leaf Tissue Generator: !produces! Anatomy of Tomato
-Model Equations: !discretize! Transport of CO2
-Model: !compares with! Measured Values

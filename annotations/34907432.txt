@@ -1,9 +1,0 @@
-Predicting and understanding plant responses to perturbations require integrating the interactions between nutritional sources, genes, cell metabolism, and physiology in the same model. This can be achieved using metabolic modeling calibrated by experimental data. In this study, we developed a multi-organ metabolic model of a tomato (Solanum lycopersicum) plant during vegetative growth, named Virtual Young TOmato Plant (VYTOP) that combines genome-scale metabolic models of leaf, stem and root and integrates experimental data acquired from metabolomics and high-throughput phenotyping of tomato plants. It is composed of 6,689 reactions and 6,326 metabolites. We validated VYTOP predictions on five independent use cases. The model correctly predicted that glutamine is the main organic nutrient of xylem sap. The model estimated quantitatively how stem photosynthetic contribution impacts exchanges between the different organs. The model was also able to predict how nitrogen limitation affects vegetative growth and the metabolic behavior of transgenic tomato lines with altered expression of core metabolic enzymes. The integration of different components, such as a metabolic model, physiological constraints, and experimental data, generates a powerful predictive tool to study plant behavior, which will be useful for several other applications, such as plant metabolic engineering or plant nutrition.
-
-Gene: !affects! Metabolism 
-Metabolism: !impacts! Plant responses 
-Genome-scale metabolic model: !integrates! Experimental data 
-Glutamine: !is main organic nutrient of! Xylem sap 
-Stem photosynthetic contribution: !impacts! Exchanges between organs 
-Nitrogen limitation: !affects! Vegetative growth 
-Transgenic tomato lines: !have altered expression of! Core metabolic enzymes

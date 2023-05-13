@@ -1,8 +1,0 @@
-DNA damage observed during plant immune responses is reported to be an intrinsic component of plant immunity. However, other immune responses may suppress DNA damage to maintain host genome integrity. Here, we show that immunity-related DNA damage can be abrogated by preventing cell death triggered by Nucleotide-binding, Leucine-rich-repeat immune Receptors (NLRs). SNI1 (suppressor of npr1-1, inducible 1), a subunit of the structural maintenance of chromosome (SMC) 5/6 complex, was reported to be a negative regulator of systemic acquired resistance (SAR) and to be necessary for controlling DNA damage. We find that cell death and DNA damage in sni1 loss-of-function mutants are prevented by mutations in the NLR signaling component EDS1. Similar to sni1, elevated DNA damage is seen in other autoimmune mutants with cell death lesions, including camta3, pub13 and vad1, but not in dnd1, an autoimmune mutant with no visible cell death. We find that as in sni1, DNA damage in camta3 is EDS1-dependent, but that it is also NLR-dependent. Using the NLR RPM1 as a model, we also show that extensive DNA damage is observed when an NLR is directly triggered by effectors. We also find that the expression of DNA damage repair (DDR) genes in mutants with cell death lesions is down regulated, suggesting that degraded DNA that accumulates during cell death is a result of cellular dismantling and is not sensed as damaged DNA that calls for repair. Our observations also indicate that SNI1 is not directly involved in SAR or DNA damage accumulation.
-
-NLR: !triggers! Cell death 
-SNI1: !prevents! SAR 
-EDS1: !prevents! DNA damage in sni1 mutants 
-EDS1: !prevents! DNA damage in camta3 mutants 
-NLR: !causes! DNA damage 
-DNA damage: !downregulates! DDR genes

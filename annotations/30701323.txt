@@ -1,8 +1,0 @@
-A comprehensive network of the Arabidopsis transcriptome was analyzed and may serve as a valuable resource for candidate gene function investigations. A web tool to explore module information was also provided. Arabidopsis thaliana is a widely studied model plant whose transcriptome has been substantially profiled in various tissues, development stages and other conditions. These data can be reused for research on gene function through a systematic analysis of gene co-expression relationships. We collected microarray data from National Center for Biotechnology Information Gene Expression Omnibus, identified modules of co-expressed genes and annotated module functions. These modules were associated with experiments/traits, which provided potential signature modules for phenotypes. Novel heat shock proteins were implicated according to guilt by association. A higher-order module networks analysis suggested that the Arabidopsis network can be further organized into 15 meta-modules and that a chloroplast meta-module has a distinct gene expression pattern from the other 14 meta-modules. A comparison with the rice transcriptome revealed preserved modules and KEGG pathways. All the module gene information was available from an online tool at http://bioinformatics.fafu.edu.cn/arabi/ . Our findings provide a new source for future gene discovery in Arabidopsis.
-
-Gene: !affects! Process
-Gene: !localizes to! Tissue
-Gene: !interacts with! Heat Shock Proteins
-Gene: !enhances! Phenotypes
-Gene: !represses! KEGG Pathways
-Gene: !synthesizes! Chloroplast Meta-Module

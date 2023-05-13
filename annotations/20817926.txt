@@ -1,8 +1,0 @@
-['20817926', 'BRCA1 is a well-known tumor suppressor protein in mammals, involved in multiple  cellular processes such as DNA repair, chromosome segregation and chromatin  remodeling. Interestingly, homologs of BRCA1 and several of its complex partners  are also found in plants. As the respective mutants are viable, in contrast to  mammalian mutants, detailed analyses of their biological role is possible. Here  we demonstrate that the model plant Arabidopsis thaliana harbors two homologs of  the mammalian BRCA1 interaction partner BRCC36, AtBRCC36A and AtBRCC36B. Mutants  of both genes as well as the double mutants are fully fertile and show no defects  in development. We were able to show that mutation of one of the homologs,  AtBRCC36A, leads to a severe defect in intra- and interchromosomal homologous  recombination (HR). A HR defect is also apparent in Atbrca1 mutants. As the  Atbrcc36a/Atbrca1 double mutant behaves like the single mutants of AtBRCA1 and  AtBRCC36A both proteins seem to be involved in a common pathway in the regulation  of HR. AtBRCC36 is also epistatic to AtBRCA1 in DNA crosslink repair. Upon  genotoxic stress, AtBRCC36A is transferred into the nucleus.', '2011 Jan', 'Nucleic Acids Res', '10.1093/nar/gkq722', 'Puchta']
-
-BRCA1: !affects! DNA repair
-BRCC36: !interacts with! BRCA1
-AtBRCC36A: !localizes to! nucleus
-AtBRCC36A: !enhances! homologous recombination
-AtBRCC36A: !represses! DNA crosslink repair
-AtBRCC36A: !synthesizes! AtBRCC36B

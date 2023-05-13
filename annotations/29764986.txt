@@ -1,9 +1,0 @@
-Phytochrome B (phyB) inhibits the function of phytochrome-interacting factors (PIFs) by inducing their degradation and sequestration, but the relative physiological importance of these two phyB activities is unclear. In an analysis of published <i>Arabidopsis thaliana phyB</i> mutations, we identified a point mutation in the N-terminal half of phyB (phyB<sup>G111D</sup>) that abolishes its PIF sequestration activity without affecting its PIF degradation activity. We also identified a point mutation in the phyB C-terminal domain, which, when combined with a deletion of the C-terminal end (phyB990<sup>G767R</sup>), does the opposite; it blocks PIF degradation without affecting PIF sequestration. The resulting phyB proteins, phyB990<sup>G767R</sup> and phyB<sup>G111D</sup>, are equally capable of inducing light responses under continuous red light. However, phyB<sup>G111D</sup>, which exhibits only the PIF degradation activity, induces stronger light responses than phyB990<sup>G767R</sup> under white light with prolonged dark periods (i.e., diurnal cycles). In contrast, phyB990<sup>G767R</sup>, which exhibits only the PIF sequestration activity, induces stronger light responses in flickering light (a condition that mimics sunflecks). Together, our results indicate that both of these separable phyB activities are required for light responses in varying light conditions.
-
-phyB: !inhibits! PIFs 
-phyB: !induces degradation of! PIFs 
-phyB: !sequesters! PIFs 
-phyB<sup>G111D</sup>: !abolishes! PIF sequestration activity 
-phyB990<sup>G767R</sup>: !blocks! PIF degradation activity 
-phyB<sup>G111D</sup>: !induces stronger light responses! under white light with prolonged dark periods 
-phyB990<sup>G767R</sup>: !induces stronger light responses! in flickering light

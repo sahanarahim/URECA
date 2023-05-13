@@ -1,9 +1,0 @@
-Plant-derived Vitamin C (l-ascorbic acid (AsA)) is crucial for human health and wellbeing and thus increasing AsA content is of interest to plant breeders. In plants GDP-l-galactose phosphorylase (GGP) is a key biosynthetic control step and here evidence is presented for two new transcriptional activators of GGP. AsA measurement, transcriptomics, transient expression, hormone application, gene editing, yeast 1/2-hybrid, and electromobility shift assay (EMSA) methods were used to identify two positively regulating transcription factors. AceGGP3 was identified as the most highly expressed GGP in Actinidia eriantha fruit, which has high fruit AsA. A gene encoding a 1R-subtype myeloblastosis (MYB) protein, AceMYBS1, was found to bind the AceGGP3 promoter and activate its expression. Overexpression and gene-editing show AceMYBS1 effectively increases AsA accumulation. The bZIP transcription factor AceGBF3 (a G-box binding factor), also was shown to increase AsA content, and was confirmed to interact with AceMYBS1. Co-expression experiments showed that AceMYBS1 and AceGBF3 additively promoted AceGGP3 expression. Furthermore, AceMYBS1, but not GBF3, was repressed by abscisic acid, resulting in reduced AceGGP3 expression and accumulation of AsA. This study sheds new light on the roles of MYBS1 homologues and ABA in modulating AsA synthesis, and adds to the understanding of mechanisms underlying AsA accumulation.
-
-AceGGP3: !synthesizes! AsA
-AceMYBS1: !activates! AceGGP3
-AceGBF3: !interacts with! AceMYBS1
-AceMYBS1: !enhances! AceGGP3 expression
-AceMYBS1: !represses! AceGGP3 expression
-AceGBF3: !enhances! AceGGP3 expression
-ABA: !represses! AceMYBS1

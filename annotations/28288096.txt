@@ -1,5 +1,0 @@
-['28288096', 'Nucleotide-binding domain and leucine-rich repeat domain-containing (NLR)  proteins are sentinels of plant immunity that monitor host proteins for  perturbations induced by pathogenic effector proteins. Here we show that the  Arabidopsis ZAR1 NLR protein requires the ZRK3 kinase to recognize the  Pseudomonas syringae type III effector (T3E) HopF2a. These results support the  hypothesis that ZAR1 associates with an expanded ZRK protein family to broaden  its effector recognition spectrum.', '2017 Mar 13', 'Nat Plants', '10.1038/nplants.2017.27', 'Desveaux']
-
-ZAR1: !requires! ZRK3
-ZAR1: !recognizes! HopF2a
-ZRK3: !expands! ZAR1 recognition spectrum

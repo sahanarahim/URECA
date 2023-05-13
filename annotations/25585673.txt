@@ -1,7 +1,0 @@
-['25585673', 'RNA editing is an essential mechanism that modifies target cytidines to uridine  in both mitochondrial and plastid mRNA. Target sites are recognized by  pentatricopeptide repeat (PPR) proteins. Using bioinformatics predictions based  on the code describing sequence recognition by PPR proteins, we have identified  an Arabidopsis editing factor required for editing of atpF in plastids. A  loss-of-function mutation in ATPF EDITING FACTOR 1 (AEF1, AT3G22150) results in  severe variegation, presumably due to decreased plastid ATP synthase levels. Loss  of editing at the atpF site is coupled with a large decrease in splicing of the  atpF transcript, even though the editing site is within an exon and 53  nucleotides distant from the splice site. The rice orthologue of AEF1, MPR25, has  been reported to be required for editing of a site in mitochondrial nad5  transcripts, and we confirm that editing of the same site is affected in the  Arabidopsis aef1 mutant. We also show that splicing of chloroplast atpF  transcripts is affected in the rice mpr25 mutant. AEF1 is thus highly unusual for  an RNA editing specificity factor in that it has functions in both organelles.', '2015 Mar', 'Plant J', '10.1111/tpj.12756', 'Small']
-
-PPR proteins: !recognize! target sites 
-AEF1: !edits! atpF in plastids 
-AEF1: !affects! splicing of atpF transcripts 
-MPR25: !edits! nad5 transcripts 
-MPR25: !affects! splicing of atpF transcripts

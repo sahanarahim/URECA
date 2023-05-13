@@ -1,8 +1,0 @@
-The global carbon and water cycles are governed by the coupling of CO<sub>2</sub> and water vapour exchanges through the leaves of terrestrial plants, controlled by plant adaptations to balance carbon gains and hydraulic risks. We introduce a trait-based optimality theory that unifies the treatment of stomatal responses and biochemical acclimation of plants to environments changing on multiple timescales. Tested with experimental data from 18 species, our model successfully predicts the simultaneous decline in carbon assimilation rate, stomatal conductance and photosynthetic capacity during progressive soil drought. It also correctly predicts the dependencies of gas exchange on atmospheric vapour pressure deficit, temperature and CO<sub>2</sub>. Model predictions are also consistent with widely observed empirical patterns, such as the distribution of hydraulic strategies. Our unified theory opens new avenues for reliably modelling the interactive effects of drying soil and rising atmospheric CO<sub>2</sub> on global photosynthesis and transpiration.
-
-plant: !adapts to! environment 
-stomatal response: !governs! CO<sub>2</sub> and water vapour exchanges 
-model: !predicts! decline in carbon assimilation rate, stomatal conductance and photosynthetic capacity 
-model: !depends on! atmospheric vapour pressure deficit, temperature and CO<sub>2</sub> 
-model: !consistent with! empirical patterns 
-drying soil: !affects! global photosynthesis and transpiration

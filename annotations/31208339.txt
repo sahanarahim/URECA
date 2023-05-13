@@ -1,8 +1,0 @@
-Hydroxycinnamoyl-spermine conjugates (HCSpm) are a class of hydroxycinnamic acid amides (HCAAs), which not only are instrumental in plant development and stress response, but also benefit human health. However, HCSpm are not commonly produced in plants, and the mechanism of their biosynthesis remains unclear. In previous investigations of phenolics in Solanum fruits related to eggplant (Solanum melongena L.), we discovered that Solanum richardii, an African wild relative of eggplant, was rich in HCSpms in fruits. The putative spermine hydroxycinnamoyl transferase (HT) SpmHT was isolated from S. richardii and eggplant. SrSpmHT expression was high in flowers and fruit, and was associated with HCSpm accumulation in S. richardii; however, SpmHT was hardly detected in eggplant cultivars and other wild relatives. Recombinant SpmHT exclusively selected spermine as the acyl acceptor substrate, while showing donor substrate preference in the following order: caffeoyl-CoA, feruloyl-CoA, and p-coumaroyl-CoA. Molecular docking revealed that substrate binding pockets of SpmHT could properly accommodate spermine but not the shorter, more common spermidine. SrSpmHT is a novel spermine hydroxycinnamoyl transferase that uses Spm exclusively as the acyl acceptor substrate to produce HCSpms. Our findings shed light on the HCSpm biosynthetic pathway that may allow an increase of health beneficial metabolites in Solanum crops via methods such as introgression or engineering HCAA metabolism.
-
-SpmHT: !selects! spermine 
-SpmHT: !prefers! caffeoyl-CoA 
-SpmHT: !binds! spermine 
-SpmHT: !synthesizes! HCSpms 
-S. richardii: !expresses! SrSpmHT 
-S. richardii: !accumulates! HCSpm

@@ -1,7 +1,0 @@
-Recent studies show that the variation in root functional traits can be explained by a two-dimensional trait framework, containing a 'collaboration' axis in addition to the classical fast-slow 'conservation' axis. This collaboration axis spans from thin and highly branched roots that employ a 'do-it-yourself' strategy to thick and sparsely branched roots that 'outsource' nutrient uptake to symbiotic arbuscular mycorrhizal fungi (AMF). Here, we explore the functionality of this collaboration axis by quantifying how interactions with AMF change the impact of root traits on plant performance. To this end, we developed a novel functional-structural plant (FSP) modelling approach that simulates plants competing for light and nutrients in the presence or absence of AMF. Our simulation results support the notion that in the absence of AMF, plants rely on thin, highly branched roots for their nutrient uptake. The presence of AMF, however, promotes thick, unbranched roots as an alternative strategy for uptake of immobile phosphorus, but not for mobile nitrogen. This provides further support for a root trait framework that accommodates for the interactive effect of roots and AMF. Our modelling study offers unique opportunities to incorporate soil microbial interactions into root functionality as it integrates consequences of belowground trait expression.
-
-root trait: !affects! plant performance
-AMF: !enhances! phosphorus uptake
-root trait: !outsources to! AMF
-AMF: !promotes! thick, unbranched roots
-root trait: !competes for! light and nutrients

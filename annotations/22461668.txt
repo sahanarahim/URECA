@@ -1,8 +1,0 @@
-['22461668', 'The anther is the male reproductive organ in flowering plants. Although some  genes were reported to be involved in anther development, the molecular  mechanisms underlying the transcriptional regulation of these genes is unclear.  lfr-2 (leaf and flower related-2), the null allele of Arabidopsis thaliana LFR  (LEAF AND FLOWER RELATED), was male-sterile. The anthers of lfr-2 plants were  defective in sporogenous cell formation, tapetum development, and pollen  development. In agreement with these phenotypes, expression studies showed that  LFR was expressed in all cell layers of the anther, and that expression was  particularly strong in the tapetal cells and pollen grains. Quantitative RT-PCR  analysis revealed that LFR is required for the normal transcription of some  anther development-related genes, such as AMS, CALS5, and DYT1, MS1 and MS2, and  ROXY2. Genetic analysis showed that SPL was epistatic to LFR while LFR was  epistatic to DYT1. We propose that LFR may be a crucial component in the  regulation of a genetic network that modulates anther development.', '2012 Sep', 'Mol Plant', '10.1093/mp/sss024', 'Cui']
-
-LFR: !affects! anther development
-LFR: !localizes to! all cell layers of the anther
-LFR: !interacts with! SPL
-LFR: !enhances! transcription of AMS, CALS5, DYT1, MS1 and MS2, and ROXY2
-SPL: !represses! LFR
-DYT1: !represses! LFR

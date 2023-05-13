@@ -1,9 +1,0 @@
-['23166504', 'The procambium and cambium are meristematic tissues from which vascular tissue is  derived. Vascular initials differentiate into phloem towards the outside of the  stem and xylem towards the inside. A small peptide derived from CLV-3/ESR1-LIKE  41 (CLE41) is thought to promote cell divisions in vascular meristems by  signalling through the PHLOEM INTERCALLATED WITH XYLEM (PXY) receptor kinase. pxy  mutants, however, display only small reductions in vascular cell number,  suggesting a mechanism exists that allows plants to compensate for the absence of  PXY. Consistent with this idea, we identify a large number of genes specifically  upregulated in pxy mutants, including several AP2/ERF transcription factors.  These transcription factors are required for normal cell division in the cambium  and procambium. These same transcription factors are also upregulated by ethylene  and in ethylene-overproducing eto1 mutants. eto1 mutants also exhibit an increase  in vascular cell division that is dependent upon the function of at least 2 of  these ERF genes. Furthermore, blocking ethylene signalling using a variety of  ethylene insensitive mutants such as ein2 enhances the cell division defect of  pxy. Our results suggest that these factors define a novel pathway that acts in  parallel to PXY/CLE41 to regulate cell division in developing vascular tissue. We  propose a model whereby vascular cell division is regulated both by PXY  signalling and ethylene/ERF signalling. Under normal circumstances, however, PXY  signalling acts to repress the ethylene/ERF pathway.', '2012', 'PLoS Genet', '10.1371/journal.pgen.1002997', 'Turner']
-
-PXY: !signals through! CLE41
-pxy: !upregulates! AP2/ERF transcription factors
-AP2/ERF: !required for! normal cell division
-ethylene: !upregulates! AP2/ERF transcription factors
-eto1: !increases! vascular cell division
-EIN2: !blocks! ethylene signalling
-PXY: !represses! ethylene/ERF pathway

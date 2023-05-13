@@ -1,8 +1,0 @@
-['28223440', 'Repair of DNA double-strand breaks (DSBs) is critical for the maintenance of  genome integrity. We previously showed that DSB-induced small RNAs (diRNAs)  facilitate homologous recombination-mediated DSB repair in Arabidopsis thaliana  Here, we show that INVOLVED IN DE NOVO2 (IDN2), a double-stranded RNA binding  protein involved in small RNA-directed DNA methylation, is required for DSB  repair in Arabidopsis. We find that IDN2 interacts with the heterotrimeric  replication protein A (RPA) complex. Depletion of IDN2 or the diRNA binding  ARGONAUTE2 leads to increased accumulation of RPA at DSB sites and  mislocalization of the recombination factor RAD51. These findings support a model  in which IDN2 interacts with RPA and facilitates the release of RPA from  single-stranded DNA tails and subsequent recruitment of RAD51 at DSB sites to  promote DSB repair.', '2017 Mar', 'Plant Cell', '10.1105/tpc.16.00769', 'ORCID:']
-
-DSB: !induces! diRNAs 
-IDN2: !interacts with! RPA 
-RPA: !mislocalizes! RAD51 
-IDN2: !facilitates release of! RPA 
-RPA: !recruits! RAD51 
-diRNAs: !facilitate! DSB repair

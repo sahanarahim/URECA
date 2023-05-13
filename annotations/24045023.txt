@@ -1,9 +1,0 @@
-In contrast with animal-infecting viruses, few known plant viruses contain a lipid envelope, and the processes leading to their membrane envelopment remain largely unknown. Plant viruses with lipid envelopes include viruses of the Bunyaviridae, which obtain their envelope from the Golgi complex. The envelopment process is predominantly dictated by two viral glycoproteins (Gn and Gc) and the viral nucleoprotein (N). During maturation of the plant-infecting bunyavirus Tomato spotted wilt, Gc localizes at endoplasmic reticulum (ER) membranes and becomes ER export competent only upon coexpression with Gn. In the presence of cytosolic N, Gc remains arrested in the ER but changes its distribution from reticular into punctate spots. Here, we show that these areas correspond to ER export sites (ERESs), distinct ER domains where glycoprotein cargo concentrates prior to coat protein II vesicle-mediated transport to the Golgi. Gc concentration at ERES is mediated by an interaction between its cytoplasmic tail (CT) and N. Interestingly, an ER-resident calnexin provided with Gc-CT was similarly recruited to ERES when coexpressed with N. Furthermore, disruption of actin filaments caused the appearance of a larger amount of smaller ERES loaded with N-Gc complexes, suggesting that glycoprotein cargo concentration acts as a trigger for de novo synthesis of ERES.
-
-Gn: !coexpresses with! Gc
-Gc: !localizes to! ER
-Gc: !interacts with! N
-N: !concentrates! Gc
-Gc-CT: !interacts with! N
-Calnexin: !coexpresses with! N
-Actin filaments: !disrupts! ERES

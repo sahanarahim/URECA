@@ -1,9 +1,0 @@
-The recently discovered calcium sensor calcineurin B-like proteins (CBLs), and their interacting partners CBL-interacting protein kinases (CIPKs), have emerged as a key network in response to stress and calcium signaling in plants. The studies on CBL and CIPK are so far mainly restricted to Arabidopsis and work on dissecting this pathway in higher plants is inadequate. Our recent studies revealed that calcium sensor CBL from pea gets phosphorylated by pea CIPK. Furthermore, the transcript levels of both the CBL and CIPK from pea were coordinately upregulated in response to various stresses including high salinity, cold, wounding, salicyclic acid and calcium but not to abscisic acid and dehydration. Here we report the results on the computational analysis of EF hands of PsCBL protein, which indicate that it contains all the functional domains required for calcium binding activity. We have also focused on homology based computational modeling of PsCBL and PsCIPK proteins using AtCBL2 and Chk1 as templates respectively, which suggested the high degree of conservation between AtCBL2, PsCBL and OsCBL and between Chk1, PsCIPK and AtCIPK18. Furthermore, the direct interaction of PsCBL and PsCIPK mutant proteins was studied by the yeast 2-hybrid system, which confirmed that FISL domain is an important interaction module required for PsCBL and PsCIPK interaction.
-
-CBL: !interacts with! CIPK
-CBL: !upregulated by! stress
-CBL: !binds to! calcium
-CBL: !modeled using! AtCBL2
-CIPK: !upregulated by! stress
-CIPK: !modeled using! Chk1
-CBL: !interacts with! CIPK via FISL domain

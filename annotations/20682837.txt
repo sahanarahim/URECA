@@ -1,8 +1,0 @@
-['20682837', "The Arabidopsis thaliana RING-type E3 ligase KEEP ON GOING (KEG) is a negative  regulator of abscisic acid (ABA) signaling. Seedlings homozygous for T-DNA  insertions in KEG accumulate high levels of the ABA-responsive transcription  factor ABSCISIC ACID-INSENSITIVE5 (ABI5). Here, we demonstrate that KEG E3 ligase  activity is required for the regulation of ABI5 abundance. KEG ubiquitinates ABI5  in vitro, and a functional KEG RING domain is required to restore the levels of  ABI5 in keg-1 to that of the wild type. Overexpression of KEG leads to ABA  insensitivity, which correlates with KEG protein levels. In the presence of ABA,  ABI5 levels increase drastically via a decrease in ubiquitin-meditated  proteasomal degradation. Our results indicate that ABA promotes ABI5 accumulation  by inducing the ubiquitination and proteasomal degradation of KEG. A functional  RING domain is required for the ABA-induced degradation of KEG, suggesting that  the loss is due to self-ubiquitination. Mutations within KEG's kinase domain or  treatments with kinase inhibitors prohibit the ABA-induced ubiquitination and  degradation of KEG, indicating that phosphorylation, possibly  self-phosphorylation, is involved in the ABA regulation of KEG protein levels. We  discuss a model for how ABA may negatively regulate KEG protein abundance,  leading to accumulation of ABI5 and ABA-dependent cellular responses.", '2010 Aug', 'Plant Cell', '10.1105/tpc.110.076075', 'Stone']
-
-KEG: !regulates! ABA signaling 
-KEG: !ubiquitinates! ABI5 
-KEG: !overexpression leads to! ABA insensitivity 
-ABA: !induces! ubiquitination and proteasomal degradation of KEG 
-KEG: !requires! functional RING domain 
-KEG: !requires! phosphorylation, possibly self-phosphorylation

@@ -1,9 +1,0 @@
-The tomato MADS-box transcription factor RIN acts as a master regulator of fruit ripening. Here, we identified MADS-box proteins that interact with RIN; we also provide evidence that these proteins act in the regulation of fruit ripening. We conducted a yeast two-hybrid screen of a cDNA library from ripening fruit, for genes encoding proteins that bind to RIN. The screen identified two MADS-box genes, FUL1 and FUL2 (previously called TDR4 and SlMBP7), both of which have high sequence similarity to Arabidopsis FRUITFULL. Expression analyses revealed that the FUL1 mRNA and FUL1 protein accumulate in a ripening-specific manner in tomato fruits and FUL2 mRNA and protein accumulate at the pre-ripening stage and throughout ripening. Biochemical analyses confirmed that FUL1 and FUL2 form heterodimers with RIN; this interaction required the FUL1 and FUL2 C-terminal domains. Also, the heterodimers bind to a typical target DNA motif for MADS-box proteins. Chromatin immunoprecipitation assays revealed that FUL1 and FUL2 bind to genomic sites that were previously identified as RIN-target sites, such as the promoter regions of ACS2, ACS4 and RIN. These findings suggest that RIN forms complexes with FUL1 and FUL2 and these complexes regulate expression of ripening-related genes. In addition to the functional redundancy between FUL1 and FUL2, we also found they have potentially divergent roles in transcriptional regulation, including a difference in genomic target sites.
-
-RIN: !interacts with! FUL1
-RIN: !interacts with! FUL2
-FUL1: !binds to! RIN
-FUL2: !binds to! RIN
-RIN: !regulates expression of! ripening-related genes
-FUL1: !binds to! genomic sites
-FUL2: !binds to! genomic sites

@@ -1,8 +1,0 @@
-Selective autophagy mediates specific degradation of unwanted cytoplasmic components to maintain cellular homeostasis. The suppressor of gene silencing 3 (SGS3) and RNA-dependent RNA polymerase 6 (RDR6)-formed bodies (SGS3/RDR6 bodies) are essential for siRNA amplification in planta. However, whether autophagy receptors regulate selective turnover of SGS3/RDR6 bodies is unknown. By analyzing the transcriptomic response to virus infection in Arabidopsis, we identified a virus-induced small peptide 1 (VISP1) composed of 71 amino acids, which harbor a ubiquitin-interacting motif that mediates interaction with autophagy-related protein 8. Overexpression of VISP1 induced selective autophagy and compromised antiviral immunity by inhibiting SGS3/RDR6-dependent viral siRNA amplification, whereas visp1 mutants exhibited opposite effects. Biochemistry assays demonstrate that VISP1 interacted with SGS3 and mediated autophagic degradation of SGS3/RDR6 bodies. Further analyses revealed that overexpression of VISP1, mimicking the sgs3 mutant, impaired biogenesis of endogenous trans-acting siRNAs and up-regulated their targets. Collectively, we propose that VISP1 is a small peptide receptor functioning in the crosstalk between selective autophagy and RNA silencing.
-
-SGS3: !interacts with! RDR6 
-VISP1: !interacts with! Autophagy-related protein 8 
-VISP1: !interacts with! SGS3 
-VISP1: !mediates autophagic degradation of! SGS3/RDR6 bodies 
-VISP1: !inhibits! SGS3/RDR6-dependent viral siRNA amplification 
-VISP1: !impairs biogenesis of! endogenous trans-acting siRNAs

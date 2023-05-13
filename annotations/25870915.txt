@@ -1,9 +1,0 @@
-The capacity to synthesize betalains has arisen in diverse phylogenetic lineages across the Caryophyllales, and because betalainic plants often grow in deserts, sand dunes, or salt marshes, it is likely that these pigments confer adaptive advantages. However, possible functional roles of foliar betalains remain largely unexplored and are difficult to test experimentally. We adopted a novel approach to examine putative photoprotective roles of betalains in leaves for which chloroplast function has been compromised by salinity. Responses of l-DOPA-treated red shoots of Disphyma australe to high light and salinity were compared with those of naturally red- and green-leafed morphs. Betalain content and tyrosinase activity were measured, and Chl fluorescence profiles and H2 O2 production were compared under white, red or green light. Green leaves lacked tyrosinase activity, but when supplied with exogenous l-DOPA they produced five betacyanins. Both the naturally red and l-DOPA-induced red leaves generated less H2 O2 and showed smaller declines in photosystem II quantum efficiency than did green leaves when exposed to white or green light, although not when exposed to red light. Light screening by epidermal betalains effectively reduces the propensity for photoinhibition and photo-oxidative stress in subjacent chlorenchyma. This may assist plant survival in exposed and saline environments.
-
-betalains: !screen! light 
-betalains: !reduce! photoinhibition 
-betalains: !reduce! photo-oxidative stress 
-tyrosinase: !produces! betacyanins 
-l-DOPA: !induces! betacyanins 
-H2O2: !generated less! in red leaves 
-photosystem II: !quantum efficiency decreased less! in red leaves

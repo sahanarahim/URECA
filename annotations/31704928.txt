@@ -1,7 +1,0 @@
-To maintain the balance between long-term stem cell self-renewal and differentiation, dynamic signals need to be translated into spatially precise and temporally stable gene expression states. In the apical plant stem cell system, local accumulation of the small, highly mobile phytohormone auxin triggers differentiation while at the same time, pluripotent stem cells are maintained throughout the entire life-cycle. We find that stem cells are resistant to auxin mediated differentiation, but require low levels of signaling for their maintenance. We demonstrate that the WUSCHEL transcription factor confers this behavior by rheostatically controlling the auxin signaling and response pathway. Finally, we show that WUSCHEL acts via regulation of histone acetylation at target loci, including those with functions in the auxin pathway. Our results reveal an important mechanism that allows cells to differentially translate a potent and highly dynamic developmental signal into stable cell behavior with high spatial precision and temporal robustness.
-
-auxin: !triggers! differentiation 
-WUSCHEL: !controls! auxin signaling 
-WUSCHEL: !regulates! histone acetylation 
-histone acetylation: !at! target loci 
-target loci: !with functions in! auxin pathway

@@ -1,7 +1,0 @@
-['18273012', 'A principal question in MAP kinase (MAPK/MPK) cascade signalling is how similar  components dictate different specificity in the information-processing  machineries from yeast to humans and plants. In Arabidopsis, how MPK3/6 modulates  distinct outputs in diverse signal transduction pathways remains elusive. By  combining systematic cellular and genetic screens, here we uncover a previously  unexpected MKK9-MPK3/MPK6 cascade promoting ethylene-insensitive 3  (EIN3)-mediated transcription in ethylene signalling. The mkk9 mutant exhibits a  broad spectrum of moderate ethylene-insensitive phenotypes, and translocated MKK9  governs nuclear signalling downstream of receptors. Breaking a linear model and  conventional MAPK signalling, ethylene inactivates the negative regulator  constitutive triple response 1 (CTR1, a Raf-like MAPK kinase kinase (MAPKKK)) to  activate the positive MKK9-MPK3/6 cascade. The bifurcate and antagonistic CTR1  and MKK9 pathways are both critical in determining ethylene-signalling  specificity through two MAPK phosphorylation sites with opposite effects on EIN3  stability. The results suggest a new paradigm for linking intertwined MAPK  cascades to control quantitative responses and specificity in signalling  networks.', '2008 Feb 14', 'Nature', '10.1038/nature06543', 'Sheen']
-
-MKK9: !activates! MPK3/6 
-CTR1: !inactivates! MKK9 
-MPK3/6: !promotes! EIN3-mediated transcription 
-CTR1: !antagonizes! MKK9 
-EIN3: !stabilized by! MPK3/6 phosphorylation sites

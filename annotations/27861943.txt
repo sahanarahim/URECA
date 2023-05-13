@@ -1,9 +1,0 @@
-Tomato is a model organism to study the development of fleshy fruit including ripening initiation. Unfortunately, few studies deal with the brief phase of accelerated ripening associated with the respiration climacteric because of practical problems involved in measuring fruit respiration. Because constraint-based modelling allows predicting accurate metabolic fluxes, we investigated the respiration and energy dissipation of fruit pericarp at the breaker stage using a detailed stoichiometric model of the respiratory pathway, including alternative oxidase and uncoupling proteins. Assuming steady-state, a metabolic dataset was transformed into constraints to solve the model on a daily basis throughout tomato fruit development. We detected a peak of CO<sub>2</sub> released and an excess of energy dissipated at 40 d post anthesis (DPA) just before the onset of ripening coinciding with the respiration climacteric. We demonstrated the unbalanced carbon allocation with the sharp slowdown of accumulation (for syntheses and storage) and the beginning of the degradation of starch and cell wall polysaccharides. Experiments with fruits harvested from plants cultivated under stress conditions confirmed the concept. We conclude that modelling with an accurate metabolic dataset is an efficient tool to bypass the difficulty of measuring fruit respiration and to elucidate the underlying mechanisms of ripening.
-
-Tomato: !models! Respiration Climacteric 
-Metabolic Dataset: !transforms into! Constraints 
-CO<sub>2</sub>: !released! Peak 
-Energy: !dissipated! Excess 
-Accumulation: !slows down! Sharp 
-Starch/Cell Wall Polysaccharides: !degraded! Beginning 
-Stress Conditions: !confirms! Concept

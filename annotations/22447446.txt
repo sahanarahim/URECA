@@ -1,7 +1,0 @@
-['22447446', 'Mediator is a multiprotein coregulatory complex that conveys signals from  DNA-bound transcriptional regulators to the RNA polymerase II transcription  machinery in eukaryotes. The molecular mechanisms for how these signals are  transmitted are still elusive. By using purified transcription factor Dreb2a,  mediator subunit Med25 from Arabidopsis thaliana, and a combination of  biochemical and biophysical methods, we show that binding of Dreb2a to its  canonical DNA sequence leads to an increase in secondary structure of the  transcription factor. Similarly, interaction between the Dreb2a and Med25 in the  absence of DNA results in conformational changes. However, the presence of the  canonical Dreb2a DNA-binding site reduces the affinity between Dreb2a and Med25.  We conclude that transcription regulation is facilitated by small but distinct  changes in energetic and structural parameters of the involved proteins.', '2012 Jul', 'Nucleic Acids Res', '10.1093/nar/gks265', 'Bjorklund']
-
-Dreb2a: !binds to! DNA
-Dreb2a: !interacts with! Med25
-Med25: !interacts with! Dreb2a
-Dreb2a: !increases! secondary structure
-Dreb2a: !reduces affinity with! Med25

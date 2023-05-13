@@ -1,7 +1,0 @@
-The shoot apical meristem (SAM) is responsible for the generation of all the aerial parts of plants. Given its critical role, dynamical changes in SAM activity should play a central role in the adaptation of plant architecture to the environment. Using quantitative microscopy, grafting experiments, and genetic perturbations, we connect the plant environment to the SAM by describing the molecular mechanism by which cytokinins signal the level of nutrient availability to the SAM. We show that a systemic signal of cytokinin precursors mediates the adaptation of SAM size and organogenesis rate to the availability of mineral nutrients by modulating the expression of <i>WUSCHEL</i>, a key regulator of stem cell homeostasis. In time-lapse experiments, we further show that this mechanism allows meristems to adapt to rapid changes in nitrate concentration, and thereby modulate their rate of organ production to the availability of mineral nutrients within a few days. Our work sheds light on the role of the stem cell regulatory network by showing that it not only maintains meristem homeostasis but also allows plants to adapt to rapid changes in the environment.
-
-environment: !signals! cytokinin precursors 
-cytokinin precursors: !modulates! WUSCHEL expression 
-WUSCHEL: !regulates! stem cell homeostasis 
-stem cell homeostasis: !adapts to! nitrate concentration 
-nitrate concentration: !modulates! organ production rate

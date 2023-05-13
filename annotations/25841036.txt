@@ -1,7 +1,0 @@
-Hypocotyl elongation is a highly coordinated physiological response regulated by myriad internal and external cues. Here, we show that BBX19, a transcriptional regulator with two B-box motifs, is a positive regulator of growth; diminished BBX19 expression by RNA interference reduces hypocotyl length, and its constitutive expression promotes growth. This function of BBX19 is dependent on the E3 ubiquitin ligase CONSTITUTIVE PHOTOMORPHOGENIC1 (COP1), EARLY FLOWERING3 (ELF3), and PHYTOCHROME-INTERACTING FACTOR4 (PIF4) and PIF5. BBX19 is nucleus-colocalized and interacts physically with COP1 and ELF3, a component of the evening complex that represses the expression of PIF4 and PIF5. Moreover, ELF3 protein abundance inversely correlates with BBX19 expression levels in a COP1-dependent manner. By contrast, PIF expression, coinciding with the initiation of hypocotyl growth in the early evening, is positively correlated with the BBX19 transcript abundance. These results collectively establish BBX19 as an adaptor that binds to and recruits ELF3 for degradation by COP1 and, as such, dynamically gates the formation of the evening complex, resulting in derepression of PIF4/5. This finding refines our perspective on how plants grow by providing a molecular link between COP1, ELF3, and PIF4/5 as an underlying mechanism of photomorphogenic development in Arabidopsis thaliana.
-
-BBX19: !interacts with! COP1
-BBX19: !interacts with! ELF3
-COP1: !degrades! ELF3
-ELF3: !represses! PIF4/5
-BBX19: !derepresses! PIF4/5

@@ -1,8 +1,0 @@
-In recent years, class prediction experiments have been largely developed in cancer research with the aim of classifying unknown samples by examining their expression signature. In natural populations, a significant component of gene expression variability is also heritable. Citrus species are an ideal model to accomplish the study of these questions in plants, due to the existence of varieties derived from somatic mutations that are likely to differ from each other by one or a few point mutations but are phenotypically indistinguishable at early vegetative stages. The small genetic variability existing among these varieties makes molecular markers ineffective in distinguishing genotypes within a particular species. Gene expression profiles have been used to predict mandarin clementine varieties (Citrus clementina Hort. ex Tan.) by means of two independent supervised learning algorithms: Support Vector Machines and Prediction Analysis of Microarrays. The results show that transcriptional variation is variety-dependent in citrus, and supervised clustering methods may correctly assign blind samples to varieties when both training and test samples are under the same experimental conditions.
-
-Gene: !affects! Expression
-Expression: !varies! Heritability
-Varieties: !derived from! Somatic Mutations
-Molecular Markers: !ineffective in! Distinguishing Genotypes
-Gene Expression Profiles: !predict! Mandarin Clementine Varieties
-Supervised Learning Algorithms: !assign! Blind Samples to Varieties

@@ -1,8 +1,0 @@
-Brassinosteroids (BR) are involved in the control of several developmental processes ranging from root elongation to senescence and adaptation to environmental cues. Thus, BR perception and signaling have to be precisely regulated. One regulator is BRI1-associated kinase 1 (BAK1)-interacting receptor-like kinase 3 (BIR3). In the absence of BR, BIR3 forms complexes with BR insensitive 1 (BRI1) and BAK1. However, the biophysical and energetic requirements for complex formation in the absence of the ligand have yet to be determined. Using computational modeling, we simulated the potential complexes between the cytoplasmic domains of BAK1, BRI1 and BIR3. Our calculations and experimental data confirm the interaction of BIR3 with BAK1 and BRI1, with the BAK1 BIR3 interaction clearly favored. Furthermore, we demonstrate that BIR3 and BRI1 share the same interaction site with BAK1. This suggests a competition between BIR3 and BRI1 for binding to BAK1, which results in preferential binding of BIR3 to BAK1 in the absence of the ligand thereby preventing the active participation of BAK1 in BR signaling. Our model also suggests that BAK1 and BRI1 can interact even while BAK1 is in complex with BIR3 at an additional binding site of BAK1 that does not allow active BR signaling.
-
-BIR3: !interacts with! BAK1
-BIR3: !interacts with! BRI1
-BAK1: !interacts with! BIR3
-BAK1: !interacts with! BRI1
-BRI1: !interacts with! BAK1
-BRI1: !interacts with! BIR3

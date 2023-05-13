@@ -1,8 +1,0 @@
-Arabidopsis (Arabidopsis thaliana) roots perceive gravity and reorient their growth accordingly. Starch-dense amyloplasts within the columella cells of the root cap are important for gravitropism, and starchless mutants such as pgm1 display an attenuated response to gravistimulation. The altered response to gravity1 (arg1) mutant is known to be involved with the early phases of gravity signal transduction. arg1 responds slowly to gravistimulation and is in a genetically distinct pathway from pgm1, as pgm1 mutants enhance the gravitropic defect of arg1. arg1 seeds were mutagenized with ethylmethane sulfonate to identify new mutants that enhance the gravitropic defect of arg1. Two modifier of arg1 mutants (mar1 and mar2) grow in random directions only when arg1 is present, do not affect phototropism, and respond like the wild type to application of phytohormones. Both have mutations affecting different components of the Translocon of Outer Membrane of Chloroplasts (TOC) complex. mar1 possesses a mutation in the TOC75-III gene; mar2 possesses a mutation in the TOC132 gene. Overexpression of TOC132 rescues the random growth phenotype of mar2 arg1 roots. Root cap amyloplasts in mar2 arg1 appear ultrastructurally normal. They saltate like the wild type and sediment at wild-type rates upon gravistimulation. These data point to a role for the plastidic TOC complex in gravity signal transduction within the statocytes.
-
-pgm1: !enhances! arg1
-arg1: !responds slowly to! gravistimulation
-mar1: !possesses mutation in! TOC75-III gene
-mar2: !possesses mutation in! TOC132 gene
-TOC132: !rescues! random growth phenotype of mar2 arg1 roots
-TOC complex: !involved in! gravity signal transduction

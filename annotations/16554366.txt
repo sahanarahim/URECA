@@ -1,8 +1,0 @@
-['16554366', 'The timing of the switch from vegetative to reproductive development is crucial  for species survival. The plant-specific transcription factor and meristem  identity regulator LEAFY (LFY) controls this switch in Arabidopsis, in part via  the direct activation of two other meristem identity genes, APETALA1 (AP1) and  CAULIFLOWER (CAL). We recently identified five new direct LFY targets as  candidates for the missing meristem identity regulators that act downstream of  LFY. Here, we demonstrate that one of these, the class I homeodomain  leucine-zipper transcription factor LMI1, is a meristem identity regulator. LMI1  acts together with LFY to activate CAL expression. The interaction between LFY,  LMI1 and CAL resembles a feed-forward loop transcriptional network motif. LMI1  has additional LFY-independent roles in the formation of simple serrated leaves  and in the suppression of bract formation. The temporal and spatial expression of  LMI1 supports a role in meristem identity and leaf/bract morphogenesis.', '2006 May', 'Development', '10.1242/dev.02331', 'Wagner']
-
-LFY: !activates! AP1 
-LFY: !activates! CAL 
-LFY: !activates! LMI1 
-LMI1: !activates! CAL 
-LFY: !regulates! Leaf/Bract Morphogenesis 
-LMI1: !regulates! Leaf/Bract Morphogenesis

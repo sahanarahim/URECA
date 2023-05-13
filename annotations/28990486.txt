@@ -1,9 +1,0 @@
-Medicago truncatula shows a high level of specificity when interacting with its symbiotic partner Sinorhizobium meliloti. This specificity is mainly manifested at the nitrogen-fixing stage of nodule development, such that a particular bacterial strain forms nitrogen-fixing nodules (Nod<sup>+</sup>/Fix<sup>+</sup>) on one plant genotype but ineffective nodules (Nod<sup>+</sup>/Fix<sup>-</sup>) on another. Recent studies have just begun to reveal the underlying molecular mechanisms that control this specificity. The S. meliloti strain A145 induces the formation of Fix<sup>+</sup> nodules on the accession DZA315.16 but Fix<sup>-</sup> nodules on Jemalong A17. A previous study reported that the formation of Fix<sup>-</sup> nodules on Jemalong A17 by S. meliloti A145 was conditioned by a single recessive allele named Mtsym6. Here we demonstrate that the specificity associated with S. meliloti A145 is controlled by multiple genes in M. truncatula, including NFS1 and NFS2 that encode nodule-specific cysteine-rich (NCR) peptides. The two NCR peptides acted dominantly to block rather than promote nitrogen fixation by S. meliloti A145. These two NCR peptides are the same ones that negatively regulate nitrogen-fixing symbiosis associated with S. meliloti Rm41.
-
-NFS1: !represses! S. meliloti A145
-NFS2: !represses! S. meliloti A145
-Mtsym6: !affects! Fix<sup>-</sup> nodules
-S. meliloti A145: !induces! Fix<sup>+</sup> nodules
-S. meliloti A145: !induces! Fix<sup>-</sup> nodules
-DZA315.16: !supports! Fix<sup>+</sup> nodules
-Jemalong A17: !supports! Fix<sup>-</sup> nodules

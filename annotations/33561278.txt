@@ -1,9 +1,0 @@
-The native diploid tobacco Nicotiana attenuata produces abundant, potent anti-herbivore defense metabolites known as 17-hydroxygeranyllinalool diterpene glycosides (HGL-DTGs) whose glycosylation and malonylation biosynthetic steps are regulated by jasmonate signaling. To characterize the biosynthetic pathway of HGL-DTGs, we conducted a genome-wide analysis of uridine diphosphate glycosyltransferases (UGTs) and identified 107 family-1 UGT members. The transcript levels of three UGTs were highly correlated with the transcript levels two key HGL-DTG biosynthetic genes: geranylgeranyl diphosphate synthase (NaGGPPS) and geranyllinalool synthase (NaGLS). NaGLS's role in HGL-DTG biosynthesis was confirmed by virus-induced gene silencing. Silencing the Uridine diphosphate (UDP)-rhamnosyltransferase gene UGT91T1 demonstrated its role in the rhamnosylation of HGL-DTGs. In vitro enzyme assays revealed that UGT74P3 and UGT74P4 use UDP-glucose for the glucosylation of 17-hydroxygeranyllinalool (17-HGL) to lyciumoside I. Plants with stable silencing of UGT74P3 and UGT74P5 were severely developmentally deformed, pointing to a phytotoxic effect of the aglycone. The application of synthetic 17-HGL and silencing of the UGTs in HGL-DTG-free plants confirmed this phytotoxic effect. Feeding assays with tobacco hornworm (Manduca sexta) larvae revealed the defensive functions of the glucosylation and rhamnosylation steps in HGL-DTG biosynthesis. Glucosylation of 17-HGL is therefore a critical step that contributes to the resulting metabolites' defensive function and solves the autotoxicity problem of this potent chemical defense.
-
-NaGGPPS: !regulates! NaGLS
-NaGLS: !synthesizes! HGL-DTGs
-UGT91T1: !regulates! rhamnosylation of HGL-DTGs
-UGT74P3: !glucosylates! 17-HGL
-UGT74P4: !glucosylates! 17-HGL
-UGT74P3: !enhances! defensive function of HGL-DTGs
-UGT74P5: !enhances! defensive function of HGL-DTGs

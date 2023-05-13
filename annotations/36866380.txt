@@ -1,8 +1,0 @@
-Traditional machine learning in plant phenotyping research requires the assistance of professional data scientists and domain experts to adjust the structure and hy-perparameters tuning of neural network models with much human intervention, making the model training and deployment ineffective. In this paper, the automated machine learning method is researched to construct a multi-task learning model for <i>Arabidopsis thaliana</i> genotype classification, leaf number, and leaf area regression tasks. The experimental results show that the genotype classification task's accuracy and recall achieved 98.78%, precision reached 98.83%, and classification <i>F</i> <sub>1</sub> value reached 98.79%, as well as the <i>R</i> <sup>2</sup> of leaf number regression task and leaf area regression task reached 0.9925 and 0.9997 respectively. The experimental results demonstrated that the multi-task automated machine learning model can combine the benefits of multi-task learning and automated machine learning, which achieved more bias information from related tasks and improved the overall classification and prediction effect. Additionally, the model can be created automatically and has a high degree of generalization for better phenotype reasoning. In addition, the trained model and system can be deployed on cloud platforms for convenient application.
-
-genotype classification: !achieves! 98.78% accuracy
-leaf number regression: !achieves! 0.9925 R^2
-leaf area regression: !achieves! 0.9997 R^2
-multi-task learning: !combines with! automated machine learning
-model: !improves! overall classification and prediction effect
-model: !has high degree of! generalization

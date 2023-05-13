@@ -1,6 +1,0 @@
-['12228487', 'The semidominant gibberellin-insensitive (gai) mutant of Arabidopsis thaliana  shows impairment in multiple responses to the plant hormone gibberellin A3, which  include effects on seed germination, stem elongation, apical dominance, and rapid  flowering in short days. Results presented here show that the gai mutation also  interferes with development of fertile flowers in continuous light. Mu-tagenesis  of the gai mutant resulted in recovery of 17 independent mutants in which the  gibberellin-insensitive phenotype is partially or completely suppressed. Sixteen  of the suppressor mutations act semidominantly to restore gibberellin  responsiveness. One representative of this class, the gar1 mutation, could not be  genetically separated from the gai locus and is proposed to cause inactivation of  the gai gene. The exceptional gar2 mutation partially suppresses the gai  phenotype, is completely dominant, and is not linked to the gai locus. The gar2  mutation may define a new gene involved in gibberellin signaling. A recessive  allele of the spindly (SPY) locus, spy-5, was also found to partially suppress  the gai mutant phenotype.', '1995 Jun', 'Plant Physiol', '10.1104/pp.108.2.495', 'Somerville']
-
-gai: !affects! gibberellin A3 responses 
-gar1: !inactivates! gai 
-gar2: !interacts with! gai 
-spy-5: !partially suppresses! gai

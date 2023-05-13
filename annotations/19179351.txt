@@ -1,8 +1,0 @@
-The timely breakdown of the extracellular matrix by proteolytic enzymes is essential for development, morphogenesis and cell proliferation in plant and animal cells. Sporangin of the unicellular green alga Chlamydomonas reinhardtii that mediates breakdown of the sporangial cell wall to liberate the daughter cells after cell division is characterized as a subtilase-like serine protease. The sporangin gene is specifically transcribed during S/M phase in a synchronized vegetative cell cycle. In immunoblot analyses using a polyclonal antibody raised against the sporangin polypeptide, the enzyme is synthesized after mitotic cell division and accumulated in the daughter cells before hatching. Immunofluorescence analyses showed that sporangin is localized to the flagella of the daughter cells within the sporangial cell wall, and released into the culture medium. The data suggest that sporangin is released from flagella concurrently with the digestion of sporangial cell wall, and then the daughter cells are hatched from the sporangia in the Chlamydomonas vegetative cell cycle.
-
-gene: !synthesizes! Sporangin 
-Sporangin: !mediates breakdown! sporangial cell wall 
-Sporangin: !localizes to! flagella 
-flagella: !release! sporangin 
-sporangin: !digests! sporangial cell wall 
-daughter cells: !hatched from! sporangia

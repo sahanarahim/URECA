@@ -1,8 +1,0 @@
-['21193573', 'The exocyst protein complex mediates vesicle fusion with the plasma membrane. By  expressing an (X)FP-tagged Arabidopsis thaliana homolog of the exocyst protein  Exo70 in suspension-cultured Arabidopsis and tobacco (Nicotiana tabacum) BY-2  cells, and using antibodies specific for Exo70, we detected a compartment, which  we term EXPO (for exocyst positive organelles). Standard markers for the Golgi  apparatus, the trans-Golgi network/early endosome, and the multivesicular  body/late endosome in plants do not colocalize with EXPO. Inhibitors of the  secretory and endocytic pathways also do not affect EXPO. Exo70E2-(X)FP also  locates to the plasma membrane (PM) as discrete punctae and is secreted outside  of the cells. Immunogold labeling of sections cut from high-pressure frozen  samples reveal EXPO to be spherical double membrane structures resembling  autophagosomes. However, unlike autophagosomes, EXPOs are not induced by  starvation and do not fuse with the lytic compartment or with endosomes. Instead,  they fuse with the PM, releasing a single membrane vesicle into the cell wall.  EXPOs are also found in other cell types, including root tips, root hair cells,  and pollen grains. EXPOs therefore represent a form of unconventional secretion  unique to plants.', '2010 Dec', 'Plant Cell', '10.1105/tpc.110.080697', 'Jiang']
-
-Exo70: !localizes to! EXPO 
-EXPO: !fuses with! PM 
-PM: !releases! single membrane vesicle 
-Exo70: !secreted outside of! cells 
-EXPO: !found in! root tips, root hair cells, pollen grains 
-EXPO: !not induced by! starvation

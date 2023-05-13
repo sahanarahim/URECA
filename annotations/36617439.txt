@@ -1,7 +1,0 @@
-When exposed to changes in the light environment caused by neighboring vegetation, shade-avoiding plants modify their growth and/or developmental patterns to access more sunlight. In Arabidopsis (Arabidopsis thaliana), neighbor cues reduce the activity of the photosensory receptors phytochrome B (phyB) and cryptochrome 1, releasing photoreceptor repression imposed on PHYTOCHROME INTERACTING FACTORs (PIFs) and leading to transcriptional reprogramming. The phyB-PIF hub is at the core of all shade-avoidance responses, whilst other photosensory receptors and transcription factors contribute in a context-specific manner. CONSTITUTIVELY PHOTOMORPHOGENIC1 is a master regulator of this hub, indirectly stabilizing PIFs and targeting negative regulators of shade avoidance for degradation. Warm temperatures reduce the activity of phyB, which operates as a temperature sensor and further increases the activities of PIF4 and PIF7 by independent temperature sensing mechanisms. The signaling network controlling shade avoidance is not buffered against climate change; rather, it integrates information about shade, temperature, salinity, drought, and likely flooding. We, therefore, predict that climate change will exacerbate shade-induced growth responses in some regions of the planet while limiting the growth potential in others.
-
-phyB: !represses! PIFs
-CONSTITUTIVELY PHOTOMORPHOGENIC1: !stabilizes! PIFs
-phyB: !operates as! temperature sensor
-temperature: !reduces activity of! phyB
-PIF4/PIF7: !increased by! temperature

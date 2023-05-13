@@ -1,8 +1,0 @@
-The formation of lateral branches has an important and fundamental contribution to the remarkable developmental plasticity of plants, which allows plants to alter their architecture to adapt to the challenging environment conditions. The Gibberellin (GA) phytohormones have been known to regulate the outgrowth of axillary meristems (AMs), but the specific molecular mechanisms remain unclear. Here we show that DELLA proteins regulate axillary bud formation by interacting and regulating the DNA-binding ability of SQUAMOSA-PROMOTER BINDING PROTEIN LIKE 9 (SPL9), a microRNA156-targeted squamosa promoter binding protein-like transcription factor. SPL9 participates in the initial regulation of axillary buds by repressing the expression of LATERAL SUPPRESSOR (LAS), a key regulator in the initiation of AMs, and LAS contributes to the specific expression pattern of the GA deactivation enzyme GA2ox4, which is specifically expressed in the axils of leaves to form a low-GA cell niche in this anatomical region. Nevertheless, increasing GA levels in leaf axils by ectopically expressing the GA-biosynthesis enzyme GA20ox2 significantly impaired axillary meristem initiation. Our study demonstrates that DELLA-SPL9-LAS-GA2ox4 defines a core feedback regulatory module that spatially pattern GA content in the leaf axil and precisely control the axillary bud formation in different spatial and temporal.
-
-DELLA: !interacts with! SPL9
-SPL9: !represses! LAS
-LAS: !regulates! GA2ox4
-GA2ox4: !patterns! GA content
-GA20ox2: !enhances! GA levels
-DELLA-SPL9-LAS-GA2ox4: !controls! axillary bud formation

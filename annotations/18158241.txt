@@ -1,8 +1,0 @@
-['18158241', 'Plants use receptor kinases, such as FLS2 and EFR, to perceive bacterial  pathogens and initiate innate immunity. This immunity is often suppressed by  bacterial effectors, allowing pathogen propagation. To counteract, plants have  evolved disease resistance genes that detect the bacterial effectors and  reinstate resistance. The Pseudomonas syringae effector AvrPto promotes infection  in susceptible plants but triggers resistance in plants carrying the protein  kinase Pto and the associated resistance protein Prf. Here we show that AvrPto  binds receptor kinases, including Arabidopsis FLS2 and EFR and tomato LeFLS2, to  block plant immune responses in the plant cell. The ability to target receptor  kinases is required for the virulence function of AvrPto in plants. The  FLS2-AvrPto interaction and Pto-AvrPto interaction appear to share similar  sequence requirements, and Pto competes with FLS2 for AvrPto binding. The results  suggest that the mechanism by which AvrPto recognizes virulence targets is linked  to the evolution of Pto, which, in association with Prf, recognizes the bacterium  and triggers strong resistance.', '2008 Jan 8', 'Curr Biol', '10.1016/j.cub.2007.12.020', 'Zhou']
-
-FLS2: !binds! AvrPto
-EFR: !binds! AvrPto
-LeFLS2: !binds! AvrPto
-AvrPto: !blocks! Plant Immune Response
-Pto: !competes with! FLS2
-Pto: !recognizes! Bacterium

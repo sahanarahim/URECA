@@ -1,7 +1,0 @@
-['11461903', 'SPA1 is a phytochrome A (phyA)-specific signaling intermediate that acts as a  light-dependent repressor of photomorphogenesis in Arabidopsis seedlings. It  contains a WD-repeat domain that shows high sequence similarity to the WD-repeat  region of the constitutive repressor of light signaling, COP1. Here, using yeast  two-hybrid and in vitro interaction assays, we show that SPA1 strongly and  selectively binds to COP1. Domain mapping studies indicate that the putative  coiled-coil domain of SPA1 is necessary and sufficient for binding to COP1.  Conversely, similar deletion analyses of the COP1 protein suggest that SPA1  interacts with the presumed coiled-coil domain of COP1. To further investigate  SPA1 function in the phyA signaling pathway, we tested whether SPA1, like COP1,  mediates changes in gene expression in response to light. We show that spa1  mutations increase the photoresponsiveness of certain light-regulated genes  within 2 h of light treatment. Taken together, the results suggest that SPA1 may  function to link the phytochrome A-specific branch of the light signaling pathway  to COP1. Hence, our data provide molecular support for the hypothesis that COP1  is a convergence point for upstream signaling pathways dedicated to individual  photoreceptors.', '2001 Oct 12', 'J Biol Chem', '10.1074/jbc.M103140200', 'Quail']
-
-SPA1: !interacts with! COP1 
-SPA1: !represses! photomorphogenesis 
-SPA1: !mediates changes in! gene expression 
-COP1: !binds to! SPA1 
-COP1: !is a convergence point for! upstream signaling pathways

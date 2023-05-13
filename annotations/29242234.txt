@@ -1,9 +1,0 @@
-['29242234', 'In flowering plants, fertilization requires complex cell-to-cell communication  events between the pollen tube and the female reproductive tissues, which are  controlled by extracellular signaling molecules interacting with receptors at the  pollen tube surface. We found that two such receptors in Arabidopsis, BUPS1 and  BUPS2, and their peptide ligands, RALF4 and RALF19, are pollen tube-expressed and  are required to maintain pollen tube integrity. BUPS1 and BUPS2 interact with  receptors ANXUR1 and ANXUR2 via their ectodomains, and both sets of receptors  bind RALF4 and RALF19. These receptor-ligand interactions are in competition with  the female-derived ligand RALF34, which induces pollen tube bursting at nanomolar  concentrations. We propose that RALF34 replaces RALF4 and RALF19 at the interface  of pollen tube-female gametophyte contact, thereby deregulating BUPS-ANXUR  signaling and in turn leading to pollen tube rupture and sperm release.', '2017 Dec 22', 'Science', '10.1126/science.aao3642', 'ORCID:']
-
-BUPS1: !interacts with! ANXUR1
-BUPS2: !interacts with! ANXUR2
-RALF4: !binds to! BUPS1
-RALF19: !binds to! BUPS2
-RALF34: !replaces! RALF4/RALF19
-BUPS-ANXUR: !deregulates! signaling
-signaling: !leads to! pollen tube rupture

@@ -1,7 +1,0 @@
-Accurate detection and segmentation of the object fruit is the key part of orchard production measurement and automated picking. Affected by light, weather, and operating angle, it brings new challenges to the efficient and accurate detection and segmentation of the green object fruit under complex orchard backgrounds. For the green fruit segmentation, an efficient YOLOF-snake segmentation model is proposed. First, the ResNet101 structure is adopted as the backbone network to achieve feature extraction of the green object fruit. Then, the C5 feature maps are expanded with receptive fields and the decoder is used for classification and regression. Besides, the center point in the regression box is employed to get a diamond-shaped structure and fed into an additional Deep-snake network, which is adjusted to the contours of the target fruit to achieve fast and accurate segmentation of green fruit. The experimental results show that YOLOF-snake is sensitive to the green fruit, and the segmentation accuracy and efficiency are significantly improved. The proposed model can effectively extend the application of agricultural equipment and provide theoretical references for other fruits and vegetable segmentation.
-
-ResNet101: !extracts features from! green object fruit 
-C5 feature maps: !expanded with! receptive fields 
-Decoder: !used for! classification and regression 
-Center point: !employed to get! diamond-shaped structure 
-Deep-snake network: !adjusted to! contours of target fruit

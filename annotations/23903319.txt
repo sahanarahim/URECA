@@ -1,8 +1,0 @@
-Orthodox seeds are capable of withstanding severe dehydration. However, in the dehydrated state, Asn and Asp residues in proteins can convert to succinimide residues that can further react to predominantly form isomerized isoAsp residues upon rehydration (imbibition). IsoAsp residues can impair protein function and can render seeds nonviable, but PROTEIN ISOASPARTYL METHYLTRANSFERASE (PIMT) can initiate isoAsp conversion to Asp residues. The proteins necessary for translation upon imbibition in orthodox seeds may be particularly important to maintain in an active state. One such protein is the large, multidomain protein, Arabidopsis thaliana PLANT RNA HELICASE75 (PRH75), a DEAD-box helicase known to be susceptible to isoAsp residue accumulation. However, the consequences of such isomerization on PRH75 catalysis and for the plant are unknown. Here, it is demonstrated that PRH75 is necessary for successful seed development. It acquires isoAsp rapidly during heat stress, which eliminates RNA unwinding (but not rewinding) competence. The repair by PIMT is able to restore PRH75's complex biochemical activity provided isoAsp formation has not led to subsequent, destabilizing conformational alterations. For PRH75, an important enzymatic activity associated with translation would be eliminated unless rapidly repaired by PIMT prior to additional, deleterious conformational changes that would compromise seed vitality and germination.
-
-PIMT: !repairs! PRH75
-PRH75: !acquires! isoAsp
-isoAsp: !impairs! PRH75
-PIMT: !restores! PRH75
-PRH75: !eliminates! RNA unwinding
-isoAsp: !leads to! conformational alterations

@@ -1,8 +1,0 @@
-K+/Na+ homeostasis is the primary core response for plant to tolerate salinity. Halophytes have evolved novel regulatory mechanisms to maintain a suitable K+/Na+ ratio during long-term adaptation. The wild halophyte Hordeum brevisubulatum can adopt efficient strategies to achieve synergistic levels of K+ and Na+ under high salt stress. However, little is known about its molecular mechanism. Our previous study indicated that HbCIPK2 contributed to prevention of Na+ accumulation and K+ reduction. Here, we further identified the HbCIPK2-interacting proteins including upstream Ca2+ sensors, HbCBL1, HbCBL4, and HbCBL10, and downstream phosphorylated targets, the voltage-gated K+ channel HbVGKC1 and SOS1-like transporter HbSOS1L. HbCBL1 combined with HbCIPK2 could activate HbVGKC1 to absorb K+, while the HbCBL4/10-HbCIPK2 complex modulated HbSOS1L to exclude Na+. This discovery suggested that crosstalk between the sodium response and the potassium uptake signaling pathways indeed exists for HbCIPK2 as the signal hub, and paved the way for understanding the novel mechanism of K+/Na+ homeostasis which has evolved in the halophytic grass.
-
-HbCIPK2: !interacts with! HbCBL1
-HbCIPK2: !interacts with! HbCBL4/10
-HbCBL1: !combines with! HbCIPK2
-HbCBL4/10: !combines with! HbCIPK2
-HbCIPK2: !activates! HbVGKC1
-HbCIPK2: !modulates! HbSOS1L

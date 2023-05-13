@@ -1,6 +1,0 @@
-['16623892', 'The wall-associated kinases (WAK), a family of five proteins that contain  extracellular domains that can be linked to pectin molecules of the cell wall,  span the plasma membrane and have a cytoplasmic serine/threonine kinase domain.  Previous work has shown that a reduction in WAK protein levels leads to a loss of  cell expansion, indicating that these receptor-like proteins have a role in cell  shape formation. Here it is shown that a single wak2 mutation exhibits a  dependence on sugars and salts for seedling growth. This mutation also reduces  the expression and activity of vacuolar invertase, often a key factor in turgor  and expansion. WAKs may thus provide a molecular mechanism linking cell wall  sensing (via pectin attachment) to regulation of solute metabolism, which in turn  is known to be involved in turgor maintenance in growing cells.', '2006 Apr', 'Plant J', '10.1111/j.1365-313X.2006.02695.x', 'Byers']
-
-WAK: !affects! Cell Expansion 
-WAK: !regulates! Solute Metabolism 
-Solute Metabolism: !maintains! Turgor 
-Turgor: !influences! Cell Expansion

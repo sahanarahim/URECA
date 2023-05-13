@@ -1,9 +1,0 @@
-Dwarfism is an agronomic trait that has substantial effects on crop yield, lodging resistance, planting density, and a high harvest index. Ethylene plays an important role in plant growth and development, including the determination of plant height. However, the mechanism by which ethylene regulates plant height, especially in woody plants, remains unclear. In this study, a 1-aminocyclopropane-1-carboxylic acid synthase (ACC) gene (ACS), which is involved in ethylene biosynthesis, was isolated from lemon (Citrus limon L. Burm) and named CiACS4. Overexpression of CiACS4 resulted in a dwarf phenotype in Nicotiana tabacum and lemon and increased ethylene release and decreased gibberellin (GA) content in transgenic plants. Inhibition of CiACS4 expression in transgenic citrus significantly increased plant height compared to the controls. Yeast two-hybrid assays revealed that CiACS4 interacted with an ethylene response factor (ERF), CiERF3. Further experiments revealed that the CiACS4-CiERF3 complex can bind to the promoters of two citrus GA20-oxidase genes, CiGA20ox1 and CiGA20ox2, and suppress their expression. In addition, another ERF transcription factor, CiERF023, identified using yeast one-hybrid assays, promoted CiACS4 expression by binding to its promoter. Overexpression of CiERF023 in N. tabacum caused a dwarfing phenotype. CiACS4, CiERF3, and CiERF023 expression was inhibited and induced by GA3 and ACC treatments, respectively. These results suggest that the CiACS4-CiERF3 complex may be involved in the regulation of plant height by regulating CiGA20ox1 and CiGA20ox2 expression levels in citrus.
-
-CiACS4: !synthesizes! ethylene 
-CiACS4: !interacts with! CiERF3 
-CiACS4: !represses! CiGA20ox1 & CiGA20ox2 
-CiERF3: !binds to! promoters of CiGA20ox1 & CiGA20ox2 
-CiERF023: !promotes! CiACS4 expression 
-CiERF023: !induced by! ACC treatments 
-GA3: !inhibits! CiACS4, CiERF3, & CiERF023 expression

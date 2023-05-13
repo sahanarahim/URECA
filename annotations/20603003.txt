@@ -1,8 +1,0 @@
-['20603003', 'Light plays a profound role in plant development, yet how photoreceptor  excitation directs phenotypic plasticity remains elusive. One of the earliest  effects of light is the regulated translocation of the red/far-red  photoreceptors, phytochromes, from the cytoplasm to subnuclear foci called  phytochrome nuclear bodies. The function of these nuclear bodies is unknown. We  report the identification of hemera, a seedling lethal mutant of Arabidopsis with  altered phytochrome nuclear body patterns. hemera mutants are impaired in all  phytochrome responses examined, including proteolysis of phytochrome A and  phytochrome-interacting transcription factors. HEMERA was identified previously  as pTAC12, a component of a plastid complex associated with transcription. Here,  we show that HEMERA has a function in the nucleus, where it acts specifically in  phytochrome signaling, is predicted to be structurally similar to the  multiubiquitin-binding protein, RAD23, and can partially rescue yeast  rad23mutants. Together, these results implicate phytochrome nuclear bodies as  sites of proteolysis.', '2010 Jun 25', 'Cell', '10.1016/j.cell.2010.05.007', 'Chory']
-
-Light: !affects! phytochrome translocation 
-phytochrome: !localizes to! nuclear bodies 
-HEMERA: !interacts with! phytochrome 
-HEMERA: !enhances! proteolysis of phytochrome A 
-HEMERA: !interacts with! transcription factors 
-HEMERA: !synthesizes! RAD23

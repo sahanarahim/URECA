@@ -1,8 +1,0 @@
-Biochemical models of leaf photosynthesis, which are essential for understanding the impact of photosynthesis to changing environments, depend on accurate parameterizations. One such parameter, the photorespiratory CO2 compensation point can be measured from the intersection of several CO2 response curves measured under sub-saturating illumination. However, determining the actual intersection while accounting for experimental noise can be challenging. Additionally, leaf photosynthesis model outcomes are sensitive to the diffusion paths of CO2 released from the mitochondria. This diffusion path of CO2 includes both chloroplastic as well as cell wall resistances to CO2 , which are not readily measurable. Both the difficulties of determining the photorespiratory CO2 compensation point and the impact of multiple intercellular resistances to CO2 can be addressed through application of slope-intercept regression. This technical report summarizes an improved framework for implementing slope-intercept regression to evaluate measurements of the photorespiratory CO2 compensation point. This approach extends past work to include the cases of both Rubisco and Ribulose-1,5-bisphosphate (RuBP)-limited photosynthesis. This report further presents two interactive graphical applications and a spreadsheet-based tool to allow users to apply slope-intercept theory to their data.
-
-Gene: !affects! Photosynthesis
-Gene: !localizes to! Mitochondria
-Gene: !interacts with! CO2
-Gene: !enhances! Diffusion Paths
-Gene: !represses! Cell Wall Resistances
-Gene: !synthesizes! RuBP

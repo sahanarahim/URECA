@@ -1,8 +1,0 @@
-Although several plant microRNAs (miRNAs) have been shown to play a role in plant development, no phenotype has yet been associated with a reduction or loss of expression of any plant miRNA. Arabidopsis thaliana miR164 was predicted to target five NAM/ATAF/CUC (NAC) domain-encoding mRNAs, including NAC1, which transduces auxin signals for lateral root emergence. Here, we show that miR164 guides the cleavage of endogenous and transgenic NAC1 mRNA, producing 3'-specific fragments. Cleavage was blocked by NAC1 mutations that disrupt base pairing with miR164. Compared with wild-type plants, Arabidopsis mir164a and mir164b mutant plants expressed less miR164 and more NAC1 mRNA and produced more lateral roots. These mutant phenotypes can be complemented by expression of the appropriate MIR164a and MIR164b genomic sequences. By contrast, inducible expression of miR164 in wild-type plants led to decreased NAC1 mRNA levels and reduced lateral root emergence. Auxin induction of miR164 was mirrored by an increase in the NAC1 mRNA 3' fragment, which was not observed in the auxin-insensitive mutants auxin resistant1 (axr1-12), axr2-1, and transport inhibitor response1. Moreover, the cleavage-resistant form of NAC1 mRNA was unaffected by auxin treatment. Our results indicate that auxin induction of miR164 provides a homeostatic mechanism to clear NAC1 mRNA to downregulate auxin signals.
-
-miR164: !targets! NAC1 mRNA
-NAC1 mRNA: !cleaved by! miR164
-miR164: !induces! lateral root emergence
-miR164: !represses! NAC1 mRNA
-auxin: !induces! miR164
-axr1-12, axr2-1, transport inhibitor response1: !insensitive to! auxin

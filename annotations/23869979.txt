@@ -1,9 +1,0 @@
-In the past 20-30 years, developmental biologists have made tremendous progress in identifying genes required for the specification of individual cell types of an organ and in describing how they interact in genetic networks. In comparison, very little is known about the mechanisms that regulate tissue polarity and overall organ patterning. Gynoecia and fruits from members of the Brassicaceae family of flowering plants provide excellent model systems to study organ patterning and tissue specification because they become partitioned into distinct domains whose formation is determined by polarity establishment both at a cellular and whole tissue level. Interactions among key regulators of Arabidopsis gynoecium and fruit development have revealed a network of upstream transcription factor activities required for such tissue differentiation. Regulation of the plant hormone auxin is emerging as both an immediate downstream output and input of these activities, and here we aim to provide an overview of the current knowledge regarding the link between auxin and female reproductive development in plants. In this review, we will also demonstrate how available data can be exploited in a mathematical modeling approach to reveal and understand the feedback regulatory circuits that underpin the polarity establishment, necessary to guide auxin flows.
-
-Gene: !affects! Process 
-Process: !regulates! Auxin 
-Auxin: !guides! Polarity Establishment 
-Gene: !interacts with! Transcription Factor 
-Transcription Factor: !required for! Tissue Differentiation 
-Gene: !enhances! Auxin Output 
-Gene: !represses! Auxin Input

@@ -1,7 +1,0 @@
-It is increasingly important in life sciences that many cell-scale and tissue-scale measurements are quantified from confocal microscope images. However, extracting and analyzing large-scale confocal image data sets represents a major bottleneck for researchers. To aid this process, CellSeT software has been developed, which utilizes tissue-scale structure to help segment individual cells. We provide examples of how the CellSeT software can be used to quantify fluorescence of hormone-responsive nuclear reporters, determine membrane protein polarity, extract cell and tissue geometry for use in later modeling, and take many additional biologically relevant measures using an extensible plug-in toolset. Application of CellSeT promises to remove subjectivity from the resulting data sets and facilitate higher-throughput, quantitative approaches to plant cell research.
-
-CellSeT: !utilizes! tissue-scale structure 
-CellSeT: !quantifies! fluorescence of hormone-responsive nuclear reporters 
-CellSeT: !determines! membrane protein polarity 
-CellSeT: !extracts! cell and tissue geometry 
-CellSeT: !facilitates! higher-throughput, quantitative approaches

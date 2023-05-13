@@ -1,9 +1,0 @@
-Sulfur is a macronutrient that is necessary for plant growth and development. Sulfate, a major source of sulfur, is taken up by plant roots and transported into various tissues for assimilation. During sulfate limitation, expression of miR395 is significantly up-regulated. miR395 targets two families of genes, ATP sulfurylases (encoded by APS genes) and sulfate transporter 2;1 (SULTR2;1, also called AST68), both of which are involved in the sulfate metabolism pathway. Their transcripts are suppressed strongly in miR395-over-expressing transgenic Arabidopsis, which over-accumulates sulfate in the shoot but not in the root. APS1 knockdown mutants accumulate twice as much sulfate as the wild-type. By constructing APS4-RNAi transgenic plants, we found that silencing the APS4 gene also results in over-accumulation of sulfate. Even though miR395-over-expressing transgenic plants over-accumulate sulfate in the shoot, they display sulfur deficiency symptoms. Additionally, the distribution of sulfate from older to younger leaves is impaired in miR395-over-expressing plants, similar to a SULTR2;1 loss-of-function mutant. The aps1-1 sultr2;1 APS4-RNAi triply repressed mutants phenocopied miR395-over-expressing plants. Our research showed that miR395 is involved in the regulation of sulfate accumulation and allocation by targeting APS genes and SULTR2;1, respectively.
-
-miR395: !targets! ATP sulfurylases 
-miR395: !targets! SULTR2;1 
-APS1: !knockdown! accumulates sulfate 
-APS4: !silencing! accumulates sulfate 
-miR395: !over-expressing! over-accumulates sulfate 
-miR395: !over-expressing! impairs sulfate distribution 
-aps1-1 sultr2;1 APS4-RNAi: !triply repressed! phenocopies miR395-over-expressing plants

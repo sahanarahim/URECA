@@ -1,9 +1,0 @@
-['10471743', 'A cDNA encoding a putative RNA and/or DNA helicase has been isolated from  Arabidopsis thaliana cDNA libraries. The cloned cDNA is 5166 bases long, and its  largest open reading frame encodes 1538 amino acids. The central region of the  predicted protein is homologous to a group of nucleic acid helicases from the  DEAD/H family. However, the N- and C-terminal regions of the Arabidopsis cDNA  product are distinct from these animal DEIH proteins. We have found that the  C-terminal region contains three characteristic sequences: (i) two DNA-binding  segments that form a probe helix (PH) involved in DNA recognition; (ii) an  SV40-type nuclear localization signal; and (iii) 11 novel tandem-repeat sequences  each consisting of about 28 amino acids. We have designated this cDNA as NIH  (nuclear DEIH-boxhelicase). Functional character-ization of a recombinant fusion  product containing the repeated region indicates that NIH may form homodimers,  and that this is the active form in solution. Based on this information and the  observation that the sequence homology is limited to the DEAH regions, we  conclude that the biological roles of the plant helicase NIH differ from those of  the animal DEIH family.', '1999 Sep 15', 'Nucleic Acids Res', '10.1093/nar/27.18.3728', 'Kobayashi']
-
-cDNA: !encodes! helicase 
-helicase: !homologous to! DEAD/H family 
-helicase: !contains! DNA-binding segments 
-helicase: !contains! SV40-type nuclear localization signal 
-helicase: !contains! 11 novel tandem-repeat sequences 
-helicase: !forms! homodimers 
-helicase: !roles differ from! animal DEIH family

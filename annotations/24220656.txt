@@ -1,9 +1,0 @@
-In etiolated seedlings, phytochrome A (phyA) mediates very-low-fluence responses (VLFRs), which initiate de-etiolation at the interphase between the soil and above-ground environments, and high-irradiance responses (HIR), which complete de-etiolation under dense canopies and require more sustained activation with far-red light. Light-activated phyA is transported to the nucleus by FAR-RED ELONGATED HYPOCOTYL1 (FHY1). The nuclear pool of active phyA increases under prolonged far-red light of relatively high fluence rates. This condition maximizes the rate of FHY1-phyA complex assembly and disassembly, allowing FHY1 to return to the cytoplasm to translocate further phyA to the nucleus, to replace phyA degraded in the proteasome. The core signalling pathways downstream of nuclear phyA involve the negative regulation of CONSTITUTIVE PHOTOMORPHOGENIC 1, which targets for degradation transcription factors required for photomorphogenesis, and PHYTOCHROME-INTERACTING FACTORs, which are transcription factors that repress photomorphogenesis. Under sustained far-red light activation, released FHY1 can also be recruited with active phyA to target gene promoters as a transcriptional activator, and nuclear phyA signalling activates a positive regulatory loop involving BELL-LIKE HOMEODOMAIN 1 that reinforces the HIR.
-
-phyA: !mediates! VLFRs
-phyA: !transported to nucleus by! FHY1
-FHY1: !assembles and disassembles! phyA
-CONSTITUTIVE PHOTOMORPHOGENIC 1: !negatively regulated by! phyA
-PHYTOCHROME-INTERACTING FACTORs: !repress! photomorphogenesis
-FHY1: !recruited with! active phyA
-BELL-LIKE HOMEODOMAIN 1: !positively regulated by! nuclear phyA

@@ -1,8 +1,0 @@
-The biochemical model of C<sub>3</sub> photosynthesis by Farquhar, von Caemmerer and Berry (FvCB) assumes that photosynthetic CO<sub>2</sub> assimilation is limited by one of three biochemical processes that are not always easily discerned. This leads to improper assessments of biochemical limitations that limit the accuracy of the model predictions. We use the sensitivity of rates of CO<sub>2</sub> assimilation and photosynthetic electron transport to changes in O<sub>2</sub> and CO<sub>2</sub> concentration in the chloroplast to evaluate photosynthetic limitations. Assessing the sensitivities to O<sub>2</sub> and CO<sub>2</sub> concentrations reduces the impact of uncertainties in the fixed parameters to a minimum and simultaneously entirely eliminates the need to determine the variable parameters of the model, such as V<sub>cmax</sub> , J, or T<sub>P</sub> . Our analyses demonstrate that Rubisco limits carbon assimilation at high temperatures, while it is limited by triose phosphate utilization at lower temperatures and at higher CO<sub>2</sub> concentrations. Measurements can be assigned a priori to one of the three functions of the FvCB model, allowing testing for the suitability of the selected fixed parameters of the model. This approach can improve the reliability of photosynthesis models on scales from the leaf level to estimating the global carbon budget.
-
-Rubisco: !limits! Carbon assimilation 
-O<sub>2</sub>: !sensitizes! Photosynthetic electron transport 
-CO<sub>2</sub>: !sensitizes! Photosynthetic electron transport 
-Triose phosphate utilization: !limits! Carbon assimilation 
-FvCB model: !assigns! Measurements 
-FvCB model: !improves reliability of! Photosynthesis models

@@ -1,7 +1,0 @@
-['11867518', 'The Arabidopsis shepherd (shd) mutant shows expanded shoot apical meristems (SAM)  and floral meristems (FM), disorganized root apical meristems, and defects in  pollen tube elongation. We have discovered that SHD encodes an ortholog of GRP94,  an ER-resident HSP90-like protein. Since the shd phenotypes in SAM and FM are  similar to those of the clavata (clv) mutants, we have explored the possibility  that CLV complex members could be SHD targets. The SAM and FM morphology of shd  clv double mutants are indistinguishable from those of clv single mutants, and  the wuschel (wus) mutation is completely epistatic to the shd mutation,  indicating that SHD and CLV act in the same genetic pathway to suppress WUS  function. Moreover, the effects of CLV3 overexpression that result in the  elimination of SAM activity were abolished in the shd mutant, indicating that CLV  function is dependent on SHD function. Therefore, we conclude that the SHD  protein is required for the correct folding and/or complex formation of CLV  proteins.', '2002 Mar 1', 'EMBO J', '10.1093/emboj/21.5.898', 'Okada']
-
-SHD: !encodes! GRP94 
-CLV: !acts in same genetic pathway as! SHD 
-SHD: !required for folding/complex formation of! CLV 
-SHD: !suppresses! WUS 
-CLV3: !eliminated SAM activity in! shd mutant

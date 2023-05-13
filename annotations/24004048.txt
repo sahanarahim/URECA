@@ -1,9 +1,0 @@
-['24004048', 'The mode of fruit opening is an important agronomic and evolutionary trait that  has been studied intensively in the major plant model system Arabidopsis  thaliana. Because fruit morphology is highly variable between species, and is  also often the target of artificial selection during breeding, it is interesting  to investigate whether a change in fruit morphology may alter the developmental  pathway leading to fruit opening. Here we have studied fruit development in  Lepidium campestre, a Brassicaceae species that forms silicles instead of  siliques. Transgenic L. campestre plants with altered expression levels of  orthologs of A. thaliana fruit developmental genes (ALCATRAZ, FRUITFULL,  INDEHISCENT and SHATTERPROOF1,2) were found to be defective in fruit dehiscence,  and anatomical sections revealed similar changes in tissue patterning as found in  respective A. thaliana mutants. Gene expression analyses demonstrated a high  degree of conservation in gene regulatory circuits, indicating that, despite  great differences in fruit morphology, the process of fruit opening remains  basically unchanged between species. Interestingly, our data identify ALCATRAZ as  a negative regulator of INDEHISCENT in L. campestre. By mutant analysis, we found  the same regulatory relationship in A. thaliana also, thereby shedding new light  on how ALCATRAZ drives separation layer formation.', '2013 Nov', 'Plant J', '10.1111/tpj.12321', 'Theissen']
-
-ALCATRAZ: !regulates! INDEHISCENT 
-FRUITFULL: !affects! Fruit dehiscence 
-INDEHISCENT: !localizes to! Tissue patterning 
-SHATTERPROOF1,2: !interacts with! Transgenic L. campestre plants 
-Gene expression: !enhances! Conservation in gene regulatory circuits 
-A. thaliana mutants: !represses! ALCATRAZ 
-A. thaliana: !synthesizes! Separation layer formation

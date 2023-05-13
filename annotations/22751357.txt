@@ -1,7 +1,0 @@
-Phytochrome B (phyB), a major photoreceptor in plants, interacts with transcription factors to regulate gene expression and induce various light responses. Recently, we identified an SR-like splicing factor, RRC1 (reduced red-light responses in cry1cry2 background 1), as a novel component of phyB signaling in Arabidopsis. RRC1 has a C-terminal arginine/serine-rich (RS) domain that is generally important for the regulation of alternative splicing. Whereas rrc1 hypomorphic mutant alleles produce truncated RRC1 proteins that lack the C-terminal region, including the RS domain, and exhibit splicing defects and reduced phyB signaling, the rrc1-4 null allele additionally displays pleiotropic developmental abnormalities with more severe splicing defects. Here, we show that transgenic Arabidopsis plants that express truncated RRC1 lacking the RS domain in the rrc1-4 null allele background exhibited the same phenotype as the hypomorphic alleles. Hence, we conclude that deletion of the RS domain of RRC1 reduces phyB signaling, probably due to aberrant regulation of alternative splicing of target genes.
-
-phyB: !interacts with! transcription factors 
-RRC1: !interacts with! phyB 
-RS domain: !regulates! alternative splicing 
-rrc1-4 null allele: !displays! pleiotropic developmental abnormalities 
-truncated RRC1: !reduces! phyB signaling

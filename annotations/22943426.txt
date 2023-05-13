@@ -1,8 +1,0 @@
-Complementary beneficial effects of different arbuscular mycorrhizal fungi (AMF) can result in a more efficient exploitation of the soil nutrients available, thus influencing plant communities. Here, we hypothesize that plant-AMF specificity is mediated by phylogenetic constraints defining possible interactions, and that plant-AMF interaction patterns can influence plant-plant facilitation specificity. We reanalyzed previous data describing plant-plant and plant-AMF interaction at the community level to specifically test for a phylogenetic signal on plant and AMF interactions and for a relationship between plant-plant facilitation specificity and plant species differences in their AMF associates. Closely related AMF operational taxonomical units (OTUs) tend to interact with the same plant species, but there is not a significant signal in the interaction through the plant phylogeny. This indicates that the similarity in the AMF associates of two plant species is independent of their phylogenetic relatedness. Interestingly, plant-AMF interactions match plant facilitation specificity, with pairs of plant species recruiting more frequently under each other tending to have different AMF associates. An increment of AMF diversity in the rhizosphere, as a result of plant-AMF and plant-plant selectivity, is suggested as a potential driver of plant-plant facilitation. This study highlights the role of plant-AMF interactions in shaping plant community assemblages.
-
-plant: !interacts with! AMF
-AMF: !interacts with! plant
-plant: !influences! plant-plant facilitation specificity
-AMF: !localizes to! rhizosphere
-plant: !selects! AMF
-AMF: !selects! plant

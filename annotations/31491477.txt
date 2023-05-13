@@ -1,7 +1,0 @@
-Dehydrating stresses trigger the accumulation of abscisic acid (ABA), a key plant stress-signaling hormone that activates Snf1-Related Kinases (SnRK2s) to mount adaptive responses. However, the regulatory circuits that terminate the SnRK2s signal relay after acclimation or post-stress conditions remain to be defined. Here, we show that the desensitization of the ABA signal is achieved by the regulation of OST1 (SnRK2.6) protein stability via the E3-ubiquitin ligase HOS15. Upon ABA signal, HOS15-induced degradation of OST1 is inhibited and stabilized OST1 promotes the stress response. When the ABA signal terminates, protein phosphatases ABI1/2 promote rapid degradation of OST1 via HOS15. Notably, we found that even in the presence of ABA, OST1 levels are also depleted within hours of ABA signal onset. The unexpected dynamics of OST1 abundance are then resolved by systematic mathematical modeling, demonstrating a desensitizing feedback loop by which OST1-induced upregulation of ABI1/2 leads to the degradation of OST1. This model illustrates the complex rheostat dynamics underlying the ABA-induced stress response and desensitization.
-
-ABA: !activates! SnRK2s
-HOS15: !regulates! OST1
-ABI1/2: !promotes degradation of! OST1
-OST1: !upregulates! ABI1/2
-OST1: !stabilizes! ABA signal

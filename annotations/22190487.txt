@@ -1,6 +1,0 @@
-['22190487', 'Cellulose synthase (CESA) complexes can be observed by live-cell imaging to move  with trajectories that parallel the underlying cortical microtubules. Here we  report that CESA interactive protein 1 (CSI1) is a microtubule-associated protein  that bridges CESA complexes and cortical microtubules. Simultaneous in vivo  imaging of CSI1, CESA complexes, and microtubules demonstrates that the  association of CESA complexes and cortical microtubules is dependent on CSI1.  CSI1 directly binds to microtubules as demonstrated by in vitro  microtubule-binding assay.', '2012 Jan 3', 'Proc Natl Acad Sci U S A', '10.1073/pnas.1118560109', 'Gu']
-
-CESA: !interacts with! CSI1
-CSI1: !bridges! CESA complexes and cortical microtubules
-CESA complexes: !dependent on! CSI1
-CSI1: !directly binds to! microtubules

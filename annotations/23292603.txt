@@ -1,8 +1,0 @@
-Studies on plant metabolites have attracted significant attention in recent years. Over the past 8 years, we have constructed a unique metabolite database, called KNApSAcK, that contains information on the relationships between metabolites and their expressing organism(s). In the present paper, we introduce KNApSAcK-3D, which contains the three-dimensional (3D) structures of all of the metabolic compounds included in the original KNApSAcK database. The 3D structure for each compound was optimized using the Merck Molecular Force Field (MMFF94), and a multiobjective genetic algorithm was used to search extensively for possible conformations and locate the global minimum. The resulting set of structures may be used for docking studies to identify new and potentially unexpected binding sites for target proteins. The 3D structures may also be utilized for more qualitative studies, such as the estimation of biological activities using 3D-QSAR. The database can be accessed via a link from the KNApSAcK Family website (http://kanaya.naist.jp/KNApSAcK_Family/) or directory at http://kanaya.naist.jp/knapsack3d/.
-
-Gene: !affects! Metabolite
-Metabolite: !localizes to! Organism
-Metabolite: !structured by! MMFF94
-Metabolite: !searched by! Genetic Algorithm
-Metabolite: !docked with! Target Protein
-Metabolite: !estimated by! 3D-QSAR

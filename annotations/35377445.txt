@@ -1,9 +1,0 @@
-The coordinated signaling activity of auxin and brassinosteroids (BRs) is critical for optimal plant growth and development. Nutrient-derived signals regulate root growth by modulating the levels and spatial distribution of growth hormones to optimize nutrient uptake and assimilation. However, the effect of the interaction of these two hormones and their signaling on root plasticity during low and differential availability of nitrogen (N) forms (NH4+/NO3-) remains elusive. We demonstrate that root elongation under low N (LN) is an outcome of the interdependent activity of auxin and BR signaling pathways in Arabidopsis (Arabidopsis thaliana). LN promotes root elongation by increasing BR-induced auxin transport activity in the roots. Increased nuclear auxin signaling and its transport efficiency have a distinct impact on root elongation under LN conditions. High auxin levels reversibly inhibit BR signaling via BRI1 KINASE INHIBITOR1. Using the tissue-specific approach, we show that BR signaling from root vasculature (stele) tissues is sufficient to promote cell elongation and, hence, root growth under LN condition. Further, we show that N form-defined root growth attenuation or enhancement depends on the fine balance of BR and auxin signaling activity. NH4+ as a sole N source represses BR signaling and response, which in turn inhibits auxin response and transport, whereas NO3- promotes root elongation in a BR signaling-dependent manner. In this study, we demonstrate the interplay of auxin and BR-derived signals, which are critical for root growth in a heterogeneous N environment and appear essential for root N foraging response and adaptation.
-
-auxin: !interacts with! BRs 
-BRs: !promotes! auxin transport 
-auxin: !inhibits! BR signaling 
-BRs: !regulates! root growth 
-NH4+: !represses! BR signaling 
-NO3-: !enhances! root elongation 
-BRs: !dependent on! auxin response

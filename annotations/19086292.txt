@@ -1,7 +1,0 @@
-Characterization of spatial and temporal variation of soil respiration coupled with fine root and rhizomorph dynamics is necessary to understand the mechanisms that regulate soil respiration. A dense wireless network array of soil CO2 sensors in combination with minirhizotron tubes was used to continuously measure soil respiration over 1 yr in a mixed conifer forest in California, USA, in two adjacent areas with different vegetation types: an area with woody vegetation (Wv) and an area with scattered herbaceous vegetation (Hv). Annual soil respiration rates and the lengths of fine roots and rhizomorphs were greater at Wv than at Hv. Soil respiration was positively correlated with fine roots and rhizomorphs at Wv but only with fine roots at Hv. Diel and seasonal soil respiration patterns were decoupled with soil temperature at Wv but not at Hv. When decoupled, higher soil respiration rates were observed at increasing temperatures, demonstrating a hysteresis effect. The diel hysteresis at Wv was explained by including the temperature-dependent component of soil respiration and the variation dependent on photosynthetically active radiation. The results show that vegetation type and fine root and rhizomorph dynamics influence soil respiration in addition to changes in light, temperature and moisture.
-
-vegetation type: !affects! soil respiration
-fine root: !correlates with! soil respiration
-rhizomorphs: !correlates with! soil respiration
-temperature: !decouples from! soil respiration
-photosynthetically active radiation: !explains! diel hysteresis

@@ -1,9 +1,0 @@
-Phytochrome A (phyA) is the dominant photoreceptor of far-red light sensing in Arabidopsis thaliana. phyA accumulates at high levels in the cytoplasm of etiolated seedlings, and light-induced phyA signaling is mediated by a complex regulatory network. This includes light- and FHY1/FHL protein-dependent translocation of native phyA into the nucleus in vivo. It has also been shown that a short N-terminal fragment of phyA (PHYA406) is sufficient to phenocopy this highly regulated cellular process in vitro. To test the biological activity of this N-terminal fragment of phyA in planta, we produced transgenic phyA-201 plants expressing the PHYA406-YFP (YELLOW FLUORESCENT PROTEIN)-DD, PHYA406-YFP-DD-NLS (nuclear localization signal), and PHYA406-YFP-DD-NES (nuclear export signal) fusion proteins. Here, we report that PHYA406-YFP-DD is imported into the nucleus and this process is partially light-dependent whereas PHYA406-YFP-DD-NLS and PHYA406-YFP-DD-NES display the expected constitutive localization patterns. Our results show that these truncated phyA proteins are light-stable, they trigger a constitutive photomorphogenic-like response when localized in the nuclei, and neither of them induces proper phyA signaling. We demonstrate that in vitro and in vivo PHYA406 Pfr and Pr bind COP1, a general repressor of photomorphogenesis, and co-localize with it in nuclear bodies. Thus, we conclude that, in planta, the truncated PHYA406 proteins inactivate COP1 in the nuclei in a light-independent fashion.
-
-phyA: !accumulates in! cytoplasm 
-phyA: !translocates to! nucleus 
-PHYA406-YFP-DD: !imported into! nucleus 
-PHYA406-YFP-DD: !partially light-dependent! 
-PHYA406-YFP-DD-NLS/NES: !constitutive localization! 
-PHYA406: !triggers! photomorphogenic-like response 
-PHYA406: !inactivates! COP1

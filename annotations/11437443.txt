@@ -1,6 +1,0 @@
-['11437443', 'The control of epidermal cell fate is a complex molecular process and requires  the regulatory activity of different transcription factors. Here, we describe the  isolation of a member of the Arabidopsis MYB transcription factor family,  AtMYB23, that is involved in trichome development. Expression of the AtMYB23 gene  under the control of the viral CaMV 35S promoter causes the development of  ectopic trichomes. The formation of ectopic trichomes depends on TRANSPARENT  TESTA GLABRA1 but not on GLABRA1. The absence of the negative regulator  TRIPTYCHON leads to branching of the ectopic trichomes on cotyledons and the  formation of ectopic trichomes in the leaf subepidermal cell layer. The CaMV 35S  promoter-controlled expression of AtMYB23 can partially rescue the glabra1 mutant  phenotype. Together, the presented data indicate that the AtMYB23 gene has  partially overlapping functions with GLABRA1 in controlling the initiation of  trichome development.', '2001 Jul 15', 'Dev Biol', '10.1006/dbio.2001.0287', 'Baumlein']
-
-AtMYB23: !affects! trichome development 
-AtMYB23: !interacts with! TRANSPARENT TESTA GLABRA1 
-AtMYB23: !represses! TRIPTYCHON 
-AtMYB23: !partially rescues! glabra1 mutant phenotype

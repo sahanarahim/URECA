@@ -1,8 +1,0 @@
-Experiments performed in actively proliferating plant cells both in space and simulated microgravity have evidenced a common effect: cell proliferation appears enhanced whereas cell growth is depleted. Coordination of cell growth and proliferation, called meristematic competence, is a major feature of meristematic cells and its disruption may lead to important alterations in the developmental pattern of the plant. Auxin is known to be a mediator of the transduction of the gravitropic signal and a regulator of the rates of growth and proliferation in meristematic cells, as well as of their further differentiation. Therefore, gravity sensing, gravitropism, auxin levels, and meristematic competence are mutually interrelated. However, our experiments in simulated microgravity, using both mechanical and magnetic levitation technologies, have revealed that this interdependence is neither strict nor univocal and may include additional factors and mechanisms. Available data indicate that altered gravity may affect cell growth and proliferation by mechanisms alternative to the transduction of the gravitropic signal perceived by columella cells in the root tip. These mechanisms would include gravity sensing independent from statolith displacement and transduction mediators other than polar auxin transport.
-
-gravity: !affects! cell growth/proliferation
-auxin: !mediates! gravitropic signal
-gravity: !senses! statolith displacement
-auxin: !regulates! growth/proliferation/differentiation
-gravity: !senses! independent of statolith displacement
-auxin: !transports! polar auxin

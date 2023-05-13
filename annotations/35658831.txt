@@ -1,9 +1,0 @@
-Predicting the phenotype from the genotype is one of the major contemporary challenges in biology. This challenge is greater in plants because their development occurs mostly post-embryonically under diurnal and seasonal environmental fluctuations. Most current crop simulation models are physiology-based models capable of capturing environmental fluctuations but cannot adequately capture genotypic effects because they were not constructed within a genetics framework. We describe the construction of a mixed-effects dynamic model to predict time-to-flowering in the common bean (Phaseolus vulgaris L.). This prediction model applies the developmental approach used by traditional crop simulation models, uses direct observational data, and captures the Genotype, Environment, and Genotype-by-Environment effects to predict progress towards time-to-flowering in real time. Comparisons to a traditional crop simulation model and to a previously developed static model shows the advantages of the new dynamic model. The dynamic model can be applied to other species and to different plant processes. These types of models can, in modular form, gradually replace plant processes in existing crop models as has been implemented in BeanGro, a crop simulation model within the DSSAT Cropping Systems Model. Gene-based dynamic models can accelerate precision breeding of diverse crop species, particularly with the prospects of climate change. Finally, a gene-based simulation model can assist policy decision makers in matters pertaining to prediction of food supplies.
-
-Genotype: !affects! Phenotype 
-Environment: !influences! Time-to-flowering 
-Genotype-by-Environment: !captures! Progress towards time-to-flowering 
-Dynamic Model: !predicts! Time-to-flowering 
-Dynamic Model: !applies to! Other species 
-Dynamic Model: !accelerates! Precision breeding 
-Dynamic Model: !assists! Policy decision makers

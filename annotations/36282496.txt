@@ -1,9 +1,0 @@
-Heat stress (HS) has serious negative effects on plant development and has become a major threat to agriculture. A rapid transcriptional regulatory cascade has evolved in plants in response to HS. Nuclear Factor-Y (NF-Y) complexes are critical for this mechanism, but how NF-Y complexes are regulated remains unclear. In this study, we identified NF-YC10 (NF-Y subunit C10), a central regulator of the HS response in Arabidopsis thaliana, as a substrate of SUMOylation, an important post-translational modification. Biochemical analysis showed that the SUMO ligase SIZ1 (SAP AND MIZ1 DOMAIN-CONTAINING LIGASE1) interacts with NF-YC10 and enhances its SUMOylation during HS. The SUMOylation of NF-YC10 facilitates its interaction with and the nuclear translocation of NF-YB3, in which the SUMO interaction motif (SIM) is essential for its efficient association with NF-YC10. Further functional analysis indicated that the SUMOylation of NF-YC10 and the SIM of NF-YB3 are critical for HS-responsive gene expression and plant thermotolerance. These findings uncover a role for the SIZ1-mediated SUMOylation of NF-YC10 in NF-Y complex assembly under HS, providing new insights into the role of a post-translational modification in regulating transcription during abiotic stress responses in plants.
-
-SIZ1: !interacts with! NF-YC10
-SIZ1: !enhances! SUMOylation of NF-YC10
-NF-YC10: !facilitates interaction with! NF-YB3
-NF-YC10: !facilitates nuclear translocation of! NF-YB3
-NF-YB3: !has essential SIM for! association with NF-YC10
-SUMOylation of NF-YC10: !critical for! HS-responsive gene expression
-SIM of NF-YB3: !critical for! plant thermotolerance

@@ -1,8 +1,0 @@
-We have identified a rice (Oryza sativa) brassinosteroid (BR)-deficient mutant, BR-deficient dwarf2 (brd2). The brd2 locus contains a single base deletion in the coding region of Dim/dwf1, a homolog of Arabidopsis thaliana DIMINUTO/DWARF1 (DIM/DWF1). Introduction of the wild-type Dim/dwf1 gene into brd2 restored the normal phenotype. Overproduction and repression of Dim/dwf1 resulted in contrasting phenotypes, with repressors mimicking the brd2 phenotype and overproducers having large stature with increased numbers of flowers and seeds. Although brd2 contains low levels of common 6-oxo-type BRs, the severity of the brd2 phenotype is much milder than brd1 mutants and most similar to d2 and d11, which show a semidwarf phenotype at the young seedling stage. Quantitative analysis suggested that in brd2, the 24-methylene BR biosynthesis pathway is activated and the uncommon BR, dolichosterone (DS), is produced. DS enhances the rice lamina joint bending angle, rescues the brd1 dwarf phenotype, and inhibits root elongation, indicating that DS is a bioactive BR in rice. Based on these observations, we discuss an alternative BR biosynthetic pathway that produces DS when Dim/dwf1 is defective.
-
-brd2: !contains! Dim/dwf1 
-Dim/dwf1: !introduced into! brd2 
-brd2: !produces! DS 
-DS: !enhances! lamina joint bending angle 
-DS: !rescues! brd1 dwarf phenotype 
-DS: !inhibits! root elongation

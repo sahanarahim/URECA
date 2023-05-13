@@ -1,8 +1,0 @@
-The complex interactions among the genes that underlie a biological process can be modeled and presented as a transcriptional network, in which genes (nodes) and their interactions (edges) are shown in a graphical form similar to a wiring diagram. A large number of genes have been identified that are expressed during the radial woody growth of tree stems (secondary growth), but a comprehensive understanding of how these genes interact to influence woody growth is currently lacking. Modeling transcriptional networks has recently been made tractable by next-generation sequencing-based technologies that can comprehensively catalog gene expression and transcription factor-binding genome-wide, but has not yet been extensively applied to undomesticated tree species or woody growth. Here we discuss basic features of transcriptional networks, approaches for modeling biological networks, and examples of biological network models developed for forest trees to date. We discuss how transcriptional network research is being developed in the model forest tree genus, Populus, and how this research area can be further developed and applied. Transcriptional network models for forest tree secondary growth and wood formation could ultimately provide new predictive models to accelerate hypothesis-driven research and develop new breeding applications.
-
-Gene: !affects! Process
-Gene: !localizes to! Secondary Growth
-Gene: !interacts with! Transcription Factor
-Gene: !enhances! Gene Expression
-Gene: !represses! Hypothesis-Driven Research
-Gene: !synthesizes! Predictive Models

@@ -1,9 +1,0 @@
-['21811420', 'DNA methylation is an evolutionarily conserved epigenetic modification that is  critical for gene silencing and the maintenance of genome integrity. In  Arabidopsis thaliana, the de novo DNA methyltransferase, domains rearranged  methyltransferase 2 (DRM2), is targeted to specific genomic loci by 24 nt small  interfering RNAs (siRNAs) through a pathway termed RNA-directed DNA methylation  (RdDM). Biogenesis of the targeting siRNAs is thought to be initiated by the  activity of the plant-specific RNA polymerase IV (Pol-IV). However, the mechanism  through which Pol-IV is targeted to specific genomic loci and whether factors  other than the core Pol-IV machinery are required for Pol-IV activity remain  unknown. Through the affinity purification of nuclear RNA polymerase D1 (NRPD1),  the largest subunit of the Pol-IV polymerase, we found that several previously  identified RdDM components co-purify with Pol-IV, namely RNA-dependent RNA  polymerase 2 (RDR2), CLASSY1 (CLSY1), and RNA-directed DNA methylation 4 (RDM4),  suggesting that the upstream siRNA generating portion of the RdDM pathway may be  more physically coupled than previously envisioned. A homeodomain protein,  SAWADEE homeodomain homolog 1 (SHH1), was also found to co-purify with NRPD1; and  we demonstrate that SHH1 is required for de novo and maintenance DNA methylation,  as well as for the accumulation of siRNAs at specific loci, confirming it is a  bonafide component of the RdDM pathway.', '2011 Jul', 'PLoS Genet', '10.1371/journal.pgen.1002195', 'Jacobsen']
-
-DRM2: !targeted by! siRNAs 
-Pol-IV: !initiates biogenesis of! siRNAs 
-NRPD1: !co-purifies with! RDR2 
-NRPD1: !co-purifies with! CLSY1 
-NRPD1: !co-purifies with! RDM4 
-NRPD1: !co-purifies with! SHH1 
-SHH1: !required for! DNA methylation

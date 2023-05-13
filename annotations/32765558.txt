@@ -1,8 +1,0 @@
-The rich collection of microbes colonizing the plant root making up the rhizosphere function as a multigenomic organ for nutrient distribution. The extent to which its dynamic mutualistic cellular order depends on morphogenic signaling, while likely, remains unknown. We have shown that reaction-diffusion chemical networks constructed with model plant and bacterial metabolites can mimic processes ranging from oxidative burst kinetics to traveling waves and extracellular stationary state reaction-diffusion networks for spatiotemporal ordering of the rhizosphere. Plant parasites and pathogens can be limited by host attachment require dynamic informational networks and continue to provide insight into what controls the rhizosphere. Here we take advantage of <i>Agrobacterium tumefaciens</i>, a plant pathogen with a gated receptor that requires simultaneous perception of two plant metabolites. Genetic manipulations have created receptors allowing each metabolite concentration to be correlated with pathogen behavior. The development of the florescent strains used here provide initial maps of the reaction-diffusion dynamics existing in the rhizosphere, revealing significant differences in the signaling landscape of host and non-host plants before and after wounding, specifically highlighting networks that may inform rhizosphere organization.
-
-gene: !affects! Process
-gene: !interacts with! Pathogen
-gene: !synthesizes! Metabolites
-gene: !represses! Parasites
-gene: !enhances! Signaling
-gene: !localizes to! Rhizosphere

@@ -1,8 +1,0 @@
-Oomycete pathogens secrete hundreds of cytoplasmic RxLR effectors to modulate host immunity by targeting diverse plant proteins. Revealing how effectors manipulate host proteins is pivotal to understanding infection processes and to developing new strategies to control plant disease. Here we show that the Phytophthora infestans RxLR effector Pi22798 interacts in the nucleus with a potato class II knotted-like homeobox (KNOX) transcription factor, StKNOX3. Silencing the ortholog NbKNOX3 in Nicotiana benthamiana reduces host colonization by P. infestans, whereas transient and stable overexpression of StKNOX3 enhances infection. StKNOX3 forms a homodimer which is dependent on its KNOX II domain. The KNOX II domain is also essential for Pi22798 interaction and for StKNOX3 to enhance P. infestans colonization, indicating that StKNOX3 homodimerization contributes to susceptibility. However, critically, the effector Pi22798 promotes StKNOX3 homodimerization, rather than heterodimerization to another KNOX transcription factor StKNOX7. These results demonstrate that the oomycete effector Pi22798 increases pathogenicity by promoting homodimerization specifically of StKNOX3 to enhance susceptibility.
-
-Pi22798: !interacts with! StKNOX3
-StKNOX3: !forms! homodimer
-Pi22798: !promotes! StKNOX3 homodimerization
-StKNOX3: !enhances! P. infestans colonization
-StKNOX3: !dependent on! KNOX II domain
-Pi22798: !essential for! KNOX II domain interaction

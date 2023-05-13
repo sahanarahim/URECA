@@ -1,8 +1,0 @@
-Phosphate (P) is an essential macronutrient for plant growth. Roots employ adaptive mechanisms to forage for P in soil. Root hair elongation is particularly important since P is immobile. Here we report that auxin plays a critical role promoting root hair growth in Arabidopsis in response to low external P. Mutants disrupting auxin synthesis (taa1) and transport (aux1) attenuate the low P root hair response. Conversely, targeting AUX1 expression in lateral root cap and epidermal cells rescues this low P response in aux1. Hence auxin transport from the root apex to differentiation zone promotes auxin-dependent hair response to low P. Low external P results in induction of root hair expressed auxin-inducible transcription factors ARF19, RSL2, and RSL4. Mutants lacking these genes disrupt the low P root hair response. We conclude auxin synthesis, transport and response pathway components play critical roles regulating this low P root adaptive response.
-
-auxin: !synthesizes! taa1
-auxin: !transports! AUX1
-AUX1: !localizes to! lateral root cap and epidermal cells
-ARF19, RSL2, RSL4: !induce! low external P
-low external P: !promotes! root hair growth
-root hair growth: !enhances! auxin-dependent response

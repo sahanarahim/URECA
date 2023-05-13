@@ -1,9 +1,0 @@
-Plants employ stomatal closure and reduced growth to avoid water deficiency damage. Reduced levels of the growth-promoting hormone gibberellin (GA) lead to increased tolerance to water deficit, but the underlying mechanism is unknown. Here, we show that the tomato (<i>Solanum lycopersicum</i>) DELLA protein PROCERA (PRO), a negative regulator of GA signaling, acts in guard cells to promote stomatal closure and reduce water loss in response to water deficiency by increasing abscisic acid (ABA) sensitivity. The loss-of-function <i>pro</i> mutant exhibited increased stomatal conductance and rapid wilting under water deficit stress. Transgenic tomato overexpressing constitutively active stable DELLA proteins (S-<i>della</i>) displayed the opposite phenotype. The effects of S-<i>della</i> on stomatal aperture and water loss were strongly suppressed in the ABA-deficient mutant <i>sitiens</i>, indicating that these effects of S-<i>della</i> are ABA dependent. While DELLA had no effect on ABA levels, guard cell ABA responsiveness was increased in S-<i>della</i> and reduced in <i>pro</i> plants compared with the wild type. Expressing S-<i>della</i> under the control of a guard-cell-specific promoter was sufficient to increase stomatal sensitivity to ABA and to reduce water loss under water deficit stress but had no effect on leaf size. This result indicates that DELLA promotes stomatal closure independently of its effect on growth.
-
-GA: !reduces! PRO
-PRO: !promotes! stomatal closure
-stomatal closure: !increases! ABA sensitivity
-ABA: !reduces! water loss
-S-della: !increases! stomatal sensitivity to ABA
-S-della: !reduces! water loss
-S-della: !independent of! growth

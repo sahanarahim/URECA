@@ -1,9 +1,0 @@
-Although the impacts of crop domestication on specialist pathogens are well known, less is known about the interaction of crop variation and generalist pathogens. To study how genetic variation within a crop affects plant resistance to generalist pathogens, we infected a collection of wild and domesticated tomato accessions with a genetically diverse population of the generalist pathogen <i>Botrytis cinerea</i> We quantified variation in lesion size of 97 <i>B. cinerea</i> genotypes (isolates) on six domesticated tomato genotypes (<i>Solanum lycopersicum</i>) and six wild tomato genotypes (<i>Solanum pimpinellifolium</i>). Lesion size was significantly affected by large effects of the host and pathogen's genotype, with a much smaller contribution of domestication. This pathogen collection also enables genome-wide association mapping of <i>B. cinerea</i> Genome-wide association mapping of the pathogen showed that virulence is highly polygenic and involves a diversity of mechanisms. Breeding against this pathogen would likely require the use of diverse isolates to capture all possible mechanisms. Critically, we identified a subset of <i>B. cinerea</i> genes where allelic variation was linked to altered virulence against wild versus domesticated tomato, as well as loci that could handle both groups. This generalist pathogen already has a large collection of allelic variation that must be considered when designing a breeding program.
-
-Crop: !affects! Pathogen
-Pathogen: !causes! Lesion size
-Host: !influences! Lesion size
-Domestication: !contributes to! Lesion size
-Pathogen: !has! Genome-wide association mapping
-Pathogen: !contains! Allelic variation
-Allelic variation: !links to! Virulence against wild/domesticated tomato

@@ -1,7 +1,0 @@
-['14557818', 'In plants, it is unclear how dispersed cortical microtubules are nucleated,  polarized and organized in the absence of centrosomes. In Arabidopsis thaliana  cells, expression of a fusion between the microtubule-end-binding protein AtEB1a  and green fluorescent protein (GFP) results in labelling of spindle poles, where  minus ends gather. During interphase, AtEB1a-GFP labels the microtubule plus end  as a comet, but also marks the minus end as a site from which microtubules can  grow and shrink. These minus-end nucleation sites are mobile, explaining how the  cortical array can redistribute during the cell cycle and supporting the idea of  a flexible centrosome in plants.', '2003 Nov', 'Nat Cell Biol', '10.1038/ncb1057', 'Lloyd']
-
-AtEB1a: !labels! spindle poles 
-AtEB1a-GFP: !labels! microtubule plus end 
-AtEB1a-GFP: !marks! minus end 
-minus end: !nucleates! microtubules 
-minus end: !redistributes! cortical array

@@ -1,7 +1,0 @@
-In this study, we considered five categories of molecular markers in clonal F1 and double cross populations, based on the number of distinguishable alleles and the number of distinguishable genotypes at the marker locus. Using the completed linkage maps, incomplete and missing markers were imputed as fully informative markers in order to simplify the linkage mapping approaches of quantitative trait genes. Under the condition of fully informative markers, we demonstrated that dominance effect between the female and male parents in clonal F1 and double cross populations can cause the interactions between markers. We then developed an inclusive linear model that includes marker variables and marker interactions so as to completely control additive effects of the female and male parents, as well as the dominance effect between the female and male parents. The linear model was finally used for background control in inclusive composite interval mapping (ICIM) of quantitative trait locus (QTL). The efficiency of ICIM was demonstrated by extensive simulations and by comparisons with simple interval mapping, multiple-QTL models and composite interval mapping. Finally, ICIM was applied in one actual double cross population to identify QTL on days to silking in maize.
-
-Gene: !affects! Process
-Marker: !interacts with! Marker
-Female Parent: !enhances! Dominance Effect
-Male Parent: !represses! Dominance Effect
-Linear Model: !synthesizes! Additive Effects

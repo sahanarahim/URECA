@@ -1,8 +1,0 @@
-The rice seed setting rate (RSSR) is an important component in calculating rice yields and a key phenotype for its genetic analysis. Automatic calculations of RSSR through computer vision technology have great significance for rice yield predictions. The basic premise for calculating RSSR is having an accurate and high throughput identification of rice grains. In this study, we propose a method based on image segmentation and deep learning to automatically identify rice grains and calculate RSSR. By collecting information on the rice panicle, our proposed image automatic segmentation method can detect the full grain and empty grain, after which the RSSR can be calculated by our proposed rice seed setting rate optimization algorithm (RSSROA). Finally, the proposed method was used to predict the RSSR during which process, the average identification accuracy reached 99.43%. This method has therefore been proven as an effective, non-invasive method for high throughput identification and calculation of RSSR. It is also applicable to soybean yields, as well as wheat and other crops with similar characteristics.
-
-RSSR: !calculated by! RSSROA
-RSSROA: !based on! Image segmentation and deep learning
-RSSR: !predicted by! Proposed method
-Proposed method: !uses! Information on rice panicle
-Rice grains: !identified by! Proposed method
-Average accuracy: !reached! 99.43%

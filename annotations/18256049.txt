@@ -1,7 +1,0 @@
-['18256049', 'Dynamin-related proteins are large GTPases that deform and cause fission of  membranes. The DRP1 family of Arabidopsis thaliana has five members of which  DRP1A, DRP1C, and DRP1E are widely expressed. Likely functions of DRP1A were  identified by studying rsw9, a null mutant of the Columbia ecotype that grows  continuously but with altered morphology. Mutant roots and hypocotyls are short  and swollen, features plausibly originating in their cellulose-deficient walls.  The reduction in cellulose is specific since non-cellulosic polysaccharides in  rsw9 have more arabinose, xylose, and galactose than those in wild type. Cell  plates in rsw9 roots lack DRP1A but still retain DRP1E. Abnormally placed and  often incomplete cell walls are preceded by abnormally curved cell plates.  Notwithstanding these division abnormalities, roots and stems add new cells at  wild-type rates and organ elongation slows because rsw9 cells do not grow as long  as wild-type cells. Absence of DRP1A reduces endocytotic uptake of FM4-64 into  the cytoplasm of root cells and the hypersensitivity of elongation and radial  swelling in rsw9 to the trafficking inhibitor monensin suggests that impaired  endocytosis may contribute to the development of shorter fatter roots, probably  by reducing cellulose synthesis.', '2008', 'J Exp Bot', '10.1093/jxb/erm324', 'Williamson']
-
-DRP1A: !affects! Cellulose synthesis
-DRP1A: !reduces! Endocytotic uptake of FM4-64
-DRP1E: !retains! Cell plates in rsw9 roots
-rsw9: !lacks! DRP1A
-rsw9: !exhibits! Altered morphology

@@ -1,8 +1,0 @@
-tRNA-derived small RNAs (tsRNAs) are a class of novel small RNAs, ubiquitously present in prokaryotes and eukaryotes. It has been reported that tsRNAs exhibit spatiotemporal expression patterns and can function as regulatory molecules in many biological processes. Current tsRNA databases only cover limited organisms and ignore tsRNA functional characteristics. Thus, integrating more relevant tsRNA information is helpful for further exploration. Here, we present a tsRNA database, named tsRBase, which integrates the expression pattern and functional information of tsRNAs in multiple species. In tsRBase, we identified 121 942 tsRNAs by analyzing more than 14 000 publicly available small RNA-seq data covering 20 species. This database collects samples from different tissues/cell-lines, or under different treatments and genetic backgrounds, thus helps depict specific expression patterns of tsRNAs under different conditions. Importantly, to enrich our understanding of biological significance, we collected tsRNAs experimentally validated from published literatures, obtained protein-binding tsRNAs from CLIP/RIP-seq data, and identified targets of tsRNAs from CLASH and CLEAR-CLIP data. Taken together, tsRBase is the most comprehensive and systematic tsRNA repository, exhibiting all-inclusive information of tsRNAs from diverse data sources of multiple species. tsRBase is freely available at http://www.tsrbase.org.
-
-tsRNA: !exhibits! spatiotemporal expression patterns 
-tsRNA: !functions as! regulatory molecules 
-tsRNA: !collected from! different tissues/cell-lines 
-tsRNA: !experimentally validated from! published literatures 
-tsRNA: !obtained from! CLIP/RIP-seq data 
-tsRNA: !identified targets of! CLASH and CLEAR-CLIP data

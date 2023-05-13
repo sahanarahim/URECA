@@ -1,8 +1,0 @@
-['10571878', 'The ubiquitin/26S proteasome pathway is a major route for degrading abnormal and  important short-lived regulatory proteins in eukaryotes. Covalent attachment of  ubiquitin, which triggers entry of target proteins into the pathway, is  accomplished by an ATP-dependent reaction cascade involving the sequential action  of three enzymes, E1s, E2s and E3s. Although much of the substrate specificity of  the pathway is determined by E3s (or ubiquitin-protein ligases, UPLs), little is  known about these enzymes in plants and how they choose appropriate targets for  ubiquitination. Here, we describe two 405 kDa E3s (UPL1 and 2) from Arabidopsis  thaliana related to the HECT-E3 family that is essential in yeast and animals.  UPL1 and 2 are encoded by 13 kbp genes 26 cM apart on chromosome I, that are over  95% identical within both the introns and exons, suggesting that the two loci  arose from a recent gene duplication. The C-terminal HECT domain of UPL1 is  necessary and sufficient to conjugate ubiquitin in vitro in a reaction that  requires the positionally conserved cysteine within the HECT domain, E1, and an  E2 of the UBC8 family. Given that HECT E3s help define target specificity of the  ubiquitin conjugation, a continued characterization of UPL1 and 2 should be  instrumental in understanding the functions of ubiquitin-dependent protein  turnover in plants and for identifying pathway substrates.', '1999 Oct', 'Plant J', '10.1046/j.1365-313x.1999.00590.x', 'Vierstra']
-
-E1: !activates! E2 
-E2: !conjugates! ubiquitin 
-UPL1/2: !encode! HECT-E3 family 
-HECT domain: !necessary and sufficient to! conjugate ubiquitin 
-UBC8 family: !interacts with! UPL1/2 
-UPL1/2: !help define! target specificity of ubiquitin conjugation

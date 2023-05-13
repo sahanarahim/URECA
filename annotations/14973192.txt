@@ -1,8 +1,0 @@
-['14973192', 'In temperate climates, the prolonged cold temperature of winter serves as a  seasonal landmark for winter-annual and biennial plants. In these plants,  flowering is blocked before winter. In Arabidopsis thaliana, natural variation in  the FRIGIDA (FRI) gene is a major determinate of the rapid-cycling vs.  winter-annual flowering habits. In winter-annual accessions of Arabidopsis, FRI  activity blocks flowering through the up-regulation of the floral inhibitor  FLOWERING LOCUS C (FLC). Most rapid-flowering accessions, in contrast, contain  null alleles of FRI. By performing a mutant screen in a winter-annual strain, we  have identified a locus, FRIGIDA LIKE 1 (FRL1), that is specifically required for  the up-regulation of FLC by FRI. Cloning of FRL1 revealed a gene with a predicted  protein sequence that is 23% identical to FRI. Despite sequence similarity, FRI  and FRL1 do not have redundant functions. FRI and FRL1 belong to a seven-member  gene family in Arabidopsis, and FRI, FRL1, and at least one additional family  member, FRIGIDA LIKE 2 (FRL2), are in a clade of this family that is required for  the winter-annual habit in Arabidopsis.', '2004 Mar 2', 'Proc Natl Acad Sci U S A', '10.1073/pnas.0306778101', 'Amasino']
-
-FRI: !up-regulates! FLC 
-FRL1: !required for! FRI up-regulation of FLC 
-FRI: !belongs to! seven-member gene family 
-FRI: !in clade with! FRL1 and FRL2 
-FRL1: !23% identical to! FRI 
-FRI: !not redundant with! FRL1

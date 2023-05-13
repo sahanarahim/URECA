@@ -1,7 +1,0 @@
-['16227454', 'In plant cells, certain membrane proteins move by unknown mechanisms directly  from the endoplasmic reticulum (ER) to prevacuolar or vacuole-like organelles  where membrane is internalized to form a dense, lattice-like structure. Here, we  identify a sequence motif, PIEPPPHH, in the cytoplasmic tail of a membrane  protein that directs the protein from the ER to vacuoles where it is  internalized. A type II membrane protein in Arabidopsis thaliana, (At)SRC2 (for  Soybean Gene Regulated by Cold-2), binds specifically to PIEPPPHH and moves from  the ER to the same vacuoles where it is internalized. Not all proteins that move  in this pathway are internalized because another Arabidopsis type II membrane  protein, (At)VAP (for Vesicle-Associated Protein), localizes to the same  organelles but remains exposed on the limiting membrane. The identification of  (At)SRC2 and its preference for interaction with a targeting motif specific for  the ER-to-vacuole pathway may provide tools for future dissection of mechanisms  involved in this unique trafficking system.', '2005 Nov', 'Plant Cell', '10.1105/tpc.105.035212', 'Rogers']
-
-AtSRC2: !binds to! PIEPPPHH 
-AtSRC2: !moves from! ER 
-AtSRC2: !internalized in! vacuoles 
-AtVAP: !localizes to! same organelles 
-AtVAP: !remains exposed on! limiting membrane

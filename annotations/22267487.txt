@@ -1,9 +1,0 @@
-['22267487', 'O-linked N-acetylglucosamine (O-GlcNAc) modifications regulate the  posttranslational fate of target proteins. The Arabidopsis thaliana O-GlcNAc  transferase (OGT) SPINDLY (SPY) suppresses gibberellin signaling and promotes  cytokinin (CK) responses by unknown mechanisms. Here, we present evidence that  two closely related class I TCP transcription factors, TCP14 and TCP15, act with  SPY to promote CK responses. TCP14 and TCP15 interacted with SPY in yeast  two-hybrid and in vitro pull-down assays and were O-GlcNAc modified in  Escherichia coli by the Arabidopsis OGT, SECRET AGENT. Overexpression of TCP14  severely affected plant development in a SPY-dependent manner and stimulated  typical CK morphological responses, as well as the expression of the CK-regulated  gene RESPONSE REGULATOR5. TCP14 also promoted the transcriptional activity of the  CK-induced mitotic factor CYCLIN B1;2. Whereas TCP14-overexpressing plants were  hypersensitive to CK, spy and tcp14 tcp15 double mutant leaves and flowers were  hyposensitive to the hormone. Reducing CK levels by overexpressing CK  OXIDASE/DEHYDROGENASE3 suppressed the TCP14 overexpression phenotypes, and this  suppression was reversed when the plants were treated with exogenous CK. Taken  together, we suggest that responses of leaves and flowers to CK are mediated by  SPY-dependent TCP14 and TCP15 activities.', '2012 Jan', 'Plant Cell', '10.1105/tpc.111.093518', 'Weiss']
-
-SPY: !interacts with! TCP14
-SPY: !interacts with! TCP15
-TCP14: !enhances! CK responses
-TCP14: !promotes! CYCLIN B1;2 transcriptional activity
-TCP15: !enhances! CK responses
-CK: !regulates! RESPONSE REGULATOR5 expression
-CK: !regulates! TCP14 overexpression phenotypes

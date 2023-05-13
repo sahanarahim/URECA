@@ -1,8 +1,0 @@
-Root hair growth is tuned in response to the environment surrounding plants. While most previous studies focused on the enhancement of root hair growth during nutrient starvation, few studies investigated the root hair response in the presence of excess nutrients. We report that the post-embryonic growth of wild-type Arabidopsis plants is strongly suppressed with increasing nutrient availability, particularly in the case of root hair growth. We further used gene expression profiling to analyze how excess nutrient availability affects root hair growth, and found that RHD6 subfamily genes, which are positive regulators of root hair growth, are downregulated in this condition. However, defects in GTL1 and DF1, which are negative regulators of root hair growth, cause frail and swollen root hairs to form when excess nutrients are supplied. Additionally, we observed that the RHD6 subfamily genes are mis-expressed in gtl1-1 df1-1. Furthermore, overexpression of RSL4, an RHD6 subfamily gene, induces swollen root hairs in the face of a nutrient overload, while mutation of RSL4 in gtl1-1 df1-1 restore root hair swelling phenotype. In conclusion, our data suggest that GTL1 and DF1 prevent unnecessary root hair formation by repressing RSL4 under excess nutrient conditions.
-
-GTL1: !represses! RSL4
-DF1: !represses! RSL4
-RHD6 subfamily genes: !downregulated by! excess nutrients
-RSL4: !induces! swollen root hairs
-GTL1-1 DF1-1: !mis-expresses! RHD6 subfamily genes
-RSL4: !overexpressed in! nutrient overload

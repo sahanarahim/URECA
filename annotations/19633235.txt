@@ -1,8 +1,0 @@
-The directional transport of the plant hormone auxin has been identified as central element of axis formation and patterning in plants. This directionality of transport depends on gradients, across the cell, of auxin-efflux carriers that continuously cycle between plasma membrane and intracellular compartments. This cycling has been proposed to depend on actin filaments. However, the role of actin for the polarity of auxin transport has been disputed. The organization of actin, in turn, has been shown to be under control of auxin. By overexpression of the actin-binding protein talin, we have generated transgenic rice (Oryza sativa) lines, where actin filaments are bundled to variable extent and, in consequence, display a reduced dynamics. We show that this bundling of actin filaments correlates with impaired gravitropism and reduced longitudinal transport of auxin. We can restore a normal actin configuration by addition of exogenous auxins and restore gravitropism as well as polar auxin transport. This rescue is mediated by indole-3-acetic acid and 1-naphthyl acetic acid but not by 2,4-dichlorophenoxyacetic acid. We interpret these findings in the context of a self-referring regulatory circuit between polar auxin transport and actin organization. This circuit might contribute to the self-amplification of auxin transport that is a central element in current models of auxin-dependent patterning.
-
-auxin: !affects! actin organization 
-actin: !affects! auxin transport 
-auxin: !enhances! gravitropism 
-talin: !bundles! actin filaments 
-auxin: !rescues! actin configuration 
-IAA/NAA: !rescue! gravitropism and polar auxin transport

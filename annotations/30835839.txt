@@ -1,8 +1,0 @@
-Greater availability of leaf dark respiration (R<sub>dark</sub> ) data could facilitate breeding efforts to raise crop yield and improve global carbon cycle modelling. However, the availability of R<sub>dark</sub> data is limited because it is cumbersome, time consuming, or destructive to measure. We report a non-destructive and high-throughput method of estimating R<sub>dark</sub> from leaf hyperspectral reflectance data that was derived from leaf R<sub>dark</sub> measured by a destructive high-throughput oxygen consumption technique. We generated a large dataset of leaf R<sub>dark</sub> for wheat (1380 samples) from 90 genotypes, multiple growth stages, and growth conditions to generate models for R<sub>dark</sub> . Leaf R<sub>dark</sub> (per unit leaf area, fresh mass, dry mass or nitrogen, N) varied 7- to 15-fold among individual plants, whereas traits known to scale with R<sub>dark</sub> , leaf N, and leaf mass per area (LMA) only varied twofold to fivefold. Our models predicted leaf R<sub>dark</sub> , N, and LMA with r<sup>2</sup> values of 0.50-0.63, 0.91, and 0.75, respectively, and relative bias of 17-18% for R<sub>dark</sub> and 7-12% for N and LMA. Our results suggest that hyperspectral model prediction of wheat leaf R<sub>dark</sub> is largely independent of leaf N and LMA. Potential drivers of hyperspectral signatures of R<sub>dark</sub> are discussed.
-
-Rdark: !measured by! destructive high-throughput oxygen consumption technique
-Rdark: !predicted by! hyperspectral model
-Rdark: !varies with! individual plants
-N: !varies with! leaf Rdark
-LMA: !varies with! leaf Rdark
-Hyperspectral signatures: !potentially driven by! discussed factors

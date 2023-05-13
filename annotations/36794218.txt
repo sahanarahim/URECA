@@ -1,7 +1,0 @@
-Accumulating evidence suggests that chloroplasts are an important battleground during various microbe-host interactions. Plants have evolved layered strategies to reprogram chloroplasts to promote <i>de novo</i> biosynthesis of defense-related phytohormones and the accumulation of reactive oxygen species (ROS). In this minireview, we will discuss how the host controls chloroplast ROS accumulation during effector-triggered immunity (ETI) at the level of selective mRNA decay, translational regulation, and autophagy-dependent formation of Rubisco-containing bodies (RCBs). We hypothesize that regulation at the level of cytoplasmic mRNA decay impairs the repair cycle of photosystem II (PSII) and thus facilitates ROS generation at PSII. Meanwhile, removing Rubisco from chloroplasts potentially reduces both O<sub>2</sub> and NADPH consumption. As a consequence, an over-reduced stroma would further exacerbate PSII excitation pressure and enhance ROS production at photosystem I.
-
-host: !controls! chloroplast ROS accumulation
-mRNA decay: !impairs! PSII repair cycle
-Rubisco: !removed from! chloroplasts
-O2/NADPH consumption: !reduced by! Rubisco removal
-over-reduced stroma: !exacerbates! PSII excitation pressure

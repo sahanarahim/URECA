@@ -1,8 +1,0 @@
-Substantial uncertainty surrounds our knowledge of tree stem growth, with some of the most basic questions, such as when stem radial growth occurs through the daily cycle, still unanswered. We employed high-resolution point dendrometers, sap flow sensors, and developed theory and statistical approaches, to devise a novel method separating irreversible radial growth from elastic tension-driven and elastic osmotically driven changes in bark water content. We tested this method using data from five case study species. Experimental manipulations, namely a field irrigation experiment on Scots pine and a stem girdling experiment on red forest gum trees, were used to validate the theory. Time courses of stem radial growth following irrigation and stem girdling were consistent with a-priori predictions. Patterns of stem radial growth varied across case studies, with growth occurring during the day and/or night, consistent with the available literature. Importantly, our approach provides a valuable alternative to existing methods, as it can be approximated by a simple empirical interpolation routine that derives irreversible radial growth using standard regression techniques. Our novel method provides an improved understanding of the relative source-sink carbon dynamics of tree stems at a sub-daily time scale.
-
-dendrometers: !measure! stem radial growth
-sap flow sensors: !measure! bark water content
-irrigation experiment: !validates! theory
-girdling experiment: !validates! theory
-time courses: !predict! stem radial growth
-regression techniques: !derive! irreversible radial growth

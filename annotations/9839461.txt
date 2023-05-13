@@ -1,9 +1,0 @@
-['9839461', 'Arabidopsis thaliana roots grow in a wavy pattern upon a slanted surface. A novel  mutation in the anthranilate synthase alpha 1 (ASA1) gene, named trp5-2wvc1, and  mutations in the tryptophan synthase alpha and beta 1 genes (trp3-1 and trp2-1,  respectively) confer a compressed root wave phenotype on tilted agar surfaces.  When trp5-2wvc1 seedlings are grown on media supplemented with anthranilate  metabolites, their roots wave like wild type. Genetic and pharmacological  experiments argue that the compressed root wave phenotypes of trp5-2wvc1, trp2-1  and trp3-1 seedlings are not due to reduced IAA biosynthetic potential, but  rather to a deficiency in L-tryptophan (L-Trp), or in a L-Trp derivative.  Although the roots of 7-day-old seedlings possess higher concentrations of free  L-Trp than the shoot as a whole, trp5-2wvc1 mutants show no detectable alteration  in L-Trp levels in either tissue type, suggesting that a very localized shortage  of L-Trp, or of a L-Trp-derived compound, is responsible for the observed  phenotype.', '1998 Oct', 'Plant J', '10.1046/j.1365-313x.1998.00279.x', 'Masson']
-
-ASA1: !affects! root wave phenotype 
-trp5-2wvc1: !confer! compressed root wave phenotype 
-anthranilate metabolites: !rescue! root wave phenotype 
-trp2-1, trp3-1: !cause! compressed root wave phenotype 
-IAA biosynthetic potential: !not affected by! trp5-2wvc1 
-L-Trp: !deficient in! trp5-2wvc1 mutants 
-7-day-old seedlings: !possess higher concentrations of! free L-Trp

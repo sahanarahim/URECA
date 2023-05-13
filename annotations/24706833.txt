@@ -1,9 +1,0 @@
-The Mediterranean Basin is a climate and biodiversity hot spot, and climate change threatens agro-ecosystems such as olive, an ancient drought-tolerant crop of considerable ecological and socioeconomic importance. Climate change will impact the interactions of olive and the obligate olive fruit fly (Bactrocera oleae), and alter the economics of olive culture across the Basin. We estimate the effects of climate change on the dynamics and interaction of olive and the fly using physiologically based demographic models in a geographic information system context as driven by daily climate change scenario weather. A regional climate model that includes fine-scale representation of the effects of topography and the influence of the Mediterranean Sea on regional climate was used to scale the global climate data. The system model for olive/olive fly was used as the production function in our economic analysis, replacing the commonly used production-damage control function. Climate warming will affect olive yield and fly infestation levels across the Basin, resulting in economic winners and losers at the local and regional scales. At the local scale, profitability of small olive farms in many marginal areas of Europe and elsewhere in the Basin will decrease, leading to increased abandonment. These marginal farms are critical to conserving soil, maintaining biodiversity, and reducing fire risk in these areas. Our fine-scale bioeconomic approach provides a realistic prototype for assessing climate change impacts in other Mediterranean agro-ecosystems facing extant and new invasive pests.
-
-Gene: !affects! Process
-Process: !impacts! Interaction
-Interaction: !alters! Economics
-Economics: !determines! Winners/Losers
-Climate Change: !affects! Yield
-Yield: !influences! Infestation
-Infestation: !impacts! Profitability

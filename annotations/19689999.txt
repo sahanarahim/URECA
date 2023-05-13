@@ -1,9 +1,0 @@
-Phototropin family photoreceptors, phot1 and phot2, in Arabidopsis thaliana control the blue light (BL)-mediated phototropic responses of the hypocotyl, chloroplast relocation movement and stomatal opening. Phototropic responses in dark-grown tissues have been well studied but those in de-etiolated green plants are not well understood. Here, we analyzed phototropic responses of inflorescence stems and petioles of wild-type and phototropin mutant plants of A. thaliana. Similar to the results obtained from dark-grown seedlings, inflorescence stems and petioles in wild-type and phot2 mutant plants showed phototropic bending towards low fluence BL, while in phot1 mutant plants, a high fluence rate of BL was required. phot1 phot2 double mutant plants did not show any phototropic responses even under very high fluence rates of BL. We further studied the photoreceptive sites for phototropic responses of stems and petioles by partial tissue irradiation. The whole part of the inflorescence stem is sensitive to BL and shows phototropism, but in the petiole only the irradiated abaxial side is sensitive. Similar to dark-grown etiolated seedlings, phot1 plays a major role in phototropic responses under weak light, but phot2 functions under high fluence rate conditions in green plants.
-
-phot1: !controls! phototropic responses in de-etiolated green plants
-phot2: !controls! phototropic responses in de-etiolated green plants
-phot1: !required for! weak light conditions
-phot2: !required for! high fluence rate conditions
-phot1 phot2 double mutant: !does not show! phototropic responses
-inflorescence stem: !sensitive to! BL
-petiole: !sensitive to! irradiated abaxial side

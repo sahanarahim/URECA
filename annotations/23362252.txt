@@ -1,9 +1,0 @@
-['23362252', 'The retromer complex localizes to endosomal membranes and is involved in protein  trafficking. In mammals, it is composed of a dimer of sorting nexins and of the  core retromer consisting of vacuolar protein sorting (VPS)26, VPS29, and VPS35.  Although homologs of these proteins have been identified in plants, how the plant  retromer functions remains elusive. To better understand the role of VPS  components in the assembly and function of the core retromer, we characterize  here Arabidopsis vps26-null mutants. We show that impaired VPS26 function has a  dramatic effect on VPS35 levels and causes severe phenotypic defects similar to  those observed in vps29-null mutants. This implies that functions of plant VPS26,  VPS29, and VPS35 are tightly linked. Then, by combining live-cell imaging with  immunochemical and genetic approaches, we report that VPS35 alone is able to bind  to endosomal membranes and plays an essential role in VPS26 and VPS29 membrane  recruitment. We also show that the Arabidopsis Rab7 homolog RABG3f participates  in the recruitment of the core retromer to the endosomal membrane by interacting  with VPS35. Altogether our data provide original information on the molecular  interactions that mediate assembly of the core retromer in plants.', '2013 Mar 29', 'J Biol Chem', '10.1074/jbc.M112.440503', 'Gaude']
-
-VPS26: !localizes to! endosomal membranes 
-VPS29: !localizes to! endosomal membranes 
-VPS35: !localizes to! endosomal membranes 
-VPS26: !interacts with! VPS35 
-VPS29: !interacts with! VPS35 
-RABG3f: !interacts with! VPS35 
-VPS35: !enhances! VPS26 and VPS29 membrane recruitment

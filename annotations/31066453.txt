@@ -1,9 +1,0 @@
-Biological data analysis often deals with lists of genes arising from various studies. The g:Profiler toolset is widely used for finding biological categories enriched in gene lists, conversions between gene identifiers and mappings to their orthologs. The mission of g:Profiler is to provide a reliable service based on up-to-date high quality data in a convenient manner across many evidence types, identifier spaces and organisms. g:Profiler relies on Ensembl as a primary data source and follows their quarterly release cycle while updating the other data sources simultaneously. The current update provides a better user experience due to a modern responsive web interface, standardised API and libraries. The results are delivered through an interactive and configurable web design. Results can be downloaded as publication ready visualisations or delimited text files. In the current update we have extended the support to 467 species and strains, including vertebrates, plants, fungi, insects and parasites. By supporting user uploaded custom GMT files, g:Profiler is now capable of analysing data from any organism. All past releases are maintained for reproducibility and transparency. The 2019 update introduces an extensive technical rewrite making the services faster and more flexible. g:Profiler is freely available at https://biit.cs.ut.ee/gprofiler.
-
-g:Profiler: !provides! Biological categories 
-g:Profiler: !follows! Ensembl release cycle 
-g:Profiler: !supports! 467 species and strains 
-g:Profiler: !allows! User uploaded custom GMT files 
-g:Profiler: !maintains! Past releases 
-g:Profiler: !introduces! Extensive technical rewrite 
-g:Profiler: !delivers! Results through interactive web design

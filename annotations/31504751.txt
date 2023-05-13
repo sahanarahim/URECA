@@ -1,9 +1,0 @@
-The development of a new organ is the result of coordinated events of cell division and expansion, in strong interaction with each other. This study presents a dynamic model of tomato fruit development that includes cell division, endoreduplication, and expansion processes. The model is used to investigate the potential interactions among these developmental processes within the context of the neo-cellular theory. In particular, different control schemes (either cell-autonomous or organ-controlled) are tested and compared to experimental data from two contrasting genotypes. The model shows that a pure cell-autonomous control fails to reproduce the observed cell-size distribution, and that an organ-wide control is required in order to get realistic cell-size variations. The model also supports the role of endoreduplication as an important determinant of the final cell size and suggests that a direct effect of endoreduplication on cell expansion is needed in order to obtain a significant correlation between size and ploidy, as observed in real data.
-
-Gene: !affects! Cell Division 
-Gene: !affects! Endoreduplication 
-Gene: !affects! Expansion Processes 
-Gene: !controls! Cell-size Distribution 
-Gene: !controls! Cell-size Variations 
-Gene: !determines! Final Cell Size 
-Gene: !correlates with! Ploidy

@@ -1,7 +1,0 @@
-The broadly conserved AvrE-family of type III effectors from gram-negative plant-pathogenic bacteria includes important virulence factors, yet little is known about the mechanisms by which these effectors function inside plant cells to promote disease. We have identified two conserved motifs in AvrE-family effectors: a WxxxE motif and a putative C-terminal endoplasmic reticulum membrane retention/retrieval signal (ERMRS). The WxxxE and ERMRS motifs are both required for the virulence activities of WtsE and AvrE, which are major virulence factors of the corn pathogen Pantoea stewartii subsp. stewartii and the tomato or Arabidopsis pathogen Pseudomonas syringae pv. tomato, respectively. The WxxxE and the predicted ERMRS motifs are also required for other biological activities of WtsE, including elicitation of the hypersensitive response in nonhost plants and suppression of defense responses in Arabidopsis. A family of type III effectors from mammalian bacterial pathogens requires WxxxE and subcellular targeting motifs for virulence functions that involve their ability to mimic activated G-proteins. The conservation of related motifs and their necessity for the function of type III effectors from plant pathogens indicates that disturbing host pathways by mimicking activated host G-proteins may be a virulence mechanism employed by plant pathogens as well.
-
-AvrE-family: !requires! WxxxE motif
-AvrE-family: !requires! ERMRS motif
-WtsE: !elicits! hypersensitive response
-WtsE: !suppresses! defense responses
-Type III effectors: !mimic! activated G-proteins

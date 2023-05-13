@@ -1,9 +1,0 @@
-Plant functional types (PFTs) aggregate the variety of plant species into a small number of functionally different classes. We examined to what extent plant traits, which reflect species' functional adaptations, can capture functional differences between predefined PFTs and which traits optimally describe these differences. We applied Gaussian kernel density estimation to determine probability density functions for individual PFTs in an n-dimensional trait space and compared predicted PFTs with observed PFTs. All possible combinations of 1-6 traits from a database with 18 different traits (total of 18 287 species) were tested. A variety of trait sets had approximately similar performance, and 4-5 traits were sufficient to classify up to 85% of the species into PFTs correctly, whereas this was 80% for a bioclimatically defined tree PFT classification. Well-performing trait sets included combinations of correlated traits that are considered functionally redundant within a single plant strategy. This analysis quantitatively demonstrates how structural differences between PFTs are reflected in functional differences described by particular traits. Differentiation between PFTs is possible despite large overlap in plant strategies and traits, showing that PFTs are differently positioned in multidimensional trait space. This study therefore provides the foundation for important applications for predictive ecology.
-
-PFTs: !aggregate! Plant species 
-Traits: !reflect! Functional adaptations 
-Kernel density estimation: !determine! Probability density functions 
-Trait sets: !classify! Species into PFTs 
-Correlated traits: !considered functionally redundant! Within a single plant strategy 
-Structural differences: !reflected in! Functional differences 
-PFTs: !differently positioned in! Multidimensional trait space

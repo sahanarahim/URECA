@@ -1,9 +1,0 @@
-<i>Fusarium oxysporum</i> is a main causative agent of tobacco root rot, severely affecting tobacco growth. Here, 200 <i>F. oxysporum</i> strains were isolated and examined for their virulence toward tobacco plants. These strains were divided into disease class 1-3 (weak virulence), 4-6 (moderate virulence), and 7-9 (strong virulence). To understand the virulence mechanism of <i>F. oxysporum</i>, a comparative transcriptome study was performed using weak, moderate, and strong virulence-inducing strains. The results showed that expression levels of 1,678 tobacco genes were positively correlated with virulence levels, while expression levels of 3,558 genes were negatively associated with virulence levels. Interestingly, the expression levels of ATP synthase genes were positively correlated with <i>F. oxysporum</i> virulence. To verify whether ATP synthase gene expression is associated with <i>F. oxysporum</i> virulence, 5 strains each of strong, moderate, and weak virulence-inducing strains were tested using qRT-PCR. The results confirmed that ATP synthase gene expression is positively correlated with virulence levels. Knock-out mutants of ATP synthase genes resulted in a relatively weak virulence compared to wild-type as well as the inhibition of <i>F. oxysporum</i>-mediated suppression of <i>NtSUC4</i>, <i>NtSTP12</i>, <i>NtHEX6</i>, and <i>NtSWEET</i>, suggesting that ATP synthase activity is also associated with the virulence. Taken together, our analyses show that ATP synthases are key genes for the regulation of <i>F. oxysporum</i> virulence and provide important information for understanding the virulence mechanism of <i>F. oxysporum</i> in tobacco root rot.
-
-gene: !enhances! virulence
-ATP synthase: !localizes to! F. oxysporum
-ATP synthase: !synthesizes! ATP
-ATP synthase: !represses! NtSUC4
-ATP synthase: !represses! NtSTP12
-ATP synthase: !represses! NtHEX6
-ATP synthase: !represses! NtSWEET

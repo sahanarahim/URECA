@@ -1,7 +1,0 @@
-Single-structure models derived from X-ray data do not adequately account for the inherent, functionally important dynamics of protein molecules. We generated ensembles of structures by time-averaged refinement, where local molecular vibrations were sampled by molecular-dynamics (MD) simulation whilst global disorder was partitioned into an underlying overall translation-libration-screw (TLS) model. Modeling of 20 protein datasets at 1.1-3.1 Å resolution reduced cross-validated R(free) values by 0.3-4.9%, indicating that ensemble models fit the X-ray data better than single structures. The ensembles revealed that, while most proteins display a well-ordered core, some proteins exhibit a 'molten core' likely supporting functionally important dynamics in ligand binding, enzyme activity and protomer assembly. Order-disorder changes in HIV protease indicate a mechanism of entropy compensation for ordering the catalytic residues upon ligand binding by disordering specific core residues. Thus, ensemble refinement extracts dynamical details from the X-ray data that allow a more comprehensive understanding of structure-dynamics-function relationships.DOI:http://dx.doi.org/10.7554/eLife.00311.001.
-
-Gene: !affects! Process 
-Process: !revealed by! Ensemble Refinement 
-Ensemble Refinement: !extracts! Dynamical Details 
-Dynamical Details: !allow! Comprehensive Understanding 
-Comprehensive Understanding: !of! Structure-Dynamics-Function Relationships

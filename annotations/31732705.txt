@@ -1,9 +1,0 @@
-['31732705', 'PHYTOCHROME INTERACTING FACTORs (PIFs) are a group of basic helix-loop-helix  (bHLH) transcription factors that repress plant light responses. PIF8 is one of  the less-characterized Arabidopsis (Arabidopsis thaliana) PIFs, whose putative  orthologs are conserved in other plant species. PIF8 possesses a bHLH motif and  an active phytochrome B motif but not an active phytochrome A motif. Consistent  with this motif composition, PIF8 binds to G-box elements and interacts with the  Pfr form of phyB but only very weakly, if at all, with that of phyA. PIF8  differs, however, from other PIFs in its protein accumulation pattern and  functional roles in different light conditions. First, PIF8 inhibits phyA-induced  seed germination, suppression of hypocotyl elongation, and randomization of  hypocotyl growth orientation in far-red light, but it does not inhibit  phyB-induced red light responses. Second, PIF8 protein accumulates more in  far-red light than in darkness or red light. This is distinct from the pattern  observed with PIF3, which accumulates more in darkness. This PIF8 accumulation  pattern requires degradation of PIF8 by CONSTITUTIVE PHOTOMORPHOGENIC1 (COP1) in  darkness, inhibition of COP1 by phyA in far-red light, and promotion of PIF8  degradation by phyB in red light. Together, our results indicate that PIF8 is a  genuine PIF that represses phyA-mediated light responses.', '2020 Jan', 'Plant Cell', '10.1105/tpc.19.00515', 'ORCID:']
-
-PIF8: !represses! phyA-mediated light responses
-PIF8: !accumulates more in! far-red light
-PIF8: !binds to! G-box elements
-PIF8: !interacts with! Pfr form of phyB
-COP1: !degrades! PIF8 in darkness
-COP1: !inhibited by! phyA in far-red light
-phyB: !promotes! PIF8 degradation in red light

@@ -1,7 +1,0 @@
-Understanding the mechanisms underlying negative plant-soil feedbacks remains a critical challenge in plant ecology. If closely related species are more similar, then phylogeny could be used as a predictor for plant species interactions, simplifying our understanding of how plant-soil feedbacks structure plant communities, underlie invasive species dynamics, or reduce agricultural productivity. Here, we test the utility of phylogeny for predicting plant-soil feedbacks by undertaking a hierarchical Bayesian meta-analysis on all available pairwise plant-soil feedback experiments conducted over the last two decades, including 133 plant species in 329 pairwise interactions. We found that the sign and magnitude of plant-soil feedback effects were not explained by the phylogenetic distance separating interacting species. This result was consistent across different life forms, life cycles, provenances, and phylogenetic scales. Our analysis shows that, contrary to widespread assumption, relatedness is a poor predictor of plant-soil feedback effects.
-
-plant: !interacts with! soil
-phylogeny: !predicts! plant species interactions
-life form: !affects! sign and magnitude of feedback effects
-provenance: !affects! sign and magnitude of feedback effects
-phylogenetic scale: !affects! sign and magnitude of feedback effects

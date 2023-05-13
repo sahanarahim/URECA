@@ -1,8 +1,0 @@
-['31093672', 'CCR4/CAF1 are widely conserved deadenylases in eukaryotes. They form a large  complex that includes NOT1 as a scaffold protein and various NOT proteins that  are core components of multiple levels of gene expression control. The CCR4-NOT  complex also contains several RNA-binding proteins as accessory proteins, which  are required for target recognition by CCR4/CAF1 deadenylases. AtCCR4a/b,  orthologs of human CCR4 in Arabidopsis, have various physiological effects.  AtCCR4 isoforms are likely to have specific target mRNAs related to each  physiological effect; however, AtCCR4 does not have RNA-binding capability.  Therefore, identifying factors that interact with AtCCR4a/b is indispensable to  understand its function as a regulator of gene expression, as well as the target  mRNA recognition mechanism. Here, we identified putative components of the  AtCCR4-NOT complex using co-immunoprecipitation in combination with mass  spectrometry using FLAG-tagged AtCCR4b and subsequent verification with a yeast  two-hybrid assay. Interestingly, four of 11 AtCAF1 isoforms interacted with both  AtCCR4b and AtNOT1, whereas two isoforms interacted only with AtNOT1 in yeast  two-hybrid assays. These results imply that Arabidopsis has multiple CCR4-NOT  complexes with various combinations of deadenylases. We also revealed that the  RNA-binding protein Arabidopsis Pumilio 5 and 2 interacted with AtCCR4a/b in the  cytoplasm with a few foci.', '2019 Sep 1', 'Plant Cell Physiol', '10.1093/pcp/pcz089', 'Chiba']
-
-CCR4/CAF1: !form! complex 
-NOT1: !scaffold! complex 
-AtCCR4a/b: !have! physiological effects 
-AtCCR4: !interact with! AtCAF1 isoforms 
-AtCAF1 isoforms: !interact with! AtCCR4b and AtNOT1 
-Arabidopsis Pumilio 5 and 2: !interact with! AtCCR4a/b

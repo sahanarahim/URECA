@@ -1,6 +1,0 @@
-Population genetic theory has been well developed for diploid species, but its extension to study genetic diversity, variation and evolution in autopolyploids, a class of polyploids derived from the genome doubling of a single ancestral species, requires the incorporation of multisomic inheritance. Double reduction, which is characteristic of autopolyploidy, has long been believed to shape the evolutionary consequence of organisms in changing environments. Here, we develop a computational model for testing and estimating double reduction and its genomic distribution in autotetraploids. The model is implemented with the expectation-maximization (EM) algorithm to dissect unobservable allelic recombinations among multiple chromosomes, enabling the simultaneous estimation of allele frequencies and double reduction in natural populations. The framework fills an important gap in the population genetic theory of autopolyploids.
-
-Gene: !affects! Double reduction 
-Double reduction: !shapes! Evolutionary consequence 
-Expectation-maximization algorithm: !dissects! Allelic recombinations 
-Algorithm: !enables! Estimation of allele frequencies and double reduction

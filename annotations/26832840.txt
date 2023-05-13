@@ -1,9 +1,0 @@
-Natural antisense transcripts (NATs) are commonly observed in eukaryotic genomes, but only a limited number of such genes have been identified as being involved in gene regulation in plants. In this research, we investigated the function of small RNA derived from a NAT in fiber cell development. Using a map-based cloning strategy for the first time in tetraploid cotton, we cloned a naked seed mutant gene (N1 ) encoding a MYBMIXTA-like transcription factor 3 (MML3)/GhMYB25-like in chromosome A12, GhMML3_A12, that is associated with fuzz fiber development. The extremely low expression of GhMML3_A12 in N1 is associated with NAT production, driven by its 3' antisense promoter, as indicated by the promoter-driven histochemical staining assay. In addition, small RNA deep sequencing analysis suggested that the bidirectional transcriptions of GhMML3_A12 form double-stranded RNAs and generate 21-22 nt small RNAs. Therefore, in a fiber-specific manner, small RNA derived from the GhMML3_A12 locus can mediate GhMML3_A12 mRNA self-cleavage and result in the production of naked seeds followed by lint fiber inhibition in N1 plants. The present research reports the first observation of gene-mediated NATs and siRNA directly controlling fiber development in cotton.
-
-GhMML3_A12: !synthesizes! NAT 
-NAT: !drives! GhMML3_A12 expression 
-GhMML3_A12: !produces! double-stranded RNAs 
-double-stranded RNAs: !generate! 21-22 nt small RNAs 
-21-22 nt small RNAs: !mediate! GhMML3_A12 mRNA self-cleavage 
-self-cleavage: !results in! naked seed production 
-naked seed production: !inhibits! lint fiber development

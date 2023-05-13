@@ -1,8 +1,0 @@
-Flowering locus C (FLC), a floral repressor, is a critical factor for the transition from the vegetative to the reproductive phase. Here, the mechanisms regulating the activity and stability of the FLC protein were investigated. Bimolecular fluorescence complementation and in vitro pull-down analyses showed that FLC interacts with the E3 small ubiquitin-like modifier (SUMO) ligase AtSIZ1, suggesting that AtSIZ1 is an E3 SUMO ligase for FLC. In vitro sumoylation assays showed that FLC is modified by SUMO in the presence of SUMO-activating enzyme E1 and conjugating enzyme E2, but its sumoylation is inhibited by AtSIZ1. In transgenic plants, inducible AtSIZ1 overexpression led to an increase in the concentration of FLC and delayed the post-translational decay of FLC, indicating that AtSIZ1 stabilizes FLC through direct binding. Also, the flowering time in mutant FLC (K154R, a mutation of the sumoylation site)-overexpressing plants was comparable with that in the wild type, whereas flowering was considerably delayed in FLC-overexpressing plants, supporting the notion that sumoylation is an important mechanism for FLC function. The data indicate that the sumoylation of FLC is critical for its role in the control of flowering time and that AtSIZ1 positively regulates FLC-mediated floral suppression.
-
-FLC: !interacts with! AtSIZ1
-AtSIZ1: !stabilizes! FLC
-E1/E2: !sumoylate! FLC
-AtSIZ1: !inhibits! sumoylation of FLC
-AtSIZ1: !regulates! FLC-mediated floral suppression
-FLC: !controls! flowering time

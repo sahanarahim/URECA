@@ -1,8 +1,0 @@
-Rice (Oryza sativa) is one of the most important staple foods for more than half of the global population. Many rice traits are quantitative, complex and controlled by multiple interacting genes. Thus, a full understanding of genetic relationships will be critical to systematically identify genes controlling agronomic traits. We developed a genome-wide rice protein-protein interaction network (RicePPINet, http://netbio.sjtu.edu.cn/riceppinet) using machine learning with structural relationship and functional information. RicePPINet contained 708 819 predicted interactions for 16 895 non-transposable element related proteins. The power of the network for discovering novel protein interactions was demonstrated through comparison with other publicly available protein-protein interaction (PPI) prediction methods, and by experimentally determined PPI data sets. Furthermore, global analysis of domain-mediated interactions revealed RicePPINet accurately reflects PPIs at the domain level. Our studies showed the efficiency of the RicePPINet-based method in prioritizing candidate genes involved in complex agronomic traits, such as disease resistance and drought tolerance, was approximately 2-11 times better than random prediction. RicePPINet provides an expanded landscape of computational interactome for the genetic dissection of agronomically important traits in rice.
-
-Gene: !affects! Agronomic Traits 
-Gene: !localizes to! RicePPINet 
-Gene: !interacts with! Non-transposable Element Related Proteins 
-Gene: !enhances! Disease Resistance 
-Gene: !represses! Drought Tolerance 
-Gene: !synthesizes! Protein-Protein Interaction Network

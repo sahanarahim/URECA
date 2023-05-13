@@ -1,8 +1,0 @@
-The release rhythm of volatiles is an important physiological characteristic of plants, because the timing of release can affect the function of each particular volatile compound. However, most studies on volatiles release rhythms have been conducted using model plants, rather than crop plants. Here, we analyzed the variations in volatile compounds released from healthy and leafminer (Liriomyza huidobrensis)-infested kidney bean (Phaseolus vulgaris), an important legume crop plant, over a 24 h period. The constituents of the volatiles mixture released from plants were analyzed every 3 h starting from 08:00. The collected volatiles were identified and quantified by gas chromatography–mass spectrometry. Undamaged kidney bean plants released trace amounts of volatiles, with no obvious release rhythms. However, leafminer-damaged plants released large amounts of volatiles, in two main peaks. The main peak of emission was from 17:00 to 20:00, while the secondary peak was in the early morning. The terpene volatiles and (Z)-3-hexenyl acetate showed similar rhythms as that of total volatiles. However, the green leaf volatile (Z)-3-hexen-ol was emitted during the night with peak emission in the early morning. These results give us a clear picture of the volatiles release rhythms of kidney bean plants damaged by leafminer.
-
-leafminer: !damages! kidney bean
-kidney bean: !releases! volatiles
-volatiles: !emit in two peaks! leafminer-damaged plants
-terpene volatiles: !show similar rhythms! total volatiles
-(Z)-3-hexenyl acetate: !show similar rhythms! total volatiles
-(Z)-3-hexen-ol: !emitted during night! peak emission

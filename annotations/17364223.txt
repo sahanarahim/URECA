@@ -1,9 +1,0 @@
-We cloned a salicylic acid/benzoic acid carboxyl methyltransferase gene, OsBSMT1, from Oryza sativa. A recombinant OsBSMT1 protein obtained by expressing the gene in Escherichia coli exhibited carboxyl methyltransferase activity in reactions with salicylic acid (SA), benzoic acid (BA), and de-S-methyl benzo(1,2,3)thiadiazole-7-carbothioic acid (dSM-BTH), producing methyl salicylate (MeSA), methyl benzoate (MeBA), and methyl dSM-BTH (MeBTH), respectively. Compared to wild-type plants, transgenic Arabidopsis overexpressing OsBSMT1 accumulated considerably higher levels of MeSA and MeBA, some of which were vaporized into the environment. Upon infection with the bacterial pathogen Pseudomonas syringae or the fungal pathogen Golovinomyces orontii, transgenic plants failed to accumulate SA and its glucoside (SAG), becoming more susceptible to disease than wild-type plants. OsBSMT1-overexpressing Arabidopsis showed little induction of PR-1 when treated with SA or G. orontii. Notably, incubation with the transgenic plant was sufficient to trigger PR-1 induction in neighboring wild-type plants. Together, our results indicate that in the absence of SA, MeSA alone cannot induce a defense response, yet it serves as an airborne signal for plant-to-plant communication. We also found that jasmonic acid (JA) induced AtBSMT1, which may contribute to an antagonistic effect on SA signaling pathways by depleting the SA pool in plants.
-
-OsBSMT1: !synthesizes! MeSA
-OsBSMT1: !enhances! MeBA
-OsBSMT1: !represses! SA/SAG
-OsBSMT1: !induces! PR-1
-MeSA: !triggers! PR-1 induction
-AtBSMT1: !induced by! JA
-JA: !antagonizes! SA signaling pathways

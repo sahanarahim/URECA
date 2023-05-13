@@ -1,8 +1,0 @@
-Automated analysis of large image data is highly demanded in high-throughput plant phenotyping. Due to large variability in optical plant appearance and experimental setups, advanced machine and deep learning techniques are required for automated detection and segmentation of plant structures in complex optical scenes. Here, we present a GUI-based software tool (DeepShoot) for efficient, fully automated segmentation and quantitative analysis of greenhouse-grown shoots which is based on pre-trained U-net deep learning models of arabidopsis, maize, and wheat plant appearance in different rotational side- and top-views. Our experimental results show that the developed algorithmic framework performs automated segmentation of side- and top-view images of different shoots acquired at different developmental stages using different phenotyping facilities with an average accuracy of more than 90% and outperforms shallow as well as conventional and encoder backbone networks in cross-validation tests with respect to both precision and performance time. The DeepShoot tool presented in this study provides an efficient solution for automated segmentation and phenotypic characterization of greenhouse-grown plant shoots suitable also for end-users without advanced IT skills. Primarily trained on images of three selected plants, this tool can be applied to images of other plant species exhibiting similar optical properties.
-
-Gene: !affects! Automated analysis 
-Gene: !localizes to! Plant structures 
-Gene: !interacts with! Machine and deep learning techniques 
-Gene: !enhances! Segmentation and quantitative analysis 
-Gene: !represses! Variability in optical plant appearance 
-Gene: !synthesizes! Pre-trained U-net deep learning models

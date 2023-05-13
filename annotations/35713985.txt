@@ -1,9 +1,0 @@
-Transcriptional regulation underlies most developmental programs and physiological responses to environmental changes in plants. Transcription factors (TFs) play a key role in the regulation of gene expression by binding specifically to short DNA sequences in the regulatory regions of genes: the TF binding sites (TFBSs). In recent years, several bioinformatic tools have been developed to detect TFBSs in candidate genes, either by de novo prediction or by directly mapping experimentally known TFBSs. However, most of these tools contain information for only a few species or require multi-step procedures, and are not always intuitive for non-experienced researchers. Here we present TFBS-Discovery Tool Hub (TDTHub), a web server for quick and intuitive studies of transcriptional regulation in plants. TDTHub uses pre-computed TFBSs in 40 plant species and allows the choice of two mapping algorithms, providing a higher versatility. Besides the main TFBS enrichment tool, TDTHub includes additional tools to assist in the analysis and visualization of data. In order to demonstrate the effectiveness of TDTHub, we analyzed the transcriptional regulation of the anthocyanin biosynthesis pathway. We also analyzed the transcriptional cascades in response to jasmonate and wounding in Arabidopsis and tomato (Solanum lycopersicum), respectively. In these studies, TDTHub helped to verify the most relevant TF nodes and to propose new ones with a prominent role in these pathways. TDTHub is available at http://acrab.cnb.csic.es/TDTHub/, and it will be periodically upgraded and expanded for new species and gene annotations.
-
-Transcription factor: !binds to! TFBS
-TFBS: !localizes to! Regulatory regions of genes
-Bioinformatic tools: !detect! TFBSs
-TDTHub: !uses! Pre-computed TFBSs
-TDTHub: !enables! Analysis and visualization of data
-Anthocyanin biosynthesis pathway: !regulated by! Transcriptional regulation
-Jasmonate/wounding: !induces! Transcriptional cascades

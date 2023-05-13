@@ -1,8 +1,0 @@
-The plant hormone auxin is a key factor for regulation of plant development, and this function was probably reinforced during the evolution of early land plants. We have extended the available toolbox to allow detailed studies of how auxin biosynthesis and responses are regulated in moss reproductive organs, their stem cells and gametes to better elucidate the function of auxin in the morphogenesis of early land plants. We measured auxin metabolites and identified IPyA (indole-3-pyruvic acid) as the main biosynthesis pathway in Physcomitrium (Physcomitrella) patens and established knock-out, overexpressor and reporter lines for biosynthesis genes which were analyzed alongside previously reported auxin-sensing and transport reporters. Vegetative and reproductive apical stem cells synthesize auxin. Sustained stem cell activity depends on an inability to sense the auxin produced while progeny of the stem cells respond to the auxin, aiding in the control of cell division, expansion and differentiation. Gamete precursors are dependent on a certain degree of auxin sensing, while the final differentiation is a low auxin-sensing process. Tha data presented indicate that low auxin activity may represent a conserved hallmark of land plant gametes, and that local auxin biosynthesis in apical stem cells may be part of an ancestral mechanism to control focal growth.
-
-auxin: !synthesizes! stem cells 
-stem cells: !produce! auxin 
-auxin: !senses! progeny 
-progeny: !responds to! auxin 
-gamete precursors: !dependent on! auxin sensing 
-final differentiation: !low auxin-sensing! process

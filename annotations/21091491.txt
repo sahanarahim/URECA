@@ -1,6 +1,0 @@
-Causal inference methods--mainly path analysis and structural equation modeling--offer plant physiologists information about cause-and-effect relationships among plant traits. Recently, an unusual approach to causal inference through stepwise variable selection has been proposed and used in various works on plant physiology. The approach should not be considered correct from a biological point of view. Here, it is explained why stepwise variable selection should not be used for causal inference, and shown what strange conclusions can be drawn based upon the former analysis when one aims to interpret cause-and-effect relationships among plant traits.
-
-Gene: !affects! Process 
-Process: !influenced by! Gene 
-Stepwise Variable Selection: !should not be used for! Causal Inference 
-Causal Inference: !can lead to! Strange Conclusions

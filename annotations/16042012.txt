@@ -1,9 +1,0 @@
-The formation of ectomycorrhizal (ECM) root tissue is characterized by distinct morphological and developmental stages, such as preinfection and adhesion, mantle, and Hartig net formation. The global pattern of gene expression during these stages in the birch (Betula pendula)-Paxillus involutus ECM association was analyzed using cDNA microarrays. In comparison with nonsymbiotic conditions, 251 fungal (from a total of 1,075) and 138 plant (1,074 in total) genes were found to be differentially regulated during the ECM development. For instance, during mantle and Hartig net development, there were several plant genes upregulated that are normally involved in defense responses during pathogenic fungal challenges. These responses were, at later stages of ECM development, found to be repressed. Other birch genes that showed differential regulation involved several homologs that usually are implicated in water permeability (aquaporins) and water stress tolerance (dehydrins). Among fungal genes differentially upregulated during stages of mantle and Hartig net formation were homologs putatively involved in mitochondrial respiration. In fully developed ECM tissue, there was an upregulation of fungal genes related to protein synthesis and the cytoskeleton assembly machinery. This study highlights complex molecular interactions between two symbionts during the development of an ECM association.
-
-plant: !upregulates! defense responses
-plant: !represses! defense responses
-plant: !upregulates! aquaporins
-plant: !upregulates! dehydrins
-fungal: !upregulates! mitochondrial respiration
-fungal: !upregulates! protein synthesis
-fungal: !upregulates! cytoskeleton assembly machinery

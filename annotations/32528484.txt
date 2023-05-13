@@ -1,8 +1,0 @@
-LTR-retrotransposons share a common genomic organization in which the 5' long terminal repeat (LTR) is followed by the <i>gag</i> and <i>pol</i> genes and terminates with the 3' LTR. Although GAG-POL-encoded proteins are considered sufficient to accomplish the LTR-retrotransposon transposition, a number of elements carrying additional open reading frames (aORF) have been described. In some cases, the presence of an aORF can be explained by a phenomenon similar to retrovirus gene transduction, but in these cases the aORFs are present in only one or a few copies. On the contrary, many elements contain aORFs, or derivatives, in all or most of their copies. These aORFs are more frequently located between <i>pol</i> and 3' LTR, and they could be in sense or antisense orientation with respect to <i>gag</i>-<i>pol</i>. Sense aORFs include those encoding for ENV-like proteins, so called because they have some structural and functional similarities with retroviral ENV proteins. Antisense aORFs between <i>pol</i> and 3' LTR are also relatively frequent and, for example, are present in some characterized LTR-retrotransposon families like maize Grande, rice RIRE2, or <i>Silene</i> Retand, although their possible roles have been not yet determined. Here, we discuss the current knowledge about these sense and antisense aORFs in plant LTR-retrotransposons, suggesting their possible origins, evolutionary relevance, and function.
-
-gag-pol: !encodes! proteins 
-aORF: !located between! pol and 3' LTR 
-aORF: !in sense orientation! with gag-pol 
-ENV-like protein: !encoded by! aORF 
-Grande, RIRE2, Retand: !contain! antisense aORFs 
-aORFs: !possible roles! not yet determined

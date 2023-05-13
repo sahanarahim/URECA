@@ -1,8 +1,0 @@
-Nicotinamide adenine dinucleotides (NAD(H)) and NAD phosphates (NADP(H)) are electron carriers involved in redox reactions and metabolic processes in all organisms. NAD kinase (NADK) is the only enzyme that phosphorylates NAD<sup>+</sup> into NADP<sup>+</sup>, using ATP as a phosphate donor. In NADP-dependent malic enzyme (NADP-ME)-type C<sub>4</sub> photosynthesis, NADP(H) are required for dehydrogenation by NADP-dependent malate dehydrogenase (NADP-MDH) in mesophyll cells, and decarboxylation by NADP-ME in bundle sheath cells. In this study, we identified five NADK genes (FbNADK1a, 1b, 2a, 2b, and 3) from the C<sub>4</sub> model species Flaveria bidentis. RNA-Seq database analysis revealed higher transcript abundance in one of the chloroplast-type NADK2 genes of C<sub>4</sub>F. bidentis (FbNADK2a). Comparative analysis of NADK activity in leaves of C<sub>3</sub>, C<sub>3</sub>-C<sub>4</sub>, and C<sub>4</sub>Flaveria showed that C<sub>4</sub>Flaveria (F. bidentis and F. trinervia) had higher NADK activity than the other photosynthetic-types of Flaveria. Taken together, our results suggest that chloroplastic NAD kinase appeared to increase in importance as C<sub>3</sub> plants evolved into C<sub>4</sub> plants in the genus Flaveria.
-
-NADK: !synthesizes! NADP(H) 
-ATP: !donates phosphate to! NADK 
-NADP-MDH: !requires! NADP(H) 
-NADP-ME: !requires! NADP(H) 
-FbNADK2a: !has higher transcript abundance in! C<sub>4</sub>F. bidentis 
-C<sub>4</sub>Flaveria: !has higher NADK activity than! C<sub>3</sub> and C<sub>3</sub>-C<sub>4</sub> Flaveria

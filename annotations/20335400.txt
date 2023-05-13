@@ -1,9 +1,0 @@
-['20335400', 'There exist four members of family GT43 glycosyltransferases in the Arabidopsis  (Arabidopsis thaliana) genome, and mutations of two of them, IRX9 and IRX14, have  previously been shown to cause a defect in glucuronoxylan (GX) biosynthesis.  However, it is currently unknown whether IRX9 and IRX14 perform the same  biochemical function and whether the other two GT43 members are also involved in  GX biosynthesis. In this report, we performed comprehensive genetic analysis of  the functional roles of the four Arabidopsis GT43 members in GX biosynthesis. The  I9H (IRX9 homolog) and I14H (IRX14 homolog) genes were shown to be specifically  expressed in cells undergoing secondary wall thickening, and their encoded  proteins were targeted to the Golgi, where GX is synthesized. Overexpression of  I9H but not IRX14 or I14H rescued the GX defects conferred by the irx9 mutation,  whereas overexpression of I14H but not IRX9 or I9H complemented the GX defects  caused by the irx14 mutation. Double mutant analyses revealed that I9H functioned  redundantly with IRX9 and that I14H was redundant with IRX14 in their functions.  In addition, double mutations of IRX9 and IRX14 were shown to cause a loss of  secondary wall thickening in fibers and a much more severe reduction in GX amount  than their single mutants. Together, these results provide genetic evidence  demonstrating that all four Arabidopsis GT43 members are involved in GX  biosynthesis and suggest that they form two functionally nonredundant groups  essential for the normal elongation of GX backbone.', '2010 Jun', 'Plant Physiol', '10.1104/pp.110.155309', 'Ye']
-
-IRX9: !affects! GX biosynthesis
-I9H: !localizes to! Golgi
-IRX14: !interacts with! I14H
-I9H: !enhances! GX biosynthesis
-I14H: !represses! GX biosynthesis
-IRX9: !synthesizes! secondary wall thickening
-IRX14: !synthesizes! GX backbone

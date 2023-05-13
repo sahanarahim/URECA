@@ -1,8 +1,0 @@
-['11226162', 'Arabidopsis COP1 is a photomorphogenesis repressor capable of directly  interacting with the photomorphogenesis-promoting factor HY5. This interaction  between HY5 and COP1 results in targeted deg radation of HY5 by the 26S  proteasome. Here we characterized the WD40 repeat domain-mediated interactions of  COP1 with HY5 and two new proteins. Mutational analysis of those interactive  partners revealed a conserved motif responsible for the interaction with the WD40  domain. This novel motif, with the core sequence V-P-E/D-&phi;-G (&phi; =  hydrophobic residue) in conjunction with an upstream stretch of 4-5 negatively  charged residues, interacts with a defined surface area of the ss-propeller  assembly of the COP1 WD40 repeat domain through both hydrophobic and ionic  interactions. Several residues in the COP1 WD40 domain that are critical for the  interaction with this motif have been revealed. The fact that point mutations  either in the COP1 WD40 domain or in the HY5 motif that abolish the interaction  between COP1 and HY5 in yeast result in a dramatic reduction of HY5 degradation  in transgenic plants validates the biological significance of this defined  interaction.', '2001 Jan 15', 'EMBO J', '10.1093/emboj/20.1.118', 'Deng']
-
-COP1: !interacts with! HY5 
-HY5: !interacts with! COP1 
-COP1: !interacts with! two new proteins 
-COP1 WD40 domain: !interacts with! V-P-E/D-&phi;-G motif 
-V-P-E/D-&phi;-G motif: !interacts with! COP1 WD40 domain 
-point mutations: !abolish interaction between! COP1 and HY5

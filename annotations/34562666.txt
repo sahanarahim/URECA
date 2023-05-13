@@ -1,7 +1,0 @@
-Phosphorous (P) and iron (Fe), two essential nutrients for plant growth and development, are highly abundant elements in the earth's crust but often display low availability to plants. Due to the ability to form insoluble complexes, the antagonistic interaction between P and Fe nutrition in plants has been noticed for decades. However, the underlying molecular mechanism modulating the signaling and homeostasis between them remains obscure. Here, we show that the possible iron sensors HRZs, the iron deficiency-induced E3 ligases, could interact with the central regulator of phosphate (Pi) signaling, PHR2, and prompt its ubiquitination at lysine residues K<sup>319</sup> and K<sup>328</sup>, leading to its degradation in rice. Consistent with this, the hrzs mutants displayed a high Pi accumulation phenotype. Furthermore, we found that iron deficiency could attenuate Pi starvation signaling by inducing the expression of HRZs, which in turn trigger PHR2 protein degradation. Interestingly, on the other hand, rice PHRs could negatively regulate the expression of HRZs to modulate iron deficiency responses. Therefore, PHR2 and HRZs form a reciprocal inhibitory module to coordinate Pi and iron signaling and homeostasis in rice. Taken together, our results uncover a molecular link between Pi and iron master regulators, which fine-tunes plant adaptation to Pi and iron availability in rice.
-
-HRZs: !interact with! PHR2
-PHR2: !ubiquitinated by! HRZs
-HRZs: !induce expression of! PHR2
-PHR2: !degrades! HRZs
-PHRs: !negatively regulate! HRZs

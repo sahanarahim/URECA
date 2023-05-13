@@ -1,9 +1,0 @@
-Because novel environmental conditions alter the selection pressure on genes or entire subgenomes, adaptive and nonadaptive changes will leave a measurable signature in the genomes, shaping their molecular evolution. We present herein a model of the trajectory of plastid genome evolution under progressively relaxed functional constraints during the transition from autotrophy to a nonphotosynthetic parasitic lifestyle. We show that relaxed purifying selection in all plastid genes is linked to obligate parasitism, characterized by the parasite's dependence on a host to fulfill its life cycle, rather than the loss of photosynthesis. Evolutionary rates and selection pressure coevolve with macrostructural and microstructural changes, the extent of functional reduction, and the establishment of the obligate parasitic lifestyle. Inferred bursts of gene losses coincide with periods of relaxed selection, which are followed by phases of intensified selection and rate deceleration in the retained functional complexes. Our findings suggest that the transition to obligate parasitism relaxes functional constraints on plastid genes in a stepwise manner. During the functional reduction process, the elevation of evolutionary rates reaches several new rate equilibria, possibly relating to the modified protein turnover rates in heterotrophic plastids.
-
-gene: !affects! Selection Pressure
-selection pressure: !coevolves with! Evolutionary Rates
-gene: !linked to! Obligate Parasitism
-obligate parasitism: !characterized by! Loss of Photosynthesis
-functional constraints: !relaxed by! Transition to Obligate Parasitism
-gene losses: !coincide with! Periods of Relaxed Selection
-evolutionary rates: !elevated by! Functional Reduction Process

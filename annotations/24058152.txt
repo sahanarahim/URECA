@@ -1,7 +1,0 @@
-The green microalga Haematococcus pluvialis accumulates the red pigment astaxanthin accompanied by morphological changes under stress conditions, including nutrient depletion, continuous light and high temperature. To investigate the physiological state of the algal cells, we developed the digital image-processing software called HaematoCalMorph. The software automatically outputs 25 single-cell measurements of cell morphology and pigments based on color, bright-field microscopic images. Compared with manual inspection, the output values of cell shape were reliable and reproducible. The estimated pigment content fits the values calculated by conventional methods. Using a random forests classifier, we were able to distinguish flagellated cells from immotile cells and detect their transient appearance in culture. By performing principal components analysis, we also successfully monitored time-dependent morphological and colorimetric changes in culture. Thus, combined with multivariate statistical techniques, the software proves useful for studying cellular responses to various conditions as well as for monitoring population dynamics in culture.
-
-HaematoCalMorph: !outputs! 25 single-cell measurements
-HaematoCalMorph: !distinguishes! flagellated cells from immotile cells
-HaematoCalMorph: !monitors! time-dependent morphological and colorimetric changes
-Random Forests Classifier: !classifies! flagellated cells from immotile cells
-Principal Components Analysis: !monitors! time-dependent morphological and colorimetric changes

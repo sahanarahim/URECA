@@ -1,8 +1,0 @@
-['12509524', 'Polygalacturonase-inhibiting proteins (PGIPs) are plant proteins that counteract  fungal polygalacturonases, which are important virulence factors. Like many other  plant defense proteins, PGIPs are encoded by gene families, but the roles of  individual genes in these families are poorly understood. Here, we show that in  Arabidopsis, two tandemly duplicated PGIP genes are upregulated coordinately in  response to Botrytis cinerea infection, but through separate signal transduction  pathways. AtPGIP2 expression is mediated by jasmonate and requires COI1 and JAR1,  whereas AtPGIP1 expression is upregulated strongly by oligogalacturonides but is  unaffected by salicylic acid, jasmonate, or ethylene. Both AtPGIP1 and AtPGIP2  encode functional inhibitors of polygalacturonase from Botrytis, and their  overexpression in Arabidopsis significantly reduces Botrytis disease symptoms.  Therefore, gene duplication followed by the divergence of promoter regions may  result in different modes of regulation of similar defensive proteins, thereby  enhancing the likelihood of defense gene activation during pathogen infection.', '2003 Jan', 'Plant Cell', '10.1105/tpc.005165', 'De']
-
-AtPGIP2: !upregulated by! jasmonate 
-AtPGIP2: !requires! COI1 and JAR1 
-AtPGIP1: !upregulated by! oligogalacturonides 
-AtPGIP1: !unaffected by! salicylic acid, jasmonate, ethylene 
-AtPGIP1/2: !inhibit! polygalacturonase 
-AtPGIP1/2: !overexpression reduces! Botrytis disease symptoms

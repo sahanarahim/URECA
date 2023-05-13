@@ -1,8 +1,0 @@
-Anabaena sp. PCC7120 contains a gene, mrpA (all1838), which forms part of a seven gene-cluster (all1843-all1837) with significant sequence similarity to bacterial operons that putatively code for a multicomponent cation/proton antiporter involved in alkaline pH adaptation and salt resistance. We previously showed that growth and photosynthesis were inhibited in a strain mutated in mrpA, denoted as PHB11, particularly at alkaline pH. Here, we show that respiration was also impaired in the mutant independently of the external pH. In addition, at high pH, less ATP and vegetative cell ferredoxin were present in PHB11, which also showed lower levels of ferredoxin-NADP(+) oxidoreductase (FNR). Ferredoxin and FNR are involved in the generation of reductant NADPH in cyanobacteria. These results suggest an energetic role of mrpA (and perhaps of the whole mrp-gene cluster) in Anabaena sp. PCC 7120 that is further supported by the significant similarity of putative Anabaena Mrp proteins to membrane subunits of complex I.
-
-mrpA: !affects! growth and photosynthesis
-mrpA: !affects! respiration
-mrpA: !affects! ATP and vegetative cell ferredoxin levels
-mrpA: !affects! FNR levels
-mrpA: !part of! seven gene-cluster
-mrpA: !similar to! membrane subunits of complex I

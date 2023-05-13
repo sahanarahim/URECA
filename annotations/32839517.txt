@@ -1,8 +1,0 @@
-The innate immune system detects pathogen-derived molecules via specialized immune receptors to prevent infections<sup>1-3</sup>. Plant immune receptors include cell surface-resident pattern recognition receptors (PRRs, including receptor-like kinases (RLKs)), and intracellular nucleotide-binding domain leucine-rich repeat proteins (NLRs). It remains enigmatic how RLK- and NLR-mediated signalling are connected. Disruption of an immune-activated MEKK1-MKK1/2-MPK4 MAPK cascade activates the NLR SUMM2 via the MAPK kinase kinase MEKK2, leading to autoimmunity<sup>4-9</sup>. To gain insights into the mechanisms underlying SUMM2 activation, we used an RNA interference-based genetic screen for mekk1 autoimmune suppressors and identified an uncharacterized malectin-like RLK, named LETUM1 (LET1), as a specific regulator of mekk1-mkk1/2-mpk4 autoimmunity via complexing with both SUMM2 and MEKK2. MEKK2 scaffolds LET1 and SUMM2 for protein stability and association, and counter-regulates the F-box protein CPR1-mediated SUMM2 ubiquitination and degradation, thereby regulating SUMM2 accumulation and activation. Our study indicates that malectin-like RLK LET1 senses the perturbance of cellular homoeostasis caused by the deficiency in immune-activated signalling and activates the NLR SUMM2-mediated autoimmunity via MEKK2 scaffolding.
-
-RLK: !complexes with! SUMM2
-RLK: !complexes with! MEKK2
-MEKK2: !scaffolds! LET1
-MEKK2: !scaffolds! SUMM2
-CPR1: !mediates! SUMM2 ubiquitination
-CPR1: !degrades! SUMM2

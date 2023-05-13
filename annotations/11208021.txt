@@ -1,9 +1,0 @@
-['11208021', "The Arabidopsis ABI1 and ABI2 genes encode two protein serine/threonine  phosphatases 2C (PP2C). These genes have been originally identified by the  dominant mutations abi1--1 and abi2--1, which reduce the plant's responsiveness  to the hormone abscisic acid (ABA). However, recessive mutants of ABI1 were  recently shown to be supersensitive to ABA, which demonstrated that the ABI1  phosphatase is a negative regulator of ABA signalling. We report here the  isolation and characterisation of the first reduction-of-function allele of ABI2,  abi2--1R1. The in vitro phosphatase activity of the abi2--1R1 protein is  approximately 100-fold lower than that of the wild-type ABI2 protein. Abi2--1R1  plants displayed a wild-type ABA sensitivity. However, doubly mutant plants  combining the abi2--1R1 allele and a loss-of-function allele at the ABI1 locus  were more responsive to ABA than each of the parental single mutants. These data  indicate that the wild-type ABI2 phosphatase is a negative regulator of ABA  signalling, and that the ABI1 and ABI2 phosphatases have overlapping roles in  controlling ABA action. Measurements of PP2C activity in plant extracts showed  that the phosphatase activity of ABI1 and ABI2 increases in response to ABA.  These results suggest that ABI1 and ABI2 act in a negative feedback regulatory  loop of the ABA signalling pathway.", '2001 Feb', 'Plant J', '10.1046/j.1365-313x.2001.00965.x', 'Giraudat']
-
-ABI1: !regulates! ABA signalling 
-ABI2: !regulates! ABA signalling 
-ABI1: !interacts with! ABI2 
-ABI1: !enhances! PP2C activity 
-ABI2: !enhances! PP2C activity 
-ABI1: !represses! ABA sensitivity 
-ABI2: !represses! ABA sensitivity

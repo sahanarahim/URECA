@@ -1,8 +1,0 @@
-It has been 50 years since Lewis Wolpert introduced the French flag model proposing the patterning of different cell types based on threshold concentrations of a morphogen diffusing in the tissue. Sixty-seven years ago, Alan Turing introduced the idea of patterns initiating de novo from a reaction-diffusion network. Together these models have been used to explain many patterning events in animal development, so here we take a look at their applicability to flower development. First, although many plant transcription factors move through plasmodesmata from cell to cell, in the flower there is little evidence that they specify fate in a concentration-dependent manner, so they cannot yet be described as morphogens. Secondly, the reaction-diffusion model appears to be a reasonably good description of the formation of spots of pigment on petals, although additional nuances are present. Thirdly, aspects of both of these combine in a new fluctuation-based patterning system creating the scattered pattern of giant cells in Arabidopsis sepals. In the future, more precise imaging and manipulations of the dynamics of patterning networks combined with mathematical modeling will allow us to better understand how the multilayered complex and beautiful patterns of flowers emerge de novo.
-
-Gene: !affects! Process 
-Gene: !synthesizes! Transcription Factors 
-Transcription Factors: !move through! Plasmodesmata 
-Transcription Factors: !specify fate in! Concentration-dependent Manner 
-Reaction-Diffusion Model: !describes! Formation of Spots of Pigment 
-Fluctuation-Based Patterning System: !creates! Scattered Pattern of Giant Cells

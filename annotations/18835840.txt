@@ -1,8 +1,0 @@
-Microarray analysis of tiny amounts of RNA extracted from plant section samples prepared by laser microdissection (LM) can provide high-quality information on gene expression in specified plant cells at various stages of development. Having joined the LM-microarray analysis project, we utilized such genome-wide gene expression data from developing rice pollen cells to identify candidates for cis-regulatory elements for specific gene expression in these cells. We first found a few clusters of gene expression patterns based on the data from LM-microarrays. On one gene cluster in which the members were specifically expressed at the bicellular and mature pollen mitotic stages, we identified gene cluster fingerprints (GCFs), each of which consists of a short nucleotide representing the gene cluster. We expected that these GCFs would contain cis-regulatory elements for stage- and tissue-specific gene expression, and we further identified groups of GCFs with common core sequences. Some criteria, such as frequency of occurrence in the gene cluster in contrast to the total tested gene set, flanking sequence preference and distribution of combined GCF sets in the gene regions, allowed us to limit candidates for cis-regulatory sequences for specific gene expression in rice pollen cells to at least 20 sets of combined GCFs. This approach should provide a general purpose algorithm for identifying short nucleotides associated with specific gene expression.
-
-Gene: !affects! Expression
-Gene: !localizes to! Rice Pollen Cells
-Gene: !interacts with! GCFs
-Gene: !enhances! Stage- and Tissue-Specific Expression
-Gene: !represses! Total Tested Gene Set
-Gene: !synthesizes! Cis-Regulatory Elements

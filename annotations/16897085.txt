@@ -1,8 +1,0 @@
-['16897085', 'The feasibility of using the Saccharomyces cerevisiae genetic tools to get  insights into the function of a plant-specific ubiquitin-ligase was examined.  ATL2 is a potential ubiquitin-ligase of the RING-H2 type that was originally  isolated as a conditionally toxic Arabidopsis cDNA when overexpressed in yeast.  ATL2 is a member of an Arabidopsis family that comprises 80 proteins. After  testing cDNAs from 25 ATL members for toxicity we found that in addition to ATL2  only ATL63 was toxic, suggesting specific interactions of each one of these two  ATLs in yeast. We seek to identify suppressors of the ATL2 toxicity in yeast and  we found that toxicity was suppressed by knock-out mutations on different  components of the ubiquitination pathway. Suppression was achieved in four  deubiquitinating enzyme mutants and in one ubiquitin-conjugating enzyme mutant. A  model is proposed in which Ubc4 and ATL2 act together to target for degradation  one or more essential yeast proteins, Doa4/Ubp4, Ubp6 and Ubp14 have a role in  disassembling ubiquitin chains on the target proteins and Ubp15 protects ATL2  from auto-ubiquitination. We presuppose that our approach can be further utilized  to analyze the function of this distinctive class of ubiquitin-ligases in yeast  as well as in Arabidopsis.', '2006 Oct', 'Curr Genet', '10.1007/s00294-006-0093-y', 'Guzman']
-
-ATL2: !targets! Essential Yeast Proteins 
-Ubc4: !interacts with! ATL2 
-Doa4/Ubp4: !disassembles! Ubiquitin Chains 
-Ubp6: !disassembles! Ubiquitin Chains 
-Ubp14: !disassembles! Ubiquitin Chains 
-Ubp15: !protects! ATL2

@@ -1,8 +1,0 @@
-Upland rice (Oryza sativa) is adapted to strongly phosphorus (P) sorbing soils. The mechanisms underlying P acquisition, however, are not well understood, and models typically underestimate uptake. This complicates root ideotype development and trait-based selection for further improvement. We present a novel model, which correctly simulates the P uptake by a P-efficient rice genotype measured over 48 days of growth. The model represents root morphology at the local rhizosphere scale, including root hairs and fine S-type laterals. It simulates fast- and slowly reacting soil P and the P-solubilizing effect of root-induced pH changes in the soil. Simulations predict that the zone of pH changes and P solubilization around a root spreads further into the soil than the zone of P depletion. A root needs to place laterals outside its depletion- but inside its solubilization zone to maximize P uptake. S-type laterals, which are short but hairy, appear to be the key root structures to achieve that. Thus, thicker roots facilitate the P uptake by fine lateral roots. Uptake can be enhanced through longer root hairs and greater root length density but was less sensitive to total root length and root class proportions.
-
-root: !facilitates! P uptake
-root hairs: !enhance! P uptake
-root length density: !enhances! P uptake
-total root length: !less sensitive to! P uptake
-root class proportions: !less sensitive to! P uptake
-S-type laterals: !key root structures for! P uptake

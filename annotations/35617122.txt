@@ -1,8 +1,0 @@
-['35617122', 'Plant genomes encode hundreds of secreted peptides; however, relatively few have  been characterised. We report here an uncharacterised, stress-induced family of  plant signalling peptides, which we call CTNIPs. Based on the role of the common  co-receptor BRASSINOSTEROID INSENSITIVE 1-ASSOCIATED KINASE 1 (BAK1) in  CTNIP-induced responses, we identified in Arabidopsis thaliana the orphan  receptor kinase HAESA-LIKE 3 (HSL3) as the CTNIP receptor via a proteomics  approach. CTNIP-binding, ligand-triggered complex formation with BAK1, and  induced downstream responses all involve HSL3. Notably, the HSL3-CTNIP signalling  module is evolutionarily conserved amongst most extant angiosperms. The  identification of this novel signalling module will further shed light on the  diverse functions played by plant signalling peptides and will provide insights  into receptor-ligand co-evolution.', '2022 May 26', 'Elife', '10.7554/eLife.74687', 'ORCID:']
-
-CTNIP: !binds to! HSL3
-HSL3: !forms complex with! BAK1
-CTNIP: !induces! downstream responses
-BAK1: !co-receptor for! CTNIP-induced responses
-HSL3: !receptor for! CTNIP
-CTNIP: !evolutionarily conserved amongst! angiosperms

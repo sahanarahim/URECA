@@ -1,9 +1,0 @@
-Natural variation for freezing tolerance is a major component of adaptation and geographic distribution of plant species. However, little is known about the genes and molecular mechanisms that determine its naturally occurring diversity. We have analyzed the intraspecific freezing tolerance variation existent between two geographically distant accessions of Arabidopsis (Arabidopsis thaliana), Cape Verde Islands (Cvi) and Landsberg erecta (Ler). They differed in their freezing tolerance before and after cold acclimation, as well as in the cold acclimation response in relation to photoperiod conditions. Using a quantitative genetic approach, we found that freezing tolerance differences after cold acclimation were determined by seven quantitative trait loci (QTL), named FREEZING TOLERANCE QTL 1 (FTQ1) to FTQ7. FTQ4 was the QTL with the largest effect detected in two photoperiod conditions, while five other FTQ loci behaved as photoperiod dependent. FTQ4 colocated with the tandem repeated genes C-REPEAT BINDING FACTOR 1 (CBF1), CBF2, and CBF3, which encode transcriptional activators involved in the cold acclimation response. The low freezing tolerance of FTQ4-Cvi alleles was associated with a deletion of the promoter region of Cvi CBF2, and with low RNA expression of CBF2 and of several CBF target genes. Genetic complementation of FTQ4-Cvi plants with a CBF2-Ler transgene suggests that such CBF2 allelic variation is the cause of CBF2 misexpression and the molecular basis of FTQ4.
-
-Cvi: !has deletion of! CBF2 promoter region
-CBF2: !misexpresses in! Cvi
-FTQ4: !colocates with! CBF1, CBF2, CBF3
-FTQ4: !determines! freezing tolerance after cold acclimation
-FTQ4: !behaves as! photoperiod dependent
-FTQ4-Cvi: !low freezing tolerance associated with! CBF2 misexpression
-CBF2-Ler: !genetic complementation of! FTQ4-Cvi plants

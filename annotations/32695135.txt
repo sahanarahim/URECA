@@ -1,7 +1,0 @@
-The goal of the study was to quantify and identify patterns in circadian movements of small-leaved lime (<i>Tillia cordata</i>) saplings with the help of terrestrial laser scanning (TLS). The movements were monitored every 60 min 24 h a day and every 30 min in the hour of sunrise and sunset. In order to exclude wind effects the monitored saplings were indoors. The resulting point clouds were used in creating a time series of branch and foliage movements with high precision. The circadian vertical movement of saplings was evaluated through target points, which has a potential of capturing the point-wise movement more accurately. Our results clearly show that small saplings move their branches and leaves during 24 h in complex ways and that is difficult to identify general patterns. Since we worked with small saplings and our movement threshold was 5 mm, we detected random fluctuation-oscillation as the most common movement in monitored saplings. The results highlight the potential of TLS measurements in support of chronobiology and the possibilities to analyze circadian movements of saplings in controlled environment.
-
-TLS: !monitors! saplings 
-saplings: !move! branches/leaves 
-branches/leaves: !oscillate! randomly 
-TLS: !measures! circadian movements 
-circadian movements: !analyzed! with precision

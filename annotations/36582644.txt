@@ -1,6 +1,0 @@
-Genomic selection (GS) is a potential breeding approach for soybean improvement. In this study, GS was performed on soybean protein and oil content using the Ridge Regression Best Linear Unbiased Predictor (RR-BLUP) based on 1,007 soybean accessions. The SoySNP50K SNP dataset of the accessions was obtained from the USDA-ARS, Beltsville, MD lab, and the protein and oil content of the accessions were obtained from GRIN. Our results showed that the prediction accuracy of oil content was higher than that of protein content. When the training population size was 100, the prediction accuracies for protein content and oil content were 0.60 and 0.79, respectively. The prediction accuracy increased with the size of the training population. Training populations with similar phenotype or with close genetic relationships to the prediction population exhibited better prediction accuracy. A greatest prediction accuracy for both protein and oil content was observed when approximately 3,000 markers with -log<sub>10</sub>(<i>P</i>) greater than 1 were included. This information will help improve GS efficiency and facilitate the application of GS.
-
-Genomic selection: !predicts! Protein/Oil content
-Training population size: !affects! Prediction accuracy
-Phenotype/Genetic relationships: !improve! Prediction accuracy
-Markers: !increase! Prediction accuracy

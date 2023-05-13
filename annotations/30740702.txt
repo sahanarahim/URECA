@@ -1,9 +1,0 @@
-Origins of abscisic acid (ABA)-mediated metabolic control of stomatal conductance have been suggested to be recent, based on a gradualistic model of stomatal evolution. In ferns, steady-state stomatal conductance (g<sub>s</sub> ) was unresponsive to ABA in some studies, supporting this model. Stomatal kinetic responses to ABA have not been considered. We used dynamic gas exchange methods to characterise half times of stomatal opening and closing in response to step changes in light, across a range of ABA exposures in three diverse taxa. All taxa had asymmetric kinetics, with closure slower than opening in fern and cedar, but faster than opening in soybean. Closing was fastest in soybean but opening was slowest. Stomatal kinetics, particularly for closure, responded to ABA in all three taxa. Steady-state g<sub>s</sub> did not respond significantly to ABA in fern or cedar but responded strongly in soybean. Stomatal kinetics were responsive to ABA in fern. This finding supports a contrasting, single origin model, with ABA-mediated regulation of stomata arising early, in conjunction with stomata themselves. Stomatal kinetics are underutilised. Differential responses of opening and closing rates to environmental and hormonal stimuli may provide insights into phylogeny and stomatal regulatory strategies with potential application to selection for crop improvement.
-
-light: !affects! stomatal conductance 
-ABA: !affects! stomatal conductance 
-ABA: !affects! stomatal kinetics 
-fern: !responds to! ABA 
-cedar: !responds to! ABA 
-soybean: !responds to! ABA 
-stomata: !regulated by! ABA

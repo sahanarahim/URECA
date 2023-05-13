@@ -1,9 +1,0 @@
-['9490746', 'dwarf4 (dwf4) mutants of Arabidopsis display a dwarfed phenotype due to a lack of  cell elongation. Dwarfism could be rescued by the application of brassinolide,  suggesting that DWF4 plays a role in brassinosteroid (BR) biosynthesis. The DWF4  locus is defined by four mutant alleles. One of these is the result of a T-DNA  insertion. Plant DNA flanking the insertion site was cloned and used as a probe  to isolate the entire DWF4 gene. Sequence analysis revealed that DWF4 encodes a  cytochrome P450 monooxygenase with 43% identity to the putative Arabidopsis  steroid hydroxylating enzyme CONSTITUTIVE PHOTOMORPHOGENESIS AND DWARFISM.  Sequence analysis of two other mutant alleles revealed deletions or a premature  stop codon, confirming that DWF4 had been cloned. This sequence similarity  suggests that DWF4 functions in specific hydroxylation steps during BR  biosynthesis. In fact, feeding studies utilizing BR intermediates showed that  only 22alpha-hydroxylated BRs rescued the dwf4 phenotype, confirming that DWF4  acts as a 22alpha-hydroxylase.', '1998 Feb', 'Plant Cell', '10.1105/tpc.10.2.231', 'Feldmann']
-
-dwf4: !affects! Cell elongation 
-brassinolide: !rescues! Dwarfism 
-T-DNA insertion: !defines! Dwf4 locus 
-DWF4 gene: !encodes! Cytochrome P450 monooxygenase 
-DWF4: !functions in! Specific hydroxylation steps 
-BR intermediates: !show! 22alpha-hydroxylated BRs rescue dwf4 phenotype 
-DWF4: !acts as! 22alpha-hydroxylase

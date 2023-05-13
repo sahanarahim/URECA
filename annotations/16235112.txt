@@ -1,8 +1,0 @@
-Assigning individual functions to the proteins encoded by the genome of the dicotyledonous reference species Arabidopsis thaliana is one of the major challenges in current plant molecular biology. Frequently, Arabidopsis protein families are biocomputationally analyzed by multiple amino acid sequence alignments of the respective family members for detection of conserved peptide motifs that might be of functional relevance. Mere sequence alignment of paralogous sequences may obscure amino acid patches that are highly conserved amongst orthologs and thus potentially relevant for isoform-specific protein function(s). Here I exemplarily illustrate this potential pitfall by amino acid sequence alignments of the heptahelical MLO proteins using either the suite of 15 isoforms (paralogs) encoded by the Arabidopsis genome or a collection of 13 ortholog sequences derived from a set of both monocotyledonous and dicotyledonous plant species. The findings are corroborated by an analogous analysis of the distinct plant multi-protein family of CONSTANS-like transcription regulators. The data reveal that the generally higher sequence similarity of orthologs versus paralogs is not uniformly distributed among the amino acid positions of the orthologs but at least partially clustered in distinct sites/domains, suggesting conservation of isoform-specific functional modules across taxa.
-
-Gene: !affects! Process 
-Gene: !synthesizes! Protein 
-Gene: !localizes to! Taxa 
-Gene: !interacts with! Paralogs 
-Gene: !enhances! Orthologs 
-Gene: !represses! Sequence similarity

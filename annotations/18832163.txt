@@ -1,6 +1,0 @@
-Agrobacterium represents the only natural example of transkingdom transfer of genetic information, from bacteria to plants. Before the bacterial transferred DNA (T-DNA) can integrate into the plant genome, it should be targeted to and bind the host chromatin. However, the T-DNA association with the host chromatin has not been demonstrated. Here, we study T-DNA binding to plant nucleosomes in vitro and show that it is mediated by bacterial and host proteins associated with the T-DNA. The main factor that determines nucleosomal binding of the T-DNA is the cellular VirE2-interacting protein 1 (VIP1), which functions as a molecular link between the T-DNA-associated bacterial virulence protein VirE2 and core histones. The presence of both VIP1 and VirE2 is required for association of the T-DNA with mononucleosomes in which the DNA molecule exists as a tripartite complex DNA-VirE2-VIP1. Furthermore, this nucleosome-associated ternary complex can bind another bacterial virulence factor, VirF, which is an F-box protein known to target both VirE2 and VIP1 for proteasomal degradation and uncoat the T-DNA.
-
-VirE2: !interacts with! VIP1
-VIP1: !mediates! T-DNA binding
-VirE2: !binds! VirF
-VirF: !targets! VirE2 & VIP1

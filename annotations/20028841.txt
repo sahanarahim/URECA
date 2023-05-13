@@ -1,9 +1,0 @@
-To examine the role of the tonoplast in plant salt tolerance and identify proteins involved in the regulation of transporters for vacuolar Na(+) sequestration, we exploited a targeted quantitative proteomics approach. Two-dimensional differential in-gel electrophoresis analysis of free flow zonal electrophoresis separated tonoplast fractions from control, and salt-treated Mesembryanthemum crystallinum plants revealed the membrane association of glycolytic enzymes aldolase and enolase, along with subunits of the vacuolar H(+)-ATPase V-ATPase. Protein blot analysis confirmed coordinated salt regulation of these proteins, and chaotrope treatment indicated a strong tonoplast association. Reciprocal coimmunoprecipitation studies revealed that the glycolytic enzymes interacted with the V-ATPase subunit B VHA-B, and aldolase was shown to stimulate V-ATPase activity in vitro by increasing the affinity for ATP. To investigate a physiological role for this association, the Arabidopsis thaliana cytoplasmic enolase mutant, los2, was characterized. These plants were salt sensitive, and there was a specific reduction in enolase abundance in the tonoplast from salt-treated plants. Moreover, tonoplast isolated from mutant plants showed an impaired ability for aldolase stimulation of V-ATPase hydrolytic activity. The association of glycolytic proteins with the tonoplast may not only channel ATP to the V-ATPase, but also directly upregulate H(+)-pump activity.
-
-enolase: !interacts with! V-ATPase subunit B VHA-B
-aldolase: !interacts with! V-ATPase subunit B VHA-B
-aldolase: !stimulates! V-ATPase activity
-enolase: !localizes to! tonoplast
-enolase: !enhances! H(+)-pump activity
-los2: !reduces! enolase abundance in tonoplast
-los2: !impairs! aldolase stimulation of V-ATPase hydrolytic activity

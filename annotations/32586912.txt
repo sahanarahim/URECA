@@ -1,9 +1,0 @@
-Because of the high energy consumed during symbiotic nitrogen fixation, legumes must balance growth and symbiotic nodulation. Both lateral roots and nodules form on the root system and the developmental coordination of these organs according to reduced nitrogen (N) availability remains elusive. We show that the Compact Root Architecture 2 (MtCRA2) receptor-like kinase is essential to promote the initiation of early symbiotic nodulation and to inhibit root growth in response to low-N. MtCEP1 peptides can activate MtCRA2 under N-starvation conditions, leading to a repression of MtYUC2 auxin biosynthesis gene expression, and therefore of auxin root responses. Accordingly, the compact root architecture phenotype of cra2 can be mimicked by an auxin treatment or by over-expressing MtYUC2, and conversely, a treatment with YUC inhibitors or a MtYUC2 knock-out rescues the cra2 root phenotype. The MtCEP1-activated CRA2 can additionally interact with and phosphorylate the MtEIN2 ethylene signaling component at Ser643 and Ser924, preventing its cleavage and therefore repressing ethylene responses, thus locally promoting the root susceptibility to rhizobia. In agreement, the cra2 low nodulation phenotype is rescued by an ein2 mutation. Overall, by reducing auxin biosynthesis and inhibiting ethylene signaling, the MtCEP1/MtCRA2 pathway balances root and nodule development under low-N conditions.
-
-MtCEP1: !activates! MtCRA2
-MtCRA2: !represses! MtYUC2
-MtYUC2: !synthesizes! auxin
-auxin: !promotes! root growth
-MtCEP1/MtCRA2: !inhibits! ethylene responses
-MtCRA2: !interacts with! MtEIN2
-MtEIN2: !regulates! rhizobia susceptibility

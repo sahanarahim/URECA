@@ -1,8 +1,0 @@
-Transport of soluble cargo molecules to the lytic vacuole of plants requires vacuolar sorting receptors (VSRs) to divert transport of vacuolar cargo from the default secretory route to the cell surface. Just as important is the trafficking of the VSRs themselves, a process that encompasses anterograde transport of receptor-ligand complexes from a donor compartment, dissociation of these complexes upon arrival at the target compartment, and recycling of the receptor back to the donor compartment for a further round of ligand transport. We have previously shown that retromer-mediated recycling of the plant VSR BP80 starts at the trans-Golgi network (TGN). Here we demonstrate that inhibition of retromer function by either RNAi knockdown of sorting nexins (SNXs) or co-expression of mutants of SNX1/2a specifically inhibits the ER export of VSRs as well as soluble vacuolar cargo molecules, but does not influence cargo molecules destined for the COPII-mediated transport route. Retention of soluble cargo despite ongoing COPII-mediated bulk flow can only be explained by an interaction with membrane-bound proteins. Therefore, we examined whether VSRs are capable of binding their ligands in the lumen of the ER by expressing ER-anchored VSR derivatives. These experiments resulted in drastic accumulation of soluble vacuolar cargo molecules in the ER. This demonstrates that the ER, rather than the TGN, is the location of the initial VSR-ligand interaction. It also implies that the retromer-mediated recycling route for the VSRs leads from the TGN back to the ER.
-
-VSR: !diverts! Transport 
-VSR: !recycles via! Retromer 
-VSR: !binds to! Ligand 
-SNXs: !inhibits! ER Export 
-VSR: !interacts with! Membrane-bound Proteins 
-VSR: !accumulates! Soluble Vacuolar Cargo

@@ -1,7 +1,0 @@
-Trajectories of cellular ontogeny are tightly controlled and often involve feedback-regulated molecular antagonism. For example, sieve element differentiation along developing protophloem cell files of Arabidopsis roots requires two antagonistic regulators of auxin efflux. Paradoxically, loss-of-function in either regulator triggers similar, seemingly stochastic differentiation failures of individual sieve element precursors. Here we show that these patterning defects are distinct and non-random. They can be explained by auxin-dependent bistability that emerges from competition for auxin between neighboring cells. This bistability depends on the presence of an auxin influx facilitator, and can be triggered by either flux enhancement or repression. Our results uncover a hitherto overlooked aspect of auxin uptake, and highlight the contributions of local auxin influx, efflux and biosynthesis to protophloem formation. Moreover, the combined experimental-modeling approach suggests that without auxin efflux homeostasis, auxin influx interferes with coordinated differentiation.
-
-gene: !enhances! auxin influx
-gene: !represses! auxin efflux
-gene: !synthesizes! auxin
-gene: !affects! protophloem formation
-gene: !interacts with! neighboring cells

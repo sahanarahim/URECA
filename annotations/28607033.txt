@@ -1,8 +1,0 @@
-['28607033', 'Arabidopsis root development is orchestrated by signaling pathways that consist  of different CLAVATA3/EMBRYO SURROUNDING REGION (CLE) peptide ligands and their  cognate CLAVATA (CLV) and BARELY ANY MERISTEM (BAM) receptors. How and where  different CLE peptides trigger specific morphological or physiological changes in  the root is poorly understood. Here, we report that the receptor-like protein  CLAVATA 2 (CLV2) and the pseudokinase CORYNE (CRN) are necessary to fully sense  root-active CLE peptides. We uncover BAM3 as the CLE45 receptor in the root and  biochemically map its peptide binding surface. In contrast to other plant peptide  receptors, we found no evidence that SOMATIC EMBRYOGENESIS RECEPTOR KINASE (SERK)  proteins act as co-receptor kinases in CLE45 perception. CRN stabilizes BAM3  expression and thus is required for BAM3-mediated CLE45 signaling. Moreover,  protophloem-specific CRN expression complements resistance of the crn mutant to  root-active CLE peptides, suggesting that protophloem is their principal site of  action. Our work defines a genetic framework for dissecting CLE peptide signaling  and CLV/BAM receptor activation in the root.', '2017 Aug', 'EMBO Rep', '10.15252/embr.201643535', 'ORCID:']
-
-CLV2: !interacts with! CRN
-CRN: !stabilizes! BAM3
-BAM3: !receives! CLE45
-SERK: !not involved in! CLE45 perception
-CRN: !enhances! CLE45 signaling
-CRN: !expressed in! protophloem

@@ -1,8 +1,0 @@
-Plant genome sequencing has dramatically increased, and some species even have multiple high-quality reference versions. Demands for clade-specific homology inference and analysis have increased in the pangenomic era. Here we present a novel method, GeneTribe (https://chenym1.github.io/genetribe/), for homology inference among genetically similar genomes that incorporates gene collinearity and shows better performance than traditional sequence-similarity-based methods in terms of accuracy and scalability. The Triticeae tribe is a typical allopolyploid-rich clade with complex species relationships that includes many important crops, such as wheat, barley, and rye. We built Triticeae-GeneTribe (http://wheat.cau.edu.cn/TGT/), a homology database, by integrating 12 Triticeae genomes and 3 outgroup model genomes and implemented versatile analysis and visualization functions. With macrocollinearity analysis, we were able to construct a refined model illustrating the structural rearrangements of the 4A-5A-7B chromosomes in wheat as two major translocation events. With collinearity analysis at both the macro- and microscale, we illustrated the complex evolutionary history of homologs of the wheat vernalization gene Vrn2, which evolved as a combined result of genome translocation, duplication, and polyploidization and gene loss events. Our work provides a useful practice for connecting emerging genome assemblies, with awareness of the extensive polyploidy in plants, and will help researchers efficiently exploit genome sequence resources.
-
-Gene: !affects! Process 
-Gene: !localizes to! Chromosomes 
-Gene: !interacts with! Genome 
-Gene: !enhances! Homology Inference 
-Gene: !represses! Gene Loss 
-Gene: !synthesizes! Polyploidization

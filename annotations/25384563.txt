@@ -1,8 +1,0 @@
-The large size and relative complexity of many plant genomes make creation, quality control, and dissemination of high-quality gene structure annotations challenging. In response, we have developed MAKER-P, a fast and easy-to-use genome annotation engine for plants. Here, we report the use of MAKER-P to update and revise the maize (Zea mays) B73 RefGen_v3 annotation build (5b+) in less than 3 h using the iPlant Cyberinfrastructure. MAKER-P identified and annotated 4,466 additional, well-supported protein-coding genes not present in the 5b+ annotation build, added additional untranslated regions to 1,393 5b+ gene models, identified 2,647 5b+ gene models that lack any supporting evidence (despite the use of large and diverse evidence data sets), identified 104,215 pseudogene fragments, and created an additional 2,522 noncoding gene annotations. We also describe a method for de novo training of MAKER-P for the annotation of newly sequenced grass genomes. Collectively, these results lead to the 6a maize genome annotation and demonstrate the utility of MAKER-P for rapid annotation, management, and quality control of grasses and other difficult-to-annotate plant genomes.
-
-MAKER-P: !identifies and annotates! 4,466 additional protein-coding genes
-MAKER-P: !adds! additional untranslated regions to 1,393 gene models
-MAKER-P: !identifies! 2,647 gene models lacking evidence
-MAKER-P: !identifies! 104,215 pseudogene fragments
-MAKER-P: !creates! 2,522 noncoding gene annotations
-MAKER-P: !de novo trains! for annotation of newly sequenced grass genomes

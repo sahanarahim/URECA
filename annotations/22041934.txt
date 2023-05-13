@@ -1,8 +1,0 @@
-['22041934', 'Ca2+ is believed to be a critical second messenger in ABA signal transduction.  Ca2+-dependent protein kinases (CDPKs) are the best characterized Ca2+ sensors in  plants. Recently, we identified an Arabidopsis CDPK member CPK12 as a negative  regulator of ABA signaling in seed germination and post-germination growth, which  reveals that different members of the CDPK family may constitute a regulation  loop by functioning positively and negatively in ABA signal transduction. We  observed that both RNA interference and overexpression of CPK12 gene resulted in  ABA-hypersensitive phenotypes in seed germination and post-germination growth,  suggesting a high complexity of the CPK12-mediated ABA signaling pathway. CPK12  stimulates a negative ABA-signaling regulator (ABI2) and phosphorylates two  positive ABA-signaling regulators (ABF1 and ABF4), which may partly explain the  ABA hypersensitivity induced by both downregulation and upregulation of CPK12  expression. Our data indicate that CPK12 appears to function as a balancer in ABA  signal transduction in Arabidopsis.', '2011 Nov', 'Plant Signal Behav', '10.4161/psb.6.11.17954', 'Zhang']
-
-Ca2+: !senses! CDPKs 
-CPK12: !regulates! ABA signaling 
-CPK12: !stimulates! ABI2 
-CPK12: !phosphorylates! ABF1 
-CPK12: !phosphorylates! ABF4 
-CPK12: !balances! ABA signal transduction

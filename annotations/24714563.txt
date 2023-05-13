@@ -1,8 +1,0 @@
-Several genomic analyses, high-throughput or targeted interaction studies including the purification of protein complexes indicated a physical and functional link between BolAs and monothiol glutaredoxins (Grxs) that is conserved both in prokaryotes and eukaryotes. In a recent work, we confirmed that several Arabidopsis protein couples, used as plant representatives, also physically interact. More interestingly, we determined that two BolA proteins, BolA2 and SufE1, contain a conserved cysteine that is sensitive to oxidizing treatments, unraveling a possible redox-control of BolA2 and SufE1 by monothiol glutaredoxins. By coexpressing physiological partners in E. coli, Grx-BolA heterodimers binding a labile, oxygen sensitive iron-sulfur cluster were isolated. Altogether, these results illustrate the existence of different modes of interaction between monothiol glutaredoxins and BolA proteins in plants and probably in other organisms. Incidentally, the function of each partner could be differentially modulated depending on the type of interaction.
-
-BolA: !interacts with! Grx
-Grx: !interacts with! BolA
-BolA2: !sensitive to! oxidizing treatments
-SufE1: !sensitive to! oxidizing treatments
-Grx: !binds! labile, oxygen sensitive iron-sulfur cluster
-Grx: !modulates! function of BolA

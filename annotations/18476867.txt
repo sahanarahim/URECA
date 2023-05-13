@@ -1,9 +1,0 @@
-Seeds represent the main source of nutrients for animals and humans, and knowledge of their biology provides tools for improving agricultural practices and managing genetic resources. There is also tremendous interest in using seeds as a sustainable alternative to fossil reserves for green chemistry. Seeds accumulate large amounts of storage compounds such as carbohydrates, proteins and oils. It would be useful for agro-industrial purposes to produce seeds that accumulate these storage compounds more specifically and at higher levels. The main metabolic pathways necessary for oil, starch or protein accumulation are well characterized. However, the overall regulation of partitioning between the various pathways remains unclear. Such knowledge could provide new molecular tools for improving the qualities of crop seeds (Focks and Benning, 1998, Plant Physiol. 118, 91). Studies to improve understanding of the genetic controls of seed development and metabolism therefore remain a key area of research. In the model plant Arabidopsis, genetic analyses have demonstrated that LEAFY COTYLEDON genes, namely LEC1, LEC2 and FUSCA3 (FUS3), are key transcriptional regulators of seed maturation, together with ABSCISIC ACID INSENSITIVE 3 (ABI3). Interestingly, LEC2, FUS3 and ABI3 are related proteins that all contain a 'B3' DNA-binding domain. In recent years, genetic and molecular studies have shed new light on the intricate regulatory network involving these regulators and their interactions with other factors such as LEC1, PICKLE, ABI5 or WRI1, as well as with sugar and hormonal signaling. Here, we summarize the most recent advances in our understanding of this complex regulatory network and its role in the control of seed maturation.
-
-LEC1: !regulates! LEC2
-LEC2: !regulates! FUS3
-FUS3: !regulates! ABI3
-LEC2: !interacts with! PICKLE
-ABI3: !interacts with! ABI5
-WRI1: !interacts with! LEC1
-Sugar: !signals! Hormonal Signaling

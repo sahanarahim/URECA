@@ -1,8 +1,0 @@
-The role of agricultural development is very important in the economy of a country. However, the occurrence of several plant diseases is a major hindrance to the growth rate and quality of crops. The exact determination and categorization of crop leaf diseases is a complex and time-required activity due to the occurrence of low contrast information in the input samples. Moreover, the alterations in the size, location, structure of crop diseased portion, and existence of noise and blurriness effect in the input images further complicate the classification task. To solve the problems of existing techniques, a robust drone-based deep learning approach is proposed. More specifically, we have introduced an improved EfficientNetV2-B4 with additional added dense layers at the end of the architecture. The customized EfficientNetV2-B4 calculates the deep key points and classifies them in their related classes by utilizing an end-to-end training architecture. For performance evaluation, a standard dataset, namely, the PlantVillage Kaggle along with the samples captured using a drone is used which is complicated in the aspect of varying image samples with diverse image capturing conditions. We attained the average precision, recall, and accuracy values of 99.63, 99.93, and 99.99%, respectively. The obtained results confirm the robustness of our approach in comparison to other recent techniques and also show less time complexity.
-
-EfficientNetV2-B4: !calculates! deep key points 
-EfficientNetV2-B4: !classifies! related classes 
-PlantVillage Kaggle: !used for! performance evaluation 
-Drone: !captures! samples 
-Deep learning approach: !proposed to! solve existing techniques 
-Average precision, recall, accuracy: !attained of! 99.63%, 99.93%, 99.99%

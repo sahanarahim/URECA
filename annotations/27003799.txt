@@ -1,9 +1,0 @@
-Free-living bacteria grown under aerobic conditions were used to investigate, by next-generation RNA sequencing analysis, the transcriptional profiles of Sinorhizobium meliloti wild-type 1021 and its derivative, RD64, overproducing the main auxin indole-3-acetic acid (IAA). Among the upregulated genes in RD64 cells, we detected the main nitrogen-fixation regulator fixJ, the two intermediate regulators fixK and nifA, and several other genes known to be FixJ targets. The gene coding for the sigma factor RpoH1 and other genes involved in stress response, regulated in a RpoH1-dependent manner in S. meliloti, were also induced in RD64 cells. Under microaerobic condition, quantitative real-time polymerase chain reaction analysis revealed that the genes fixJL and nifA were up-regulated in RD64 cells as compared with 1021 cells. This work provided evidence that the overexpression of IAA in S. meliloti free-living cells induced many of the transcriptional changes that normally occur in nitrogen-fixing root nodule.
-
-FixJ: !regulates! Nitrogen-fixation 
-FixK: !regulates! Nitrogen-fixation 
-NifA: !regulates! Nitrogen-fixation 
-RpoH1: !regulates! Stress response 
-IAA: !induces! FixJL & NifA 
-FixJL: !upregulated by! IAA 
-NifA: !upregulated by! IAA

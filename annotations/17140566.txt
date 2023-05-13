@@ -1,7 +1,0 @@
-It is well known that changes in abiotic conditions such as the concentration of ions, temperature and humidity lead to modulation of polyamine contents in plants. However, little is known about the relevant parts these polyamines play in abiotic stress responses. Here we addressed a specific role of spermine during high salt stress using an Arabidopsis double knockout-mutant plant (acl5/spms) which cannot produce spermine. The mutant showed higher sensitivity to high salt than wild type plants. This phenotype was cured by exogenous spermine but not by the other polyamines putrescine and spermidine, suggesting a strong link between spermine-deficiency and NaCl-hypersensitivity. The mutant was also hypersensitive to high levels of KCl but not to MgCl(2) or to high osmoticum. NaCl-hypersensitivity of the mutant was compromised by treatment with Ca(2+) channel blockers. Moreover, the mutant showed poor growth on Ca(2+)-depleted Murashige-Skoog agar media. The data suggest that the absence of spermine causes an imbalance in Ca(2+) homeostasis in the mutant plant. Based on the data obtained, we propose a model for a role of spermine in high salt stress responses.
-
-spermine: !affects! NaCl-hypersensitivity 
-spermine: !enhances! Ca(2+) homeostasis 
-putrescine/spermidine: !do not affect! NaCl-hypersensitivity 
-Ca(2+): !modulates! spermine-deficiency 
-acl5/spms: !lacks! spermine

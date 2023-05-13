@@ -1,9 +1,0 @@
-Transitions from animal to wind pollination have occurred repeatedly in flowering plants, driven by structural and biomechanical modifications to flowers. But the initial changes promoting wind pollination are poorly understood, especially those required to release pollen into airflows - the critical first stage of wind pollination. Using a wind tunnel, we performed a comparative study of pollen release biomechanics in 36 species of animal- and wind-pollinated Thalictrum. We quantified pollination syndromes and stamen natural frequency (f<sub>n</sub> ), a key vibration parameter, to determine if floral traits reliably predicted pollen release probability. We then investigated if pollen release was caused by wind-induced resonance vibration of stamens. We detected wind-induced stamen resonance in 91% of species and a strong effect of stamen acceleration on pollen release, inversely driven by f<sub>n</sub> . However, unlike f<sub>n</sub> , pollination syndromes did not reliably predict the probability of pollen release among species. Our results directly link f<sub>n</sub> to the capacity of stamens to release pollen by wind and suggest that structural mechanisms reducing f<sub>n</sub> are likely to be important for initiating transitions from animal to wind pollination. Our inability to predict the probability of pollen release based on pollination syndromes suggests diverse phenotypic trajectories from animal to wind pollination.
-
-stamen: !has! f<sub>n</sub> 
-f<sub>n</sub>: !inversely affects! pollen release probability
-pollination syndromes: !do not reliably predict! pollen release probability
-wind-induced stamen resonance: !detected in! 91% of species
-stamen acceleration: !strongly affects! pollen release
-structural mechanisms: !likely reduce! f<sub>n</sub> 
-diverse phenotypic trajectories: !initiate! transitions from animal to wind pollination

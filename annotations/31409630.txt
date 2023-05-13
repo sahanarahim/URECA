@@ -1,8 +1,0 @@
-Cold acclimation is a crucial strategy for plant survival at freezing temperatures. <i>C</i>-<i>REPEAT BINDING FACTOR</i> (<i>CBF</i>) genes are rapidly and transiently induced by low temperature and play important roles in cold acclimation. However, the mechanism underlying the attenuation of <i>CBF</i> expression during the later stages of the cold stress response is obscure. Here, we show that the protein kinase BRASSINOSTEROID-INSENSITIVE2 (BIN2) interacts with and phosphorylates INDUCER OF CBF EXPRESSION1 (ICE1) in Arabidopsis (<i>Arabidopsis thaliana</i>) under prolonged cold stress, facilitating the interaction between ICE1 and the E3 ubiquitin ligase HIGH EXPRESSION OF OSMOTICALLY RESPONSIVE GENE1 and thereby promoting ICE1 degradation. The kinase activity of BIN2 is inhibited during the early stages of the cold stress response and is subsequently restored, suggesting that BIN2 mainly downregulates ICE1 abundance when <i>CBF</i> expression is attenuated. A loss-of-function mutation of <i>ICE1</i> partially suppresses the cold-induced expression of <i>CBFs</i> and compromises the enhanced freezing tolerance of <i>bin2</i>-<i>3 bil1 bil2</i> These findings reveal an important role for BIN2 in fine-tuning <i>CBF</i> expression, and thus in balancing plant growth and the cold stress response.
-
-BIN2: !interacts with! ICE1
-BIN2: !phosphorylates! ICE1
-ICE1: !interacts with! HIGH EXPRESSION OF OSMOTICALLY RESPONSIVE GENE1
-BIN2: !inhibits! ICE1
-BIN2: !downregulates! CBF expression
-ICE1: !suppresses! CBF expression

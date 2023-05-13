@@ -1,7 +1,0 @@
-Development of live imaging techniques for providing information how chromatin is organized in living cells is pivotal to decipher the regulation of biological processes. Here, we demonstrate the improvement of a live imaging technique based on CRISPR/Cas9. In this approach, the sgRNA scaffold is fused to RNA aptamers including MS2 and PP7. When the dead Cas9 (dCas9) is co-expressed with chimeric sgRNA, the fluorescent coat protein-tagged for MS2 and PP7 aptamers (tdMCP-FP and tdPCP-FP) are recruited to the targeted sequence. Compared to previous work with dCas9:GFP, we show that the quality of telomere labeling was improved in transiently transformed <i>Nicotiana benthamiana</i> using aptamer-based CRISPR-imaging constructs. Labeling is influenced by the copy number of aptamers and less by the promoter types. The same constructs were not applicable for labeling of repeats in stably transformed plants and roots. The constant interaction of the RNP complex with its target DNA might interfere with cellular processes.
-
-dCas9: !recruits! tdMCP-FP 
-tdMCP-FP: !labels! telomeres 
-copy number of aptamers: !influences! labeling 
-promoter types: !less affects! labeling 
-RNP complex: !interacts with! target DNA

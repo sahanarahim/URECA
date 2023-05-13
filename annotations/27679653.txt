@@ -1,9 +1,0 @@
-['27679653', 'Perception of microbe-associated molecular patterns by host cell surface pattern  recognition receptors (PRRs) triggers the intracellular activation of  mitogen-activated protein kinase (MAPK) cascades. However, it is not known how  PRRs transmit immune signals to MAPK cascades in plants. Here, we identify a  complete phospho-signaling transduction pathway from PRR-mediated pathogen  recognition to MAPK activation in plants. We found that the receptor-like  cytoplasmic kinase PBL27 connects the chitin receptor complex CERK1-LYK5 and a  MAPK cascade. PBL27 interacts with both CERK1 and the MAPK kinase kinase MAPKKK5  at the plasma membrane. Knockout mutants of MAPKKK5 compromise chitin-induced  MAPK activation and disease resistance to Alternaria brassicicola PBL27  phosphorylates MAPKKK5 in vitro, which is enhanced by phosphorylation of PBL27 by  CERK1. The chitin perception induces disassociation between PBL27 and MAPKKK5  in vivo Furthermore, genetic evidence suggests that phosphorylation of MAPKKK5 by  PBL27 is essential for chitin-induced MAPK activation in plants. These data  indicate that PBL27 is the MAPKKK kinase that provides the missing link between  the cell surface chitin receptor and the intracellular MAPK cascade in plants.', '2016 Nov 15', 'EMBO J', '10.15252/embj.201694248', 'Kawasaki']
-
-CERK1-LYK5: !connects to! PBL27 
-PBL27: !interacts with! CERK1 
-PBL27: !interacts with! MAPKKK5 
-CERK1: !phosphorylates! PBL27 
-PBL27: !phosphorylates! MAPKKK5 
-Chitin: !induces disassociation of! PBL27 and MAPKKK5 
-PBL27: !essential for! chitin-induced MAPK activation

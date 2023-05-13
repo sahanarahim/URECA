@@ -1,9 +1,0 @@
-Nutrient element deprivation, such as iron (Fe) deficiency stress, is a major factor limiting plant survival and proliferation in marginal soils. To cope with a low Fe environment, plants have evolved elaborate mechanisms underlying Fe homeostasis via intricate transcriptional and post-transcriptional regulation. Here, we characterized the Fe deficiency-inducible MYB transcription factor MdMYB58 in apple plants. Overexpressing MdMYB58 resulted in the accumulation of Fe in the root of transgenic Arabidopsis and apple calli when they were exposed to low Fe available conditions. Further investigation revealed that MdMYB58 bound to the promoter of MdMATE43, and its homolog FRD3 in Arabidopsis. Transient expression and stable transgenic assays in apple calli indicated that MdMYB58 transcriptionally repressed MdMATE43 mRNA, as well as FRD3 in Arabidopsis. Interestingly, AtMYB58, the homolog of MdMYB58, possessed higher binding activities to MdMATE43 and FRD3, which suggests a potentially conserved feature of MYB58 binding to MATE transporters in plants. Additionally, MYB-MATE-mediated regulation of Fe homeostasis may be related to the PYE-related Fe deficiency regulatory network via MdSAT1, a member of the IVa subfamily of bHLH transcription factors. Co-overexpression of MdSAT1 competitively weakened MdMYB58-overexpression induced repression of MdMATE43 transcript abundancy by protein-protein interaction. Taken together, the newly identified MYB-bHLH transcription factor expands our understanding of multilevel molecular mechanisms that plants use to coordinate Fe demand with Fe uptake, transport, and tissue partitioning under low Fe conditions.
-
-MdMYB58: !binds to! MdMATE43 
-MdMYB58: !binds to! FRD3 
-MdMYB58: !represses! MdMATE43 
-MdMYB58: !represses! FRD3 
-AtMYB58: !binds to! MdMATE43 
-AtMYB58: !binds to! FRD3 
-MdSAT1: !interacts with! MdMYB58

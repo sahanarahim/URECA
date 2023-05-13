@@ -1,8 +1,0 @@
-The root meristem of Arabidopsis thaliana harbours a pool of stem cells, which divide to give rise to the differentiated cells of the various root tissues. Regulatory networks of inter-cellular signalling molecules control the homeostasis of stem cell number and position so that both stem and differentiated cells are consistently available. This work focuses on the transcription factor WUSCHEL-RELATED HOMEOBOX 5 (WOX5), the signalling peptide CLAVATA3/EMBRYO-SURROUNDING REGION 40 (CLE40) and the feedback loops involving them, which maintain the columella stem cells (CSCs). WOX5 signals from the quiescent centre (QC) to promote stem cell fate, while CLE40 is secreted from the differentiated columella cells (CCs) to promote differentiation. Our analyses of mathematical models of this network show that, when cell fate is controlled primarily by antagonistic factors, homeostasis requires a spatial component and inter-cellular signalling. We have also found that WOX5 contributes to, but is not absolutely necessary for, CSC maintenance. Furthermore, our modelling led us to postulate an additional signalling molecule that promotes CSC maintenance. We propose that this WOX5-independent signal originates in the QC, is targeted by CLE40 signalling and is capable of maintaining CSCs.
-
-WOX5: !signals from! QC 
-CLE40: !secreted from! CCs 
-WOX5: !promotes! stem cell fate 
-CLE40: !promotes! differentiation 
-WOX5: !contributes to! CSC maintenance 
-QC: !postulated to produce! WOX5-independent signal

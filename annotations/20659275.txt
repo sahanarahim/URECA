@@ -1,8 +1,0 @@
-Identification of regulatory sequences within non-coding regions of DNA is an essential step towards elucidation of gene networks. This approach constitutes a major challenge, however, as only a very small fraction of non-coding DNA is thought to contribute to gene regulation. The mapping of regulatory regions traditionally involves the laborious construction of promoter deletion series which are then fused to reporter genes and assayed in transgenic organisms. Bioinformatic methods can be used to scan sequences for matches for known regulatory motifs, however these methods are currently hampered by the relatively small amount of such motifs and by a high false-discovery rate. Here, we demonstrate a robust and highly sensitive, in silico method to identify evolutionarily conserved regions within non-coding DNA. Sequence conservation within these regions is taken as evidence for evolutionary pressure against mutations, which is suggestive of functional importance. We test this method on a small set of well characterised promoters, and show that it successfully identifies known regulatory regions. We further show that these evolutionarily conserved sequences contain clusters of transcription binding sites, often described as regulatory modules. A version of the tool optimised for the analysis of plant promoters is available online at http://wsbc.warwick.ac.uk/ears/main.php.
-
-DNA: !contains! Regulatory Sequences 
-Bioinformatic Methods: !scan for! Known Regulatory Motifs 
-Method: !identifies! Evolutionarily Conserved Regions 
-Sequence Conservation: !suggests! Functional Importance 
-Tool: !tests! Well Characterised Promoters 
-Regulatory Modules: !contain! Transcription Binding Sites

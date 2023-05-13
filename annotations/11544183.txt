@@ -1,9 +1,0 @@
-['11544183', 'Wild-type Arabidopsis plants maintain a relatively constant size over a wide  range of temperatures. Here we show that this homeostasis requires the BONZAI1  (BON1) gene because bon1 null mutants make miniature fertile plants at 22 degrees  C but have wild-type appearance at 28 degrees C. The expression of BON1 and a  BON1-associated protein (BAP1) is modulated by temperature. Thus BON1 and BAP1  may have a direct role in regulating cell expansion and cell division at lower  temperatures. BON1 contains a Ca(2+)-dependent phospholipid-binding domain and is  associated with the plasma membrane. It belongs to the copine gene family, which  is conserved from protozoa to humans. Our data suggest that this gene family may  function in the pathway of membrane trafficking in response to external  conditions.', '2001 Sep 1', 'Genes Dev', '10.1101/gad.918101', 'Fink']
-
-BON1: !affects! Plant size
-BON1: !modulated by! Temperature
-BON1: !contains! Ca(2+)-dependent phospholipid-binding domain
-BON1: !belongs to! Copine gene family
-BAP1: !associated with! BON1
-BAP1: !modulated by! Temperature
-Copine gene family: !functions in! Membrane trafficking pathway

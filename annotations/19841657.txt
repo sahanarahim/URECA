@@ -1,6 +1,0 @@
-The mutualistic interaction of plants with arbuscular mycorrhizal (AM) fungi is characterized by an exchange of nutrients. The plant provides sugars in the form of hexoses to the heterotrophic fungus in return for phosphate as well as nitrogen, water, and micronutrients. Plant sucrose-cleaving enzymes are predicted to play a crucial role in hexose mobilization as these enzymes appear to be absent in the fungal partner. Here, recent findings concerning the function of plant apoplastic invertases in the AM symbiosis are discussed. Plants with modulated enzyme activity in roots and leaves provide additional insight on the complexity of the regulation of the AM interaction by apoplastic invertases as mycorrhization could be reduced or stimulated depending on the level of invertase activity and its tissue-specific expression.
-
-plant: !provides! sugars 
-plant: !expresses! apoplastic invertases 
-apoplastic invertases: !regulates! AM symbiosis 
-AM symbiosis: !exchanges! nutrients

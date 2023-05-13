@@ -1,8 +1,0 @@
-One major objective for plant biology is the discovery of molecular subsystems underlying complex traits. The use of genetic and genomic resources combined in a systems genetics approach offers a means for approaching this goal. This study describes a maize (Zea mays) gene coexpression network built from publicly available expression arrays. The maize network consisted of 2,071 loci that were divided into 34 distinct modules that contained 1,928 enriched functional annotation terms and 35 cofunctional gene clusters. Of note, 391 maize genes of unknown function were found to be coexpressed within modules along with genes of known function. A global network alignment was made between this maize network and a previously described rice (Oryza sativa) coexpression network. The IsoRankN tool was used, which incorporates both gene homology and network topology for the alignment. A total of 1,173 aligned loci were detected between the two grass networks, which condensed into 154 conserved subgraphs that preserved 4,758 coexpression edges in rice and 6,105 coexpression edges in maize. This study provides an early view into maize coexpression space and provides an initial network-based framework for the translation of functional genomic and genetic information between these two vital agricultural species.
-
-Maize gene: !divided into! 34 modules
-Maize gene: !enriched with! functional annotation terms
-Maize gene: !coexpressed with! genes of known function
-Maize gene: !aligned with! rice coexpression network
-IsoRankN tool: !incorporates! gene homology and network topology
-154 conserved subgraphs: !preserved! coexpression edges in maize and rice

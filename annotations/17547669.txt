@@ -1,8 +1,0 @@
-* Whether photosynthesis is limited during water stress and recovery because of diffusive or biochemical factors is still open to debate, and apparent contradictions appear when various studies on species with different growth forms are compared. * Ten Mediterranean species, representing different growth forms, were subjected to different levels of water stress, the most severe followed by rewatering. A quantitative limitation analysis was applied to estimate the effects of water stress on stomatal (S(L)), mesophyll conductance (MC(L)) and biochemical limitations (B(L)). * Results confirmed a general pattern of photosynthetic response to water stress among C(3) plants when stomatal conductance (g(s)) is used as a reference parameter. As g(s) values decreased from a maximum to approx. 0.05 mol H(2)O m(-2) s(-1), the total photosynthetic limitation rose from 0 to approx. 70%, and this was caused by a progressive increase of both S(L) and MC(L) limitations, while B(L) remained negligible. When lower values of g(s) were achieved (total photosynthetic limitation increased from 70 to 100%), the contribution of S(L) declined, while MC(L) still increased and B(L) contributed significantly (20-50%) to the total limitation. * Photosynthetic recovery of severely stressed plants after rewatering showed a dominant role of MC(L), irrespective of the degree of photosynthesis recovery.
-
-gene: !affects! Photosynthesis
-stomatal conductance: !limits! Photosynthesis
-mesophyll conductance: !limits! Photosynthesis
-biochemical limitation: !limits! Photosynthesis
-water stress: !increases! Photosynthetic Limitation
-rewatering: !enhances! Photosynthetic Recovery

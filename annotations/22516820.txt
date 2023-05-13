@@ -1,8 +1,0 @@
-Stem cell maintenance is essential for growth and development of plants and animals. Similar to animal studies, transcription factors play a critical role in plant stem cell maintenance, however the regulatory logic is not well understood. Shoot apical meristems (SAMs) harbor a pool of pluoripotent stem cells and they provide cells for the development of all above-ground organs. Molecular genetic studies spanning more than a decade have revealed cell-cell communication logic underlying stem cell homeostasis. WUSCHEL (WUS), a homeodomain transcription factor expressed in cells of the organizing center specifies stem cells in overlying cells of the central zone (CZ) and also activates a negative regulator-CLAVATA3 (CLV3). CLV3, a small secreted peptide, binds to CLAVATA1 (CLV1) and also possibly to CLV1-related receptors to activate signaling which restricts WUS transcription. Though the CLV-WUS feedback network explains the cell-cell communication logic of stem cell maintenance, how WUS communicates with adjacent cells had remained elusive. In October 15 2011 issue of Genes and Development, we report that WUS protein synthesized in cells of organizing center migrates into adjacent cells via cell-cell movement and activates CLV3 transcription by directly binding to promoter elements.
-
-WUS: !synthesizes! CLV3
-WUS: !activates! CLV3
-CLV3: !binds to! CLV1
-CLV3: !binds to! CLV1-related receptors
-CLV3: !restricts! WUS transcription
-WUS: !migrates into! adjacent cells

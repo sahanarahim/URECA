@@ -1,9 +1,0 @@
-['27497447', 'The stability of signaling proteins in eukaryotes is often controlled by  post-translational modifiers. For polyubiquitination, specificity is assured by  E3 ubiquitin ligases. Although plant genomes encode hundreds of E3 ligases, only  few targets are known, even in the model Arabidopsis thaliana. Here, we  identified the monothiol glutaredoxin GRXS17 as a substrate of the Arabidopsis E3  ubiquitin ligases RING DOMAIN LIGASE 3 (RGLG3) and RGLG4 using a substrate  trapping approach involving tandem affinity purification of RING-dead versions.  Simultaneously, we used a ubiquitin-conjugating enzym (UBC) panel screen to  pinpoint UBC30 as a cognate E2 UBC capable of interacting with RGLG3 and RGLG4  and mediating auto-ubiquitination of RGLG3 and ubiquitination of GRXS17 in vitro.  Accordingly, GRXS17 is ubiquitinated and degraded in an RGLG3- and  RGLG4-dependent manner in planta. The truncated hemoglobin GLB3 also interacted  with RGLG3 and RGLG4 but appeared to obstruct RGLG3 ubiquitination activity  rather than being its substrate. Our results suggest that the RGLG family is  intimately linked to the essential element iron.', '2016 Sep', 'Plant Cell Physiol', '10.1093/pcp/pcw122', 'Goossens']
-
-RGLG3: !ubiquitinates! GRXS17
-RGLG4: !ubiquitinates! GRXS17
-UBC30: !interacts with! RGLG3
-UBC30: !interacts with! RGLG4
-RGLG3: !auto-ubiquitinates! itself
-GLB3: !interacts with! RGLG3
-GLB3: !interacts with! RGLG4

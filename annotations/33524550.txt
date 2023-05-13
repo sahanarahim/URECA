@@ -1,9 +1,0 @@
-The precise regulation of microRNA (miRNA) biogenesis is crucial for plant development, which requires core microprocessors and many fine tuners to coordinate their miRNA processing activity/specificity in fluctuating cellular environments. During de-etiolation, light triggers a dramatic accumulation of core microprocessors and primary miRNAs (pri-miRNAs) but decreases pri-miRNA processing activity, resulting in relatively constant miRNA levels. The mechanisms underlying these seemingly contradictory regulatory changes remain unclear. In this study, we identified forkhead-associated domain 2 (FHA2) as a light-stabilized suppressor of miRNA biogenesis. We found that FHA2 deficiency increased the level of mature miRNAs, accompanied by a reduction in pri-miRNAs and target mRNAs. Biochemical assays showed that FHA2 associates with the core microprocessors DCL1, HYL1, and SE, forming a complex to suppress their pri-miRNA processing activity. Further analyses revealed that FHA2 promotes HYL1 binding but inhibits the binding of DCL1-PAZ-RNase-RNA-binding domains (DCL1-PRR) to miRNAs, whereas FHA2 does not directly bind to these RNAs. Interestingly, we found that FHA2 protein is unstable in the dark but stabilized by light during de-etiolation. Consistently, disruption of FHA led to defects in light-triggered changes in miRNA expression and reduced the survival rate of de-etiolated seedlings after prolonged light deprivation. Collectively, these data suggest that FHA2 is a novel light-stabilized suppressor of miRNA biogenesis and plays a role in fine-tuning miRNA processing during de-etiolation.
-
-DCL1: !interacts with! FHA2
-HYL1: !interacts with! FHA2
-SE: !interacts with! FHA2
-FHA2: !suppresses! miRNA biogenesis
-FHA2: !stabilizes! in light
-FHA2: !promotes! HYL1 binding
-FHA2: !inhibits! DCL1-PRR binding

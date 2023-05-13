@@ -1,9 +1,0 @@
-Lysin motif (LysM) is a carbohydrate-binding module often found in secreted or transmembrane proteins in living organisms from prokaryotes to eukaryotes. Thus far, all characterized LysM-containing proteins in plants are plasma membrane-resident receptors or co-receptors playing roles in plant-microbe interactions. Here, we interrogate the Arabidopsis LysM/F-box-containing protein InLYP1 and reveal its function in glycine metabolism. InLYP1 was mainly expressed by vigorously growing tissues, encoding a nuclear-cytoplasmic protein. We validated InLYP1 as part of the SKP1-CULLIN1-F-box E3 complex for mediating protein degradation. The glycine decarboxylase P-protein 1 (GLDP1) was identified as an InLYP1-interacting protein by both immunoprecipitation/mass spectrometry and yeast two-hybrid library screening. InLYP1 could also interact with GLDP2, a paralog of GLDP1 with weaker catalytic activity, and could mediate the degradation of GLDP2 but not GLDP1. Interestingly, both GLDPs could be O-glycosylated and form homodimers or heterodimers. Overexpression of InLYP1<sup>L9A</sup> encoding a dominant-negative variant could cause seedling germination retardation on the medium containing glycine. Collectively, these results shed light on the function of plant intracellular LysM-containing proteins, and suggest that InLYP1 may deplete GLDP2 to facilitate glycine decarboxylation in Arabidopsis.
-
-InLYP1: !interacts with! GLDP1 
-InLYP1: !interacts with! GLDP2 
-GLDP1: !forms! homodimers 
-GLDP1: !forms! heterodimers 
-GLDP2: !O-glycosylated! 
-InLYP1: !mediates degradation of! GLDP2 
-InLYP1: !enhances! glycine decarboxylation

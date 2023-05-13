@@ -1,9 +1,0 @@
-Root parasitic plants such as Striga, Orobanche, and Phelipanche spp. cause serious damage to crop production world-wide. Deletion of the Low Germination Stimulant 1 (LGS1) gene gives a Striga-resistance trait in sorghum (Sorghum bicolor). The LGS1 gene encodes a sulfotransferase-like protein, but its function has not been elucidated. Since the profile of strigolactones (SLs) that induce seed germination in root parasitic plants is altered in the lgs1 mutant, LGS1 is thought to be an SL biosynthetic enzyme. In order to clarify the enzymatic function of LGS1, we looked for candidate SL substrates that accumulate in the lgs1 mutants and performed in vivo and in vitro metabolism experiments. We found the SL precursor 18-hydroxycarlactonoic acid (18-OH-CLA) is a substrate for LGS1. CYP711A cytochrome P450 enzymes (SbMAX1 proteins) in sorghum produce 18-OH-CLA. When LGS1 and SbMAX1 coding sequences were co-expressed in Nicotiana benthamiana with the upstream SL biosynthesis genes from sorghum, the canonical SLs 5-deoxystrigol and 4-deoxyorobanchol were produced. This finding showed that LGS1 in sorghum uses a sulfo group to catalyze leaving of a hydroxyl group and cyclization of 18-OH-CLA. A similar SL biosynthetic pathway has not been found in other plant species.
-
-LGS1: !encodes! sulfotransferase-like protein 
-LGS1: !uses! 18-OH-CLA 
-18-OH-CLA: !produced by! CYP711A 
-CYP711A: !catalyzes! leaving of hydroxyl group 
-CYP711A: !cyclizes! 18-OH-CLA 
-SbMAX1: !produces! 18-OH-CLA 
-SbMAX1: !co-expressed with! LGS1

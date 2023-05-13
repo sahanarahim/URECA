@@ -1,8 +1,0 @@
-The timing of flowering is coordinately regulated by complex gene regulatory networks that integrate developmental and environmental cues. Light and temperature are major environmental determinants in flowering time control. Temperature signals include two major categories: ambient temperature signals and cold nonfreezing temperature signals. Notably, the effects of cold temperatures on flowering timing are profoundly differentiated, depending on the duration of cold exposure. Whereas long-term exposure to cold temperatures, designated vernalization, promotes flowering, short-term cold exposure delays flowering. Genes constituting the vernalization pathway and underlying molecular mechanisms have been extensively studied. However, how cold stress signals delay flowering is largely unknown. We have recently reported that the HIGH EXPRESSION OF OSMOTICALLY RESPONSIVE GENE 1 (HOS1)-CONSTANS (CO) module is at least partly responsible for the daily sensing of cold stress signals in flowering time control. Intermittent cold stress triggers the degradation of CO, a central activator of photoperiodic flowering, via a ubiquitination pathway that involves the HOS1 E3 ubiquitin ligase, leading to suppression of FLOWERING LOCUS T (FT) gene and delayed flowering. It is proposed that CO serves as a molecular knot that integrates photoperiod and temperature signals into the flowering pathways, fine-tuning photoperiodic flowering under short-term temperature fluctuations.
-
-Light: !affects! Flowering time
-Temperature: !affects! Flowering time
-HOS1: !interacts with! CO
-CO: !degrades via! HOS1
-CO: !integrates! Photoperiod and temperature signals
-FT: !suppressed by! CO

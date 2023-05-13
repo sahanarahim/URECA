@@ -1,9 +1,0 @@
-Bioluminescence is a powerful biological signal that scientists have repurposed as a reporter for gene expression in plants and animals. However, there are downsides associated with the need to provide a substrate to these reporters, including its high cost and non-uniform tissue penetration. In this work we reconstitute a fungal bioluminescence pathway (FBP) <i>in planta</i> using a composable toolbox of parts. We demonstrate that the FBP can create luminescence across various tissues in a broad range of plants without external substrate addition. We also show how our toolbox can be used to deploy the FBP <i>in planta</i> to build auto-luminescent reporters for the study of gene-expression and hormone fluxes. A low-cost imaging platform for gene expression profiling is also described. These experiments lay the groundwork for future construction of programmable auto-luminescent plant traits, such as light driven plant-pollinator interactions or light emitting plant-based sensors.
-
-gene: !affects! Bioluminescence 
-gene: !synthesizes! FBP 
-FBP: !creates! Luminescence 
-FBP: !deploys! Auto-luminescent reporters 
-Auto-luminescent reporters: !studies! Gene-expression 
-Auto-luminescent reporters: !profiles! Hormone fluxes 
-Auto-luminescent reporters: !builds! Programmable traits

@@ -1,9 +1,0 @@
-The accuracy of trait measurements greatly affects the quality of genetic analyses. During automated phenotyping, trait measurement errors, i.e. differences between automatically extracted trait values and ground truth, are often treated as random effects that can be controlled by increasing population sizes and/or replication number. In contrast, there is some evidence that trait measurement errors may be partially under genetic control. Consistent with this hypothesis, we observed substantial nonrandom, genetic contributions to trait measurement errors for five maize (Zea mays) tassel traits collected using an image-based phenotyping platform. The phenotyping accuracy varied according to whether a tassel exhibited "open" versus. "closed" branching architecture, which is itself under genetic control. Trait-associated SNPs (TASs) identified via genome-wide association studies (GWASs) conducted on five tassel traits that had been phenotyped both manually (i.e. ground truth) and via feature extraction from images exhibit little overlap. Furthermore, identification of TASs from GWASs conducted on the differences between the two values indicated that a fraction of measurement error is under genetic control. Similar results were obtained in a sorghum (Sorghum bicolor) plant height dataset, demonstrating that trait measurement error is genetically determined in multiple species and traits. Trait measurement bias cannot be controlled by increasing population size and/or replication number.
-
-Trait: !affected by! Measurement Error
-Measurement Error: !genetically determined! Trait
-Tassel Trait: !controlled by! Open/Closed Branching Architecture
-GWAS: !identifies! TASs
-TASs: !differ between! Manual/Image-based Phenotyping
-Differences: !identified by! GWAS
-Sorghum: !demonstrates! Genetically Determined Measurement Error

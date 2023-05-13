@@ -1,8 +1,0 @@
-Volatile interactions between unattacked plants can lead to changes in their volatile emissions. Exposure of potato plants to onion plant volatiles results in increased emission of 2 terpenoids, (E)-nerolidol and TMTT. We investigated whether this is detectable by the ladybird Coccinella septempunctata. The odor of onion-exposed potato was significantly more attractive to ladybirds than that of unexposed potato. Further, a synthetic blend mimicking the volatile profile of onion-exposed potato was more attractive than a blend mimicking that of unexposed potato. When presented individually, TMTT was attractive to ladybirds whereas (E)-nerolidol was repellent. Volatile exchange between unattacked plants and consequent increased attractiveness for ladybirds may be a mechanism that contributes to the increased abundance of natural enemies in complex plant habitats.
-
-plant: !emits! volatiles 
-volatiles: !attracts! ladybirds 
-onion plant volatiles: !increases! emission of 2 terpenoids 
-terpenoids: !affects! attractiveness to ladybirds 
-TMTT: !attractive to! ladybirds 
-(E)-nerolidol: !repellent to! ladybirds

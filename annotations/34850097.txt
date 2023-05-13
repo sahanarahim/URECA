@@ -1,8 +1,0 @@
-Micro RNAs (miRNAs) are processed from precursor RNA molecules with precisely defined secondary stem-loop structures. ARGONAUTE1 (AGO1) is the main executor component of miRNA pathway and its expression is controlled via the auto-regulatory feedback loop activity of miR168 in plants. Previously we have shown that AGO1 loading of miR168 is strongly restricted leading to abundant cytoplasmic accumulation of AGO-unbound miR168. Here, we report, that intrinsic RNA secondary structure of MIR168a precursor not only defines the processing of miR168, but also precisely adjusts AGO1 loading efficiency determining the biologically active subset of miR168 pool. Our results show, that modification of miRNA duplex structure of MIR168a precursor fragment or expression from artificial precursors can alter the finely adjusted loading efficiency of miR168. In dcl1-9 mutant where, except for miR168, production of most miRNAs is severely reduced this mechanism ensures the elimination of unloaded AGO1 proteins via enhanced AGO1 loading of miR168. Based on this data, we propose a new competitive loading mechanism model for miR168 action: the miR168 surplus functions as a molecular buffer for controlled AGO1 loading continuously adjusting the amount of AGO1 protein in accordance with the changing size of the cellular miRNA pool.
-
-AGO1: !processes! miRNAs 
-miR168: !controls! AGO1 expression 
-MIR168a precursor: !defines! miRNA processing 
-MIR168a precursor: !adjusts! AGO1 loading efficiency 
-dcl1-9 mutant: !enhances! AGO1 loading of miR168 
-miR168 surplus: !functions as! molecular buffer

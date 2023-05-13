@@ -1,9 +1,0 @@
-['36163196', 'ER-mitochondrial contact sites (EMCSs) are important for mitochondrial function.  Here, we have identified a EMCS complex, comprising a family of uncharacterised  mitochondrial outer membrane proteins, TRB1, TRB2, and the ER protein, VAP27-1.  In Arabidopsis, there are three TraB family isoforms and the trb1/trb2 double  mutant exhibits abnormal mitochondrial morphology, strong starch accumulation,  and impaired energy metabolism, indicating that these proteins are essential for  normal mitochondrial function. Moreover, TRB1 and TRB2 proteins also interact  with ATG8 in order to regulate mitochondrial degradation (mitophagy). The  turnover of depolarised mitochondria is significantly reduced in both trb1/trb2  and VAP27 mutants (vap27-1,3,4,6) under mitochondrial stress conditions, with an  increased population of dysfunctional mitochondria present in the cytoplasm.  Consequently, plant recovery after stress is significantly perturbed, suggesting  that TRB1-regulated mitophagy and ER-mitochondrial interaction are two closely  related processes. Taken together, we ascribe a dual role to TraB family proteins  which are component of the EMCS complex in eukaryotes, regulating both  interaction of the mitochondria to the ER and mitophagy.', '2022 Sep 26', 'Nat Commun', '10.1038/s41467-022-33402-w', 'ORCID:']
-
-TRB1: !regulates! Mitophagy
-TRB1: !interacts with! ATG8
-VAP27-1: !interacts with! TRB1/TRB2
-TRB1/TRB2: !affects! Mitochondrial morphology
-TRB1/TRB2: !impairs! Energy metabolism
-VAP27: !reduces! Mitochondrial turnover
-VAP27: !perturbs! Plant recovery

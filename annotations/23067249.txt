@@ -1,9 +1,0 @@
-Formation of cluster roots is a typical morphological response to phosphorus (P) deficiency in white lupin (Lupinus albus), but its physiological and molecular mechanisms are still unclear. We investigated the role of auxin in the initiation of cluster roots by distinguishing the sources of auxin, measuring the longitudinal distribution patterns of free indole-3-acetic acid (IAA) along the root and the related gene expressions responsible for polar auxin transport (PAT) in different developmental stages of cluster roots. We found that removal of shoot apex or primary root apex and application of auxin-influx or -efflux transport inhibitors, 3-chloro-4-hydroxyphenylacetic acid, N-1-naphthylphthalamic acid and 2,3,5-triiodobenzoic acid, to the stem did not affect the number of cluster roots and the free-IAA concentration in the roots of P-deficient plants, but when these inhibitors were applied directly to the growth media, the cluster-root formation was greatly suppressed, suggesting the fundamental role of root-derived IAA in cluster-root formation. The concentration of free IAA in the roots was higher in P-deficient plants than in P-adequate ones, and the highest in the lateral-root apex and the lowest in the mature cluster roots. Meanwhile the expression patterns of LaAUX1, LaPIN1 and LaPIN3 transcripts related to PAT was consistent with concentrations of free IAA along the lateral root, indicating the contribution of IAA redistribution in the cluster-root development. We proposed that root-derived IAA plays a direct and important role in the P-deficiency-induced formation of cluster roots.
-
-root: !produces! IAA 
-IAA: !affects! cluster root formation 
-P-deficiency: !induces! cluster root formation 
-PAT: !mediates! IAA redistribution 
-LaAUX1: !regulates! PAT 
-LaPIN1: !regulates! PAT 
-LaPIN3: !regulates! PAT

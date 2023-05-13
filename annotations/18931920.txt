@@ -1,8 +1,0 @@
-Identification of downstream target genes of stress-relating transcription factors (TFs) is desirable in understanding cellular responses to various environmental stimuli. However, this has long been a difficult work for both experimental and computational practices. In this research, we presented a novel computational strategy which combined the analysis of the transcription factor binding site (TFBS) contexts and machine learning approach. Using this strategy, we conducted a genome-wide investigation into novel direct target genes of dehydration responsive element binding proteins (DREBs), the members of AP2-EREBPs transcription factor super family which is reported to be responsive to various abiotic stresses in Arabidopsis. The genome-wide searching yielded in total 474 target gene candidates. With reference to the microarray data for abiotic stresses-inducible gene expression profile, 268 target gene candidates out of the total 474 genes predicted, were induced during the 24-h exposure to abiotic stresses. This takes about 57% of total predicted targets. Furthermore, GO annotations revealed that these target genes are likely involved in protein amino acid phosphorylation, protein binding and Endomembrane sorting system. The results suggested that the predicted target gene candidates were adequate to meet the essential biological principle of stress-resistance in plants.
-
-DREBs: !binds to! TFBS
-DREBs: !regulates! 474 target genes
-target genes: !induced by! abiotic stresses
-target genes: !involved in! protein amino acid phosphorylation
-target genes: !involved in! protein binding
-target genes: !involved in! Endomembrane sorting system

@@ -1,7 +1,0 @@
-The widely used Streptococcus pyogenes Cas9 (SpCas9) requires NGG as a protospacer adjacent motif (PAM) for genome editing. Although SpCas9 is a powerful genome-editing tool, its use has been limited on the targetable genomic locus lacking NGG PAM. The SpCas9 variants xCas9 and Cas9-NG have been developed to recognize NG, GAA, and GAT PAMs in human cells. Here, we show that xCas9 cannot recognize NG PAMs in tomato, and Cas9-NG can recognize some of our tested NG PAMs in the tomato and Arabidopsis genomes. In addition, we engineered SpCas9 (XNG-Cas9) based on mutations from both xCas9 and Cas9-NG, and found that XNG-Cas9 can efficiently mutagenize endogenous target sites with NG, GAG, GAA, and GAT PAMs in the tomato or Arabidopsis genomes. The PAM compatibility of XNG-Cas9 is the broadest reported to date among Cas9s (SpCas9 and Cas9-NG) active in plant.
-
-SpCas9: !requires! NGG PAM
-xCas9: !cannot recognize! NG PAMs in tomato
-Cas9-NG: !can recognize! NG PAMs in tomato and Arabidopsis genomes
-XNG-Cas9: !engineered from! xCas9 and Cas9-NG
-XNG-Cas9: !can efficiently mutagenize! endogenous target sites with NG, GAG, GAA, and GAT PAMs in the tomato or Arabidopsis genomes

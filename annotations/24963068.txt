@@ -1,8 +1,0 @@
-The biogenesis of the cytochrome b<sub>6</sub>f complex in tobacco (Nicotiana tabacum) seems to be restricted to young leaves, suggesting a high lifetime of the complex. To directly determine its lifetime, we employed an ethanol-inducible RNA interference (RNAi) approach targeted against the essential nuclear-encoded Rieske protein (PetC) and the small M subunit (PetM), whose function in higher plants is unknown. Young expanding leaves of both PetM and PetC RNAi transformants bleached rapidly and developed necroses, while mature leaves, whose photosynthetic apparatus was fully assembled before RNAi induction, stayed green. In line with these phenotypes, cytochrome b<sub>6</sub>f complex accumulation and linear electron transport capacity were strongly repressed in young leaves of both RNAi transformants, showing that the M subunit is as essential for cytochrome b<sub>6</sub>f complex accumulation as the Rieske protein. In mature leaves, all photosynthetic parameters were indistinguishable from the wild type even after 14 d of induction. As RNAi repression of PetM and PetC was highly efficient in both young and mature leaves, these data indicate a lifetime of the cytochrome b<sub>6</sub>f complex of at least 1 week. The switch-off of cytochrome b<sub>6</sub>f complex biogenesis in mature leaves may represent part of the first dedicated step of the leaf senescence program.
-
-PetC: !represses! cytochrome b<sub>6</sub>f complex accumulation
-PetM: !represses! cytochrome b<sub>6</sub>f complex accumulation
-cytochrome b<sub>6</sub>f complex: !has lifetime of! 1 week
-RNAi: !induces! PetC and PetM repression
-young leaves: !bleach rapidly and develop necroses! when PetC and PetM are repressed
-mature leaves: !stay green! when PetC and PetM are repressed

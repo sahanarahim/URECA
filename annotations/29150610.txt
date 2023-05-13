@@ -1,9 +1,0 @@
-Land-atmosphere exchanges influence atmospheric CO<sub>2</sub>. Emphasis has been on describing photosynthetic CO<sub>2</sub> uptake, but less on respiration losses. New global datasets describe upper canopy dark respiration (R <sub>d</sub>) and temperature dependencies. This allows characterisation of baseline R <sub>d</sub>, instantaneous temperature responses and longer-term thermal acclimation effects. Here we show the global implications of these parameterisations with a global gridded land model. This model aggregates R <sub>d</sub> to whole-plant respiration R <sub>p</sub>, driven with meteorological forcings spanning uncertainty across climate change models. For pre-industrial estimates, new baseline R <sub>d</sub> increases R <sub>p</sub> and especially in the tropics. Compared to new baseline, revised instantaneous response decreases R <sub>p</sub> for mid-latitudes, while acclimation lowers this for the tropics with increases elsewhere. Under global warming, new R <sub>d</sub> estimates amplify modelled respiration increases, although partially lowered by acclimation. Future measurements will refine how R <sub>d</sub> aggregates to whole-plant respiration. Our analysis suggests R <sub>p</sub> could be around 30% higher than existing estimates.
-
-R_d: !aggregates to! R_p 
-R_d: !amplifies! respiration increases 
-R_d: !increases! R_p 
-R_d: !partially lowered by! acclimation 
-temperature: !influences! R_d 
-temperature: !responses! R_p 
-temperature: !acclimation effects! R_p

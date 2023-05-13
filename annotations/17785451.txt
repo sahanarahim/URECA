@@ -1,9 +1,0 @@
-['17785451', 'SOS2, a class 3 sucrose-nonfermenting 1-related kinase, has emerged as an  important mediator of salt stress response and stress signaling through its  interactions with proteins involved in membrane transport and in regulation of  stress responses. We have identified additional SOS2-interacting proteins that  suggest a connection between SOS2 and reactive oxygen signaling. SOS2 was found  to interact with the H2O2 signaling protein nucleoside diphosphate kinase 2  (NDPK2) and to inhibit its autophosphorylation activity. A sos2-2 ndpk2 double  mutant was more salt sensitive than a sos2-2 single mutant, suggesting that NDPK2  and H2O2 are involved in salt resistance. However, the double mutant did not  hyperaccumulate H2O2 in response to salt stress, suggesting that it is altered  signaling rather than H2O2 toxicity alone that is responsible for the increased  salt sensitivity of the sos2-2 ndpk2 double mutant. SOS2 was also found to  interact with catalase 2 (CAT2) and CAT3, further connecting SOS2 to H2O2  metabolism and signaling. The interaction of SOS2 with both NDPK2 and CATs  reveals a point of cross talk between salt stress response and other signaling  factors including H2O2.', '2007 Nov', 'Mol Cell Biol', '10.1128/MCB.00429-07', 'Zhu']
-
-SOS2: !interacts with! NDPK2 
-SOS2: !inhibits! NDPK2 autophosphorylation activity 
-SOS2: !interacts with! CAT2 
-SOS2: !interacts with! CAT3 
-NDPK2: !involved in! salt resistance 
-CAT2: !connected to! H2O2 metabolism and signaling 
-CAT3: !connected to! H2O2 metabolism and signaling

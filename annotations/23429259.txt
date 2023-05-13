@@ -1,9 +1,0 @@
-Target mimicry is a recently identified regulatory mechanism for microRNA (miRNA) functions in plants in which the decoy RNAs bind to miRNAs via complementary sequences and therefore block the interaction between miRNAs and their authentic targets. Both endogenous decoy RNAs (miRNA target mimics) and engineered artificial RNAs can induce target mimicry effects. Yet until now, only the Induced by Phosphate Starvation1 RNA has been proven to be a functional endogenous microRNA target mimic (eTM). In this work, we developed a computational method and systematically identified intergenic or noncoding gene-originated eTMs for 20 conserved miRNAs in Arabidopsis (Arabidopsis thaliana) and rice (Oryza sativa). The predicted miRNA binding sites were well conserved among eTMs of the same miRNA, whereas sequences outside of the binding sites varied a lot. We proved that the eTMs of miR160 and miR166 are functional target mimics and identified their roles in the regulation of plant development. The effectiveness of eTMs for three other miRNAs was also confirmed by transient agroinfiltration assay.
-
-miRNA: !binds to! decoy RNA
-decoy RNA: !induces! target mimicry effect
-miRNA: !targets! authentic targets
-eTM: !originates from! intergenic or noncoding gene
-miRNA: !binds to! eTM
-eTM: !regulates! plant development
-miRNA: !confirmed by! transient agroinfiltration assay

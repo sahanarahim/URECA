@@ -1,8 +1,0 @@
-Core signaling pathways function in multiple programs during multicellular development. The mechanisms that compartmentalize pathway function or confer process specificity, however, remain largely unknown. In Arabidopsis thaliana, ERECTA (ER) family receptors have major roles in many growth and cell fate decisions. The ER family acts with receptor TOO MANY MOUTHS (TMM) and several ligands of the EPIDERMAL PATTERNING FACTOR LIKE (EPFL) family, which play distinct yet overlapping roles in patterning of epidermal stomata. Here, our examination of EPFL genes EPFL6/CHALLAH (CHAL), EPFL5/CHALLAH-LIKE1, and EPFL4/CHALLAH-LIKE2 (CLL2) reveals that this family may mediate additional ER-dependent processes. chal cll2 mutants display growth phenotypes characteristic of er mutants, and genetic interactions are consistent with CHAL family molecules acting as ER family ligands. We propose that different classes of EPFL genes regulate different aspects of ER family function and introduce a TMM-based discriminatory mechanism that permits simultaneous, yet compartmentalized and distinct, function of the ER family receptors in growth and epidermal patterning.
-
-ER: !acts with! TMM
-ER: !acts with! CHAL
-ER: !acts with! CLL2
-CHAL: !interacts with! ER
-CLL2: !interacts with! ER
-TMM: !interacts with! ER

@@ -1,8 +1,0 @@
-A tetraploidy left Arabidopsis thaliana with 6358 pairs of homoeologs that, when aligned, generated 14,944 intragenomic conserved noncoding sequences (CNSs). Our previous work assembled these phylogenetic footprints into a database. We show that known transcription factor (TF) binding motifs, including the G-box, are overrepresented in these CNSs. A total of 254 genes spanning long lengths of CNS-rich chromosomes (Bigfoot) dominate this database. Therefore, we made subdatabases: one containing Bigfoot genes and the other containing genes with three to five CNSs (Smallfoot). Bigfoot genes are generally TFs that respond to signals, with their modal CNS positioned 3.1 kb 5' from the ATG. Smallfoot genes encode components of signal transduction machinery, the cytoskeleton, or involve transcription. We queried each subdatabase with each possible 7-nucleotide sequence. Among hundreds of hits, most were purified from CNSs, and almost all of those significantly enriched in CNSs had no experimental history. The 7-mers in CNSs are not 5'- to 3'-oriented in Bigfoot genes but are often oriented in Smallfoot genes. CNSs with one G-box tend to have two G-boxes. CNSs were shared with the homoeolog only and with no other gene, suggesting that binding site turnover impedes detection. Bigfoot genes may function in adaptation to environmental change.
-
-Gene: !affects! Process
-Gene: !localizes to! Chromosome
-Gene: !interacts with! Transcription Factor
-Gene: !enhances! Signal Transduction
-Gene: !represses! Detection
-Gene: !synthesizes! Components

@@ -1,8 +1,0 @@
-We examined performance of herbivores on plants lacking either jasmonate (JA, asLOX3) or ethylene (ET, mETR1) signaling, or both (mETR1asLOX3). Plant defenses against Manduca sexta caterpillars were strongly impaired in JA-deficient asLOX3 plants; however, making asLOX3 plants ethylene insensitive did not further increase the performance of the larvae on a mETR1asLOX3 genetic cross. This result demonstrates the dominant role of JA over ET in the regulation of plant defenses against herbivores. However, ET-insensitivity combined with otherwise normal levels of JA in mETR1 plants promoted faster caterpillar growth, which correlated with reduced accumulation of the alkaloidal direct defense nicotine in mETR1 compared to WT plants. Our data points to an important accessory function of ET in the activation of JA-regulated plant defenses against herbivores at the level of alkaloid biosynthesis in the roots and/or accumulation in the leaves.
-
-jasmonate: !affects! Plant defenses
-ethylene: !affects! Plant defenses
-jasmonate: !dominates over! Ethylene
-ethylene: !promotes! Faster caterpillar growth
-ethylene: !activates! JA-regulated plant defenses
-JA-regulated plant defenses: !involves! Alkaloid biosynthesis/accumulation

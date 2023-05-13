@@ -1,9 +1,0 @@
-Leaf nitrogen concentration (LNC) is a critical indicator of crop nutrient status. In this study, the feasibility of using visible and near-infrared spectroscopy combined with deep learning to estimate LNC in cotton leaves was explored. The samples were collected from cotton's whole growth cycle, and the spectra were from different measurement environments. The random frog (RF), weighted partial least squares regression (WPLS), and saliency map were used for characteristic wavelength selection. Qualitative models (partial least squares discriminant analysis (PLS-DA), support vector machine for classification (SVC), convolutional neural network classification (CNNC) and quantitative models (partial least squares regression (PLSR), support vector machine for regression (SVR), convolutional neural network regression (CNNR)) were established based on the full spectra and characteristic wavelengths. Satisfactory results were obtained by models based on CNN. The classification accuracy of leaves in three different LNC ranges was up to 83.34%, and the root mean square error of prediction (RMSEP) of quantitative prediction models of cotton leaves was as low as 3.36. In addition, the identification of cotton leaves based on the predicted LNC also achieved good results. These results indicated that the nitrogen content of cotton leaves could be effectively detected by deep learning and visible and near-infrared spectroscopy, which has great potential for real-world application.
-
-Visible and near-infrared spectroscopy: !combined with! Deep Learning 
-RF: !used for! Characteristic Wavelength Selection 
-PLS-DA: !established for! Qualitative Models 
-PLSR: !established for! Quantitative Models 
-CNN: !achieved satisfactory results for! Classification Accuracy 
-CNN: !achieved satisfactory results for! RMSEP 
-Predicted LNC: !identified cotton leaves with! Good Results

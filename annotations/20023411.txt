@@ -1,7 +1,0 @@
-The directional transport of the plant hormone auxin depends on transcellular gradients of auxin-efflux carriers that continuously cycle between plasma membrane and intracellular compartments. This cycling has been proposed to depend on actin filaments. However, the role of actin for the polarity of auxin transport has been disputed. To get insight into this question, actin bundling was induced by overexpression of the actin-binding domain of talin in tobacco BY-2 cells and in rice plants. This bundling can be reverted by addition of auxins, which allows to address the role of actin organization on the flux of auxin. In both systems, the reversion of a normal actin configuration can be restored by addition of exogenous auxins and this fully restores the respective auxin-dependent functions. These findings lead to a model of a self-referring regulatory circuit between polar auxin transport and actin organization. To further dissect the actin-auxin oscillator, we used photoactivated release of caged auxin in tobacco cells to demonstrate that auxin gradients can be manipulated at a subcellular level.
-
-actin: !binds to! talin 
-talin: !induces! actin bundling 
-auxin: !reverts! actin bundling 
-auxin: !restores! auxin-dependent functions 
-auxin: !manipulates! auxin gradients

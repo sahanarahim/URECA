@@ -1,9 +1,0 @@
-['18158146', 'Inter-regional signaling coordinates pattern formation in Arabidopsis thaliana  embryos. However, little is known regarding the cells and molecules involved in  inter-regional communication. We have characterized two related leucine-rich  repeat receptor-like kinases (LRR-RLKs), RECEPTOR-LIKE PROTEIN KINASE1 (RPK1) and  TOADSTOOL2 (TOAD2), which are required together for patterning the apical  embryonic domain cell types that generate cotyledon primordia. Central domain  protoderm patterning defects were always observed subjacent to the defective  cotyledon primordia cell types in mutant embryos. In addition, RPK1-GFP and  TOAD2-GFP translational fusions were both localized to the central domain  protodermal cells when cotyledon primordia were first recognizable. We propose  that RPK1 and TOAD2 are primarily required to maintain central domain protoderm  cell fate and that the loss of this key embryonic cell type in mutant embryos  results in patterning defects in other regions of the embryo including the  failure to initiate cotyledon primordia.', '2008 Feb 1', 'Dev Biol', '10.1016/j.ydbio.2007.11.021', 'Tax']
-
-RPK1: !required for! patterning apical embryonic domain cell types 
-TOAD2: !required for! patterning apical embryonic domain cell types 
-RPK1: !localizes to! central domain protoderm cells 
-TOAD2: !localizes to! central domain protoderm cells 
-RPK1: !maintains! central domain protoderm cell fate 
-TOAD2: !maintains! central domain protoderm cell fate 
-central domain protoderm cell fate: !results in! patterning defects

@@ -1,8 +1,0 @@
-Over the past 50 years, the rising tree line along Jumpingpound Ridge in the Rocky Mountains of Alberta, Canada, has reduced the area of alpine meadows and isolated populations that reside within them. By analyzing an 11-year data set of butterfly population sizes for 17 subpopulations along the ridge, we show that forest habitat separating alpine meadows decouples the dynamics of populations of the alpine butterfly Parnassius smintheus. Although the distance between populations is often negatively correlated with synchrony of dynamics, here we show that distance through forest, not Euclidean distance, determines the degree of synchrony. This effect is consistent with previous results demonstrating that encroaching forest reduces dispersal among populations and reduces gene flow. Decoupling dynamics produces more smaller independent populations, each with greater risk of local extinction, but decoupling may produce a lower risk of regional extinction in this capricious environment.
-
-forest: !separates! alpine meadows
-forest: !reduces! dispersal
-forest: !reduces! gene flow
-distance: !determines! synchrony
-decoupling: !produces! smaller populations
-decoupling: !reduces! regional extinction risk

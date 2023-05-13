@@ -1,9 +1,0 @@
-['23603955', 'Plant microRNAs (miRNAs) are important regulators of development and stress  responses and are oftentimes under transcriptional regulation by stresses and  plant hormones. We recently showed that polycistronic MIR842 and MIR846 are  expressed from the same primary transcript which is subject to alternative  splicing. ABA treatment affects the alternative splicing of the primary cistronic  transcript which results in differential expression of the two miRNAs that are  predicted to target the same family of jacalin lectin genes. One variant of  miR846 in roots can direct the cleavage of AT5G28520, which is also highly  upregulated by ABA in roots. In this addendum, we present additional results  further supporting the regulation of AT5G28520 by MIR846 using a T-DNA insertion  line mapping upstream of MIR842 and MIR846. We also show that AT5G28520 is  transcriptionally induced by ABA and this induction is subject to ABA signaling  effectors in seedlings. Based on previous results and data presented in this  paper, we propose an interaction loop between MIR846, AT5G28520 and ABA in roots.', '2013 Jun', 'Plant Signal Behav', '10.4161/psb.24563', 'Rock']
-
-MIR842: !expresses! MIR846 
-MIR846: !targets! jacalin lectin genes 
-ABA: !affects! alternative splicing of primary cistronic transcript 
-ABA: !induces! AT5G28520 
-AT5G28520: !subject to! ABA signaling effectors 
-MIR846: !interacts with! AT5G28520 
-ABA: !interacts with! AT5G28520

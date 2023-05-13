@@ -1,6 +1,0 @@
-*We estimate probability density functions (PDFs) for future rainfall in five regions of South America, by weighting the predictions of the 24 Coupled Model Intercomparison Archive Project 3 (CMIP3) General Circulation Models (GCMs). The models are rated according to their relative abilities to reproduce the inter-annual variability in seasonal rainfall. *The relative weighting of the climate models is updated sequentially according to Bayes' theorem, based on the biases in the mean of the predicted time-series and the distributional fit of the bias-corrected time-series. *Depending on the season and the region, we find very different rankings of the GCMs, with no single model doing well in all cases. However, in some regions and seasons, differential weighting of the models leads to significant shifts in the derived rainfall PDFs. *Using a combination of the relative model weightings for each season we have also derived a set of overall model weightings for each region that can be used to produce PDFs of forest biomass from the simulations of the Lund-Potsdam-Jena Dynamic Global Vegetation Model for managed land (LPJmL).
-
-GCMs: !weighted according to! Bayes' theorem
-GCMs: !ranked according to! inter-annual variability in seasonal rainfall
-GCMs: !produce PDFs of! forest biomass
-Bayes' theorem: !updates weighting of! GCMs

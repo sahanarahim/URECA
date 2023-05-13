@@ -1,8 +1,0 @@
-Biotechnological approaches using genetic modifications such as homologous gene overexpression can be used to decode gene functions under well-defined circumstances. However, only the recording of the resulting phenotypes allows inferences about the impact of the modification on the organisms' evolutionary, ecological or economic performance. We here compare a potato wild-type cell line with two genetically engineered cell cultures homologously overexpressing Pathogenesis Related Protein 10a (pr-10a). A detailed analysis of the relative gene-expression patterns of pr-10a and its regulators sebf and pti4 over time provides insights into the molecular response of heterotrophic cells to distinct osmotic and salt-stress conditions. Furthermore, this system serves as an exemplar for the tracing of respiration kinetics as a faster and more sensitive alternative to the laborious and time-consuming recording of growth curves. The utility and characteristics of the resulting data type and the requirements for its appropriate analysis are figured out. It is demonstrated how this novel type of phenotypic information together with the gene-expression-data provides valuable insights into the effect of genetic modifications on the behaviour of cells on both the molecular and the macroscopic level.
-
-pr-10a: !overexpresses! in potato wild-type cell line
-sebf: !regulates! pr-10a
-pti4: !regulates! pr-10a
-osmotic/salt-stress: !affects! gene expression patterns
-respiration kinetics: !traces! growth curves
-genetic modifications: !affect! behaviour of cells

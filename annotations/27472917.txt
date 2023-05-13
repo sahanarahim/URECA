@@ -1,9 +1,0 @@
-Transcription factor (TF) databases are major resource for systematic studies of TFs in specific species as well as related family members. Even though there are several publicly available multi-species databases, the information on the amount and diversity of TFs within individual species is fragmented, especially for newly sequenced genomes of non-model species of agricultural significance. We constructed CicerTransDB (Cicer Transcription Factor Database), the first database of its kind, which would provide a centralized putatively complete list of TFs in a food legume, chickpea. CicerTransDB, available at www.cicertransdb.esy.es , is based on chickpea (Cicer arietinum L.) annotation v 1.0. The database is an outcome of genome-wide domain study and manual classification of TF families. This database not only provides information of the gene, but also gene ontology, domain and motif architecture. CicerTransDB v 1.0 comprises information of 1124 genes of chickpea and enables the user to not only search, browse and download sequences but also retrieve sequence features. CicerTransDB also provides several single click interfaces, transconnecting to various other databases to ease further analysis. Several webAPI(s) integrated in the database allow end-users direct access of data. A critical comparison of CicerTransDB with PlantTFDB (Plant Transcription Factor Database) revealed 68 novel TFs in the chickpea genome, hitherto unexplored. Database URL: http://www.cicertransdb.esy.es.
-
-TF: !included in! CicerTransDB
-CicerTransDB: !provides information on! TFs
-TF: !localizes to! chickpea genome
-TF: !comprises information of! 1124 genes
-CicerTransDB: !allows user to! search, browse, download sequences
-CicerTransDB: !integrates with! other databases
-CicerTransDB: !reveals! 68 novel TFs

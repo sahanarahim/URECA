@@ -1,7 +1,0 @@
-['10984613', 'Three new nuclear genes (sigD, sigE and sigF) of Arabidopsis thaliana, encoding  putative plastid RNA polymerase sigma factors, were identified and analyzed.  Phylogenetic analysis revealed that higher plant sigma factors fell into at least  four distinct subgroups within a diverse protein family. In addition, Arabidopsis  sig genes contained conserved chromosomal intron sites, indicating that these  genes arose by DNA duplication events during plant evolution. Transcript analyses  revealed two alternatively spliced transcripts generated from the sigD region,  one of which is predicted to encode a sigma protein lacking the carboxy-terminal  regions 3 and 4. Finally, the amino-terminal sequence of the sigF gene product  was shown to function as a plastid-targeting signal using green fluorescent  protein fusions.', '2000 Sep 8', 'FEBS Lett', '10.1016/s0014-5793(00)01965-7', 'Takahashi']
-
-sigD: !generates! two alternatively spliced transcripts 
-sigF: !contains! plastid-targeting signal 
-sig genes: !arose from! DNA duplication events 
-higher plant sigma factors: !fall into! four distinct subgroups 
-Arabidopsis thaliana: !encodes! putative plastid RNA polymerase sigma factors

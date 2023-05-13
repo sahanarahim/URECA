@@ -1,8 +1,0 @@
-['36269178', 'RNA-binding proteins (RBPs) participate in a diverse set of biological processes  in plants, but their functions and underlying mechanisms in plant-pathogen  interactions are largely unknown. We previously showed that Arabidopsis thaliana  BPA1-LIKE PROTEIN3 (BPL3) belongs to a conserved plant RBP family and negatively  regulates reactive oxygen species (ROS) accumulation and cell death under biotic  stress. In this study, we demonstrate that BPL3 suppresses FORKED-LIKE7 (FL7)  transcript accumulation and raises levels of the cis-natural antisense long  non-coding RNA (lncRNA) of FL7 (nalncFL7). FL7 positively regulated plant  immunity to Phytophthora capsici while nalncFL7 negatively regulated resistance.  We also showed that BPL3 directly binds to and stabilizes nalncFL7. Moreover,  nalncFL7 suppressed accumulation of FL7 transcripts. Furthermore, FL7 interacted  with HIGHLY ABA-INDUCED PP2C1 (HAI1), a type 2C protein phosphatase, and  inhibited HAI1 phosphatase activity. By suppressing HAI1 activity, FL7 increased  the phosphorylation levels of MITOGEN-ACTIVATED PROTEIN KINASE 3 (MPK3) and MPK6,  thus enhancing immunity responses. BPL3 and FL7 are conserved in all plant  species tested, but the BPL3-nalncFL7-FL7 cascade was specific to the  Brassicaceae. Thus, we identified a conserved BPL3-nalncFL7-FL7 cascade that  coordinates plant immunity.', '2023 Jan 2', 'Plant Cell', '10.1093/plcell/koac311', 'ORCID:']
-
-BPL3: !suppresses! FL7
-BPL3: !binds to and stabilizes! nalncFL7
-nalncFL7: !suppresses! FL7
-FL7: !interacts with! HAI1
-HAI1: !inhibited by! FL7
-FL7: !enhances! MPK3/MPK6

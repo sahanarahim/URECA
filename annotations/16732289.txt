@@ -1,7 +1,0 @@
-['16732289', 'In the fungal phylum Ascomycota, the ability to cause disease in plants and  animals has been gained and lost repeatedly during phylogenesis. In  monocotyledonous barley, loss-of-function mlo alleles result in effective  immunity against the Ascomycete Blumeria graminis f. sp. hordei, the causal agent  of powdery mildew disease. However, mlo-based disease resistance has been  considered a barley-specific phenomenon to date. Here, we demonstrate a conserved  requirement for MLO proteins in powdery mildew pathogenesis in the dicotyledonous  plant species Arabidopsis thaliana. Epistasis analysis showed that mlo resistance  in A. thaliana does not involve the signaling molecules ethylene, jasmonic acid  or salicylic acid, but requires a syntaxin, glycosyl hydrolase and ABC  transporter. These findings imply that a common host cell entry mechanism of  powdery mildew fungi evolved once and at least 200 million years ago, suggesting  that within the Erysiphales (powdery mildews) the ability to cause disease has  been a stable trait throughout phylogenesis.', '2006 Jun', 'Nat Genet', '10.1038/ng1806', 'Panstruga']
-
-MLO: !affects! Powdery mildew pathogenesis 
-MLO: !required for! Disease resistance 
-Syntaxin: !interacts with! MLO 
-Glycosyl hydrolase: !interacts with! MLO 
-ABC transporter: !interacts with! MLO

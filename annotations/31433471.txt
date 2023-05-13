@@ -1,8 +1,0 @@
-The ratio between carbon (C) and nitrogen (N) utilization must be precisely coordinated to enable plant growth. Although numerous physiological studies have examined carbon/nitrogen (C/N) ratios, the mechanisms of sensing the C/N balance and C/N signaling remain elusive. Here, we report that a mutation of FERONIA (FER), a receptor kinase that plays versatile roles in plant cell growth and stress responses, caused hypersensitivity to a high C/N ratio in Arabidopsis. In contrast, FER-overexpressing plants displayed more resistant phenotypes. FER can interact with and phosphorylate ATL6, an E3 ubiquitin ligase that has been shown to regulate plant C/N responses. FER-mediated ATL6 phosphorylation enhanced the interaction between ATL6 and its previously identified target 14-3-3 proteins, thus decreasing 14-3-3 protein levels, leading to an increased insensitivity to high C/N ratios. Further analyses showed that the rapid alkalinization factor peptide (RALF1), which is a ligand of FER, also influenced the stability of 14-3-3 proteins via a FER-ATL6-mediated pathway. These findings reveal a novel regulatory mechanism that links the RALF1/FER-ATL6 pathway to whole-plant C/N responses and growth.
-
-FER: !interacts with! ATL6
-FER: !phosphorylates! ATL6
-RALF1: !binds to! FER
-ATL6: !interacts with! 14-3-3 proteins
-ATL6: !regulates! C/N responses
-14-3-3 proteins: !stabilized by! FER-ATL6 pathway

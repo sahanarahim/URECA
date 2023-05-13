@@ -1,8 +1,0 @@
-We designed a dicistronic plastid marker system that relies on the plastid's ability to translate polycistronic mRNAs. The identification of transplastomic clones is based on selection for antibiotic resistance encoded in the first open reading frame (ORF) and accumulation of the reporter gene product in tobacco chloroplasts encoded in the second ORF. The antibiotic resistance gene may encode spectinomycin or kanamycin resistance based on the expression of aadA or neo genes, respectively. The reporter gene used in the study is the green fluorescent protein (GFP). The mRNA level depends on the 5'-untranslated region of the first ORF. The protein output depends on the strengths of the ribosome binding, and is proportional with the level of translatable mRNA. Because the dicistronic mRNA is not processed, we could show that protein output from the second ORF is independent from the first ORF. High-level GFP accumulation from the second ORF facilitates identification of transplastomic events under ultraviolet light. Expression of multiple proteins from an unprocessed mRNA is an experimental design that enables predictable protein output from polycistronic mRNAs, expanding the toolkit of plant synthetic biology.
-
-aadA: !encodes! spectinomycin resistance 
-neo: !encodes! kanamycin resistance 
-GFP: !encodes! reporter gene product 
-5'-untranslated region: !affects! mRNA level 
-ribosome binding: !affects! protein output 
-dicistronic mRNA: !enables! predictable protein output

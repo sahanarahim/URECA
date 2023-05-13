@@ -1,8 +1,0 @@
-Accurate modelling of drought-induced mortality is challenging. A steady-state model is presented integrating xylem and phloem transport, leaf-level gas exchange and plant carbohydrate consumption during drought development. A Bayesian analysis of parameter uncertainty based on expert knowledge and a literature review is carried out. The model is tested by combining six data compilations covering 170 species using information on sensitivities of xylem conductivity, stomatal conductance and leaf turgor to water potential. The possible modes of plant failure at steady state are identified (i.e. carbon (C) starvation, hydraulic failure and phloem transport failure). Carbon starvation occurs primarily in the parameter space of isohydric stomatal control, whereas hydraulic failure is prevalent in the space of xylem susceptibility to embolism. Relative to C starvation, phloem transport failure occurs under conditions of low sensitivity of photosynthesis and high sensitivity of growth to plant water status. These three failure modes are possible extremes along two axes of physiological vulnerabilities, one characterized by the balance of water supply and demand and the other by the balance between carbohydrate sources and sinks. Because the expression of physiological vulnerabilities is coordinated, we argue that different failure modes should occur with roughly equal likelihood, consistent with predictions using optimality theory.
-
-xylem: !susceptible to! embolism
-stomatal control: !ishydric! C starvation
-photosynthesis: !low sensitivity of! phloem transport failure
-growth: !high sensitivity of! plant water status
-water supply: !balance of! demand
-carbohydrate sources: !balance of! sinks

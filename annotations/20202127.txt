@@ -1,8 +1,0 @@
-Based on computational prediction of RNA secondary structures, a long antisense RNA (asRNA) was found in chloroplasts of Arabidopsis, Nicotiana tabacum and poplar, which occurs in two to three major transcripts. Mapping of primary 5' ends, northern hybridizations and quantitative real-time reverse transcription polymerase chain reaction (qPCR) experiments demonstrated that these transcripts originate from a promoter that is typical for the plastid-encoded RNA polymerase and are over their full length in antisense orientation to the gene ndhB and therefore were designated asRNA_ndhB. The asRNA_ndhB transcripts predominantly accumulate in young leaves and at physiological growth temperatures. Two nucleotide positions in the mRNA that are subject to C-to-U RNA editing and which were previously found to be sensitive to elevated temperatures are covered by asRNA_ndhB. Nevertheless, the correlation between the accumulation of asRNA_ndhB and RNA editing appeared weak in a temperature shift experiment. With asRNA_ndhB, we describe the first asRNA of plant chloroplasts that covers RNA editing sites, as well as a group II intron splice acceptor site, and that is under developmental control, raising the possibility that long asRNAs could be involved in RNA maturation or the control of RNA stability.
-
-asRNA_ndhB: !covers! RNA editing sites 
-asRNA_ndhB: !covers! group II intron splice acceptor site 
-asRNA_ndhB: !accumulates in! young leaves 
-asRNA_ndhB: !accumulates in! physiological growth temperatures 
-asRNA_ndhB: !under developmental control of! RNA maturation 
-asRNA_ndhB: !under developmental control of! RNA stability

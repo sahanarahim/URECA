@@ -1,7 +1,0 @@
-Diatoms are unicellular algae of great ecological importance. So far, very little is known about the regulation of carbon fixation in these algae; however, there are strong indications that in diatom plastids, the ferredoxin/thioredoxin system might play a minor role in redox regulation of the photosynthetic reactions compared to land plants. Until now, it is unknown whether there are fewer or other target enzymes of thioredoxins in diatoms. Only a single potential target enzyme for thioredoxin, the plastidic fructose-1,6-bisphosphatase, has yet been identified. Nevertheless, during the annotation of the genome of the diatom Phaeodactylum tricornutum, we identified several genes encoding different thioredoxins. Utilizing in vivo expression of GFP:presequence fusion proteins in P. tricornutum, we were able to show that these thioredoxins are targeted either into plastids, mitochondria, or remain in the cytosol. Surprisingly, two of the three usually cytosolic thioredoxin h proteins are apparently plastid associated and, together with a thioredoxin reductase, putatively located in the periplastidic compartment. This is one of the few indications for so far unknown enzymatic reactions in the space between the two pairs of diatom plastid envelope membranes.
-
-gene: !encodes! thioredoxins 
-gene: !targets to! plastids 
-gene: !targets to! mitochondria 
-gene: !targets to! cytosol 
-thioredoxin: !putatively located in! periplastidic compartment

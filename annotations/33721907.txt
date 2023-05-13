@@ -1,8 +1,0 @@
-The architecture of the seed is shaped by the processes of tissue partitioning, which determines the volume ratio of maternal and zygotic tissues, and nutrient partitioning, which regulates nutrient distribution among tissues. In angiosperms, early seed development is characterized by antagonistic development of the nucellus maternal tissue and the endosperm fertilization product to become the main sugar sink. This process marked the evolution of angiosperms and outlines the most ancient seed architectures. In Arabidopsis, the endosperm partially eliminates the nucellus and imports sugars from the seed coat. Here, we show that the nucellus is symplasmically connected to the chalaza, the seed nutrient unloading zone, and works as both a sugar sink and source alongside the seed coat. After fertilization, the transient nucellus accumulates starch early on and releases it in the apoplasmic space during its elimination. By contrast, the persistent nucellus exports sugars toward the endosperm through the SWEET4 hexose facilitator. Finally, we analyzed sugar metabolism and transport in the transparent testa 16 mutant, which fails to undergo nucellus cell elimination, which shed light on the coordination between tissue and nutrient partitioning. Overall, this study identifies a path of sugar transport in the Arabidopsis seed and describes a link between sugar redistribution and the nucellus cell-elimination program.
-
-nucellus: !accumulates! starch 
-nucellus: !exports! sugars 
-SWEET4: !facilitates! sugar transport 
-transparent testa 16 mutant: !fails to undergo! nucellus cell elimination 
-tissue partitioning: !determines! volume ratio of maternal and zygotic tissues 
-nutrient partitioning: !regulates! nutrient distribution among tissues

@@ -1,7 +1,0 @@
-Despite great advances in sequencing technologies, generating functional information for nonmodel organisms remains a challenge. One solution lies in an improved ability to predict genetic circuits based on primary DNA sequence in combination with detailed knowledge of regulatory proteins that have been characterized in model species. Here, we focus on the LEAFY (LFY) transcription factor, a conserved master regulator of floral development. Starting with biochemical and structural information, we built a biophysical model describing LFY DNA binding specificity in vitro that accurately predicts in vivo LFY binding sites in the Arabidopsis thaliana genome. Applying the model to other plant species, we could follow the evolution of the regulatory relationship between LFY and the AGAMOUS (AG) subfamily of MADS box genes and show that this link predates the divergence between monocots and eudicots. Remarkably, our model succeeds in detecting the connection between LFY and AG homologs despite extensive variation in binding sites. This demonstrates that the cis-element fluidity recently observed in animals also exists in plants, but the challenges it poses can be overcome with predictions grounded in a biophysical model. Therefore, our work opens new avenues to deduce the structure of regulatory networks from mere inspection of genomic sequences.
-
-LFY: !regulates! AG
-LFY: !binds to! DNA
-LFY: !predicts! in vivo binding sites
-LFY: !detects! connection between LFY and AG homologs
-DNA: !influences! LFY binding specificity

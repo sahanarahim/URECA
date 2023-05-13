@@ -1,7 +1,0 @@
-Synthetic biology enables the construction of genetic circuits with predictable gene functions in plants. Detailed quantitative descriptions of the transfer function or input-output function for genetic parts (promoters, 5' and 3' untranslated regions, etc.) are collected. These data are then used in computational simulations to determine their robustness and desired properties, thereby enabling the best components to be selected for experimental testing in plants. In addition, the process forms an iterative workflow which allows vast improvement to validated elements with sub-optimal function. These processes enable computational functions such as digital logic in living plants and follow the pathway of technological advances which took us from vacuum tubes to cell phones.
-
-Gene: !affects! Process
-Gene: !synthesizes! Components
-Components: !enable! Computational functions
-Process: !improves! Validated elements
-Validated elements: !determine! Robustness

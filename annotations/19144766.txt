@@ -1,8 +1,0 @@
-Variations in early fruit development and composition may have major impacts on the taste and the overall quality of ripe tomato (Solanum lycopersicum) fruit. To get insights into the networks involved in these coordinated processes and to identify key regulatory genes, we explored the transcriptional and metabolic changes in expanding tomato fruit tissues using multivariate analysis and gene-metabolite correlation networks. To this end, we demonstrated and took advantage of the existence of clear structural and compositional differences between expanding mesocarp and locular tissue during fruit development (12-35 d postanthesis). Transcriptome and metabolome analyses were carried out with tomato microarrays and analytical methods including proton nuclear magnetic resonance and liquid chromatography-mass spectrometry, respectively. Pairwise comparisons of metabolite contents and gene expression profiles detected up to 37 direct gene-metabolite correlations involving regulatory genes (e.g. the correlations between glutamine, bZIP, and MYB transcription factors). Correlation network analyses revealed the existence of major hub genes correlated with 10 or more regulatory transcripts and embedded in a large regulatory network. This approach proved to be a valuable strategy for identifying specific subsets of genes implicated in key processes of fruit development and metabolism, which are therefore potential targets for genetic improvement of tomato fruit quality.
-
-gene: !affects! Process
-glutamine: !correlates with! bZIP
-bZIP: !correlates with! MYB
-MYB: !correlates with! glutamine
-metabolite: !correlates with! gene
-gene: !embedded in! regulatory network

@@ -1,8 +1,0 @@
-ATTED-II (http://atted.jp) is a database of coexpressed genes that was originally developed to identify functionally related genes in Arabidopsis and rice. Herein, we describe an updated version of ATTED-II, which expands this resource to include additional agriculturally important plants. To improve the quality of the coexpression data for Arabidopsis and rice, we included more gene expression data from microarray and RNA sequencing studies. The RNA sequencing-based coexpression data now cover 94% of the Arabidopsis protein-encoding genes, representing a substantial increase from previously available microarray-based coexpression data (76% coverage). We also generated coexpression data for four dicots (soybean, poplar, grape and alfalfa) and one monocot (maize). As both the quantity and quality of expression data for the non-model species are generally poorer than for the model species, we verified coexpression data associated with these new species using multiple methods. First, the overall performance of the coexpression data was evaluated using gene ontology annotations and the coincidence of a genomic feature. Secondly, the reliability of each guide gene was determined by comparing coexpressed gene lists between platforms. With the expanded and newly evaluated coexpression data, ATTED-II represents an important resource for identifying functionally related genes in agriculturally important plants.
-
-Gene: !affects! Process
-Gene: !localizes to! Genomic Feature
-Gene: !interacts with! Platform
-Gene: !enhances! Gene Ontology Annotation
-Gene: !represses! Coexpression Data
-Gene: !synthesizes! ATTED-II

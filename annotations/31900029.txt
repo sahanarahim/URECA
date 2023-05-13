@@ -1,9 +1,0 @@
-Plant leaf margins produce small outgrowths or teeth causing serration in a regular arrangement, which is specified by auxin maxima. In <i>Arabidopsis</i>, the spatiotemporal pattern of auxin dependents on both, the transcription factor CUC2 and the signal peptide EPFL2, a ligand of the growth-promoting receptor kinase ERECTA (ER). Ectopic expression of <i>CUC2</i> can have contrary effects on leaf growth. Ubiquitous expressed <i>CUC2</i> suppresses growth in the whole leaf, whereas <i>cuc2-1D</i> mutants have enlarged leaves, through <i>ER</i>-dependent cell proliferation in the teeth. Here we investigated the growth dynamics of <i>cuc2-1D</i> leaves and the growth restricting the function of <i>CUC2</i> using the ubiquitous inducible <i>CUC2-GR</i> transgene. In time courses, we dissected the serration promoting the function of <i>CUC2</i> in the leaf margin and ectopic growth inhibition by <i>CUC2</i> in the leaf plate. We found that <i>CUC2</i> limits growth rather by cell cycle inhibition than by cell size control. Furthermore, endogenous <i>CUC2</i> was rapidly induced by <i>CUC2-GR</i> indicating a possible auto-inducible feedback. In contrast, <i>EPFL2</i> was quickly decreased by transient <i>CUC2</i> induction but increased in <i>cuc2-3</i> mutant leaves suggesting that <i>CUC2</i> can also counteract the <i>EPFL2-ER</i> pathway. Therefore, tooth growth promotion and growth inhibition by <i>CUC2</i> involve partially the same mechanism but in contrary ways.
-
-CUC2: !affects! Leaf growth
-CUC2: !interacts with! EPFL2
-EPFL2: !interacts with! ER
-ER: !promotes! Cell proliferation
-CUC2: !inhibits! Cell cycle
-CUC2: !represses! EPFL2
-CUC2: !enhances! Tooth growth

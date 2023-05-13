@@ -1,9 +1,0 @@
-Phytochrome A (phyA) is the primary photoreceptor mediating deetiolation under far-red (FR) light, whereas phyB predominantly regulates light responses in red light. SUPPRESSOR OF PHYA-105 (SPA1) forms an E3 ubiquitin ligase complex with CONSTITUTIVE PHOTOMORPHOGENIC1 (COP1), which is responsible for the degradation of various photomorphogenesis-promoting factors, resulting in desensitization to light signaling. However, the role of phyB in FR light signaling and the regulatory pathway from light-activated phytochromes to the COP1-SPA1 complex are largely unknown. Here, we confirm that PHYB overexpression causes an etiolation response with reduced ELONGATED HYPOCOTYL5 (HY5) accumulation under FR light. Notably, phyB exerts its nuclear activities and promotes seedling etiolation in both the presence and absence of phyA in response to FR light. PhyB acts upstream of SPA1 and is functionally dependent on it in FR light signaling. PhyB interacts and forms a protein complex with SPA1, enhancing its nuclear accumulation under FR light. During the dark-to-FR transition, phyB is rapidly imported into the nucleus and facilitates nuclear SPA1 accumulation. These findings support the notion that phyB plays a role in repressing FR light signaling. Activity modulation of the COP1-SPA E3 complex by light-activated phytochromes is an effective and pivotal regulatory step in light signaling.
-
-phyA: !mediates! deetiolation
-phyB: !regulates! light responses
-phyA/phyB: !promote! etiolation
-phyB: !acts upstream of! SPA1
-phyB: !interacts with! SPA1
-phyB: !enhances! SPA1 nuclear accumulation
-phyB: !represses! FR light signaling

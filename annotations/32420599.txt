@@ -1,8 +1,0 @@
-We develop a model based on the biophysical representation of water and sugar flows between the pedicel, fruit xylem and phloem, and the fruit apoplast and symplast in order to identify diurnal patterns of transport in the pedicel-fruit system of peach. The model predicts that during the night water is mainly imported to the fruit through the xylem, and that fruit phloem-xylem transfer of water allows sugar concentrations in the phloem to be higher in the fruit than in the pedicel. This results in relatively high sugar transport to the fruit apoplast, leading to relatively high sugar uptake by the fruit symplast despite low sugar concentrations in the pedicel. At midday, the model predicts a xylem backflow of water driven by a lower pressure potential in the xylem than in the fruit apoplast. In addition, fruit xylem-to-phloem transfer of water decreases the fruit phloem sugar concentration, resulting in moderate sugar uptake by the fruit symplast, despite the high sugar concentration in the pedicel. Globally, the predicted fruit xylem-phloem water transfers buffer the sugar concentrations in the fruit phloem and apoplast, leading to a diurnally regulated uptake of sugar. A possible fruit xylem-to-apoplast recirculation of water through the fruit phloem reduces water lost by xylem backflow at midday.
-
-xylem: !transports! water 
-phloem: !transports! sugar 
-xylem: !backflows! water 
-fruit phloem-xylem: !transfers! water 
-fruit xylem-to-apoplast: !recirculates! water 
-fruit symplast: !uptakes! sugar

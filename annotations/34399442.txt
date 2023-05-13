@@ -1,8 +1,0 @@
-The plant immune system has been explored essentially through the study of qualitative resistance, a simple form of immunity, and from a reductionist point of view. The recent identification of genes conferring quantitative disease resistance revealed a large array of functions, suggesting more complex mechanisms. In addition, thanks to the advent of high-throughput analyses and system approaches, our view of the immune system has become more integrative, revealing that plant immunity should rather be seen as a distributed and highly connected molecular network including diverse functions to optimize expression of plant defenses to pathogens. Here, we review the recent progress made to understand the network complexity of regulatory pathways leading to plant immunity, from pathogen perception, through signaling pathways and finally to immune responses. We also analyze the topological organization of these networks and their emergent properties, crucial to predict novel immune functions and test them experimentally. Finally, we report how these networks might be regulated by environmental clues. Although system approaches remain extremely scarce in this area of research, a growing body of evidence indicates that the plant response to combined biotic and abiotic stresses cannot be inferred from responses to individual stresses. A view of possible research avenues in this nascent biology domain is finally proposed.
-
-Gene: !affects! Plant immunity 
-Pathogen: !perceived by! Gene 
-Signaling pathway: !activated by! Pathogen 
-Immune response: !triggered by! Signaling pathway 
-Network: !regulated by! Environmental clues 
-Stress: !combined with! Stress

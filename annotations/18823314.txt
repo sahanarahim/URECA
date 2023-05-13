@@ -1,8 +1,0 @@
-The phytotoxin coronatine (COR), which is produced by Pseudomonas syringae pv. tomato DC3000 (DC3000), has multiple roles in virulence that lead to chlorosis and a reduction in chlorophyll content. However, the physiological significance of COR-induced chlorosis in disease development is still largely unknown. Global expression analysis demonstrated that DC3000 and COR, but not the COR-defective mutant DB29, caused reduced expression of photosynthesis-related genes and result in a 1.5- to 2-fold reduction in maximum quantum efficiency of photosystem II (F(V)/F(M)). Tomato (Solanum lycopersicum) seedlings inoculated with DC3000 and incubated in a long daily photoperiod showed more necrosis than inoculated seedlings incubated in either dark or a short daily photoperiod. The accumulation of reactive oxygen species (ROS) was detected in cotyledons inoculated with either purified COR or DC3000 but not in tissues inoculated with DB29. Interestingly, COR-induced ROS accumulated only in light and was inhibited by 3-(3,4-dichlorophenyl)-1,1-dimethylurea and diphenylene iodonium, which function to inhibit electron transport from PSII. Furthermore, COR and DC3000 suppressed expression of the gene encoding the thylakoid Cu/Zn superoxide dismutase but not the cytosolic form of the same enzyme. In conclusion, these results demonstrate a role for COR-induced effects on photosynthetic machinery and ROS in modulating necrotic cell death during bacterial speck disease of tomato.
-
-DC3000: !produces! COR
-COR: !induces! reduced expression of photosynthesis-related genes
-DC3000: !induces! necrosis
-COR: !induces! ROS accumulation
-ROS: !inhibited by! 3-(3,4-dichlorophenyl)-1,1-dimethylurea and diphenylene iodonium
-COR: !suppresses! thylakoid Cu/Zn superoxide dismutase

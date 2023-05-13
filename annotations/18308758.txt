@@ -1,9 +1,0 @@
-A unicellular charophyte alga, Closterium peracerosum-strigosum-littorale complex (C. psl. complex), has been studied in order to obtain basic information regarding sexual reproduction in plants. Systems for gene introduction and transient expression were developed for endogenous genes using phleomycin resistance (ble) and Chlamydomonas green fluorescent protein (cgfp) genes as selection markers. These genes have codon usage similar to that of genes in the C. psl. complex. To drive these genes strongly into C. psl. complex cells, two native promoters of the C. psl. complex genome-CpHSP70 and CpCAB1-were linked to a ble::cgfp fusion gene and introduced into the cells by particle bombardment. Following 2 d of incubation, we found 500 cells expressing GFP under the control of the CpHSP70 promoter, which were identified following heat shock treatment at 42 degrees C, and 100 cells expressing GFP under the control of the CpCAB1 promoter, which were observed in lit conditions. In contrast, the GFP signal was only detected in two cells when ble::cgfp under control of the cauliflower mosaic virus 35S promoter was introduced. The ble::cgfp fusion protein was detected in the nucleus, whereas the single cgfp protein was detected in the cytoplasm. Our results indicate that the newly isolated native promoters of CpHSP70 and CpCAB1 are useful tools for inducing exogenous gene expression under heat shock and lit conditions, respectively. In addition, this strategy can be used for transient assays, such as the intracellular localization of unknown gene products in the C. psl. complex.
-
-CpHSP70: !promotes! ble::cgfp expression
-CpCAB1: !promotes! ble::cgfp expression
-ble::cgfp: !localizes to! nucleus
-cgfp: !localizes to! cytoplasm
-CpHSP70: !induces! GFP expression under heat shock
-CpCAB1: !induces! GFP expression under lit conditions
-35S promoter: !induces! GFP expression in two cells

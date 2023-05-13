@@ -1,8 +1,0 @@
-['21282611', 'Flowering at the right time is crucial to ensure successful plant reproduction  and seed yield and is dependent on both environmental and endogenous parameters.  Among the different pathways that impinge on flowering, the autonomous pathway  promotes floral transition independently of day length through the repression of  the central flowering repressor flowering locus C (FLC). FLC blocks floral  transition by repressing flowering time integrators such as flowering locus T  (FT). MSI4/FVE is a key regulator of the autonomous pathway that reduces FLC  expression. Here we report that the MSI4 protein is a DDB1 and CUL4-associated  factor that represses FLC expression through its association with a CLF-Polycomb  Repressive Complex 2 (PRC2) in Arabidopsis. Thus, the lack of MSI4 or decreased  CUL4 activity reduces H3K27 trimethylation on FLC, but also on its downstream  target FT, resulting in increased expression of both genes. Moreover, CUL4  interacts with FLC chromatin in an MSI4-dependant manner, and the interaction  between MSI4 and CUL4-DDB1 is necessary for the epigenetic repression of FLC.  Overall our work provides evidence for a unique functional interaction between  the cullin-RING ubiquitin ligase (CUL4-DDB1(MSI4)) and a CLF-PRC2 complex in the  regulation of flowering timing in Arabidopsis.', '2011 Feb 22', 'Proc Natl Acad Sci U S A', '10.1073/pnas.1018242108', 'Genschik']
-
-FLC: !represses! FT
-MSI4: !reduces! FLC expression
-MSI4: !interacts with! CUL4-DDB1
-CUL4-DDB1: !associates with! PRC2
-CUL4-DDB1: !interacts with! FLC chromatin
-MSI4: !necessary for! epigenetic repression of FLC

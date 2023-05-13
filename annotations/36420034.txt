@@ -1,6 +1,0 @@
-It is well known that crop classification is essential for genetic resources and phenotype development. Compared with traditional methods, convolutional neural networks can be utilized to identify features automatically. Nevertheless, crops and scenarios are quite complex, which makes it challenging to develop a universal classification method. Furthermore, manual design demands professional knowledge and is time-consuming and labor-intensive. In contrast, auto-search can create network architectures when faced with new species. Using rapeseed images for experiments, we collected eight types to build datasets (rapeseed dataset (RSDS)). In addition, we proposed a novel target-dependent search method based on VGGNet (target-dependent neural architecture search (TD-NAS)). The result shows that test accuracy does not differ significantly between small and large samples. Therefore, the influence of the dataset size on generalization is limited. Moreover, we used two additional open datasets (Pl@ntNet and ICL-Leaf) to test and prove the effectiveness of our method due to three notable features: (a) small sample sizes, (b) stable generalization, and (c) free of unpromising detections.
-
-TD-NAS: !utilizes! VGGNet 
-RSDS: !builds! datasets 
-Pl@ntNet: !tests! TD-NAS 
-ICL-Leaf: !tests! TD-NAS

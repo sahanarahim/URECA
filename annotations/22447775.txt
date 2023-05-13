@@ -1,7 +1,0 @@
-Because proteins are the major functional components of cells, knowledge of their cellular localization is crucial to gaining an understanding of the biology of multicellular organisms. We have generated a protein expression map of the Arabidopsis root providing the identity and cell type-specific localization of nearly 2,000 proteins. Grouping proteins into functional categories revealed unique cellular functions and identified cell type-specific biomarkers. Cellular colocalization provided support for numerous protein-protein interactions. With a binary comparison, we found that RNA and protein expression profiles are weakly correlated. We then performed peak integration at cell type-specific resolution and found an improved correlation with transcriptome data using continuous values. We performed GeLC-MS/MS (in-gel tryptic digestion followed by liquid chromatography-tandem mass spectrometry) proteomic experiments on mutants with ectopic and no root hairs, providing complementary proteomic data. Finally, among our root hair-specific proteins we identified two unique regulators of root hair development.
-
-Protein: !localizes to! Cell type
-Protein: !interacts with! Protein
-RNA: !correlates with! Protein expression
-Mutant: !provides! Proteomic data
-Regulator: !regulates! Root hair development

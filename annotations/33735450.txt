@@ -1,9 +1,0 @@
-The seasonally synchronized annual growth cycle that is regulated mainly by photoperiod and temperature cues is a crucial adaptive strategy for perennial plants in boreal and temperate ecosystems. Phytochrome B (phyB), as a light and thermal sensor, has been extensively studied in Arabidopsis. However, the specific mechanisms for how the phytochrome photoreceptors control the phenology in tree species remain poorly understood. We characterized the functions of PHYB genes and their downstream PHYTOCHROME INTERACTING FACTOR (PIF) targets in the regulation of shade avoidance and seasonal growth in hybrid aspen trees. We show that while phyB1 and phyB2, as phyB in other plants, act as suppressors of shoot elongation during vegetative growth, they act as promoters of tree seasonal growth. Furthermore, while the Populus homologs of both PIF4 and PIF8 are involved in the shade avoidance syndrome (SAS), only PIF8 plays a major role as a suppressor of seasonal growth. Our data suggest that the PHYB-PIF8 regulon controls seasonal growth through the regulation of FT and CENL1 expression while a genome-wide transcriptome analysis suggests how, in Populus trees, phyB coordinately regulates SAS responses and seasonal growth cessation.
-
-phyB: !regulates! Phenology 
-phyB1/2: !suppress! Shoot elongation 
-phyB1/2: !promote! Seasonal growth 
-PIF4/8: !involved in! Shade avoidance syndrome 
-PIF8: !suppresses! Seasonal growth 
-PHYB-PIF8: !controls! Seasonal growth 
-FT/CENL1: !regulated by! PHYB-PIF8

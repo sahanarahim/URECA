@@ -1,7 +1,0 @@
-Gibberellin (GA) is a major hormone for plant growth and development. GA response is derived from the degradation of DELLA repressor proteins after GA-dependent complex formation of the GID1 GA receptor with DELLA. Genistein is a known tyrosine (Tyr) kinase inhibitor and inhibits DELLA degradation. However, the biological role of Tyr phosphorylation on the GA response remains unclear. Here, we demonstrate that GARU (GA receptor RING E3 ubiquitin ligase) mediates ubiquitin-dependent degradation of GID1, and that the TAGK2 plant Tyr-kinase is a target of genistein and inhibits GARU-GID1A interactions by phosphorylation of GARU at Tyr321. Genistein induces degradation of GID1 and accumulation of DELLA. Conversely, Arabidopsis garu mutant and TAGK2-overexpressing plants accelerate GID1 stabilization and DELLA degradation. Under salt stress, GARU suppresses seed germination. We propose that GA response is negatively regulated by GARU-dependent GID1 ubiquitination and positively by Tyr phosphorylation of GARU by TAGK2, and genistein inhibits GA signaling by TAGK2 inhibition.Plants respond to gibberellins via GID1-dependent degradation of DELLA proteins. Here, Nemoto et al. show that the gibberellin response is positively regulated by tyrosine phosphorylation of GARU, an E3 ubiquitin ligase that mediates degradation of GID1.
-
-GID1: !degraded by! GARU 
-GARU: !phosphorylated by! TAGK2 
-TAGK2: !inhibited by! Genistein 
-Genistein: !induces! GID1 degradation 
-GARU: !suppresses! seed germination

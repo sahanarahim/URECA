@@ -1,7 +1,0 @@
-Silencing of introduced transgenes constitutes a major bottleneck in the production of transgenic crops. Commonly, these transgenes contain no introns, a feature shared with transposons, which are also prime targets for gene silencing. Given that introns are very common in endogenous genes but are often lacking in transgenes and transposons, we hypothesised that introns may suppress gene silencing. To investigate this, we conducted a genome-wide analysis of small RNA densities in exons from intronless versus intron-containing genes in Arabidopsis thaliana. We found that small RNA libraries are strongly enriched for exon sequences derived from intronless genes. Small RNA densities in exons of intronless genes were comparable to exons of transposable elements. To test these findings in vivo we used a transgenic reporter system to determine whether introns are able to suppress gene silencing in Arabidopsis. Introducing an intron into a transgene reduced silencing by more than fourfold. Compared with intronless transcripts, the spliced transcripts were less effective substrates for RNA-dependent RNA polymerase 6-mediated gene silencing. This intron suppression of transgene silencing requires efficient intron splicing and is dependent on ABH1, the Arabidopsis orthologue of human cap-binding protein 80.
-
-intron: !suppresses! gene silencing
-intron: !requires! efficient intron splicing
-intron: !dependent on! ABH1
-transgene: !reduced by! introducing an intron
-transgene: !less effective substrate for! RNA-dependent RNA polymerase 6-mediated gene silencing

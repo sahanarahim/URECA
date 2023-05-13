@@ -1,8 +1,0 @@
-Using a novel program, SignalSleuth, and a database containing authenticated polyadenylation [poly(A)] sites, we analyzed the composition of mRNA poly(A) signals in Arabidopsis (Arabidopsis thaliana), and reevaluated previously described cis-elements within the 3'-untranslated (UTR) regions, including near upstream elements and far upstream elements. As predicted, there are absences of high-consensus signal patterns. The AAUAAA signal topped the near upstream elements patterns and was found within the predicted location to only approximately 10% of 3'-UTRs. More importantly, we identified a new set, named cleavage elements, of poly(A) signals flanking both sides of the cleavage site. These cis-elements were not previously revealed by conventional mutagenesis and are contemplated as a cluster of signals for cleavage site recognition. Moreover, a single-nucleotide profile scan on the 3'-UTR regions unveiled a distinct arrangement of alternate stretches of U and A nucleotides, which led to a prediction of the formation of secondary structures. Using an RNA secondary structure prediction program, mFold, we identified three main types of secondary structures on the sequences analyzed. Surprisingly, these observed secondary structures were all interrupted in previously constructed mutations in these regions. These results will enable us to revise the current model of plant poly(A) signals and to develop tools to predict 3'-ends for gene annotation.
-
-Gene: !affects! mRNA poly(A) signals 
-Gene: !localizes to! 3'-untranslated (UTR) regions 
-Gene: !interacts with! AAUAAA signal 
-Gene: !enhances! Cleavage elements 
-Gene: !represses! High-consensus signal patterns 
-Gene: !synthesizes! Alternate stretches of U and A nucleotides

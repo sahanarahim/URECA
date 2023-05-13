@@ -1,7 +1,0 @@
-Many plant genomes display high levels of repetitive sequences. The assembly of these complex genomes using short high-throughput sequence reads is still a challenging task. Underestimation or disregard of repeat complexity in these datasets can easily misguide downstream analysis. Detection of repetitive regions by k-mer counting methods has proved to be reliable. Easy-to-use applications utilizing k-mer counting are in high demand, especially in the domain of plants. We present Kmasker plants, a tool that uses k-mer count information as an assistant throughout the analytical workflow of genome data that is provided as a command-line and web-based solution. Beside its core competence to screen and mask repetitive sequences, we have integrated features that enable comparative studies between different cultivars or closely related species and methods that estimate target specificity of guide RNAs for application of site-directed mutagenesis using Cas9 endonuclease. In addition, we have set up a web service for Kmasker plants that maintains pre-computed indices for 10 of the economically most important cultivated plants. Source code for Kmasker plants has been made publically available at https://github.com/tschmutzer/kmasker. The web service is accessible at https://kmasker.ipk-gatersleben.de.
-
-k-mer counting: !detects! repetitive regions 
-Kmasker plants: !uses! k-mer count information 
-Kmasker plants: !enables! comparative studies 
-Kmasker plants: !estimates! target specificity of guide RNAs 
-Kmasker plants: !maintains! pre-computed indices

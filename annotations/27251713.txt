@@ -1,8 +1,0 @@
-The oxygen-evolving photosystem II (PSII) complex located in chloroplasts and cyanobacteria is sensitive to light-induced damage(1) that unless repaired causes reduction in photosynthetic capacity and growth. Although a potential target for crop improvement, the mechanism of PSII repair remains unclear. The D1 reaction center protein is the main target for photodamage(2), with repair involving the selective degradation of the damaged protein by FtsH protease(3). How a single damaged PSII subunit is recognized for replacement is unknown. Here, we have tested the dark stability of PSII subunits in strains of the cyanobacterium Synechocystis PCC 6803 blocked at specific stages of assembly. We have found that when D1, which is normally shielded by the CP43 subunit, becomes exposed in a photochemically active PSII complex lacking CP43, it is selectively degraded by FtsH even in the dark. Removal of the CP47 subunit, which increases accessibility of FtsH to the D2 subunit, induced dark degradation of D2 at a faster rate than that of D1. In contrast, CP47 and CP43 are resistant to degradation in the dark. Our results indicate that protease accessibility induced by PSII disassembly is an important determinant in the selection of the D1 and D2 subunits to be degraded by FtsH.
-
-D1: !shielded by! CP43
-CP43: !shields! D1
-CP47: !increases accessibility of! FtsH
-FtsH: !selectively degrades! D1
-FtsH: !degrades faster! D2
-CP47: !resistant to degradation! Dark

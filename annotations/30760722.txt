@@ -1,9 +1,0 @@
-Understanding genomic functions requires site-specific manipulation of loci via efficient protein effector targeting systems. However, few approaches for targeted manipulation of the epigenome are available in plants. Here, we adapt the dCas9-SunTag system to engineer targeted gene activation and DNA methylation in Arabidopsis. We demonstrate that a dCas9-SunTag system utilizing the transcriptional activator VP64 drives robust and specific activation of several loci, including protein coding genes and transposable elements, in diverse chromatin contexts. In addition, we present a CRISPR-based methylation targeting system for plants, utilizing a SunTag system with the catalytic domain of the Nicotiana tabacum DRM methyltransferase, which efficiently targets DNA methylation to specific loci, including the FWA promoter, triggering a developmental phenotype, and the SUPERMAN promoter. These SunTag systems represent valuable tools for the site-specific manipulation of plant epigenomes.
-
-dCas9-SunTag: !activates! genes 
-dCas9-SunTag: !methylates! DNA 
-CRISPR-based methylation targeting system: !methylates! DNA 
-VP64: !activates! genes 
-DRM methyltransferase: !methylates! DNA 
-FWA promoter: !triggers! developmental phenotype 
-SUPERMAN promoter: !triggers! developmental phenotype

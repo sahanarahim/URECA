@@ -1,8 +1,0 @@
-['14504384', 'RAR1 and its interacting partner SGT1 play a central role in plant disease  resistance triggered by a number of resistance (R) proteins. We identified  cytosolic heat shock protein 90 (HSP90), a molecular chaperone, as another RAR1  interacting protein by yeast two-hybrid screening. RAR1 interacts with the  N-terminal half of HSP90 that contains the ATPase domain. HSP90 also specifically  interacts with SGT1 that contains a tetratricopeptide repeat motif and a domain  with similarity to the cochaperone p23. In Arabidopsis, the HSP90 inhibitor  geldanamycin reduces the hypersensitive response and abolishes resistance  triggered by the R protein RPS2 against Pseudomonas syringae pv. tomato DC3000  (avrRpt2). One of four Arabidopsis cytosolic HSP90 isoforms, AtHSP90.1 is  required for full RPS2 resistance and is rapidly induced upon pathogen challenge.  We propose that RAR1 and SGT1 function closely with HSP90 in chaperoning roles  that are essential for disease resistance.', '2003 Sep 30', 'Proc Natl Acad Sci U S A', '10.1073/pnas.2033934100', 'Shirasu']
-
-RAR1: !interacts with! SGT1 
-SGT1: !interacts with! HSP90 
-HSP90: !interacts with! RAR1 
-RAR1: !interacts with! HSP90 
-HSP90: !inhibits! Hypersensitive Response 
-AtHSP90.1: !required for! RPS2 Resistance

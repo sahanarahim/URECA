@@ -1,7 +1,0 @@
-Image-based phenotype data with high temporal resolution offers advantages over end-point measurements in plant quantitative genetics experiments, because growth dynamics can be assessed and analysed for genotype-phenotype association. Recently, network-based camera systems have been deployed as customizable, low-cost phenotyping solutions. Here, we implemented a large, automated image-capture system based on distributed computing using 180 networked Raspberry Pi units that could simultaneously monitor 1,800 white clover (<i>Trifolium repens</i>) plants. The camera system proved stable with an average uptime of 96% across all 180 cameras. For analysis of the captured images, we developed the Greenotyper image analysis pipeline. It detected the location of the plants with a bounding box accuracy of 97.98%, and the U-net-based plant segmentation had an intersection over union accuracy of 0.84 and a pixel accuracy of 0.95. We used Greenotyper to analyze a total of 355,027 images, which required 24-36 h. Automated phenotyping using a large number of static cameras and plants thus proved a cost-effective alternative to systems relying on conveyor belts or mobile cameras.
-
-Raspberry Pi: !captures! Images
-Networked Raspberry Pi: !monitors! 1,800 white clover plants
-Greenotyper: !detects! Location of plants
-Greenotyper: !segments! Plant
-Large number of static cameras: !alternative to! Systems relying on conveyor belts or mobile cameras

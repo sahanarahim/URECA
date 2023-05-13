@@ -1,7 +1,0 @@
-['15377760', 'Flowering in Arabidopsis thaliana is controlled by multiple pathways, including  the photoperiod pathway and the FLOWERING LOCUS C (FLC)-dependent pathway. Here,  we report that a pair of related jumonji-class transcription factors, EARLY  FLOWERING 6 (ELF6) and RELATIVE OF EARLY FLOWERING 6 (REF6), play divergent roles  in the regulation of Arabidopsis flowering. ELF6 acts as a repressor in the  photoperiod pathway, whereas REF6, which has the highest similarity to ELF6, is  an FLC repressor. Ectopic expression studies and expression pattern analyses show  that ELF6 and REF6 have different cellular roles and are also regulated  differentially despite their sequence similarities. Repression of FLC expression  by REF6 accompanies histone modifications in FLC chromatin, indicating that the  transcriptional regulatory activity of this class of proteins includes chromatin  remodeling. This report demonstrates the in vivo functions of this class of  proteins in higher eukaryotes.', '2004 Oct', 'Plant Cell', '10.1105/tpc.104.025353', 'Noh']
-
-ELF6: !represses! photoperiod pathway
-REF6: !represses! FLC expression
-ELF6: !has different cellular roles than! REF6
-ELF6: !regulated differently than! REF6
-REF6: !accompanies histone modifications in! FLC chromatin

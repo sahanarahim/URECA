@@ -1,7 +1,0 @@
-Homeostasis in living cells refers to the steady state of internal, physical, and chemical conditions. It is sustained by self-regulation of the dynamic cellular system. To gain insight into the homeostatic mechanisms that maintain cytosolic nutrient concentrations in plant cells within a homeostatic range, we performed computational cell biology experiments. We mathematically modeled membrane transporter systems and simulated their dynamics. Detailed analyses of 'what-if' scenarios demonstrated that a single transporter type for a nutrient, irrespective of whether it is a channel or a cotransporter, is not sufficient to calibrate a desired cytosolic concentration. A cell cannot flexibly react to different external conditions. Rather, at least two different transporter types for the same nutrient, which are energized differently, are required. The gain of flexibility in adjusting a cytosolic concentration was accompanied by the establishment of energy-consuming cycles at the membrane, suggesting that these putatively "futile" cycles are not as futile as they appear. Accounting for the complex interplay of transporter networks at the cellular level may help design strategies for increasing nutrient use efficiency of crop plants.
-
-transporter type: !maintains! Homeostasis
-transporter type: !requires! two types
-transporter type: !creates! energy-consuming cycles
-transporter network: !flexibly reacts to! external conditions
-transporter network: !adjusts! cytosolic concentration

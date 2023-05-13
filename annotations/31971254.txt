@@ -1,7 +1,0 @@
-Plant survival depends on vascular tissues, which originate in a self-organizing manner as strands of cells co-directionally transporting the plant hormone auxin. The latter phenomenon (also known as auxin canalization) is classically hypothesized to be regulated by auxin itself via the effect of this hormone on the polarity of its own intercellular transport. Correlative observations supported this concept, but molecular insights remain limited. In the current study, we established an experimental system based on the model Arabidopsis thaliana, which exhibits auxin transport channels and formation of vasculature strands in response to local auxin application. Our methodology permits the genetic analysis of auxin canalization under controllable experimental conditions. By utilizing this opportunity, we confirmed the dependence of auxin canalization on a PIN-dependent auxin transport and nuclear, TIR1/AFB-mediated auxin signaling. We also show that leaf venation and auxin-mediated PIN repolarization in the root require TIR1/AFB signaling. Further studies based on this experimental system are likely to yield better understanding of the mechanisms underlying auxin transport polarization in other developmental contexts.
-
-auxin: !regulates! auxin transport
-auxin: !mediates! PIN repolarization
-PIN: !dependent on! auxin transport
-TIR1/AFB: !mediates! auxin signaling
-TIR1/AFB: !required for! leaf venation

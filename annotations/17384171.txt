@@ -1,9 +1,0 @@
-['17384171', 'Plant innate immune response to pathogen infection includes an elegant signaling  pathway leading to reactive oxygen species generation and resulting  hypersensitive response (HR); localized programmed cell death in tissue  surrounding the initial infection site limits pathogen spread. A veritable  symphony of cytosolic signaling molecules (including Ca(2+), nitric oxide [NO],  cyclic nucleotides, and calmodulin) have been suggested as early components of HR  signaling. However, specific interactions among these cytosolic secondary  messengers and their roles in the signal cascade are still unclear. Here, we  report some aspects of how plants translate perception of a pathogen into a  signal cascade leading to an innate immune response. We show that Arabidopsis  thaliana CYCLIC NUCLEOTIDE GATED CHANNEL2 (CNGC2/DND1) conducts Ca(2+) into cells  and provide a model linking this Ca(2+) current to downstream NO production. NO  is a critical signaling molecule invoking plant innate immune response to  pathogens. Plants without functional CNGC2 lack this cell membrane Ca(2+) current  and do not display HR; providing the mutant with NO complements this phenotype.  The bacterial pathogen-associated molecular pattern elicitor lipopolysaccharide  activates a CNGC Ca(2+) current, which may be linked to NO generation due to  buildup of cytosolic Ca(2+)/calmodulin.', '2007 Mar', 'Plant Cell', '10.1105/tpc.106.045096', 'Berkowitz']
-
-CNGC2: !conducts! Ca(2+) 
-Ca(2+): !builds up! cytosolic Ca(2+)/calmodulin 
-LPS: !activates! CNGC Ca(2+) current 
-CNGC Ca(2+): !linked to! NO generation 
-NO: !invokes! plant innate immune response 
-CNGC2: !lacks! cell membrane Ca(2+) current 
-NO: !complements! phenotype of mutant without functional CNGC2

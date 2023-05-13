@@ -1,8 +1,0 @@
-Cryptochromes are widespread in higher plants but their physiological roles as blue-light photoreceptors have been examined in relatively few species. Screening in a phyA null mutant background has identified several blue-light response mutants in pea (Pisum sativum), including one that carries a substitution of a highly conserved glycine residue in the N-terminal photolyase-homologous domain of the pea CRY1 gene. Analyses of cry1, phyA, and phyB mutants show that all three photoreceptors contribute to seedling photomorphogenesis under high-irradiance blue light, whereas phyA is the main photoreceptor active under low irradiances. Triple phyA phyB cry1 mutants grown under high-irradiance blue light are indistinguishable from dark-grown wild-type plants in length and leaf expansion but show a small residual response to higher-irradiance white light. Monogenic cry1 mutants have little discernable phenotype at the seedling stage, but later in development are more elongated than wild-type plants. In addition, the loss of cry1 moderates the short-internode phenotype of older phyA mutants, suggesting an antagonism between phyA and cry1 under some conditions. Pea cry1 has a small inhibitory effect on flowering under long and short days. However, the phyA cry1 double mutant retains a clear promotion of flowering in response to blue-light photoperiod extensions, indicating a role for one or more additional blue-light photoreceptors in the control of flowering in pea.
-
-phyA: !affects! Seedling photomorphogenesis
-phyB: !affects! Seedling photomorphogenesis
-cry1: !affects! Seedling photomorphogenesis
-phyA: !promotes! Flowering
-cry1: !inhibits! Flowering
-phyA: !antagonizes! cry1

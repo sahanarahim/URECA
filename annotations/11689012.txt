@@ -1,6 +1,0 @@
-['11689012', 'We are interested in identifying potential protein interactors of MADS domain  transcription factors during Arabidopsis thaliana flower development. We based  our biochemical search on a conserved motif in the MADS domain that includes  putative phosphatase and phosphorylation sites that may mediate protein  interactions. An affinity column with this motif and a few surrounding  hypervariable amino acids derived from the AGAMOUS sequence was prepared and used  to isolate potential interactors from floral crude extracts. Only two proteins  were specifically bound to the affinity column. The first corresponds to a carpel  specific storage protein, VSP1, that presents acid phosphatase activity, and the  second is a novel leucine-rich repeat protein that we have named FLOR1.  Coimmunoprecipitation, two-hybrid yeast, and affinity column assays show that the  FLOR1-VSP1 complex interacts with AGAMOUS and that this transcription factor  directly interacts with FLOR1. This is the first assay to show an interaction  between plant MADS domain factors and non-MADS proteins.', '2001 Nov 9', 'Biochem Biophys Res Commun', '10.1006/bbrc.2001.5875', 'Alvarez-Buylla']
-
-MADS domain: !interacts with! FLOR1
-MADS domain: !interacts with! VSP1
-FLOR1: !interacts with! VSP1
-AGAMOUS: !interacts with! FLOR1

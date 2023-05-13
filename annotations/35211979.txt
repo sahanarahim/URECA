@@ -1,9 +1,0 @@
-An essential step in the analysis of single-cell RNA sequencing data is to classify cells into specific cell types using marker genes. In this study, we have developed a machine learning pipeline called single-cell predictive marker (SPmarker) to identify novel cell-type marker genes in the Arabidopsis root. Unlike traditional approaches, our method uses interpretable machine learning models to select marker genes. We have demonstrated that our method can: assign cell types based on cells that were labelled using published methods; project cell types identified by trajectory analysis from one data set to other data sets; and assign cell types based on internal GFP markers. Using SPmarker, we have identified hundreds of new marker genes that were not identified before. As compared to known marker genes, the new marker genes have more orthologous genes identifiable in the corresponding rice single-cell clusters. The new root hair marker genes also include 172 genes with orthologs expressed in root hair cells in five non-Arabidopsis species, which expands the number of marker genes for this cell type by 35-154%. Our results represent a new approach to identifying cell-type marker genes from scRNA-seq data and pave the way for cross-species mapping of scRNA-seq data in plants.
-
-SPmarker: !identifies! novel cell-type marker genes
-SPmarker: !assigns! cell types
-SPmarker: !projects! cell types
-SPmarker: !assigns! cell types based on internal GFP markers
-new marker genes: !have more orthologous genes! identifiable in corresponding rice single-cell clusters
-new root hair marker genes: !include! 172 genes with orthologs expressed in root hair cells in five non-Arabidopsis species
-SPmarker: !paves the way for! cross-species mapping of scRNA-seq data in plants

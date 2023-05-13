@@ -1,9 +1,0 @@
-The study of plant-environment interactions is a multidisciplinary research field. With the emergence of quantitative large-scale and high-throughput techniques, amount and dimensionality of experimental data have strongly increased. Appropriate strategies for data storage, management, and evaluation are needed to make efficient use of experimental findings. Computational approaches of data mining are essential for deriving statistical trends and signatures contained in data matrices. Although, current biology is challenged by high data dimensionality in general, this is particularly true for plant biology. Plants as sessile organisms have to cope with environmental fluctuations. This typically results in strong dynamics of metabolite and protein concentrations which are often challenging to quantify. Summarizing experimental output results in complex data arrays, which need computational statistics and numerical methods for building quantitative models. Experimental findings need to be combined by computational models to gain a mechanistic understanding of plant metabolism. For this, bioinformatics and mathematics need to be combined with experimental setups in physiology, biochemistry, and molecular biology. This review presents and discusses concepts at the interface of experiment and computation, which are likely to shape current and future plant biology. Finally, this interface is discussed with regard to its capabilities and limitations to develop a quantitative model of plant-environment interactions.
-
-Gene: !affects! Process
-Process: !needs! Computational approaches
-Experiment: !combined with! Computation
-Bioinformatics: !combined with! Mathematics
-Experimental Setup: !combined with! Molecular Biology
-Data: !need! Computational Statistics
-Quantitative Model: !develop! Plant-Environment Interactions

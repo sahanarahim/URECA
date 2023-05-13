@@ -1,8 +1,0 @@
-The Gene Identification via Phenotype Sequencing (GIPS) software considers a range of experimental and analysis choices in sequencing-based forward genetics studies within an integrated probabilistic framework, which enables direct gene cloning from the sequencing of several unrelated mutants of the same phenotype without the need to create segregation populations. GIPS estimates four measurements to help optimize an analysis procedure as follows: (1) the chance of reporting the true phenotype-associated gene; (2) the expected number of random genes that may be reported; (3) the significance of each candidate gene's association with the phenotype; and (4) the significance of violating the Mendelian assumption if no gene is reported or if all candidate genes have failed validation. The usage of GIPS is illustrated with the identification of a rice (Oryza sativa) gene that epistatically suppresses the phenotype of the phosphate2 mutant from sequencing three unrelated ethyl methanesulfonate mutants. GIPS is available at https://github.com/synergy-zju/gips/wiki with the user manual and an analysis example.
-
-Gene: !affects! Phenotype 
-GIPS: !estimates! Chance of reporting true gene 
-GIPS: !estimates! Expected number of random genes 
-GIPS: !estimates! Significance of candidate gene's association 
-GIPS: !estimates! Significance of violating Mendelian assumption 
-Rice Gene: !epistatically suppresses! Phosphate2 mutant phenotype

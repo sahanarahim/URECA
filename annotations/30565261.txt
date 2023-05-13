@@ -1,8 +1,0 @@
-To obtain insights into the dynamics of nutrient exchange in arbuscular mycorrhizal (AM) symbiosis, we modelled mathematically the two-membrane system at the plant-fungus interface and simulated its dynamics. In computational cell biology experiments, the full range of nutrient transport pathways was tested for their ability to exchange phosphorus (P)/carbon (C)/nitrogen (N) sources. As a result, we obtained a thermodynamically justified, independent and comprehensive model of the dynamics of the nutrient exchange at the plant-fungus contact zone. The predicted optimal transporter network coincides with the transporter set independently confirmed in wet-laboratory experiments previously, indicating that all essential transporter types have been discovered. The thermodynamic analyses suggest that phosphate is released from the fungus via proton-coupled phosphate transporters rather than anion channels. Optimal transport pathways, such as cation channels or proton-coupled symporters, shuttle nutrients together with a positive charge across the membranes. Only in exceptional cases does electroneutral transport via diffusion facilitators appear to be plausible. The thermodynamic models presented here can be generalized and adapted to other forms of mycorrhiza and open the door for future studies combining wet-laboratory experiments with computational simulations to obtain a deeper understanding of the investigated phenomena.
-
-Gene: !affects! Nutrient exchange 
-Gene: !localizes to! Plant-fungus interface 
-Gene: !interacts with! Proton-coupled phosphate transporters 
-Gene: !enhances! Cation channels 
-Gene: !represses! Anion channels 
-Gene: !synthesizes! Diffusion facilitators

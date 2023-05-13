@@ -1,8 +1,0 @@
-Photosystem II (PSII) is a multisubunit membrane protein complex that is assembled in a sequence of steps. However, the molecular mechanisms responsible for the assembly of the individual subunits into functional PSII complexes are still largely unknown. Here, we report the identification of a chloroplast protein, Low PSII Accumulation3 (LPA3), which is required for the assembly of the CP43 subunit in PSII complexes in Arabidopsis (Arabidopsis thaliana). LPA3 interacts with LPA2, a previously identified PSII CP43 assembly factor, and a double mutation of LPA2 and LPA3 is more deleterious for assembly than either single mutation, resulting in a seedling-lethal phenotype. Our results indicate that LPA3 and LPA2 have overlapping functions in assisting CP43 assembly and that cooperation between LPA2 and LPA3 is essential for PSII assembly. In addition, we provide evidence that LPA2 and LPA3 interact with Albino3 (Alb3), which is essential for thylakoid protein biogenesis. Thus, the function of Alb3 in some PSII assembly processes is probably mediated through interactions with LPA2 and LPA3.
-
-LPA2: !interacts with! LPA3
-LPA2: !interacts with! Alb3
-LPA3: !interacts with! LPA2
-LPA3: !interacts with! Alb3
-Alb3: !interacts with! LPA2
-Alb3: !interacts with! LPA3

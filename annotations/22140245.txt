@@ -1,8 +1,0 @@
-Steady-state (13)C metabolic flux analysis (MFA) is currently the experimental method of choice for generating flux maps of the compartmented network of primary metabolism in heterotrophic and mixotrophic plant tissues. While statistically robust protocols for the application of steady-state MFA to plant tissues have been developed by several research groups, the implementation of the method is still far from routine. The effort required to produce a flux map is more than justified by the information that it contains about the metabolic phenotype of the system, but it remains the case that steady-state MFA is both analytically and computationally demanding. This article provides an overview of principles that underpin the implementation of steady-state MFA, focusing on the definition of the metabolic network responsible for redistribution of the label, experimental considerations relating to data collection, the modelling process that allows a set of metabolic fluxes to be deduced from the labelling data, and the interpretation of flux maps. The article draws on published studies of Arabidopsis cell cultures and other systems, including developing oilseeds, with the aim of providing practical guidance and strategies for handling the issues that arise when applying steady-state MFA to the complex metabolic networks encountered in plants.
-
-MFA: !generates! flux maps
-MFA: !demands! analytical/computational effort
-Metabolic network: !redistributes! label
-Data collection: !considers! experimental considerations
-Modelling process: !deduces! metabolic fluxes
-Flux maps: !provides! information about metabolic phenotype

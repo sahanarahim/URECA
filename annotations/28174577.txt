@@ -1,7 +1,0 @@
-['28174577', "The Stress Associated RNA-binding protein 1 (SRP1) repressed by ABA, salt and  cold encodes a C2C2-type zinc finger protein in Arabidopsis. The knock-out  mutation in srp1 reduced the sensitivity of seed to ABA and salt stress during  germination and post-germinative growth stages. In contrast, SRP1-overexpressing  seedlings were more sensitive to ABA and salt compared to wild type plants. In  the presence of ABA, the transcript levels of ABA signaling and  germination-related genes including ABI3. ABI5. EM1 and EM6 were less induced in  srp1 compared to WT. Interestingly, expression of ABI2 encoding a protein  phosphatase 2C protein were significantly up-regulated in srp1 mutants. By in  vitro analysis, SRP1 was identified as a novel RNA-binding protein directly  binding to 3'UTR of ABI2 mRNA. Moreover, transient expression assay proved the  function of SRP1 in reducing the activity of luciferase whose coding sequence was  fused with the ABI2 3'UTR. Together, it is suggested that SRP1 is involved in the  ABA signaling by post-transcriptionally repressing ABI2 expression in  Arabidopsis.", '2017', 'Front Plant Sci', '10.3389/fpls.2017.00024', 'Huang']
-
-SRP1: !represses! ABA sensitivity
-ABA: !induces! ABI3, ABI5, EM1 and EM6
-SRP1: !up-regulates! ABI2
-SRP1: !binds to! 3'UTR of ABI2 mRNA
-SRP1: !reduces activity of! luciferase fused with ABI2 3'UTR

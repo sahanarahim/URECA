@@ -1,9 +1,0 @@
-['21330376', 'The phytochrome family of sensory photoreceptors interacts with phytochrome  interacting factors (PIFs), repressors of photomorphogenesis, in response to  environmental light signals and induces rapid phosphorylation and degradation of  PIFs to promote photomorphogenesis. However, the kinase that phosphorylates PIFs  is still unknown. Here we show that CK2 directly phosphorylates PIF1 at multiple  sites. alpha1 and alpha2 subunits individually phosphorylated PIF1 weakly in vitro.  However, each of four beta subunits strongly stimulated phosphorylation of PIF1 by  alpha1 or alpha2. Mapping of the phosphorylation sites identified seven Ser/Thr residues  scattered throughout PIF1. Ser/Thr to Ala scanning mutations at all seven sites  eliminated CK2-mediated phosphorylation of PIF1 in vitro. Moreover, the rate of  degradation of the Ser/Thr to Ala mutant PIF1 was significantly reduced compared  with wild-type PIF1 in transgenic plants. In addition, hypocotyl lengths of the  mutant PIF1 transgenic plants were much longer than the wild-type PIF1 transgenic  plants under light, suggesting that the mutant PIF1 is suppressing  photomorphogenesis. Taken together, these data suggest that CK2-mediated  phosphorylation enhances the light-induced degradation of PIF1 to promote  photomorphogenesis.', '2011 Apr 8', 'J Biol Chem', '10.1074/jbc.M110.186882', 'Huq']
-
-phytochrome: !interacts with! PIFs 
-CK2: !phosphorylates! PIF1 
-alpha1/alpha2: !phosphorylate! PIF1 
-beta subunits: !stimulate! phosphorylation of PIF1 
-Ser/Thr residues: !phosphorylated by! CK2 
-Ser/Thr to Ala mutations: !eliminate! CK2-mediated phosphorylation of PIF1 
-CK2-mediated phosphorylation: !enhances! light-induced degradation of PIF1

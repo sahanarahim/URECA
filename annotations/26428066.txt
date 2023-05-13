@@ -1,8 +1,0 @@
-Apple (Malus×domestica Borkh) fruits are stored for long periods of time at low temperatures (1 °C) leading to the occurrence of physiological disorders. 'Superficial scald' of Granny Smith apples, an economically important ethylene-dependent disorder, was used as a model to study relationships among ethylene action, the regulation of the ROP-GAP rheostat, and maintenance of H2O2 homeostasis in fruits during prolonged cold exposure. The ROP-GAP rheostat is a key module for adaptation to low oxygen in Arabidopsis through Respiratory Burst NADPH Oxidase Homologs (RBOH)-mediated and ROP GTPase-dependent regulation of reactive oxygen species (ROS) homeostasis. Here, it was shown that the transcriptional expression of several components of the apple ROP-GAP machinery, including genes encoding RBOHs, ROPs, and their ancillary proteins ROP-GEFs and ROP-GAPs, is coordinately and negatively regulated by ethylene in conjunction with the progressive impairment of apoplastic H2O2 homeostatic levels. RNA sequencing analyses showed that several components of the known ROP- and ROS-associated transcriptional networks are regulated along with the ROP-GAP rheostat in response to ethylene perception. These findings may extend the role of the ROP-GAP rheostat beyond hypoxic responses and suggest that it may be a functional regulatory node involved in the integration of ethylene and ROS signalling pathways in abiotic stress.
-
-ethylene: !regulates! ROP-GAP machinery
-ROP-GAP machinery: !maintains! H2O2 homeostasis
-ROP-GAP machinery: !integrates! ethylene and ROS signalling pathways
-ROP-GEFs: !interacts with! ROPs
-ROP-GAPs: !interacts with! ROPs
-RBOHs: !interacts with! ROPs

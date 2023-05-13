@@ -1,8 +1,0 @@
-Shoot architecture is critical for optimizing plant adaptation and productivity. In contrast with annuals, branching in perennials native to temperate and boreal regions must be coordinated with seasonal growth cycles. How branching is coordinated with seasonal growth is poorly understood. We identified key components of the genetic network that controls branching and its regulation by seasonal cues in the model tree hybrid aspen. Our results demonstrate that branching and its control by seasonal cues is mediated by mutually antagonistic action of aspen orthologs of the flowering regulators <i>TERMINAL FLOWER 1</i> (<i>TFL1</i>) and <i>APETALA1</i> (<i>LIKE APETALA 1/LAP1</i>). <i>LAP1</i> promotes branching through local action in axillary buds. <i>LAP1</i> acts in a cytokinin-dependent manner, stimulating expression of the cell-cycle regulator <i>AIL1</i> and suppressing <i>BRANCHED1</i> expression to promote branching. Short photoperiod and low temperature, the major seasonal cues heralding winter, suppress branching by simultaneous activation of <i>TFL1</i> and repression of the <i>LAP1</i> pathway. Our results thus reveal the genetic network mediating control of branching and its regulation by environmental cues facilitating integration of branching with seasonal growth control in perennial trees.
-
-TFL1: !antagonizes! LAP1
-LAP1: !promotes! branching
-LAP1: !stimulates! AIL1
-LAP1: !suppresses! BRANCHED1
-TFL1: !activated by! short photoperiod/low temperature
-TFL1: !represses! LAP1 pathway

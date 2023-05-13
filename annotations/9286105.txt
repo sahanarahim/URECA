@@ -1,6 +1,0 @@
-['9286105', 'Previous studies have shown that recessive mutations at the Arabidopsis ABSCISIC  ACID-INSENSITIVE3 (ABI3), FUSCA3 (FUS3), and LEAFY COTYLEDON1 (LEC1) loci lead to  various abnormalities during mid-embryogenesis and late embryogenesis. In this  study, we investigated whether these loci act in independent regulatory pathways  or interact in controlling certain facets of seed development. Several  developmental responses were quantified in abi3, fus3, and lec1 single mutants as  well as in double mutants combining either the weak abi3-1 or the severe abi3-4  mutations with either fus3 or lec1 mutations. Our data indicate that ABI3  interacts genetically with both FUS3 and LEC1 in controlling each of the  elementary processes analyzed, namely, accumulation of chlorophyll and  anthocyanins, sensitivity to abscisic acid, and expression of individual members  of the 12S storage protein gene family. In addition, both FUS3 and LEC1 regulate  positively the abundance of the ABI3 protein in the seed. These results suggest  that in contrast to previous models, the ABI3, FUS3, and LEC1 genes act  synergistically to control multiple elementary processes during seed development.', '1997 Aug', 'Plant Cell', '10.1105/tpc.9.8.1265', 'Giraudat']
-
-ABI3: !interacts with! FUS3
-ABI3: !interacts with! LEC1
-FUS3: !regulates! ABI3
-LEC1: !regulates! ABI3

@@ -1,8 +1,0 @@
-Resistance (R) proteins are important components of plant innate immunity. Most known R proteins are nucleotide-binding site leucine-rich repeat (NLR) proteins. Although a number of signaling components downstream of NLRs have been identified, we lack a general understanding of the signaling pathways. Here, we used the interaction between rice (Oryza sativa) and Magnaporthe oryzae to study signaling of rice NLRs in response to blast infection. We found that in blast resistance mediated by the NLR PIRICULARIA ORYZAE RESISTANCE IN DIGU 3 (PID3), the guanine nucleotide exchange factor OsSPK1 works downstream of PID3. OsSPK1 activates the small GTPase OsRac1, which in turn transduces the signal to the transcription factor RAC IMMUNITY1 (RAI1). Further investigation revealed that the three signaling components also play important roles in disease resistance mediated by the distantly related NLR protein Pi9, suggesting that the OsSPK1-OsRac1-RAI1 signaling pathway could be conserved across rice NLR-induced blast resistance. In addition, we observed changes in RAI1 levels during blast infection, which led to identification of OsRPT2a, a subunit of the 19S regulatory particle of the 26S proteasome. OsRPT2a seemed to be responsible for RAI1 turnover in a 26S proteasome-dependent manner. Collectively, our results suggest a defense signaling route that might be common to NLR proteins in response to blast infection.
-
-PID3: !activates! OsSPK1
-OsSPK1: !activates! OsRac1
-OsRac1: !transduces! RAI1
-Pi9: !activates! OsSPK1
-RAI1: !turnover regulated by! OsRPT2a
-OsRPT2a: !dependent on! 26S proteasome

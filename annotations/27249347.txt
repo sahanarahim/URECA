@@ -1,9 +1,0 @@
-In photosynthesis, linear electron transport from water to nicotinamide adenine dinucleotide phosphate (NADP(+)) cannot satisfy the ATP/NADPH production stoichiometry required by the Calvin-Benson cycle. Cyclic electron transport (CET) around photosystem I (PSI) and pseudocyclic electron transport (pseudoCET) can produce ATP without the accumulation of NADPH. Flavodiiron proteins (Flv) are the main mediator of pseudoCET in photosynthetic organisms, spanning cyanobacteria to gymnosperms. However, their genes are not conserved in angiosperms. Here we explore the possibility of complementing CET with Flv-dependent pseudoCET in the angiosperm Arabidopsis thaliana. We introduced FlvA and FlvB genes from the moss Physcomitrella patens into both wild-type (WT) Arabidopsis and the proton gradient regulation 5 (pgr5) mutant, which is defective in the main pathway of CET. We measured rates of pseudoCET using membrane inlet mass spectrometry, along with several photosynthetic parameters. Flv expression significantly increased rates of pseudoCET in the mutant plants, particularly at high light intensities, and partially restored the photosynthetic phenotype. In WT plants, Flv did not compete with PGR5-dependent CET during steady-state photosynthesis, but did form a large electron sink in fluctuating light. We conclude that flavodiiron proteins can help to protect the photosystems in Arabidopsis under fluctuating light, even in the presence of CET.
-
-FlvA: !enhances! pseudoCET 
-FlvB: !enhances! pseudoCET 
-PGR5: !mediates! CET 
-Flv: !protects! photosystems 
-WT Arabidopsis: !expresses! Flv 
-pgr5 mutant: !expresses! Flv 
-Flv: !competes with! PGR5-dependent CET

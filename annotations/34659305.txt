@@ -1,9 +1,0 @@
-Efficient and accurate methods of analysis are needed for the huge amount of biological data that have accumulated in various research fields, including genomics, phenomics, and genetics. Artificial intelligence (AI)-based analysis is one promising method to manipulate biological data. To this end, various algorithms have been developed and applied in fields such as disease diagnosis, species classification, and object prediction. In the field of phenomics, classification of accessions and variants is important for basic science and industrial applications. To construct AI-based classification models, three types of phenotypic image data were generated from 156 <i>Brassica rapa</i> core collections, and classification analyses were carried out using four different convolutional neural network architectures. The results of lateral view data showed higher accuracy compared with top view data. Furthermore, the relatively low accuracy of ResNet50 architecture suggested that definition and estimation of similarity index of phenotypic data were required before the selection of deep learning architectures.
-
-AI: !applied to! Disease Diagnosis
-AI: !applied to! Species Classification
-AI: !applied to! Object Prediction
-Phenotypic Image Data: !generated from! 156 Brassica rapa Core Collections
-Convolutional Neural Network Architectures: !used for! Classification Analyses
-Lateral View Data: !showed higher accuracy than! Top View Data
-ResNet50 Architecture: !showed relatively low accuracy!

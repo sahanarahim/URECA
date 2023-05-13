@@ -1,9 +1,0 @@
-The exon junction complex (EJC) is deposited on mRNA after splicing and participates in several aspects of RNA metabolism, from intracellular transport to translation. In this work, the functional and molecular interactions of Arabidopsis homologues of Mago, Y14, and PYM, three EJC components that participate in intron-mediated enhancement of gene expression in animals, have been analysed. AtMago, AtY14, and AtPYM are encoded by single genes that show similar expression patterns and contain common regulatory elements, known as site II, that are required for expression. AtPYM and AtY14 are phosphorylated by plant extracts and this modification regulates complex formation between both proteins. In addition, overexpression of AtMago and AtY14 in plants produces an increase in AtPYM protein levels, while overexpression of AtPYM results in increased formation of a complex that contains the three proteins. The effect of AtMago and AtY14 on AtPYM expression is most likely to be due to intron-mediated enhacement of AtPYM expression, since the AtPYM gene contains a leader intron that is required for expression. Indeed, transient transformation asssays indicated that the three proteins are able to increase expression from reporter constructs that contain leader introns required for the expression of different genes. The results indicate that the plant homologues of Mago, Y14, and PYM are closely interconnected, not only through their function as EJC components but also at different steps of their own gene expression mechanisms, probably reflecting the importance of their interaction for the correct expression of plant genes.
-
-AtMago: !enhances! AtPYM
-AtY14: !enhances! AtPYM
-AtPYM: !interacts with! AtMago
-AtPYM: !interacts with! AtY14
-AtPYM: !synthesizes! Reporter Constructs
-AtMago: !localizes to! EJC
-AtY14: !localizes to! EJC

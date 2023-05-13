@@ -1,7 +1,0 @@
-['28576846', 'Plants are known for their capacity to regenerate the whole body through de novo  formation of apical meristems from a mass of proliferating cells named callus.  Exogenous cytokinin and auxin determine cell fate for the establishment of the  stem cell niche, which is the vital step of shoot regeneration, but the  underlying mechanisms remain unclear. Here, we show that type-B ARABIDOPSIS  RESPONSE REGULATORs (ARRs), critical components of cytokinin signaling, activate  the transcription of WUSCHEL (WUS), which encodes a key regulator for maintaining  stem cells. In parallel, type-B ARRs inhibit auxin accumulation by repressing the  expression of YUCCAs, which encode a key enzyme for auxin biosynthesis,  indirectly promoting WUS induction. Both pathways are essential for de novo  regeneration of the shoot stem cell niche. In addition, the dual regulation of  type-B ARRs on WUS transcription is required for the maintenance of the shoot  apical meristem in planta. Thus, our results reveal a long-standing missing link  between cytokinin signaling and WUS regulator, and the findings provide critical  information for understanding cell fate specification.', '2017 Jun', 'Plant Cell', '10.1105/tpc.16.00640', 'ORCID:']
-
-ARRs: !activate! WUS 
-ARRs: !repress! YUCCAs 
-WUS: !maintains! stem cells 
-YUCCAs: !encode! key enzyme for auxin biosynthesis 
-Cytokinin signaling: !regulates! WUS transcription

@@ -1,8 +1,0 @@
-MicroRNAs (miRNAs) are short non-coding RNAs that inhibit the expression of target genes by directly binding to their mRNAs. In animals, pri-miRNAs are cleaved by Drosha to generate pre-miRNAs, which are subsequently cleaved by Dicer to generate mature miRNAs. Instead of being cleaved by two different enzymes, both cleavages in plants are performed by Dicer-like 1 (DCL1). With a similar domain architecture as human Dicer, it is mysterious how DCL1 recognizes pri-miRNAs and performs two cleavages sequentially. Here, we report the single-particle cryo-electron microscopy structures of Arabidopsis DCL1 complexed with a pri-miRNA and a pre-miRNA, respectively, in cleavage-competent states. These structures uncover the plasticity of the PAZ domain, which is critical for the recognition of both pri-miRNA and pre-miRNA. These structures suggest that the helicase module serves as an engine that transfers the substrate between two sequential cleavage events. This study lays a foundation for dissecting the regulation mechanism of miRNA biogenesis in plants and provides insights into the dicing state of human Dicer.
-
-Drosha: !cleaves! pri-miRNAs 
-Dicer: !cleaves! pre-miRNAs 
-DCL1: !recognizes! pri-miRNAs 
-DCL1: !performs! two cleavages 
-PAZ domain: !critical for! recognition of pri-miRNA and pre-miRNA 
-Helicase module: !transfers! substrate between two sequential cleavage events

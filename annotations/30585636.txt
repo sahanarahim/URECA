@@ -1,8 +1,0 @@
-Higher plants utilize nucleotide-binding leucine-rich repeat domain proteins (NLRs) as intracellular immune receptors to recognize pathogen-derived effectors and trigger a robust defense. The Activated Disease Resistance 1 (ADR1) family of coiled-coil NLRs (CNLs) have evolved as helper NLRs that function downstream of many TIR-type sensor NLRs (TNLs). Close homologs of ADR1s form the N REQUIREMENT GENE 1 (NRG1) family in Arabidopsis, the function of which is unclear. Through CRISPR/Cas9 gene editing methods, we discovered that the tandemly repeated NRG1A and NRG1B are functionally redundant and operate downstream of TNLs with differential strengths. Interestingly, ADR1s and NRG1s function in two distinct parallel pathways contributing to TNL-specific immunity. Synergistic effects on basal and TNL-mediated defense were detected among ADR1s and NRG1s. An intact P-loop of NRG1s is not required for mediating signals from sensor TNLs, whereas auto-active NRG1A exhibits autoimmunity. Importantly, NRG1s localize to the cytosol and endomembrane network regardless of the presence of effectors, suggesting a cytosolic activation mechanism. Taken together, different sensor TNLs differentially use two groups of helper NLRs, ADR1s and NRG1s, to transduce downstream defense signals.
-
-TNLs: !use! ADR1s 
-TNLs: !use! NRG1s 
-ADR1s: !operate downstream of! TNLs 
-NRG1s: !operate downstream of! TNLs 
-NRG1s: !localize to! cytosol 
-NRG1s: !localize to! endomembrane network

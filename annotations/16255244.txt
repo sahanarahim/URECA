@@ -1,7 +1,0 @@
-The plant hypersensitive response (HR) is tightly associated with gene-for-gene resistance and has been proposed to function in containing pathogens at the invasion site. This tight association has made it difficult to unequivocally evaluate the importance of HR for plant disease resistance. Here, hopPsyA from Pseudomonas syringae pv. syringae 61 is identified as a new avirulence gene for Arabidopsis that triggers resistance in the absence of macroscopic HR. Resistance to P. syringae pv. tomato DC3000 expressing hopPsyA was EDS1-dependent and NDR1-independent. Intriguingly, several Arabidopsis accessions were resistant to DC3000(hopPsyA) in the absence of HR. This is comparable to the Arabidopsis response to avrRps4, but it is shown that hopPsyA does not signal through RPS4. In a cross between two hopPsyA-resistant accessions that differ in their HR response, the HR segregated as a recessive phenotype regulated by a single locus. This locus, HED1 (HR regulator in EDS1 pathway), is proposed to encode a protein whose activity can cause suppression of the EDS1-dependent HR signaling pathway. HED1-regulated symptomless gene-for-gene resistance responses may explain some cases of Arabidopsis resistance to bacteria that are classified as nonhost resistance.
-
-hopPsyA: !triggers! Resistance 
-EDS1: !mediates! hopPsyA-induced Resistance 
-NDR1: !does not mediate! hopPsyA-induced Resistance 
-HED1: !regulates! HR signaling pathway 
-HED1: !suppresses! EDS1-dependent HR signaling pathway

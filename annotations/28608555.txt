@@ -1,8 +1,0 @@
-Despite the growing number of studies showing that genotype × environment and epistatic interactions control fitness, the influences of epistasis × environment interactions on adaptive trait evolution remain largely uncharacterized. Across three field trials, we quantified aliphatic glucosinolate (GSL) defense chemistry, leaf damage, and relative fitness using mutant lines of Arabidopsis thaliana varying at pairs of causal aliphatic GSL defense genes to test the impact of epistatic and epistasis × environment interactions on adaptive trait variation. We found that aliphatic GSL accumulation was primarily influenced by additive and epistatic genetic variation, leaf damage was primarily influenced by environmental variation and relative fitness was primarily influenced by epistasis and epistasis × environment interactions. Epistasis × environment interactions accounted for up to 48% of the relative fitness variation in the field. At a single field site, the impact of epistasis on relative fitness varied significantly over 2 yr, showing that epistasis × environment interactions within a location can be temporally dynamic. These results suggest that the environmental dependency of epistasis can profoundly influence the response to selection, shaping the adaptive trajectories of natural populations in complex ways, and deserves further consideration in future evolutionary studies.
-
-gene: !affects! GSL accumulation
-GSL accumulation: !influenced by! additive and epistatic genetic variation
-environment: !influences! leaf damage
-epistasis: !influences! relative fitness
-epistasis: !interacts with! environment
-epistasis: !varies over! 2 years

@@ -1,8 +1,0 @@
-To understand evolutionary factors that maintain complex trait variation, we sequenced genomes from a single population of the plant <i>Mimulus guttatus</i>, identifying hundreds of nucleotide variants associated with morphological and life history traits. Alleles that delayed flowering also increased size at reproduction, which suggests pervasive antagonistic pleiotropy in this annual plant. The "large and slow" alleles, which were less common in small, rapidly flowering populations, became more abundant in populations with greater plant size. Furthermore, natural selection within the field population favored alternative alleles from year to year. Our results suggest that environmental fluctuations and selective trade-offs maintain polygenic trait variation within populations and also contribute to the geographic divergence in this wildflower species.
-
-environment: !influences! selection 
-alleles: !affects! flowering 
-alleles: !influences! size 
-population: !contains! alleles 
-selection: !favors! alleles 
-environment: !causes! fluctuations

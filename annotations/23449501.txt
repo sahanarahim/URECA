@@ -1,9 +1,0 @@
-['23449501', 'Potassium (K(+)) influx into pollen tubes via K(+) transporters is essential for  pollen tube growth; however, the mechanism by which K(+) transporters are  regulated in pollen tubes remains unknown. Here, we report that Arabidopsis  thaliana Ca(2+)-dependent protein kinase11 (CPK11) and CPK24 are involved in  Ca(2+)-dependent regulation of the inward K(+) (K(+)in) channels in pollen tubes.  Using patch-clamp analysis, we demonstrated that K(+)in currents of pollen tube  protoplasts were inhibited by elevated [Ca(2+)]cyt. However, disruption of CPK11  or CPK24 completely impaired the Ca(2+)-dependent inhibition of K(+)in currents  and enhanced pollen tube growth. Moreover, the cpk11 cpk24 double mutant  exhibited similar phenotypes as the corresponding single mutants, suggesting that  these two CDPKs function in the same signaling pathway. Bimolecular fluorescence  complementation and coimmunoprecipitation experiments showed that CPK11 could  interact with CPK24 in vivo. Furthermore, CPK11 phosphorylated the N terminus of  CPK24 in vitro, suggesting that these two CDPKs work together as part of a kinase  cascade. Electrophysiological assays demonstrated that the Shaker pollen K(+)in  channel is the main contributor to pollen tube K(+)in currents and acts as the  downstream target of the CPK11-CPK24 pathway. We conclude that CPK11 and CPK24  together mediate the Ca(2+)-dependent inhibition of K(+)in channels and  participate in the regulation of pollen tube growth in Arabidopsis.', '2013 Feb', 'Plant Cell', '10.1105/tpc.112.103184', 'Wu']
-
-CPK11: !interacts with! CPK24
-CPK11: !phosphorylates! CPK24
-CPK11: !regulates! K(+)in channels
-CPK24: !regulates! K(+)in channels
-K(+)in channels: !inhibited by! elevated [Ca(2+)]cyt
-K(+)in channels: !enhanced by! disruption of CPK11 or CPK24
-K(+)in channels: !target of! CPK11-CPK24 pathway

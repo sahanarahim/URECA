@@ -1,8 +1,0 @@
-Prediction of complex traits based on genome-wide marker information is of central importance for both animal and plant breeding. Numerous models have been proposed for the prediction of complex traits and still considerable effort has been given to improve the prediction accuracy of these models, because various genetics factors like additive, dominance and epistasis effects can influence of the prediction accuracy of such models. Recently machine learning (ML) methods have been widely applied for prediction in both animal and plant breeding programs. In this study, we propose a new algorithm for genomic prediction which is based on neural networks, but incorporates classical elements of LASSO. Our new method is able to account for the local epistasis (higher order interaction between the neighboring markers) in the prediction. We compare the prediction accuracy of our new method with the most commonly used prediction methods, such as BayesA, BayesB, Bayesian Lasso (BL), genomic BLUP and Elastic Net (EN) using the heterogenous stock mouse and rice field data sets.
-
-Gene: !affects! Complex Traits 
-Machine Learning: !applied for! Prediction 
-Neural Networks: !incorporates! Classical Elements of LASSO 
-Local Epistasis: !accounted for! by New Method 
-BayesA, BayesB, BL, GBLUP, EN: !compared with! New Method 
-Heterogenous Stock Mouse and Rice Field Data Sets: !used to! Compare Prediction Accuracy

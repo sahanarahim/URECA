@@ -1,7 +1,0 @@
-We present a model of plant-nutrient interactions that extends classical resource competition theory to environments in which essential nutrients (resources) are recycled between plant and soil pools and dissolved nutrients are lost through plant-available (i.e., inorganic forms) or plant-unavailable (i.e., complex organic forms) pathways. Losses by dissolved organic pathways can alter ratios of nutrients that are recycled and supplied within the plant-soil system, thereby influencing competition and coexistence among plant species. In special cases, our extended model does not differ from classical models, but in more realistic cases our model introduces new dynamical behavior that influences competitive outcomes. At equilibrium, coexistence still depends on nutrient supply and consumption, but nutrient supply includes recycling and is highly sensitive to whether a species promotes more organic losses of the nutrient that limits its own growth than of nutrients that limit its competitors. Because recycling operates with a time delay compared with consumption, recycling-mediated effects on competition can, under certain conditions, lead to sustained population oscillations. Our findings have implications for how we understand nutrient competition, nutrient cycles, and plant evolutionary strategies.
-
-gene: !affects! nutrient competition
-gene: !influences! competitive outcomes
-gene: !alters! ratios of nutrients
-gene: !promotes! organic losses
-gene: !leads to! sustained population oscillations

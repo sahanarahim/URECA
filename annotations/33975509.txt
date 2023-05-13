@@ -1,8 +1,0 @@
-The gaseous phytohormone ethylene plays versatile roles in sustaining plant growth and fitness in response to environmental changes, such as light illumination, flooding, and mechanical pressure. Interestingly, it is well known that the effects of ethylene on plant growth vary profoundly, depending on external conditions. For example, light/dark conditions alter the directionality of ethylene action on hypocotyl growth. Similarly, a recent study has shown that the effects of ethylene on hypocotyl growth are reversed during temperature increases: ethylene attenuates hypocotyl elongation in the light at warm temperatures (28°C), while promoting it at normal temperatures (22°C). The ethylene-activated ETHYLENE-INSENSITIVE 3 (EIN3) transcription factor directly promotes the transcription of both <i>PHYTOCHROM INTERACTING FACTOR 3</i> (<i>PIF3</i>) and <i>ARABIDOPSIS PP2C CLADE D7</i> (<i>APD7</i>) genes. At 22°C, the auxin activity is tuned down, and thus ethylene promotes hypocotyl growth via the PIF3-mediated microtubule reorganization. On the other hand, when auxin highly accumulates at 28°C, the ethylene-directed growth repression is potentiated through the APD7-mediated repression of auxin responses. APD7 plays a role in integrating ethylene cues into auxin signaling. We propose that the dual mode of EIN3-mediated ethylene actions enables plants to optimize growth under constantly changing environments.
-
-ethylene: !activates! EIN3 
-EIN3: !promotes! PIF3 
-EIN3: !promotes! APD7 
-PIF3: !mediates! microtubule reorganization 
-APD7: !integrates! ethylene cues into auxin signaling 
-auxin: !represses! ethylene-directed growth

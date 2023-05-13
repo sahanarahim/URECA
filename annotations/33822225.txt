@@ -1,9 +1,0 @@
-Root architecture is a major determinant of plant fitness and is under constant modification in response to favorable and unfavorable environmental stimuli. Beyond impacts on the primary root, the environment can alter the position, spacing, density, and length of secondary or lateral roots. Lateral root development is among the best-studied examples of plant organogenesis, yet there are still many unanswered questions about its earliest steps. Among the challenges faced in capturing these first molecular events is the fact that this process occurs in a small number of cells with unpredictable timing. Single-cell sequencing methods afford the opportunity to isolate the specific transcriptional changes occurring in cells undergoing this fate transition. Using this approach, we successfully captured the transcriptomes of initiating lateral root primordia in Arabidopsis thaliana and discovered many upregulated genes associated with this process. We developed a method to selectively repress target gene transcription in the xylem pole pericycle cells where lateral roots originate and demonstrated that the expression of several of these targets is required for normal root development. We also discovered subpopulations of cells in the pericycle and endodermal cell files that respond to lateral root initiation, highlighting the coordination across cell files required for this fate transition.
-
-Gene: !affects! Root architecture 
-Environment: !modifies! Lateral root development 
-Gene: !localizes to! Xylem pole pericycle cells 
-Gene: !interacts with! Endodermal cell files 
-Gene: !enhances! Lateral root initiation 
-Gene: !represses! Target gene transcription 
-Gene: !synthesizes! Transcriptomes

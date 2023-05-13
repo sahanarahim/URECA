@@ -1,8 +1,0 @@
-Changes in net CO2 assimilation rate (A) are often partitioned into contributions from changes in different variables using an approach that is based on an expression from calculus: namely the definition of the exact differential of A, which states that an infinitesimal change in A (dA) is equal to the sum of infinitesimal changes in each of the underlying variables, each multiplied by the partial derivative of A with respect to the variable. Finite changes in A can thus be partitioned by integrating this sum across a finite interval. The most widely used method of estimating that integral is a coarse discrete approximation that uses partial derivatives of the natural logarithm of A rather than A itself. This yields biased and ambiguous estimates of partitioned changes in A. We present an alternative partitioning approach based on direct numerical integration of dA. The new approach does not require any partial derivatives to be computed, and it can be applied under any conditions to estimate the contributions from changes in any photosynthetic variable. We demonstrate this approach using field measurements of both seasonal and diurnal changes in assimilation rate, and we provide a spreadsheet implementing the new approach.
-
-Gene: !affects! Process 
-Process: !partitioned by! Integration 
-Integration: !estimated by! Coarse Approximation 
-Coarse Approximation: !yields! Biased Estimates 
-Alternative Approach: !based on! Direct Numerical Integration 
-Direct Numerical Integration: !applied to! Photosynthetic Variables

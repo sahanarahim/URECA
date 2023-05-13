@@ -1,7 +1,0 @@
-The Salt-Overly-Sensitive (SOS) signaling module, comprising the sodium-transport protein SOS1 and the regulatory proteins SOS2 and SOS3, is well known as the central salt excretion system, which helps protect plants against salt stress. Here we report that VPS23A, a component of the ESCRT (endosomal sorting complex required for transport), plays an essential role in the function of the SOS module in conferring plant salt tolerance. VPS23A enhances the interaction of SOS2 and SOS3. In the presence of salt stress, VPS23A positively regulates the redistribution of SOS2 to the plasma membrane, which then activates the antiporter activity of SOS1 to reduce Na<sup>+</sup> accumulation in plant cells. Genetic evidence demonstrated that plant salt tolerance achieved by the overexpression of SOS2 and SOS3 dependeds on VPS23A. Taken together, our results revealed that VPS23A is a crucial regulator of the SOS module and affects the localization of SOS2 to the cell membrane. Moreover, the strong salt tolerance of Arabidopsis seedlings conferred by the engineered membrane-bound SOS2 revealed the significance of SOS2 sorting to the cell membrane in achieving its function, providing a potential strategy for crop salt tolerance engineering.
-
-SOS1: !activates! SOS2
-SOS2: !interacts with! SOS3
-VPS23A: !enhances! SOS2/SOS3 interaction
-VPS23A: !regulates! SOS2 redistribution
-VPS23A: !affects! SOS2 localization

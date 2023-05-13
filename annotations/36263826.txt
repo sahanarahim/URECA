@@ -1,8 +1,0 @@
-GWAS Atlas (https://ngdc.cncb.ac.cn/gwas/) is a manually curated resource of genome-wide genotype-to-phenotype associations for a wide range of species. Here, we present an updated implementation of GWAS Atlas by curating and incorporating more high-quality associations, with significant improvements and advances over the previous version. Specifically, the current release of GWAS Atlas incorporates a total of 278,109 curated genotype-to-phenotype associations for 1,444 different traits across 15 species (10 plants and 5 animals) from 830 publications and 3,432 studies. A collection of 6,084 lead SNPs of 439 traits and 486 experiment-validated causal variants of 157 traits are newly added. Moreover, 1,056 trait ontology terms are newly defined, resulting in 1,172 and 431 terms for Plant Phenotype and Trait Ontology and Animal Phenotype and Trait Ontology, respectively. Additionally, it is equipped with four online analysis tools and a submission platform, allowing users to perform data analysis and data submission. Collectively, as a core resource in the National Genomics Data Center, GWAS Atlas provides valuable genotype-to-phenotype associations for a diversity of species and thus plays an important role in agronomic trait study and molecular breeding.
-
-Gene: !affects! Trait
-Gene: !localizes to! Species
-Gene: !interacts with! SNP
-Gene: !enhances! Ontology
-Gene: !represses! Phenotype
-Gene: !synthesizes! Analysis

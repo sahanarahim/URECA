@@ -1,8 +1,0 @@
-In acidic soils, aluminum (Al) toxicity is the main factor inhibiting plant root development and reducing crops yield. STOP1 (SENSITIVE TO PROTON RHIZOTOXICITY 1) was a critical factor in detoxifying Al stress. Under Al stress, STOP1 expression was not induced, although STOP1 protein accumulated, even in the presence of RAE1 (STOP1 DEGRADATION E3-LIGASE). How the Al stress triggers and stabilises the accumulation of STOP1 is still unknown. Here, we characterised SlSTOP1-interacting zinc finger protein (SlSZP1) using a yeast-two-hybrid screening, and generated slstop1, slszp1 and slstop1/slszp1 knockout mutants using clustered regularly interspaced short palindromic repeats (CRISPR) in tomato. SlSZP1 is induced by Al stress but it is not regulated by SlSTOP1. The slstop1, slszp1 and slstop1/slszp1 knockout mutants exhibited hypersensitivity to Al stress. The expression of SlSTOP1-targeted genes, such as SlRAE1 and SlASR2 (ALUMINUM SENSITIVE), was inhibited in both slstop1 and slszp1 mutants, but not directly regulated by SlSZP1. Furthermore, the degradation of SlSTOP1 by SlRAE1 was prevented by SlSZP1. Al stress increased the accumulation of SlSTOP1 in wild-type (WT) but not in slszp1 mutants. The overexpression of either SlSTOP1 or SlSZP1 did not enhance plant Al resistance. Altogether, our results show that SlSZP1 is an important factor for protecting SlSTOP1 from SlRAE1-mediated degradation.
-
-SlSTOP1: !interacts with! SlSZP1
-SlSZP1: !induces! Al stress
-SlSTOP1: !represses! SlRAE1
-SlSTOP1: !represses! SlASR2
-SlSZP1: !prevents! SlRAE1-mediated degradation of SlSTOP1
-Al stress: !increases! accumulation of SlSTOP1

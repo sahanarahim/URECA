@@ -1,9 +1,0 @@
-Fluorescence complementation (FC) techniques are expedient for analyzing bimolecular protein-protein interactions. Here we aimed to develop a method for visualization of ternary protein complexes using dual-color trimolecular fluorescence complementation (TriFC). Dual-color TriFC combines protein fragments of mCherry and mVenus, in which a scaffold protein is bilaterally fused to C-terminal fragments of both fluorescent proteins and combined with potential interacting proteins fused to an N-terminal fluorescent protein fragment. For efficient visual verification of ternary complex formation, TriFC was combined with a cytoplasm to plasma membrane translocation assay. Modular vector sets were designed which are fully compatible with previously reported bimolecular fluorescence complementation (BiFC) vectors. As a proof-of-principle, the ternary complex formation of the PP2B protein phosphatase Calcineurin-A/Calcineurin-B with Calmodulin-2 was investigated in transiently transformed Nicotiana benthamiana leaf epidermal cells. The results indicate a Calcineurin-B-induced interaction of Calmodulin-2 with Calcineurin-A. TriFC and the translocation of TriFC complexes provide a novel tool to investigate ternary complex formations with the simplicity of a BiFC approach. The robustness of FC applications and the opportunity to quantify fluorescence complementation render this assay suitable for a broad range of interaction analyses.
-
-mCherry: !fused to! C-terminal fragment 
-mVenus: !fused to! C-terminal fragment 
-scaffold protein: !bilaterally fused to! mCherry & mVenus 
-Calcineurin-A/Calcineurin-B: !interacts with! Calmodulin-2 
-Calmodulin-2: !induced to interact with! Calcineurin-A 
-TriFC: !combined with! cytoplasm to plasma membrane translocation assay 
-BiFC: !compatible with! modular vector sets

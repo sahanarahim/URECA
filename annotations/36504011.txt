@@ -1,8 +1,0 @@
-['36504011', 'Chromosome axis-associated HORMA domain proteins (HORMADs), e.g. ASY1 in  Arabidopsis, are crucial for meiotic recombination. ASY1, as other HORMADs, is  assembled on the axis at early meiosis and depleted when homologous chromosomes  synapse. Puzzlingly, both processes are catalyzed by AAA+ ATPase PCH2 together  with its cofactor COMET. Here, we show that the ASY1 remodeling complex is  temporally and spatially differently assembled. While PCH2 and COMET appear to  directly interact in the cytoplasm in early meiosis, PCH2 is recruited by the  transverse filament protein ZYP1 and brought to the ASY1-bound COMET assuring the  timely removal of ASY1 during chromosome synapsis. Since we found that the PCH2  homolog TRIP13 also binds to the ZYP1 homolog SYCP1 in mouse, we postulate that  this mechanism is conserved among eukaryotes. Deleting the PCH2 binding site of  ZYP1 led to a failure of ASY1 removal. Interestingly, the placement of one  obligatory crossover per homologous chromosome pair, compromised by ZYP1  depletion, is largely restored in this separation-of-function zyp1 allele  suggesting that crossover assurance is promoted by synapsis. In contrast, this  zyp1 allele, similar to the zyp1 null mutant, showed elevated type I crossover  numbers indicating that PCH2-mediated eviction of ASY1 from the axis restricts  crossover formation.', '2022 Dec 9', 'Nucleic Acids Res', '10.1093/nar/gkac1160', 'ORCID:']
-
-ASY1: !assembles on! axis 
-PCH2: !interacts with! COMET 
-ZYP1: !recruits! PCH2 
-PCH2: !evicts! ASY1 
-SYCP1: !binds to! TRIP13 
-ZYP1: !restricts! crossover formation

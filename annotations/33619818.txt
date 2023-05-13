@@ -1,9 +1,0 @@
-Acetyl-triacylglycerols (acetyl-TAG) contain an acetate group in the sn-3 position instead of the long-chain fatty acid present in regular triacylglycerol (TAG). The acetate group confers unique physical properties such as reduced viscosity and a lower freezing point to acetyl-TAG, providing advantages for use as emulsifiers, lubricants, and 'drop-in' biofuels. Previously, the synthesis of acetyl-TAG in the seeds of the oilseed crop camelina (Camelina sativa) was achieved through the heterologous expression of the diacylglycerol acetyltransferase gene EaDAcT, isolated from Euonymus alatus seeds that naturally accumulate high levels of acetyl-TAG. Subsequent work identified a similar acetyltransferase, EfDAcT, in the seeds of Euonymus fortunei, that possesses higher in vitro activity compared to EaDAcT. In this study, the seed-specific expression of EfDAcT in camelina led to a 20 mol% increase in acetyl-TAG levels over that of EaDAcT. Coupling EfDAcT expression with suppression of the endogenous competing enzyme DGAT1 further enhanced acetyl-TAG accumulation, up to 90 mol% in the best transgenic lines. Accumulation of high levels of acetyl-TAG was stable over multiple generations, with minimal effect on seed size, weight, and fatty acid content. Slight delays in germination were noted in transgenic seeds compared to the wild type. EfDAcT transcript and protein levels were correlated during seed development with a limited window of EfDAcT protein accumulation. In high acetyl-TAG producing lines, EfDAcT protein expression in developing seeds did not reflect the eventual acetyl-TAG levels in mature seeds, suggesting that other factors limit acetyl-TAG accumulation.
-
-EaDAcT: !synthesizes! acetyl-TAG 
-EfDAcT: !synthesizes! acetyl-TAG 
-EfDAcT: !enhances! acetyl-TAG accumulation 
-DGAT1: !competes with! EfDAcT 
-DGAT1: !represses! acetyl-TAG accumulation 
-EfDAcT: !localizes to! developing seeds 
-EfDAcT: !interacts with! other factors

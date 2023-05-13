@@ -1,7 +1,0 @@
-Advances in high-throughput omics technologies are leading plant biology research into the era of big data. Machine learning (ML) performs an important role in plant systems biology because of its excellent performance and wide application in the analysis of big data. However, to achieve ideal performance, supervised ML algorithms require large numbers of labeled samples as training data. In some cases, it is impossible or prohibitively expensive to obtain enough labeled training data; here, the paradigms of unsupervised learning (UL) and semi-supervised learning (SSL) play an indispensable role. In this review, we first introduce the basic concepts of ML techniques, as well as some representative UL and SSL algorithms, including clustering, dimensionality reduction, self-supervised learning (self-SL), positive-unlabeled (PU) learning and transfer learning. We then review recent advances and applications of UL and SSL paradigms in both plant systems biology and plant phenotyping research. Finally, we discuss the limitations and highlight the significance and challenges of UL and SSL strategies in plant systems biology.
-
-Machine Learning: !requires! Labeled Samples 
-Unsupervised Learning: !plays an indispensable role in! Plant Systems Biology 
-Dimensionality Reduction: !applied to! Plant Phenotyping Research 
-Positive-Unlabeled Learning: !used for! Plant Systems Biology 
-Transfer Learning: !applied to! Plant Phenotyping Research

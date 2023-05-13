@@ -1,9 +1,0 @@
-Epigenetic modifications function in gene transcription, RNA metabolism, and other biological processes. However, multiple factors currently limit the scientific utility of epigenomic datasets generated for plants. Here, using deep-learning approaches, we developed a Smart Model for Epigenetics in Plants (SMEP) to predict six types of epigenomic modifications: DNA 5-methylcytosine (5mC) and N6-methyladenosine (6mA) methylation, RNA N6-methyladenosine (m<sup>6</sup> A) methylation, and three types of histone modification. Using the datasets from the japonica rice Nipponbare, SMEP achieved 95% prediction accuracy for 6mA, and also achieved around 80% for 5mC, m<sup>6</sup> A, and the three types of histone modification based on the 10-fold cross-validation. Additionally, > 95% of the 6mA peaks detected after a heat-shock treatment were predicted. We also successfully applied the SMEP for examining epigenomic modifications in indica rice 93-11 and even the B73 maize line. Taken together, we show that the deep-learning-enabled SMEP can reliably mine epigenomic datasets from diverse plants to yield actionable insights about epigenomic sites. Thus, our work opens new avenues for the application of predictive tools to facilitate functional research, and will almost certainly increase the efficiency of genome engineering efforts.
-
-DNA 5mC: !predicted by! SMEP 
-N6-methyladenosine (6mA): !predicted by! SMEP 
-RNA N6-methyladenosine (m<sup>6</sup> A): !predicted by! SMEP 
-three types of histone modification: !predicted by! SMEP 
-japonica rice Nipponbare: !used for! SMEP 
-indica rice 93-11: !applied to! SMEP 
-B73 maize line: !applied to! SMEP

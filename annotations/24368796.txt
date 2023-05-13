@@ -1,9 +1,0 @@
-['24368796', 'Anisotropic plant cell growth depends on the coordination between the orientation  of cortical microtubules and the orientation of nascent cellulose microfibrils.  Cellulose synthase interactive1 (CSI1) is a key scaffold protein that guides  primary cellulose synthase complexes (CSCs) along cortical microtubules during  cellulose biosynthesis. Here, we investigated the function of the CSI1-like  protein, CSI3, in Arabidopsis thaliana. Similar to CSI1, CSI3 associates with  primary CSCs in vitro, colocalizes with CSCs in vivo, and exhibits the same  plasma membrane localization and bidirectional motility as CSI1. However,  ProCSI1:GFP-CSI3 cannot complement the anisotropic cell growth defect in csi1  mutants, suggesting that CSI3 is not functionally equivalent to CSI1. Also, the  colocalization ratio between CSI1 and CSI3 is low, which may suggest  heterogeneity within the CSC population. csi1 csi3 double mutants showed an  enhanced cell expansion defect as well as an additive reduction of CSC  velocities, and CSI3 dynamics are dependent on CSI1 function. We propose that  CSI3 is an important regulator of plant cellulose biosynthesis and plant  anisotropic cell growth that modulates the velocity of CSCs in both a  microtubule-dependent and microtubule-independent manner.', '2013 Dec', 'Plant Cell', '10.1105/tpc.113.116715', 'Gu']
-
-CSI1: !guides! CSCs 
-CSI3: !associates with! CSCs 
-CSI3: !colocalizes with! CSCs 
-CSI3: !exhibits same! plasma membrane localization 
-CSI3: !exhibits same! bidirectional motility 
-CSI1: !regulates! CSI3 dynamics 
-CSI3: !modulates! CSC velocities

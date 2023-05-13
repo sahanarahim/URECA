@@ -1,7 +1,0 @@
-This paper describes a method based on a deep neural network (DNN) for estimating the number of tillers on a plant. A tiller is a branch on a grass plant, and the number of tillers is one of the most important determinants of yield. Traditionally, the tiller number is usually counted by hand, and so an automated approach is necessary for high-throughput phenotyping. Conventional methods use heuristic features to estimate the tiller number. Based on the successful application of DNNs in the field of computer vision, the use of DNN-based features instead of heuristic features is expected to improve the estimation accuracy. However, as DNNs generally require large volumes of data for training, it is difficult to apply them to estimation problems for which large training datasets are unavailable. In this paper, we use two strategies to overcome the problem of insufficient training data: the use of a pretrained DNN model and the use of pretext tasks for learning the feature representation. We extract features using the resulting DNNs and estimate the tiller numbers through a regression technique. We conducted experiments using side-view whole plant images taken with plan backgroud. The experimental results show that the proposed methods using a pretrained model and specific pretext tasks achieve better performance than the conventional method.
-
-DNN: !estimates! tiller number 
-pretrained model: !improves! estimation accuracy 
-pretext tasks: !learns! feature representation 
-features: !extracted using! DNNs 
-regression technique: !estimates! tiller numbers

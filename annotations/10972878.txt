@@ -1,7 +1,0 @@
-['10972878', 'Protein secretion plays an important role in plant cells as it does in animal and  yeast cells, but the tools to study molecular events of plant secretion are very  limited. We have focused on the Sar1 GTPase, which is essential for the vesicle  formation from the endoplasmic reticulum (ER) in yeast, and have previously shown  that tobacco and Arabidopsis SAR1 complement yeast sar1 mutants. In this study,  we have established a transient expression system of GFP-fusion proteins in  tobacco and Arabidopsis cultured cells. By utilizing confocal laser scanning  microscopy, we demonstrate that a dominant negative mutant of Arabidopsis Sar1  inhibits the ER-to-Golgi transport of Golgi membrane proteins, AtErd2 and  AtRer1B, and locates them to the ER. The same mutant Sar1 also blocks the exit  from the ER of a vacuolar storage protein, sporamin. These results not only  provide the first evidence that the Sar1 GTPase functions in the ER-to-Golgi  transport in plant cells, but also prove that conditional expression of dominant  mutants of secretory machinery can be a useful tool in manipulating vesicular  trafficking.', '2000 Aug', 'Plant J', '10.1046/j.1365-313x.2000.00823.x', 'Nakano']
-
-Sar1: !affects! ER-to-Golgi transport 
-AtErd2/AtRer1B: !localizes to! ER 
-Sar1: !represses! exit from ER 
-sporamin: !localizes to! vacuolar storage protein 
-dominant negative mutant Sar1: !inhibits! ER-to-Golgi transport

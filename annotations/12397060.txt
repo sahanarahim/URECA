@@ -1,8 +1,0 @@
-['12397060', 'Phospholipase D (PLD) is a major plant phospholipase family involved in many  cellular processes such as signal transduction, membrane remodeling, and lipid  degradation. Five classes of PLDs have been identified in Arabidopsis thaliana,  and Ca(2+) and polyphosphoinositides have been suggested as key regulators for  these enzymes. To investigate the catalysis and regulation mechanism of  individual PLDs, surface-dilution kinetics studies were carried out on the newly  identified PLDdelta from Arabidopsis. PLDdelta activity was dependent on both  bulk concentration and surface concentration of substrate phospholipids in the  Triton X-100/phospholipid mixed micelles. V(max), K(s)(A), and K(m)(B) values for  PLDdelta toward phosphatidylcholine or phosphatidylethanolamine were determined;  phosphatidylethanolamine was the preferred substrate. PLDdelta activity was  stimulated greatly by phosphatidylinositol 4,5-bisphosphate (PIP(2)). Maximal  activation was observed at a PIP(2) molar ratio around 0.01. Kinetic analysis  indicates that PIP(2) activates PLD by promoting substrate binding to the enzyme,  without altering the bulk binding of the enzyme to the micelle surface. Ca(2+) is  required for PLDdelta activity, and it significantly decreased the interfacial  Michaelis constant K(m)(B). This indicates that Ca(2+) activates PLD by promoting  the binding of phospholipid substrate to the catalytic site of the enzyme.', '2002 Dec 20', 'J Biol Chem', '10.1074/jbc.M209598200', 'Wang']
-
-PLDdelta: !requires! Ca(2+) 
-PIP(2): !activates! PLDdelta 
-Ca(2+): !decreases! K(m)(B) 
-PLDdelta: !prefers! phosphatidylethanolamine 
-PIP(2): !promotes! substrate binding 
-Ca(2+): !promotes! substrate binding
