@@ -38,7 +38,6 @@ def process_network(elements):
         
         G,ref =nodeDegreeFilter(G)
         
-        # return graphConverter(G)
         return graphConverter(G,ref)
     else:
         return edgeConverter(edges)
@@ -63,37 +62,22 @@ def nodeDegreeFilter(graph):
             
 def graphConverter(graph, ref):
     updatedElements = []
-    updatedElementsDict = {}
     for k,v in graph.adjacency():
         source = str(k).replace("'","").replace('"','')
         if v:
-            # print(k)
             for i,j in v.items():
-                # print(i)
                 target = str(i).replace("'","").replace('"','')
                 for p,q in j.items():
-                    # print(q['relation'])
                     type = str(q['relation']).replace("'","").replace('"','')
                     if (source, target) in ref:
                         updatedElements.append({"source": source, "target": target, "interaction": type})
-                        tup = (source, target, type)
-                        updatedElementsDict[tup] = updatedElementsDict.get(tup,0)+1
-    return updatedElements, updatedElementsDict
+    return updatedElements 
             
 def edgeConverter(elements): #Convert Edges to default dictionary format 
     updatedElements = []
-    updatedElementsDict = {}
     for i in elements:
         updatedElements.append({"source": str(i[0]).replace("'","").replace('"',''), "target": str(i[1]).replace("'","").replace('"',''), "interaction": str(i[2]).replace("'","").replace('"','')})
-        tup = (str(i[0]).replace("'","").replace('"',''), str(i[1]).replace("'","").replace('"',''), str(i[2]).replace("'","").replace('"',''))
-        updatedElementsDict[tup] = updatedElementsDict.get(tup,0)+1
-    return updatedElements, updatedElementsDict
-
-# def process_genes(forSending, updatedElementsDict):
-#     for i in forSending[:]:
-#         if i.getElements() not in updatedElementsDict:
-#             forSending.remove(i)
-#     return forSending
+    return updatedElements 
 
 def make_text(elements):    
     '''Given all edges in the KnowledgeNet, it makes the text summary'''
@@ -330,10 +314,9 @@ def search():
         warning = ''
         if len(elements)>500:
             warning = 'The network might be too large to be displayed, so click on "Layout Options",  select the edge types that you are interested in and click "Recalculate layout".'
-        elements, elementsDict = process_network(elements)
+        elements = process_network(elements)
         cytoscape_js_code = generate_cytoscape_js(elements)
 
-        # forSending = process_genes(forSending, elementsDict)
         papers = []
         for i in forSending:
             papers+=[i.publication]
