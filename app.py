@@ -36,60 +36,50 @@ def process_network(elements):
         for i in edges:
             G.add_edge(i[0], i[1], relation = i[2])
         
-        # G = pageRankFilter(G)
-        # G =nodeDegreeFilter(G)
-        G =nodeDegreeFilter2(G)
+        G,ref =nodeDegreeFilter(G)
         
-        return graphConverter(G)
+        # return graphConverter(G)
+        return graphConverter(G,ref)
     else:
         return edgeConverter(edges)
 
-def pageRankFilter(graph,percentile=50):
-    pr = nx.pagerank(graph, alpha=0.85)
-    cutOff = np.percentile(list(pr.values()),percentile)
+def nodeDegreeFilter(graph):
     nodesToKeep = []
-    for k, v in pr.items():
-        if v > (cutOff):
-            nodesToKeep.append(k)
-    
-    nodesToRemove = set(graph.nodes) - set(nodesToKeep)
-    graph.remove_nodes_from(nodesToRemove)
-    return graph
-
-def nodeDegreeFilter(graph,percentile=50):
-    cutOff = np.percentile(list(dict(graph.degree).values()),percentile)
-    nodesToKeep = []
-    for k, v in graph.degree:
-        if v > (cutOff):
-            nodesToKeep.append(k)
-    
-    nodesToRemove = set(graph.nodes) - set(nodesToKeep)
-    graph.remove_nodes_from(nodesToRemove)
-    return graph
-
-def nodeDegreeFilter2(graph,divisor=2):
-    cutOff = int(len(graph.nodes)/divisor) if len(graph.nodes) > 500 else len(graph.nodes)
-    nodesToKeep = sorted(dict(graph.degree), key=dict(graph.degree).get, reverse=True)[:500 if len(graph.nodes)>1000 else cutOff]
-    
-    nodesToRemove = set(graph.nodes) - set(nodesToKeep)
-    graph.remove_nodes_from(nodesToRemove)
-    return graph
-
-def graphConverter(graph): # Convert Graph to default dictionary format
+    totalDegree = 0
+    for i in sorted(dict(graph.degree), key=dict(graph.degree).get, reverse=True):
+        currDegree = graph.degree(i)
+        if totalDegree <= 500 or nodesToKeep==[]: #must keep at least one nodes
+            nodesToKeep.append(i)
+            totalDegree += currDegree
+        if totalDegree > 500:
+            break
+    lst = set()
+    for j in nodesToKeep:
+        lst.update(list(graph.in_edges(j))+list(graph.out_edges(j)))
+    ref ={}
+    for i in lst:  # create a hash map for the entities to be kept
+        ref[i] = ref.get(i,0)+1
+    return graph, ref
+            
+def graphConverter(graph, ref):
     updatedElements = []
     updatedElementsDict = {}
     for k,v in graph.adjacency():
+        source = str(k).replace("'","").replace('"','')
         if v:
             # print(k)
             for i,j in v.items():
                 # print(i)
+                target = str(i).replace("'","").replace('"','')
                 for p,q in j.items():
                     # print(q['relation'])
-                    updatedElements.append({"source": str(k).replace("'","").replace('"',''), "target": str(i).replace("'","").replace('"',''), "interaction": str(q['relation']).replace("'","").replace('"','')})
-                    tup = (str(k).replace("'","").replace('"',''), str(i).replace("'","").replace('"',''), str(q['relation']).replace("'","").replace('"',''))
-                    updatedElementsDict[tup] = updatedElementsDict.get(tup,0)+1
+                    type = str(q['relation']).replace("'","").replace('"','')
+                    if (source, target) in ref:
+                        updatedElements.append({"source": source, "target": target, "interaction": type})
+                        tup = (source, target, type)
+                        updatedElementsDict[tup] = updatedElementsDict.get(tup,0)+1
     return updatedElements, updatedElementsDict
-
+            
 def edgeConverter(elements): #Convert Edges to default dictionary format 
     updatedElements = []
     updatedElementsDict = {}
@@ -99,11 +89,11 @@ def edgeConverter(elements): #Convert Edges to default dictionary format
         updatedElementsDict[tup] = updatedElementsDict.get(tup,0)+1
     return updatedElements, updatedElementsDict
 
-def process_genes(forSending, updatedElementsDict):
-    for i in forSending[:]:
-        if i.getElements() not in updatedElementsDict:
-            forSending.remove(i)
-    return forSending
+# def process_genes(forSending, updatedElementsDict):
+#     for i in forSending[:]:
+#         if i.getElements() not in updatedElementsDict:
+#             forSending.remove(i)
+#     return forSending
 
 def make_text(elements):    
     '''Given all edges in the KnowledgeNet, it makes the text summary'''
@@ -343,7 +333,7 @@ def search():
         elements, elementsDict = process_network(elements)
         cytoscape_js_code = generate_cytoscape_js(elements)
 
-        forSending = process_genes(forSending, elementsDict)
+        # forSending = process_genes(forSending, elementsDict)
         papers = []
         for i in forSending:
             papers+=[i.publication]
