@@ -1,0 +1,236 @@
+function downloadAsPDF() {
+  // Assuming your Cytoscape instance is named 'cy'
+  const cy = document.getElementById('cy')._cyreg.cy;
+
+
+  // Register the SVG Exporter plugin
+  cytoscape.use(cytoscapeSvg);
+
+  // Export the network view as an SVG
+  const svgContent = cy.svg({ copyStyles: true, bg: 'white' });
+
+  // Convert the SVG to a PDF using the jsPDF library
+  const pdf = new jsPDF('l', 'pt', 'a4');
+  pdf.svg(svgContent, { x: 10, y: 10, width: 500, height: 300 }).then(() => {
+    pdf.save('network.pdf');
+  });
+}
+
+// Add an event listener to the button to handle the click event
+document.querySelector(".open-button").addEventListener("click", openForm);
+
+
+function openForm() {
+  document.getElementById("myForm").style.display = "block";
+  
+  const cy = document.getElementById('cy')._cyreg.cy;
+  const edges = cy.edges();
+  const edgeCounts = {};
+  const showOnlyTypes = new Set();
+  
+  // count number of edges for each type
+  edges.forEach(function(edge) {
+    const type = edge.data().interaction;
+    if (edgeCounts[type] === undefined) {
+      edgeCounts[type] = 0;
+    }
+    edgeCounts[type]++;
+  });
+  
+  // sort edge types by count
+	const sortedEdgeTypes = Object.keys(edgeCounts).sort(function(a, b) {
+	  return edgeCounts[b] - edgeCounts[a];
+	}).slice(0, 120);
+
+  const interactionDiv = document.getElementById('interaction');
+  interactionDiv.innerHTML = '';
+
+  // create checkboxes for each edge type
+  const numColumns = Math.ceil(sortedEdgeTypes.length / 30);
+  const numTypesPerColumn = Math.ceil(sortedEdgeTypes.length / numColumns);
+  let columnCounter = 0;
+  let typeCounter = 0;
+  let currentColumn;
+
+  sortedEdgeTypes.forEach(function(type) {
+    const label = document.createElement('label');
+    label.innerText = `${type} (${edgeCounts[type]})`;
+
+    const showOnlyCheckbox = document.createElement('input');
+    showOnlyCheckbox.type = 'checkbox';
+    showOnlyCheckbox.value = 'show-only';
+    showOnlyCheckbox.onclick = function() {
+      if (!showOnlyTypes.has(type)) {
+        showOnlyTypes.add(type);
+      } else {
+        showOnlyTypes.delete(type);
+      }
+      
+      updateEdges();
+    };
+
+    label.prepend(showOnlyCheckbox);
+
+    const interactionTypeDiv = document.createElement('div');
+    interactionTypeDiv.append(label);
+
+    if (typeCounter % numTypesPerColumn === 0) {
+      currentColumn = document.createElement('div');
+      currentColumn.style.float = 'left';
+      currentColumn.style.width = 'calc(100% / ' + numColumns + ')';
+      interactionDiv.appendChild(currentColumn);
+      columnCounter++;
+    }
+
+    currentColumn.appendChild(interactionTypeDiv);
+    typeCounter++;
+  });
+  
+  function updateEdges() {
+    const shownEdges = cy.edges().filter(function(edge) {
+      const type = edge.data().interaction;
+      return showOnlyTypes.size === 0 || showOnlyTypes.has(type);
+    });
+
+    const connectedNodes = new Set();
+    shownEdges.forEach(function(edge) {
+      connectedNodes.add(edge.source());
+      connectedNodes.add(edge.target());
+    });
+
+    cy.nodes().forEach(function(node) {
+      if (!connectedNodes.has(node)) {
+        node.hide();
+      } else {
+        node.show();
+      }
+    });
+
+    cy.edges().hide();
+    shownEdges.show();
+
+  }
+}
+
+
+
+
+// Add an event listener to the button to handle the click event
+document.querySelector(".open-button").addEventListener("click", openForm);
+
+function closeForm() { document.getElementById("myForm").style.display = "none"; }
+
+document.addEventListener('DOMContentLoaded', function () {
+  const cy = cytoscape({
+	container: document.getElementById('cy'),
+    zoomingEnabled: true,
+    wheelSensitivity: 0.2,
+	elements: [
+	  // Nodes
+	  NODES,
+    
+	  // Edges
+	  EDGES
+	],
+
+	style: [
+	  {
+		selector: 'node',
+		style: {
+		  'background-color': '#6FB1FC', // Node background color
+		  'label': 'data(id)',
+		  'color': '#000000', // Node label text color
+		  'text-opacity': 1, // Node label text opacity (0-1)
+		  'font-size': '6px',
+		  'text-halign': 'center',
+		  'text-valign': 'center',
+		  'text-wrap': 'wrap',
+		  'text-max-width': 50
+		},
+	  },
+
+	  {
+		selector: 'edge',
+		style: {
+		  'width': 2,
+		  'line-color': '#A9A9A9', // Edge line color
+		  'curve-style': 'bezier', // Edge curve style
+		  'target-arrow-color': '#ccc',
+		  'target-arrow-shape': 'triangle',
+		  'curve-style': 'bezier',
+		  'label': 'data(interaction)',
+		  'font-size': '6px',
+		  'text-wrap': 'wrap', // Enable edge label text wrapping
+		  'text-max-width': 50, // Maximum edge label text width before wrapping (in pixels)
+		  'text-rotation': 'autorotate',
+		  'text-margin-x': '5px',
+		  'text-margin-y': '-5px'
+		},
+	  },
+	],
+
+	layout: {
+	  name: 'cose',
+		ready: function () {
+		  const layout = this;
+
+		  // Stop the layout after 2 seconds
+		  setTimeout(function () {
+			layout.stop();
+		  }, 20000);
+		}
+	}
+  });
+  
+cy.on('click', 'node', function(evt){
+	var node = evt.target;
+	var neighborhood = node.neighborhood().add(node);
+	var nonNeighbors = cy.nodes().difference(neighborhood);
+	neighborhood.style('opacity', '1');
+	nonNeighbors.style('opacity', '0.5');
+});
+
+cy.on('click', function(evt){
+  if( evt.target === cy ){
+    cy.nodes().style('opacity', '1');
+  }
+});
+
+var removedEles = cy.collection();
+
+cy.on('dblclick', 'node', function(evt){
+  var node = evt.target;
+  var neighborhood = node.neighborhood().add(node);
+  removedEles = cy.elements().difference(neighborhood).remove();
+  neighborhood.select();
+});
+
+cy.on('dblclick', function(evt){
+  if(evt.target === cy){
+    removedEles.restore();
+  }
+});
+
+cy.on('cxttap', 'node', function(evt){
+  var node = evt.target;
+  node.remove();
+});
+
+
+
+}
+);
+
+/*
+elements = [
+	  // Nodes
+	  NODES,
+    
+	  // Edges
+	  EDGES
+	]
+
+elements.forEach(ele => {
+  if (ele.data.id.length === 0) console.log(ele)
+})
+*/
