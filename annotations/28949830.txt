@@ -1,7 +1,0 @@
-Protein farnesylation refers to the addition of a 15-carbon farnesyl isoprenoid to the cysteine residue of the CaaX motif at the carboxy terminus of target proteins. In spite of its known roles in plant development and abiotic stress tolerance, how these processes are precisely regulated by farnesylation had remained elusive. We recently showed that CYP85A2, the cytochrome P450, which converts castasterone to brassinolide in the last step of brassinosteroid synthesis must be farnesylated in order to function in this pathway. Lack of either CYP85A2 or the farnesylation motif of CYP85A2 resulted in reduced brassinolide accumulation, hypersensitivity to ABA, and increased plant drought tolerance. In this study, we have assessed the influence of the N-terminal secretory signal and the C-terminal CaaX motif of CYP85A2 in mediating CYP85A2 function and targeting to endomembrane compartments. We show that CaaX motif could still target CYPA85A2 in the absence of an intact N-terminal secretory signal to the respective membrane compartments and partially rescue cyp85a2-2 phenotypes. However, in the absence of both the CaaX motif and the secretory signal, CYP85A2 is not targeted to the membranes and becomes unstable.
-
-CYP85A2: !requires! farnesylation 
-CYP85A2: !needs! CaaX motif 
-CYP85A2: !targets to! endomembrane compartments 
-CYP85A2: !mediated by! N-terminal secretory signal 
-CYP85A2: !stabilized by! CaaX motif and secretory signal

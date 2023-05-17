@@ -1,8 +1,0 @@
-['19710914', "BACKGROUND: In eukaryotes, the spindle assembly checkpoint (SAC) ensures that  chromosomes undergoing mitosis do not segregate until they are properly attached  to the microtubules of the spindle. METHODOLOGY/PRINCIPAL FINDINGS: We  investigated the mechanism underlying this surveillance mechanism in plants, by  characterising the orthogolous SAC proteins BUBR1, BUB3 and MAD2 from  Arabidopsis. We showed that the cell cycle-regulated BUBR1, BUB3.1 and MAD2  proteins interacted physically with each other. Furthermore, BUBR1 and MAD2  interacted specifically at chromocenters. Following SAC activation by global  defects in spindle assembly, these three interacting partners localised to  unattached kinetochores. In addition, in cases of 'wait anaphase', plant SAC  proteins were associated with both kinetochores and kinetochore microtubules.  Unexpectedly, BUB3.1 was also found in the phragmoplast midline during the final  step of cell division in plants. CONCLUSIONS/SIGNIFICANCE: We conclude that plant  BUBR1, BUB3.1 and MAD2 proteins may have the SAC protein functions conserved from  yeast to humans. The association of BUB3.1 with both unattached kinetochore and  phragmoplast suggests that in plant, BUB3.1 may have other roles beyond the  spindle assembly checkpoint itself. Finally, this study of the SAC dynamics  pinpoints uncharacterised roles of this surveillance mechanism in plant cell  division.", '2009 Aug 27', 'PLoS One', '10.1371/journal.pone.0006757', 'Favery']
-
-BUBR1: !interacts with! BUB3.1
-BUBR1: !interacts with! MAD2
-BUB3.1: !interacts with! MAD2
-BUBR1: !localizes to! chromocenters
-SAC proteins: !localize to! unattached kinetochores
-BUB3.1: !localizes to! phragmoplast midline

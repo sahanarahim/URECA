@@ -1,9 +1,0 @@
-In plants, the switch to autotrophic growth involves germination followed by postgermination seedling establishment. When environmental conditions are not favorable, the stress hormone abscisic acid (ABA) signals plants to postpone seedling establishment by inducing the expression of the transcription factor ABI5. The levels of ABI5 determine the efficiency of the ABA-mediated postgermination developmental growth arrest. The molecular mechanisms regulating the stability and activity of ABI5 during the transition to light are less known. Using genetic, molecular, and biochemical approach, we found that two B-box domain containing proteins BBX31 and BBX30 alongwith ABI5 inhibit postgermination seedling establishment in a partially interdependent manner. BBX31 and BBX30 are also characterized as microProteins miP1a and miP1b, respectively, based on their small size, single domain, and ability to interact with multidomain proteins. miP1a/BBX31 and miP1b/BBX30 physically interact with ABI5 to stabilize it and promote its binding to promoters of downstream genes. ABI5 reciprocally induces the expression of BBX30 and BBX31 by directly binding to their promoter. ABI5 and the two microProteins thereby form a positive feedback loop to promote ABA-mediated developmental arrest of seedlings.
-
-ABI5: !induces expression of! BBX30/miP1b
-BBX30/miP1b: !interacts with! ABI5
-BBX31/miP1a: !interacts with! ABI5
-ABI5: !stabilized by! BBX30/miP1b & BBX31/miP1a
-ABI5: !binds to! promoters of downstream genes
-ABI5: !induces expression of! BBX31/miP1a
-BBX30/miP1b & BBX31/miP1a: !form positive feedback loop with! ABI5

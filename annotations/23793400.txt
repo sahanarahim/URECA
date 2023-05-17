@@ -1,9 +1,0 @@
-The secretory pathway is responsible for the transport of newly synthesized transmembrane proteins from the endoplasmic reticulum to their destinations via the Golgi/trans-Golgi network (TGN). Cargo proteins at each station are actively sorted by specific sorting signals on the cargo and the corresponding coat complexes. Here, we used the Arabidopsis regulator of G-protein signaling (AtRGS1), which contains an N-terminal potentially sensing glucose seven-transmembrane domain and a C-terminal RGS domain, as a model to uncover sorting motifs required for its cell surface expression. Expression of wild-type and truncated or mutated AtRGS1 fluorescent fusion proteins identified two cysteine residues in the extracellular N-terminus that are essential for endoplasmic reticulum exit and/or correct folding of AtRGS1. The linker between the seven-transmembrane and RGS domains contains an endoplasmic reticulum export signal, whereas the C-terminus is dispensable for the plasma membrane expression of AtRGS1. Interestingly, deletion of the RGS domain results in Golgi/TGN localization of the truncated AtRGS1. Further analysis using site-directed mutagenesis showed that a tyrosine-based motif embedded in the RGS domain is essential for Golgi/TGN export of AtRGS1. These results reveal a new role for the RGS domain in regulating AtRGS1 trafficking from the Golgi/TGN to the plasma membrane and explain the interaction between the seven-transmembrane and RGS domains.
-
-AtRGS1: !contains! N-terminal seven-transmembrane domain 
-AtRGS1: !contains! C-terminal RGS domain 
-Linker: !contains! endoplasmic reticulum export signal 
-Cysteine residues: !essential for! endoplasmic reticulum exit 
-Tyrosine-based motif: !essential for! Golgi/TGN export 
-RGS domain: !regulates! AtRGS1 trafficking 
-Seven-transmembrane domain: !interacts with! RGS domain

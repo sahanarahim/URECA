@@ -1,9 +1,0 @@
-Mapping-by-sequencing, as implemented in SHOREmap ('SHOREmapping'), is greatly accelerating the identification of causal mutations. The original SHOREmap approach based on resequencing of bulked segregants required a highly accurate and complete reference sequence. However, current whole-genome or transcriptome assemblies from next-generation sequencing data of non-model organisms do not produce chromosome-length scaffolds. We have therefore developed a method that exploits synteny with a related genome for genetic mapping. We first demonstrate how mapping-by-sequencing can be performed using a reduced number of markers, and how the associated decrease in the number of markers can be compensated for by enrichment of marker sequences. As proof of concept, we apply this method to Arabidopsis thaliana gene models ordered by synteny with the genome sequence of the distant relative Brassica rapa, whose genome has several large-scale rearrangements relative to A. thaliana. Our approach provides an alternative method for high-resolution genetic mapping in species that lack finished genome reference sequences or for which only RNA-seq assemblies are available. Finally, for improved identification of causal mutations by fine-mapping, we introduce a new likelihood ratio test statistic, transforming local allele frequency estimations into a confidence interval similar to conventional mapping intervals.
-
-Mapping-by-sequencing: !accelerates! Identification of causal mutations 
-SHOREmap: !requires! Highly accurate reference sequence 
-Synteny: !exploits! Genetic mapping 
-Reduced number of markers: !compensated for by! Enrichment of marker sequences 
-Arabidopsis thaliana gene models: !ordered by! Synteny with Brassica rapa genome 
-High-resolution genetic mapping: !performed in! Species without finished genome reference sequences 
-Likelihood ratio test statistic: !transforms! Local allele frequency estimations

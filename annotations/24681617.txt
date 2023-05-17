@@ -1,9 +1,0 @@
-Macromolecular membrane assemblies of chlorophyll-protein complexes efficiently harvest and trap light energy for photosynthesis. To investigate the delivery of chlorophylls to the newly synthesized photosystem apoproteins, a terminal enzyme of chlorophyll biosynthesis, chlorophyll synthase (ChlG), was tagged in the cyanobacterium Synechocystis PCC 6803 (Synechocystis) and used as bait in pull-down experiments. We retrieved an enzymatically active complex comprising ChlG and the high-light-inducible protein HliD, which associates with the Ycf39 protein, a putative assembly factor for photosystem II, and with the YidC/Alb3 insertase. 2D electrophoresis and immunoblotting also provided evidence for the presence of SecY and ribosome subunits. The isolated complex contained chlorophyll, chlorophyllide, and carotenoid pigments. Deletion of hliD elevated the level of the ChlG substrate, chlorophyllide, more than 6-fold; HliD is apparently required for assembly of FLAG-ChlG into larger complexes with other proteins such as Ycf39. These data reveal a link between chlorophyll biosynthesis and the Sec/YidC-dependent cotranslational insertion of nascent photosystem polypeptides into membranes. We expect that this close physical linkage coordinates the arrival of pigments and nascent apoproteins to produce photosynthetic pigment-protein complexes with minimal risk of accumulating phototoxic unbound chlorophylls.
-
-ChlG: !synthesizes! chlorophyll
-HliD: !associates with! Ycf39
-Ycf39: !interacts with! YidC/Alb3
-SecY: !localizes to! complex
-Ribosome subunits: !localizes to! complex
-HliD: !represses! ChlG substrate
-FLAG-ChlG: !assembles into! larger complexes

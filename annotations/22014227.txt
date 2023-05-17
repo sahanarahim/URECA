@@ -1,9 +1,0 @@
-['22014227', 'Retrograde plastid-to-nucleus signaling tightly controls and coordinates the  nuclear and plastid gene expression that is required for plastid biogenesis and  chloroplast activity. As chloroplasts act as sensors of environmental changes,  plastid-derived signaling also modulates stress responses of plants by  transferring stress-related signals and altering nuclear gene expression. Various  mutant screens have been undertaken to identify constituents of plastid signaling  pathways. Almost all mutations identified in these screens target  plastid-specific but not extraplastidic functions. They have been suggested to  define either genuine constituents of retrograde signaling pathways or components  required for the synthesis of plastid signals. Here we report the  characterization of the constitutive activator of AAA-ATPase (caa33) mutant,  which reveals another way of how mutations that affect plastid functions may  modulate retrograde plastid signaling. caa33 disturbs a plastid-specific function  by impeding plastid division, and thereby perturbing plastid homeostasis. This  results in preconditioning plants by activating the expression of stress genes,  enhancing pathogen resistance and attenuating the capacity of the plant to  respond to plastid signals. Our study reveals an intimate link between  chloroplast activity and the susceptibility of the plant to stress, and  emphasizes the need to consider the possible impact of preconditioning on  retrograde plastid-to-nucleus signaling.', '2012 Feb', 'Plant J', '10.1111/j.1365-313X.2011.04825.x', 'Apel']
-
-plastid: !sends signals to! nucleus
-mutations: !affect! plastid functions
-caa33: !impairs! plastid division
-plastid homeostasis: !perturbs! retrograde signaling
-preconditioning: !activates! stress genes
-stress genes: !enhances! pathogen resistance
-plastid activity: !influences! susceptibility to stress

@@ -1,7 +1,0 @@
-Leaf angle is an important agronomic trait determining maize (Zea mays) planting density and light penetration into the canopy and contributes to the yield gain in modern maize hybrids. However, little is known about the molecular mechanisms underlying leaf angle beyond the ZmLG1 (liguleless1) and ZmLG2 (Liguleless2) genes. In this study, we found that the transcription factor (TF) ZmBEH1 (BZR1/BES1 homolog gene 1) is targeted by ZmLG2 and regulates leaf angle formation by influencing sclerenchyma cell layers on the adaxial side. ZmBEH1 interacted with the TF ZmBZR1 (Brassinazole Resistant 1), whose gene expression was also directly activated by ZmLG2. Both ZmBEH1 and ZmBZR1 are bound to the promoter of ZmSCL28 (SCARECROW-LIKE 28), a third TF that influences leaf angle. Our study demonstrates regulatory modules controlling leaf angle and provides gene editing targets for creating optimal maize architecture suitable for dense planting.
-
-ZmLG2: !targets! ZmBEH1
-ZmBEH1: !interacts with! ZmBZR1
-ZmLG2: !activates! ZmBZR1
-ZmBEH1: !binds to! ZmSCL28
-ZmBZR1: !binds to! ZmSCL28

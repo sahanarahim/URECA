@@ -1,8 +1,0 @@
-The DELLA protein SLENDER RICE1 (SLR1) is a repressor of gibberellin (GA) signaling in rice (Oryza sativa), and most of the GA-associated responses are induced upon SLR1 degradation. It is assumed that interaction between GIBBERELLIN INSENSITIVE DWARF1 (GID1) and the N-terminal DELLA/TVHYNP motif of SLR1 triggers F-box protein GID2-mediated SLR1 degradation. We identified a semidominant dwarf mutant, Slr1-d4, which contains a mutation in the region encoding the C-terminal GRAS domain of SLR1 (SLR1(G576V)). The GA-dependent degradation of SLR1(G576V) was reduced in Slr1-d4, and compared with SLR1, SLR1(G576V) showed reduced interaction with GID1 and almost none with GID2 when tested in yeast cells. Surface plasmon resonance of GID1-SLR1 and GID1-SLR1(G576V) interactions revealed that the GRAS domain of SLR1 functions to stabilize the GID1-SLR1 interaction by reducing its dissociation rate and that the G576V substitution in SLR1 diminishes this stability. These results suggest that the stable interaction of GID1-SLR1 through the GRAS domain is essential for the recognition of SLR1 by GID2. We propose that when the DELLA/TVHYNP motif of SLR1 binds with GID1, it enables the GRAS domain of SLR1 to interact with GID1 and that the stable GID1-SLR1 complex is efficiently recognized by GID2.
-
-SLR1: !represses! GA signaling
-GID1: !interacts with! SLR1
-GID2: !mediates! SLR1 degradation
-SLR1(G576V): !reduces! GID1-SLR1 interaction
-GRAS domain: !stabilizes! GID1-SLR1 interaction
-GID1-SLR1 complex: !recognized by! GID2

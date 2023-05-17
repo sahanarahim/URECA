@@ -1,9 +1,0 @@
-['19843313', 'Nuclear pore complexes (NPCs) are vital to nuclear-cytoplasmic communication in  eukaryotes. The yeast NPC-associated TREX-2 complex, also known as the  Thp1-Sac3-Cdc31-Sus1 complex, is anchored on the NPC via the nucleoporin Nup1,  and is essential for mRNA export. Here we report the identification and  characterization of the putative Arabidopsis thaliana TREX-2 complex and its  anchoring nucleoporin. Physical and functional evidence support the  identification of the Arabidopsis orthologs of yeast Thp1 and Nup1. Of three  Arabidopsis homologs of yeast Sac3, two are putative TREX-2 components, but,  surprisingly, none are required for mRNA export as they are in yeast. Physical  association of the two Cdc31 homologs, but not the Sus1 homolog, with the TREX-2  complex was observed. In addition to identification of these TREX-2 components,  direct interactions of the Arabidopsis homolog of DSS1, which is an established  proteasome component in yeast and animals, with both the TREX-2 complex and the  proteasome were observed. This suggests the possibility of a link between the two  complexes. Thus this work has identified the putative Arabidopsis TREX-2 complex  and provides a foundation for future studies of nuclear export in Arabidopsis.', '2010 Jan', 'Plant J', '10.1111/j.1365-313X.2009.04048.x', 'Cui']
-
-NPC: !anchors! TREX-2
-Thp1: !localizes to! NPC
-Nup1: !anchors! TREX-2
-Sac3: !putatively localizes to! TREX-2
-Cdc31: !physically associates with! TREX-2
-Sus1: !not required for! mRNA export
-DSS1: !interacts with! TREX-2 & proteasome

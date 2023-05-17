@@ -1,7 +1,0 @@
-The AthaMap database generates a map of predicted transcription factor binding sites (TFBS) and small RNA target sites for the whole Arabidopsis thaliana genome. With the advent of protein binding microarrays (PBM), the number of known TFBS for A. thaliana transcription factors (TFs) has increased dramatically. Using 113 positional weight matrices (PWMs) generated from a single PBM study and representing a total number of 68 different TFs, the number of predicted TFBS in AthaMap was now increased by about 3.8 × 10(7) to 4.9 × 10(7). The number of TFs with PWM-predicted TFBS annotated in AthaMap has increased to 126, representing a total of 29 TF families and newly including ARF, AT-Hook, YABBY, LOB/AS2 and SRS. Furthermore, links from all Arabidopsis TFs and genes to the newly established Arabidopsis Information Portal (AIP) have been implemented. With this qualitative and quantitative update, the improved AthaMap increases its value as a resource for the analysis of A. thaliana gene expression regulation at www.athamap.de.
-
-AthaMap: !generates! map of TFBS
-PBM: !increases! number of known TFBS
-113 PWMs: !represent! 68 different TFs
-AthaMap: !annotates! 126 TFs
-AIP: !links! Arabidopsis TFs and genes

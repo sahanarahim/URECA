@@ -1,8 +1,0 @@
-Phosphatidylinositol 3-phosphate (PI3P) is a signaling phospholipid that play a key role in endomembrane trafficking, specifically autophagy and endosomal trafficking. However, the mechanisms underlying the contribution of PI3P downstream effectors to plant autophagy remain unknown. Known PI3P effectors for autophagy in <i>Arabidopsis thaliana</i> include ATG18A (Autophagy-related 18A) and FYVE2 (Fab1p, YOTB, Vac1p, and EEA1 2), which are implicated in autophagosome biogenesis. Here, we report that FYVE3, a paralog of plant-specific FYVE2, plays a role in FYVE2-dependent autophagy. Using yeast two-hybrid and bimolecular fluorescence complementation assays, we determined that the FYVE3 protein was associated with autophagic machinery containing ATG18A and FYVE2, by interacting with ATG8 isoforms. The FYVE3 protein was transported to the vacuole, and the vacuolar delivery of FYVE3 relies on PI3P biosynthesis and the canonical autophagic machinery. Whereas the <i>fyve3</i> mutation alone barely affects autophagic flux, it suppresses defective autophagy in <i>fyve2</i> mutants. Based on the molecular genetics and cell biological data, we propose that FYVE3 specifically regulates FYVE2-dependent autophagy.
-
-PI3P: !affects! Autophagy
-ATG18A: !interacts with! FYVE2
-FYVE2: !interacts with! ATG8
-FYVE3: !interacts with! ATG8
-FYVE3: !localizes to! Vacuole
-FYVE3: !enhances! FYVE2-dependent Autophagy

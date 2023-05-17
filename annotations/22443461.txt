@@ -1,8 +1,0 @@
-Xylem hydraulic conductivity (K) is typically defined as K = F/(P/L), where F is the flow rate through a xylem segment associated with an applied pressure gradient (P/L) along the segment. This definition assumes a linear flow-pressure relationship with a flow intercept (F(0)) of zero. While linearity is typically the case, there is often a non-zero F(0) that persists in the absence of leaks or evaporation and is caused by passive uptake of water by the sample. In this study, we determined the consequences of failing to account for non-zero F(0) for both K measurements and the use of K to estimate the vulnerability to xylem cavitation. We generated vulnerability curves for olive root samples (Olea europaea) by the centrifuge technique, measuring a maximally accurate reference K(ref) as the slope of a four-point F vs P/L relationship. The K(ref) was compared with three more rapid ways of estimating K. When F(0) was assumed to be zero, K was significantly under-estimated (average of -81.4 ± 4.7%), especially when K(ref) was low. Vulnerability curves derived from these under-estimated K values overestimated the vulnerability to cavitation. When non-zero F(0) was taken into account, whether it was measured or estimated, more accurate K values (relative to K(ref)) were obtained, and vulnerability curves indicated greater resistance to cavitation. We recommend accounting for non-zero F(0) for obtaining accurate estimates of K and cavitation resistance in hydraulic studies.
-
-F: !defined as! K
-F(0): !caused by! passive uptake of water
-K: !under-estimated when! F(0) assumed to be zero
-K: !overestimated vulnerability to cavitation when! F(0) assumed to be zero
-F(0): !accounted for to obtain accurate! K
-K: !accurate estimates of! cavitation resistance

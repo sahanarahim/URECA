@@ -1,7 +1,0 @@
-The expression pattern of any pair of genes may be negatively correlated, positively correlated, or not correlated at all in response to different stresses and even different progression stages of the stress. This makes it difficult to identify such relationships by classical statistical tools such as the Pearson correlation coefficient. Hence, dedicated bioinformatics approaches that are able to identify groups of cues in which there is a positive or negative expression correlation between pairs or groups of genes are called for. We herein introduce and discuss a bioinformatics approach, termed Gene Coordination, that is devoted to the identification of specific or multiple cues in which there is a positive or negative coordination between pairs of genes and can further incorporate additional coordinated genes to form large coordinated gene networks. We demonstrate the utility of this approach by providing a case study in which we were able to discover distinct expression behavior of the energy-associated gene network in response to distinct biotic and abiotic stresses. This bioinformatics approach is suitable to a broad range of studies that compare treatments versus controls, such as effects of various cues, or expression changes between a mutant and the control wild-type genotype.
-
-Gene: !affects! Expression Pattern
-Gene: !correlated with! Pearson Correlation Coefficient
-Gene: !identified by! Gene Coordination
-Gene: !demonstrated by! Case Study
-Gene: !compared in! Treatments vs Controls

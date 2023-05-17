@@ -1,8 +1,0 @@
-A key step in microRNA biogenesis is the processing of a primary precursor RNA by the microprocessor into a precursor miRNA (pre-miRNA) intermediate. In plants, little is known about the processes that act on pre-miRNAs to influence miRNA biogenesis. Here, we performed 3' rapid amplification of complementary DNA ends sequencing to profile pre-miRNA 3' ends in Arabidopsis. 3' end heterogeneity was prevalent, and the three microprocessor components promoted 3' end precision. Extensive cytidylation and uridylation of precise and imprecise pre-miRNA 3' ends were uncovered. The nucleotidyl transferase HESO1 uridylated pre-miRNAs in vitro and was responsible for most pre-miRNA uridylation in vivo. HESO1, NTP6 and NTP7 contribute to pre-miRNA cytidylation. Tailing of pre-miRNAs tended to restore trimmed pre-miRNAs to their intact length to promote further processing. In addition, HESO1-mediated uridylation led to the degradation of certain imprecisely processed pre-miRNAs. Thus, we uncovered widespread cytidylation and uridylation of pre-miRNAs and demonstrated diverse functions of pre-miRNA tailing in plants.
-
-microprocessor: !processes! pre-miRNA
-3 components: !promote! 3' end precision
-HESO1: !uridylates! pre-miRNAs
-NTP6/7: !contribute to! pre-miRNA cytidylation
-tailing: !restores! trimmed pre-miRNAs
-HESO1: !leads to! degradation of imprecise pre-miRNAs

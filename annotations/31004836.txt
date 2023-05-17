@@ -1,8 +1,0 @@
-Cells of eukaryotic multicellular organisms have inherent heterogeneity. Recent advances in single-cell gene expression studies enable us to explore transcriptional regulation in dynamic development processes and highly heterogeneous cell populations. In this study, using a high-throughput single-cell RNA-sequencing assay, we found that the cells in Arabidopsis root are highly heterogeneous in their transcriptomes. A total of 24 putative cell clusters and the cluster-specific marker genes were identified. The spatial distribution and temporal ordering of the individual cells at different developmental stages illustrate their hierarchical structures and enable the reconstruction of continuous differentiation trajectory of root development. Moreover, we found that each root cell cluster exhibits distinct patterns of ion assimilation and hormonal responses. Collectively, our study reveals a high degree of heterogeneity of root cells and identifies the expression signatures of intermediate states during root cell differentiation at single-cell resolution. We also established a web server (http://wanglab.sippe.ac.cn/rootatlas/) to facilitate the use of the datasets generated in this study.
-
-Gene: !affects! Cell clusters 
-Cell clusters: !localize to! Arabidopsis root 
-Gene: !interacts with! Ion assimilation 
-Gene: !enhances! Hormonal responses 
-Gene: !represses! Differentiation trajectory 
-Gene: !synthesizes! Web server

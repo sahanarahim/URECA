@@ -1,7 +1,0 @@
-Defective citrus fruits are manually sorted at the moment, which is a time-consuming and cost-expensive process with unsatisfactory accuracy. In this paper, we introduce a deep learning-based vision system implemented on a citrus processing line for fast on-line sorting. For the citrus fruits rotating randomly on the conveyor, a convolutional neural network-based detector was developed to detect and temporarily classify the defective ones, and a SORT algorithm-based tracker was adopted to record the classification information along their paths. The true categories of the citrus fruits were identified through the tracked historical information, resulting in high detection precision of 93.6%. Moreover, the linear Kalman filter model was applied to predict the future path of the fruits, which can be used to guide the robot arms to pick out the defective ones. Ultimately, this research presents a practical solution to realize on-line citrus sorting featuring low costs, high efficiency, and accuracy.
-
-Deep Learning: !detects and classifies! Defective Citrus Fruits 
-Convolutional Neural Network: !temporarily classifies! Defective Citrus Fruits 
-SORT Algorithm: !records classification information! Defective Citrus Fruits 
-Kalman Filter Model: !predicts future path! Defective Citrus Fruits 
-Robot Arms: !picks out! Defective Citrus Fruits

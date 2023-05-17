@@ -1,6 +1,0 @@
-Biodiversity research typically focuses on species richness and has often neglected interactions, either by assuming that such interactions are homogeneously distributed or by addressing only the interactions between a pair of species or a few species at a time. In contrast, a network approach provides a powerful representation of the ecological interactions among species and highlights their global interdependence. Understanding how the responses of pairwise interactions scale to entire assemblages remains one of the great challenges that must be met as society faces global ecosystem change.
-
-species: !interacts with! species 
-network: !represents! interactions 
-responses: !scale to! assemblages 
-challenge: !faces! society

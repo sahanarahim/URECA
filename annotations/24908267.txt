@@ -1,8 +1,0 @@
-Arabidopsis phytochrome B (phyB) is the major photoreceptor that senses the ratio of red to far-red light (R:FR) to regulate the shade-avoidance response (SAR). It has been hypothesized that altered homeostasis of phytohormones such as auxin and strigolactone is at least partially responsible for SAR, but the mechanism underlying phyB regulation of the hormonal change is not fully understood. Previously we reported that CONSTANS-LIKE 7 (COL7) enhances branching number under high R:FR but not under low R:FR, implying that COL7 may be involved in the phyB-mediated SAR. In this study, we provide evidence that COL7 reduces auxin levels in a high R:FR-dependent manner. We found that the phyB mutation suppresses the COL7-induced branching proliferation. Moreover, COL7 promotes mRNA expression of SUPERROOT 2 (SUR2), which encodes a suppressor of auxin biosynthesis, in high R:FR but not in low R:FR. Consistently with these results, deficiency of phyB suppresses the elevated transcription of SUR2 in COL7 overexpression plants grown in high R:FR. Taking these results together with data suggesting that photo-excited phyB is required for stabilization of the COL7 protein, we argue that COL7 is a critical factor linking light perception to changes in auxin level in Arabidopsis.
-
-phyB: !regulates! SAR
-COL7: !enhances! branching number
-COL7: !reduces! auxin levels
-phyB: !suppresses! COL7-induced branching proliferation
-COL7: !promotes! SUR2 mRNA expression
-phyB: !stabilizes! COL7 protein

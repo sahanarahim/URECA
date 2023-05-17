@@ -1,8 +1,0 @@
-A Glycine max gene encoding a putative protein similar to hypersensitive-induced response proteins (HIR) was identified as a gene with preferred expressions in flowers and developing seeds by whole transcriptome gene expression profiling. Its promoter gm-hir1 was cloned and revealed to strongly express a fluorescence reporter gene primarily in integuments, anther tapetum, and seed coat with unique tissue-specificity. Expression in the inner integument was apparent prior to pollination, while expression in the outer integument started to develop from the micropylar end outward as the embryo matured. A 5'-deletion study showed that the promoter can be truncated to 600 bp long relative to the translation start site without affecting expression. A positive regulatory element was identified between 600 and 481 bp that controls expression in the inner integument, with no noticeable effect on expression in the outer integument or tapetum. Additionally, removal of the 5'UTR intron had no effect on levels or location of gm-hir1 expression while truncation to 370 bp resulted in a complete loss of expression suggesting that elements controlling both the outer integument and tapetum expression are located within the 481-370 bp region.
-
-gm-hir1: !expresses! fluorescence reporter gene 
-gm-hir1: !localizes to! integuments, anther tapetum, seed coat 
-gm-hir1: !controlled by! positive regulatory element 
-positive regulatory element: !located between! 600 and 481 bp 
-5'UTR intron: !has no effect on! gm-hir1 expression 
-481-370 bp region: !controls! outer integument and tapetum expression

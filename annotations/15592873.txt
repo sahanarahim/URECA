@@ -1,7 +1,0 @@
-['15592873', 'Leucine-rich repeat (LRR)-containing transmembrane receptor-like kinases (RLKs)  are important components of plant signal transduction. The Arabidopsis thaliana  somatic embryogenesis receptor-like kinase 1 (AtSERK1) is an LRR-RLK proposed to  participate in a signal transduction cascade involved in embryo development. By  yeast two-hybrid screening we identified AtCDC48, a homologue of the mammalian  AAA-ATPase p97 and GF14lambda, a member of the Arabidopsis family of 14-3-3  proteins as AtSERK1 interactors. In vitro, the AtSERK1 kinase domain is able to  transphosphorylate and bind both AtCDC48 and GF14lambda. In yeast, AtCDC48  interacts with GF14lambda and with the PP2C phosphatase KAPP. In plant  protoplasts AtSERK1 interacts with GF14lambda.', '2005 Jun', 'Planta', '10.1007/s00425-004-1447-7', 'de']
-
-AtSERK1: !interacts with! AtCDC48
-AtSERK1: !interacts with! GF14lambda
-AtCDC48: !interacts with! GF14lambda
-AtCDC48: !interacts with! KAPP
-AtSERK1: !interacts with! GF14lambda

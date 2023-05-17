@@ -1,8 +1,0 @@
-Precise organization of growing structures is a fundamental process in developmental biology. In plants, radial growth is mediated by the cambium, a stem cell niche continuously producing wood (xylem) and bast (phloem) in a strictly bidirectional manner. While this process contributes large parts to terrestrial biomass, cambium dynamics eludes direct experimental access due to obstacles in live-cell imaging. Here, we present a cell-based computational model visualizing cambium activity and integrating the function of central cambium regulators. Performing iterative comparisons of plant and model anatomies, we conclude that the receptor-like kinase PXY and its ligand CLE41 are part of a minimal framework sufficient for instructing tissue organization. By integrating tissue-specific cell wall stiffness values, we moreover probe the influence of physical constraints on tissue geometry. Our model highlights the role of intercellular communication within the cambium and shows that a limited number of factors are sufficient to create radial growth by bidirectional tissue production.
-
-PXY: !instructs! tissue organization
-CLE41: !activates! PXY
-PXY: !regulates! cambium activity
-cambium: !produces! wood and bast
-tissue-specific cell wall stiffness: !influences! tissue geometry
-intercellular communication: !mediates! radial growth

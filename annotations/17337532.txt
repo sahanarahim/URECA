@@ -1,8 +1,0 @@
-Polar transport of auxin has been identified as a central element of pattern formation. The polarity of auxin transport is linked to the cycling of pin-formed proteins, a process that is related to actomyosin-dependent vesicle traffic. To get insight into the role of actin for auxin transport, we used patterned cell division to monitor the polarity of auxin fluxes. We show that cell division in the tobacco (Nicotiana tabacum L. cv Bright-Yellow 2) cell line is partially synchronized and that this synchrony can be perturbed by inhibition of auxin transport by 1-N-naphthylphthalamic acid. To address the role of actin in this synchrony, we induced a bundled configuration of actin by overexpressing mouse talin. The bundling of actin impairs the synchrony of cell division and increases the sensitivity to 1-N-naphthylphthalamic acid. Addition of the polarly transported auxins indole-3-acetic acid and 1-naphthyl acetic acid (but not 2,4-dichlorophenoxyacetic acid) restored both the normal organization of actin and the synchrony of cell division. This study suggests that auxin controls its own transport by changing the state of actin filaments.
-
-auxin: !affects! actin
-actin: !impairs! synchrony of cell division
-1-N-naphthylphthalamic acid: !inhibits! auxin transport
-mouse talin: !induces! bundled configuration of actin
-indole-3-acetic acid: !restores! normal organization of actin
-1-naphthyl acetic acid: !restores! synchrony of cell division

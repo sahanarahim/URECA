@@ -1,7 +1,0 @@
-Plant circadian clocks that oscillate autonomously with a roughly 24-h period are entrained by fluctuating light and temperature and globally regulate downstream genes in the field. However, it remains unknown how punctual internal time produced by the circadian clock in the field is and how it is affected by environmental fluctuations due to weather or daylength. Using hundreds of samples of field-grown rice (Oryza sativa) leaves, we developed a statistical model for the expression of circadian clock-related genes integrating diurnally entrained circadian clock with phase setting by light, both responses to light and temperature gated by the circadian clock. We show that expression of individual genes was strongly affected by temperature. However, internal time estimated from expression of multiple genes, which may reflect transcriptional regulation of downstream genes, is punctual to 22 min and not affected by weather, daylength, or plant developmental age in the field. We also revealed perturbed progression of internal time under controlled environment or in a mutant of the circadian clock gene GIGANTEA. Thus, we demonstrated that the circadian clock is a regulatory network of multiple genes that retains accurate physical time of day by integrating the perturbations on individual genes under fluctuating environments in the field.
-
-Gene: !affects! Expression 
-Light: !entrains! Circadian Clock 
-Temperature: !gates! Light Response 
-Multiple Genes: !estimate! Internal Time 
-GIGANTEA: !perturbs! Progression of Internal Time

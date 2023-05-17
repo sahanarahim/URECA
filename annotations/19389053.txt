@@ -1,7 +1,0 @@
-Using the economics of gas exchange, early studies derived an expression of stomatal conductance (g) assuming that water cost per unit carbon is constant as the daily loss of water in transpiration (f(e)) is minimized for a given gain in photosynthesis (f(c)). Other studies reached identical results, yet assumed different forms for the underlying functions and defined the daily cost parameter as carbon cost per unit water. We demonstrated that the solution can be recovered when optimization is formulated at time scales commensurate with the response time of g to environmental stimuli. The optimization theory produced three emergent gas exchange responses that are consistent with observed behaviour: (1) the sensitivity of g to vapour pressure deficit (D) is similar to that obtained from a previous synthesis of more than 40 species showing g to scale as 1 - m log(D), where m is in [0.5,0.6], (2) the theory is consistent with the onset of an apparent 'feed-forward' mechanism in g, and (3) the emergent non-linear relationship between the ratio of intercellular to atmospheric [CO(2)] (c(i)/c(a)) and D agrees with the results available on this response. We extended the theory to diagnosing experimental results on the sensitivity of g to D under varying c(a).
-
-g: !minimizes! f(e) 
-g: !scales as! 1 - m log(D) 
-g: !onset of! 'feed-forward' mechanism 
-g: !non-linear relationship between! c(i)/c(a) and D 
-g: !sensitivity of! g to D under varying c(a)

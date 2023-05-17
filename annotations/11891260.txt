@@ -1,9 +1,0 @@
-['11891260', 'Four types of phospholipase D (PLD), PLD alpha, beta, gamma, and delta, have been  characterized in Arabidopsis, and they display different requirements for Ca(2+),  phosphatidylinositol 4,5-bisphosphate (PIP(2)), substrate vesicle composition,  and/or free fatty acids. However, all previously cloned plant PLDs contain a  Ca(2+)-dependent phospholipid-binding C2 domain and require Ca(2+) for activity.  This study documents a new type of PLD, PLD zeta 1, which is distinctively  different from previously characterized PLDs. It contains at the N terminus a  Phox homology domain and a pleckstrin homology domain, but not the C2 domain. A  full-length cDNA for Arabidopsis PLD zeta 1 has been identified and used to  express catalytically active PLD in Escherichia coli. PLD zeta 1 does not require  Ca(2+) or any other divalent cation for activity. In addition, it selectively  hydrolyzes phosphatidylcholine, whereas the other Arabidopsis PLDs use several  phospholipids as substrates. PLD zeta 1 requires PIP(2) for activity, but unlike  the PIP(2)-requiring PLD beta or gamma, phosphatidylethanolamine is not needed in  substrate vesicles. These differences are described, together with a genomic  analysis of 12 putative Arabidopsis PLD genes that are grouped into alpha, beta,  delta, gamma, and zeta based on their gene architectures, sequence similarities,  domain structures, and biochemical properties.', '2002 Mar', 'Plant Physiol', '10.1104/pp.010928', 'Wang']
-
-PLD alpha: !requires! Ca(2+) 
-PLD beta: !requires! PIP(2) 
-PLD gamma: !requires! PIP(2) 
-PLD delta: !requires! Ca(2+) 
-PLD zeta 1: !requires! PIP(2) 
-PLD zeta 1: !selectively hydrolyzes! phosphatidylcholine 
-PLD zeta 1: !does not require! Ca(2+)

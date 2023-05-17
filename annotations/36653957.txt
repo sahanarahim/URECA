@@ -1,9 +1,0 @@
-Ubiquitin-like domain-containing proteins (UDPs) are involved in the ubiquitin-proteasome system because of their ability to interact with the 26S proteasome. Here, we identified potato StUDP as a target of the Phytophthora infestans RXLR effector Pi06432 (PITG_06432), which supresses the salicylic acid (SA)-related immune pathway. By overexpressing and silencing of StUDP in potato, we show that StUDP negatively regulates plant immunity against P. infestans. StUDP interacts with, and destabilizes, the 26S proteasome subunit that is referred to as REGULATORY PARTICLE TRIPLE-A ATP-ASE (RPT) subunit StRPT3b. This destabilization represses the proteasome activity. Proteomic analysis and Western blotting show that StUDP decreases the stability of the master transcription factor SYSTEMIC ACQUIRED RESISTANCE DEFICIENT 1 (SARD1) in SA biosynthesis. StUDP negatively regulates the SA signalling pathway by repressing the proteasome activity and destabilizing StSARD1, leading to a decreased expression of the SARD1-targeted gene ISOCHORISMATE SYNTHASE 1 and thereby a decrease in SA content. Pi06432 stabilizes StUDP, and it depends on StUDP to destabilize StRPT3b and thereby supress the proteasome activity. Our study reveals that the P. infestans effector Pi06432 targets StUDP to hamper the homeostasis of the proteasome by the degradation of the proteasome subunit StRPT3b and thereby suppresses SA-related immunity.
-
-Pi06432: !stabilizes! StUDP
-StUDP: !interacts with! 26S proteasome subunit StRPT3b
-StUDP: !destabilizes! StRPT3b
-StUDP: !represses! proteasome activity
-StUDP: !destabilizes! StSARD1
-StSARD1: !regulates! ISOCHORISMATE SYNTHASE 1
-ISOCHORISMATE SYNTHASE 1: !synthesizes! SA

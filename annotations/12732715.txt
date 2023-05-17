@@ -1,8 +1,0 @@
-['12732715', 'The most familiar form of plant programmed cell death is the hypersensitive  response (HR) associated with successful plant immune responses. HR is preceded  by an oxidative burst and the generation of both reactive oxygen intermediates  (ROI) and NO. The Arabidopsis LSD1 gene encodes a negative regulator of plant  programmed cell death that meets several criteria for a regulator of processes  relevant to ROI management during pathogen responses. Here we demonstrate that a  highly conserved LSD1 paralogue, LOL1, acts as a positive regulator of cell  death. Manipulation of LOL1 expression alters both the superoxide-dependent,  runaway cell death phenotype of lsd1 plants and the normal HR. We also show that  LSD1 and LOL1 have antagonistic effects on copper-zinc superoxide dismutase  accumulation, consistent with functions in cell death control via maintenance of  ROI homeostasis.', '2003 May 27', 'Proc Natl Acad Sci U S A', '10.1073/pnas.1130421100', 'Dangl']
-
-LSD1: !regulates! Plant programmed cell death 
-LOL1: !regulates! Plant programmed cell death 
-LSD1: !antagonizes! LOL1 
-LOL1: !alters! Superoxide-dependent runaway cell death phenotype 
-LSD1: !alters! Normal hypersensitive response 
-LSD1: !affects! Copper-zinc superoxide dismutase accumulation

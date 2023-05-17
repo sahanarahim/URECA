@@ -1,8 +1,0 @@
-['7690685', 'Chloroplast development requires coordinate nuclear and chloroplast gene  expression. A putative signal from the chloroplast couples the transcription of  certain nuclear genes encoding photosynthesis-related proteins with chloroplast  function. We have identified at least three Arabidopsis nuclear genes (GUN1,  GUN2, and GUN3) necessary for coupling the expression of some nuclear genes to  the functional state of the chloroplast. Homozygous recessive gun mutations allow  nuclear gene expression in the absence of chloroplast development and furthermore  may interfere with the switch from dark-grown to light-grown development. Other  reports suggest this intracellular cross-talk also involves mitochondrial  interactions. The GUN genes thus define steps in one specific branch of a complex  interorganellar regulatory network.', '1993 Sep 10', 'Cell', '10.1016/0092-8674(93)90459-4', 'Chory']
-
-GUN1: !affects! Chloroplast development 
-GUN2: !affects! Chloroplast development 
-GUN3: !affects! Chloroplast development 
-GUN genes: !couple! Nuclear gene expression 
-GUN genes: !interfere with! Switch from dark-grown to light-grown development 
-GUN genes: !define steps in! Interorganellar regulatory network

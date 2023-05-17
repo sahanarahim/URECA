@@ -1,8 +1,0 @@
-Root phenotypes that improve nitrogen acquisition are avenues for crop improvement. Root anatomy affects resource capture, metabolic cost, hydraulic conductance, anchorage, and soil penetration. Cereal root phenotyping has centered on primary, seminal, and early nodal roots, yet critical nitrogen uptake occurs when the nodal root system is well developed. This study examined root anatomy across nodes in field-grown maize (Zea mays L.) hybrid and inbred lines under high and low nitrogen regimes. Genotypes with high nitrogen use efficiency (NUE) had larger root diameter and less cortical aerenchyma across nodes under stress than genotypes with lower NUE. Anatomical phenes displayed slightly hyperallometric relationships to shoot biomass. Anatomical plasticity varied across genotypes; most genotypes decreased root diameter under stress when averaged across nodes. Cortex, stele, total metaxylem vessel areas, and cortical cell file and metaxylem vessel numbers scaled strongly with root diameter across nodes. Within nodes, metaxylem vessel size and cortical cell size were correlated, and root anatomical phenotypes in the first and second nodes were not representative of subsequent nodes. Node, genotype, and nitrogen treatment affect root anatomy. Understanding nodal variation in root phenes will enable the development of plants that are adapted to low nitrogen conditions.
-
-Node: !affects! Root anatomy
-Genotype: !affects! Anatomical plasticity
-Nitrogen treatment: !affects! Root anatomy
-Root diameter: !correlated with! Cortex, stele, total metaxylem vessel areas, and cortical cell file and metaxylem vessel numbers
-Metaxylem vessel size: !correlated with! Cortical cell size
-Root anatomical phenotypes: !not representative of! Subsequent nodes

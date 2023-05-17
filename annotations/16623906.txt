@@ -1,9 +1,0 @@
-CONSTANS-Like (COL) proteins are plant-specific nuclear regulators of gene expression but do not contain a known DNA-binding motif. We tested whether a common DNA-binding protein can deliver these proteins to specific cis-acting elements. We screened for proteins that interact with two members of a subgroup of COL proteins. These COL proteins were Tomato COL1 (TCOL1), which does not seem to be involved in the control of flowering time, and the Arabidopsis thaliana CONSTANS (AtCO) protein which mediates photoperiodic induction of flowering. We show that the C-terminal plant-specific CCT (CO, CO-like, TIMING OF CAB EXPRESSION 1) domain of both proteins binds the trimeric CCAAT binding factor (CBF) via its HAP5/NF-YC component. Chromatin immunoprecipitation demonstrated that TCOL is recruited to the CCAAT motifs of the yeast CYC1 and HEM1 promoters by HAP5. In Arabidopsis, each of the three CBF components is encoded by several different genes that are highly transcribed. Under warm long days, high levels of expression of a tomato HAP5 (THAP5a) gene can reduce the flowering time of Arabidopsis. A mutation in the CCT domain of TCOL1 disrupts the interaction with THAP5 and the analogous mutation in AtCO impairs its function and delays flowering. CBFs are therefore likely to recruit COL proteins to their DNA target motifs in planta.
-
-TCOL1: !interacts with! HAP5/NF-YC 
-AtCO: !interacts with! HAP5/NF-YC 
-TCOL1: !localizes to! CYC1 and HEM1 promoters 
-AtCO: !enhances! flowering time 
-THAP5a: !represses! flowering time 
-TCOL1: !disrupts interaction with! THAP5 
-AtCO: !disrupts function of! CCT domain

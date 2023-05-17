@@ -1,9 +1,0 @@
-['10069843', 'We describe the isolation of an Arabidopsis gene that is closely related to the  animal ZnT genes (Zn transporter). The protein encoded by the ZAT (Zn transporter  of Arabidopsis thaliana) gene has 398 amino acid residues and is predicted to  have six membrane-spanning domains. To obtain evidence for the postulated  function of the Arabidopsis gene, transgenic plants with the ZAT coding sequence  under control of the cauliflower mosaic virus 35S promoter were analyzed. Plants  obtained with ZAT in the sense orientation exhibited enhanced Zn resistance and  strongly increased Zn content in the roots under high Zn exposure. Antisense  mRNA-producing plants were viable, with a wild-type level of Zn resistance and  content, like plants expressing a truncated coding sequence lacking the  C-terminal cytoplasmic domain of the protein. The availability of ZAT can lead to  a better understanding of the mechanism of Zn homeostasis and resistance in  plants.', '1999 Mar', 'Plant Physiol', '10.1104/pp.119.3.1047', 'Hooykaas']
-
-ZAT: !encodes! protein 
-protein: !has! 6 membrane-spanning domains 
-ZAT: !controls! Zn resistance & content 
-35S promoter: !controls! ZAT expression 
-transgenic plants: !exhibit! enhanced Zn resistance & increased Zn content 
-antisense mRNA-producing plants: !have! wild-type level of Zn resistance & content 
-truncated coding sequence: !lacks! C-terminal cytoplasmic domain of protein

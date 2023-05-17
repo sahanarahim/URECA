@@ -1,9 +1,0 @@
-['21051552', 'Proteins that are synthesized on cytoplasmic ribosomes but function within  plastids must be imported and then targeted to one of six plastid locations.  Although multiple systems that target proteins to the thylakoid membranes or  thylakoid lumen have been identified, a system that can direct the integration of  inner envelope membrane proteins from the stroma has not been previously  described. Genetics and localization studies were used to show that plastids  contain two different Sec systems with distinct functions. Loss-of-function  mutations in components of the previously described thylakoid-localized Sec  system, designated as SCY1 (At2g18710), SECA1 (At4g01800), and SECE1 (At4g14870)  in Arabidopsis (Arabidopsis thaliana), result in albino seedlings and  sucrose-dependent heterotrophic growth. Loss-of-function mutations in components  of the second Sec system, designated as SCY2 (At2g31530) and SECA2 (At1g21650) in  Arabidopsis, result in arrest at the globular stage and embryo lethality.  Promoter-swap experiments provided evidence that SCY1 and SCY2 are functionally  nonredundant and perform different roles in the cell. Finally, chloroplast import  and fractionation assays and immunogold localization of SCY2-green fluorescent  protein fusion proteins in root tissues indicated that SCY2 is part of an  envelope-localized Sec system. Our data suggest that SCY2 and SECA2 function in  Sec-mediated integration and translocation processes at the inner envelope  membrane.', '2011 Jan', 'Plant Physiol', '10.1104/pp.110.166546', 'Fernandez']
-
-SCY1: !affects! thylakoid localization 
-SECA1: !interacts with! SCY1 
-SECE1: !interacts with! SCY1 
-SCY2: !affects! envelope localization 
-SECA2: !interacts with! SCY2 
-SCY1: !synthesizes! proteins 
-SCY2: !synthesizes! proteins

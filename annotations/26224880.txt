@@ -1,8 +1,0 @@
-This paper outlines a numerical scheme for accurate, detailed, and high-throughput image analysis of plant roots. In contrast to existing root image analysis tools that focus on root system-average traits, a novel, fully automated and robust approach for the detailed characterization of root traits, based on a graph optimization process is presented. The scheme, firstly, distinguishes primary roots from lateral roots and, secondly, quantifies a broad spectrum of root traits for each identified primary and lateral root. Thirdly, it associates lateral roots and their properties with the specific primary root from which the laterals emerge. The performance of this approach was evaluated through comparisons with other automated and semi-automated software solutions as well as against results based on manual measurements. The comparisons and subsequent application of the algorithm to an array of experimental data demonstrate that this method outperforms existing methods in terms of accuracy, robustness, and the ability to process root images under high-throughput conditions.
-
-graph optimization process: !distinguishes! primary roots from lateral roots 
-graph optimization process: !quantifies! root traits 
-graph optimization process: !associates! lateral roots with primary roots 
-software solutions: !compared to! graph optimization process 
-manual measurements: !compared to! graph optimization process 
-experimental data: !applied to! graph optimization process

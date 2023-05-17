@@ -1,7 +1,0 @@
-['32970364', 'Mitogen activated protein kinase kinase kinase 18 (MAPKKK18) mediated signaling  cascade plays important roles in Arabidopsis drought stress tolerance. However,  the post-translational modulation patterns of MAPKKK18 are not characterized. In  this study, we found that the protein level of MAPKKK18 was tightly controlled by  the 26S proteasome. Ubiquitin ligases RGLG1 and RGLG2 ubiquitinated MAPKKK18 at  lysine residue K32 and K154, and promoted its degradation. Deletion of RGLG1 and  RGLG2 stabilized MAPKKK18 and further enhanced the drought stress tolerance of  MAPKKK18-overexpression plants. Our data demonstrate that RGLG1 and RGLG2  negatively regulate MAPKKK18-mediated drought stress tolerance in Arabidopsis.', '2021 Mar', 'J Integr Plant Biol', '10.1111/jipb.13019', 'Huang']
-
-RGLG1: !ubiquitinates! MAPKKK18
-RGLG2: !ubiquitinates! MAPKKK18
-MAPKKK18: !degraded by! 26S proteasome
-MAPKKK18: !stabilized by! RGLG1 & RGLG2
-RGLG1 & RGLG2: !negatively regulate! MAPKKK18-mediated drought stress tolerance

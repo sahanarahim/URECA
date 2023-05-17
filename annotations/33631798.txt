@@ -1,8 +1,0 @@
-Long noncoding RNAs (lncRNAs) are crucial factors during plant development and environmental responses. To build an accurate atlas of lncRNAs in the diploid cotton Gossypium arboreum, we combined Isoform-sequencing, strand-specific RNA-seq (ssRNA-seq), and cap analysis gene expression (CAGE-seq) with PolyA-seq and compiled a pipeline named plant full-length lncRNA to integrate multi-strategy RNA-seq data. In total, 9,240 lncRNAs from 21 tissue samples were identified. 4,405 and 4,805 lncRNA transcripts were supported by CAGE-seq and PolyA-seq, respectively, among which 6.7% and 7.2% had multiple transcription start sites (TSSs) and transcription termination sites (TTSs). We revealed that alternative usage of TSS and TTS of lncRNAs occurs pervasively during plant growth. Besides, we uncovered that many lncRNAs act in cis to regulate adjacent protein-coding genes (PCGs). It was especially interesting to observe 64 cases wherein the lncRNAs were involved in the TSS alternative usage of PCGs. We identified lncRNAs that are coexpressed with ovule- and fiber development-associated PCGs, or linked to GWAS single-nucleotide polymorphisms. We mapped the genome-wide binding sites of two lncRNAs with chromatin isolation by RNA purification sequencing. We also validated the transcriptional regulatory role of lnc-Ga13g0352 via virus-induced gene suppression assay, indicating that this lncRNA might act as a dual-functional regulator that either activates or inhibits the transcription of target genes.
-
-lncRNA: !regulates! adjacent PCGs
-lncRNA: !alternatively uses! TSS/TTS
-lncRNA: !coexpressed with! ovule/fiber development-associated PCGs
-lncRNA: !linked to! GWAS SNPs
-lncRNA: !mapped by! ChIRP-seq
-lncRNA: !validated by! VIGS assay

@@ -1,8 +1,0 @@
-Recent technical advances in the computer-vision domain have facilitated the development of various methods for achieving image-based quantification of stomata-related traits. However, the installation cost of such a system and the difficulties of operating it on-site have been hurdles for experimental biologists. Here, we present a platform that allows real-time stomata detection during microscopic observation. The proposed system consists of a deep neural network model-based stomata detector and an upright microscope connected to a USB camera and a graphics processing unit (GPU)-supported single-board computer. All the hardware components are commercially available at common electronic commerce stores at a reasonable price. Moreover, the machine-learning model is prepared based on freely available cloud services. This approach allows users to set up a phenotyping platform at low cost. As a proof of concept, we trained our model to detect dumbbell-shaped stomata from wheat leaf imprints. Using this platform, we collected a comprehensive range of stomatal phenotypes from wheat leaves. We confirmed notable differences in stomatal density (<i>SD</i>) between adaxial and abaxial surfaces and in stomatal size (<i>SS</i>) between wheat-related species of different ploidy. Utilizing such a platform is expected to accelerate research that involves all aspects of stomata phenotyping.
-
-Deep Neural Network Model: !detects! Stomata 
-USB Camera: !connects to! Microscope 
-GPU-supported Single-Board Computer: !connects to! Microscope 
-Cloud Services: !prepares! Machine-Learning Model 
-Adaxial Surface: !differs from! Abaxial Surface 
-Wheat-Related Species: !differs in! Stomatal Size

@@ -1,7 +1,0 @@
-The mechanism underlying pollen tube growth involves diverse genes and molecular pathways. Alterations in the regulatory genes or pathways cause phenotypic changes reflected by cellular morphology, which can be captured using fluorescence microscopy. Determining and classifying pollen tube morphological phenotypes in such microscopic images is key to our understanding the involvement of genes and pathways. In this context, we propose a computational method to extract quantitative morphological features, and demonstrate that these features reflect morphological differences relevant to distinguish different defects of pollen tube growth. The corresponding software tool furthermore includes a novel semi-automated image segmentation approach, allowing to highly accurately identify the boundary of a pollen tube in a microscopic image.
-
-Gene: !affects! Process 
-Process: !captured using! Fluorescence microscopy 
-Phenotypic changes: !reflected by! Cellular morphology 
-Morphological features: !reflect! Morphological differences 
-Software tool: !includes! Novel semi-automated image segmentation approach

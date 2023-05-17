@@ -1,7 +1,0 @@
-['22209875', 'In plant cells, actin filament bundles serve as tracks for myosin-dependent  organelle movement and play a role in the organization of the cytoplasm. Although  virtually all plant cells contain actin filament bundles, the role of the  different actin-bundling proteins remains largely unknown. In this study, we  investigated the role of the actin-bundling protein villin in Arabidopsis  (Arabidopsis thaliana). We used Arabidopsis T-DNA insertion lines to generate a  double mutant in which VILLIN2 (VLN2) and VLN3 transcripts are truncated. Leaves,  stems, siliques, and roots of vln2 vln3 double mutant plants are twisted, which  is caused by local differences in cell length. Microscopy analysis of the actin  cytoskeleton showed that in these double mutant plants, thin actin filament  bundles are more abundant while thick actin filament bundles are virtually  absent. In contrast to full-length VLN3, truncated VLN3 lacking the headpiece  region does not rescue the phenotype of the vln2 vln3 double mutant. Our results  show that villin is involved in the generation of thick actin filament bundles in  several cell types and suggest that these bundles are involved in the regulation  of coordinated cell expansion.', '2012 Mar', 'Plant Physiol', '10.1104/pp.111.192385', 'Ketelaar']
-
-VILLIN2: !affects! Thick actin filament bundles 
-VILLIN3: !affects! Thick actin filament bundles 
-Thick actin filament bundles: !regulate! Coordinated cell expansion 
-VILLIN2: !interacts with! VILLIN3 
-VILLIN3: !localizes to! Several cell types

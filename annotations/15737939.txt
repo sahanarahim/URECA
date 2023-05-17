@@ -1,9 +1,0 @@
-['15737939', 'The plant shoot body plan is highly variable, depending on the degree of  branching. Characterization of the max1-max4 mutants of Arabidopsis demonstrates  that branching is regulated by at least one carotenoid-derived hormone. Here we  show that all four MAX genes act in a single pathway, with MAX1, MAX3, and MAX4  acting in hormone synthesis, and MAX2 acting in perception. We propose that MAX1  acts on a mobile substrate, downstream of MAX3 and MAX4, which have immobile  substrates. These roles for MAX3, MAX4, and MAX2 are consistent with their known  molecular identities. We identify MAX1 as a member of the cytochrome P450 family  with high similarity to mammalian Thromboxane A2 synthase. This, with its  expression pattern, supports its suggested role in the MAX pathway. Moreover, the  proposed enzymatic series for MAX hormone synthesis resembles that of two already  characterized signal biosynthetic pathways: prostaglandins in animals and  oxilipins in plants.', '2005 Mar', 'Dev Cell', '10.1016/j.devcel.2005.01.009', 'Leyser']
-
-MAX1: !synthesizes! mobile substrate 
-MAX3: !synthesizes! immobile substrate 
-MAX4: !synthesizes! immobile substrate 
-MAX2: !perceives! MAX pathway 
-MAX1: !belongs to! cytochrome P450 family 
-MAX1: !similar to! mammalian Thromboxane A2 synthase 
-MAX pathway: !resembles! prostaglandins and oxilipins

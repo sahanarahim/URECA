@@ -1,9 +1,0 @@
-Epistasis is a commonly observed genetic phenomenon and an important source of variation of complex traits, which could maintain additive variance and therefore assure the long-term genetic gain in breeding. Inclusive composite interval mapping (ICIM) is able to identify epistatic quantitative trait loci (QTLs) no matter whether the two interacting QTLs have any additive effects. In this article, we conducted a simulation study to evaluate detection power and false discovery rate (FDR) of ICIM epistatic mapping, by considering F2 and doubled haploid (DH) populations, different F2 segregation ratios and population sizes. Results indicated that estimations of QTL locations and effects were unbiased, and the detection power of epistatic mapping was largely affected by population size, heritability of epistasis, and the amount and distribution of genetic effects. When the same likelihood of odd (LOD) threshold was used, detection power of QTL was higher in F2 population than power in DH population; meanwhile FDR in F2 was also higher than that in DH. The increase of marker density from 10 cM to 5 cM led to similar detection power but higher FDR. In simulated populations, ICIM achieved better mapping results than multiple interval mapping (MIM) in estimation of QTL positions and effect. At the end, we gave epistatic mapping results of ICIM in one actual population in rice (Oryza sativa L.).
-
-Epistasis: !maintains! additive variance
-ICIM: !identifies! epistatic QTLs
-F2/DH populations: !affect! detection power
-Population size: !influences! detection power
-Heritability of epistasis: !impacts! detection power
-Marker density: !influences! FDR
-ICIM: !achieves better results than! MIM

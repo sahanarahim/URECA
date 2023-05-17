@@ -1,6 +1,0 @@
-Ribulose-1,5-bisphosphate carboxylase/oxygenase (Rubisco) is responsible for the conversion of atmospheric CO2 to organic carbon during photosynthesis, and often acts as a rate limiting step in the later process. Screening the natural diversity of Rubisco kinetics is the main strategy used to find better Rubisco enzymes for crop engineering efforts. Here, we demonstrate the use of Gaussian processes (GPs), a family of Bayesian models, coupled with protein encoding schemes, for predicting Rubisco kinetics from Rubisco large subunit (RbcL) sequence data. GPs trained on published experimentally obtained Rubisco kinetic datasets were applied to over 9000 sequences encoding RbcL to predict Rubisco kinetic parameters. Notably, our predicted kinetic values were in agreement with known trends, e.g. higher carboxylation turnover rates (Kcat) for Rubisco enzymes from C4 or crassulacean acid metabolism (CAM) species, compared with those found in C3 species. This is the first study demonstrating machine learning approaches as a tool for screening and predicting Rubisco kinetics, which could be applied to other enzymes.
-
-Rubisco: !converts! CO2 
-GPs: !predict! Rubisco kinetics 
-RbcL sequence data: !used to predict! Rubisco kinetic parameters 
-C4/CAM species: !have higher! Kcat values

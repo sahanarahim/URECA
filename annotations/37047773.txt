@@ -1,9 +1,0 @@
-Controlling the tree size of fruit species such as peach can reduce the amount of labor and input needed for orchard management. The phytohormone gibberellin (GA) positively regulates tree size by inducing degradation of the GA signaling repressor DELLA. The N-terminal DELLA domain in this protein is critical for its GA-dependent interaction with the GA receptor GID1 and the resulting degradation of the DELLA protein, which allows for growth-promoting GA signaling. In this study, a DELLA family member, PpeDGYLA, contains a DELLA domain but has amino acid changes in three conserved motifs (DELLA into DGYLA, LEQLE into LERLE, and TVHYNP into AVLYNP). In the absence or presence of GA<sub>3</sub>, the PpeDGYLA protein did not interact with PpeGID1c and was stable in 35S-PpeDGYLA peach transgenic callus. The overexpression of <i>PpeDGYLA</i> in both polar and Arabidopsis showed an extremely dwarfed phenotype, and these transgenic plants were insensitive to GA<sub>3</sub> treatment. PpeDGYLA could interact with PpeARF6-1 and -2, supposed growth-promoting factors. It is suggested that the changes in the DELLA domain of PpeDGYLA may, to some extent, account for the severe dwarf phenotype of poplar and Arabidopsis transgenic plants. In addition, our study showed that the DELLA family contained three clades (DELLA-like, DELLA, and DGLLA). <i>PpeDGYLA</i> clustered into the DGLLA clade and was expressed in all of the analyzed tissues. These results lay the foundation for the further study of the repression of tree size by PpeDGYLA.
-
-GID1: !interacts with! DELLA
-PpeDGYLA: !interacts with! PpeGID1c
-PpeDGYLA: !interacts with! PpeARF6-1
-PpeDGYLA: !interacts with! PpeARF6-2
-DELLA: !represses! GA signaling
-PpeDGYLA: !represses! GA<sub>3</sub>
-PpeDGYLA: !enhances! dwarf phenotype

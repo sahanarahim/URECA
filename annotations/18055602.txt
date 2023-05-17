@@ -1,8 +1,0 @@
-['18055602', 'The Arabidopsis thaliana REVOLUTA (REV) protein is a member of the class III  homeodomain-leucine zipper (HD-ZIPIII) proteins. REV is a potent regulator of  leaf polarity and vascular development. Here, we report the identification of a  gene family that encodes small leucine zipper-containing proteins (LITTLE ZIPPER  [ZPR] proteins) where the leucine zipper is similar to that found in REV,  PHABULOSA, and PHAVOLUTA proteins. The transcript levels of the ZPR genes  increase in response to activation of a steroid-inducible REV protein. We show  that the ZPR proteins interact with REV in vitro and that ZPR3 prevents DNA  binding by REV in vitro. Overexpression of ZPR proteins in Arabidopsis results in  phenotypes similar to those seen when HD-ZIPIII function is reduced. We propose a  negative feedback model in which REV promotes transcription of the ZPR genes. The  ZPR proteins in turn form heterodimers with the REV protein, preventing it from  binding DNA. The HD-ZIPIII/ZPR regulatory module would serve not only to dampen  the effect of fluctuations in HD-ZIPIII protein levels but more importantly would  provide a potential point of regulation (control over the ratio of inactive  heterodimers to active homodimers) that could be influenced by other components  of the pathway governing leaf polarity.', '2007 Nov', 'Plant Cell', '10.1105/tpc.107.055772', 'Barton']
-
-REV: !regulates! leaf polarity and vascular development
-REV: !induces! ZPR gene transcription
-ZPR: !interacts with! REV
-ZPR: !prevents DNA binding by! REV
-HD-ZIPIII: !dampens effect of fluctuations in! HD-ZIPIII protein levels
-HD-ZIPIII/ZPR: !provides potential point of regulation for! leaf polarity

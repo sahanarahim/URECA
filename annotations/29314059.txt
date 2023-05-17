@@ -1,9 +1,0 @@
-Soybean (Glycine max) and common bean (Phaseolus vulgaris) share a polyploidy event ~59 MYA, followed by a Glycine-specific whole genome duplication (WGD) ~8-13 MYA. Duplicated genes were classified into five categories: singletons, dispersed, proximal, tandem, or WGD/segmental and found strong correlations between gene category and functional annotation. Photosynthesis and transcriptional regulation-related Gene Ontology terms were significantly over-represented in singletons and WGD genes, respectively, aligning with the gene balance hypothesis. We found that the divergence of gene expression and DNA methylation between WGD-derived paralogs increased with age and that WGD genes, initially retained via dosage constraints, subsequently underwent expression divergence, associated with other factors such as DNA methylation. Genes derived from different modes of duplication differed in breadth, level, and specificity of expression in both species. Orthologous genes and ungrouped genes (genes not in an ortholog group) differed in expression patterns. The protein divergence rates of WGD paralog pairs containing an ungrouped gene were higher than those for which both copies had orthologs. We propose that many ungrouped genes are derived from divergent and redundant gene copies, concordant with the neofunctionalization hypothesis. Tandemly duplicated genes were distinct from WGD-derived genes, indicating that mode of duplication contributes to the evolutionary fate of duplicated genes.
-
-Gene: !affects! Photosynthesis 
-Gene: !affects! Transcriptional Regulation 
-Gene: !diverges in expression! DNA Methylation 
-Gene: !differs in expression! Orthologous Genes 
-Gene: !differs in expression! Ungrouped Genes 
-Gene: !has higher protein divergence rate! Ungrouped Gene 
-Gene: !distinct from! Tandemly Duplicated Genes

@@ -1,8 +1,0 @@
-The plastids of ecologically and economically important algae from phyla such as stramenopiles, dinoflagellates and cryptophytes were acquired via a secondary endosymbiosis and are surrounded by three or four membranes. Nuclear-encoded plastid-localized proteins contain N-terminal bipartite targeting peptides with the conserved amino acid sequence motif 'ASAFAP'. Here we identify the plastid proteomes of two diatoms, Thalassiosira pseudonana and Phaeodactylum tricornutum, using a customized prediction tool (ASAFind) that identifies nuclear-encoded plastid proteins in algae with secondary plastids of the red lineage based on the output of SignalP and the identification of conserved 'ASAFAP' motifs and transit peptides. We tested ASAFind against a large reference dataset of diatom proteins with experimentally confirmed subcellular localization and found that the tool accurately identified plastid-localized proteins with both high sensitivity and high specificity. To identify nucleus-encoded plastid proteins of T. pseudonana and P. tricornutum we generated optimized sets of gene models for both whole genomes, to increase the percentage of full-length proteins compared with previous assembly model sets. ASAFind applied to these optimized sets revealed that about 8% of the proteins encoded in their nuclear genomes were predicted to be plastid localized and therefore represent the putative plastid proteomes of these algae.
-
-Nuclear-encoded proteins: !contain! 'ASAFAP' motifs 
-Nuclear-encoded proteins: !localize to! plastids 
-ASAFind: !identifies! plastid-localized proteins 
-ASAFind: !accurately identifies! plastid-localized proteins 
-Gene models: !increase! percentage of full-length proteins 
-ASAFind: !reveals! 8% of proteins are plastid localized

@@ -1,8 +1,0 @@
-In <i>Arabidopsis thaliana</i>, ARGONAUTE1 (AGO1) plays a central role in microRNA (miRNA) and small interfering RNA (siRNA)-mediated silencing and is a key component in antiviral responses. The polerovirus F-box P0 protein triggers AGO1 degradation as a viral counterdefense. Here, we identified a motif in AGO1 that is required for its interaction with the S phase kinase-associated protein1-cullin 1-F-box protein (SCF) P0 (SCF<sup>P0</sup>) complex and subsequent degradation. The AGO1 P0 degron is conserved and confers P0-mediated degradation to other AGO proteins. Interestingly, the degron motif is localized in the DUF1785 domain of AGO1, in which a single point mutation (<i>ago1-57</i>, obtained by forward genetic screening) compromises recognition by SCF<sup>P0</sup> Recapitulating formation of the RNA-induced silencing complex in a cell-free system revealed that this mutation impairs RNA unwinding, leading to stalled forms of AGO1 still bound to double-stranded RNAs. In vivo, the DUF1785 is required for unwinding perfectly matched siRNA duplexes, but is mostly dispensable for unwinding imperfectly matched miRNA duplexes. Consequently, its mutation nearly abolishes phased siRNA production and sense transgene posttranscriptional gene silencing. Overall, our work sheds new light on the mode of AGO1 recognition by P0 and the in vivo function of DUF1785 in RNA silencing.
-
-AGO1: !interacts with! SCF<sup>P0</sup> complex 
-AGO1: !degraded by! SCF<sup>P0</sup> 
-DUF1785: !localizes to! AGO1 
-mutation: !impairs! RNA unwinding 
-mutation: !abolishes! phased siRNA production 
-mutation: !disrupts! sense transgene posttranscriptional gene silencing

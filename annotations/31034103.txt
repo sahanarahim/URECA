@@ -1,9 +1,0 @@
-Post-translational modifications (PTMs) are critical regulators of protein function, and nearly 200 different types of PTM have been identified. Advances in high-resolution mass spectrometry have led to the identification of an unprecedented number of PTM sites in numerous organisms, potentially facilitating a more complete understanding of how PTMs regulate cellular behavior. While databases have been created to house the resulting data, most of these resources focus on individual types of PTM, do not consider quantitative PTM analyses or do not provide tools for the visualization and analysis of PTM data. Here, we describe the Functional Analysis Tools for Post-Translational Modifications (FAT-PTM) database (https://bioinformatics.cse.unr.edu/fat-ptm/), which currently supports eight different types of PTM and over 49 000 PTM sites identified in large-scale proteomic surveys of the model organism Arabidopsis thaliana. The FAT-PTM database currently supports tools to visualize protein-centric PTM networks, quantitative phosphorylation site data from over 10 different quantitative phosphoproteomic studies, PTM information displayed in protein-centric metabolic pathways and groups of proteins that are co-modified by multiple PTMs. Overall, the FAT-PTM database provides users with a robust platform to share and visualize experimentally supported PTM data, develop hypotheses related to target proteins or identify emergent patterns in PTM data for signaling and metabolic pathways.
-
-PTM: !regulates! Protein Function
-Database: !houses! PTM Data
-FAT-PTM Database: !supports! 8 Types of PTM
-FAT-PTM Database: !visualizes! Protein-Centric PTM Networks
-FAT-PTM Database: !quantifies! Phosphorylation Site Data
-FAT-PTM Database: !displays! PTM Information in Pathways
-FAT-PTM Database: !identifies! Emergent Patterns in PTM Data

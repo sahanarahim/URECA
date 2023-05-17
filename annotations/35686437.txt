@@ -1,9 +1,0 @@
-There is a pressing need to better understand ecosystem resilience to droughts and heatwaves. Eco-evolutionary optimization approaches have been proposed as means to build this understanding in land surface models and improve their predictive capability, but competing approaches are yet to be tested together. Here, we coupled approaches that optimize canopy gas exchange and leaf nitrogen investment, respectively, extending both approaches to account for hydraulic impairment. We assessed model predictions using observations from a native Eucalyptus woodland that experienced repeated droughts and heatwaves between 2013 and 2020, whilst exposed to an elevated [CO<sub>2</sub> ] treatment. Our combined approaches improved predictions of transpiration and enhanced the simulated magnitude of the CO<sub>2</sub> fertilization effect on gross primary productivity. The competing approaches also worked consistently along axes of change in soil moisture, leaf area, and [CO<sub>2</sub> ]. Despite predictions of a significant percentage loss of hydraulic conductivity due to embolism (PLC) in 2013, 2014, 2016, and 2017 (99th percentile PLC > 45%), simulated hydraulic legacy effects were small and short-lived (2 months). Our analysis suggests that leaf shedding and/or suppressed foliage growth formed a strategy to mitigate drought risk. Accounting for foliage responses to water availability has the potential to improve model predictions of ecosystem resilience.
-
-Gene: !affects! Process
-Process: !enhances! Predictions
-Leaf nitrogen investment: !optimizes! Canopy gas exchange
-Elevated [CO<sub>2</sub> ]: !enhances! Gross primary productivity
-Soil moisture: !influences! Leaf area
-PLC: !predicts! Loss of hydraulic conductivity
-Drought risk: !mitigated by! Leaf shedding/suppressed foliage growth

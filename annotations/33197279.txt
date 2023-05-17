@@ -1,8 +1,0 @@
-From recent developments on how roots affect soil organic carbon (SOC) an apparent paradox has emerged where roots drive SOC stabilization causing SOC accrual, but also SOC destabilization causing SOC loss. We synthesize current results and propose the new Rhizo-Engine framework consisting of two linked components: microbial turnover and the soil physicochemical matrix. The Rhizo-Engine is driven by rhizodeposition, root turnover, and plant uptake of nutrients and water, thereby accelerating SOC turnover through both stabilization and destabilization mechanisms. This Rhizo-Engine framework emphasizes the need for a more holistic approach to study root-driven SOC dynamics. This framework would provide better understanding of plant root effects on soil carbon sequestration and the sensitivity of SOC stocks to climate and land-use changes.
-
-root: !drives! SOC turnover 
-rhizodeposition: !accelerates! SOC turnover 
-root turnover: !accelerates! SOC turnover 
-plant uptake: !accelerates! SOC turnover 
-SOC: !stabilizes! SOC accrual 
-SOC: !destabilizes! SOC loss

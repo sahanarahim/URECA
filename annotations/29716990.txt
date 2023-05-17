@@ -1,9 +1,0 @@
-The epitranscriptomic mark <i>N</i><sup>6</sup>-methyladenosine (m<sup>6</sup>A) can be written, read, and erased via the action of a complex network of proteins. m<sup>6</sup>A binding proteins read m<sup>6</sup>A marks and transduce their downstream regulatory effects by altering RNA metabolic processes. The characterization of m<sup>6</sup>A readers is an essential prerequisite for understanding the roles of m<sup>6</sup>A in plants, but the identities of m<sup>6</sup>A readers have been unclear. Here, we characterized the YTH-domain family protein ECT2 as an <i>Arabidopsis thaliana</i> m<sup>6</sup>A reader whose m<sup>6</sup>A binding function is required for normal trichome morphology. We developed the formaldehyde cross-linking and immunoprecipitation method to identify ECT2-RNA interaction sites at the transcriptome-wide level. This analysis demonstrated that ECT2 binding sites are strongly enriched in the 3' untranslated regions (3' UTRs) of target genes and led to the identification of a plant-specific m<sup>6</sup>A motif. Sequencing analysis suggested that ECT2 plays dual roles in regulating 3' UTR processing in the nucleus and facilitating mRNA stability in the cytoplasm. Disruption of <i>ECT2</i> accelerated the degradation of three ECT2 binding transcripts related to trichome morphogenesis, thereby affecting trichome branching. The results shed light on the underlying mechanisms of the roles of m<sup>6</sup>A in RNA metabolism, as well as plant development and physiology.
-
-m6A: !binds to! ECT2
-ECT2: !reads! m6A
-ECT2: !localizes to! 3' UTRs
-ECT2: !interacts with! target genes
-ECT2: !regulates! 3' UTR processing
-ECT2: !facilitates! mRNA stability
-ECT2: !affects! trichome branching

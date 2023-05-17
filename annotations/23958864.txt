@@ -1,9 +1,0 @@
-LESION SIMULATING DISEASE1 (lsd1) is an important negative regulator of programmed cell death (PCD) in Arabidopsis (Arabidopsis thaliana). The loss-of-function mutations in lsd1 cause runaway cell death triggered by reactive oxygen species. lsd1 encodes a novel zinc finger protein with unknown biochemical activities. Here, we report the identification of CATALASE3 (CAT3) as an lsd1-interacting protein by affinity purification and mass spectrometry-based proteomic analysis. The Arabidopsis genome contains three homologous catalase genes (CAT1, CAT2, and CAT3). Yeast two-hybrid and coimmunoprecipitation analyses demonstrated that lsd1 interacted with all three catalases both in vitro and in vivo, and the interaction required the zinc fingers of lsd1. We found that the catalase enzymatic activity was reduced in the lsd1 mutant, indicating that the catalase enzyme activity was partially dependent on lsd1. Consistently, the lsd1 mutant was more sensitive to the catalase inhibitor 3-amino-1,2,4-triazole than the wild type, suggesting that the interaction between lsd1 and catalases is involved in the regulation of the reactive oxygen species generated in the peroxisome. Genetic studies revealed that lsd1 interacted with CATALASE genes to regulate light-dependent runaway cell death and hypersensitive-type cell death. Moreover, the accumulation of salicylic acid was required for PCD regulated by the interaction between lsd1 and catalases. These results suggest that the lsd1-catalase interaction plays an important role in regulating PCD in Arabidopsis.
-
-lsd1: !interacts with! CAT3 
-lsd1: !interacts with! CAT1 
-lsd1: !interacts with! CAT2 
-lsd1: !regulates! reactive oxygen species 
-lsd1: !regulates! light-dependent runaway cell death 
-lsd1: !regulates! hypersensitive-type cell death 
-lsd1: !requires! salicylic acid for PCD

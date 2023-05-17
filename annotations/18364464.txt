@@ -1,9 +1,0 @@
-['18364464', 'The plant life cycle includes diploid sporophytic and haploid gametophytic  generations. Female gametophytes (embryo sacs) in higher plants are embedded in  specialized sporophytic structures (ovules). Here, we report that two closely  related mitogen-activated protein kinases in Arabidopsis thaliana, MPK3 and MPK6,  share a novel function in ovule development: in the MPK6 mutant background, MPK3  is haplo-insufficient, giving female sterility when heterozygous. By contrast, in  the MPK3 mutant background, MPK6 does not show haplo-insufficiency. Using  wounding treatment, we discovered gene dosage-dependent activation of MPK3 and  MPK6. In addition, MPK6 activation is enhanced when MPK3 is null, which may help  explain why mpk3(-/-) mpk6(+/-) plants are fertile. Genetic analysis revealed  that the female sterility of mpk3(+/-) mpk6(-/-) plants is a sporophytic effect.  In mpk3(+/-) mpk6(-/-) mutant plants, megasporogenesis and megagametogenesis are  normal and the female gametophyte identity is correctly established. Further  analysis demonstrates that the mpk3(+/-) mpk6(-/-) ovules have abnormal  integument development with arrested cell divisions at later stages. The mutant  integuments fail to accommodate the developing embryo sac, resulting in the  embryo sacs being physically restricted and female reproductive failure. Our  results highlight an essential function of MPK3 and MPK6 in promoting cell  division in the integument specifically during ovule development.', '2008 Mar', 'Plant Cell', '10.1105/tpc.108.058032', 'Zhang']
-
-MPK3: !affects! MPK6 
-MPK3: !activates! MPK6 
-MPK6: !enhances! MPK3 
-MPK3/MPK6: !promote! Cell division 
-MPK3/MPK6: !regulate! Integument development 
-Integument: !restricts! Embryo sac 
-Embryo sac: !causes! Female sterility

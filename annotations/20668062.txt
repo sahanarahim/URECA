@@ -1,7 +1,0 @@
-Discovering gene sets underlying the expression of a given phenotype is of great importance, as many phenotypes are the result of complex gene-gene interactions. Gene coexpression networks, built using a set of microarray samples as input, can help elucidate tightly coexpressed gene sets (modules) that are mixed with genes of known and unknown function. Functional enrichment analysis of modules further subdivides the coexpressed gene set into cofunctional gene clusters that may coexist in the module with other functionally related gene clusters. In this study, 45 coexpressed gene modules and 76 cofunctional gene clusters were discovered for rice (Oryza sativa) using a global, knowledge-independent paradigm and the combination of two network construction methodologies. Some clusters were enriched for previously characterized mutant phenotypes, providing evidence for specific gene sets (and their annotated molecular functions) that underlie specific phenotypes.
-
-Gene: !affects! Phenotype
-Gene: !coexpresses with! Gene
-Gene: !enriches! Cluster
-Cluster: !contains! Genes
-Cluster: !underlies! Phenotype

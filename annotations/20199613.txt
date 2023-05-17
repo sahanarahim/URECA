@@ -1,7 +1,0 @@
-We characterized differences in carbon isotopic content (delta(13)C) and sugar concentrations in phloem exudates from Eucalyptus globulus (Labill) plantations across a rainfall gradient in south-western Australia. Phloem sap delta(13)C and sugar concentrations varied with season and annual rainfall. Annual bole growth was negatively related to phloem sap delta(13)C during summer, suggesting a water limitation, yet was positively related in winter. We conclude that when water is abundant, variations in carboxylation rates become significant to overall growth. Concentrations of sucrose in phloem sap varied across sites by up to 600 mm, and raffinose by 300 mm. These compounds play significant roles in maintaining osmotic balance and facilitating carbon movement into the phloem, and their relative abundances contribute strongly to overall delta(13)C of phloem sap. Taken together, the delta(13)C and concentrations of specific sugars in phloem sap provide significant insights to functions supporting growth at the tree, site and landscape scale.
-
-season: !affects! delta(13)C
-annual rainfall: !affects! delta(13)C
-delta(13)C: !affects! bole growth
-sucrose: !facilitates! carbon movement
-raffinose: !maintains! osmotic balance

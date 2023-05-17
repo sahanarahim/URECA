@@ -1,9 +1,0 @@
-['20087601', 'Plants dissipate excess absorbed light energy as heat to protect themselves from  photo-oxidative stress. The Arabidopsis thaliana npq6 mutant affected in thermal  dissipation was identified by its partial defect in the induction of  nonphotochemical quenching of chlorophyll fluorescence (NPQ) by excess light.  Positional cloning revealed that npq6 contains a frameshift mutation caused by a  single base-pair deletion in the At5g43050 gene, which encodes a member of the  hypothetical chloroplast open reading frame 20 (YCF20) family of proteins with  unknown function(s). The YCF20 protein family is mostly conserved in oxygenic  photosynthetic organisms including cyanobacteria, eukaryotic algae, and plants.  Amino acid sequence comparison identified two other genes in Arabidopsis that  encode similar proteins to NPQ6: At1g65420 and At3g56830. These three Arabidopsis  proteins have functional chloroplast-targeting transit peptides. Using reverse  genetics, a mutant with a T-DNA insertion within the At1g65420 gene was  identified and shown to exhibit a low NPQ phenotype similar to that of npq6;  therefore, At1g65420 was named NPQ7. In contrast, a knockdown mutant in the  At3g56830 gene with lower transcript levels showed wild-type levels of NPQ. The  npq6 npq7 double mutant had an additive NPQ defect, indicating that the YCF20  family members in Arabidopsis have overlapping functions affecting thermal  dissipation.', '2010 Mar', 'Planta', '10.1007/s00425-010-1098-9', 'Niyogi']
-
-At5g43050: !encodes! YCF20 
-YCF20: !conserved in! oxygenic photosynthetic organisms 
-At1g65420: !encodes similar proteins to! NPQ6 
-At3g56830: !encodes similar proteins to! NPQ6 
-NPQ6: !affects! thermal dissipation 
-NPQ7: !affects! thermal dissipation 
-npq6 npq7 double mutant: !exhibits! additive NPQ defect

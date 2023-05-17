@@ -1,8 +1,0 @@
-['17530779', 'HAT3.1 is a member of the PHD-finger homeodomain protein family. The HAT3.1  homeodomain is highly divergent in sequence even at positions that are almost  invariable among homeodomains. In this work, we have applied the random  oligonucleotide selection technique to investigate if the HAT3.1 homeodomain is  able to recognize specific DNA sequences. Analysis of the selected molecules  followed by hydroxyl radical footprinting experiments and yeast one-hybrid assays  indicated that HAT3.1 shows a preference for the sequence T(A/G)(A/C)ACCA,  different from those bound by other homeodomains. Binding was dependent on  homeodomain residues located at positions 47, 50, 51, and 54, the same positions  that usually participate in DNA binding in most homeodomains. The study of the  interaction of mutants at these positions with DNA carrying nucleotide changes at  specific sites suggested that H51 and K50 most likely interact with nucleotides 2  to 4 and 5 to 6, respectively, while W54 would establish contacts with position  4. The presence of H51 and W54 represents an innovation among homeodomain  structures. The fact that the HAT3.1 homeodomain is able to interact with  specific DNA sequences is evidence of the inherent plasticity of the homeodomain  as a DNA binding unit.', '2007 Jun 26', 'Biochemistry', '10.1021/bi602657e', 'Gonzalez']
-
-HAT3.1: !binds to! T(A/G)(A/C)ACCA
-HAT3.1: !depends on! residues 47, 50, 51, 54
-mutants: !interact with! nucleotides 2-4, 5-6
-H51: !contacts! position 4
-W54: !contacts! position 4
-homeodomain: !recognizes! specific DNA sequences

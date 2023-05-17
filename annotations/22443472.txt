@@ -1,8 +1,0 @@
-Capture and geological storage of carbon dioxide (CO(2)) has been suggested to be essential to reduce emissions to the atmosphere and aid mitigation of global climate change. However, leakage from transport pipelines or carbon capture and storage (CCS) reservoirs may pose risks to vegetation and contribute to rising atmospheric concentrations [CO(2)]. This study examined effects on seedling emergence and growth when field bean plants (Vicia faba cv. Wizard) grown under field conditions were subjected to elevated soil [CO(2)] for 39 days after planting. The strong negative correlation between soil [CO(2)] and [O(2)] during the injection period created a hypoxic soil environment under conditions of elevated soil [CO(2)]. The damaging impact of this treatment became apparent early in the experiment as no seeds exposed to soil [CO(2)] >50% emerged, even after injection was discontinued. Some seeds exposed to soil [CO(2)] <50% produced seedlings, but many did not survive. Seedling emergence and survival in the gassed plots was greatest at [CO(2)] of 5-20%, but root and shoot growth was reduced relative to control plants. Seedling emergence and growth were negatively related to soil [CO(2)] and positively related to [O(2)], although it is not known which was more important in inducing the observed effects. These findings suggest that leakage of CO(2) from transport pipelines or CCS sites may greatly reduce seedling emergence and crop establishment in the vicinity of such infrastructures.
-
-soil: !affects! seedling emergence
-soil: !affects! seedling growth
-CO2: !reduces! seedling emergence
-CO2: !reduces! seedling survival
-O2: !enhances! seedling emergence
-O2: !enhances! root and shoot growth

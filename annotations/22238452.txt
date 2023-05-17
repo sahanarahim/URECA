@@ -1,8 +1,0 @@
-A major goal of post-genomic biology is to reconstruct and model in silico the metabolic networks of entire organisms. Work on bacteria is well advanced, and is now under way for plants and other eukaryotes. Genome-scale modelling in plants is much more challenging than in bacteria. The challenges come from features characteristic of higher organisms (subcellular compartmentation, tissue differentiation) and also from the particular severity in plants of a general problem: genome content whose functions remain undiscovered. This problem results in thousands of genes for which no function is known ('undiscovered genome content') and hundreds of enzymatic and transport functions for which no gene is yet identified. The severity of the undiscovered genome content problem in plants reflects their genome size and complexity. To bring the challenges of plant genome-scale modelling into focus, we first summarize the current status of plant genome-scale models. We then highlight the challenges - and ways to address them - in three areas: identifying genes for missing processes, modelling tissues as opposed to single cells, and finding metabolic functions encoded by undiscovered genome content. We also discuss the emerging view that a significant fraction of undiscovered genome content encodes functions that counter damage to metabolites inflicted by spontaneous chemical reactions or enzymatic mistakes.
-
-Gene: !affects! Metabolic Network
-Gene: !localizes to! Subcellular Compartmentation
-Gene: !interacts with! Tissue Differentiation
-Gene: !enhances! Genome-Scale Modeling
-Gene: !represses! Spontaneous Chemical Reactions
-Gene: !synthesizes! Enzymatic Mistakes

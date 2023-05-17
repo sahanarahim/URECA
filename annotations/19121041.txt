@@ -1,9 +1,0 @@
-The environmental and distributional data associated with fungal internal transcribed spacer (ITS) sequences in GenBank are investigated and a new web-based tool with which these sequences can be explored is introduced. All fungal ITS sequences in GenBank were classified as either identified to species level or insufficiently identified and compared using BLAST. The results are made available as a biweekly updated web service that can be queried to retrieve all insufficiently identified sequences (IIS) associated with any fungal genus. The most commonly available annotation items in GenBank are isolation source (55%); country of origin (50%); and specific host (38%). The molecular sampling of fungi shows a bias towards North America, Europe, China, and Japan whereas vast geographical areas remain effectively unexplored. Mycorrhizal and parasitic genera are on average associated with more IIS than are saprophytic taxa. Glomus, Alternaria, and Tomentella are the genera represented by the highest number of insufficiently identified ITS sequences in GenBank. The web service presented (http://andromeda.botany.gu.se/emerencia.html#genus_search) offers new means, particularly for mycorrhizal and plant pathogenic fungi, to examine the IIS in GenBank in a taxon-oriented framework and to explore their metadata in an easily accessible and time-efficient manner.
-
-GenBank: !contains! Fungal ITS sequences 
-Fungal genera: !associated with! IIS in GenBank 
-Glomus, Alternaria, Tomentella: !represented by! Highest number of IIS in GenBank 
-Mycorrhizal and parasitic genera: !associated with! More IIS than saprophytic taxa 
-Isolation source: !most commonly available annotation item in! GenBank 
-Country of origin: !most commonly available annotation item in! GenBank 
-Specific host: !most commonly available annotation item in! GenBank

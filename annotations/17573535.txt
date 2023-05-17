@@ -1,8 +1,0 @@
-['17573535', 'Camalexin (3-thiazol-2-yl-indole) is an indole alkaloid phytoalexin produced by  Arabidopsis thaliana that is thought to be important for resistance to  necrotrophic fungal pathogens, such as Alternaria brassicicola and Botrytis  cinerea. It is produced from Trp, which is converted to indole acetaldoxime  (IAOx) by the action of cytochrome P450 monooxygenases CYP79B2 and CYP79B3. The  remaining biosynthetic steps are unknown except for the last step, which is  conversion of dihydrocamalexic acid to camalexin by CYP71B15 (PAD3). This article  reports characterization of CYP71A13. Plants carrying cyp71A13 mutations produce  greatly reduced amounts of camalexin after infection by Pseudomonas syringae or  A. brassicicola and are susceptible to A. brassicicola, as are pad3 and cyp79B2  cyp79B3 mutants. Expression levels of CYP71A13 and PAD3 are coregulated. CYP71A13  expressed in Escherichia coli converted IAOx to indole-3-acetonitrile (IAN).  Expression of CYP79B2 and CYP71A13 in Nicotiana benthamiana resulted in  conversion of Trp to IAN. Exogenously supplied IAN restored camalexin production  in cyp71A13 mutant plants. Together, these results lead to the conclusion that  CYP71A13 catalyzes the conversion of IAOx to IAN in camalexin synthesis and  provide further support for the role of camalexin in resistance to A.  brassicicola.', '2007 Jun', 'Plant Cell', '10.1105/tpc.107.051383', 'Glazebrook']
-
-CYP79B2: !converts! Trp to IAOx
-CYP79B3: !converts! Trp to IAOx
-CYP71A13: !converts! IAOx to IAN
-PAD3: !converts! Dihydrocamalexic acid to camalexin
-CYP71A13: !coregulates with! PAD3
-CYP71A13: !restores! Camalexin production in cyp71A13 mutant plants

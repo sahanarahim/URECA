@@ -1,9 +1,0 @@
-['22827849', 'One of the key events in dicot plant embryogenesis is the emergence of the two  cotyledon primordia, which marks the transition from radial symmetry to bilateral  symmetry. In Arabidopsis thaliana, the three CUP-SHAPED COTYLEDON (CUC) genes are  responsible for determining the boundary region between the cotyledons. However,  the mechanisms controlling their transcription activation are not well  understood. Previous studies found that several WOX family homeobox transcription  factors are involved in embryo apical patterning and cotyledon development. Here  we show that WOX2 and STIMPY-LIKE (STPL/WOX8) act redundantly to differentially  regulate the expression of the CUC genes in promoting the establishment of the  cotyledon boundary, without affecting the primary shoot meristem. Loss of both  WOX2 and STPL results in reduced CUC2 and CUC3 expression in one side of the  embryo, but an expansion of the CUC1 domain. Furthermore, we found that STPL is  expressed in the embryo proper, and its activation is enhanced by the removal of  WOX2, providing an explanation for the functional redundancy between WOX2 and  STPL. Additional evidence also showed that WOX2 and STPL function independently  in regulating different aspects of local auxin gradient formation during early  embryogenesis.', '2012 Nov', 'Plant J', '10.1111/j.1365-313X.2012.05113.x', 'Wu']
-
-WOX2: !regulates! CUC genes
-STPL: !regulates! CUC genes
-WOX2: !enhances! STPL activation
-WOX2: !interacts with! STPL
-STPL: !localizes to! embryo proper
-WOX2: !represses! STPL
-WOX2: !synthesizes! local auxin gradient

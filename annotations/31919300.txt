@@ -1,7 +1,0 @@
-['31919300', 'The phytohormone abscisic acid (ABA) and the Polycomb group proteins have key  roles in regulating plant growth and development; however, their interplay and  underlying mechanisms are not fully understood. Here, we identified an  Arabidopsis (Arabidopsis thaliana) nodulin homeobox (AtNDX) protein as a negative  regulator in the ABA signaling pathway. AtNDX mutants are hypersensitive to ABA,  as measured by inhibition of seed germination and root growth, and the expression  of AtNDX is downregulated by ABA. AtNDX interacts with the Polycomb Repressive  Complex1 (PRC1) core components AtRING1A and AtRING1B in vitro and in vivo, and  together, they negatively regulate the expression levels of some ABA-responsive  genes. We identified ABA-INSENSITIVE (ABI4) as a direct target of AtNDX. AtNDX  directly binds the downstream region of ABI4 and deleting this region increases  the ABA sensitivity of primary root growth. Furthermore, ABI4 mutations rescue  the ABA-hypersensitive phenotypes of ndx mutants and ABI4-overexpressing plants  are hypersensitive to ABA in primary root growth. Thus, our work reveals the  critical functions of AtNDX and PRC1 in some ABA-mediated processes and their  regulation of ABI4.', '2020 Mar', 'Plant Cell', '10.1105/tpc.19.00604', 'ORCID:']
-
-ABA: !regulates! AtNDX 
-AtNDX: !interacts with! PRC1 
-PRC1: !regulates! ABA-responsive genes 
-AtNDX: !binds! ABI4 
-ABI4: !regulates! ABA sensitivity

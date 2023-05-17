@@ -1,9 +1,0 @@
-['11706191', 'Tocopherols, collectively known as vitamin E, are lipid-soluble antioxidants  synthesized exclusively by photosynthetic organisms and are required components  of mammalian diets. The committed step in tocopherol biosynthesis involves  condensation of homogentisic acid and phytyl diphosphate (PDP) catalyzed by a  membrane-bound homogentisate phytyltransferase (HPT). HPTs were identified from  Synechocystis sp. PCC 6803 and Arabidopsis based on their sequence similarity to  chlorophyll synthases, which utilize PDP in a similar prenylation reaction. HPTs  from both organisms used homogentisic acid and PDP as their preferred substrates  in vitro but only Synechocystis sp. PCC 6803 HPT was active with geranylgeranyl  diphosphate as a substrate. Neither enzyme could utilize solanesyl diphosphate,  the prenyl substrate for plastoquinone-9 synthesis. In addition, disruption of  Synechocystis sp. PCC 6803 HPT function causes an absence of tocopherols without  affecting plastoquinone-9 levels, indicating that separate polyprenyltransferases  exist for tocopherol and plastoquinone synthesis in Synechocystis sp. PCC 6803.  It is surprising that the absence of tocopherols in this mutant had no  discernible effect on cell growth and photosynthesis.', '2001 Nov', 'Plant Physiol', '6887', 'DellaPenna']
-
-HPT: !synthesizes! Tocopherols 
-HPT: !uses! Homogentisic acid 
-HPT: !uses! Phytyl diphosphate 
-HPT: !cannot use! Solanesyl diphosphate 
-HPT: !disruption of function! Absence of tocopherols 
-Absence of tocopherols: !no effect on! Cell growth 
-Absence of tocopherols: !no effect on! Photosynthesis

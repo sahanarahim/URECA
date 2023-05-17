@@ -1,9 +1,0 @@
-Carotenoids are important plant pigments for both light harvesting and photooxidation protection. Using the model system of the unicellular green alga Chlamydomonas reinhardtii, we characterized the regulation of gene expression for carotenoid metabolism by quantifying changes in the transcript abundance of dxs, dxr and ipi in the plastidic methylerythritol phosphate pathway and of ggps, psy, pds, lcyb and bchy, directly involved in carotenoid metabolism, under different photoperiod, light and metabolite treatments. The expression of these genes fluctuated with light/dark shifting. Light treatment also promoted the accumulation of transcripts of all these genes. Of the genes studied, dxs, ggps and lcyb displayed the typical circadian pattern by retaining a rhythmic fluctuation of transcript abundance under both constant light and constant dark entrainments. The expression of these genes could also be regulated by metabolic intermediates. For example, ggps was significantly suppressed by a geranylgeranyl pyrophosphate supplement and ipi was upregulated by isopentenyl pyrophosphate. Furthermore, CrOr, a C. reinhardtii homolog of the recently characterized Or gene that accounts for carotenoid accumulation, also showed co-expression with carotenoid biosynthetic genes such as pds and lcyb. Our data suggest a coordinated regulation on carotenoid metabolism in C. reinhardtii at the transcriptional level.
-
-dxs: !fluctuates with! light/dark shifting
-ggps: !fluctuates with! light/dark shifting
-lcyb: !fluctuates with! light/dark shifting
-ggps: !suppressed by! geranylgeranyl pyrophosphate
-ipi: !upregulated by! isopentenyl pyrophosphate
-CrOr: !co-expressed with! pds
-CrOr: !co-expressed with! lcyb

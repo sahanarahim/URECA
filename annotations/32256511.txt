@@ -1,8 +1,0 @@
-Traditional functional genetic studies in crops are time consuming, complicated and cannot be readily scaled up. The reason is that mutant or transformed crops need to be generated to study the effect of gene modifications on specific traits of interest. However, many crop species have a complex genome and a long generation time. As a result, it usually takes several months to over a year to obtain desired mutants or transgenic plants, which represents a significant bottleneck in the development of new crop varieties. To overcome this major issue, we are currently establishing a versatile plant genetic screening platform, amenable to high throughput screening in almost any crop species, with a unique workflow. This platform combines protoplast transformation and fluorescence activated cell sorting. Here we show that tobacco protoplasts can accumulate high levels of lipid if transiently transformed with genes involved in lipid biosynthesis and can be sorted based on lipid content. Hence, protoplasts can be used as a predictive tool for plant lipid engineering. Using this newly established strategy, we demonstrate the major role of <i>ABI3</i> in plant lipid accumulation. We anticipate that this workflow can be applied to numerous highly valuable metabolic traits other than storage lipid accumulation. This new strategy represents a significant step toward screening complex genetic libraries, in a single experiment and in a matter of days, as opposed to years by conventional means.
-
-gene: !affects! Lipid accumulation
-gene: !localizes to! Protoplasts
-gene: !interacts with! Fluorescence activated cell sorting
-gene: !enhances! Plant lipid engineering
-gene: !represses! Conventional means
-gene: !synthesizes! High throughput screening

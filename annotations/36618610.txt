@@ -1,7 +1,0 @@
-Cryptic splice sites in eukaryotic genome are generally dormant unless activated by mutation of authentic splice sites or related splicing factors. How cryptic splice sites are used remains unclear in plants. Here, we identified two cryptic splicing regulators, RBP45d and PRP39a that are homologs of yeast U1 auxiliary protein Nam8 and Prp39, respectively, <i>via</i> genetic screening for suppressors of the virescent <i>sot5</i> mutant, which results from a point mutation at the 5' splice site (5' ss) of <i>SOT5</i> intron 7. Loss-of-function mutations in <i>RBP45d</i> and <i>PRP39a</i> significantly increase the level of a cryptically spliced variant that encodes a mutated but functional sot5 protein, rescuing <i>sot5</i> to the WT phenotype. We furtherly demonstrated that RBP45d and PRP39a interact with each other and also with the U1C, a core subunit of U1 snRNP. We found that RBP45d directly binds to the uridine (U)-rich RNA sequence downstream the 5' ss of <i>SOT5</i> intron 7. However, other RBP45/47 members do not function redundantly with RBP45d, at least in regulation of cryptic splicing. Taken together, RBP45d promotes U1 snRNP to recognize the specific 5' ss via binding to intronic U-rich elements in plants.
-
-RBP45d: !interacts with! PRP39a
-RBP45d: !interacts with! U1C
-PRP39a: !interacts with! RBP45d
-PRP39a: !interacts with! U1C
-RBP45d: !binds to! U-rich RNA sequence

@@ -1,7 +1,0 @@
-We propose a theoretical mechanism that enables the elaboration of veins to supply distant cells during leaf development. In contrast to the more standard view that a signal (e.g., auxin) is produced at isolated sites to stimulate growth, we determine the consequences of the hypothesis that auxin is produced at a constant rate in every cell. High concentration sites for auxin emerge naturally in a reaction-diffusion model, together with global information about leaf shape and existing venation. Because the global information is encoded as auxin concentration and its gradient, those signals provide individual cells with sufficient information to determine their own fate. Unlike other models, a single substance suffices for the reaction-diffusion at early, but not initial, stages of development. Neither complex interactions nor predetermination are necessary. We predict angiosperm areolation patterns in simulation, and our model further implies the Sachs Canalization Hypothesis and resolves a dilemma regarding the role of auxin in cell growth.
-
-auxin: !produces! constant rate
-auxin: !provides information to! individual cells
-auxin: !determines fate of! individual cells
-model: !predicts! angiosperm areolation patterns
-Sachs Canalization Hypothesis: !resolves! auxin role in cell growth dilemma

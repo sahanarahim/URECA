@@ -1,9 +1,0 @@
-Ubiquitin/26S proteasome (UPS)-dependent proteolysis of a variety of cellular proteins plays an essential role in many basic cellular processes. UPS impacts transcriptional regulation by controlling the stability, and thus the activity, of numerous transcription factors (TFs). In Arabidopsis, trichome development and flavonoid metabolism are intimately connected, and several TFs have been identified that simultaneously control both processes. Here we show that UPS-dependent proteolysis of two of these TFs, GLABROUS 3 (GL3) and ENHANCER OF GL3 (EGL3), is mediated by ubiquitin protein ligase 3 (UPL3). Cell-free degradation and in planta stabilization assays in the presence of MG132, an inhibitor of proteasome activity, demonstrated that the degradation of GL3 and EGL3 proteins is 26S UPS-dependent. Yeast- or protoplast-based two-hybrid and bimolecular fluorescent complementation assays showed that GL3 and EGL3 interact via their C-terminal domains with the N-terminal portion of UPL3. Moreover, both TFs are stabilized and show increased activities in a upl3 mutant background. Gene expression analyses revealed that UPL3 expression is negatively affected by mutation in the gl3 locus, but is moderately upregulated by the overexpression of GL3, suggesting the presence of a regulatory loop involving GL3 and UPL3. Our findings underscore the importance of post-translational controls in epidermal cell differentiation and flavonoid metabolism.
-
-UPS: !affects! TFs
-GL3/EGL3: !interact with! UPL3
-UPL3: !mediates! UPS-dependent proteolysis of GL3/EGL3
-GL3/EGL3: !stabilized by! UPL3
-GL3/EGL3: !enhanced by! upl3 mutant
-UPL3: !repressed by! gl3 mutation
-UPL3: !enhanced by! GL3 overexpression

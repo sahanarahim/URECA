@@ -1,9 +1,0 @@
-The membrane potential reflects the difference between cytoplasmic and apoplastic electrical potentials and is essential for cellular operation. The application of the phytohormone auxin (3-indoleacetic acid (IAA)) causes instantaneous membrane depolarization in various cell types<sup>1-6</sup>, making depolarization a hallmark of IAA-induced rapid responses. In root hairs, depolarization requires functional IAA transport and TIR1-AFB signalling<sup>5</sup>, but its physiological importance is not understood. Specifically in roots, auxin triggers rapid growth inhibition<sup>7-9</sup> (RGI), a process required for gravitropic bending. RGI is initiated by the TIR1-AFB co-receptors, with the AFB1 paralogue playing a crucial role<sup>10,11</sup>. The nature of the underlying rapid signalling is unknown, as well as the molecular machinery executing it. Even though the growth and depolarization responses to auxin show remarkable similarities, the importance of membrane depolarization for root growth inhibition and gravitropism is unclear. Here, by combining the DISBAC<sub>2</sub>(3) voltage sensor with microfluidics and vertical-stage microscopy, we show that rapid auxin-induced membrane depolarization tightly correlates with RGI. Rapid depolarization and RGI require the AFB1 auxin co-receptor. Finally, AFB1 is essential for the rapid formation of the membrane depolarization gradient across the gravistimulated root. These results clarify the role of AFB1 as the central receptor for rapid auxin responses.
-
-auxin: !triggers! membrane depolarization 
-membrane depolarization: !requires! IAA transport and TIR1-AFB signalling 
-auxin: !initiates! RGI 
-RGI: !requires! AFB1 paralogue 
-DISBAC<sub>2</sub>(3): !correlates with! RGI 
-RGI: !requires! AFB1 auxin co-receptor 
-AFB1: !essential for! rapid formation of membrane depolarization gradient

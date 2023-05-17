@@ -1,8 +1,0 @@
-RNA-based silencing functions as an important antiviral immunity mechanism in plants. Plant viruses evolved to encode viral suppressors of RNA silencing (VSRs) that interfere with the function of key components in the silencing pathway. As effectors in the RNA silencing pathway, ARGONAUTE (AGO) proteins are targeted by some VSRs, such as that encoded by <i>Turnip crinkle virus</i> (TCV). A VSR-deficient TCV mutant was used to identify AGO proteins with antiviral activities during infection. A quantitative phenotyping protocol using an image-based color trait analysis pipeline on the PlantCV platform, with temporal red, green, and blue imaging and a computational segmentation algorithm, was used to measure plant disease after TCV inoculation. This process captured and analyzed growth and leaf color of Arabidopsis (<i>Arabidopsis thaliana</i>) plants in response to virus infection over time. By combining this quantitative phenotypic data with molecular assays to detect local and systemic virus accumulation, AGO2, AGO3, and AGO7 were shown to play antiviral roles during TCV infection. In leaves, AGO2 and AGO7 functioned as prominent nonadditive, anti-TCV effectors, whereas AGO3 played a minor role. Other AGOs were required to protect inflorescence tissues against TCV. Overall, these results indicate that distinct AGO proteins have specialized, modular roles in antiviral defense across different tissues, and demonstrate the effectiveness of image-based phenotyping to quantify disease progression.
-
-AGO2: !enhances! antiviral defense
-AGO3: !enhances! antiviral defense
-AGO7: !enhances! antiviral defense
-VSR: !interacts with! AGO proteins
-TCV: !targets! AGO proteins
-PlantCV: !quantifies! disease progression

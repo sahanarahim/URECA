@@ -1,9 +1,0 @@
-The biochemical function of the potyviral P3 protein is not known, although it is known to regulate virus replication, movement, and pathogenesis. We show that P3, the putative virulence determinant of soybean mosaic virus (SMV), targets a component of the translation elongation complex in soybean. Eukaryotic elongation factor 1A (eEF1A), a well-known host factor in viral pathogenesis, is essential for SMV virulence and the associated unfolded protein response (UPR). Silencing GmEF1A inhibits accumulation of SMV and another ER-associated virus in soybean. Conversely, endoplasmic reticulum (ER) stress-inducing chemicals promote SMV accumulation in wild-type, but not GmEF1A-knockdown, plants. Knockdown of genes encoding the eEF1B isoform, which is important for eEF1A function in translation elongation, has similar effects on UPR and SMV resistance, suggesting a link to translation elongation. P3 and GmEF1A promote each other's nuclear localization, similar to the nuclear-cytoplasmic transport of eEF1A by the Human immunodeficiency virus 1 Nef protein. Our results suggest that P3 targets host elongation factors resulting in UPR, which in turn facilitates SMV replication and place eEF1A upstream of BiP in the ER stress response during pathogen infection.
-
-P3: !targets! eEF1A 
-eEF1A: !essential for! SMV virulence 
-GmEF1A: !inhibits! SMV accumulation 
-ER stress-inducing chemicals: !promote! SMV accumulation 
-eEF1B: !important for! eEF1A function 
-P3: !promotes! GmEF1A nuclear localization 
-eEF1A: !upstream of! BiP in ER stress response

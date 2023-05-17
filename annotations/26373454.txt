@@ -1,8 +1,0 @@
-The regulation of CONSTANS (CO) gene expression is crucial to accurately measure changes in daylength, which influences flowering time in Arabidopsis thaliana. CO expression is under both transcriptional and posttranslational control mechanisms. We previously showed that the E3 ubiquitin ligase HIGH EXPRESSION OF OSMOTICALLY RESPONSIVE GENES1 (HOS1) physically interacts with CO in Arabidopsis. This interaction is required to precisely modulate the timing of CO accumulation and, consequently, to maintain low levels of FLOWERING LOCUS T expression during the first part of the day. The data presented here demonstrate that HOS1 is involved in the red light-mediated degradation of CO that takes place in the early stages of the daylight period. Our results show that phytochrome B (phyB) is able to regulate flowering time, acting in the phloem companion cells, as previously described for CO and HOS1. Moreover, we reveal that phyB physically interacts with HOS1 and CO, indicating that the three proteins may be present in a complex in planta that is required to coordinate a correct photoperiodic response in Arabidopsis.
-
-CO: !interacts with! HOS1
-HOS1: !interacts with! CO
-CO: !degraded by! phyB
-phyB: !regulates! flowering time
-phyB: !interacts with! HOS1
-phyB: !interacts with! CO

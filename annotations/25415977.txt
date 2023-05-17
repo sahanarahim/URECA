@@ -1,9 +1,0 @@
-['25415977', 'The Arabidopsis thaliana genes PROTEIN INHIBITOR OF ACTIVATED STAT LIKE1 (PIAL1)  and PIAL2 encode proteins with SP-RING domains, which occur in many ligases of  the small ubiquitin-related modifier (SUMO) conjugation pathway. We show that  PIAL1 and PIAL2 function as SUMO ligases capable of SUMO chain formation and  require the SUMO-modified SUMO-conjugating enzyme SCE1 for optimal activity.  Mutant analysis indicates a role for PIAL1 and 2 in salt stress and osmotic  stress responses, whereas under standard conditions, the mutants show close to  normal growth. Mutations in PIAL1 and 2 also lead to altered sulfur metabolism.  We propose that, together with SUMO chain binding ubiquitin ligases, these  enzymes establish a pathway for proteolytic removal of sumoylation substrates.', '2014 Nov', 'Plant Cell', '10.1105/tpc.114.131300', 'Bachmair']
-
-PIAL1: !encodes! protein 
-PIAL2: !encodes! protein 
-PIAL1/2: !function as! SUMO ligases 
-SCE1: !modifies! PIAL1/2 
-PIAL1/2: !affects! salt/osmotic stress responses 
-PIAL1/2: !alters! sulfur metabolism 
-PIAL1/2: !establishes! pathway for proteolytic removal of sumoylation substrates

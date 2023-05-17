@@ -1,8 +1,0 @@
-Understanding the genetic basis of phenotypic plasticity is crucial for predicting and managing climate change effects on wild plants and crops. Here, we combined crop modelling and quantitative genetics to study the genetic control of oil yield plasticity for multiple abiotic stresses in sunflower. First, we developed stress indicators to characterize 14 environments for three abiotic stresses (cold, drought and nitrogen) using the SUNFLO crop model and phenotypic variations of three commercial varieties. The computed plant stress indicators better explain yield variation than descriptors at the climatic or crop levels. In those environments, we observed oil yield of 317 sunflower hybrids and regressed it with three selected stress indicators. The slopes of cold stress norm reaction were used as plasticity phenotypes in the following genome-wide association study. Among the 65 534 tested Single Nucleotide Polymorphisms (SNPs), we identified nine quantitative trait loci controlling oil yield plasticity to cold stress. Associated single nucleotide polymorphisms are localized in genes previously shown to be involved in cold stress responses: oligopeptide transporters, lipid transfer protein, cystatin, alternative oxidase or root development. This novel approach opens new perspectives to identify genomic regions involved in genotype-by-environment interaction of a complex traits to multiple stresses in realistic natural or agronomical conditions.
-
-gene: !affects! oil yield plasticity
-gene: !localizes to! oligopeptide transporters
-gene: !interacts with! lipid transfer protein
-gene: !enhances! cystatin
-gene: !represses! alternative oxidase
-gene: !synthesizes! root development

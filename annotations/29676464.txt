@@ -1,8 +1,0 @@
-Endosomal sorting machineries regulate the transport of their cargoes among intracellular compartments. However, the molecular nature of such intracellular trafficking processes in pathogenic fungal development and pathogenicity remains unclear. Here, we dissect the roles and molecular mechanisms of two sorting nexin proteins and their cargoes in endosomal recycling in Fusarium graminearum using high-resolution microscopy and high-throughput co-immunoprecipitation strategies. We show that the sorting nexins, FgSnx41 and FgSnx4, interact with each other and assemble into a functionally interdependent heterodimer through their respective BAR domains. Further analyses demonstrate that the dimer localizes to the early endosomal membrane and coordinates endosomal sorting. The small GTPase FgRab5 regulates the correct localization of FgSnx41-FgSnx4 and is consequently required for its trafficking function. The protein FgSnc1 is a cargo of FgSnx41-FgSnx4 and regulates the fusion of secreted vesicles with the fungal growing apex and plasma membrane. In the absence of FgSnx41 or FgSnx4, FgSnc1 is mis-sorted and degraded in the vacuole, and null deletion of either component causes defects in the fungal polarized growth and virulence. Overall, for the first time, our results reveal the mechanism of FgSnc1 endosomal recycling by FgSnx41-FgSnx4 heterodimer which is essential for polarized growth and pathogenicity in F. graminearum.
-
-FgSnx41: !interacts with! FgSnx4
-FgSnx41-FgSnx4: !localizes to! early endosomal membrane
-FgRab5: !regulates! FgSnx41-FgSnx4 localization
-FgSnc1: !is a cargo of! FgSnx41-FgSnx4
-FgSnc1: !regulates! fusion of secreted vesicles
-FgSnx41/FgSnx4: !required for! FgSnc1 sorting & virulence

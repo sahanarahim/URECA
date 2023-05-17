@@ -1,8 +1,0 @@
-There is a close regulatory relationship between the circadian clock and the abscisic acid (ABA) signaling pathway in regulating many developmental processes and stress responses. However, the exact feedback regulation mechanism between them is still poorly understood. Here, we identified the rice (Oryza sativa) clock component PSEUDO-RESPONSE REGULATOR 95 (OsPRR95) as a transcriptional regulator that accelerates seed germination and seedling growth by inhibiting ABA signaling. We also found that OsPRR95 binds to the ABA receptor gene REGULATORY COMPONENTS OF ABA RECEPTORS10 (OsRCAR10) DNA and inhibits its expression. Genetic analysis showed OsRCAR10 acts downstream of OsPRR95 in mediating ABA responses. In addition, the induction of OsPRR95 by ABA partly required a functional OsRCAR10, and the ABA-responsive element-binding factor ABSCISIC ACID INSENSITIVE5 (OsABI5) bound directly to the promoter of OsPRR95 and activated its expression, thus establishing a regulatory feedback loop between OsPRR95, OsRCAR10, and OsABI5. Taken together, our results demonstrated that the OsRCAR10-OsABI5-OsPRR95 feedback loop modulates ABA signaling to fine-tune seed germination and seedling growth, thus establishing the molecular link between ABA signaling and the circadian clock.
-
-OsPRR95: !inhibits! ABA signaling
-OsPRR95: !binds to! OsRCAR10 DNA
-OsRCAR10: !acts downstream of! OsPRR95
-OsPRR95: !induction by! ABA !requires! functional OsRCAR10
-OsABI5: !binds to! OsPRR95 promoter
-OsABI5: !activates! OsPRR95 expression

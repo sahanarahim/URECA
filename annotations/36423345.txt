@@ -1,9 +1,0 @@
-Light is a major environmental factor for seed germination. Red light-activated phytochrome B (phyB) promotes seed germination by modulating the dynamic balance of two phytohormones, gibberellic acid (GA) and abscisic acid (ABA). How phyB modulates ABA biosynthesis after perceiving a light signal is not yet well understood. Here, we identified the noncoding RNA HIDDEN TREASURE 1 (HID1) as a repressor of ABA biosynthesis acting downstream of phyB during Arabidopsis thaliana seed germination. Loss of HID1 function led to delayed phyB-dependent seed germination. Photoactivated phyB promoted the accumulation of HID1 in the radicle within 48 h of imbibition. Our transcriptomics analysis showed that HID1 and phyB co-regulate the transcription of a common set of genes involved in ABA and GA metabolism. Through a forward genetic screen, we identified three ABA biosynthesis genes, ABA DEFICIENT 1 (ABA1), ABA2, and ABA3, as suppressors of HID1. We further demonstrated that HID1 directly inhibits the transcription of 9-CIS-EPOXYCAROTENOID DIOXYGENASE (NCED9), a gene encoding a key rate-limiting enzyme of ABA biosynthesis. HID1 interacts with ARABIDOPSIS TRITHORAX-RELATED7 (ATXR7), an H3K4me3 methyltransferase, inhibiting its occupancy and H3K4me3 modification at the NCED9 locus. Our study reveals a nuclear mechanism of phyB signaling transmitted through HID1 to control the internal homeostasis of ABA and GA, which gradually optimizes the transcriptional network during seed germination.
-
-phyB: !promotes! seed germination
-HID1: !represses! ABA biosynthesis
-phyB: !promotes accumulation of! HID1
-HID1: !co-regulates transcription of! genes involved in ABA and GA metabolism
-ABA1, ABA2, ABA3: !suppress! HID1
-HID1: !inhibits transcription of! NCED9
-HID1: !interacts with! ATXR7

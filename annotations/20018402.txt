@@ -1,6 +1,0 @@
-['20018402', 'Plant receptor-like kinases (RLKs) are transmembrane proteins with putative  N-terminal extracellular ligand-binding domains and C-terminal intracellular  protein kinase domains. RLKs have been implicated in multiple physiological  programs including plant development and immunity to microbial infection.  Arabidopsis thaliana gene expression patterns support an important role of this  class of proteins in biotic stress adaptation. Here, we provide a comprehensive  survey of plant immunity-related RLK gene expression. We further document the  role of the Arabidopsis Brassinosteroid Insensitive 1 (BRI1)-associated receptor  kinase 1 (BAK1) in seemingly unrelated biological processes, such as plant  development and immunity, and propose a role of this protein as an adaptor  molecule that is required for proper functionality of numerous RLKs. This view is  supported by the identification of an additional RLK, PEPR1, and its closest  homolog, PEPR2 as BAK1-interacting RLKs.', '2010 Feb-Mar', 'Eur J Cell Biol', '10.1016/j.ejcb.2009.11.001', 'Nurnberger']
-
-RLKs: !affect! Plant development and immunity
-BRI1-associated receptor kinase 1 (BAK1): !interacts with! PEPR1 and PEPR2 
-BAK1: !serves as! adaptor molecule 
-RLKs: !require! BAK1 for proper functionality

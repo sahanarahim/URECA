@@ -1,8 +1,0 @@
-The plant hormone ethylene plays vital roles in plant development, including pollen tube (PT) growth. Many studies have used the ethylene precursor, 1-aminocyclopropane-1-carboxylic acid (ACC), as a tool to trigger ethylene signaling. Several studies have suggested that ACC can act as a signal molecule independently of ethylene, inducing responses that are distinct from those induced by ethylene. In this study, we confirmed that ethylene receptor function is essential for promoting PT growth in tomato, but interestingly, we discovered that ACC itself can act as a signal that also promotes PT growth. Exogenous ACC stimulated PT growth even when ethylene perception was inhibited either chemically by treating with 1-methylcyclopropene (1-MCP) or genetically by using the ethylene-insensitive Never Ripe (NR) mutant. Treatment with aminoethoxyvinylglycine, which reduces endogenous ACC levels, led to a reduction of PT growth, even in the NR mutants. Furthermore, GUS activity driven by an EIN3 Binding Site promoter (EBS:GUS transgene) was triggered by ACC in the presence of 1-MCP. Taken together, these results suggest that ACC signaling can bypass the ethylene receptor step to stimulate PT growth and EBS driven gene expression.
-
-ethylene: !promotes! PT growth
-ACC: !promotes! PT growth
-1-MCP: !inhibits! ethylene perception
-NR mutant: !inhibits! ethylene perception
-aminoethoxyvinylglycine: !reduces! endogenous ACC levels
-EIN3 Binding Site promoter: !triggered by! ACC

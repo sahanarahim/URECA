@@ -1,7 +1,0 @@
-Global gene co-expression networks (GCNs) are powerful tools for functional genomics whereby putative functions and regulatory mechanisms can be inferred by gene co-expression. Cereal crops, such as Hordeum vulgare (barley) and Sorghum bicolor (sorghum), are among the most important plants to civilization. However, co-expression network tools for these plants are lacking. Here, we have constructed global GCNs for barley and sorghum using existing RNA-seq data sets. Meta-information was manually curated and categorized by tissue type to also build tissue-specific GCNs. To enable GCN searching and visualization, we implemented a website and database named PlantNexus. PlantNexus is freely available at https://plantnexus.ohio.edu/.
-
-Global gene co-expression networks: !affects! Functional genomics 
-Hordeum vulgare (barley): !constructs! Global GCNs 
-Sorghum bicolor (sorghum): !constructs! Global GCNs 
-Meta-information: !categorized by! Tissue type 
-PlantNexus: !implements! Website and database

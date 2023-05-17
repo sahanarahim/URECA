@@ -1,9 +1,0 @@
-Weed suppression is an important factor affecting crop yields. Precise identification of weed species will contribute to automatic weeding by applying proper herbicides, hoeing position determination, and hoeing depth to specific plants as well as reducing crop injury. However, the lack of datasets of weeds in the field has limited the application of deep learning techniques in weed management. In this paper, it presented a dataset of weeds in fields, Weed25, which contained 14,035 images of 25 different weed species. Both monocot and dicot weed image resources were included in this dataset. Meanwhile, weed images at different growth stages were also recorded. Several common deep learning detection models-YOLOv3, YOLOv5, and Faster R-CNN-were applied for weed identification model training using this dataset. The results showed that the average accuracy of detection under the same training parameters were 91.8%, 92.4%, and 92.15% respectively. It presented that Weed25 could be a potential effective training resource for further development of in-field real-time weed identification models. The dataset is available at https://pan.baidu.com/s/1rnUoDm7IxxmX1n1LmtXNXw; the password is rn5h.
-
-Weed25: !contains! 14,035 images 
-Weed25: !includes! 25 weed species 
-Weed25: !records! weed images at different growth stages 
-YOLOv3: !achieves! 91.8% accuracy 
-YOLOv5: !achieves! 92.4% accuracy 
-Faster R-CNN: !achieves! 92.15% accuracy 
-Weed25: !potential for! in-field real-time weed identification models

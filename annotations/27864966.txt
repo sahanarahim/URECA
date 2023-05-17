@@ -1,9 +1,0 @@
-An enduring question in plant physiology and evolution is how single genotypes of plants optimize performance in diverse, often highly variable, environments. We grew 35 natural accessions of the grass Brachypodium distachyon in four environments in the glasshouse, contrasting soil water deficit, elevated temperature and their interaction. We modeled treatment, genotype and interactive effects on leaf-level and whole-plant traits, including fecundity. We also assessed the relationship between glasshouse-measured traits and parameters related to climate at the place of origin. We found abundant genetic variation in both constitutive and induced traits related to plant-water relations. Most traits showed strong interaction between temperature and water availability, and we observed genotype-by-environment interaction for several traits. Notably, leaf free proline abundance showed a strong effect of genotype × temperature × water. We found strong associations between phenology, biomass and water use efficiency (WUE) with parameters describing climate of origin. Plants respond to multiple stressors in ways not directly predictable from single stressors, underscoring the complex and trait-specific mechanisms of environmental response. Climate-trait correlations support a role for WUE and phenology in local adaptation to climate in B. distachyon.
-
-genotype: !affects! Plant-water relations 
-temperature: !interacts with! Water availability 
-genotype: !interacts with! Environment 
-proline abundance: !shows effect of! Genotype × Temperature × Water 
-phenology: !correlates with! Climate of origin 
-biomass: !correlates with! Climate of origin 
-WUE: !correlates with! Climate of origin

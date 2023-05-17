@@ -1,9 +1,0 @@
-['20215587', 'l-myo-inositol 1-phosphate synthase (MIPS; EC 5.5.1.4) catalyzes the  rate-limiting step in the synthesis of myo-inositol, a critical compound in the  cell. Plants contain multiple MIPS genes, which encode highly similar enzymes. We  characterized the expression patterns of the three MIPS genes in Arabidopsis  thaliana and found that MIPS1 is expressed in most cell types and developmental  stages, while MIPS2 and MIPS3 are mainly restricted to vascular or related  tissues. MIPS1, but not MIPS2 or MIPS3, is required for seed development, for  physiological responses to salt and abscisic acid, and to suppress cell death.  Specifically, a loss in MIPS1 resulted in smaller plants with curly leaves and  spontaneous production of lesions. The mips1 mutants have lower myo-inositol,  ascorbic acid, and phosphatidylinositol levels, while basal levels of inositol  (1,4,5)P(3) are not altered in mips1 mutants. Furthermore, mips1 mutants  exhibited elevated levels of ceramides, sphingolipid precursors associated with  cell death, and were complemented by a MIPS1-green fluorescent protein (GFP)  fusion construct. MIPS1-, MIPS2-, and MIPS3-GFP each localized to the cytoplasm.  Thus, MIPS1 has a significant impact on myo-inositol levels that is critical for  maintaining levels of ascorbic acid, phosphatidylinositol, and ceramides that  regulate growth, development, and cell death.', '2010 Mar', 'Plant Cell', '10.1105/tpc.109.071779', 'Gillaspy']
-
-MIPS1: !affects! seed development
-MIPS1: !regulates! myo-inositol levels
-MIPS2/3: !localize to! vascular or related tissues
-MIPS1: !suppresses! cell death
-MIPS1: !enhances! physiological responses to salt and abscisic acid
-MIPS1/2/3: !localize to! cytoplasm
-MIPS1: !represses! cell death

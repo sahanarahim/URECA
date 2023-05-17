@@ -1,8 +1,0 @@
-['23475998', "The regulation of protein turnover by the ubiquitin proteasome system (UPS) is a  major posttranslational mechanism in eukaryotes. One of the key components of the  UPS, the COP9 signalosome (CSN), regulates 'cullin-ring' E3 ubiquitin ligases. In  plants, CSN participates in diverse cellular and developmental processes, ranging  from light signaling to cell cycle control. In this work, we isolated a new  plant-specific CSN-interacting F-box protein, which we denominated CFK1 (COP9  INTERACTING F-BOX KELCH 1). We show that, in Arabidopsis thaliana, CFK1 is a  component of a functional ubiquitin ligase complex. We also show that CFK1  stability is regulated by CSN and by proteasome-dependent proteolysis, and that  light induces accumulation of the CFK1 transcript in the hypocotyl. Analysis of  CFK1 knockdown, mutant, and overexpressing seedlings indicates that CFK1 promotes  hypocotyl elongation by increasing cell size. Reduction of CSN levels enhances  the short hypocotyl phenotype of CFK1-depleted seedlings, while complete loss of  CSN activity suppresses the long-hypocotyl phenotype of CFK1-overexpressing  seedlings. We propose that CFK1 (and its regulation by CSN) is a novel component  of the cellular mechanisms controlling hypocotyl elongation.", '2013 Sep', 'Mol Plant', '10.1093/mp/sst045', 'Serino']
-
-CFK1: !interacts with! CSN 
-CFK1: !stability regulated by! CSN 
-CFK1: !promotes! hypocotyl elongation 
-CSN: !regulates! 'cullin-ring' E3 ubiquitin ligases 
-CSN: !reduction enhances! short hypocotyl phenotype 
-CSN: !complete loss suppresses! long-hypocotyl phenotype

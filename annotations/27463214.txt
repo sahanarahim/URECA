@@ -1,7 +1,0 @@
-Difficulties in generating nuclear data for polyploids have impeded phylogenetic study of these groups. We describe a high-throughput protocol and an associated bioinformatics pipeline (Pipeline for Untangling Reticulate Complexes (Purc)) that is able to generate these data quickly and conveniently, and demonstrate its efficacy on accessions from the fern family Cystopteridaceae. We conclude with a demonstration of the downstream utility of these data by inferring a multi-labeled species tree for a subset of our accessions. We amplified four c. 1-kb-long nuclear loci and sequenced them in a parallel-tagged amplicon sequencing approach using the PacBio platform. Purc infers the final sequences from the raw reads via an iterative approach that corrects PCR and sequencing errors and removes PCR-mediated recombinant sequences (chimeras). We generated data for all gene copies (homeologs, paralogs, and segregating alleles) present in each of three sets of 50 mostly polyploid accessions, for four loci, in three PacBio runs (one run per set). From the raw sequencing reads, Purc was able to accurately infer the underlying sequences. This approach makes it easy and economical to study the phylogenetics of polyploids, and, in conjunction with recent analytical advances, facilitates investigation of broad patterns of polyploid evolution.
-
-Gene: !amplifies! PCR 
-Gene: !sequences! PacBio platform 
-Gene: !corrects! PCR and sequencing errors 
-Gene: !removes! PCR-mediated recombinant sequences 
-Gene: !infers! final sequences from raw reads

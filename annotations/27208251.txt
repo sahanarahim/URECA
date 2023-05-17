@@ -1,9 +1,0 @@
-Disease resistance (R) genes encode nucleotide binding Leu-rich-repeat (NLR) proteins that confer resistance to specific pathogens. Upon pathogen recognition they trigger a defense response that usually includes a so-called hypersensitive response (HR), a rapid localized cell death at the site of pathogen infection. Intragenic recombination between two maize (Zea mays) NLRs, Rp1-D and Rp1-dp2, resulted in the formation of a hybrid NLR, Rp1-D21, which confers an autoactive HR in the absence of pathogen infection. From a previous quantitative trait loci and genome-wide association study, we identified genes encoding two key enzymes in lignin biosynthesis, hydroxycinnamoyltransferase (HCT) and caffeoyl CoA O-methyltransferase (CCoAOMT), adjacent to the nucleotide polymorphisms that were highly associated with variation in the severity of Rp1-D21-induced HR We have previously shown that the two maize HCT homologs suppress the HR conferred by Rp1-D21 in a heterologous system, very likely through physical interaction. Here, we show, similarly, that CCoAOMT2 suppresses the HR induced by either the full-length or by the N-terminal coiled-coil domain of Rp1-D21 also likely via physical interaction and that the metabolic activity of CCoAOMT2 is unlikely to be necessary for its role in suppressing HR. We also demonstrate that CCoAOMT2, HCTs, and Rp1 proteins can form in the same complexes. A model is derived to explain the roles of CCoAOMT and HCT in Rp1-mediated defense resistance.
-
-Rp1-D: !triggers! HR
-HCTs: !suppresses! HR
-CCoAOMT2: !suppresses! HR
-Rp1-D: !interacts with! HCTs
-Rp1-D: !interacts with! CCoAOMT2
-HCTs: !forms complexes with! Rp1 proteins
-CCoAOMT2: !forms complexes with! Rp1 proteins

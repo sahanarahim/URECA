@@ -1,6 +1,0 @@
-Plants recognize light as an environmental signal to determine the proper timing of growth and development. In Arabidopsis seedlings, hypocotyl growth is promoted in the dark but suppressed in the light. It is known that the red/far-red light-sensing receptor phytochrome B (phyB) suppresses the function of PHYTOCHROME INTERACTING FACTOR (PIF) transcription factors, which act as photomorphogenic repressors. However, molecular mechanisms underlying the phyB-mediated inhibition of PIF functioning remain unclear. We recently demonstrated that HIGH EXPRESSION OF OSMOTICALLY RESPONSIVE GENES 1 (HOS1) facilitates the phyB-mediated suppression of PIF4 during the light period to achieve hypocotyl photomorphogenesis. HOS1 inhibits the transcriptional activation activity of PIF4 by forming protein complexes. Notably, phyB-mediated light signals induce HOS1 activity, thus promoting hypocotyl photomorphogenesis. While HOS1 is known to act as an E3 ubiquitin ligase or a chromatin remodeling factor, our data illustrate a novel role of HOS1: it acts as a component of phyB-mediated light signaling in hypocotyl photomorphogenesis.
-
-phyB: !suppresses! PIF
-HOS1: !facilitates! phyB-mediated suppression of PIF4
-phyB: !induces! HOS1 activity
-HOS1: !inhibits! transcriptional activation activity of PIF4

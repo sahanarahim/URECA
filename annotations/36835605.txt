@@ -1,7 +1,0 @@
-We report the molecular characterization of an ethyl methanesulfonate (EMS)-induced mutation that causes albinism and lethality at the seedling stage in <i>Arabidopsis thaliana</i>. We identified the mutation using a mapping-by-sequencing approach that uses Fisher's exact tests to detect changes in allele frequencies among the seedlings of an F<sub>2</sub> mapping population, which had been pooled according to their phenotypes (wild-type or mutant). After purifying genomic DNA from the plants of both pools, the two samples were sequenced using the Illumina HiSeq 2500 next-generation sequencing platform. The bioinformatic analysis allowed us to identify a point mutation that damages a conserved residue at the acceptor site of an intron of the At2g04030 gene, which encodes the chloroplast-localized AtHsp90.5 protein, a member of the HSP90 family of heat shock proteins. Our RNA-seq analysis demonstrates that the new allele alters the splicing of At2g04030 transcripts in multiple ways, leading to massive deregulation of genes encoding plastid-localized proteins. A search for protein-protein interactions using the yeast two-hybrid method allowed us to identify two members of the GrpE superfamily as potential interactors of AtHsp90.5, as has previously been reported for green algae.
-
-At2g04030: !encodes! AtHsp90.5 
-At2g04030: !alters splicing of! transcripts 
-AtHsp90.5: !localizes to! chloroplast 
-AtHsp90.5: !interacts with! GrpE superfamily 
-EMS mutation: !causes! albinism & lethality

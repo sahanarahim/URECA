@@ -1,8 +1,0 @@
-To achieve a detailed understanding of processes in biological systems, cellular features must be quantified in the three-dimensional (3D) context of cells and organs. We described use of the intrinsic root coordinate system (iRoCS) as a reference model for the root apical meristem of plants. iRoCS enables direct and quantitative comparison between the root tips of plant populations at single-cell resolution. The iRoCS Toolbox automatically fits standardized coordinates to raw 3D image data. It detects nuclei or segments cells, automatically fits the coordinate system, and groups the nuclei/cells into the root's tissue layers. The division status of each nucleus may also be determined. The only manual step required is to mark the quiescent centre. All intermediate outputs may be refined if necessary. The ability to learn the visual appearance of nuclei by example allows the iRoCS Toolbox to be easily adapted to various phenotypes. The iRoCS Toolbox is provided as an open-source software package, licensed under the GNU General Public License, to make it accessible to a broad community. To demonstrate the power of the technique, we measured subtle changes in cell division patterns caused by modified auxin flux within the Arabidopsis thaliana root apical meristem.
-
-iRoCS: !enables! comparison 
-iRoCS: !detects! nuclei 
-iRoCS: !groups! cells 
-iRoCS: !determines! division status 
-iRoCS: !adapts to! phenotypes 
-iRoCS: !measures! changes in cell division patterns

@@ -1,9 +1,0 @@
-Accurate and high-throughput phenotyping of the dynamic response of a large rice population to drought stress in the field is a bottleneck for genetic dissection and breeding of drought resistance. Here, high-efficiency and high-frequent image acquisition by an unmanned aerial vehicle (UAV) was utilized to quantify the dynamic drought response of a rice population under field conditions. Deep convolutional neural networks (DCNNs) and canopy height models were applied to extract highly correlated phenotypic traits including UAV-based leaf-rolling score (LRS_uav), plant water content (PWC_uav) and a new composite trait, drought resistance index by UAV (DRI_uav). The DCNNs achieved high accuracy (correlation coefficient R = 0.84 for modeling set and R = 0.86 for test set) to replace manual leaf-rolling rating. PWC_uav values were precisely estimated (correlation coefficient R = 0.88) and DRI_uav was modeled to monitor the drought resistance of rice accessions dynamically and comprehensively. A total of 111 significantly associated loci were detected by genome-wide association study for the three dynamic traits, and 30.6% of them were not detected in previous mapping studies using nondynamic drought response traits. Unmanned aerial vehicle and deep learning are confirmed effective phenotyping techniques for more complete genetic dissection of rice dynamic responses to drought and exploration of valuable alleles for drought resistance improvement.
-
-UAV: !quantifies! dynamic drought response
-DCNNs: !extracts! correlated phenotypic traits
-LRS_uav: !correlated with! DCNNs
-PWC_uav: !estimated by! UAV
-DRI_uav: !monitors! drought resistance
-GWAS: !detects! associated loci
-UAV and DL: !confirm effective! phenotyping techniques

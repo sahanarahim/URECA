@@ -1,9 +1,0 @@
-The formation of cellular patterns during development requires the coordination of cell division with cell identity specification. This coordination is essential in patterning the highly elongated giant cells, which are interspersed between small cells, in the outer epidermis of the Arabidopsis thaliana sepal. Giant cells undergo endocycles, replicating their DNA without dividing, whereas small cells divide mitotically. We show that distinct enhancers are expressed in giant cells and small cells, indicating that these cell types have different identities as well as different sizes. We find that members of the epidermal specification pathway, DEFECTIVE KERNEL1 (DEK1), MERISTEM LAYER1 (ATML1), Arabidopsis CRINKLY4 (ACR4) and HOMEODOMAIN GLABROUS11 (HDG11), control the identity of giant cells. Giant cell identity is established upstream of cell cycle regulation. Conversely, endoreduplication represses small cell identity. These results show not only that cell type affects cell cycle regulation, but also that changes in the cell cycle can regulate cell type.
-
-DEK1: !controls! giant cell identity
-ATML1: !controls! giant cell identity
-ACR4: !controls! giant cell identity
-HDG11: !controls! giant cell identity
-endoreduplication: !represses! small cell identity
-cell type: !affects! cell cycle regulation
-cell cycle: !regulates! cell type

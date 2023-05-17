@@ -1,9 +1,0 @@
-Automating dynamic fine root data collection in the field is a longstanding challenge with multiple applications for co-interpretation and synthesis for ecosystem understanding. High frequency root data are only achievable with paired automated sampling and processing. However, automatic minirhizotron (root camera) instruments are still rare and data are often not collected in natural soils or analysed at high temporal resolution. Instruments must also be affordable for replication and robust under variable natural conditions. Here, we show a system built with off-the-shelf parts which samples at sub-daily resolution. We paired this with a neural network to analyse all images collected. We performed two mesocosm studies and two field trials alongside ancillary data collection (soil CO2 efflux, temperature, and moisture content, and 'PhenoCam'-derived above-ground dynamics). We produce robust and replicated daily time series of root dynamics under all conditions. Temporal root changes were a stronger driver than absolute biomass on soil CO2 efflux in the mesocosm. Proximal sensed above-ground dynamics and below-ground dynamics from minirhizotron data were not synchronized. Root properties extracted were sensitive to soil moisture and occasionally to time of day (potentially relating to soil moisture). This may only affect high frequency imagery and should be considered in interpreting such data.
-
-minirhizotron: !samples at! sub-daily resolution
-neural network: !analyses! all images collected
-mesocosm studies: !paired with! ancillary data collection
-soil CO2 efflux: !driven by! temporal root changes
-proximal sensed above-ground dynamics: !not synchronized with! below-ground dynamics
-root properties: !sensitive to! soil moisture
-time of day: !potentially relates to! soil moisture

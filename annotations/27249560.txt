@@ -1,7 +1,0 @@
-The sorting of soluble proteins for degradation in the vacuole is of vital importance in plant cells, and relies on the activity of vacuolar sorting receptors (VSRs). In the plant endomembrane system, VSRs bind vacuole-targeted proteins and facilitate their transport to the vacuole. Where exactly these interactions take place has remained controversial, however. Here, we examine the potential for VSR-ligand interactions in all compartments of the vacuolar transport system in tobacco mesophyll protoplasts. To do this, we developed compartment-specific VSR sensors that assemble as a result of a nanobody-epitope interaction, and monitored the degree of ligand binding by analysing Förster resonance energy transfer using fluorescence lifetime imaging microscopy (FRET-FLIM). We show that VSRs bind ligands in the endoplasmic reticulum (ER) and in the Golgi, but not in the trans-Golgi network/early endosome (TGN/EE) or multivesicular late endosomes, suggesting that the post-TGN/EE trafficking of ligands towards the vacuole is VSR independent. We verify this by showing that non-VSR-ligands are also delivered to the vacuole from the TGN/EE after endocytic uptake. We conclude that VSRs are required for the transport of ligands from the ER and the Golgi to the TGN/EE, and suggest that the onward transport to the vacuole occurs by default.
-
-VSRs: !bind! ligands 
-VSRs: !facilitate transport! to vacuole 
-ER/Golgi: !contain! VSRs 
-TGN/EE: !lack! VSRs 
-non-VSR-ligands: !transported! to vacuole from TGN/EE

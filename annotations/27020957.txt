@@ -1,9 +1,0 @@
-Genome-wide annotation of gene structure requires the integration of numerous computational steps. Currently, annotation is arguably best accomplished through collaboration of bioinformatics and domain experts, with broad community involvement. However, such a collaborative approach is not scalable at today's pace of sequence generation. To address this problem, we developed the xGDBvm software, which uses an intuitive graphical user interface to access a number of common genome analysis and gene structure tools, preconfigured in a self-contained virtual machine image. Once their virtual machine instance is deployed through iPlant's Atmosphere cloud services, users access the xGDBvm workflow via a unified Web interface to manage inputs, set program parameters, configure links to high-performance computing (HPC) resources, view and manage output, apply analysis and editing tools, or access contextual help. The xGDBvm workflow will mask the genome, compute spliced alignments from transcript and/or protein inputs (locally or on a remote HPC cluster), predict gene structures and gene structure quality, and display output in a public or private genome browser complete with accessory tools. Problematic gene predictions are flagged and can be reannotated using the integrated yrGATE annotation tool. xGDBvm can also be configured to append or replace existing data or load precomputed data. Multiple genomes can be annotated and displayed, and outputs can be archived for sharing or backup. xGDBvm can be adapted to a variety of use cases including de novo genome annotation, reannotation, comparison of different annotations, and training or teaching.
-
-Genome: !annotated by! xGDBvm
-xGDBvm: !uses! intuitive graphical user interface
-xGDBvm: !manages! inputs
-xGDBvm: !configures! HPC resources
-xGDBvm: !displays! output
-xGDBvm: !flags! problematic gene predictions
-xGDBvm: !adapted to! de novo annotation

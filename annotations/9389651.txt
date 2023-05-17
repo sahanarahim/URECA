@@ -1,7 +1,0 @@
-['9389651', 'The Arabidopsis gai mutant allele confers a reduction in gibberellin (GA)  responsiveness. Here we report the molecular cloning of GAI and a closely related  gene GRS. The predicted GAI (wild-type) and gai (mutant) proteins differ only by  the deletion of a 17-amino-acid segment from within the amino-terminal region.  GAI and GRS contain nuclear localization signals, a region of homology to a  putative transcription factor, and motifs characteristic of transcriptional  coactivators. Genetic analysis indicates that GAI is a repressor of GA responses,  that GA can release this repression, and that gai is a mutant repressor that is  relatively resistant to the effects of GA. Mutations at SPY and GAR2 suppress the  gai phenotype, indicating the involvement of GAI, SPY, and GAR2 in a signaling  pathway that regulates GA responses negatively. The existence of this pathway  suggests that GA modulates plant growth through derepression rather than through  simple stimulation.', '1997 Dec 1', 'Genes Dev', '10.1101/gad.11.23.3194', 'Harberd']
-
-GAI: !represses! GA responses 
-GAI: !interacts with! SPY and GAR2 
-gai: !resists! effects of GA 
-SPY: !suppresses! gai phenotype 
-GAR2: !suppresses! gai phenotype

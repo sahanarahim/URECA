@@ -1,9 +1,0 @@
-A common molecular regulatory pathway that involves PHYA, PHYB and floral integrator genes CONSTANS (CO), FLOWERING LOCUS T (FT) and SUPRESSOR OF OVEREXPRESSION OF CO1 (SOC1) has been suggested to participate in the regulation of photoperiod dependent processes such as flowering and dormancy. In grapevines (Vitis vinifera L.), decreasing photoperiod and low temperatures trigger the transition of buds into endodormancy (ED), a process that is accompanied by drastic changes in gene expression of VvPHYA and B in leaves. To analyse the relationship of VvPHYA, VvPHYB, and grape homologues of Arabidopsis floral integrator genes VvCO, VvFT, VvMADS8, with ED, a comparative expression analysis of these genes was performed in grapevine-leaves and buds before, during and after the transition of buds into ED. The expression of all the above genes in the bud-tissue, and the fact that photoperiod regulates differently the expression of VvPHYA and B in buds than in leaves, suggests that the bud might be an autonomous or semi-autonomous organ in perceiving and transducing the photoperiod signal. On the other hand, the coordinated down-regulation of VvFT in leaves and buds during the transition of buds into ED, and its subsequent up-regulation following the application of dormancy-breaking compounds, hydrogen cyanamide (HC) and sodium azide, suggests that VvFT could play a key role in stimulating bud-growth by repressing their entry into ED.
-
-PHYA: !affects! ED
-PHYB: !affects! ED
-CO: !interacts with! ED
-FT: !represses! ED entry
-MADS8: !interacts with! ED
-HC: !enhances! VvFT expression
-Sodium azide: !enhances! VvFT expression

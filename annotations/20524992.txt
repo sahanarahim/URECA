@@ -1,9 +1,0 @@
-Coevolution can be a potent force in maintaining and generating biological diversity. Although coevolution is likely to have played a key role in the early development of mycorrhizal interactions, it is unclear how important coevolutionary processes are for ongoing trait evolution in those interactions. Empirical studies have shown that candidate coevolving traits, such as mycorrhizal colonization intensity, exhibit substantial heritable genetic variation within plant and fungal species and are influenced by plant genotype x fungal genotype interactions, suggesting the potential for ongoing coevolutionary selection. Selective source analysis (SSA) could be employed to build on these results, testing explicitly for ongoing coevolutionary selection and analyzing the influence of community context on local coevolutionary selection. Recent empirical studies suggest the potential for coevolution to drive adaptive differentiation among populations of plants and fungi, but further studies, especially using SSA in the context of field reciprocal transplant experiments, are needed to determine the importance of coevolutionary selection compared with nonreciprocal selection on species traits.
-
-genotype: !interacts with! genotype 
-plant: !exhibits! heritable genetic variation 
-plant: !influenced by! genotype x genotype interactions 
-fungal: !exhibits! heritable genetic variation 
-fungal: !influenced by! genotype x genotype interactions 
-coevolution: !drives! adaptive differentiation 
-coevolution: !potential for! ongoing selection

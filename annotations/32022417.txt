@@ -1,8 +1,0 @@
-Self-incompatibility (SI) is a genetic mechanism that rejects self-pollen and thus prevents inbreeding in some hermaphroditic angiosperms. In the Brassicaceae, SI involves a pollen-stigma recognition system controlled by a single locus known as the S locus, which consists of two highly polymorphic genes that encode S-locus cysteine-rich protein (SCR) and S-receptor kinase (SRK). When self-pollen lands on the stigma, the S-haplotype-specific interaction between SCR and SRK triggers SI. Here, we show that the GATA transcription factor BnA5.ZML1 suppresses SI responses in Brassica napus and is induced after compatible pollination. The loss-of-function mutant bna5.zml1 displays reduced self-compatibility. In contrast, overexpression of BnA5.ZML1 in self-incompatible stigmas leads to a partial breakdown of SI responses, suggesting that BnA5.ZML1 is a stigmatic compatibility factor. Furthermore, the expression levels of SRK and ARC1 are up-regulated in bna5.zml1 mutants, and they are down-regulated in BnA5.ZML1 overexpressing lines. SRK affects the cellular localization of BnA5.ZML1 through direct protein-protein interaction. Overall, our findings highlight the fundamental role of BnA5.ZML1 in SI responses in B. napus, establishing a direct interaction between BnA5.ZML1 and SRK in this process.
-
-SCR: !interacts with! SRK
-BnA5.ZML1: !suppresses! SI responses
-BnA5.ZML1: !induced by! compatible pollination
-bna5.zml1: !reduces! self-compatibility
-BnA5.ZML1: !downregulates! SRK and ARC1
-SRK: !affects localization of! BnA5.ZML1

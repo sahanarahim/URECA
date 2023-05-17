@@ -1,9 +1,0 @@
-['14686433', 'Phototropism as well as gravitropism plays a role in the oriented growth of roots  in flowering plants. In blue or white light, roots exhibit negative phototropism,  but red light induces positive phototropism in Arabidopsis roots. Phytochrome A  (phyA) and phyB mediate the positive red-light-based photoresponse in roots since  single mutants (and the double phyAB mutant) were severely impaired in this  response. In blue-light-based negative phototropism, phyA and phyAB (but not  phyB) were inhibited in the response relative to the WT. In root gravitropism,  phyB and phyAB (but not phyA) were inhibited in the response compared to the WT.  The differences observed in tropistic responses were not due to growth  limitations since the growth rates among all the mutants tested were not  significantly different from that of the WT. Thus, our study shows that the  blue-light and red-light systems interact in roots and that phytochrome plays a  key role in plant development by integrating multiple environmental stimuli.', '2003', 'Adv Space Res', '10.1016/s0273-1177(03)00245-x', 'Kiss']
-
-phyA: !mediates! positive red-light-based photoresponse 
-phyB: !mediates! positive red-light-based photoresponse 
-phyA: !inhibited in! blue-light-based negative phototropism 
-phyAB: !inhibited in! blue-light-based negative phototropism 
-phyB: !inhibited in! root gravitropism 
-phyAB: !inhibited in! root gravitropism 
-phytochrome: !integrates! multiple environmental stimuli

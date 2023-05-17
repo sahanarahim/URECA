@@ -1,9 +1,0 @@
-MicroRNA319a (miR319a) controls cell division arrest in plant leaves by inhibiting the expression of TCP (TEOSINTE BRANCHED 1/CYCLOIDEA/PCF) family genes. However, it is unclear whether miR319a influences infection by necrotrophic pathogens and host susceptibility. In this study, we revealed that miR319a affects plant resistance to stem rot disease caused by Sclerotinia sclerotiorum. In Brassica rapa plants infected with S. sclerotiorum, miR319a levels increased while the expression levels of several BraTCP genes significantly decreased compared with those of uninfected plants. Overexpression of BraMIR319a in B. rapa increased the susceptibility of the plants to S. sclerotiorum and aggravated stem rot disease, whereas overexpression of BraTCP4-1 promoted plant resistance. RNA sequencing data revealed a potential relationship between miR319a and pathogen-related WRKY genes. Chromatin immunoprecipitation, electrophoretic mobility shift, and reporter transaction assays showed that BraTCP4-1 could bind to the promoters of WRKY75, WRKY70, and WRKY33 and directly activate these pathogen-related genes. Moreover, the expression levels of WRKY75, WRKY70, and WRKY33 in plants overexpressing BraMIR319a decreased significantly, whereas those of plants overexpressing BraTCP4-1 increased significantly, relative to the wild type. These results suggest that miR319a and its target gene BraTCP4 control stem rot resistance through pathways of WRKY genes.
-
-miR319a: !inhibits! TCP family genes
-miR319a: !increases! susceptibility to S. sclerotiorum
-BraTCP4-1: !promotes! plant resistance
-BraMIR319a: !increases! susceptibility to S. sclerotiorum
-BraTCP4-1: !binds to! WRKY75, WRKY70, and WRKY33
-BraMIR319a: !decreases! expression of WRKY75, WRKY70, and WRKY33
-BraTCP4-1: !activates! pathogen-related genes

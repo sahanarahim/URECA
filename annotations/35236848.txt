@@ -1,7 +1,0 @@
-['35236848', 'The methyltransferase complex (m(6)A writer), which catalyzes the deposition of  N(6)-methyladenosine (m(6)A) in mRNAs, is highly conserved across most eukaryotic  organisms, but its components and interactions between them are still far from  fully understood. Here, using in vivo interaction proteomics, two  HAKAI-interacting zinc finger proteins, HIZ1 and HIZ2, are discovered as  components of the Arabidopsis m(6)A writer complex. HAKAI is required for the  interaction between HIZ1 and MTA (mRNA adenosine methylase A). Whilst HIZ1  knockout plants have normal levels of m(6)A, plants in which it is overexpressed  show reduced methylation and decreased lateral root formation. Mutant plants  lacking HIZ2 are viable but have an 85% reduction in m(6)A abundance and show  severe developmental defects. Our findings suggest that HIZ2 is likely the plant  equivalent of ZC3H13 (Flacc) of the metazoan m(6)A-METTL Associated Complex.', '2022 Mar 2', 'Nat Commun', '10.1038/s41467-022-28753-3', 'ORCID:']
-
-HAKAI: !interacts with! HIZ1 
-HIZ1: !interacts with! MTA 
-HIZ1: !enhances! m(6)A methylation 
-HIZ2: !synthesizes! m(6)A 
-HIZ2: !represses! lateral root formation

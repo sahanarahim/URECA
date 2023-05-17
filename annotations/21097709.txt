@@ -1,9 +1,0 @@
-['21097709', 'Phytochrome A (phyA) is the primary photoreceptor responsible for perceiving and  mediating various responses to far-red light in Arabidopsis thaliana. FAR-RED  ELONGATED HYPOCOTYL1 (FHY1) and its homolog FHY1-LIKE (FHL) are two small  plant-specific proteins essential for light-regulated phyA nuclear accumulation  and subsequent phyA signaling processes. FHY3 and its homolog FAR-RED IMPAIRED  RESPONSE1 (FAR1) are two transposase-derived transcription factors that directly  activate FHY1/FHL transcription and thus mediate subsequent phyA nuclear  accumulation and responses. Here, we report that ELONGATED HYPOCOTYL5 (HY5), a  well-characterized bZIP transcription factor involved in promoting  photomorphogenesis, directly binds ACGT-containing elements a few base pairs away  from the FHY3/FAR1 binding sites in the FHY1/FHL promoters. We demonstrate that  HY5 physically interacts with FHY3/FAR1 through their respective DNA binding  domains and negatively regulates FHY3/FAR1-activated FHY1/FHL expression under  far-red light. Together, our data show that HY5 plays a role in negative feedback  regulation of phyA signaling by attenuating FHY3/FAR1-activated FHY1/FHL  expression, providing a mechanism for fine-tuning phyA signaling homeostasis.', '2010 Nov', 'Plant Cell', '10.1105/tpc.110.075788', 'Deng']
-
-phyA: !mediates! responses to far-red light 
-FHY1/FHL: !essential for! phyA nuclear accumulation 
-FHY3/FAR1: !activate! FHY1/FHL transcription 
-HY5: !binds! ACGT-containing elements 
-HY5: !interacts with! FHY3/FAR1 
-HY5: !regulates! FHY3/FAR1-activated FHY1/FHL expression 
-HY5: !attenuates! phyA signaling

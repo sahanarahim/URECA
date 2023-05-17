@@ -1,9 +1,0 @@
-Traditionally, plant disease recognition has mainly been done visually by human. It is often biased, time-consuming, and laborious. Machine learning methods based on plant leave images have been proposed to improve the disease recognition process. Convolutional neural networks (CNNs) have been adopted and proven to be very effective. Despite the good classification accuracy achieved by CNNs, the issue of limited training data remains. In most cases, the training dataset is often small due to significant effort in data collection and annotation. In this case, CNN methods tend to have the overfitting problem. In this paper, Wasserstein generative adversarial network with gradient penalty (WGAN-GP) is combined with label smoothing regularization (LSR) to improve the prediction accuracy and address the overfitting problem under limited training data. Experiments show that the proposed WGAN-GP enhanced classification method can improve the overall classification accuracy of plant diseases by 24.4% as compared to 20.2% using classic data augmentation and 22% using synthetic samples without LSR.
-
-CNN: !improves! Disease Recognition
-WGAN-GP: !combined with! LSR
-Data Collection: !limited by! Effort
-WGAN-GP: !improves! Classification Accuracy
-Classic Data Augmentation: !increases! Accuracy by 20.2%
-Synthetic Samples: !increases! Accuracy by 22%
-Proposed Method: !increases! Accuracy by 24.4%

@@ -1,7 +1,0 @@
-We present an empirical model of Arabidopsis (Arabidopsis thaliana), intended as a framework for quantitative understanding of plant development. The model simulates and realistically visualizes development of aerial parts of the plant from seedling to maturity. It integrates thousands of measurements, taken from several plants at frequent time intervals. These data are used to infer growth curves, allometric relations, and progression of shapes over time, which are incorporated into the final three-dimensional model. Through the process of model construction, we identify the key attributes required to characterize the development of Arabidopsis plant form over time. The model provides a basis for integrating experimental data and constructing mechanistic models.
-
-Gene: !affects! Process 
-Gene: !synthesizes! Measurements 
-Gene: !infers! Growth curves 
-Gene: !incorporates! Allometric relations 
-Gene: !characterizes! Plant form

@@ -1,8 +1,0 @@
-Signaling by the evolutionarily conserved mitogen-activated protein kinase or extracellular signal-regulated kinase (MAPK/ERK) plays critical roles in converting extracellular stimuli into immune responses. However, whether MAPK/ERK signaling induces virus immunity by directly phosphorylating viral effectors remains largely unknown. Barley yellow striate mosaic virus (BYSMV) is an economically important plant cytorhabdovirus that is transmitted by the small brown planthopper (SBPH, Laodelphax striatellus) in a propagative manner. Here, we found that the barley (Hordeum vulgare) MAPK MPK3 (HvMPK3) and the planthopper ERK (LsERK) proteins interact with the BYSMV nucleoprotein (N) and directly phosphorylate N protein primarily on serine 290. The overexpression of HvMPK3 inhibited BYSMV infection, whereas barley plants treated with the MAPK pathway inhibitor U0126 displayed greater susceptibility to BYSMV. Moreover, knockdown of LsERK promoted virus infection in SBPHs. A phosphomimetic mutant of the N Ser290 (S290D) completely abolished virus infection because of impaired self-interaction of BYSMV N and formation of unstable N-RNA complexes. Altogether, our results demonstrate that the conserved MAPK and ERK directly phosphorylate the viral nucleoprotein to trigger immunity against cross-kingdom infection of BYSMV in host plants and its insect vectors.
-
-HvMPK3: !interacts with! BYSMV N
-LsERK: !interacts with! BYSMV N
-HvMPK3: !inhibits! BYSMV infection
-U0126: !increases! BYSMV susceptibility
-LsERK: !promotes! BYSMV infection
-N Ser290: !phosphorylated by! MAPK/ERK

@@ -1,9 +1,0 @@
-Host cells respond to infection by generating nitric oxide (NO) as a cytotoxic weapon to facilitate killing of invading microbes. Bacterial flavohaemoglobins are well-known scavengers of NO and play a crucial role in protecting animal pathogens from nitrosative stress during infection. Erwinia chrysanthemi, which causes macerating diseases in a wide variety of plants, possesses a flavohaemoglobin (HmpX) whose function in plant pathogens has remained unclear. Here we show that HmpX consumes NO and prevents inhibition by NO of cell respiration, indicating a role in protection from nitrosative stress. Furthermore, infection of Saintpaulia ionantha plants with an HmpX-deficient mutant of E. chrysanthemi revealed that the lack of NO scavenging activity causes the accumulation of unusually high levels of NO in host tissue and triggers hypersensitive cell death. Introduction of the wild-type hmpX gene in an incompatible strain of Pseudomonas syringae had a dramatic effect on the hypersensitive cell death in soya bean cell suspensions, and markedly reduced the development of macroscopic symptoms in Arabidopsis thaliana plants. These observations indicate that HmpX not only protects against nitrosative stress but also attenuates host hypersensitive reaction during infection by intercepting NO produced by the plant for the execution of the hypersensitive cell death programme.
-
-Host cells: !generate! NO
-Bacterial flavohaemoglobins: !scavenge! NO
-HmpX: !consumes! NO
-HmpX: !prevents! inhibition of cell respiration
-HmpX-deficient mutant: !causes! accumulation of NO in host tissue
-HmpX-deficient mutant: !triggers! hypersensitive cell death
-Wild-type hmpX gene: !attenuates! host hypersensitive reaction

@@ -1,8 +1,0 @@
-['18268539', 'Mitogen-activated protein kinases (MAPKs) are involved in the regulation of plant  growth, development and responses to a wide variety of stimuli. In a conditional  gain-of-function transgenic system, the activation of AtMEK5, a MAPK kinase, can  in turn activate endogenous AtMAPK3 and AtMAPK6, and can lead to a striking  increase in ethylene production and induce hypersensitive response (HR)-like cell  death in Arabidopsis. However, the role of the increased ethylene production in  regulating this HR-like cell death remains unknown. Using Arabidopsis transgenic  plants that express AtMEK5(DD), an active mutant of AtMEK5 that is under the  control of a steroid-inducible promoter, we tested the contribution of ethylene  to cell death. We found that ethylene biosynthesis occurs before cell death. Cell  death was delayed by inhibiting AtMEK5-induced ethylene production using  inhibitors of ACC-synthases, ACC-oxidases or ethylene receptors. In the mutants  AtMEK5(DD)/etr1-1 and AtMEK5(DD)/ein2-1, both of which showed insensitivity to  ethylene, the expression of AtMEK5(DD) protein, activity of AtMAPK3 and AtMAPK6,  and ethylene production were the same as those seen in AtMEK5(DD) transgenic  plants, but cell death was also delayed. These data suggest that ethylene  signaling perception is required to accelerate cell death that is induced by  AtMEK5 activation.', '2008 Mar', 'Cell Res', '10.1038/cr.2008.29', 'Ren']
-
-AtMEK5: !activates! AtMAPK3 
-AtMEK5: !activates! AtMAPK6 
-AtMEK5: !induces! ethylene production 
-ethylene production: !induces! HR-like cell death 
-ACC-synthases/oxidases/receptors: !inhibit! ethylene production 
-etr1-1/ein2-1 mutants: !delay! cell death

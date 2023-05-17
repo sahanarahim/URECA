@@ -1,8 +1,0 @@
-Mapping-by-sequencing combines Next Generation Sequencing (NGS) with classical genetic mapping by linkage analysis to establish gene-to-phenotype relationships. Although numerous tools have been developed to analyze NGS datasets, only a few are available for mapping-by-sequencing. One such tool is Easymap, a versatile, easy-to-use package that performs automated mapping of point mutations and large DNA insertions. Here, we describe Easymap v.2, which also maps small insertion/deletions (InDels), and includes workflows to perform QTL-seq and variant density mapping analyses. Each mapping workflow can accommodate different experimental designs, including outcrossing and backcrossing, F<sub>2</sub>, M<sub>2</sub>, and M<sub>3</sub> mapping populations, chemically induced mutation and natural variant mapping, input files containing single-end or paired-end reads of genomic or complementary DNA sequences, and alternative control sample files in FASTQ and VCF formats. Easymap v.2 can also be used as a variant analyzer in the absence of a mapping algorithm and includes a multi-threading option.
-
-Mapping-by-sequencing: !combines! NGS 
-Easymap: !performs! automated mapping 
-Easymap v.2: !maps! InDels 
-Easymap v.2: !accommodates! different experimental designs 
-Easymap v.2: !analyzes! variant density 
-Easymap v.2: !includes! multi-threading option

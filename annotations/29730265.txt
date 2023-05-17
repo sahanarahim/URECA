@@ -1,6 +1,0 @@
-The classic phytohormone auxin plays an essential role in priming meristematic cell differentiation in the shoot apical meristem to promote lateral organ initiation. Recently, several lines of evidence have suggested that auxin is not only transported to new primordia but also descends to the stem cells in the central zone. However, the function of auxin in stem cell regulation has remained elusive. Here, we show that auxin signaling in stem cells is mediated, at least in part, by AUXIN RESPONSE FACTOR 5/MONOPTEROS (ARF5/MP), which directly represses the transcription of DORNROSCHEN/ENHANCER OF SHOOT REGENERATION 1 (DRN/ESR1). DRN expressed in stem cells positively regulates CLAVATA3 (CLV3) expression and has important meristematic functions. Our results provide a mechanistic framework for auxin control of shoot stem cell homeostasis and demonstrate how auxin differentially controls plant stem cell maintenance and differentiation.
-
-auxin: !mediates! ARF5/MP 
-ARF5/MP: !represses! DRN/ESR1 
-DRN/ESR1: !regulates! CLV3 
-CLV3: !promotes! meristematic functions

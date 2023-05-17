@@ -1,8 +1,0 @@
-High-quality orchard picking has become a new trend, and achieving the picking of homogeneous fruit is a huge challenge for picking robots. Based on the premise of improving picking efficiency of homo-chromatic fruit in complex environments, this paper proposes a novel homo-chromatic fruit segmentation model under Polar-Net. The model uses Densely Connected Convolutional Networks (DenseNet) as the backbone network, Feature Pyramid Network (FPN) and Cross Feature Network (CFN) to achieve feature extraction and feature discrimination for images of different scales, regions of interest are drawn with the help of Region Proposal Network (RPN), and regression is performed between the features of different layers. In the result prediction part, polar coordinate modeling is performed based on the extracted image features, and the instance segmentation problem is reduced to predict the instance contour for instance center classification and dense distance regression. Experimental results demonstrate that the method effectively improves the segmentation accuracy of homo-chromatic objects and has the characteristics of simplicity and efficiency. The new method has improved the accuracy of segmentation of homo-chromatic objects for picking robots and also provides a reference for segmentation of other fruit and vegetables.
-
-DenseNet: !backbone network for! Feature extraction 
-FPN: !extracts features from! Images of different scales 
-CFN: !discriminates features from! Images of different scales 
-RPN: !draws regions of interest from! Extracted image features 
-Polar coordinate modeling: !reduces instance segmentation to! Instance contour prediction 
-Instance center classification: !performs regression between! Features of different layers

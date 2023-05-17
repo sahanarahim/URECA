@@ -1,6 +1,0 @@
-We quantified the transcript levels of 44 genes related to sugar catabolism in strains with altered primary carbon metabolism and discovered a consistent expression pattern among succinate-producing mutants. To identify factors that determine the expression pattern, we calculated Pearson's correlation coefficients, using the transcript data. Correlation analysis revealed positive and negative correlations among genes encoding sugar catabolic enzymes. On the basis of this analysis, we found that the mutant overexpressing both rre37 (encoding an OmpR-type response regulator) and sigE (encoding an RNA polymerase sigma factor) produced increased levels of succinate under dark, anaerobic conditions, with a maximum productivity of 420 mg l-1.
-
-rre37: !enhances! succinate production
-sigE: !enhances! succinate production
-genes: !correlate with! sugar catabolic enzymes
-mutant: !overexpresses! rre37 and sigE

@@ -1,9 +1,0 @@
-['16614222', 'Terrestrial plants lose water primarily through stomata, pores on the leaves. The  hormone abscisic acid (ABA) decreases water loss by regulating opening and  closing of stomata. Here, we show that phospholipase Dalpha1 (PLDalpha1) mediates  the ABA effects on stomata through interaction with a protein phosphatase 2C  (PP2C) and a heterotrimeric GTP-binding protein (G protein) in Arabidopsis.  PLDalpha1-produced phosphatidic acid (PA) binds to the ABI1 PP2C to signal  ABA-promoted stomatal closure, whereas PLDalpha1 and PA interact with the Galpha  subunit of heterotrimeric G protein to mediate ABA inhibition of stomatal  opening. The results reveal a bifurcating signaling pathway that regulates plant  water loss.', '2006 Apr 14', 'Science', '10.1126/science.1123769', 'Wang']
-
-ABA: !regulates! stomata 
-PLDalpha1: !mediates! ABA effects 
-PLDalpha1: !produces! PA 
-ABI1 PP2C: !binds to! PA 
-PA: !signals! ABA-promoted stomatal closure 
-PLDalpha1: !interacts with! Galpha subunit 
-Galpha subunit: !mediates! ABA inhibition of stomatal opening

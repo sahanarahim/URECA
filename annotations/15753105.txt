@@ -1,8 +1,0 @@
-['15753105', 'To investigate the mechanism of phytochrome action in vivo, NtPHYB, AtPHYB and  phyD:green fluorescent protein (GFP) were overexpressed in Nicotiana  plumbaginifolia and Arabidopsis thaliana. The expression of 35S:NtPHYB:GFP and  35S:AtPHYB:GFP complemented the tobacco hgl2 and Arabidopsis phyB-9 mutations,  whereas the 35S:AtPHYD:GFP only rescued the hgl2 mutant. All three fusion  proteins are transported into the nucleus in all genetic backgrounds. These data  indicate that AtPHYD:GFP is biologically active and functions as the main red  light receptor in transgenic tobacco, and establish an experimental system for  the functional analysis of this elusive photoreceptor in vivo.', '2005 May', 'Plant Cell Physiol', '10.1093/pcp/pci073', 'Schafer']
-
-NtPHYB: !complements! tobacco hgl2 
-AtPHYB: !complements! Arabidopsis phyB-9 
-AtPHYD: !rescues! hgl2 mutant 
-35S:NtPHYB:GFP: !transported into! nucleus 
-35S:AtPHYB:GFP: !transported into! nucleus 
-35S:AtPHYD:GFP: !transported into! nucleus

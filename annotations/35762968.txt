@@ -1,9 +1,0 @@
-Ammonium uptake at plant roots is regulated at the transcriptional, posttranscriptional, and posttranslational levels. Phosphorylation by the protein kinase calcineurin B-like protein (CBL)-interacting protein kinase 23 (CIPK23) transiently inactivates ammonium transporters (AMT1s), but the phosphatases activating AMT1s remain unknown. Here, we identified the PP2C phosphatase abscisic acid (ABA) insensitive 1 (ABI1) as an activator of AMT1s in Arabidopsis (Arabidopsis thaliana). We showed that high external ammonium concentrations elevate the level of the stress phytohormone ABA, possibly by de-glycosylation. Active ABA was sensed by ABI1-PYR1-like () complexes followed by the inactivation of ABI1, in turn activating CIPK23. Under favorable growth conditions, ABI1 reduced AMT1;1 and AMT1;2 phosphorylation, both by binding and inactivating CIPK23. ABI1 further directly interacted with AMT1;1 and AMT1;2, which would be a prerequisite for dephosphorylation of the transporter by ABI1. Thus, ABI1 is a positive regulator of ammonium uptake, coupling nutrient acquisition to abiotic stress signaling. Elevated ABA reduces ammonium uptake during stress situations, such as ammonium toxicity, whereas ABI1 reactivates AMT1s under favorable growth conditions.
-
-ABA: !activates! ABI1
-ABI1: !inactivates! CIPK23
-ABI1: !binds and inactivates! AMT1;1
-ABI1: !binds and inactivates! AMT1;2
-ABI1: !reduces! AMT1;1 phosphorylation
-ABI1: !reduces! AMT1;2 phosphorylation
-ABA: !reduces! ammonium uptake

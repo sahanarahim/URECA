@@ -1,9 +1,0 @@
-Leaf architecture directly influences canopy structure, consequentially affecting yield. We discovered a maize (<i>Zea mays</i>) mutant with aberrant leaf architecture, which we named <i>drooping leaf1</i> (<i>drl1</i>). Pleiotropic mutations in <i>drl1</i> affect leaf length and width, leaf angle, and internode length and diameter. These phenotypes are enhanced by natural variation at the <i>drl2</i> enhancer locus, including reduced expression of the <i>drl2-Mo17</i> allele in the Mo17 inbred. A second <i>drl2</i> allele, produced by transposon mutagenesis, interacted synergistically with <i>drl1</i> mutants and reduced <i>drl2</i> transcript levels. The <i>drl</i> genes are required for proper leaf patterning, development and cell proliferation of leaf support tissues, and for restricting auricle expansion at the midrib. The paralogous loci encode maize CRABS CLAW co-orthologs in the YABBY family of transcriptional regulators. The <i>drl</i> genes are coexpressed in incipient and emergent leaf primordia at the shoot apex, but not in the vegetative meristem or stem. Genome-wide association studies using maize NAM-RIL (nested association mapping-recombinant inbred line) populations indicated that the <i>drl</i> loci reside within quantitative trait locus regions for leaf angle, leaf width, and internode length and identified rare single nucleotide polymorphisms with large phenotypic effects for the latter two traits. This study demonstrates that <i>drl</i> genes control the development of key agronomic traits in maize.
-
-drl1: !affects! Leaf architecture 
-drl2: !enhances! drl1 mutants 
-drl2: !interacts with! transposon mutagenesis 
-drl: !required for! leaf patterning, development and cell proliferation 
-drl: !localizes to! shoot apex 
-drl: !resides within! quantitative trait locus regions 
-drl: !controls! key agronomic traits

@@ -1,7 +1,0 @@
-Different soybean varieties vary greatly in their nutritional value and composition. Screening for superior varieties is also essential for the development of the soybean seed industry. The objective of the paper was to analyze the feasibility of terahertz (THz) frequency-domain spectroscopy and chemometrics for soybean variety identification. Meanwhile, a grey wolf optimizer-support vector machine (GWO-SVM) soybean variety identification model was proposed. Firstly, the THz frequency-domain spectra of experimental samples (6 varieties, 270 in total) were collected. Principal component analysis (PCA) was used to analyze the THz spectra. After that, 203 samples from the calibration set were used to establish a soybean variety identification model. Finally, 67 samples from the test set were used for prediction validation. The experimental results demonstrated that THz frequency-domain spectroscopy combined with GWO-SVM could quickly and accurately identify soybean varieties. Compared with discriminant partial least squares (DPLS) and particles swarm optimization support vector machine, GWO-SVM combined with the second derivative could establish a better soybean variety identification model. The overall correct identification rate of its prediction set was 97.01%.
-
-THz spectroscopy: !combined with! GWO-SVM
-PCA: !analyzed! THz spectra
-GWO-SVM: !established! soybean variety identification model
-DPLS: !compared with! GWO-SVM
-Particles swarm optimization: !compared with! GWO-SVM

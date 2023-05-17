@@ -1,8 +1,0 @@
-We describe here a unique ethanol-inducible process for expression of recombinant proteins in transgenic plants. The process is based on inducible release of viral RNA replicons from stably integrated DNA proreplicons. A simple treatment with ethanol releases the replicon leading to RNA amplification and high-level protein production. To achieve tight control of replicon activation and spread in the uninduced state, the viral vector has been deconstructed, and its two components, the replicon and the cell-to-cell movement protein, have each been placed separately under the control of an inducible promoter. Transgenic Nicotiana benthamiana plants incorporating this double-inducible system demonstrate negligible background expression, high (over 0.5 × 10(4)-fold) induction multiples, and high absolute levels of protein expression upon induction (up to 4.3 mg/g fresh biomass). The process can be easily scaled up, supports expression of practically important recombinant proteins, and thus can be directly used for industrial manufacturing.
-
-promoter: !induces! replicon 
-replicon: !amplifies! RNA 
-RNA: !produces! protein 
-protein: !reaches! high levels 
-system: !scales up! easily 
-system: !supports! expression of proteins

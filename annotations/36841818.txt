@@ -1,8 +1,0 @@
-Ecology lacks a holistic approach that can model phenomena across temporal and spatial scales, largely because of the challenges in modelling systems with a large number of interacting constituents. This hampers our understanding of complex ecosystems and the impact that human interventions (e.g., deforestation, wildlife harvesting and climate change) have on them. Here we use density functional theory, a computational method for many-body problems in physics, to develop a computational framework for ecosystem modelling. Our methods accurately fit experimental and synthetic data of interacting multi-species communities across spatial scales and can project to unseen data. As the key concept we establish and validate a cost function that encodes the trade-offs between the various ecosystem components. We show how this single general modelling framework delivers predictions on par with established, but specialised, approaches for systems from predatory microbes to territorial flies to tropical tree communities. Our density functional framework thus provides a promising avenue for advancing our understanding of ecological systems.
-
-ecosystem: !modelled by! density functional theory 
-density functional theory: !encodes! trade-offs between ecosystem components 
-density functional framework: !predicts! unseen data 
-framework: !applies to! predatory microbes 
-framework: !applies to! territorial flies 
-framework: !applies to! tropical tree communities

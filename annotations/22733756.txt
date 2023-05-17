@@ -1,8 +1,0 @@
-The most hazardous span in the life of green plants is the period after germination when the developing seedling must reach the state of autotrophy before the nutrients stored in the seed are exhausted. The need for an economically optimized utilization of limited resources in this critical period is particularly obvious in species adopting the dispersal strategy of producing a large amount of tiny seeds. The model plant Arabidopsis thaliana belongs to this category. Arabidopsis seedlings promote root development only in the light. This response to light has long been recognized and recently discussed in terms of an organ-autonomous feature of photomorphogenesis directed by the red/blue light absorbing photoreceptors phytochrome and cryptochrome and mediated by hormones such as auxin and/or gibberellin. Here we show that the primary root of young Arabidopsis seedlings responds to an interorgan signal from the cotyledons and that phloem transport of photosynthesis-derived sugar into the root tip is necessary and sufficient for the regulation of root elongation growth by light.
-
-phytochrome: !mediates! photomorphogenesis 
-cryptochrome: !mediates! photomorphogenesis 
-auxin: !mediates! root elongation growth 
-gibberellin: !mediates! root elongation growth 
-cotyledons: !signal to! primary root 
-photosynthesis-derived sugar: !transported by! phloem

@@ -1,8 +1,0 @@
-Abiotic stresses are a primary cause of crop loss worldwide. The convergence of stress signalling pathways to a common set of transcription factors suggests the existence of upstream regulatory genes that control plant responses to multiple abiotic stresses. To identify such genes, data from published Arabidopsis thaliana abiotic stress microarray analyses were combined with our presented global analysis of early heat stress-responsive gene expression, in a relational database. A set of Multiple Stress (MST) genes was identified by scoring each gene for the number of abiotic stresses affecting expression of that gene. ErmineJ over-representation analysis of the MST gene set identified significantly enriched gene ontology biological processes for multiple abiotic stresses and regulatory genes, particularly transcription factors. A subset of MST genes including only regulatory genes that were designated 'Multiple Stress Regulatory' (MSTR) genes, was identified. To validate this strategy for identifying MSTR genes, mutants of the highest-scoring MSTR gene encoding the circadian clock protein CCA1, were tested for altered sensitivity to stress. A double mutant of CCA1 and its structural and functional homolog, LATE ELONGLATED HYPOCOTYL, exhibited greater sensitivity to salt, osmotic and heat stress than wild-type plants. This work provides a reference data set for further study of MSTR genes.
-
-Gene: !affects! Expression 
-Gene: !localizes to! Abiotic Stress Microarray Analysis 
-Gene: !interacts with! Transcription Factors 
-Gene: !enhances! Gene Ontology Biological Processes 
-Gene: !represses! Multiple Stress Regulatory Genes 
-Gene: !synthesizes! Circadian Clock Protein CCA1

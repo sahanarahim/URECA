@@ -1,9 +1,0 @@
-The exploitative segregation of plant roots (ESPR) is a theory that uses a game-theoretical model to predict plant root foraging behavior in space. The original model returns the optimal root distribution assuming exploitative competition between a pair of identical plants in soils with homogeneous resource dynamics. In this short communication, we explore avenues to develop this model further. We discuss: (i) the response of single plants to soil heterogeneity; (ii) the variability of the plant response under uneven competition scenarios; (iii) the importance of accounting for the constraints and limitations to root growth that may be imposed from the plant shoot; (iv) the importance of root functional traits to predict root foraging behavior; (v) potential model extensions to investigate facilitation by incorporating facilitative traits to roots, and (vi) the possibility of allowing plants to tune their response by accounting for non-self and non-kin root recognition. For each case, we introduce the topic briefly and present possible ways to encode those ingredients in the mathematical equations of the ESPR model, providing preliminary results when possible.
-
-root: !forages in! space
-plant: !responds to! soil heterogeneity
-plant: !varies response under! uneven competition
-shoot: !imposes constraints on! root growth
-root: !influenced by! functional traits
-facilitation: !incorporated into! model extensions
-non-self/non-kin recognition: !allows plants to! tune response

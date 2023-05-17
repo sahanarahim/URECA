@@ -1,8 +1,0 @@
-Silicon (Si) uptake by the roots is mediated by two different transporters, Lsi1 (passive) and Lsi2 (active), in rice (Oryza sativa). Both transporters are polarly localized in the plasma membranes of exodermal (outer) and endodermal (inner) cells with Casparian strips. However, it is unknown how rice is able to take up large amounts of Si compared with other plants, and why rice Si transporters have a characteristic cellular localization pattern. To answer these questions, we simulated Si uptake by rice roots by developing a mathematical model based on a simple diffusion equation that also accounts for active transport by Lsi2. In this model, we calibrated the model parameters using in vivo experimental data on the Si concentrations in the xylem sap and a Monte Carlo method. In our simulation experiments, we compared the Si uptake between roots with various transporter and Casparian strip locations and estimated the Si transport efficiency of roots with different localization patterns and quantities of the Lsi transporters. We found that the Si uptake by roots that lacked Casparian strips was lower than that of normal roots. This suggests that the double-layer structure of the Casparian strips is an important factor in the high Si uptake by rice. We also found that among various possible localization patterns, the most efficient one was that of the wild-type rice; this may explain the high Si uptake capacity of rice.
-
-Lsi1: !mediates! Silicon uptake
-Lsi2: !mediates! Silicon uptake
-Casparian strips: !enhances! Silicon uptake
-Lsi transporters: !localizes to! plasma membranes
-Lsi transporters: !quantity affects! Silicon uptake
-Wild-type rice: !has most efficient! localization pattern

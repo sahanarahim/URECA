@@ -1,8 +1,0 @@
-['27251392', 'Plants and animals employ innate immune systems to cope with microbial infection.  Pattern-triggered immunity relies on the recognition of microbe-derived patterns  by pattern recognition receptors (PRRs). Necrosis and ethylene-inducing peptide  1-like proteins (NLPs) constitute plant immunogenic patterns that are unique, as  these proteins are produced by multiple prokaryotic (bacterial) and eukaryotic  (fungal, oomycete) species. Here we show that the leucine-rich repeat receptor  protein (LRR-RP) RLP23 binds in vivo to a conserved 20-amino-acid fragment found  in most NLPs (nlp20), thereby mediating immune activation in Arabidopsis  thaliana. RLP23 forms a constitutive, ligand-independent complex with the LRR  receptor kinase (LRR-RK) SOBIR1 (Suppressor of Brassinosteroid insensitive 1  (BRI1)-associated kinase (BAK1)-interacting receptor kinase 1), and recruits a  second LRR-RK, BAK1, into a tripartite complex upon ligand binding. Stable,  ectopic expression of RLP23 in potato (Solanum tuberosum) confers nlp20 pattern  recognition and enhanced immunity to destructive oomycete and fungal plant  pathogens, such as Phytophthora infestans and Sclerotinia sclerotiorum. PRRs that  recognize widespread microbial patterns might be particularly suited for  engineering immunity in crop plants.', '2015 Oct 5', 'Nat Plants', '10.1038/nplants.2015.140', 'Nurnberger']
-
-RLP23: !binds to! nlp20 
-RLP23: !forms complex with! SOBIR1 
-SOBIR1: !recruits! BAK1 
-BAK1: !forms tripartite complex with! RLP23 
-RLP23: !confers immunity to! P. infestans 
-RLP23: !confers immunity to! S. sclerotiorum

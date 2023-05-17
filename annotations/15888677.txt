@@ -1,9 +1,0 @@
-The genome-wide protein sequences from Arabidopsis (Arabidopsis thaliana) and rice (Oryza sativa) spp. japonica were clustered into families using sequence similarity and domain-based clustering. The two fundamentally different methods resulted in separate cluster sets with complementary properties to compensate the limitations for accurate family analysis. Functional names for the identified families were assigned with an efficient computational approach that uses the description of the most common molecular function gene ontology node within each cluster. Subsequently, multiple alignments and phylogenetic trees were calculated for the assembled families. All clustering results and their underlying sequences were organized in the Web-accessible Genome Cluster Database (http://bioinfo.ucr.edu/projects/GCD) with rich interactive and user-friendly sequence family mining tools to facilitate the analysis of any given family of interest for the plant science community. An automated clustering pipeline ensures current information for future updates in the annotations of the two genomes and clustering improvements. The analysis allowed the first systematic identification of family and singlet proteins present in both organisms as well as those restricted to one of them. In addition, the established Web resources for mining these data provide a road map for future studies of the composition and structure of protein families between the two species.
-
-Arabidopsis/rice: !clustered into! families 
-families: !assigned with! computational approach 
-alignments/trees: !calculated for! assembled families 
-GCD: !organizes! clustering results 
-pipeline: !ensures! current information 
-analysis: !identifies! family/singlet proteins 
-Web resources: !provide! road map

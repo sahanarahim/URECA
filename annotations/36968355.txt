@@ -1,8 +1,0 @@
-In recent years, research on the manipulation and control of microrobot has gradually matured. In order to improve the intelligence of microrobots, navigation study also becomes an important research topic. In practice, microrobots could be disturbed by the flowing liquid when it moves in a microfluidic environment. As a result, the actual trajectory of microrobots will deviate from the intended one. In this paper, firstly, different algorithms for the navigation of microrobots in a simulated plant leaf vein environment are investigated. According to the simulation results, RRT*-Connect is then selected as the path planning algorithm with a relatively better performance. Based on the pre-planned trajectory, a fuzzy PID controller is further designed for precise trajectory tracking, which can effectively eliminate the random disturbance caused by micro-fluid flow during the motion and make it quickly recover to a stable movement state.
-
-Gene: !affects! Process 
-Algorithm: !selected as! Path Planning 
-Fuzzy PID Controller: !designed for! Trajectory Tracking 
-Microfluid Flow: !causes! Random Disturbance 
-Controller: !eliminates! Random Disturbance 
-Controller: !makes microrobot! Recover to Stable Movement State

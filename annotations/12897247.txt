@@ -1,8 +1,0 @@
-['12897247', 'Plant architecture results from the activity of the shoot apical meristem, which  initiates leaves, internodes, and axillary meristems. KNOTTED1-like homeobox  (KNOX) genes are expressed in specific patterns in the shoot apical meristem and  play important roles in plant architecture. KNOX proteins interact with BEL1-like  (BELL) homeodomain proteins and together bind a target sequence with high  affinity. We have obtained a mutation in one of the Arabidopsis BELL genes,  PENNYWISE (PNY), that appears phenotypically similar to the KNOX mutant  brevipedicellus (bp). Both bp and pny have randomly shorter internodes and  display a slight increase in the number of axillary branches. The double mutant  shows a synergistic phenotype of extremely short internodes interspersed with  long internodes and increased branching. PNY is expressed in inflorescence and  floral meristems and overlaps with BP in a discrete domain of the inflorescence  meristem where we propose the internode is patterned. The physical association of  the PNY and BP proteins suggests that they participate in a complex that  regulates early patterning events in the inflorescence meristem.', '2003 Aug', 'Plant Cell', '10.1105/tpc.012856', 'Hake']
-
-KNOX: !interacts with! BELL 
-BELL: !binds! target sequence 
-BP: !overlaps with! PNY 
-PNY: !expresses in! inflorescence meristem 
-PNY: !associates with! BP 
-BP: !regulates! patterning events

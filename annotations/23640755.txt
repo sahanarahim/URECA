@@ -1,9 +1,0 @@
-We describe the construction and analysis of a genome-scale metabolic model representing a developing leaf cell of rice (Oryza sativa) primarily derived from the annotations in the RiceCyc database. We used flux balance analysis to determine that the model represents a network capable of producing biomass precursors (amino acids, nucleotides, lipid, starch, cellulose, and lignin) in experimentally reported proportions, using carbon dioxide as the sole carbon source. We then repeated the analysis over a range of photon flux values to examine responses in the solutions. The resulting flux distributions show that (1) redox shuttles between the chloroplast, cytosol, and mitochondrion may play a significant role at low light levels, (2) photorespiration can act to dissipate excess energy at high light levels, and (3) the role of mitochondrial metabolism is likely to vary considerably according to the balance between energy demand and availability. It is notable that these organelle interactions, consistent with many experimental observations, arise solely as a result of the need for mass and energy balancing without any explicit assumptions concerning kinetic or other regulatory mechanisms.
-
-Gene: !affects! Process 
-Process: !produces! Biomass precursors 
-Biomass precursors: !uses! Carbon dioxide 
-Flux balance analysis: !reveals! Redox shuttles 
-Redox shuttles: !occur at! Low light levels 
-Photorespiration: !dissipates! Excess energy 
-Mitochondrial metabolism: !varies with! Energy demand/availability

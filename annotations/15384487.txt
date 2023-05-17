@@ -1,9 +1,0 @@
-['15384487', 'The natural variation of Arabidopsis thaliana in response to a bromovirus, Spring  beauty latent virus (SBLV), was examined. Of 63 Arabidopsis accessions tested,  all were susceptible when inoculated with SBLV, although there was a large degree  of variation in symptom development. Most accessions, including Columbia (Col-0),  were symptomless or developed only mild symptoms, but four accessions, including  S96, showed severe symptoms of SBLV infection. Genetic analysis suggested that  the difference in the responses of Col-0 and S96 to SBLV was controlled by a  single semidominant locus. We have designated this locus SSB1 (symptom  development by SBLV infection). By using genetic markers, SSB1 was mapped to  chromosome IV. The patterns of distribution and accumulation of SBLV in sensitive  accessions were similar to those in the insensitive accessions. In addition,  symptom development in S96 by SBLV infection was critically interrupted by the  presence of the NahG gene, which encodes salicylic acid (SA) hydroxylase. These  data suggest that symptom development in A. thaliana controlled by SSB1 is  independent of the efficiency of SBLV multiplication and is dependent on SA  signaling.', '2004 Sep', 'Mol Plant Microbe Interact', '10.1094/MPMI.2004.17.9.967', 'Mise']
-
-SSB1: !controls! symptom development 
-SBLV: !induces! symptom development 
-Col-0: !develops! mild symptoms 
-S96: !develops! severe symptoms 
-SSB1: !maps to! chromosome IV 
-NahG gene: !interrupts! symptom development 
-SA signaling: !depends on! symptom development

@@ -1,6 +1,0 @@
-['35412914', 'Homologous recombination repair (HR) is an error-free DNA damage repair pathway  to maintain genome stability and a basis of gene targeting using genome-editing  tools. However, the mechanisms of HR in plants are still poorly understood.  Through genetic screens for DNA damage response mutants (DDRM) in Arabidopsis, we  find that a plant-specific ubiquitin E3 ligase DDRM1 is required for HR. DDRM1  contains an N-terminal BRCT (BRCA1 C-terminal) domain and a C-terminal RING  (really interesting new gene) domain and is highly conserved in plants including  mosses. The ddrm1 mutant is defective in HR and thus is hypersensitive to  DNA-damaging reagents. Biochemical studies reveal that DDRM1 interacts with and  ubiquitinates the transcription factor SOG1, a plant-specific master regulator of  DNA damage responses. Interestingly, DDRM1-mediated ubiquitination promotes the  stability of SOG1. Consistently, genetic data support that SOG1 functions  downstream of DDRM1. Our study reveals that DDRM1-SOG1 is a plant-specific module  for HR and highlights the importance of ubiquitination in HR.', '2022 Apr 19', 'Proc Natl Acad Sci U S A', '10.1073/pnas.2202970119', 'ORCID:']
-
-DDRM1: !interacts with! SOG1
-DDRM1: !ubiquitinates! SOG1
-SOG1: !functions downstream of! DDRM1
-DDRM1: !promotes stability of! SOG1

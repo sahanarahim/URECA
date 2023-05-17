@@ -1,7 +1,0 @@
-We recently reported that hairpin (or stem-loop) priming is better-suited than polyA tailing to generate cDNA for plant microRNA qPCR. One major limitation of this method is the need to perform individual cDNA synthesis reactions for the reference gene and test miRNAs. Here, we report a novel fusion primer that allows multiplexed hairpin cDNA synthesis of the most-commonly used reference gene, nucleolar small RNA U6, together with test miRNAs. We also propose the use of miR1515 as a house keeping control for tropical legumes. We show that multiplexed cDNA synthesis does not result in loss of sensitivity and reduces the amount of RNA required for miRNA gene expression assays.
-
-Gene: !affects! Process 
-U6: !synthesizes! cDNA 
-miR1515: !used as! house keeping control 
-fusion primer: !allows! multiplexed cDNA synthesis 
-multiplexed cDNA synthesis: !reduces! amount of RNA required

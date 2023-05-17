@@ -1,8 +1,0 @@
-Nocturnal transpiration is widely observed across species and biomes, and may significantly impact global water, carbon, and energy budgets. However, it remains elusive why plants lose water at night and how to model it at large scales. We hypothesized that plants optimize nighttime leaf diffusive conductance (g<sub>wn</sub> ) to balance potential daytime photosynthetic benefits and nocturnal transpiration benefits. We quantified nighttime benefits from respiratory reductions due to evaporative leaf cooling. We described nighttime costs in terms of a reduced carbon gain during the day because of water use at night. We measured nighttime stomatal responses and tested our model with water birch (Betula occidentalis) saplings grown in a glasshouse. The g<sub>wn</sub> of water birch decreased with drier soil, higher atmospheric CO<sub>2</sub> , wetter air, lower leaf temperature, and lower leaf respiration rate. Our model predicted all these responses correctly, except for the response of g<sub>wn</sub> to air humidity. Our results also suggested that the slow decrease in g<sub>wn</sub> after sunset could be associated with decreasing leaf respiration. The optimality-based nocturnal transpiration model smoothly integrates with daytime stomatal optimization approaches, and thus has the potential to quantitatively predict nocturnal transpiration across space and time.
-
-gene: !affects! g<sub>wn</sub> 
-soil: !influences! g<sub>wn</sub> 
-CO<sub>2</sub>: !influences! g<sub>wn</sub> 
-air humidity: !influences! g<sub>wn</sub> 
-leaf temperature: !influences! g<sub>wn</sub> 
-leaf respiration rate: !influences! g<sub>wn</sub>

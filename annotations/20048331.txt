@@ -1,9 +1,0 @@
-In the past, biologists have characterized the responses of a wide range of plant species to their environment. As a result, phenotypic data from hundreds of experiments are publicly available now. Unfortunately, this information is not structured in a way that enables quantitative and comparative analyses. We aim to fill this gap by building a large database which currently contains data on 1000 experiments and 800 species. This paper presents methodology to generalize across different experiments and species, taking the response of specific leaf area (SLA; leaf area:leaf mass ratio) to irradiance as an example. We show how to construct and quantify a normalized mean light-response curve, and subsequently test whether there are systematic differences in the form of the curve between contrasting subgroups of species. This meta-analysis is then extended to a range of other environmental factors important for plant growth as well as other phenotypic traits, using >5300 mean values. The present approach, which we refer to as 'meta-phenomics', represents a valuable tool in understanding the integrated response of plants to their environment and could serve as a benchmark for future phenotyping efforts as well as for modelling global change effects on both wild species and crops.
-
-environment: !affects! SLA 
-experiment: !contains data on! 800 species 
-database: !contains data from! 1000 experiments 
-meta-analysis: !quantifies! mean light-response curve 
-subgroups of species: !differ in! form of the curve 
-meta-phenomics: !understands! integrated response of plants 
-global change: !models effects on! wild species and crops

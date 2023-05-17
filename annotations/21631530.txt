@@ -1,9 +1,0 @@
-['21631530', 'Ethylene signalling regulates plant growth and development. However, its roles in  salt stress response are less known. Here we studied functions of EIN2, a central  membrane protein of ethylene signalling, and its interacting protein ECIP1 in  salt stress responses. Mutation of EIN2 led to extreme salt sensitivity as  revealed by phenotypic and physiological changes, and overexpression of  C-terminus of EIN2 suppressed salt sensitivity in ein2-5, indicating that EIN2 is  required for salt tolerance. Downstream components EIN3 and EIL1 are also  essential for salt tolerance because ein3-1eil1-1 double mutant showed extreme  salt-sensitive phenotype. A MA3 domain-containing protein ECIP1 was further  identified to interact with EIN2 in yeast two-hybrid assay and GST pull-down  assay. Loss-of-function of ECIP1 resulted in enhanced ethylene response but  altered salt response during seed germination and plant growth. Double mutant  analysis revealed that ein2-1 was epistatic to ecip1, and ecip1 mutation  partially suppressed ethylene-insensitivity of etr2-1 and ein4-1. These studies  strengthen that interactions between ECIP1 and EIN2 or ethylene receptors  regulate ethylene response and stress response.', '2011 Oct', 'Plant Cell Environ', '10.1111/j.1365-3040.2011.02363.x', 'Zhang']
-
-EIN2: !affects! Salt tolerance
-ECIP1: !interacts with! EIN2
-EIN3: !essential for! Salt tolerance
-EIL1: !essential for! Salt tolerance
-ECIP1: !enhances! Ethylene response
-ETR2: !repressed by! ECIP1
-EIN4: !repressed by! ECIP1

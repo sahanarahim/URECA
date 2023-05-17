@@ -1,8 +1,0 @@
-['10972872', 'As part of an effort to isolate new Arabidopsis mutants specifically defective in  responsiveness to red light, we identified srl1 (short hypocotyl in red light) by  screening an EMS-mutagenized M2 population derived from a phytochrome B  (phyB)-overexpressor line (ABO). The srl1 mutant shows enhanced responsiveness to  continuous red but not far-red light, in both wild-type and ABO backgrounds,  consistent with involvement in the phyB-signaling pathway but not that of phyA.  The hypersensitive phenotype of srl1 is not due to overexpression of endogenous  phyA or phyB, and the locus maps to the center of chromosome 2, distinct from any  other known photomorphogenic mutants. srl1 seedlings display enhancement of  several phyB-mediated responses, including shorter hypocotyls, more expanded  cotyledons, shorter petioles and modestly higher levels of CAB gene expression  under red light than the wild type. Double mutant analyses show that the  hypersensitive phenotype of srl1 is completely phyB-dependent. The data suggest,  therefore, that SRL1 may encode a negatively acting component specific to the  phyB-signaling pathway.', '2000 Aug', 'Plant J', '10.1046/j.1365-313x.2000.00810.x', 'Quail']
-
-phyB: !overexpresses in! ABO
-srl1: !enhances responsiveness to! red light
-srl1: !enhances! phyB-mediated responses
-srl1: !maps to! chromosome 2
-srl1: !depends on! phyB
-srl1: !encodes a negatively acting component of! phyB-signaling pathway

@@ -1,9 +1,0 @@
-MicroRNAs function in a range of developmental processes. Here, we demonstrate that miR847 targets the mRNA of the auxin/indole acetic acid (Aux/IAA) repressor-encoding gene IAA28 for cleavage. The rapidly increased accumulation of miR847 in Arabidopsis thaliana coincided with reduced IAA28 mRNA levels upon auxin treatment. This induction of miR847 by auxin was abolished in auxin receptor tir1-1 and auxin-resistant axr1-3 mutants. Further analysis demonstrates that miR847 functions as a positive regulator of auxin-mediated lateral organ development by cleaving IAA28 mRNA. Importantly, the ectopic expression of miR847 increases the expression of cell cycle genes as well as the neoplastic activity of leaf cells, prolonging later-stage rosette leaf growth and producing leaves with serrated margins. Moreover, both miR847 and IAA28 mRNAs are specifically expressed in marginal meristems of rosette leaves and lateral root initiation sites. Our data indicate that auxin-dependent induction of miR847 positively regulates meristematic competence by clearing IAA28 mRNA to upregulate auxin signaling, thereby determining the duration of cell proliferation and lateral organ growth in Arabidopsis. IAA28 mRNA encodes an Aux/IAA repressor protein, which is degraded through the proteasome in response to auxin. Altered signal sensitization to IAA28 mRNA levels, together with targeted IAA28 degradation, ensures a robust signal derepression.
-
-miR847: !targets! IAA28 mRNA
-auxin: !induces! miR847
-miR847: !regulates! lateral organ development
-miR847: !upregulates! cell cycle genes
-miR847: !prolongs! rosette leaf growth
-IAA28 mRNA: !encodes! Aux/IAA repressor protein
-auxin: !derepresses! signal sensitization

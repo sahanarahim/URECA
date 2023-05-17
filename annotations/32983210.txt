@@ -1,9 +1,0 @@
-Machine learning and computer vision technologies based on high-resolution imagery acquired using unmanned aerial systems (UAS) provide a potential for accurate and efficient high-throughput plant phenotyping. In this study, we developed a sorghum panicle detection and counting pipeline using UAS images based on an integration of image segmentation and a convolutional neural networks (CNN) model. A UAS with an RGB camera was used to acquire images (2.7 mm resolution) at 10-m height in a research field with 120 small plots. A set of 1,000 images were randomly selected, and a mask was developed for each by manually delineating sorghum panicles. These images and their corresponding masks were randomly divided into 10 training datasets, each with a different number of images and masks, ranging from 100 to 1,000 with an interval of 100. A U-Net CNN model was built using these training datasets. The sorghum panicles were detected and counted by a predicted mask through the algorithm. The algorithm was implemented using Python with the Tensorflow library for the deep learning procedure and the OpenCV library for the process of sorghum panicle counting. Results showed the accuracy had a general increasing trend with the number of training images. The algorithm performed the best with 1,000 training images, with an accuracy of 95.5% and a root mean square error (RMSE) of 2.5. The results indicate that the integration of image segmentation and the U-Net CNN model is an accurate and robust method for sorghum panicle counting and offers an opportunity for enhanced sorghum breeding efficiency and accurate yield estimation.
-
-UAS: !acquires! Images
-Image segmentation: !integrates with! U-Net CNN model
-U-Net CNN model: !built using! Training datasets
-Algorithm: !implemented using! Python 
-Python: !uses! Tensorflow library
-Python: !uses! OpenCV library
-Accuracy: !increases with! Number of training images

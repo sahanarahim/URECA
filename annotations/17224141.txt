@@ -1,8 +1,0 @@
-['17224141', 'Histone modification represents a universal mechanism for regulation of  eukaryotic gene expression underlying diverse biological processes from neuronal  gene expression in mammals to control of flowering in plants. In animal cells,  these chromatin modifications are effected by well-defined multiprotein complexes  containing specific histone-modifying activities. In plants, information about  the composition of such co-repressor complexes is just beginning to emerge. Here,  we report that two Arabidopsis thaliana factors, a SWIRM domain polyamine oxidase  protein, AtSWP1, and a plant-specific C2H2 zinc finger-SET domain protein, AtCZS,  interact with each other in plant cells and repress expression of a negative  regulator of flowering, FLOWERING LOCUS C (FLC) via an autonomous,  vernalization-independent pathway. Loss-of-function of either AtSWP1 or AtCZS  results in reduced dimethylation of lysine 9 and lysine 27 of histone H3 and  hyperacetylation of histone H4 within the FLC locus, in elevated FLC mRNA levels,  and in moderately delayed flowering. Thus, AtSWP1 and AtCZS represent two main  components of a co-repressor complex that fine tunes flowering and is unique to  plants.', '2007 Mar 1', 'Dev Biol', '10.1016/j.ydbio.2006.11.012', 'Citovsky']
-
-AtSWP1: !interacts with! AtCZS 
-AtSWP1/AtCZS: !repress! FLC 
-AtSWP1/AtCZS: !reduce dimethylation of! lysine 9/lysine 27 of histone H3 
-AtSWP1/AtCZS: !hyperacetylate! histone H4 
-AtSWP1/AtCZS: !elevate! FLC mRNA levels 
-AtSWP1/AtCZS: !delay! flowering

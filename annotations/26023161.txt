@@ -1,8 +1,0 @@
-RNA silencing functions as an antiviral defense through the action of DICER-like (DCL) and ARGONAUTE (AGO) proteins. In turn, plant viruses have evolved strategies to counteract this defense mechanism, including the expression of suppressors of RNA silencing. Potato virus X (PVX) does not systemically infect Arabidopsis thaliana Columbia-0, but is able to do so effectively in mutants lacking at least two of the four Arabidopsis DCL proteins. PVX can also infect Arabidopsis ago2 mutants, albeit less effectively than double DCL mutants, suggesting that additional AGO proteins may mediate anti-viral defenses. Here we show, using functional assays, that all Arabidopsis AGO proteins have the potential to target PVX lacking its viral suppressor of RNA silencing (VSR), P25, but that only AGO2 and AGO5 are able to target wild-type PVX. However, P25 directly affects only a small subset of AGO proteins, and we present evidence indicating that its protective effect is mediated by precluding AGO proteins from accessing viral RNA, as well as by directly inhibiting the RNA silencing machinery. In agreement with functional assays, we show that Potexvirus infection induces AGO5 expression and that both AGO2 and AGO5 are required for full restriction of PVX infection in systemic tissues of Arabidopsis.
-
-DCL: !mediates! antiviral defense
-AGO: !mediates! antiviral defense
-PVX: !targets! DCL & AGO proteins
-P25: !inhibits! AGO proteins
-P25: !prevents! access to viral RNA
-AGO2 & AGO5: !required for! full restriction of PVX infection

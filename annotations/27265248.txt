@@ -1,8 +1,0 @@
-The variability of chlorophyll a fluorescence (ChlF) parameters of forest tree species was investigated in 209 stands belonging to six European forests, from Mediterranean to boreal regions. The modifying role of environmental factors, forest structure and tree diversity (species richness and composition) on ChlF signature was analysed. At the European level, conifers showed higher potential performance than broadleaf species. Forests in central Europe performed better than those in Mediterranean and boreal regions. At the site level, homogeneous clusters of tree species were identified by means of a principal component analysis (PCA) of ChlF parameters. The discrimination of the clusters of species was influenced by their taxonomic position and ecological characteristics. The species richness influenced the tree ChlF properties in different ways depending on tree species and site. Tree species and site also affected the relationships between ChlF parameters and other plant functional traits (specific leaf area, leaf nitrogen content, light-saturated photosynthesis, wood density, leaf carbon isotope composition). The assessment of the photosynthetic properties of tree species, by means of ChlF parameters, in relation to their functional traits, is a relevant issue for studies in forest ecology. The connections of data from field surveys with remotely assessed parameters must be carefully explored.
-
-environment: !affects! ChlF
-conifers: !perform better than! broadleaf species
-central Europe: !performs better than! Mediterranean and boreal regions
-species richness: !influences! tree ChlF properties
-tree species: !affects! discrimination of clusters
-site: !affects! relationships between ChlF parameters and other plant functional traits

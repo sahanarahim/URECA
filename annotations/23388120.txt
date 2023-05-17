@@ -1,8 +1,0 @@
-Here, we present a genome-wide overview of transcriptional circuits in the agriculturally significant crop species maize (Zea mays). We examined transcript abundance data at 50 developmental stages, from embryogenesis to senescence, for 34,876 gene models and classified genes into 24 robust coexpression modules. Modules were strongly associated with tissue types and related biological processes. Sixteen of the 24 modules (67%) have preferential transcript abundance within specific tissues. One-third of modules had an absence of gene expression in specific tissues. Genes within a number of modules also correlated with the developmental age of tissues. Coexpression of genes is likely due to transcriptional control. For a number of modules, key genes involved in transcriptional control have expression profiles that mimic the expression profiles of module genes, although the expression of transcriptional control genes is not unusually representative of module gene expression. Known regulatory motifs are enriched in several modules. Finally, of the 13 network modules with more than 200 genes, three contain genes that are notably clustered (P < 0.05) within the genome. This work, based on a carefully selected set of major tissues representing diverse stages of maize development, demonstrates the remarkable power of transcript-level coexpression networks to identify underlying biological processes and their molecular components.
-
-Gene: !affects! Process
-Gene: !localizes to! Tissue
-Gene: !interacts with! Developmental Age
-Gene: !enhances! Transcriptional Control
-Gene: !represses! Expression
-Gene: !synthesizes! Regulatory Motifs

@@ -1,9 +1,0 @@
-It is a macro-micro model study for defect initiation, growth and crack propagation of metallic truss structure under high engine temperature and pressure conditions during the reentry atmosphere. Till now, the multi-scale simulation methods for these processes are still unclear. We explore the deformation and failure processes from macroscale to nanoscale using the Gas-Kinetic Unified Algorithm (GKUA) and all-atomic, molecular dynamic (MD) simulation method. The behaviors of the dislocations, defect evolution and crack propagation until failure for Aluminum-Magnesium (Al-Mg) alloy are considered with the different temperature background and strain fields. The results of distributions of temperature and strain field in the aerodynamic environment obtained by molecular dynamics simulations are in good agreement with those obtained from the macroscopic Boltzmann method. Compared to the tensile loading, the alloy structure is more sensitive to compression loading. The polycrystalline Al-Mg alloy has higher yield strength with a larger grain size. It is due to the translation of plastic deformation mode from grain boundary (GB) sliding to dislocation slip and the accumulation of dislocation line. Our findings have paved a new way to analyze and predict the metallic structural failure by micro-scale analysis under the aerodynamic thermal extreme environment of the reentry spacecraft on service expiration.
-
-Temperature: !affects! Process 
-Strain Field: !affects! Process 
-Grain Size: !enhances! Yield Strength 
-Plastic Deformation Mode: !translates from! GB Sliding 
-Dislocation Slip: !accumulates! Dislocation Line 
-GKUA: !simulates! Macroscale 
-MD: !simulates! Nanoscale

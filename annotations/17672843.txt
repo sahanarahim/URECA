@@ -1,9 +1,0 @@
-The ability of plants to repair DNA double-strand breaks (DSBs) is essential for growth and fertility. The Arabidopsis DSB repair proteins AtRAD50 and AtMRE11 form part of an evolutionarily conserved complex that, in Saccharomyces cerevisiae and mammals, includes a third component termed XRS2 and NBS1, respectively. The MRN complex (MRX in yeast) has a direct role in DSB repair and is also required for DNA damage signaling and checkpoint activation in a pathway mediated by the protein kinase ATM. This study characterizes Arabidopsis and maize NBS1 orthologues that share conserved protein motifs with human NBS1. Both plant NBS1 proteins interact with the corresponding MRE11 orthologues, and deletion analysis of AtNBS1 defines a region towards the C-terminus (amino acids 465-500) that is required for interaction with AtMRE11. Arabidopsis lines homozygous for a T-DNA insertional mutation in AtNBS1 display hypersensitivity to the DNA cross-linking reagent mitomycin C, and this phenotype can be rescued by complementation with the wild-type gene, consistent with a function for AtNBS1 in plant DSB repair. Analysis of atnbs1-1 atatm double mutants revealed a role for AtNBS1 in meiotic recombination. While atatm mutants produce reduced seed numbers, plants deficient in both AtATM and AtNBS1 are completely infertile. Cytological analysis of these double mutants revealed incomplete chromosome pairing and synapsis in meiotic prophase, and extensive chromosome fragmentation in metaphase I and subsequent stages. These results suggest a novel role for AtNBS1 that is independent of AtATM-mediated signaling and functions in the very early stages of meiosis.
-
-AtRAD50: !interacts with! AtMRE11 
-AtMRE11: !interacts with! AtNBS1 
-AtNBS1: !interacts with! AtMRE11 
-AtNBS1: !enhances! DNA repair 
-AtNBS1: !enhances! Meiotic recombination 
-AtATM: !mediates! DNA damage signaling 
-AtATM: !represses! Meiotic recombination

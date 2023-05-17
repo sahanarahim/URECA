@@ -1,7 +1,0 @@
-Programmed cell death (PCD) is a crucial process both for plant development and responses to biotic and abiotic stress. There is accumulating evidence that chloroplasts may play a central role during plant PCD as for mitochondria in animal cells, but it is still unclear whether they participate in PCD onset, execution, or both. To tackle this question, we have analyzed the contribution of chloroplast function to the cell death phenotype of the myoinositol phosphate synthase1 (mips1) mutant that forms spontaneous lesions in a light-dependent manner. We show that photosynthetically active chloroplasts are required for PCD to occur in mips1, but this process is independent of the redox state of the chloroplast. Systematic genetic analyses with retrograde signaling mutants reveal that 3'-phosphoadenosine 5'-phosphate, a chloroplast retrograde signal that modulates nuclear gene expression in response to stress, can inhibit cell death and compromises plant innate immunity via inhibition of the RNA-processing 5'-3' exoribonucleases. Our results provide evidence for the role of chloroplast-derived signal and RNA metabolism in the control of cell death and biotic stress response.
-
-mips1: !affects! PCD
-chloroplasts: !required for! PCD in mips1
-3'-phosphoadenosine 5'-phosphate: !inhibits! cell death
-3'-phosphoadenosine 5'-phosphate: !compromises! plant innate immunity
-RNA-processing 5'-3' exoribonucleases: !inhibited by! 3'-phosphoadenosine 5'-phosphate

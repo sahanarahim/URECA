@@ -1,7 +1,0 @@
-A major environmental signal influencing day-time stomatal aperture is the vapour pressure deficit between the leaf and atmosphere (VPD). In angiosperms, increased VPD triggers biosynthesis of abscisic acid (ABA), prompting rapid stomatal closure. Altered cell turgor has been proposed as the trigger for ABA biosynthesis, but the timing and nature of the genetic signals linking these processes have remained uncertain. We investigated this in Arabidopsis by examining changes induced by a decrease in leaf turgor, simulating a natural increase in VPD. We found that the rate-limiting gene within the de novo ABA biosynthesis pathway, 9-cis-epoxycarotenoid dioxygenase 3 (NCED3), was induced and ABA levels increased within just 5 min of decreased leaf turgor. This rapid induction matches the time-frame for initiation of stomatal closure in response to a doubling in VPD. We further examined Arabidopsis histidine kinase1 (AHK1) as the most likely candidate for the turgor-sensing receptor involved, but found no significant difference between wild-type and an ahk1 null mutant in the induction of ABA-biosynthetic genes, ABA production, or stomatal behaviour. We show that decreased leaf turgor triggers de novo ABA biosynthesis within the time-frame of the stomatal response to VPD, but that AHK1 does not fulfil a critical role as a turgor-sensing receptor within this pathway.
-
-VPD: !triggers! ABA biosynthesis
-turgor: !induces! NCED3
-NCED3: !synthesizes! ABA
-ABA: !prompts! stomatal closure
-AHK1: !not involved in! turgor-sensing

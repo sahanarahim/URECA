@@ -1,9 +1,0 @@
-['21343416', 'The timing of the switch from vegetative to reproductive development in  Arabidopsis thaliana is controlled by an intricate network of flowering pathways,  which converge on the transcriptional regulation of two floral pathway  integrators, FLOWERING LOCUS T (FT) and SUPPRESSOR OF OVEREXPRESSION OF CONSTANS1  (SOC1). SHORT VEGETATIVE PHASE (SVP) acts as a key flowering regulator that  represses the expression of FT and SOC1. Here, we report the identification of  another potent flowering promoter, Arabidopsis DNAJ HOMOLOG 3 (J3), which  mediates the integration of flowering signals through its interaction with SVP.  J3 encodes a type I J-domain protein and is ubiquitously expressed in various  plant tissues. J3 expression is regulated by multiple flowering pathways. Loss of  function of J3 results in a significant late-flowering phenotype, which is partly  due to decreased expression of SOC1 and FT. We further show that J3 interacts  directly with SVP in the nucleus and prevents in vivo SVP binding to SOC1 and FT  regulatory sequences. Our results suggest a flowering mechanism by which J3  integrates flowering signals from several genetic pathways and acts as a  transcriptional regulator to upregulate SOC1 and FT through directly attenuating  SVP binding to their regulatory sequences during the floral transition.', '2011 Feb', 'Plant Cell', '10.1105/tpc.111.083048', 'Yu']
-
-FT: !regulated by! SVP 
-SOC1: !regulated by! SVP 
-J3: !interacts with! SVP 
-J3: !enhances! SOC1 
-J3: !enhances! FT 
-SVP: !represses! FT 
-SVP: !represses! SOC1

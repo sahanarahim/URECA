@@ -1,9 +1,0 @@
-In most plants, stomata are located only on the abaxial leaf surface (hypostomy), but many plants have stomata on both surfaces (amphistomy). High light and herbaceous growth form have been hypothesized to favor amphistomy, but these hypotheses have not been rigorously tested together using phylogenetic comparative methods. I leveraged a large dataset including stomatal ratio, Ellenberg light indicator value, growth form and phylogenetic relationships for 372 species of British angiosperms. I used phylogenetic comparative methods to test how light and/or growth form influence stomatal ratio and density. High light and herbaceous growth form are correlated with amphistomy, as predicted, but they also interact; the effect of light is pronounced in therophytes (annuals) and perennial herbs, but muted in phanerophytes (shrubs and trees). Furthermore, amphistomy and stomatal density evolve together in response to light. Comparative analyses of British angiosperms reveal two major insights. First, light and growth form interact to shape stomatal ratio; amphistomy is common under high light, but mostly for herbs. Second, coordinated evolution of adaxial stomatal density and light tolerance indicates that amphistomy helps to optimally balance light acquisition with gas exchange. Stomatal ratio may have potential as a functional trait for paleoecology and crop improvement.
-
-light: !affects! stomatal ratio
-growth form: !affects! stomatal ratio
-light: !interacts with! growth form
-amphistomy: !correlated with! high light
-amphistomy: !correlated with! herbaceous growth form
-amphistomy: !enhances! light acquisition
-stomatal density: !evolves with! amphistomy

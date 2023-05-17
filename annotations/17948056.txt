@@ -1,7 +1,0 @@
-['17948056', 'Plants sense the presence of potentially competing nearby individuals as a  reduction in the red to far-red ratio of the incoming light. In anticipation of  eventual shading, a set of plant responses known as the shade avoidance syndrome  (SAS) is initiated soon after detection of this signal by the phytochrome  photoreceptors. Here we analyze the function of PHYTOCHROME RAPIDLY REGULATED1  (PAR1) and PAR2, two Arabidopsis thaliana genes rapidly upregulated after  simulated shade perception. These genes encode two closely related atypical basic  helix-loop-helix proteins with no previously assigned function in plant  development. Using reverse genetic approaches, we show that PAR1 and PAR2 act in  the nucleus to broadly control plant development, acting as negative regulators  of a variety of SAS responses, including seedling elongation and photosynthetic  pigment accumulation. Molecularly, PAR1 and PAR2 act as direct transcriptional  repressors of two auxin-responsive genes, SMALL AUXIN UPREGULATED15 (SAUR15) and  SAUR68. Additional results support that PAR1 and PAR2 function in integrating  shade and hormone transcriptional networks, rapidly connecting phytochrome-sensed  light changes with auxin responsiveness.', '2007 Nov 14', 'EMBO J', '10.1038/sj.emboj.7601890', 'Martinez-Garcia']
-
-phytochrome: !senses! light
-PAR1/2: !upregulated by! phytochrome
-PAR1/2: !controls! plant development
-PAR1/2: !represses! SAUR15/68
-PAR1/2: !integrates! shade & hormone networks

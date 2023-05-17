@@ -1,9 +1,0 @@
-The transcription factor Woolly (Wo) and its downstream gene CycB2 have been shown to regulate trichome development in tomato (Solanum lycopersicum). It has been demonstrated that only the gain-of-function allele of Slwo (SlWoV, the Slwo woolly motif mutant allele) can increase the trichome density; however, it remains unclear why the two alleles function differently in trichome development. In this study, we used Nicotiana benthamiana as a model and cloned the homologues of Slwo and SlCycB2 (named Nbwo and NbCycB2). We also constructed a Nbwo gain-of-function allele with the same mutation site as SlWoV (named NbWoV). We found that both Nbwo and NbWoV directly regulate NbCycB2 and their own expression by binding to the promoter of NbCycB2 and their own genomic sequences. As form of a feedback regulation, NbCycB2 negatively regulates trichome formation by repressing Nbwo activity at the protein level. We also found that mutations in the Nbwo woolly motif can prevent repression of NbWoV by NbCycB2, which results in a significant increase in the amount of active Nbwo proteins and in increases in trichome density and the number of branches. Our results reveal a novel reciprocal regulation mechanism between NbCycB2 and Nbwo during trichome formation in N. benthamiana.
-
-Nbwo: !regulates! NbCycB2
-NbWoV: !regulates! NbCycB2
-NbCycB2: !represses! Nbwo
-NbCycB2: !binds to! Nbwo promoter
-Nbwo: !binds to! Nbwo genomic sequences
-NbCycB2: !negatively regulates! trichome formation
-Mutations in Nbwo woolly motif: !prevent repression of! NbWoV

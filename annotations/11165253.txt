@@ -1,8 +1,0 @@
-['11165253', "Expression analyses of Nrt2 plant genes have shown a strict correlation with root  nitrate influx mediated by the high-affinity transport system (HATS). The precise  assignment of NRT2 protein function has not yet been possible due to the absence  of heterologous expression studies as well as loss of function mutants in higher  plants. Using a reverse genetic approach, we isolated an Arabidopsis thaliana  knock-out mutant where the T-DNA insertion led to the complete deletion of the  AtNrt2.1 gene together with the deletion of the 3' region of the AtNrt2.2 gene.  This mutant is impaired in the HATS, without being modified in the low-affinity  system. Moreover, the de-regulated expression of a Nicotiana plumbaginifolia Nrt2  gene restored the mutant nitrate influx to that of the wild-type. These results  demonstrate that plant NRT2 proteins do have a role in HATS.", '2001 Feb 2', 'FEBS Lett', '10.1016/s0014-5793(01)02096-8', 'Daniel-Vedele']
-
-Nrt2: !correlates with! root nitrate influx 
-AtNrt2.1: !deleted in! Arabidopsis thaliana knock-out mutant 
-AtNrt2.2: !deleted 3' region of! Arabidopsis thaliana knock-out mutant 
-HATS: !impaired in! Arabidopsis thaliana knock-out mutant 
-NRT2 proteins: !have role in! HATS 
-Nicotiana plumbaginifolia Nrt2 gene: !restores! mutant nitrate influx

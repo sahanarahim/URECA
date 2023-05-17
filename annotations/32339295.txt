@@ -1,8 +1,0 @@
-Though substantial effort has gone into predicting how global climate change will impact biodiversity patterns, the scarcity of taxon-specific information has hampered the efficacy of these endeavors. Further, most studies analyzing spatiotemporal patterns of biodiversity focus narrowly on species richness. We apply machine learning approaches to a comprehensive vascular plant database for the United States and generate predictive models of regional plant taxonomic and phylogenetic diversity in response to a wide range of environmental variables. We demonstrate differences in predicted patterns and potential drivers of native vs nonnative biodiversity. In particular, native phylogenetic diversity is likely to decrease over the next half century despite increases in species richness. We also identify that patterns of taxonomic diversity can be incongruent with those of phylogenetic diversity. The combination of macro-environmental factors that determine diversity likely varies at continental scales; thus, as climate change alters the combinations of these factors across the landscape, the collective effect on regional diversity will also vary. Our study represents one of the most comprehensive examinations of plant diversity patterns to date and demonstrates that our ability to predict future diversity may benefit tremendously from the application of machine learning.
-
-environment: !affects! plant diversity
-machine learning: !applies to! comprehensive vascular plant database
-native biodiversity: !likely decreases! over next half century
-species richness: !increases! despite native phylogenetic diversity decrease
-macro-environmental factors: !determine! diversity
-climate change: !alters! combinations of macro-environmental factors

@@ -1,9 +1,0 @@
-Development requires the proper execution and regulation of the cell cycle via precise, conserved mechanisms. Critically, the E2F/DP complex controls the expression of essential genes during cell cycle transitions. Here, we discovered the molecular function of the <i>Arabidopsis thaliana</i> SUMO E3 ligase METHYL METHANESULFONATE SENSITIVITY GENE21 (AtMMS21) in regulating the cell cycle via the E2Fa/DPa pathway. DPa was identified as an AtMMS21-interacting protein and AtMMS21 competes with E2Fa for interaction with DPa. Moreover, DPa is a substrate for SUMOylation mediated by AtMMS21, and this SUMOylation enhances the dissociation of the E2Fa/DPa complex. AtMMS21 also affects the subcellular localization of E2Fa/DPa. The E2Fa/DPa target genes are upregulated in the root of <i>mms21-1</i> and <i>mms21-1</i> mutants showed increased endoreplication. Overexpression of <i>DPa</i> affected the root development of <i>mms21-1</i>, and overexpression of <i>AtMMS21</i> completely recovered the abnormal phenotypes of <i>35S:E2Fa-DPa</i> plants. Our results suggest that AtMMS21 dissociates the E2Fa/DPa complex via competition and SUMOylation in the regulation of plant cell cycle.
-
-AtMMS21: !interacts with! DPa
-AtMMS21: !SUMOylates! DPa
-E2Fa: !competes with! AtMMS21
-E2Fa: !interacts with! DPa
-AtMMS21: !affects! subcellular localization of E2Fa/DPa
-AtMMS21: !represses! E2Fa/DPa target genes
-35S:E2Fa-DPa: !overexpressed by! AtMMS21

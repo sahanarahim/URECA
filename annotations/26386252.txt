@@ -1,9 +1,0 @@
-Leaves of fast-growing, woody bioenergy crops often emit volatile organic compounds (VOC). Some reactive VOC (especially isoprene) play a key role in climate forcing and may negatively affect local air quality. We monitored the seasonal exchange of VOC using the eddy covariance technique in a 'coppiced' poplar plantation. The complex interactions of VOC fluxes with climatic and physiological variables were also explored by using an artificial neural network (Self Organizing Map). Isoprene and methanol were the most abundant VOC emitted by the plantation. Rapid development of the canopy (and thus of the leaf area index, LAI) was associated with high methanol emissions and high rates of gross primary production (GPP) since the beginning of the growing season, while the onset of isoprene emission was delayed. The highest emissions of isoprene, and of isoprene photo-oxidation products (Methyl Vinyl Ketone and Methacrolein, iox ), occurred on the hottest and sunniest days, when GPP and evapotranspiration were highest, and formaldehyde was significantly deposited. Canopy senescence enhanced the exchange of oxygenated VOC. The accuracy of methanol and isoprene emission simulations with the Model of Emissions of Gases and Aerosols from Nature increased by applying a function to modify their basal emission factors, accounting for seasonality of GPP or LAI.
-
-GPP: !enhances! methanol emission
-LAI: !enhances! methanol emission
-Canopy senescence: !enhances! exchange of oxygenated VOC
-GPP: !enhances! isoprene emission
-LAI: !enhances! isoprene emission
-Hottest/sunniest days: !enhances! isoprene photo-oxidation products
-GPP: !modifies! methanol/isoprene emission factors

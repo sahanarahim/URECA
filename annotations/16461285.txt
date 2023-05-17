@@ -1,8 +1,0 @@
-['16461285', 'Eukaryotic cells have developed different mechanisms to establish the division  plane. In plants, the position is determined before the onset of mitosis by the  preprophase band (PPB). This ring of microtubules surrounds the nucleus and  disappears completely by prometaphase. An unknown marker is left behind by the  PPB, providing the necessary spatial cues during cytokinesis. At the position of  the PPB, cortical actin is removed or modified to generate an actin-depleted zone  that was proposed to provide the structural means for phragmoplast guidance.  Here, we identify a plasma membrane domain that emerges at the onset of mitosis  and persists until the end of cytokinesis. The narrow band in the plasma membrane  corresponds to the position of the PPB and is prevented from accumulation of a  GFP-tagged kinesin GFP-KCA1; hence, it is called the KCA-depleted zone (KDZ). The  KDZ demarcates the cortical division site independent from the mitotic  cytoskeleton. Cell divisions in the absence of a KDZ resulted in misplaced cell  plates, suggesting that the PPB transmits a signal to the plasma membrane  required for correct cell plate guidance and vesicular targeting to the cortical  division site.', '2006 Feb 7', 'Curr Biol', '10.1016/j.cub.2005.12.035', 'Geelen']
-
-PPB: !leaves marker! nucleus 
-PPB: !generates! actin-depleted zone 
-KCA1: !localizes to! KDZ 
-KDZ: !demarcates! cortical division site 
-KDZ: !required for! correct cell plate guidance 
-KDZ: !targeted by! vesicles

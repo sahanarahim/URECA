@@ -1,9 +1,0 @@
-['32576643', 'Seed germination is a vital developmental process that is tightly controlled by  environmental signals, ensuring germination under favorable conditions. High  temperature (HT) suppresses seed germination. This process, known as  thermoinhibition, is achieved by activating abscisic acid and inhibiting  gibberellic acid biosynthesis. The zinc-finger protein SOMNUS (SOM) participates  in thermoinhibition of seed germination by altering gibberellic acid/abscisic  acid metabolism, but the underlying regulatory mechanism is poorly understood. In  this study, we report that SOM binds to its own promoter and activates its own  expression in Arabidopsis (Arabidopsis thaliana) and identify the MADS-box  transcription factor AGAMOUS-LIKE67 (AGL67) as a critical player in SOM function,  based on its ability to recognize CArG-boxes within the SOM promoter and mediate  the trans-activation of SOM under HTs. In addition, AGL67 recruits the histone  mark reader EARLY BOLTING IN SHORT DAY (EBS), which recognizes H3K4me3 at SOM  chromatin. In response to HTs, AGL67 and EBS are highly enriched around the SOM  promoter. The AGL67-EBS complex is also necessary for histone H4K5 acetylation,  which activates SOM expression, ultimately inhibiting seed germination. Taken  together, our results reveal an essential mechanism in which AGL67 cooperates  with the histone mark reader EBS, which bridges the process of H3K4me3  recognition with H4K5 acetylation, thereby epigenetically activating SOM  expression to suppress seed germination under HT stress.', '2020 Sep', 'Plant Physiol', '10.1104/pp.20.00056', 'ORCID:']
-
-SOM: !activates! SOM expression
-AGL67: !recognizes! CArG-boxes
-AGL67: !recruits! EBS
-EBS: !recognizes! H3K4me3
-AGL67: !cooperates with! EBS
-EBS: !bridges! H3K4me3 recognition and H4K5 acetylation
-H4K5 acetylation: !activates! SOM expression

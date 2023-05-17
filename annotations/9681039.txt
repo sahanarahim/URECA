@@ -1,7 +1,0 @@
-['9681039', 'Recent genetic analyses of longevity in animals have revealed that long-lived  strains are more tolerant to environmental stresses. To investigate whether  extended longevity in Arabidopsis also correlates with an increase in stress  tolerance, the response was tested of 11 late-flowering mutants to the superoxide  radical-generating herbicide paraquat. A tight correlation between flowering time  and paraquat tolerance was found when plants were exposed to low doses of  herbicide. Furthermore, the mutant gigantea (gi-3) with the longest delay in  flowering time had a high tolerance level to paraquat-induced oxidative stress.  All the tested gi alleles had an increased tolerance to paraquat toxicity  compared to wild-type, although the actual levels of tolerance differed. In  addition, the gi-3 mutant was more tolerant to hydrogen peroxide. These results  suggest that the link between longevity and oxidative stress resistance in plants  is similar to that found in animals, implying that this phenomenon may be general  for all aerobic organisms.', '1998 Jun', 'Plant J', '10.1046/j.1365-313x.1998.00168.x', 'Inze']
-
-gene: !affects! flowering time 
-flowering time: !correlates with! paraquat tolerance 
-gi-3 gene: !enhances! paraquat tolerance 
-gi-3 gene: !enhances! hydrogen peroxide tolerance 
-longevity: !correlates with! oxidative stress resistance

@@ -1,8 +1,0 @@
-In addition to the mechanical forces of the external environment, the individual plant cell is also subject to multiple subtle biophysical forces that arise from neighboring cell growth and division within the tissue. To maintain a normal cell shape and division pattern, the plant cell is proposed to have the ability to sense and respond to repetitive subtle mechanical stimulations via nuclear-directed migration. It has been demonstrated that the nucleus is alert and highly sensitive to repetitive mechanical stimulations. Furthermore, the cytoplasm reacts to local mechanical stimulation in a compartmentalized fashion. The nucleus therefore plays a role as a chief organizer and active defender in response to mechanical stimulation. This finding provides new insight on the role of mechanical stimulation in regulating cell division and the consequent spatial positioning and shape of cells inside tissues. The finding also revealed that it necessitates further study into the reason for cytoplasmic functional compartmentalization in response to simulation in the context of cell evolution.
-
-environment: !affects! plant cell
-plant cell: !responds to! mechanical stimulation
-nuclear-directed migration: !maintains! normal cell shape
-nucleus: !alert to! mechanical stimulations
-cytoplasm: !reacts to! local mechanical stimulation
-mechanical stimulation: !regulates! cell division

@@ -1,8 +1,0 @@
-Seed shattering is an important agricultural trait in crop domestication. SH4 (for grain shattering quantitative trait locus on chromosome 4) and qSH1 (for quantitative trait locus of seed shattering on chromosome 1) genes have been identified as required for reduced seed shattering during rice (Oryza sativa) domestication. However, the regulatory pathways of seed shattering in rice remain unknown. Here, we identified a seed shattering abortion1 (shat1) mutant in a wild rice introgression line. The SHAT1 gene, which encodes an APETALA2 transcription factor, is required for seed shattering through specifying abscission zone (AZ) development in rice. Genetic analyses revealed that the expression of SHAT1 in AZ was positively regulated by the trihelix transcription factor SH4. We also identified a frameshift mutant of SH4 that completely eliminated AZs and showed nonshattering. Our results suggest a genetic model in which the persistent and concentrated expression of active SHAT1 and SH4 in the AZ during early spikelet developmental stages is required for conferring AZ identification. qSH1 functioned downstream of SHAT1 and SH4, through maintaining SHAT1 and SH4 expression in AZ, thus promoting AZ differentiation.
-
-SHAT1: !regulates! SH4
-SH4: !positively regulates! SHAT1
-SHAT1: !specifies! AZ
-SH4: !maintains! SHAT1 expression
-qSH1: !maintains! SHAT1 and SH4 expression
-SHAT1 and SH4: !required for! seed shattering

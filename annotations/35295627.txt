@@ -1,8 +1,0 @@
-Internet of Things (IoT) realizes the real-time video monitoring of plant propagation or growth in the wild. However, the monitoring time is seriously limited by the battery capacity of the visual sensor, which poses a challenge to the long-working plant monitoring. Video coding is the most consuming component in a visual sensor, it is important to design an energy-efficient video codec in order to extend the time of monitoring plants. This article presents an energy-efficient Compressive Video Sensing (CVS) system to make the visual sensor green. We fuse a context-based allocation into CVS to improve the reconstruction quality with fewer computations. Especially, considering the practicality of CVS, we extract the contexts of video frames from compressive measurements but not from original pixels. Adapting to these contexts, more measurements are allocated to capture the complex structures but fewer to the simple structures. This adaptive allocation enables the low-complexity recovery algorithm to produce high-quality reconstructed video sequences. Experimental results show that by deploying the proposed context-based CVS system on the visual sensor, the rate-distortion performance is significantly improved when comparing it with some state-of-the-art methods, and the computational complexity is also reduced, resulting in a low energy consumption.
-
-CVS: !improves! Reconstruction Quality 
-Contexts: !extracted from! Compressive Measurements 
-Contexts: !allocate more measurements to! Complex Structures 
-Low-Complexity Recovery Algorithm: !produces! High-Quality Video Sequences 
-Proposed System: !significantly improves! Rate-Distortion Performance 
-Proposed System: !reduces! Computational Complexity

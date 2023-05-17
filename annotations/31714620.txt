@@ -1,7 +1,0 @@
-Physcomitrella patens is a bryophyte model plant that is often used to study plant evolution and development. Its resources are of great importance for comparative genomics and evo-devo approaches. However, expression data from Physcomitrella patens were so far generated using different gene annotation versions and three different platforms: CombiMatrix and NimbleGen expression microarrays and RNA sequencing. The currently available P. patens expression data are distributed across three tools with different visualization methods to access the data. Here, we introduce an interactive expression atlas, Physcomitrella Expression Atlas Tool (PEATmoss), that unifies publicly available expression data for P. patens and provides multiple visualization methods to query the data in a single web-based tool. Moreover, PEATmoss includes 35 expression experiments not previously available in any other expression atlas. To facilitate gene expression queries across different gene annotation versions, and to access P. patens annotations and related resources, a lookup database and web tool linked to PEATmoss was implemented. PEATmoss can be accessed at https://peatmoss.online.uni-marburg.de.
-
-Physcomitrella patens: !has! Expression Atlas Tool 
-Expression Atlas Tool: !unifies! publicly available expression data 
-Expression Atlas Tool: !provides! multiple visualization methods 
-Expression Atlas Tool: !includes! 35 expression experiments 
-Lookup database: !linked to! PEATmoss

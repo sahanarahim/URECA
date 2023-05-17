@@ -1,9 +1,0 @@
-Plant developmental processes are co-ordinated with the status of cell metabolism, not only in mitochondria but also in plastids. In Arabidopsis thaliana, succinic semialdehyde (SSA), a GABA shunt metabolite, links the specific mitochondrial metabolic pathway to shoot development. To understand the mechanism of SSA-mediated development, we isolated a succinic semialdehyde dehydrogenase (ssadh) suppressor mutant, affected in its ability to catalyze SSA to succinic acid. We found that pleiotropic developmental phenotypes of ssadh are suppressed by a mutation in GLUTAMATE-1-SEMIALDEHYDE 2, 1-AMINOMUTASE 2 (GSA2), which encodes a plastidial enzyme converting glutatamate-1-semialdehyde to 5-aminolevulinic acid (5-ALA). In addition, a mutation in either HEMA1 or GSA1, two other enzymes for 5-ALA synthesis, also suppressed ssadh fully and partially, respectively. Furthermore, exogenous application of 5-ALA and SSA disturbed leaf development. These results suggest that metabolism in both mitochondria and plastids affect shoot development.
-
-ssadh: !affects! shoot development
-SSA: !links! mitochondrial metabolic pathway to shoot development
-GSA2: !suppresses! ssadh
-HEMA1: !suppresses! ssadh
-GSA1: !partially suppresses! ssadh
-5-ALA: !disturbs! leaf development
-SSA: !disturbs! leaf development

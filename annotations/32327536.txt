@@ -1,9 +1,0 @@
-Upon recognition of microbes, pattern recognition receptors (PRRs) activate pattern-triggered immunity. FLAGELLIN SENSING2 (FLS2) and BRASSINOSTEROID INSENSITIVE1-ASSOCIATED KINASE1 (BAK1) form a typical PRR complex that senses bacteria. Here, we report that the kinase activity of the malectin-like receptor-like kinase STRESS INDUCED FACTOR 2 (SIF2) is critical for Arabidopsis (<i>Arabidopsis thaliana</i>) resistance to bacteria by regulating stomatal immunity. SIF2 physically associates with the FLS2-BAK1 PRR complex and interacts with and phosphorylates the guard cell SLOW ANION CHANNEL1 (SLAC1), which is necessary for abscisic acid (ABA)-mediated stomatal closure. SIF2 is also required for the activation of ABA-induced S-type anion currents in Arabidopsis protoplasts, and SIF2 is sufficient to activate SLAC1 anion channels in <i>Xenopus</i> oocytes. SIF2-mediated activation of SLAC1 depends on specific phosphorylation of Ser 65. This work reveals that SIF2 functions between the FLS2-BAK1 initial immunity receptor complex and the final actuator SLAC1 in stomatal immunity.
-
-FLS2: !interacts with! BAK1
-BAK1: !interacts with! FLS2
-SIF2: !interacts with! FLS2-BAK1
-SIF2: !phosphorylates! SLAC1
-SLAC1: !activated by! SIF2
-SIF2: !activates! ABA-induced S-type anion currents
-SLAC1: !activated by! SIF2 phosphorylation of Ser 65

@@ -1,8 +1,0 @@
-Non-coding RNAs (ncRNAs) play important roles in regulating expression of protein-coding genes. Although gene expression databases have emerged in a timely manner, a comprehensive expression database for ncRNAs is still lacking. Herein, we constructed a rice ncRNA co-expression atlas (RiceNCexp), based on 491 RNA-seq and 274 small RNA (sRNA)-seq datasets. RiceNCexp hosts four types of ncRNAs, namely lncRNAs, PHAS genes, miRNAs, and phasiRNAs. RiceNCexp provides comprehensive expression information for rice ncRNAs in 22 tissues/organs, an efficient tau-based mining tool for tissue-specific ncRNAs, and the robust co-expression analysis among ncRNAs or between ncRNAs and protein-coding genes, based on 116 pairs of RNA-seq and sRNA-seq libraries from the same experiments. In summary, RiceNCexp is a user-friendly and comprehensive rice ncRNA co-expression atlas and can be freely accessed at https://cbi.njau.edu.cn/RiceNCexp/.
-
-ncRNA: !regulates! protein-coding genes
-RiceNCexp: !hosts! four types of ncRNAs
-RiceNCexp: !provides! comprehensive expression information
-RiceNCexp: !enables! tau-based mining tool
-RiceNCexp: !allows! co-expression analysis
-ncRNA: !interacts with! protein-coding genes

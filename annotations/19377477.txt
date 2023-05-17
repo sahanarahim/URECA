@@ -1,6 +1,0 @@
-['19377477', 'Retrotransposons and repetitive DNA elements in eukaryotes are silenced by small  RNA-directed heterochromatin formation. In Arabidopsis, this process involves  24-nt siRNAs that bind to ARGONAUTE4 (AGO4) and facilitate the targeting of  complementary loci via unknown mechanisms. Nuclear RNA polymerase V (Pol V) is an  RNA silencing enzyme recently shown to generate noncoding transcripts at loci  silenced by 24-nt siRNAs. We show that AGO4 physically interacts with these Pol V  transcripts and is thereby recruited to the corresponding chromatin. We further  show that DEFECTIVE IN MERISTEM SILENCING3 (DMS3), a structural maintenance of  chromosomes (SMC) hinge-domain protein, functions in the assembly of Pol V  transcription initiation or elongation complexes. Collectively, our data suggest  that AGO4 is guided to target loci through base-pairing of associated siRNAs with  nascent Pol V transcripts.', '2009 May', 'Nat Genet', '10.1038/ng.365', 'Pikaard']
-
-siRNA: !binds to! AGO4
-AGO4: !interacts with! Pol V transcripts
-Pol V: !synthesizes! noncoding transcripts
-DMS3: !facilitates! Pol V transcription initiation/elongation

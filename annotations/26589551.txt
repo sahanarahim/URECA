@@ -1,9 +1,0 @@
-Flattened leaf architecture is not a default state but depends on positional information to precisely coordinate patterns of cell division in the growing primordium. This information is provided, in part, by the boundary between the adaxial (top) and abaxial (bottom) domains of the leaf, which are specified via an intricate gene regulatory network whose precise circuitry remains poorly defined. Here, we examined the contribution of the ASYMMETRIC LEAVES (AS) pathway to adaxial-abaxial patterning in Arabidopsis thaliana and demonstrate that AS1-AS2 affects this process via multiple, distinct regulatory mechanisms. AS1-AS2 uses Polycomb-dependent and -independent mechanisms to directly repress the abaxial determinants MIR166A, YABBY5, and AUXIN RESPONSE FACTOR3 (ARF3), as well as a nonrepressive mechanism in the regulation of the adaxial determinant TAS3A. These regulatory interactions, together with data from prior studies, lead to a model in which the sequential polarization of determinants, including AS1-AS2, explains the establishment and maintenance of adaxial-abaxial leaf polarity. Moreover, our analyses show that the shared repression of ARF3 by the AS and trans-acting small interfering RNA (ta-siRNA) pathways intersects with additional AS1-AS2 targets to affect multiple nodes in leaf development, impacting polarity as well as leaf complexity. These data illustrate the surprisingly multifaceted contribution of AS1-AS2 to leaf development showing that, in conjunction with the ta-siRNA pathway, AS1-AS2 keeps the Arabidopsis leaf both flat and simple.
-
-AS1-AS2: !affects! adaxial-abaxial patterning 
-AS1-AS2: !represses! MIR166A 
-AS1-AS2: !represses! YABBY5 
-AS1-AS2: !represses! AUXIN RESPONSE FACTOR3 
-AS1-AS2: !regulates! TAS3A 
-AS1-AS2: !intersects with! ta-siRNA pathway 
-ta-siRNA pathway: !intersects with! AS1-AS2

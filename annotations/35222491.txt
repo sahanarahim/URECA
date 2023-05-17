@@ -1,7 +1,0 @@
-Precise segmentation of wheat spikes from a complex background is necessary for obtaining image-based phenotypic information of wheat traits such as yield estimation and spike morphology. A new instance segmentation method based on a Hybrid Task Cascade model was proposed to solve the wheat spike detection problem with improved detection results. In this study, wheat images were collected from fields where the environment varied both spatially and temporally. Res2Net50 was adopted as a backbone network, combined with multi-scale training, deformable convolutional networks, and Generic ROI Extractor for rich feature learning. The proposed methods were trained and validated, and the average precision (AP) obtained for the bounding box and mask was 0.904 and 0.907, respectively, and the accuracy for wheat spike counting was 99.29%. Comprehensive empirical analyses revealed that our method (Wheat-Net) performed well on challenging field-based datasets with mixed qualities, particularly those with various backgrounds and wheat spike adjacence/occlusion. These results provide evidence for dense wheat spike detection capabilities with masking, which is useful for not only wheat yield estimation but also spike morphology assessments.
-
-Res2Net50: !adopted as! backbone network
-Multi-scale training: !combined with! Deformable convolutional networks
-Generic ROI Extractor: !combined with! Deformable convolutional networks
-Wheat-Net: !performed well on! Challenging field-based datasets
-Wheat-Net: !useful for! Wheat yield estimation and spike morphology assessments

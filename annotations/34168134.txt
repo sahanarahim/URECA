@@ -1,8 +1,0 @@
-In plants, inactivation of either of the thylakoid proteins PGR5 and PGRL1 impairs cyclic electron flow (CEF) around photosystem I. Because PGR5 is unstable in the absence of the redox-active PGRL1, but not vice versa, PGRL1 is thought to be essential for CEF. However, we show here that inactivation of PGRL2, a distant homolog of PGRL1, relieves the need for PGRL1 itself. Conversely, high levels of PGRL2 destabilize PGR5 even when PGRL1 is present. In the absence of both PGRL1 and PGRL2, PGR5 alters thylakoid electron flow and impairs plant growth. Consequently, PGR5 can operate in CEF on its own, and is the target of the CEF inhibitor antimycin A, but its activity must be modulated by PGRL1. We conclude that PGRL1 channels PGR5 activity, and that PGRL2 triggers the degradation of PGR5 when the latter cannot productively interact with PGRL1.
-
-PGRL1: !channels! PGR5
-PGRL2: !triggers degradation of! PGR5
-PGR5: !operates in! CEF
-PGR5: !impaired by! PGRL2
-PGRL1: !essential for! CEF
-PGRL2: !relieves need for! PGRL1

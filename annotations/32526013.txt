@@ -1,7 +1,0 @@
-Elucidating genotype-by-environment interactions and partitioning its contribution to phenotypic variation remains a challenge for plant scientists. We propose a framework that utilizes genome-wide markers to model genotype-specific shoot growth trajectories as a function of time and soil water availability. A rice diversity panel was phenotyped daily for 21 d using an automated, high-throughput image-based, phenotyping platform that enabled estimation of daily shoot biomass and soil water content. Using these data, we modeled shoot growth as a function of time and soil water content, and were able to determine the time point where an inflection in the growth trajectory occurred. We found that larger, more vigorous plants exhibited an earlier repression in growth compared with smaller, slow-growing plants, indicating a trade-off between early vigor and tolerance to prolonged water deficits. Genomic inference for model parameters and time of inflection (TOI) identified several candidate genes. This study is the first to utilize a genome-enabled growth model to study drought responses in rice, and presents a new approach to jointly model dynamic morpho-physiological responses and environmental covariates.
-
-Gene: !affects! Shoot growth
-Gene: !represses! Growth trajectory
-Gene: !influences! Time of inflection
-Gene: !enhances! Vigor
-Gene: !determines! Tolerance to water deficits

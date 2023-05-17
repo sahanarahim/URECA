@@ -1,7 +1,0 @@
-Unmanned aerial vehicles (UAVs) are powerful tools for monitoring crops for high-throughput phenotyping. Time-series aerial photography of fields can record the whole process of crop growth. Canopy height (CH), which is vertical plant growth, has been used as an indicator for the evaluation of lodging tolerance and the prediction of biomass and yield. However, there have been few attempts to use UAV-derived time-series CH data for field testing of crop lines. Here we provide a novel framework for trait prediction using CH data in rice. We generated UAV-based digital surface models of crops to extract CH data of 30 Japanese rice cultivars in 2019, 2020, and 2021. CH-related parameters were calculated in a non-linear time-series model as an S-shaped plant growth curve. The maximum saturation CH value was the most important predictor for culm length. The time point at the maximum CH contributed to the prediction of days to heading, and was able to predict stem and leaf weight and aboveground weight, possibly reflecting the association of biomass with duration of vegetative growth. These results indicate that the CH-related parameters acquired by UAV can be useful as predictors of traits typically measured by hand.
-
-UAV: !provides! CH data
-CH data: !predicts! culm length
-CH data: !predicts! days to heading
-CH data: !predicts! stem and leaf weight
-CH data: !predicts! aboveground weight

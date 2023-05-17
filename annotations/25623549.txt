@@ -1,8 +1,0 @@
-Quantitative plant disease resistance is believed to be more durable than qualitative resistance, since it exerts less selective pressure on the pathogens. However, the process of progressive pathogen adaptation to quantitative resistance is poorly understood, which makes it difficult to predict its durability or to derive principles for its sustainable deployment. Here, we study the dynamics of pathogen adaptation in response to quantitative plant resistance affecting pathogen reproduction rate and its colonizing capacity. We developed a stochastic model for the continuous evolution of a pathogen population within a quantitatively resistant host. We assumed that pathogen can adapt to a host by the progressive restoration of reproduction rate or of colonizing capacity, or of both. Our model suggests that a combination of quantitative trait loci (QTLs) affecting distinct pathogen traits was more durable if the evolution of repressed traits was antagonistic. Otherwise, quantitative resistance that depressed only pathogen reproduction was more durable. In order to decelerate the progressive pathogen adaptation, QTLs that decrease the pathogen's maximum capacity to colonize must be combined with QTLs that decrease the spore production per lesion or the infection efficiency or that increase the latent period. Our theoretical framework can help breeders to develop principles for sustainable deployment of QTLs.
-
-QTL: !affects! Pathogen traits 
-Pathogen: !adapts to! Host 
-QTL: !represses! Pathogen traits 
-QTL: !decreases! Colonizing capacity 
-QTL: !decreases! Spore production 
-QTL: !increases! Latent period

@@ -1,8 +1,0 @@
-Brassinosteroids (BRs) are key regulators in plant growth and development. The main BR-perceiving receptor in Arabidopsis (Arabidopsis thaliana) is BRASSINOSTEROID INSENSITIVE1 (BRI1). Seedling root growth and hypocotyl elongation can be accurately predicted using a model for BRI1 receptor activity. Genetic evidence shows that non-ligand-binding coreceptors of the SOMATIC EMBRYOGENESIS RECEPTOR-LIKE KINASE (SERK) family are essential for BRI1 signal transduction. A relatively simple biochemical model based on the properties of SERK loss-of-function alleles explains complex physiological responses of the BRI1-mediated BR pathway. The model uses BRI1-BR occupancy as the central estimated parameter and includes BRI1-SERK interaction based on mass action kinetics and accurately describes wild-type root growth and hypocotyl elongation. Simulation studies suggest that the SERK coreceptors primarily act to increase the magnitude of the BRI1 signal. The model predicts that only a small number of active BRI1-SERK complexes are required to carry out BR signaling at physiological ligand concentration. Finally, when calibrated with single mutants, the model predicts that roots of the serk1serk3 double mutant are almost completely brassinolide (BL) insensitive, while the double mutant hypocotyls remain sensitive. This points to residual BRI1 signaling or to a different coreceptor requirement in shoots.
-
-BRI1: !perceives! BRs 
-BRI1: !interacts with! SERK 
-SERK: !essential for! BRI1 signal transduction 
-BRI1-BR: !central estimated parameter! model 
-BRI1-SERK: !increases magnitude of! BRI1 signal 
-serk1serk3: !almost completely brassinolide insensitive! roots

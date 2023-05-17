@@ -1,7 +1,0 @@
-Legumes have adaptive mechanisms that regulate nodulation in response to the amount of nitrogen in the soil. In Lotus japonicus, two NODULE INCEPTION (NIN)-LIKE PROTEIN (NLP) transcription factors, LjNLP4 and LjNLP1, play pivotal roles in the negative regulation of nodulation by controlling the expression of symbiotic genes in high nitrate conditions. Despite an improved understanding of the molecular basis for regulating nodulation, how nitrate plays a role in the signaling pathway to negatively regulate this process is largely unknown. Here, we show that nitrate transport via NITRATE TRANSPORTER 2.1 (LjNRT2.1) is a key step in the NLP signaling pathway to control nodulation. A mutation in the LjNRT2.1 gene attenuates the nitrate-induced control of nodulation. LjNLP1 is necessary and sufficient to induce LjNRT2.1 expression, thereby regulating nitrate uptake/transport. Our data suggest that LjNRT2.1-mediated nitrate uptake/transport is required for LjNLP4 nuclear localization and induction/repression of symbiotic genes. We further show that LjNIN, a positive regulator of nodulation, counteracts the LjNLP1-dependent induction of LjNRT2.1 expression, which is linked to a reduction in nitrate uptake. These findings suggest a plant strategy in which nitrogen acquisition switches from obtaining nitrogen from the soil to symbiotic nitrogen fixation.
-
-LjNLP1: !induces! LjNRT2.1
-LjNRT2.1: !mediates! nitrate uptake/transport
-LjNLP4: !localizes to! nucleus
-LjNLP1: !represses! LjNIN
-LjNIN: !counteracts! LjNLP1

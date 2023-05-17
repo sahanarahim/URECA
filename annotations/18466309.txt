@@ -1,8 +1,0 @@
-Organogenesis in plants is controlled by polar auxin transport. In maize (Zea mays), barren inflorescence2 (bif2) encodes a co-ortholog of the serine/threonine protein kinase PINOID (PID), which regulates auxin transport in Arabidopsis. In this paper, we report that the basic helix-loop-helix transcription factor BARREN STALK1 (BA1) is a putative target of BIF2, revealing a previously unknown function of BIF2 in the nucleus. Both bif2 and ba1 are required for axillary meristem initiation during inflorescence and vegetative development in maize. Using a yeast two-hybrid approach, we identified BA1 as an interacting partner with BIF2. We confirmed the interaction by in vitro pull-down assays, and demonstrated that BIF2 phosphorylates BA1 in vitro. Previously, RNA in situ hybridization showed that bif2 and ba1 are both expressed during axillary meristem initiation. Here, we heterologously expressed BIF2 and BA1, and found that they co-localize in the nucleus. Based on these findings, we propose that in addition to regulating auxin transport at the cell periphery, BIF2 also functions in the nucleus by interacting with BA1 to promote axillary meristem initiation. Double mutant analysis is consistent with these results, showing that bif2 and ba1 have overlapping as well as unique roles in inflorescence development.
-
-bif2: !encodes! PINOID
-bif2: !interacts with! BA1
-bif2: !phosphorylates! BA1
-bif2: !co-localizes with! BA1
-BA1: !putative target of! BIF2
-BA1: !required for! axillary meristem initiation

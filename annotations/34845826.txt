@@ -1,9 +1,0 @@
-Rice (Oryza sativa) is a major crop that feeds billions of people, and its yield is strongly influenced by flowering time (heading date). Loss of RICE INDETERMINATE1 (RID1) function causes plants not to flower; thus, RID1 is considered a master switch among flowering-related genes. However, it remains unclear whether other proteins function together with RID1 to regulate rice floral transition. Here, we revealed that the chromatin accessibility and H3K9ac, H3K4me3, and H3K36me3 levels at Heading date 3a (Hd3a) and RICE FLOWERING LOCUS T1 (RFT1) loci were significantly reduced in rid1 mutants. Notably, RID1 interacted with SET DOMAIN GROUP PROTEIN 722 (SDG722), a methyltransferase. We determined that SDG722 affects the global level of H3K4me2/3 and H3K36me2/3, and promotes flowering primarily through the Early heading date1-Hd3a/RFT1 pathway. We further established that rice DELLA protein SLENDER RICE1 (SLR1) interacted with RID1 to inhibit its transactivation activity, that SLR1 suppresses rice flowering, and that messenger RNA and protein levels of SLR1 gradually decrease with plant growth. Furthermore, SLR1 competed with SDG722 for interaction with RID1. Overall, our results establish that interplay between RID1, SLR1, and SDG722 feeds into rice flowering-time control.
-
-RID1: !affects! Flowering
-RID1: !interacts with! SDG722
-SDG722: !affects! H3K4me2/3 & H3K36me2/3
-SLR1: !interacts with! RID1
-SLR1: !inhibits! RID1 transactivation
-SLR1: !suppresses! Flowering
-SLR1: !competes with! SDG722

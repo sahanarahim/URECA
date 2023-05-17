@@ -1,9 +1,0 @@
-This paper provides a review of kinetic modelling of plant metabolic pathways as a tool for analysing their control and regulation. An overview of different modelling strategies is presented, starting with those approaches that only require a knowledge of the network stoichiometry; these are referred to as structural. Flux-balance analysis, metabolic flux analysis using isotope labelling, and elementary mode analysis are briefly mentioned as three representative examples. The main focus of this paper, however, is a discussion of kinetic modelling, which requires, in addition to the stoichiometry, a knowledge of the kinetic properties of the constituent pathway enzymes. The different types of kinetic modelling analysis, namely time-course simulation, steady-state analysis, and metabolic control analysis, are explained in some detail. An overview is presented of strategies for obtaining model parameters, as well as software tools available for simulation of such models. The kinetic modelling approach is exemplified with discussion of three models from the general plant physiology literature. With the aid of kinetic modelling it is possible to perform a control analysis of a plant metabolic system, to identify potential targets for biotechnological manipulation, as well as to ascertain the regulatory importance of different enzymes (including isoforms of the same enzyme) in a pathway. Finally, a framework is presented for extending metabolic models to the whole-plant scale by linking biochemical reactions with diffusion and advective flow through the phloem. Future challenges include explicit modelling of subcellular compartments, as well as the integration of kinetic models on the different levels of the cellular and organizational hierarchy.
-
-gene: !affects! Process
-gene: !synthesizes! Enzyme
-enzyme: !controls! Pathway
-model: !simulates! Kinetics
-software: !simulates! Model
-model: !identifies! Target
-enzyme: !regulates! Pathway

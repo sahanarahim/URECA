@@ -1,8 +1,0 @@
-Global warming has profound impact on growth and development, and plants constantly adjust their internal circadian clock to cope with external environment. However, how clock-associated genes fine-tune thermoresponsive growth in plants is little understood. We found that loss-of-function mutation of REVEILLE5 (RVE5) reduces the expression of circadian gene EARLY FLOWERING 4 (ELF4) in Arabidopsis, and confers accelerated hypocotyl growth under warm-temperature conditions. Both RVE5 and CIRCADIAN CLOCK ASSOCIATED 1 (CCA1) accumulate at warm temperatures and bind to the same EE cis-element presented on ELF4 promoter, but the transcriptional repression activity of RVE5 is weaker than that of CCA1. The binding of CCA1 to ELF4 promoter is enhanced in the rve5-2 mutant at warm temperatures, and overexpression of ELF4 in the rve5-2 mutant background suppresses the rve5-2 mutant phenotype at warm temperatures. Therefore, the transcriptional repressor RVE5 finetunes ELF4 expression via competing at a cis-element with the stronger transcriptional repressor CCA1 at warm temperatures. Such a competition-attenuation mechanism provides a balancing system for modulating the level of ELF4 and thermoresponsive hypocotyl growth under warm-temperature conditions.
-
-RVE5: !represses! ELF4
-CCA1: !binds to! ELF4 promoter
-RVE5: !competes with! CCA1
-CCA1: !enhances binding to! ELF4 promoter
-rve5-2 mutant: !increases! CCA1 binding
-ELF4: !overexpression suppresses! rve5-2 mutant phenotype

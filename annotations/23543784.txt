@@ -1,9 +1,0 @@
-During flowering, primordia on the flanks of the shoot apical meristem are specified to form flowers instead of leaves. Like many plants, Arabidopsis thaliana integrates environmental and endogenous signals to control the timing of reproduction. To study the underlying regulatory logic of the floral transition, we used a combination of modeling and experiments to define a core gene regulatory network. We show that FLOWERING LOCUS T (FT) and TERMINAL FLOWER1 (TFL1) act through FD and FD PARALOG to regulate the transition. The major floral meristem identity gene LEAFY (LFY) directly activates FD, creating a positive feedback loop. This network predicts flowering behavior for different genotypes and displays key properties of the floral transition, such as signal integration and irreversibility. Furthermore, modeling suggests that the control of TFL1 is important to flexibly counterbalance incoming FT signals, allowing a pool of undifferentiated cells to be maintained despite strong differentiation signals in nearby cells. This regulatory system requires TFL1 expression to rise in proportion to the strength of the floral inductive signal. In this network, low initial levels of LFY or TFL1 expression are sufficient to tip the system into either a stable flowering or vegetative state upon floral induction.
-
-FT: !regulates! TFL1 
-FD: !activated by! LFY 
-LFY: !activates! FD 
-TFL1: !controlled by! FT 
-FT: !integrates with! TFL1 
-LFY: !maintains! vegetative state 
-TFL1: !maintains! undifferentiated cells

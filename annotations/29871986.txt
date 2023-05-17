@@ -1,9 +1,0 @@
-['29871986', 'Plants deploy numerous cell surface-localized pattern-recognition receptors  (PRRs) to perceive host- and microbe-derived molecular patterns that are  specifically released during infection and activate defense responses. The  activation of the mitogen-activated protein kinases MPK3, MPK4, and MPK6  (MPK3/4/6) is a hallmark of immune system activation by all known PRRs and is  crucial for establishing disease resistance. The MAP kinase kinase kinase  (MAPKKK) MEKK1 controls MPK4 activation, but the MAPKKKs responsible for MPK3/6  activation downstream of diverse PRRs and how the perception of diverse molecular  patterns leads to the activation of MAPKKKs remain elusive. Here, we show that  two highly related MAPKKKs, MAPKKK3 and MAPKKK5, mediate MPK3/6 activation by at  least four PRRs and confer resistance to bacterial and fungal pathogens in  Arabidopsis thaliana The receptor-like cytoplasmic kinases VII (RLCK VII), which  act downstream of PRRs, directly phosphorylate MAPKKK5 Ser-599, which is required  for pattern-triggered MPK3/6 activation, defense gene expression, and disease  resistance. Surprisingly, MPK6 further phosphorylates MAPKKK5 Ser-682 and Ser-692  to enhance MPK3/6 activation and disease resistance, pointing to a positive  feedback mechanism. Finally, MEKK1 Ser-603 is phosphorylated by both RLCK VII and  MPK4, which is required for pattern-triggered MPK4 activation. These findings  illustrate central mechanisms by which multiple PRRs activate MAPK cascades and  disease resistance.', '2018 Jul', 'Plant Cell', '10.1105/tpc.17.00981', 'ORCID:']
-
-PRRs: !activate! MPK3/4/6 
-RLCK VII: !phosphorylate! MAPKKK5 
-MPK6: !phosphorylate! MAPKKK5 
-MAPKKK5: !mediates! MPK3/6 activation 
-MEKK1: !controls! MPK4 activation 
-MEKK1: !phosphorylated by! RLCK VII 
-MEKK1: !phosphorylated by! MPK4

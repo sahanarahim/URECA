@@ -1,9 +1,0 @@
-['20807878', 'Actin filament bundles are higher-order cytoskeletal structures that are crucial  for the maintenance of cellular architecture and cell expansion. They are  generated from individual actin filaments by the actions of bundling proteins  like fimbrins, LIMs, and villins. However, the molecular mechanisms of dynamic  bundle formation and turnover are largely unknown. Villins belong to the  villin/gelsolin/fragmin superfamily and comprise at least five isovariants in  Arabidopsis thaliana. Different combinations of villin isovariants are  coexpressed in various tissues and cells. It is not clear whether these  isovariants function together and act redundantly or whether they have unique  activities. VILLIN1 (VLN1) is a simple filament-bundling protein and is Ca(2+)  insensitive. Based on phylogenetic analyses and conservation of Ca(2+) binding  sites, we predict that VLN3 is a Ca(2+)-regulated villin capable of severing  actin filaments and contributing to bundle turnover. The bundling activity of  both isovariants was observed directly with time-lapse imaging and total internal  reflection fluorescence (TIRF) microscopy in vitro, and the mechanism mimics the  "catch and zipper" action observed in vivo. Using time-lapse TIRF microscopy, we  observed and quantified the severing of individual actin filaments by VLN3 at  physiological calcium concentrations. Moreover, VLN3 can sever actin filament  bundles in the presence of VLN1 when calcium is elevated to micromolar levels.  Collectively, these results demonstrate that two villin isovariants have  overlapping and distinct activities.', '2010 Aug', 'Plant Cell', '10.1105/tpc.110.076240', 'Staiger']
-
-VLN1: !bundles! actin filaments 
-VLN3: !sever! actin filaments 
-VLN1: !coexpresses with! VLN3 
-VLN3: !regulated by! Ca(2+) 
-VLN3: !catches and zippers! actin filaments 
-VLN3: !severs! actin filament bundles 
-VLN1: !enhances! VLN3 severing activity

@@ -1,7 +1,0 @@
-Organisms across the tree of life form symbiotic partnerships with microbes for metabolism, protection and resources. While some hosts evolve extreme dependence on their symbionts, others maintain facultative associations. Explaining this variation is fundamental to understanding when symbiosis can lead to new higher-level individuals, such as during the evolution of the eukaryotic cell. Here we perform phylogenetic comparative analyses on 106 unique host-bacterial symbioses to test for correlations between symbiont function, transmission mode, genome size and host dependence. We find that both transmission mode and symbiont function are correlated with host dependence, with reductions in host fitness being greatest when nutrient-provisioning, vertically transmitted symbionts are removed. We also find a negative correlation between host dependence and symbiont genome size in vertically, but not horizontally, transmitted symbionts. These results suggest that both function and population structure are important in driving irreversible dependence between hosts and symbionts.
-
-host: !evolves extreme dependence on! symbiont
-transmission mode: !correlated with! host dependence
-symbiont function: !correlated with! host dependence
-host dependence: !greatest when! nutrient-provisioning, vertically transmitted symbionts are removed
-host dependence: !negatively correlated with! symbiont genome size in vertically, but not horizontally, transmitted symbionts

@@ -1,8 +1,0 @@
-Land plants evolve drought acclimation. Existing knowledge of gene regulation mainly comes from short-term drought treatment. However, common regulatory mechanism shared by multiple varieties under long-term drought is little explored. Here we investigated changes in physiology, hormones and transcriptomes in leaves of <i>Nicotiana</i> varieties K326 and Basma Xanthi with/without drought treatment at time courses spanning 1 month. Analyses of deep RNA-Seq data and further full-length Iso-Seq data revealed an atlas of dynamic changes of transcripts, spliced isoforms, gene expression, associated Gene Ontology, and metabolism pathways. Fewer differentially expressed genes (DEGs) were induced by drought in high tolerance variety than susceptible variety. Comparison among seven hormone signal pathways identified that genes in both abscisic acid and auxin signaling pathways were highly induced although specific genes were depended on the variety. Common hormone regulatory network analysis revealed that genes encoding clade A protein phosphatase 2C gene (<i>PP2C</i>) in abscisic acid pathway was the pivotal hub. Expressional regulation in photosynthesis was also common and variety specific. We conclude that long-term drought inducing gene regulatory networks of hormones and photosynthesis are variety dependent, and <i>PP2C</i> is the center of the common hormone regulatory network. Thus, this study improves our understanding of gene regulatory network in drought response.
-
-drought: !induces! gene regulatory networks
-variety: !depends on! specific genes
-abscisic acid pathway: !contains! PP2C gene
-PP2C: !is the hub of! common hormone regulatory network
-photosynthesis: !is regulated by! drought
-drought: !enhances! high tolerance variety

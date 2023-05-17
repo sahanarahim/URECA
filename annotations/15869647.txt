@@ -1,9 +1,0 @@
-A multiscaled ecophysiological model of barley (Hordeum vulgare) development is presented here. The model is based on the new formalism of relational growth grammars (RGG), an extension of L-systems, and implemented using the new modelling language XL. It is executable in the interactive modelling platform GroIMP. The model consists of a set of morphogenetic rules, combined with a metabolic regulatory network, which simulates the biosynthesis of gibberellic acid (GA1). GA1 and two of its metabolic precursors are transported along the developing simulated structure. Local concentrations of GA1 determine internode elongation. Furthermore, virtual barley individuals are chosen interactively from a population, based on genotype, and (sexual or asexual) reproduction is simulated. Genotype and phenotype of the population are visualized. Seven Mendelian genes have been implemented in the model so far; some of these directly influence the GA-regulation network. The model exemplifies and validates the new formalism and modelling language. RGG have the capability to represent genetic, metabolic and morphological aspects of plant development and reproduction, all within the same framework.
-
-Gene: !affects! Metabolic Regulatory Network 
-Metabolic Regulatory Network: !simulates! Biosynthesis of Gibberellic Acid 
-Gibberellic Acid: !determines! Internode Elongation 
-Genotype: !chosen interactively from! Population 
-Population: !visualized! Genotype and Phenotype 
-Mendelian Genes: !implemented in! Model 
-Genes: !directly influence! GA-Regulation Network

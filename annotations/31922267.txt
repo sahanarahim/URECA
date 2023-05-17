@@ -1,7 +1,0 @@
-['31922267', 'Plant pattern recognition receptors (PRRs) perceive pathogen-associated molecular  patterns (PAMPs) to activate immune responses. Medium-chain 3-hydroxy fatty acids  (mc-3-OH-FAs), which are widely present in Gram-negative bacteria, were recently  shown to be novel PAMPs in Arabidopsis thaliana. The Arabidopsis PRR  LIPOOLIGOSACCHARIDE-SPECIFIC REDUCED ELICITATION (LORE) is a G-type lectin  receptor-like kinase that recognizes mc-3-OH-FAs and subsequently mounts an  immune response; however, the mechanisms underlying LORE activation and  downstream signaling are unexplored. Here, we report that one of the mc-3-OH-FAs,  3-OH-C10:0, induces phosphorylation of LORE at tyrosine residue 600 (Y600).  Phosphorylated LORE subsequently trans-phosphorylates the receptor-like  cytoplasmic kinase PBL34 and its close paralogs, PBL35 and PBL36, and therefore  activates plant immunity. Phosphorylation of LORE Y600 is required for downstream  phosphorylation of PBL34, PBL35, and PBL36. However, the Pseudomonas syringae  effector HopAO1 targets LORE, dephosphorylating the tyrosine-phosphorylated Y600  and therefore suppressing the immune response. These observations uncover the  mechanism by which LORE mediates signaling in response to 3-OH-C10:0 in  Arabidopsis.', '2020 Feb 17', 'EMBO J', '10.15252/embj.2019102856', 'ORCID:']
-
-LORE: !recognizes! mc-3-OH-FAs 
-LORE: !phosphorylates! Y600 
-Y600: !trans-phosphorylates! PBL34, PBL35, PBL36 
-HopAO1: !targets! LORE 
-LORE: !dephosphorylates! Y600

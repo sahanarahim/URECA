@@ -1,9 +1,0 @@
-['32358072', 'Chromatin remodeling and histone modifications are important for development and  floral transition in plants. However, it is largely unknown whether and how these  two epigenetic regulators coordinately regulate the important biological  processes. Here, we identified three types of Imitation Switch (ISWI)  chromatin-remodeling complexes in Arabidopsis (Arabidopsis thaliana). We found  that AT-RICH INTERACTING DOMAIN5 (ARID5), a subunit of a plant-specific ISWI  complex, can regulate development and floral transition. The ARID-PHD dual domain  cassette of ARID5 recognizes both the H3K4me3 histone mark and AT-rich DNA. We  determined the ternary complex structure of the ARID5 ARID-PHD cassette with an  H3K4me3 peptide and an AT-containing DNA. The H3K4me3 peptide is combinatorially  recognized by the PHD and ARID domains, while the DNA is specifically recognized  by the ARID domain. Both PHD and ARID domains are necessary for the association  of ARID5 with chromatin. The results suggest that the dual recognition of AT-rich  DNA and H3K4me3 by the ARID5 ARID-PHD cassette may facilitate the association of  the ISWI complex with specific chromatin regions to regulate development and  floral transition.', '2020 Jul', 'Plant Cell', '10.1105/tpc.19.00944', 'ORCID:']
-
-ARID5: !recognizes! H3K4me3 
-ARID5: !recognizes! AT-containing DNA 
-ARID5: !regulates! development 
-ARID5: !regulates! floral transition 
-PHD: !combines with! ARID domain 
-ARID: !combines with! PHD domain 
-ARID5: !associates with! chromatin

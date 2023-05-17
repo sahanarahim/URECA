@@ -1,8 +1,0 @@
-In response to competition for light from their neighbors, shade-intolerant plants flower precociously to ensure reproductive success and survival. However, the molecular mechanisms underlying this key developmental switch are not well understood. Here, we show that a pair of Arabidopsis transcription factors essential for phytochrome A signaling, FAR-RED ELONGATED HYPOCOTYL3 (FHY3) and FAR-RED IMPAIRED RESPONSE1 (FAR1), regulate flowering time by integrating environmental light signals with the miR156-SPL module-mediated aging pathway. We found that FHY3 and FAR1 directly interact with three flowering-promoting SQUAMOSA-PROMOTER BINDING PROTEIN-LIKE (SPL) transcription factors, SPL3, SPL4, and SPL5, and inhibit their binding to the promoters of several key flowering regulatory genes, including FRUITFUL (FUL), LEAFY (LFY), APETALA1 (AP1), and MIR172C, thus downregulating their transcript levels and delaying flowering. Under simulated shade conditions, levels of SPL3/4/5 proteins increase, whereas levels of FHY3 and FAR1 proteins decline, thus releasing SPL3/4/5 from FHY3/FAR1 inhibition to allow activation of FUL, LFY, AP1, and MIR172C and, consequently, early flowering. Taken together, these results unravel a novel mechanism whereby plants regulate flowering time by integrating environmental cues (such as light conditions) and an internal developmental program (the miR156-SPL module-mediated aging pathway).
-
-FHY3: !interacts with! SPL3/4/5 
-FAR1: !interacts with! SPL3/4/5 
-FHY3: !represses! FUL/LFY/AP1/MIR172C 
-FAR1: !represses! FUL/LFY/AP1/MIR172C 
-Light: !affects! FHY3/FAR1 
-miR156-SPL module: !affects! FUL/LFY/AP1/MIR172C

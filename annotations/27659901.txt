@@ -1,8 +1,0 @@
-525 I. 525 II. 526 III. 527 IV. 527 V. 529 VI. 529 529 References 529 SUMMARY: Re-programming of the transcriptome involves both transcription and alternative splicing (AS). Some genes are regulated only at the AS level with no change in expression at the gene level. AS data must be incorporated as an essential aspect of the regulation of gene expression. RNA-sequencing (RNA-seq) can deliver both transcriptional and AS information, but accurate methods to analyse the added complexity in RNA-seq data are needed. The construction of a comprehensive reference transcript dataset (RTD) for a specific plant species, variety or accession, from all available sequence data, will immediately allow more robust analysis of RNA-seq data. RTDs will continually evolve and improve, a process that will be more efficient if resources across a community are shared and pooled.
-
-Gene: !affects! Transcriptome 
-Transcriptome: !involves! Transcription & AS 
-Gene: !regulated by! AS 
-RNA-seq: !delivers! Transcriptional & AS info 
-RTD: !allows! Robust analysis of RNA-seq data 
-Community: !shares & pools! Resources

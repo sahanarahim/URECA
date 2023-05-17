@@ -1,9 +1,0 @@
-Roots optimize the acquisition of limited soil resources, but relationships between root forms and functions have often been assumed rather than demonstrated. Furthermore, how root systems co-specialize for multiple resource acquisitions is unclear. Theory suggests that trade-offs exist for the acquisition of different resource types, such as water and certain nutrients. Measurements used to describe the acquisition of different resources should then account for differential root responses within a single system. To demonstrate this, we grew <i>Panicum virgatum</i> in split-root systems that vertically partitioned high water availability from nutrient availability so that root systems must absorb the resources separately to fully meet plant demands. We evaluated root elongation, surface area, and branching, and we characterized traits using an order-based classification scheme. Plants allocated approximately 3/4th of primary root length towards water acquisition, whereas lateral branches were progressively allocated towards nutrients. However, root elongation rates, specific root length, and mass fraction were similar. Our results support the existence of differential root functioning within perennial grasses. Similar responses have been recorded in many plant functional types suggesting a fundamental relationship. Root responses to resource availability can be incorporated into root growth models <i>via</i> maximum root length and branching interval parameters.
-
-root: !allocates to! water
-root: !allocates to! nutrients
-plant: !responds to! resource availability
-root: !characterized by! traits
-root: !classified by! order-based scheme
-root: !elongates for! water acquisition
-root: !branches for! nutrient acquisition

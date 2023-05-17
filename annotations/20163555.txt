@@ -1,8 +1,0 @@
-In most land plants RNA editing frequently occurs in many organelle transcripts, but little is known about the molecular mechanisms of the organelle RNA editing process. In this study, we have characterized the Physcomitrella patens PpPPR_71 gene that is required for RNA editing of the ccmFc transcript. This transcript harbors two RNA editing sites, ccmF-1 and ccmF-2, that are separated by 18 nucleotides. Complementary DNA sequence analysis of ccmFc suggested that RNA editing at the ccmF-1 site occurred before ccmF-2 editing. RNA editing of the ccmF-2 downstream site was specifically impaired by disruption of the PpPPR_71 gene that encodes a polypeptide with 17 pentatricopeptide repeat motifs and a C-terminal DYW domain. The recombinant PpPPR_71 protein expressed in Escherichia coli specifically bound to the 46-nucleotide sequence containing the ccmF-2 editing site. The binding affinity of the recombinant PpPPR_71 was strongest when using the edited RNA at ccmF-1. In addition, the DYW domain also binds to the surrounding ccmF-2 editing site. We conclude that PpPPR_71 is an RNA-binding protein that acts as a site recognition factor in mitochondrial RNA editing.
-
-PpPPR_71: !encodes! polypeptide 
-polypeptide: !contains! 17 pentatricopeptide repeat motifs and C-terminal DYW domain 
-PpPPR_71: !binds to! 46-nucleotide sequence containing ccmF-2 editing site 
-recombinant PpPPR_71: !binds strongest to! edited RNA at ccmF-1 
-DYW domain: !binds to! surrounding ccmF-2 editing site 
-PpPPR_71: !acts as! site recognition factor in mitochondrial RNA editing

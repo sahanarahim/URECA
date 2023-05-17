@@ -1,9 +1,0 @@
-We have developed two long-oligonucleotide microarrays for the analysis of genome features in Arabidopsis thaliana, in particular for the high-throughput identification of transcription factor-binding sites. The first platform contains 190,000 probes representing the 2-kb regions upstream of all annotated genes at a density of seven probes per promoter. The second platform is divided into three chips, each of over 390,000 features, and represents the entire Arabidopsis genome at a density of one probe per 90 bases. Protein-DNA complexes resulting from the formaldehyde fixation of leaves of plants 2 h after exposure to 1 mm salicylic acid (SA) were immunoprecipitated using antibodies against the TGA2 transcription factor. After reversal of the cross-links and amplification, the resulting ChIP sample was hybridized to both platforms. High signal ratios of the ChIP sample versus raw chromatin for clusters of neighboring probes provided evidence for 51 putative binding sites for TGA2, including the only previously confirmed site in the promoter of PR-1 (At2g14610). Enrichment of several regions was confirmed by quantitative real-time PCR. Motif search revealed that the palindromic octamer TGACGTCA was found in 55% of the enriched regions. Interestingly, 15 of the putative binding sites for TGA2 lie outside the presumptive promoter regions. The effect of the 2-h SA treatment on gene expression was measured using Affymetrix ATH1 arrays, and SA-induced genes were found to be significantly over-represented among genes neighboring putative TGA2-binding sites.
-
-Gene: !affects! Expression 
-TGA2: !binds to! PR-1 
-TGA2: !binds to! TGACGTCA 
-TGA2: !localizes to! Promoter regions 
-TGA2: !localizes to! Non-promoter regions 
-SA: !induces! TGA2 binding 
-SA: !enhances! Gene expression

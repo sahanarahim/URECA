@@ -1,9 +1,0 @@
-['32665305', 'Nonsense-mediated RNA decay (NMD) is an RNA control mechanism that has also been  implicated in the broader regulation of gene expression. Nevertheless, a role for  NMD in genome regulation has not yet been fully assessed, partially because NMD  inactivation is lethal in many organisms. Here, we performed an in-depth  comparative analysis of Arabidopsis (Arabidopsis thaliana) mutants lacking the  NMD-related proteins UPF3, UPF1, and SMG7. We found different impacts of these  proteins on NMD and the Arabidopsis transcriptome, with UPF1 having the biggest  effect. Transcriptome assembly in UPF1-null plants revealed genome-wide changes  in alternative splicing, suggesting that UPF1 functions in splicing. The  inactivation of UPF1 led to translational repression, as manifested by a global  shift in mRNAs from polysomes to monosomes and the downregulation of genes  involved in translation and ribosome biogenesis. Despite these global changes,  NMD targets and mRNAs expressed at low levels with short half-lives were enriched  in the polysomes of upf1 mutants, indicating that UPF1/NMD suppresses the  translation of aberrant RNAs. Particularly striking was an increase in the  translation of TIR domain-containing, nucleotide binding, leucine-rich repeat  (TNL) immune receptors. The regulation of TNLs via UPF1/NMD-mediated mRNA  stability and translational derepression offers a dynamic mechanism for the rapid  activation of TNLs in response to pathogen attack.', '2020 Sep', 'Plant Cell', '10.1105/tpc.20.00244', 'ORCID:']
-
-UPF3: !affects! NMD
-UPF1: !affects! NMD & Transcriptome
-SMG7: !affects! NMD
-UPF1: !affects! Alternative Splicing
-UPF1: !represses! Translation
-UPF1/NMD: !suppresses! Aberrant RNAs
-UPF1/NMD: !derepresses! TNLs

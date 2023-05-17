@@ -1,6 +1,0 @@
-It is widely perceived that plant responses to environmental temperatures are profoundly influenced by light conditions. However, it is unknown how light signals modulate plant thermal responses and what photoreceptors are responsible for the light regulation of thermal adaptive process. We have recently reported that phytochrome B (phyB)-mediated red light signals prime the ASCORBATE PEROXIDASE 2 (APX2)-mediated detoxification reaction of reactive oxygen species (ROS), a well-known biochemical process that mediates the acquisition of thermotolerance under high temperature conditions. It is interesting that red light influences the HEAT SHOCK FACTOR A1 (HSFA1)-stimulated activation of the APX2 transcription, which is otherwise responsive primarily to stressful high temperatures. Blue light also efficiently primes the APX2-mediated induction of thermotolerance. In natural habitats, temperatures fluctuate according to the light/dark cycles with temperature peaks occurring during the daytime. It is thus apparent that plants utilize light information to prepare for upcoming high temperature spells.
-
-phyB: !primes! APX2
-HSFA1: !stimulates! APX2
-blue light: !primes! APX2
-temperature: !induces! APX2

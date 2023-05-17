@@ -1,7 +1,0 @@
-['18156219', 'Stresses leading to the accumulation of misfolded proteins in the endoplasmic  reticulum (ER) elicit a highly conserved ER stress response in plants called the  unfolded protein response (UPR). While the response itself is well documented in  plants, the components of the signaling pathway are less well known. We have  identified three membrane-associated basic domain/leucine zipper (bZIP) factors  in Arabidopsis thaliana that are candidates for ER stress sensors/transducers.  One of these factors, bZIP28, an ER-resident transcription factor, is activated  in response to treatment by tunicamycin (TM), an agent that blocks N-linked  protein glycosylation. Following TM treatment, bZIP28 is processed, releasing its  N-terminal, cytoplasm-facing domain, which is translocated to the nucleus.  Expression of a truncated form of bZIP28, containing only the cytoplasmic domain  of the protein, upregulated the expression of ER stress response genes in the  absence of stress conditions. Thus, bZIP28 serves as a sensor/transducer in  Arabidopsis to mediate ER stress responses related to UPR.', '2007 Dec', 'Plant Cell', '10.1105/tpc.106.050021', 'Howell']
-
-bZIP28: !activates! ER stress response genes 
-TM: !activates! bZIP28 
-bZIP28: !processes! N-terminal domain 
-N-terminal domain: !translocates to! nucleus 
-truncated form of bZIP28: !upregulates! ER stress response genes

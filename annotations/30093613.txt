@@ -1,6 +1,0 @@
-Species' functional traits set the blueprint for pair-wise interactions in ecological networks. Yet, it is unknown to what extent the functional diversity of plant and animal communities controls network assembly along environmental gradients in real-world ecosystems. Here we address this question with a unique dataset of mutualistic bird-fruit, bird-flower and insect-flower interaction networks and associated functional traits of 200 plant and 282 animal species sampled along broad climate and land-use gradients on Mt. Kilimanjaro. We show that plant functional diversity is mainly limited by precipitation, while animal functional diversity is primarily limited by temperature. Furthermore, shifts in plant and animal functional diversity along the elevational gradient control the niche breadth and partitioning of the respective other trophic level. These findings reveal that climatic constraints on the functional diversity of either plants or animals determine the relative importance of bottom-up and top-down control in plant-animal interaction networks.
-
-precipitation: !limits! plant functional diversity
-temperature: !limits! animal functional diversity
-plant functional diversity: !controls! niche breadth of animals
-animal functional diversity: !controls! niche breadth of plants

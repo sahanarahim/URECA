@@ -1,9 +1,0 @@
-The nitrogen-fixing symbiosis between legumes and rhizobia is highly relevant to human society and global ecology. One recent breakthrough in understanding the molecular interplay between the plant and the prokaryotic partner is that, at least in certain legumes, the host deploys a number of antimicrobial peptides, called nodule cysteine-rich (NCR) peptides, to control the outcome of this symbiosis. Under this plant dominance, the bacteria are subject to the sub-lethal toxicity of these antimicrobial peptides, resulting in limited reproductive potential. However, recent genetic studies have added unexpected twists to this mechanism: certain NCR peptides are essential for the bacteria to adapt to the intracellular environment needed for a successful symbiosis, and the absence of these peptides can break down the mutualism. Meanwhile, some rhizobial strains have evolved a peptidase to specifically degrade these antimicrobial peptides, allowing the bacteria to escape host control. These findings challenge the preconceptions about 'antimicrobial' peptides, supporting the notion that their role in biotic interactions extends beyond toxicity to the microbial partners.
-
-plant: !deploys! antimicrobial peptides
-antimicrobial peptides: !control! bacteria
-bacteria: !adapt to! intracellular environment
-antimicrobial peptides: !essential for! successful symbiosis
-rhizobial strains: !evolved! peptidase
-peptidase: !degrades! antimicrobial peptides
-antimicrobial peptides: !extend beyond! toxicity

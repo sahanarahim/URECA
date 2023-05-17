@@ -1,9 +1,0 @@
-Arabidopsis CONSTITUTIVELY PHOTOMORPHOGENIC1 (COP1) and PHYTOCHROME INTERACTING FACTORs (PIFs) are negative regulators, and ELONGATED HYPOCOTYL5 (HY5) is a positive regulator of seedling photomorphogenic development. Here, we report that SICKLE (SIC), a proline rich protein, acts as a novel negative regulator of photomorphogenesis. HY5 directly binds the SIC promoter and activates SIC expression in response to light. In turn, SIC physically interacts with HY5 and interferes with its transcriptional regulation of downstream target genes. Moreover, SIC interacts with PIF4 and promotes PIF4-activated transcription of itself. Interestingly, SIC is targeted by COP1 for 26S proteasome-mediated degradation in the dark. Collectively, our data demonstrate that light-induced SIC functions as a brake to prevent exaggerated light response via mediating HY5 and PIF4 signaling, and its degradation by COP1 in the dark avoid too strong inhibition on photomorphogenesis at the beginning of light exposure.
-
-COP1: !targets! SIC
-HY5: !binds! SIC promoter
-HY5: !activates! SIC expression
-SIC: !interferes with! HY5 transcriptional regulation
-SIC: !interacts with! PIF4
-PIF4: !activates! SIC transcription
-COP1: !degrades! SIC in dark

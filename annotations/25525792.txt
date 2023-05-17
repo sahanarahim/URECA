@@ -1,8 +1,0 @@
-['25525792', 'Plant perception of pathogen-associated molecular patterns (PAMPs) triggers a  phosphorylation relay leading to PAMP-triggered immunity (PTI). Despite  increasing knowledge of PTI signaling, how immune homeostasis is maintained  remains largely unknown. Here we describe a forward-genetic screen to identify  loci involved in PTI and characterize the Arabidopsis calcium-dependent protein  kinase CPK28 as a negative regulator of immune signaling. Genetic analyses  demonstrate that CPK28 attenuates PAMP-triggered immune responses and  antibacterial immunity. CPK28 interacts with and phosphorylates the  plasma-membrane-associated cytoplasmic kinase BIK1, an important convergent  substrate of multiple pattern recognition receptor (PRR) complexes. We find that  BIK1 is rate limiting in PTI signaling and that it is continuously turned over to  maintain cellular homeostasis. We further show that CPK28 contributes to BIK1  turnover. Our results suggest a negative regulatory mechanism that continually  buffers immune signaling by controlling the turnover of this key signaling  kinase.', '2014 Nov 12', 'Cell Host Microbe', '10.1016/j.chom.2014.10.007', 'Zipfel']
-
-PAMPs: !trigger! PTI
-CPK28: !regulates! PAMP-triggered immune responses
-CPK28: !interacts with! BIK1
-BIK1: !converges! PRR complexes
-CPK28: !contributes to! BIK1 turnover
-BIK1: !maintains! cellular homeostasis

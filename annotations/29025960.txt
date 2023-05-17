@@ -1,7 +1,0 @@
-Updates in nanopore technology have made it possible to obtain gigabases of sequence data. Prior to this, nanopore sequencing technology was mainly used to analyze microbial samples. Here, we describe the generation of a comprehensive nanopore sequencing data set with a median read length of 11,979 bp for a self-compatible accession of the wild tomato species <i>Solanum pennellii</i> We describe the assembly of its genome to a contig N50 of 2.5 MB. The assembly pipeline comprised initial read correction with Canu and assembly with SMARTdenovo. The resulting raw nanopore-based de novo genome is structurally highly similar to that of the reference <i>S. pennellii</i> LA716 accession but has a high error rate and was rich in homopolymer deletions. After polishing the assembly with Illumina reads, we obtained an error rate of <0.02% when assessed versus the same Illumina data. We obtained a gene completeness of 96.53%, slightly surpassing that of the reference <i>S. pennellii</i> Taken together, our data indicate that such long read sequencing data can be used to affordably sequence and assemble gigabase-sized plant genomes.
-
-Nanopore technology: !enables! Gigabase-sized plant genome sequencing
-Canu: !corrects! Reads
-SMARTdenovo: !assembles! Contigs
-Illumina reads: !polish! Assembly
-Gene completeness: !surpasses! Reference

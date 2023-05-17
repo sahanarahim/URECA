@@ -1,9 +1,0 @@
-BRAHMA (BRM) is the ATPase of the SWItch/Sucrose Non-Fermentable (SWI/SNF) chromatin remodelling complex, which is indispensable for transcriptional inhibition and activation, associated with vegetative and reproductive development in Arabidopsis thaliana. Here, we show that BRM directly binds to the chromatin of SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1 (SOC1), which integrates multiple flowering signals to regulate floral transition, leading to flowering. In addition, genetic and molecular analysis showed that BRM interacts with GNC (GATA, NITRATE-INDUCIBLE, CARBON METABOLISM INVOLVED), a GATA transcription factor that represses flowering by directly repressing SOC1 expression. Furthermore, BRM is recruited by GNC to directly bind to the chromatin of SOC1. The transcript level of SOC1 is elevated in brm-3, gnc, and brm-3/gnc mutants, which is associated with increased histone H3 lysine 4 tri-methylation (H3K4Me3) but decreased DNA methylation. Taken together, our results indicate that BRM associates with GNC to regulate SOC1 expression and flowering time.
-
-BRM: !binds to! SOC1
-BRM: !interacts with! GNC
-GNC: !represses! SOC1
-GNC: !recruits! BRM
-BRM/GNC: !elevates! SOC1 expression
-BRM/GNC: !increases! H3K4Me3
-BRM/GNC: !decreases! DNA methylation

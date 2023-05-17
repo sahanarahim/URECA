@@ -1,8 +1,0 @@
-Despite significant progress in clarifying the subunit compositions and functions of the multiple NDH-1 complexes in cyanobacteria, the assembly factors and their roles in assembling these NDH-1 complexes remain elusive. Two mutants sensitive to high light for growth and impaired in NDH-1-dependent cyclic electron transport around photosystem I were isolated from Synechocystis sp. strain PCC 6803 transformed with a transposon-tagged library. Both mutants were tagged in the ssl3829 gene encoding an unknown protein, which shares significant similarity with Arabidopsis (Arabidopsis thaliana) CHLORORESPIRATORY REDUCTION7. The ssl3829 product was localized in the cytoplasm and associates with an NDH-1 hydrophilic arm assembly intermediate (NAI) of about 300 kD (NAI300) and an NdhI maturation factor, Slr1097. Upon deletion of Ssl3829, the NAI300 complex was no longer visible on gels, thereby impeding the assembly of the NDH-1 hydrophilic arm. The deletion also abolished Slr1097 and consequently reduced the amount of mature NdhI in the cytoplasm, which repressed the dynamic assembly process of the NDH-1 hydrophilic arm because mature NdhI was essential to stabilize all functional NAIs. Therefore, Ssl3829 plays an important role in the assembly of the NDH-1 hydrophilic arm by accumulating the NAI300 complex and Slr1097 protein in the cytoplasm.
-
-ssl3829: !localizes to! cytoplasm
-ssl3829: !associates with! NAI300
-ssl3829: !interacts with! Slr1097
-ssl3829: !enhances! NDH-1 hydrophilic arm assembly
-ssl3829: !represses! NdhI maturation
-NdhI: !stabilizes! functional NAIs

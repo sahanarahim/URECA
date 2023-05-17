@@ -1,9 +1,0 @@
-The Pto protein kinase from Solanum pimpinellifolium interacts with Pseudomonas syringae effectors AvrPto or AvrPtoB to activate effector-triggered immunity. The previously solved crystal structures of the AvrPto-Pto and AvrPtoB-Pto complexes revealed that Pto binds each effector through both a shared and a unique interface. Here we use natural variation in wild species of tomato to further investigate Pto recognition of these two effectors. One species, Solanum chmielewskii, was found to have many accessions that recognize only AvrPtoB. The Pto ortholog from one of these accessions was responsible for recognition of AvrPtoB and it differed from Solanum pimpinellifolium Pto by only 14 amino acids, including two in the AvrPto-specific interface, glutamate-49/glycine-51. Converting these two residues to those in Pto (histidine-49/valine-51) did not restore recognition of AvrPto. Subsequent experiments revealed that a single substitution of a histidine-to-aspartate at position 193 in Pto, which is not near the AvrPto-specific interface, was sufficient for conferring recognition of AvrPto in plant cells. The reciprocal substitution of aspartate-to-histidine-193 in Pto abolished AvrPto recognition, confirming the importance of this residue. Our results reveal new aspects about effector recognition by Pto and demonstrate the value of using natural variation to understand the interaction between resistance proteins and pathogen effectors.
-
-Pto: !interacts with! AvrPto 
-Pto: !interacts with! AvrPtoB 
-S. chmielewskii Pto: !recognizes! AvrPtoB 
-Glu-49/Gly-51: !differs from! S. pimpinellifolium Pto 
-His-49/Val-51: !does not restore! AvrPto recognition 
-His-193: !converts to! Asp-193 
-Asp-193: !confirms importance of! Pto recognition

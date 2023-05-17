@@ -1,9 +1,0 @@
-Multisubunit SKP1/Cullin1/F-box (SCF) E3 ligases play essential roles in regulating the stability of crucial regulatory factors and controlling growth and development in eukaryotes. Detecting E3 ligase activity in vitro is important for exploring the molecular mechanism of protein ubiquitination. However, in vitro ubiquitination assay systems for multisubunit E3 ligases remain difficult to achieve, especially in plants, mainly owing to difficulties in achieving active components of multisubunit E3 ligases with high purity and characterizing specific E2 and E3 pairs. In this study, we characterized components of the rice SCF<sup>DWARF3</sup> (SCF<sup>D3</sup>) E3 ligase, screened the coordinated E2, and reconstituted active SCF<sup>D3</sup> E3 ligase in vitro. We further engineered SCF<sup>D3</sup> E3 ligase using a fused SKP1-Cullin1-RBX1 (eSCR) protein and found that both the wild-type SCF<sup>D3</sup> E3 ligase and the engineered SCF<sup>D3</sup> E3 ligase catalyzed ubiquitination of the substrate D53, which is the key transcriptional repressor in strigolactone signaling. Finally, we replaced D3 with other F-box proteins from rice and humans and reconstituted active eSCF E3 ligases, including eSCF<sup>GID2</sup>, eSCF<sup>FBXL18</sup>, and eSCF<sup>CDC4</sup> E3 ligases. Our work reconstitutes functional SCF E3 ligases in vitro and generates an engineered system with interchangeable F-box proteins, providing a powerful platform for studying the mechanisms of multisubunit SCF E3 ligases in eukaryotes.
-
-SCF<sup>D3</sup>: !catalyzes! ubiquitination 
-E2: !coordinates with! SCF<sup>D3</sup> 
-eSCR: !engineers! SCF<sup>D3</sup> 
-D53: !ubiquitinated by! SCF<sup>D3</sup> 
-GID2: !reconstitutes! eSCF<sup>GID2</sup> 
-FBXL18: !reconstitutes! eSCF<sup>FBXL18</sup> 
-CDC4: !reconstitutes! eSCF<sup>CDC4</sup>

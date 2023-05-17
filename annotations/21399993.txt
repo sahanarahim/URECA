@@ -1,7 +1,0 @@
-['21399993', 'We carried out activation tagging screen to isolate genes regulating abscisic  acid (ABA) response. From the screen of approximately 10,000 plants, we isolated  ca 100 ABA response mutants. We characterized one of the mutants, designated  ahs1, in this study. The mutant is ABA-hypersensitive, and AtMYB52 was found to  be activated in the mutant. Overexpression analysis to recapitulate the mutant  phenotypes demonstrated that ATMYB confers ABA-hypersensitivity during  postgermination growth. Additionally, AtMYB52 overexpression lines were  drought-tolerant and their seedlings were salt-sensitive. Changes in the  expression levels of a few genes involved in ABA response or cell wall  biosynthesis were also observed. Together, our data suggest that AtMYB52 is  involved in ABA response. Others previously demonstrated that AtMYB52 regulates  cell wall biosynthesis; thus, our results imply a possible connection between ABA  response and cell wall biosynthesis.', '2011 May', 'Mol Cells', '10.1007/s10059-011-0300-7', 'Kim']
-
-AtMYB52: !affects! ABA response 
-AtMYB52: !enhances! drought-tolerance 
-AtMYB52: !represses! seedling salt-sensitivity 
-AtMYB52: !regulates! cell wall biosynthesis 
-ABA response: !connects to! cell wall biosynthesis

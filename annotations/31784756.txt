@@ -1,9 +1,0 @@
-Information about the positioning of individual loci in the nucleus and the status of epigenetic modifications at these loci in each cell contained in plant tissue increases our understanding of how cells in a tissue coordinate gene expression. To obtain such information, a less damaging method of visualizing DNA in tissue that can be used with immunohistochemistry is required. Recently, a less damaging DNA visualization method using the CRISPR/Cas9 (clustered regularly interspaced short palindromic repeats/associated caspase 9) system, named RNA-guided endonuclease-in situ labeling (RGEN-ISL), was reported. This system made it possible to visualize a target DNA locus in a nucleus fixed on a glass slide with a set of simple operations, but it could not be applied to cells in plant tissues. In this work, we have developed a modified RGEN-ISL method with decrosslinking that made it possible to simultaneously detect the DNA loci and immunohistochemistry signals, including histone modification, in various types of plant tissues and species.
-
-Gene: !affects! Process
-Process: !requires! RGEN-ISL method
-RGEN-ISL: !made possible by! CRISPR/Cas9 system
-CRISPR/Cas9: !modified with! decrosslinking
-Decrosslinking: !enables! DNA loci detection
-DNA loci: !visualized with! immunohistochemistry signals
-Immunohistochemistry: !includes! histone modification

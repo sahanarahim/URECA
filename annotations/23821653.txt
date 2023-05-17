@@ -1,9 +1,0 @@
-Leaves are produced postembryonically at the flanks of the shoot apical meristem. Their initiation is induced by a positive feedback loop between auxin and its transporter PIN-FORMED1 (PIN1). The expression and polarity of PIN1 in the shoot apical meristem is thought to be regulated primarily by auxin concentration and flow. The formation of an auxin maximum in the L1 layer of the meristem is the first sign of leaf initiation and is promptly followed by auxin flow into the inner tissues, formation of the midvein, and appearance of the primordium bulge. The ERECTA family genes (ERfs) encode leucine-rich repeat receptor-like kinases, and in Arabidopsis (Arabidopsis thaliana), this gene family consists of ERECTA (ER), ERECTA-LIKE1 (ERL1), and ERL2. Here, we show that ERfs regulate auxin transport during leaf initiation. The shoot apical meristem of the er erl1 erl2 triple mutant produces leaf primordia at a significantly reduced rate and with altered phyllotaxy. This phenotype is likely due to deficiencies in auxin transport in the shoot apex, as judged by altered expression of PIN1, the auxin reporter DR5rev::GFP, and the auxin-inducible genes MONOPTEROS, INDOLE-3-ACETIC ACID INDUCIBLE1 (IAA1), and IAA19. In er erl1 erl2, auxin presumably accumulates in the L1 layer of the meristem, unable to flow into the vasculature of a hypocotyl. Our data demonstrate that ERfs are essential for PIN1 expression in the forming midvein of future leaf primordia and in the vasculature of emerging leaves.
-
-auxin: !induces! PIN1
-ERfs: !regulate! auxin transport
-ERfs: !regulate! PIN1 expression
-ERfs: !regulate! DR5rev::GFP expression
-ERfs: !regulate! MONOPTEROS expression
-ERfs: !regulate! IAA1 expression
-ERfs: !regulate! IAA19 expression

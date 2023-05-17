@@ -1,7 +1,0 @@
-How plants interact with sunlight is central to the existence of life and provides a window to the functioning of ecosystems. Although the basic properties of leaf spectra have been known for decades, interpreting canopy-level spectra is more challenging because leaf-level effects are complicated by a host of stem- and canopy-level traits. Progress has been made through empirical analyses and models, although both methods have been hampered by a series of persistent challenges. Here, I review current understanding of plant spectral properties with respect to sources of uncertainty at leaf to canopy scales. I also discuss the role of evolutionary convergence in plant functioning and the difficulty of identifying individual properties among a suite of interrelated traits. A pattern that emerges suggests a synergy among the scattering effects of leaf-, stem- and canopy-level traits that becomes most apparent in the near-infrared (NIR) region. This explains the widespread and well-known importance of the NIR region in vegetation remote sensing, but presents an interesting paradox that has yet to be fully explored: that we can often gain more insight about the functioning of plants by examining wavelengths that are not used in photosynthesis than by examining those that are.
-
-leaf: !scatters! NIR
-stem: !scatters! NIR
-canopy: !scatters! NIR
-NIR: !reveals! plant functioning
-photosynthesis: !not used in! NIR

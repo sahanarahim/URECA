@@ -1,8 +1,0 @@
-The Synechocystis sp. strain PCC 6803 mutant deficient in PII protein (the glnB gene product) was found to express glutamine synthetase activity at levels several times higher than the wild-type strain. There was no significant difference in nitrate reductase activity levels between the two strains, and the nitrite reductase levels were somewhat lower in the mutant than in the wild-type strain. The higher glutamine synthetase activity in the mutant was ascribed to higher expression levels of the glutamine synthetase genes (glnA and glnN), which belong to the regulon controlled by NtcA, a Crp-family transcription regulator. Examination of the effects of PII deficiency on other NtcA-regulated genes revealed that the transcript levels of amt1 (encoding an ammonium permease) and gifB (encoding an inhibitor of glutamine synthetase) were increased, whereas that of gifA (a homolog of gifB, encoding another glutamine synthetase inhibitor) was decreased, with those of nirA, nrtC, icd, sigE (rpoD2-V), nblA and ntcA being unaffected. Unlike the Synechococcus elongatus strain PCC 7942, induction or repression of the NtcA-regulated genes proceeded normally in the PII-deficient mutant upon nitrogen depletion. The altered steady-state expression levels of glnA, glnN, amt1, gifA and gifB in the PII-deficient mutant suggested that Synechocystis sp. strain PCC 6803 has a mechanism for regulation of the subset of the NtcA-regulated genes related directly to ammonium assimilation.
-
-PII: !affects! glnA/glnN expression
-NtcA: !regulates! glnA/glnN
-PII: !affects! amt1/gifB/gifA expression
-NtcA: !regulates! amt1/gifB/gifA
-PII: !affects! nirA/nrtC/icd/sigE/nblA/ntcA expression
-NtcA: !regulates! nirA/nrtC/icd/sigE/nblA/ntcA

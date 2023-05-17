@@ -1,8 +1,0 @@
-['1392592', 'Arabidopsis thaliana has two genes, ASA1 and ASA2, encoding the alpha subunit of  anthranilate synthase, the enzyme catalyzing the first reaction in the tryptophan  biosynthetic pathway. As a branchpoint enzyme in aromatic amino acid  biosynthesis, anthranilate synthase has an important regulatory role. The  sequences of the plant genes are homologous to their microbial counterparts. Both  predicted proteins have putative chloroplast transit peptides at their amino  termini and conserved amino acids involved in feedback inhibition by tryptophan.  ASA1 and ASA2 cDNAs complement anthranilate synthase alpha subunit mutations in  the yeast Saccharomyces cerevisiae and in Escherichia coli, confirming that both  genes encode functional anthranilate synthase proteins. The distributions of ASA1  and ASA2 mRNAs in various parts of Arabidopsis plants are overlapping but  nonidentical, and ASA1 mRNA is approximately 10 times more abundant in whole  plants. Whereas ASA2 is expressed at a constitutive basal level, ASA1 is induced  by wounding and bacterial pathogen infiltration, suggesting a novel role for ASA1  in the production of tryptophan pathway metabolites as part of an Arabidopsis  defense response. Regulation of key steps in aromatic amino acid biosynthesis in  Arabidopsis appears to involve differential expression of duplicated genes.', '1992 Jun', 'Plant Cell', '10.1105/tpc.4.6.721', 'Fink']
-
-ASA1: !encodes! anthranilate synthase alpha subunit 
-ASA2: !encodes! anthranilate synthase alpha subunit 
-ASA1: !induces by! wounding and bacterial pathogen infiltration 
-ASA2: !constitutively expressed at! basal level 
-ASA1: !10x more abundant in! whole plants 
-Arabidopsis: !has two genes! ASA1 and ASA2

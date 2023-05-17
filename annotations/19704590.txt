@@ -1,7 +1,0 @@
-Recent progress in plant genomics allows us to investigate genetic and physiological changes in genome-wide gene expression.1,2 In the past years, a large-scale service for the global expression profiling in Arabidopsis, AtGenExpress, has been designed and coordinated.2,3 By using these multiple datasets, questions about complicated biological networks are being resolved in powerful ways. For example, microarray analyses reveal orchestrated transcript expressions during circadian and diurnal time courses.4-6 It was estimated in this work that up to 20% of transcripts are circadian regulated, implying that the clock impacts most botanical processes, including light, temperature, and hormone signalling, and much of cellular metabolism.4,6 In turn, external cues are well-known to affect the circadian system.7,8 For example, we reported phytohormone regulation.9 Thus, we imagined that in the AtGenExpress datasets inclusive of stress- and hormone-treated experiments, clock genes might be altered in expression levels.
-
-Gene: !affects! Process
-Process: !impacts! Clock genes
-Clock genes: !regulated by! External cues
-External cues: !include! Stress and hormones
-Stress and hormones: !alter! Expression levels

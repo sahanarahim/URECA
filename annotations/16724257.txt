@@ -1,6 +1,0 @@
-The formation of flowers involves the activity of a genetic network that acts in meristems to specify floral identity. The main output of this network is the initiation of a developmental patterning program for the generation of floral organs. The first characteristic of meristem identity genes is their capacity to integrate the environmental and endogenous cues that regulate the onset of flowering. This mechanism synchronizes temporal and spatial information, ensuring that flowers arise in the correct location at the appropriate time. The second characteristic of this network is the mutual regulatory interactions established between meristem identity genes. These interactions provide flexibility and robustness against environmental noise and prevent reversion once the decision to flower has been made. Finally, the third feature is the overlap between the meristem identity and other developmental programs that operate simultaneously to regulate different aspects of the construction of flowers.
-
-environment: !affects! meristem identity genes
-meristem identity genes: !integrate! environmental and endogenous cues
-meristem identity genes: !establish! mutual regulatory interactions
-meristem identity genes: !overlap with! other developmental programs

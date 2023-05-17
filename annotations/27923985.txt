@@ -1,8 +1,0 @@
-The Arabidopsis (Arabidopsis thaliana) genome encodes homologs of the Guided Entry of Tail (GET)-anchored protein system for the posttranslational insertion of tail-anchored (TA) proteins into endoplasmic reticulum (ER) membranes. In yeast, TA proteins are loaded onto the cytosolic targeting factor Get3 and are then delivered to the membrane-associated Get1/2 complex for insertion into ER membranes. The role of the GET system in Arabidopsis was investigated by monitoring the membrane insertion of a tail-anchored protein, SYP72, a syntaxin. SYP72 bound to yeast Get3 in vitro, forming a Get3-SYP72 fusion complex that could be inserted into yeast GET1/2-containing proteoliposomes. The Arabidopsis GET system functioned in vivo to insert TA proteins into ER membranes as demonstrated by the fact that the YFP-tagged SYP72 localized to the ER in wild-type plants but accumulated as cytoplasmic inclusions in get1, get3, or get4 mutants. The GET mutants get1 and get3 were less tolerant of ER stress agents and showed symptoms of ER stress even under unstressed conditions. Hence, the GET system is responsible for the insertion of TA proteins into the ER in Arabidopsis, and mutants with GET dysfunctions are more susceptible to ER stress.
-
-Get3: !binds to! SYP72 
-Get3-SYP72: !inserts into! GET1/2-containing proteoliposomes 
-YFP-tagged SYP72: !localizes to! ER in wild-type plants 
-get1, get3, or get4 mutants: !accumulates as! cytoplasmic inclusions 
-get1 and get3 mutants: !less tolerant of! ER stress agents 
-GET system: !responsible for! insertion of TA proteins into ER in Arabidopsis

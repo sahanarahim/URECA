@@ -1,9 +1,0 @@
-Despite the widely accepted belief that selenium toxicity in plants is manifested by the misincorporation of selenocysteine into selenoproteins, there is a lack of data suggesting that selenoproteins are malformed or misfolded. Plant mechanisms to prevent the formation of selenoproteins are associated with increased selenium tolerance, yet there is no evidence to suggest that selenoproteins are malformed or potentially misfolded. We reasoned that if selenoproteins are malformed, then they might be degraded by the ubiquitin-proteasome pathway. The data demonstrate that selenate treatment induced the accumulation of both oxidized and ubiquitinated proteins, thus implicating both the 20S and 26S proteasome of Stanleya pinnata, a selenium-hyperaccumulating plant, in a selenate response. Inhibition of the proteasome increases the amount of selenium incorporated into protein, but not other elements. Furthermore, a higher percentage of selenium was found in a ubiquitinated protein fraction compared with other elements, suggesting that malformed selenoproteins are preferentially ubiquitinated and removed by the proteasome. Additionally, levels of the 20S and 26S proteasome and two heat shock proteins increase upon selenate treatment. Arabidopsis mutants with defects in the 26S proteasome have decreased selenium tolerance, which further supports the hypothesis that the 26S proteasome probably prevents selenium toxicity by removing selenoproteins.
-
-selenoprotein: !malformed by! selenate treatment
-selenoprotein: !removed by! ubiquitin-proteasome pathway
-selenoprotein: !preferentially ubiquitinated by! proteasome
-20S/26S proteasome: !increases with! selenate treatment
-20S/26S proteasome: !decreased in! Arabidopsis mutants
-heat shock proteins: !increase with! selenate treatment
-selenium: !incorporated into! protein

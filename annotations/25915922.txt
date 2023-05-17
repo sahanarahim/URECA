@@ -1,8 +1,0 @@
-['25915922', 'Vacuoles are dynamic compartments with constant fluctuations and transient  structures such as trans-vacuolar strands and bulbs. Bulbs are highly dynamic  spherical structures inside vacuoles that are formed by multiple layers of  membranes and are continuous with the main tonoplast. We recently carried out a  screen for mutants with abnormal trafficking to the vacuole or aberrant vacuole  morphology. We characterized regulator of bulb biogenesis1-1 (rbb1-1), a mutant  in Arabidopsis that contains increased numbers of bulbs when compared to the  parental control. rbb1-1 mutants also contain fewer transvacuolar strands than  the parental control, and we propose the hypothesis that the formation of  transvacuolar strands and bulbs is functionally related. We propose that the  bulbs may function transiently to accommodate membranes and proteins when  transvacuolar strands fail to elongate. We show that RBB1 corresponds to a very  large protein of unknown function that is specific to plants, is present in the  cytosol, and may associate with cellular membranes. RBB1 is involved in the  regulation of vacuole morphology and may be involved in the establishment or  stability of trans-vacuolar strands and bulbs.', '2015', 'PLoS One', '10.1371/journal.pone.0125621', 'Rojas-Pierce']
-
-rbb1-1: !increases! bulbs 
-rbb1-1: !decreases! transvacuolar strands 
-RBB1: !regulates! vacuole morphology 
-RBB1: !associates with! cellular membranes 
-bulbs: !function transiently to accommodate! membranes and proteins 
-transvacuolar strands: !fail to elongate! when bulbs form

@@ -1,8 +1,0 @@
-The exocyst is a conserved vesicle-tethering complex with principal roles in cell polarity and morphogenesis. Several studies point to its involvement in polarized secretion during microbial pathogen defense. In this context, we have found an interaction between the Arabidopsis EXO70B1 exocyst subunit, a protein which was previously associated with both the defense response and autophagy, and RPM1 INTERACTING PROTEIN 4 (RIN4), the best studied member of the NOI protein family and a known regulator of plant defense pathways. Interestingly, fragments of RIN4 mimicking the cleavage caused by the Pseudomonas syringae effector protease, AvrRpt2, fail to interact strongly with EXO70B1. We observed that transiently expressed RIN4, but not the plasma membrane (PM) protein aquaporin PIP2, recruits EXO70B1 to the PM. Unlike EXO70B1, RIN4 does not recruit the core exocyst subunit SEC6 to the PM under these conditions. Furthermore, the AvrRpt2 effector protease delivered by P. syringae is able to release both RIN4 and EXO70B1 to the cytoplasm. We present a model for how RIN4 might regulate the localization and putative function of EXO70B1 and speculate on the role the AvrRpt2 protease might have in the regulation of this defense response.
-
-EXO70B1: !interacts with! RIN4
-RIN4: !recruits! EXO70B1
-EXO70B1: !localizes to! PM
-SEC6: !does not localize to! PM
-AvrRpt2: !releases! RIN4 
-AvrRpt2: !releases! EXO70B1

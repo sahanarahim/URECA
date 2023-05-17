@@ -1,9 +1,0 @@
-MicroRNA168 (miR168) is a key miRNA that targets Argonaute1 (AGO1), a major component of the RNA-induced silencing complex<sup>1,2</sup>. Previously, we reported that miR168 expression was responsive to infection by Magnaporthe oryzae, the causal agent of rice blast disease<sup>3</sup>. However, how miR168 regulates immunity to rice blast and whether it affects rice development remains unclear. Here, we report our discovery that the suppression of miR168 by a target mimic (MIM168) not only improves grain yield and shortens flowering time in rice but also enhances immunity to M. oryzae. These results were validated through repeated tests in rice fields in the absence and presence of rice blast pressure. We found that the miR168-AGO1 module regulates miR535 to improve yield by increasing panicle number, miR164 to reduce flowering time, and miR1320 and miR164 to enhance immunity. Our discovery demonstrates that changes in a single miRNA enhance the expression of multiple agronomically important traits.
-
-miR168: !targets! AGO1
-MIM168: !suppresses! miR168
-miR535: !regulated by! miR168-AGO1 module
-miR164: !regulated by! miR168-AGO1 module
-miR1320: !regulated by! miR168-AGO1 module
-miR164: !regulated by! miR168-AGO1 module
-miR168: !enhances! expression of multiple agronomically important traits

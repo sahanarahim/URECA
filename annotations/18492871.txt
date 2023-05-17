@@ -1,9 +1,0 @@
-['18492871', 'Leaves of flowering plants are produced from the shoot apical meristem at regular  intervals, with the time that elapses between the formation of two successive  leaf primordia defining the plastochron. We have identified two genetic axes  affecting plastochron length in Arabidopsis thaliana. One involves microRNA156  (miR156), which targets a series of SQUAMOSA PROMOTER BINDING PROTEIN-LIKE (SPL)  genes. In situ hybridization studies and misexpression experiments demonstrate  that miR156 is a quantitative, rather than spatial, modulator of SPL expression  in leaf primordia and that SPL activity nonautonomously inhibits initiation of  new leaves at the shoot apical meristem. The second axis is exemplified by a  redundantly acting pair of cytochrome P450 genes, CYP78A5/KLUH and CYP78A7, which  are likely orthologs of PLASTOCHRON1 of rice (Oryza sativa). Inactivation of  CYP78A5, which is expressed at the periphery of the shoot apical meristem,  accelerates the leaf initiation rate, whereas cyp78a5 cyp78a7 double mutants  often die as embryos with supernumerary cotyledon primordia. The effects of both  miR156-targeted SPL genes and CYP78A5 on organ size are correlated with changes  in plastochron length, suggesting a potential compensatory mechanism that links  the rate at which leaves are produced to final leaf size.', '2008 May', 'Plant Cell', '10.1105/tpc.108.058180', 'Weigel']
-
-miR156: !targets! SPL genes 
-SPL genes: !inhibits! leaf initiation 
-CYP78A5: !accelerates! leaf initiation rate 
-CYP78A5/KLUH: !redundantly acts with! CYP78A7 
-CYP78A5: !expressed at! shoot apical meristem 
-miR156-targeted SPL genes: !correlated with! changes in plastochron length 
-changes in plastochron length: !links to! final leaf size

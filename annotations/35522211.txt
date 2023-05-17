@@ -1,9 +1,0 @@
-The dominance model of heterosis explains the superior performance of F1-hybrids via the complementation of deleterious alleles by beneficial alleles in many genes. Genes active in one parent but inactive in the second lead to single-parent expression (SPE) complementation in maize (Zea mays L.) hybrids. In this study, SPE complementation resulted in approximately 700 additionally active genes in different tissues of genetically diverse maize hybrids on average. We established that the number of SPE genes is significantly associated with mid-parent heterosis (MPH) for all surveyed phenotypic traits. In addition, we highlighted that maternally (SPE_B) and paternally (SPE_X) active SPE genes enriched in gene co-expression modules are highly correlated within each SPE type but separated between these two SPE types. While SPE_B-enriched co-expression modules are positively correlated with phenotypic traits, SPE_X-enriched modules displayed a negative correlation. Gene ontology term enrichment analyses indicated that SPE_B patterns are associated with growth and development, whereas SPE_X patterns are enriched in defense and stress response. In summary, these results link the degree of phenotypic MPH to the prevalence of gene expression complementation observed by SPE, supporting the notion that hybrids benefit from SPE complementation via its role in coordinating maize development in fluctuating environments.
-
-Gene: !affects! Phenotypic traits 
-Gene: !complements! Deleterious alleles 
-Gene: !enriches! SPE_B 
-Gene: !enriches! SPE_X 
-Gene: !correlates with! MPH 
-Gene: !associated with! Growth and development 
-Gene: !associated with! Defense and stress response

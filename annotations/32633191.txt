@@ -1,8 +1,0 @@
-The endoplasmic reticulum (ER) is a multifunctional organelle that performs multiple cellular activities in eukaryotes. Visualizing ER using fluorescent proteins is a powerful method of analyzing its dynamics and to understand its functions. However, red fluorescent proteins with both an N-terminal signal peptide (SP) and a C-terminal ER retention tetrapeptide (HDEL) often cause mislocalization to vacuoles or extracellular spaces when they are constitutively expressed in Arabidopsis. To obtain a red fluorescent ER marker, we selected Arabidopsis cytochrome <i>b<sub>5</sub></i> -B (Cb5-B), a tail-anchored (TA) protein on the ER membrane. Its localization is determined by the transmembrane domain (TMD) and tail domain at the C-terminus. We fused the TMD and the tail domain of Cb5-B to the C-terminus of a red fluorescent protein, tdTomato (tdTomato-CTT). When tdTomato-CTT was constitutively expressed under the ubiquitin10 promoter in Arabidopsis, the fluorescent signal was exclusively detected at the ER by means of the reliable ER marker SP-GFP-HDEL. Therefore, tdTomato-CTT can accurately visualize the ER in stable Arabidopsis lines. Additionally, transient assays showed that tdTomato-CTT can also be used as an ER marker in onion, rice, and <i>Nicotiana benthamiana</i>. We believe that TA proteins could be used to generate various organellar membrane markers in plants.
-
-ER: !visualized by! tdTomato-CTT
-tdTomato-CTT: !fused with! TMD and tail domain of Cb5-B
-Cb5-B: !determines localization of! tdTomato-CTT
-tdTomato-CTT: !accurately visualizes! ER
-ER: !marked by! SP-GFP-HDEL
-TA proteins: !can generate! organellar membrane markers

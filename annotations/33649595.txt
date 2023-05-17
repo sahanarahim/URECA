@@ -1,7 +1,0 @@
-The widely used theory for gas exchange proposed by von Caemmerer and Farquhar (vCF) integrates molar fluxes, mole fraction gradients and ternary effects but does not account for cuticular fluxes, for separation of the leaf surface conditions or for ternary effects within the boundary layer. The magnitude of cuticular conductance to water (g<sub>cw</sub>) is a key factor for determining plant survival in drought but is difficult to measure and often neglected in routine gas exchange studies. The vCF ternary effect is applied to the total flux without the recognition of different pathways that are affected by it. These simplifications lead to errors in estimations of stomatal conductance, intercellular carbon dioxide concentration (C<sub>i</sub>) and other gas exchange parameters. The theory presented here is a more precise physical approach to the electrical resistance analogy for gas exchange, resulting in a more accurate calculation of gas exchange parameters. Additionally, we extend our theory, using physiological concepts, to create a model that allows us to calculate cuticular conductance to water.
-
-gene: !affects! gas exchange
-gene: !determines! cuticular conductance to water
-gene: !calculates! gas exchange parameters
-gene: !extends! theory
-gene: !creates! model

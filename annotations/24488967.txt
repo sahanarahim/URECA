@@ -1,9 +1,0 @@
-RNAs for the storage proteins, glutelins and prolamines, contain zipcode sequences, which target them to specific subdomains of the cortical endoplasmic reticulum in developing rice (Oryza sativa) seeds. Fifteen RNA binding proteins (RBPs) specifically bind to the prolamine zipcode sequences and are likely to play an important role in the transport and localization of this storage protein RNA. To understand the underlying basis for the binding of multiple protein species to the prolamine zipcode sequences, the relationship of five of these RBPs, RBP-A, RBP-I, RBP-J, RBP-K, and RBP-Q, were studied. These five RBPs, which belong to the heterogeneous nuclear ribonucleoprotein class, bind specifically to the 5' coding regions as well as to the 3' untranslated region zipcode RNAs but not to a control RNA sequence. Coimmunoprecipitation-immunoblot analyses in the presence or absence of ribonuclease showed that these five RBPs are assembled into three multiprotein complexes to form at least two zipcode RNA-protein assemblies. One cytoplasmic-localized zipcode assembly contained two multiprotein complexes sharing a common core consisting of RBP-J and RBP-K and either RBP-A (A-J-K) or RBP-I (I-J-K). A second zipcode assembly of possibly nuclear origin consists of a multiprotein complex containing RBP-Q and modified forms of the other protein complexes. These results suggest that prolamine RNA transport is initiated in the nucleus to form a zipcode-protein assembly, which is remodeled in the cytoplasm to target the RNA to its proper location on the cortical endoplasmic reticulum.
-
-RBP-A: !interacts with! RBP-J, RBP-K
-RBP-I: !interacts with! RBP-J, RBP-K
-RBP-J: !interacts with! RBP-A, RBP-I, RBP-K
-RBP-K: !interacts with! RBP-A, RBP-I, RBP-J
-RBP-Q: !interacts with! modified forms of other protein complexes
-zipcode RNA: !binds to! RBP-A, RBP-I, RBP-J, RBP-K, RBP-Q
-zipcode RNA: !localizes to! cortical endoplasmic reticulum

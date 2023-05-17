@@ -1,7 +1,0 @@
-Legume plants form nitrogen (N)-fixing symbiotic nodules when mineral N is limiting in soils. As N fixation is energetically costly compared to mineral N acquisition, these N sources, and in particular nitrate, inhibit nodule formation and N fixation. Here, in the model legume Medicago truncatula, we characterized a CLAVATA3-like (CLE) signaling peptide, MtCLE35, the expression of which is upregulated locally by high-N environments and relies on the Nodule Inception-Like Protein (NLP) MtNLP1. MtCLE35 inhibits nodule formation by affecting rhizobial infections, depending on the Super Numeric Nodules (MtSUNN) receptor. In addition, high N or the ectopic expression of MtCLE35 represses the expression and accumulation of the miR2111 shoot-to-root systemic effector, thus inhibiting its positive effect on nodulation. Conversely, ectopic expression of miR2111 or downregulation of MtCLE35 by RNA interference increased miR2111 accumulation independently of the N environment, and thus partially bypasses the nodulation inhibitory action of nitrate. Overall, these results demonstrate that the MtNLP1-dependent, N-induced MtCLE35 signaling peptide acts through the MtSUNN receptor and the miR2111 systemic effector to inhibit nodulation.
-
-MtNLP1: !upregulates! MtCLE35
-MtCLE35: !inhibits! nodule formation
-MtSUNN: !mediates! MtCLE35 action
-MtCLE35: !represses! miR2111
-miR2111: !positively affects! nodulation

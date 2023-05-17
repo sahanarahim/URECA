@@ -1,8 +1,0 @@
-['12602880', "Transgenic Arabidopsis thaliana plants expressing cel1 antisense exhibit reduced  levels of cel1 mRNA and protein compared with wild-type plants. The former  display significant alterations in their phenotype. cel1 antisense plants have  shorter stems and roots and are mechanically weaker than their wild-type  counterparts. In cel1 antisense plants, the cell wall structure is markedly  disrupted: both fluorescent confocal microscopy and scanning electron microscopy  revealed 'wrinkled' cell walls, thus indicating that CEL1 plays an important role  in cell wall relaxation during cell growth and expansion. In cel1 antisense  plants, the number of xylem elements per bundle is smaller than in the wild-type.  In addition, both xylem elements and interfascicular fibers are significantly  less lignified in the former. It is suggested that in A. thaliana, abnormal cell  wall deposition affected by CEL1 depletion is associated not only with cell  growth, but also with the differentiation process in the vascular and supporting  tissues.", '2003 Jan', 'Plant Mol Biol', '10.1023/a:1021162321527', 'Shoseyov']
-
-cel1: !affects! Phenotype 
-cel1: !depletes! mRNA and protein levels 
-cel1: !disrupts! Cell wall structure 
-cel1: !reduces! Xylem elements per bundle 
-cel1: !decreases! Lignification of xylem elements and interfascicular fibers 
-cel1: !associated with! Cell growth and differentiation process

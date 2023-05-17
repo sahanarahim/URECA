@@ -1,8 +1,0 @@
-['29205921', 'The phytohormones gibberellic acid (GA) and abscisic acid (ABA) antagonistically  control seed germination. High levels of GA favor seed germination, whereas high  levels of ABA hinder this process. The direct relationship between GA  biosynthesis and seed germination ability need further investigation. Here, we  identified the ABA-insensitive gain-of-function mutant germination insensitive to  ABA mutant 2 (gim2) by screening a population of XVE T-DNA-tagged mutant lines.  Based on two loss-of-function gim2-ko mutant lines, the disruption of GIM2  function caused a delay in seed germination. By contrast, upregulation of GIM2  accelerated seed germination, as observed in transgenic lines overexpressing GIM2  (OE). We detected a reduction in endogenous bioactive GA levels and an increase  in endogenous ABA levels in the gim2-ko mutants compared to wild type.  Conversely, the OE lines had increased endogenous bioactive GA levels and  decreased endogenous ABA levels. The expression levels of a set of GA- and/or  ABA-related genes were altered in both the gim2-ko mutants and the OE lines. We  confirmed that GIM2 has dioxygenase activity using an in vitro enzyme assay,  observing that GIM2 can oxidize GA(12) . Hence, our characterization of GIM2  demonstrates that it plays a role in seed germination by affecting the GA  metabolic pathway in Arabidopsis.', '2018 Apr', 'J Integr Plant Biol', '10.1111/jipb.12619', 'Wu']
-
-GA: !synthesizes! GIM2 
-GIM2: !represses! GA 
-ABA: !represses! seed germination 
-GA: !enhances! seed germination 
-GIM2: !interacts with! GA- and/or ABA-related genes 
-GIM2: !oxidizes! GA(12)

@@ -1,8 +1,0 @@
-Little is known about how the photosynthetic machinery is arranged in time and space during the biogenesis of thylakoid membranes. Using in situ cryo-electron tomography to image the three-dimensional architecture of the cyanobacterium Synechocystis, we observed that the tips of multiple thylakoids merge to form a substructure called the 'convergence membrane'. This high-curvature membrane comes into close contact with the plasma membrane at discrete sites. We generated subtomogram averages of 70S ribosomes and array-forming phycobilisomes, then mapped these structures onto the native membrane architecture as markers for protein synthesis and photosynthesis, respectively. This molecular localization identified two distinct biogenic regions in the thylakoid network: thylakoids facing the cytosolic interior of the cell that were associated with both marker complexes, and convergence membranes that were decorated by ribosomes but not phycobilisomes. We propose that the convergence membranes perform a specialized biogenic function, coupling the synthesis of thylakoid proteins with the integration of cofactors from the plasma membrane and the periplasmic space.
-
-Gene: !affects! Process 
-70S Ribosomes: !localizes to! Convergence Membranes 
-Phycobilisomes: !localizes to! Thylakoids Facing Cytosolic Interior 
-Ribosomes: !enhances! Protein Synthesis 
-Phycobilisomes: !enhances! Photosynthesis 
-Convergence Membranes: !couples! Synthesis of Thylakoid Proteins and Integration of Cofactors

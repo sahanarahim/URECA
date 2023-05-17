@@ -1,9 +1,0 @@
-The gaseous plant hormone ethylene is involved in many physiological processes including climacteric fruit ripening, in which it is a key determinant of fruit quality. A detailed model that describes ethylene biochemistry dynamics is missing. Often, kinetic modeling is used to describe metabolic networks or signaling cascades, mostly ignoring the link with transcriptomic data. We have constructed an elegant kinetic model that describes the transfer of genetic information into abundance and metabolic activity of proteins for the entire ethylene biosynthesis pathway during fruit development and ripening of tomato (Solanum lycopersicum). Our model was calibrated against a vast amount of transcriptomic, proteomic and metabolic data and showed good descriptive qualities. Subsequently it was validated successfully against several ripening mutants previously described in the literature. The model was used as a predictive tool to evaluate novel and existing hypotheses regarding the regulation of ethylene biosynthesis. This bottom-up kinetic network model was used to indicate that a side-branch of the ethylene pathway, the formation of the dead-end product 1-(malonylamino)-1-aminocyclopropane-1-carboxylic acid (MACC), might have a strong effect on eventual ethylene production. Furthermore, our in silico analyses indicated potential (post-) translational regulation of the ethylene-forming enzyme ACC oxidase.
-
-ethylene: !affects! fruit ripening 
-transcriptomic data: !links to! kinetic modeling 
-kinetic model: !describes! ethylene biosynthesis pathway 
-model: !validated against! ripening mutants 
-model: !used to evaluate! regulation of ethylene biosynthesis 
-side-branch: !may have strong effect on! ethylene production 
-ACC oxidase: !potentially regulated by! (post-) translational regulation

@@ -1,7 +1,0 @@
-The phytochrome B (phyB) photoreceptor stimulates light responses in plants in part by inactivating repressors of light responses, such as PHYTOCHROME-INTERACTING FACTOR3 (PIF3). Activated phyB inhibits PIF3 by rapid protein degradation and decreased transcription. PIF3 protein degradation is mediated by EIN3-BINDING F-BOX PROTEIN (EBF) and LIGHT-RESPONSE BTB (LRB) E3 ligases, the latter of which simultaneously targets phyB for degradation. In this study, we show that PIF3 levels are additionally regulated by alternative splicing and protein translation in Arabidopsis (<i>Arabidopsis thaliana</i>). Overaccumulation of photo-activated phyB, which occurs in the mutant defective for <i>LRB</i> genes under continuous red light, induces a specific alternative splicing of <i>PIF3</i> that results in retention of an intron in the 5' untranslated region of <i>PIF3</i> mRNA. In turn, the upstream open reading frames contained within this intron inhibit PIF3 protein synthesis. The phyB-dependent alternative splicing of <i>PIF3</i> is diurnally regulated under the short-day light cycle. We hypothesize that this reversible regulatory mechanism may be utilized to fine tune the level of PIF3 protein in light-grown plants and may contribute to the oscillation of PIF3 protein abundance under the short-day environment.
-
-phyB: !inactivates! PIF3 
-EBF/LRB: !mediate degradation of! PIF3 
-phyB: !induces alternative splicing of! PIF3 
-intron: !inhibits translation of! PIF3 
-short-day light cycle: !regulates! phyB-dependent alternative splicing of PIF3

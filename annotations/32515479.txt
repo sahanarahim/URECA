@@ -1,8 +1,0 @@
-In a given root system, individual roots usually exhibit a rather homogeneous tip structure although highly different diameters and growth patterns, and this diversity is of prime importance in the definition of the whole root system architecture and foraging characteristics. In order to represent and predict this diversity, we built a simple and generic model at root tip level combining structural and functional knowledge on root elongation. The tip diameter, reflecting meristem size, is used as a driving variable of elongation. It varies, in response to the fluctuations of photo-assimilate availability, between two limits (minimal and maximal diameter). The elongation rate is assumed to be dependent on the transient value of the diameter. Elongation stops when the tip reaches the minimal diameter. The model could satisfactorily reproduce patterns of root elongation and tip diameter changes observed in various species at different scales. Although continuous, the model could generate divergent root classes as classically observed within populations of lateral roots. This model should help interpret the large plasticity of root elongation patterns which can be obtained in response to different combinations of endogenous and exogenous factors. The parameters could be used in phenotyping the root system.
-
-diameter: !affects! Elongation rate 
-photo-assimilate availability: !influences! Diameter 
-minimal diameter: !limits! Elongation 
-model: !reproduces! Root elongation patterns 
-model: !generates! Divergent root classes 
-parameters: !help interpret! Plasticity of root elongation

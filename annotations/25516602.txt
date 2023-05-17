@@ -1,9 +1,0 @@
-Chlorophyll degradation is an important part of leaf senescence, but the underlying regulatory mechanisms are largely unknown. Excised leaves of an Arabidopsis thaliana NAC-LIKE, ACTIVATED BY AP3/PI (NAP) transcription factor mutant (nap) exhibited lower transcript levels of known chlorophyll degradation genes, STAY-GREEN1 (SGR1), NON-YELLOW COLORING1 (NYC1), PHEOPHYTINASE (PPH), and PHEIDE a OXYGENASE (PaO), and higher chlorophyll retention than the wild type during dark-induced senescence. Transcriptome coexpression analysis revealed that abscisic acid (ABA) metabolism/signaling genes were disproportionately represented among those positively correlated with NAP expression. ABA levels were abnormally low in nap leaves during extended darkness. The ABA biosynthetic genes 9-CIS-EPOXYCAROTENOID DIOXYGENASE2, ABA DEFICIENT3, and ABSCISIC ALDEHYDE OXIDASE3 (AAO3) exhibited abnormally low transcript levels in dark-treated nap leaves. NAP transactivated the promoter of AAO3 in mesophyll cell protoplasts, and electrophoretic mobility shift assays showed that NAP can bind directly to a segment (-196 to -162 relative to the ATG start codon) of the AAO3 promoter. Exogenous application of ABA increased the transcript levels of SGR1, NYC1, PPH, and PaO and suppressed the stay-green phenotype of nap leaves during extended darkness. Overexpression of AAO3 in nap leaves also suppressed the stay-green phenotype under extended darkness. Collectively, the results show that NAP promotes chlorophyll degradation by enhancing transcription of AAO3, which leads to increased levels of the senescence-inducing hormone ABA.
-
-NAP: !enhances! AAO3
-AAO3: !increases! ABA
-ABA: !induces! SGR1
-ABA: !induces! NYC1
-ABA: !induces! PPH
-ABA: !induces! PaO
-NAP: !binds to! AAO3 promoter

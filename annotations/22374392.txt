@@ -1,8 +1,0 @@
-Phototropin photoreceptors (phot1 and phot2 in Arabidopsis thaliana) enable responses to directional light cues (e.g., positive phototropism in the hypocotyl). In Arabidopsis, phot1 is essential for phototropism in response to low light, a response that is also modulated by phytochrome A (phyA), representing a classical example of photoreceptor coaction. The molecular mechanisms underlying promotion of phototropism by phyA remain unclear. Most phyA responses require nuclear accumulation of the photoreceptor, but interestingly, it has been proposed that cytosolic phyA promotes phototropism. By comparing the kinetics of phototropism in seedlings with different subcellular localizations of phyA, we show that nuclear phyA accelerates the phototropic response, whereas in the fhy1 fhl mutant, in which phyA remains in the cytosol, phototropic bending is slower than in the wild type. Consistent with this data, we find that transcription factors needed for full phyA responses are needed for normal phototropism. Moreover, we show that phyA is the primary photoreceptor promoting the expression of phototropism regulators in low light (e.g., PHYTOCHROME KINASE SUBSTRATE1 [PKS1] and ROOT PHOTO TROPISM2 [RPT2]). Although phyA remains cytosolic in fhy1 fhl, induction of PKS1 and RPT2 expression still occurs in fhy1 fhl, indicating that a low level of nuclear phyA signaling is still present in fhy1 fhl.
-
-phot1: !enables! response to directional light cues
-phyA: !modulates! phot1 response
-phyA: !accelerates! phototropic response
-phyA: !promotes! expression of phototropism regulators
-fhy1 fhl: !slows! phototropic response
-fhy1 fhl: !induces! PKS1 and RPT2 expression

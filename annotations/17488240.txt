@@ -1,9 +1,0 @@
-The vascular system-specific and wound-responsive cis-element (VWRE) has been identified as a novel cis-element for wound-induced and vascular system-specific expression of the tobacco peroxidase gene, tpoxN1. Here we isolated two independent clones that encode VWRE binding proteins by yeast one-hybrid screening. As the gene products have an AP2/ERF (APETALA2/ethylene-responsive factor) domain, and the transcripts were accumulated transiently after wounding, we named them wound-responsive AP2/ERF-like factor 1 (WRAF1) and WRAF2. The AP2/ERF domains of the two WRAFs share 97% homology, and are classified into the ERF subfamily B-4. Gel mobility shift analysis indicated that WRAFs specifically bind VWRE, which contains no known cis-elements for other AP2/ERF proteins. The binding activity of the WRAFs was found to be localized in the AP2/ERF domain. The WRAFs transactivated a promoter containing four tandem repeats of the VWRE, but not that of the mutated VWRE. Overexpression of the WRAF genes led to constitutive expression of the potential target gene, tpoxN1, in unwounded transgenic plants. These results indicate that the novel transcription factors WRAF1 and WRAF2 bind the VWRE as positive regulators for the expression of the tpoxN1 gene.
-
-VWRE: !binds! WRAF1 
-WRAF1: !transactivates! VWRE 
-VWRE: !induces! tpoxN1 
-WRAF1: !enhances! tpoxN1 
-WRAF2: !binds! VWRE 
-WRAF2: !transactivates! VWRE 
-WRAF2: !enhances! tpoxN1

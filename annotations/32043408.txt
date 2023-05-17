@@ -1,8 +1,0 @@
-Phytochrome A (phyA) is the primary photoreceptor mediating various plant responses to far-red (FR) light. The defense-related phytohorme jasmonic acid (JA) has been shown recently to play a role in regulating phyA-mediated FR signaling. However, the detailed molecular mechanisms governing phyA- and JA-mediated signaling cross talks are still not well understood. Here, we uncover a molecular cascade in which JAZ1 inactivates phyA signaling through repressing the transcriptional activity of FHY3 on <i>FHY1</i> and <i>FHL</i>. Furthermore, we demonstrate that the expression levels of <i>FHY1</i> and <i>FHL</i>, and some FR response genes are reduced in the <i>coi1</i> mutant. These findings unveil a previously unrecognized mechanism whereby JA modulates phyA signaling through repressing the activities of FHY3 by JAZs.
-
-phyA: !mediates! plant responses
-JA: !regulates! phyA-mediated signaling
-JAZ1: !inactivates! phyA signaling
-FHY3: !repressed by! JAZ1
-FHY1/FHL: !transcriptionally regulated by! FHY3
-coi1: !expression levels of! FHY1/FHL reduced

@@ -1,9 +1,0 @@
-['17872410', 'Precise timing of CONSTANS (CO) gene expression is necessary for day-length  discrimination for photoperiodic flowering. The FLAVIN-BINDING, KELCH REPEAT,  F-BOX 1 (FKF1), and GIGANTEA (GI) proteins regulate CO transcription in  Arabidopsis. We demonstrate that FKF1 and GI proteins form a complex in a  blue-light-dependent manner. The timing of this interaction regulates the timing  of daytime CO expression. FKF1 function is dependent on GI, which interacts with  a CO repressor, CYCLING DOF FACTOR 1 (CDF1), and controls CDF1 stability. GI,  FKF1, and CDF1 proteins associate with CO chromatin. Thus, the FKF1-GI complex  forms on the CO promoter in late afternoon to regulate CO expression, providing a  mechanistic view of how the coincidence of light with circadian timing regulates  photoperiodic flowering.', '2007 Oct 12', 'Science', '10.1126/science.1146994', 'Imaizumi']
-
-CONSTANS: !regulated by! FLAVIN-BINDING, KELCH REPEAT, F-BOX 1
-FLAVIN-BINDING, KELCH REPEAT, F-BOX 1: !forms complex with! GIGANTEA
-GIGANTEA: !interacts with! CYCLING DOF FACTOR 1
-GIGANTEA: !stabilizes! CYCLING DOF FACTOR 1
-FLAVIN-BINDING, KELCH REPEAT, F-BOX 1: !dependent on! GIGANTEA
-CYCLING DOF FACTOR 1: !represses! CONSTANS
-CONSTANS: !associated with! FLAVIN-BINDING, KELCH REPEAT, F-BOX 1, GIGANTEA, CYCLING DOF FACTOR 1

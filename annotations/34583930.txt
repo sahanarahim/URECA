@@ -1,6 +1,0 @@
-['34583930', 'The DNA of all organisms is constantly damaged by physiological processes and  environmental conditions. Upon persistent damage, plant growth and cell  proliferation are reduced. Based on previous findings that RBR1, the only  Arabidopsis homolog of the mammalian tumor suppressor gene retinoblastoma, plays  a key role in the DNA damage response in plants, we unravel here the network of  RBR1 interactors under DNA stress conditions. This led to the identification of  homologs of every DREAM component in Arabidopsis, including previously not  recognized homologs of LIN52. Interestingly, we also discovered NAC044, a  mediator of DNA damage response in plants and close homolog of the major DNA  damage regulator SOG1, to directly interact with RBR1 and the DREAM component  LIN37B. Consistently, not only mutants in NAC044 but also the double mutant of  the two LIN37 homologs and mutants for the DREAM component E2FB showed reduced  sensitivities to DNA-damaging conditions. Our work indicates the existence of  multiple DREAM complexes that work in conjunction with NAC044 to mediate growth  arrest after DNA damage.', '2021 Dec', 'Life Sci Alliance', '10.26508/lsa.202101141', 'ORCID:']
-
-RBR1: !interacts with! NAC044
-NAC044: !mediates! DNA damage response
-LIN37B: !interacts with! RBR1
-E2FB: !regulates! growth arrest after DNA damage

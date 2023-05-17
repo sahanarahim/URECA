@@ -1,9 +1,0 @@
-Anthocyanins and volatile phenylpropenes (isoeugenol and eugenol) in petunia (Petunia hybrida) flowers have the precursor 4-coumaryl coenzyme A (CoA) in common. These phenolics are produced at different stages during flower development. Anthocyanins are synthesized during early stages of flower development and sequestered in vacuoles during the lifespan of the flowers. The production of isoeugenol and eugenol starts when flowers open and peaks after anthesis. To elucidate additional biochemical steps toward (iso)eugenol production, we cloned and characterized a caffeoyl-coenzyme A O-methyltransferase (PhCCoAOMT1) from the petals of the fragrant petunia 'Mitchell'. Recombinant PhCCoAOMT1 indeed catalyzed the methylation of caffeoyl-CoA to produce feruloyl CoA. Silencing of PhCCoAOMT1 resulted in a reduction of eugenol production but not of isoeugenol. Unexpectedly, the transgenic plants had purple-colored leaves and pink flowers, despite the fact that cv Mitchell lacks the functional R2R3-MYB master regulator ANTHOCYANIN2 and has normally white flowers. Our results indicate that down-regulation of PhCCoAOMT1 activated the anthocyanin pathway through the R2R3-MYBs PURPLE HAZE (PHZ) and DEEP PURPLE, with predominantly petunidin accumulating. Feeding cv Mitchell flowers with caffeic acid induced PHZ expression, suggesting that the metabolic perturbation of the phenylpropanoid pathway underlies the activation of the anthocyanin pathway. Our results demonstrate a role for PhCCoAOMT1 in phenylpropene production and reveal a link between PhCCoAOMT1 and anthocyanin production.
-
-PhCCoAOMT1: !synthesizes! feruloyl CoA
-PhCCoAOMT1: !represses! eugenol production
-PHZ: !interacts with! PhCCoAOMT1
-PHZ: !enhances! anthocyanin production
-PURPLE HAZE: !activates! R2R3-MYB
-DEEP PURPLE: !activates! R2R3-MYB
-caffeic acid: !induces! PHZ expression

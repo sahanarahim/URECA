@@ -1,9 +1,0 @@
-In certain plants, leaf coloration occurs in young and senescent leaves; however, it is unclear whether these two developmental stages are controlled by the same regulatory mechanisms. Formosan sweet gum (Liquidambar formosana Hance) is a subtropical deciduous tree species that possesses attractive autumnal leaf coloration. The color of young leaves is closer to purplish red, while senescent leaves are more orange-red to dark red. It was confirmed that delphinidin and cyanidin are the two anthocyanidins that contribute to the color of Formosan sweet gum leaves, and the content of different anthocyanins influences the appearance of color. To elucidate the regulation of anthocyanidin biosynthesis, recombinant DIHYDROFLAVONOL-4-REDUCTASEs (LfDFR1 and LfDFR2) (EC 1.1.1.234) were produced, and their substrate acceptability was investigated both in vitro and in planta. The functions of flavanones and dihydroflavonols modification by FLAVONOID 3' HYDROXYLASE (LfF3'H1) (EC 1.14.14.82) and FLAVONOID 3'5' HYDROXYLASE (LfF3'5'H) (EC 1.14.14.81) were verified using a transient overexpression experiment in Nicotiana benthamiana. The results showed that LfMYB5 induced LfF3'5'H and LfMYB123 induced both LfF3'H1 and LfDFR1 in spring when the leaves were expanding, whereas LfMYB113 induced LfF3'H1, LfDFR1, and LfDFR2 in late autumn to winter when the leaves were undergoing leaf senescence. In conclusion, the color variation of Formosan sweet gum in young and senescent leaves was attributed to the composition of anthocyanidins through the transcriptional regulation of LfF3'H1 and LfF3'5'H by LfMYB5, LfMYB113, and LfMYB123.
-
-LfMYB5: !induces! LfF3'5'H 
-LfMYB113: !induces! LfF3'H1, LfDFR1, LfDFR2 
-LfMYB123: !induces! LfF3'H1, LfDFR1 
-LfF3'H1: !modifies! Flavanones 
-LfF3'5'H: !modifies! Dihydroflavonols 
-LfDFR1: !synthesizes! Delphinidin 
-LfDFR2: !synthesizes! Cyanidin

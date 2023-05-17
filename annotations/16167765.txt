@@ -1,8 +1,0 @@
-Rhizobia live in the soil or enter into a nitrogen-fixing symbiosis with a suitable host plant. Each environment presents different challenges with respect to iron acquisition. The soybean symbiont Bradyrhizobium japonicum 61A152 can utilize a variety of siderophores (Fe[III]-specific ligands). Purification of iron-regulated outer membrane proteins had previously allowed the cloning of a gene, fegA, from B. japonicum 61A152, whose predicted protein shares significant amino acid similarity with known TonB-dependent siderophore receptors. Here, we show that fegA is in an operon with a gene, fegB, that is predicted to encode an inner membrane protein. Characterization of fegAB and fegB mutants shows that bothfegA and fegB are required for utilization of the siderophore ferrichrome. Whereas thefegB mutant forms a normal symbiosis, the fegAB mutant has a dramatic phenotype in planta. Six weeks after inoculation with a fegAB strain, soybean nodules do not contain leghemoglobin and do not fix nitrogen. Infected cells contain few symbiosomes and are filled with vesicles. As ferrichrome is a fungal siderophore not likely to be available in nodules, the symbiotic defect suggests that the fegAB operon is serving a different function in planta, possibly one involved in signaling between the two partners.
-
-fegA: !operates in! fegAB operon 
-fegB: !operates in! fegAB operon 
-fegA: !required for! ferrichrome utilization 
-fegB: !required for! ferrichrome utilization 
-fegAB: !causes dramatic phenotype in! planta 
-fegAB: !involved in! signaling between partners

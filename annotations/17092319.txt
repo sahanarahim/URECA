@@ -1,9 +1,0 @@
-Intron-containing constructs encoding self-complementary 'hairpin' RNA (ihpRNA) have the potential to efficiently silence genes in a range of plant species. In this study we demonstrate the silencing of a ripening-related chalcone synthase (CHS) gene in strawberry fruits (Fragaria x ananassa cv. Elsanta) by a construct (ihpRNA) containing the partial sense and corresponding antisense sequences of CHS separated by an intron obtained from a F. x ananassa quinone oxidoreductase gene. An Agrobacterium strain carrying a T-DNA expressing the ihpRNA transgene was injected with a syringe into the receptacles of growing fruits still attached to the plant about 14 days after pollination. As a consequence of the reduced levels of CHS mRNA and enzymatic CHS activity, the levels of anthocyanins were downregulated and precursors of the flavonoid pathway were shunted to the phenylpropanoid pathway leading to a large increases in levels of (hydroxy) cinnamoyl glucose esters. We anticipate that this technique in combination with metabolite profiling analysis will be useful for studying the function of unknown genes during the development and ripening of strawberry fruit.
-
-ihpRNA: !silences! CHS gene 
-Agrobacterium strain: !expresses! ihpRNA transgene 
-CHS mRNA: !downregulated! by ihpRNA 
-CHS activity: !reduced! by ihpRNA 
-Anthocyanins: !downregulated! by ihpRNA 
-Flavonoid pathway: !shunted! to phenylpropanoid pathway 
-Metabolite profiling analysis: !useful for! studying function of unknown genes

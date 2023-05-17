@@ -1,7 +1,0 @@
-Plants respond and adapt to drought, cold and high-salinity stresses in order to survive. In this study, we applied Arabidopsis Affymetrix tiling arrays to study the whole genome transcriptome under drought, cold, high-salinity and ABA treatment conditions. The bioinformatic analysis using the tiling array data showed that 7,719 non-AGI transcriptional units (TUs) exist in the unannotated "intergenic" regions of Arabidopsis genome. These include 1,275 and 181 TUs that are induced and downregulated, respectively, by the stress or ABA treatments. Most of the non-AGI TUs are hypothetical non-protein-coding RNAs. About 80% of the non-AGI TUs belong to pairs of the fully overlapping sense-antisense transcripts (fSATs). Significant linear correlation between the expression ratios (treated/untreated) of the sense TUs and the ratios of the antisense TUs was observed in the SATs of AGI code/non-AGI TU. We studied the biogenesis mechanisms of the stress- or ABA-inducible antisense RNAs and found that the expression of sense TUs is necessary for the stress- or ABA-inducible expression of the antisense TUs in the fSATs (AGI code/non-AGI TU).
-
-Gene: !affects! Process
-Gene: !synthesizes! Non-protein-coding RNAs
-Gene: !induces! Antisense Transcripts
-Gene: !represses! Expression of Sense TUs
-Gene: !enhances! Expression of Antisense TUs

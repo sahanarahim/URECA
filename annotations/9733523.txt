@@ -1,9 +1,0 @@
-['9733523', "Single, double, and triple null combinations of Arabidopsis mutants lacking the  photoreceptors phytochrome (phy) A (phyA-201), phyB (phyB-5), and cryptochrome  (cry) 1 (hy4-2.23n) were examined for de-etiolation responses in high-fluence  red, far-red, blue, and broad-spectrum white light. Cotyledon unhooking,  unfolding, and expansion, hypocotyl growth, and the accumulation of chlorophylls  and anthocyanin in 5-d-old seedlings were measured under each light condition and  in the dark. phyA was the major photoreceptor/effector for most far-red-light  responses, although phyB and cry1 modulated anthocyanin accumulation in a  phyA-dependent manner. phyB was the major photoreceptor in red light, although  cry1 acted as a phyA/phyB-dependent modulator of chlorophyll accumulation under  these conditions. All three photoreceptors contributed to most blue light  deetiolation responses, either redundantly or additively; however, phyB acted as  a modulator of cotyledon expansion dependent on the presence of cry1. As reported  previously, flowering time in long days was promoted by phyA and inhibited by  phyB, with each suppressing the other's effect. In addition to the  effector/modulator relationships described above, measurements of hypocotyls from  blue-light-grown seedlings demonstrated phytochrome activity in blue light and  cry1 activity in a phyAphyB mutant background.", '1998 Sep', 'Plant Physiol', '10.1104/pp.118.1.27', 'Chory']
-
-phyA: !affects! far-red-light responses 
-phyB: !affects! red-light responses 
-cry1: !modulates! phyA/phyB-dependent chlorophyll accumulation 
-phyA/phyB: !promote/inhibit! flowering time 
-phyA/phyB: !suppress! each other's effect 
-phytochrome: !active in! blue light 
-cry1: !active in! phyAphyB mutant background

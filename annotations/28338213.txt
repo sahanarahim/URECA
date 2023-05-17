@@ -1,9 +1,0 @@
-We examined the effects of leaf temperature on the estimation of maximal Rubisco capacity (V<sub>cmax</sub> ) from gas exchange measurements of wheat leaves using a C<sub>3</sub> photosynthesis model. Cultivars of spring wheat (Triticum aestivum (L)) and triticale (X Triticosecale Wittmack) were grown in a greenhouse or in the field and measured at a range of temperatures under controlled conditions in a growth cabinet (2 and 21% O<sub>2</sub> ) or in the field using natural diurnal variation in temperature, respectively. Published Rubisco kinetic constants for tobacco did not describe the observed CO<sub>2</sub> response curves well as temperature varied. By assuming values for the Rubisco Michaelis-Menten constants for CO<sub>2</sub> (K<sub>c</sub> ) and O<sub>2</sub> (K<sub>o</sub> ) at 25 °C derived from tobacco and the activation energies of V<sub>cmax</sub> from wheat and respiration in the light, R<sub>d</sub> , from tobacco, we derived activation energies for K<sub>c</sub> and K<sub>o</sub> (93.7 and 33.6 kJ mol<sup>-1</sup> , respectively) that considerably improved the fit of the model to observed data. We confirmed that temperature dependence of dark respiration for wheat was well described by the activation energy for R<sub>d</sub> from tobacco. The new parameters improved the estimation of V<sub>cmax</sub> under field conditions, where temperatures increased through the day.
-
-Gene: !affects! V<sub>cmax</sub> 
-Temperature: !affects! V<sub>cmax</sub> 
-K<sub>c</sub>: !has activation energy of! 93.7 kJ mol<sup>-1</sup> 
-K<sub>o</sub>: !has activation energy of! 33.6 kJ mol<sup>-1</sup> 
-R<sub>d</sub>: !has activation energy of! Tobacco 
-Wheat: !has activation energy of! V<sub>cmax</sub> 
-Tobacco: !has activation energy of! R<sub>d</sub>

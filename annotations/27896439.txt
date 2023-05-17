@@ -1,9 +1,0 @@
-['27896439', 'KEY MESSAGE : bZIP TF network in pollen. Transcriptional control of gene  expression represents an important mechanism guiding organisms through  developmental processes and providing plasticity towards environmental stimuli.  Because of their sessile nature, plants require effective gene regulation for  rapid response to variation in environmental and developmental conditions.  Transcription factors (TFs) provide such control ensuring correct gene expression  in spatial and temporal manner. Our work reports the interaction network of six  bZIP TFs expressed in Arabidopsis thaliana pollen and highlights the potential  functional role for AtbZIP18 in pollen. AtbZIP18 was shown to interact with three  other pollen-expressed bZIP TFs-AtbZIP34, AtbZIP52, and AtbZIP61 in yeast  two-hybrid assays. AtbZIP18 transcripts are highly expressed in pollen, and at  the subcellular level, an AtbZIP18-GFP fusion protein was located in the nucleus  and cytoplasm/ER. To address the role of AtbZIP18 in the male gametophyte, we  performed phenotypic analysis of a T-DNA knockout allele, which showed slightly  reduced transmission through the male gametophyte. Some of the phenotype defects  in atbzip18 pollen, although observed at low penetrance, were similar to those  seen at higher frequency in the T-DNA knockout of the interacting partner,  AtbZIP34. To gain deeper insight into the regulatory role of AtbZIP18, we  analysed atbzip18/- pollen microarray data. Our results point towards a potential  repressive role for AtbZIP18 and its functional redundancy with AtbZIP34 in  pollen.', '2017 Mar', 'Plant Reprod', '10.1007/s00497-016-0295-5', 'Honys']
-
-AtbZIP18: !interacts with! AtbZIP34
-AtbZIP18: !interacts with! AtbZIP52
-AtbZIP18: !interacts with! AtbZIP61
-AtbZIP18: !localizes to! nucleus
-AtbZIP18: !localizes to! cytoplasm/ER
-AtbZIP18: !represses! gene expression
-AtbZIP18: !redundant with! AtbZIP34

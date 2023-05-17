@@ -1,6 +1,0 @@
-RNA silencing is a manifestation of a ubiquitous phenomenon that acts, at least in plants and some insects, as a natural defense mechanism against viruses. As a counter-strategy, viruses have evolved to encode silencing suppressor proteins (SSPs) that can block the defense response and evade the host immunity. Although numerous SSP have been identified, little information is available on the molecular basis of their mode of action. Among SSPs, the polerovirus protein P0 functions as an F-box protein that targets an essential actor of the silencing pathway. Our work demonstrates that one of the main targets is ARGONAUTE 1 (AGO1), a key component of the RISC effector complex. By a physical interaction with AGO1, P0 mediates AGO1 protein degradation in planta. This is the first report of a plant virus that exploits components of the host ubiquitination machinery to overcome RNA silencing. This unusual mode of action may provide some clues concerning the mechanism governing phloem tropism of poleroviruses.
-
-P0: !targets! AGO1 
-AGO1: !degraded by! P0 
-P0: !exploits! host ubiquitination machinery 
-host ubiquitination machinery: !exploited by! P0

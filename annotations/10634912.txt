@@ -1,8 +1,0 @@
-['10634912', 'The TATA binding protein (TBP) and transcription factor IIB (TFIIB) play crucial  roles in transcription of class II genes. The requirement for TBP-TFIIB  interactions was evaluated in maize cells by introducing mutations into the  Arabidopsis TBP (AtTBP2) within the C-terminal stirrup. Protein binding  experiments indicated that amino acid residues E-144 and E-146 of AtTBP2 are both  essential for TFIIB binding in vitro. Activation domains derived from herpes  simplex viral protein VP16, the Drosophila fushi tarazu glutamine-rich domain  (ftzQ), and yeast Gal4 were tested in transient assays. TBP-TFIIB interactions  were dispensable for basal transcription but were required for activated  transcription. In general, activated transcription was more severely inhibited by  TBP mutation E-146R than by mutation E-144R. However, these TBP mutations had  little effect on activity of the full-length cauliflower mosaic virus 35S and  maize ubiquitin promoters, thus demonstrating that strong TBP-TFIIB contacts are  not always required for transcription driven by complex promoters.', '2000 Jan', 'Plant Cell', '10.1105/tpc.12.1.125', 'Gurley']
-
-TBP: !interacts with! TFIIB 
-AtTBP2: !binds to! TFIIB 
-E-144 and E-146 of AtTBP2: !essential for! TFIIB binding 
-VP16, ftzQ, and Gal4: !require! TBP-TFIIB interactions 
-TBP mutation E-146R: !more severely inhibits! activated transcription 
-35S and ubiquitin promoters: !little effect on! TBP-TFIIB contacts

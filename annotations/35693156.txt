@@ -1,7 +1,0 @@
-Polar cell growth is a process that couples the establishment of cell polarity with growth and is extremely important in the growth, development, and reproduction of eukaryotic organisms, such as pollen tube growth during plant fertilization and neuronal axon growth in animals. Pollen tube growth requires dynamic but polarized distribution and activation of a signaling protein named ROP1 to the plasma membrane <i>via</i> three processes: positive feedback and negative feedback regulation of ROP1 activation and its lateral diffusion along the plasma membrane. In this paper, we introduce a mechanistic integro-differential equation (IDE) along with constrained semiparametric regression to quantitatively describe the interplay among these three processes that lead to the polar distribution of active ROP1 at a steady state. Moreover, we introduce a population variability by a constrained nonlinear mixed model. Our analysis of ROP1 activity distributions from multiple pollen tubes revealed that the equilibrium between the positive and negative feedbacks for pollen tubes with similar shapes are remarkably stable, permitting us to infer an inherent quantitative relationship between the positive and negative feedback loops that defines the tip growth of pollen tubes and the polarity of tip growth.
-
-ROP1: !positively regulates! ROP1 activation 
-ROP1: !negatively regulates! ROP1 activation 
-ROP1: !diffuses along! plasma membrane 
-positive feedback: !enhances! ROP1 activation 
-negative feedback: !represses! ROP1 activation

@@ -1,9 +1,0 @@
-Leaves arise from the flank of the shoot apical meristem and are asymmetrical along the adaxial/abaxial plane from inception. Mutations perturbing dorsiventral cell fate acquisition in a variety of species can result in unifacial (radially symmetrical) leaves lacking adaxial/abaxial polarity. However, mutations in maize (Zea mays) ragged seedling2 (rgd2) condition cylindrical leaves that maintain dorsiventral polarity. Positional cloning reveals that rgd2 encodes an ARGONAUTE7 (AGO7)-like protein required to produce ta-siARF, a trans-acting small interfering RNA that targets abaxially located auxin response factor3a (arf3a) transcripts for degradation. Previous studies implicated ta-siARF in dorsiventral patterning of monocot leaves. Here, we show that arf3a transcripts hyperaccumulate but remain abaxialized in rgd2 mutant apices, revealing that ta-siARF function is not required for arf3a polarization. RGD2 also regulates miR390 accumulation and localization in maize shoot apices. Similar to the abaxialized maize mutant leafbladeless1 (lbl1), rgd2 mutants exhibit ectopic accumulation of the abaxial identity factor miR166 in adaxial domains. Thus, hyperaccumulation of arf3a and ectopic accumulation of miR166 are insufficient to condition abaxialized leaf phenotypes in maize. Finally, transcripts of a maize ago1 paralog overaccumulate in lbl1 but not in rgd2 mutants, suggesting that upregulation of ago1 combined with ectopic accumulation of miR166 contribute to abaxialized leaf formation in lbl1. We present a revised model for the role of small RNAs in dorsiventral patterning of maize leaves.
-
-rgd2: !encodes! AGO7-like protein 
-AGO7-like protein: !produces! ta-siARF 
-ta-siARF: !targets! arf3a transcripts 
-rgd2: !regulates! miR390 accumulation 
-miR166: !accumulates ectopically! in adaxial domains 
-lbl1: !upregulates! ago1 paralog 
-ago1 paralog: !combines with! ectopic miR166

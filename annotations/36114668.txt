@@ -1,9 +1,0 @@
-Photosynthesis, which provides oxygen and energy for all living organisms, is circadian regulated. Photosynthesis-associated metabolism must tightly coordinate with the circadian clock to maximize the efficiency of the light-energy capture and carbon fixation. However, the molecular basis for the interplay of photosynthesis and the circadian clock is not fully understood, particularly in crop plants. Here, we report two central oscillator genes of circadian clock, OsPRR95 and OsPRR59 in rice, which function as transcriptional repressors to negatively regulate the rhythmic expression of OsMGT3 encoding a chloroplast-localized Mg<sup>2+</sup> transporter. OsMGT3-dependent rhythmic Mg fluctuations modulate carbon fixation and consequent sugar output in rice chloroplasts. Furthermore, sugar triggers the increase of superoxide, which may act as a feedback signal to positively regulate the expression of OsPRR95 and OsPRR59. Taken together, our results reveal a negative-feedback loop that strengthens the crosstalk between photosynthetic carbon fixation and the circadian clock, which may improve plan adaptation and performance in fluctuating environments.
-
-OsPRR95: !represses! OsMGT3
-OsPRR59: !represses! OsMGT3
-OsMGT3: !localizes to! chloroplast
-OsMGT3: !modulates! carbon fixation
-Sugar: !triggers! superoxide
-Superoxide: !positively regulates! OsPRR95
-Superoxide: !positively regulates! OsPRR59

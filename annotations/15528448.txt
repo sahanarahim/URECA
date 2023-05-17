@@ -1,8 +1,0 @@
-['15528448', "In RNA interference (RNAi), double-stranded RNA (dsRNA) triggers degradation of  homologous messenger RNA. In many organisms, RNA-dependent RNA polymerase (RdRp)  is required to initiate or amplify RNAi, but the substrate for dsRNA synthesis in  vivo is not known. Here, we show that RdRp-dependent transgene silencing in  Arabidopsis was caused by mutation of XRN4, which is a ribonuclease (RNase)  implicated in mRNA turnover by means of decapping and 5'-3' exonucleolysis. When  both XRN4 and the RdRp were mutated, the plants accumulated decapped transgene  mRNA. We propose that mRNAs lacking a cap structure become exposed to RdRp to  initiate or maintain RNAi.", '2004 Nov 5', 'Science', '10.1126/science.1101092', 'Sablowski']
-
-RNAi: !triggered by! dsRNA 
-RdRp: !required for! RNAi 
-XRN4: !implicated in! mRNA turnover 
-XRN4: !mutated to cause! transgene silencing 
-XRN4 & RdRp: !mutated to cause! accumulation of decapped transgene mRNA 
-mRNA: !exposed to! RdRp

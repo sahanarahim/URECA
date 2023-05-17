@@ -1,7 +1,0 @@
-Clp proteases are found in prokaryotes, mitochondria, and plastids where they play crucial roles in maintaining protein homeostasis (proteostasis). The plant plastid Clp machinery comprises a hetero-oligomeric ClpPRT proteolytic core, ATP-dependent chaperones ClpC and ClpD, and an adaptor protein, ClpS1. ClpS1 selects substrates to the ClpPR protease-ClpC chaperone complex for degradation, but the underlying substrate recognition and delivery mechanisms are currently unclear. Here, we characterize a ClpS1-interacting protein in Arabidopsis thaliana, ClpF, which can interact with the Clp substrate glutamyl-tRNA reductase. ClpF and ClpS1 mutually stimulate their association with ClpC. ClpF, which is only found in photosynthetic eukaryotes, contains bacterial uvrB/C and YccV protein domains and a unique N-terminal domain. We propose a testable model in which ClpS1 and ClpF form a binary adaptor for selective substrate recognition and delivery to ClpC, reflecting an evolutionary adaptation of the Clp system to the plastid proteome.
-
-ClpS1: !interacts with! ClpF
-ClpF: !interacts with! ClpS1
-ClpF: !interacts with! Glutamyl-tRNA reductase
-ClpS1: !stimulates! ClpC association
-ClpF: !stimulates! ClpC association

@@ -1,7 +1,0 @@
-Nuclear-encoded pentatricopeptide repeat (PPR) proteins are key factors for site-specific RNA editing, converting cytidines into uridines in plant mitochondria and chloroplasts. All editing factors in the model moss Physcomitrella patens have a C-terminal DYW domain with similarity to cytidine deaminase. However, numerous editing factors in flowering plants lack such a terminal DYW domain, questioning its immediate role in the pyrimidine base conversion process. Here we further investigate the Physcomitrella DYW-type PPR protein PPR_78, responsible for mitochondrial editing sites cox1eU755SL and rps14eU137SL. Complementation assays with truncated proteins demonstrate that the DYW domain is essential for full PPR_78 editing functionality. The DYW domain can be replaced, however, with its counterpart from another editing factor, PPR_79. The PPR_78 ortholog of the related moss Funaria hygrometrica fully complements the Physcomitrella mutant for editing at both sites, although the editing site in rps14 is lacking in Funaria. Editing factor orthologs in different taxa may thus retain editing capacity for multiple sites despite the absence of editing requirement.
-
-PPR_78: !affects! RNA editing
-PPR_78: !requires! DYW domain
-PPR_79: !replaces! DYW domain
-PPR_78: !complements! Physcomitrella mutant
-PPR_78: !retains! editing capacity

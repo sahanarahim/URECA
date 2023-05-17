@@ -1,9 +1,0 @@
-Prion-like domains (PrLDs) are intrinsically disordered regions (IDRs) of low sequence complexity with a similar composition to yeast prion domains. PrLDs-containing proteins have been involved in different organisms' regulatory processes. Regions of moderate amyloid propensity within IDRs have been shown to assemble autonomously into amyloid fibrils. These sequences tend to be rich in polar amino acids and often escape from the detection of classical bioinformatics screenings that look for highly aggregation-prone hydrophobic sequence stretches. We defined them as cryptic amyloidogenic regions (CARs) and recently developed an integrated database that collects thousands of predicted CARs in IDRs. CARs seem to be evolutionary conserved among disordered regions because of their potential to stablish functional contacts with other biomolecules. Here we have focused on identifying and characterizing CARs in prion-like proteins (pCARs) from plants, a lineage that has been poorly studied in comparison with other prionomes. We confirmed the intrinsic amyloid potential for a selected pCAR from <i>Arabidopsis thaliana</i> and explored functional enrichments and compositional bias of pCARs in plant prion-like proteins.
-
-PrLDs: !contain! IDRs 
-PrLDs-containing proteins: !involved in! regulatory processes 
-IDRs: !contain! CARs 
-CARs: !evolutionarily conserved! disordered regions 
-pCARs: !predicted in! plants 
-pCARs: !confirmed to have! intrinsic amyloid potential 
-pCARs: !explored for! functional enrichments and compositional bias

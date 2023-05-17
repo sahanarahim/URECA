@@ -1,8 +1,0 @@
-How plants balance resource allocation between growth and defense under conditions of competitive stress is a key question in plant biology. Low red : far-red (R : FR) ratios, which signal a high risk of competition in plant canopies, repress jasmonate-induced defense responses. The mechanism of this repression is not well understood. We addressed this problem in Arabidopsis by investigating the role of DELLA and JASMONATE ZIM domain (JAZ) proteins. We showed that a quintuple della mutant and a phyB mutant were insensitive to jasmonate for several physiological readouts. Inactivation of the photoreceptor phyB by low R : FR ratios rapidly reduced DELLA protein abundance, and the inhibitory effect of FR on jasmonate signaling was missing in the gai-1 mutant, which encodes a stable version of the GAI DELLA protein. We also demonstrated that low R : FR ratios and the phyB mutation stabilized the protein JAZ10. Furthermore, we demonstrated that JAZ10 was required for the inhibitory effect of low R : FR on jasmonate responses, and that the jaz10 mutation restored jasmonate sensitivity to the phyB mutant. We conclude that, under conditions of competition for light, plants redirect resource allocation from defense to rapid elongation by promoting DELLA degradation and enhancing JAZ10 stability.
-
-phyB: !represses! jasmonate responses
-DELLA: !degraded by! low R:FR ratios
-GAI: !encodes stable version of! DELLA
-JAZ10: !stabilized by! low R:FR ratios
-JAZ10: !required for! inhibitory effect of low R:FR on jasmonate responses
-phyB: !enhances! JAZ10 stability

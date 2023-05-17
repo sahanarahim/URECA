@@ -1,8 +1,0 @@
-Forest dynamics arise from the interplay of environmental drivers and disturbances with the demographic processes of recruitment, growth, and mortality, subsequently driving biomass and species composition. However, forest disturbances and subsequent recovery are shifting with global changes in climate and land use, altering these dynamics. Changes in environmental drivers, land use, and disturbance regimes are forcing forests toward younger, shorter stands. Rising carbon dioxide, acclimation, adaptation, and migration can influence these impacts. Recent developments in Earth system models support increasingly realistic simulations of vegetation dynamics. In parallel, emerging remote sensing datasets promise qualitatively new and more abundant data on the underlying processes and consequences for vegetation structure. When combined, these advances hold promise for improving the scientific understanding of changes in vegetation demographics and disturbances.
-
-environment: !affects! forest dynamics
-disturbances: !alter! forest dynamics
-carbon dioxide: !influences! impacts
-Earth system models: !support! simulations
-remote sensing datasets: !promise! data
-combined advances: !improve! understanding

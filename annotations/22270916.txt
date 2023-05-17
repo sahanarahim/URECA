@@ -1,7 +1,0 @@
-['22270916', 'Inner nuclear membrane Sad1/UNC-84 (SUN) proteins interact with outer nuclear  membrane (ONM) Klarsicht/ANC-1/Syne homology (KASH) proteins, forming linkers of  nucleoskeleton to cytoskeleton conserved from yeast to human and involved in  positioning of nuclei and chromosomes. Defects in SUN-KASH bridges are linked to  muscular dystrophy, progeria, and cancer. SUN proteins were recently identified  in plants, but their ONM KASH partners are unknown. Arabidopsis WPP  domain-interacting proteins (AtWIPs) are plant-specific ONM proteins that  redundantly anchor Arabidopsis RanGTPase-activating protein 1 (AtRanGAP1) to the  nuclear envelope (NE). In this paper, we report that AtWIPs are plant-specific  KASH proteins interacting with Arabidopsis SUN proteins (AtSUNs). The interaction  is required for both AtWIP1 and AtRanGAP1 NE localization. AtWIPs and AtSUNs are  necessary for maintaining the elongated nuclear shape of Arabidopsis epidermal  cells. Together, our data identify the first KASH members in the plant kingdom  and provide a novel function of SUN-KASH complexes, suggesting that a  functionally diverged SUN-KASH bridge is conserved beyond the opisthokonts.', '2012 Jan 23', 'J Cell Biol', '10.1083/jcb.201108098', 'Meier']
-
-SUN proteins: !interact with! KASH proteins 
-AtWIPs: !interact with! AtSUNs 
-AtWIPs: !localize to! NE 
-AtRanGAP1: !anchored by! AtWIPs 
-AtSUNs: !maintain! nuclear shape

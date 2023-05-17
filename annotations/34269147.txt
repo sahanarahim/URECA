@@ -1,9 +1,0 @@
-Plant photosynthesis processes play vital roles in crop plant development. Understanding carbohydrate partitioning via sugar transport is one of the potential ways to modify crop biomass, which is tightly linked to plant architecture, such as plant height and panicle size. Based on the literature, we highlight recent findings to summarize phloem loading by sucrose transport in rice. In rice, sucrose transporters, <i>OsSUTs</i> (sucrose transporters) and <i>OsSWEETs</i> (sugars are eventually exported transporters) import sucrose and export cells between phloem parenchyma cells and companion cells. Before sucrose transporters perform their functions, several transcription factors can induce sucrose transporter gene transcription levels, such as <i>Oryza sativa</i> DNA binding with one finger 11 (<i>OsDOF11</i>) and <i>Oryza sativa</i> Nuclear Factor Y B1 (<i>OsNF-YB1</i>). In addition to native regulator genes, environmental factors, such as CO<sub>2</sub> concentration, drought stress and increased temperature, also affect sucrose transporter gene transcription levels. However, more research work is needed on formation regulation webs. Elucidation of the phloem loading mechanism could improve our understanding of rice development under multiple conditions and facilitate its manipulation to increase crop productivity.
-
-OsSUTs: !import! sucrose
-OsSWEETs: !export! cells
-OsDOF11: !induces! OsSUTs transcription
-OsNF-YB1: !induces! OsSUTs transcription
-CO2 concentration: !affects! OsSUTs transcription
-drought stress: !affects! OsSUTs transcription
-increased temperature: !affects! OsSUTs transcription

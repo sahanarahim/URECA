@@ -1,8 +1,0 @@
-Trans-acting siRNA form through a refined RNAi mechanism in plants. miRNA-guided cleavage triggers entry of precursor transcripts into an RNA-DEPENDENT RNA POLYMERASE6 pathway, and sets the register for phased tasiRNA formation by DICER-LIKE4. Here, we show that miR390-ARGONAUTE7 complexes function in distinct cleavage or noncleavage modes at two target sites in TAS3a transcripts. The AGO7 cleavage, but not the noncleavage, function could be provided by AGO1, the dominant miRNA-associated AGO, but only when AGO1 was guided to a modified target site through an alternate miRNA. AGO7 was highly selective for interaction with miR390, and miR390 in turn was excluded from association with AGO1 due entirely to an incompatible 5' adenosine. Analysis of AGO1, AGO2, and AGO7 revealed a potent 5' nucleotide discrimination function for some, although not all, ARGONAUTEs. miR390 and AGO7, therefore, evolved as a highly specific miRNA guide/effector protein pair to function at two distinct tasiRNA biogenesis steps.
-
-miR390: !guides! AGO7
-AGO7: !selectively interacts with! miR390
-AGO1: !provides cleavage function for! miR390
-miR390: !excluded from association with! AGO1
-AGO1, AGO2, AGO7: !discriminate between! 5' nucleotides
-miR390/AGO7: !evolved as a specific pair to function at! tasiRNA biogenesis steps

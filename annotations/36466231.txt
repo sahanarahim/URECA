@@ -1,9 +1,0 @@
-Plant virus-mediated sgRNA delivery and expression have great advantages; sgRNA expression can rapidly expand and accumulate along with virus replication and movement, resulting in efficient gene editing efficiency. In this study, a VIGE system based on cotton leaf crumple virus (CLCrV) was established using cotton overexpressing Cas9 (Cas9-OE) as the VIGE receptor. CLCrV-mediated VIGE could not only target and knock out the <i>GhMAPKKK2</i>, <i>GhCLA1</i> and <i>GhPDS</i> genes subgroup A and D genome sequences but also achieve double mutation of <i>GhCLA1</i> and <i>GhPDS</i> genes at the same time. These results verified the effectiveness and efficiency of this system. In addition, the off-target effect assay demonstrated that the CLCrV-mediated VIGE system not only has high gene editing efficiency but also high gene editing specificity in cotton. We further explored whether the <i>FT-</i>sgRNA strategy could transport sgRNA to cotton apical meristem (SAM) over long distances to avoid using tissue culture to obtain stable genetic mutants. The results showed that the sgRNA fused with <i>FT</i> mRNA at the 5' end could also efficiently achieve targeted editing of endogenous genes in cotton, but it was difficult to detect heritable mutant progeny. The above results showed that the CLCrV-mediated VIGE system provided an accurate and rapid validation tool for screening effective sgRNAs in cotton.
-
-sgRNA: !expressed by! CLCrV 
-CLCrV: !mediates! VIGE 
-Cas9-OE: !receives! VIGE 
-sgRNA: !targets and knocks out! GhMAPKKK2, GhCLA1, GhPDS 
-GhCLA1, GhPDS: !double mutated! by sgRNA 
-sgRNA: !transported to! SAM 
-FT-sgRNA: !achieves targeted editing of! endogenous genes in cotton

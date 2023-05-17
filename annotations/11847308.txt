@@ -1,6 +1,0 @@
-['11847308', 'Animal SGT1 is a component of Skp1-Cullin-F-box protein (SCF) ubiquitin ligases  that target regulatory proteins for degradation. Mutations in one (SGT1b) of two  highly homologous Arabidopsis SGT1 genes disable early plant defenses conferred  by multiple resistance (R) genes. Loss of SGT1b function in resistance is not  compensated for by SGT1a. R genes differ in their requirements for SGT1b and a  second resistance signaling gene, RAR1, that was previously implicated as an SGT1  interactor. Moreover, SGT1b and RAR1 contribute additively to RPP5-mediated  pathogen recognition. These data imply both operationally distinct and  cooperative functions of SGT1 and RAR1 in plant disease resistance.', '2002 Mar 15', 'Science', '10.1126/science.1067747', 'Parker']
-
-SGT1b: !affects! Plant defenses 
-SGT1b: !interacts with! RAR1 
-RAR1: !contributes to! RPP5-mediated pathogen recognition 
-SGT1b: !compensated by! SGT1a

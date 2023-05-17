@@ -1,9 +1,0 @@
-['10368174', 'shi (for short internodes), a semidominant dwarfing mutation of Arabidopsis  caused by a transposon insertion, confers a phenotype typical of mutants  defective in the biosynthesis of gibberellin (GA). However, the application of GA  does not correct the dwarf phenotype of shi plants, suggesting that shi is  defective in the perception of or in the response to GA. In agreement with this  observation, the level of active GAs was elevated in shi plants, which is the  result expected when feedback control of GA biosynthesis is reduced. Cloning of  the SHI gene revealed that in shi, the transposon is inserted into the  untranslated leader so that a cauliflower mosaic virus 35S promoter in the  transposon reads out toward the SHI open reading frame. This result, together  with mRNA analysis, suggests that the phenotype of the shi mutant is a result of  overexpression of the SHI open reading frame. The predicted amino acid sequence  of SHI has acidic and glutamine-rich stretches and shows sequence similarity over  a putative zinc finger region to three presumptive Arabidopsis proteins. This  suggests that SHI may act as a negative regulator of GA responses through  transcriptional control.', '1999 Jun', 'Plant Cell', '10.1105/tpc.11.6.1019', 'Sundberg']
-
-shi: !causes! dwarf phenotype 
-shi: !elevates! active GAs 
-transposon: !inserts into! untranslated leader 
-35S promoter: !reads out toward! SHI open reading frame 
-SHI open reading frame: !overexpressed in! shi mutant 
-SHI: !has similarity to! three presumptive Arabidopsis proteins 
-SHI: !may act as! negative regulator of GA responses

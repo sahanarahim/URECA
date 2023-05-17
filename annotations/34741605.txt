@@ -1,9 +1,0 @@
-Phytochrome A (phyA) is the far-red (FR) light photoreceptor in plants that is essential for seedling de-etiolation under FR-rich environments, such as canopy shade. TANDEM ZINC-FINGER/PLUS3 (TZP) was recently identified as a key component of phyA signal transduction in Arabidopsis thaliana; however, how TZP is integrated into the phyA signaling networks remains largely obscure. Here, we demonstrate that ELONGATED HYPOCOTYL5 (HY5), a well-characterized transcription factor promoting photomorphogenesis, mediates FR light induction of TZP expression by directly binding to a G-box motif in the TZP promoter. Furthermore, TZP physically interacts with CONSTITUTIVE PHOTOMORPHOGENIC1 (COP1), an E3 ubiquitin ligase targeting HY5 for 26S proteasome-mediated degradation, and this interaction inhibits COP1 interaction with HY5. Consistent with those results, TZP post-translationally promotes HY5 protein stability in FR light, and in turn, TZP protein itself is destabilized by COP1 in both dark and FR light conditions. Moreover, tzp hy5 double mutants display an additive phenotype relative to their respective single mutants under high FR light intensities, indicating that TZP and HY5 also function in largely independent pathways. Together, our data demonstrate that HY5 and TZP mutually upregulate each other in transmitting the FR light signal, thus providing insights into the complicated but delicate control of phyA signaling networks.
-
-phyA: !induces! TZP
-TZP: !binds to! G-box motif
-HY5: !mediates! FR light induction of TZP
-TZP: !interacts with! COP1
-COP1: !targets! HY5
-TZP: !promotes! HY5 protein stability
-COP1: !destabilizes! TZP

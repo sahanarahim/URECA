@@ -1,7 +1,0 @@
-The quantification of stomatal pore size has long been a fundamental approach to understand the physiological response of plants in the context of environmental adaptation. Automation of such methodologies not only alleviates human labor and bias, but also realizes new experimental research methods through massive analysis. Here, we present an image analysis pipeline that automatically quantifies stomatal aperture of Arabidopsis thaliana leaves from brightfield microscopy images containing mesophyll tissue as noisy backgrounds. By combining a YOLOX-based stomatal detection submodule and a U-Net-based pore segmentation submodule, we achieved 0.875 mAP50 (mean average precision; stomata detection performance) and 0.745 IoU (intersection of union; pore segmentation performance) against images of leaf discs taken with a brightfield microscope. Moreover, we designed a portable imaging device that allows easy acquisition of stomatal images from detached/undetached intact leaves on-site. We demonstrated that this device in combination with fine-tuned models of the pipeline we generated here provides robust measurements that can substitute for manual measurement of stomatal responses against pathogen inoculation. Utilization of our hardware and pipeline for automated stomatal aperture measurements is expected to accelerate research on stomatal biology of model dicots.
-
-YOLOX: !detects! stomata 
-U-Net: !segments! pore 
-portable imaging device: !acquires! stomatal images 
-pipeline: !quantifies! stomatal aperture 
-models: !substitutes for! manual measurement

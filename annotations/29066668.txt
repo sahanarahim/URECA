@@ -1,9 +1,0 @@
-DELLA proteins play a central role in gibberellin (GA) signaling. GA triggers DELLA degradation via the ubiquitin-proteasome pathway, thereby promoting plant growth. An increase in cytosolic Ca<sup>2+</sup> ([Ca<sup>2+</sup>]<sub>cyt</sub>) was observed previously after several hours of GA application. Recent studies also suggest the existence of a DELLA-independent GA response. However, the effect of DELLA on the GA-induced increase in [Ca<sup>2+</sup>]<sub>cyt</sub> remains unknown. This study reexamined the effects of GAs on [Ca<sup>2+</sup>]<sub>cyt</sub> using the Ca<sup>2+</sup> sensor protein aequorin in Arabidopsis (<i>Arabidopsis thaliana</i>). [Ca<sup>2+</sup>]<sub>cyt</sub> increased within a few minutes of GA treatment, even in transgenic plants expressing a mutated degradation-resistant version of REPRESSOR OF <i>ga1-3</i> and in <i>della</i> pentuple mutant plants. In addition, it was also revealed that Ca<sup>2+</sup> is not involved in DELLA degradation. These results suggest that the GA-induced increase in [Ca<sup>2+</sup>]<sub>cyt</sub> occurs via a DELLA-independent pathway, providing important information on the GA signaling network.
-
-GA: !triggers! DELLA degradation
-DELLA: !affects! GA-induced increase in [Ca<sup>2+</sup>]<sub>cyt</sub>
-Ca<sup>2+</sup>: !increases! within minutes of GA treatment
-aequorin: !detects! GA-induced increase in [Ca<sup>2+</sup>]<sub>cyt</sub>
-mutation-resistant version of REPRESSOR OF <i>ga1-3</i>: !does not affect! GA-induced increase in [Ca<sup>2+</sup>]<sub>cyt</sub>
-<i>della</i> pentuple mutant plants: !do not affect! GA-induced increase in [Ca<sup>2+</sup>]<sub>cyt</sub>
-Ca<sup>2+</sup>: !not involved in! DELLA degradation

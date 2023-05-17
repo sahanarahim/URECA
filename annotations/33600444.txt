@@ -1,9 +1,0 @@
-The exogenous light signal and endogenous auxin are two critical factors that antagonistically regulate hypocotyl growth. However, the regulatory mechanisms integrating light and auxin signaling pathways need further investigation. In this study, we identified a direct link between the light and auxin signaling pathways mediated by the auxin transcriptional repressor IAA3 and light-controlled PIF transcription factors in Arabidopsis. The gain-of-function mutation in IAA3 caused hyposensitivity to light, whereas disruption of IAA3 led to an elongated hypocotyl under different light intensity conditions, indicating that IAA3 is required in light regulated hypocotyl growth. Genetic studies showed that the function of IAA3 in hypocotyl elongation is dependent on PIFs. Our data further demonstrated that IAA3 interacts with PIFs in vitro and in vivo, and it attenuates the DNA binding activities of PIFs to the target genes. Moreover, IAA3 negatively regulates the expression of PIFs-dependent genes. Collectively, our study reveals an interplay mechanism of light and auxin on the regulation of hypocotyl growth, coordinated by the IAA3 and PIFs transcriptional regulatory module.
-
-light: !regulates! hypocotyl growth
-auxin: !regulates! hypocotyl growth
-IAA3: !mediates! light and auxin signaling pathways
-PIFs: !mediates! light and auxin signaling pathways
-IAA3: !interacts with! PIFs
-IAA3: !attenuates! DNA binding activities of PIFs
-IAA3: !negatively regulates! expression of PIFs-dependent genes

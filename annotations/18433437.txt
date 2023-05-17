@@ -1,9 +1,0 @@
-A precise regulation of flowering time is central to plant species survival. Therefore, mechanisms have evolved in plants to integrate various environmental cues to optimize flowering time. In this study, we show that the product of the wheat gene TaFT, which integrates photoperiod and vernalization signals promoting flowering, interacts with bZIP proteins TaFDL2 and TaFDL6. We also show that TaFDL2 can interact in vitro with five ACGT elements in the promoter of the meristem identity gene VRN1, suggesting that TaFDL2 is a functional homologue of Arabidopsis FD. No direct interactions between the TaFT protein and the VRN1 promoter were detected. Transgenic wheat plants over-expressing TaFT showed parallel increases in VRN1 transcripts, suggesting that TaFT provides transcriptional activation of VRN1, possibly through interactions with the TaFDL2 protein. The same transgenic plants also showed increased transcript levels of TaFT2 (a TaFT paralogue), indicating that TaFT2 acts downstream of TaFT. The fact that TaFT2 interacts with another bZIP protein TaFDL13, which lacks the ability to interact with the VRN1 promoter, suggests that TaFT and TaFT2 have different gene targets. This observation agrees with the functional divergence observed for the TaFT and TaFT2 orthologous genes in rice. The temperate cereals analyzed so far show VRN1 transcripts in the leaves, a characteristic not observed in Arabidopsis or rice. The high levels of TaFDL2 transcripts observed in wheat leaves provide a simple explanation for this difference. We present a hypothesis to explain the conservation of VRN1 expression in the leaves of temperate cereals.
-
-TaFT: !interacts with! TaFDL2 
-TaFDL2: !interacts with! VRN1 promoter 
-TaFT: !enhances! VRN1 transcripts 
-TaFT: !synthesizes! TaFT2 
-TaFT2: !interacts with! TaFDL13 
-TaFT: !represses! TaFT2 
-TaFDL2: !synthesizes! high levels of transcripts in wheat leaves

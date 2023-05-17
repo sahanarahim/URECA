@@ -1,7 +1,0 @@
-Computational methods are required for prediction of non-coding RNAs (ncRNAs), which are involved in many biological processes, especially at post-transcriptional level. Among these ncRNAs, miRNAs have been largely studied and biologists need efficient and fast tools for their identification. In particular, ab initio methods are usually required when predicting novel miRNAs. Here we present a web server dedicated for miRNA precursors identification at a large scale in genomes. It is based on an algorithm called miRNAFold that allows predicting miRNA hairpin structures quickly with high sensitivity. miRNAFold is implemented as a web server with an intuitive and user-friendly interface, as well as a standalone version. The web server is freely available at: http://EvryRNA.ibisc.univ-evry.fr/miRNAFold.
-
-miRNA: !involved in! biological processes
-ncRNAs: !require! computational methods
-miRNAFold: !predicts! miRNA hairpin structures
-miRNAFold: !implemented as! web server
-web server: !available at! http://EvryRNA.ibisc.univ-evry.fr/miRNAFold

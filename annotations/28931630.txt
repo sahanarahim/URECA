@@ -1,7 +1,0 @@
-['28931630', 'Peroxisomes are small organelles that house many oxidative reactions. Peroxisome  proliferation is induced under multiple stress conditions, including salt stress;  however, factors regulating this process are not well defined. We have identified  a role for Arabidopsis (Arabidopsis thaliana) MAP KINASE17 (MPK17) in affecting  peroxisome division in a manner that requires the known peroxisome division  factor PEROXISOME AND MITOCHONDRIAL DIVISION FACTOR1 (PMD1). MPK17 and PMD1 are  involved in peroxisome proliferation in response to NaCl stress. Additionally, we  found that PMD1 is an actin-binding protein and that a functioning actin  cytoskeleton is required for NaCl-induced peroxisome division. Our data suggest  roles for MPK17 and PMD1 in influencing the numbers and cellular distribution of  peroxisomes through the cytoskeleton-peroxisome connection. These findings expand  our understanding of peroxisome division and potentially identify factors  connecting the actin cytoskeleton and peroxisome proliferation.', '2018 Jan', 'Plant Physiol', '10.1104/pp.17.01019', 'ORCID:']
-
-MPK17: !affects! Peroxisome division
-PMD1: !affects! Peroxisome division
-MPK17: !interacts with! PMD1
-PMD1: !binds to! Actin
-Actin: !connects to! Peroxisome proliferation

@@ -1,8 +1,0 @@
-The xylem cavitation threshold water potential establishes a hydraulic limit on the ability of woody species to survive in water-limiting environments, but herbs may be more plastic in terms of their ability to adapt to drying conditions. Here, we examined the capacity of sunflower (Helianthus annuus L.) leaves to adapt to reduced water availability by modifying the sensitivity of xylem and stomata to soil water deficit. We found that sunflower plants grown under water-limited conditions significantly adjusted leaf osmotic potential, which was linked to a prolongation of stomatal opening as soil dried and a reduced sensitivity of photosynthesis to water-stress-induced damage. At the same time, the vulnerability of midrib xylem to water-stress-induced cavitation was observed to be highly responsive to growth conditions, with water-limited plants producing conduits with thicker cell walls which were more resistant to xylem cavitation. Coordinated plasticity in osmotic potential and xylem vulnerability enabled water-limited sunflowers to safely extract water from the soil, while protecting leaf xylem against embolism. High plasticity in sunflower xylem contrasts with data from woody plants and may suggest an alternative strategy in herbs.
-
-soil: !affects! stomatal opening 
-soil: !affects! photosynthesis 
-water-limited plants: !produce! thicker cell walls 
-osmotic potential: !linked to! stomatal opening 
-xylem vulnerability: !responsive to! growth conditions 
-osmotic potential: !coordinated with! xylem vulnerability

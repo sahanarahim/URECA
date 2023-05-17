@@ -1,8 +1,0 @@
-Next-generation sequencing allows the identification of mutations responsible for mutant phenotypes by whole-genome resequencing and alignment to a reference genome. However, when the resequenced cultivar/line displays significant structural variation from the reference genome, mutations in the genome regions missing from the reference (gaps) cannot be identified by simple alignment. Here we report on a method called 'MutMap-Gap', which involves delineating a candidate region harboring a mutation of interest using the recently reported MutMap method, followed by de novo assembly, alignment, and identification of the mutation within genome gaps. We applied MutMap-Gap to isolate the blast resistant gene Pii from the rice cv Hitomebore using mutant lines that have lost Pii function. MutMap-Gap should prove useful for cloning genes that exhibit significant structural variations such as disease resistance genes of the nucleotide-binding site-leucine rich repeat (NBS-LRR) class.
-
-Gene: !affects! Phenotype 
-Gene: !localizes to! Rice cv Hitomebore 
-Gene: !interacts with! MutMap method 
-Gene: !enhances! Blast resistance 
-Gene: !represses! NBS-LRR class 
-Gene: !synthesizes! De novo assembly

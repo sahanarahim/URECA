@@ -1,8 +1,0 @@
-Chromosome number is a central feature of eukaryote genomes. Deciphering patterns of chromosome-number change along a phylogeny is central to the inference of whole genome duplications and ancestral chromosome numbers. ChromEvol is a probabilistic inference tool that allows the evaluation of several models of chromosome-number evolution and their fit to the data. However, fitting a model does not necessarily mean that the model describes the empirical data adequately. This vulnerability may lead to incorrect conclusions when model assumptions are not met by real data. Here, we present a model adequacy test for likelihood models of chromosome-number evolution. The procedure allows us to determine whether the model can generate data with similar characteristics as those found in the observed ones. We demonstrate that using inadequate models can lead to inflated errors in several inference tasks. Applying the developed method to 200 angiosperm genera, we find that in many of these, the best-fitting model provides poor fit to the data. The inadequacy rate increases in large clades or in those in which hybridizations are present. The developed model adequacy test can help researchers to identify phylogenies whose underlying evolutionary patterns deviate substantially from current modelling assumptions and should guide future methods development.
-
-Chromosome number: !affects! Genome
-ChromEvol: !allows evaluation of! Models
-Model: !generates data with! Characteristics
-Model: !inflates errors in! Inference tasks
-Model adequacy test: !determines! Model fit
-Model adequacy test: !identifies! Phylogenies

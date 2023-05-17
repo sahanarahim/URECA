@@ -1,8 +1,0 @@
-The unfolded protein response (UPR) is a highly conserved cellular response that prevents abnormal maturation of proteins in the endoplasmic reticulum (ER). The expression of genes encoding ER chaperones is induced during the UPR. In the Arabidopsis UPR, two membrane-bound transcription factors, bZIP60 and bZIP28, activate the expression of those genes. bZIP60 is regulated by unconventional cytoplasmic splicing catalyzed by inositol requiring enzyme 1 (IRE1), which is located in the ER membrane. bZIP28 is regulated by intramembrane proteolysis. Pathogen infection and salicylic acid (SA) have been reported to induce the expression of some UPR genes. Here, we show that UPR genes including BiP3, a marker gene of the Arabidopsis UPR, are induced by exogenous SA treatment and activation of bZIP60 in an IRE1-dependent manner. The induction of gene expression and activation of bZIP60 were independent of NPR1 and HsfB1 under these experimental conditions. We generated antibodies to detect the proteolytic products of bZIP28 after SA treatment. An assay using these antibodies showed that SA activated bZIP28, as well as activating bZIP60 through IRE1. Together, these results show that exogenous SA treatment activates two signaling arms of the Arabidopsis UPR. We propose a possible mechanism of activation of the UPR machinery by SA.
-
-IRE1: !activates! bZIP60
-bZIP60: !induces! UPR genes
-SA: !activates! bZIP60
-SA: !activates! bZIP28
-NPR1: !independent of! SA-induced gene expression
-HsfB1: !independent of! SA-induced gene expression

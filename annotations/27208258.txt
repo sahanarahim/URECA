@@ -1,9 +1,0 @@
-MicroRNAs (miRNAs) are key posttranscriptional regulators of gene expression in animals and plants. They guide RNA-induced silencing complexes to complementary target mRNA, thereby mediating mRNA degradation or translational repression. ARGONAUTE (AGO) proteins bind directly to miRNAs and may catalyze cleavage (slicing) of target mRNAs. In animals, miRNA target degradation via slicing occurs only exceptionally, and target mRNA decay is induced via AGO-dependent recruitment of deadenylase complexes. Conversely, plant miRNAs generally direct slicing of their targets, but it is unclear whether slicer-independent mechanisms of target mRNA decay also exist, and, if so, how much they contribute to miRNA-induced mRNA decay. Here, we compare phenotypes and transcript profiles of ago1 null and slicer-deficient mutants in Arabidopsis (Arabidopsis thaliana). We also construct conditional loss-of-function mutants of AGO1 to allow transcript profiling in true leaves. Although phenotypic differences between ago1 null and slicer-deficient mutants can be discerned, the results of both transcript profiling approaches indicate that slicer activity is required for mRNA repression of the vast majority of miRNA targets. A set of genes exhibiting up-regulation specifically in ago1 null, but not in ago1 slicer-deficient mutants was also identified, leaving open the possibility that AGO1 may have functions in gene regulation independent of small RNAs.
-
-miRNA: !guides! RNA-induced silencing complexes 
-AGO proteins: !bind to! miRNAs 
-AGO proteins: !catalyze! cleavage of target mRNAs 
-miRNA: !induces! mRNA decay 
-miRNA: !directs! slicing of targets 
-AGO1: !represses! mRNA of miRNA targets 
-AGO1: !may have functions in! gene regulation independent of small RNAs

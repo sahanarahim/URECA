@@ -1,9 +1,0 @@
-['10715325', 'Ethylene-responsive element binding factors (ERFs) are members of a novel family  of transcription factors that are specific to plants. A highly conserved DNA  binding domain known as the ERF domain is the unique feature of this protein  family. To characterize in detail this family of transcription factors, we  isolated Arabidopsis cDNAs encoding five different ERF proteins (AtERF1 to  AtERF5) and analyzed their structure, DNA binding preference, transactivation  ability, and mRNA expression profiles. The isolated AtERFs were placed into three  classes based on amino acid identity within the ERF domain, although all five  displayed GCC box-specific binding activity. AtERF1, AtERF2, and AtERF5  functioned as activators of GCC box-dependent transcription in Arabidopsis  leaves. By contrast, AtERF3 and AtERF4 acted as repressors that downregulated not  only basal transcription levels of a reporter gene but also the transactivation  activity of other transcription factors. The AtERF genes were differentially  regulated by ethylene and by abiotic stress conditions, such as wounding, cold,  high salinity, or drought, via ETHYLENE-INSENSITIVE2 (EIN2)-dependent or  -independent pathways. Cycloheximide, a protein synthesis inhibitor, also induced  marked accumulation of AtERF mRNAs. Thus, we conclude that AtERFs are factors  that respond to extracellular signals to modulate GCC box-mediated gene  expression positively or negatively.', '2000 Mar', 'Plant Cell', '10.1105/tpc.12.3.393', 'Ohme-Takagi']
-
-AtERF1: !activates! GCC box-dependent transcription 
-AtERF2: !activates! GCC box-dependent transcription 
-AtERF3: !represses! reporter gene transcription 
-AtERF4: !represses! transactivation activity 
-AtERF5: !activates! GCC box-dependent transcription 
-EIN2: !regulates! AtERF genes 
-Cycloheximide: !induces! AtERF mRNA accumulation

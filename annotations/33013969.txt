@@ -1,9 +1,0 @@
-While caffeine is one of the most important bioactive metabolites for tea as the most consumed non-alcohol beverage, its biosynthesis and catabolism in tea plants are still not fully understood. Here, we integrated purine alkaloid profiling and transcriptome analysis on shoot tips and roots fed with caffeine, theophylline, or theobromine to gain further understanding of caffeine biosynthesis and degradation. Shoot tips and roots easily took up and accumulated high concentrations of alkaloids, but roots showed much faster caffeine and theophylline degradation rates than shoot tips, which only degraded theophylline significantly but almost did not degrade caffeine. Clearly feedback inhibition on caffeine synthesis or inter-conversion between caffeine, theophylline, and theobromine, and 3-methylxanthine had been observed in alkaloids-fed shoot tips and roots, and these were also evidenced by significant repression of <i>TCS</i> and <i>MXMT</i> genes critical for caffeine biosynthesis. Among these responsively repressed genes, two highly expressed genes <i>TCS-4</i> and <i>TCS-8</i> were characterized for their enzyme activity. While we failed to detect TCS-4 activity, TCS-8 displayed <i>N</i>-methyltransferase activities towards multiple substrates, supporting the complex metabolic network in caffeine biosynthesis in tea plants since at least 13 TCS-like <i>N</i>-methyltransferase genes may function redundantly. This study provides new insight into complex metabolic networks of purine alkaloids in tea plants.
-
-caffeine: !synthesized by! TCS-8
-TCS-8: !has activity of! N-methyltransferase
-TCS-4: !has activity of! none
-caffeine: !repressed by! TCS & MXMT genes
-theophylline: !degraded faster in! roots
-theophylline: !degraded slower in! shoot tips
-caffeine: !degraded almost not in! shoot tips

@@ -1,7 +1,0 @@
-During the past few years several high-quality genomes has been published from Charophyte algae, bryophytes, lycophytes and ferns. These genomes have not only elucidated the origin and evolution of early land plants, but have also provided important insights into the biology of the seed-free lineages. However, critical gaps across the phylogeny remain and many new questions have been raised through comparing seed-free and seed plant genomes. Here, we review the reference genomes available and identify those that are missing in the seed-free lineages. We compare patterns of various levels of genome and epigenomic organization found in seed-free plants to those of seed plants. Some genomic features appear to be fundamentally different. For instance, hornworts, Selaginella and most liverworts are devoid of whole-genome duplication, in stark contrast to other land plants. In addition, the distribution of genes and repeats appear to be less structured in seed-free genomes than in other plants, and the levels of gene body methylation appear to be much lower. Finally, we highlight the currently available (or needed) model systems, which are crucial to further our understanding about how changes in genes translate into evolutionary novelties.
-
-genome: !differs from! seed plants
-hornworts/Selaginella/liverworts: !devoid of! whole-genome duplication
-genes/repeats: !less structured in! seed-free genomes
-gene body methylation: !lower in! seed-free plants
-model systems: !crucial for! understanding gene changes

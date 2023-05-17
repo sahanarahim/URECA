@@ -1,8 +1,0 @@
-The gaseous plant hormone ethylene induces the ripening of climacteric fruit, including apple (Malus domestica). Another phytohormone, auxin, is known to promote ethylene production in many horticultural crops, but the regulatory mechanism remains unclear. Here, we found that auxin application induces ethylene production in apple fruit before the stage of commercial harvest, when they are not otherwise capable of ripening naturally. The expression of MdARF5, a member of the auxin response factor transcription factor (TF) family involved in the auxin signaling pathway, was enhanced by treatment with the synthetic auxin naphthaleneacetic acid (NAA). Further studies revealed that MdARF5 binds to the promoter of MdERF2, encoding a TF in the ethylene signaling pathway, as well as the promoters of two 1-aminocyclopropane-1-carboxylic acid synthase (ACS) genes (MdACS3a and MdACS1) and an ACC oxidase (ACO) gene, MdACO1, all of which encode key steps in ethylene biosynthesis, thereby inducing their expression. We also observed that auxin-induced ethylene production was dependent on the methylation of the MdACS3a promoter. Our findings reveal that auxin induces ethylene biosynthesis in apple fruit through activation of MdARF5 expression.
-
-MdARF5: !induces! MdERF2
-MdARF5: !induces! MdACS3a
-MdARF5: !induces! MdACS1
-MdARF5: !induces! MdACO1
-MdARF5: !depends on! MdACS3a methylation
-auxin: !induces! MdARF5

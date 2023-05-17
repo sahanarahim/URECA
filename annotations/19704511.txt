@@ -1,9 +1,0 @@
-A major challenge in biology is unravelling the mechanisms that regulate gene expression and an important task in this challenge is to identify binding sites for transcription factors in gene promoter regions. These binding sites are short DNA segments that are called motifs. Recent advances in genome sequence availability and in high-throughput gene expression analysis technologies have allowed for the development of computational methods for motif finding. The aim of our study was to identify NO-responsive elements in the promoter region of NO-regulated genes, based on microarray analyses. Using Genomatix Gene2Promotor and MatInspector, we identified eight families of TFBS occurred at least 15% more often in the promoter regions of the responsive genes in comparison to the promoter regions of 28447 Arabidopsis control genes. Most of these TFBSs, such as ocs element-like sequences and WRKY, were already reported to be involved in particular stresses response.
-
-Gene: !affects! Process 
-TFBS: !occurs in! Promoter Region 
-NO-responsive elements: !identified in! Promoter Region 
-TFBS: !occurs more often in! Responsive Genes 
-TFBS: !belongs to! 8 Families 
-ocs element-like sequences: !involved in! Particular Stresses Response 
-WRKY: !involved in! Particular Stresses Response

@@ -1,9 +1,0 @@
-During effector-triggered immunity (ETI) against the devastating rice blast pathogen Magnaporthe oryzae, Pi9 functions as an intracellular resistance protein sensing the pathogen-secreted effector AvrPi9 in rice. Importantly, the underlying recognition mechanism(s) between Pi9 and AvrPi9 remains elusive. In this study, we identified a rice ubiquitin-like domain-containing protein (UDP), AVRPI9-INTERACTING PROTEIN 1 (ANIP1), which is directly targeted by AvrPi9 and also binds to Pi9 in plants. Phenotypic analysis of anip1 mutants and plants overexpressing ANIP1 revealed that ANIP1 negatively modulates rice basal defense against M. oryzae. ANIP1 undergoes 26S proteasome-mediated degradation, which can be blocked by both AvrPi9 and Pi9. Moreover, ANIP1 physically associates with the rice WRKY transcription factor OsWRKY62, which also interacts with AvrPi9 and Pi9 in plants. In the absence of Pi9, ANIP1 negatively regulates OsWRKY62 abundance, which can be promoted by AvrPi9. Accordingly, knocking out of OsWRKY62 in a non-Pi9 background decreased immunity against M. oryzae. However, we also observed that OsWRKY62 plays negative roles in defense against a compatible M. oryzae strain in Pi9-harboring rice. Pi9 binds to ANIP1 and OsWRKY62 to form a complex, which may help to keep Pi9 in an inactive state and weaken rice immunity. Furthermore, using competitive binding assays, we showed that AvrPi9 promotes Pi9 dissociation from ANIP1, which could be an important step toward ETI activation. Taken together, our results reveal an immune strategy whereby a UDP-WRKY module, targeted by a fungal effector, modulates rice immunity in distinct ways in the presence or absence of the corresponding resistance protein.
-
-Pi9: !binds to! ANIP1
-ANIP1: !binds to! Pi9
-AvrPi9: !targets! ANIP1
-ANIP1: !degraded by! 26S proteasome
-ANIP1: !interacts with! OsWRKY62
-AvrPi9: !promotes! Pi9 dissociation from ANIP1
-Pi9: !forms complex with! ANIP1 and OsWRKY62

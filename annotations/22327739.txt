@@ -1,8 +1,0 @@
-The plant circadian clock is proposed to be a network of several interconnected feedback loops, and loss of any component leads to changes in oscillator speed. We previously reported that Arabidopsis thaliana EARLY FLOWERING4 (ELF4) is required to sustain this oscillator and that the elf4 mutant is arrhythmic. This phenotype is shared with both elf3 and lux. Here, we show that overexpression of either ELF3 or LUX ARRHYTHMO (LUX) complements the elf4 mutant phenotype. Furthermore, ELF4 causes ELF3 to form foci in the nucleus. We used expression data to direct a mathematical position of ELF3 in the clock network. This revealed direct effects on the morning clock gene PRR9, and we determined association of ELF3 to a conserved region of the PRR9 promoter. A cis-element in this region was suggestive of ELF3 recruitment by the transcription factor LUX, consistent with both ELF3 and LUX acting genetically downstream of ELF4. Taken together, using integrated approaches, we identified ELF4/ELF3 together with LUX to be pivotal for sustenance of plant circadian rhythms.
-
-ELF4: !affects! ELF3 
-ELF3: !localizes to! nucleus 
-ELF3: !interacts with! PRR9 
-ELF3: !enhances! LUX 
-ELF4: !represses! elf3 mutant phenotype 
-LUX: !synthesizes! ELF3

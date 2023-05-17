@@ -1,6 +1,0 @@
-In the field of genome assembly, contig assembly is one of the most important parts. Contig assembly requires the processing of overlapping regions of a large number of DNA sequences and this calculation usually takes a lot of time. The time consumption of contig assembly algorithms is an important indicator to evaluate the degree of algorithm superiority. Existing methods for processing overlapping regions of sequences consume too much in terms of running time. Therefore, we propose a method SLDMS for processing sequence overlapping regions based on suffix array and monotonic stack, which can effectively improve the efficiency of sequence overlapping regions processing. The running time of the SLDMS is much less than that of Canu and Flye in dealing with the sequence overlap interval and in some data with most sequencing errors occur at both the ends of the sequencing data, the running time of the SLDMS is only about one-tenth of the other two methods.
-
-Contig Assembly: !requires! Processing 
-SLDMS: !improves efficiency of! Sequence Overlapping Regions 
-Canu/Flye: !consumes more time than! SLDMS 
-Sequencing Errors: !occur at! Both Ends

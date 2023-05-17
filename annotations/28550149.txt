@@ -1,8 +1,0 @@
-The plant hormone ethylene is critical for ripening in climacteric fruits, including apple (<i>Malus domestica</i>). Jasmonate (JA) promotes ethylene biosynthesis in apple fruit, but the underlying molecular mechanism is unclear. Here, we found that JA-induced ethylene production in apple fruit is dependent on the expression of <i>MdACS1</i>, an ACC synthase gene involved in ethylene biosynthesis. The expression of <i>MdMYC2</i>, encoding a transcription factor involved in the JA signaling pathway, was enhanced by MeJA treatment in apple fruits, and MdMYC2 directly bound to the promoters of both <i>MdACS1</i> and the ACC oxidase gene <i>MdACO1</i> and enhanced their transcription. Furthermore, MdMYC2 bound to the promoter of <i>MdERF3</i>, encoding a transcription factor involved in the ethylene-signaling pathway, thereby activating <i>MdACS1</i> transcription. We also found that MdMYC2 interacted with MdERF2, a suppressor of <i>MdERF3</i> and <i>MdACS1</i> This protein interaction prevented MdERF2 from interacting with MdERF3 and from binding to the <i>MdACS1</i> promoter, leading to increased transcription of <i>MdACS1</i> Collectively, these results indicate that JA promotes ethylene biosynthesis through the regulation of MdERFs and ethylene biosynthetic genes by MdMYC2.
-
-MdMYC2: !enhances! MdACS1
-MdMYC2: !binds to! MdACO1
-MdMYC2: !binds to! MdERF3
-MdMYC2: !interacts with! MdERF2
-MdERF2: !represses! MdERF3
-MdERF2: !represses! MdACS1

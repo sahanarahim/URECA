@@ -1,8 +1,0 @@
-The advent of single-cell sequencing opened a new era in transcriptomic and genomic research. To understand cell composition using single-cell studies, a variety of cell markers have been widely used to label individual cell types. However, the specific database of cell markers for use by the plant research community remains very limited. To overcome this problem, we developed the Plant Cell Marker DataBase (PCMDB, http://www.tobaccodb.org/pcmdb/), which is based on a uniform annotation pipeline. By manually curating over 130 000 research publications, we collected a total of 81 117 cell marker genes of 263 cell types in 22 tissues across six plant species. Tissue- and cell-specific expression patterns can be visualized using multiple tools: eFP Browser, Bar, and UMAP/TSNE graph. The PCMDB also supports several analysis tools, including SCSA and SingleR, which allows for user annotation of cell types. To provide information about plant species currently unsupported in PCMDB, potential marker genes for other plant species can be searched based on homology with the supported species. PCMDB is a user-friendly hierarchical platform that contains five built-in search engines. We believe PCMDB will constitute a useful resource for researchers working on cell type annotation and the prediction of the biological function of individual cells.
-
-Gene: !affects! Cell type
-Gene: !localizes to! Tissue
-Gene: !interacts with! Species
-Gene: !enhances! Expression pattern
-Gene: !represses! Annotation
-Gene: !synthesizes! Database

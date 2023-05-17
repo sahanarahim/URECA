@@ -1,8 +1,0 @@
-Sexual reproduction constrains progeny to inherit allelic genes from both parents. Selective acquisition of target genes from only one parent in the F1 generation of plants has many potential applications including the elimination of undesired alleles and acceleration of trait stacking. CRISPR/Cas9-based gene drives can generate biased transmission of a preferred allele and convert heterozygotes to homozygotes in insects and mice, but similar strategies have not been implementable in plants because of a lack of efficient homology-directed repair (HDR). Here, we place a gene drive, which consists of cassettes that produce Cas9, guide RNAs (gRNA), and fluorescent markers, into the CRYPTOCHROME 1 (CRY1) gene through CRISPR/Cas9-mediated HDR, resulting in cry1<sup>drive</sup> lines. After crossing the cry1<sup>drive</sup>/cry1<sup>drive</sup> lines to wild type, we observe F1 plants which have DNA at the CRY1 locus from only the cry1<sup>drive</sup>/cry1<sup>drive</sup> parent. Moreover, a non-autonomous trans-acting gene drive, in which the gene drive unit and the target gene are located on different chromosomes, converts a heterozygous mutation in the target gene to homozygous. Our results demonstrate that homozygous F1 plants can be obtained through zygotic conversion using a CRISPR/Cas9-based gene drive.
-
-CRISPR/Cas9-mediated HDR: !places! gene drive 
-gene drive: !produces! Cas9, gRNA, fluorescent markers 
-cry1<sup>drive</sup> lines: !crossed with! wild type 
-F1 plants: !inherit DNA from! cry1<sup>drive</sup>/cry1<sup>drive</sup> parent 
-non-autonomous trans-acting gene drive: !converts! heterozygous mutation to homozygous 
-CRISPR/Cas9-based gene drive: !generates! homozygous F1 plants

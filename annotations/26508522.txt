@@ -1,9 +1,0 @@
-CONSTANS (CO) has a central role in the photoperiod response mechanism in Arabidopsis. However, the functions of legume CO genes in controlling flowering remain unknown. Here, we analyze the expression patterns of E1, E2 and GmCOL1a/1b using near-isogenic lines (NILs), and we further analyze flowering-related genes in gmcol1b mutants and GmCOL1a-overexpressing plants. Our data showed that both E3 and E4 up-regulate E1 expression, with the effect of E3 on E1 being greater than the effect of E4 on E1. E2 was up-regulated by E3 and E4 but down-regulated by E1. GmCOL1a/1b were up-regulated by E1, E2, E3 and E4. Although the spatial and temporal patterns of GmCOL1a/1b expression were more similar to those of AtCOL2 than to those of AtCO, gmcol1b mutants flowered earlier than wild-type plants under long-day (LD) conditions, and the overexpression of GmCOL1a caused late flowering under LD or natural conditions. In addition, GmFT2a/5a, E1 and E2 were down-regulated in GmCOL1a-overexpressing plants under LD conditions. Because E1/2 influences the expression of GmCOL1a, and vice versa, we conclude that these genes may function as part of a negative feedback loop, and GmCOL1a/b genes may serve as suppressors in photoperiodic flowering in soybean under LD conditions.
-
-E3: !up-regulates! E1
-E4: !up-regulates! E1
-E1: !down-regulates! E2
-E2: !up-regulates! GmCOL1a/1b
-GmCOL1a/1b: !up-regulates! E1/2
-GmCOL1a/1b: !suppresses! Photoperiodic flowering in soybean under LD conditions
-GmFT2a/5a: !down-regulated! by GmCOL1a-overexpressing plants under LD conditions

@@ -1,8 +1,0 @@
-Plants survive adversity by modulating their growth in response to changing environmental signals. The phytohormone Gibberellic acid (GA) plays a central role in regulating these adaptive responses by stimulating the degradation of growth repressing DELLA proteins which accumulate during stress. The current model for GA signaling describes how this hormone binds to its receptor GID1 so promoting association of GID1 with DELLA, which then undergoes ubiquitin-mediated proteasomal degradation. Recent data revealed that conjugation of DELLAs to the Small Ubiquitin-like Modifier (SUMO) protein enables plants to modulate its abundance during environmental stress. This is achieved by SUMOylated DELLAs sequestering GID1 via its SUMO interacting motif (SIM) allowing non-SUMOylated DELLAs to accumulate leading to growth restraint under stress and potential yield loss. We demonstrate that GID1 proteins across the major cereal crops contain a functional SIM able to bind SUMO1. Site directed mutagenesis and yeast 2 hybrid experiments reveal that it is possible to disrupt the SIM-SUMO interaction motif without affecting the GA dependent DELLA-GID1 interaction and thereby uncoupling SUMO-mediated inhibition from DELLA degradation. Arabidopsis plants overexpressing a SIM mutant allele of GID1 perform better at relieving DELLA restraint than wild-type GID1. This evidence suggests that manipulating the SIM motif in the GA receptor may provide a possible route to developing stress tolerant crops plants.
-
-GID1: !binds to! GA
-GA: !promotes association of! GID1 with DELLA
-DELLA: !conjugates to! SUMO
-SUMO: !sequesters! GID1 via SIM
-SIM: !interacts with! SUMO
-GID1: !mutated to disrupt! SIM-SUMO interaction

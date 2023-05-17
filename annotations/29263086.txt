@@ -1,7 +1,0 @@
-Long-read single-molecule sequencing, Hi-C sequencing, and improved bioinformatic tools are ushering in an era where complete genome assembly will become common for species with few or no classical genetic resources. There are no guidelines for how to proceed in such cases. Ideally, such genomes would be sequenced by two different methods so that one assembly serves as confirmation of the other; however, cost constraints make this approach unlikely. Overreliance on synteny as a means of confirming and ordering contigs will lead to compounded errors. Optical mapping is an accessible and relatively mature technology that can be used for genome assembly validation. We discuss how optical mapping can be used as a validation tool for genome assemblies and how to interpret the results. In addition, we discuss methods for using optical map data to enhance genome assemblies derived from both traditional sequence contigs and Hi-C pseudomolecules.
-
-Gene: !affects! Process 
-Optical Mapping: !validates! Genome Assembly 
-Optical Mapping: !enhances! Genome Assembly 
-Hi-C Sequencing: !generates! Pseudomolecules 
-Synteny: !confirms! Contigs

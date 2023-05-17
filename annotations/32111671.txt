@@ -1,8 +1,0 @@
-Asymmetric cell division (ACD) and positional signals play critical roles in the tissue patterning process. In the Arabidopsis (<i>Arabidopsis thaliana</i>) root meristem, two major phloem cell types arise via ACDs of distinct origins: one for companion cells (CCs) and the other for proto- and metaphloem sieve elements (SEs). The molecular mechanisms underlying each of these processes have been reported; however, how these are coordinated has remained elusive. Here, we report a new phloem development process coordinated via the SHORTROOT (SHR) transcription factor in Arabidopsis. The movement of SHR into the endodermis regulates the ACD for CC formation by activating microRNA165/6, while SHR moving into the phloem regulates the ACD generating the two phloem SEs. In the phloem, SHR sequentially activates <i>NAC-REGULATED SEED MORPHOLOGY 1</i> (<i>NARS1</i>) and <i>SECONDARY WALL-ASSOCIATED NAC DOMAIN PROTEIN 2</i> (<i>SND2</i>), and these three together form a positive feedforward loop. Under this regulatory scheme, NARS1, generated in the CCs of the root differentiation zone, establishes a top-down signal that drives the ACD for phloem SEs in the meristem. SND2 appears to function downstream to amplify NARS1 via positive feedback. This new regulatory mechanism expands our understanding of the sophisticated vascular tissue patterning processes occurring during postembryonic root development.plantcell;32/5/1519/FX1F1fx1.
-
-SHR: !activates! miRNA165/6 
-miRNA165/6: !regulates! ACD for CC formation 
-SHR: !activates! NARS1 
-NARS1: !establishes! top-down signal 
-NARS1: !drives! ACD for phloem SEs 
-SND2: !amplifies! NARS1

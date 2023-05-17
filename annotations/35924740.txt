@@ -1,9 +1,0 @@
-Plant shoot phototropism is triggered by the formation of a light-driven auxin gradient leading to bending growth. The blue light receptor phototropin 1 (phot1) senses light direction, but how this leads to auxin gradient formation and growth regulation remains poorly understood. Previous studies have suggested phot1's role for regulated apoplastic acidification, but its relation to phototropin and hypocotyl phototropism is unclear. Herein, we show that blue light can cause phot1 to interact with and phosphorylate FERONIA (FER), a known cell growth regulator, and trigger downstream phototropic bending growth in Arabidopsis hypocotyls. fer mutants showed defects in phototropic growth, similar to phot1/2 mutant. FER also interacts with and phosphorylates phytochrome kinase substrates, the phot1 downstream substrates. The phot1-FER pathway acts upstream of apoplastic acidification and the auxin gradient formation in hypocotyl under lateral blue light, both of which are critical for phototropic bending growth in hypocotyls. Our study highlights a pivotal role of FER in the phot1-mediated phototropic cell growth regulation in plants.
-
-phot1: !interacts with! FER
-FER: !phosphorylates! phot1 downstream substrates
-phot1: !triggers! downstream phototropic bending growth
-FER: !regulates! cell growth
-phot1-FER: !acts upstream of! apoplastic acidification
-apoplastic acidification: !forms! auxin gradient
-auxin gradient: !leads to! phototropic bending growth

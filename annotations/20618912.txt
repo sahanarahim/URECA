@@ -1,9 +1,0 @@
-*Second-generation Dynamic Global Vegetation Models (DGVMs) have recently been developed that explicitly represent the ecological dynamics of disturbance, vertical competition for light, and succession. Here, we introduce a modified second-generation DGVM and examine how the representation of demographic processes operating at two-dimensional spatial scales not represented by these models can influence predicted community structure, and responses of ecosystems to climate change. *The key demographic processes we investigated were seed advection, seed mixing, sapling survival, competitive exclusion and plant mortality. We varied these parameters in the context of a simulated Amazon rainforest ecosystem containing seven plant functional types (PFTs) that varied along a trade-off surface between growth and the risk of starvation induced mortality. *Varying the five unconstrained parameters generated community structures ranging from monocultures to equal co-dominance of the seven PFTs. When exposed to a climate change scenario, the competing impacts of CO(2) fertilization and increasing plant mortality caused ecosystem biomass to diverge substantially between simulations, with mid-21st century biomass predictions ranging from 1.5 to 27.0 kg C m(-2). *Filtering the results using contemporary observation ranges of biomass, leaf area index (LAI), gross primary productivity (GPP) and net primary productivity (NPP) did not substantially constrain the potential outcomes. We conclude that demographic processes represent a large source of uncertainty in DGVM predictions.
-
-seed advection: !influences! community structure 
-seed mixing: !influences! community structure 
-sapling survival: !influences! community structure 
-competitive exclusion: !influences! community structure 
-plant mortality: !influences! community structure 
-CO2 fertilization: !competes with! plant mortality 
-climate change: !affects! biomass

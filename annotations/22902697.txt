@@ -1,9 +1,0 @@
-DOUBLE-STRANDED RNA BINDING (DRB) proteins have been functionally characterized in viruses, prokaryotes and eukaryotes and are involved in all aspects of RNA biology. Arabidopsis thaliana (Arabidopsis) encodes five closely related DRB proteins, DRB1 to DRB5. DRB1 and DRB4 are required by DICER-LIKE (DCL) proteins DCL1 and DCL4 to accurately and efficiently process structurally distinct double-stranded RNA (dsRNA) precursor substrates in the microRNA (miRNA) and trans-acting small-interfering RNA (tasiRNA) biogenesis pathways respectively. We recently reported that DRB2 is also involved in the biogenesis of specific miRNA subsets. ( 1) Furthermore, the severity of the developmental phenotype displayed by the drb235 triple mutant plant, compared with those expressed by either drb2, drb3 and drb5 single mutants, or double mutant combinations thereof, indicates that DRB3 and DRB5 function in the same non-canonical miRNA pathway as DRB2. Through the use of our artificial miRNA (amiRNA) plant expression vector, pBlueGreen ( 2) (,) ( 3) we demonstrate here that unlike DRB2, DRB3 and DRB5 are not involved in the dsRNA processing stages of the miRNA biogenesis pathway, but are required to mediate RNA silencing of target genes of DRB2-associated miRNAs.
-
-DRB1: !processes! dsRNA
-DRB4: !processes! dsRNA
-DCL1: !requires! DRB1
-DCL4: !requires! DRB4
-DRB2: !involved in! miRNA biogenesis
-DRB3: !mediates! RNA silencing
-DRB5: !mediates! RNA silencing

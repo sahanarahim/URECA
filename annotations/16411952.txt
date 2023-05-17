@@ -1,7 +1,0 @@
-A simple, improved model of Rubisco synthesis and degradation in cereal leaves is developed using data obtained over the leaf lifespan to return maximum likelihood values for Rubisco proteolysis and biosynthesis. It assumes that the time course of leaf Rubisco content can be described using a log-normal curve, and degradation of the Rubisco pool occurs exponentially. Curve parameters give an insight into how Rubisco dynamics differ among treatments or genotypes; also, statistical analyses can be performed more easily, requiring fewer data and allowing more flexibility in sampling than previous studies. Predicted patterns of synthesis correlate well with independent rbc gene transcript data. Rubisco degradation is a first-order decay process, and biosynthesis correlates with leaf elongation rates. As Rubisco degradation takes place according to first-order kinetics, control of leaf Rubisco concentration must be exerted by adjustment of biosynthetic, rather than proteolytic, rates.
-
-Gene: !synthesizes! Rubisco 
-Gene: !represses! Rubisco degradation 
-Gene: !affects! Rubisco concentration 
-Gene: !correlates with! rbc gene transcript data 
-Gene: !correlates with! leaf elongation rates

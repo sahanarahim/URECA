@@ -1,8 +1,0 @@
-Quinoa (Chenopodium quinoa Willd.) is an ancient grain crop that is tolerant to abiotic stress and has favorable nutritional properties. Downy mildew is the main disease of quinoa and is caused by infections of the biotrophic oomycete Peronospora variabilis Gaüm. Since the disease causes major yield losses, identifying sources of downy mildew tolerance in genetic resources and understanding its genetic basis are important goals in quinoa breeding. We infected 132 South American genotypes, three Danish cultivars and the weedy relative C. album with a single isolate of P. variabilis under greenhouse conditions and observed a large variation in disease traits like severity of infection, which ranged from 5 to 83%. Linear mixed models revealed a significant effect of genotypes on disease traits with high heritabilities (0.72 to 0.81). Factors like altitude at site of origin or seed saponin content did not correlate with mildew tolerance, but stomatal width was weakly correlated with severity of infection. Despite the strong genotypic effects on mildew tolerance, genome-wide association mapping with 88 genotypes failed to identify significant marker-trait associations indicating a polygenic architecture of mildew tolerance. The strong genetic effects on mildew tolerance allow to identify genetic resources, which are valuable sources of resistance in future quinoa breeding.
-
-genotype: !affects! Downy mildew tolerance
-altitude: !does not correlate with! Mildew tolerance
-seed saponin content: !does not correlate with! Mildew tolerance
-stomatal width: !weakly correlates with! Severity of infection
-genotype: !has high heritability for! Disease traits
-genome-wide association mapping: !fails to identify! Marker-trait associations

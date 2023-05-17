@@ -1,9 +1,0 @@
-['11516954', "Poly(A) binding protein (PABP) is an essential, well-conserved, multifunctional  protein involved in translational initiation, mRNA biogenesis, and degradation  [1--5]. We have used a cross-species complementation approach to address the  nature of the essential requirement for PABP in yeast. The expression of Pab3p, a  member of the Arabidopsis thaliana PABP multigene family, rescues the lethal  phenotype associated with the loss of the yeast Pab1p. However, Pab3p neither  protects the mRNA 5' cap from premature removal, nor does it support  poly(A)-dependent translational initiation or the synergistic enhancement of  translation by the poly(A) tail and 5' cap in yeast. However, Pab3p corrects the  temporal lag prior to the entry of the mRNA into the degradation pathway  characteristic of pab1 Delta yeast strains. Furthermore, this lag correction by  Pab3p requires Pan3p, a subunit of poly(A) nuclease, an enzyme involved in the  mRNA 3'-end processing. Importantly, the substitution of Pab3p for the yeast  Pab1p is synthetically lethal with the PAN3 gene deletion. These results show  that the function of PABP in mRNA biogenesis alone could be sufficient to support  cell viability in yeast.", '2001 Aug 7', 'Curr Biol', '10.1016/s0960-9822(01)00371-2', 'Belostotsky']
-
-PABP: !affects! Translational initiation 
-PABP: !affects! mRNA biogenesis 
-PABP: !affects! mRNA degradation 
-Pab3p: !rescues! Lethal phenotype 
-Pab3p: !corrects! Temporal lag 
-Pab3p: !requires! Pan3p 
-Pab3p: !synthetically lethal with! PAN3 gene deletion

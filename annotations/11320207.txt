@@ -1,7 +1,0 @@
-['11320207', 'Brassinosteroid-insensitive 1 (BRI1) of Arabidopsis thaliana encodes a cell  surface receptor for brassinosteroids. Mutations in BRI1 severely affect plant  growth and development. Activation tagging of a weak bri1 allele (bri1-5)  resulted in the identification of a new locus, brs1-1D. BRS1 is predicted to  encode a secreted carboxypeptidase. Whereas a brs1 loss-of-function allele has no  obvious mutant phenotype, overexpression of BRS1 can suppress bri1 extracellular  domain mutants. Genetic analyses showed that brassinosteroids and a functional  BRI1 protein kinase domain are required for suppression. In addition,  overexpressed BRS1 missense mutants, predicted to abolish BRS1 protease activity,  failed to suppress bri1-5. Finally, the effects of BRS1 are selective:  overexpression in either wild-type or two other receptor kinase mutants resulted  in no phenotypic alterations. These results strongly suggest that BRS1 processes  a protein involved in an early event in the BRI1 signaling.', '2001 May 8', 'Proc Natl Acad Sci U S A', '10.1073/pnas.091065998', 'Walker']
-
-BRI1: !encodes! cell surface receptor 
-BRS1: !encodes! secreted carboxypeptidase 
-brassinosteroids: !require! functional BRI1 protein kinase domain 
-BRS1: !suppresses! bri1 extracellular domain mutants 
-BRS1: !processes! protein involved in early event in BRI1 signaling

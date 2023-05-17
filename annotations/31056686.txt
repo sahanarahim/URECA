@@ -1,9 +1,0 @@
-Significant improvements to the centrifuge water-extraction method of measuring the percentage loss volume of water (PLV) and corresponding vulnerability curves (VCs) are reported. Cochard and Sperry rotors are both incapable of measuring the VCs of species with long vessels because of premature embolism induced by hypothetical nanoparticles that can be drawn into segments during flow measurement. In contrast, water extraction pushes nanoparticles out of the sample. This study focuses on a long-vessel species, Robinia pseudoacacia, for which many VCs have been constructed by different methods, and the daily water relations have been quantified. PLV extraction curves have dual Weibull curves, and this paper focuses on the second Weibull curve because it involves the extraction of water from vessels, as proven by staining methods. We demonstrate an improved water extraction method after evaporation correction that has accuracy to within 0.5%, shows good agreement with two traditional methods that are slower and less accurate, and is immune to nanoparticle artefacts. Using Poiseuille's Law and the geometry of vessels, we argue that the percentage loss of conductivity (PLC) equals 2PLV-PLV2 in a special case where all vessels, regardless of size, have the same vulnerability curve. In this special case, this equation predicts the data reasonably well.
-
-Gene: !affects! PLV
-Gene: !affects! VCs
-Gene: !enhances! Water Extraction
-Gene: !synthesizes! Dual Weibull Curves
-Gene: !represses! Nanoparticle Artefacts
-Gene: !localizes to! Long-Vessel Species
-Gene: !interacts with! Poiseuille's Law

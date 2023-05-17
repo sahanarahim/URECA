@@ -1,8 +1,0 @@
-Only a small percentage of the genome sequence is involved in regulation of gene expression, but to biochemically identify this portion is expensive and laborious. In species like maize, with diverse intergenic regions and lots of repetitive elements, this is an especially challenging problem that limits the use of the data from one line to the other. While regulatory regions are rare, they do have characteristic chromatin contexts and sequence organization (the grammar) with which they can be identified. We developed a computational framework to exploit this sequence arrangement. The models learn to classify regulatory regions based on sequence features - k-mers. To do this, we borrowed two approaches from the field of natural language processing: (1) "bag-of-words" which is commonly used for differentially weighting key words in tasks like sentiment analyses, and (2) a vector-space model using word2vec (vector-k-mers), that captures semantic and linguistic relationships between words. We built "bag-of-k-mers" and "vector-k-mers" models that distinguish between regulatory and non-regulatory regions with an average accuracy above 90%. Our "bag-of-k-mers" achieved higher overall accuracy, while the "vector-k-mers" models were more useful in highlighting key groups of sequences within the regulatory regions. These models now provide powerful tools to annotate regulatory regions in other maize lines beyond the reference, at low cost and with high accuracy.
-
-Gene: !affects! Expression 
-Gene: !localizes to! Chromatin Context 
-Gene: !interacts with! Sequence Features 
-Gene: !enhances! Classification of Regulatory Regions 
-Gene: !represses! Non-Regulatory Regions 
-Gene: !synthesizes! Bag-of-Words & Vector-Space Models

@@ -1,9 +1,0 @@
-Plant tissues are distinguished by their gene expression patterns, which can help identify tissue-specific highly expressed genes and their differential functional modules. For this purpose, large-scale soybean transcriptome samples were collected and processed starting from raw sequencing reads in a uniform analysis pipeline. To address the gene expression heterogeneity in different tissues, we utilized an adversarial deconfounding autoencoder (AD-AE) model to map gene expressions into a latent space and adapted a standard unsupervised autoencoder (AE) model to help effectively extract meaningful biological signals from the noisy data. As a result, four groups of 1,743, 914, 2,107, and 1,451 genes were found highly expressed specifically in leaf, root, seed and nodule tissues, respectively. To obtain key transcription factors (TFs), hub genes and their functional modules in each tissue, we constructed tissue-specific gene regulatory networks (GRNs), and differential correlation networks by using corrected and compressed gene expression data. We validated our results from the literature and gene enrichment analysis, which confirmed many identified tissue-specific genes. Our study represents the largest gene expression analysis in soybean tissues to date. It provides valuable targets for tissue-specific research and helps uncover broader biological patterns. Code is publicly available with open source at https://github.com/LingtaoSu/SoyMeta.
-
-Gene: !affects! Expression patterns 
-Expression patterns: !distinguish! Plant tissues 
-AD-AE model: !maps! Gene expressions 
-AE model: !extracts! Biological signals 
-Tissue-specific genes: !identified! By GRNs 
-GRNs: !constructed! From gene expression data 
-Gene enrichment analysis: !validates! Identified genes

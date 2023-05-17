@@ -1,7 +1,0 @@
-Genome-wide association studies (GWASs) are used to detect quantitative trait loci (QTL) using genomic and phenotypic data as inputs. While genomic data are obtained with high throughput and low cost, obtaining phenotypic data requires a large amount of effort and time. In past breeding programs, researchers and breeders have conducted a large number of phenotypic surveys and accumulated results as legacy data. In this study, we conducted a GWAS using phenotypic data of temperate japonica rice (Oryza sativa) varieties from a public database. The GWAS using the legacy data detected several known agriculturally important genes, indicating reliability of the legacy data for GWAS. By comparing the GWAS using legacy data (L-GWAS) and a GWAS using phenotypic data that we measured (M-GWAS), we detected reliable QTL for agronomically important traits. These results suggest that an L-GWAS is a strong alternative to replicate tests to confirm the reproducibility of QTL detected by an M-GWAS. In addition, because legacy data have often been accumulated for many traits, it is possible to evaluate the pleiotropic effect of the QTL identified for the specific trait that we focused on with respect to various other traits. This study demonstrates the effectiveness of using legacy data for GWASs and proposes the use of legacy data to accelerate genomic breeding.
-
-GWAS: !uses! Legacy Data
-GWAS: !detects! QTL
-Legacy Data: !provides! Phenotypic Data
-M-GWAS: !confirms! L-GWAS
-QTL: !has! Pleiotropic Effect

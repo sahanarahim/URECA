@@ -1,8 +1,0 @@
-['18425128', 'RNA-directed DNA methylation (RdDM) is a process in which dicer-generated small  RNAs guide de novo cytosine methylation at the homologous DNA region. To identify  components of the RdDM machinery important for Arabidopsis thaliana development,  we targeted an enhancer active in meristems for methylation, which resulted in  silencing of a downstream GFP reporter gene. This silencing system also features  secondary siRNAs, which trigger methylation that spreads beyond the targeted  enhancer region. A screen for mutants defective in meristem silencing and  enhancer methylation retrieved six dms complementation groups, which included the  known factors DRD1 (ref. 3; a SNF2-like chromatin-remodeling protein) and Pol IVb  subunits. Additionally, we identified a previously unknown gene DMS3 (At3g49250),  encoding a protein similar to the hinge-domain region of structural maintenance  of chromosomes (SMC) proteins. This finding implicates a putative chromosome  architectural protein that can potentially link nucleic acids in facilitating an  RNAi-mediated epigenetic modification involving secondary siRNAs and spreading of  DNA methylation.', '2008 May', 'Nat Genet', '10.1038/ng.119', 'Matzke']
-
-RNA: !directs! DNA methylation 
-dicer: !generates! small RNAs 
-DRD1: !facilitates! chromatin-remodeling 
-Pol IVb: !facilitates! DNA methylation 
-DMS3: !links! nucleic acids 
-secondary siRNAs: !trigger! methylation

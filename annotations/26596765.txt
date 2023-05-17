@@ -1,7 +1,0 @@
-['26596765', 'Light regulates plant growth and development via multiple photoreceptors  including phytochromes and cryptochromes. Although the functions of  photoreceptors have been studied extensively, questions remain regarding the  involvement of cryptochromes in photomorphogenesis. In this study, we identified  a protein, TEOSINTE-LIKE1, CYCLOIDEA, and PROLIFERATING CELL FACTOR 2 (TCP2),  which interacts with the cryptochrome 1 (CRY1) protein in yeast and plant cells  via the N-terminal domains of both proteins. Transgenic plants overexpressing  TCP2 displayed a light-dependent short hypocotyl phenotype, especially in  response to blue light. Moreover, light affected TCP2 expression in a  wavelength-dependent manner and TCP2 positively regulates mRNA expression of HYH  and HY5. These results support the hypothesis that TCP2 is a transcription  activator which acts downstream of multiple photoreceptors, including CRY1.', '2016 Feb', 'J Exp Bot', '10.1093/jxb/erv495', 'Liu']
-
-CRY1: !interacts with! TCP2 
-TCP2: !regulates! HYH 
-TCP2: !regulates! HY5 
-TCP2: !activates! mRNA expression 
-Light: !affects! TCP2 expression

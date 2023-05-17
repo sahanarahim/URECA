@@ -1,8 +1,0 @@
-['15849301', 'Mutant lines defective for each of the four starch debranching enzyme (DBE) genes  (AtISA1, AtISA2, AtISA3, and AtPU1) detected in the nuclear genome of Arabidopsis  (Arabidopsis thaliana) were produced and analyzed. Our results indicate that both  AtISA1 and AtISA2 are required for the production of a functional isoamylase-type  of DBE named Iso1, the major isoamylase activity found in leaves. The absence of  Iso1 leads to an 80% decrease in the starch content in both lines and to the  accumulation of water-soluble polysaccharides whose structure is similar to  glycogen. In addition, the residual amylopectin structure in the corresponding  mutant lines displays a strong modification when compared to the wild type,  suggesting a direct, rather than an indirect, function of Iso1 during the  synthesis of amylopectin. Mutant lines carrying a defect in AtISA3 display a  strong starch-excess phenotype at the end of both the light and the dark phases  accompanied by a small modification of the amylopectin structure. This result  suggests that this isoamylase-type of DBE plays a major role during starch  mobilization. The analysis of the Atpu1 single-mutant lines did not lead to a  distinctive phenotype. However, Atisa2/Atpu1 double-mutant lines display a 92%  decrease in starch content. This suggests that the function of pullulanase partly  overlaps that of Iso1, although its implication remains negligible when Iso1 is  present within the cell.', '2005 May', 'Plant Physiol', '10.1104/pp.105.059295', "D'Hulst"]
-
-AtISA1: !affects! Iso1 production 
-AtISA2: !affects! Iso1 production 
-Iso1: !decreases! starch content 
-Iso1: !modifies! amylopectin structure 
-AtISA3: !affects! starch mobilization 
-AtPU1: !overlaps with! Iso1 function

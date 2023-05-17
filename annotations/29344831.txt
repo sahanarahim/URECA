@@ -1,7 +1,0 @@
-We defined a comprehensive core ABA signaling network in monocot maize, including the gene expression, subcellular localization and interaction network of ZmPYLs, ZmPP2Cs, ZmSnRK2s and the putative substrates. The phytohormone abscisic acid (ABA) plays an important role in plant developmental processes and abiotic stress responses. In Arabidopsis, ABA is sensed by the PYL ABA receptors, which leads to binding of the PP2C protein phosphatase and activation of the SnRK2 protein kinases. These components functioning diversely and redundantly in ABA signaling are little known in maize. Using Arabidopsis pyl112458 and snrk2.2/3/6 mutants, we identified several ABA-responsive ZmPYLs and ZmSnRK2s, and also ZmPP2Cs. We showed the gene expression, subcellular localization and interaction network of ZmPYLs, ZmPP2Cs, and ZmSnRK2s, and the isolation of putative ZmSnRK2 substrates by mass spectrometry in monocot maize. We found that the ABA dependency of PYL-PP2C interactions is contingent on the identity of the PP2Cs. Among 238 candidate substrates for ABA-activated protein kinases, 69 are putative ZmSnRK2 substrates. Besides homologs of previously reported putative AtSnRK2 substrates, 23 phosphoproteins have not been discovered in the dicot Arabidopsis. Thus, we have defined a comprehensive core ABA signaling network in monocot maize and shed new light on ABA signaling.
-
-ZmPYLs: !interacts with! ZmPP2Cs 
-ZmPP2Cs: !activates! ZmSnRK2s 
-ZmSnRK2s: !synthesizes! putative substrates 
-ABA: !affects! PYL-PP2C interactions 
-AtSnRK2s: !enhances! 23 phosphoproteins

@@ -1,7 +1,0 @@
-The present study aimed to dissect tree architectural plasticity into genetic, ontogenetic and environmental effects over the first 4 yr of growth of an apple (Malus x domestica) F1 progeny by means of mixed linear modelling of repeated data. Traits related to both growth and branching processes were annually assessed on different axes of the trees planted in a staggered-start design. Both spatial repetitions, (i.e. different axis types) and temporal repetitions (i.e. successive ages of trees) were considered in a mixed linear model of repeated data. A significant genotype effect was found for most studied traits and interactions between genotype and year and/or age were also detected. The analysis of repeated temporal measures highlighted that the magnitude of the decrease in primary growth is mainly determined by the first year of growth, and the decrease in bottom diameter increment is concomitant with the first fruiting occurrence. This approach allowed us to distinguish among the traits that were under genetic control, those for which this control is exerted differentially throughout tree life or depending on climatic conditions or an axis type. Mapping quantitative trait loci (QTL) that are specific to these different effects will constitute the next step in the research.
-
-genotype: !affects! Traits 
-year: !interacts with! Genotype 
-age: !interacts with! Genotype 
-fruiting occurrence: !influences! Bottom diameter increment 
-QTL: !specific to! Different effects

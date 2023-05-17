@@ -1,8 +1,0 @@
-Tapetum development and pollen production are regulated by a complex transcriptional network that consists of a group of tapetum-specific Arabidopsis transcription factors (TFs). Among these TFs, DEFECTIVE IN TAPETAL DEVELOPMENT AND FUNCTION 1 (TDF1) encodes an R2R3 MYB factor, and ABORTED MICROSPORE (AMS) encodes a basic helix-loop-helix (bHLH) factor. However, knowledge regarding the regulatory role of TDF1 in anther development remains limited. Here, we discovered that TDF1 directly regulates AMS via an AACCT cis-element. We found the precocious AMS transcript and absence of AMS protein in ams<sup>-/-</sup> gpTDF1:AMS-FLAG lines, suggesting the timing of the TDF1-regulated AMS expression is a prerequisite for AMS functioning. We found that TDF1 interacts with AMS. Additionally, the TDF1-AMS complex additively promotes the expression of AMS-regulated genes, suggesting that TDF1 and AMS regulate the downstream genes through a feed-forward loop. EPXB5, encoding a beta-expansin family protein, is another direct target of TDF1, and it is highly expressed in the tapetum and pollen grains. The TDF1-AMS complex acts in concert to activate EXPB5 expression through a feed-forward loop. The identification of the regulatory pathway between TDF1 and AMS provides an interlocked feed-forward loop circuit that precisely regulates the transcriptional cascades that support anther development.
-
-TDF1: !regulates! AMS
-TDF1: !interacts with! AMS
-TDF1: !promotes expression of! AMS-regulated genes
-AMS: !promotes expression of! AMS-regulated genes
-TDF1: !activates! EXPB5
-TDF1: !acts in concert with! AMS

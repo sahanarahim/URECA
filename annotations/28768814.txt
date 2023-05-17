@@ -1,7 +1,0 @@
-With the emergence of massively parallel sequencing, genomewide expression data production has reached an unprecedented level. This abundance of data has greatly facilitated maize research, but may not be amenable to traditional analysis techniques that were optimized for other data types. Using publicly available data, a gene coexpression network (GCN) can be constructed and used for gene function prediction, candidate gene selection, and improving understanding of regulatory pathways. Several GCN studies have been done in maize (<i>Zea mays</i>), mostly using microarray datasets. To build an optimal GCN from plant materials RNA-Seq data, parameters for expression data normalization and network inference were evaluated. A comprehensive evaluation of these two parameters and a ranked aggregation strategy on network performance, using libraries from 1266 maize samples, were conducted. Three normalization methods and 10 inference methods, including six correlation and four mutual information methods, were tested. The three normalization methods had very similar performance. For network inference, correlation methods performed better than mutual information methods at some genes. Increasing sample size also had a positive effect on GCN. Aggregating single networks together resulted in improved performance compared to single networks.
-
-Gene: !affects! Expression Data
-Expression Data: !normalized by! 3 Methods
-Expression Data: !inferred by! 10 Methods
-Network: !improved by! Increasing Sample Size
-Network: !aggregated by! Ranked Aggregation Strategy

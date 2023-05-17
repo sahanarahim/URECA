@@ -1,7 +1,0 @@
-The tomato (Solanum lycopersicum) callose synthase genes CalS11-like and CalS12-like encode proteins that are essential for the formation of callose, a major component of pollen mother cell walls; these enzymes also function in callose formation during pathogen infection. This article describes the targeting of these callose synthase mRNAs by a small RNA derived from the virulence modulating region of two Potato spindle tuber viroid variants. More specifically, viroid infection of tomato plants resulted in the suppression of the target mRNAs up to 1.5-fold, depending on the viroid variant used and the gene targeted. The targeting of these mRNAs by RNA silencing was validated by artificial microRNA experiments in a transient expression system and by RNA ligase-mediated rapid amplification of cDNA ends. Viroid mutants incapable of targeting callose synthase mRNAs failed to induce typical infection phenotypes, whereas a chimeric viroid obtained by swapping the virulence modulating regions of a mild and a severe variant of Potato spindle tuber viroid greatly affected the accumulation of viroids and the severity of disease symptoms. These data provide evidence of the silencing of multiple genes by a single small RNA derived from a viroid.
-
-CalS11-like/CalS12-like: !synthesize! callose 
-viroid: !targets! CalS11-like/CalS12-like mRNAs 
-viroid: !suppresses! CalS11-like/CalS12-like mRNAs 
-viroid mutants: !fail to induce! typical infection phenotypes 
-chimeric viroid: !affects! accumulation of viroids/severity of disease symptoms

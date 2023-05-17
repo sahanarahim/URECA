@@ -1,8 +1,0 @@
-Cyclin-dependent kinases (CDKs) play an essential role in cell cycle regulation during the embryonic and post-embryonic development of various organisms. Full activation of CDKs requires not only binding to cyclins but also phosphorylation of the T-loop domain. This phosphorylation is catalysed by CDK-activating kinases (CAKs). Plants have two distinct types of CAKs, namely CDKD and CDKF; in Arabidopsis, CDKF;1 exhibits the highest CDK kinase activity in vitro. We have previously shown that CDKF;1 also functions in the activation of CDKD;2 and CDKD;3 by T-loop phosphorylation. Here, we isolated the knockout mutants of CDKF;1 and showed that they had severe defects in cell division, cell elongation and endoreduplication. No defect was observed during embryogenesis, suggesting that CDKF;1 function is primarily required for post-embryonic development. In the cdkf;1 mutants, T-loop phosphorylation of CDKA;1, an orthologue of yeast Cdc2/Cdc28p, was comparable to that in wild-type plants, and its kinase activity did not decrease. In contrast, the protein level and kinase activity of CDKD;2 were significantly reduced in the mutants. Substitution of threonine-168 with a non-phosphorylatable alanine residue made CDKD;2 unstable in Arabidopsis tissues. These results indicate that CDKF;1 is dispensable for CDKA;1 activation but is essential for maintaining a steady-state level of CDKD;2, thereby suggesting the quantitative regulation of a vertebrate-type CAK in a plant-specific manner.
-
-CDKs: !require! Cyclins 
-CDKs: !phosphorylated by! CDK-activating kinases (CAKs) 
-CDKF;1: !activates! CDKD;2 and CDKD;3 
-CDKF;1: !maintains steady-state level of! CDKD;2 
-CDKA;1: !activated by! CDKF;1 
-CDKD;2: !quantitatively regulated by! CDKF;1

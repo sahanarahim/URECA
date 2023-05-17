@@ -1,8 +1,0 @@
-For continual learning in the process of plant disease recognition it is necessary to first distinguish between unknown diseases from those of known diseases. This paper deals with two different but related deep learning techniques for the detection of unknown plant diseases; Open Set Recognition (OSR) and Out-of-Distribution (OoD) detection. Despite the significant progress in OSR, it is still premature to apply it to fine-grained recognition tasks without outlier exposure that a certain part of OoD data (also called known unknowns) are prepared for training. On the other hand, OoD detection requires intentionally prepared outlier data during training. This paper analyzes two-head network included in OoD detection models, and semi-supervised OpenMatch associated with OSR technology, which explicitly and implicitly assume outlier exposure, respectively. For the experiment, we built an image dataset of eight strawberry diseases. In general, a two-head network and OpenMatch cannot be compared due to different training settings. In our experiment, we changed their training procedures to make them similar for comparison and show that modified training procedures resulted in reasonable performance, including more than 90% accuracy for strawberry disease classification as well as detection of unknown diseases. Accurate detection of unknown diseases is an important prerequisite for continued learning.
-
-Open Set Recognition: !requires! Out-of-Distribution data
-Out-of-Distribution: !requires! intentionally prepared outlier data
-two-head network: !included in! OoD detection models
-OpenMatch: !associated with! OSR technology
-two-head network: !compared to! OpenMatch
-modified training procedures: !resulted in! reasonable performance

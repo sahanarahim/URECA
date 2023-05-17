@@ -1,7 +1,0 @@
-MicroRNAs (miRNAs) and natural antisense transcripts (NATs) control many biological processes and have been broadly applied for genetic manipulation of eukaryotic gene expression. Still unclear, however, are whether and how NATs regulate miRNA production. Here, we report that the cis-NATs of MIR398 genes repress the processing of their pri-miRNAs. Through genome-wide analysis of RNA sequencing data, we identify cis-NATs of MIRNA genes in Arabidopsis and Brassica. In Arabidopsis, MIR398b and MIR398c are coexpressed in vascular tissues with their antisense genes NAT398b and NAT398c, respectively. Knock down of NAT398b and NAT398c promotes miR398 processing, resulting in stronger plant thermotolerance owing to silencing of miR398-targeted genes; in contrast, their overexpression activates NAT398b and NAT398c, causing poorer thermotolerance due to the upregulation of miR398-targeted genes. Unexpectedly, overexpression of MIR398b and MIR398c activates NAT398b and NAT398c. Taken together, these results suggest that NAT398b/c repress miR398 biogenesis and attenuate plant thermotolerance via a regulatory loop.
-
-MIR398: !represses! NAT398b/c 
-NAT398b/c: !represses! miR398 
-miR398: !silences! miR398-targeted genes 
-NAT398b/c: !activates! miR398-targeted genes 
-MIR398: !activates! NAT398b/c

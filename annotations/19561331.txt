@@ -1,7 +1,0 @@
-The biosynthetic pathway of lutein, the most abundant carotenoid in leaves, has been extensively studied, while its degradation pathway during senescence is poorly understood. We found that a novel carotenoid derivative, lutein 3-acetate, accumulates in senescent leaves of rice (Oryza sativa L.). The change in contents of lutein and lutein 3-acetate suggests that lutein is converted to lutein 3-acetate during senescence. Analysis of mutants involved in light-harvesting complex II (LHCII) accumulation and degradation suggests that the converting activity is induced during senescence and that only free lutein, not lutein bound to LHCII, is converted into lutein 3-acetate.
-
-lutein: !converts to! lutein 3-acetate
-mutants: !induce! converting activity
-senescence: !induces! converting activity
-LHCII: !binds! lutein
-free lutein: !converts to! lutein 3-acetate

@@ -1,9 +1,0 @@
-Plants interact with their environment by modifying gene expression patterns. One mechanism for this interaction involves epigenetic modifications that affect a number of aspects of plant growth and development. Thus, the epigenome is highly dynamic in response to environmental cues and developmental changes. Flowering is controlled by a set of genes that are affected by environmental conditions through an alteration in their expression pattern. This ensures the production of flowers even when plants are growing under adverse conditions, and thereby enhances transgenerational seed production. In this review recent findings on the epigenetic changes associated with flowering in Arabidopsis thaliana grown under abiotic stress conditions such as cold, drought, and high salinity are discussed. These epigenetic modifications include DNA methylation, histone modifications, and the production of micro RNAs (miRNAs) that mediate epigenetic modifications. The roles played by the phytohormones abscisic acid (ABA) and auxin in chromatin remodelling are also discussed. It is shown that there is a crucial relationship between the epigenetic modifications associated with floral initiation and development and modifications associated with stress tolerance. This relationship is demonstrated by the common epigenetic pathways through which plants control both flowering and stress tolerance, and can be used to identify new epigenomic players.
-
-environment: !affects! gene expression
-DNA methylation: !modifies! histone modifications
-ABA: !regulates! chromatin remodelling
-auxin: !regulates! chromatin remodelling
-miRNAs: !mediate! epigenetic modifications
-flowering: !controlled by! genes
-stress tolerance: !related to! epigenetic modifications

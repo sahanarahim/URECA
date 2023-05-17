@@ -1,8 +1,0 @@
-Gene silencing technology, such as RNA interference (RNAi), is commonly used to reduce gene expression in plant cells, and exogenous double-stranded RNA (dsRNA) can induce gene silencing in higher plants. Previously, we showed that the delivery of double-stranded DNA (dsDNA) fragments, such as PCR products of an endogenous gene sequence, into fern (Adiantum capillus-veneris) gametophytic cells induces a sequence-specific gene silencing that we termed DNAi. In this study, we used a neochrome 1 gene (NEO1) that mediates both red light-induced chloroplast movement and phototropism as a model of DNAi and confirmed that the NEO1 function was suppressed by the repression of the NEO1 gene. Interestingly, the gene silencing effect by DNAi was found in the progeny. Cytosine methylation was detected in the NEO1-silenced lines. The DNA modifications was present in the transcriptional region of NEO1, but no differences between wild type and the silenced lines were found in the downstream region of NEO1. Our data suggest that the DNAi gene silencing effect that was inherited throughout the next generation is regulated by epigenetic modification. Furthermore, the histone deacetylase inhibitor, trichostatin A (TSA), recovered the expression and function of NEO1 in the silenced lines, suggesting that histone deacetylation is essential for the direct suppression of target genes by DNAi.
-
-Gene: !silences! NEO1
-NEO1: !mediates! chloroplast movement and phototropism
-DNAi: !induces! sequence-specific gene silencing
-DNAi: !inherited through! next generation
-DNAi: !regulated by! epigenetic modification
-TSA: !recovers! expression and function of NEO1

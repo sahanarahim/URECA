@@ -1,8 +1,0 @@
-In plants and animals, nucleotide-binding leucine-rich repeat (NLR) proteins are intracellular immune sensors that recognize and eliminate a wide range of invading pathogens. NLR-mediated immunity is known to be modulated by environmental factors. However, how pathogen recognition by NLRs is influenced by environmental factors such as light remains unclear. Here, we show that the agronomically important NLR Rpi-vnt1.1 requires light to confer disease resistance against races of the Irish potato famine pathogen <i>Phytophthora infestans</i> that secrete the effector protein AVRvnt1. The activation of Rpi-vnt1.1 requires a nuclear-encoded chloroplast protein, glycerate 3-kinase (GLYK), implicated in energy production. The pathogen effector AVRvnt1 binds the full-length chloroplast-targeted GLYK isoform leading to activation of Rpi-vnt1.1. In the dark, Rpi-vnt1.1-mediated resistance is compromised because plants produce a shorter GLYK-lacking the intact chloroplast transit peptide-that is not bound by AVRvnt1. The transition between full-length and shorter plant GLYK transcripts is controlled by a light-dependent alternative promoter selection mechanism. In plants that lack Rpi-vnt1.1, the presence of AVRvnt1 reduces GLYK accumulation in chloroplasts counteracting GLYK contribution to basal immunity. Our findings revealed that pathogen manipulation of chloroplast functions has resulted in a light-dependent immune response.
-
-NLR: !requires! light
-GLYK: !activated by! AVRvnt1
-GLYK: !controlled by! light-dependent alternative promoter selection mechanism
-AVRvnt1: !binds! full-length GLYK isoform
-Rpi-vnt1.1: !compromised in! dark
-AVRvnt1: !reduces! GLYK accumulation

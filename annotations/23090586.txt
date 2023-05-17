@@ -1,9 +1,0 @@
-Stomata account for much of the 70% of global water usage associated with agriculture and have a profound impact on the water and carbon cycles of the world. Stomata have long been modeled mathematically, but until now, no systems analysis of a plant cell has yielded detail sufficient to guide phenotypic and mutational analysis. Here, we demonstrate the predictive power of a systems dynamic model in Arabidopsis (Arabidopsis thaliana) to explain the paradoxical suppression of channels that facilitate K(+) uptake, slowing stomatal opening, by mutation of the SLAC1 anion channel, which mediates solute loss for closure. The model showed how anion accumulation in the mutant suppressed the H(+) load on the cytosol and promoted Ca(2+) influx to elevate cytosolic pH (pH(i)) and free cytosolic Ca(2+) concentration ([Ca(2+)](i)), in turn regulating the K(+) channels. We have confirmed these predictions, measuring pH(i) and [Ca(2+)](i) in vivo, and report that experimental manipulation of pH(i) and [Ca(2+)](i) is sufficient to recover K(+) channel activities and accelerate stomatal opening in the slac1 mutant. Thus, we uncover a previously unrecognized signaling network that ameliorates the effects of the slac1 mutant on transpiration by regulating the K(+) channels. Additionally, these findings underscore the importance of H(+)-coupled anion transport for pH(i) homeostasis.
-
-SLAC1: !mediates! solute loss
-Mutation of SLAC1: !suppresses! H(+) load
-H(+): !promotes! Ca(2+) influx
-Ca(2+): !regulates! K(+) channels
-pH(i): !amplifies! K(+) channel activities
-Experimental manipulation of pH(i) and [Ca(2+)](i): !recovers! K(+) channel activities
-H(+)-coupled anion transport: !maintains! pH(i) homeostasis

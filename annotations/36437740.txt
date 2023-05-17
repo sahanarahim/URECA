@@ -1,8 +1,0 @@
-Plant microRNAs (miRNAs) are short, noncoding RNA molecules that restrict gene expression via posttranscriptional regulation and function in several essential pathways, including development, growth, and stress responses. Accurately identifying miRNAs in populations of small RNA sequencing libraries is a computationally intensive process that has resulted in the misidentification of inaccurately annotated miRNA sequences. In recent years, criteria for miRNA annotation have been refined with the aim to reduce these misannotations. Here, we describe miRador, a miRNA identification tool that utilizes the most up-to-date, community-established criteria for accurate identification of miRNAs in plants. We combined target prediction and Parallel Analysis of RNA Ends (PARE) data to assess the precision of the miRNAs identified by miRador. We compared miRador to other commonly used miRNA prediction tools and found that miRador is at least as precise as other prediction tools while being substantially faster than other tools. miRador should be broadly useful for the plant community to identify and annotate miRNAs in plant genomes.
-
-miRNA: !restricts! gene expression 
-miRNA: !identifies! miRador 
-miRNA: !predicts! target 
-miRNA: !analyzes! PARE data 
-miRNA: !compares to! other prediction tools 
-miRNA: !is faster than! other tools

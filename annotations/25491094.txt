@@ -1,8 +1,0 @@
-Over the last years reference genome sequences of several economically and scientifically important cereals and model plants became available. Despite the agricultural significance of these crops only a small number of tools exist that allow users to inspect and visualize the genomic position of genes of interest in an interactive manner. We present chromoWIZ, a web tool that allows visualizing the genomic positions of relevant genes and comparing these data between different plant genomes. Genes can be queried using gene identifiers, functional annotations, or sequence homology in four grass species (Triticum aestivum, Hordeum vulgare, Brachypodium distachyon, Oryza sativa). The distribution of the anchored genes is visualized along the chromosomes by using heat maps. Custom gene expression measurements, differential expression information, and gene-to-group mappings can be uploaded and can be used for further filtering. This tool is mainly designed for breeders and plant researchers, who are interested in the location and the distribution of candidate genes as well as in the syntenic relationships between different grass species. chromoWIZ is freely available and online accessible at http://mips.helmholtz-muenchen.de/plant/chromoWIZ/index.jsp.
-
-Gene: !affects! Process
-Gene: !localizes to! Chromosomes
-Gene: !interacts with! Different Plant Genomes
-Gene: !enhances! Visualization
-Gene: !represses! Filtering
-Gene: !synthesizes! Syntenic Relationships

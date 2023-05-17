@@ -1,8 +1,0 @@
-Research in yeast and animals has resulted in a well-supported consensus model for eukaryotic cell cycle control. The fit of this model to early diverging eukaryotes, such as the plant kingdom, remains unclear. Using the green alga Chlamydomonas reinhardtii, we developed an efficient pipeline, incorporating robotics, semiautomated image analysis, and deep sequencing, to molecularly identify >50 genes, mostly conserved in higher plants, specifically required for cell division but not cell growth. Mutated genes include the cyclin-dependent kinases CDKA (resembling yeast and animal Cdk1) and the plant-specific CDKB. The Chlamydomonas cell cycle consists of a long G1 during which cells can grow >10-fold, followed by multiple rapid cycles of DNA replication and segregation. CDKA and CDKB execute nonoverlapping functions: CDKA promotes transition between G1 and entry into the division cycle, while CDKB is essential specifically for spindle formation and nuclear division, but not for DNA replication, once CDKA-dependent initiation has occurred. The anaphase-promoting complex is required for similar steps in the Chlamydomonas cell cycle as in Opisthokonts; however, the spindle assembly checkpoint, which targets the APC in Opisthokonts, appears severely attenuated in Chlamydomonas, based on analysis of mutants affecting microtubule function. This approach allows unbiased integration of the consensus cell cycle control model with innovations specific to the plant lineage.
-
-CDKA: !promotes transition! G1 
-CDKB: !essential for! spindle formation 
-CDKA: !required for! division cycle 
-CDKB: !not required for! DNA replication 
-APC: !required for! similar steps 
-microtubule: !affects! spindle assembly checkpoint

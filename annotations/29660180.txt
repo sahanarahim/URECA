@@ -1,7 +1,0 @@
-WUSCHEL (WUS) is critical for plant meristem maintenance and determinacy in Arabidopsis, and the regulation of its spatiotemporal expression patterns is complex. We previously found that AGAMOUS (AG), a key MADS-domain transcription factor in floral organ identity and floral meristem determinacy, can directly suppress WUS expression through the recruitment of the Polycomb group (PcG) protein TERMINAL FLOWER 2 (TFL2, also known as LIKE HETEROCHROMATIN PROTEIN 1, LHP1) at the WUS locus; however, the mechanism by which WUS is repressed remains unclear. Here, using chromosome conformation capture (3C) and chromatin immunoprecipitation 3C, we found that two specific regions flanking the WUS gene body bound by AG and TFL2 form a chromatin loop that is directly promoted by AG during flower development in a manner independent of the physical distance and sequence content of the intervening region. Moreover, AG physically interacts with TFL2, and TFL2 binding to the chromatin loop is dependent on AG. Transgenic and CRISPR/Cas9-edited lines showed that the WUS chromatin loop represses gene expression by blocking the recruitment of RNA polymerase II at the locus. The findings uncover the WUS chromatin loop as another regulatory mechanism controlling WUS expression, and also shed light on the factors required for chromatin conformation change and their recruitment.
-
-AG: !recruits! TFL2
-AG: !promotes! chromatin loop
-TFL2: !binds to! chromatin loop
-AG: !interacts with! TFL2
-chromatin loop: !represses! WUS expression

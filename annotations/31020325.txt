@@ -1,5 +1,0 @@
-Based on case studies, we discuss the extent to which genome-wide association studies (GWAS) are affected by outlier plants, i.e. those deviating from the expected distribution on a multi-criteria basis. Using a raw dataset consisting of daily measurements of leaf area, biomass, and plant height for thousands of plants, we tested three different cleaning methods for their effects on genetic analyses. No-cleaning resulted in the highest number of dubious quantitative trait loci, especially at loci with highly unbalanced allelic frequencies. A trade-off was identified between the risk of false-positives (with no-cleaning and/or a low threshold for minor allele frequency) and the risk of missing interesting rare alleles. Cleaning can lower the risk of the latter by making it possible to choose a higher threshold in GWAS.
-
-GWAS: !affected by! Outlier plants
-No-cleaning: !increases risk of! Dubious quantitative trait loci
-Cleaning: !lowers risk of! Missing interesting rare alleles

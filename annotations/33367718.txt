@@ -1,9 +1,0 @@
-The hydraulic properties of xylem determine the ability of plants to efficiently and safely provide water to their leaves. These properties are key to understanding plant responses to environmental conditions and evaluating their fate under a rapidly changing climate. However, their assessment is hindered by the challenges of quantifying basic hydraulic components such as bordered pits and tracheids. Here, we use isometric scaling between tracheids and pit morphology to merge partial hydraulic models of the tracheid component and to upscale these properties to the tree-ring level in conifers. Our new model output is first cross-validated with the literature and then applied to cell anatomical measurements from Larix sibirica tree rings formed under harsh conditions in southern Siberia to quantify the intra- and inter-annual variability in hydraulic properties. The model provides a means of assessing how different-sized tracheid components contribute to the hydraulic properties of the ring. Upscaled results indicate that natural inter- and intra-ring anatomical variations have a substantial impact on the tree's hydraulic properties. Our model facilitates the assessment of important xylem functional attributes because it requires only the more accessible measures of cross-sectional tracheid size. This approach, if applied to dated tree rings, provides a novel way to investigate xylem structure-function relationships across time and environmental conditions.
-
-tracheids: !determine! hydraulic properties 
-model: !merges! partial hydraulic models 
-model: !cross-validates with! literature 
-model: !applies to! cell anatomical measurements 
-model: !quantifies! intra- and inter-annual variability 
-model: !facilitates assessment of! xylem functional attributes 
-model: !investigates! xylem structure-function relationships

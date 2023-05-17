@@ -1,7 +1,0 @@
-Understanding the temporal variation of soil and root dynamics is a major step towards determining net carbon in ecosystems. We describe the installation and structure of an in situ soil observatory and sensing network consisting of an automated minirhizotron with associated soil and atmospheric sensors. Ectomycorrhizal hyphae were digitized daily during 2011 in a Mediterranean climate, high-elevation coniferous forest. Hyphal length was high, but stable during winter in moist and cold soil. As soil began to warm and dry, simultaneous mortality and production indicating turnover followed precipitation events. Mortality continued through the dry season, although some hyphae persisted through the extremes. With autumn monsoons, rapid hyphal re-growth occurred following each event. Relative hyphal length is dependent upon soil temperature and moisture. Soil respiration is related to the daily change in hyphal production, but not hyphal mortality. Continuous sensor and observation systems can provide more accurate assessments of soil carbon dynamics.
-
-soil: !affects! hyphal length
-hyphal length: !depends on! soil temperature and moisture
-hyphal production: !related to! soil respiration
-precipitation events: !trigger! hyphal mortality and production
-autumn monsoons: !promote! hyphal re-growth

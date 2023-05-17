@@ -1,8 +1,0 @@
-['9684356', 'Stomata are consistently patterned so that they are not in contact. This  patterning is violated in the too many mouths (tmm) and four lips (flp) mutations  of Arabidopsis thaliana (L.) Heynh. which have stomatal clusters in the  first-formed leaves. To clarify the function of both genes in stomatal initiation  and patterning, the phenotypes of many different organs were quantified. The flp  mutation affects dorsiventral and cylindrical organs differentially with respect  to the frequency of clustering. The tmm mutation has a more complex  region-specific phenotype in that some regions lack stomata entirely, other  regions have excess stomata, and the flower stalk exhibits an apex-to-base  gradient from excess to no stomata. This suggests that TMM represents an unusual  type of gene regulating plant cell development in that it can either influence  stomatal initiation in a positive or negative fashion depending on region. Since  the frequencies of initiation and clustering can be uncoupled in tmm, these two  functions are under separate region-specific control. Analysis of double mutants  shows that tmm and flp in some cases show region-specific interactions in both  cluster formation and initiation, and that there may be subpopulations of stomata  under different genetic control.', '1998 Aug', 'Planta', '10.1007/s004250050351', 'Sack']
-
-flp: !affects! stomatal patterning 
-tmm: !affects! stomatal initiation 
-tmm: !influences! stomatal initiation positively/negatively 
-tmm: !controls! cluster formation 
-tmm: !interacts with! flp 
-tmm: !regulates! plant cell development

@@ -1,9 +1,0 @@
-Transcriptome deep sequencing (RNA-seq) has become a routine method for global gene expression profiling. However, its application to large-scale experiments remains limited by cost and labor constraints. Here we describe a massively parallel 3' end RNA-seq (MP3RNA-seq) method that introduces unique sample barcodes during reverse transcription to permit sample pooling immediately following this initial step. MP3RNA-seq allows for handling of hundreds of samples in a single experiment, at a cost of about $6 per sample for library construction and sequencing. MP3RNA-seq is effective for not only high-throughput gene expression profiling, but also genotyping. To demonstrate its utility, we applied MP3RNA-seq to 477 double haploid lines of maize. We identified 19,429 genes expressed in at least 50% of the lines and 35,836 high-quality single nucleotide polymorphisms for genotyping analysis. Armed with these data, we performed expression and agronomic trait quantitative trait locus (QTL) mapping and identified 25,797 expression QTLs for 15,335 genes and 21 QTLs for plant height, ear height, and relative ear height. We conclude that MP3RNA-seq is highly reproducible, accurate, and sensitive for high-throughput gene expression profiling and genotyping, and should be generally applicable to most eukaryotic species.
-
-RNA-seq: !enables! High-throughput gene expression profiling
-MP3RNA-seq: !allows for! Handling of hundreds of samples
-Maize: !analyzed with! MP3RNA-seq
-19,429 genes: !expressed in! 50% of lines
-35,836 SNPs: !identified for! Genotyping analysis
-Expression QTLs: !mapped for! 15,335 genes
-Agronomic trait QTLs: !mapped for! Plant height, ear height, relative ear height

@@ -1,9 +1,0 @@
-Salt sensitive (pea) and salt tolerant (barley) species were used to understand the physiological basis of differential salinity tolerance in crops. Pea plants were much more efficient in restoring otherwise depolarized membrane potential thereby effectively decreasing K(+) efflux through depolarization-activated outward rectifying potassium channels. At the same time, pea root apex was 10-fold more sensitive to physiologically relevant H2 O2 concentration and accumulated larger amounts of H2 O2 under saline conditions. This resulted in a rapid loss of cell viability in the pea root apex. Barley plants rapidly loaded Na(+) into the xylem; this increase was only transient, and xylem and leaf Na(+) concentration remained at a steady level for weeks. On the contrary, pea plants restricted xylem Na(+) loading during the first few days of treatment but failed to prevent shoot Na(+) elevation in the long term. It is concluded that superior salinity tolerance of barley plants compared with pea is conferred by at least three different mechanisms: (1) efficient control of xylem Na(+) loading; (2) efficient control of H2 O2 accumulation and reduced sensitivity of non-selective cation channels to H2 O2 in the root apex; and (3) higher energy saving efficiency, with less ATP spent to maintain membrane potential under saline conditions.
-
-pea: !accumulates! H2O2 
-pea: !loses cell viability! root apex 
-barley: !loads! Na+ 
-barley: !controls! xylem Na+ loading 
-barley: !controls! H2O2 accumulation 
-barley: !reduces sensitivity! non-selective cation channels 
-barley: !saves energy! ATP

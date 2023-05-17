@@ -1,8 +1,0 @@
-['14617097', 'The Arabidopsis thaliana chlorophyll a/b-binding protein underexpressed 1 (cue1)  mutant shows a reticulate leaf phenotype and is defective in a plastidic  phosphoenolpyruvate (PEP)/phosphate translocator (AtPPT1). A functional AtPPT1  providing plastids with PEP for the shikimate pathway is therefore essential for  correct leaf development. The Arabidopsis genome contains a second PPT gene,  AtPPT2. Both transporters share similar substrate specificities and are therefore  able to transport PEP into plastids. The cue1 phenotype could partially be  complemented by ectopic expression of AtPPT2 but obviously not by the endogeneous  AtPPT2. Both genes are differentially expressed in most tissues: AtPPT1 is mainly  expressed in the vasculature of leaves and roots, especially in xylem parenchyma  cells, but not in leaf mesophyll cells, whereas AtPPT2 is expressed ubiquitously  in leaves, but not in roots. The expression profiles are corroborated by  tissue-specific transport data. As AtPPT1 expression is absent in mesophyll cells  that are severely affected in the cue1 mutant, we propose that the  vasculature-located AtPPT1 is involved in the generation of phenylpropanoid  metabolism-derived signal molecules that trigger development in interveinal leaf  regions. This signal probably originates from the root vasculature where only  AtPPT1, but not AtPPT2, is present.', '2003 Nov', 'Plant J', '10.1046/j.1365-313x.2003.01888.x', 'Fischer']
-
-AtPPT1: !localizes to! vasculature of leaves and roots
-AtPPT2: !localizes to! leaves and roots
-AtPPT1: !enhances! phenylpropanoid metabolism-derived signal molecules
-AtPPT2: !complements! cue1 phenotype
-AtPPT1: !absent in! mesophyll cells
-AtPPT2: !absent in! root vasculature

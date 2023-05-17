@@ -1,9 +1,0 @@
-['17138701', 'The processing of N-linked oligosaccharides in the secretory pathway requires the  sequential action of a number of glycosidases and glycosyltransferases. We  studied the spatial distribution of several type II membrane-bound enzymes from  Glycine max, Arabidopsis thaliana, and Nicotiana tabacum. Glucosidase I (GCSI)  localized to the endoplasmic reticulum (ER), alpha-1,2 mannosidase I (ManI) and  N-acetylglucosaminyltransferase I (GNTI) both targeted to the ER and Golgi, and  beta-1,2 xylosyltransferase localized exclusively to Golgi stacks, corresponding  to the order of expected function. ManI deletion constructs revealed that the  ManI transmembrane domain (TMD) contains all necessary targeting information.  Likewise, GNTI truncations showed that this could apply to other type II enzymes.  A green fluorescent protein chimera with ManI TMD, lengthened by duplicating its  last seven amino acids, localized exclusively to the Golgi and colocalized with a  trans-Golgi marker (ST52-mRFP), suggesting roles for protein-lipid interactions  in ManI targeting. However, the TMD lengths of other plant glycosylation enzymes  indicate that this mechanism cannot apply to all enzymes in the pathway. In fact,  removal of the first 11 amino acids of the GCSI cytoplasmic tail resulted in  relocalization from the ER to the Golgi, suggesting a targeting mechanism relying  on protein-protein interactions. We conclude that the localization of N-glycan  processing enzymes corresponds to an assembly line in the early secretory pathway  and depends on both TMD length and signals in the cytoplasmic tail.', '2006 Nov', 'Plant Cell', '10.1105/tpc.105.036400', 'Gomord']
-
-GCSI: !localizes to! ER
-ManI: !localizes to! ER & Golgi
-GNTI: !localizes to! ER & Golgi
-beta-1,2 xylosyltransferase: !localizes to! Golgi
-ManI TMD: !contains! targeting information
-ManI TMD: !interacts with! lipid
-GCSI cytoplasmic tail: !affects! localization

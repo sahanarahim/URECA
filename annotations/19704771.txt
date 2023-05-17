@@ -1,7 +1,0 @@
-Plants have developed robust signaling mechanisms to cope with environmental stresses. In a recent article in the Plant Journal,1 we reported on a salt stress signaling pathway in Arabidopsis, which is mechanically similar to endoplasmic reticulum (ER) stress responses described in mammalian systems. We found that a type II membrane-bound transcription factor (AtbZIP17) is a salt stress signal transducer and a subtilisin-like serine protease (AtS1P) is a key component of the protein processing machinery in the signaling pathway. AtbZIP17 is normally located in the ER, but in response to salt stress, the membrane-bound transcription factor is proteolytically processed in an AtS1P-dependent step, and the cytosolic component of AtbZIP17 is translocated to the nucleus. We have demonstrated in an in vitro assay that AtS1P directly cleaves AtbZIP17, an initial step in processing. Our study also identified several downstream target genes in the salt signaling pathway. In this addendum, we propose a testable model to describe the action of AtS1P and AtbZIP17 in salt stress signaling and we also present an outlook for future work to test this model.
-
-AtbZIP17: !localizes to! ER 
-AtS1P: !interacts with! AtbZIP17 
-AtS1P: !cleaves! AtbZIP17 
-AtbZIP17: !translocates to! nucleus 
-AtbZIP17: !enhances! downstream target genes

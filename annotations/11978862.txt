@@ -1,6 +1,0 @@
-['11978862', 'We analyzed the role of Arabidopsis orthologues of human Pex14p, Pex5p and Pex7p  that are central components of peroxisomal protein import machinery. Immunoblot  analysis showed that AtPex14p and AtPex5p were present in most organs in  Arabidopsis, suggesting that these factors play a role in the main protein import  pathways for plant peroxisomes. Two-hybrid analysis showed that AtPex14p  interacted with AtPex5p, but not with AtPex7p. In addition, AtPex7p was bound to  AtPex5p, indicating that the PTS2 pathway depends on the PTS1 pathway in  Arabidopsis. Further analysis showed that the nine WXXXF/Y repeats in the amino  acids 231K-450D and 1M-230V of AtPex5p are bound to two N-terminal domains, amino  acids 58I-65L and 78R-97R of AtPex14p and the C-terminal amino acids 266Y-317S of  AtPex7p, respectively. Since the binding domains of AtPex5p to AtPex14p and  AtPex7p do not overlap, AtPex14p, AtPex5p and AtPex7p might form their complex  and function cooperatively in peroxisomal protein import.', '2002 Apr', 'Plant Cell Physiol', '10.1093/pcp/pcf057', 'Nishimura']
-
-AtPex14p: !interacts with! AtPex5p
-AtPex5p: !interacts with! AtPex14p
-AtPex5p: !binds to! AtPex7p
-AtPex7p: !binds to! AtPex5p

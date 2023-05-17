@@ -1,8 +1,0 @@
-Forests are a critical carbon sink and widespread tree mortality resulting from climate-induced drought stress has the potential to alter forests from a carbon sink to a source, causing a positive feedback on climate change. Process-based vegetation models aim to represent the current understanding of the underlying mechanisms governing plant physiological and ecological responses to climate. Yet model accuracy varies across scales, and regional-scale model predictive skill is frequently poor when compared with observations of drought-driven mortality. I propose a framework that leverages differences in model predictive skill across spatial scales, mismatches between model predictions and observations, and differences in the mechanisms included and absent across models to advance the understanding of the physiological and ecological processes driving observed patterns drought-driven mortality.
-
-Gene: !affects! Process 
-Process: !drives! Mortality 
-Mortality: !causes! Feedback 
-Model: !predicts! Mortality 
-Observation: !compares with! Model 
-Mechanism: !included in! Model

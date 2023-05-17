@@ -1,8 +1,0 @@
-The leaf microbiome is influenced by both biotic and abiotic factors. Currently, we know little about the relative importance of these factors in determining microbiota composition and dynamics. To explore this issue, we collected weekly leaf samples over a 98-day growing season from multiple cultivars of common bean, soybean, and canola planted at three locations in Ontario, Canada, and performed Illumina-based microbiome analysis. We find that the leaf microbiota at the beginning of the season is very strongly influenced by the soil microbiota but, as the season progresses, it differentiates, becomes significantly less diverse, and transitions to having a greater proportion of leaf-specific taxa that are shared among all samples. A phylogenetic investigation of communities by reconstruction of unobserved states imputation of microbiome function inferred from the taxonomic data found significant differences between the soil and leaf microbiome, with a significant enrichment of motility gene categories in the former and metabolic gene categories in the latter. A network co-occurrence analysis identified two highly connected clusters as well as subclusters of putative pathogens and growth-promoting bacteria. These data reveal some of the complex ecological dynamics that occur in microbial communities over the course of a growing season and highlight the importance of community succession.
-
-soil: !influences! leaf microbiome
-season: !differentiates! leaf microbiota
-taxa: !shared among! all samples
-motility genes: !enriched in! soil microbiome
-metabolic genes: !enriched in! leaf microbiome
-clusters: !connected by! network co-occurrence analysis

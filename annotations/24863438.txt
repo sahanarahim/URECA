@@ -1,8 +1,0 @@
-In this review, we will present the latest developments in systems biology with particular emphasis on improving nitrogen-use efficiency (NUE) in crops such as maize and demonstrating the application of metabolic models. The review highlights the importance of improving NUE in crops and provides an overview of the transcriptome, proteome, and metabolome datasets available, focusing on a comprehensive understanding of nitrogen regulation. 'Omics' data are hard to interpret in the absence of metabolic flux information within genome-scale models. These models, when integrated with 'omics' data, can serve as a basis for generating predictions that focus and guide further experimental studies. By simulating different nitrogen (N) conditions at a pseudo-steady state, the reactions affecting NUE and additional gene regulations can be determined. Such models thus provide a framework for improving our understanding of the metabolic processes underlying the more efficient use of N-based fertilizers.
-
-Gene: !affects! NUE
-Gene: !localizes to! Transcriptome
-Gene: !interacts with! Proteome
-Gene: !enhances! Metabolome
-Gene: !represses! Metabolic flux
-Gene: !synthesizes! Predictions

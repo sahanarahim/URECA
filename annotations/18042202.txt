@@ -1,9 +1,0 @@
-Minirhizotrons provide detailed information on the production, life history and mortality of fine roots. However, manual processing of minirhizotron images is time-consuming, limiting the number and size of experiments that can reasonably be analysed. Previously, an algorithm was developed to automatically detect and measure individual roots in minirhizotron images. Here, species-specific root classifiers were developed to discriminate detected roots from bright background artifacts. Classifiers were developed from training images of peach (Prunus persica), freeman maple (Acer x freemanii) and sweetbay magnolia (Magnolia virginiana) using the Adaboost algorithm. True- and false-positive rates for classifiers were estimated using receiver operating characteristic curves. Classifiers gave true positive rates of 89-94% and false positive rates of 3-7% when applied to nontraining images of the species for which they were developed. The application of a classifier trained on one species to images from another species resulted in little or no reduction in accuracy. These results suggest that a single root classifier can be used to distinguish roots from background objects across multiple minirhizotron experiments. By incorporating root detection and discrimination algorithms into an open-source minirhizotron image analysis application, many analysis tasks that are currently performed by hand can be automated.
-
-Algorithm: !automatically detects and measures! Individual Roots 
-Adaboost Algorithm: !develops! Species-Specific Root Classifiers 
-Receiver Operating Characteristic Curves: !estimate! True- and False-Positive Rates 
-Classifier: !distinguishes! Roots from Background Objects 
-Classifier: !applied to! Nontraining Images 
-Single Root Classifier: !can be used to! Distinguish Roots Across Multiple Experiments 
-Open-Source Minirhizotron Image Analysis Application: !incorporates! Root Detection and Discrimination Algorithms

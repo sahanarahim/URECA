@@ -1,9 +1,0 @@
-In plants, Ca<sup>2+</sup>/calmodulin-dependent protein kinase (CCaMK) is a positive regulator of abscisic acid (ABA) responses, including root growth, antioxidant defense, and tolerance of both water stress and oxidative stress. However, the underlying molecular mechanisms are poorly understood. Here, we show a direct interaction between DMI3 (Doesn't Make Infections 3), a rice (<i>Oryza sativa</i>) CCaMK and PP45, a type 2C protein phosphatase in rice (PP2C). This interaction involves the CaM binding domain of DMI3 and the PP2C domain of PP45. In the absence of ABA, PP45 directly inactivates DMI3 by dephosphorylating Thr-263 in DMI3. However, in the presence of ABA, ABA-induced H<sub>2</sub>O<sub>2</sub> production by the NADPH oxidases RbohB/E inhibits the activity of PP45 not only by inhibiting the expression of <i>PP45</i> but also by oxidizing Cys-350 and Cys-428 residues to form PP45 intermolecular dimers. ABA-induced oxidation of Cys-350 and Cys-428 in PP45 blocked the interaction between PP45 and DMI3 and substantially prevented PP45-mediated inhibition in DMI3 activity. Genetic analysis indicated that PP45 is an important negative regulator of ABA signaling. These results reveal important pathways for the inhibition of DMI3 under the basal state and for its ABA-induced activation in rice.
-
-CCaMK: !interacts with! PP45
-PP45: !inactivates! DMI3
-ABA: !induces! H<sub>2</sub>O<sub>2</sub> production
-H<sub>2</sub>O<sub>2</sub>: !inhibits! PP45 expression
-Cys-350/428: !oxidizes to form! PP45 intermolecular dimers
-ABA: !blocks! PP45-DMI3 interaction
-PP45: !regulates! ABA signaling

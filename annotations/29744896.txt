@@ -1,9 +1,0 @@
-Genes controlling differences in seed longevity between 2 barley (Hordeum vulgare) accessions were identified by combining quantitative genetics "omics" technologies in near isogenic lines (NILs). The NILs were derived from crosses between the spring barley landraces L94 from Ethiopia and Cebada Capa from Argentina. A combined transcriptome and proteome analysis on mature, nonaged seeds of the 2 parental lines and the L94 NILs by RNA-sequencing and total seed proteomic profiling identified the UDP-glycosyltransferase MLOC_11661.1 as candidate gene for the quantitative trait loci on 2H, and the NADP-dependent malic enzyme (NADP-ME) MLOC_35785.1 as possible downstream target gene. To validate these candidates, they were expressed in Arabidopsis under the control of constitutive promoters to attempt complementing the T-DNA knockout line nadp-me1. Both the NADP-ME MLOC_35785.1 and the UDP-glycosyltransferase MLOC_11661.1 were able to rescue the nadp-me1 seed longevity phenotype. In the case of the UDP-glycosyltransferase, with high accumulation in NILs, only the coding sequence of Cebada Capa had a rescue effect.
-
-UDP-glycosyltransferase MLOC_11661.1: !affects! Seed longevity 
-NADP-dependent malic enzyme (NADP-ME) MLOC_35785.1: !affects! Seed longevity 
-UDP-glycosyltransferase MLOC_11661.1: !localizes to! 2H 
-NADP-ME MLOC_35785.1: !interacts with! T-DNA knockout line nadp-me1 
-UDP-glycosyltransferase MLOC_11661.1: !enhances! Cebada Capa coding sequence 
-NADP-ME MLOC_35785.1: !represses! nadp-me1 seed longevity phenotype 
-UDP-glycosyltransferase MLOC_11661.1: !synthesizes! High accumulation in NILs

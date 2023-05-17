@@ -1,8 +1,0 @@
-High-throughput approaches have been widely applied to elucidate the genetic underpinnings of industrially important wood properties. Wood traits are polygenic in nature, but gene hierarchies can be assessed to identify the most important gene variants controlling specific traits within complex networks defining the overall wood phenotype. We tested a large set of genetic, genomic, and phenotypic information in an integrative approach to predict wood properties in Populus trichocarpa. Nine-yr-old natural P. trichocarpa trees including accessions with high contrasts in six traits related to wood chemistry and ultrastructure were profiled for gene expression on 49k Nimblegen (Roche NimbleGen Inc., Madison, WI, USA) array elements and for 28,831 polymorphic single nucleotide polymorphisms (SNPs). Pre-selected transcripts and SNPs with high statistical dependence on phenotypic traits were used in Bayesian network learning procedures with a stepwise K2 algorithm to infer phenotype-centric networks. Transcripts were pre-selected at a much lower logarithm of Bayes factor (logBF) threshold than SNPs and were not accommodated in the networks. Using persistent variables, we constructed cross-validated networks for variability in wood attributes, which contained four to six variables with 94-100% predictive accuracy. Accommodated gene variants revealed the hierarchy in the genetic architecture that underpins substantial phenotypic variability, and represent new tools to support the maximization of response to selection.
-
-Gene: !affects! Wood Traits 
-Gene: !localizes to! 49k Nimblegen Array Elements 
-Gene: !interacts with! Polymorphic SNPs 
-Gene: !enhances! Phenotypic Traits 
-Gene: !represses! LogBF Threshold 
-Gene: !synthesizes! Predictive Accuracy

@@ -1,7 +1,0 @@
-['21499259', 'The circadian clock controls many metabolic, developmental and physiological  processes in a time-of-day-specific manner in both plants and animals. The  photoreceptors involved in the perception of light and entrainment of the  circadian clock have been well characterized in plants. However, how light  signals are transduced from the photoreceptors to the central circadian  oscillator, and how the rhythmic expression pattern of a clock gene is generated  and maintained by diurnal light signals remain unclear. Here, we show that in  Arabidopsis thaliana, FHY3, FAR1 and HY5, three positive regulators of the  phytochrome A signalling pathway, directly bind to the promoter of ELF4, a  proposed component of the central oscillator, and activate its expression during  the day, whereas the circadian-controlled CCA1 and LHY proteins directly suppress  ELF4 expression periodically at dawn through physical interactions with these  transcription-promoting factors. Our findings provide evidence that a set of  light- and circadian-regulated transcription factors act directly and  coordinately at the ELF4 promoter to regulate its cyclic expression, and  establish a potential molecular link connecting the environmental light-dark  cycle to the central oscillator.', '2011 May', 'Nat Cell Biol', '10.1038/ncb2219', 'Wang']
-
-FHY3: !activates! ELF4
-FAR1: !activates! ELF4
-HY5: !activates! ELF4
-CCA1: !represses! ELF4
-LHY: !represses! ELF4

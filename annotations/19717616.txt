@@ -1,8 +1,0 @@
-['19717616', 'Petal fusion in petunia (Petunia x hybrida) results from lateral expansion of the  five initially separate petal primordia, forming a ring-like primordium that  determines further development. Here, we show that MAEWEST (MAW) and CHORIPETALA  SUZANNE (CHSU) are required for petal and carpel fusion, as well as for lateral  outgrowth of the leaf blade. Morphological and molecular analysis of maw and maw  chsu double mutants suggest that polarity defects along the adaxial/abaxial axis  contribute to the observed reduced lateral outgrowth of organ primordia. We show  that MAW encodes a member of the WOX (WUSCHEL-related homeobox) transcription  factor family and that a partly similar function is redundantly encoded by WOX1  and PRESSED FLOWER (PRS) in Arabidopsis thaliana, indicating a conserved role for  MAW/WOX1/PRS genes in regulating lateral organ development. Comparison of petunia  maw and Arabidopsis wox1 prs phenotypes suggests differential recruitment of WOX  gene function depending on organ type and species. Our comparative data together  with previous reports on WOX gene function in different species identify the WOX  gene family as highly dynamic and, therefore, an attractive subject for future  evo-devo studies.', '2009 Aug', 'Plant Cell', '10.1105/tpc.109.065862', 'Gerats']
-
-MAW: !affects! Petal and Carpel Fusion
-CHSU: !affects! Petal and Carpel Fusion
-MAW: !encodes! WOX Transcription Factor
-WOX1: !redundantly encodes! MAW Function
-PRS: !redundantly encodes! MAW Function
-MAW/WOX1/PRS: !regulates! Lateral Organ Development

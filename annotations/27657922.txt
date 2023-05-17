@@ -1,7 +1,0 @@
-Pseudomonas syringae depends on the type III secretion system (T3SS) to directly translocate effectors into host cells. Previously, we reported a nonpathogenic rhpS mutant, suggesting that the two-component transduction system rhpRS is an important regulator of T3SS in P. syringae. rhpRS regulates itself and a variety of downstream genes under an inverted repeat element promoter in a phosphorylation-dependent manner. Here, we identify lon as a suppressor of the rhpS mutant through transposon screening. A lon/rhpS double mutant restored the phenotypes of the rhpS mutant. The expression level of lon was higher in rhpS and other T3SS-deficient mutants than the wild-type strain, suggesting a negative feedback mechanism between lon and T3SS genes. lon was also induced by a novel T3SS inhibitor, acetate, which substantially compromises the activation of T3SS genes in minimal medium and bacterial growth in host plants.
-
-rhpRS: !regulates! lon 
-rhpRS: !regulates! downstream genes 
-lon: !suppresses! rhpS mutant 
-lon: !induced by! T3SS inhibitor 
-T3SS inhibitor: !induces! lon

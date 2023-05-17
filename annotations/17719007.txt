@@ -1,7 +1,0 @@
-['17719007', 'Two putative Arabidopsis E group bZIP transcript factors, AtbZIP34 and AtbZIP61,  are nuclear-localized and their transcriptional activation domain is in their  N-terminal region. By searching GenBank, we found other eight plant homologues of  AtbZIP34 and AtbZIP61. All of them have a proline residue in the third heptad of  zipper region. Yeast two-hybrid assay and EMSA showed that AtbZIP34 and AtbZIP61  could not form homodimer while their mutant forms, AtbZIP34m and AtbZIP61m, which  the proline residue was replaced by an alanine residue in the zipper region,  could form homodimer and bind G-box element. These results suggest that the  conserved proline residue interferes with the homodimer formation. However, both  AtbZIP34 and AtbZIP61 could form heterodimers with members of I group and S group  transcription factors in which some members involved in vascular development. So  we speculate that AtbZIP34 and AtbZIP61 may participate in plant development via  interacting with other group bZIP transcription factors.', '2007 Oct 19', 'Biochem Biophys Res Commun', '10.1016/j.bbrc.2007.08.026', 'Wang']
-
-AtbZIP34: !interacts with! AtbZIP61
-AtbZIP34: !forms heterodimers with! I group and S group transcription factors
-AtbZIP61: !interacts with! AtbZIP34
-AtbZIP61: !forms heterodimers with! I group and S group transcription factors
-proline residue: !interferes with! homodimer formation

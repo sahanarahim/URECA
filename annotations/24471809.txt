@@ -1,7 +1,0 @@
-How do chromosomal regions with differing degrees of homology and homeology interact at meiosis? We provide a novel analytical method based on simple genetics principles which can help to answer this important question. This method interrogates high-throughput molecular marker data in order to infer chromosome behavior at meiosis in interspecific hybrids. We validated this method using high-resolution molecular marker karyotyping in two experimental Brassica populations derived from interspecific crosses among B. juncea, B. napus and B. carinata, using a single nucleotide polymorphism chip. This method of analysis successfully identified meiotic interactions between chromosomes sharing different degrees of similarity: full-length homologs; full-length homeologs; large sections of primary homeologs; and small sections of secondary homeologs. This analytical method can be applied to any allopolyploid species or fertile interspecific hybrid in order to detect meiotic associations. This genetic information can then be used to identify which genomic regions share functional homeology (i.e., retain enough similarity to allow pairing and segregation at meiosis). When applied to interspecific hybrids for which reference genome sequences are available, the question of how differing degrees of homology and homeology affect meiotic interactions may finally be resolved.
-
-gene: !affects! meiosis
-gene: !shares similarity with! homeologs
-gene: !interacts with! homologs
-gene: !identifies! functional homeology
-gene: !allows pairing and segregation of! genomic regions

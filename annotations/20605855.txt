@@ -1,8 +1,0 @@
-Many plant photoresponses from germination to shade avoidance are mediated by phytochrome B (phyB). In darkness, phyB exists as the inactive Pr in the cytosol but upon red (R) light treatment, the active Pfr translocates into nuclei to initiate signaling. Degradation of phyB Pfr likely regulates signal termination, but the mechanism is not understood. Here, we show that phyB is stable in darkness, but in R, a fraction of phyB translocates into nuclei and becomes degraded by 26S proteasomes. Nuclear phyB degradation is mediated by COP1 E3 ligase, which preferentially interacts with the PhyB N-terminal region (PhyB-N). PhyB-N polyubiquitination by CONSTITUTIVE PHOTOMORPHOGENIC1 (COP1) in vitro can be enhanced by different PHYTOCHROME INTERACTING FACTOR (PIF) proteins that promote COP1/PhyB interaction. Consistent with these results, nuclear phyB accumulates to higher levels in pif single and double mutants and in cop1-4. Our results identify COP1 as an E3 ligase for phyB and other stable phytochromes and uncover the mechanism by which PIFs negatively regulate phyB levels.
-
-phyB: !translocates to! nuclei
-phyB: !degraded by! 26S proteasomes
-COP1: !mediates degradation of! phyB
-COP1: !interacts with! PhyB-N
-PIF: !enhances! COP1/PhyB interaction
-PIF: !promotes! COP1/PhyB interaction

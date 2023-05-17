@@ -1,8 +1,0 @@
-Signaling by the phytohormone abscisic acid (ABA) involves pre-mRNA splicing, a key process of post-transcriptional regulation of gene expression. However, the regulatory mechanism of alternative pre-mRNA splicing in ABA signaling remains largely unknown. We previously identified a pentatricopeptide repeat protein SOAR1 (suppressor of the ABAR-overexpressor 1) as a crucial player downstream of ABAR (putative ABA receptor) in ABA signaling. In this study, we identified a SOAR1 interaction partner USB1, which is an exoribonuclease catalyzing U6 production for spliceosome assembly. We reveal that together USB1 and SOAR1 negatively regulate ABA signaling in early seedling development. USB1 and SOAR1 are both required for the splicing of transcripts of numerous genes, including those involved in ABA signaling pathways, suggesting that USB1 and SOAR1 collaborate to regulate ABA signaling by affecting spliceosome assembly. These findings provide important new insights into the mechanistic control of alternative pre-mRNA splicing in the regulation of ABA-mediated plant responses to environmental cues.
-
-SOAR1: !interacts with! USB1
-USB1: !interacts with! SOAR1
-SOAR1: !regulates! ABA signaling
-USB1: !regulates! ABA signaling
-SOAR1: !affects! spliceosome assembly
-USB1: !affects! spliceosome assembly

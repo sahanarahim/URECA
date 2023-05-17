@@ -1,7 +1,0 @@
-<b>Motivation:</b> Pentatricopeptide repeat (PPR), which is a triangular pentapeptide repeat domain, plays an important role in plant growth. Features extracted from sequences are applicable to PPR protein identification using certain classification methods. However, which components of a multidimensional feature (namely variables) are more effective for protein discrimination has never been discussed. Therefore, we seek to select variables from a multidimensional feature for identifying PPR proteins. <b>Method:</b> A framework of variable selection for identifying PPR proteins is proposed. Samples representing PPR positive proteins and negative ones are equally split into a training and a testing set. Variable importance is regarded as scores derived from an iteration of resampling, training, and scoring step on the training set. A model selection method based on Gaussian mixture model is applied to automatic choice of variables which are effective to identify PPR proteins. Measurements are used on the testing set to show the effectiveness of the selected variables. <b>Results:</b> Certain variables other than the multidimensional feature they belong to do work for discrimination between PPR positive proteins and those negative ones. In addition, the content of methionine may play an important role in predicting PPR proteins.
-
-PPR: !affects! Plant growth
-Framework: !selects! Variables 
-Variables: !identify! PPR proteins
-Model: !chooses! Variables
-Content: !predicts! PPR proteins

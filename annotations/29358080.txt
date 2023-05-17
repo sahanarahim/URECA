@@ -1,7 +1,0 @@
-['29358080', 'Plant pattern recognition receptors (PRRs) perceive microbial and endogenous  molecular patterns to activate immune signaling. The cytoplasmic kinase BIK1 acts  downstream of multiple PRRs as a rate-limiting component, whose phosphorylation  and accumulation are central to immune signal propagation. Previous work  identified the calcium-dependent protein kinase CPK28 and heterotrimeric G  proteins as negative and positive regulators of BIK1 accumulation, respectively.  However, mechanisms underlying this regulation remain unknown. Here we show that  the plant U-box proteins PUB25 and PUB26 are homologous E3 ligases that mark BIK1  for degradation to negatively regulate immunity. We demonstrate that the  heterotrimeric G proteins inhibit PUB25/26 activity to stabilize BIK1, whereas  CPK28 specifically phosphorylates conserved residues in PUB25/26 to enhance their  activity and promote BIK1 degradation. Interestingly, PUB25/26 specifically  target non-activated BIK1, suggesting that activated BIK1 is maintained for  immune signaling. Our findings reveal a multi-protein regulatory module that  enables robust yet tightly regulated immune responses.', '2018 Feb 1', 'Mol Cell', '10.1016/j.molcel.2017.12.026', 'Zhou']
-
-BIK1: !regulated by! PUB25/26 
-PUB25/26: !inhibited by! G proteins 
-CPK28: !enhances! PUB25/26 activity 
-G proteins: !stabilizes! BIK1 
-CPK28: !phosphorylates! PUB25/26

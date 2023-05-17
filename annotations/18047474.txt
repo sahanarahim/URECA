@@ -1,8 +1,0 @@
-Plant growth and development are particularly sensitive to changes in the light environment and especially to vegetational shading. The shade-avoidance response is mainly controlled by the phytochrome photoreceptors. In Arabidopsis, recent studies have identified several related bHLH class transcription factors (PIF, for phytochrome-interacting factors) as important components in phytochrome signaling. In addition to a related bHLH domain, most of the PIFs contain an active phytochrome binding (APB) domain that mediates their interaction with light-activated phytochrome B (phyB). Here we show that PIF4 and PIF5 act early in the phytochrome signaling pathways to promote the shade-avoidance response. PIF4 and PIF5 accumulate to high levels in the dark, are selectively degraded in response to red light, and remain at high levels under shade-mimicking conditions. Degradation of these transcription factors is preceded by phosphorylation, requires the APB domain and is sensitive to inhibitors of the proteasome, suggesting that PIF4 and PIF5 are degraded upon interaction with light-activated phyB. Our data suggest that, in dense vegetation, which is rich in far-red light, shade avoidance is triggered, at least partially, as a consequence of reduced phytochrome-mediated degradation of transcription factors such as PIF4 and PIF5. Consistent with this idea, the constitutive shade-avoidance phenotype of phyB mutants partially reverts in the absence of PIF4 and PIF5.
-
-phyB: !activates! PIF4/PIF5
-PIF4/PIF5: !degraded by! phyB
-PIF4/PIF5: !promote! shade-avoidance response
-PIF4/PIF5: !phosphorylated before! degradation
-PIF4/PIF5: !sensitive to! proteasome inhibitors
-phyB mutants: !partially revert in absence of! PIF4/PIF5

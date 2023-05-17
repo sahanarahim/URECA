@@ -1,8 +1,0 @@
-The phytohormone auxin regulates virtually every aspect of plant development. To identify new genes involved in auxin activity, a genetic screen was performed for Arabidopsis (Arabidopsis thaliana) mutants with altered expression of the auxin-responsive reporter DR5rev:GFP. One of the mutants recovered in the screen, designated as weak auxin response3 (wxr3), exhibits much lower DR5rev:GFP expression when treated with the synthetic auxin 2,4-dichlorophenoxyacetic acid and displays severe defects in root development. The wxr3 mutant decreases polar auxin transport and results in a disruption of the asymmetric auxin distribution. The levels of the auxin transporters AUXIN1 and PIN-FORMED are dramatically reduced in the wxr3 root tip. Molecular analyses demonstrate that WXR3 is ROOT ULTRAVIOLET B-SENSITIVE1 (RUS1), a member of the conserved Domain of Unknown Function647 protein family found in diverse eukaryotic organisms. Our data suggest that RUS1/WXR3 plays an essential role in the regulation of polar auxin transport by maintaining the proper level of auxin transporters on the plasma membrane.
-
-auxin: !regulates! plant development
-mutant: !exhibits! lower DR5rev:GFP expression
-mutant: !disrupts! asymmetric auxin distribution
-AUXIN1: !reduced in! wxr3 root tip
-PIN-FORMED: !reduced in! wxr3 root tip
-RUS1/WXR3: !maintains! level of auxin transporters

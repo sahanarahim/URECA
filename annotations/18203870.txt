@@ -1,8 +1,0 @@
-Peroxisomes are single membrane-delimited subcellular organelles that carry out numerous vital metabolic reactions in nearly all eukaryotes. Peroxisomes alter their morphology, abundance, and enzymatic constituents in response to environmental cues, yet little is known about the underlying mechanisms. In this work, we investigated the regulatory role of light in peroxisome proliferation in Arabidopsis (Arabidopsis thaliana). We provide evidence that light induces proliferation of peroxisomes in Arabidopsis seedlings and that the peroxisomal protein PEX11b plays an important role in mediating this process. The far-red light receptor phytochrome A (phyA) and the bZIP transcription factor HY5 HOMOLOG (HYH) are both required for the up-regulation of PEX11b in the light. We further demonstrate that the phyA and hyh mutants exhibit reduced peroxisome abundance, a phenotype that can be rescued by overexpressing PEX11b in these plants. The HYH protein is able to bind to the promoter of PEX11b, suggesting that the PEX11b gene is a direct target of HYH. We conclude that HYH and PEX11b constitute a novel branch of the phyA-mediated light signaling cascade, which promotes peroxisome proliferation during seedling photomorphogenesis.
-
-phyA: !induces! PEX11b 
-HYH: !binds to! PEX11b promoter 
-HYH: !up-regulates! PEX11b 
-PEX11b: !mediates! peroxisome proliferation 
-phyA: !requires! HYH 
-hyh mutants: !exhibit reduced! peroxisome abundance

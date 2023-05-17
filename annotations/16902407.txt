@@ -1,8 +1,0 @@
-['16902407', 'In Arabidopsis, APETALA1, PISTILLATA, APETALA3 and SEPALLATA interact to form  multimeric protein complexes required to specify petal identity. However, the  downstream events that lead to petal specific shape and size remain largely  unknown. Organ final size can be influenced by cell number or cell expansion or  both. To date, no gene that specifically limits petal size by controlling  postmitotic cell expansion has been identified. Here we have identified a novel  petal-expressed, basic helix-loop-helix encoding gene (BIGPETAL, BPE) that is  involved in the control of petal size. BPE is expressed via two mRNAs derived  from an alternative splicing event. The BPEub transcript is expressed  ubiquitously, whereas the BPEp transcript is preferentially expressed in petals.  We demonstrate that BPEp is positively regulated downstream of APETALA3,  PISTILLATA, APETALA1 and PISTILLATA3 and is negatively regulated downstream of  AGAMOUS. Plants that lack the petal-expressed variant BPEp have larger petals as  a result of increased cell size, showing that BPEp interferes with postmitotic  cell expansion. BPEp is therefore a part of the network that links the patterning  genes to final morphogenesis.', '2006 Aug 23', 'EMBO J', '10.1038/sj.emboj.7601270', 'Bendahmane']
-
-APETALA1: !interacts with! PISTILLATA
-APETALA3: !interacts with! SEPALLATA
-BPE: !localizes to! petals
-BPE: !positively regulated by! APETALA3, PISTILLATA, APETALA1 and PISTILLATA3
-BPE: !negatively regulated by! AGAMOUS
-BPE: !interferes with! postmitotic cell expansion

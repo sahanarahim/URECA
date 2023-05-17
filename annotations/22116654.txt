@@ -1,6 +1,0 @@
-We have designed and tested a transcriptional autofeedback loop that could be used to engineer plants to sense the presence of bacteria. The signal amplification circuit was built based on the biological switch responsive to the presence of bacterial flagellin. Several flagellin- and E. coli-inducible Arabidopsis promoters were cloned and tested in transient expression assays in Arabidopsis and lettuce protoplasts using a flagellin-based peptide. These were investigated either as direct drivers of a reporter gene, or as a component of a transcriptional autofeedback loop. Arabidopsis promoters from the xyloglucan endotransglucosylase/hydrolase 18 (ATXTH18) and cytochrome P450 family CYP82C3 monooxygenase worked well as biological switches. These promoters were incorporated into our feedback loop system for signal amplification. The inclusion of a transcriptional repressor reduced basal expression, thereby increasing fold-amplification of signal detection and fine-tuning the positive autofeedback loop regulation.
-
-ATXTH18: !promotes! Reporter gene
-CYP82C3: !promotes! Reporter gene
-Flagellin-based peptide: !induces! ATXTH18 & CYP82C3
-Transcriptional repressor: !reduces! Basal expression

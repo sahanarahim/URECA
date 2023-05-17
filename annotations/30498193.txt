@@ -1,7 +1,0 @@
-['30498193', 'Long non-coding RNAs (lncRNAs) have emerged as important regulators of gene  expression and plant development. Here, we identified 6,510 lncRNAs in  Arabidopsis under normal or stress conditions. We found that the expression of  natural antisense transcripts (NATs) that are transcribed in the opposite  direction of protein-coding genes often positively correlates with and is  required for the expression of their cognate sense genes. We further  characterized MAS, a NAT-lncRNA produced from the MADS AFFECTING FLOWERING4  (MAF4) locus. MAS is induced by cold and indispensable for the activation of MAF4  transcription and suppression of precocious flowering. MAS activates MAF4 by  interacting with WDR5a, one core component of the COMPASS-like complexes, and  recruiting WDR5a to MAF4 to enhance histone 3 lysine 4 trimethylation (H3K4me3).  Our study greatly extends the repertoire of lncRNAs in Arabidopsis and reveals a  role for NAT-lncRNAs in regulating gene expression in vernalization response and  likely in other biological processes.', '2018 Nov 29', 'Nat Commun', '10.1038/s41467-018-07500-7', 'Qi']
-
-NAT-lncRNA: !induces! MAF4 transcription
-NAT-lncRNA: !interacts with! WDR5a
-WDR5a: !recruits to! MAF4
-MAF4: !suppresses! precocious flowering
-NAT-lncRNA: !enhances! H3K4me3

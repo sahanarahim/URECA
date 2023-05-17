@@ -1,9 +1,0 @@
-['15296760', 'In migrating cells, the actin filament nucleation activity of ARP2/3 is an  essential component of dynamic cell shape change and motility. In response to  signals from the small GTPase Rac1, alterations in the composition and/or  subcellular localization of the WAVE complex lead to ARP2/3 activation. The human  WAVE complex subunit, WAVE1/SCAR1, was first identified in Dictyostelium and is a  direct ARP2/3 activator. In the absence of an intact WAVE complex, SCAR/WAVE  protein is destabilized. Although the composition of the five-subunit WAVE  complex is well characterized, the means by which individual subunits and fully  assembled WAVE complexes regulate ARP2/3 in vivo are unclear. The molecular  genetics of trichome distortion in Arabidopsis is a powerful system to understand  how signaling pathways and ARP2/3 control multicellular development. In this  paper we prove that the GNARLED gene encodes a homolog of the WAVE subunit  NAP125. Despite the moderate level of amino acid identity between Arabidopsis and  human NAP125, both homologs were functionally interchangeable in vivo and  interacted physically with the putative Arabidopsis WAVE subunit ATSRA1. gnarled  trichomes had nearly identical cell shape and actin cytoskeleton phenotypes when  compared to ARP2/3 subunit mutants, suggesting that GRL positively regulates  ARP2/3.', '2004 Aug 10', 'Curr Biol', '10.1016/j.cub.2004.06.062', 'Szymanski']
-
-Rac1: !activates! ARP2/3
-WAVE complex: !regulates! ARP2/3
-WAVE1/SCAR1: !directly activates! ARP2/3
-WAVE complex: !destabilizes! SCAR/WAVE protein
-GNARLED: !encodes! WAVE subunit NAP125
-NAP125 (Arabidopsis): !interacts with! ATSRA1
-GRL: !positively regulates! ARP2/3

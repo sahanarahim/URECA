@@ -1,7 +1,0 @@
-A large number of genes involved in lateral root (LR) organogenesis have been identified over the last decade using forward and reverse genetic approaches in Arabidopsis thaliana. Nevertheless, how these genes interact to form a LR regulatory network largely remains to be elucidated. In this study, we developed a time-delay correlation algorithm (TDCor) to infer the gene regulatory network (GRN) controlling LR primordium initiation and patterning in Arabidopsis from a time-series transcriptomic data set. The predicted network topology links the very early-activated genes involved in LR initiation to later expressed cell identity markers through a multistep genetic cascade exhibiting both positive and negative feedback loops. The predictions were tested for the key transcriptional regulator AUXIN RESPONSE FACTOR7 node, and over 70% of its targets were validated experimentally. Intriguingly, the predicted GRN revealed a mutual inhibition between the ARF7 and ARF5 modules that would control an early bifurcation between two cell fates. Analyses of the expression pattern of ARF7 and ARF5 targets suggest that this patterning mechanism controls flanking and central zone specification in Arabidopsis LR primordia.
-
-ARF7: !regulates! LR primordium initiation and patterning
-TDCor: !inferred! GRN controlling LR primordium initiation and patterning
-ARF7: !inhibits! ARF5
-ARF7/ARF5: !controls! bifurcation between two cell fates
-ARF7/ARF5 targets: !pattern! flanking and central zone specification

@@ -1,8 +1,0 @@
-Manual evaluation of cellular structures is a popular approach in cell biological studies. However, such approaches are laborious and are prone to error, especially when large quantities of image data need to be analyzed. Here, we introduce an image analysis framework that overcomes these limitations by semi-automatic quantification and clustering of cytoskeletal structures. In our framework, cytoskeletal orientation, bundling and density are quantified by measurement of newly-developed, robust metric parameters from microscopic images. Thereafter, the microscopic images are classified without supervision by clustering based on the metric patterns. Clustering allows us to collectively investigate the large number of cytoskeletal structure images without laborious inspection. Application of this framework to images of GFP-actin binding domain 2 (GFP-ABD2)-labeled actin cytoskeletons in Arabidopsis guard cells determined that microfilaments (MFs) are radially oriented and transiently bundled in the process of diurnal stomatal opening. The framework also revealed that the expression of mouse talin GFP-ABD (GFP-mTn) continuously induced MF bundling and suppressed the diurnal patterns of stomatal opening, suggesting that changes in the level of MF bundling are crucial for promoting stomatal opening. These results clearly demonstrate the utility of our image analysis framework.
-
-GFP-ABD2: !localizes to! actin cytoskeletons 
-GFP-ABD2: !enhances! MF bundling 
-MF: !orientation! radial 
-MF: !bundling! transient 
-GFP-mTn: !induces! MF bundling 
-GFP-mTn: !represses! diurnal stomatal opening

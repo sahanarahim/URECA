@@ -1,8 +1,0 @@
-FUSCA3 (FUS3) is a short-lived B3-domain transcription factor that regulates seed development and phase transitions in Arabidopsis thaliana. The mechanisms controlling FUS3 levels are currently poorly understood. Here we show that FUS3 interacts with the RING E3 ligase ABI3-INTERACTING PROTEIN2 (AIP2). AIP2-green fluorescent protein (GFP) is preferentially expressed in the protoderm during early embryogenesis, similarly to FUS3, suggesting that their interaction is biologically relevant. FUS3 degradation is delayed in the aip2-1 mutant and FUS3-GFP fluorescence is increased in aip2-1, but only during mid-embryogenesis, suggesting that FUS3 is negatively regulated by AIP2 at a specific time during embryogenesis. aip2-1 shows delayed flowering and therefore also functions post-embryonically to regulate developmental phase transitions. Plants overexpressing FUS3 post-embryonically in the L1 layer (ML1p:FUS3) show late flowering and other developmental phenotypes that can be rescued by ML1p:AIP2, further supporting a negative role for AIP2 in FUS3 accumulation. However, additional factors regulate FUS3 levels during embryogenesis, as ML1:AIP2 seeds do not resemble fus3-3. Lastly, targeted expression of a RING-inactive AIP2 variant to the protoderm/L1 layer causes FUS3 and ABI3 overexpression phenotypes and defects in cotyledon development. Taken together, these results indicate that AIP2 targets FUS3 for degradation and plays a role in cotyledon development and flowering time in Arabidopsis.
-
-FUS3: !interacts with! AIP2
-AIP2: !regulates! FUS3
-AIP2: !localizes to! protoderm
-AIP2: !represses! FUS3
-ML1p:FUS3: !rescued by! ML1p:AIP2
-RING-inactive AIP2: !causes! FUS3 overexpression

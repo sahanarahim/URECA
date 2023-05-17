@@ -1,7 +1,0 @@
-['11117257', 'The eukaryotic initiation factor 4E (eIF4E) emerged recently as a target for  different types of regulation affecting translation. In animal and yeast cells,  eIF4E-binding proteins modulate the availability of eIF4E. A search for plant  eIF4E-binding proteins from Arcabictopsis thaliana using the yeast genetic  interaction system identified a clone encoding a lipoxygenase type 2 (AtLOX2). In  vitro and in vivo biochemical assays confirm an interaction between AtLOX2 and  plant eIF4E(iso) factor. A two-hybrid assay revealed that AtLOX2 is also able to  interact with both wheat initiation factors 4E and 4E(iso). Deletion analysis  maps the region of AtLOX2 involved in interaction with AteIF(iso)4E between amino  acids 175 and 232. A sequence related to the conserved motif present in several  eIF4E-binding proteins was found in this region. Furthermore, the wheat p86  subunit, a component of the plant translation eIF(iso)4F complex, was found to  interfere with the AteIF(iso)4E-AtLOX2 interaction suggesting that p86 and AtLOX2  compete for the same site on eIF(iso)4E. These results may reflect a link between  eIF4Es factors mediating translational control with LOX2 activity, which is  probably conserved throughout the plant kingdom.', '2000 Sep', 'Plant Mol Biol', '10.1023/a:1006494628892', 'Robaglia']
-
-eIF4E: !interacts with! AtLOX2 
-AtLOX2: !interacts with! eIF4E 
-AtLOX2: !interacts with! eIF4E(iso) 
-AtLOX2: !interacts with! wheat initiation factors 4E and 4E(iso) 
-p86: !interferes with! AteIF(iso)4E-AtLOX2 interaction

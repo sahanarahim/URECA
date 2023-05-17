@@ -1,8 +1,0 @@
-['26655738', 'We performed a screen for genetic suppressors of cobra, an Arabidopsis mutant  with defects in cellulose formation and an increased ratio of  unesterified/esterified pectin. We identified a suppressor named mongoose1 (mon1)  that suppressed the growth defects of cobra, partially restored cellulose levels,  and restored the esterification ratio of pectin to wild-type levels. mon1 was  mapped to the MEDIATOR16 (MED16) locus, a tail mediator subunit, also known as  SENSITIVE TO FREEZING6 (SFR6). When separated from the cobra mutation, mutations  in MED16 caused resistance to cellulose biosynthesis inhibitors, consistent with  their ability to suppress the cobra cellulose deficiency. Transcriptome analysis  revealed that a number of cell wall genes are misregulated in med16 mutants. Two  of these genes encode pectin methylesterase inhibitors, which, when ectopically  expressed, partially suppressed the cobra phenotype. This suggests that cellulose  biosynthesis can be affected by the esterification levels of pectin, possibly  through modifying cell wall integrity or the interaction of pectin and cellulose.', '2015 Dec 29', 'Proc Natl Acad Sci U S A', '10.1073/pnas.1521675112', 'Somerville']
-
-mon1: !suppresses! cobra
-MED16: !maps to! mon1
-MED16: !causes! resistance to cellulose biosynthesis inhibitors
-cell wall genes: !misregulated in! med16 mutants
-pectin methylesterase inhibitors: !ectopically expressed! partially suppressed cobra phenotype
-cellulose biosynthesis: !affected by! esterification levels of pectin

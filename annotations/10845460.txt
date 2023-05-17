@@ -1,8 +1,0 @@
-['10845460', 'Three cDNA clones encoding putative cysteine synthases (O-acetylserine (thiol)  lyase, EC 4.2.99.8) were isolated from Arabidopsis thaliana and designated  AtcysC1, AtcysD1 and AtcysD2, respectively. Southern blot analyses suggested that  the corresponding genes were present as a single copy, or at most two copies, in  the A. thaliana genome. Escherichia coli complementation analyses confirmed that  the cDNAs encode cysteine synthase and the corresponding proteins produced in E.  coli clearly showed cysteine synthase activity. In addition, AtcysC1 protein  showed beta-cyanoalanine synthase (EC 4.4.1.9) activity, but the other two did  not. Kinetic analysis suggests that AtcysC1 actually functions as  beta-cyanoalanine synthase rather than cysteine synthase in vivo. The mRNA  accumulation of AtcysC1, AtcysD1 and AtcysD2 differed in various organs, but did  not change markedly when A. thaliana seedlings were subjected to various  stresses, including nutrient deprivation. In vivo targeting experiments indicated  that AtcysD1 and AtcysD2 are cytoplasmic isozymes, and AtcysC1 is a mitochondrial  isozyme.', '2000 Apr', 'Plant Cell Physiol', '10.1093/pcp/41.4.465', 'Sano']
-
-AtcysC1: !encodes! cysteine synthase 
-AtcysC1: !produces! beta-cyanoalanine synthase 
-AtcysD1/AtcysD2: !encodes! cysteine synthase 
-AtcysD1/AtcysD2: !accumulates in! various organs 
-AtcysD1/AtcysD2: !localizes to! cytoplasm 
-AtcysC1: !localizes to! mitochondria

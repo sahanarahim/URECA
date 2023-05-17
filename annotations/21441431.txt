@@ -1,9 +1,0 @@
-The model organism Arabidopsis thaliana is readily used in basic research due to resource availability and relative speed of data acquisition. A major goal is to transfer acquired knowledge from Arabidopsis to crop species. However, the identification of functional equivalents of well-characterized Arabidopsis genes in other plants is a nontrivial task. It is well documented that transcriptionally coordinated genes tend to be functionally related and that such relationships may be conserved across different species and even kingdoms. To exploit such relationships, we constructed whole-genome coexpression networks for Arabidopsis and six important plant crop species. The interactive networks, clustered using the HCCA algorithm, are provided under the banner PlaNet (http://aranet.mpimp-golm.mpg.de). We implemented a comparative network algorithm that estimates similarities between network structures. Thus, the platform can be used to swiftly infer similar coexpressed network vicinities within and across species and can predict the identity of functional homologs. We exemplify this using the PSA-D and chalcone synthase-related gene networks. Finally, we assessed how ontology terms are transcriptionally connected in the seven species and provide the corresponding MapMan term coexpression networks. The data support the contention that this platform will considerably improve transfer of knowledge generated in Arabidopsis to valuable crop species.
-
-Arabidopsis: !used in! basic research
-Arabidopsis: !transferred to! crop species
-Arabidopsis: !coexpression networks constructed for! Arabidopsis and six important plant crop species
-HCCA algorithm: !clusters! coexpression networks
-Comparative network algorithm: !estimates similarities between! network structures
-PSA-D: !related to! chalcone synthase gene networks
-Ontology terms: !transcriptionally connected in! seven species

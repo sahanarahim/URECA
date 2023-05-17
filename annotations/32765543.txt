@@ -1,9 +1,0 @@
-Private and public breeding programs, as well as companies and universities, have developed different genomics technologies that have resulted in the generation of unprecedented amounts of sequence data, which bring new challenges in terms of data management, query, and analysis. The magnitude and complexity of these datasets bring new challenges but also an opportunity to use the data available as a whole. Detailed phenotype data, combined with increasing amounts of genomic data, have an enormous potential to accelerate the identification of key traits to improve our understanding of quantitative genetics. Data harmonization enables cross-national and international comparative research, facilitating the extraction of new scientific knowledge. In this paper, we address the complex issue of combining high dimensional and unbalanced omics data. More specifically, we propose a covariance-based method for combining partial datasets in the genotype to phenotype spectrum. This method can be used to combine partially overlapping relationship/covariance matrices. Here, we show with applications that our approach might be advantageous to feature imputation based approaches; we demonstrate how this method can be used in genomic prediction using heterogeneous marker data and also how to combine the data from multiple phenotypic experiments to make inferences about previously unobserved trait relationships. Our results demonstrate that it is possible to harmonize datasets to improve available information across gene-banks, data repositories, or other data resources.
-
-genomics technologies: !generate! sequence data
-phenotype data: !combined with! genomic data
-data harmonization: !enables! cross-national research
-covariance-based method: !combines! partial datasets
-method: !used for! genomic prediction
-data: !combined from! multiple phenotypic experiments
-harmonization: !improves! available information

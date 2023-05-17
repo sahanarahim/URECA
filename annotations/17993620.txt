@@ -1,8 +1,0 @@
-['17993620', "The eukaryotic defense response posttranscriptional gene silencing (PTGS) is  directed by short-interfering RNAs and thwarts invading nucleic acids via the RNA  slicing activity of conserved ARGONAUTE (AGO) proteins. PTGS can be counteracted  by exogenous or endogenous suppressors, including the cytoplasmic exoribonuclease  XRN4, which also degrades microRNA (miRNA)-guided mRNA cleavage products but does  not play an obvious role in development. Here, we show that the nuclear  exoribonucleases XRN2 and XRN3 are endogenous PTGS suppressors. We also identify  excised MIRNA loops as templates for XRN2 and XRN3 and show that XRN3 is critical  for proper development. Independently, we identified the nucleotidase/phosphatase  FIERY1 (FRY1) as an endogenous PTGS suppressor through a suppressor screen in a  hypomorphic ago1 genetic background. FRY1 is one of six Arabidopsis thaliana  orthologs of yeast Hal2. Yeast hal2 mutants overaccumulate 3'-phosphoadenosine  5'-phosphate, which suppresses the 5'-->3' exoribonucleases Xrn1 and Rat1. fry1  mutant plants recapitulate developmental and molecular characteristics of xrn  mutants and likely restore PTGS in ago1 hypomorphic mutants by corepressing XRN2,  XRN3, and XRN4, thus increasing RNA silencing triggers. We anticipate that  screens incorporating partially compromised silencing components will uncover  additional PTGS suppressors that may not be revealed using robust silencing  systems.", '2007 Nov', 'Plant Cell', '10.1105/tpc.107.055319', 'Mallory']
-
-XRN4: !degrades! miRNA-guided mRNA cleavage products 
-XRN2: !suppresses! PTGS 
-XRN3: !suppresses! PTGS 
-FRY1: !corepresses! XRN2, XRN3, XRN4 
-AGO: !directs! PTGS 
-miRNA: !guides! mRNA cleavage products

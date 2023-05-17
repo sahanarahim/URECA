@@ -1,7 +1,0 @@
-The significance of cell wall invertase (cwINV) for plant defense was investigated by comparing wild type (wt) tobacco Nicotiana tabacum L. Samsun NN (SNN) with plants with RNA interference-mediated repression of cwINV (SNN::cwINV) during the interaction with the oomycetic phytopathogen Phytophthora nicotianae. We have previously shown that the transgenic plants developed normally under standard growth conditions, but exhibited weaker defense reactions in infected source leaves and were less tolerant to the pathogen. Here, we show that repression of cwINV was not accompanied by any compensatory activities of intracellular sucrose-cleaving enzymes such as vacuolar and alkaline/neutral invertases or sucrose synthase (SUSY), neither in uninfected controls nor during infection. In wt source leaves vacuolar invertase did not respond to infection, and the activity of alkaline/neutral invertases increased only slightly. SUSY however, was distinctly stimulated, in parallel to enhanced cwINV. In SNN::cwINV SUSY-activation was largely repressed upon infection. SUSY may serve to allocate sucrose into callose deposition and other carbohydrate-consuming defense reactions. Its activity, however, seems to be directly affected by cwINV and the related reflux of carbohydrates from the apoplast into the mesophyll cells.
-
-cwINV: !affects! SUSY
-SUSY: !allocates! sucrose
-wt: !stimulates! SUSY
-infection: !increases! alkaline/neutral invertases
-SNN::cwINV: !represses! SUSY

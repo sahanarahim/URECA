@@ -1,6 +1,0 @@
-Prediction of RNA secondary structure is an important part of bioinformatics genomics research. Mastering RNA secondary structure can help us to better analyze protein synthesis, cell differentiation, metabolism, and genetic processes and thus reveal the genetic laws of organisms. Comparative sequence analysis, support vector machine, centroid method, and other algorithms in RNA secondary structure prediction algorithms often use dynamic programming algorithm to predict RNA secondary structure because of their huge time and space consumption and complex data structure. In this article, the domain of RNA secondary structure prediction algorithm based on dynamic programming (DP-SSP) is analyzed in depth, and the domain features are modeled. According to the generative programming method, the DP-SSP algorithm components are interactively designed. With the support of PAR platform, the DP-SSP algorithm component library is formally realized. Finally, the concrete algorithm is generated through component assembly, which improves the efficiency and reliability of algorithm development.
-
-RNA secondary structure: !predicted by! dynamic programming algorithm 
-Algorithm components: !interactively designed! generative programming method 
-Algorithm component library: !formally realized! PAR platform 
-Algorithm: !generated through! component assembly

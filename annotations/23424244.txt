@@ -1,9 +1,0 @@
-The maize (Zea mays) nucleosome remodeling factor complex component101 (nfc101) and nfc102 are putative paralogs encoding WD-repeat proteins with homology to plant and mammalian components of various chromatin modifying complexes. In this study, we generated transgenic lines with simultaneous nfc101 and nfc102 downregulation and analyzed phenotypic alterations, along with effects on RNA levels, the binding of NFC101/NFC102, and Rpd3-type histone deacetylases (HDACs), and histone modifications at selected targets. Direct NFC101/NFC102 binding and negative correlation with mRNA levels were observed for indeterminate1 (id1) and the florigen Zea mays CENTRORADIALIS8 (ZCN8), key activators of the floral transition. In addition, the abolition of NFC101/NFC102 association with repetitive sequences of different transposable elements (TEs) resulted in tissue-specific upregulation of nonpolyadenylated RNAs produced by these regions. All direct nfc101/nfc102 targets showed histone modification patterns linked to active chromatin in nfc101/nfc102 downregulation lines. However, different mechanisms may be involved because NFC101/NFC102 proteins mediate HDAC recruitment at id1 and TE repeats but not at ZCN8. These results, along with the pleiotropic effects observed in nfc101/nfc102 downregulation lines, suggest that NFC101 and NFC102 are components of distinct chromatin modifying complexes, which operate in different pathways and influence diverse aspects of maize development.
-
-nfc101: !binds to! id1 
-nfc102: !binds to! id1 
-nfc101/nfc102: !binds to! TE repeats 
-nfc101/nfc102: !binds to! ZCN8 
-nfc101/nfc102: !mediates HDAC recruitment at! id1 
-nfc101/nfc102: !mediates HDAC recruitment at! TE repeats 
-nfc101/nfc102: !influences! maize development

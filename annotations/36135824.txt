@@ -1,8 +1,0 @@
-The precise timing of flowering in adverse environments is critical for plants to secure reproductive success. We report a mechanism in Arabidopsis (Arabidopsis thaliana) controlling the time of flowering by which the S-acylation-dependent nuclear import of the protein SALT OVERLY SENSITIVE3/CALCINEURIN B-LIKE4 (SOS3/CBL4), a Ca2+-signaling intermediary in the plant response to salinity, results in the selective stabilization of the flowering time regulator GIGANTEA inside the nucleus under salt stress, while degradation of GIGANTEA in the cytosol releases the protein kinase SOS2 to achieve salt tolerance. S-acylation of SOS3 was critical for its nuclear localization and the promotion of flowering, but partly dispensable for salt tolerance. SOS3 interacted with the photoperiodic flowering components GIGANTEA and FLAVIN-BINDING, KELCH REPEAT, F-BOX1 and participated in the transcriptional complex that regulates CONSTANS to sustain the transcription of CO and FLOWERING LOCUS T under salinity. Thus, the SOS3 protein acts as a Ca2+- and S-acylation-dependent versatile regulator that fine-tunes flowering time in a saline environment through the shared spatial separation and selective stabilization of GIGANTEA, thereby connecting two signaling networks to co-regulate the stress response and the time of flowering.
-
-SOS3/CBL4: !nuclear imports! GIGANTEA
-SOS3: !interacts with! GIGANTEA
-SOS3: !interacts with! FLAVIN-BINDING, KELCH REPEAT, F-BOX1
-SOS3: !regulates! CONSTANS
-GIGANTEA: !stabilizes! SOS2
-CONSTANS: !transcribes! CO and FLOWERING LOCUS T

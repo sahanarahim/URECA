@@ -1,8 +1,0 @@
-In plants, 24 nucleotide long heterochromatic siRNAs (het-siRNAs) transcriptionally regulate gene expression by RNA-directed DNA methylation (RdDM). The biogenesis of most het-siRNAs depends on the plant-specific RNA polymerase IV (Pol IV), and ARGONAUTE4 (AGO4) is a major het-siRNA effector protein. Through genome-wide analysis of sRNA-seq data sets, we found that AGO4 is required for the accumulation of a small subset of het-siRNAs. The accumulation of AGO4-dependent het-siRNAs also requires several factors known to participate in the effector portion of the RdDM pathway, including RNA POLYMERASE V (POL V), DOMAINS REARRANGED METHYLTRANSFERASE 2 (DRM2) and SAWADEE HOMEODOMAIN HOMOLOGUE 1 (SHH1). Like many AGO proteins, AGO4 is an endonuclease that can 'slice' RNAs. We found that a slicing-defective AGO4 was unable to fully recover AGO4-dependent het-siRNA accumulation from ago4 mutant plants. Collectively, our data suggest that AGO4-dependent siRNAs are secondary siRNAs dependent on the prior activity of the RdDM pathway at certain loci.
-
-Pol IV: !produces! het-siRNAs
-AGO4: !regulates! het-siRNAs
-POL V: !facilitates! AGO4-dependent het-siRNA accumulation
-DRM2: !facilitates! AGO4-dependent het-siRNA accumulation
-SHH1: !facilitates! AGO4-dependent het-siRNA accumulation
-AGO4: !slices! RNAs

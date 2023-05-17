@@ -1,9 +1,0 @@
-Hundreds of leucine-rich repeat receptor kinases (LRR-RKs) have evolved to control diverse processes of growth, development and immunity in plants, but the mechanisms that link LRR-RKs to distinct cellular responses are not understood. Here we show that two LRR-RKs, the brassinosteroid hormone receptor BRASSINOSTEROID INSENSITIVE 1 (BRI1) and the flagellin receptor FLAGELLIN SENSING 2 (FLS2), regulate downstream glycogen synthase kinase 3 (GSK3) and mitogen-activated protein (MAP) kinases, respectively, through phosphocoding of the BRI1-SUPPRESSOR1 (BSU1) phosphatase. BSU1 was previously identified as a component that inactivates GSK3s in the BRI1 pathway. We surprisingly found that the loss of the BSU1 family phosphatases activates effector-triggered immunity and impairs flagellin-triggered MAP kinase activation and immunity. The flagellin-activated BOTRYTIS-INDUCED KINASE 1 (BIK1) phosphorylates BSU1 at serine 251. Mutation of serine 251 reduces BSU1's ability to mediate flagellin-induced MAP kinase activation and immunity, but not its abilities to suppress effector-triggered immunity and interact with GSK3, which is enhanced through the phosphorylation of BSU1 at serine 764 upon brassinosteroid signalling. These results demonstrate that BSU1 plays an essential role in immunity and transduces brassinosteroid-BRI1 and flagellin-FLS2 signals using different phosphorylation sites. Our study illustrates that phosphocoding in shared downstream components provides signalling specificities for diverse plant receptor kinases.
-
-BRI1: !phosphocodes! BSU1
-FLS2: !phosphocodes! BSU1
-BSU1: !inactivates! GSK3s
-BSU1: !mediates! flagellin-induced MAP kinase activation
-BIK1: !phosphorylates! BSU1
-Mutation of serine 251: !reduces! BSU1's ability to mediate flagellin-induced MAP kinase activation
-Phosphorylation of BSU1 at serine 764: !enhances! interaction with GSK3

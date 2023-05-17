@@ -1,8 +1,0 @@
-Leaf senescence is a highly coordinated, complicated process involving the integration of numerous internal and environmental signals. Salicylic acid (SA) and reactive oxygen species (ROS) are two well-defined inducers of leaf senescence whose contents progressively and interdependently increase during leaf senescence via an unknown mechanism. Here, we characterized the transcription factor WRKY75 as a positive regulator of leaf senescence in <i>Arabidopsis thaliana.</i> Knockdown or knockout of <i>WRKY75</i> delayed age-dependent leaf senescence, while overexpression of <i>WRKY75</i> accelerated this process. <i>WRKY75</i> transcription is induced by age, SA, H<sub>2</sub>O<sub>2</sub>, and multiple plant hormones. Meanwhile, WRKY75 promotes SA production by inducing the transcription of <i>SA INDUCTION-DEFICIENT2</i> (<i>SID2</i>) and suppresses H<sub>2</sub>O<sub>2</sub> scavenging, partly by repressing the transcription of <i>CATALASE2</i> (<i>CAT2</i>). Genetic analysis revealed that the mutation of <i>SID2</i> or an increase in catalase activity rescued the precocious leaf senescence phenotype evoked by <i>WRKY75</i> overexpression. Based on these results, we propose a tripartite amplification loop model in which WRKY75, SA, and ROS undergo a gradual but self-sustained rise driven by three interlinking positive feedback loops. This tripartite amplification loop provides a molecular framework connecting upstream signals, such as age and plant hormones, to the downstream regulatory network executed by SA- and H<sub>2</sub>O<sub>2</sub>-responsive transcription factors during leaf senescence.
-
-WRKY75: !induces! SID2
-WRKY75: !represses! CAT2
-SID2: !promotes! SA production
-CAT2: !scavenges! H2O2
-SA: !induces! WRKY75
-H2O2: !induces! WRKY75

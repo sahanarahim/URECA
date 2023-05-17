@@ -1,8 +1,0 @@
-['28559361', 'Plant vacuoles are versatile organelles critical for plant growth and responses  to environment. Vacuolar proteins are transported from the endoplasmic reticulum  via multiple routes in plants. Two classic routes bear great similarity to other  phyla with major regulators known, such as COPII and Rab5 GTPases. By contrast,  vacuolar trafficking mediated by adaptor protein-3 (AP-3) or that independent of  the Golgi has few recognized cargos and none of the regulators. In search of  novel regulators for vacuolar trafficking routes and by using a  fluorescence-based forward genetic screen, we demonstrated that the multispan  transmembrane protein, Arabidopsis (Arabidopsis thaliana) PROTEIN S-ACYL  TRANSFERASE10 (PAT10), is an AP-3-mediated vacuolar cargo. We show that the  tonoplast targeting of PAT10 is mediated by the AP-3 complex but independent of  the Rab5-mediated post-Golgi trafficking route. We also report that AP-3-mediated  vacuolar trafficking involves a subpopulation of COPII and requires the vacuolar  tethering complex HOPS. In addition, we have identified two novel mutant alleles  of AP-3delta, whose point mutations interfered with the formation of the AP-3 complex  as well as its membrane targeting. The results presented here shed new light on  the vacuolar trafficking route mediated by AP-3 in plant cells.', '2017 Jul', 'Plant Physiol', '10.1104/pp.17.00584', 'ORCID:']
-
-COPII: !mediates! AP-3-mediated vacuolar trafficking 
-HOPS: !mediates! AP-3-mediated vacuolar trafficking 
-AP-3: !mediates! vacuolar trafficking 
-PAT10: !localizes to! tonoplast 
-AP-3delta: !interacts with! COPII 
-AP-3delta: !interacts with! HOPS

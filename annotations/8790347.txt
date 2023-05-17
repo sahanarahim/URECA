@@ -1,5 +1,0 @@
-['8790347', "(+)-Hydantocidin, a recently discovered natural spironucleoside with potent  herbicidal activity, is shown to be a proherbicide that, after phosphorylation at  the 5' position, inhibits adenylosuccinate synthetase, an enzyme involved in de  novo purine synthesis. The mode of binding of hydantocidin 5'-monophosphate to  the target enzyme was analyzed by determining the crystal structure of the  enzyme-inhibitor complex at 2.6-A resolution. It was found that adenylosuccinate  synthetase binds the phosphorylated compound in the same fashion as it does  adenosine 5'-monophosphate, the natural feedback regulator of this enzyme. This  work provides the first crystal structure of a herbicide-target complex reported  to date.", '1996 Sep 3', 'Proc Natl Acad Sci U S A', '10.1073/pnas.93.18.9431', 'Cowan-Jacob']
-
-hydantocidin: !inhibits! adenylosuccinate synthetase 
-adenylosuccinate synthetase: !binds! hydantocidin 5'-monophosphate 
-adenylosuccinate synthetase: !binds! adenosine 5'-monophosphate

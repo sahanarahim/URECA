@@ -1,8 +1,0 @@
-Imitation Switch (ISWI) chromatin remodelers are known to function in diverse multi-subunit complexes in yeast and animals. However, the constitution and function of ISWI complexes in Arabidopsis thaliana remain unclear. In this study, we identified forkhead-associated domain 2 (FHA2) as a plant-specific subunit of an ISWI chromatin-remodeling complex in Arabidopsis. By in vivo and in vitro analyses, we demonstrated that FHA2 directly binds to RLT1 and RLT2, two redundant subunits of the ISWI complex in Arabidopsis. The stamen filament is shorter in the fha2 and rlt1/2 mutants than in the wild type, whereas their pistil lengths are comparable. The shorter filament, which is due to reduced cell size, results in insufficient pollination and reduced fertility. The rlt1/2 mutant shows an early-flowering phenotype, whereas the phenotype is not shared by the fha2 mutant. Consistent with the functional specificity of FHA2, our RNA-seq analysis indicated that the fha2 mutant affects a subset of RLT1/2-regulated genes that does not include genes involved in the regulation of flowering time. This study demonstrates that FHA2 functions as a previously uncharacterized subunit of the Arabidopsis ISWI complex and is exclusively involved in regulating stamen development and plant fertility.
-
-ISWI: !contains! FHA2 
-FHA2: !binds to! RLT1 
-RLT1: !binds to! RLT2 
-fha2: !affects! stamen development 
-rlt1/2: !affects! flowering time 
-fha2: !affects! subset of RLT1/2-regulated genes

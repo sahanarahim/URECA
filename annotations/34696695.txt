@@ -1,7 +1,0 @@
-Hydathode is a plant tissue of vascular plants involved in water release called guttation. <i>Arabidopsis</i> hydathodes are found at the tips of leaf teeth and contain three major components: water pores, xylem ends, and small cells. Leaf teeth are known as the main parts for auxin biosynthesis and accumulation during leaf development. However, the detailed spatiotemporal relationship between auxin dynamics and hydathode development is unknown. In this study, we show that auxin biosynthesis and accumulation precede hydathode development. A triple marker line (called YDE line) containing three leaf tooth markers: YUC4:nls-3xGFP (auxin biosynthesis), DR5rev:erRFP (auxin accumulation or maxima), and E325-GFP (hydathode development), was generated, and spatiotemporal confocal microscopic analysis was carried out. The expression area of these markers became larger during leaf development, implying that the hydathode size enlarges as the leaf tooth grows. Detailed observation revealed that the auxin-related markers YUC4:nls-GFP and DR5rev:erRFP were first expressed in the early stage of leaf tooth growth. Then, E325-GFP was expressed partly overlapping with the auxin markers at a later stage. These findings provide new insights into the spatiotemporal relationship between auxin dynamics and hydathode development in <i>Arabidopsis</i>.
-
-YUC4:nls-GFP: !precedes! DR5rev:erRFP
-DR5rev:erRFP: !precedes! E325-GFP
-YUC4:nls-GFP: !overlaps with! E325-GFP
-auxin biosynthesis: !enhances! auxin accumulation
-auxin accumulation: !enhances! hydathode development

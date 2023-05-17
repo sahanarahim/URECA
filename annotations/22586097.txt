@@ -1,9 +1,0 @@
-There is general agreement that competition for resources results in a tradeoff between plant mass, M, and density, but the mathematical form of the resulting thinning relationship and the mechanisms that generate it are debated. Here, we evaluate two complementary models, one based on the space-filling properties of canopy geometry and the other on the metabolic basis of resource use. For densely packed stands, both models predict that density scales as M(-3/4), energy use as M(0), and total biomass as M(1/4). Compilation and analysis of data from 183 populations of herbaceous crop species, 473 stands of managed tree plantations, and 13 populations of bamboo gave four major results: (i) At low initial planting densities, crops grew at similar rates, did not come into contact, and attained similar mature sizes; (ii) at higher initial densities, crops grew until neighboring plants came into contact, growth ceased as a result of competition for limited resources, and a tradeoff between density and size resulted in critical density scaling as M(-0.78), total resource use as M(-0.02), and total biomass as M(0.22); (iii) these scaling exponents are very close to the predicted values of M(-3/4), M(0), and M(1/4), respectively, and significantly different from the exponents suggested by some earlier studies; and (iv) our data extend previously documented scaling relationships for trees in natural forests to small herbaceous annual crops. These results provide a quantitative, predictive framework with important implications for the basic and applied plant sciences.
-
-density: !scales as! M(-3/4)
-energy use: !scales as! M(0)
-total biomass: !scales as! M(1/4)
-competition: !ceases growth! when plants come into contact
-critical density: !scales as! M(-0.78)
-total resource use: !scales as! M(-0.02)
-total biomass: !scales as! M(0.22)

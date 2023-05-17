@@ -1,7 +1,0 @@
-Circadian clocks are gene networks producing 24-h oscillations at the level of clock gene expression that are synchronized to environmental cycles via light signals. The ELONGATED HYPOCOTYL 5 (HY5) transcription factor is a signalling hub acting downstream of several photoreceptors and is a key mediator of photomorphogenesis. Here we describe a mechanism by which light quality could modulate the pace of the circadian clock through governing abundance of HY5. We show that hy5 mutants display remarkably shorter period rhythms in blue but not in red light or darkness, and blue light is more efficient than red to induce accumulation of HY5 at transcriptional and post-transcriptional levels. We demonstrate that the pattern and level of HY5 accumulation modulates its binding to specific promoter elements of the majority of clock genes, but only a few of these show altered transcription in the hy5 mutant. Mathematical modelling suggests that the direct effect of HY5 on the apparently non-responsive clock genes could be masked by feedback from the clock gene network. We conclude that the information on the ratio of blue and red components of the white light spectrum is decoded and relayed to the circadian oscillator, at least partially, by HY5.
-
-Light: !affects! HY5
-HY5: !accumulates in! Blue Light
-HY5: !binds to! Clock Genes
-Clock Genes: !modulated by! HY5
-White Light Spectrum: !decoded by! HY5

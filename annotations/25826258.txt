@@ -1,6 +1,0 @@
-['25826258', 'The degree of methylesterification (DM) of homogalacturonans (HGs), the main  constituent of pectins in Arabidopsis thaliana, can be modified by pectin  methylesterases (PMEs). Regulation of PME activity occurs through interaction  with PME inhibitors (PMEIs) and subtilases (SBTs). Considering the size of the  gene families encoding PMEs, PMEIs and SBTs, it is highly likely that specific  pairs mediate localized changes in pectin structure with consequences on cell  wall rheology and plant development. We previously reported that PME17, a group 2  PME expressed in root, could be processed by SBT3.5, a co-expressed  subtilisin-like serine protease, to mediate changes in pectin properties and root  growth. Here, we further report that a PMEI, PMEI4, is co-expressed with PME17  and is likely to regulate its activity. This sheds new light on the possible  interplay of specific PMEs, PMEIs and SBTs in the fine-tuning of pectin  structure.', '2015', 'Plant Signal Behav', '10.4161/15592324.2014.983351', 'Pelloux']
-
-PME17: !interacts with! SBT3.5
-PME17: !regulated by! PMEI4
-PMEIs: !inhibit! PMEs
-SBTs: !process! PME17

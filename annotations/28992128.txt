@@ -1,8 +1,0 @@
-['28992128', 'Root system architecture depends on endogenous and environmental signals,  including polar transport of the phytohormone auxin, reactive oxygen species  (ROS), nutrient availability, and stresses. In our study, we describe a novel  Arabidopsis thaliana peroxisome-localized copper amine oxidase zeta (CuAOzeta), which  is highly expressed in cortical cells, and the ROS derived from CuAOzeta are  essential for lateral root (LR) development. Loss of CuAOzeta results in retarded  auxin-induced ROS generation, PINFORMED2 (PIN2)-mediated auxin transport, and LR  development in response to added indole-3-butyric acid. Auxins enhance CuAOzeta  protein levels and their cellular translocation toward the plasma membrane in the  cortex. CuAOzeta interacts physically with PEROXINS5 via an N-terminal signal tag,  Ser-Lys-Leu, and is transported into the peroxisome upon this interaction, which  is required for the functions of CuAOzeta in the auxin response. Together, our  results suggest a peroxisomal ROS-based auxin signaling pathway involving  spatiotemporal-dependent CuAOzeta functional regulation of PIN2 homeostasis, auxin  distribution, and LR development.', '2017 Oct 13', 'J Exp Bot', '10.1093/jxb/erx290', 'Zhang']
-
-CuAOzeta: !localizes to! peroxisome 
-CuAOzeta: !enhances! PIN2-mediated auxin transport 
-CuAOzeta: !interacts with! PEROXINS5 
-Auxins: !enhance! CuAOzeta protein levels 
-Auxins: !repress! LR development 
-ROS: !essential for! LR development

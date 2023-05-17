@@ -1,9 +1,0 @@
-Somatic embryogenesis (SE) is an efficient tool for the propagation of plant species and also, a useful model for studying the regulatory networks in embryo development. However, the regulatory networks underlying the transition from nonembryogenic callus to somatic embryos during SE remain poorly understood. Here, we describe an upland cotton (Gossypium hirsutum) CASEIN KINASE I gene, GhCKI, which is a unique key regulatory factor that strongly affects SE. Overexpressing GhCKI halted the formation of embryoids and plant regeneration because of a block in the transition from nonembryogenic callus to somatic embryos. In contrast, defective GhCKI in plants facilitated SE. To better understand the mechanism by which GhCKI regulates SE, the regulatory network was analyzed. A direct upstream negative regulator protein, cotton LEAFY COTYLEDON1, was identified to be targeted to a cis-element, CTTTTC, in the promoter of GhCKI. Moreover, GhCKI interacted with and phosphorylated cotton CINCINNATA-like TEOSINTE BRANCHED1-CYCLOIDEA-PCF transcription factor15 by coordinately regulating the expression of cotton PHYTOCHROME INTERACTING FACTOR4, finally disrupting auxin homeostasis, which led to increased cell proliferation and aborted somatic embryo formation in GhCKI-overexpressing somatic cells. Our results show a complex process of SE that is negatively regulated by GhCKI through a complex regulatory network.
-
-GhCKI: !affects! SE
-GhCKI: !interacts with! CINCINNATA-like TEOSINTE BRANCHED1-CYCLOIDEA-PCF
-LEAFY COTYLEDON1: !targets! GhCKI
-GhCKI: !phosphorylates! CINCINNATA-like TEOSINTE BRANCHED1-CYCLOIDEA-PCF
-CINCINNATA-like TEOSINTE BRANCHED1-CYCLOIDEA-PCF: !regulates! PHYTOCHROME INTERACTING FACTOR4
-PHYTOCHROME INTERACTING FACTOR4: !disrupts! auxin homeostasis
-auxin homeostasis: !increases! cell proliferation

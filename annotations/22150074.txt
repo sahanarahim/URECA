@@ -1,6 +1,0 @@
-Dickeya dadantii 3937 is a gram-negative phytopathogenic bacterium that expresses genes encoding a type III secretion system (T3SS) in a bistable pattern when cultured in a homogeneous minimal media. In this work, we further characterized the bistable gene expression of T3SS at the single-cell level. We demonstrated that bistable expression of the HrpL-regulon genes, such as hrpA and hrpN, is controlled by the same regulatory mechanism. We also showed that the expression level of the T3SS master regulatory gene hrpL plays an important role in the development of the bistable expression of hrpA. A high expression level of hrpL is required but unable to guarantee the high-state expression of hrpA in a cell. In addition, bistable expression patterns of T3SS genes in other gram-negative pathogens of the Enterobacteriaceae and Pseudomonadaceae families were also described in this study. This suggests that the T3SS bistability might be a conserved population behavior in several gram-negative bacterial pathogens.
-
-hrpL: !controls! hrpA
-hrpL: !regulates! T3SS
-T3SS: !exhibited in! Enterobacteriaceae
-T3SS: !exhibited in! Pseudomonadaceae

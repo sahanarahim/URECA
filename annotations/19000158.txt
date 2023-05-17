@@ -1,8 +1,0 @@
-['19000158', 'The C4 protein from Curtovirus is known as a major symptom determinant, but the  mode of action of the C4 protein remains unclear. To understand the mechanism of  involvement of C4 protein in virus-plant interactions, we introduced the C4 gene  from Beet severe curly top virus (BSCTV) into Arabidopsis under a conditional  expression promoter; the resulting overexpression of BSCTV C4 led to abnormal  host cell division. RKP, a RING finger protein, which is a homolog of the human  cell cycle regulator KPC1, was discovered to be induced by BSCTV C4 protein.  Mutation of RKP reduced the susceptibility to BSCTV in Arabidopsis and impaired  BSCTV replication in plant cells. Callus formation is impaired in rkp mutants,  indicating a role of RKP in the plant cell cycle. RKP was demonstrated to be a  functional ubiquitin E3 ligase and is able to interact with cell-cycle inhibitor  ICK/KRP proteins in vitro. Accumulation of the protein ICK2/KRP2 was found  increased in the rkp mutant. The above results strengthen the possibility that  RKP might regulate the degradation of ICK/KRP proteins. In addition, the protein  level of ICK2/KRP2 was decreased upon BSCTV infection. Overexpression of  ICK1/KRP1 in Arabidopsis could reduce the susceptibility to BSCTV. In conclusion,  we found that RKP is induced by BSCTV C4 and may affect BSCTV infection by  regulating the host cell cycle.', '2009 Mar', 'Plant J', '10.1111/j.1365-313X.2008.03737.x', 'Xie']
-
-C4: !induces! RKP 
-RKP: !interacts with! ICK/KRP 
-RKP: !regulates degradation of! ICK/KRP 
-ICK2/KRP2: !accumulates in! rkp mutant 
-ICK2/KRP2: !decreases upon! BSCTV infection 
-ICK1/KRP1: !overexpression reduces! susceptibility to BSCTV

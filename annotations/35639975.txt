@@ -1,8 +1,0 @@
-Heterobaric leaves have bundle sheath extensions (BSEs) that compartmentalize the parenchyma, whereas homobaric leaves do not. The presence of BSEs affects leaf hydraulics and photosynthetic rate. The tomato (Solanum lycopersicum) obscuravenosa (obv) mutant lacks BSEs. Here, we identify the obv gene and the causative mutation, a nonsynonymous amino acid change that disrupts a C2H2 zinc finger motif in a putative transcription factor. This mutation exists as a polymorphism in the natural range of wild tomatoes but has increased in frequency in domesticated tomatoes, suggesting that the latter diversified into heterobaric and homobaric leaf types. The obv mutant displays reduced vein density, leaf hydraulic conductance and photosynthetic assimilation rate. We show that these and other pleiotropic effects on plant development, including changes in leaf insertion angle, leaf margin serration, minor vein density, and fruit shape, are controlled by OBV via changes in auxin signaling. Loss of function of the transcriptional regulator AUXIN RESPONSE FACTOR 4 (ARF4) also results in defective BSE development, revealing an additional component of a genetic module controlling aspects of leaf development important for ecological adaptation and subject to breeding selection.
-
-obv: !affects! Leaf hydraulics
-obv: !affects! Photosynthetic rate
-obv: !disrupts! C2H2 zinc finger motif
-obv: !increases in frequency! Domesticated tomatoes
-obv: !controls! Auxin signaling
-ARF4: !controls! BSE development

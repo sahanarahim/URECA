@@ -1,9 +1,0 @@
-The root-knot nematode (RKN) is one of the most devastating parasitic nematodes of plants. Although some secondary metabolites released by the host plant play roles as defense substances against parasitic nematodes, the mechanism underlying the induction of such defense responses is not fully understood. We found that sclareol, a natural diterpene known as an antimicrobial and defense-related molecule, inhibited RKN penetration of tomato and Arabidopsis roots. Sclareol induced genes related to ethylene (ET) biosynthesis and signaling and phenylpropanoid metabolism in Arabidopsis roots. In roots of ein2-1, an ET-insensitive mutant line, both sclareol-induced inhibition of RKN penetration and sclareol-induced enhancement of lignin accumulation were abolished. A mutant defective in lignin accumulation did not exhibit such inhibition. Sclareol also activated MPK3 and MPK6, Arabidopsis mitogen-activated protein kinases whose activation is required for triggering ET biosynthesis. Sclareol-induced inhibition of RKN penetration was exhibited by mutants of neither MPK3 nor MPK6. Treatment with a biosynthetic precursor of ET was insufficient compared with sclareol treatment to inhibit RKN penetration, suggesting the existence of an ET-independent signaling pathway leading to RKN resistance. These results suggested that sclareol induced resistance to RKN penetration partially through ET-dependent accumulation of lignin in roots.
-
-sclareol: !induces! genes related to ET biosynthesis and signaling 
-sclareol: !induces! phenylpropanoid metabolism 
-ein2-1: !abolishes! sclareol-induced inhibition of RKN penetration 
-lignin accumulation: !enhances! sclareol-induced inhibition of RKN penetration 
-MPK3/MPK6: !activates! sclareol 
-MPK3/MPK6 mutants: !exhibit! sclareol-induced inhibition of RKN penetration 
-ET biosynthesis precursor: !insufficient! compared with sclareol treatment to inhibit RKN penetration

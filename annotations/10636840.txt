@@ -1,9 +1,0 @@
-['10636840', 'Multiple sorting pathways operate in chloroplasts to localize proteins to the  thylakoid membrane. The signal recognition particle (SRP) pathway in chloroplasts  employs the function of a signal recognition particle (cpSRP) to target light  harvesting chlorophyll-binding protein (LHCP) to the thylakoid membrane. In  assays that reconstitute stroma-dependent LHCP integration in vitro, the stroma  is replaceable by the addition of GTP, cpSRP, and an SRP receptor homolog,  cpFtsY. Still lacking is an understanding of events that take place at the  thylakoid membrane including the identification of membrane proteins that may  function at the level of cpFtsY binding or LHCP integration. The identification  of Oxa1p in mitochondria, an inner membrane translocase component homologous to  predicted proteins in bacteria and to the albino3 (ALB3) protein in thylakoids,  led us to investigate the potential role of ALB3 in LHCP integration. Antibody  raised against a 50-amino acid region of ALB3 (ALB3-50aa) identified a single  45-kDa thylakoid protein. Treatment of thylakoids with antibody to ALB3-50aa  inhibited LHCP integration, whereas the same antibody treatment performed in the  presence of antigen reversed the inhibition. In contrast, transport by the  thylakoid Sec or Delta pH pathways was unaffected. These data support a model  whereby a distinct translocase containing ALB3 is used to integrate LHCP into  thylakoid membranes.', '2000 Jan 21', 'J Biol Chem', '10.1074/jbc.275.3.1529', 'Henry']
-
-cpSRP: !targets! LHCP 
-GTP, cpSRP, cpFtsY: !replace! stroma 
-Oxa1p: !homologous to! ALB3 
-ALB3-50aa: !identifies! 45-kDa thylakoid protein 
-ALB3-50aa: !inhibits! LHCP integration 
-ALB3-50aa: !reverses! inhibition 
-Sec/Delta pH pathways: !unaffected by! antibody treatment

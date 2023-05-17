@@ -1,8 +1,0 @@
-['12456661', 'We propose a model for heterochromatin assembly that links DNA methylation with  histone methylation and DNA replication. The hypomethylated Arabidopsis mutants  ddm1 and met1 were used to investigate the relationship between DNA methylation  and chromatin organization. Both mutants show a reduction of heterochromatin due  to dispersion of pericentromeric low-copy sequences away from heterochromatic  chromocenters. DDM1 and MET1 control heterochromatin assembly at chromocenters by  their influence on DNA maintenance (CpG) methylation and subsequent methylation  of histone H3 lysine 9. In addition, DDM1 is required for deacetylation of  histone H4 lysine 16. Analysis of F(1) hybrids between wild-type and  hypomethylated mutants revealed that DNA methylation is epigenetically inherited  and represents the genomic imprint that is required to maintain pericentromeric  heterochromatin.', '2002 Dec 2', 'EMBO J', '10.1093/emboj/cdf657', 'Fransz']
-
-DDM1: !controls! heterochromatin assembly 
-MET1: !controls! heterochromatin assembly 
-DNA methylation: !influences! histone methylation 
-DNA methylation: !influences! DNA maintenance 
-DDM1: !required for! deacetylation of histone H4 lysine 16 
-DNA methylation: !epigenetically inherited!

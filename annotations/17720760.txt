@@ -1,8 +1,0 @@
-Kinematic analysis has provided important insights into the biology of growth by revealing the distribution of expansion within growing organs. Modern methods of kinematic analysis have made use of new image-tracking algorithms and computer-assisted evaluation, but these methods have yet to be adapted for examination of growth in a variety of plant species or for analysis of graviresponse. Therefore, a new image-analysis program, KineRoot, was developed to study spatio-temporal patterns of growth and curvature of roots. Graphite particles sprinkled on the roots create random patterns that can be followed by image analysis. KineRoot tracks the displacement of patterns created by the graphite particles over space and time using three search algorithms. Following pattern tracking, the edges of the roots are identified automatically by an edge detection algorithm that provides root diameter and root midline. Local growth rate of the root is measured by projecting the tracked points on the midline. From the shape of the root midline, root curvature is calculated. By combining curvature measurement with root diameter, the differential growth ratio between the greater and lesser curvature edges of a bending root is calculated. KineRoot is capable of analyzing a large number of images to generate local root growth and root curvature data over several hours, permitting kinematic analysis of growth and gravitropic responses for a variety of root types.
-
-KineRoot: !tracks! graphite particles 
-graphite particles: !create! random patterns 
-KineRoot: !identifies! edges of roots 
-KineRoot: !measures! local growth rate 
-KineRoot: !calculates! root curvature 
-root curvature: !calculates! differential growth ratio

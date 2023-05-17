@@ -1,6 +1,0 @@
-Aiming at the problems of low optimization accuracy and slow convergence speed of Satin Bowerbird Optimizer (SBO), an improved Satin Bowerbird Optimizer (ISBO) based on chaotic initialization and Cauchy mutation strategy is proposed. In order to improve the value of the proposed algorithm in engineering and practical applications, we apply it to the segmentation of medical and plant images. To improve the optimization accuracy, convergence speed and pertinence of the initial population, the population is initialized by introducing the Logistic chaotic map. To avoid the algorithm falling into local optimum (prematurity), the search performance of the algorithm is improved through Cauchy mutation strategy. Based on extensive visual and quantitative data analysis, this paper conducts a comparative analysis of the ISBO with the SBO, the fuzzy Gray Wolf Optimizer (FGWO), and the Fuzzy Coyote Optimization Algorithm (FCOA). The results show that the ISBO achieves better segmentation effects in both medical and plant disease images.
-
-Logistic chaotic map: !initializes! Population
-Cauchy mutation strategy: !improves! Search performance
-ISBO: !outperforms! SBO, FGWO, FCOA
-ISBO: !achieves better segmentation effects! Medical and plant disease images

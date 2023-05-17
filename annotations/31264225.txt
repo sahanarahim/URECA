@@ -1,8 +1,0 @@
-Spikelet is the primary reproductive structure and a critical determinant of grain yield in rice. The molecular mechanisms regulating rice spikelet development still remain largely unclear. Here, we report that mutations in OsPEX5, which encodes a peroxisomal targeting sequence 1 (PTS1) receptor protein, cause abnormal spikelet morphology. We show that OsPEX5 can physically interact with OsOPR7, an enzyme involved in jasmonic acid (JA) biosynthesis and is required for its import into peroxisome. Similar to Ospex5 mutant, the knockout mutant of OsOPR7 generated via CRISPR-Cas9 technology has reduced levels of endogenous JA and also displays an abnormal spikelet phenotype. Application of exogenous JA can partially rescue the abnormal spikelet phenotype of Ospex5 and Osopr7. Furthermore, we show that OsMYC2 directly binds to the promoters of OsMADS1, OsMADS7 and OsMADS14 to activate their expression, and subsequently regulate spikelet development. Our results suggest that OsPEX5 plays a critical role in regulating spikelet development through mediating peroxisomal import of OsOPR7, therefore providing new insights into regulation of JA biosynthesis in plants and expanding our understanding of the biological role of JA in regulating rice reproduction.
-
-OsPEX5: !interacts with! OsOPR7
-OsPEX5: !mediates! peroxisomal import of OsOPR7
-OsOPR7: !synthesizes! jasmonic acid (JA)
-OsMYC2: !binds to! promoters of OsMADS1, OsMADS7 and OsMADS14
-OsMYC2: !activates! expression of OsMADS1, OsMADS7 and OsMADS14
-OsMADS1, OsMADS7 and OsMADS14: !regulate! spikelet development

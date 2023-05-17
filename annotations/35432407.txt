@@ -1,9 +1,0 @@
-Phytochromes A and B (phyA and phyB) are the far-red and red lights photoreceptors mediating many light responses in <i>Arabidopsis thaliana</i>. Brassinosteroid (BR) is a pivotal phytohormone regulating a variety of plant developmental processes including photomorphogenesis. It is known that phyB interacts with BES1 to inhibit its DNA-binding activity and repress BR signaling. Here, we show that far-red and red lights modulate BR signaling through phyA and phyB regulation of the stability of BIN2, a glycogen synthase kinase 3 (GSK3)-like kinase that phosphorylates BES1/BZR1 to inhibit BR signaling. The <i>BIN2</i> gain-of-function mutant <i>bin2-1</i> displays an enhanced photomorphogenic phenotype in both far-red and red lights. phyA-enhanced accumulation of BIN2 promotes the phosphorylation of BES1 in far-red light. <i>BIN2</i> acts genetically downstream from <i>PHYA</i> to regulate photomorphogenesis under far-red light. Both phyA and phyB interact directly with BIN2, which may promote the interaction of BIN2 with BES1 and induce the phosphorylation of BES1. Our results suggest that far-red and red lights inhibit BR signaling through phyA and phyB stabilization of BIN2 and promotion of BES1 phosphorylation, which defines a new layer of the regulatory mechanism that allows plants to coordinate light and BR signaling pathways to optimize photomorphogenesis.
-
-phyA: !enhances! BIN2
-phyB: !interacts with! BES1
-phyB: !represses! BR signaling
-phyA: !interacts with! BIN2
-BIN2: !promotes! phosphorylation of BES1
-phyA/B: !stabilize! BIN2
-BIN2: !interacts with! BES1

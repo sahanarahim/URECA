@@ -1,8 +1,0 @@
-['20406405', '*The Arabidopsis genome possesses two confirmed Cytochrome P450 Reductase (CPR)  genes, ATR1 and ATR2, together with a third putative homologue, ATR3, which  annotation is questionable. *Phylogenetic analysis classified ATR3 as a CPR-like  protein sharing homologies with the animal cytosolic dual flavin reductases, NR1  and Fre-1, distinct from the microsomal CPRs, ATR1 and ATR2. Like NR1 and Fre-1,  ATR3 lacks the N-terminal endoplasmic reticulum (ER) anchor domain of CPRs and is  localized in the cytoplasm. Recombinant ATR3 in plant soluble extracts was able  to reduce cytochrome c but failed to reduce the human P450 CYP1A2. *Loss of ATR3  function resulted in early embryo lethality indicating that this reductase  activity is essential. A yeast 2-hybrid screen identified a unique interaction of  ATR3 with the homologue of the human anti-apoptotic CIAPIN1 and the yeast Dre2  protein. *This interaction suggests two possible roles for ATR3 in the control of  cell death and in chromosome segregation at mitosis. Consistent with these  results, the promoter of ATR3 is activated during cell cycle progression.  Together these results demonstrated that ATR3 belongs to the NR1 subfamily of  diflavin reductases whose characterized members are involved in essential  cellular functions.', '2010 Jul', 'New Phytol', '10.1111/j.1469-8137.2010.03254.x', 'Delorme']
-
-ATR1: !reduces! cytochrome c
-ATR3: !localizes to! cytoplasm
-ATR3: !interacts with! CIAPIN1
-ATR3: !interacts with! Dre2
-ATR3: !enhances! cell death
-ATR3: !enhances! chromosome segregation

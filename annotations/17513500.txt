@@ -1,9 +1,0 @@
-['17513500', 'The chloroplast signal recognition particle (cpSRP) and its receptor (cpFtsY)  target proteins both cotranslationally and posttranslationally to the thylakoids.  This dual function enables cpSRP to utilize its posttranslational activities for  targeting a family of nucleus-encoded light-harvesting chlorophyll binding  proteins (LHCPs), the most abundant membrane proteins in plants. Previous in  vitro experiments indicated an absolute requirement for all cpSRP pathway soluble  components. In agreement, a cpFtsY mutant in Arabidopsis thaliana exhibits a  severe chlorotic phenotype resulting from a massive loss of LHCPs. Surprisingly,  a double mutant, cpftsy cpsrp54, recovers to a great extent from the chlorotic  cpftsy phenotype. This establishes that in plants, a new alternative pathway  exists that can bypass cpSRP posttranslational targeting activities. Using a  mutant form of cpSRP43 that is unable to assemble with cpSRP54, we complemented  the cpSRP43-deficient mutant and found that this subunit is required for the  alternative pathway. Along with the ability of cpSRP43 alone to bind the ALBINO3  translocase required for LHCP integration, our results indicate that cpSRP43 has  developed features to function independently of cpSRP54/cpFtsY in targeting LHCPs  to the thylakoid membranes.', '2007 May', 'Plant Cell', '10.1105/tpc.106.048959', 'Nussaume']
-
-cpSRP: !targets! proteins 
-cpFtsY: !targets! proteins 
-cpftsy: !exhibits! chlorotic phenotype 
-cpftsy cpsrp54: !recovers from! chlorotic cpftsy phenotype 
-cpSRP43: !bypasses! cpSRP posttranslational targeting activities 
-cpSRP43: !binds! ALBINO3 translocase 
-cpSRP43: !functions independently of! cpSRP54/cpFtsY

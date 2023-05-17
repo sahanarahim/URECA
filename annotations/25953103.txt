@@ -1,9 +1,0 @@
-Senescence represents a fundamental process of late leaf development. Transcription factors (TFs) play an important role for expression reprogramming during senescence; however, the gene regulatory networks through which they exert their functions, and their physiological integration, are still largely unknown. Here, we identify the Arabidopsis (Arabidopsis thaliana) abscisic acid (ABA)- and hydrogen peroxide-activated TF Arabidopsis thaliana activating factor1 (ATAF1) as a novel upstream regulator of senescence. ATAF1 executes its physiological role by affecting both key chloroplast maintenance and senescence-promoting TFs, namely GOLDEN2-LIKE1 (GLK1) and ORESARA1 (Arabidopsis NAC092), respectively. Notably, while ATAF1 activates ORESARA1, it represses GLK1 expression by directly binding to their promoters, thereby generating a transcriptional output that shifts the physiological balance toward the progression of senescence. We furthermore demonstrate a key role of ATAF1 for ABA- and hydrogen peroxide-induced senescence, in accordance with a direct regulatory effect on ABA homeostasis genes, including nine-CIS-epoxycarotenoid dioxygenase3 involved in ABA biosynthesis and ABC transporter G family member40, encoding an ABA transport protein. Thus, ATAF1 serves as a core transcriptional activator of senescence by coupling stress-related signaling with photosynthesis- and senescence-related transcriptional cascades.
-
-ATAF1: !affects! GLK1
-ATAF1: !affects! ORESARA1
-ATAF1: !represses! GLK1
-ATAF1: !activates! ORESARA1
-ATAF1: !enhances! ABA-induced senescence
-ATAF1: !regulates! ABA homeostasis genes
-ATAF1: !directly binds to! promoters

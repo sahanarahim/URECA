@@ -1,8 +1,0 @@
-The leaf epidermis is the interface between a plant and its environment. The epidermis is highly variable in morphology, with links to both phylogeny and environment, and this diversity is relevant to several fields, including physiology, functional traits, palaeobotany, taxonomy and developmental biology. Describing and measuring leaf epidermal traits remains challenging. Current approaches are either extremely labour-intensive and not feasible for large studies or limited to measurements of individual cells. Here, we present a method to characterise individual cell size, shape (including the effect of neighbouring cells) and arrangement from light microscope images. We provide the first automated characterisation of cell arrangement (from traced images) as well as multiple new shape characteristics. We have implemented this method in an R package, epidermalmorph, and provide an example workflow using this package, which includes functions to evaluate trait reliability and optimal sampling effort for any given group of plants. We demonstrate that our new metrics of cell shape are independent of gross cell shape, unlike existing metrics. epidermalmorph provides a broadly applicable method for quantifying epidermal traits that we hope can be used to disentangle the fundamental relationships between form and function in the leaf epidermis.
-
-Gene: !affects! Leaf epidermis 
-Leaf epidermis: !characterized by! Cell size, shape and arrangement 
-epidermalmorph: !provides! Automated characterisation of cell arrangement 
-epidermalmorph: !implemented in! R package 
-R package: !includes functions to! Evaluate trait reliability and optimal sampling effort 
-Metrics of cell shape: !independent of! Gross cell shape

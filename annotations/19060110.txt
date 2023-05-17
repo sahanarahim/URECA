@@ -1,9 +1,0 @@
-['19060110', 'Endoplasmic reticulum-mediated quality control (ERQC) is a well-studied process  in yeast and mammals that retains and disposes misfolded/unassembled  polypeptides. By contrast, how plants exert quality control over their secretory  proteins is less clear. Here, we report that a mutated brassinosteroid receptor,  bri1-5, that carries a Cys69Tyr mutation, is retained in the ER by an  overvigilant ERQC system involving three different retention mechanisms. We  demonstrate that bri1-5 interacts with two ER chaperones, calnexin and binding  protein (BiP), and is degraded by a proteasome-independent endoplasmic  reticulum-associated degradation (ERAD). Mutations in components of the  calnexin/calreticulin cycle had little effect on the fidelity of the Arabidopsis  thaliana ERQC for bri1-5 retention. By contrast, overexpression of bri1-5,  treatment with an ERAD inhibitor, RNA interference-mediated BiP silencing, or  simultaneous mutations of Cys-69 and its partner Cys-62 can mitigate this quality  control, resulting in significant suppression of the bri1-5 phenotype. Thus,  bri1-5 is an excellent model protein to investigate plant ERQC/ERAD in a model  organism.', '2008 Dec', 'Plant Cell', '10.1105/tpc.108.061879', 'Li']
-
-bri1-5: !interacts with! calnexin 
-bri1-5: !interacts with! BiP 
-calnexin/calreticulin cycle: !has little effect on! bri1-5 retention 
-overexpression of bri1-5: !mitigates! ERQC 
-ERAD inhibitor: !mitigates! ERQC 
-BiP silencing: !mitigates! ERQC 
-Cys-69 and Cys-62 mutations: !mitigates! ERQC

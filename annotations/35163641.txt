@@ -1,8 +1,0 @@
-Plant height is an important component of plant architecture, and significantly affects crop quality and yield. A soybean <i>GmRAV</i> (Related to <i>ABI3/VP1</i>) transcription factor containing both AP2 and B3 domains is a growth repressor. Three <i>GmRAV-overexpressing</i> (<i>GmRAV-ox</i>) transgenic lines displayed extremely shorter height and shortened internodes compared with control plants, whereas transgenic inhibition of <i>GmRAV</i> expression resulted in increased plant height. <i>GmRAV-ox</i> soybean plants showed a low active gibberellin level and the dwarf phenotype could be rescued by treatment with exogenous GA<sub>3</sub> treatment. ChIP (Chromatin immunoprecipitation)-qPCR assay showed that GmRAV could directly regulate the expression of the GA4 biosynthetic genes <i>GA3-oxidase</i> (<i>GmGA3ox</i>) by binding two CAACA motifs in the <i>GmGA3ox</i> promoter. The <i>GmGA3ox</i> promoter was bound by GmRAV, whose expression levels in leaves were both elevated in <i>GmRAV-i-3</i> and decreased in <i>GmRAV-ox-7</i> soybean plants. Transient expression assay in <i>N. benthamiana</i> also showed that the <i>proGmRAV:GmRAV-3F6H</i> effector strongly repressed the expression of LUC reporter gene driven by <i>GmGA3ox</i> promoter containing two CAACA motifs. Together, our results suggested that GmRAV protein repressed the expression of <i>GmGA3ox</i> by directly binding to the two CAACA motifs in the promoter to limit soybean plant height.
-
-GmRAV: !represses! GmGA3ox
-GmRAV: !binds to! CAACA motifs
-GmRAV-ox: !decreases! plant height
-GmRAV-i-3: !increases! plant height
-GA3: !rescues! dwarf phenotype
-GmRAV: !regulates! GA4 biosynthetic genes
