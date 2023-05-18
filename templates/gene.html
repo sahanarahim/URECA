@@ -257,7 +257,7 @@
 
 
 
-    <h1 style="text-align: center;">Search results for: '{{ search_term }}', with {{ number_papers }} papers in our database on the topic</h1>
+    <h1 id="heading" style="text-align: center;">Search results for: '{{ search_term }}', with {{ number_papers }} papers in our database on the topic</h1>
 	{% if warning %}
 	  <p style="color: red; text-align: center;">{{ warning }}</p>
 	{% endif %}
@@ -270,7 +270,7 @@
 	</form>
 	
 <div style="text-align: center;">
-    <p>A <a href="#summaryText">summary</a> and a <a href="#sortable">table</a> containing the edge information and article abstracts is found below the network.</p>
+    <p>A <a href="#summaryText">summary</a> containing the edge information and article abstracts is found below the network.</p>
 </div>
 	<div class="cy-wrapper" style="width: 90%; height: 1200px; overflow: hidden; position: relative; background-color: black;">
 	  <div id="cy" style="width: 100%; height: 100%; background-color: white !important;"></div>
@@ -412,6 +412,7 @@ function downloadAsSVG() {
         {% endfor %}
       </tbody>
     </table>
+    <a href="#heading">Back to top</a><br>
     <a href="{{ url_for('index') }}">Back to search</a>
 
     <script>
