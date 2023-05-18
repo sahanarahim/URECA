@@ -266,7 +266,7 @@
 	  <button type="submit">Submit</button>
 	  <button class="help-button" onclick="window.location.href='{{ url_for('index') }}'">Go back</button>
 	  <button class="help-button" id="download-pdf">Download as SVG</button>
-    <button class="help-button" id="download-orig-pdf">Download default graph as SVG</button>
+    <button class="help-button" onclick="downloadTableAsTSV('sortable', 'table.tsv')">Download complete network as TSV</button>
 	</form>
 	
 <div style="text-align: center;">
@@ -385,16 +385,14 @@ function downloadAsSVG() {
 
 </script>
 
-  <p><strong>This is the text summary of the network.</strong></p>
+  
 	<div id="summaryText">
-	{{summary|safe}}
+  <p><strong>This is the text summary of the network.</strong></p>
+	  {{summary|safe}}
 	<br><br><br>
 	</div> 
 	
-	<button class="help-button" onclick="downloadTableAsTSV('sortable', 'table.tsv')">Download table as TSV</button>
-	
-	<p>The table below lists all of the edges found in the KnowledgeNetwork. Click on the PubmedID to see the abstract that was used to infer an edge.</p>
-    <table id="sortable" class="sortable">
+    <table id="sortable" class="sortable" style="display:none;">
       <thead>
         <tr>
           <th>Source</th>
@@ -409,8 +407,7 @@ function downloadAsSVG() {
             <td>{{ gene.id }}</td>
             <td>{{ gene.inter_type }}</td>
             <td>{{ gene.target }}</td>
-			<td onclick="showPaperPopup('{{ gene.publication }}', '{{ gene.id }}', '{{ gene.inter_type }}', '{{ gene.target }}')">{{ gene.publication }}</td>
-            <!-- <td><a href="https://pubmed.ncbi.nlm.nih.gov/{{ gene.publication }}">{{ gene.publication }}</a></td> -->
+			      <td>{{ gene.publication }}</td>
           </tr>
         {% endfor %}
       </tbody>
