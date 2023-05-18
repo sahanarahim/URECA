@@ -27,30 +27,6 @@ def generate_cytoscape_js(elements):
     edges = ', '.join(edges)
     return a.replace('NODES',nodes).replace('EDGES',edges)
 
-def generate_cytoscape_js_orig(elements):
-    # elements, forSending = find_terms('PIN!', genes)  # to test func
-    # elements = list(set(elements))
-    elements = edgeConverter(elements)
-    
-    nodes = [
-        "{ data: { id: '%s' } }" % node
-        for node in set(edge["source"] for edge in elements) | set(edge["target"] for edge in elements)
-    ]
-    edges = [
-        "{ data: { id: 'edge%s', source: '%s', target: '%s', interaction: '%s' } }" % (
-            i,
-            edge['source'],
-            edge['target'],
-            edge['interaction'],
-        )
-        for i, edge in enumerate(elements)
-    ]
-
-    total = nodes + edges
-
-    total = ', '.join(total)
-    return str([total]).replace('"','')
-
 def process_network(elements):    
     if len(elements)>500:  # only perform node filtration if the number of relationship is larger than 500
         #using Networkx multiDiGraph to model input data as Graph
@@ -103,7 +79,7 @@ def edgeConverter(elements): #Convert Edges to default dictionary format
 
 def make_text(elements):    
     '''Given all edges in the KnowledgeNet, it makes the text summary'''
-    pubmedLink = '<a href="https://pubmed.ncbi.nlm.nih.gov/%s" target="_blank">%s</a>'
+    pubmedLink = '<span class="pubmed-link" style="color:blue" data-pubmed-id="%s" data-source="%s" data-typa="%s" data-target="%s">%s</span>'
     #Paragraph order: node by the highest degree. Sentence order in a paragraph: node,interaction type by the number of targets.  
     topicDic = {}
     nodeDegree, nodeSentenceDegree = {}, {}
@@ -133,9 +109,9 @@ def make_text(elements):
             tempRefs = []
             for k in topicDic[i][j]:
                 if k[0] not in temp:
-                    temp[k[0]] = [pubmedLink %(k[1],k[1])]
+                    temp[k[0]] = [pubmedLink %(k[1],i,j,k[0],k[1])]
                 else:
-                    temp[k[0]] += [pubmedLink %(k[1],k[1])]
+                    temp[k[0]] += [pubmedLink %(k[1],i,j,k[0],k[1])]
             
             for target in temp:
                 tempRefs += [target + ' ('+', '.join(list(set(temp[target])))+')']
@@ -339,12 +315,7 @@ def search():
         warning = ''
         if len(elements)>500:
             warning = 'The network might be too large to be displayed, so click on "Layout Options",  select the edge types that you are interested in and click "Recalculate layout".'
-            showButton = True
-            origNodesEdges = generate_cytoscape_js_orig(elements)
-            
-        else:
-            showButton = False
-    
+        
         updatedElements = process_network(elements)
         cytoscape_js_code = generate_cytoscape_js(updatedElements)
 
@@ -353,13 +324,10 @@ def search():
             papers+=[i.publication]
             
         summaryText = make_text(forSending)
-        summaryText = json.dumps([gene.__dict__ for gene in forSending])
         
     if forSending!=[]:
-        if len(elements) >500:
-            return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, search_term = my_search, number_papers = len(set(papers)), warning = warning, sumText=summaryText, showButton=showButton, origNodesEdges=origNodesEdges)            
-        else:
-            return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, search_term = my_search, number_papers = len(set(papers)), warning = warning, sumText=summaryText, showButton=showButton)
+        return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, search_term = my_search, number_papers = len(set(papers)), warning = warning, summary=summaryText)
+        
     else:
         return render_template('not_found.html')
 

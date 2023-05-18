@@ -266,9 +266,7 @@
 	  <button type="submit">Submit</button>
 	  <button class="help-button" onclick="window.location.href='{{ url_for('index') }}'">Go back</button>
 	  <button class="help-button" id="download-pdf">Download as SVG</button>
-    {% if showButton %}
     <button class="help-button" id="download-orig-pdf">Download default graph as SVG</button>
-    {% endif %}
 	</form>
 	
 <div style="text-align: center;">
@@ -287,9 +285,6 @@
 		</div>
 	  </div>
 	</div>
-  <div class="cy-wrapper" style="width: 90%; height: 1200px; overflow: hidden; position: relative; background-color: black;position: absolute; left: -9999px; top: -9999px; ">
-	  <div id="cyOrig" style="width: 100%; height: 100%; background-color: white !important;position: absolute; left: -9999px; top: -9999px; "></div>
-  </div>
 
     <script>
     var searchForm = document.getElementById('node-search-form');
@@ -389,169 +384,10 @@ function downloadAsSVG() {
   document.getElementById('download-pdf').addEventListener('click', downloadAsSVG);
 
 </script>
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  var boolCondition = "{{showButton}}".toLowerCase()
-
-  if (boolCondition === "true") {
-    const cy2 = cytoscape({
-    container: document.getElementById('cyOrig'),
-    zoomingEnabled: true,
-    wheelSensitivity: 0.2,
-    elements : eval({{origNodesEdges|safe}}), 
-    
-  style: [
-    {
-      selector: 'node',
-    style: {
-      'background-color': '#6FB1FC', // Node background color
-      'label': 'data(id)',
-      'color': '#000000', // Node label text color
-      'text-opacity': 1, // Node label text opacity (0-1)
-      'font-size': '6px',
-      'text-halign': 'center',
-      'text-valign': 'center',
-      'text-wrap': 'wrap',
-      'text-max-width': 50
-    },
-    },
-
-    {
-    selector: 'edge',
-    style: {
-      'width': 2,
-      'line-color': '#A9A9A9', // Edge line color
-      'curve-style': 'bezier', // Edge curve style
-      'target-arrow-color': '#ccc',
-      'target-arrow-shape': 'triangle',
-      'curve-style': 'bezier',
-      'label': 'data(interaction)',
-      'font-size': '6px',
-      'text-wrap': 'wrap', // Enable edge label text wrapping
-      'text-max-width': 50, // Maximum edge label text width before wrapping (in pixels)
-      'text-rotation': 'autorotate',
-      'text-margin-x': '5px',
-      'text-margin-y': '-5px'
-    },
-    },
-  ],
-
-  layout: {
-    name: 'cose',
-    ready: function () {
-      const layout = this;
-
-      // Stop the layout after 2 seconds
-      setTimeout(function () {
-      layout.stop();
-      }, 20000);
-    }
-  }
-  });
-  }
-  }
-);
-
-function downloadAsSVG_Orig() {
-  // Assuming your Cytoscape instance is named 'cy'
-  const cy2 = document.getElementById('cyOrig')._cyreg.cy;
-
-  // Register the SVG Exporter plugin
-  cytoscape.use(cytoscapeSvg);
-
-  // Export the network view as an SVG
-  const svgContent = cy2.svg({ copyStyles: true, bg: 'white' });
-
-  // Modify the downloaded SVG to have black letters
-  const svgDOM = new DOMParser().parseFromString(svgContent, 'image/svg+xml');
-  const labels = svgDOM.querySelectorAll('text');
-  labels.forEach(label => label.setAttribute('fill', '#00FF00'));
-  const modifiedSvgContent = new XMLSerializer().serializeToString(svgDOM);
-
-  // Create a Blob from the SVG content
-  const blob = new Blob([modifiedSvgContent], { type: 'image/svg+xml;charset=utf-8' });
-  const url = URL.createObjectURL(blob);
-
-  // Create a link element, set its href to the Blob URL, and trigger a click event to download the SVG
-  const link = document.createElement('a');
-  link.href = url;
-  link.download = 'network_ORIG.svg';
-  link.click();
-
-  // Revoke the Blob URL
-  URL.revokeObjectURL(url);
-}
-  document.getElementById('download-orig-pdf').addEventListener('click', downloadAsSVG_Orig);
-</script>
 
   <p><strong>This is the text summary of the network.</strong></p>
 	<div id="summaryText">
-	<script>
-    function makeText(elements) {
-      var pubmedLink = '<span class="pubmed-link" style="color:blue" data-pubmed-id="%s" data-source="%s" data-typa="%s" data-target="%s">%s</span>';
-      var topicDic = {};
-      var nodeDegree = {};
-      var nodeSentenceDegree = {};
-      
-      // create the topic dictionary, node degree and node sentence degree
-      for (var i = 0; i < elements.length; i++) {
-        if (!topicDic[elements[i].id]) {
-          topicDic[elements[i].id] = {};
-          nodeDegree[elements[i].id] = 0;
-          nodeSentenceDegree[elements[i].id] = {};
-        }
-        if (!topicDic[elements[i].id][elements[i].inter_type]) {
-          topicDic[elements[i].id][elements[i].inter_type] = [[elements[i].target, elements[i].publication]];
-          nodeSentenceDegree[elements[i].id][elements[i].inter_type] = 1;
-          nodeDegree[elements[i].id] += 1;
-        } else {
-          topicDic[elements[i].id][elements[i].inter_type].push([elements[i].target, elements[i].publication]);
-          nodeDegree[elements[i].id] += 1;
-          nodeSentenceDegree[elements[i].id][elements[i].inter_type] += 1;
-        }
-      }
-      
-      // sort the nodes by degree
-      var sortedNodes = Object.keys(nodeDegree).sort(function(a, b) {
-        return nodeDegree[b] - nodeDegree[a];
-      });
-      
-      var save = [];
-      
-      // loop through the nodes and sentences to create the text
-      for (var i = 0; i < sortedNodes.length; i++) {
-        var node = sortedNodes[i];
-        var sortedSentences = Object.keys(nodeSentenceDegree[node]).sort(function(a, b) {
-          return nodeSentenceDegree[node][b] - nodeSentenceDegree[node][a];
-        });
-        var tempSentences = [];
-        for (var j = 0; j < sortedSentences.length; j++) {
-          var sentence = sortedSentences[j];
-          var text = '<span style="color: red;">' + node + '</span>' + ' ' + '<span style="color: orange;">' + sentence + '</span>' + ' ';
-          var temp = {};
-          var tempRefs = [];
-          for (var k = 0; k < topicDic[node][sentence].length; k++) {
-            var target = topicDic[node][sentence][k][0];
-            var publication = topicDic[node][sentence][k][1];
-            if (!(target in temp)) {
-              temp[target] = [pubmedLink.replace('%s', publication).replace('%s', node).replace('%s', sentence).replace('%s', target).replace('%s', publication)];
-            } else {
-              temp[target].push(pubmedLink.replace('%s', publication).replace('%s', node).replace('%s', sentence).replace('%s', target).replace('%s', publication));
-            }
-          }
-          for (var target in temp) {
-            tempRefs.push(target + ' (' + temp[target].filter(function(e, i, a) {return i === a.indexOf(e);}).join(', ') + ')');
-          }
-          tempSentences.push(text + tempRefs.join(', '));
-        }
-        var finishedSentence = tempSentences.join('. ') + '.';
-        save.push(finishedSentence);
-      }
-      return save.join('<br><br>');
-    }
-    var textSummary = makeText(JSON.parse('{{sumText|safe}}'));
-    document.getElementById('summaryText').innerHTML = textSummary;  
-  </script>
+	{{summary|safe}}
 	<br><br><br>
 	</div> 
 	
@@ -631,7 +467,7 @@ function downloadAsSVG_Orig() {
 		  var targetRegex = new RegExp("\\b" + targetWords[j].replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&') + "\\b", "gi");
 		  underlinedData = underlinedData.replace(targetRegex, "<u><span class='red-text'>$&</span></u>");
 		}
-		var popupHTML = "<div class='paper-popup'><h2>" + source + " " + typa + " " + target + "</h2><pre>" + underlinedData + "</pre> Click <a href='https://pubmed.ncbi.nlm.nih.gov/" + pubmedID + "'target='_blank' class='pubmed-hyperlink'>here</a> to view the publication</div>";
+		var popupHTML = "<div class='paper-popup'><h2>" + source + " " + typa + " " + target + "</h2><pre>" + underlinedData + "</pre> Click <a href='https://pubmed.ncbi.nlm.nih.gov/" + pubmedID + "'target='_blank' class='pubmed-hyperlink'>here</a> to view the publication.</div>";
 
 
 	
