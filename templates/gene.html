@@ -507,17 +507,6 @@ function downloadAsSVG() {
   
   showPaperPopup(pubmedID, source, typa, target);
 });
-	// Add a click event listener to the PubMed ID link
-	$("#pubmed-link").click(function() {
-	  // Get the PubMed ID from the link href attribute
-	  var pubmedID = $(this).attr("href").split("/").pop();
-	  
-	  // Show the paper popup
-	  showPaperPopup(pubmedID);
-	  
-	  // Prevent the default link behavior
-	  return false;
-	});
 	</script>
   </body>
 </html>
