@@ -255,6 +255,9 @@
 	  <button type="submit">Submit</button>
 	  <button class="help-button" onclick="window.location.href='{{ url_for('index') }}'">Go back</button>
 	  <button class="help-button" id="download-pdf">Download as SVG</button>
+    {% if showButton %}
+    <button class="help-button" id="download-orig-pdf">Download default graph as SVG</button>
+    {% endif %}
 	</form>
 	
 <div style="text-align: center;">
@@ -273,6 +276,9 @@
 		</div>
 	  </div>
 	</div>
+  <div class="cy-wrapper" style="width: 90%; height: 1200px; overflow: hidden; position: relative; background-color: black;position: absolute; left: -9999px; top: -9999px; ">
+	  <div id="cyOrig" style="width: 100%; height: 100%; background-color: white !important;position: absolute; left: -9999px; top: -9999px; "></div>
+  </div>
 
     <script>
     var searchForm = document.getElementById('node-search-form');
@@ -372,6 +378,101 @@ function downloadAsSVG() {
   document.getElementById('download-pdf').addEventListener('click', downloadAsSVG);
 
 </script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var boolCondition = "{{showButton}}".toLowerCase()
+
+  if (boolCondition === "true") {
+    const cy2 = cytoscape({
+    container: document.getElementById('cyOrig'),
+    zoomingEnabled: true,
+    wheelSensitivity: 0.2,
+    elements : eval({{origNodesEdges|safe}}), 
+    
+  style: [
+    {
+      selector: 'node',
+    style: {
+      'background-color': '#6FB1FC', // Node background color
+      'label': 'data(id)',
+      'color': '#000000', // Node label text color
+      'text-opacity': 1, // Node label text opacity (0-1)
+      'font-size': '6px',
+      'text-halign': 'center',
+      'text-valign': 'center',
+      'text-wrap': 'wrap',
+      'text-max-width': 50
+    },
+    },
+
+    {
+    selector: 'edge',
+    style: {
+      'width': 2,
+      'line-color': '#A9A9A9', // Edge line color
+      'curve-style': 'bezier', // Edge curve style
+      'target-arrow-color': '#ccc',
+      'target-arrow-shape': 'triangle',
+      'curve-style': 'bezier',
+      'label': 'data(interaction)',
+      'font-size': '6px',
+      'text-wrap': 'wrap', // Enable edge label text wrapping
+      'text-max-width': 50, // Maximum edge label text width before wrapping (in pixels)
+      'text-rotation': 'autorotate',
+      'text-margin-x': '5px',
+      'text-margin-y': '-5px'
+    },
+    },
+  ],
+
+  layout: {
+    name: 'cose',
+    ready: function () {
+      const layout = this;
+
+      // Stop the layout after 2 seconds
+      setTimeout(function () {
+      layout.stop();
+      }, 20000);
+    }
+  }
+  });
+  }
+  }
+);
+
+function downloadAsSVG_Orig() {
+  // Assuming your Cytoscape instance is named 'cy'
+  const cy2 = document.getElementById('cyOrig')._cyreg.cy;
+
+  // Register the SVG Exporter plugin
+  cytoscape.use(cytoscapeSvg);
+
+  // Export the network view as an SVG
+  const svgContent = cy2.svg({ copyStyles: true, bg: 'white' });
+
+  // Modify the downloaded SVG to have black letters
+  const svgDOM = new DOMParser().parseFromString(svgContent, 'image/svg+xml');
+  const labels = svgDOM.querySelectorAll('text');
+  labels.forEach(label => label.setAttribute('fill', '#00FF00'));
+  const modifiedSvgContent = new XMLSerializer().serializeToString(svgDOM);
+
+  // Create a Blob from the SVG content
+  const blob = new Blob([modifiedSvgContent], { type: 'image/svg+xml;charset=utf-8' });
+  const url = URL.createObjectURL(blob);
+
+  // Create a link element, set its href to the Blob URL, and trigger a click event to download the SVG
+  const link = document.createElement('a');
+  link.href = url;
+  link.download = 'network_ORIG.svg';
+  link.click();
+
+  // Revoke the Blob URL
+  URL.revokeObjectURL(url);
+}
+  document.getElementById('download-orig-pdf').addEventListener('click', downloadAsSVG_Orig);
+</script>
+
 	<div id="summaryText">
 	<p><strong>This is the text summary of the network.</strong></p>
 	{{ summaryText|safe }}
