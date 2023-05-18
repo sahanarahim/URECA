@@ -4,6 +4,7 @@ import re
 from Bio import Entrez
 import networkx as nx
 import numpy as np
+import json
 
 def generate_cytoscape_js(elements):
     nodes = [
@@ -121,6 +122,7 @@ def make_text(elements):
             nodeSentenceDegree[i.id][i.inter_type] += 1
 
     sorted_nodes = sorted(nodeDegree, key=lambda x: nodeDegree[x], reverse=True)    
+    # print(sorted_nodes)
     save = []
     for i in sorted_nodes:
         sorted_sentences = sorted(nodeSentenceDegree[i], key=lambda x: nodeSentenceDegree[i][x], reverse=True)
@@ -351,13 +353,13 @@ def search():
             papers+=[i.publication]
             
         summaryText = make_text(forSending)
-            
+        summaryText = json.dumps([gene.__dict__ for gene in forSending])
         
     if forSending!=[]:
-        if len(elements) >300:
-            return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, search_term = my_search, number_papers = len(set(papers)), warning = warning, summaryText=summaryText, showButton=showButton, origNodesEdges=origNodesEdges)            
+        if len(elements) >500:
+            return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, search_term = my_search, number_papers = len(set(papers)), warning = warning, sumText=summaryText, showButton=showButton, origNodesEdges=origNodesEdges)            
         else:
-            return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, search_term = my_search, number_papers = len(set(papers)), warning = warning, summaryText=summaryText, showButton=showButton)
+            return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, search_term = my_search, number_papers = len(set(papers)), warning = warning, sumText=summaryText, showButton=showButton)
     else:
         return render_template('not_found.html')
 
