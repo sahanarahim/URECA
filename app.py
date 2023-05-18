@@ -27,7 +27,8 @@ def generate_cytoscape_js(elements):
     edges = ', '.join(edges)
     return a.replace('NODES',nodes).replace('EDGES',edges)
 
-def process_network(elements):    
+def process_network(elements):
+    elements = list(set(elements))    
     if len(elements)>500:  # only perform node filtration if the number of relationship is larger than 500
         #using Networkx multiDiGraph to model input data as Graph
         G =nx.MultiDiGraph()
@@ -230,20 +231,20 @@ def author():
                         if j[0]!='' and j[2]!='':
                             papers.append(j[3])
                             forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
-                            elements.append({"source": j[0].replace("'","").replace('"',''), "target": j[2].replace("'","").replace('"',''), "interaction": j[1].replace("'","").replace('"','')})                
+                            elements.append((j[0].replace("'","").replace('"',''),  j[2].replace("'","").replace('"',''), j[1].replace("'","").replace('"','')))                
                         break
 
     
     if forSending!=[]:
-        elements = process_network(elements)
-        cytoscape_js_code = generate_cytoscape_js(elements)
+        updatedElements = process_network(elements)
+        cytoscape_js_code = generate_cytoscape_js(updatedElements)
         warning = ''
         summaryText = make_text(forSending)
         
-        if len(elements)>400:
+        if len(elements)>500:
             warning = 'The network might be too large to be displayed, so click on "Layout Options", select the edge types that you are interested in and click "Recalculate layout".'
 
-        return render_template('author.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, ncbi_count=count, author= my_search, connectome_count=len(set(papers)), warning=warning, summaryText=summaryText)
+        return render_template('author.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, ncbi_count=count, author= my_search, connectome_count=len(set(papers)), warning=warning, summary=summaryText)
     else:
         return render_template('not_found.html')
         
@@ -257,7 +258,6 @@ def title():
 
             
     forSending = []
-    print(my_search)
     if pmids!=[]:
         
         with open('titles', 'rb') as f:
@@ -278,14 +278,14 @@ def title():
                     if j[3] in hits:
                         if j[0]!='' and j[2]!='':
                             forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type 
-                            elements.append({"source": j[0].replace("'","").replace('"',''), "target": j[2].replace("'","").replace('"',''), "interaction": j[1].replace("'","").replace('"','')})                
+                            elements.append((j[0].replace("'","").replace('"',''),  j[2].replace("'","").replace('"',''), j[1].replace("'","").replace('"','')))                
                         break
 
     if forSending!=[]:
-        elements = process_network(elements)
-        cytoscape_js_code = generate_cytoscape_js(elements)
+        updatedElements = process_network(elements)
+        cytoscape_js_code = generate_cytoscape_js(updatedElements)
         summaryText = make_text(forSending)
-        return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, number_papers = len(hits), search_term = my_search, summaryText=summaryText)
+        return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, number_papers = len(hits), search_term = my_search, summary=summaryText)
     else:
         return render_template('not_found.html')
 
