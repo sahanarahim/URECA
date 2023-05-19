@@ -171,7 +171,7 @@
 
 <form action="/search" method="POST" onsubmit="submitGeneForm(event)" id="gene-form">
   <label for="gene_id">Enter a gene, molecule, compartment, stress, cell type, organ, or any other related term</label>
-  <p>Search options:"?" looks for a matching word, '!" looks for an exact match.</label>
+  <p>Search options:'!" looks for an exact match, "?" looks for all possible matching word, "&" looks for matching word and related word, "@" looks for matching gene and genes with shared aliases.</label>
   <input type="text" id="gene_id" name="gene_id" placeholder="CESA">
   <a href="#" onclick="submitFormWith(event, 'pin1!')">pin1!</a>
   <a href="#" onclick="submitFormWith(event, 'proline')">proline</a>
