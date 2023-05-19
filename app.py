@@ -3,7 +3,6 @@ import pickle
 import re
 from Bio import Entrez
 import networkx as nx
-import numpy as np
 import json
 
 def generate_cytoscape_js(elements):
