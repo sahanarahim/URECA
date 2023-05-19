@@ -149,6 +149,36 @@ def find_terms(my_search, genes):
                     forSending.extend(outputTwo)
             return list(set(elements)), forSending
         
+        if '&' in my_search: # include any related terms 
+            forSending = []
+            elements = []
+            for i in genes:
+                substring = my_search.upper().strip().replace('&','')
+                string = i.strip()
+                if substring in string:
+                    if not is_alphanumeric_helper(string, substring):
+                        outputOne, outputTwo = find_terms_helper(i,genes)
+                        elements.extend(outputOne)
+                        forSending.extend(outputTwo)
+            return list(set(elements)), forSending
+        
+        if '@' in my_search: # include any genes with similar gene alias 
+            with open('geneAlias', 'rb') as file:
+                adjMat = pickle.load(file)
+            try:
+                terms = adjMat[my_search.upper().strip().replace('@','')]
+            except:
+                terms = []
+            forSending = []
+            elements = []
+            for i in terms:
+                for j in genes:
+                    if i.upper().strip() in j.strip().split():
+                        outputOne, outputTwo = find_terms_helper(j,genes)
+                        elements.extend(outputOne)
+                        forSending.extend(outputTwo)
+            return list(set(elements)), forSending
+        
         forSending = []
         elements = []
         for i in genes:
@@ -157,6 +187,14 @@ def find_terms(my_search, genes):
                 elements.extend(outputOne)
                 forSending.extend(outputTwo)
         return list(set(elements)), forSending
+
+def is_alphanumeric_helper (string, substring):
+    patternLeft = r'[a-zA-Z0-9]'+ re.escape(substring)
+    patternRight = re.escape(substring) + r'[a-zA-Z0-9]'
+    matchesLeft = re.findall(patternLeft, string)
+    matchesRight = re.findall(patternRight, string)
+    
+    return (len(matchesLeft) > 0) or (len(matchesRight) > 0)
 
 app = Flask(__name__)
 
@@ -359,4 +397,4 @@ if __name__ == '__main__':
     v = open('stats.txt','w')
     v.write(str(len(os.listdir(os.getcwd()+'/annotations/')))+'\t'+str(len(set(items))))
     v.close()
-    app.run(host='0.0.0.0', port=8000, debug=True)
+    app.run()
