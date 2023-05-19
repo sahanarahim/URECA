@@ -374,27 +374,27 @@ def help():
     return render_template('help.html')
 
 if __name__ == '__main__':
-    import os
-    items, edges = [],0
-    for i in os.listdir(os.getcwd()+'/annotations/'):
-        a = open(os.getcwd()+'/annotations/'+i,'r',encoding='ISO-8859-1').read()
+    # import os
+    # items, edges = [],0
+    # for i in os.listdir(os.getcwd()+'/annotations/'):
+    #     a = open(os.getcwd()+'/annotations/'+i,'r',encoding='ISO-8859-1').read()
         
-        if len(a)>0:
-            findings = a.split('\n\n')[1].split('\n')
+    #     if len(a)>0:
+    #         findings = a.split('\n\n')[1].split('\n')
             
-            for j in findings:
-                if j.count('!')==2:
-                    splitta = j.split('!')
+    #         for j in findings:
+    #             if j.count('!')==2:
+    #                 splitta = j.split('!')
         
-                    agentA, _, agentB = splitta
-                    agentA = agentA.split(':')[0].upper()
-                    agentB = agentB.strip().upper()
-                    edges+=1
-                    items+=[agentA]
-                    items+=[agentB]
+    #                 agentA, _, agentB = splitta
+    #                 agentA = agentA.split(':')[0].upper()
+    #                 agentB = agentB.strip().upper()
+    #                 edges+=1
+    #                 items+=[agentA]
+    #                 items+=[agentB]
                 
     
-    v = open('stats.txt','w')
-    v.write(str(len(os.listdir(os.getcwd()+'/annotations/')))+'\t'+str(len(set(items))))
-    v.close()
+    # v = open('stats.txt','w')
+    # v.write(str(len(os.listdir(os.getcwd()+'/annotations/')))+'\t'+str(len(set(items))))
+    # v.close()
     app.run()
