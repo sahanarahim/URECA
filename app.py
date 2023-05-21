@@ -42,7 +42,7 @@ def generate_cytoscape_js(elements):
         for i, edge in enumerate(elements)
     ]
     
-    a = open('./infos/network.txt','r').read()
+    a = open('network.txt','r').read()
 
     nodes = ', '.join(nodes)
     edges = ', '.join(edges)
@@ -171,8 +171,8 @@ class Gene:
 def index():
     v = open('stats.txt','r').read().rstrip().split()
 
-    journals, numbers = open('./infos/journal_statistics.txt','r').read().splitlines()
-    piechart = open('./infos/piechart.txt','r').read()
+    journals, numbers = open('journal_statistics.txt','r').read().splitlines()
+    piechart = open('piechart.txt','r').read()
     piechart = piechart.replace('JOURNALS', journals)
     piechart = piechart.replace('NUMBERS', numbers)
 
@@ -188,7 +188,7 @@ def author():
         my_search =''
 
     if my_search!='':
-        with open('./dicss/authors', 'rb') as f:
+        with open('authors', 'rb') as f:
             # Load the object from the file
             papers = pickle.load(f)
            
@@ -253,7 +253,7 @@ def title():
     print(my_search)
     if pmids!=[]:
         
-        with open('./dics/titles', 'rb') as f:
+        with open('titles', 'rb') as f:
             # Load the object from the file
             papers = pickle.load(f)
 
@@ -353,7 +353,7 @@ if __name__ == '__main__':
                     items += [agentA]
                     items += [agentB]
                 
-    v = open('./infos/stats.txt','w')
+    v = open('stats.txt','w')
     v.write(str(len(os.listdir(os.getcwd()+'/annotations/')))+'\t'+str(len(set(items))))
     v.close()
     app.run()
