@@ -128,7 +128,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	elements: [
 	  // Nodes
 	  NODES,
-
+    
 	  // Edges
 	  EDGES
 	],
@@ -220,3 +220,17 @@ cy.on('cxttap', 'node', function(evt){
 
 }
 );
+
+/*
+elements = [
+	  // Nodes
+	  NODES,
+    
+	  // Edges
+	  EDGES
+	]
+
+elements.forEach(ele => {
+  if (ele.data.id.length === 0) console.log(ele)
+})
+*/
