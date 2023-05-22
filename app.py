@@ -3,7 +3,8 @@ import pickle
 import re
 from Bio import Entrez
 import networkx as nx
-import numpy as npimport os
+import numpy as np
+import os
 
 # Importing custom utilities 
 from utils import edges as e
