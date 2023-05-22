@@ -210,8 +210,7 @@ def author():
         
         forSending = []
         if hits!=[]:
-            with open('dics/allDic2', 'rb') as file:
-                print('sdfsf')
+            with open('allDic2', 'rb') as file:
                 genes = pickle.load(file)
             
             
