@@ -2,6 +2,8 @@ from flask import Flask, render_template, request, redirect, url_for
 import pickle
 import re
 from Bio import Entrez
+import networkx as nx
+import numpy as np
 import os
 
 # Importing custom utilities 
@@ -49,23 +51,80 @@ def generate_cytoscape_js(elements):
     
     return a.replace('NODES',nodes).replace('EDGES',edges)
 
-def process_network(elements):    
-    #remove redundancies
-    edges = []
-    for i in elements:
-        if i not in edges:
-            edges.append(i)
-
-    #groups similar nodes that have same source+interaction
-    edgeTypes = {}
-    for i in elements:
-        key = (i['source'], i['interaction'])
-        if key in edgeTypes:
-            edgeTypes[key] += [i['target']]
-        else:
-            edgeTypes[key] = [i['target']]
-    return edges
+def generate_cytoscape_js_orig(elements):
+    # elements, forSending = find_terms('PIN!', genes)  # to test func
+    # elements = list(set(elements))
+    elements = edgeConverter(elements)
     
+    nodes = [
+        "{ data: { id: '%s' } }" % node
+        for node in set(edge["source"] for edge in elements) | set(edge["target"] for edge in elements)
+    ]
+    edges = [
+        "{ data: { id: 'edge%s', source: '%s', target: '%s', interaction: '%s' } }" % (
+            i,
+            edge['source'],
+            edge['target'],
+            edge['interaction'],
+        )
+        for i, edge in enumerate(elements)
+    ]
+
+    total = nodes + edges
+
+    total = ', '.join(total)
+    return str([total]).replace('"','')
+
+def process_network(elements):    
+    if len(elements)>500:  # only perform node filtration if the number of relationship is larger than 500
+        #using Networkx multiDiGraph to model input data as Graph
+        G =nx.MultiDiGraph()
+        for i in elements:
+            G.add_edge(i[0], i[1], relation = i[2])
+        
+        G,ref =nodeDegreeFilter(G)
+        
+        return graphConverter(G,ref)
+    else:
+        return edgeConverter(elements)
+
+def nodeDegreeFilter(graph):
+    nodesToKeep = []
+    totalDegree = 0
+    for i in sorted(dict(graph.degree), key=dict(graph.degree).get, reverse=True):
+        currDegree = graph.degree(i)
+        if totalDegree <= 500 or nodesToKeep==[]: #must keep at least one nodes
+            nodesToKeep.append(i)
+            totalDegree += currDegree
+        if totalDegree > 500:
+            break
+    lst = set()
+    for j in nodesToKeep:
+        lst.update(list(graph.in_edges(j))+list(graph.out_edges(j)))
+    ref ={}
+    for i in lst:  # create a hash map for the entities to be kept
+        ref[i] = ref.get(i,0)+1
+    return graph, ref
+            
+def graphConverter(graph, ref):
+    updatedElements = []
+    for k,v in graph.adjacency():
+        source = str(k).replace("'","").replace('"','')
+        if v:
+            for i,j in v.items():
+                target = str(i).replace("'","").replace('"','')
+                for p,q in j.items():
+                    type = str(q['relation']).replace("'","").replace('"','')
+                    if (source, target) in ref:
+                        updatedElements.append({"source": source, "target": target, "interaction": type})
+    return updatedElements 
+            
+def edgeConverter(elements): #Convert Edges to default dictionary format 
+    updatedElements = []
+    for i in elements:
+        updatedElements.append({"source": str(i[0]).replace("'","").replace('"',''), "target": str(i[1]).replace("'","").replace('"',''), "interaction": str(i[2]).replace("'","").replace('"','')})
+    return updatedElements 
+
 def make_text(elements):    
     '''Given all edges in the KnowledgeNet, it makes the text summary'''
     pubmedLink = '<a href="https://pubmed.ncbi.nlm.nih.gov/%s" target="_blank">%s</a>'
@@ -109,54 +168,41 @@ def make_text(elements):
         save.append(finishedSentence)
     return '<br><br>'.join(save)
 
-def find_terms(my_search, genes, remove_passive = True): 
-    '''
-    Finds a term inside a dictionary.
-
-    A hard cutoff for now of 100 nodes
-    '''  
+def find_terms_helper(gene, genes):
     forSending = []
-    elements = [] 
+    elements =[]
+    for j in genes[gene]:
+        if j[0]!='' and j[2]!='':
+            forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
+            elements.append((j[0].replace("'","").replace('"',''),  j[2].replace("'","").replace('"',''), j[1].replace("'","").replace('"','')))
+    return elements, forSending
 
-    if len(my_search)>0:
-        for i in genes:
-            if '!' in my_search: #exact search
+def find_terms(my_search, genes):   
+    if my_search:
+        if '!' in my_search: #exact search -Specific word
+            for i in genes:
                 if my_search.upper().strip().replace('!','') == i.strip():
-                    for j in genes[i]:
-                        if j[0]!='' and j[2]!='':
-                            forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
-                            elements.append({"source": j[0].replace("'","").replace('"',''), "target": j[2].replace("'","").replace('"',''), "interaction": j[1].replace("'","").replace('"','')})                
-            if '?' in my_search: #exact word
-                print(my_search.upper().strip().replace('?',''))
-                if my_search.upper().strip().replace('?','') in i.strip().split():
-                    for j in genes[i]:
-                        if j[0]!='' and j[2]!='':
-                            forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
-                            elements.append({"source": j[0].replace("'","").replace('"',''), "target": j[2].replace("'","").replace('"',''), "interaction": j[1].replace("'","").replace('"','')})                
-
-            # Searching for just a term:
-            if my_search.upper().strip() in i.strip():
-                for j in genes[i]:
-                    if len(j[0]) and len(j[2]):
-                        forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
-
-                        # Making the nodes + edges for the graph:
-                        source_node, target_node = j[0].replace("'", '').replace('"', ''), j[2].replace("'","").replace('"','')
-                        edge = j[1].replace("'","").replace('"','')
-
-                        if remove_passive:
-                            replacement = e.search_passive_edges(edge)
-                            if replacement is not None:
-                                '''
-                                This assumes that we can flip the nodes around in the case of passive edges:
-                                '''
-                                edge = replacement
-                                elements.append({"source": target_node, "target": source_node, "interaction": edge})
-                            else:
-                                elements.append({"source": target_node, "target": source_node, "interaction": edge})
-                        else:
-                            elements.append({"source": source_node, "target": target_node, "interaction": edge})
-    return elements[:200], forSending[:200]
+                    elements, forSending = find_terms_helper(i,genes)
+                    return list(set(elements)), forSending
+        
+        if '?' in my_search: # include any term that contains the substring of the query 
+            forSending = []
+            elements = [] 
+            for i in genes:
+                if my_search.upper().strip().replace('?','') in i.strip():
+                    outputOne, outputTwo = find_terms_helper(i,genes)
+                    elements.extend(outputOne)
+                    forSending.extend(outputTwo)
+            return list(set(elements)), forSending
+        
+        forSending = []
+        elements = []
+        for i in genes:
+            if my_search.upper().strip() in i.strip().split():  # default search - terms that contain the specific query word
+                outputOne, outputTwo = find_terms_helper(i,genes)
+                elements.extend(outputOne)
+                forSending.extend(outputTwo)
+        return list(set(elements)), forSending
 
 app = Flask(__name__)
 
@@ -166,6 +212,15 @@ class Gene:
         self.target = description
         self.inter_type = inter_type
         self.publication = publication
+    
+    def __repr__(self):
+        return str(self.__dict__)
+    
+    def __str__(self):
+        return str(self.__dict__)
+    
+    def getElements(self):
+        return (self.id, self.target, self.inter_type)
 
 @app.route('/')
 def index():
@@ -296,7 +351,6 @@ def search():
          
     if len(my_search) > 0:
         split_search = my_search.split(';')
-        
         forSending = []
         elements = []
 
@@ -305,19 +359,33 @@ def search():
             elements += results[0]
             forSending += results[1]
             
+        # remove redundancies
+        elements = list(set(elements))
+        
+        warning = ''
+        if len(elements)>500:
+            warning = 'The network might be too large to be displayed, so click on "Layout Options",  select the edge types that you are interested in and click "Recalculate layout".'
+            showButton = True
+            origNodesEdges = generate_cytoscape_js_orig(elements)
+            
+        else:
+            showButton = False
+    
+        updatedElements = process_network(elements)
+        cytoscape_js_code = generate_cytoscape_js(updatedElements)
+
         papers = []
         for i in forSending:
             papers+=[i.publication]
             
         summaryText = make_text(forSending)
-        warning = ''
-        if len(elements)>400:
-            warning = 'The network might be too large to be displayed, so click on "Layout Options",  select the edge types that you are interested in and click "Recalculate layout".'
-        elements = process_network(elements)
-        cytoscape_js_code = generate_cytoscape_js(elements)
-
+            
+        
     if forSending!=[]:
-        return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, search_term = my_search, number_papers = len(set(papers)), warning = warning, summaryText=summaryText)
+        if len(elements) >300:
+            return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, search_term = my_search, number_papers = len(set(papers)), warning = warning, summaryText=summaryText, showButton=showButton, origNodesEdges=origNodesEdges)            
+        else:
+            return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, search_term = my_search, number_papers = len(set(papers)), warning = warning, summaryText=summaryText, showButton=showButton)
     else:
         return render_template('not_found.html')
 
@@ -336,7 +404,7 @@ if __name__ == '__main__':
     '''
     items, edges = [], 0
     for i in os.listdir(os.getcwd()+'/annotations/'):
-        a = open(os.getcwd() + '/annotations/' + i, encoding = 'ISO-8859-1').read()
+        a = open(os.getcwd()+'/annotations/'+i,'r',encoding='ISO-8859-1').read()
         
         if len(a) > 0:
             findings = a.split('\n\n')[1].split('\n')
