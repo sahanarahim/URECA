@@ -232,6 +232,17 @@
     cursor: pointer;
   }
 
+  .pubmed-hyperlink {
+    color: #007bff; 
+    text-decoration: none; 
+    outline:none;
+    font-weight: bold
+  }
+  
+  .pubmed-hyperlink:hover {
+    color: #ff0000; 
+  }
+
     </style>
 
   <script src="https://unpkg.com/cytoscape@3.23.0/dist/cytoscape.min.js"></script>
@@ -246,7 +257,7 @@
 
 
 
-    <h1 style="text-align: center;">Search results for: '{{ search_term }}', with {{ number_papers }} papers in our database on the topic</h1>
+    <h1 id="heading" style="text-align: center;">Search results for: '{{ search_term }}', with {{ number_papers }} papers in our database on the topic</h1>
 	{% if warning %}
 	  <p style="color: red; text-align: center;">{{ warning }}</p>
 	{% endif %}
@@ -255,10 +266,11 @@
 	  <button type="submit">Submit</button>
 	  <button class="help-button" onclick="window.location.href='{{ url_for('index') }}'">Go back</button>
 	  <button class="help-button" id="download-pdf">Download as SVG</button>
+    <button class="help-button" onclick="downloadTableAsTSV('sortable', 'table.tsv')">Download complete network as TSV</button>
 	</form>
 	
 <div style="text-align: center;">
-    <p>A <a href="#summaryText">summary</a> and a <a href="#sortable">table</a> containing the edge information and article abstracts is found below the network.</p>
+    <p>A <a href="#summaryText">summary</a> containing the edge information and article abstracts is found below the network.</p>
 </div>
 	<div class="cy-wrapper" style="width: 90%; height: 1200px; overflow: hidden; position: relative; background-color: black;">
 	  <div id="cy" style="width: 100%; height: 100%; background-color: white !important;"></div>
@@ -372,16 +384,15 @@ function downloadAsSVG() {
   document.getElementById('download-pdf').addEventListener('click', downloadAsSVG);
 
 </script>
+
+  
 	<div id="summaryText">
-	<p><strong>This is the text summary of the network.</strong></p>
-	{{ summaryText|safe }}
+  <p><strong>This is the text summary of the network.</strong></p>
+	  {{summary|safe}}
 	<br><br><br>
 	</div> 
 	
-	<button class="help-button" onclick="downloadTableAsTSV('sortable', 'table.tsv')">Download table as TSV</button>
-	
-	<p>The table below lists all of the edges found in the KnowledgeNetwork. Click on the PubmedID to see the abstract that was used to infer an edge.</p>
-    <table id="sortable" class="sortable">
+    <table id="sortable" class="sortable" style="display:none;">
       <thead>
         <tr>
           <th>Source</th>
@@ -396,12 +407,12 @@ function downloadAsSVG() {
             <td>{{ gene.id }}</td>
             <td>{{ gene.inter_type }}</td>
             <td>{{ gene.target }}</td>
-			<td onclick="showPaperPopup('{{ gene.publication }}', '{{ gene.id }}', '{{ gene.inter_type }}', '{{ gene.target }}')">{{ gene.publication }}</td>
-            <!-- <td><a href="https://pubmed.ncbi.nlm.nih.gov/{{ gene.publication }}">{{ gene.publication }}</a></td> -->
+			      <td>{{ gene.publication }}</td>
           </tr>
         {% endfor %}
       </tbody>
     </table>
+    <a href="#heading">Back to top</a><br>
     <a href="{{ url_for('index') }}">Back to search</a>
 
     <script>
@@ -454,35 +465,48 @@ function downloadAsSVG() {
 		  var targetRegex = new RegExp("\\b" + targetWords[j].replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&') + "\\b", "gi");
 		  underlinedData = underlinedData.replace(targetRegex, "<u><span class='red-text'>$&</span></u>");
 		}
-		var popupHTML = "<div class='paper-popup'><h2>" + source + " " + typa + " " + target + "</h2><pre>" + underlinedData + "</pre></div>";
+		var popupHTML = "<div class='paper-popup'><h2>" + source + " " + typa + " " + target + "</h2><pre>" + underlinedData + "</pre> Click <a href='https://pubmed.ncbi.nlm.nih.gov/" + pubmedID + "'target='_blank' class='pubmed-hyperlink'>here</a> to view the publication.</div>";
 
 
-		
+	
 		// Display the popup using the jQuery UI dialog function
 		
-    $(popupHTML).dialog({
+    var $popup = $(popupHTML).dialog({
       width: "90%",
       maxWidth: "none",
       minHeight: "none",
       modal: true,
-      close: function() {
-        $(this).dialog('destroy').remove();
+      close: function () {
+        $popup.dialog("destroy").remove();
+        currentPopup = null; // Reset the currentPopup variable
+      },
+    });
+
+    // Set the currentPopup variable to the new popup
+    currentPopup = $popup;
+
+    // Close the popup when clicking outside the box
+    $(document).on("click", function (event) {
+      if (
+        currentPopup !== null &&
+        !$popup.is(event.target) &&
+        $popup.has(event.target).length === 0
+      ) {
+        currentPopup.dialog("destroy").remove();
+        currentPopup = null; // Reset the currentPopup variable
       }
-    })
+    });
 	  });
 	}
-
-	// Add a click event listener to the PubMed ID link
-	$("#pubmed-link").click(function() {
-	  // Get the PubMed ID from the link href attribute
-	  var pubmedID = $(this).attr("href").split("/").pop();
-	  
-	  // Show the paper popup
-	  showPaperPopup(pubmedID);
-	  
-	  // Prevent the default link behavior
-	  return false;
-	});
+  // Event listener for clicking on pubmed-link elements
+  $(document).on('click', '.pubmed-link', function() {
+  var pubmedID = $(this).data('pubmed-id');
+  var source = $(this).data('source');
+  var typa = $(this).data('typa');
+  var target = $(this).data('target');
+  
+  showPaperPopup(pubmedID, source, typa, target);
+});
 	</script>
   </body>
 </html>
