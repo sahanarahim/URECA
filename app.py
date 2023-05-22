@@ -370,7 +370,7 @@ def search():
         elements = []
 
         for term in split_search:
-            results = find_terms(term, genes, remove_redundant_edges)
+            results = find_terms(term, genes)#, remove_redundant_edges)
             elements += results[0]
             forSending += results[1]
             
