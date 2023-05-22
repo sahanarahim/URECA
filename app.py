@@ -3,7 +3,7 @@ import pickle
 import re
 from Bio import Entrez
 import networkx as nx
-import numpy as np
+import json
 import os
 
 # Importing custom utilities 
@@ -51,31 +51,8 @@ def generate_cytoscape_js(elements):
     
     return a.replace('NODES',nodes).replace('EDGES',edges)
 
-def generate_cytoscape_js_orig(elements):
-    # elements, forSending = find_terms('PIN!', genes)  # to test func
-    # elements = list(set(elements))
-    elements = edgeConverter(elements)
-    
-    nodes = [
-        "{ data: { id: '%s' } }" % node
-        for node in set(edge["source"] for edge in elements) | set(edge["target"] for edge in elements)
-    ]
-    edges = [
-        "{ data: { id: 'edge%s', source: '%s', target: '%s', interaction: '%s' } }" % (
-            i,
-            edge['source'],
-            edge['target'],
-            edge['interaction'],
-        )
-        for i, edge in enumerate(elements)
-    ]
-
-    total = nodes + edges
-
-    total = ', '.join(total)
-    return str([total]).replace('"','')
-
-def process_network(elements):    
+def process_network(elements):
+    elements = list(set(elements))    
     if len(elements)>500:  # only perform node filtration if the number of relationship is larger than 500
         #using Networkx multiDiGraph to model input data as Graph
         G =nx.MultiDiGraph()
@@ -127,7 +104,7 @@ def edgeConverter(elements): #Convert Edges to default dictionary format
 
 def make_text(elements):    
     '''Given all edges in the KnowledgeNet, it makes the text summary'''
-    pubmedLink = '<a href="https://pubmed.ncbi.nlm.nih.gov/%s" target="_blank">%s</a>'
+    pubmedLink = '<span class="pubmed-link" style="color:blue" data-pubmed-id="%s" data-source="%s" data-typa="%s" data-target="%s">%s</span>'
     #Paragraph order: node by the highest degree. Sentence order in a paragraph: node,interaction type by the number of targets.  
     topicDic = {}
     nodeDegree, nodeSentenceDegree = {}, {}
@@ -146,6 +123,7 @@ def make_text(elements):
             nodeSentenceDegree[i.id][i.inter_type] += 1
 
     sorted_nodes = sorted(nodeDegree, key=lambda x: nodeDegree[x], reverse=True)    
+    # print(sorted_nodes)
     save = []
     for i in sorted_nodes:
         sorted_sentences = sorted(nodeSentenceDegree[i], key=lambda x: nodeSentenceDegree[i][x], reverse=True)
@@ -156,9 +134,9 @@ def make_text(elements):
             tempRefs = []
             for k in topicDic[i][j]:
                 if k[0] not in temp:
-                    temp[k[0]] = [pubmedLink %(k[1],k[1])]
+                    temp[k[0]] = [pubmedLink %(k[1],i,j,k[0],k[1])]
                 else:
-                    temp[k[0]] += [pubmedLink %(k[1],k[1])]
+                    temp[k[0]] += [pubmedLink %(k[1],i,j,k[0],k[1])]
             
             for target in temp:
                 tempRefs += [target + ' ('+', '.join(list(set(temp[target])))+')']
@@ -195,6 +173,36 @@ def find_terms(my_search, genes):
                     forSending.extend(outputTwo)
             return list(set(elements)), forSending
         
+        if '&' in my_search: # include any related terms 
+            forSending = []
+            elements = []
+            for i in genes:
+                substring = my_search.upper().strip().replace('&','')
+                string = i.strip()
+                if substring in string:
+                    if not is_alphanumeric_helper(string, substring):
+                        outputOne, outputTwo = find_terms_helper(i,genes)
+                        elements.extend(outputOne)
+                        forSending.extend(outputTwo)
+            return list(set(elements)), forSending
+        
+        if '@' in my_search: # include any genes with similar gene alias 
+            with open('geneAlias', 'rb') as file:
+                adjMat = pickle.load(file)
+            try:
+                terms = adjMat[my_search.upper().strip().replace('@','')]
+            except:
+                terms = []
+            forSending = []
+            elements = []
+            for i in terms:
+                for j in genes:
+                    if i.upper().strip() in j.strip().split():
+                        outputOne, outputTwo = find_terms_helper(j,genes)
+                        elements.extend(outputOne)
+                        forSending.extend(outputTwo)
+            return list(set(elements)), forSending
+        
         forSending = []
         elements = []
         for i in genes:
@@ -203,6 +211,14 @@ def find_terms(my_search, genes):
                 elements.extend(outputOne)
                 forSending.extend(outputTwo)
         return list(set(elements)), forSending
+
+def is_alphanumeric_helper (string, substring):
+    patternLeft = r'[a-zA-Z0-9]'+ re.escape(substring)
+    patternRight = re.escape(substring) + r'[a-zA-Z0-9]'
+    matchesLeft = re.findall(patternLeft, string)
+    matchesRight = re.findall(patternRight, string)
+    
+    return (len(matchesLeft) > 0) or (len(matchesRight) > 0)
 
 app = Flask(__name__)
 
@@ -277,20 +293,20 @@ def author():
                         if j[0]!='' and j[2]!='':
                             papers.append(j[3])
                             forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
-                            elements.append({"source": j[0].replace("'","").replace('"',''), "target": j[2].replace("'","").replace('"',''), "interaction": j[1].replace("'","").replace('"','')})                
+                            elements.append((j[0].replace("'","").replace('"',''),  j[2].replace("'","").replace('"',''), j[1].replace("'","").replace('"','')))                
                         break
 
     
     if forSending!=[]:
-        elements = process_network(elements)
-        cytoscape_js_code = generate_cytoscape_js(elements)
+        updatedElements = process_network(elements)
+        cytoscape_js_code = generate_cytoscape_js(updatedElements)
         warning = ''
         summaryText = make_text(forSending)
         
-        if len(elements)>400:
+        if len(elements)>500:
             warning = 'The network might be too large to be displayed, so click on "Layout Options", select the edge types that you are interested in and click "Recalculate layout".'
 
-        return render_template('author.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, ncbi_count=count, author= my_search, connectome_count=len(set(papers)), warning=warning, summaryText=summaryText)
+        return render_template('author.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, ncbi_count=count, author= my_search, connectome_count=len(set(papers)), warning=warning, summary=summaryText)
     else:
         return render_template('not_found.html')
         
@@ -304,7 +320,6 @@ def title():
 
             
     forSending = []
-    print(my_search)
     if pmids!=[]:
         
         with open('titles', 'rb') as f:
@@ -325,14 +340,14 @@ def title():
                     if j[3] in hits:
                         if j[0]!='' and j[2]!='':
                             forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type 
-                            elements.append({"source": j[0].replace("'","").replace('"',''), "target": j[2].replace("'","").replace('"',''), "interaction": j[1].replace("'","").replace('"','')})                
+                            elements.append((j[0].replace("'","").replace('"',''),  j[2].replace("'","").replace('"',''), j[1].replace("'","").replace('"','')))                
                         break
 
     if forSending!=[]:
-        elements = process_network(elements)
-        cytoscape_js_code = generate_cytoscape_js(elements)
+        updatedElements = process_network(elements)
+        cytoscape_js_code = generate_cytoscape_js(updatedElements)
         summaryText = make_text(forSending)
-        return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, number_papers = len(hits), search_term = my_search, summaryText=summaryText)
+        return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, number_papers = len(hits), search_term = my_search, summary=summaryText)
     else:
         return render_template('not_found.html')
 
@@ -365,12 +380,7 @@ def search():
         warning = ''
         if len(elements)>500:
             warning = 'The network might be too large to be displayed, so click on "Layout Options",  select the edge types that you are interested in and click "Recalculate layout".'
-            showButton = True
-            origNodesEdges = generate_cytoscape_js_orig(elements)
-            
-        else:
-            showButton = False
-    
+        
         updatedElements = process_network(elements)
         cytoscape_js_code = generate_cytoscape_js(updatedElements)
 
@@ -379,13 +389,10 @@ def search():
             papers+=[i.publication]
             
         summaryText = make_text(forSending)
-            
         
     if forSending!=[]:
-        if len(elements) >300:
-            return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, search_term = my_search, number_papers = len(set(papers)), warning = warning, summaryText=summaryText, showButton=showButton, origNodesEdges=origNodesEdges)            
-        else:
-            return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, search_term = my_search, number_papers = len(set(papers)), warning = warning, summaryText=summaryText, showButton=showButton)
+        return render_template('gene.html', genes=forSending, cytoscape_js_code=cytoscape_js_code, search_term = my_search, number_papers = len(set(papers)), warning = warning, summary=summaryText)
+        
     else:
         return render_template('not_found.html')
 
@@ -397,32 +404,27 @@ def help():
     return render_template('help.html')
 
 if __name__ == '__main__':
-    import os
-    '''
-    This part calculates the summary statistics that'll be displayed on the 
-    home page of the database.
-    '''
-    items, edges = [], 0
-    for i in os.listdir(os.getcwd()+'/annotations/'):
-        a = open(os.getcwd()+'/annotations/'+i,'r',encoding='ISO-8859-1').read()
+    # import os
+    # items, edges = [],0
+    # for i in os.listdir(os.getcwd()+'/annotations/'):
+    #     a = open(os.getcwd()+'/annotations/'+i,'r',encoding='ISO-8859-1').read()
         
-        if len(a) > 0:
-            findings = a.split('\n\n')[1].split('\n')
+    #     if len(a)>0:
+    #         findings = a.split('\n\n')[1].split('\n')
             
-            for j in findings:
-                if j.count('!') == 2:
-                    splitta = j.split('!')
+    #         for j in findings:
+    #             if j.count('!')==2:
+    #                 splitta = j.split('!')
         
-                    agentA, _, agentB = splitta
-                    agentA = agentA.split(':')[0].upper()   # Node 1
-                    agentB = agentB.strip().upper()         # Node 2
-                    edges += 1
-                    items += [agentA]
-                    items += [agentB]
+    #                 agentA, _, agentB = splitta
+    #                 agentA = agentA.split(':')[0].upper()
+    #                 agentB = agentB.strip().upper()
+    #                 edges+=1
+    #                 items+=[agentA]
+    #                 items+=[agentB]
                 
-    v = open('stats.txt','w')
-    v.write(str(len(os.listdir(os.getcwd()+'/annotations/')))+'\t'+str(len(set(items))))
-    v.close()
+    
+    # v = open('stats.txt','w')
+    # v.write(str(len(os.listdir(os.getcwd()+'/annotations/')))+'\t'+str(len(set(items))))
+    # v.close()
     app.run()
-else:
-    gunicorn_app = app
