@@ -284,7 +284,7 @@ def title():
 
 @app.route('/search', methods=['POST'])
 def search():
-    with open('dics/allDic2', 'rb') as file:
+    with open('allDic2', 'rb') as file:
         genes = pickle.load(file)
 
     try:
