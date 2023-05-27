@@ -1,0 +1,199 @@
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+/* Add styles for the search results section */
+section {
+    margin: 30px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    /* box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1); */
+    background-color: white;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+/* Add styles for the cytoscape section */
+.cy-wrapper {
+    width: 90%;
+    height: 1200px;
+    margin: 30px auto;
+    overflow: hidden;
+    border: 1px solid #ddd;
+    background-color: white;
+    margin-top: -1px;
+}
+
+/* Add styles for the paper popup */
+.paper-popup {
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Add styles for the red text */
+.red-text {
+    color: red;
+}
+
+/* Add styles for the page footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* "width: 90%; height: 1200px; overflow: hidden; position: relative; background-color: black;" */
+
+/* Add styles for the search form */
+
+
+/* The popup form - hidden by default */
+.form-popup {
+    display: none;
+    position: absolute;
+    top: 30px;
+    left: 5px;
+    width: 100%;
+    border: 3px solid #f1f1f1;
+    z-index: 999;
+    background-color: #e6e6e6;
+    opacity: 0.7;
+}
+
+/* Button used to open the contact form */
+#open-button {
+    position: absolute;
+    top: 0; 
+    left: 0;
+}
+
+    
+    /* Add styles to the form container */
+.form-container {
+    max-width: 100%;
+    padding: 0px;
+}
+
+    /* Full-width input fields */
+.form-container input[type=number] {
+    width: 30%;
+    padding: 7px 7px;
+    border: none;
+    background: black;
+}
+
+    /* When the inputs get focus, do something */
+.form-container input[type=text]:focus, .form-container input[type=password]:focus {
+    outline: none;
+}
+
+    /* Set a style for the submit/login button */
+.form-container .btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px 5px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom:10px;
+    opacity: 0.8;
+}
+
+/* Add a red background color to the cancel button */
+.cancel-button {
+    background-color: #ff5b49;
+    color: white;
+    padding: 10px 24px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    flex: 1;
+    width: 10%;
+}
+
+/* Add some hover effects to buttons */
+.form-container .btn:hover, .open-button:hover , .cancel-button:hover,.layoutButton:hover, #graphml:hover{
+    opacity: 1;
+}
+    
+.option-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 24px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    flex: 1;
+    width: 10%;
+}
+
+    
+.option-button:hover {
+    background-color: #3e8e41;
+    }
+    
+.cancel-button:hover {
+    background-color: #8c180f;
+}
+    
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.button-container .option-button {
+    width: 50%;
+}
+
+.button-container .cancel-button {
+    width: 50%;
+}
+.help-button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    font-size: 12px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.pubmed-hyperlink {
+    color: #007bff; 
+    text-decoration: none; 
+    outline:none;
+    font-weight: bold
+}
+
+.pubmed-hyperlink:hover {
+    color: #ff0000; 
+}
