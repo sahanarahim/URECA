@@ -1,233 +1,66 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>PlantConnectome</title>
-    <style>
-      /* Add styles for the page header */
-      header {
-        background-color: #333;
-        color: #fff;
-        padding: 20px;
-        text-align: center;
-      }
-      h1 {
-        margin: 0;
-      }
+{% extends "base.html" %}
 
-      /* Add styles for the search form */
-      form {
-        margin: 20px auto;
-        max-width: 600px;
-        padding: 20px;
-        border: 1px solid #ccc;
-        border-radius: 5px;
-        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-      }
-      label {
-        display: block;
-        margin-bottom: 10px;
-        font-size: 18px;
-      }
-      input[type="text"] {
-        width: 100%;
-        padding: 10px;
-        font-size: 18px;
-        border-radius: 5px;
-        border: 1px solid #ccc;
-        box-sizing: border-box;
-      }
-      input[type="submit"] {
-        background-color: #333;
-        color: #fff;
-        padding: 10px 20px;
-        font-size: 18px;
-        border-radius: 5px;
-        border: none;
-        cursor: pointer;
-      }
+{% block dependencies %}
+{{ super() }}
+<script src = "{{ url_for('static', filename = 'js/index.js') }}"></script>
+{% endblock %}
 
-      /* Add styles for the footer */
-      footer {
-        background-color: #333;
-        color: #fff;
-        padding: 20px;
-        text-align: center;
-      }
-	  
-      /* Add styles for the search tips */
-      .stats {
-        max-width: 600px;
-        margin: 0 auto;
-        padding: 10px 20px;
-        border: 1px solid #ccc;
-        border-radius: 5px;
-        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-        font-size: 16px;
-      }
-      /* Add styles for the search tips */
-      .search-tips {
-        max-width: 600px;
-        margin: 0 auto;
-        padding: 10px 20px;
-        border: 1px solid #ccc;
-        border-radius: 5px;
-        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-        font-size: 16px;
-      }
+{% block content %}
+<div class="callout large">
+  <div class = "row column text-center">
+      <h1> PlantConnectome </h1>
+      <p> by the <a href = "https://www.plant.tools/" target = "_blank"> Mutwil Lab </a> </p>
+      <p class = "lead"> 
+          We used GPT to uncover relationships between genes, molecules, compartments, stresses, organs, and other entities in plants.  
+          <br>
+          We analyzed <strong> {{ papers }} </strong> papers using GPT and identified <strong> {{ entities }} </strong> entities. 
+      </p>
+      <p class = 'lead'> Scroll down or hit one of the below buttons to get started! </p>
+      <a href = "/help" class = "button large"> Help </a>
+      <a href = "/features" class = "button large hollow"> Features </a>
+  </div>
+</div>
 
-      .search-tips h2 {
-        margin-top: 0;
-        font-size: 24px;
-      }
-      .future {
-        max-width: 600px;
-        margin: 0 auto;
-        padding: 10px 20px;
-        border: 1px solid #ccc;
-        border-radius: 5px;
-        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-        font-size: 16px;
-      }
-	  .selected {
-		  background-color: red;
-		  cursor: move;
-		}
-		
-#piechart {
-  width: 600px;
-  height: 2000px;
-  margin: 0 auto;
-  padding: 10px 20px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-  font-size: 16px;
-}
-.chart-title {
-  text-align: center;
-}
-
-  .help-button {
-    background-color: green;
-    color: white;
-    padding: 10px 20px;
-    font-size: 18px;
-    border-radius: 5px;
-    border: none;
-    cursor: pointer;
-  }
-.discord-invite a {
-  color: #fff;
-  text-shadow: 1px 1px 2px #000;
-}
-    </style>
-  </head>
-  <body>
-    <header>
-      <h1>PlantConnectome</h1>
-	  <p>We used GPT to uncover relationships between genes, molecules, compartments, stresses, organs, and other entities in plants.</p>
-	  <p>We analyzed <strong>{{papers}} papers </strong> and identified <strong>{{entities}} entities</strong> by having GPT process paper abstracts.</p>
-		<div class="discord-invite">
-		  <p><a href="https://discord.gg/qr8tYYHu7Y" target="_blank">Any issues or suggestions? Drop by our Discord channel to let us know</a></p>
-		</div>
-      <button class="help-button" onclick="window.location.href='{{ url_for('help') }}'">Help</button>
-
-	</header>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-<script>
-  function submitGeneForm(event) {
-    const titleInput = document.getElementById("gene_id");
-    if (titleInput.value === "") {
-      titleInput.value = titleInput.placeholder;
-    }
-  }
-
-  function submitNameForm(event) {
-    const titleInput = document.getElementById("author");
-    if (titleInput.value === "") {
-      titleInput.value = titleInput.placeholder;
-    }
-  }
-  
-  function submitTitleForm(event) {
-    const titleInput = document.getElementById("title");
-    if (titleInput.value === "") {
-      titleInput.value = titleInput.placeholder;
-    }
-  }
-  function submitFormWith(event, value) {
-    event.preventDefault();
-    // Submit the form with the clicked value
-    const link = event.target;
-    const form = link.closest('form');
-    const input = form.querySelector('input[type="text"]');
-    input.value = value;
-    form.submit();
-  }
-  
-
-</script>
-
-<form action="/search" method="POST" onsubmit="submitGeneForm(event)" id="gene-form">
-  <label for="gene_id">Enter a gene, molecule, compartment, stress, cell type, organ, or any other related term</label>
-  <p>Search options:'!" looks for an exact match, "?" looks for all possible matching word, "&" looks for matching word and related word, "@" looks for matching gene and genes with shared aliases.</label>
-  <input type="text" id="gene_id" name="gene_id" placeholder="CESA">
-  <a href="#" onclick="submitFormWith(event, 'pin1!')">pin1!</a>
-  <a href="#" onclick="submitFormWith(event, 'proline')">proline</a>
-  <a href="#" onclick="submitFormWith(event, 'heat?')">heat?</a>
-  <a href="#" onclick="submitFormWith(event, 'root hair')">root hair</a>
-  <br>
-  <label for = 'redundancy'> Remove passive edges? </label>
-  <input type = 'checkbox' id = 'redundancy' name = 'redundancy'>
-  <input type="submit" value="Search">
-</form>
-
-<form action="/author" method="POST" onsubmit="submitNameForm(event)" id="name-form">
-  <label for="author">Enter author name (without special characters, e.g., accents)</label>
-  <input type="text" id="author" name="author" placeholder="Marek Mutwil">
-  <a href="#" onclick="submitFormWith(event, 'Marek Mutwil')">Marek Mutwil</a>
-  <br>
-  <label for = 'redundancy'> Remove passive edges? </label>
-  <input type = 'checkbox' id = 'redundancy' name = 'redundancy'>
-  <input type="submit" value="Search">
-</form>
-	
-    <form action="/title" method="POST"  onsubmit="submitTitleForm(event)" id="title-form">
-      <label for="title">Enter paper pubmed ID, separated by semicolon</label>
-      <input type="text" id="title" name="title" placeholder="26503768; 22294619">
-	  <a href="#" onclick="submitFormWith(event, '26503768; 22294619')">26503768; 22294619</a>
-	  <br>
-    <label for = 'redundancy'> Remove passive edges? </label>
-    <input type = 'checkbox' id = 'redundancy' name = 'redundancy'>
-      <input type="submit" value="Search">
-    </form>
-	
-	
-    <div class="search-tips">
-      <h2>Search Tips:</h2>
-      <ul>
-		<li>The search engine is rather simple (for now), so 100% match is required</li>
-        <li>Use partial search terms to broaden your results (e.g. "CESA" instead of "CESA1")</li>
-      </ul>
+<div class="grid-container">
+  <div class="grid-x grid-margin-x">
+    <div class="medium-6 cell small-order-1 medium-order-1">
+      <h3> Search by... </h3>
+      <form action = "/search" method = 'POST'>
+        <label>
+          ...gene, molecule, compartment, stress, cell type, organ, or any other related term.
+          <input type = "text" placeholder = "e.g., CESA, pin1!, heat?" aria-describedby="searchfield1">
+          <input type = "Submit" class = 'button' value = "Search!">
+        </label>
+      </form>
+      <form action = '/author', method = 'POST'>
+        <label>
+            ...author name (without special characters - for instance, accents).
+            <input type = "text" placeholder = "e.g., Marek Mutwil" aria-describedby="searchfield2">
+            <input type = "Submit" class = 'button' value = "Search!">
+        </label>
+      </form>
+      <form action = '/title', method = 'POST'>
+        <label>
+          ...by paper Pubmed ID (separated by commas).
+          <input type = "text" placeholder = "e.g., 26503768; 22294619" aria-describedby="searchfield3">
+        </label>
+        <input type = "Submit" class = 'button' value = "Search!">
+      </form>
     </div>
-	
-	<div class="future">
-	  <h2>Future:</h2>
-      <ul>
-        <li>Improve the database based on your feedback.</li>
-      </ul>
+    <div class = 'medium-6 cell medium-order-2 '>
+      <h3> Instructions for searching </h3>
+      <ol>
+        <li> Use "?" for a matching word (e.g., heat?) </li>
+        <li> Use "!" for an exact match (e.g., pin1!) </li>
+        <li> Use "&" for matching and related words </li>
+        <li> Use "@" for matching gene and genes with shared aliases </li>
+      </ol>
+      <h3> Some searching tips: </h3>
+      <ol>
+        <li> The search engine is rather simple (at least for now), so a 100% match is required. </li>
+        <li> Consider using partial search terms to broaden your results (e.g., "CESA" as opposed to "CESA1"). </li>
+      </ol>
     </div>
-	<div class="future">
-	  <img src="{{ url_for('static', filename='Capture.PNG') }}" alt="App Screenshot" style="max-width: 100%;">
-	</div>
-	<h2 class="chart-title">Processed journals and abstracts</h2>
-	<canvas id="piechart"></canvas>
-    <script>
-      {{ piechart_code | safe }}
-    </script>
-    <footer>
-		&copy; 2023 PlantConnectome <a href="https://twitter.com/labmutwil" target="_blank" style="color: #1DA1F2; text-decoration: none; font-weight: bold;">Follow us on Twitter</a>
-    </footer>
-  </body>
-</html>
+  </div>
+</div>
+{% endblock %}
