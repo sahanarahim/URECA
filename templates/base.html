@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Contains the FoundationCSS CSS and JS for the database.  Do add in the necessary dependencies for each page! -->
+        {% block dependencies %}
+        <title> PlantConnectome </title>
+        <link rel = "stylesheet" type = 'text/css' href = "{{ url_for('static', filename = 'css/foundation.css') }}">  </link>
+        <script src = " {{ url_for('static', filename = 'js/vendor/jquery.js') }}">  </script>
+        <script src = " {{ url_for('static', filename = 'js/vendor/foundation.js') }}">  </script>
+        {% endblock %}
+    </head>
+    <body>
+        {% block navbar %}
+        <div class="top-bar">
+            <div class="top-bar-left">
+                <ul class="menu">
+                    <li class="menu-text"> Plant Connectome </li>
+                    <li> <a href = "/"> Home </a> </li>
+                    <li> <a href = "'"> Features </a> </li>
+                    <li> <a href = "/help"> Help </a> </li>
+                </ul>
+            </div>
+            <div class="top-bar-right">
+                <ul class="menu">
+                </ul>
+            </div>
+        </div>
+        {% endblock %}
+
+        <!-- All subsequent templates will override this block -->
+        {% block content %} {% endblock%}
+
+        {% block footer %}
+        <article class="grid-container">
+            <div class="row border-box">
+                <ul class="menu align-center">
+                    <li class = 'menu-text'> PlantConnectome@2023 </li>
+                    <li> <a href = "https://twitter.com/labmutwil"> Follow us on Twitter! </a></li>
+                </ul>
+            </div>
+        </article>
+        {% endblock %}
+    </body>
+</html>
