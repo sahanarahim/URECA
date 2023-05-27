@@ -9,27 +9,7 @@ import os
 # Importing custom utilities 
 from utils import edges as e
 
-'''
-# == DELETE AFTER ==
-connections = {}
-def find_connections(f):
-    try: 
-        for j in open(f'./annotations/{f}').readlines()[2:]:
-            n1, edge, n2 = list(map(lambda x : x.strip().replace(':', '').title(), j.split("!")))
-            key = f"{n1}%?%{edge}"
-            
-            if key not in connections:
-                connections[key] = []
-            connections[key].append(n2)
-    except:
-        pass
-
-for f in os.listdir("./annotations"):
-    find_connections(f)
-connection_keys = sorted(connections, key = lambda x : len(connections[x]), reverse = True)
-'''
 def generate_cytoscape_js(elements):
-
     nodes = [
         "{ data: { id: '%s' } }" % node
         for node in set(edge["source"] for edge in elements) | set(edge["target"] for edge in elements)
@@ -104,7 +84,7 @@ def edgeConverter(elements): #Convert Edges to default dictionary format
 
 def make_text(elements):    
     '''Given all edges in the KnowledgeNet, it makes the text summary'''
-    pubmedLink = '<span class="pubmed-link" style="color:blue" data-pubmed-id="%s" data-source="%s" data-typa="%s" data-target="%s">%s</span>'
+    pubmedLink = '<span class = "pubmed-link" style = "color:blue" data-pubmed-id = "%s" data-source = "%s" data-typa = "%s" data-target = "%s"> %s </span>'
     #Paragraph order: node by the highest degree. Sentence order in a paragraph: node,interaction type by the number of targets.  
     topicDic = {}
     nodeDegree, nodeSentenceDegree = {}, {}
@@ -152,14 +132,14 @@ def find_terms_helper(gene, genes):
     for j in genes[gene]:
         if j[0]!='' and j[2]!='':
             forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
-            elements.append((j[0].replace("'","").replace('"',''),  j[2].replace("'","").replace('"',''), j[1].replace("'","").replace('"','')))
+            elements.append((j[0].replace("'", "").replace('"', ''),  j[2].replace("'", "").replace('"', ''), j[1].replace("'", "").replace('"','')))
     return elements, forSending
 
 def find_terms(my_search, genes):   
     if my_search:
         if '!' in my_search: #exact search -Specific word
             for i in genes:
-                if my_search.upper().strip().replace('!','') == i.strip():
+                if my_search.upper().strip().replace('!', '') == i.strip():
                     elements, forSending = find_terms_helper(i,genes)
                     return list(set(elements)), forSending
         
@@ -256,7 +236,7 @@ def author():
         replacements = {"ä": "ae", "ö": "oe", "ü": "ue", "ß": "ss", "é": "e", "ô": "o", "î": "i", "ç": "c"}
         my_search = ''.join(replacements.get(c, c) for c in my_search)
     except:
-        my_search =''
+        my_search = 'Marek Mutwil'.lower()
 
     if my_search!='':
         with open('authors', 'rb') as f:
@@ -312,12 +292,13 @@ def author():
         
 @app.route('/title', methods=['POST'])
 def title():
-    remove_redundant_edges = request.form.get('redundancy')
-    my_search = request.form['title'].lower()
+    try: 
+        my_search = request.form['title'].lower()
+    except: 
+        my_search = '26503768'
     pmids = []
     for i in my_search.split(';'):
         pmids+=i.split()
-
             
     forSending = []
     if pmids!=[]:
@@ -355,12 +336,8 @@ def title():
 def search():
     with open('allDic2', 'rb') as file:
         genes = pickle.load(file)
-
     try:
         my_search = request.form['gene_id']
-        remove_redundant_edges = request.form.get('redundancy') is not None
-        if remove_redundant_edges:
-            print("removing passive edges")
     except:
         my_search = 'cesa'
          
@@ -402,6 +379,18 @@ def help():
     Renders the help template
     '''
     return render_template('help.html')
+
+@app.route('/features')
+def features():
+    '''
+    Renders the features page:
+    '''
+    journals, numbers = open('journal_statistics.txt','r').read().splitlines()
+    piechart = open('piechart.txt','r').read()
+    piechart = piechart.replace('JOURNALS', journals)
+    piechart = piechart.replace('NUMBERS', numbers)
+
+    return render_template('features.html', piechart_code = piechart)
 
 if __name__ == '__main__':
     # import os
