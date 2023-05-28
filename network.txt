@@ -109,7 +109,7 @@ function openForm() {
 }
 
 // Add an event listener to the button to handle the click event
-document.querySelector(".open-button).addEventListener("click", openForm);
+document.querySelector(".open-button").addEventListener("click", openForm);
 
 
 // Add an event listener to the button to handle the click event
