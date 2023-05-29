@@ -14,13 +14,13 @@ const pagination_numbers = document.querySelector('.pagination.text-center');
 // We'll just roll with 10 items per page in the pagination for now, but we could 
 // also have an option for users to choose how much stuff they want to show per page:
 
-const items_per_page = 5;                                               // Maybe make this changeable via a dropdown?
-const items_to_show = Math.ceil(results.length / items_per_page);       // "mock_data" is a variable that was made in the test_output_stuff.js file!
+const items_per_page = 50;                                               // Maybe make this changeable via a dropdown?
+const items_to_show = Math.ceil(results.length / items_per_page);        // "mock_data" is a variable that was made in the test_output_stuff.js file!
 
 // Add the pagination numbers when the page loads:
-const add_pagination_numbers = () => {
+const add_pagination_elements = () => {
     for (let i = 1 ; i <= items_to_show ; i++) {
-        let element = document.createElement('li'), number = document.createElement('span')
+        let element = document.createElement('li'), number = document.createElement('a')
         number.setAttribute('aria-label', `Page ${i}`);
         number.innerText = i;
         element.setAttribute('onclick', `display_items(${i})`);
@@ -56,7 +56,6 @@ const show_active_elements = (p) => {
         let current = number.innerText;
         if (current === p.toString()) {
             number.setAttribute('class', 'current');
-            
         }
     })
 }
@@ -64,6 +63,6 @@ const show_active_elements = (p) => {
 // END
 
 window.addEventListener('load', () => {
-    add_pagination_numbers();
+    add_pagination_elements();
     display_items(1);
 });
