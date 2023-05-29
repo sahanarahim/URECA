@@ -9,9 +9,7 @@ import sys
 sys.path.append('utils')
 
 # -- Importing custom utilities --
-from utils.search import generate_search_route # find_terms, generate_search_route
-# from utils.cytoscape import process_network, generate_cytoscape_js
-
+from utils.search import generate_search_route
 term_searches = Blueprint('term_searches', __name__)
 
 # -- Constants --
