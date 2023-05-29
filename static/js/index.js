@@ -39,6 +39,9 @@ const buttons = document.querySelector('.button-group.hollow').querySelectorAll(
 const change_help_text = (text) => {
     let help_text = '';
     switch (text) {
+        case 'word':
+            help_text = 'Finds all entities containing the searched term.'
+            break;
         case 'exact':
             help_text = 'Finds entities containing the exact term (e.g., searching for "cesa" would return "cesa expression", "cesa tracking", and so on).';
             break;
