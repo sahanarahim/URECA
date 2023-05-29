@@ -20,7 +20,7 @@ const items_to_show = Math.ceil(results.length / items_per_page);        // "moc
 // Add the pagination numbers when the page loads:
 const add_pagination_elements = () => {
     for (let i = 1 ; i <= items_to_show ; i++) {
-        let element = document.createElement('li'), number = document.createElement('a')
+        let element = document.createElement('li'), number = document.createElement('span')
         number.setAttribute('aria-label', `Page ${i}`);
         number.innerText = i;
         element.setAttribute('onclick', `display_items(${i})`);
