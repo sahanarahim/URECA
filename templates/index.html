@@ -25,12 +25,12 @@
   <div class = "grid-x grid-margin-x">
     <div class = "medium-6 cell small-order-1 medium-order-1">
       <h3> Search by... </h3>
-      <form action = '/normal' method = 'POST'>
+      <form action = '/normal' method = 'POST' id = 'gene-form'>
         <label>
           ...gene, molecule, compartment, stress, cell type, organ, or any other related term.
-          <input type = "text" placeholder = "e.g., CESA, pin1!, heat?" aria-describedby = "searchfield1">
+          <input type = "text" placeholder = "e.g., CESA (hit 'Enter' to search)" aria-describedby = "searchfield1" id = "gene_id" name = "gene_id" required>
           <div class = "button-group">
-            <input type = "Submit" class = 'button' value = "Search!">
+            <input type = "Submit" class = 'button' value = "Word">
             <input type = "Submit" class = 'button' formaction = '/exact' value = "Exact">
             <input type = "Submit" class = 'button' formaction = '/alias' value = "Alias">
             <input type = "Submit" class = 'button' formaction = '/substring' value = "Substring">
@@ -38,17 +38,17 @@
           </div>
         </label>
       </form>
-      <form action = '/author', method = 'POST'>
+      <form action = '/author', method = 'POST' id = 'name-form'>
         <label>
             ...author name (without special characters - for instance, accents).
-            <input type = "text" placeholder = "e.g., Marek Mutwil" aria-describedby="searchfield2">
+            <input type = "text" placeholder = "e.g., Marek Mutwil (hit 'Enter' to search)" aria-describedby = "searchfield2" id = 'author' required>
             <input type = "Submit" class = 'button' value = "Search!">
         </label>
       </form>
-      <form action = '/title', method = 'POST'>
+      <form action = '/title', method = 'POST' id = 'title-form'>
         <label>
           ...by paper Pubmed ID (separated by commas).
-          <input type = "text" placeholder = "e.g., 26503768; 22294619" aria-describedby="searchfield3">
+          <input type = "text" placeholder = "e.g., 26503768 (hit 'Enter' to search)" aria-describedby = "searchfield3" id = 'title' required>
         </label>
         <input type = "Submit" class = 'button' value = "Search!">
       </form>
@@ -56,6 +56,7 @@
     <div class = 'medium-6 cell medium-order-2 '>
       <h4> Search instructions <small> (click on a button to know more) </small> </h4>
       <div class = 'button-group hollow'>
+        <div class = 'button'> Word </div>
         <div class = 'button'> Exact </div>
         <div class = 'button'> Alias </div>
         <div class = 'button'> Substring </div>
