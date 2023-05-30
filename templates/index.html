@@ -5,6 +5,8 @@
 <script src = "{{ url_for('static', filename = 'js/index.js') }}" defer> </script>
 {% endblock %}
 
+<!-- Discord link: https://discord.gg/qr8tYYHu7Y -->
+
 {% block content %}
 <div class="callout large">
   <div class = "row column text-center">
@@ -15,9 +17,10 @@
           <br>
           We analyzed <strong> {{ papers }} </strong> papers using GPT and identified <strong> {{ entities }} </strong> entities. 
       </p>
-      <p class = 'lead'> Scroll down or hit one of the below buttons to get started! </p>
+      <p class = 'lead'> Scroll down or hit one of the below buttons to get started!  You may also join our Discord server by <br> clicking on the "Join our Discord" button below!</p>
       <a href = "/help" class = "button large"> Help </a>
       <a href = "/features" class = "button large hollow"> Features </a>
+      <a href = "https://discord.gg/qr8tYYHu7Y" class = 'button large' target = "_blank"> Join our Discord </a>
   </div>
 </div>
 
@@ -28,7 +31,7 @@
       <form action = '/normal' method = 'POST' id = 'gene-form'>
         <label>
           ...gene, molecule, compartment, stress, cell type, organ, or any other related term.
-          <input type = "text" placeholder = "e.g., CESA (hit 'Enter' to search)" aria-describedby = "searchfield1" id = "gene_id" name = "gene_id" required>
+          <input type = "text" placeholder = "e.g., CESA (hit 'Enter' to search)" aria-describedby = "searchfield1" id = "gene_id">
           <div class = "button-group">
             <input type = "Submit" class = 'button' value = "Word">
             <input type = "Submit" class = 'button' formaction = '/exact' value = "Exact">
@@ -41,14 +44,14 @@
       <form action = '/author', method = 'POST' id = 'name-form'>
         <label>
             ...author name (without special characters - for instance, accents).
-            <input type = "text" placeholder = "e.g., Marek Mutwil (hit 'Enter' to search)" aria-describedby = "searchfield2" id = 'author' required>
+            <input type = "text" placeholder = "e.g., Marek Mutwil (hit 'Enter' to search)" aria-describedby = "searchfield2" id = 'author'>
             <input type = "Submit" class = 'button' value = "Search!">
         </label>
       </form>
       <form action = '/title', method = 'POST' id = 'title-form'>
         <label>
           ...by paper Pubmed ID (separated by commas).
-          <input type = "text" placeholder = "e.g., 26503768 (hit 'Enter' to search)" aria-describedby = "searchfield3" id = 'title' required>
+          <input type = "text" placeholder = "e.g., 26503768 (hit 'Enter' to search)" aria-describedby = "searchfield3" id = 'title'>
         </label>
         <input type = "Submit" class = 'button' value = "Search!">
       </form>
