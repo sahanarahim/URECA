@@ -1,3 +1,6 @@
+// Get forms in order of gene-form, name-form, and title-form:
+const forms = document.querySelectorAll('form');
+
 function submitGeneForm(event) {
     const titleInput = document.getElementById("gene_id");
     if (titleInput.value === "") {
