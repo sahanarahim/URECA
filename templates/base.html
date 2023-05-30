@@ -5,8 +5,11 @@
         {% block dependencies %}
         <title> PlantConnectome </title>
         <link rel = "stylesheet" type = 'text/css' href = "{{ url_for('static', filename = 'css/foundation.css') }}">  </link>
-        <script src = " {{ url_for('static', filename = 'js/vendor/jquery.js') }}">  </script>
+        <link rel = "stylesheet" type = 'text/css' href = "{{ url_for('static', filename = 'css/foundation.min.css') }}">  </link>
+        <script src = " {{ url_for('static', filename = 'js/vendor/jquery.js') }}"> </script>
         <script src = " {{ url_for('static', filename = 'js/vendor/foundation.js') }}">  </script>
+        <script src = " {{ url_for('static', filename = 'js/vendor/foundation.min.js') }}"> </script>
+        <script src = " {{ url_for('static', filename = 'js/vendor/what-input.js') }}"> </script>
         {% endblock %}
     </head>
     <body>
@@ -39,6 +42,13 @@
                 </ul>
             </div>
         </article>
+        {% endblock %}
+
+        <!-- Starts FounndationCSS -->
+        {% block start_foundation %}
+        <script>
+            $(document).foundation();
+        </script>
         {% endblock %}
     </body>
 </html>
