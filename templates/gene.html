@@ -24,7 +24,7 @@
 <div class = 'grid-container align-center' style = "padding-left: 2px; padding-right: 2px;">
   {% if warning %}
   <div class = 'callout small alert' data-closable>
-    <p> <strong> Warning: </strong> terms may be hidden from the visualization! </p>
+    <p> <strong> Warning: </strong> some terms may be hidden from the network! </p>
   </div>
   {% endif %}
   <h2> Search results for: {{ search_term }} <small> ({{ number_papers }} paper(s) in our database) </small> </h2>
@@ -33,7 +33,7 @@
     <button class = "button primary" type = "submit"> Submit </button>
     <button class = "button success" onclick = "window.location.href = '{{ url_for('index') }}'"> Go back </button>
     <button class = "button success" id = "download-pdf"> Download as SVG </button>
-    <button class = "button success" onclick = "downloadTableAsTSV('sortable', 'table.tsv')"> Download complete network as TSV </button>
+    <button class = "button success disabled" onclick = "downloadTableAsTSV('sortable', 'table.tsv')"> Download complete network as TSV </button>
 	</form>
   <div class = "cy-wrapper" style = "height: 1200px; overflow: hidden; position: relative; background-color: black; ">
     <div id = "cy" style = "width: 100%; height: 100%; background-color: white !important; border-color: black; border-width: 1px; border-color: black;"></div>
