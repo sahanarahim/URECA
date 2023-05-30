@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function() {
         // Set up the lightbox
         lightbox.style.position = 'fixed';
         lightbox.style.top = '50%';
-        lightbox.style.left = '50%';
+        lightbox.style.left = '30%';
         lightbox.style.transform = 'translate(-50%, -50%)';
         lightbox.style.zIndex = '1000';
         lightbox.id = 'lightbox';
