@@ -1,22 +1,27 @@
 function submitGeneForm(event) {
     const titleInput = document.getElementById("gene_id");
     if (titleInput.value === "") {
-        titleInput.value = titleInput.placeholder;
+        titleInput.value = 'CESA';
     }
+    form.submit();
 }
 
 function submitNameForm(event) {
     const titleInput = document.getElementById("author");
     if (titleInput.value === "") {
-        titleInput.value = titleInput.placeholder;
+        titleInput.value = 'Marek Mutwil';
     }
+    form.submit();
 }
+
 function submitTitleForm(event) {
     const titleInput = document.getElementById("title");
     if (titleInput.value === "") {
-        titleInput.value = titleInput.placeholder;
+        titleInput.value = '26503768';
     }
+    form.submit();
 }
+
 function submitFormWith(event, value) {
     event.preventDefault();
     // Submit the form with the clicked value
@@ -26,6 +31,12 @@ function submitFormWith(event, value) {
     input.value = value;
     form.submit();
 }
+
+window.addEventListener('load', () => {
+    forms[0].setAttribute('onsubmit', `submitGeneForm(event)`);
+    forms[1].setAttribute('onsubmit', `submitNameForm(event)`);
+    forms[2].setAttribute('onsubmit', `submitTitleForm(event)`);
+})
 
 /*
 This part of the file contains JavaScript for the help part of the landing page.
