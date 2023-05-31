@@ -16,10 +16,6 @@ function downloadAsPDF() {
   });
 }
 
-// Add an event listener to the button to handle the click event
-document.querySelector(".open-button").addEventListener("click", openForm);
-
-
 function openForm() {
   document.getElementById("myForm").style.display = "block";
   
@@ -112,11 +108,12 @@ function openForm() {
   }
 }
 
-
+// Add an event listener to the button to handle the click event
+document.querySelector(".open-button").addEventListener("click", openForm);
 
 
 // Add an event listener to the button to handle the click event
-document.querySelector(".open-button").addEventListener("click", openForm);
+// document.querySelector(".open-button").addEventListener("click", openForm);
 
 function closeForm() { document.getElementById("myForm").style.display = "none"; }
 

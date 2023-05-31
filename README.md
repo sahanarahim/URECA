@@ -1,56 +1,33 @@
-# Plant Connectome
+# PlantConnectome Database
 
-This is a forked repository (i.e., repo) of the original plant connectome project.  This fork contains changes that I (i.e., Kevin) have made to the original repository.
+Welcome to the Plant Connectome project!  The project is currently in its infancy stages; the latest version of this project is live at: [https://plantconnectome.herokuapp.com/](https://plantconnectome.herokuapp.com/).
 
-Plant Connectome is a GPT3-powered database that is built on over 100,000 research paper abstracts and built with a Flask backend.  As of the time of writing, this project is still a work in progress with several tasks to be done.
+This GitHub repository is publicly-accessible and serves as a means of hosting the project's application and storing the code generated for this project!
 
-More information about the project's files and folders can be found below (at least the major ones):
+## What is PlantConnectome?
 
-## Application Structure 
+PlantConnetome is a database that contains over 300000 entities with several hundred thousand interaction types between the said amount of entities.  These entities and interactions were obtained from having GPT process over 100000 paper abstracts from various popular scientific journals.
 
-1.  `dics` (folder)
+## Folders of this Repository
 
-    This folder contains serialized Python objects (dictionaries mostly) that are crucial for Plant Connectome to run.  All data is currently stored in a seralized file `allDic` (or at least one of its variants).
+This repository contains files and folders that are crucial in getting PlantConnectome up and running, of which include:
 
-1.  `infos` (folder)
+1.  `static`
 
-    This folder contains text files that will be accessed during `app.py`'s runtime.
+    This folder contains images, CSS, and JavaScript that PlantConnectome's pages use.  All CSS are stored in the `css` sub-directory while all JS are stored in the `js` sub-directory.
 
-1.  `static` (folder)
+1.  `templates`
+    
+    This folder contains HTML templates that will be rendered and displayed to the user.
 
-    This folder contains images for now (though it can contain publicly-accessible attributes).
+1.  `tests`
+    
+    This folder contains unit tests (so far) to ensure that the application is running smoothly.
 
-1.  `templates` (folder)
+1.  `utils` 
 
-    Flask requires this folder to run for templating.  Each file inside this folder is a HTML file.
+    This folder contains utility functions that are used by the routes to perform certain functionalities.
 
-1.  `tests` (folder)
+1.  `routes`
 
-    This folder contains unit (and maybe integration tests in the future) tests for the application.
-
-1.  `utils` (folder)
-
-    This folder contains helper functions crucial for the application to run.
-
-1.  `app.py` (file)
-
-    This is the main application file.  Don't delete this one!
-
-1.  `Procfile` (file)
-
-    Heroku requires this file to run.  Don't delete this one as well!
-
-1.  `requirements.txt` (file)
-
-    This file contains a list of dependencies for this project.
-
-## Setting up Plant Connectome
-
-As Plant Connectome is a Flask application, Plant Connectome can also be set up in a typical manner as most Flask applications:
-
-1.  First, ensure that you have Flask installed onto your machine.  If not, do install it via `pip` or similar software!
-1.  Then, navigate to the project's root directory via the command line and set the Flask application via `set FLASK_APP=app.py`.  If you are using MacOS, type `export FLASK_APP=app.py` instead (i.e., replace `set` with `export`)!
-1.  Then, type `flask run`.  A development server should begin, hence allowing you to see Plant Connectome in action on your machine!
-
-
-
+    This folder contains the applicaton's routes.
