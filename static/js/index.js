@@ -1,15 +1,51 @@
 // Get forms in order of gene-form, name-form, and title-form:
 const forms = document.querySelectorAll('form');
 
-function submitGeneForm(event) {
-    const titleInput = document.getElementById("gene_id");
+const titleInput = document.getElementById("gene_id");
+
+
+// Change placeholder text based which button is being hovered over.
+const alias_button_events = () => {
+    let alias_button = document.querySelector('input[value = Alias]');
+    alias_button.addEventListener('mouseover', () => {
+        titleInput.placeholder = "e.g., CESA1 (hit 'Enter' to search)";
+    })
+    alias_button.addEventListener('mouseout', () => {
+        titleInput.placeholder = "e.g., CESA (hit 'Enter' to search)";
+    })
+}
+
+// Attaches event listeners to the gene form.
+const gene_form_listeners = () => {
+    let form_buttons = forms[0].querySelectorAll('.button');
+    let form_actions = (function() {
+        let temp = [];
+        form_buttons.forEach(button => {
+            temp.push(button.getAttribute('formaction'));
+        })
+        return temp;
+    })();
+    
+    for (let i = 0 ; i < form_buttons.length ; i++) {
+        form_buttons[i].addEventListener('click', () => {
+            submitGeneForm(event, forms[0], form_actions[i]);
+        });
+    }
+}
+
+// Methods for submitting the gene form via buttons:
+function submitGeneForm(event, form, path) {
     if (titleInput.value === "") {
-        titleInput.value = 'CESA';
+        if (path === '/alias') {
+            titleInput.value = 'CESA1';
+        } else {
+            titleInput.value = 'CESA';
+        }
     }
     form.submit();
 }
 
-function submitNameForm(event) {
+function submitNameForm(event, form) {
     const titleInput = document.getElementById("author");
     if (titleInput.value === "") {
         titleInput.value = 'Marek Mutwil';
@@ -17,7 +53,7 @@ function submitNameForm(event) {
     form.submit();
 }
 
-function submitTitleForm(event) {
+function submitTitleForm(event, form) {
     const titleInput = document.getElementById("title");
     if (titleInput.value === "") {
         titleInput.value = '26503768';
@@ -36,9 +72,11 @@ function submitFormWith(event, value) {
 }
 
 window.addEventListener('load', () => {
-    forms[0].setAttribute('onsubmit', `submitGeneForm(event)`);
-    forms[1].setAttribute('onsubmit', `submitNameForm(event)`);
-    forms[2].setAttribute('onsubmit', `submitTitleForm(event)`);
+    alias_button_events();
+    gene_form_listeners();
+
+    forms[1].setAttribute('onsubmit', `submitNameForm(event, forms[1])`);
+    forms[2].setAttribute('onsubmit', `submitTitleForm(event, forms[2])`);
 })
 
 /*
