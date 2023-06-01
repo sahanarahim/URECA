@@ -10,17 +10,20 @@ sys.path.append('utils')
 
 # -- Importing custom utilities --
 from utils.search import generate_search_route
+
 term_searches = Blueprint('term_searches', __name__)
 
 # -- Constants --
 DATABASE = pickle.load(open('allDic2', 'rb'))
+ABBREVIATIONS = pickle.load(open('abbreviations', 'rb'))
+FUNCANNOTATE = pickle.load(open('fa', 'rb'))
 
 # -- Generating the routes via function factories:
-normal = generate_search_route(DATABASE, 'default')
-exact = generate_search_route(DATABASE, 'exact')
-alias = generate_search_route(DATABASE, 'alias')
-substring = generate_search_route(DATABASE, 'substring')
-non_alpha = generate_search_route(DATABASE, 'non-alphanumeric')
+normal = generate_search_route(DATABASE, ABBREVIATIONS, FUNCANNOTATE, 'default')
+exact = generate_search_route(DATABASE, ABBREVIATIONS, FUNCANNOTATE,'exact')
+alias = generate_search_route(DATABASE, ABBREVIATIONS, FUNCANNOTATE, 'alias')
+substring = generate_search_route(DATABASE, ABBREVIATIONS, FUNCANNOTATE, 'substring')
+non_alpha = generate_search_route(DATABASE, ABBREVIATIONS, FUNCANNOTATE, 'non-alphanumeric')
 
 # -- Adding the routes --
 term_searches.add_url_rule('/normal', endpoint = 'normal', view_func = normal, methods = ['POST'])

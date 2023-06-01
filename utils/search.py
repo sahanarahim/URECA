@@ -107,7 +107,25 @@ def find_terms(my_search, genes, search_type):
     else:
         raise Exception("An invalid 'search_type' parameter has been entered!")
     
-def generate_search_route(to_search, search_type):
+def make_abbreviations(abbreviations, elements):
+    ab = {}
+    for element in elements:
+        if abbreviations.get(element[0]) is not None:
+            ab[element[0]] = abbreviations[element[0]]
+        if abbreviations.get(element[1]) is not None:
+            ab[element[1]] = abbreviations[element[1]] 
+    return ab
+
+def make_functional_annotations(gopredict, elements):
+    fa = {}
+    for element in elements:
+        if gopredict.get(element[0]) is not None:
+            fa[element[0]] = gopredict[element[0]]
+        if gopredict.get(element[1]) is not None:
+            fa[element[1]] = gopredict[element[1]]
+    return fa
+    
+def generate_search_route(to_search, ab, fa, search_type):
     '''
     A function factory that generates a route to be used in the flask application.  
     The routes for the search form for genes, aliases, and other entities are all 
@@ -137,7 +155,9 @@ def generate_search_route(to_search, search_type):
                 warning = 'The network might be too large to be displayed, so click on "Layout Options",  select the edge types that you are interested in and click "Recalculate layout".'
             
             updatedElements = process_network(elements)
-            cytoscape_js_code = generate_cytoscape_js(updatedElements)
+            elementsAb = make_abbreviations(ab, elements)
+            elementsFa = make_functional_annotations(fa, elements)
+            cytoscape_js_code = generate_cytoscape_js(updatedElements, elementsAb, elementsFa)
 
             papers = []
             for i in forSending:
@@ -148,7 +168,7 @@ def generate_search_route(to_search, search_type):
         if forSending != []:
             return render_template('gene.html', genes = forSending, cytoscape_js_code = cytoscape_js_code, 
                                     search_term = my_search, number_papers = len(set(papers)), warning = warning, 
-                                    summary = summaryText)
+                                    summary = summaryText, )
         else:
             return render_template('not_found.html', search_term = my_search)
     return search_route

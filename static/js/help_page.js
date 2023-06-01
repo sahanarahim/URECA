@@ -15,6 +15,7 @@ document.addEventListener("DOMContentLoaded", function() {
         imgClone.classList.add('lightbox-image');
         imgClone.style.maxWidth = '90vw';
         imgClone.style.maxHeight = '90vh';
+        imgClone.style.left = 0;
         const scaleFactor = Math.min(1.5, 0.9 * window.innerWidth / (img.width * 1.5), 0.9 * window.innerHeight / (img.height * 1.5));
         imgClone.style.transform = `scale(${Math.max(1, scaleFactor)})`;
 
@@ -31,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function() {
         // Set up the lightbox
         lightbox.style.position = 'fixed';
         lightbox.style.top = '50%';
-        lightbox.style.left = '30%';
+        lightbox.style.left = '50%';
         lightbox.style.transform = 'translate(-50%, -50%)';
         lightbox.style.zIndex = '1000';
         lightbox.id = 'lightbox';
@@ -58,5 +59,5 @@ document.addEventListener("DOMContentLoaded", function() {
 
         // Enable scrolling on the body again
         document.body.style.overflow = 'auto';
-        }
+    }
 });

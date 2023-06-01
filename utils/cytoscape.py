@@ -2,6 +2,7 @@
 This module contains helper functions needed to generate the CytoscapeJS graph.
 '''
 import networkx as nx
+import json
 
 def graphConverter(graph, ref):
     updatedElements = []
@@ -56,7 +57,7 @@ def process_network(elements):
     else:
         return edgeConverter(elements)
 
-def generate_cytoscape_js(elements):
+def generate_cytoscape_js(elements, ab, fa):
     '''
     Generates nodes and edges to be displayed in the Cytoscape JS network.
     '''
@@ -80,4 +81,4 @@ def generate_cytoscape_js(elements):
     nodes = ', '.join(nodes)
     edges = ', '.join(edges)
     
-    return a.replace('NODES', nodes).replace('EDGES', edges)
+    return a.replace('NODES',nodes).replace('EDGES',edges).replace('REPLACE_AB', json.dumps(ab)).replace('REPLACE_FA', json.dumps(fa))
