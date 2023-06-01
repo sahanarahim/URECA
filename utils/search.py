@@ -65,7 +65,6 @@ def find_terms(my_search, genes, search_type):
         for i in genes:
             if my_search.upper().strip() == i.strip():
                 elements, forSending = find_terms_helper(i, genes)
-                return list(set(elements)), forSending
     elif search_type == 'alias':
         with open('geneAlias', 'rb') as file:
             adjMat = pickle.load(file)
@@ -79,14 +78,12 @@ def find_terms(my_search, genes, search_type):
                     outputOne, outputTwo = find_terms_helper(j, genes)
                     elements.extend(outputOne)
                     forSending.extend(outputTwo)
-        return list(set(elements)), forSending
     elif search_type == 'substring':
         for i in genes:
             if my_search.upper().strip() in i.strip():
                 outputOne, outputTwo = find_terms_helper(i, genes)
                 elements.extend(outputOne)
                 forSending.extend(outputTwo)
-        return list(set(elements)), forSending
     elif search_type == 'non-alphanumeric':
         for i in genes:
             substring = my_search.upper().strip()
@@ -96,17 +93,16 @@ def find_terms(my_search, genes, search_type):
                     outputOne, outputTwo = find_terms_helper(i, genes)
                     elements.extend(outputOne)
                     forSending.extend(outputTwo)
-        return list(set(elements)), forSending
     elif search_type == 'default':                                                       # (i.e., default case)
         for i in genes:
             if my_search.upper().strip() in i.strip().split():  # default search - terms that contain the specific query word
                 outputOne, outputTwo = find_terms_helper(i, genes)
                 elements.extend(outputOne)
                 forSending.extend(outputTwo)
-        return list(set(elements)), forSending
     else:
         raise Exception("An invalid 'search_type' parameter has been entered!")
-    
+    return list(set(elements)), forSending
+
 def generate_search_route(to_search, search_type):
     '''
     A function factory that generates a route to be used in the flask application.  
