@@ -197,3 +197,22 @@ footer {
 .pubmed-hyperlink:hover {
     color: #ff0000; 
 }
+
+.tooltip {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    color: #000;
+    padding: 9px 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    word-wrap: break-word;
+    font-size: 14px;
+    line-height: 15px;
+    max-width: 300px;
+    z-index: 999;
+}
+
+.tooltip .title {
+    font-weight: bold;
+}

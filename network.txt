@@ -108,18 +108,29 @@ function openForm() {
   }
 }
 
-// Add an event listener to the button to handle the click event
-document.querySelector(".open-button").addEventListener("click", openForm);
+// node actions
+function removeNode() {
+  removedEles = currentNode.remove();
+}
 
+function moveToEntity() {
+  console.log(currentNode);
+}
 
-// Add an event listener to the button to handle the click event
-// document.querySelector(".open-button").addEventListener("click", openForm);
+function isolateNeighborhood() {
+  removedEles.restore();
+  var neighborhood = currentNode.neighborhood().add(currentNode);
+  removedEles = cy.elements().difference(neighborhood).remove();
+  neighborhood.select();
+}
 
-function closeForm() { document.getElementById("myForm").style.display = "none"; }
+// Global variable
+var currentNode;
 
-document.addEventListener('DOMContentLoaded', function () {
-  const cy = cytoscape({
+// so a href function call can access cy.
+const cy = cytoscape({
 	container: document.getElementById('cy'),
+    autoungrabify: true,
     zoomingEnabled: true,
     wheelSensitivity: 0.2,
 	elements: [
@@ -177,46 +188,209 @@ document.addEventListener('DOMContentLoaded', function () {
 		  }, 20000);
 		}
 	}
-  });
-  
-cy.on('click', 'node', function(evt){
-	var node = evt.target;
-	var neighborhood = node.neighborhood().add(node);
-	var nonNeighbors = cy.nodes().difference(neighborhood);
-	neighborhood.style('opacity', '1');
-	nonNeighbors.style('opacity', '0.5');
-});
-
-cy.on('click', function(evt){
-  if( evt.target === cy ){
-    cy.nodes().style('opacity', '1');
-  }
 });
 
 var removedEles = cy.collection();
 
-cy.on('dblclick', 'node', function(evt){
-  var node = evt.target;
-  var neighborhood = node.neighborhood().add(node);
-  removedEles = cy.elements().difference(neighborhood).remove();
-  neighborhood.select();
+
+// Add an event listener to the button to handle the click event
+document.querySelector(".open-button").addEventListener("click", openForm);
+
+
+// Add an event listener to the button to handle the click event
+// document.querySelector(".open-button").addEventListener("click", openForm);
+
+function closeForm() { document.getElementById("myForm").style.display = "none"; }
+
+document.addEventListener('DOMContentLoaded', function () {
+  const tooltipAb = REPLACE_AB;
+  const tooltipFa = REPLACE_FA;
+  const tooltip = document.getElementById('node-tooltip');
+  const ab = document.getElementById('ab');
+  const abTitle = document.getElementById('ab-title');
+  const fa = document.getElementById('fa');
+  const summaryText = document.getElementById("summaryText");
+  const summaryChildren = summaryText.children;
+  const copyOfSummaryText = summaryText.innerHTML;
+  var temp = summaryText.innerHTML.split("<div id=");
+  var removedTemp = [];
+  var removedTempCopy = [...removedTemp];
+  const header = temp[0];
+  const tempCopy = [...temp];
+  const tempLength = temp.length;
+  var removedNodes = [];
+  
+  cy.on('click', 'node', function(evt){
+    const prev = abTitle.innerHTML.split(":")[1].trim();
+    var node = evt.target;
+    var x = evt.renderedPosition.x;
+    var y = evt.renderedPosition.y;
+    var id = node._private.data["id"];
+    var neighborhood = node.neighborhood().add(node);
+    var nonNeighbors = cy.nodes().difference(neighborhood);
+    neighborhood.style('opacity', '1');
+    nonNeighbors.style('opacity', '0.5');
+    //Show the tooltip
+
+    if (tooltip.style.display === 'block' && id === prev) {
+      tooltip.style.display = 'none';
+      if (removedNodes.length !== 0) {
+        removedTemp = [...removedTempCopy];
+        for (var i=1; i<removedTemp.length; i++) removedTemp[i] = "<div id=" + removedTemp[i];
+        summaryText.innerHTML = removedTemp.join("");
+      } else {
+        summaryText.innerHTML = copyOfSummaryText;
+        temp = [...tempCopy];
+      }
+      cy.autoungrabify(false);
+      currentNode = null;
+    } else {
+      currentNode = node;
+      abTitle.innerHTML = 'Abbreviation: '+ id;
+      if (tooltipAb[id] === undefined) {
+          ab.innerHTML = "<p>No abbreviation found</p>";
+      } else {
+        tooltipAb[id].forEach(function(o) {
+          ab.innerHTML += "<li>" + o + "</li>";
+        });
+      }
+
+      if (tooltipFa[id] === undefined) {
+        fa.innerHTML = "<p>No functional annotation found</p>";
+      } else {
+        tooltipFa[id].forEach(function(o) {
+          fa.innerHTML += "<li>" + o + "</li>";
+        });
+      }
+      const tooltipX = x;
+      const tooltipY = y;
+        // Set the tooltip position
+      tooltip.style.left = `${tooltipX}px`;
+      tooltip.style.top = `${tooltipY}px`;
+
+      tooltip.style.display = 'block';
+      cy.autoungrabify(true);
+    }
+    if (removedNodes.length !== 0) {
+      removedTemp = [...removedTempCopy];
+      for (var i = 0; i < removedTempCopy.length; i++) {
+        if (!removedTempCopy[i].includes("data-source=\""+id+"\"") && !removedTempCopy[i].includes("data-target=\""+id+"\"")) {
+          removedTemp.splice(removedTemp.indexOf(removedTempCopy[i]),1);
+        }
+      }
+      if (removedTemp.length > 1) {
+        for (var i=0; i<removedTemp.length; i++) removedTemp[i] = "<div id=" + removedTemp[i];
+        summaryText.innerHTML = header + removedTemp.join("");
+      } else {
+        summaryText.innerHTML = header + "<div id=" + removedTemp;
+      }
+    } else {
+      temp = [...tempCopy];
+      for (var i = 0; i < tempCopy.length; i++) {
+        if (!tempCopy[i].includes("data-source=\""+id+"\"") && !tempCopy[i].includes("data-target=\""+id+"\"")) {
+          temp.splice(temp.indexOf(tempCopy[i]),1);
+        }
+      }
+      if (temp.length > 1) {
+        for (var i=0; i<temp.length; i++) temp[i] = "<div id=" + temp[i];
+        summaryText.innerHTML = header + temp.join("");
+      } else {
+        summaryText.innerHTML = header + "<div id=" + temp;
+      }
+    }
+  });
+
+  cy.on('dragpan', function(evt){
+    if( evt.target === cy ) {
+      tooltip.style.display = 'none';
+      if (removedNodes.length !== 0) {
+        removedTemp = [...removedTempCopy];
+        for (var i=1; i<removedTemp.length; i++) removedTemp[i] = "<div id=" + removedTemp[i];
+        summaryText.innerHTML = removedTemp.join("");
+      } else {
+        summaryText.innerHTML = copyOfSummaryText;
+        temp = [...tempCopy];
+      }
+      currentNode = null;
+    } 
+  });
+
+  cy.on('zoom', function(evt){
+    tooltip.style.display = 'none';
+    if (removedNodes.length !== 0) {
+      removedTemp = [...removedTempCopy];
+      for (var i=1; i<removedTemp.length; i++) removedTemp[i] = "<div id=" + removedTemp[i];
+      summaryText.innerHTML = removedTemp.join("");
+    } else {
+      summaryText.innerHTML = copyOfSummaryText;
+      temp = [...tempCopy];
+    }
+    currentNode = null;
+  });
+
+  cy.on('click', function(evt){
+    if( evt.target === cy ) {
+      cy.nodes().style('opacity', '1');
+      tooltip.style.display = 'none';
+      cy.autoungrabify(false);
+      if (removedNodes.length !== 0) {
+        removedTemp = [...removedTempCopy];
+        for (var i=1; i<removedTemp.length; i++) removedTemp[i] = "<div id=" + removedTemp[i];
+        summaryText.innerHTML = removedTemp.join("");
+      } else {
+        summaryText.innerHTML = copyOfSummaryText;
+        temp = [...tempCopy];
+      }
+      currentNode = null;
+    }
+  });
+
+  //cy.on('dblclick', 'node', function(evt){
+  //  var node = evt.target;
+  //  var neighborhood = node.neighborhood().add(node);
+  //  removedEles = cy.elements().difference(neighborhood).remove();
+  //  neighborhood.select();
+  //});
+
+  cy.on('dblclick', function(evt){
+    if(evt.target === cy) {
+      console.log("restore");
+      removedEles.restore();
+      removedNodes = [];
+      cy.nodes().style('opacity', '1');
+      tooltip.style.display = 'none';
+      summaryText.innerHTML = copyOfSummaryText;
+      temp = [...tempCopy];
+      currentNode = null;
+    }
+  });
+
+  cy.on('remove', 'node', function(evt) {
+    var node = evt.target;
+    temp = [...tempCopy];
+    const id = node._private.data["id"];
+    removedNodes.push(node);
+    for (var i = 0; i < tempLength; i++) {
+      for (var j = 0; j < removedNodes.length; j++) {
+        if (tempCopy[i].includes("data-source=\""+removedNodes[j]._private.data["id"]+"\"") || tempCopy[i].includes("data-target=\""+removedNodes[j]._private.data["id"]+"\"")) {
+          temp.splice(temp.indexOf(tempCopy[i]),1);
+          break;
+        }
+      }
+    }
+    removedTemp = [...temp];
+    removedTempCopy = [...removedTemp];
+    for (var i=1; i<temp.length; i++) temp[i] = "<div id=" + temp[i];
+    summaryText.innerHTML = temp.join("");
+    tooltip.style.display = 'none';
+    currentNode = null;
+  });
+
+  //cy.on('cxttap', 'node', function(evt){
+  //  var node = evt.target;
+  //  node.remove();
+  //});
 });
-
-cy.on('dblclick', function(evt){
-  if(evt.target === cy){
-    removedEles.restore();
-  }
-});
-
-cy.on('cxttap', 'node', function(evt){
-  var node = evt.target;
-  node.remove();
-});
-
-
-
-}
-);
 
 /*
 elements = [

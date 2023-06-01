@@ -44,7 +44,29 @@
           <button class = "button secondary" onclick = "recalculateLayout()"> Recalculate layout </button>
           <button class = "button alert" onclick = "closeForm()"> <b> Close Options </b> </button>
         </div>
-      <div id = "interaction"> </div>
+        <div id = "interaction"> </div>
+      </div>
+    </div>
+    <div class="tooltip" id="node-tooltip">
+      <label class="title" id="ab-title">Abbreviations:</label>
+      <div class="content" id="ab"></div>
+      <br>
+      <label class="title">Functional Annotations:</label>
+      <div class="content" id="fa"></div>
+      <br>
+      <label class="title">Actions</label>
+      <div class="content">
+        <ul style="list-style-type: none; padding: 0;">
+          <li style="margin-bottom: 5px;">
+            <a href="javascript:void(0)" onclick="javascript:removeNode()">Remove node</a>
+          </li>
+          <li style="margin-bottom: 5px;">
+            <a href="javascript:void(0)" onclick="javascript:isolateNeighborhood()">Isolate neighborhood</a>
+          </li>
+          <li>
+            <a href="javascript:void(0)" onclick="javascript:moveToEntity()">Go to entity page</a>
+          </li>
+        </ul>
       </div>
     </div>
 	</div>
