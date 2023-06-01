@@ -250,6 +250,7 @@ document.addEventListener('DOMContentLoaded', function () {
       if (tooltipAb[id] === undefined) {
           ab.innerHTML = "<p>No abbreviation found</p>";
       } else {
+        ab.innerHTML = "";
         tooltipAb[id].forEach(function(o) {
           ab.innerHTML += "<li>" + o + "</li>";
         });
@@ -258,6 +259,7 @@ document.addEventListener('DOMContentLoaded', function () {
       if (tooltipFa[id] === undefined) {
         fa.innerHTML = "<p>No functional annotation found</p>";
       } else {
+        fa.innerHTML = "";
         tooltipFa[id].forEach(function(o) {
           fa.innerHTML += "<li>" + o + "</li>";
         });

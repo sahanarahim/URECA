@@ -106,19 +106,19 @@ def find_terms(my_search, genes, search_type):
 def make_abbreviations(abbreviations, elements):
     ab = {}
     for element in elements:
-        if abbreviations.get(element[0]) is not None:
-            ab[element[0]] = abbreviations[element[0]]
-        if abbreviations.get(element[1]) is not None:
-            ab[element[1]] = abbreviations[element[1]] 
+        if abbreviations.get(element[0].upper()) is not None:
+            ab[element[0]] = abbreviations[element[0].upper()]
+        if abbreviations.get(element[1].upper()) is not None:
+            ab[element[1]] = abbreviations[element[1].upper()] 
     return ab
 
 def make_functional_annotations(gopredict, elements):
     fa = {}
     for element in elements:
-        if gopredict.get(element[0]) is not None:
-            fa[element[0]] = gopredict[element[0]]
-        if gopredict.get(element[1]) is not None:
-            fa[element[1]] = gopredict[element[1]]
+        if gopredict.get(element[0].upper()) is not None:
+            fa[element[0]] = gopredict[element[0].upper()]
+        if gopredict.get(element[1].upper()) is not None:
+            fa[element[1]] = gopredict[element[1].upper()]
     return fa
     
 def generate_search_route(to_search, ab, fa, search_type):
