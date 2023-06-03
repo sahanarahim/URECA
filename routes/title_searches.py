@@ -28,9 +28,7 @@ def title_search():
     forSending = []
     if pmids != []:
         
-        with open('titles', 'rb') as f:
-            # Load the object from the file
-            papers = pickle.load(f)
+        papers = pickle.load(open('titles', 'rb'))
 
         hits = list(set(pmids) & set(papers))
         
