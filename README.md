@@ -2,7 +2,7 @@
 
 Welcome to the Plant Connectome project!  The project is currently in its infancy stages; the latest version of this project is live at: [https://plantconnectome.herokuapp.com/](https://plantconnectome.herokuapp.com/).
 
-This GitHub repository is publicly-accessible and serves as a means of hosting the project's application and storing the code generated for this project.
+This GitHub repository is publicly-accessible and serves as a means of hosting the project's application and storing the code generated for this project!
 
 ## What is PlantConnectome?
 
