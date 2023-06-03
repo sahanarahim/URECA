@@ -10,7 +10,7 @@ import sys
 sys.path.append('utils')
 
 # -- Importing custom utilities --
-from utils.search import Gene
+from utils.search import Gene, make_abbreviations, make_functional_annotations
 from utils.cytoscape import process_network, generate_cytoscape_js
 from utils.text import make_text
 
@@ -62,8 +62,12 @@ def author():
                             elements.append((j[0].replace("'", "").replace('"', ''),  j[2].replace("'", "").replace('"', ''), j[1].replace("'", "").replace('"', '')))                
                         break
     if forSending != []:
+        elements = list(set(elements))
+        fa, ab = pickle.load(open('fa', 'rb')), pickle.load(open('abbreviations', 'rb'))
+        elementsAb, elementsFa = make_abbreviations(ab, elements), make_functional_annotations(fa, elements)
+        
         updatedElements = process_network(elements)
-        cytoscape_js_code = generate_cytoscape_js(updatedElements)
+        cytoscape_js_code = generate_cytoscape_js(updatedElements, elementsAb, elementsFa)
         warning = ''
         summaryText = make_text(forSending)
         
