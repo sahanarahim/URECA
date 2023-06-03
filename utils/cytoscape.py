@@ -4,6 +4,9 @@ This module contains helper functions needed to generate the CytoscapeJS graph.
 import networkx as nx
 import json
 
+# For profiling purposes:
+from profiling import measure_memory
+
 def graphConverter(graph, ref):
     updatedElements = []
     for k, v in graph.adjacency():
