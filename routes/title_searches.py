@@ -2,7 +2,7 @@
 This module contains the route(s) needed to search based on an author's name.
 '''
 from flask import Blueprint, request, render_template
-import pickle 
+import pickle, gzip
 import sys
 
 # -- Setting up the utils path module -- 
@@ -28,10 +28,9 @@ def title_search():
     forSending = []
     if pmids != []:
         
-        with open('titles', 'rb') as title:
-            paper_dict = pickle.load(title)
-        papers = paper_dict['start']
-
+        with gzip.open('titles.pklz', 'rb') as title:
+            papers = pickle.load(title)
+            
         hits = list(set(pmids) & set(papers))
         
         
