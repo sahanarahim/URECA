@@ -28,8 +28,8 @@ def title_search():
     forSending = []
     if pmids != []:
         
-        papers = pickle.load(open('titles', 'rb'))
-        papers = papers['start']
+        paper_dict = pickle.load(open('titles', 'rb'))
+        papers = paper_dict['start']
 
         hits = list(set(pmids) & set(papers))
         
