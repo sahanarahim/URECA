@@ -50,7 +50,6 @@ def author():
             with open('allDic2', 'rb') as file:
                 genes = pickle.load(file)
             
-            
             elements = []
             papers = []
             for i in genes:
@@ -78,4 +77,4 @@ def author():
                                ncbi_count = count, author = my_search, connectome_count = len(set(papers)), 
                                warning = warning, summary = summaryText)
     else:
-        return render_template('not_found.html')
+        return render_template('not_found.html', search_term = my_search)

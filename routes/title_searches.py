@@ -58,4 +58,4 @@ def title_search():
         return render_template('gene.html', genes = forSending, cytoscape_js_code = cytoscape_js_code, 
                                number_papers = len(hits), search_term = my_search, summary = summaryText)
     else:
-        return render_template('not_found.html')
+        return render_template('not_found.html', search_term = my_search)
