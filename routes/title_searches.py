@@ -2,14 +2,14 @@
 This module contains the route(s) needed to search based on an author's name.
 '''
 from flask import Blueprint, request, render_template
-import pickle 
+import pickle
 import sys
 
 # -- Setting up the utils path module -- 
 sys.path.append('utils')
 
 # -- Importing custom utilities --
-from utils.search import Gene
+from utils.search import Gene, make_abbreviations, make_functional_annotations
 from utils.cytoscape import process_network, generate_cytoscape_js
 from utils.text import make_text
 
@@ -27,10 +27,9 @@ def title_search():
             
     forSending = []
     if pmids != []:
-        
-        with open('titles', 'rb') as f:
-            # Load the object from the file
-            papers = pickle.load(f)
+
+        with open('titles', 'rb') as title:
+            papers = pickle.load(title)
 
         hits = list(set(pmids) & set(papers))
         
@@ -49,8 +48,12 @@ def title_search():
                             elements.append((j[0].replace("'", "").replace('"', ''), j[2].replace("'", "").replace('"', ''), j[1].replace("'", "").replace('"', '')))                
                         break
     if forSending!=[]:
+        elements = list(set(elements))
+        fa, ab = pickle.load(open('fa', 'rb')), pickle.load(open('abbreviations', 'rb'))
+        elementsAb, elementsFa = make_abbreviations(ab, elements), make_functional_annotations(fa, elements)
+
         updatedElements = process_network(elements)
-        cytoscape_js_code = generate_cytoscape_js(updatedElements)
+        cytoscape_js_code = generate_cytoscape_js(updatedElements, elementsAb, elementsFa)
         summaryText = make_text(forSending)
         return render_template('gene.html', genes = forSending, cytoscape_js_code = cytoscape_js_code, 
                                number_papers = len(hits), search_term = my_search, summary = summaryText)
