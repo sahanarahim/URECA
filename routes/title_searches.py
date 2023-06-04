@@ -27,10 +27,10 @@ def title_search():
             
     forSending = []
     if pmids != []:
-        
-        with gzip.open('titles.pklz', 'rb') as title:
+
+        with gzip.open('titles', 'rb') as title:
             papers = pickle.load(title)
-            
+
         hits = list(set(pmids) & set(papers))
         
         
