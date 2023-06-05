@@ -44,7 +44,13 @@ const display_items = (page_number) => {
     results_container.innerHTML = '';
     results.forEach((item, index) => {
         if (index < higher && index >= lower) {
-            results_container.innerHTML += `<tr>` + `<td> ${item[0]} </td>` + `<td> ${item[1]} </td>` + `<td> ${item[2]} </td>` + `<td> ${item[3]} </td>` + `</tr>`;
+            results_container.innerHTML += `<tr>` + 
+            `<td> ${item[0]} </td>` + 
+            `<td> ${item[1]} </td>` + 
+            `<td> ${item[2]} </td>` + 
+            `<td class = 'pubmed-link pubmed-hyperlink' data-pubmed-id = '${item[3]}' data-source = '${item[0]}'
+            data-typa = '${item[1]}' data-target = '${item[2]}'> ${item[3]} </td>` + 
+            `</tr>`;
         }
     })
 }
