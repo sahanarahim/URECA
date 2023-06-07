@@ -4,6 +4,7 @@ from flask import Flask, render_template
 from routes.author_search import author_search
 from routes.term_searches import term_searches
 from routes.title_searches import title_searches
+from routes.similarity_search import similarity_search
 
 app = Flask(__name__)
 
@@ -11,6 +12,7 @@ app = Flask(__name__)
 app.register_blueprint(author_search)
 app.register_blueprint(term_searches)
 app.register_blueprint(title_searches)
+app.register_blueprint(similarity_search)
 
 # == Fetching the 'index', the 'help', and the 'features' page ==
 '''

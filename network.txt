@@ -114,7 +114,11 @@ function removeNode() {
 }
 
 function moveToEntity() {
-  console.log(currentNode);
+  var id = currentNode._private.data["id"];
+  const form = document.getElementById("gene-form");
+  const input = document.getElementById("gene_id");
+  input.value = id;
+  form.submit();
 }
 
 function isolateNeighborhood() {
@@ -251,18 +255,32 @@ document.addEventListener('DOMContentLoaded', function () {
           ab.innerHTML = "<p>No abbreviation found</p>";
       } else {
         ab.innerHTML = "";
-        tooltipAb[id].forEach(function(o) {
-          ab.innerHTML += "<li>" + o + "</li>";
-        });
+        if (tooltipAb[id].length < 11) {
+          tooltipAb[id].forEach(function(o) {
+            ab.innerHTML += "<li>" + o + "</li>";
+          });
+        } else {
+          tooltipAb[id].slice(0,10).forEach(function(o) {
+            ab.innerHTML += "<li>" + o + "</li>";
+          });
+          ab.innerHTML += "<a href=\"javascript:void(0)\" onclick=\"redirect(\'"+id.trim()+"\')\">See more</a>";
+        }
       }
 
       if (tooltipFa[id] === undefined) {
         fa.innerHTML = "<p>No functional annotation found</p>";
       } else {
         fa.innerHTML = "";
-        tooltipFa[id].forEach(function(o) {
-          fa.innerHTML += "<li>" + o + "</li>";
-        });
+        if (tooltipFa[id].length < 11) {
+          tooltipFa[id].forEach(function(o) {
+            fa.innerHTML += "<li>" + o + "</li>";
+          });
+        } else {
+          tooltipFa[id].slice(0,10).forEach(function(o) {
+            fa.innerHTML += "<li>" + o + "</li>";
+          });
+          fa.innerHTML += "<a href=\"javascript:void(0)\" onclick=\"redirect(\'"+id.trim()+"\')\">See more</a>";
+        }
       }
       const tooltipX = x;
       const tooltipY = y;
@@ -407,3 +425,28 @@ elements.forEach(ele => {
   if (ele.data.id.length === 0) console.log(ele)
 })
 */
+
+function abFunction(ab) {
+  const form = document.getElementById("similarity-form");
+  const input = document.getElementById("similarity_id");
+  const type = document.getElementById("similarity_type");
+  input.value = ab;
+  type.value = "ab";
+  form.submit();
+}
+
+function faFunction(fa) {
+  const form = document.getElementById("similarity-form");
+  const input = document.getElementById("similarity_id");
+  const type = document.getElementById("similarity_type");
+  input.value = fa;
+  type.value = "fa";
+  form.submit();
+}
+
+function redirect(id) {
+  const form = document.getElementById("gene-form");
+  const input = document.getElementById("gene_id");
+  input.value = id;
+  form.submit();
+}
