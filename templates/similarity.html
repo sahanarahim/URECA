@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block dependencies %}
+{{ super() }}
+
+{% endblock %}
+{% block content %}
+
+<div class='grid-container align-center' style="padding-left: 2px; padding-right: 2px;">
+    <h2> {{number_nodes}} entity(s) with {{search_term}} as their {{type}} <small> ({{ number_papers }} paper(s) in our database) </small></h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Source</th>
+                <th style="width: 10%;">Pubmed ID</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in results %}
+            <tr>
+                <td style="vertical-align: top;">
+                    <!-- <a href="" onclick="redirect( '{{ item[0] }}' )">{{ item[0] }}</a> -->
+                    {{ item[0] }}
+                </td>
+                <td style="width: 10%;">
+                    {% for pubmed_id in item[1] %}
+                    {{ pubmed_id }}<br>
+                    {% endfor %}
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <!-- <form action="{{url_for('term_searches.normal')}}" method='POST' id='gene-form' style="display: none;">
+        <input type="text" aria-describedby="searchfield1" id="gene_id" name='gene_id' style="display: none;">
+    </form> -->
+</div>
+<script>
+    function redirect(id) {
+        const form = document.getElementById("gene-form");
+        const input = document.getElementById("gene_id");
+        input.value = id;
+        form.submit();
+    }
+</script>
+{% endblock %}

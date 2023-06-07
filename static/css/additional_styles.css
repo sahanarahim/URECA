@@ -34,8 +34,7 @@ th {
 
 /* Add styles for the cytoscape section */
 .cy-wrapper {
-    width: 90%;
-    height: 1200px;
+    width: 100%;
     margin: 30px auto;
     overflow: hidden;
     border: 1px solid #ddd;
