@@ -132,15 +132,15 @@ def generate_search_route(search_type):
             my_search = request.form['gene_id']
         except:
             my_search = 'cesa'
-            
+        
+        forSending = []
         if len(my_search) > 0:
             split_search = my_search.split(';')
-            forSending = []
             elements = []
   
             to_search = pickle.load(open('allDic2', 'rb'))
-            ab = pickle.load(open('abbreviations', 'rb'))
-            fa = pickle.load(open('fa', 'rb'))
+            ab = pickle.load(open('abbreviations', 'rb'))[0]
+            fa = pickle.load(open('fa', 'rb'))[0]
 
             for term in split_search:
                 results = find_terms(term, to_search, search_type)
@@ -168,7 +168,7 @@ def generate_search_route(search_type):
         if forSending != []:
             return render_template('gene.html', genes = forSending, cytoscape_js_code = cytoscape_js_code, 
                                     search_term = my_search, number_papers = len(set(papers)), warning = warning, 
-                                    summary = summaryText, )
+                                    summary = summaryText, node_ab = elementsAb[my_search.upper()], node_fa = elementsFa[my_search.upper()])
         else:
             return render_template('not_found.html', search_term = my_search)
     return search_route

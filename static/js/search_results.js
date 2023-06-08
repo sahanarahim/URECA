@@ -183,3 +183,9 @@ $(document).on('click', '.pubmed-link', function() {
 
     showPaperPopup(pubmedID, source, typa, target);
 });
+
+$(window).on("load", function() {
+    const cy = document.getElementById("cy_wrapper");
+    cy.style.height = `${window.innerHeight * 0.8}px`;
+
+});
