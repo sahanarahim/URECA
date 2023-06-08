@@ -62,9 +62,8 @@ def author():
                         break
     if forSending != []:
         elements = list(set(elements))
-        fa, ab = pickle.load(open('fa', 'rb')), pickle.load(open('abbreviations', 'rb'))
-        elementsAb, elementsFa = make_abbreviations(ab, elements), make_functional_annotations(fa, elements)
-        
+        fa, ab = pickle.load(open('fa', 'rb'))[0], pickle.load(open('abbreviations', 'rb'))[0]
+        elementsAb, elementsFa = make_abbreviations(ab, elements), make_functional_annotations(fa, elements)        
         updatedElements = process_network(elements)
         cytoscape_js_code = generate_cytoscape_js(updatedElements, elementsAb, elementsFa)
         warning = ''

@@ -49,13 +49,13 @@ def title_search():
                         break
     if forSending!=[]:
         elements = list(set(elements))
-        fa, ab = pickle.load(open('fa', 'rb')), pickle.load(open('abbreviations', 'rb'))
+        fa, ab = pickle.load(open('fa', 'rb'))[0], pickle.load(open('abbreviations', 'rb'))[0]
         elementsAb, elementsFa = make_abbreviations(ab, elements), make_functional_annotations(fa, elements)
 
         updatedElements = process_network(elements)
         cytoscape_js_code = generate_cytoscape_js(updatedElements, elementsAb, elementsFa)
         summaryText = make_text(forSending)
         return render_template('gene.html', genes = forSending, cytoscape_js_code = cytoscape_js_code, 
-                               number_papers = len(hits), search_term = my_search, summary = summaryText)
+                               number_papers = len(hits), search_term = my_search, summary = summaryText, is_node = False)
     else:
         return render_template('not_found.html', search_term = my_search)
