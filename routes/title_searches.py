@@ -15,8 +15,8 @@ from utils.text import make_text
 
 title_searches = Blueprint('title_searches', __name__)
 
-@title_searches.route('/title', methods = ['GET'])
-def title_search():
+@title_searches.route('/title/<query>', methods = ['GET'])
+def title_search(query):
     try: 
         my_search = request.form['title'].lower()
     except: 
@@ -56,6 +56,6 @@ def title_search():
         cytoscape_js_code = generate_cytoscape_js(updatedElements, elementsAb, elementsFa)
         summaryText = make_text(forSending)
         return render_template('gene.html', genes = forSending, cytoscape_js_code = cytoscape_js_code, 
-                               number_papers = len(hits), search_term = my_search, summary = summaryText, is_node = False)
+                               number_papers = len(hits), search_term = query, summary = summaryText, is_node = False)
     else:
-        return render_template('not_found.html', search_term = my_search)
+        return render_template('not_found.html', search_term = query)
