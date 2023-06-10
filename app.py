@@ -1,21 +1,32 @@
-from flask import Flask, render_template, send_from_directory
-import os
+from flask import Flask, render_template, request, url_for, redirect
 
 # == IMPORTING THE ROUTES  ==
-from routes.author_search import author_search
-from routes.term_searches import term_searches
+from routes.author_search import author
+from routes.term_searches import normal, exact, alias, substring, non_alpha
 from routes.title_searches import title_searches
 from routes.similarity_search import similarity_search
+from routes.author_search import author_search
 
 app = Flask(__name__)
 
 # == REGISTERING THE ROUTES ==
 app.register_blueprint(author_search)
-app.register_blueprint(term_searches)
 app.register_blueprint(title_searches)
 app.register_blueprint(similarity_search)
 
-# == Fetching the 'index', the 'help', and the 'features' page ==
+# -- REGISTERING FORM SEARCHES AS DYNAMIC ROUTES --
+with app.app_context():
+    app.add_url_rule('/normal/<query>', 'normal', normal, methods = ['GET'])
+    app.add_url_rule('/exact/<query>', 'exact', exact, methods = ['GET'])
+    app.add_url_rule('/alias/<query>', 'alias', alias, methods = ['GET'])
+    app.add_url_rule('/substring/<query>', 'substring', substring, methods = ['GET'])
+    app.add_url_rule('/non_alpha/<query>', 'non_alpha', non_alpha, methods = ['GET'])
+
+@app.route('/form/<form_type>/<search_type>', methods = ['POST'])
+def form(form_type, search_type):
+    query = request.form[form_type]
+    return redirect(url_for(search_type, query = query))
+
 '''
 I left these routes here as they're trivial enough for now.
 '''
