@@ -16,7 +16,7 @@ from utils.text import make_text
 
 author_search = Blueprint('author_search', __name__)
 
-@author_search.route('/author', methods = ['POST'])
+@author_search.route('/author', methods = ['GET'])
 def author():
     try:
         my_search = request.form["author"].lower()
