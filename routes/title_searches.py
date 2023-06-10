@@ -15,7 +15,7 @@ from utils.text import make_text
 
 title_searches = Blueprint('title_searches', __name__)
 
-@title_searches.route('/title', methods = ['POST'])
+@title_searches.route('/title', methods = ['GET'])
 def title_search():
     try: 
         my_search = request.form['title'].lower()
