@@ -18,7 +18,7 @@ title_searches = Blueprint('title_searches', __name__)
 @title_searches.route('/title/<query>', methods = ['GET'])
 def title_search(query):
     try: 
-        my_search = request.form['title'].lower()
+        my_search = query
     except: 
         my_search = '26503768'
     pmids = []
