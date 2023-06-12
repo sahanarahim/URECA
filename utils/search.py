@@ -158,7 +158,16 @@ def generate_search_route(search_type):
             elementsAb = make_abbreviations(ab, elements)
             elementsFa = make_functional_annotations(fa, elements)
             cytoscape_js_code = generate_cytoscape_js(updatedElements, elementsAb, elementsFa)
+            if elementsAb.get(my_search.upper()) is not None:
+                node_ab = elementsAb[my_search.upper()]
+            else:
+                node_ab = []
 
+            if elementsFa.get(my_search.upper()) is not None:
+                node_fa = elementsFa[my_search.upper()]
+            else:
+                node_fa = []
+            
             papers = []
             for i in forSending:
                 papers += [i.publication]
@@ -168,7 +177,7 @@ def generate_search_route(search_type):
         if forSending != []:
             return render_template('gene.html', genes = forSending, cytoscape_js_code = cytoscape_js_code, 
                                     search_term = query, number_papers = len(set(papers)), warning = warning, 
-                                    summary = summaryText, node_ab = elementsAb[my_search.upper()], node_fa = elementsFa[my_search.upper()], is_node = True)
+                                    summary = summaryText, node_ab = node_ab, node_fa = node_fa, is_node = True)
         else:
             return render_template('not_found.html', search_term = query)
     return search_route

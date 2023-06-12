@@ -34,16 +34,24 @@
     <p> <span class='lead'> Node summary of {{ search_term }}: </span> </p>
     <label> <span style="font-weight: bold">Abbreviations: </span></label>
     <p>
-      {% for item in node_ab %}
-      <a href="javascript:void(0)" onclick="abFunction('{{ item }}')">{{ item }}</a><span>,</span>
-      {% endfor %}
+      {% if node_ab|length > 0 %}
+        {% for item in node_ab %}
+        <a href="javascript:void(0)" onclick="abFunction('{{ item }}')">{{ item }}</a><span>,</span>
+        {% endfor %}
+      {% else %}
+        No abbreviation found
+      {% endif %}
     </p>
     <br>
     <label><span style="font-weight: bold">Functional Annotations: </span></label>
     <p>
-      {% for item in node_fa %}
-      <a href="javascript:void(0)" onclick="faFunction('{{ item }}')">{{ item }}</a><span>,</span>
-      {% endfor %}
+      {% if node_fa|length > 0 %}
+        {% for item in node_fa %}
+        <a href="javascript:void(0)" onclick="faFunction('{{ item }}')">{{ item }}</a><span>,</span>
+        {% endfor %}
+      {% else %}
+        No functional annotation found
+      {% endif %}
     </p>
     <br>
   </div>
@@ -57,11 +65,10 @@
     <button class = "button success" onclick = "downloadTableAsTSV('table_id', 'table.tsv')"> Download complete network as TSV </button>
 	</form>
 
-
-  <form action='/normal' method='POST' id='gene-form' style="display: none;">
+  <form action="{{ url_for('form', form_type = 'gene_id', search_type = 'normal') }}" method='POST' id='gene-form'>
     <input type="text" aria-describedby="searchfield1" id="gene_id" name='gene_id' style="display: none;">
   </form>
-  <form action='/similarity' , method='POST' id='similarity-form' style="display: none;">
+  <form action="{{ url_for('similarity_search.similarity_form') }}" method="POST" id="similarity-form" style="display: none;">
     <input type="text" aria-describedby="searchfield2" id="similarity_id" name='similarity_id' style="display: none;">
     <input type="text" aria-describedby="searchfield3" id="similarity_type" name='similarity_type' style="display: none;">
   </form>
