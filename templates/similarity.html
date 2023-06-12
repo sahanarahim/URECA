@@ -63,7 +63,7 @@
         }
 </script>
 <div class='grid-container align-center' style="padding-left: 2px; padding-right: 2px;">
-    <form action='/normal' method='POST' id='gene-form' style="display: none;">
+    <form action="{{ url_for('form', form_type = 'gene_id', search_type = 'normal') }}" method='POST' id='gene-form'>
         <input type="text" aria-describedby="searchfield1" id="gene_id" name='gene_id' style="display: none;">
     </form>
     <h2> {{number_nodes}} entity(s) with {{search_term}} as their {{type}} <small> ({{ number_papers }} paper(s) in our database) </small></h2>

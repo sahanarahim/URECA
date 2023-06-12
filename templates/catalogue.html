@@ -1,0 +1,136 @@
+{% extends "base.html" %}
+{% block dependencies %}
+{{ super() }}
+
+{% endblock %}
+
+{% block content %}
+<script>
+  function redirect(id) {
+    const form = document.getElementById("gene-form");
+    const input = document.getElementById("gene_id");
+    input.value = id;
+    form.submit();
+  }
+
+  const dict = {{ entities | tojson }};
+  const add_pagination_elements = (items_to_show, pagination_numbers, key) => {
+    var pages;
+    if (items_to_show < 10) {
+      pages = items_to_show;
+    } else {
+      pages = 10;
+    }
+    for (let i = 1; i <= pages; i++) {
+      let element = document.createElement('li'), number = document.createElement('span')
+      number.setAttribute('aria-label', `Page ${i}`);
+      number.innerText = i;
+      element.setAttribute('onclick', `display_items(${i}, "${key}", ${items_to_show})`);
+      element.id = 'pagination_number';
+      element.appendChild(number);
+
+      pagination_numbers.appendChild(element);
+    }
+  }
+
+  const display_items = (page_number, key, total_pages) => {
+      /*
+      Displays items based on which pagination number is clicked.
+      */
+      let lower = (page_number - 1) * 50, higher = 50 * page_number;
+      catalogue.innerHTML = "";
+      dict[key].forEach((item, index) => {
+        if (index < higher && index >= lower) {
+          catalogue.innerHTML += `<tr>` +
+            `<td> ${item} </td>` + `<td><a href="javascript:void(0)" onclick="redirect('${item}')">Link to entity</a></td>` +
+            `</tr>`;
+        }
+      })
+      if (total_pages > 10) {
+        movePagination(page_number, total_pages, key)
+      }
+      show_active_elements(page_number)
+    }
+  
+  const movePagination = (current_page, total_pages, key) => {
+    const pagination_numbers = document.querySelector('.pagination.text-center');
+    var pages_per_set = 10;
+
+    // Calculate the starting and ending page numbers for the pagination
+    var start = Math.max(1, current_page - Math.floor(pages_per_set / 2));
+    var end = Math.min(total_pages, start + pages_per_set - 1);
+
+    // Adjust the start page if the range extends beyond the total number of pages
+    if (end - start + 1 < pages_per_set) {
+      start = Math.max(1, end - pages_per_set + 1);
+    }
+    pagination_numbers.innerHTML = "";
+    for (var i = start; i <= end; i++) {
+      let element = document.createElement('li'), number = document.createElement('span')
+      number.setAttribute('aria-label', `Page ${i}`);
+      number.innerText = i;
+      element.setAttribute('onclick', `display_items(${i}, "${key}", ${total_pages})`);
+      element.id = 'pagination_number';
+      element.appendChild(number);
+
+      pagination_numbers.appendChild(element);
+    }
+  }
+
+  const show_active_elements = (p) => {
+    document.querySelectorAll('#pagination_number').forEach(number => {
+      number.setAttribute('class', 'disabled');       // If the user clicks another number, we want to hide other selections from them.
+      // Change it to a more appropriate attribute later!
+      let current = number.innerText;
+      if (current === p.toString()) {
+        number.setAttribute('class', 'current');
+      }
+    })
+  }
+  
+  function displayContent(key) {
+    const pagination_numbers = document.querySelector('.pagination.text-center');
+    const catalogue = document.getElementById("catalogue");
+    catalogue.innerHTML = "";
+    pagination_numbers.innerHTML = "";
+    if (dict[key].length < 50) {
+        dict[key].forEach((item) => {
+        catalogue.innerHTML += `<tr>` +
+          `<td> ${item} </td>` + `<td><a href="javascript:void(0)" onclick="redirect('${item}')">Link to entity</a></td>` +
+          `</tr>`;
+      });
+    } else {
+      // pagination
+      const items_to_show = Math.ceil(dict[key].length / 50);
+      add_pagination_elements(items_to_show, pagination_numbers, key);
+      display_items(1, key, items_to_show);
+    }
+  }
+</script>
+
+<div class='grid-container align-center' style="padding-left: 2px; padding-right: 2px;">
+  <form action="{{ url_for('form', form_type = 'gene_id', search_type = 'normal') }}" method='POST' id='gene-form'>
+    <input type="text" aria-describedby="searchfield1" id="gene_id" name='gene_id' style="display: none;">
+  </form>
+  <div class='button-group hollow' style="padding-top: 10px; padding-bottom: 10px;">
+    {% for key in header %}
+        <div class='button' onclick="displayContent('{{ key }}')">{{ key }}</div>
+    {% endfor %}
+  </div>
+  <table>
+    <thead>
+      <tr>
+        <th>Entity</th>
+        <th style="width: 20%;">Action</th>
+      </tr>
+    </thead>
+    <tbody id="catalogue">
+    </tbody>
+  </table>
+  <nav aria-label="Pagination">
+    <ul class="pagination text-center">
+      <!-- Will be filled in by JS code -->
+    </ul>
+  </nav>
+</div>
+{% endblock %}
