@@ -18,7 +18,7 @@ alias_search = generate_term_api_route('alias')
 nonalpha_search = generate_term_api_route('non-alphanumeric')
 
 # Defining routes for author and title search:
-@api.route('/api/author/<query>', methods = ['POST'])
+@api.route('/api/author/<query>', methods = ['GET'])
 def api_author(query):
 	query = ''.join(REPLACEMENTS.get(c, c) for c in query).lower()
 	cytoscape_elements, fa, ab = ([], []), [], [],
@@ -32,7 +32,7 @@ def api_author(query):
 		
 		Entrez.email = 'mutwil@gmail.com'
 		search_query = query + "[Author]"
-		handle = Entrez.esearch(db = "pubmed", term = query)
+		handle = Entrez.esearch(db = "pubmed", term = search_query)
 		record = Entrez.read(handle)
 		count = record["Count"]
 
@@ -63,7 +63,7 @@ def api_author(query):
 		'text_summary' : text_sum
 	}))
 
-@api.route('/api/title/<query>', methods = ['POST'])
+@api.route('/api/title/<query>', methods = ['GET'])
 def title_search(query):
 	pmids, cytoscape_elements, fa, ab = [i.strip() for i in query.split(';')], ([], []), [], []
 	text_sum, elementsAb, elementsFa = '', [], []
