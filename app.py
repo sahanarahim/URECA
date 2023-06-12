@@ -24,11 +24,11 @@ with app.app_context():
     app.add_url_rule('/alias/<query>', 'alias', alias, methods = ['GET'])
     app.add_url_rule('/substring/<query>', 'substring', substring, methods = ['GET'])
     app.add_url_rule('/non_alpha/<query>', 'non_alpha', non_alpha, methods = ['GET'])
-    app.add_url_rule('/api/normal/<query>', 'api_normal', normal_search, methods = ['POST'])
-    app.add_url_rule('/api/exact/<query>', 'api_exact', exact_search, methods = ['POST'])
-    app.add_url_rule('/api/alias/<query>', 'api_alias', alias_search, methods = ['POST'])
-    app.add_url_rule('/api/substring/<query>', 'api_substring', substring_search, methods = ['POST'])
-    app.add_url_rule('/api/non_alpha/<query>', 'api_non_alpha', nonalpha_search, methods = ['POST'])
+    app.add_url_rule('/api/normal/<query>', 'api_normal', normal_search, methods = ['POST', 'GET'])
+    app.add_url_rule('/api/exact/<query>', 'api_exact', exact_search, methods = ['POST', 'GET'])
+    app.add_url_rule('/api/alias/<query>', 'api_alias', alias_search, methods = ['POST', 'GET'])
+    app.add_url_rule('/api/substring/<query>', 'api_substring', substring_search, methods = ['POST', 'GET'])
+    app.add_url_rule('/api/non_alpha/<query>', 'api_non_alpha', nonalpha_search, methods = ['POST', 'GET'])
 
 
 @app.route('/form/<form_type>/<search_type>', methods = ['POST'])
