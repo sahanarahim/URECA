@@ -32,7 +32,7 @@ def api_author(query):
 		
 		Entrez.email = 'mutwil@gmail.com'
 		search_query = query + "[Author]"
-		handle = Entrez.esearch(db = "pubmed", term = query)
+		handle = Entrez.esearch(db = "pubmed", term = search_query)
 		record = Entrez.read(handle)
 		count = record["Count"]
 
