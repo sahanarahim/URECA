@@ -8,6 +8,7 @@ from routes.title_searches import title_searches
 from routes.similarity_search import similarity_search
 from routes.author_search import author_search
 from routes.catalogue_search import catalogue_search
+from routes.api import normal_search, exact_search, alias_search, nonalpha_search, substring_search, api
 
 app = Flask(__name__)
 
@@ -16,6 +17,7 @@ app.register_blueprint(author_search)
 app.register_blueprint(title_searches)
 app.register_blueprint(similarity_search)
 app.register_blueprint(catalogue_search)
+app.register_blueprint(api)
 
 # -- REGISTERING FORM SEARCHES AS DYNAMIC ROUTES --
 with app.app_context():
@@ -24,6 +26,12 @@ with app.app_context():
     app.add_url_rule('/alias/<query>', 'alias', alias, methods = ['GET'])
     app.add_url_rule('/substring/<query>', 'substring', substring, methods = ['GET'])
     app.add_url_rule('/non_alpha/<query>', 'non_alpha', non_alpha, methods = ['GET'])
+    app.add_url_rule('/api/normal/<query>', 'api_normal', normal_search, methods = ['POST', 'GET'])
+    app.add_url_rule('/api/exact/<query>', 'api_exact', exact_search, methods = ['POST', 'GET'])
+    app.add_url_rule('/api/alias/<query>', 'api_alias', alias_search, methods = ['POST', 'GET'])
+    app.add_url_rule('/api/substring/<query>', 'api_substring', substring_search, methods = ['POST', 'GET'])
+    app.add_url_rule('/api/non_alpha/<query>', 'api_non_alpha', nonalpha_search, methods = ['POST', 'GET'])
+
 
 
 @app.route('/form/<form_type>/<search_type>', methods = ['POST'])
