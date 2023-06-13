@@ -48,7 +48,7 @@ def api_author(query):
 	if len(forSending):
 		elements = list(set(elements))
 		fa, ab = pickle.load(open('fa', 'rb'))[0], pickle.load(open('abbreviations', 'rb'))[0]
-		elementsAb, elementsFa = make_abbreviations(ab, elements), make_functional_annotations(fa, elements)        
+		elementsAb, elementsFa = make_abbreviations(ab, elements), make_functional_annotations(fa, elements)       
 		cytoscape_elements = generate_cytoscape_elements(process_network(elements))
 		text_sum = generate_summary_text(forSending)
 
@@ -58,7 +58,7 @@ def api_author(query):
 			'NCBI' : int(count)
 		},
 		'abbreviations' : elementsAb,
-		'functional annotations' : elementsFa,
+		'functional_annotations' : elementsFa,
 		'cytoscape_elements' : cytoscape_elements[0] + cytoscape_elements[1],
 		'text_summary' : text_sum
 	}))
@@ -90,7 +90,7 @@ def title_search(query):
 
 	return(jsonify({
 		'abbreviations' : elementsAb,
-		'functional annotations' : elementsFa,
+		'functional_annotations' : elementsFa,
 		'cytoscape_elements' : cytoscape_elements[0] + cytoscape_elements[1],
 		'text_summary' : text_sum
 	}))
