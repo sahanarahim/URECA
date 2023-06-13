@@ -47,7 +47,8 @@ def find_terms_helper(gene, genes):
     for j in genes[gene]:
         if j[0] != '' and j[2] != '':
             forSending.append(Gene(j[0], j[2], j[1], j[3])) #source, target, type
-            elements.append((j[0].replace("'", "").replace('"', ''),  j[2].replace("'", "").replace('"', ''), j[1].replace("'", "").replace('"','')))
+            elements.append((j[0].replace("'", "").replace('"', ''), j[2].replace("'", "").replace('"', ''), 
+                             j[1].replace("'", "").replace('"', ''), j[3].replace("'", "").replace('"','')))
     return elements, forSending
 
 def find_terms(my_search, genes, search_type):   

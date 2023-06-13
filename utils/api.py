@@ -2,7 +2,7 @@
 Contains API-related information that the api route use...
 '''
 from flask import jsonify
-from search import find_terms, make_abbreviations, make_functional_annotations, make_text
+from search import find_terms, make_abbreviations, make_functional_annotations
 from cytoscape import process_network
 import pickle
 
@@ -10,7 +10,7 @@ REPLACEMENTS = {"ä": "ae", "ö": "oe", "ü": "ue", "ß": "ss", "é": "e", "ô":
 
 def generate_cytoscape_elements(elements):
     '''
-    Generates a dictionary-like structure that can be JSON-ed 
+    Generates two lists that can be JSON-ed 
     and put into a CytoscapeJS session.
     '''
     nodes, edges = [], []
@@ -19,7 +19,7 @@ def generate_cytoscape_elements(elements):
 
     for i, edge in enumerate(elements):
         edges.append({
-            'data' : {'id' : i, 'source' : edge['source'], 'target' : edge['target'], 'interaction' : edge['interaction']}
+            'data' : {'id' : i, 'source' : edge['source'], 'target' : edge['target'], 'interaction' : edge['interaction'], 'publication' : edge['publication']}
         })
     return nodes, edges
 
