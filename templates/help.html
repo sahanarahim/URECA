@@ -21,13 +21,12 @@
       <a class = "accordion-title"> How was the database constructed?  </a>
       <div class = "accordion-content" data-tab-content>
         <p>
-          We used GPT to look at paper abstracts and identify pairs of entities (e.g., genes, molecules, 
-          compartments, basically anything) that 'act' on one another (e.g., enhances, interacts, affects, 
-          localizes to).
+          We used GPT to evaluate research abstracts and identify pairs of entities (e.g., genes, proteins, molecules, 
+          compartments, complexes) in addition to their unique interaction type (e.g., enhances, binds, affects, represses).
           <br> <br>
-          For instance, given the following abstract:
+          For instance, after examining the abstract
           <blockquote>
-            In plants, regulation of cellulose synthesis is fundamental for morphogenesis and plant growth. 
+            "In plants, regulation of cellulose synthesis is fundamental for morphogenesis and plant growth. 
             Cellulose is synthesized at the plasma membrane, and the orientation of synthesis is guided by cortical 
             microtubules; however, the guiding mechanism is currently unknown. We show that the conditional root elongation 
             pom2 mutants are impaired in cell elongation, fertility, and microtubule-related functions. Map-based cloning of 
@@ -35,9 +34,9 @@
             POM2/CSI1s associated with both plasma membrane-located cellulose synthases (CESAs) and post-Golgi CESA-containing 
             compartments. Interestingly, while CESA insertions coincided with cortical microtubules in the pom2/csi1 mutants, 
             the microtubule-defined movement of the CESAs was significantly reduced in the mutant. We propose that POM2/CSI1 provides 
-            a scaffold between the CESAs and cortical microtubules that guide cellulose synthesis.
+            a scaffold between the CESAs and cortical microtubules that guide cellulose synthesis.""
           </blockquote>
-          GPT would return the following statements:
+          GPT returned the following statements:
           <br> <br>
           <ol>
             <li> Cellulose: !synthesized at! Plasma Membrane </li>
@@ -52,12 +51,10 @@
       <a class = "accordion-title"> How can I search the database?  </a>
       <div class = "accordion-content" data-tab-content>
         <p>
-          We only based our database off processed abstracts, so gene identifiers (e.g., AT4G32410) may not be understood by GPT.  Instead, you should aim to 
-          use gene symbols (e.g., CESA1) as these are used in paper abstracts.
+          Because PlantConnectome is built from processed abstracts, gene identifiers such as AT4G32410 may not be interpretable by GPT. Instead, aim to 
+          use gene symbols (e.g., CESA1), as these are used in the literature.
           <br> <br>
-          You can also choose to search for terms mentioned in the abstracts - for instance, "proline", "cold", "root hair", and so on.
-          <br> <br>
-          You can also choose to search for an author's name or a Pubmed ID.
+          You can also choose to search for <strong>terms</strong> mentioned in the abstracts (for instance, "proline", "cold", "root hair", etc.), <strong>author names</strong>, or <strong>PubMed IDs</strong>.
         </p>
       </div>
     </li>
@@ -65,14 +62,17 @@
       <a class = "accordion-title"> Which papers were analyzed?  </a>
       <div class = "accordion-content" data-tab-content>
         <p>
-          We selected our journals by analyzing genes with experimentally verified functions (e.g., TAIR).  Doing so allowed us to shortlist journals that 
-          typically contain functional information of plant genes.
+          To ensure PlantConnectome reflects state-of-the-art knowledge, all research papers from which it derives were published <strong>after 2004</strong>.
+        </p>
+        <br> <br>
+        <p>
+          Journals were carefully selected by analyzing genes with experimentally verified functions (e.g., TAIR), allowing us to shortlist articles covering 
+          functional information on plant genes.
         </p>
         <img src = "{{ url_for('static', filename = 'journals.png') }}" style = "max-width: 50%;" alt = "My Image">
         <br> <br>
         <p>
-          For journals that aren't plant-specific (e.g., PNAS, Cell, etc.), we only processed papers that discussed plants.  Additionally, our database 
-          only includes papers that were published after 2004.
+          Non-plant-specific journals (e.g., PNAS, Cell, etc.) were harvested only for their publications examining plants.
         </p>
       </div>
     </li>
@@ -80,36 +80,35 @@
       <a class = "accordion-title"> How do I use the KnowledgeNetwork viewer?  </a>
       <div class = "accordion-content" data-tab-content>
         <p>
-          The said KnowledgeNetwork viewer will display a handful of relationships found between your search query and the entities detected by GPT.  If you want to narrow
-          down your search options, click on the "Layout Options" button:
+          Our KnowledgeNetwork viewer displays a plethora of relationships found between your search query and GPT-detected entities. Should you want to narrow
+          your search options, click on the "Layout Options" button:
         </p>
         <img src="{{ url_for('static', filename='layoutoptions.png') }}" style="max-width: 50%;" alt="My Image">
         <br> <br>
         <p>
-          You can also choose to click on or double click on nodes to make unwanted nodes more transparent or to remove them.  You can restore nodes by clicking on 
-          the background.  Right-clicking also removes clicked nodes.
+          You may also click or double click on nodes to increase their transparency or remove them, which can be reversed by clicking on 
+          the background. Right-clicking removes currently-selected nodes.
         </p>
         <img src="{{ url_for('static', filename='networkmethods.png') }}" style="max-width: 50%;" alt="My Image">
       </div>
     </li>
     <li class = "accordion-item" data-accordion-item>
-      <a class = "accordion-title"> Can I see the paper abstracts where a relationship was mentioned?  </a>
+      <a class = "accordion-title"> How can I access the research abstracts from which relationships were identified? </a>
       <div class = "accordion-content" data-tab-content>
         <p>
-          Yes.  Below the KnowledgeNetwork viewer, there is a table showcasing the network's nodes and edges.  Clicking on the Pubmed ID will reveal the 
-          abstract and display the entities that were found from the abstract:
+          Below the KnowledgeNetwork viewer is a table showcasing the network's nodes and edges. Clicking on the Pubmed ID will display both the 
+          research abstract and entities identified from it:
         </p>
         <img class = 'align-center' src="{{ url_for('static', filename='abstractanalysis.png') }}" style="max-width: 50%;" alt="My Image"> 
       </div>
     </li>
     <li class = "accordion-item" data-accordion-item>
-      <a class = "accordion-title"> How accurate is GPT in extracting information from paper abstracts?  </a>
+      <a class = "accordion-title"> How accurate is GPT in extracting information from the literature?  </a>
       <div class = "accordion-content" data-tab-content>
         <p>
-          GPT is not completely accurate: some of its results are erroneous and it may also not detect some relationships.  Hence, if you find an 
-          interesting relationship, you should check the appropriate abstract to confirm that GPT did not make a mistake!
+          As with any AI model, GPT is not 100% accurate, generating results that may be erroneous or incomplete. Accordingly, relationships of interest warrant confirmation with the appropriate abstract. 
           <br> <br>
-          We are also currently benchmarking the inferences, so do stay put!
+          Stay tuned for a complete benchmark of the inferences, on which we are currently working. 
         </p>
       </div>
     </li>
