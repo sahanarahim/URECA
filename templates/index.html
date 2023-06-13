@@ -45,7 +45,7 @@
         <label>
             ...author name (without special characters - for instance, accents).
             <input type = "text" placeholder = "e.g., Marek Mutwil (hit 'Enter' to search)" aria-describedby = "searchfield2" id = 'author' name = 'author'>
-            <input type = "Submit" class = 'button' value = "Search!">
+            <input type = "Submit" class = 'button' value = "Search">
         </label>
       </form>
       <form action = "{{ url_for('form', form_type = 'title', search_type = 'title_searches.title_search') }}", method = 'POST' id = 'title-form'>
@@ -53,7 +53,7 @@
           ...by paper Pubmed ID (separated by commas).
           <input type = "text" placeholder = "e.g., 26503768 (hit 'Enter' to search)" aria-describedby = "searchfield3" id = 'title' name = 'title'>
         </label>
-        <input type = "Submit" class = 'button' value = "Search!">
+        <input type = "Submit" class = 'button' value = "Search">
       </form>
     </div>
     <div class = 'medium-6 cell medium-order-2 '>
