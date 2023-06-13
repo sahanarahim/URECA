@@ -7,14 +7,14 @@ import json
 def graphConverter(graph, ref):
     updatedElements = []
     for k, v in graph.adjacency():
-        source = str(k).replace("'", "").replace('"', '')
+        source = str(k[0]).replace("'", "").replace('"', '')
         if v:
             for i, j in v.items():
                 target = str(i).replace("'", "").replace('"', '')
-                for p,q in j.items():
+                for p, q in j.items():
                     type = str(q['relation']).replace("'", "").replace('"', '')
                     if (source, target) in ref:
-                        updatedElements.append({"source": source, "target": target, "interaction": type})
+                        updatedElements.append({"source": source, "target": target, "interaction": type, "publication" : k[1]})
     return updatedElements 
             
 def edgeConverter(elements): #Convert Edges to default dictionary format 
@@ -22,7 +22,8 @@ def edgeConverter(elements): #Convert Edges to default dictionary format
     for i in elements:
         updatedElements.append({"source": str(i[0]).replace("'", "").replace('"', ''), 
                                 "target": str(i[1]).replace("'", "").replace('"', ''), 
-                                "interaction": str(i[2]).replace("'", "").replace('"', '')})
+                                "interaction": str(i[2]).replace("'", "").replace('"', ''),
+                                "publication" : str(i[-1]).strip()})
     return updatedElements 
 
 def nodeDegreeFilter(graph):
@@ -49,7 +50,7 @@ def process_network(elements):
         #using Networkx multiDiGraph to model input data as Graph
         G = nx.MultiDiGraph()
         for i in elements:
-            G.add_edge(i[0], i[1], relation = i[2])
+            G.add_edge((i[0], i[3]), i[1], relation = i[2])
         
         G, ref = nodeDegreeFilter(G)
         
