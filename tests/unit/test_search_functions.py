@@ -1,7 +1,3 @@
-'''
-This file contains unit tests to test the functionality of the searching functions.
-'''
-
 from utils.search import find_terms
 
 # == TESTING VARIABLES ==
