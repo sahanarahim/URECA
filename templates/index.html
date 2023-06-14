@@ -35,14 +35,12 @@
 
       <p> by the <a href = "https://www.plant.tools/" target = "_blank"> Mutwil Lab </a> </p>
       <p class = "lead"> 
-          We used GPT to uncover relationships between genes, molecules, compartments, stresses, organs, and other entities in plants.  
-          <br>
-          We analyzed <strong> {{ papers }} </strong> papers using GPT and identified <strong> {{ entities }} </strong> entities. 
+        The product of processing <strong>101,341</strong> publications with GPT's assistance, PlantConnectome is a powerful resource providing insights into <strong>387777</strong> relationships involving genes, molecules, compartments, stresses, organs, and other plant entities. 
       </p>
-      <p class = 'lead'> Scroll down or hit one of the below buttons to get started!  You may also join our Discord server by <br> clicking on the "Join our Discord" button below!</p>
+      <p class = 'lead'> Scroll down or hit one of the below buttons to get started! You can also join our Discord server by <br> clicking on the "Join our Discord" button below.</p>
       <a href = "/help" class = "button large"> Help </a>
       <a href = "/features" class = "button large hollow"> Features </a>
-      <a href = "https://discord.gg/qr8tYYHu7Y" class = 'button large' target = "_blank"> Join our Discord </a>
+      <a href = "https://discord.gg/qr8tYYHu7Y" class = 'button large' target = "_blank"> Join Our Discord </a>
   </div>
 </div>
 
@@ -72,14 +70,14 @@
       </form>
       <form action = "{{ url_for('form', form_type = 'title', search_type = 'title_searches.title_search') }}", method = 'POST' id = 'title-form'>
         <label>
-          ...by paper Pubmed ID (separated by commas).
+          ...by Pubmed ID (separated by commas).
           <input type = "text" placeholder = "e.g., 26503768 (hit 'Enter' to search)" aria-describedby = "searchfield3" id = 'title' name = 'title'>
         </label>
         <input type = "Submit" class = 'button' value = "Search!">
       </form>
     </div>
     <div class = 'medium-6 cell medium-order-2 '>
-      <h4> Search instructions <small> (click on a button to know more) </small> </h4>
+      <h4> Search instructions <small> (click on a button to learn more) </small> </h4>
       <div class = 'button-group hollow'>
         <div class = 'button'> Word </div>
         <div class = 'button'> Exact </div>
