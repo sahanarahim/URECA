@@ -191,5 +191,5 @@ const change_help_text = (button, text) => {
 help_buttons.forEach(button => {
     let button_text = button.innerText.toLowerCase();
     button.setAttribute('onclick', `change_help_text('${button}', '${button_text}')`);
-    document.querySelectorAll('.button-group')[1].querySelector('.button').click();
+    help_buttons[0].click();
 })
