@@ -10,7 +10,28 @@
 {% block content %}
 <div class="callout large">
   <div class = "row column text-center">
-      <h1> PlantConnectome </h1>
+   
+    <!--PlantC heading-->
+    <head>
+      <style>
+        .image-heading {
+          position: relative; /* To position the image */
+          display: inline-block; /* To make it inline with text */
+          text-indent: -9999px; /* Hide the heading text */
+        }
+        
+        .image-heading img {
+          display: block; /* Ensures the image takes up the available width */
+          max-width: 100%; /* Prevents the image from overflowing */
+        }
+      </style>
+    </head>
+    <body>
+      <h1 class="image-heading">
+        <img src="/Users/emiliadavey/Downloads/plantC_title.png" alt="Image Heading">
+      </h1>
+
+
       <p> by the <a href = "https://www.plant.tools/" target = "_blank"> Mutwil Lab </a> </p>
       <p class = "lead"> 
           We used GPT to uncover relationships between genes, molecules, compartments, stresses, organs, and other entities in plants.  

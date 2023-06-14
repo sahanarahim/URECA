@@ -12,7 +12,7 @@
   <br>
   <h2> Help / FAQs </h2>
   <br>
-  <p> This page list questions that users may have regarding our database. </p>
+  <p> General Questions & Answers </p>
   <hr>
 
   <!-- Questions as accordions -->
@@ -34,10 +34,9 @@
             POM2/CSI1s associated with both plasma membrane-located cellulose synthases (CESAs) and post-Golgi CESA-containing 
             compartments. Interestingly, while CESA insertions coincided with cortical microtubules in the pom2/csi1 mutants, 
             the microtubule-defined movement of the CESAs was significantly reduced in the mutant. We propose that POM2/CSI1 provides 
-            a scaffold between the CESAs and cortical microtubules that guide cellulose synthesis.""
+            a scaffold between the CESAs and cortical microtubules that guide cellulose synthesis."
           </blockquote>
           GPT returned the following statements:
-          <br> <br>
           <ol>
             <li> Cellulose: !synthesized at! Plasma Membrane </li>
             <li> Cortical Microtubules: !guide! Cellulose Synthesis </li>
@@ -51,8 +50,8 @@
       <a class = "accordion-title"> How can I search the database?  </a>
       <div class = "accordion-content" data-tab-content>
         <p>
-          Because PlantConnectome is built from processed abstracts, gene identifiers such as AT4G32410 may not be interpretable by GPT. Instead, aim to 
-          use gene symbols (e.g., CESA1), as these are used in the literature.
+          Because PlantConnectome is built from processed abstracts, gene identifiers such as AT4G32410 may not be interpretable by GPT. Instead, search with
+          gene symbols (e.g., CESA1), as these are used in the literature.
           <br> <br>
           You can also choose to search for <strong>terms</strong> mentioned in the abstracts (for instance, "proline", "cold", "root hair", etc.), <strong>author names</strong>, or <strong>PubMed IDs</strong>.
         </p>
@@ -64,7 +63,6 @@
         <p>
           To ensure PlantConnectome reflects state-of-the-art knowledge, all research papers from which it derives were published <strong>after 2004</strong>.
         </p>
-        <br> <br>
         <p>
           Journals were carefully selected by analyzing genes with experimentally verified functions (e.g., TAIR), allowing us to shortlist articles covering 
           functional information on plant genes.
@@ -87,7 +85,7 @@
         <br> <br>
         <p>
           You may also click or double click on nodes to increase their transparency or remove them, which can be reversed by clicking on 
-          the background. Right-clicking removes currently-selected nodes.
+          the background. Right-clicking removes currently selected nodes.
         </p>
         <img src="{{ url_for('static', filename='networkmethods.png') }}" style="max-width: 50%;" alt="My Image">
       </div>
@@ -106,9 +104,7 @@
       <a class = "accordion-title"> How accurate is GPT in extracting information from the literature?  </a>
       <div class = "accordion-content" data-tab-content>
         <p>
-          As with any AI model, GPT is not 100% accurate, generating results that may be erroneous or incomplete. Accordingly, relationships of interest warrant confirmation with the appropriate abstract. 
-          <br> <br>
-          Stay tuned for a complete benchmark of the inferences, on which we are currently working. 
+          As with any AI model, GPT is not 100% accurate, generating results that may be erroneous or incomplete. Accordingly, relationships of interest warrant confirmation with the appropriate abstract. Stay tuned for a complete benchmark of the inferences, which we are currently working on. 
         </p>
       </div>
     </li>
