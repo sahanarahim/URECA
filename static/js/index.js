@@ -85,11 +85,21 @@ This part of the file contains JavaScript for the help part of the landing page.
 
 // Selects the necessary HTML elements to change / attach event listeners to:
 const help_information = document.querySelector('#help-text');
-const buttons = document.querySelector('.button-group.hollow').querySelectorAll('.button');
+const help_buttons = document.querySelectorAll('.button-group')[1].querySelectorAll('.button');
 
 // Change help information depending on which button is clicked:
-const change_help_text = (text) => {
-    let help_text = '';
+const change_help_text = (button, text) => {
+    /*
+    Alters the appearance of the help button and the help text.
+    */
+    help_buttons.forEach(b => {
+        if (b.innerText.toLowerCase() === text) {
+            b.classList.remove('hollow');
+        } else {
+            b.classList.add('hollow');
+        }
+    })
+
     switch (text) {
         case 'word':
             help_text = `
@@ -178,7 +188,8 @@ const change_help_text = (text) => {
 }
 
 // Attach event listeners to each button:
-buttons.forEach(button => {
+help_buttons.forEach(button => {
     let button_text = button.innerText.toLowerCase();
-    button.setAttribute('onclick', `change_help_text('${button_text}')`);
+    button.setAttribute('onclick', `change_help_text('${button}', '${button_text}')`);
+    document.querySelectorAll('.button-group')[1].querySelector('.button').click();
 })
