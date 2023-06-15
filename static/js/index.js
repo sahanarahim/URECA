@@ -85,36 +85,111 @@ This part of the file contains JavaScript for the help part of the landing page.
 
 // Selects the necessary HTML elements to change / attach event listeners to:
 const help_information = document.querySelector('#help-text');
-const buttons = document.querySelector('.button-group.hollow').querySelectorAll('.button');
+const help_buttons = document.querySelectorAll('.button-group')[1].querySelectorAll('.button');
 
 // Change help information depending on which button is clicked:
-const change_help_text = (text) => {
-    let help_text = '';
+const change_help_text = (button, text) => {
+    /*
+    Alters the appearance of the help button and the help text.
+    */
+    help_buttons.forEach(b => {
+        if (b.innerText.toLowerCase() === text) {
+            b.classList.remove('hollow');
+        } else {
+            b.classList.add('hollow');
+        }
+    })
+
     switch (text) {
         case 'word':
-            help_text = 'Finds all entities containing the searched term.'
+            help_text = `
+            <p>
+                Find all entities that contains the searched query.  For instance, if "CESA" is searched, this search will find the 
+                following entities:
+                <ul style = 'color: green;'>
+                    <li> CESA </li>
+                    <li> CESA genes </li>
+                    <li> Normal CESA complexes </li>
+                </ul>
+                However, it will not find entities such as:
+                <br> <br>
+                <ul style = 'color: red;'>
+                    <li> CESA3 (i.e., another word) </li>
+                    <li> ATCESA  (i.e., another word) </li>
+                </ul>
+            </p>`;
             break;
         case 'exact':
-            help_text = 'Finds entities containing the exact term (e.g., searching for "cesa" would return "cesa expression", "cesa tracking", and so on).';
+            help_text = `
+            <p>
+                Finds the entity that matches the search query <em> exactly</em>.  For instance, if "CESA" is searched, this search will find the 
+                following entity:
+                <ul style = 'color: green;'>
+                    <li> CESA </li>
+                </ul>
+                However, it will not find entities such as:
+                <br> <br>
+                <ul style = 'color: red;'>
+                    <li> CESA genes </li>
+                </ul>
+            </p>`;
             break;
         case 'alias':
-            help_text = 'Finds gene aliases (e.g., searching for "cesa1" finds terms such as "rsw1", "atcesa1", and "any1").';
+            help_text = `
+            <p>
+                Finds all gene aliases that are associated with the search query.  For instance, if "CESA1" is searched, this search will find the 
+                following entities:
+                <ul style = 'color: green;'>
+                    <li> CESA1 </li>
+                    <li> RSW1 </li>
+                    <li> ATCESA1 </li>
+                    <li> ANY1 </li>
+                    <li> Columbia and RSW1 </li>
+                    <li> CESA1 and CESA4 transcripts </li>
+                </ul>
+            </p>`;
             break;
         case 'substring':
-            help_text = 'Finds entities containing the substring (e.g., searching for "hair" would return "root hairs", "hairy roots", and so on).';
+            help_text = `
+            <p>
+                Finds all entities that contain the search query as a substring.  For instance, if "hair" is searched, this search will find the 
+                following entities:
+                <ul style = 'color: green;'>
+                    <li> root hairs </li>
+                    <li> hairy roots </li>
+                </ul>
+            </p>`;
             break;
         case 'non-alphanumeric':
-            help_text = '"fer" finds entities such as "fer-tor" and "fer/ripk".';
+            help_text = `
+            <p>
+                Finds all entities that contain the search query followed by a non-alphanumeric character.  For instance, if "CESA1" 
+                is searched, this search will find the following entities:
+                <ul style = 'color: green;'>
+                    <li> CESA1-10 </li>
+                    <li> CESA1/3 </li>
+                </ul>
+                However, it will not find entities such as:
+                <br> <br>
+                <ul style = 'color: red;'>
+                    <li> CESA10 </li>
+                    <li> CESA10/3 </li>
+                </ul>
+            </p>`;            
             break;
         default:
-            help_text = 'Click one of the above buttons to find out more about each search function!';
+            help_text = `
+            <p>
+                Click one of the above buttons to find out more about each search function!
+            </p>`;
             break;
     };
-    help_information.innerText = help_text;
+    help_information.innerHTML = help_text;
 }
 
 // Attach event listeners to each button:
-buttons.forEach(button => {
+help_buttons.forEach(button => {
     let button_text = button.innerText.toLowerCase();
-    button.setAttribute('onclick', `change_help_text('${button_text}')`);
+    button.setAttribute('onclick', `change_help_text('${button}', '${button_text}')`);
+    help_buttons[0].click();
 })

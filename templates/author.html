@@ -37,14 +37,15 @@
     <button class = "button success" onclick = "downloadTableAsTSV('sortable', 'table.tsv')"> Download complete network as TSV </button>
 	</form>
 
-  <form action='/normal' method='POST' id='gene-form' style="display: none;">
+  <form action="{{ url_for('form', form_type = 'gene_id', search_type = 'normal') }}" method='POST' id='gene-form'>
     <input type="text" aria-describedby="searchfield1" id="gene_id" name='gene_id' style="display: none;">
   </form>
-  <form action='/similarity' , method='POST' id='similarity-form' style="display: none;">
+  <form action="{{ url_for('similarity_search.similarity_form') }}" method="POST" id="similarity-form"
+    style="display: none;">
     <input type="text" aria-describedby="searchfield2" id="similarity_id" name='similarity_id' style="display: none;">
     <input type="text" aria-describedby="searchfield3" id="similarity_type" name='similarity_type' style="display: none;">
   </form>
-  
+
   <div class = "cy-wrapper" id = "cy_wrapper" style = "height: 1200px; overflow: hidden; position: relative; background-color: black; ">
     <div id = "cy" style = "width: 100%; height: 100%; background-color: white !important; border-color: black; border-width: 1px; border-color: black;"></div>
     <button class = "open-button button secondary" onclick = "openForm()" style = "top: 0; left: 0; position: absolute;"> Layout Options </button>
