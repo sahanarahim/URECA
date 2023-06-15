@@ -2960,7 +2960,7 @@ select {
   padding: 1.25rem 1rem;
   border: 1px solid #e6e6e6;
   border-bottom: 0;
-  font-size: 0.75rem;
+  font-size: 1rem;
   line-height: 1;
   color: #1779ba; }
   :last-child:not(.is-active) > .accordion-title {
@@ -6405,6 +6405,13 @@ a.thumbnail {
 .infinite {
   -webkit-animation-iteration-count: infinite;
           animation-iteration-count: infinite; }
+
+
+
+
+
+
+
 
 .slow {
   -webkit-animation-duration: 750ms !important;
