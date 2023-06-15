@@ -3,6 +3,7 @@
 {% block dependencies %}
 {{ super() }}
 <script src = "{{ url_for('static', filename = 'js/index.js') }}" defer> </script>
+<script src = "{{ url_for('static', filename = 'js/count_animation.js' )}}" defer> </script>
 {% endblock %}
 
 <!-- Discord link: https://discord.gg/qr8tYYHu7Y -->
@@ -33,12 +34,8 @@
       <p> by the <a href = "https://www.plant.tools/" target = "_blank"> Mutwil Lab </a> </p>
       <p class = "lead"> 
         <br>
-        The product of processing <strong>101,341</strong> publications with GPT's assistance, PlantConnectome is a powerful resource providing insights into <strong>387777</strong> relationships involving genes, molecules, compartments, stresses, organs, and other plant entities. 
+        The product of processing <strong class = "count"> 101341 </strong> publications with GPT's assistance, PlantConnectome is a powerful resource providing insights into <strong class = "count"> 387777 </strong> relationships involving genes, molecules, compartments, stresses, organs, and other plant entities. 
       </p>
-      <p class = 'lead'> Scroll down or hit one of the buttons below to get started! You can also join our Discord server by <br> clicking the "Join Our Discord" button below.</p>
-      <a href = "/help" class = "button large"> Help </a>
-      <a href = "/features" class = "button large hollow"> Features </a>
-      <a href = "https://discord.gg/qr8tYYHu7Y" class = 'button large' target = "_blank"> Join Our Discord </a>
   </div>
 </div>
 
@@ -48,7 +45,7 @@
       <h3> Search by... </h3>
       <form action = "{{ url_for('form', form_type = 'gene_id', search_type = 'normal') }}" method = 'POST' id = 'gene-form'>
         <label>
-          ...gene, molecule, compartment, stress, cell type, organ, or any other related term.
+          ...gene, molecule, compartment, stress, cell type, organ, or other related terms.
           <input type = "text" placeholder = "e.g., CESA (hit 'Enter' to search)" aria-describedby = "searchfield1" id = "gene_id" name = 'gene_id'>
           <div class = "button-group">
             <input type = "Submit" class = 'button' value = "Word">
@@ -63,7 +60,7 @@
         <label>
             ...author name (without special characters - for instance, accents).
             <input type = "text" placeholder = "e.g., Marek Mutwil (hit 'Enter' to search)" aria-describedby = "searchfield2" id = 'author' name = 'author'>
-            <input type = "Submit" class = 'button' value = "Search!">
+            <input type = "Submit" class = 'button' value = "Search">
         </label>
       </form>
       <form action = "{{ url_for('form', form_type = 'title', search_type = 'title_searches.title_search') }}", method = 'POST' id = 'title-form'>
@@ -71,7 +68,7 @@
           ...by Pubmed ID (separated by commas).
           <input type = "text" placeholder = "e.g., 26503768 (hit 'Enter' to search)" aria-describedby = "searchfield3" id = 'title' name = 'title'>
         </label>
-        <input type = "Submit" class = 'button' value = "Search!">
+        <input type = "Submit" class = 'button' value = "Search">
       </form>
     </div>
     <div class = 'medium-6 cell medium-order-2 '>
@@ -84,9 +81,8 @@
         <div class = 'button hollow'> Non-alphanumeric </div>
       </div>
       <div class = 'text-left' id = 'help-text'>
-        Click one of the above buttons to find out more about each search function!
+        <!-- Will be populated using the DOM API -->
       </div>
-      <hr>
       <!--
       <h3> Instructions for searching </h3>
       <ol>
@@ -96,11 +92,14 @@
         <li> Use "@" for matching gene and genes with shared aliases </li>
       </ol>
       -->
+      <!--
+      <hr>
       <h4> Some searching tips: </h4>
       <ol>
         <li> The search engine is rather simple (at least for now), so a 100% match is required. </li>
         <li> Consider using partial search terms to broaden your results (e.g., "CESA" as opposed to "CESA1"). </li>
       </ol>
+      -->
     </div>
   </div>
 </div>
