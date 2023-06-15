@@ -4755,9 +4755,9 @@ select {
   .pagination .disabled {
     padding: 0.1875rem 0.625rem;
     color: #cacaca;
-    cursor: not-allowed; }
+    cursor: grab; }
     .pagination .disabled:hover {
-      background: transparent; }
+      background: #D2DDFF; }
   .pagination .ellipsis::after {
     padding: 0.1875rem 0.625rem;
     content: '\2026';
