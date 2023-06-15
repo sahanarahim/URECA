@@ -2946,7 +2946,7 @@ select {
   background: #fefefe;
   list-style-type: none; }
   .accordion[disabled] .accordion-title {
-    cursor: not-allowed; }
+    cursor: grab; }
 
 .accordion-item:first-child > :first-child {
   border-radius: 0 0 0 0; }
