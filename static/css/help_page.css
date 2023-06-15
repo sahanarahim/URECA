@@ -11,15 +11,6 @@ h2 {
     margin-top: 0;
 }
 
-a {
-    text-decoration: none;
-    color: #333;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
 .help-button {
     background-color: green;
     color: white;
