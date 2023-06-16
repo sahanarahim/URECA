@@ -4757,7 +4757,9 @@ select {
     color: #cacaca;
     cursor: grab; }
     .pagination .disabled:hover {
-      background: #D2DDFF; }
+      background: #D2DDFF; 
+      cursor: grab;
+    }
   .pagination .ellipsis::after {
     padding: 0.1875rem 0.625rem;
     content: '\2026';
