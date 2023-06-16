@@ -83,17 +83,36 @@
     <li class = "accordion-item" data-accordion-item>
       <a class = "accordion-title"> How do I use the KnowledgeNetwork viewer?  </a>
       <div class = "accordion-content" data-tab-content>
+        
         <p>
-          Our KnowledgeNetwork viewer displays a plethora of relationships found between your search query and GPT-detected entities. Should you want to narrow
-          your search options, click on the "Layout Options" button:
+          Our KnowledgeNetwork viewer displays a plethora of relationships found between your search query and GPT-detected entities. Should you want to narrow your search options, click on the "Layout Options" button:
         </p>
-        <img src="{{ url_for('static', filename='layoutoptions.png') }}" style="max-width: 50%;" alt="My Image">
+        <img src="../static/First_GIF.gif" alt="First_GIF" style="width: 50%; height: 50%;">
         <br> <br>
+        
         <p>
-          You may also click or double click on nodes to increase their transparency or remove them, which can be reversed by clicking on 
-          the background. Right-clicking removes currently selected nodes.
+          Then, select your edges of interest and click "Recalculate Layout":
         </p>
-        <img src="{{ url_for('static', filename='networkmethods.png') }}" style="max-width: 50%;" alt="My Image">
+        <img src="../static/Second_GIF.gif" alt="Second_GIF" style="width: 50%; height: 50%;>
+        <br>
+
+        <p>
+          To learn more about a specific node, click on it:
+        </p>
+        <img src="../static/Node_info.gif" alt="Third_GIF" style="width: 50%; height: 50%;>
+        <br>
+
+        <p>
+          Users also have the option of personally modifying networks. For example, among the list of possible actions when clicking a node is removing it. Clicking once on the background will restore node capacity, while clicking twice will restore the removed node. 
+        </p>
+        <img src="../static/Remove_node.gif" alt="Fourth_GIF" style="width: 50%; height: 50%;>
+        <br>
+
+        <p>
+          To isolate a neighbourhood of entities, select your node of interest and click "Isolate neighborhood." Double click on the background to restore the full, original network. 
+        </p>
+        <img src="../static/Neighbourhood.GIF" alt="Fifth_GIF" style="width: 50%; height: 50%;>
+          
       </div>
     </li>
     <li class = "accordion-item" data-accordion-item>
