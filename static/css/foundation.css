@@ -2616,7 +2616,7 @@ code, .code-inline {
     color: #67251a; }
   .button.disabled, .button[disabled] {
     opacity: 0.25;
-    cursor: not-allowed; }
+    cursor: grab; }
   .button.dropdown::after {
     display: block;
     width: 0;
@@ -2698,7 +2698,7 @@ input:disabled, input[readonly],
 textarea:disabled,
 textarea[readonly] {
   background-color: #e6e6e6;
-  cursor: not-allowed; }
+  cursor: grab; }
 
 [type='submit'],
 [type='button'] {
@@ -2904,7 +2904,7 @@ select {
     transition: box-shadow 0.5s, border-color 0.25s ease-in-out, -webkit-box-shadow 0.5s; }
   select:disabled {
     background-color: #e6e6e6;
-    cursor: not-allowed; }
+    cursor: cursor; }
   select::-ms-expand {
     display: none; }
   select[multiple] {
@@ -3138,7 +3138,7 @@ select {
       text-decoration: underline; }
   .breadcrumbs .disabled {
     color: #cacaca;
-    cursor: not-allowed; }
+    cursor: grab; }
 
 .button-group {
   margin-bottom: 1rem;
