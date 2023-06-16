@@ -13,7 +13,7 @@ def graphConverter(graph, ref):
                 target = str(i).replace("'", "").replace('"', '')
                 for p, q in j.items():
                     type = str(q['relation']).replace("'", "").replace('"', '')
-                    if (source, target) in ref:
+                    if ((source, k[1]), target) in ref:
                         updatedElements.append({"source": source, "target": target, "interaction": type, "publication" : k[1]})
     return updatedElements 
             
@@ -50,7 +50,7 @@ def process_network(elements):
         #using Networkx multiDiGraph to model input data as Graph
         G = nx.MultiDiGraph()
         for i in elements:
-            G.add_edge((i[0], i[3]), i[1], relation = i[2])
+            G.add_edge((i[0], i[-1]), i[1], relation = i[2])
         
         G, ref = nodeDegreeFilter(G)
         

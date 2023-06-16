@@ -4,26 +4,26 @@
 
 <!-- CytoscapeJS dependencies -->
 <title> Search results for term: {{ search_term }} </title>
-<script src = "https://unpkg.com/cytoscape@3.23.0/dist/cytoscape.min.js"> </script>
-<script src = "https://code.jquery.com/jquery-3.6.0.min.js"> </script>
-<script src = "https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"> </script>
-<script src = "https://code.jquery.com/ui/1.12.1/jquery-ui.js"> </script>
-<script src = "https://unpkg.com/cytoscape-svg"> </script>
+<script src="https://unpkg.com/cytoscape@3.23.0/dist/cytoscape.min.js"> </script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"> </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"> </script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"> </script>
+<script src="https://unpkg.com/cytoscape-svg"> </script>
 
 <!-- Original JS code inside gene.html -->
-<script src = "{{ url_for('static', filename = 'js/search_results.js') }}" defer> </script>
-<script src = "{{ url_for('static', filename = 'js/pagination_code.js') }}" defer> </script>
+<script src="{{ url_for('static', filename = 'js/search_results.js') }}" defer> </script>
+<script src="{{ url_for('static', filename = 'js/pagination_code.js') }}" defer> </script>
 
 <!-- CSS found inside index.html -->
-<link rel = "stylesheet" type = "text/css" href = "{{ url_for('static', filename = 'css/additional_styles.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename = 'css/additional_styles.css') }}">
 {% endblock %}
 
 {% block content %}
 <br>
 {% if genes %}
-<div class = 'grid-container align-center' style = "padding-left: 2px; padding-right: 2px;">
+<div class='grid-container align-center' style="padding-left: 2px; padding-right: 2px;">
   {% if warning %}
-  <div class = 'callout small alert' data-closable>
+  <div class='callout small alert' data-closable>
     <p> <strong> Warning: </strong> some terms may be hidden from the network! </p>
   </div>
   {% endif %}
@@ -35,57 +35,65 @@
     <label> <span style="font-weight: bold">Abbreviations: </span></label>
     <p>
       {% if node_ab|length > 0 %}
-        {% for item in node_ab %}
-        <a href="javascript:void(0)" onclick="abFunction('{{ item }}')">{{ item }}</a><span>,</span>
-        {% endfor %}
+      {% for item in node_ab %}
+      <a href="javascript:void(0)" onclick="abFunction('{{ item }}')">{{ item }}</a>{% if not loop.last
+      %}<span>,</span>{% endif %}
+      {% endfor %}
       {% else %}
-        No abbreviation found
+      No abbreviation found
       {% endif %}
     </p>
     <br>
     <label><span style="font-weight: bold">Functional Annotations: </span></label>
     <p>
       {% if node_fa|length > 0 %}
-        {% for item in node_fa %}
-        <a href="javascript:void(0)" onclick="faFunction('{{ item }}')">{{ item }}</a><span>,</span>
-        {% endfor %}
+      {% for item in node_fa %}
+      <a href="javascript:void(0)" onclick="faFunction('{{ item }}')">{{ item }}</a>{% if not loop.last
+      %}<span>,</span>{% endif %}
+      {% endfor %}
       {% else %}
-        No functional annotation found
+      No functional annotation found
       {% endif %}
     </p>
     <br>
   </div>
   {% endif %}
 
-  <form id = "node-search-form">
-    <input type = "text" id = "node-search" name = "node-search" placeholder = "Search a node by its name" />
-    <button class = "button primary" type = "submit"> Submit </button>
-    <button class = "button success" onclick = "window.location.href = '{{ url_for('index') }}'"> Go back </button>
-    <button class = "button success" id = "download-pdf"> Download as SVG </button>
-    <button class = "button success" onclick = "downloadTableAsTSV('table_id', 'table.tsv')"> Download complete network as TSV </button>
-	</form>
+  <form id="node-search-form">
+    <input type="text" id="node-search" name="node-search" placeholder="Search a node by its name" />
+    <button class="button primary" type="submit"> Submit </button>
+    <button class="button success" onclick="window.location.href = '{{ url_for('index') }}'"> Go back </button>
+    <button class="button success" id="download-pdf"> Download as SVG </button>
+    <button class="button success" onclick="downloadTableAsTSV('table_id', 'table.tsv')"> Download complete network as
+      TSV </button>
+  </form>
 
   <form action="{{ url_for('form', form_type = 'gene_id', search_type = 'normal') }}" method='POST' id='gene-form'>
     <input type="text" aria-describedby="searchfield1" id="gene_id" name='gene_id' style="display: none;">
   </form>
-  <form action="{{ url_for('similarity_search.similarity_form') }}" method="POST" id="similarity-form" style="display: none;">
+  <form action="{{ url_for('similarity_search.similarity_form') }}" method="POST" id="similarity-form"
+    style="display: none;">
     <input type="text" aria-describedby="searchfield2" id="similarity_id" name='similarity_id' style="display: none;">
-    <input type="text" aria-describedby="searchfield3" id="similarity_type" name='similarity_type' style="display: none;">
+    <input type="text" aria-describedby="searchfield3" id="similarity_type" name='similarity_type'
+      style="display: none;">
   </form>
 
-  <div class = "cy-wrapper", id = "cy_wrapper" style = "position: relative; background-color: black;">
-    <div id = "cy" style = "width: 100%; height: 100%; background-color: white !important; border-color: black; border-width: 1px; border-color: black;"></div>
-    <button class = "open-button button secondary" onclick = "openForm()" style = "top: 0; left: 0; position: absolute;"> Layout Options </button>
-    <div class = "form-popup" id = "myForm">
-      <div class = "form-container">
-        <div class = "expanded button-group">
-          <button class = "button secondary" onclick = "recalculateLayout()"> Recalculate layout </button>
-          <button class = "button alert" onclick = "closeForm()"> <b> Close Options </b> </button>
+  <div class="cy-wrapper" , id="cy_wrapper" style="position: relative; background-color: black;">
+    <div id="cy"
+      style="width: 100%; height: 100%; background-color: white !important; border-color: black; border-width: 1px; border-color: black;">
+    </div>
+    <button class="open-button button secondary" onclick="openForm()" style="top: 0; left: 0; position: absolute;">
+      Layout Options </button>
+    <div class="form-popup" id="myForm">
+      <div class="form-container">
+        <div class="expanded button-group">
+          <button class="button secondary" onclick="recalculateLayout()"> Recalculate layout </button>
+          <button class="button alert" onclick="closeForm()"> <b> Close Options </b> </button>
         </div>
-        <div id = "interaction"> </div>
+        <div id="interaction"> </div>
       </div>
     </div>
-    <div class="tooltip" id="node-tooltip">
+    <div class="side-tooltip" id="side-tooltip">
       <label class="title" id="ab-title">Abbreviations:</label>
       <div class="content" id="ab"></div>
       <br>
@@ -107,17 +115,17 @@
         </ul>
       </div>
     </div>
-	</div>
+  </div>
   <script> {{ cytoscape_js_code | safe }} </script>
   <hr>
-  <div id = "summaryText">
-    <p> <span class = 'lead'> Text summary of node-edge interactions: </span> </p>
+  <div id="summaryText">
+    <p> <span class='lead'> Text summary of node-edge interactions: </span> </p>
     {{ summary | safe }}
   </div>
   <hr>
   <div>
-    <p> <span class = 'lead'> Node-edge interactions: </span> </p>
-    <table class = 'table_results' id = 'table_id'>
+    <p> <span class='lead'> Node-edge interactions: </span> </p>
+    <table class='table_results' id='table_id'>
       <thead>
         <tr>
           <th> Source </th>
@@ -126,7 +134,7 @@
           <th> Pubmed ID </th>
         </tr>
       </thead>
-      <tbody id = 'body_results'>
+      <tbody id='body_results'>
         {% for gene in genes %}
         <tr>
           <td> {{ gene.id }} </td>
@@ -139,16 +147,16 @@
     </table>
   </div>
   <nav aria-label="Pagination">
-      <ul class="pagination text-center">
-        <!-- Will be filled in by JS code -->
-      </ul>
+    <ul class="pagination text-center">
+      <!-- Will be filled in by JS code -->
+    </ul>
   </nav>
 </div>
 {% else %}
-<div class = "grid-container fluid">
+<div class="grid-container fluid">
   <h2> No hits were found using the query: {{ search_term }} </h2>
   <p> Please try another search term or check your spelling. </p>
-  <button onclick = "window.location.href = '{{ url_for('index') }}'"> Go back </button>
+  <button onclick="window.location.href = '{{ url_for('index') }}'"> Go back </button>
 </div>
 {% endif %}
 {% endblock %}
