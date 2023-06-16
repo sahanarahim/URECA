@@ -36,13 +36,13 @@ function openForm() {
   // sort edge types by count
 	const sortedEdgeTypes = Object.keys(edgeCounts).sort(function(a, b) {
 	  return edgeCounts[b] - edgeCounts[a];
-	}).slice(0, 120);
+	}).slice(0, 30);
 
   const interactionDiv = document.getElementById('interaction');
   interactionDiv.innerHTML = '';
 
   // create checkboxes for each edge type
-  const numColumns = Math.ceil(sortedEdgeTypes.length / 30);
+  const numColumns = Math.ceil(sortedEdgeTypes.length / 15);
   const numTypesPerColumn = Math.ceil(sortedEdgeTypes.length / numColumns);
   let columnCounter = 0;
   let typeCounter = 0;
@@ -209,7 +209,7 @@ function closeForm() { document.getElementById("myForm").style.display = "none";
 document.addEventListener('DOMContentLoaded', function () {
   const tooltipAb = REPLACE_AB;
   const tooltipFa = REPLACE_FA;
-  const tooltip = document.getElementById('node-tooltip');
+  const tooltip =  document.getElementById('side-tooltip');
   const ab = document.getElementById('ab');
   const abTitle = document.getElementById('ab-title');
   const fa = document.getElementById('fa');
@@ -235,7 +235,6 @@ document.addEventListener('DOMContentLoaded', function () {
     neighborhood.style('opacity', '1');
     nonNeighbors.style('opacity', '0.5');
     //Show the tooltip
-
     if (tooltip.style.display === 'block' && id === prev) {
       tooltip.style.display = 'none';
       if (removedNodes.length !== 0) {
@@ -282,12 +281,6 @@ document.addEventListener('DOMContentLoaded', function () {
           fa.innerHTML += "<a href=\"javascript:void(0)\" onclick=\"redirect(\'"+id.trim()+"\')\">See more</a>";
         }
       }
-      const tooltipX = x;
-      const tooltipY = y;
-        // Set the tooltip position
-      tooltip.style.left = `${tooltipX}px`;
-      tooltip.style.top = `${tooltipY}px`;
-
       tooltip.style.display = 'block';
       cy.autoungrabify(true);
     }

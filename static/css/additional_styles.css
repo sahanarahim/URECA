@@ -197,21 +197,22 @@ footer {
     color: red; 
 }
 
-.tooltip {
+.side-tooltip {
+    padding: 9px 14px;
     display: none;
     position: absolute;
-    background-color: #fff;
     color: #000;
-    padding: 9px 14px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+    background-color: #eee;
+    top: 0;
+    right: 0;
+    width: 25%;
+    z-index: 999;
+    height: 100%;
     word-wrap: break-word;
     font-size: 14px;
     line-height: 15px;
-    max-width: 300px;
-    z-index: 999;
 }
 
-.tooltip .title {
+.side-tooltip .title {
     font-weight: bold;
 }
