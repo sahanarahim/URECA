@@ -153,69 +153,55 @@
       </div>
     </li>
     <li class = "accordion-item" data-accordion-item>
-     
-      <a class = "accordion-title"> How accurate is GPT in extracting information from the literature?  </a>
-      <div class = "accordion-content" data-tab-content>
 
-        <style>
-        .image-cont {
-          display: flex;
-          flex-direction: column;
+    <a class = "accordion-title"> How accurate is GPT in extracting information from the literature?  </a>
+    <div class = "accordion-content" data-tab-content>
+
+      <style>
+        .image-container {
           text-align: center;
-          margin: 1rem;
-        }
-        
-        .image-cont img {
-          display: block;
-          align-items: center;
-          width: 50%;
-        }
-        
-        .image-cont p {
-          margin-top: 10px; 
+          display: inline-block;
+          margin: 10px;
         }
 
         .image-caption {
-          display: inline-block;
+          margin-top: 5px;
+          size: 0.5rem;
+          color: grey;
         }
-          
       </style>
-        <div class = "image-cont">
 
-        <div>
-          <p>
-            As with any AI model, GPT is not 100% accurate, generating results that may be erroneous or incomplete. Accordingly, relationships of interest warrant confirmation with the appropriate abstract. To estimate the accuracy rate, we sampled and manually inspected 50 articles,
-            the results of which are summarized by the following 3 charts:
-          </p>
-          <img src="../static/chart.png" alt="first_chart">
-          <div class="image-caption">
-            <p> Distribution of correct, incorrect, and missing statements detected by GPT. </p>
-          </div>
+      <p>
+        As with any AI model, GPT is not 100% accurate, generating results that may be erroneous or incomplete. Accordingly, relationships of interest warrant confirmation with the appropriate abstract. To estimate the accuracy rate, we sampled and manually inspected 50 articles,
+        the results of which are summarized by the following 3 charts:
+      </p>
+      
+      <div class="image-cont">
+        <img src="../static/chart.png" alt="Image">
+        <div class="image-caption">
+          Distribution of correct, incorrect, and missing statements detected by GPT.
         </div>
-
-          <br>
-
-        <div>
-            <img src="../static/chart2.png" alt="second_chart">
-            <div class="image-caption">
-              <p>Total number of correct, incorrect, and missing statements extracted from the 50 articles. </p>
-            </div>
-        </div>
-       
-          <br>
-
-        <div>
-            <img src="../static/chart3.png" alt="third_chart">
-            <div class = "image-caption">
-              <p> Distribution of the number of statements across the 50 abstracts. </p>
-            </div>
-        </div>
-          
-        <p>
-          Stay tuned for a complete benchmark of the inferences, which we are currently working on. 
-        </p>
-          
       </div>
+
+      <div class="image-cont">
+        <img src="../static/chart2.png" alt="Image">
+        <div class="image-caption">
+          Total number of correct, incorrect, and missing statements extracted from the 50 articles.
+        </div>
+      </div>
+
+      <div class="image-cont">
+        <img src="../static/chart3.png" alt="Image">
+        <div class="image-caption">
+          Distribution of the number of statements across the 50 abstracts.
+        </div>
+      </div>
+
+      <p>
+        Stay tuned for a complete benchmark of the inferences, which we are currently working on. 
+      </p>
+
+    </div>
         
     </li>
   </ul>
