@@ -156,12 +156,10 @@
 
   <a class = "accordion-title"> How accurate is GPT in extracting information from the literature?  </a>
   <div class = "accordion-content" data-tab-content>
-
     <style>
       .image-cont {
         text-align: center;
         display: inline-block;
-        margin: 10px;
       }
 
       .image-cont img {
@@ -170,41 +168,44 @@
           width: 50%;
         }
         
-        .image-cont p {
-          margin-top: 10px; 
+
+        .image-caption{
+            font-size: 0.75rem;
+            color:grey;
         }
     
     </style>
 
-    <div class = "image-cont">
+<div class="image-cont">
 
-      <div>
-        <p>
-          As with any AI model, GPT is not 100% accurate, generating results that may be erroneous or incomplete. Accordingly, relationships of interest warrant confirmation with the appropriate abstract. To estimate the accuracy rate, we sampled and manually inspected 50 articles,
-          the results of which are summarized by the following 3 charts:
-        </p>
-      </div>
+  <div>
+    <p>
+      As with any AI model, GPT is not 100% accurate, generating results that may be erroneous or incomplete. Accordingly, relationships of interest warrant confirmation with the appropriate abstract. To estimate the accuracy rate, we sampled and manually inspected 50 articles,
+      the results of which are summarized by the following 3 charts:
+    </p>
+  </div>
 
-      <div>
-        <img src="../static/chart.png" alt="first_chart">
-        <p> Distribution of correct, incorrect, and missing statements detected by GPT. </p>
-      </div>
+  <div>
+    <img src="../static/chart.png" alt="first_chart">
+    <p class="image-caption"> Distribution of correct, incorrect, and missing statements detected by GPT. </p>
+  </div>
 
-      <div>
-        <img src="../static/chart2.png" alt="second_chart">
-        <p> Total number of correct, incorrect, and missing statements extracted from the 50 articles. </p>
-      </div>
+  <div>
+    <img src="../static/chart2.png" alt="second_chart">
+    <p class="image-caption"> Total number of correct, incorrect, and missing statements extracted from the 50 articles. </p>
+  </div>
 
-      <div>
-        <img src="../static/chart3.png" alt="third_chart">
-        <p> Distribution of the number of statements across the 50 abstracts. </p>
-      </div>
+  <div>
+    <img src="../static/chart3.png" alt="third_chart">
+    <p class="image-caption"> Distribution of the number of statements across the 50 abstracts. </p>
+  </div>
 
-      <div>
-        <p> Stay tuned for a complete benchmark of the inferences, which we are currently working on. </p>
-      </div>
+  <div>
+    <p> Stay tuned for a complete benchmark of the inferences, which we are currently working on. </p>
+  </div>
 
-    </div
+  </div>
+</div>
         
     </li>
   </ul>
