@@ -128,7 +128,7 @@
         <br>
         <div>
         <p>
-          Users also have the option of personally modifying networks. For example, among the list of possible actions when clicking a node is removing it. Clicking once on the background will restore node capacity, while clicking twice will reincorporate the removed node. 
+          Users also have the option of personally modifying networks. For example, among the list of possible actions when clicking a node is removing it. Clicking once on the background will restore node opacity, while clicking twice will reincorporate the removed node. 
         </p>
         <img src="../static/Remove_node.gif" alt="Fourth_GIF">
         </div>
@@ -153,12 +153,47 @@
       </div>
     </li>
     <li class = "accordion-item" data-accordion-item>
+     
       <a class = "accordion-title"> How accurate is GPT in extracting information from the literature?  </a>
       <div class = "accordion-content" data-tab-content>
+
+        <div class = "image-container">
+
+        <div>
+          <p>
+            As with any AI model, GPT is not 100% accurate, generating results that may be erroneous or incomplete. Accordingly, relationships of interest warrant confirmation with the appropriate abstract. To estimate the accuracy rate, we sampled and manually inspected 50 articles,
+            the results of which are summarized by the following 3 charts:
+          </p>
+          <img src="../static/chart.png" alt="first_chart">
+          <div class="image-caption">
+            <p> Distribution of correct, incorrect, and missing statements detected by GPT. </p>
+          </div>
+        </div>
+
+          <br>
+
+        <div>
+            <img src="../static/chart2.png" alt="second_chart">
+            <div class="image-caption">
+              <p>Total number of correct, incorrect, and missing statements extracted from the 50 articles. </p>
+            </div>
+        </div>
+       
+          <br>
+
+        <div>
+            <img src="../static/chart3.png" alt="third_chart">
+            <div class = "image-caption">
+              <p> Distribution of the number of statements across the 50 abstracts. </p>
+            </div>
+        </div>
+          
         <p>
-          As with any AI model, GPT is not 100% accurate, generating results that may be erroneous or incomplete. Accordingly, relationships of interest warrant confirmation with the appropriate abstract. Stay tuned for a complete benchmark of the inferences, which we are currently working on. 
+          Stay tuned for a complete benchmark of the inferences, which we are currently working on. 
         </p>
+          
       </div>
+        
     </li>
   </ul>
 </div>
