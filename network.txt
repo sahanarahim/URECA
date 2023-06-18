@@ -262,7 +262,7 @@ document.addEventListener('DOMContentLoaded', function () {
           tooltipAb[id].slice(0,10).forEach(function(o) {
             ab.innerHTML += "<li>" + o + "</li>";
           });
-          ab.innerHTML += "<a href=\"javascript:void(0)\" onclick=\"redirect(\'"+id.trim()+"\')\">See more</a>";
+          ab.innerHTML += "<li><u>(more descriptions found at the entity page)</u></li>";
         }
       }
 
@@ -278,7 +278,7 @@ document.addEventListener('DOMContentLoaded', function () {
           tooltipFa[id].slice(0,10).forEach(function(o) {
             fa.innerHTML += "<li>" + o + "</li>";
           });
-          fa.innerHTML += "<a href=\"javascript:void(0)\" onclick=\"redirect(\'"+id.trim()+"\')\">See more</a>";
+          fa.innerHTML += "<li><u>(more descriptions found at the entity page)</u></li>";
         }
       }
       tooltip.style.display = 'block';
