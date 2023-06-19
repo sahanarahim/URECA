@@ -1,4 +1,4 @@
-NUM_CARDS, NUM_PICTURES = 6, 3
+NUM_CARDS, NUM_PICTURES = 9, 6
 
 def test_features_page_should_be_accessible(client):
     response = client.get('/features')

@@ -1,8 +1,8 @@
 def test_search_results_should_return_all_results(client):
     response = client.get('/normal/cesa')
     assert b'Node summary of cesa' in response.data
-    assert b'Text summary of node-edge interactions:' in response.data
-    assert b'Node-edge interactions:' in response.data
+    assert b'Text summary of the network:' in response.data
+    assert b'Table summary of the network:' in response.data
 
 def test_cytoscape_layout_options_button_should_render(client):
     response = client.get('/normal/cesa')
