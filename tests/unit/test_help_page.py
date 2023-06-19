@@ -7,7 +7,7 @@ def test_help_page_should_be_accessible(client):
 def test_help_page_title_and_text_should_render(client):
     response = client.get('/help')
     assert b'Help / FAQs' in response.data
-    assert b'This page list questions that users may have regarding our database.' in response.data
+    assert b'General Questions & Answers' in response.data
 
 def test_question_accordions_should_load(client):
     '''
