@@ -86,20 +86,63 @@
     <hr>
     <div class = 'text-center'>
         <h2> Search Results </h2>
-        <p> All search results with hits will return 3 items: </p>
+        <p> All search results with hits will return six results: </p>
         <br>
     </div>
     <div class = 'grid-x grid-margin-x medium-up-3'>
         <div class = 'cell'>
             <div class = 'card'>
                 <div class = 'card-divider' style="display: flex; justify-content: center;">
+                    <strong> Number of Papers  </strong>
+                </div>
+                <img src = "{{ url_for('static', filename = '/num_papers.png') }}" alt = "A sample entity-relationship graph">
+                <div class = 'card-section' style= "text-align: left;">
+                    <p>
+                        The amount of papers in the database that contain the search query is 
+                        shown for reference.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class = 'cell'>
+            <div class = 'card'>
+                <div class = 'card-divider' style="display: flex; justify-content: center;">
+                    <strong> Functional Annotations  </strong>
+                </div>
+                <img src = "{{ url_for('static', filename = '/functional_annotations.png') }}" alt = "A sample entity-relationship graph">
+                <div class = 'card-section' style= "text-align: left;">
+                    <p>
+                        A collection of functions the search query is associated with is displayed.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class = 'cell'>
+            <div class = 'card'>
+                <div class = 'card-divider' style="display: flex; justify-content: center;">
+                    <strong> Abbreviations  </strong>
+                </div>
+                <img src = "{{ url_for('static', filename = '/abbrs.png') }}" alt = "A sample entity-relationship graph">
+                <div class = 'card-section' style= "text-align: left;">
+                    <p>
+                        A collection of abbrieviations associated with the search query is displayed.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class = 'cell'>
+            <div class = 'card'>
+                <div class = 'card-divider' style="display: flex; justify-content: center;">
                     <strong> Entity Relationship Graph </strong>
                 </div>
                 <img src = '../static/Capture.PNG' alt = "A sample entity-relationship graph">
-                <div class = 'card-section' style= "text-align: center;">
+                <div class = 'card-section' style= "text-align: left; overflow: scroll;">
                     <p>
-                        Search for entities using a specific keyword or phrase,
-                        aliases, exact matches, sub-strings, and non-alphanumeric results.
+                        This is a directed graph that offers a visual summary of the various entities in the database that 
+                        the search query shares relationships with.  Each circle (i.e., node) on the graph represents an entity; each arrow (i.e., edge)
+                        represents a relationship shared between two entities.
+                        <br> <br>
+                        This graph is also interactive and its appearance can be altered by the user via a set of options.
                     </p>
                 </div>
             </div>
@@ -110,9 +153,10 @@
                     <strong> Text Summary </strong>
                 </div>
                 <img src = '../static/text-summary.png' alt = "Text-summary of search results">
-                <div class = 'card-section' style= "text-align: center;">
+                <div class = 'card-section' style= "text-align: left;">
                     <p>
-                        Search for entities using author names.
+                        A text summary of the entity relationship graph is also shown for reference.  Each paragraph in the text summary 
+                        corresponds to a separate cluster of nodes in the graph.
                     </p>
                 </div>            
             </div>
@@ -123,8 +167,9 @@
                     <strong> Entity Relationship Table </strong>
                 </div>
                 <img src = '../static/table.png' alt = "A sample entity-relationship graph">
-                <div class = 'card-section' style= "text-align: center;">
-                    Search for entities using Pubmed IDs.
+                <div class = 'card-section' style= "text-align: left;">
+                    A table summary of the node-edge interactions in the Knowledge Network graph is also shown.  
+                    This table is downloadable as TSV file, is fully sortable, and has clickable Pubmed ID links.
                 </div>            
             </div>
         </div>
