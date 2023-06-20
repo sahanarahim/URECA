@@ -1,9 +1,10 @@
 '''
 Contains functions used to generate the text summary of a network.
 '''
+
 def make_text(elements):    
     '''Given all edges in the KnowledgeNet, it makes the text summary'''
-    pubmedLink = '<span class = "pubmed-link" style = "color:blue" data-pubmed-id = "%s" data-source = "%s" data-typa = "%s" data-target = "%s"> %s </span>'
+    pubmedLink = '<span class = "pubmed-link" data-pubmed-id = "%s" data-source = "%s" data-typa = "%s" data-target = "%s">%s</span>'
     #Paragraph order: node by the highest degree. Sentence order in a paragraph: node,interaction type by the number of targets.  
     topicDic = {}
     nodeDegree, nodeSentenceDegree = {}, {}
@@ -43,4 +44,5 @@ def make_text(elements):
 
         finishedSentence= '. '.join(tempSentences) + '.'
         save.append("<div id = \""+i+"\">" + finishedSentence + "</div>")
+    print(temp)
     return '<br><br>'.join(save)

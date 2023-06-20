@@ -149,13 +149,13 @@ document.querySelectorAll(".sortable thead th").forEach((headerCell) => {
     sortTable(table, columnIndex, !currentDirection);
   });
 });
-
+/*
 function showPaperPopup(pubmedID, source, typa, target) {
   // Create the PubMed API URL for the paper
   var pubmedURL =
     "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=" +
     pubmedID +
-    "&rettype=abstract&retmode=text";
+    "";
 
   // Use jQuery to load the paper data from the PubMed API
   $.get(pubmedURL, function (data) {
@@ -188,7 +188,7 @@ function showPaperPopup(pubmedID, source, typa, target) {
       );
     }
     var popupHTML =
-      "<div class='paper-popup'><h2>" +
+      "<div class='reveal' id = 'paper-modal' data-reveal><h2>" +
       source +
       " " +
       typa +
@@ -238,7 +238,7 @@ $(document).on("click", ".pubmed-link", function () {
 
   showPaperPopup(pubmedID, source, typa, target);
 });
-
+*/
 $(window).on("load", function () {
   const cy = document.getElementById("cy_wrapper");
   cy.style.height = `${window.innerHeight * 0.8}px`;

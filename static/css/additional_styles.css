@@ -197,6 +197,15 @@ footer {
     color: red; 
 }
 
+.pubmed-link {
+    color: blue;
+    cursor: pointer;
+}
+
+.pubmed-link:hover {
+    color: red;
+}
+
 .side-tooltip {
     padding: 9px 14px;
     display: none;
@@ -215,4 +224,43 @@ footer {
 
 .side-tooltip .title {
     font-weight: bold;
+}
+
+.paper-overlay {
+    display: none;
+    background-color: rgba(0, 0, 0, 0.8);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+}
+
+.modal-content {
+    background: white;
+    padding: 1em;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+    box-sizing: border-box;
+    width: 71%;
+    height: 80%;
+    border-radius: 5px;
+    overflow: scroll;
+}
+
+.close-button {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    color: white;
+    font-weight: 200;
+    transition: color 0.5s;
+}
+
+.close-button:hover {
+    color: gray;
 }
