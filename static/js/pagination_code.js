@@ -137,7 +137,7 @@ const display_items = (page_number) => {
             `<td> ${item[1]} </td>` + 
             `<td> ${item[2]} </td>` + 
             `<td class = 'pubmed-link pubmed-hyperlink' data-pubmed-id = '${item[3]}' data-source = '${item[0]}'
-            data-typa = '${item[1]}' data-target = '${item[2]}'> ${item[3]} </td>` + 
+            data-typa = '${item[1]}' data-target = '${item[2]}' onclick = "addModalContent('${item[3]}', '${item[0]}', '${item[1]}', '${item[2]}')"> ${item[3]} </td>` + 
             `</tr>`;
         }
     })
