@@ -8,7 +8,6 @@ const addModalContent = (paperID, source, typa, target) => {
     let pubmedURL = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=${paperID}&rettype=abstract&retmode=text`;
     
     paperModal.innerHTML = `
-        <p class = "close-button" onclick = "closeModal()"> &times </p> 
         <div class = "modal-content" style = "font-size: ${rescaleText()}px;"> <h5> Fetching content... </h5> </div>
     `;
     paperModal.style.display = "block";
@@ -34,7 +33,6 @@ const addModalContent = (paperID, source, typa, target) => {
             }
 
             contents = `
-            <p class = "close-button" onclick = "closeModal()"> &times </p>
             <div class = "modal-content" style = "font-size: ${rescaleText()}px;">
                 <h4> ${source} ${typa} ${target} </h4>
                 <br> 
@@ -68,3 +66,5 @@ pubmedLinks.forEach(link => {
     let typa = link.getAttribute('data-typa'), target = link.getAttribute('data-target');
     link.setAttribute('onclick', `addModalContent("${paperID}", "${source}", "${typa}", "${target}")`)
 });
+
+paperModal.addEventListener('click', closeModal);
