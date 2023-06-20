@@ -13,9 +13,12 @@
 <!-- Original JS code inside gene.html -->
 <script src = "{{ url_for('static', filename = 'js/search_results.js') }}" defer> </script>
 <script src = "{{ url_for('static', filename = 'js/pagination_code.js') }}" defer> </script>
-<script>const g = "{{ genes }}" </script>
+<script> const g = "{{ genes }}" </script>
+<script src = "{{ url_for('static', filename = 'js/info_popup.js' ) }}" defer> </script>
+
 <!-- CSS found inside index.html -->
 <link rel = "stylesheet" type = "text/css" href = "{{ url_for('static', filename = 'css/additional_styles.css') }}">
+
 {% endblock %}
 
 {% block content %}
@@ -90,6 +93,9 @@
       </div>
     </div>
 	</div>
+  <div class = "paper-overlay">
+    <!-- To be filled in by JS -->
+  </div>
   <script> {{ cytoscape_js_code | safe }} </script>
   <hr>
   <div id = "summaryText">
