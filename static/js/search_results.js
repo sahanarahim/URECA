@@ -149,6 +149,7 @@ document.querySelectorAll(".sortable thead th").forEach((headerCell) => {
     sortTable(table, columnIndex, !currentDirection);
   });
 });
+
 /*
 function showPaperPopup(pubmedID, source, typa, target) {
   // Create the PubMed API URL for the paper
