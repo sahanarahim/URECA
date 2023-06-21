@@ -44,5 +44,4 @@ def make_text(elements):
 
         finishedSentence= '. '.join(tempSentences) + '.'
         save.append("<div id = \""+i+"\">" + finishedSentence + "</div>")
-    print(temp)
     return '<br><br>'.join(save)

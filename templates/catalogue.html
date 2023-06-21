@@ -5,118 +5,20 @@
 {% endblock %}
 
 {% block content %}
-<script>
-  function redirect(id) {
-    const form = document.getElementById("gene-form");
-    const input = document.getElementById("gene_id");
-    input.value = id;
-    form.submit();
-  }
-
-  const dict = {{ entities | tojson }};
-  const add_pagination_elements = (items_to_show, pagination_numbers, key) => {
-    var pages;
-    if (items_to_show < 10) {
-      pages = items_to_show;
-    } else {
-      pages = 10;
-    }
-    for (let i = 1; i <= pages; i++) {
-      let element = document.createElement('li'), number = document.createElement('span')
-      number.setAttribute('aria-label', `Page ${i}`);
-      number.innerText = i;
-      element.setAttribute('onclick', `display_items(${i}, "${key}", ${items_to_show})`);
-      element.id = 'pagination_number';
-      element.appendChild(number);
-
-      pagination_numbers.appendChild(element);
-    }
-  }
-
-  const display_items = (page_number, key, total_pages) => {
-      /*
-      Displays items based on which pagination number is clicked.
-      */
-      let lower = (page_number - 1) * 50, higher = 50 * page_number;
-      catalogue.innerHTML = "";
-      dict[key].forEach((item, index) => {
-        if (index < higher && index >= lower) {
-          catalogue.innerHTML += `<tr>` +
-            `<td> ${item} </td>` + `<td><a href="javascript:void(0)" onclick="redirect('${item}')">Link to entity</a></td>` +
-            `</tr>`;
-        }
-      })
-      if (total_pages > 10) {
-        movePagination(page_number, total_pages, key)
-      }
-      show_active_elements(page_number)
-    }
-  
-  const movePagination = (current_page, total_pages, key) => {
-    const pagination_numbers = document.querySelector('.pagination.text-center');
-    var pages_per_set = 10;
-
-    // Calculate the starting and ending page numbers for the pagination
-    var start = Math.max(1, current_page - Math.floor(pages_per_set / 2));
-    var end = Math.min(total_pages, start + pages_per_set - 1);
-
-    // Adjust the start page if the range extends beyond the total number of pages
-    if (end - start + 1 < pages_per_set) {
-      start = Math.max(1, end - pages_per_set + 1);
-    }
-    pagination_numbers.innerHTML = "";
-    for (var i = start; i <= end; i++) {
-      let element = document.createElement('li'), number = document.createElement('span')
-      number.setAttribute('aria-label', `Page ${i}`);
-      number.innerText = i;
-      element.setAttribute('onclick', `display_items(${i}, "${key}", ${total_pages})`);
-      element.id = 'pagination_number';
-      element.appendChild(number);
-
-      pagination_numbers.appendChild(element);
-    }
-  }
-
-  const show_active_elements = (p) => {
-    document.querySelectorAll('#pagination_number').forEach(number => {
-      number.setAttribute('class', 'disabled');       // If the user clicks another number, we want to hide other selections from them.
-      // Change it to a more appropriate attribute later!
-      let current = number.innerText;
-      if (current === p.toString()) {
-        number.setAttribute('class', 'current');
-      }
-    })
-  }
-  
-  function displayContent(key) {
-    const pagination_numbers = document.querySelector('.pagination.text-center');
-    const catalogue = document.getElementById("catalogue");
-    catalogue.innerHTML = "";
-    pagination_numbers.innerHTML = "";
-    if (dict[key].length < 50) {
-        dict[key].forEach((item) => {
-        catalogue.innerHTML += `<tr>` +
-          `<td> ${item} </td>` + `<td><a href="javascript:void(0)" onclick="redirect('${item}')">Link to entity</a></td>` +
-          `</tr>`;
-      });
-    } else {
-      // pagination
-      const items_to_show = Math.ceil(dict[key].length / 50);
-      add_pagination_elements(items_to_show, pagination_numbers, key);
-      display_items(1, key, items_to_show);
-    }
-  }
-</script>
-
 <div class='grid-container align-center' style="padding-left: 2px; padding-right: 2px;">
+  <h3 style="padding-top: 10px; padding-bottom: 10px;">This page contains the catalogue of all entities in the database. Click on the letter key to view all relevant entities</h3>
   <form action="{{ url_for('form', form_type = 'gene_id', search_type = 'exact') }}" method='POST' id='gene-form'>
     <input type="text" aria-describedby="searchfield1" id="gene_id" name='gene_id' style="display: none;">
   </form>
   <div class='button-group hollow' style="padding-top: 10px; padding-bottom: 10px;">
     {% for key in header %}
-        <div class='button' onclick="displayContent('{{ key }}')">{{ key }}</div>
+        <div class='button' onclick="displayContent('{{ key|replace("'", "\\'") }}')">{{ key }}</div>
     {% endfor %}
   </div>
+   <form id="node-search-form">
+    <input type="text" id="node-search" name="node-search" placeholder="Search a entities by its name" />
+    <button class="button primary" id="search-button" type="submit" disabled="true"> Submit </button>
+  </form>
   <table>
     <thead>
       <tr>
@@ -136,9 +38,167 @@
     cursor: grab;
 }
 </script>
+
     <ul class="pagination text-center">
       <!-- Will be filled in by JS code -->
     </ul>
   </nav>
 </div>
+
+<script>
+  var result, temp;
+  const dict = {{ entities | tojson }};
+  
+  function redirect(id) {
+    const form = document.getElementById("gene-form");
+    const input = document.getElementById("gene_id");
+    input.value = id;
+    form.submit();
+  }
+  const add_pagination_elements = (items_to_show, pagination_numbers) => {
+    var pages;
+    if (items_to_show < 10) {
+      pages = items_to_show;
+    } else {
+      pages = 10;
+    }
+    for (let i = 1; i <= pages; i++) {
+      let element = document.createElement('li'), number = document.createElement('span')
+      number.setAttribute('aria-label', `Page ${i}`);
+      number.innerText = i;
+      element.setAttribute('onclick', `display_items(${i}, ${items_to_show})`);
+      element.id = 'pagination_number';
+      element.appendChild(number);
+
+      pagination_numbers.appendChild(element);
+    }
+  }
+
+  const display_items = (page_number, total_pages) => {
+      /*
+      Displays items based on which pagination number is clicked.
+      */
+      let lower = (page_number - 1) * 50, higher = 50 * page_number;
+      catalogue.innerHTML = "";
+      result.forEach((item, index) => {
+        if (index < higher && index >= lower) {
+          catalogue.innerHTML += `<tr>` +
+            `<td> ${item} </td>` + `<td><a href="javascript:void(0)" onclick="redirect('${item}')">Link to entity</a></td>` +
+            `</tr>`;
+        }
+      })
+      if (total_pages > 10) {
+        movePagination(page_number, total_pages)
+      }
+      show_active_elements(page_number)
+    }
+  
+  const movePagination = (current_page, total_pages) => {
+    const pagination_numbers = document.querySelector('.pagination.text-center');
+    var pages_per_set = 10;
+
+    // Calculate the starting and ending page numbers for the pagination
+    var start = Math.max(1, current_page - Math.floor(pages_per_set / 2));
+    var end = Math.min(total_pages, start + pages_per_set - 1);
+
+    // Adjust the start page if the range extends beyond the total number of pages
+    if (end - start + 1 < pages_per_set) {
+      start = Math.max(1, end - pages_per_set + 1);
+    }
+    pagination_numbers.innerHTML = "";
+    for (var i = start; i <= end; i++) {
+      let element = document.createElement('li'), number = document.createElement('span')
+      number.setAttribute('aria-label', `Page ${i}`);
+      number.innerText = i;
+      element.setAttribute('onclick', `display_items(${i}, ${total_pages})`);
+      element.id = 'pagination_number';
+      element.appendChild(number);
+
+      pagination_numbers.appendChild(element);
+    }
+  }
+
+  const show_active_elements = (p) => {
+    document.querySelectorAll('#pagination_number').forEach(number => {
+      number.setAttribute('class', 'disabled');       // If the user clicks another number, we want to hide other selections from them.
+      // Change it to a more appropriate attribute later!
+      let current = number.innerText;
+      if (current === p.toString()) {
+        number.setAttribute('class', 'current');
+      }
+    })
+  }
+  
+  function displayContent(key) {
+    var searchButton = document.getElementById("search-button");
+    searchButton.removeAttribute('disabled');
+    result = dict[key];
+    temp = dict[key];
+    const pagination_numbers = document.querySelector('.pagination.text-center');
+    const catalogue = document.getElementById("catalogue");
+    catalogue.innerHTML = "";
+    pagination_numbers.innerHTML = "";
+    if (result.length < 50) {
+        result.forEach((item) => {
+        catalogue.innerHTML += `<tr>` +
+          `<td> ${item} </td>` + `<td><a href="javascript:void(0)" onclick="redirect('${item}')">Link to entity</a></td>` +
+          `</tr>`;
+      });
+    } else {
+      // pagination
+      const items_to_show = Math.ceil(result.length / 50);
+      add_pagination_elements(items_to_show, pagination_numbers, key);
+      display_items(1, items_to_show);
+    }
+  }
+
+  var searchForm = document.getElementById("node-search-form");
+  searchForm.addEventListener("submit", function (event) {
+    var searchButton = document.getElementById("search-button");
+    var searchBar = document.getElementById("node-search");
+    event.preventDefault();
+    if (searchButton.innerHTML.toLowerCase() === "cancel") {
+      result = temp;
+      searchButton.innerHTML = "Submit";
+      searchBar.value = "";
+      const pagination_numbers = document.querySelector('.pagination.text-center');
+      const catalogue = document.getElementById("catalogue");
+      catalogue.innerHTML = "";
+      pagination_numbers.innerHTML = "";
+      if (result.length < 50) {
+          result.forEach((item) => {
+          catalogue.innerHTML += `<tr>` +
+            `<td> ${item} </td>` + `<td><a href="javascript:void(0)" onclick="redirect('${item}')">Link to entity</a></td>` +
+            `</tr>`;
+        });
+      } else {
+        // pagination
+        const items_to_show = Math.ceil(result.length / 50);
+        add_pagination_elements(items_to_show, pagination_numbers);
+        display_items(1, items_to_show);
+      }
+    } else {
+      searchButton.innerHTML = "Cancel";
+      const searchTerm = event.target[0].value.toLowerCase();
+      result = result.filter(word => word.toLowerCase().includes(searchTerm));
+      const pagination_numbers = document.querySelector('.pagination.text-center');
+      const catalogue = document.getElementById("catalogue");
+      catalogue.innerHTML = "";
+      pagination_numbers.innerHTML = "";
+      if (result.length < 50) {
+          result.forEach((item) => {
+          catalogue.innerHTML += `<tr>` +
+            `<td> ${item} </td>` + `<td><a href="javascript:void(0)" onclick="redirect('${item}')">Link to entity</a></td>` +
+            `</tr>`;
+        });
+      } else {
+        // pagination
+        const items_to_show = Math.ceil(result.length / 50);
+        add_pagination_elements(items_to_show, pagination_numbers);
+        display_items(1, items_to_show);
+      }
+    }
+  });
+
+</script>
 {% endblock %}
