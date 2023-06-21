@@ -14,7 +14,7 @@ def graphConverter(graph, ref):
                 for p, q in j.items():
                     type = str(q['relation']).replace("'", "").replace('"', '')
                     if ((source, k[1]), target) in ref:
-                        updatedElements.append({"source": source, "target": target, "interaction": type, "publication" : k[1]})
+                        updatedElements.append({"source": source, "target": target, "interaction": type})
     return updatedElements 
             
 def edgeConverter(elements): #Convert Edges to default dictionary format 
@@ -22,8 +22,7 @@ def edgeConverter(elements): #Convert Edges to default dictionary format
     for i in elements:
         updatedElements.append({"source": str(i[0]).replace("'", "").replace('"', ''), 
                                 "target": str(i[1]).replace("'", "").replace('"', ''), 
-                                "interaction": str(i[2]).replace("'", "").replace('"', ''),
-                                "publication" : str(i[-1]).strip()})
+                                "interaction": str(i[2]).replace("'", "").replace('"', '')})
     return updatedElements 
 
 def nodeDegreeFilter(graph):
