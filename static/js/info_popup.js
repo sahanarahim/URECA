@@ -25,11 +25,11 @@ const addModalContent = (paperID, source, typa, target) => {
 
             for (let i = 0 ; i < sourceWords.length ; i++) {
                 let sourceRegex = new RegExp(`\\b${sourceWords[i].replace(/[-\/\\^$*+?.()|[\]{}]/g, "\\$&")}\\b`, 'gi');
-                underlinedData = underlinedData.replace(sourceRegex, '<span style = "color: red;"> $& </span>');
+                underlinedData = underlinedData.replace(sourceRegex, `<span style = "color: red;">$&</span>`);
             }
             for (let i = 0 ; i < targetWords.length ; i++) {
-                let targetRegex = new RegExp(`\\b${targetWords[i].replace(/[-\/\\^$*+?.()|[\]{}]/g, "\\$&")}\\b`);
-                underlinedData = underlinedData.replace(targetRegex, '<span style = "color: red;"> $& </span>');
+                let targetRegex = new RegExp(`\\b${targetWords[i].replace(/[-\/\\^$*+?.()|[\]{}]/g, "\\$&")}\\b`, 'gi');
+                underlinedData = underlinedData.replace(targetRegex, `<span style = "color: red;">$&</span>`);
             }
 
             contents = `
