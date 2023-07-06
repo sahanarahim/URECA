@@ -35,7 +35,7 @@
                 //     var targetRegex = new RegExp("\\b" + targetWords[j].replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&') + "\\b", "gi");
                 //     underlinedData = underlinedData.replace(targetRegex, "<u><span class='red-text'>$&</span></u>");
                 // }
-                var popupHTML = "<div class='paper-popup'><h2>" + source + "</h2><pre>" + underlinedData + "</pre> <p style="color: blue;"> Click </p> <a href='https://pubmed.ncbi.nlm.nih.gov/" + pubmedID + "'target='_blank' class='pubmed-hyperlink'> <p style="color: blue;"> here </p> </a> to view the publication.</div>";
+                var popupHTML = "<div class='paper-popup'><h2>" + source + "</h2><pre>" + underlinedData + "</pre> <a href='https://pubmed.ncbi.nlm.nih.gov/" + pubmedID + "'target='_blank' class='pubmed-hyperlink'>Click here</a> to view the publication.</div>";
 
                 // Display the popup using the jQuery UI dialog function
                 var $popup = $(popupHTML).dialog({
