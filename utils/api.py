@@ -19,7 +19,7 @@ def generate_cytoscape_elements(elements):
 
     for i, edge in enumerate(elements):
         edges.append({
-            'data' : {'id' : i, 'source' : edge['source'], 'target' : edge['target'], 'interaction' : edge['interaction'], 'publication' : edge['publication']}
+            'data' : {'id' : i, 'source' : edge['source'], 'target' : edge['target'], 'interaction' : edge['interaction']}
         })
     return nodes, edges
 
