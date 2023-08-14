@@ -27,8 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
             warningDiv.style.display = "none";
           }
           let resultDiv = document.getElementById("result");
-          let regex =
-            /(?<!\()\d{8}(?=\))|(?<!\()\d{8}(?!\))|\((\d{8}(?:, \d{8})+)\)/g;
+          const regex = /\((\d+)\)/g;
           formattedContent = content.replace(
             regex,
             '<a href="http://www.ncbi.nlm.nih.gov/pubmed/$1" target="_blank">$1</a>'
