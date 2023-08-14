@@ -23,12 +23,15 @@ document.addEventListener("DOMContentLoaded", function () {
           if (warning !== "") {
             warningDiv.style.display = "block";
             warningDiv.innerHTML = "<p>" + warning + "</p>";
+          } else {
+            warningDiv.style.display = "none";
           }
           let resultDiv = document.getElementById("result");
-          const regex = /\((\d{8})(?:,\s*(\d{8}))*\)/g;
+          let regex =
+            /(?<!\()\d{8}(?=\))|(?<!\()\d{8}(?!\))|\((\d{8}(?:, \d{8})+)\)/g;
           formattedContent = content.replace(
             regex,
-            '(<a href="http://www.ncbi.nlm.nih.gov/pubmed/$1" target="_blank">$1</a>)'
+            '<a href="http://www.ncbi.nlm.nih.gov/pubmed/$1" target="_blank">$1</a>'
           );
           resultDiv.innerHTML = formattedContent;
           document.getElementById("submitBtn").removeAttribute("disabled");

@@ -1,6 +1,8 @@
 '''
 This module contains the routes for TL;DR.
 '''
+import openai
+import os
 from flask import Blueprint, request, render_template, jsonify
 from langchain.chat_models import ChatOpenAI
 from langchain.indexes import VectorstoreIndexCreator
@@ -12,6 +14,7 @@ import sys
 sys.path.append('utils')
 
 tldr = Blueprint('tldr', __name__)
+openai.api_key = os.environ.get("openai")
 
 
 @tldr.route('/tldr')
@@ -29,25 +32,27 @@ def tldr_search():
     else:
         gene = user_input.upper()
     query = '''
-        You are a plant molecular biology expert and systems biologist. Consider the following data about the gene %s. Organize these facts into a comprehensive summary structured into the following categories:
+        You are a plant molecular biology expert and systems biologist. Consider the following data about the %s. Organize these facts into a comprehensive summary structured into the following categories:
 
-        1) Enumerate all the functions that the gene %s performs based on the data.
+        1) Enumerate all the functions that the %s performs based on the data.
         2) Identify all sub-cellular compartments (e.g, nucleus, cytosol, plasma membrane) where %s is present.
-        3) Specify all the sites (cells, tissues, organs) where the gene %s is active.
+        3) Specify all the sites (cells, tissues, organs) where the %s is active.
         4) List all the Gene Ontology (GO) terms stated for %s. If none are stated, propose possible ones based on the data.
         5) Based on the data, list all the genes that %s interacts (e.g., interacts, binds, is in complex with) with.
-        6) Mention all the genes that %s regulates, maintains or otherwise affectes.
-        7) Detail all the genes that regulate the gene %s according to the data.
-
-        For each point, if a gene is said to "interact with", "maintain", "enhance", "repress", "regulate" or "activate" another gene, consider this as an interaction. When a gene "produces" or "encodes for" a substance, consider this as a function of the gene. If a gene is "found in" a particular site, consider this as a place where the gene is expressed. 
+        6) Mention all the genes that %s regulates, maintains or affectes.
+        7) Detail all the genes that regulates, maintains or affectes %s according to the data.
+        An entity refers to either a gene, molecule, compartment, stress, cell type, organ, or other related terms
+        For each point, if a entity is said to "interact with", "maintain", "enhance", "repress", "regulate" or "activate" another entity, consider this as an interaction. When a entity "produces" or "encodes for" a substance, consider this as a function of the entity. If an entity is "found in" a particular site, consider this as a place where the entity is expressed(gene) or located(others). 
         IMPORTANT Tag the CORRECT source behind each statement in parenthesis (e.g., (10024464)).
+        Given your prior knowledge on %s in plant biology context, Please phrase it in a coherent and plesant fashion. 
         Please start the reply with "Comprehensive Summary of %s"
+        Please start with the categorical question; followed by the answer
         Please add this statement at the end "Please note that the sources are provided after each statement."
-        Please write it in a pleasant way. Please make sure all the information give has been covered
-        ''' % (gene, gene, gene, gene, gene, gene, gene, gene, gene)
+        Please make sure all the information give has been covered
+        ''' % (gene, gene, gene, gene, gene, gene, gene, gene, gene, gene)
 
     save = ['source\tassociation type\ttarget\tsource\n']
-    limit = 100
+    limit = 500
     warning = ""
     with open("allDic3", "rb") as file:
         allDic3 = pickle.load(file)
@@ -70,5 +75,5 @@ def tldr_search():
     loader.load()
     index = VectorstoreIndexCreator().from_loaders([loader])
     output = index.query(query, llm=ChatOpenAI(
-        temperature=0.1, model="gpt-4"))
+        temperature=0.05, model="gpt-4"))
     return jsonify(content=output, warning=warning)
