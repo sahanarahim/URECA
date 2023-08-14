@@ -12,6 +12,8 @@ from routes.api import normal_search, exact_search, alias_search, nonalpha_searc
 from routes.tldr import tldr
 app = Flask(__name__)
 
+app.debug = True
+
 # == REGISTERING THE ROUTES ==
 app.register_blueprint(author_search)
 app.register_blueprint(title_searches)
