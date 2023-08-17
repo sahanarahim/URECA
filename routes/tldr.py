@@ -4,9 +4,6 @@ This module contains the routes for TL;DR.
 import openai
 import os
 from flask import Blueprint, request, render_template, jsonify
-from langchain.chat_models import ChatOpenAI
-from langchain.indexes import VectorstoreIndexCreator
-from langchain.document_loaders.tsv import UnstructuredTSVLoader
 import pickle
 import sys
 
@@ -14,7 +11,7 @@ import sys
 sys.path.append('utils')
 
 tldr = Blueprint('tldr', __name__)
-openai.api_key = os.environ.get("openai")
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 
 @tldr.route('/tldr')
@@ -66,14 +63,20 @@ def tldr_search():
                 shorten = "\n".join(parts[:limit])
                 save[0] = shorten
             break
-    v = open('search.txt', 'w')
-    v.writelines(save)
-    v.close()
-    loader = UnstructuredTSVLoader(
-        file_path="search.txt", mode="elements"
-    )
-    loader.load()
-    index = VectorstoreIndexCreator().from_loaders([loader])
-    output = index.query(query, llm=ChatOpenAI(
-        temperature=0.05, model="gpt-4"))
-    return jsonify(content=output, warning=warning)
+
+    messages = [{"role": "user", "content": save[0] + query}]
+    print(save[0] + query)
+    output = openai.ChatCompletion.create(model="gpt-4", messages=messages)
+    output.choices[0].message.content
+
+    # v = open('search.txt', 'w')
+    # v.writelines(save)
+    # v.close()
+    # loader = UnstructuredTSVLoader(
+    #     file_path="search.txt", mode="elements"
+    # )
+    # loader.load()
+    # index = VectorstoreIndexCreator().from_loaders([loader])
+    # output = index.query(query, llm=ChatOpenAI(
+    #     temperature=0.05, model="gpt-4"))
+    return jsonify(content=output.choices[0].message.content, warning=warning)

@@ -28,11 +28,21 @@ document.addEventListener("DOMContentLoaded", function () {
           }
           let resultDiv = document.getElementById("result");
           const regex = /\((\d+)\)/g;
-          formattedContent = content.replace(
-            regex,
-            '<a href="http://www.ncbi.nlm.nih.gov/pubmed/$1" target="_blank">$1</a>'
-          );
-          resultDiv.innerHTML = formattedContent;
+          let matches = content.match(regex);
+          if (matches) {
+            for (let i = 0; i < matches.length; i++) {
+              let number = matches[i].match(/\d+/)[0];
+              content = content.replace(
+                matches[i],
+                '<a href="http://www.ncbi.nlm.nih.gov/pubmed/' +
+                  number +
+                  'target="_blank">' +
+                  matches[i] +
+                  "</a>"
+              );
+            }
+          }
+          resultDiv.innerHTML = content;
           document.getElementById("submitBtn").removeAttribute("disabled");
           loadingDiv.style.display = "none";
         })
