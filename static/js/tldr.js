@@ -27,22 +27,17 @@ document.addEventListener("DOMContentLoaded", function () {
             warningDiv.style.display = "none";
           }
           let resultDiv = document.getElementById("result");
-          const regex = /\((\d+)\)/g;
-          let matches = content.match(regex);
-          if (matches) {
-            for (let i = 0; i < matches.length; i++) {
-              let number = matches[i].match(/\d+/)[0];
-              content = content.replace(
-                matches[i],
-                '<a href="http://www.ncbi.nlm.nih.gov/pubmed/' +
-                  number +
-                  'target="_blank">' +
-                  matches[i] +
-                  "</a>"
+          const regex = /\((\d+(?:, ?\d+)*)\)/g;
+          const formattedContent = content.replace(regex, (match, numbers) => {
+            const numberArray = numbers
+              .split(", ")
+              .map(
+                (number) =>
+                  `<a href="http://www.ncbi.nlm.nih.gov/pubmed/${number}" target="_blank">${number}</a>`
               );
-            }
-          }
-          resultDiv.innerHTML = content;
+            return `(${numberArray.join(", ")})`;
+          });
+          resultDiv.innerHTML = formattedContent;
           document.getElementById("submitBtn").removeAttribute("disabled");
           loadingDiv.style.display = "none";
         })

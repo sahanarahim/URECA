@@ -11,7 +11,7 @@ import sys
 sys.path.append('utils')
 
 tldr = Blueprint('tldr', __name__)
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.environ.get("OPENAI_API_KEY")
 
 
 @tldr.route('/tldr')
@@ -65,7 +65,6 @@ def tldr_search():
             break
 
     messages = [{"role": "user", "content": save[0] + query}]
-    print(save[0] + query)
     output = openai.ChatCompletion.create(model="gpt-4", messages=messages)
     output.choices[0].message.content
 
