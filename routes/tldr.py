@@ -12,6 +12,7 @@ sys.path.append('utils')
 
 tldr = Blueprint('tldr', __name__)
 openai.api_key = os.environ.get("OPENAI_API_KEY")
+print(os.environ.get("OPENAI_API_KEY"))
 
 
 @tldr.route('/tldr')
@@ -48,25 +49,24 @@ def tldr_search():
         Please make sure all the information give has been covered
         ''' % (gene, gene, gene, gene, gene, gene, gene, gene, gene, gene)
 
-    save = ['source\tassociation type\ttarget\tsource\n']
+    # save = ['source\tassociation type\ttarget\tsource\n']
     limit = 500
     warning = ""
-    with open("allDic3", "rb") as file:
-        allDic3 = pickle.load(file)
-    for k, v in allDic3[gene[0]][gene[1]].items():
-        if gene == k:
-            save[0] += v
-            if save[0].count("\n") > limit:
-                warning = '''Network of %s is extensive, only the first %s entities that interact with %s will be displayed''' % (
-                    gene, limit, gene)
-                parts = save[0].split("\n", limit)
-                shorten = "\n".join(parts[:limit])
-                save[0] = shorten
-            break
+    # with open("allDic3", "rb") as file:
+    #     allDic3 = pickle.load(file)
+    # for k, v in allDic3[gene[0]][gene[1]].items():
+    #     if gene == k:
+    #         save[0] += v
+    #         if save[0].count("\n") > limit:
+    #             warning = '''Network of %s is extensive, only the first %s entities that interact with %s will be displayed''' % (
+    #                 gene, limit, gene)
+    #             parts = save[0].split("\n", limit)
+    #             shorten = "\n".join(parts[:limit])
+    #             save[0] = shorten
+    #         break
 
-    messages = [{"role": "user", "content": save[0] + query}]
+    messages = [{"role": "user", "content": query}]
     output = openai.ChatCompletion.create(model="gpt-4", messages=messages)
-    output.choices[0].message.content
 
     # v = open('search.txt', 'w')
     # v.writelines(save)
