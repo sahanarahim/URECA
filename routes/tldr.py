@@ -64,8 +64,9 @@ def tldr_search():
                 shorten = "\n".join(parts[:limit])
                 save[0] = shorten
             break
-    print(query)
+    print("query")
     messages = [{"role": "user", "content": save[0]+query}]
+    print("messages", messages)
     output = openai.ChatCompletion.create(model="gpt-4", messages=messages)
     # v = open('search.txt', 'w')
     # v.writelines(save)
